@@ -1,0 +1,646 @@
+
+--- Page 1 ---
+ELECTRAZINE
+DEPARTMENT OF ELECTRICAL ENGINEERING, NIT AGARTALA
+Anagha Kari [Date] ELECTRAZINE
+
+--- Page 2 ---
+1
+NOTE FROM EDITOR:
+Dear Reader, Greetings to you.
+It is a pleasure that the ELECTRAZINE issue of this year is being published in time. To ensure uninterrupted
+publications of the magazine, the editorial board has been reformed including some really talented group
+of students in it. The present issue is the first product of the newly formed editorial board. All new essence,
+reflecting the new editorial board, can be felt to be omnipresent in this issue.
+In this issue of ELECTRAZINE, our students have put forward some amazing pieces of writing displaying
+their creative thinking and writing skills. It is indeed a lovely experience to view these enthusiastic and
+highly potential young minds voicing their feelings through their technical/non- technical write ups,
+poems, drawings and paintings. I would definitely like to convey my heartiest thanks to the entire editorial
+team for their hard work round the clock to make this edition come in life in time.
+I am confident that this magazine would find warm appreciation and welcome for all.
+Sumita Deb
+CO-EDITOR&DESIGNER: ANAGHA KARI (22UEE153)
+1
+
+--- Page 3 ---
+2
+What’s inside this edition?
+▪
+From HOD’S Desk
+•
+Technical Section
+• Hybrid Electrical Vehicles
+• Expert System in Electrical Engineering
+• Powering the Future
+• Small great ideas
+• Nanotechnology
+• Home Automation
+• Wireless Power Transfer
+• Internet of things (IOT)
+•
+Musing’s Section
+o
+Like The Changing Winds
+o
+My Father, Superhero
+o
+Humanity
+2
+
+--- Page 4 ---
+3
+FROM HOD’s DESK :
+The Department of Electrical Engineering was established at NIT
+Agartala (founded as Tripura Engineering College) in 1965.
+Over the last few decades, our graduates have been serving the
+society in key positions and made tremendous contributions to
+the development of India since its evolution from an industrial
+based to knowledge-based company.
+The field of Electrical Engineering encompasses many exciting
+technologies such as: Microelectronics, HV Transmission, Power
+Generation etc. which have been the fastest growing and most
+challenging technologies that enables the development of the
+modern informational society.
+Our department provides tremendous opportunities for cross-interaction in terms of both teaching and
+research. It has a wide range of research activities and has been accredited by NBA since past 2 years.
+Thus, I’m very glad in presenting ELECTRAZINE on the eve of X-mass and HAPPY NEW YEAR. In a subtle
+sense it is the celebration of joy and rejuvenates us to struggle harder in our lives. This magazine brings an
+opportunity to the students to present their individuality by showcasing their hidden talent and helps them
+to unleash their potential.
+I hope this magazine brings joy to readers.
+Dr.Priyanath Das,
+HOD, Electrical Department
+3
+
+--- Page 5 ---
+4
+TECHNICAL SECTION
+4
+
+--- Page 6 ---
+5
+HYBRID ELECTRIC VEHICLES.
+<New Delhi: Electric vehicles (EVs) may be the buzzword in the automobile industry, but strong hybrid cars
+— powered by a petrol or a diesel engine and an electric motor — are also attracting buyers, as seen by the
+rise in sales.=
+A worldwide problem today is environmental pollution, resulting in the greenhouse effect, therefore the
+appearance of eco-friendly cars is a great benefit to the environment. Technology has needed to evolve
+greatly to be able to power these automobiles over long distances and the process has not ended yet.
+In this run for evolution and efficiency, there are a lot of questions that still remain open and one of them is
+what happens at the end of the lifecycle of a battery and an electric motor. As the number of sold electric
+5
+
+--- Page 7 ---
+6
+cars will increase, the number of electric motors and battery waste will increase too thus leading to a greater
+impact on the environment. So, Hybrid Electric Vehicle is a great idea to decrease the usage and disposal of
+batteries in the vehicle.
+Any vehicle with two sources of power can be called a hybrid vehicle. Hybrid cars get their power from two
+sources, a gasoline engine and an electric motor. Hybrid cars are designed that in some cases both power
+sources are used simultaneously and in others the sources are used alternatively.
+For example, when a hybrid car runs at speeds below 5-10 km/h, e.g., when approaching or leaving a traffic
+junction, it runs only on the electric motor, which reduces the fuel consumption.
+<Consumers are seeing hybrids as a better option. The sales of strong hybrid and electric vehicles are almost
+similar& and this is when there are only 3-4 strong hybrid models in the market today. As more models
+come in, the consumption will also go up,= Shashank Srivastava, senior executive director (marketing and
+sales), Maruti Suzuki,
+Maruti Suzuki, which is the biggest car maker in the country, currently offers the Grand Vitara in a strong
+hybrid variant.
+India currently has three automobile manufacturers — Maruti Suzuki, Toyota Kirloskar Motor (TKM) and
+Honda Cars India — that have launched cars in the hybrid category and are expected to launch more models.
+Car buyers like hybrids because they can save on gas and cut their carbon footprint without having to deal
+with range anxiety or the need to charge at home.
+CONCLUSION:
+Concerns about the environment and rising costs of fossil fuels are driving automakers to design and
+build cleaner, more energy efficient vehicles, represented especially by hybrid and electric vehicles. This
+reduces the CO₂ emissions and other harmful emissions thus having a lower impact on the environment. The
+main drawback is the energy source: the batteries. Rare earth elements are available in limited quantities
+and expensive, therefore researchers are developing solutions for extracting as much as possible from
+discarded batteries. Unfortunately, none of the proposed solutions is used at an extensive level. Based on
+their potential, though, the time until they reach industry scale is not far away.
+BIPASHA CHAKRABORTY
+ELECTRICAL ENGINEERING
+3RD YEAR
+6
+
+--- Page 8 ---
+7
+Title: Powering the Future: Innovations in Electrical Engineering
+In a world increasingly reliant on technology, electrical engineering
+stands as a driving force behind innovation, shaping our lives in
+ways we often take for granted. From the ubiquitous smartphones in
+our pockets to the vast power grids that light up our cities, electrical
+engineering continues to redefine possibilities. In this article, we
+delve into a few cutting-edge advancements that are shaping the
+future of this dynamic field.
+1. Renewable Energy Integration: The global shift towards
+sustainability has thrust renewable energy sources into the
+spotlight. Electrical engineers are at the forefront of designing and
+optimizing systems that harness solar, wind, and hydroelectric
+power. Smart grids, capable of seamlessly integrating various
+energy sources, are reducing our carbon footprint and ensuring a
+reliable power supply.
+2. Smart Homes and IoT: The Internet of Things (IoT) has
+revolutionized how we interact with our surroundings. Electrical
+engineers play a crucial role in developing smart home systems that
+allow us to control appliances, lighting, security, and more, remotely
+or through voice commands. These systems enhance convenience,
+energy efficiency, and even home security.
+3. Wireless Power Transfer: Imagine a world where devices charge
+without needing to be plugged in. Wireless power transfer is a burgeoning field within electrical engineering
+that aims to achieve just that. From charging pads for smartphones to developing systems for electric vehicle
+charging without cables, engineers are paving the way for a cordless future.
+7
+
+--- Page 9 ---
+8
+4. Electrification of Transportation: With a growing focus on reducing emissions, electrical
+engineers are driving the transition from internal combustion engines to electric vehicles (EVs).
+From designing battery technology to optimizing charging infrastructure, they are instrumental in
+making EVs a viable and sustainable mode of transportation.
+5. Nanotechnology and Microelectronics: The relentless pursuit of miniaturization has led to
+breakthroughs in nanotechnology and microelectronics. Electrical engineers are creating smaller,
+faster, and more efficient electronic components, enabling the development of wearable devices,
+implantable medical sensors, and more.
+6. Power Electronics: Power electronics is a field that focuses on converting and controlling
+electrical power efficiently. This is crucial for devices like solar inverters, motor drives, and high-
+speed data communication systems. Engineers in this domain ensure that energy conversion is as
+efficient as possible, minimizing losses and maximizing output.
+7. Artificial Intelligence and Machine Learning: The synergy between electrical engineering and
+AI/ML is driving automation and optimization across industries. Engineers are developing
+algorithms to predict equipment failures, optimize power distribution, and enhance energy
+efficiency, thereby revolutionizing how we manage complex systems.
+8. Space Exploration and Satellite Technology: Electrical engineers are pivotal in space exploration,
+designing systems for communication, navigation, data collection, and propulsion. As space travel
+becomes more ambitious, engineers are pushing the boundaries of what&#39; s possible in terms
+of efficiency and reliability.
+In a world where progress is often defined by technological advancements, electrical engineering serves as a
+cornerstone of innovation. As these trends highlight, the field is not only evolving but also deeply
+interconnected with other disciplines. From sustainable energy solutions to smart living spaces, electrical
+engineers are shaping the way we live, work, and interact with our environment. The future of electrical
+engineering is undoubtedly electrifying, with limitless possibilities waiting to be explored and harnessed for
+the benefit of society.
+Nabajyoti Deb
+20UEE074
+8
+
+--- Page 10 ---
+9
+Small Great Ideas!
+Human minds are one of the simplest nature-made subject to observe and in
+the same time, complex to understand. Experiences and thinking process
+makes it so unique. Reaction and stimuli are two terms associated with
+experience&.it is like learning from past. As simple as first time we learn to
+walk (balanced ourselves against earth’s pulling force) or realized that ice
+melts into water and it makes clothes wet and simply enough we walked or
+carried umbrella. Ideas that evolve and grow big were just stupid and simple
+observations&. call it gravity, call it discovery of fire in the stone age, or a wheel rolling down a slope. The
+capability to think and synthesis thoughts to produce ideas and to express them separate us from other
+species. Ideas&. a thriving power, an unpopular artform, a trade material. In a world of infinite subjects and
+materials to work with and to access infinite ideas to scroll through our human mind often denies to think
+something new, discover something wild or experiment. That’s where we start questioning our value and
+purpose of our existence. A day when everything would be AI dependent IDEAS would be the only tool to
+distinguish us from robots. It needs a mind to think and a courageous heart to express. Dearest thinkers of
+the new world, there they wait for your ideas.
+Ananya Ray
+22UEE125
+9
+
+--- Page 11 ---
+10
+Nanotechnology: The Tiny Revolution Shaping
+Electronics
+Nanotechnology: It’s a big word that points to something
+incredibly small yet incredibly powerful. In the world of
+electronics, this tiny powerhouse is causing quite a buzz.
+Let’s take a journey into the realm of nanotechnology and its
+remarkable influence on the field of electrical engineering.
+The Power of Small: Miniaturization Redefined
+Electronics has always been about making things smaller and
+faster. Nanotechnology takes this mantra to the extreme. By
+manipulating materials on an atomic scale, scientists are crafting components that were once deemed
+impossible. Transistors, the building blocks of digital devices, have shrunk so tiny that thousands can fit on a
+single chip. This not only boosts processing power but also slashes energy consumption – a win for both
+performance and the environment.
+Tiny Yet Mighty: Enhancing Performance
+So, how does this tiny tech impact electronics?
+One word: efficiency. Think about your smartphone. It’s become your pocket-sized life manager, but it
+wouldn’t be half as efficient without nanotechnology.
+Engineers are using nanomaterials to create faster and more energy-efficient processors, allowing your
+phone to handle tasks at lightning speed while sipping on battery power.
+But the magic doesn’t stop there. Nanotechnology is also playing a pivotal role in improving the lifespan of
+electronics. You know that sinking feeling when your laptop battery gives up on you? Nanomaterials are
+helping to design batteries with extended lifetimes, making those frustrating moments less frequent.
+Now, let’s talk about something that’s music to every engineer’s ear: miniaturization.
+Remember those clunky computers from a decade ago?
+Today, we’ve got sleek and slender devices that fit snugly into our bags. Nanotechnology enables the
+creation of smaller and more efficient components, pushing the boundaries of what we thought was
+possible. Nanotechnology doesn’t stop at size and materials – it’s about enhancing performance. In
+electronics, heat is the enemy. Nanoscale thermal materials efficiently dissipate heat, preventing devices
+from turning into miniature ovens. Moreover, nanoelectromechanical systems (NEMS) are enabling sensors
+with unprecedented sensitivity. These advancements not only refine current devices but also pave the way
+for entirely new technologies. Sensors and transistors at the nanoscale are enhancing the sensitivity and
+accuracy of devices, allowing them to gather and process data with unprecedented precision. Imagine
+10
+
+--- Page 12 ---
+11
+medical devices that can detect diseases at an early stage or environmental sensors that monitor pollution
+levels down to the tiniest particle.
+The Road Ahead: Challenges and Possibilities
+Of course, with every leap forward, there are challenges to overcome. Nanotechnology isn’t without its
+hurdles. Engineers need to grapple with issues like heat dissipation in these ultra-small devices and ensuring
+their reliability over time. Moreover, the potential environmental and ethical implications of using
+nanomaterials need careful consideration. Manipulating matter at the nanoscale requires precision beyond
+imagination. Ensuring safety and ethical considerations are vital as we navigate this uncharted territory.
+However, the potential rewards are immense. Imagine wearable gadgets that seamlessly integrate with our
+lives, or solar panels that are as thin as paper yet incredibly efficient.
+In conclusion:
+Nanotechnology is no longer confined to the realm of science fiction; it’s shaping the present and future of
+electronics. From enhancing efficiency and lifespan to enabling miniaturization and boosting intelligence, its
+impact is profound. As electrical engineering enthusiasts, we’re witnessing a new era unfold, where the
+tiniest building blocks create the grandest innovations. So, let’s embrace the nanoscale revolution and keep
+our eyes peeled for the exciting breakthroughs it’s sure to bring.
+Sanjukta Banik
+20UEE082
+11
+
+--- Page 13 ---
+12
+Home Automation: The Future of Electrical Engineering
+Home automation is the use of interconnected devices and software to control aspects of a home, such as
+lighting, thermostats, and security systems. It is a rapidly growing field that is transforming the way we live
+and work.
+In the field of electrical engineering, home automation is being used to develop new and innovative
+solutions for a wide range of applications ,including:
+Comfort: Home automation can be used to create a more comfortable and convenient living environment.
+For example, you can use home automation to turn on the lights when you come home, adjust the
+thermostat to your desired temperature, or lock the doors when you leave.
+Security: Home automation can be used to improve the security of your home.
+For example, you can use home automation to arm your security system when you leave the house, or to
+receive alerts if someone enters your home when you are not there.
+Energy efficiency: Home automation can be used to save energy in your
+home. For example, you can use home automation to turn off lights when you leave a
+room, or to adjust the thermostat when you are asleep.
+Accessibility: Home automation can be used to make homes more accessible for
+people with disabilities. For example, you can use home automation to control lights, thermostats, and door
+locks with your voice or a button press.
+Home automation is a complex and challenging field, but it is also a very rewarding one. Electrical engineers
+who are interested in home automation will need to have a strong understanding of electrical, computer,
+and networking principles. They will also need to be creative and innovative in their approach to problem
+solving.
+The future of home automation is very bright. As the technology continues to develop, we can expect to see
+even more innovative applications in the years to come. Electrical engineers who are involved in home
+automation will be at the forefront of this transformation, and they will have the opportunity to make a real
+difference in the lives of people around the world.
+Here are some of the benefits of home automation:
+• Convenience: Home automation can make your life more convenient by
+automating tasks that you would normally do manually. For example, you can
+12
+
+--- Page 14 ---
+13
+use home automation to turn on the lights when you come home, adjust the thermostat to your desired
+temperature, or lock the doors when you leave.
+• Security: Home automation can improve the security of your home by monitoring and
+controlling access to your home. For example, you can use home automation to arm your security
+system when you leave the house, or to receive alerts if someone enters your home when you are
+not there.
+• Energy efficiency: Home automation can help you save energy by automatically turning off lights
+and appliances when they are not in use. For example, you can use home automation to turn off
+lights when you leave a room, or to adjust the thermostat when you are asleep.
+Accessibility: Home automation can make your home more accessible for people with disabilities by
+providing them with ways to control lights, thermostats, and other devices with their voice or a button press.
+If you are interested in home automation, there are a few things you can do to get started:
+Learn about the basics of home automation. There are many resources available online and in libraries
+that can teach you about the basics of home automation.
+Choose a home automation platform. There is many different home automation platforms available, each
+with its own strengths and weaknesses.
+Do some research to choose a platform that is right for you.
+Install home automation devices. Once you have chosen a home automation platform, you can start
+installing home automation devices. There are many different types of home automation devices available,
+such as smart lights, smart thermostats, and smart locks.
+Configure your home automation system. Once you have installed your home automation devices,
+you will need to configure your home automation system. This involves creating rules that tell your home
+automation system how to operate.
+Home automation is a complex and challenging field, but it is also a very rewarding one. Electrical engineers
+who are interested in home automation will need to have a strong understanding of electrical, computer,
+and networking principles. They will also need to be creative and innovative in their approach to problem
+solving.
+The future of home automation is very bright. As the technology continues to develop, we can expect to see
+even more innovative applications in the years to come. Electrical engineers who are involved in home
+automation will be at the forefront of this transformation, and they will have the opportunity to make a real
+difference in the lives of people around the world.
+Soham Sengupta
+20UEE077
+13
+
+--- Page 15 ---
+14
+14
+
+--- Page 16 ---
+15
+ireless Power Transfer: The Next Frontier in Charging Technology
+W
+In an era where technology is becoming increasingly integrated into
+our daily lives, the demand for more efficient and convenient
+charging solutions has grown exponentially. Enter wireless power
+transfer – a cutting-edge technology that promises to reshape the
+way we charge our devices and vehicles. Traditional charging methods require
+physical connections, whether plugging in a cord to charge a smartphone or connecting an electric vehicle
+to a charging station. While these methods have served us well, they come with limitations such as wear and
+tear on cables, the need for compatible ports, and the inconvenience of having to carry multiple chargers.
+Wireless power transfer, also known as wireless charging or inductive charging, seeks to eliminate these
+limitations by enabling the transmission of electrical energy without the need for direct physical contact.
+The technology relies on electromagnetic fields to transfer power from a transmitter to a receiver
+device. This concept is not entirely new; wireless charging has been around for decades ,but recent
+advancements have propelled it into the spotlight as the next frontier in charging technology.
+One of the primary advantages of wireless power transfer is convenience. Imagine being able to charge your
+smartphone by simply placing it on a charging pad, or topping up your electric vehicle&#39;s battery while
+parked over a charging pad embedded in the ground. This seamless experience could revolutionize the
+way we interact with our devices and vehicles, making charging a hassle-free and integrated part of our
+routines.
+Efficiency is another key aspect of wireless power transfer. While some energy is lost during the wireless
+transmission process ,modern technologies are striving to minimize these losses and optimize charging
+efficiency. This could lead to faster and more energy-efficient charging compared to traditional wired
+methods.
+Wireless power transfer has already started making its way into the consumer market. Many smartphone
+manufacturers now offer wireless charging capabilities, and electric vehicle manufacturers are
+incorporating wireless charging options for their models.
+Additionally, various industries are exploring wireless power transfer for applications beyond consumer
+electronics, such as medical devices and industrial machinery.
+However, there are challenges that need to be addressed before wireless power transfer becomes
+ubiquitous. Standardization of the technology, interoperability between different devices and systems ,and
+safety concerns related to electromagnetic fields are some of the issues that researchers and engineers are
+actively working to resolve.
+As we look to the future, the potential of wireless power transfer is vast. Imagine smart cities with
+charging infrastructure seamlessly embedded into roads and public spaces, enabling electric
+vehicles to charge as they drive. Consider the possibilities for remote and hard-to-reach locations,
+15
+
+--- Page 17 ---
+16
+where wireless power transfer could provide a lifeline for essential devices. The integration of
+renewable energy sources, such as solar panels, with wireless power transfer could also lead to more
+sustainable and eco-friendly charging solutions.
+In conclusion, wireless power transfer is poised to be the next frontier in charging technology, offering
+unparalleled convenience and efficiency. While challenges remain, the strides being made in research and
+development indicate a promising future where we can bid farewell to tangled cords and embrace a world
+where charging is as effortless as placing a device down. As this technology continues to evolve, we can
+anticipate a new era of connectivity and power delivery that transforms the way we live and interact with
+technology.
+Nikita Das
+20UEE036
+16
+
+--- Page 18 ---
+17
+Internet of Things (IoT) in Electrical Engineering
+The Internet of Things (IoT) is a rapidly growing technology that is transforming the way we live and work. In
+the field of electrical engineering, IoT is being used to develop new and innovative solutions for a wide range
+of applications, including:
+Smart grids: IoT-enabled smart grids can collect data from sensors on power lines and other equipment to
+monitor and optimize the power grid. This can help to improve efficiency, reliability, and security.
+Smart metering: IoT-enabled smart meters can collect data on energy consumption in real time. This data
+can be used by consumers to track their energy usage and make informed decisions about how to conserve
+energy.
+Home automation: IoT-enabled devices can be used to automate tasks in the home, such as turning on
+lights, adjusting thermostats, and locking doors. This can make homes more comfortable, secure, and energy
+efficient.
+Industry 4.0: IoT is being used in Industry 4.0 to connect machines, sensors, and other devices in factories.
+This data can be used to improve efficiency, productivity, and quality control.
+17
+
+--- Page 19 ---
+18
+Transportation: IoT is being used to develop connected cars, intelligent transportation systems, and
+autonomous vehicles. This technology can help to improve traffic flow, reduce accidents, and make
+transportation more efficient.
+These are just a few of the many ways that IoT is being used in electrical engineering.
+As the technology continues to develop, we can expect to see even more innovative applications in the years
+to come.
+Why is IoT important for electrical engineering students?
+IoT is a rapidly growing field with a wide range of applications. Electrical engineering students who have
+knowledge of IoT will be well-positioned for careers in a variety of industries, including:
+Power utilities
+Energy efficiency
+Home automation
+Industry 4.0
+Transportation
+Healthcare
+Retail
+Manufacturing
+In addition to the technical skills required for electrical engineering, IoT also requires skills in data science,
+cloud computing, and cybersecurity. Electrical engineering students who have a strong foundation in these
+skills will be even more valuable to employers.
+Conclusion:
+The Internet of Things is a transformative technology that is having a major impact on the field of electrical
+engineering. Electrical engineering students who have knowledge of IoT will be well-positioned for careers in
+a variety of industries. If you are interested in a career in electrical engineering, I encourage you to learn
+more about IoT. It is a technology that is sure to have a bright future.
+Soham Sengupta
+20UEE077
+18
+
+--- Page 20 ---
+19
+CARBON TAXATION ANS IT’S IMPACT ON ECONOMIC SECTOR
+The post world war is regarded as the Golden period of Economic development due to its rise in prosperity,
+economic value etc while it is true that USA and North America were the major benefiters in this era it is no
+secret that the rest of the nation had received their fair share of financial growth. The main source of income
+was due to oil and automobile production. Maybe that’s why the interval from 1901 to 1973 was also coined
+as the Age of machinery, at least that’s what it was until the oil crisis in 1973. The mass production of newly
+booming automobiles, functioned with the help of fossil fuels such as coal, gas and oil. These fuels which
+were priorly used for domestic and household purposes had found their way to global market. They became
+a medium between the nations to mutually trade the resources and form a pact. While this nexus between
+resources and technology evidently powered up financial sector. Is that the only thing this amazing
+technology offered? What came next was the catastrophe that no one had imagined. It was just the calm
+before the storm.
+These fossil fuels give carbon dioxide gas on burning, imprudent usage of these non-renewable resources
+hiked up the concentration of Co2 and other greenhouse gases in atmosphere leading to deleterious after
+effects such as warming up of earth, depletion of ozone layer etc. You might ponder that the only blowback
+is the noxious impact on biological living beings and eco-system. Well, you know what? There is more to
+beneath the walls of nature destruction.
+Have you heard of the Oil Crisis in 1973? The 1973 oil crisis was a major energy shortage triggered by the
+Arab members of OPEC (Organization of Petroleum Exporting Countries) imposing an oil embargo on
+Western countries, including the United States in response to their support for Israel during the Yom Kippur
+War. This led to a sharp increase in oil prices, long lines at gas stations etc going down in history as the
+biggest economic shock. The deeper we dive into this, the more we realise that the bottom line of all this
+issue concerns with the very fact that we are heavily dependent on other nations.
+To be a self-sufficient nation is almost impractical in current day’s scenario but to be minimize dependency
+on others is one factor to become an empowered nation. Since fossil fuels are not evenly distributed its
+only obvious that one nation would have upper hand the over other as an exporter, while it is true that this
+exchange in commodities may pave path for under developed or developing nation to build connections
+across the world. We must not forget that a sudden cut in supply can affect the whole chain.
+To cope up with this we have come up with the idea of renewable energy sources such as sunlight, wind,
+geothermal, hydropower energy etc. which are continuously replenished and create far low emissions.
+Additionally implementing geological survey throughout the country’s landmass and allocating technologies
+19
+
+--- Page 21 ---
+20
+based on potential renewable resources available addresses the key concern of climate crisis and self-
+sustainability.
+Then what is the first step to achieve a self-sufficiency?
+It is to eliminate all the primary and auxiliary industries related to fossil fuels and power generation to
+ensure that no fossil fuel is used.
+The Carbon Taxation Policy now enters the picture.
+A carbon tax is a policy that would set a fixed price per ton of carbon or carbon dioxide emitted, with a goal
+of incentivizing lower carbon emissions.
+The tax to be paid is directly proportional to the carbon content in the goods, making both consumers and
+firm liable for less carbon emissions. Mainly based on polluter will pay principle this could be a better
+approach to search for more efficient and pollution less routes.
+Successful Implementation of the policy: Here are some of the successful examples of the policy.
+UK – coal use fell sharply after introduction of a carbon tax of around $25 per ton in 2013. In the UK
+greenhouse gas emissions have fallen to lowest level since 1890
+British Colombia (a province of Canada) introduced a scheme in 2008 to charge a levy on carbon from 2008
+and 2012 the fossil fuel consumption decreased by more than 17%.
+This seems like a perfect solution for both climate crisis and economy, right?
+But, like every coin has two sides, even carbo taxation has both positive and negative effects. Let’s explore
+these dual impacts in more detail:
+How Carbon Taxation creates positive impact on Corporate Sector:
+• Consumer and Investor Expectations: Companies that proactively reduce their carbon footprint
+may be seen as more morally responsible in society.
+• Global Competition: The impact of carbon taxation can vary among businesses within the same
+industry. Companies that are more efficient and less carbon-intensive may gain a competitive
+advantage
+• Government Incentives: Governments may provide incentives and subsidies for companies that
+invest in clean technologies or adopt more sustainable practices.
+Negative Role of Carbon Taxation in Economy
+• Reducing Efficacy: The administration process of these taxes is quite expensive making it only viable
+to only developed countries and few areas of developing countries and reducing its efficacy.
+• Resource Re-allocation: While the motto for firms was to come up with a better solution, it has
+been seen that the Production may shift to countries with no or lower carbon taxes giving
+20
+
+--- Page 22 ---
+21
+developing countries an incentive to encourage production processes causing pollution i.e.,
+Outsourcing of pollution.
+• Possibility of tax evasion: Higher taxes may encourage firms to hide carbon emissions prevailing to
+corrupted society.
+• Hindering Development: A global carbon tax may curtail economic activity in the poor developing
+world because they can’t afford the small increase in energy costs.
+• Job Displacement: In industries heavily reliant on carbon-intensive processes, efforts to reduce
+emissions may lead to job displacement, as certain jobs become obsolete due to the transition to
+cleaner technologies.
+If we consider the overall economic model, we find out that in various instances this taxation gives
+simultaneous gains and losses such as introducing carbon taxation includes cut in other taxes such
+as corporate income taxes, personal income taxes and labour income increasing the incentive to
+save and invest, thus promoting capital accumulation and human capital. In either case, the result is
+an increase in the productive capacity of the economy. However, shifting the taxes onto carbon
+reduces the overall efficiency of the tax system a bit (ignoring environmental benefits) and thus
+slightly reduces the economic activity.
+From a pure revenue-based point of view carbon taxes are broader in respect to taxpayers
+opposite to the traditional taxes.
+Let us break this down.
+Carbon taxation is easier to avoid by shifting to cleaner fuels, driving less etc. serving the purpose of
+climate crisis but failing to raise the revenue. On calculating both the pro and con’s it is observed
+that the net reduction in GDP is tiny. Moreover, the revenue from the carbon tax can be used to
+promote economic activity and mitigate future economic damages from climate change.
+Conclusion: Carbon taxation is a practical and effective policy tool that can address environmental
+challenges and promote economic welfare. However, its implementation requires thorough
+consideration of circumstances and goals of each country. By designing and executing properly, it
+can play a pivotal role in the transition to a sustainable and low-carbon economy.
+By Anagha Kari
+22UEE153
+21
+
+--- Page 23 ---
+22
+LITERARY SECTION
+22
+
+--- Page 24 ---
+23
+Like The Changing Winds
+Every evening, the boy would come to see me.
+The god of biscuits and the bringer of sunshine and warmth,
+He’d spend the next 10 minutes with me and then disappear past the brown
+bungalows only to return the next day.
+That was 2 summers ago, the boy now a man, no longer the carrier of sunshine but
+the reminder of a dear friend lost to the whims of time.
+Like the clouds that abandon the desert, I still see him past the bungalows, but there
+is no warmth anymore, my sunshine has turned into a lonely, forgotten winter.
+- Chaitanya Raj
+21UEE071
+23
+
+--- Page 25 ---
+24
+My Father, A Super Hero
+My little childish hands you hold,
+Right path of I you told,
+You are the best person of this World!
+Your all advices worked brave and bold.
+When I am nervous, Your advices are there,
+When I am weak, you removed my fear,
+when I was childish you took my care,
+When I was sad, You cleaned my tears.
+Finally my I you praised,
+My wonderful future you raised,
+For making me happy, you took pain,
+Thank you my world, my dream I gain.
+24
+
+--- Page 26 ---
+25
+Humanity
+Pain in this world is so deep,
+Truth & Humanity are going cleve,
+Little truth is left in this world,
+But promises, not the sordid keep.
+The most endangered species of this world is a True man,
+And continuously going down the number they stand,
+Save the true ones because its job which only you can,
+Be still a humanity lover and I am their prominent fan.
+-Upendra Kant Singh
+20UEE011
+25
+
+--- Page 27 ---
+26
+STUDENTS ACHEIVEMENTS CORNER
+Not only have our students excelled in their academic pursuits, but they have also excelled in other
+areas such IT Sector, Management, and government sectors. Their future chances in this vital and
+dynamic profession have improved as a result of their hard work and dedication. With their drive
+and fervour, they not only succeeded in landing prestigious jobs like those at Google, but also
+managed to gain admission to renowned universities in both India and abroad.
+Here are some of our significant mentions for students who have been accepted to a variety of
+programs, including master’s, diploma, and other courses, at reputable institutions and
+international universities.
+S.no Name of the student Course Institute
+1 Labani Das PGDIM NITIE
+2 Debadipta Das PGM IIM Indore
+26
+
+--- Page 28 ---
+27
+3 Punit PGDIE NITIE
+4 Debatirtha Das Master IOWA state University
+5 Sowmyadeep Das Physics King’s College London
+M.Sc
+6 Dipayan Karamakar Masters University of South California
+7 Sahaj Masters Cal State East bay
+8 Sobiya Maninaram Graduate Purdue University
+9 Tharun Sai Erukulla PG ISB
+10 Nayak Harshit Masters Polit
+BARC Training : BARC, or the Bhabha Atomic Research Centre, is a premier research institution in
+India primarily focused on nuclear science and technology. These training programs are designed to
+educate and develop professionals and scientists for the nuclear industry. Students selected for
+training at BARC (Bhabha Atomic Research Centre) undergo a rigorous and competitive selection
+process. These candidates are typically among the best and brightest in the country, We are very
+happy to announce that our students have bagged their admission in BARC Training school making
+us proud.
+We are thrilled to report that our pupils have been accepted into the BARC Training School, making
+us proud.
+S.no Application number Candidates full name
+1 21EE200611 Arkabrata Dattaroy
+2 21UEE200509 Satyam Jha
+3 21UEE201890 Anurendra Singh
+4 21UEE201480 Kurre Jai Sai Kiran Reddy
+5 21UEE200612 Obaid Siddiqui
+6 21UEE200710 Sudipta Pany
+Cheers to all the students who are pursuing their passions and giving society a promising future !
+27

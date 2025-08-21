@@ -1,0 +1,4010 @@
+
+--- Page 1 ---
+Mechanical Engineering Department
+
+ 
+
+Third Semester (Syllabus)
+
+
+--- Page 2 ---
+CODE SUBJECT NAME L-T-P CREDIT
+UME03B07 Basic Engineering Thermodynamics 3-0-0 03
+UME03B08 Engineering Materials 3-0-0 03
+UME03B09 Fluid Mechanics-I 3-0-0 03
+UME03C14 Mathematics-III 3-0-0 03
+UME03C15 Applied Electrical and Electronics Engineering 3-0-0 03
+UME03B10 Strength of Materials 3-0-0 03
+LABORATORIES
+UME03P14 M.E Lab-I(Applied Mechanics Lab) 0-0-2 01
+UME03P15 M.E Lab-I(Strength of Materials Lab) 0-0-2 01
+UME03P19 Applied Electrical &Electronics lab 0-0-2 01
+UME03P16 M.E Lab-II(Machine Drawing Lab) 0-0-2 01
+UME03P17 M.E Lab-II(Material Science Lab) 0-0-2 01
+UME03P20 Professional Ethics 0-0-2 01
+24
+TOTAL CREDIT 18-0-12
+Mechanical Engineering (Third Semester)
+
+--- Page 3 ---
+BASIC ENGINEERING THERMODYNAMICS:
+Course Credit-03 Marks(Weightage)
+Name Basic Engineering
+L T P Mid End Internal
+Thermodynamics
+Code UME03B07 3 0 0 30 50 20
+Unit 1: Basic Concepts and First Law of Thermodynamics
+Macroscopic and Microscopic Approach; Continuum Theory; Thermodynamic System, Control Volume; Properties,
+State and Equilibrium, Processes, Cycles, Path Function and Point Function; Temperature and Zeroth Law of
+Thermodynamics; Forms of Energy, Energy Transfer Mechanism; First Law of Thermodynamics; Energy Balance of
+Closed and Open System; Work Transfer; Boundary work; Free expansion; Conservation of Mass; Flow Work; Energy
+Analysis of Steady-Flow Systems and Devices – Nozzle, Diffuser, Compressor, Pump, Turbine, Throttling
+Valve, Mixing Chamber, Heat Exchanger; Energy Analysis of Unsteady-Flow Systems; Internal Energy, Enthalpy, and
+Specific Heats of Ideal Gases; Specific Heat Relations of Ideal Gases; Internal Energy, Enthalpy, and Specific Heat of
+Solids and Liquids; Internal Energy Changes; Enthalpy Changes; PMM1; Limitations of First Law of Thermodynamics.
+Unit 2: Second Law of Thermodynamics
+Thermal Energy Reservoirs; Reversible and irreversible processes; Heat engine and Kelvin– Planck Statement;
+Refrigerator and Heat Pumps and Clausius Statement; Carnot Cycle; Carnot Theorem and Corollaries; Thermodynamic
+Temperature Scale; Carnot Heat Engine, Carnot Refrigerator, and Carnot Heat Pump; Quality of energy, PMM-II.
+Unit 3: Entropy
+Clausius’ Theorem; Inequality of Clausius; Principle of increase of entropy and its application; Entropy and its
+significance; Tds relations; Entropy change in solid, liquid, and gases; Reversible
+Steady flow work; Isentropic efficiencies; Compressor work; Statement of the Third law of Thermodynamics.
+Unit 4: Exergy
+Exergy, Reversible work and irreversibility; Second Law Efficiency; Flow and non-flow exergy; Exergy Transfer;
+Decrease of Exergy Principle and Exergy Destruction; Exergy Balance.
+Unit 5: Properties of Pure Substances and Their Relations
+Pure substances; Phase Change States and Processes; Triple point, Critical point; Property Diagrams; Steam Tables;
+Charts and Tables of Thermodynamic Properties; Dryness Fraction of liquid-vapor mixtures; Behavior of Ideal and Real
+gases; Compressibility Factor; Maxwell Relations; Clapeyron Equation; Internal Energy, Entropy, Enthalpy, Specific
+Heat Changes; Mayer Relation; Joule-Thomson Coefficient.
+Text Books:
+1. P.K. Nag, Engineering Thermodynamics, Tata McGraw-Hill.
+2. Y.A. Cengal, and M.A. Boles, Thermodynamics: An Engineering Approach, McGraw Hill.
+Reference Books:
+1. C. Borgnakke & R.E. Sonntag, Fundamentals of Thermodynamics, Wiley.
+2. M.J. Moran, H.N. Shapiro, D.D. Boettner, M.B. Bailey, Fundamentals of Engineering Thermodynamics, Wileyces:
+Mechanical Engineering (Third Semester)
+
+--- Page 4 ---
+Course outcome (Basic Engineering Thermodynamics)
+CO-No. Course outcome
+Understand the basic principles of first law of thermodynamics and know how energy transfer
+UME03B07.1 takes place
+Understand the basic principles of second law of thermodynamics and quality of energy
+UME03B07.2
+Explain the concepts of entropy and its presence in processes and cycles
+UME03B07.3
+Gain the knowledge to use exergy in real-world engineering applications
+UME03B07.4
+Explain the phase change processes and calculate the properties of pure substances
+UME03B07.5
+Understand the interrelation between the thermodynamics functions and properties
+UME03B07.6
+Mapping of Course outcomes
+POs PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03B07 Basic Engineering Thermodynamics
+UME03B07.1
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+UME03B07.2
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+UME03B07.3
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+UME03B07.4
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+UME03B07.5
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+UME03B07.6
+3 2 2 2 -- -- -- -- -- -- -- -- 3 2
+Mechanical Engineering (Third Semester)
+
+--- Page 5 ---
+ENGINEERING MATERIALS
+Course Credit-03 Marks(Weightage)
+Name Engineering Materials L T P Mid End Internal
+Code UME03B08 3 0 0 30 50 20
+Structure of Materials: Crystalline structure of solids; Concept of unit cell and space lattice; Miller indices;
+Crystal structure determination by X-ray diffraction, optical method, Crystal structure of ferrous and non-
+ferrous metals; Crystal imperfection
+Plastic Deformation: Mechanism of plastic deformation; Role of dislocation; Slip and Twinning; Strain
+hardening and re crystallization; Elementary cause and treatment of creep fatigue and fracture
+Phase Diagram: Phase and Phase equilibrium; solidification of pure metals and alloys; Phase diagrams;
+Eutectic, eutectoid; Peritectic and peritectoid systems; Allotropy of iron and Fe-C diagrams.
+Heat Treatment Introduction and purpose of heat treatment; T-T-T curve and micro constituents in steel heat
+treatment process like hardening, tempering, normalizing, annealing; Electrical, magnetic and optical
+properties of materials; Surface treatment processes.
+Engineering Materials: Ferrous ;Pig iron ,Blast furnace, Cast iron, Cupola, steel, steel making process,
+Carbon and alloy steel and their coding; Nonferrous; Aluminum; Copper Nickel; Chromium; Zinc; Lead; Tin;
+Tungsten etc. and their alloys .Classification; Structure; General properties and application of polymers,
+Ceramics and composites.
+Text Book:
+1. W. D. Callister, Jr: Materials Science and Engineering- An Introduction, John Wiley and Sons, N.Y,
+1985.
+Reference Books:
+1. V. Raghavan, Materials Science and Engineering 4ed., Prentice Hall, 1999
+2. G. E. Dieter, Mechanical Metallurgy, Mc-Graw Hill, 1987
+3. William F. Smith, Materials Science and Engineering, Tata Mc-Graw Hill
+4. S. H. Avner, Introduction of Physical Metallurgy, Mc-Graw Hill, 1987
+Mechanical Engineering (Third Semester)
+
+--- Page 6 ---
+Course outcome (Engineering Materials)
+CO-No. Course outcome
+Illustrate the various methods of determining crystal structure in ferrous and non ferrous
+UME03B08.1
+metals
+Enumerate the principles of deformation and fracture mechanisms.
+UME03B08.2
+Construct the phase diagrams for the Iron- Carbon system and also for any given alloy
+UME03B08.3
+systems, interpret the various micro constituents of iron and its alloys.
+Appraise various methods of Heat treatment process and also illustrate the effects of cooling
+UME03B08.4
+on phase transformation in iron based alloy systems.
+Analyze the effects of alloying elements on the properties of ferrous Materials. and
+UME03B08.5
+nonferrous metallic materials.
+Compare the properties of metallic, nonmetallic and composite materials and also
+UME03B08.6 recommend suitable materials for a particular engineering application by doing adequate
+literature survey.
+Mapping of course outcomes
+POs PO-1 PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03B08 Engineering Materials
+3 3 2 2 1 1 1 2 1 1 1 -- 3 2
+UME03B08.1
+3 3 2 2 1 1 1 2 3 1 1 -- 3 2
+UME03B08.2
+3 3 2 2 1 1 1 2 3 1 1 -- 3 2
+UME03B08.3
+3 3 2 2 1 2 1 1 1 1 1 -- 3 2
+UME03B08.4
+3 3 2 2 1 2 1 1 1 3 3 -- 3 2
+UME03B08.5
+3 3 2 2 1 2 1 1 1 1 1 1 3 2
+UME03B08.6
+Mechanical Engineering (Third Semester)
+
+--- Page 7 ---
+FLUID MECHANICS-I
+Course Credit-03 Marks(Weightage)
+Name Fluid Mechanics-I L T P Mid End Internal
+Code UME03B09 3 0 0 30 50 20
+Properties of fluid, pressure and it’s measurement: Mass and weight density, specific gravity, specific
+volume, viscosity and Newton’s law of viscosity, Compressibility, Types of fluid, surface tension and
+capillarity. Fluid pressure at a point and Pascal’s law, absolute, gauge and vacuum pressures, pressure
+variation in a fluid at rest, pressure measurement-Manometers and Mechanical Gauges
+Hydrostatics, buoyancy and flotation: Total pressure and centre of pressure for horizontal, vertical, inclined
+plane surfaces and curved surfaces submerged in liquid. Total pressure and center of pressure on lock gates.
+Buoyancy, center of buoyancy, Meta centre and metacentric height and equilibrium of floating bodies, period
+of oscillation
+Kinematics of flow: Kinematics of flow: Types of fluid flow, continuity equation in three dimensions,
+velocity potential function and stream function, forced and free vortex flow
+Dynamics of flow: Euler’s equation and Bernoulli’s equation, application of Bernoulli’s equation
+Venturimeter, orifice-meter and Pitot tube.
+Orifice and notches: Flow through orifices, hydraulic coefficients, time of emptying hemispherical and
+horizontal cylindrical tank through an orifice at its bottom. Discharge over rectangular, triangular and
+trapezoidal notches, velocity of approach
+Laminar flow and turbulent flow: Flow of viscous fluid through circular pipe-velocity distribution and
+average velocity, Hagen-Poiseiulle formula, Kinetic energy correction and Momentum Correction factors,
+Navier-Stokes equation of motion. Reynold’s experiment, Loss of head due to friction in pipes, Reynold’s
+expression and Prandtl mixing length theory for turbulent shear stress.
+Text Books:
+1. Bansal, R. K., “Fluid Mechanics & Hydraulic Machines”, Laxmi Publications.
+2. Cengel, Y. A., “Fluid Mechanics: Fundamentals & Applications (SI Units)”, Tata McGraw- Hill
+Publications.
+3. Jain, A. K., “Fluid Mechanics”, Khanna Publishers.
+4. Rajput, R. K., “Fluid Mechanics & Hydraulic Machines, S. Chand Publications.
+Reference Books:
+1. S. K. Som, G. Biswas, S. Chakraborty, “Introduction to Fluid Mechanics and Fluid Machines”
+2. Streeter, V. L. ,Wylie, E. Benjamin , Fluid Mechanics, McGraw-Hill, London, 199
+3. Shames, I. H., Mecahnics of Fluids, McGraw Hill, New York, 1992
+Mechanical Engineering (Third Semester)
+
+--- Page 8 ---
+Course outcome (Fluid Mechanics-I)
+CO-No. Course outcome
+Understand the basic principles of fluid mechanics and its applications.
+UME03B09.1
+Develop methods and techniques for describing and specifying the fluids in rest as
+UME03B09.2
+well as in motion.
+Know about different kinds of flows and governing equation.
+UME03B09.3
+Know the relation between thermodynamics and fluid mechanics.
+UME03B09.4
+Gain the knowledge to use such relationship to solve the real-world engineering
+UME03B09.5
+problems.
+Understand the most complex problems, formulate them and interpret the results.
+UME03B09.6
+Mapping of course outcomes
+POs PO -1 PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PSO - PSO -
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03B09
+Fluid Mechanics-I
+UME03B09.1
+3 2 3 - - - - - - - - - 2 3
+UME03B09.2
+- 3 3 - - - - - - - 2 - 3 2
+UME03B09.3
+3 - 3 - - - - - - - - - - 2
+UME03B09.4
+3 2 3 - - - - - 2 - 2 - 2 2
+UME03B09.5
+- 3 2 3 - - 2 - - - - - 2 3
+UME03B09.6
+3 3 3 3 - - - - - - - - 2 3
+Mechanical Engineering (Third Semester)
+
+--- Page 9 ---
+MATHEMATICS III
+Course Credit-03 Marks(Weightage)
+Name Mathematics-III L T P Mid End Internal
+Code UME03C14 3 0 0 30 50 20
+Probability and Random Variable: Axioms of probability, Conditional probability, Independent events,
+Baye’s Theorem, Random variables, Probability mass function, Probability density function - properties,
+Moments, Moment generating functions and their properties
+Standard Distributions: Binomial, Poisson Normal distribution and their properties, function of random
+variables.
+Two-dimensional random variables: Joint distribution, Marginal and conditional distribution, covariance,
+correlation and regression, Transformation of random variables, Central limit theorem.
+Testing of hypothesis: Sampling distribution, Testing of hypothesis of mean, variance, proportion and
+differences using Normal, t and Chi-square.
+Fourier series: Periodic functions, Fourier series, Dirichlet’s conditions, function defined in two or more
+sub-ranges, discontinuous functions, even function, odd function, half range series, change of interval.
+Partial Differential Equations: Order, Method of forming Partial Differential Equations, Solution of
+Equation by Direct Integration, Lagrange’s Linear equation, Method of Multipliers, Partial Differential
+equations non-linear in p,q, Charpits Method, Linear Homogeneous Partial Differential equation, Non-
+Homogeneous Linear Equations, Method of Separation of variables, Equation of vibrating string, Solution of
+wave equation by D Alembert’s method, One dimensional heat flow, Two dimensional Heat flow.
+Mechanical Engineering (Third Semester)
+
+--- Page 10 ---
+Course outcome (Mathematics-III)
+CO-No. Course outcome
+Understand the basic concepts of probability, random variables, probability distribution, and
+UME03C14.1
+moments and moment generating functions.
+Define the basic discrete and continuous distributions such as normal, binomial, Poisson, and
+UME03C14.2
+make be able to apply them and simulate them in simple cases.
+Explain the concepts of two dimensional random variable, independence, jointly distributed
+random variables and conditional distributions, and use generating functions to establish the
+UME03C14.3
+distribution of linear combinations of independent random variables. Also State the central
+limit theorem, and apply it.
+Explain the concepts of random sampling, statistical inference and sampling distribution, and
+UME03C14.4 state and use basic sampling distributions. Hypothesis testing and its application in real life
+problems.
+Find the Fourier series representation of a function of one variable, and find the solution of
+UME03C14.5
+the wave, diffusion and Laplace equations using the Fourier series.
+Students familiarize with the fundamental concepts of Partial Differential Equations (PDE)
+which will be used as background knowledge for the understanding of specialized courses in
+UME03C14.6
+Engineering. Students will master how solutions of PDEs are determined by conditions at the
+boundary of the spatial domain and initial conditions at time zero
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs PO-1
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03C14 Mathematics-III
+UME03C14.1
+3 - - - - - - - - - - - - -
+UME03C14.2
+3 - - - - - - - - - - - 2 -
+UME03C14.3
+- - 2 - - - - - - - - - 3 -
+UME03C14.4
+3 - - - - - - - - - - - - -
+UME03C14.5
+- 2 - - - - - - - - - - - -
+UME03C14.6
+- 3 - - - - - - - 2 - 2 - -
+Mechanical Engineering (Third Semester)
+
+--- Page 11 ---
+APPLIED ELECTRICAL AND ELECTRONICS ENGINEERING
+Course Credit-03 Marks(Weightage)
+Applied Electrical and
+Name Electronics Engineering L T P Mid End Internal
+Code UME03C15 3 0 0 30 50 20
+Asynchronous Machines: Three phase induction motor-Principle of operation Cage and Slip ring rotors.
+Torque-Slip Characteristics-Equivalent circuit-Starting and speed control. Single phase induction motor
+Types-Applications-Universal Motor.
+Selection of Drives : Electric drives-Individual and group drives- Factors governing selection of drives
+Motors for domestic uses. Cranes, Lifts, General Factory, Textile Mill, Paper Mill, Mining Work, Cement
+Mill, Machine tools, Belt Conveyors, Ships, Refrigeration and Air conditioning. Amplifier Circuits-RC
+Coupled, Transformer coupled; direct coupled; Differential Amplifiers Inverting and Non-inverting
+amplifiers; Differentiator- Multiplier-Divider, Comparator; VI and IV converter.
+Digital Circuits : D/A and A/D-Types; Sample and Hold Circuit-Multiplexers, De multiplexers, Decoder
+and Encoders. Practice on RC Coupled amplifier, OP Amp, Multiplexers and De-multiplexers, SCR and
+Applications, Power supply and regulator.
+Text Books:
+• Digital Design by Morris Mano
+• Electronic Principles -Albert Malvino and David Bates
+• Electric Machinery Fundamentals by Stephen Chapman.
+• Fundamentals of Electrical Drives by G. K. Dubey,
+Reference Books:
+• Modern Digital Fundamentals by Floyd
+• Digital Electronics, By R. P. Jain
+• Microelectronics Ckt - Sedra & Smith
+• Electric Drives N.K. De and P.K. Sen.
+• Electric Drives: Concepts And Applications by Vedam Subrahmanyam
+• Electrical Machine Design by A.K. Sawhney
+Mechanical Engineering (Third Semester)
+
+--- Page 12 ---
+Course outcome (Applied Electrical and Electronics Engineering)
+CO-No. Course outcome
+To equip the students with the knowledge of the construction, principle, types, applications and
+performance characteristics of Single Phase and Three Phase Induction motor. Construction and
+UME03C15.1
+application of Universal Motor.
+To learn how to select of various types of Drives and their application in industries.
+UME03C15.2
+To understand various types of amplifier and there characteristics and applications.
+UME03C15.3
+To analyse Converter circuits, operational amplifier basics and design of various circuits by using op
+UME03C15.4 amp.
+Introduction of MUX, DMUX, Encoder, Decoder circuits and various implementations and design by
+using these circuits To develop an understanding for analysis and design of various combinational
+UME03C15.5
+circuits.
+Introduction to SCR and its application in power supply and regulators
+UME03C15.6
+-Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03C15 Applied Electrical and Electronics Engineering
+UME03C15.1
+3 3 3 2 - - - - - - - 2 3 3
+UME03C15.2
+3 3 3 3 - - - - - - - 2 3 3
+UME03C15.3
+3 3 2 1 - - - - - - - - 1 2
+UME03C15.4
+3 3 3 1 - - - - - - - 1 2 3
+UME03C15.5
+3 3 2 1 - - - - - - - - 1 1
+UME03C15.6
+3 3 2 1 - - - - - - - 1 2 2
+Mechanical Engineering (Third Semester)
+
+--- Page 13 ---
+STRENGTH OF MATERIALS
+Course Credit-03 Marks(Weightage)
+Name Strength of Materials L T P Mid End Internal
+Code UME03B10 3 0 0 30 50 20
+Simple stresses and strains : Stress, strain, types of stresses, elastic limit, Hook’s law, Analysis of bars of
+varying sections, law of superposition, composite bar, thermal stress, thermal stresses in composite bars,
+elongation of bar due to its own weight, stress-strain diagram. Concept of strain, normal and shear strain, two
+dimensional states of strain, Poisson’s ratio, volumetric strain, strain circle. Relation between various elastic
+constants.
+Mechanical Properties : Uniaxial tension test to determine yield and ultimate strength of materials, stress-
+strain diagram, proof stress, ductile and brittle materials, hardness and impact strength; Conditions affecting
+mechanical behavior of engineering materials.
+Principle stresses and strain: Introduction, Principle planes and principle stresses, methods for determining
+stresses on oblique section, Analytical method, Graphical method, Mohr’s circle, Use of Mohr’s circle to find
+Principle stresses.
+Shear force and bending moment: Introduction, different types of beams and loads, S.F & BM diagram for a
+cantilever, uniformly distributed load, simply supported beam for various types of loading, relation between
+load, shear force and bending moment diagram.
+Theory of pure bending: Expression of Bending stress, Neutral Axis and Moment of Resistance, Bending
+stress in symmetrical sections, Section modulus.
+Deflection of Beam: Deflection of beams-- Moment-Area methods, Macaulay’s method, Double Integral
+method.
+Torsion of shafts: Introduction, Basic assumptions, Derivation of shear stress produced in a circular shaft
+subjected to torsion, Max. Torque transmitted by a circular and hollow circular shaft. Polar modulus, strength
+of a shaft and torsional rigidity, composite shafts, combined bending and torsion. Strength of a shaft of varying
+cross section.
+Column and Struts: Introduction, Failure of columns, Euler’s column theory, End conditions of columns,
+crippling load.
+Thin and Thick cylinder: Introduction, Thin cylindrical vessel subjected to internal pressure, expression for
+circumferential and longitudinal stress in thin cylinder, stresses in thick cylindrical shells, stresses in
+compound thick cylinder.
+Text Books:
+• A text book of Strength of materials- Dr R. K Bansal, Laxmi Publications Private Limited.
+Reference Books:
+• Timoshenko and Gere, Mechanics of Materials, CBS Publishers, 2011
+• J. Case and A.H. Chilver, Strength of Materials and Structures,Edward Arnold, 1980
+• L.S. Srinath, Advanced Mechanics of Solids (2nd edition), TataMcGraw Hill, 2003.
+S. H. Crandall, N. C. Dahl
+Mechanical Engineering (Third Semester)
+
+--- Page 14 ---
+Course outcome (Strength of Materials)
+CO-No. Course outcome
+Apply fundamental concepts and compute simple stresses and deformations in
+UME03B10.1
+structural members
+Construct shear force and bending moment diagrams for statically determinate beams
+UME03B10.2
+and determine stress distribution.
+UME03B10.3 Compute slope and deflection in statically determinate beams
+Examine the buckling failure in columns and calculate strain energy under varying
+UME03B10.4
+load conditions.
+Solve problems on shafts and springs subjected to twisting moment.
+UME03B10.5
+Apply the concepts of complex stress system in 2D systems and in thin
+UME03B10.6
+walled containers.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03B10
+Strength of Materials
+3 2 3 - - - - - - - - - 2 3
+UME03B10.1
+2 3 3 - - - - - - - 2 - 3 2
+UME03B10.2
+3 2 3 - - - - - - - - - - 2
+UME03B10.3
+3 2 3 - - - - - 2 - 2 - 2 2
+UME03B10.4
+- 3 2 3 - - 2 - - - - - 2 3
+UME03B10.5
+3 3 3 3 - - - - - - - - 2 3
+UME03B10.6
+Mechanical Engineering (Third Semester)
+
+--- Page 15 ---
+M.E LAB-I (APPLIED MECHANICS LAB)
+Course Credit- 01 Marks(Weightage)
+Name Applied Mechanics Lab L T P Mid End Internal
+Code UME03P14 0 0 2 00 100 00
+Course contents:
+Exp 1: To prove that the time period of a simple pendulum is independent of mass.
+Exp 2: To determine the radius of gyration K of given bar (compound pendulum)
+Exp 3: To determine the moment of inertia of a given bar by using Bi-Flier suspension
+Exp 4: To determine the moment of inertia of a given circular bar by using tri-Flier suspension
+Exp 5: To determine the torque on a two arm lever apparatus.
+Exp 6: To find out velocity ratio, mechanical advantage and efficiency of equilibrium of moments on
+pulleys apparatus.
+Exp 7: To study the Hooke’s law & find spring constant.
+Course outcomes:
+No of course
+Name of the course outcome
+outcome
+UME03P14.1 Students will learn how the time period of a simple pendulum is independent of mass.
+UME03P14.2 Students will be able to determine the radius of gyration K of given bar(compound pendulum)
+UME03P14.3 Students will be able to determine the moment of inertia of a given bar by using Bi-filar/Tri
+filar suspension method.
+UME03P14.4 Students will be able to determine the torque on a two arm lever apparatus.
+UME03P14.5 Students will be able to find velocity ratio, mechanical advantage and efficiency of equilibrium
+of moments on pulleys apparatus.
+UME03P14.6 Students will understand the Hooke’s law & will be able to find spring constant.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03P14 Applied Mechanics lab
+UME03P14.1 - 3 - 3 - - - - 3 - - - - 3
+UME03P14.2 3 3 - 3 - - - - 3 - - - - 3
+UME03P14.3 - 3 - 3 - - - - 3 - - - - 3
+UME03P14.4 3 3 - 3 - - - - 3 - - - - 3
+UME03P14.5 - 3 - 3 - - - - 3 - - - - 3
+UME03P14.6 3 3 3 3 3
+Average 3 3 - 3 - - - - 3 - - - - 3
+Text Books: 1. Engineering mechanics, author:. Stephen Timoshenko.
+2. Engineering mechanics, author: R.S Khurmi.
+Reference: Lab Manual.
+Mechanical Engineering (Third Semester)
+
+--- Page 16 ---
+M.E LAB-I (STRENGTH OF MATERIALS LAB)
+Course Credit 01 Marks(Weightage)
+Name Strength of Materials Lab L T P Mid End Internal
+Code UME03P15 0 0 2 00 100 00
+Universal Testing Machine:
+Exp-1: To study the universal testing machine and perform the tensile test for various metals. (Mild steel, TMT bar,
+copper etc.)
+Exp-2: To perform compression test of various metals on UTM.
+Exp-3: To perform bend test on Universal Testing Machine for rectangular bar. (Mild steel etc.) Exp-
+4: To perform bend test of a circular specimen on Universal Testing Machine.
+Exp-5: To perform shear test of various metal on UTM.
+Impact Testing Machine:
+Exp-6: To study the impact testing machine and determine the impact test of steel (Izod test). Exp-
+7: To study the impact testing machine and determine the impact test of steel (Charpy test). Unit
+3: Torsion Testing Machine:
+Exp-8: To study the torsion testing Machine and perform torsion test.
+Unit 4:Semi Vickers Hardness Tester
+Exp-9: To study the Vickers hardness testing Machine and perform Vickers Hardness test.
+Unit 5: Electronics Rockwell Hardness Tester
+Exp-10: To study the Rockwell hardness testing Machine and perform Rockwell Hardness test.
+Course outcomes:
+No of course Name of the course
+outcome
+Evaluate Properties of material by hardness test.
+UME03P15.1
+Evaluate Properties of material by tensile test.
+UME03P15.2
+Determine Compressive & Flexural Strength of materials.
+UME03P15.3
+Reproduce the basic knowledge of mathematics and engineering in finding the strength in tension,
+UME03P15.4
+compression, shear and torsion.
+UME03P15.5 Identify, formulate and solve engineering problems of structural elements subjected to flexure
+Evaluate the impact of engineering solutions on the society and also will be aware of
+UME03P15.6
+contemporary issues regarding failure of structures due to unsuitable materials.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs PO-1
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03P15 Strength of Materials Lab
+UME03P15.1 - 3 - 3 - - - - 3 - - - - 3
+UME03P15.2 3 3 - 3 - - - - 3 - - - - 3
+UME03P15.3 - 3 - 3 - - - - 3 - - - - 3
+UME03P15.4 3 3 - 3 - - - - 3 - - - - 3
+UME03P15.5 - 3 - 3 - - - - 3 - - - - 3
+Average 3 3 - 3 - - - - 3 - - - - 3
+Text Books:
+i. Strength of Material Lab Manual, ME Deptt, NIT Agartala
+Reference Books:
+• Fenner, “ Mechanical Testing of Materials”, George Newnes Ltd. London.
+• Holes K A, “Experimental Strength of Materials”, English Universities Press Ltd. London
+• Davis, Troxell and Hawk, “Testing of Engineering Materials”, International Student Edition – McGraw Hill Book Co.
+New Delhi
+• Kukreja C B, Kishore K. and Ravi Chawla “Material Testing Laboratory Manual”, Standard Publishers & Distributors
+1996
+Mechanical Engineering (Third Semester)
+
+--- Page 17 ---
+APPLIED ELECTRICAL & ELECTRONICS LAB
+Course Credit-01 Marks(Weightage)
+Name Applied Electrical &Electronics
+L T P Mid End Internal
+lab
+Code UME03C19 0 0 2 00 100 00
+Exp 1: Familiarization with Logic Gates (AND, OR, NOT, XOR).
+Exp 2: Design and implementation of Encoder
+Exp 3: Design and implementation of Decoder
+Exp 4: Design and implementation of Multiplexer
+Exp: 5: Design and implementation of Demultiplexer
+Exp: 6: To sketch and analyse the following basic op-amp circuits and explain the operation of each Unity
+gain amplifier (With DC and AC Power supply), Inverting amplifier (With DC and AC Power supply), and
+non-Inverting amplifier (With DC and AC Power supply)
+Exp: 7: To sketch and analyse the basic summing amplifier circuits and explain the operation of summing
+amplifier circuits
+Exp: 8: To sketch and analyse the basic difference amplifier circuits and explain the operation of difference
+amplifier circuits
+Exp: 9: Study the starting of three phase Induction Motor.
+Exp: 10: Study the speed control of three phase Induction Motor.
+No of course Name of the course outcome
+Explain the basic logic operations of NOT, AND, OR, NAND, NOR, and XORwith truth
+UME03P19.1
+table.
+UME03P19.2 Understand various ccombinational Logic Design.
+Design op-amp circuits to perform arithmetic operations and analyze and design linear and
+UME03P19.3
+non-linear applications using op-amps.
+Develop the basic experimental and modelling skills for handling problems associated
+UME03P19.4
+with Induction Motor
+Mapping of course outcomes:
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03P19 Applied Electrical &Electronics lab
+UME03P19.1 3 3 3 3 2 1 3 1
+UME03P19.2 3 3 3 3 2 1 3 1
+UME03P19.3 3 3 3 3 2 2 3 2
+UME03P19.4 3 3 3 3 2 1 3 1
+UME03P19.5 3 3 3 3 2 1 3 1
+UME03P19.6 3 3 3 3 2 2 3 2
+Text Books:
+• Digital Design by Morris Mano
+• Electronic Principles -Albert Malvino and David Bates
+• Electric Machinery Fundamentals by Stephen Chapman .
+Reference Books:
+• Modern Digital Electronics, By R. P. Jain.
+• Digital Fundamentals by Floyd
+• Microelectronics Ckt - Sedra & Smith & Electrical Machine Design by A.K. Sawhney
+Mechanical Engineering (Third Semester)
+
+--- Page 18 ---
+M.E LAB-II (MACHINE DRAWING LAB)
+Course Credit-01 Marks(Weightage)
+Name M.E Lab-I(Machine Drawing
+L T P Mid End Internal
+Lab)
+Code UME03P16 0 0 2 00 100 00
+Intersection & Development of Surfaces: Draw the development of surfaces for Prisms, cylinders, pyramids and Cones.
+Intersection of prism and pyramid, intersection of prism and cylinder, intersection of cylinder and cone.
+Representation of elements of machine drawing: Engineering Materials, Surface finishes, tolerances, sectional views,
+Screw threads.
+Component Drawings: Bolts and Nuts, Locking devices, Bearings.
+Pipes and Pipe joint: General discussions, Types of Pipe Joints, Piping Layout and Conventions
+Assembly Drawing Practice: Introduction, Types of Assembly, Assembly procedures , Draw the assembly drawings
+of Stuffing Box, Pedestal Bearing using the component drawings
+Course outcomes:
+No of course Name of the course outcome
+UME03P16.1 Develop the surfaces for constructing the sheet metal components.
+UME03P16.2 Construct the Orthographic Views of Intersected Solids.
+Represent engineering materials, surface finish, limits, tolerances and sectional views in
+UME03P16.3
+Machine Drawing as per standards.
+UME03P16.4 Develop/Construct a piping layout for a given piping system.
+Construct and represent various machine parts through component and assembly
+UME03P16.5
+drawings.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO-
+POs PO-1 PSO-2
+2 3 4 5 6 7 8 9 10 11 12 1
+UME03P16 Machine Drawing Lab
+UME03P16.1 3 - 2 - - - - - - - - - 2 -
+UME03P16.2 - - 2 - - - - - - - - - 2 -
+UME03P16.3 3 - - - - 2 - - - 3 - - 3 -
+UME03P16.4 - - 3 - - - - - - - - - 2 -
+UME03P16.5 - - - - - - - - - 3 - 2 3 -
+Reference Books:
+1. N.D. Bhatt, Machine Drawing, Charotar Book Stall, Anand, 1996.
+2. P.S.Gill, A Textbook of Machine Drawing,S.K. Kataria&Sons .
+3. N. Sidheswar, P. Kanniah and V.V.S. Sastry, Machine Drawing, Tata McGraw Hill, 1983
+4. SP 46: 1988 Engineering Drawing Practice for School & Colleges. Bureau of Indian Standards
+Mechanical Engineering (Third Semester)
+
+--- Page 19 ---
+M.E LAB-II (MATERIAL SCIENCE LAB)
+Course Credit Marks(Weightage)
+Name Material Science lab
+L T P Mid End Internal
+Code UME03P17 0 0 2 00 100 00
+Expt 1: Sample preparation (sectioning, mounting, polishing and etching) for metallographic examination
+Expt 2: Quantitative and qualitative analysis of microstructure using optical microscopy
+Expt 3: Micro-hardness test.
+Expt 4: Annealing and its effect on the mechanical properties of mild steel and medium carbon steel.
+Expt 5: Hardening/ quenching and its effect on the mechanical properties of mild steel medium carbon
+steel.
+Expt 6: Comparative study on effects of heat treatment with reference to experiment 4 and 5.
+Course outcome
+No of course Name of the course outcome
+UME03P17.1 Preparation of samples for metallurgical study.
+UME03P17.2 Microstructural Analysis using optical microscopy
+UME03P17.3 To conduct heat treatment of steel.
+UME03P17.4 To conduct surface hardening using induction heating.
+UME03P17.5 Estimate the effects of heat treatment on mechanical properties of engineering materials.
+UME03P17.6 Ability to select material based on its properties for a particular application.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME03P17 Material Science Lab
+UME03P17.1 3 - - - - - - - - - - - 2 -
+UME03P17.2 3 2 - - 1 - - - - - - - - 2
+UME03P17.3 3 - - - - - - - - - - - 2 -
+UME03P17.4 3 - - - - - - - - - - - 2 -
+UME03P17.5 3 2 - 2 - - - - - - - - - 2
+UME03P17.6 3 2 - 2 - - - - - - - - - 2
+Text Books:
+1. William F. Smith, Material science and engineering, Mc Graw Hill Education.
+Reference Books:
+1. W. D. Callister, Material science and engineering an introduction, Wiley
+Mechanical Engineering (Third Semester)
+
+--- Page 20 ---
+PROFESSIONAL ETHICS
+Course Credit Marks(Weightage)
+Name
+Professional Ethics L T P Mid End Internal
+Code UME03C20 0 0 2 00 100 00
+Organizational Communication: Professional Ethics and basic concepts of process of ethical communication; Silence and its
+interpretation, Features of Successful Professional Communication; Importance of Communication; Purpose of Professional
+Communication; Different Forms of Communication; Communication Network in an Organization; Barriers to communication.
+Listening Skills: Listening is an art ; Listening vs. Hearing; Poor Listening vs. Effective Listening ; Important facts about
+listening; Advantages of Good Listening; Process of Listening ; Types of Listening; Intensive vs. Extensive Listening; Barriers
+to Effective Listening; Techniques for Effective Listening; Listening and Note Taking.
+Effective Presentation Strategies: Introduction; Defining Purpose; Analyzing Audience and Locale; Organizing Contents;
+Preparing an Outline; Kinesics; Proxemics; Paralinguistic.
+Oral Communication: Communication/ Public Speaking Skill, Features of Effective Speech-verbal; Group Discussion-
+principle and practice (the context of a GD, positive and negative roles played in a GD, different stages in a GD etc. and
+practice sessions), Interview skills and Non –verbal Communication using Audio-Visual aids, Studying Body Language,
+Distance and Positioning, Body Orientation, Pronunciation and Vocabulary extension.
+Writing Skills: The Basics of Writing, The Process of Writing, Mind Mapping
+Mechanics of Reading & Writing: Fundamentals of Grammar, One Word Substitution
+Models of Technical Writing: Notice Writing, Formal Letters, Email Writings, Job Applications, Reports, Essays, CV, Passages
+for Comprehension and Advertisements.
+No. of Course Outcome (CO) Course Outcome
+UME03P20.1 Handle all aspects of that experience with a professional demeanor; interacting with
+team members responsibly, meeting deadlines, preparing and presenting effectively.
+UME03P20.2 Display competence in oral, written, and visual communication.
+UME03P20.3 Possess skills to effectively deliver formal and informal oral presentations
+UME03P20.4 Respond effectively to cultural communication differences .
+UME03P20.5 Overcoming communication barriers, understanding the nuances of organizational set
+up by acting positively through group communication.
+UME03P21.6 Ability to use ethical communication skills.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO-
+POs PSO-1 PSO-2
+1 2 3 4 5 6 7 8 9 10 11 12
+Professional Ethics
+UME03P20
+UME03P20.1 -- 2 -- -- -- -- 2 1 3 3 2 2 -- --
+UME03P20.2 -- 2 -- -- -- -- 2 1 3 2 3 3 -- 1
+UME03P20.3 -- 2 1 -- -- -- 2 -- 3 3 2 2 -- 1
+UME03P20.4 -- 3 -- -- -- -- 2 -- 3 2 2 3 -- --
+UME03P20.5 -- -- 1 -- -- -- 2 2 2 2 2 2 -- --
+UME03P21.6 -- -- 1 -- -- -- 2 2 2 2 3 2 -- --
+References:
+Mishra Sunita and Murali Krishna C. Communication Skills for Engineers, (2 nd Edition), Thane: Pearson India Education
+Services Pvt. Ltd., 2019.
+Mitra, Barun. Personality Development and Soft Skills.Oxford University Press, 2012.
+Raymond Murphy. Intermediate English Grammer. (II Edition) Cambridge University Press, 2011.
+Rizvi Ashrf M. Effective Technical Communication, (II Edition), Chennai: Mc Graw Hill Education, 2018.
+Raman Meenakshi and Sangeeta Sharma. Technical Communication; Principles and Practice, (II Edition), Oxford
+University Press, 2011.& Sharma RC and Mohan Krishna. Business Correspondence and Report Writing :Practical
+Approach to Business and Technical Communication, (V Edition), Chennai: Mc Graw Hill Education, 2018 .
+Mechanical Engineering (Third Semester)
+
+--- Page 21 ---
+Mechanical Engineering Department
+
+ 
+
+Fourth Semester (Syllabus)
+
+
+--- Page 22 ---
+CODE SUBJECT NAME L-T-P CREDIT
+Applied Thermodynamics 3-0-0 03
+UME04C07
+Kinematics of Machine 3-0-0 03
+UME04C08
+Fluid Mechanics - II 3-0-0 03
+UME04C09
+Manufacturing Technology - I 3-0-0 03
+UME04C10
+Numerical Methods & Computer Programming 3-0-0 03
+UME04B15
+Design of Machine Elements - I 3-0-0 03
+UME04C11
+LABORATORIES
+ME Lab - III (Primary Manufacturing Processes 0-0-2 01
+UME04P18
+Laboratory)
+ME Lab - III (Computer programming Laboratory) 0-0-2 01
+UME04P19
+ME Lab - IV (Fluid Mechanics Laboratory) 0-0-2 01
+UME04P20
+ME Lab - IV (Design of Machine Elements 0-0-2 01
+UME04P21
+Laboratory)
+Soft Skill Development 0-0-2 01
+UME04P22
+23
+TOTAL CREDIT 18-0-10
+Mechanical Engineering (Fourth semester)
+
+--- Page 23 ---
+APPLIED THERMODYNAMICS
+Course Credit-03 Marks(Weightage)
+Name
+Applied Thermodynamics L T P Mid End Internal
+Code UME04C07 3 0 0 30 50 20
+Unit 1: Gas Power Cycles: Air standard cycles, Carnot, Otto, Diesel, Dual and Stirling cycles, Gas turbine
+(Brayton) cycle, Regenerative gas turbine cycle. Inter-cooling and reheating in gas turbine cycles.
+Unit 2: Vapour Power Cycles: Simple Rankine cycle, Actual vapour power cycles, Ideal and practical
+regenerative Rankine cycles, Reheat Rankine cycle.
+Unit 3: Refrigeration Cycles and Psychrometry: Refrigeration: Vapour compression refrigeration system,
+Refrigerants and their desirable properties, Air cycle refrigeration, Vapour absorption refrigeration system
+Unit 4: Ideal Gas Mixtures: Dalton's law of additive pressures, Amagat's law of additive volumes, evaluation
+of properties. Analysis of various processes.
+Unit 5: Psychrometry: Atmospheric air and Psychometric properties, Construction and use of psychrometric
+chart, Analysis of various processes - heating, cooling, dehumidifying and humidifying, Adiabatic mixing of
+stream of moist air.
+Unit 6: Combustion Thermodynamics: Theoretical (Stoichiometric) air for combustion of fuels. Excess air,
+mass balance, Exhaust gas analysis, A/F ratio. Energy balance for a chemical reaction, enthalpy of formation,
+enthalpy and internal energy of combustion. Combustion efficiency. Dissociation and equilibrium, emissions.
+Unit 7: Reciprocating Compressors: Single stage and multi-stage reciprocating compressors, Volumetric
+efficiency, Adiabatic, isothermal and mechanical efficiencies.
+Text Books:
+• P.K. Nag, Engineering Thermodynamic, Tata McGraw-Hill.
+• Y.A. Cengal and M.A. Boles, Thermodynamics: An Engineering Approach, McGraw Hill.
+Reference Books:
+• Claus Borgnakke and Richard E Sonntag, Fundamentals of Thermodynamics, Wiley.
+• Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey,
+• Fundamentals Of Engineering Thermodynamics, Wiley
+Mechanical Engineering (Fourth semester)
+
+--- Page 24 ---
+Course Outcome (Applied Thermodynamics)
+CO Course outcome
+CO1 Evaluate the performance of gas power cycles and perform the second law analysis
+CO2 Evaluate the performance of vapour power cycles, analyze the combined power
+cycles and perform the second law analysis
+CO3 Evaluate the performance of refrigeration systems
+CO4 Understand the concept of basic psychrometry
+CO5 Understand the overview of fuels and combustion processes
+CO6 Know the basic concepts of reciprocating compressors
+Mapping of course outcomes
+POs PO -1 PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PSO - PSO -
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04C07 Applied Thermodynamics
+UME04C07.1 3 2 3 - - - - - - - - - 2 3
+UME04C07.2 2 3 3 - 2 - - - - - 2 - 3 2
+UME04C07.3 3 - 3 - - - - - - 2 - - - 2
+UME04C07.4 3 2 3 - - - - - 2 2 2 - 2 2
+UME04C07.5 2 3 2 3 - 2 2 - - - - - 2 3
+UME04C07.6 3 3 3 3 - - - 2 - - - - 2 3
+Mechanical Engineering (Fourth semester)
+
+--- Page 25 ---
+KINEMATICS OF MACHINE
+Course Credit-03 Marks(Weightage)
+Name
+Kinematics of Machine L T P Mid End Internal
+Code UME04C08 3 0 0 30 50 20
+Machine and mechanism: Definition, Mechanism and Machine, Link, Kinematic Pair, Degrees of
+freedom, Kinematic chain, Various types of joints, Degrees of freedom for plain Mechanism, Inversion,
+Different types of kinematic chain and their inversions, Mobility and range of movement - Kutzbach and
+Grubler‟s criterion, Grashof‟s criterion.
+Velocity and acceleration analysis of planar mechanisms: Instantaneous Center Method,
+Properties of the Instantaneous Centre, Types of Instantaneous Centres, Aronhold Kennedy Theorem,
+Method of Locating Instantaneous Centres in a Mechanism. Relative velocity method; Motion of a Link,
+Rubbing Velocity at a Pin Joint
+Acceleration Diagram for a Link, Acceleration of a Point on a Link, Acceleration in the Slider Crank
+Mechanism, Corioli‟s Acceleration Component.
+Belt, Rope and Chain drive: Types of Belt Drives, Velocity Ratio of Belt Drive, Power Transmitted by a
+Belt, Analysis of Belt Tensions, Maximum Tension in the Belt, Length of an Open and Cross Belt Drive, V-belt
+Construction, Types of Rope in Rope Drive, Ratio of Driving Tensions for Fibre Rope, Classification of Chains
+Used in Chain Drive, Construction of Roller Chain, Geometrical Relationships in Chain Drive, Polygonal Effect in
+Chain Drives
+Clutches and Dynamometers: Types of Clutches, Mechanical lockup clutches, Friction clutches,
+Multi disk friction Clutch, Cone clutches, Centrifugal clutches, Dynamometer, Absorption and
+transmission Dynamometer.
+Gears and Gear Train: Gear classification and Terminology, Law of Gearing, Velocity of sliding,
+Forms of teeth, length of Arc & path of contact, Interference, Minimum number of teeth required to avoid
+interference, Types of Gear Train, Velocity ratio in different Gear train arrangement, Epicyclic Gear train,
+and compound Epicyclic Gear train
+Cams: Types of followers; Cam profile Nomenclature; various types of motion of the follower Uniform
+motion, Simple Harmonic, Uniform Acceleration and Retardation, Cycloidal; Cam profile construction
+for various types of followers.
+Text Books:
+i.Theory of Mechanism and Machine; A Ghosh and AK Malik, East West Press (Pvt.) Ltd., New Delhi.
+ii.Theory of Machines; SS Rattan: Tata McGraw Hill, New Delhi.
+iii.Theory of Machines by RS Khurmi and JK Gupta; S.Chand and Company Ltd., New Delhi.
+Reference Books:
+i. Shigley, J.E., Vicker Jr., J.J., Theory of Machines and Mechanisms, McGraw-Hill.
+ii. Rao, J.S. and Dukkipati, R.Y., Mechanism and Machine Theory, 2nd ed., Wiley Eastern Ltd
+iii. Kinematic Synthesis of Linkages by Hartenberg and Denavitt
+Mechanical Engineering (Fourth semester)
+
+--- Page 26 ---
+Course outcomes (Kinematics of Machine)
+No of course Course Outcome
+outcome
+CO1 Understand fundamentals and categorize mechanisms used in real life.
+CO2 Analyze mechanisms for displacement, velocity and acceleration
+CO3 Evaluate friction and its effect on machine elements like Belt, rope and chain drive
+CO4 Evaluate friction and its effect on machine elements like Clutches and Dynamometers.
+CO5 Perform kinematic analysis of gears and gear trains.
+CO6 Develop CAM profile for various followers and follower motions and perform its
+kinematic analysis
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04C08 Kinematics of Machine
+UME04C08.1 3 2 - - - - - - - - - 1 2 3
+UME04C08.2 3 3 - - - - - - - - - 1 3 2
+UME04C08.3 3 3 2 - - - - - - - - 3 - 2
+UME04C08.4 3 3 2 - - - - - - - - 3 2 2
+UME04C08.5 3 3 3 - - - - - - - - 3 2 3
+UME04C08.6 3 3 3 - - - - - - - - 3 2 3
+Mechanical Engineering (Fourth semester)
+
+--- Page 27 ---
+FLUID MECHANICS - II
+Course Credit-03 Marks(Weightage)
+Name Fluid Mechanics - II
+L T P Mid End Internal
+Code UME04C09 3 0 0 30 50 20
+Dimensional and Model Analysis: Dimensions of fundamental and derived quantities, Dimensional
+Homogeneity, Reyleigh‟s method and Buckingham‟s of pie-theorem, Simlitude, dimensionless, Model
+Laws, classification of models.
+Flow through Pipes : Major and minor losses of energies in pipes, Hydraulic gradient and total energy
+lines, flow through pipes in series, equivalent pipe, Flow through parallel pipes, Power transmission
+through pipes and nozzles, water hammer.
+Flow in open channel: Uniform flow through open channels, Chezy‟s formula, Most economical sections
+of channel. Non-uniform flow-specific energy and specific energy curve, critical depth and critical velocity,
+minimum specific energy, hydraulic jump.
+Boundary Layer Theory: Laminar and Turbulent boundary Layer thickness, Vonkarman‟s momentum
+equation, Total drag due to Laminar and turbulent layers on flat plate, separation of boundary layer and it‟s
+control.
+Forces on submerged bodies: Drag and lift on a stationary body by flowing fluid, expression for drag and
+lift and dimensional analysis, stream lined and Bluff bodies, Drag on a sphere and cylinder, Terminal
+velocity of a body, lift on a airfoil.
+Compressible flow of Gas dynamics : Thermodynamic relations, continuity equation, Bernoulli‟s equation
+and momentum equation, velocity of sound in fluid, Mach no. propagation of pressure waves in a
+compressible fluid-Mach angle, zone of action and silence, stagnation properties, Area-velocity relationship
+for compressible flow, flow of compressible fluid through nozzles-maximum
+mass flow rate and it‟s variation, mass flow rate of compressible fluid through
+venturimeter, pito-static tube. Normal and oblique shock waves.
+Text Books:
+i. Rajput, R.K., “Fluid Mechanics & Hydraulic Machines, S. Chand Publications.
+ii. Bansal, R. K., “Fluid Mechanics & Hydraulic Machines”, Laxmi Publications.
+iii. Cengel, Y. A., “Fluid Mechanics: Fundamentals & Applications ( SI Units)”, Tata McGraw-Hill Publications.
+iv. Jain, A. K., “Fluid Mechanics”, Khanna Publishers.
+Reference Books:
+i. S.K. Som, G. Biswas, S. Chakraborty, “Introduction to Fluid Mechanics and Fluid Machines”.
+ii. Shames, I. H., Mecahnics of Fluids, McGraw Hill, New York, 1992
+iii. Streeter, V. L. ,Wylie, E. Benjamin , Fluid Mechanics, McGraw-Hill, London, 199
+Mechanical Engineering (Fourth semester)
+
+--- Page 28 ---
+Course outcome (Fluid Mechanics – II)
+No. of course
+Name of the course outcome
+Outcome
+Understand the advanced fluid mechanics and its applications.
+UME04C09.1
+Develop the methods and techniques for analyzing and specifying the model and
+UME04C09.2 prototype.
+Know about different kinds of hydrostatics forces on submerges bodies.
+UME04C09.3
+Know the relation between thermodynamics and advanced fluid mechanics.
+UME04C09.4
+Gain the engineering knowledge to solve the real-world problems.
+UME04C09.5
+Understand the most complex problems at various flow and fluid properties.
+UME04C09.6
+Mapping of course outcomes:
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO
+1 2 3 4 5 6 7 8 9 0 1 2 1 2
+UME04C09 Fluid Mechanics-II
+UME04C09.1 3 - 2 - 3 - - - - - - - 2 3
+UME04C09.2 - 3 2 - - - - - - - - - 3 3
+UME04C09.3 - 2 - - - - - - - - - - - 2
+UME04C09.4 3 - - - - - 2 - 2 - - - 2 2
+UME04C09.5 - 3 3 3 - - - - - - 3 2 - 3
+UME04C09.6 - - 3 3 - - - - - - - 3 2 2
+Average 3 2.7 2.5 3 3 - 2 - 2 - 3 2.5 2.3 2.5
+Mechanical Engineering (Fourth semester)
+
+--- Page 29 ---
+MANUFACTURING TECHNOLOGY - I
+Course Credit-03 Marks(Weightage)
+Name Manufacturing Technology - I
+L T P Mid End Internal
+Code UME04B16 3 0 0 30 50 20
+Types of production & production processes, product configuration & Manufacturing requirements. Casting
+of ferrous & Non-ferrous metals including Die Casting, Loam moulding, Investment casting, Centrifugal
+casting, Continuous casting.
+Pattern Making & Moulding: - Types of pattern, Pattern material, Pattern making tools and allowances,
+Moulding sands and their properties, Sand Testing.
+Joining Methods : - Welding, Brazing & Soldering, welding processes like fusion welding, electric arc
+welding, gas welding, Resistance welding, TIG, MIG, Submerged arc welding, friction welding,, Newer
+welding methods.
+Mechanical working of metals:- Hot working, Hot rolling, Piercing or seamless tubing, Drawing, Deep
+drawing, Hot spinning, Extrusion. Cold working, cold rolling, cold drawing, cold bending, cold spinning,
+cold extrusion, squeezing, peening, sizing, coining and hobbing, Electro hydraulic forming, Metallurgical
+aspects.
+Smithing and Forging :- Heating devices, forging temperatures, hand tools and appliances, smith forging
+operations, forging process, hand forging, power forging, impression die forging, drop hammers, press
+forging, machine or upset forging, high energy rate forging (HERF), Fibrous structure of forging: grain flow,
+defects in forging, advantages & limitations.
+Powder Metallurgy :- Process description, manufacture of metal powders, Blending of powders,
+compacting, pre-sintering, sintering, secondary operations, isostatic pressing, metal injection moulding,
+products of powder metallurgy, advantages of the process, disadvantages & limitations.
+Other Methods :- Explosive fabrication, magnetic pulse forming, electroforming, hard facing, sheet metal
+work, computers in metal forming technology, CAD/CAM technology.
+Text Books:
+• Materials and processes in manufacturing by E. Paul, De Garmo
+• Manufacturing Technology, Volume-1, by P. N. Rao
+Reference Books:
+• Mechanical Metallurgy by Dieter, George E.
+• A Ghosh and A K Mallik, Manufacturing Science, Wiley Eastern, 1986.
+• Production Technology by Jain, R.K.
+Mechanical Engineering (Fourth semester)
+
+--- Page 30 ---
+Course outcome (Manufacturing Technology – I)
+No of CO Name of the course outcome
+Acquire knowledge about the various tools, equipment, machinery and operations required
+UME04B16.1
+for these basic manufacturing processes.
+Know the various basic Manufacturing processes used in industry for converting raw
+UME04B16.2
+materials into finished products.
+UME04B16.3 Know the principles and science of various basic manufacturing processes
+UME04B16.4 Select appropriate Manufacturing Processing to manufacture any component.
+Interpret foundry practices like pattern making, mold making, Core making and Inspection of
+UME04B16.5
+defects.
+Select appropriate Joining Processes to join Work piece. Implement the Knowledge of
+gained subject in Industry.
+UME04B16.6
+Mapping of course outcomes:
+POs PO- PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PSO - PSO-
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04B16 Manufacturing Technology - I
+UME04B16.1 3 2 2 - - - 1 - 3 2 - 3 3 -
+UME04B16.2 3 -
+3 2 2 - 1 - 1 - 3 2 - 3
+UME04B16.3 3 2
+3 2 2 - 1 - 1 - 3 2 - 3
+UME04B16.4 3 -
+3 2 2 - - - 1 - 3 2 - 3
+UME04B16.5 3 -
+3 2 2 - 1 - 1 - 3 2 - 3
+UME04B16.6 3 3
+3 2 2 - 1 - 1 - 3 2 - 3
+Mechanical Engineering (Fourth semester)
+
+--- Page 31 ---
+NUMERICAL METHODS & COMPUTER PROGRAMMING
+Course Credit-03 Marks(Weightage)
+Numerical Methods &
+Name L T P Mid End Internal
+Computer Programming
+Code UME04B15 3 0 0 30 50 20
+Unit-1: Approximation and round off errors; Truncation errors and Taylor series.
+Determination of roots of polynomials and transcendental equations by Newton- Raphson, Secant and
+Barstow‟s method.
+Unit-2: Solution of linear simultaneous algebraic equations by Gauss elimination and Gauss-Siedel iteration
+methods.
+Unit-3: Curve fitting; Linear and non-linear regression analysis.
+Finite Difference Method: Backward; Forward and central difference relations and their uses in numerical
+differentiation and integration; Application of different relations in the solution of partial differential
+equations, Introduction of Finite Element Method.
+Unit-4: Numerical solution of ordinary differential equations by Euler; modified Euler, Runge-Kutta and
+predictor-corrector method.
+Unit-5: Introduction to computer programming in C and C++ languages: Arithmetic expressions; Simple
+programs
+Example of some C programs; Dissection of the program line by line; Concept of variables; Program statement
+and function calls from the library.
+Unit-6: C data types: int, char, float etc.
+C expressions, arithmetic operations, relational and logic operations.
+Unit-7: C assignment statements, extension of assignment to the operation; C primitive input output using
+getchar and putchar; exposure to the scanf and printf function. C statements; conditional execution using if,
+else etc.( Optionally switch and break statements should be mentioned)
+Unit-8: Concepts of loop; Example of loops in C using for-while and do-while( Optionally continue may be
+mentioned) One dimensional arrays and example of iterative programs using arrays; 2-d arrays; Use in matrix
+computations.
+Unit-9: Concept of sub-programming; Functions; Example of functions; Argument passing mainly for the
+simple variables. Pointers, relationship between arrays and pointers; Argument passing using pointers.
+Array of pointer; Passing arrays as arguments. Strings and C string library.
+Unit-10: Structure and unions; Defining C structure; Passing structure as arguments ( Program examples) File
+I/O; Use of fopen, fsanf and fprintf routines.
+Text Book:
+Mollah S.A, “Numerical Analysis and Computational Procedure” , Books and Allied (P) ltd., Kolkata, 1 st print,
+1996
+References Book:
+Kandasamy, P., Thilagavathy, K., and Gunavathy, S., “Numerical Methods”, S.Chand
+Mechanical Engineering (Fourth semester)
+
+--- Page 32 ---
+Course Outcome (NACP)
+No. of Course Course outcome
+Outcome
+To attain ability to apply knowledge of mathematics, science, and engineering.
+UME04B15.1
+To attain an ability to design and conduct experiments, as well as to analyze and
+UME04B15.2
+interpret data.
+To attain an ability to design a system, component, or process to meet desired
+UME04B15.3 needs within realistic constraints such as economic, environmental, social,
+political, ethical, health and safety, manufacturability, and sustainability.
+To attain an ability to identify, formulate, and solve
+UME04B15.4
+engineering problems
+To attain an understanding of professional and ethical
+UME04B15.5
+responsibility
+To attain an ability to use the techniques, skills, and modern
+UME04B15.6
+Engineering tools necessary for engineering practice.
+Mapping of course outcomes
+POs PO- PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PO - PSO - PSO -
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04B15 Numerical Methods & Computer Programming
+UME04B15.1 3 2 2 2 - 2 2 2 - 3 - 2 - -
+UME04B15.2 2 2 2 2 - 2 2 2 - 2 2 2 2 1
+UME04B15.3 2 2 3 2 - 2 2 2 - 2 - 2 3 1
+UME04B15.4 3 3 2 3 - 3 2 3 - 3 - 3 1 2
+UME04B15.5 2 2 3 2 - 2 3 2 - 2 2 2 2 2
+UME04B15.6 2 2 2 2 - 3 2 2 - 3 2 2 3 2
+Mechanical Engineering (Fourth semester)
+
+--- Page 33 ---
+DESIGN OF MACHINE ELEMENTS - I
+Course Credit-03 Marks(Weightage)
+Name Design of Machine Elements - I
+L T P Mid End Internal
+Code UME04B17 3 0 0 30 50 20
+Steady Stresses in Machine Members
+Fundamentals of Machine Design – Design philosophy, various considerations in machine design .Design
+Procedure, Common engineering materials, I.S.I. specification on steels.
+Stresses in machine elements: Types of Simple stresses, Stress strain relationship, Factor of safety.
+Design for Strength: Design for static loading, Theories of failures, Stress Concentration Factors.
+Design of Shafts
+Shaft and its design based on strength, Design of shaft for variable load and based on stiffness, combined
+bending and twisting moment.
+Design of Fasteners and Couplings
+Fasteners: Types of fasteners, Design of Cotter and knuckle joint, Design of Key.
+Coupling: Types, use, Design procedure, working principle of rigid and flexible rubber-bushed couplings.
+Design of Permanent Joints
+Rivets, types and use of rivet joint, types and efficiency, design procedure, welded joint. Bolted joint.
+Design of Power Screws and springs
+Power Screws: Power Screw, drives and their efficiency, Design of power screws
+Springs: Introduction to Design of Helical Springs
+Text Books:
+i. Bhandari V, “Design of Machine Elements”, 4th Edition, Tata McGraw-Hill Book Co, 2016
+ii. Joseph Shigley, Charles Mischke, Richard Budynas and Keith Nisbett “Mechanical Engineering Design”,
+9th Edition, Tata McGraw-Hill, 2011.
+Reference Books:
+iv. Alfred Hall, Halowenko, A and Laughlin, H., “Machine Design”, Tata McGraw-Hill Book Co. (Schaum’s
+Outline), 2010
+v. P.C. Gope, “Machine Design – Fundamental and Application”, PHI learning private ltd, New Delhi, 2012
+vi. R.B. Patel, “Design of Machine Elements”, MacMillan Publishers India P Ltd., Tech -Max Educational
+resources, 2011.
+vii. Khurmi, R.S., Gupta, J.K., “A Text Book of Machine Design” S. Chand Publishing, 2010
+Mechanical Engineering (Fourth semester)
+
+--- Page 34 ---
+Course outcome (Design of Machine Elements – I)
+CO-No. Course outcome
+Analyze the strength of the components using failure theories based on fundamentals of
+UME04B17.1
+design.
+Design shaft under static loading and variable loading conditions.
+UME04B17.2
+Formulate and design several fasteners and couplings
+UME04B17.3
+Design mechanical permanent joints.
+UME04B17.4
+Design different transmission and mechanical energy storage systems.
+UME04B17.5
+Solve real life problems related to aspects of design and analyses of various mechanical
+UME04B17.6
+equipment and systems.
+Mapping of course outcomes:
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04B17 Design of Machine Elements - I
+UME04B17.1 - 3 - - - - - - - - - - - 3
+UME04B17.2 - - 3 - - - - - - - - - - 3
+UME04B17.3 - - 3 - - - - - - - - - - 3
+UME04B17.4 - - 3 - - - - - - - - - - 3
+UME04B17.5 - - 3 - - - - - - - - - - 3
+UME04B17.6 - 3 3 - - - - - - - - - - 3
+Mechanical Engineering (Fourth semester)
+
+--- Page 35 ---
+PRIMARY MANUFACTURING PROCESSES LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Primary Manufacturing
+L T P Mid End Internal
+Processes Laboratory
+Code UME04P18 0 0 2 00 100 00
+1) MACHINE SHOP:
+1. Introduction to the machine tools (lathe, shaper, planer, drilling, etc.)
+2. Introduction to cutting tool, properties of different materials used in cutting Tool, Method
+of metal cutting.
+2) FITTING SHOP:
+1. Introduction, use of precision tools & jobs
+2. To make a fitting as per the job assigned.
+3) SHEET METAL SHOP:
+1. Introduction, sheet metal tools
+2. Sheet metal operation - cutting, notching Soldering, brazing
+3. Job: (a) To make a square tin
+i. (b) To make a round tin with lid
+ii. (c) To make “T” pipe joint/ waste paper basket/measuring jar etc.
+4) FORGING SHOP:
+1. Introduction, tools & equipment
+2. Hand forging & machine forging
+3. Forging operation -
+4. Defects in forgings.
+5) MOULDING SHOP:
+1. Introduction of moulding tools & equipment
+2. Moulding making
+3. Melting of metals -
+4. Advantages of casting & casting defects
+5. Casting techniques
+6. Job: (a) to prepare a sand mould, using the single piece pattern
+i. (b) Spilt pattern/ loose piece pattern/pattern with core etc.
+6) WELDING SHOP:
+1. Introduction of welding equipment and safety measures
+2. Different joint of welding& their use
+3. Welding process
+4. Different types of electrode, fluxes & their uses.
+5. Practice on setting welding equipment, gas welding
+6. & cutting practice, preparation of simple structures
+Text Books:
+i. Materials and processes in manufacturing by E. Paul, De Garmo
+ii. Manufacturing Technology, Volume-1, by P. N. Rao
+Reference Books:
+i. A Ghosh and A K Mallik, Manufacturing Science, Wiley Eastern, 1986.
+ii. Production Technology by Jain, R.K.
+Mechanical Engineering (Fourth semester)
+
+--- Page 36 ---
+Course outcome (Primary Manufacturing Processes Laboratory)
+No. of Course Name of the Course outcome
+Outcome
+Distinguish between tools of various trades such as carpentry, fitting, sheet
+UME03P11.1
+metal, welding, foundry and machine tools.
+UME03P11.2 Comprehend the safety measures required to be taken while using the tools.
+UME03P11.3 Select the appropriate tools required for specific operation.
+To describe the use of carpentry & fitting joints sheet metal models &
+UME03P11.4
+manufacturing processes.
+UME03P11.5 Preparation of different types of welding joints.
+UME03P11.6 Study and practice on machine tools and their operations.
+Mapping of course outcomes:
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO2
+1 2 3 4 5 6 7 8 9 0 1 2 1
+UME03P11 Primary Manufacturing Processes Lab
+UME03P11.1 3 2 - - - - - - - - - - - -
+UME03P11.2 3 - - - - 2 - - - - - - 2 -
+UME03P11.3 - 3 - - - - - - - - - - 3 -
+UME03P11.4 3 - - - - - - - - - - - 3 -
+UME03P11.5 3 - - - - - - - 3 - - - 3 -
+UME03P11.6 3 - - - - - - - 3 - - - 2 -
+Average 3 3 - - - 2 - - 3 - - - 3 -
+Mechanical Engineering (Fourth semester)
+
+--- Page 37 ---
+COMPUTER PROGRAMMING LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Computer programming
+L T P Mid End Internal
+Laboratory
+Code UME04P19 0 0 2 00 100 00
+Experiment-1: Revision and Dissection of a „C‟ program.
+Experiment-2: Programming on Arrays, Loops and Matrixes.
+Experiment-3: Programming for different Root Finding Methods.
+Experiment-4: Programming on Curve Fitting (Function and Approximation.)
+Experiment-5: Programming on Numerical Interpolation.
+Experiment-6: Numerical Programming using Differentiation and Integration.
+Text Books:
+i. Kandasamy, P. Thilagavathy, K., and Gunavathy, S., “Numerical Methods”,
+S. Chand Publications.
+Reference Books:
+viii. NACP Laboratory Manual of ME Department, NIT Agartala
+ix. Other Online/ Offline Resources available.
+Mechanical Engineering (Fourth semester)
+
+--- Page 38 ---
+Course outcome (Computer programming Laboratory)
+No. of COs Name of the Course outcome
+Implement the knowledge of coding to solve practical problems using numerical
+UME04P19.1 methods with the help of computer.
+Solve an algebraic or transcendental equation using an appropriate numerical method
+UME04P19.2 with C codes
+Approximate a function using an appropriate numerical method with C codes
+UME04P19.3
+Solve a linear system of equations &ANY differential equation using an appropriate
+UME04P19.4 numerical method using C codes
+Evaluate a derivative at a value using an appropriate numerical method using C codes.
+UME04P19.5
+Solve numerical root finding methods, calculate a definite integral and solve curve
+UME04P19.6 fitting problems using an appropriate numerical method using C codes.
+Mapping of course outcomes:
+POs PO - PO -2 PO -3 PO -4 PO - PO - PO - PO -8 PO -9 PO -10 PO -11 PO -12 PSO-1 PSO -
+1 5 6 7 2
+UME04P19 Computer programming Laboratory
+UME04P19.1 3 3 - - 3 - - - - - - - - -
+UME04P19.2 - 3 3 - - - - - - - - - - 2
+UME04P19.3 - 3 3 - 3 - - - - - - - - -
+UME04P19.4 - 3 3 - 3 - - - - - - - - 2
+UME04P19.5 3 3 3 - - - - - - - - - - -
+UME04P19.6 - - 3 3 3 - - - - - - - - 2
+Avg. 1 2.5 2.5 0.5 2 - - - - - - - - 1
+Mechanical Engineering (Fourth semester)
+
+--- Page 39 ---
+FLUID MECHANICS LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Fluid Mechanics Laboratory L T P Mid End Internal
+Code UME04P20 0 0 2 00 100 00
+Experiment-1: To study and verify the Bernoulli‟s equation.
+Experiment-2: To determine the co efficient of friction in pipes.
+Experiment-3: To determine minor losses due to sudden contraction.
+Experiment-4: To determine minor losses due to sudden enlargement.
+Experiment-5: To determine minor losses due to bend in pipes.
+Experiment-6: To determine the co efficient of discharge through rectangular notch.
+Experiment-7: To determine co-efficient of discharge through triangular notch.
+Experiment-8: To determine co-efficient of discharge through trapezoidal notch.
+Text Books:
+iii. Cengel, Y.A., “Fluid Mechanics: Fundamentals & Applications (SI Units)”, Tata McGraw-Hill
+Publications.
+iv. Bansal, R.K., “Fluid Mechanics & Hydraulic Machines”, Laxmi Publications.
+Reference:
+x. Laboratory Manual from ME Department, NIT Agartala
+xi. S.K. Som, G. Biswas, S. Chakraborty, Introduction to Fluid Mechanics and Fluid Machines.
+Mechanical Engineering (Fourth semester)
+
+--- Page 40 ---
+Course outcome (Fluid Mechanics Laboratory)
+No. of COs Name of the course outcome
+To understand the basic measurement units and different principles and
+UME04P20.1
+governing equation of fluid flow.
+To know about various fluid flow measuring devices like venturimeter, pitot
+UME04P20.2
+tube and notches or weir etc.
+Student will be able to gain basic knowledge from Fluid Dynamics
+UME04P20.3
+experimentation.
+To understand about various components of hydro-electric power station.
+UME04P20.4
+To know the various flow pattern and study their characteristics.
+UME04P20.5
+To design flow measuring device of various components.
+UME04P20.6
+Mapping of course outcomes:
+POs PO - PO - PO -3 PO - PO -5 PO -6 PO -7 PO -8 PO -9 PO -10 PO -11 PO -12 PSO - PSO - 2
+2 4 1
+1
+UME04P20 Fluid Mechanics Laboratory
+UME04P20.1 2 3 - - - - - - - - - - - 2
+UME04P20.2 - 3 - - - - - - - - - - 2 3
+UME04P20.3 3 - - - - - - - - - - - 3 2
+UME04P20.4 - - - - - 2 - - - - 3 - - 2
+UME04P20.5 - 2 - - - - - - - - - 2 2
+UME04P20.6 - 2 - - - - - - - - - - 2 -
+Avg. 2.5 2.5 - - - 2 - - - - 3 - 2.3 2.2
+Mechanical Engineering (Fourth semester)
+
+--- Page 41 ---
+DESIGN OF MACHINE ELEMENTS LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Design of Machine Elements
+L T P Mid End Internal
+Laboratory
+Code UME04P21 0 0 2 00 100 00
+1. Introduction of the Course:
+Students can build up skills to utilize the Sophisticated Tools and Technologies to manage and solve the
+real-world problems of Design, Analysis and Manufacturing.
+2. Course Objectives:
+1. To impart students with the necessary skills for Modeling and Assembling of
+machine components using CAD tool (Solidworks) along-with theoretical
+calculations.
+2. To impart students with the necessary skills for drafting of Model and Assemblies
+of machine components using CAD tool (Solidworks).
+(The emphasis should be more on conceptual application and calculation rather than
+the modeling itself. The Solidworks CAD/CAM/CAE software is being chosen
+mainly because of the availability of license.)
+3. Course Contents:
+Ex. 1: Introduction to CAD/CAM/CAE/User Interfaces and contemporary Industrial
+Standards. Concept of Parametric and Non- Parametric Modeling.
+Ex Ex.2: Concept and importance of Fully Constrained Modeling approach and 2D Sketch.
+Ex Ex. 3: Development of 3D parametric models using basic Feature Commands.
+Ex. 4: Utilization of Advanced Features for building up Complex shapes of modeling.
+Ex. 5: Concept of Assembly and utilization of Bottom-up Assembly Method.
+Ex. 6: Initiate Drafting and prepare sheet as per ISO and BIS standards.
+Ex. 7. Placing of Standard and Projected views of Models and Assemblies.
+Ex. 8. Apply required Annotations in the views.
+Text Books:
+1. “Solidworks for Engineers and Designers” – By Prof. Sham Tickoo.
+2. “A Textbook of Machine Design” - By R.S. Khurmi.
+Reference Books:
+i. DOME Laboratory Manual of ME Department, NIT Agartala
+ii. Other Online/ Offline Resources available.
+Mechanical Engineering (Fourth semester)
+
+--- Page 42 ---
+Course Outcome (Design of Machine Elements Laboratory)
+No. of COs Name of the Course Outcome
+CO1 Ability to interpret ISO and BIS standards for Design and Drafting.
+CO2 Ability to construct accurate 2D geometry as well as complex 3D shapes by
+Solid and Surface modeling techniques.
+CO3 Ability to produce assembly of models and sub- assemblies in industry
+standard form.
+CO4 Ability to recognize standard drawing/ drafting requirements for distribution
+at different facilities.
+CO5 Ability to create 2D representations of 3D objects as plain view, elevations
+and sections.
+CO6 Ability to create assembly drawing/ plans in industry standard form and
+produce plotted hardcopies ready for distribution.
+Mapping of course outcomes:
+POs PO-1 PO-2 PO-3 PO-4 PO-5 PO- PO- PO-8 PO-9 PO-10 PO-11 PO-12 PSO- PSO-
+6 7 1 2
+CO 1 3 3 2 - 2 2 2 2 2 2 2 2 3 2
+CO 2 2 3 3 - 3 2 2 2 2 2 2 2 3 3
+CO 3 2 3 3 - 3 2 2 2 2 2 2 2 3 3
+CO 4 2 3 3 3 3 2 2 2 2 2 2 2 3 3
+CO 5 - 3 3 3 3 2 2 2 2 2 2 2 3 3
+CO 6 - 3 3 3 3 2 2 2 2 2 2 2 3 3
+Avg. 1.5 3 2.83 1.5 2.83 2 2 2 2 2 2 2 3 2.83
+Mechanical Engineering (Fourth semester)
+
+--- Page 43 ---
+SOFT SKILL DEVELOPMENT
+Course Credit Marks(Weightage)
+Name Soft Skill Development L T P Mid End Internal
+Code UME04P22 0 0 2 00 100 00
+Development of Competency and Proficiency in English/Vernacular communication:
+Oral/spoken communication skill & testing – voice and accent, voice clarity, voice modulation & intonation,
+word stress. Objectiveness in interpersonal and group argument. The 5 W-1H & 7 Cs for effective
+communication. Study of different pictorial expression of non-verbal communication and its analysis.
+Concepts of Effective Communication:
+Components of Effective Communication- Conviction, confidence & enthusiasm, listening virtues and
+modes, Communication Process & Handling them- KISS mode (keep it short & simple) in communication –
+composing effective messages. Awareness of Barriers to communication- Int. & Ext Barriers: - Motivation,
+Perception, Power of speech. Non-Verbal Communication – its importance and Nuances: - Facial
+Expression, Posture, Gesture, eye contact, Appearance.
+Self & Time Management- Identifying one‟s strength and weakness, Planning & Goal setting, managing
+self –emotions, ego, pride. Attendance, Discipline & Punctuality, Act in time on commitment,
+Quality/Productive time. personal and official documentation principles.
+Presentation Skills- Preparation & introduction, Evaluation / feedback methods; Summarization /
+Conclusion.
+Team Building / Coordination Skills : Team Building games, how to identify team players, team task / role
+play. Ginnetts Teams model, Team Effectiveness.
+Group Dynamics - Group Theories, Group Norms, Group Roles, Group Cohesion Group Thinking, Group
+Development Stages, Sociometry and Group Decision Making.
+Text Books:
+i. SOFT SKILL, 2015, Career Development Centre, Green Pearl Publications.
+Reference Books:
+i. Covey Sean, Seven Habits of Highly Effective Teens, New York, Fireside Publishers, 1998.
+ii. Carnegie Dale, How to win Friends and Influence People, New York: Simon & Schuster, 1998.
+iii. Thomas A Harris, I am ok, You are ok , New York-Harper and Row, 1972
+Daniel Coleman, Emotional Intelligence, Bantam Book, 2006
+Mechanical Engineering (Fourth semester)
+
+--- Page 44 ---
+Course Outcome (Soft Skill Development)
+No of C0s Course outcome
+Competency and Proficiency in all facets of professional communications
+UME04P22.1
+Self & Time Management skills for professional acclimatization
+UME04P22.2
+Empowerment with Team Building and Coordination Skills
+UME04P22.3
+Enabling Students to become more effective individuals through goal/target setting, by means
+UME04P22.4 of self- motivation and practicing creative thinking.
+Function efficiently and effectively in multi-disciplinary and heterogeneous teams through the
+knowledge of team work, Inter-personal relationships, conflict management and leadership
+UME04P22.5
+quality.
+Enable to write precise briefs or reports and technical documents and enhance presentation
+UME04P22.6 skills
+Mapping of course outcomes:
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME04P22 Soft Skill Development
+UME04P22.1 - - 2 - - - - - - 3 - 3 1 1
+UME04P22.2 - - 2 - - - - - 2 - 2 2 2 2
+UME04P22.3 - 1 2 - - - 2 - 3 2 - - 1 1
+UME04P22.4 - 2 - 2 2 2 2 1 2 2 2 - 2 2
+UME04P22.5 2 2 2 1 - 2 - 2 3 - 2 - 1 2
+UME04P22.6 - - - - 2 - - - - 2 - - 2 -
+Mechanical Engineering (Fourth semester)
+
+--- Page 45 ---
+Mechanical Engineering Department
+
+ 
+
+Fifth Semester (Syllabus)
+
+
+--- Page 46 ---
+CODE SUBJECT NAME L-T-P CREDIT
+UME05C01 Heat & Mass Transfer 3-0-0 03
+UME05C02 Design of Machine Elements-II 3-0-0 03
+UME05C03 Manufacturing Technology - II 3-0-0 03
+UME05C04 Fluid Machinery 3-0-0 03
+UME05C06 Vibration and Control 3-0-0 03
+Mechanical Measurement & 3-0-0 03
+UME05C05
+Instrumentation
+LABORATORIES
+UME05P30 ME Lab - V (Vibration Laboratory) 0-0-2 01
+UME05P31 ME Lab - V (Machine Design Laboratory) 0-0-2 01
+ME Lab - VI (Mechanical Measurement & 0-0-2 01
+UME05P32
+Instrumentation Laboratory)
+ME Lab - VI (Machining & Machine Tool 0-0-2 01
+UME05P33
+Laboratory)
+UME05P28 ME Lab - VII (Heat & Mass Transfer Lab) 0-0-2 01
+ME Lab - VII (Fluid Machinery 0-0-2 01
+UME05P29
+Laboratory)
+UME05P27 Minor Project -I 0-0-3 01
+TOTAL 18-0-15 25
+Mechanical Engineering (Fifth Semester)
+
+--- Page 47 ---
+HEAT & MASS TRANSFER
+Course Credit-03 Marks(Weightage)
+Name Heat & Mass Transfer L T P Mid End Internal
+Code UME05C01 3 0 0 30 50 20
+Introduction
+Various methods of heat transfer, Fourier’s, Newton’s and Stefan Boltzman’s Law. Combined modes ofheat
+transfer, thermal diffusivity, overall heat transfer coefficient.
+Conduction
+The thermal conductivity of solids, liquids and gases, factor influencing conductivity, measurement. The general
+differential equation of conduction. One dimensional steady state conduction, linear heat flow through a plane and
+composite wall, tube and sphere, critical thickness of insulation. Effect of variable thermal conductivity.
+Conduction with heat sources, heat transfer from rods heated at one both ends. Heat transfer from fins of uniform
+cross-section. Errors of measurement of temperature in thermometer wells.
+Convection (Forced)
+Introduction, laminar boundary layer equations on a flat plate and in a tube, laminar forced convection on a flat
+plate and in a tube, simple Reynold’s analogy. Dimensional analysis of forced convection, empirical relationship
+for forced convection.
+Convection (Natural)
+Dimensional analysis of natural convection; empirical relationship for natural convection. Convection with phase
+change. Description of condensing flow. A theoretical model of condensing flow. Boiling heattransfer, Empirical
+relationships for convection with phase change.
+Heat Exchangers:
+Different types of heat exchangers; Determination of heat exchanger performance, Heat exchangertransfer units,
+Analysis restricted to parallel and counter flow heat exchanger. Effectiveness, NTU.
+Thermal Radiation
+Introduction, absorption and reflection of radiant energy, Emission, Radiosity and irradiation, Black and nonblack
+bodies, Krichoff’s law; intensity of radiation, radiation exchange between black surface, geometric configuration
+factor, grey body relation exchange between surfaces of unit configurationfactors. Grey body relation exchange
+between surfaces of unit configuration factors. Electrical analogy to simple problems. Nonluminous gas radiation.
+Errors in temperature measurement due to radiation.
+Introduction to Mass Transfer
+Mass and mole concentrations, molecular diffusion, eddy diffusion, Molecular diffusion from an
+Evaporating fluid surface, Introduction to mass transfer in laminar and turbulent convection, Combinedheat and
+mass transfer, the wet and dry bulb thermometer.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 48 ---
+Text Books:
+1. Incropera, F.P. and Dewitt, D.P., “Fundamentals of Heat and Mass Transfer”, 5thed.,
+JohnWiley,2002.
+Reference Books:
+1. Holman, J.P., “Heat Transfer”, 9th ed., McGraw-Hill, 2004.
+2. Ozisik, M.N., “Heat Transfer - A Basic Approach”, McGraw-Hill, 1985.
+3. Cengel, Y.A., “Heat Transfer - A Practical Approach”, McGraw-Hill, 1998.
+Rajput, R.K., “Heat & Mass Transfer” Khanna Publishers
+Course Outcome (Heat & Mass Transfer)
+No of COs Course Outcome
+U.2ME05C1.1 Understand and explain the basic modes of heat and mass transfer.
+UM.2E05C01.2 Apply principles of conduction heat transfer to compute transfer coefficients,
+effectiveness, efficiency, etc.
+UM.4E05C01.3 Compare and distinguish physical mechanism and performances of Forced and Natural
+Convection heat transfer processes.
+UME05C01.4 Analyze working of various heat transfer equipment
+UME05C01.5 Design and analyze radiation heat transfer process and equipment.
+UME05C01.6 Investigate and explore problems on Mass transfer processes.
+Mapping of course outcomes
+PO-
+POs PO-1 PO-2 PO-3 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+4
+UME05C01 Heat & Mass Transfer
+U.2ME05C1.1 3 2 1 3 3 3 - - 1 1 - 1 1 1
+UM.2E05C01.2 3 3 2 2 1 2 1 1 2 1 - 1 2 1
+UM.4E05C01.3 3 3 2 2 1 1 1 1 2 1 - 1 2 1
+UME05C01.4 3 3 3 3 1 1 1 1 2 1 - 1 2 2
+UME05C01.5 2 3 2 3 1 2 1 1 2 1 - 1 2 1
+UME05C01.6 2 2 1 2 1 1 1 1 1 1 - 1 1 1
+Mechanical Engineering (Fifth Semester)
+
+--- Page 49 ---
+DESIGN OF MACHINE ELEMENTS-II
+Course Credit-03 Marks(Weightage)
+Name Design of Machine Elements-II L T P Mid End Internal
+Code UME05C02 3 0 0 30 50 20
+Fatigue consideration in design: Variable load- basic concept, Patterns of load or stress variations,
+S-N curve, fatigue strength and endurance limit, Factors influencing fatigue, Effect of stress
+concentration and fatigue stress concentration definition and its estimation from geometric stress
+concentration factor, Goodman and Soderberg's relations, design for infinite life and finite life,
+Methods for design of members under combined (steady and variable) loading conditions, Worked
+out examples on fatigue design problems.
+Design of gear tooth Gears: Types and application and gear terminology, Analysis of forces on
+spur, and helical gears, Bending and contact stress in gear tooth, Lewisequation for design, Dynamic
+loading and wear-Buckingham equations for design, Force analysis on bevel and worm gears, Design
+approach for bevel gears- equivalent tooth, Design of fixed ratio gear box- general design procedure.
+Design of sliding and journal bearings: Types of lubrication- hydro dynamic, hydro static and EHD
+lubrication, Petroff's equation and the bearing characteristic number, Lubrication regimes- boundary
+and film lubrication, Hydro dynamic bearings- Pressure distribution-eccentricity and minimum film
+thickness, Reynold’s equation, Heat generation and thermal equilibrium.
+Design/analysis of Brakes, clutches and fly wheels: Brakes and clutches -need and functioning,
+Plate clutches- design for uniform pressure and wear, brake-design/analysis, Flywheel- Coefficient of
+fluctuation of speeds, fluctuation of energy, energy stored in flywheel. Stresses on flywheel ring,
+arms, Design of shafts, hub and Key. Design of flywheel.
+Text Books:
+i. Bhandari V, “Design of Machine Elements”, 4th Edition, Tata McGraw-Hill Book Co, 2016
+Reference Books:
+i. Shigley, J.E., Mechanical Engineering Design, 5th ed., McGraw-Hill, 1989.
+ii. Bhandari, V.B., “Introduction to Machine Design” Tata McGraw-Hill
+iii. Khurmi, R.S., Gupta, J.K., “ A Text book of Machine Design” S. Chand Publication.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 50 ---
+Course Outcome Design of Machine Elements-II)
+(
+CO-No. Course Outcome
+UME05C02.1 Understand various fundamentals of fatigue consideration in various machine
+elements.
+UME05C02.2
+Understand the basics of Goodman and Soderberg's relations.
+UME05C02.3 Understand the design procedures involved in gear teeth using various standard
+equations.
+UME05C02.4
+Analyze the forces imparted on the tooth of different gears.
+UME05C02.5 Design bearings by considering the basics ofhydro-static and hydro dynamic
+lubrication.
+UME05C02.6
+Use the standard design procedures of brakes, clutches and flywheels.
+Mapping of course outcomes
+POs PO-
+PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+1
+UME05C02
+Design of Machine Elements-II
+UME05C02.1 - - - - - - - - 2 2
+2 2 2 2
+UME05C02.2 - - - - - - - 2 2
+2 2 3 2 2
+UME05C02.3 - - - - - - - - 3 2
+3 3 3 2
+UME05C02.4 - - - - - - - - - 2 3
+3 3 2
+UME05C02.5 - - - - - - - 2 3
+2 3 3 2 2
+UME05C02.6 - - - - - - - - 2 3
+3 3 3 2
+Mechanical Engineering (Fifth Semester)
+
+--- Page 51 ---
+MANUFACTURING TECHNOLOGY - II
+Course Credit-03 Marks(Weightage)
+Name Manufacturing Technology - II L T P Mid End Internal
+Code UME05C03 3 0 0 30 50 20
+Unit 1: Tool geometry, mechanism of chip formation. Mechanics of machining. Cutting
+Temperature: causes, effects, estimation, measurement and control. Cutting fluid applications. Role
+of geometrical and process parameters and cutting fluid on machinability.
+Unit 2: Failure modes, wear and life of cutting tools. Cutting tool materials. Role of geometrical
+and process parameters and cutting fluid on machinability.
+Unit 3: Mechanics of grinding. Economy of machining and grinding. Special techniques and
+advanced technology of machining and grinding. Concept and definition of machining and machine
+tools. History of development of machine tools.
+Unit 4: Concept of producing geometrical surfaces by generatrix and directrix. Kinematic systems
+and structures of conventional machine tools. Electromechanical and hydraulic drives and control of
+machine tools. Machine tool automation. Classification and specification of machine tools.
+Construction, working principle and application of various semi-automatic and automatic lathes.
+Unit 5: Flexible automation: need, principle and advantages. Basic constructional features, working
+principle and application of CNC machine tools, machining centre and FMS.
+Text Books:
+i. Machining and Machine Tools by A.B.Chattopadhyay, Wiley.
+ii. Manufacturing Technology (Manufacturing Processes) by R.K Rjput, Laxmi Publication (P) Ltd.
+iii. Materials and processes in manufacturing by E. Paul, De Garmo and others
+iv. Manufacturing Technology, Volume-2, by P. N. Rao
+HMT Production Technology, Tata McGraw-Hills Publishing Co. Limited
+Reference Books:
+i. Workshop Technology, Vol - II by Chapman, W.A.J., , Oxford & IBH Publishing Co. Ltd.
+ii. Jain R.K., Production Technology, Khanna Publishers, 2001
+iii. Chapman, W.A.J., Workshop Technology,Vol - II, Oxford & IBH Publishing Co. Ltd., 1986.
+iv. Manufacturing Process-II: NPTEL
+Mechanical Engineering (Fifth Semester)
+
+--- Page 52 ---
+Course Outcome (Manufacturing Technology – II)
+No. of Course Course Outcome
+Outcome
+UME05C03.1 Understand the basic concept of machining, tool geometry, mechanism of
+chip formation and the factors affecting machining process.
+UME05C03.2 Select cutting fluids, tool materials and coatings to control tool wear and
+temperature.
+UME05C03.3 Understand the mechanics of grinding, economy of machining and
+grinding, special techniques and advanced technology of machining and
+grinding.
+UME05C03.4 Identify basic parts and operations, kinematic systems and structures of
+conventional machine tools.
+UME05C03.5 Understand the electromechanical, hydraulic drives and control of
+machine tools, machine tool automation
+UME05C03.6 Understand flexible automation and its need, working principle and
+application of CNC machine tools and FMS.
+Mapping of course outcomes
+POs PO-1 PO- PO-3 PO- PO- PO-6 PO-7 PO-8 PO-9 PO-10 PO- PO- PSO- PSO-
+2 4 5 11 12 1 2
+UME05C03
+Manufacturing Technology - II
+UME05C03.1 3 2 2 - - - - - - 2 - 3 3 3
+UME05C03.2 3 2 2 - - - - - - 2 - 3 3 3
+UME05C03.3 3 2 2 - - - - - 2 2 - 3 2 2
+UME05C03.4 3 2 2 - - - - - - 2 - - 3 2
+UME05C03.5 3 - 2 - - - - - - 2 - - 3 -
+UME05C03.6 3 - 2 - - - - - 2 2 - - 3 -
+Mechanical Engineering (Fifth Semester)
+
+--- Page 53 ---
+FLUID MACHINERY
+Course Credit-03 Marks(Weightage)
+Name Fluid Machinery L T P Mid End Internal
+Code UME05C04 3 0 0 30 50 20
+Introduction
+Basic Introduction of Fluid Machinery, Turbo machinery and their application, Types of turbo
+machines: power producing and power absorbing machines, axial and radial flow turbo machines,
+single stage and multi stage turbo machines, thermal and hydro turbo machines, Hydro Power
+Generation Fundamentals, Whirling of Fluids. Energy transfer in fluid Machine, Principles of
+similarity and dimensional analysis.
+Turbine Characteristics
+Performance characteristics of Kaplan, Francis turbine. Velocity diagrams, Impulse and reaction
+turbines principles. Positive displacement turbine, Dynamics turbine, Wind turbines, Governing,
+Selection and Performance of Hydraulic Turbines, Draft Tube and Cavitation, vanned diffuser.
+Pump Characteristics
+Reciprocating and Rotary pumps, pumps performance curves and matching pump to a piping
+system, pump cavitation and Net positive suction head, dynamics pumps, centrifugal pumps, Axial
+pumps, characteristics of centrifugal pump.
+Turbine and Pumps Scalling laws
+Dimensionless turbine parameters, Turbine specific speed, Dimensional analysis, pump specific
+speed, affinity law.
+Jet Propulsion
+Theory of Jet Propulsion, Pulse jet engine, ramjet engine, scram jet engine, Rot dynamic Machines,
+Compressor Characteristics
+Reciprocating and Rotary compressors, theory and applications
+Reference Books:
+i. Introduction to Fluid Mechanics and Fluid Machines by S K Som, GautamBiswas, S Chakraborty
+ii. Bansal, S.K., “Fluid Mechanics & Hydraulic Machines” Laxmi Publications.
+iii. Fluid Machinery, by G. S. Sawhney
+iv. Fluid Machinery (Hydraulic Machines), by Sadhu Singh
+v. Hydraulic Machines: Fluid Machinery, by R. K. Singal and MridualSingal
+vi. Fluid Machinery – Kerala, By S Ramachandran, R Devaraj, YvsKarthick.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 54 ---
+Course outcome (Fluid Machinery)
+No. of Course Course Outcome
+Outcome
+Apply the affinity laws to turbo machinesand give examples of the main
+UME05C04.1
+applications of turbo machines.
+Recognize typical designs of turbines.
+UME05C04.2
+Recognize typical designs of pumps.
+UME05C04.3
+Carry out the dimensional and scalling analyses of turbomachines.
+UME05C04.4
+Characterize the jet propulsion
+UME05C04.5
+Determine the off-design behavior of compressors and relate it to changes
+UME05C04.6
+in the velocity triangles.
+Mapping of course outcomes
+PO PO PO PO PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+-1 -2 -3 -4 5 6 7 8 9 10 11 12 1 2
+Fluid Machinery
+UME05C04.1
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+UME05C04.2
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+UME05C04.3
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+UME05C04.4
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+UME05C04.5
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+UME05C04.6
+3 3 2 2 1 1 1 1 1 1 1 1 3 2
+Mechanical Engineering (Fifth Semester)
+
+--- Page 55 ---
+VIBRATION AND CONTROL
+Course Credit-03 Marks(Weightage)
+Name Vibration and Control L T P Mid End Internal
+Code UME05C06 3 0 0 30 50 20
+Unit 1: Undamped free vibration of single degree of freedom system, damped free vibration,
+forced vibration of single degree of freedom system, resonance, forced vibration with constant
+harmonic excitation, forced vibration with rotating and reciprocating unbalance
+Unit 2: Forced vibration with excitation of support, forced vibration with coulomb damping&
+viscous, damping. Determination of equivalent viscous damping from frequency-response curve.
+Vibration isolation and transmissibility.
+Unit 3: Vibration control, Vibration Isolation theory, Isolation theory for harmonic excitation,
+Practical aspects of vibration analysis, Shock isolation, Dynamic vibration absorbers, Vibration
+dampers
+Unit: 4: Transverse vibration of shafts. Critical speed of shaft.
+Unit 5: Torsional vibration- Single rotor, two rotor, and three rotor system. Torsional vibrations of
+a geared system. Vibration measuring instruments-seiosmometer, accelerometer.
+Unit 6: Two degrees of freedom system.
+Text Books:
+ii. Grover, G.K., “Mechanical Vibrations”
+Reference Books:
+i. Rattan, S.S., “Theory of Machine” Tata McGrawHill Publications.
+ii. Khurmi, R.S., Gupta, J.K., “Theory of Machine” S. Chand.
+iii. Rao, J.S. and Gupta, K., Introductory Course on Theory and Practice of Mechanical
+Vibration, New Age International Pvt. Ltd., 1984.
+iv. Thomson, W.T., Theory of Vibration with Applications, CBS publishers, New Delhi, 1990.
+v. B.C.Kuo, “Control Theory”.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 56 ---
+Course Outcome (Vibration and Control)
+No. of Course Outcome Course outcome
+Understanding of basic importance of Vibration and its analysis in machine
+UME05C06.1
+parts.
+Analysis of various linear mathematical models for Single DOF Undamped Free
+UME05C06.2
+Vibratory systems and its relation with the actual mechanical vibratory system.
+Obtain linear mathematical models of Damped Free and forced vibratory
+UME05C06.3 systems from real life engineering systems and determine the vibratory responses
+to harmonic, periodic and non-periodic excitation
+Investigate the causes and effect of Transverse and Longitudinal vibrations in
+UME05C06.4
+Mechanical systems.
+Develop the mathematical model of the two degrees of freedom systems and
+UME05C06.5
+explain about the working principle of vibration absorber.
+Apply the knowledge to practical engineering problem for better solutions by
+UME05C06.6
+staying updated with the latest developments
+Mapping of course outcomes
+COs PO PO PO PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO
+1 2 3 2
+UME05C06 Vibration and Control
+UME05C06.1 2 2 2 2 - 2 - - - - - 2 - -
+UME05C06.2 2 3 2 3 - 2 - - - - - 2 - 3
+UME05C06.3 2 3 2 3 - 2 - - - - - 2 - 3
+UME05C06.4 3 3 2 3 - 2 - - - - - 2 3 -
+UME05C06.5 3 2 3 3 - 2 - - - - - 2 - 3
+UME05C06.6 3 2 2 2 - - - - - - - 3 - 3
+Mechanical Engineering (Fifth Semester)
+
+--- Page 57 ---
+MECHANICAL MEASUREMENT & INSTRUMENTATION
+Course Credit-03 Marks(Weightage)
+Mechanical Measurement &
+Name L T P Mid End Internal
+Instrumentation
+Code UME05C05 3 0 0 30 50 20
+Vibration and Noise measurement: Seismic Instruments, Vibration pick ups and decibel meters
+Basics of measurement: Characteristics of measuring instruments, elements of an instrument, calibration of
+instruments, generalized measuring system and functional elements, static and dynamic performance
+characteristics of measurement devices, accuracy, Precision, Resolution, Threshold, Sensitivity, Linearity,
+Hysteresis, Dead Band, Backlash, Drift calibration, and types of error in instruments, statistical analysis of
+errors., selection of instruments.
+Basic Statistical Concepts : Types of Measured Quantities (Discrete and Continuous),Central Tendency of
+Data, Mode, Median, Arithmetic Mean, Best Estimate of true Value of Data, Measures of Dispersion, Range,
+Mean Deviation, Variance, Standard Deviation, Normal Distribution, Central Limit, theorem, Significance
+Test, Method of Least Squares, Graphical representation and Curve Fitting of Data.
+Sensors and Transducers: Types of sensors, types of transducers and their characteristics
+Signal transmission and processing: Devices and systems. Signal Display & Recording Devices
+Measuring Standards: Classification of standards, basic standards used worldwide, airy points for minimum
+deflection
+Speed measurement: various types of Tachometer, Stroboscope, Measurement- of displacement and angular
+velocity
+Measurement of pressure: Gravitational, Directing acting, elastic and indirect type pressure transducers,
+Measurement of very low pressure
+Strain Measurement: Types of strain gauges and their working, strain gauge circuits, Temperature
+compensation, Strain rosettes
+Temperature Measurement: By thermometers, bimetallic, Thermocouples, thermistors and pyrometers.
+Measurement of Flow: Obstruction meters, Variable head meters, hot wire and magnetic meters, Ultrasonic
+flow meters etc
+Force measurement & Torque Measurement: Beam balance, various types of load cells, various types of
+dynamometers, characteristics of dynamo meters, direct power measurement systems.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 58 ---
+TEXT BOOK
+Sawney R, “Instrumentation and Mechanical Measurements”, Dhanpat Rai and Sons, New Delhi
+(2003)
+REFERENCE BOOKS
+1. Nagrath and Gopal, “Control System Engineering”, New Age Publishers.
+2. Measurement and Instrumentation in Engineering, Francis S. Tse and Ivan E. Morse, Marcel
+Dekker.
+3. Instrumentation, Measurement and Analysis – B.C. Nakra and K.K. Chaudhary, TMH
+Course outcome (Mechanical Measurement & Instrumentation)
+No. of Course Outcome Course Outcome
+Make accuracy statements for various types of measurements.
+UME05C05.1
+Differentiate between digital and analog measurements and describe
+UME05C05.2
+the advantages of each.
+Use basic electronic test equipment for simple troubleshooting
+UME05C05.3
+applications.
+UME05C05.4 Recognize the importance of pneumatic equipment.
+UME05C05.5 Define pressure and understand the operation of pressure transducers.
+Use pressure transducers to measure level and flow.
+UME05C05.6
+Mapping of course outcomes
+POs PO- PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+1
+UME05C05
+Mechanical Measurement & Instrumentation
+UME05C05.1 3 - - 3 - 2 2 2 - 3 - 2 2 1
+UME05C05.2 2 - - 3 - 2 2 2 - 2 2 2 3 1
+UME05C05.3 3 - - 3 - 2 2 2 - 2 - 2 1 2
+UME05C05.4 2 - - 3 - 3 2 3 - 3 - 3 2 2
+UME05C05.5 3 - - 3 - 2 3 2 - 2 2 2 3 2
+UME05C05.6 2 - - 3 - 3 2 2 - 3 2 2 2 2
+Mechanical Engineering (Fifth Semester)
+
+--- Page 59 ---
+VIBRATION LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Vibration Laboratory L T P Mid End Internal
+Code UME05P30 0 0 2 00 100 00
+Course contents:
+Exp-1: To Verify the relation of simple pendulum T= 2π √l
+g
+Exp-2: To determine the radius of gyration K of given pendulum
+(OG)
+Exp-3: To verify the relation T= 2 π√
+g(OG)
+Exp-4: To determine the radius of Gyration of given bar by using Bi-Flier suspension
+Exp-5: To study the longitudinal vibration of helical spring and to determine the
+frequency or time period of vibration (oscillation) theoretically and actually
+Exp-6: To study the damped torsional oscillation and to determine the damping co-efficient
+(Ct).
+Exp-7: To find the natural frequency of undammed free vibration of equivalent spring mass
+system
+Exp-8: To study the force vibration of equivalent spring mass system
+Exp-9: To study the torsional vibration (undamped) of single rotor shaft system
+determines the natural frequency of vibration theoretically and experimentally.
+Exp-10: To study the free vibration of two rotor system and to determine the natural
+frequency of vibration theoretically and experimentally
+Exp-11: To study the force lateral vibrations of the beam for different damping
+Text Books: 1. Mechanical Vibration, author: G.K Grover.
+2. Mechanical Vibration, author: S.S Rao.
+Reference: Lab Manual
+Mechanical Engineering (Fifth Semester)
+
+--- Page 60 ---
+Course outcome (Vibration Laboratory)
+No. of COs Name of the Course Outcome
+Understanding experimentally the effect of different parameters on the time
+UME05P30.1
+period of a simple & compound pendulum.
+Determine moment of inertia of member using experimental methods
+UME05P30.2
+(calculating time period, bifilar suspension and trifilar suspension).
+UME05P30.3 Understanding the effect of damping in mechanical systems responses.
+Understanding undamped free and forced vibration of equivalent spring mass
+UME05P30.4
+system. Vibration of Beams.
+Experimentally understanding the torsional vibration of rotors (single and double
+UME05P30.5
+rotor system).
+Understanding and Analysis Damped Vibration, Forced Vibration
+UME05P30.6
+Experimentally.
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME05P30
+Vibration Laboratory
+- 3 - 3 - - - - 3 - - - - 3
+UME05P30.1
+3 3 - 3 - - - - 3 - - - - 3
+UME05P30.2
+- 3 - 3 - - - - 3 - - - - 3
+UME05P30.3
+3 3 - 3 - - - - 3 - - - - 3
+UME05P30.4
+- 3 - 3 - - - - 3 - - - - 3
+UME05P30.5
+3 3 - 3 - - - - 3 - - - - 3
+UME05P30.6
+Mechanical Engineering (Fifth Semester)
+
+--- Page 61 ---
+MACHINE DESIGN LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Machine Design
+L T P Mid End Internal
+Laboratory
+Code UME05P31 0 0 2 00 100 00
+1. Introduction of the Course:
+Computer based 3D modeling and simulation is an essential tool for a lot of industrial
+problems with diverse applications. In this session students learn and utilize the advanced
+methods/ techniques available within Mechanical CAD/ CAM/ CAE software.
+2. Course Objectives:
+I. To impart students with the necessary skills for utilizing Advanced tools for Modeling
+and Assembly of machine components using CAD tool (in Solidworks).
+II. To impart students with the necessary skills for utilizing Advanced tools for Drafting of
+Model and Assemblies of machine components using CAD tool (in Solidworks).
+III. To impart students with the necessary skills for utilizing tools Structural Analysis of
+Parts and Assembly of machine components using CAD/CAE tool (in Solidworks).
+(The Solidworks CAD/CAM/CAE software is being chosen mainly because of the
+availability of license.)
+3. Course Contents:
+Ex. 1: Equations, Configurations, And Library Features in Solidworks.
+Ex. 2: Advanced Modeling Tools in Solidworks.
+Ex. 3: Top- Down Assembly method and Sub- Assemblies in Solidworks.
+Ex. 4: Working with Blocks in Solidworks.
+Ex. 5: Neutral file/ formats in Solidworks.
+Ex. 6: Surfacing tools in Solidworks.
+Ex. 7. Advanced Drafting in Solidworks.
+Ex. 8. Introduction to FEA and Structural Analysis in solidworks.
+Text Books:
+1. “A Textbook of Machine Design” - By R.S. Khurmi.
+2. “Automating SOLIDWORKS Using Macros- A guide to creating VSTA macros using the
+Visual Basic.NET Language”- SDC publications.
+3. “Introduction to Finite Element Analysis using Solidworks” – SDC Publications.
+Reference Books:
+i. DOME Laboratory of ME Department, NIT Agartala
+ii. Other Online/ Offline Resources available.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 62 ---
+Course outcome (Machine Design Laboratory)
+No. of COs Name of the Course Outcome
+CO1 Ability to induce Automation in the process of Modeling and Assembly
+CO2 Ability to create, import and utilize standards parts based on libraries.
+CO3 Ability to create advanced assemblies using Reverse Engineering
+Techniques.
+CO4 Awareness of the Multi-CAD Environment and ability to work with Neutral
+Formats.
+CO5 Understanding the concept of Class-A surfacing and representation of
+GD&T in Drafting sheet.
+CO6 Ability to prepare CAE model and basic Structural Analysis.
+Mapping of course outcomes
+POs PO-1 PO-2 PO-3 PO-4 PO-5 PO- PO- PO-8 PO-9 PO-10 PO-11 PO-12 PSO- PSO-
+6 7 1 2
+CO 1 2 3 3 2 3 2 2 2 2 2 2 2 3 3
+CO 2 3 3 2 2 3 2 2 2 2 2 2 2 2 3
+CO 3 2 3 3 2 3 2 2 2 2 2 2 2 2 3
+CO 4 2 3 3 3 3 2 2 2 2 2 2 2 2 3
+CO 5 3 3 3 3 3 2 2 2 2 2 2 2 3 3
+CO 6 3 3 3 3 3 2 2 2 2 2 2 2 3 3
+Avg. 2.5 3 2.83 2.5 3 2 2 2 2 2 2 2 2.5 3
+Mechanical Engineering (Fifth Semester)
+
+--- Page 63 ---
+MECHANICAL MEASUREMENT & INSTRUMENTATION LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Mechanical Measurement
+& Instrumentation L T P Mid End Internal
+Laboratory
+Code UME05P32 0 0 2 00 100 00
+Exp-1: Study and use of vernier calipers
+Exp-2: Study and use of vernier height gauge
+Exp-3: Study and use of micrometers.
+Exp-4: Study of dial indicator and it’s used.
+Exp-5: Measurement of screw thread
+Exp-6: Study & angular measurement using level protector
+Exp-7: Study & working of tachometer.
+Exp-8: Measurement of angle using sine-bar & slip gauges.
+Exp-9: Study and use of limit gauges.
+Exp-10: Measurement of spark plug gap using feeler gauges
+Exp-11: Measurement of various elements of gear.
+Exp-12: Estimate the response times.
+1. Mercury – in glass thermometer
+2. Thermocouple
+3. Electrical resistance thermometer
+4. Bio-metallic strip
+Mechanical Engineering (Fifth Semester)
+
+--- Page 64 ---
+Course Outcome (Mechanical Measurement & Instrumentation Laboratory)
+No. of COs Name of the Course Outcome
+Explain the basics of standards of measurement, limits, fits & tolerances industrial
+UME05P32.1
+applications.
+Understand and Describe the basic standards of measurements and application
+UME05P32.2
+Understand the significance of measurement system, errors, transducers, intermediate
+UME05P32.3
+modifying and terminating devices
+Understand and Apply the knowledge of geometric dimensioning and Industrial
+UME05P32.4 tolerancing
+Understand how instruments are used for different mechanical measurements
+UME05P32.5
+Explain various measuring techniques for Pressure, Strain and Temperature with neat
+UME05P32.6
+sketches
+Mapping of course outcomes
+PO PO- PO- PO- PO PO PO PO- PO- PO- PO- PO- PSO PSO
+POs
+-1 2 3 4 -5 -6 -7 8 9 10 11 12 -1 -2
+UME05P32 Mechanical Measurement & Instrumentation Laboratory
+3 - - - - 3 - 3 3 - - - 3 -
+UME05P32.1
+3 - - - - 2 - - 3 - - - 3 -
+UME05P32.2
+3 - - - - - - - 3 - - - 3 -
+UME05P32.3
+3 3 - 3 - - - - 3 - - - 3 -
+UME05P32.4
+3 - - - - - - - 2 - - - 3 -
+UME05P32.5
+3 - - - - - - - 2 - - - 3 -
+UME05P32.6
+Mechanical Engineering (Fifth Semester)
+
+--- Page 65 ---
+MACHINING & MACHINE TOOL LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Machining & Machine
+L T P Mid End Internal
+Tool Laboratory
+Code UME05P33 0 0 2 00 100 00
+Exp 1: Making of Centre punch by MS round bar.
+Exp 2: Making of MS Cuboid along with a slot inside it.
+Exp 3: Making of External thread on MS round bar
+Exp 4: Making Spur and helical gear using Universal Milling Machine.
+Exp 5: Various types of Linear, Angular, Temperature, Force and Torque measurement
+techniques.
+Exp 6: Checking the limits of dimensional tolerance using various Comparators.
+Text Books:
+i. Hazra Chowdhury, “Workshop Technology - I”, Media Promoters & Publishers.
+Reference Books:
+i. V.K.Jain, Advance Machining Processes, Allied Publisher Bombay
+ii. Ghosh and Malik, Manufacturing Science,EWP Private Ltd.
+iii. P.C. Pandey, Modern Machining Processes, TMH Publication, New Delhi
+iv. Benedict G.F., Non Traditional Manufacturing Processes, Marcel Dekker
+J.A. McGough, Advanced Machining Methods
+Mechanical Engineering (Fifth Semester)
+
+--- Page 66 ---
+Course Outcome (Machining & Machine Tool Laboratory)
+No. of COs Name of the Course Outcome
+Perform plain turning, step turning, knurling, threading, eccentric turning, chamfering
+UME05P33.1
+and facing operations on a lathe.
+Estimate the chip reduction coefficient and shear angle on a shaping machine.
+UME05P33.2
+Drill holes and produce internal threads.
+UME05P33.3
+Machine spur and helical gears on a milling machine, Understanding Indexing.
+UME05P33.4
+Prepare setups and measure dimensional and geometrical features of components.
+UME05P33.5
+Measure surface roughness of components.
+UME05P33.6
+Mapping of course outcomes
+PO- PO- PO- PO-
+POs PO-2 PO-3 PO-4 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+1 5 6 7
+UME05P33 Machining & Machine Tool Laboratory
+UME05P33.1 3 - - - - - - - 3 - - - 2 -
+UME05P33.2 3 3 - - - - - - 3 - - - - 3
+UME05P33.3 3 - - - - - - - 3 - - - 3 -
+UME05P33.4 3 - - - - - - - 3 - - - 3 -
+UME05P33.5 3 3 - - - - - - 3 - - - 3 -
+UME05P33.6 3 3 - 3 - - - - 2 - - - 3 -
+Mechanical Engineering (Fifth Semester)
+
+--- Page 67 ---
+HEAT & MASS TRANSFER LAB
+Course Credit-01 Marks(Weightage)
+Name Heat & Mass Transfer Lab L T P Mid End Internal
+Code UME05P28 0 0 2 00 100 00
+Exp-1: Study of heat transfer through composite wall.
+Exp-2: Study of heat transfer through lagged pipe.
+Exp-3: Study of heat transfer through fin.
+Exp-4: Study of un-steady state of heat transfer.
+Exp-5: Study of heat transfer in forced convection
+Exp-6: Study of heat transfer in natural convection.
+Exp-7: Heat transfer study in parallel flow, counter flow heat exchanger walls.
+Exp-8: Study of heat transfer through fin tube heat exchanger.
+Exp-9: Heat transfer study shell & tube heat exchanger.
+Exp-10: Study of critical heat flux in boiling.
+Exp-11: Determination of Stefen-Boltzmann constant experimentally
+Mechanical Engineering (Fifth Semester)
+
+--- Page 68 ---
+Course outcome (Heat & Mass Transfer Lab)
+No. of Course Outcome Course Outcome
+(c)
+UME05P28.1 Understand the basic laws of heat transfer
+Use the necessary skills to bridge the gap between knowledge and
+UME05P28.2
+the confidence to properly apply knowledge
+Analyze the problems involving steady state, transient heat
+UME05P28.3
+conduction in simple geometries
+Perform numerical solutions for conduction, convection and
+UME05P28.4
+radiation heat transfer problems
+Perform experiments and evaluate heat transfer coefficients for
+UME05P28.5
+natural convection and for forced convection on different geometries
+Identify, formulate, and solve engineering problems related to heat
+UME05P28.6 transfer and able to use the techniques, skills, and modern
+engineering tools necessary for engineering practice
+Mapping of course outcomes
+POs PO-1 PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+2 3 4 5 6 7 8 9 10 11 12 1 2
+UME05P28 Heat & Mass Transfer Lab
+UME05P28.1 3 - - - - - - - - - - - - -
+UME05P28.2 3 3 - - - - - - 2 - - - - -
+UME05P28.3 3 3 - 3 - - - - 3 - - - - 3
+UME05P28.4 3 3 - 2 - - - - 3 - - - - 3
+UME05P28.5 3 3 - 3 - - - - 3 - - - 3 3
+UME05P28.6 3 3 - - 3 - - - 3 - - - - 3
+Mechanical Engineering (Fifth Semester)
+
+--- Page 69 ---
+FLUID MACHINERY LABORATORY
+Course Credit-01 Marks(Weightage)
+Name Fluid Machinery
+L T P Mid End Internal
+Laboratory
+Code UME05P29 0 0 2 00 100 00
+Experiment-1: To study the detail working characteristics of Pelton Wheel Turbine.
+Experiment-2: To study the detail working characteristics of Francis Turbine.
+Experiment-3: To study the detail working characteristics of Kaplan Turbine.
+Experiment-4: To study the detail working characteristics of Reciprocating Pump.
+Experiment-5: To study the detail working characteristics of Centrifugal Pump.
+Experiment-6: To study the detail working characteristics of Reciprocating Compressor.
+Text Books:
+iii. Cengel, Y.A., “Fluid Mechanics: Fundamentals & Applications (SI Units)”, Tata McGraw-Hill
+Publications.
+iv. Rajput, R. K., “Fluid Mechanics & Hydraulic Machines, S. Chand Publications.
+Reference Books:
+vi. Laboratory Manual from ME Department, NIT Agartala
+vii. S.K. Som, G. Biswas, S. Chakraborty, “Introduction to Fluid Mechanics and Fluid Machines”.
+Mechanical Engineering (Fifth Semester)
+
+--- Page 70 ---
+Course Outcome (Fluid Machinery Laboratory)
+No. of COs Name of the Course Outcome
+UME05P29.1 To understand the basic working principles of Pelton Wheel Turbines
+UME05P29.2 To know about the power developed by the Francis and Kaplan Turbines.
+UME05P29.3 To know the working principles of Reciprocating and Centrifugal Pumps.
+UME05P29.4 To understand the working principles of Reciprocating Compressor and it’s
+applications.
+UME05P29.5 To study the various components of turbines and pumps and study their
+operating characteristics.
+UME05P29.6 To design various components of dams, lock gates and draft tubes.
+Mapping of course outcomes
+PO PO PO PO PO PO PO- PO- PO- PO- PO- PSO PSO
+POs PO-5
+-1 -2 -3 -4 -6 -7 8 9 10 11 12 -1 -2
+UME05P29 Fluid Machinery Laboratory
+UME05P29.1 3 2 3 - - - - - - - 2 - 3 3
+UME05P29.2 3 - 2 - - - - - - - 2 - - 2
+UME05P29.3 2 - - - 2 - - - - - - 2 2 3
+UME05P29.4 - 2 3 - - - - - 2 - - 3 3 3
+UME05P29.5 3 2 3 2 3 - - - - - 3 - 3 3
+UME05P29.6 - - 2 - 3 - - - - - - 2 2 2
+Avg. 2.8 2 2.6 2 2.67 - - - 2 - 2.33 2.33 2.6 2.67
+Mechanical Engineering (Fifth Semester)
+
+--- Page 71 ---
+MINOR PROJECT -I
+Course Credit-01 Marks(Weightage)
+Name Minor Project -I
+L T P Mid End Internal
+Code UME05P27 0 0 2 00 100 00
+No. of Course Outcome
+Course Outcome
+(C)
+UME05P27 At the end of this course, student will be able to
+Survey and identify the problems related to Mechanical
+UME05P27 / C01
+Engineering.
+Develop a systematic model/approach to analyze and solve the
+UME05P27 / C02
+technical problems as individual / team.
+Design and Propose a conceptual Model / Design and Develop a
+UME05P27 / C03 Prototype / Perform a case study for societal benefit ethically
+considering environmental factors.
+UME05P27 / C04 Conduct experiments / theoretical evaluation to some extent.
+Summarize their survey, problem identification, approach, design,
+UME05P27 / C05 expected outcome and attained results with cost estimation
+optimistically by means of oral presentation and written reports
+CO PO1 PO2 PO3 PO4 POI5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+UME05P27 Project Part – I
+UME05P27 /
+2 3 3 - -
+C01
+UME05P27 /
+3 3 - 3
+C02
+UME05P27 /
+3 3 2 2 2 2 2
+C03
+UME05P27 /
+3 3 - 3
+C04
+UME05P27 /
+3 2 3 -
+C05
+Average 2 3 3 3 3 2 2 2 3 3 2 3 2.5 2.67
+Mechanical Engineering (Fifth Semester)
+
+--- Page 72 ---
+Mechanical Engineering Department
+
+ 
+
+Sixth Semester (Syllabus)
+
+
+--- Page 73 ---
+SIXTH SEMESTER
+CODE SUBJECT NAME L-T-P CREDIT
+UME06C01 Dynamics of Machines 3-0-0 03
+UME06C03 Advanced Manufacturing Processes 3-0-0 03
+UME06C02 Refrigeration & Air Conditioning 3-0-0 03
+UME06C04 I.C. Engines 3-0-0 03
+UME06C06 Thermal Power Engineering 3-0-0 03
+Industrial Engineering &
+UME06C05 3-0-0 03
+Management
+Environmental Engineering
+UME06B23 1-0-0 00
+(Mandatory Course)
+LABORATORIES
+UME06P31 ME LAB-VII(Refrigeration & Ac Lab) 0-0-2 01
+UME06P32 ME LAB-VII (Thermal Power Lab) 0-0-2 01
+ME LAB-IX(Advanced Manufacturing 0-0-2 01
+UME06P33 Process Laboratory)
+UME06P34 ME LAB IX(I.C Engines Laboratory) 0-0-2 01
+UME06P30 Minor Project -II 0-0-3 01
+Industrial Tour 0-0-0 00
+TOTAL CREDIT 19-0-11 23
+Mechanical Engineering (sixth Semester)
+
+--- Page 74 ---
+DYNAMICS OF MACHINE
+Course Credit-03 Marks (Weightage)
+Name Dynamics of Machine L T P Mid End Internal
+Code UME06C01 3 0 0 30 50 20
+Inertia Force Analysis In Reciprocating Parts : Introduction , D-Alembert’s principle, Velocity
+and Acceleration of the piston- Analytical & graphical, Torque in the crankshaft neglecting inertia
+and friction; Various forces acting on the reciprocating part considering friction and inertia but
+neglecting weight of the connecting rod , Correction couple ,Dynamically Equivalent system ,
+Torque on Crank shaft considering weight of connecting rod.
+Gyroscope: Principle of gyroscope couple; Effect of gyroscope couple and centrifugal force on
+vehicle taking a turn; Stabilization of sea vessels.
+Turning Moment Diagram and Flywheel: -Turning moment diagram for different types of
+Engines, Fluctuation of energy and speed; Flywheel; Flywheel Rim dimensions; Operation of
+flywheel in punching press.
+Governor: Simple functioning of a Governor, porter, Proell, Hartnell and spring controlled,
+governor effect, Power stability; Inertia effects.
+Balancing of Rotating Masses: Balancing of rotating masses in the same and different planes;
+Static& Dynamic balancing.
+Balancing of Reciprocating masses; Sawing couple; Hammer blow, tractive force, Primary and
+secondary balancing of a Locomotive and Internal combustion Engine; Balancing of V-Engines;
+Balancing machines.
+Text Books:
+i. Shigley, J.E., Vicker Jr., J.J., Theory of Machines and Mechanisms, McGraw-Hill, 1995.
+ii. S.S Ratan, Theory of Machines. MGH.
+Reference Books:
+i. Rao, J.S. and Dukkipati, R.Y., Mechanism and Machine Theory, 2nd ed., Wiley Eastern Ltd.,
+1995.
+ii. Rattan, S.S., “Theory of Machine” Tata McGrawHill Publications.
+iii. Khurmi, R.S., Gupta, J.K., “Theory of Machine” S. Chand
+Mechanical Engineering (sixth Semester)
+
+--- Page 75 ---
+Course Outcomes: (Dynamics of Machine)
+COs Course outcomes
+Analysis of inertial and external force on mechanisms through analytical and graphical
+UME06C01.1
+process.
+UME06C01.2 Investigate the causes and effect of gyroscopic action in rotating mechanical systems.
+Analysis of (i) turning moment and investigate its effect on the design of Flywheels (ii)
+UME06C01.3
+balancing of rotating and reciprocating parts of the machinery.
+Understanding of basic importance of force, its effect and distribution in various
+UME06C01.4
+mechanism, different types of Governors
+UME06C01.5 Apply basic ideas for overall solution of the problem in terms of stability and balancing.
+Apply the knowledge to practical engineering problem for better solutions by staying
+UME06C01.6
+updated with the latest developments.
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO
+1 2 3 4 5 6 7 8 9 0 1 2 1 2
+UME06C01
+Dynamics of Machine
+2 2
+UME06C01.1 3 - - - - - - - - - - -
+3 2
+UME06C01.2 - - 3 - - - - - - - - -
+3 2
+UME06C01.3 3 3 3 - - - - - - - - -
+3 2
+UME06C01.4 3 - 3 - - - - - - - - -
+3 2
+UME06C01.5 - 3 3 - - - - - - - - -
+2 2
+UME06C01.6 - 3 - - - - - - - - - 3
+Average 3 3 3 - - - - - - - - 3 2.66 2.00
+Mechanical Engineering (sixth Semester)
+
+--- Page 76 ---
+ADVANCED MANUFACTURING PROCESSES
+Course Credit-03 Marks (Weightage)
+Name Advanced Manufacturing L T P Mid End Internal
+Processes
+Code UME06C03 3 0 0 30 50 20
+Advanced Machining Processes: Introduction, Process principle, Material removal mechanism,
+Parametric analysis and applications of processes such as ultrasonic machining (USM), Abrasive
+jet machining (AJM), Water jet machining (WJM) Abrasive water jet machining (AWJM),
+Electrochemical machining (ECM), Electro discharge machining (EDM), Electron beam
+machining (EBM), Laser beam machining (LBM) processes, working principal of Plasma arc
+machining.
+Advanced Welding Processes: Details of electron beam welding (EBW), laser beam welding
+(LBW), ultrasonic welding (USW).
+Advanced Casting Processes: Metal mould casting, Continuous casting, Squeeze casting,
+Vacuum mould casting, Evaporative pattern casting, Ceramic shell casting.
+Advanced Metal Forming Processes: Details of high energy rate forming (HERF) process,
+Electro-magnetic forming, explosive forming Electro-hydraulic forming, Stretch forming,
+Contour roll forming.
+Other Processes: Additive manufacturing, 3D (Three-dimensional)Printing, Nano-
+manufacturing, Sustainable Manufacturing.
+Text Books:
+“Advanced Machining Processes” V.K. Jain, Allied Publishers Pvt. Ltd.
+“Modern Machining Processes” P.C Pandey & H.S. Shan, McGraw Hill Education.
+"Materials and Processes in Manufacturing" (8th Edition), E. P. DeGarmo, J. T Black, R. A. Kohser,
+Prentice Hall of India, New Delhi.
+"Manufacturing Science" A. Ghosh, and A. K. Mallik, Affiliated East-West Press Pvt. Ltd. New Delhi.
+Rao P N, “Manufacturing Technology”, Tata McGraw Hill Publilishing Company.
+Reference Books:
+Mishra P K,”Non Conventional Machining”, Narosa Publishers.
+Singh K K “Unconventional Manufacturing Processes” Dhanpat Rai & Company, New Delhi.
+"Nontraditional Manufacturing Processes", G.F. Benedict, Marcel Dekker, Inc. New York.
+Mechanical Engineering (sixth Semester)
+
+--- Page 77 ---
+Course outcome (Advanced Manufacturing Processes)
+COs Course outcome
+UME06C03.1 To understand the categorization of different material removal processes, joining,
+forming, and casting in advance stage as per requirements for the product.
+UME06C03.2 To select material processing technique with the intention of cost reduction,
+reducing material wastage and less processing time.
+UME06C03.3 To understand the process parameters affecting the product quality in various
+advanced machining of metals/ non-metals, ceramics, composites and in advance
+welding and forming processes.
+UME06C03.4 Ability to combine and develop novel hybrid techniques.
+UME06C03.5 To perform process analysis taking into account the various responses considered in
+a process.
+UME06C03.6 To understand the utility of different advance technique in manufacturing and their
+limitations.
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME06C03.1
+2
+1 2 1 3 2 1 3 1 2 1 1 2 3
+UME06C03.2
+2
+2 1 2 3 2 - 2 1 - 1 1 2 2
+UME06C03.3
+2 2
+2 - - 2 1 1 2 1 - 1 3 2
+UME06C03.4
+2 2
+1 1 2 3 2 - 1 1 - 1 2 3
+UME06C03.5
+1 2 1 2 1 - 2 1 - 1 1 1 2 2
+AVG 2 2 1 3 2 1 2 - - 1 1 1 2 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 78 ---
+REFRIGERATION & AIR CONDITIONING
+Course Credit-03 Marks (Weightage)
+Name Refrigeration & Air Conditioning L T P Mid End Internal
+Code UME06C02 3 0 0 30 50 20
+Principles of Refrigeration & Refrigeration cycle: Introduction to Refrigeration, Reversed Carnot Cycle,
+Methods of producing Low Temperatures Refrigerants-Designation and trade name, Physical, Chemical &
+Thermodynamic properties of principal refrigerants
+Vapour Compression Refrigeration Cycle: Performance Aspects and Cycle Modifications, Deviation from
+actual cycle, Multi-Stage Vapour Compression Refrigeration Systems
+Multi-Evaporator and Cascade Systems, Air Refrigeration Systems-Bell-Coleman Cycle, evaporation &
+bootstrap evaporation type, T-S & p-h diagrams, COP.
+Vapour: Absorption Refrigeration Systems: Vapour Absorption Refrigeration Systems Based On Water-
+Lithium Bromide Pair and Ammonia-Water Pair, Electrolux Refrigerator. Refrigeration Equipments—Types of
+Compressors, Condensers, Expansion devices & Evaporators, Application of Refrigeration
+Psychrometrics: Atmospheric air, air and humidity, terms and calculation, psychrometric chart, air humidity
+processes, humidification &dehumidification, By-pass factor, summer and winter air load, housing system.
+Comfort air conditioning: Effective temperature, comfort chart, ventilation requirements.
+Solar Radiation: Distribution of solar radiation, direct and diffuse radiation, Direct solar radiation on a vertical,
+horizontal, inclined surface, heat gain through glass, heat transfer in building structures through walls and roofs.
+Empirical methods to evaluate heat transfer through walls and roofs, infiltration, passive heating and cooling of
+building. Air distribution system, basic theory, air duct losses, design of air duct system, air delivery and
+distribution
+Air conditioning systems: Unit conditioners, central air conditioning, control of air conditioning apparatus,
+space cooling load calculation, heat transmission through barriers, solar radiation, infiltration, occupants, electric
+lights &appliances, product load, outside air and ventilation, SHR By-pass factor, ADP, refrigeration load. Fluid
+flow and pressure loss, equivalent length system & duct design, air distribution system, basic control system.
+Solar heating and cooling, air conditioning through solar system, building designs for air conditioning
+References:
+1. Arora,C.P.,―Refrigeration and Air Conditioning”,2nd ed., Tata McGraw-Hill2000.
+2. Ananth Narayanan, ―Basic Refrigeration & Air Conditioning‖, Tata McGraw-Hill
+3. Khurmi, Gupta, ―Refrigeration and Air Conditioning”, S. Chand Publishers
+Mechanical Engineering (sixth Semester)
+
+--- Page 79 ---
+Course outcome (Refrigeration & Air Conditioning):
+Course outcome
+UME06C02.1 Understand the principles of refrigeration and air conditioning design, and consideration
+that influence the design including human comfort, weather and environmental
+parameters and building structure
+UME06C02.2 Use the necessary skills to bridge the gap between knowledge and the confidence to
+properly apply knowledge
+UME06C02.3 Perform the computational methods in refrigeration and air conditioning design
+UME06C02.4 Implement the basic design skills to estimate life-cycle costing and choose the right
+type of system
+UME06C02.5 Understand the load estimation and analysis, psychometric analysis of a system and
+climate data and its use;
+UME06C02.6 Develop analytical cognitive skills and improve problem solving skills in refrigeration
+and air conditioning
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO
+1 2 3 4 5 6 7 8 9 0 1 2 1 2
+UME06C02 Refrigeration & Air Conditioning
+UME06C02.1 3 - - - - - - - - - - - - 2
+UME06C02.2 3 - - - - - - - 3 - - - - -
+UME06C02.3 3 3 3 - 3 - - - 3 - - - 3 3
+UME06C02.4 3 3 2 - - - - - 3 - - - 2 3
+UME06C02.5 3 - - - - - - - - - - - 3 -
+UME06C02.6 - 3 - - - - - - - - - - - 2
+Average 3 3 3 - 3 - - - 3 - - - 3 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 80 ---
+IC ENGINE
+Course Credit-03 Marks (Weightage)
+Name IC Engine L T P Mid End Internal
+Code UME06C04 3 0 0 30 50 20
+Basic types of engines, air standard cycle, fuel air cycles, actual cycles, losses in actual engine
+operation, MEP, thermal efficiency. Desirable characteristics of fuels for I.C. engines. Octane number,
+cetane number, performance numbers. Properties of air-petrol mixtures.
+Elimentary carburetor, complete carburetor, petrol injection.
+Diesel injection system, fuel pump, fuel injectors and nozzles.
+Battery ignition system, Magneto injection system, Electronic ignition system using contract breaker,
+ignition system and spark advance.
+Theories of combustion in S.I and C.I. engine, methods of reduction of detonation and knock.
+Combustion chamber types in S.I. and C.I. engine, Supercharging, Scavenging of I.C. engines, two
+stroke S.I and C.I. engines.
+Lubrication of I.C. engines, properties of lubricating oils, lubricating systems, cooling of I.C engines,
+air and water cooling systems.
+Fundamentals of free piston and rotary engines, performance and testing of I.C. engines, Pollutant
+emission formation and control.
+Text Books:
+1. Ganesan, V., ―Internal Combustion Engines”, 2nd ed., Tata McGraw-Hill, 2003.
+2. Sharma, Mathur,. ―Internal Combustion Engine, Dhanpat Rai & Sons.
+Reference Books:
+1. Crouse, Anglin., ―Automotive Mechanics‖ Tata McGraw-Hill
+2.. Kirpal Singh, Automotive Engineering, Vol. I & II, Standards Publishers, New Delhi, 2002.
+Mechanical Engineering (sixth Semester)
+
+--- Page 81 ---
+Course Outcomes(IC Engine)
+Knowledge of various types of I.C. Engines and Cycles of operation. Desirable
+UME06C04.1 characteristics of fuels for I.C. engines. (Octane number, cetane number, performance
+numbers). Identify the effect of various operating variables on engine performance.
+Identify the different kind of fuel metering and fuel supply systems for different types of
+engines
+UME06C04.2
+Understand the different Ignition systems employed in I.C. Engines (Battery ignition
+system, Magneto injection system, Electronic ignition system using contract Breaker)
+Understand the theories of combustion in S.I and C.I. engines, methods of reduction of
+UME06C04.3
+detonation and knock
+Combustion chamber types in S.I. and C.I. engines, factors influencing combustion chamber
+design.
+UME06C04.4 Basic Knowledge of Supercharging, Scavenging of I.C. engines& two stroke S.I and C.I.
+engines.
+Identify the necessity of lubrication& cooling systems of I.C. engines. Properties of
+UME06C04.5 lubricating oils, lubricating systems, and the basic knowledge of air- and water-cooling
+systems of I.C engines.
+Develop the ability to interpret, participate and communicate in interactive group discussions
+UME06C04.6 on emission formation mechanism of IC engines, its effects and their control. Evaluate
+methods for improving the IC engine performance parameters by testing of I.C engines.
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME06C04.1 3 3 2 1 - - - - - 1 1 2 2 2
+UME06C04.2 2 2 2 1 2 - - - - 1 1 1 1 1
+UME06C04.3 3 2 3 2 1 1 - - - - 1 1 2 1
+UME06C04.4 3 3 2 2 3 1 - 1 1 1 1 2 1 2
+UME06C04.5 2 2 2 1 1 1 - - - 1 1 1 1 2
+UME06C04.6 3 2 2 2 1 1 - - 1 1 1 1 2 2
+Mechanical Engineering (sixth Semester)
+
+--- Page 82 ---
+THERMAL POWER ENGINEERING
+Course Credit-03 Marks (Weightage)
+Name Thermal Power Engineering L T P Mid End Internal
+Code UME06C06 3 0 0 30 50 20
+Generator: Combustion equipment for burning coal, Fuel bed combustion, mechanical strokers,
+pulverized coal firing system-its advantages & disadvantages-burners & furnaces, Fluidized bed
+combustion, Numerical Problems
+Boiler-mounting & accessories, fire tube boilers, water tube boilers-La Mont boiler, Loeffler boiler-
+Benson Boiler, Drum internals, steam drum separation, water wall, air preheater, economizer, super-
+heater & electrostatic precipitators. Steam generator, losses & heat balance
+Principle of circulation-natural forced circulation, drafts-natural, forced, Induced & balanced drafts,
+pressurized fluidized bed boiler.
+Flow through nozzle, nozzle shape, critical pressure ratio, maximum flow, Numerical Problems on
+nozzle, Effect of friction in nozzle flow under-expansion & over-expansion in nozzle, super
+saturated flow through nozzle.
+Steam Turbine: Principles of action of turbines, classification, Flow through impulse turbine
+blading, velocity diagram, Blade efficiency, optimum velocity ratio, Numerical Problems on
+impulse turbine.
+Multistage & its advantages, velocity compounded impulse, Reheat factor, internal efficiency, State
+point locus, Flow through reaction turbine blading, velocity diagram, degree of reaction, blade
+work, blade height, Stage efficiency, optimum velocity ratio, axial thrust in reaction turbine,
+number of parallel exhausts, Numerical Problems on reaction turbine, Back pressure turbines, pass-
+out turbines, mixed-press turbine. Losses in turbines, principles of turbine governing.
+Text Books:
+Thermal Power - P. L. Balaney, Khanna Publishers, ISBN: 9788174090317
+ThermalEngineering-J.K.Gupta, R.S.Khurmi, S.Chand, Limited, 1997,ISBN: 8121913373
+Gas Turbine- V. Ganesan, Publisher: McGraw Hill, ISBN: 9780070681927, 0070681929
+Reference Books:
+i. R.S. Amano, B. Sundén, “Thermal Engineering in Power Systems” WIT Press Ashurst
+Lodge, Ashurst, Southampton, SO40 7AA, UK
+ii. Gilberto Francisco Martha de Souza, Thermal Power Plant Performance Analysis,
+Springer Publisher.
+iii. ViorelBadescu, George CristianLazaroiu, Linda Barelli, Power Engineering Advances and
+Challenges, Part A: Thermal, Hydro and Nuclear Power, CRC Press Book.
+Mechanical Engineering (sixth Semester)
+
+--- Page 83 ---
+Mapping of Course Outcomes (Thermal Power Engineering)
+COs PO PO PO PO PO PO PO P PO PO PO PO PSO1 PSO2
+1 2 3 4 5 6 7 O8 9 10 11 12
+UME06C06
+Thermal Power Engineering
+UME06C06.1 3 - - - - - - - - - - - 3 3
+UME06C06.2 3 2 3 - - - - - - - - - 2 3
+UME06C06.3 2 3 2 3 2 - 3 - - - - - - 3
+UME06C06.4 3 3 3 - - - - - - - - - 3 2
+UME06C06.5 3 2 3 - - - - - - - - - - 3
+UME06C06.6 3 3 3 - - - - - 2 - 2 - - 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 84 ---
+INDUSTRIAL ENGINEERING & MANAGEMENT
+Course Credit-03 Marks (Weightage)
+Name Industrial Engineering L T P Mid End Internal
+Management
+Code UME06C05 3 0 0 30 50 20
+Industrial Engineering:-Concept of Industrial Engineering- its role & applications, Operation
+Research, Work study : time & motion study, Method study , Principles of motion economy,
+Workplace layout, Stop watch time study, SIMO chart, Man-machine chart, Therbligs, PMTS, MTM,
+Work sampling.
+Organization: -Organization structures, Types, Principles of organization structures, Features of
+various Ownerships, Company formations- its management and finance, Public limited & private
+limited company.
+Material Management: -Functions of material management, Inventories- its types, Just In Time (JIT)
+inventory, Concept of EOQ & EBQ, Simple EOQ model with and without stock outs, Simple EOQ
+model with varying demand and production, P- type & Q- type of inventory policies, Selective
+inventory control like ABC, VED, SDE techniques etc.
+Production Planning & Control :-Functions and role, Value analysis, Exponential smoothing
+constant and moving average method in demand and production forecasting, Break even analysis.
+Quality Management:-Quality vs reliability, Quality maintenance and quality assurance, SQC
+technique, Acceptance sampling, Concept of TQM, ISO Standards.
+Plant Layout:-Location factors, Principles and design, Types of layout, Tools & technique.
+Plant Maintenance:-Break down, Scheduled and Preventive maintenance, Steps in preventive
+maintenance, TPM concept.
+Operational Research:-Concept of O.R, Methods of O.R, Concept of optimization, Linear
+programming, simplex method Transportation problem, Queuing theory. Decision theory, Integer
+programming, Revised simplex method, network techniques (PERT & CPM), theory of games,
+Simulation Technique.
+Reference Books:
+1. Industrial Engineering & Production By M. Mahajan, Dhanpat Raj & Sons
+Management Publication
+2. Industrial Engineering & Management By O.P. Khanna, Dhanpat Raj & Sons
+3. Industrial Engineering & Management By Bunga& Sharma, Khanna Publishers
+Work Study ILO
+Operation research --- Taha.
+Operation Research – Hira Gupta.
+Mechanical Engineering (sixth Semester)
+
+--- Page 85 ---
+Course outcome:
+No. of Course Course Outcome
+Outcome (c)
+Describe and analyze distinct concepts within production planning and explain how these can be
+UME06B20.1 used to plan and control the physical flow of information and products in the production
+companies.
+Schedule production by using different techniques and evaluate different capacity
+UME06B20.2
+alternatives/strategies to meet the customer demand.
+UME06B20.3 Know about inventory control techniques and other concepts such JIT and value engineering.
+Understand the role and origin of quantitative methods and operations research technique and are
+UME06B20.4
+to differentiate between different types of deterministic ad probabilistic models.
+UME06B20.5 Plan all the projects in the real life on the basis of different phases of operation research.
+UME06B20.6 Communicate effectively.
+Use the techniques, skills, and modern engineering tools necessary for engineering practice
+UME06B20.7
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO1 PO1 PO1 PSO1 PSO2
+0 1 2
+UME06B20 Engineering Management
+UME06B20.1 3 3 - - - – – – - - 3 - 2 2
+UME06B20.2 - 3 3 - - - - - - - 3 - 3 3
+UME06B20.3 3 3 - 3 - – – – - - 3 - 3 -
+UME06B20.4 3 - 3 3 - – – – - – 3 - 2 2
+UME06B20.5 - - 2 - - - – – - - 3 3 3 3
+UME06B20.6 – – – – – – – – - 3 – – - -
+UME06B20.7 3 3 - 3 - 2 – – - 3 3 3 3 3
+Average 3 3 3 3 - 2 – – - 3 3 3 2.666 2.6
+Mechanical Engineering (sixth Semester)
+
+--- Page 86 ---
+ENVIRONMENTAL ENGINEERING
+Course Credit-03 Marks (Weightage)
+Name Environmental Engineering L T P Mid End Internal
+Code UME06B23 3 0 0 30 50 20
+Introduction: Basic ideas of environment, Definition, scope and importance of environmental studies.
+Natural resources: Forest Resources:Use and over – exploitation of forests, deforestation, timber
+extraction, mining, dams and their effects on forests and tribal people.
+Water Resources:Use and over – utilization of surface and groundwater, floods, droughts, conflicts
+over water, dams – benefits and problems.
+Mineral Resources: Use and exploitation, environmental effects of extracting and using mineral
+resources.
+Agricultural Land and Food Resources : Land as a resources, land degradation, man induces
+landslides, soil erosion and desertification
+.Ecosystem and Biodiversity: Ecosystems : Concept of an ecosystem, structure and function of an
+ecosystem, Food chain, food webs and ecological pyramids, Energy flow in ecosystem, producers
+and consumers, Ecological succession.
+Biodiversity and its Conservation: Introduction, definition, genetic, species and ecosystem diversity, value
+of biodiversity, Consumptive use, productive use, Social, ethical, aesthetic and optional values, biodiversity
+at global, national and local values, India as a mega-diversity nation,
+Environmental Pollution:Causes, effects and control measures of air pollution, water pollution, soil
+pollution, marine pollution, noise pollution, thermal pollution, nuclear radiation hazards, Solid waste
+management- sources of solid wastes, effects and control measures of urban industrial wastes; Pollution case
+studies.
+Environment and Society:Role of an individual in prevention of pollution, consumerism and waste
+products, unsustainable to sustainable development, water conservation, rainwater harvesting,
+watershed management, Environmental Protection Acts, population growth, variation among
+nations, Environment and human health: epidemics, Role of information technology in environment
+and human health.
+References:
+Text Books:
+iii. A Textbook of Environmental Studies- Dr D .K Aasthana, S.Chand Publishing Private
+Ltd.
+Reference Books:
+iv. Henry J.G. and Heinke G.W. (2004), “Environmental Science and Engineering”,
+Second Edition, Prentice Hall of India, New Delhi
+ii Masters, G. M., “Introduction to Environmental Engineering and Science”, Prentice-Hall
+of India Pvt. Ltd., 1991.
+iii. Garg, S.K and Garg, R., (2006), Ecological and Environmental Studies, Khanna
+Publishers, Delhi.
+iv. De A.K. (2002), “Environmental Chemistry”, New Age India Publication Company, New
+Delhi.
+Mechanical Engineering (sixth Semester)
+
+--- Page 87 ---
+Course outcome:
+No. of Course Course Outcome
+Outcome (c)
+Understand the transnational character of environmental problems and
+UME06B23.1 ways of addressing them, including interactions across local to global
+scales.
+Apply systems concepts and methodologies to analyze and understand
+UME06B23.2
+interactions between social and environmental processes.
+Reflect critically about their roles and identities as citizens, consumers and
+UME06B23.3
+environmental actors in a complex, interconnected world.
+Demonstrate proficiency in quantitative methods, qualitative analysis,
+UME06B23.4 critical thinking, and written and oral communication needed to conduct
+high-level work as interdisciplinary scholars and/or practitioners.
+Describe a system, component, or process to meet desired needs within
+realistic constraints such as economic, environmental, social, political,
+UME06B23.5
+ethical, health and safety, manufacturability, and sustainability
+Critically analyze technical subject matter for scientific merit apply learned
+UME06B23.6 environmental knowledge and understanding to solve technical /research
+problems in new contexts
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+Environmental Engineering
+UME06B23
+3 3 2 2 2 - 2 2 2 - 2 2 2 -
+UME06B23.1
+3 2 2 - 2 2 - 2 3 2 2 2 - 2
+UME06B23.2
+3 2 - 2 - - 2 - 2 2 - - 2 -
+UME06B23.3
+3 2 - - - 2 - - - - 2 - - 2
+UME06B23.4
+3 3 2 2 2 - 2 2 2 2 - 2 2 -
+UME06B23.5
+3 2 2 - 2 2 - 2 - 2 2 2 - 2
+UME06B23.6
+Mechanical Engineering (sixth Semester)
+
+--- Page 88 ---
+REFRIGERATION & AIR CONDITIONING LAB
+Course Credit-01 Marks (Weightage)
+Name Refrigeration & Air Conditioning L T P Mid End Internal
+Lab
+Code UME06P29 0 0 2 - 100 -
+Introduction to the Measurement techniques/Safety aspects related to Refrigeration and Air
+Conditioning Laboratory Introduction to Refrigeration, Study of Open type Reciprocating
+Compressor, Study of Hermitically Sealed Reciprocating Compressor, Study of Throttling Device &
+Thermostatic Switch, Performance test on Vapour Compression Test Rig, Performance analysis
+of a Domestic Refrigerator, Introduction to Basic Psychrometry & Air conditioning, Study
+of Sensible Heating in Air Conditioning System, Study of Air Conditioning Test Rig, Study of COP
+of Cooling Coil in Sensible Cooling Process
+References:
+1. Arora,C.P.,―Refrigeration and Air Conditioning”,2nd ed., Tata McGraw-Hill2000.
+2. Ananth Narayanan, ―Basic Refrigeration & Air Conditioning‖, Tata McGraw-Hill
+3. Khurmi, Gupta, ―Refrigeration and Air Conditioning”, S. Chand Publishers
+Course outcome:
+Course outcome:
+CO
+Understand the principles of refrigeration and air conditioning design, and consideration that
+UME06P29.1 influence the design including human comfort, weather and environmental parameters and
+building structure
+Use the necessary skills to bridge the gap between knowledge and the confidence to properly
+UME06P29.2
+apply knowledge
+UME06P29.3 Perform the computational methods in refrigeration and air conditioning design
+Implement the basic design skills to estimate life-cycle costing and choose the right type of
+UME06P29.4
+system
+Understand the load estimation and analysis, psychometric analysis of a system and climate
+UME06P29.5
+data and its use;
+Develop analytical cognitive skills and improve problem solving skills in refrigeration and air
+UME06P29.6
+conditioning
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO PSO
+1 2
+UME06P29.1 3 - 2 - - 2 2 - 3 - - - 3 -
+UME06P29.2 3 - - - - - - - 3 - - - - -
+UME06P29.3 - 3 3 3 - - - - 3 - - - 2 3
+UME06P29.4 3 3 - - - - - - 3 - - - 2 2
+UME06P29.5 3 3 - - - - - - 2 - - - 3 2
+UME06P29.6 3 3 - - - - - - 2 - - - - 3
+avg 3 3 3 3 - 2 2 - 3 - - - 3 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 89 ---
+THERMAL POWER LAB
+Course Credit-01 Marks (Weightage)
+Name Thermal Power Lab L T P Mid End Internal
+Code UME07P26 0 0 3 00 100 00
+• Determination of power input, heat output and coefficient of performance
+• Production of heat pump performance curves over a range of source and delivery temperatures.
+• Plotting the vapour compression cycle on a p-h diagram & comparing with the ideal cycle.
+• Production of heat pump performance curves based on the HFC134a properties at a variety of
+Evaporating and condensing temperature
+• Visual demonstration of nozzle chocking
+Determination of the effect of inlet pressure on mass flow rate ,given a constant back pressure
+Comparison with the theoretical predictions.
+Determination of the effect of back pressure on the mass flow rate.
+Determination of jet reaction and specific thrust.
+• Visual demonstration of pressure distribution
+Determination of the effect of back pressure on the position of recompression.
+Determination of the effect of inlet pressure on mass flow rate, given a constant back pressure &
+comparison with the theoretical predictions.
+Determination of the effect of back pressure on the mass flow rate.
+Mechanical Engineering (sixth Semester)
+
+--- Page 90 ---
+Course outcomes:
+CO No. Course Outcomes
+Understand the concept of VCR Cycle, comparison between VCR Cycle With VAR Cycle, also
+understand the concept of determination of power input, heat output and coefficient of
+UME07P26.1
+performance and production of heat pump performance curves over a range of source and
+delivery temperatures.
+Understand the concept of plotting the vapor compression cycle on a P-H diagram & comparing
+UME07P26.2 it with the ideal cycle and Production of heat pump performance curves based on the HFC134a
+properties at a variety of Evaporating and condensing temperature.
+Understand the concept of Inlet pressure, back pressure, exit pressure, Mach No, Different kind
+of flows (supersonic, sonic, subsonic, hypersonic flow),Types of nozzle and their working
+principles and
+visual demonstration of nozzle chocking.
+UME07P26.3 1. Determination of the effect of inlet pressure on mass flow rate ,given a constant back
+pressure.
+2. Comparison with the theoretical predictions.
+Determination of the effect of back pressure on the mass flow rate.
+Determination of jet reaction and specific thrust.
+Understand the concept of
+Visual demonstration of nozzle chocking.
+UME07P26.4
+Visual demonstration of pressure distribution.
+Determination of the effect of back pressure on the position of recompression.
+Understand the concept of
+Determination of the effect of inlet pressure on mass flow rate ,given a constant back pressure &
+UME07P26.5
+comparison with the theoretical predictions.
+Determination of the effect of back pressure on the mass flow rate.
+student will be able to determine the applications of the instruments/apparatus and hence able to
+UME07P26.6
+apply individually and by group.
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO1 PSO2
+1 2 3 4 5 6 7 8 9 0 1 2
+UME07P26 Thermal Power Lab
+UME07P26.1 3 2 1 - 3 1 - - - 1 - 2 3 3
+UME07P26.2 2 - 1 2 2 1 - - - 1 - 2 - 2
+UME07P26.3 3 2 3 2 2 1 - - 1 - - 2 2 3
+UME07P26.4 2 2 3 2 2 2 - - 1 1 - 2 3 3
+UME07P26.5 2 2 3 2 2 - - 1 1 - 2 3 3
+UME07P26.6 2 2 2 2 2 2 - - 1 1 1 2 2 2
+Mechanical Engineering (sixth Semester)
+
+--- Page 91 ---
+ADVANCED MANUFACTURING PROCESSES LAB
+Course Credit-01 Marks (Weightage)
+Name Advanced Manufacturing L T P Mid End Internal
+Processes Lab
+Code UME06P33 0 0 2 - 100 -
+• To study die sinking EDM and wire cut EDM.
+• To study ultra-sonic machining process.
+• To study plasma arc machining process.
+• To study of chemical and electrochemical machining process.
+• To study experiment on high-energy-beam Machining
+– Laser-beam machining (LBM)
+– Electron-beam machining (EBM)
+• To study influence of process parameters in water-jet machining and abrasive-jet machining.
+• To study the advanced joining process and 3-D printing
+Text Books:
+―Advanced Machining Processes” V.K. Jain, Allied Publishers Pvt. Ltd.
+“Modern Machining Processes” P.C Pandey & H.S. Shan, McGraw Hill Education.
+"Materials and Processes in Manufacturing" (8th Edition), E. P. DeGarmo, J. T Black,
+R. A. Kohser, Prentice Hall of India, New Delhi.
+"Manufacturing Science" A. Ghosh, and A. K. Mallik, Affiliated East-West Press Pvt.
+Ltd. New Delhi.
+Rao P N, “Manufacturing Technology”, Tata McGraw Hill Publilishing Company.
+Reference Books:
+Mishra P K,”Non Conventional Machining”, Narosa Publishers.
+Singh K K “Unconventional Manufacturing Processes” Dhanpat Rai & Company,
+New Delhi.
+"Nontraditional Manufacturing Processes", G.F. Benedict, Marcel Dekker, Inc. New
+York.
+Mechanical Engineering (sixth Semester)
+
+--- Page 92 ---
+Course outcome
+Course outcome:
+No of COs
+Broad understanding of advanced machining processes using different energy sources.
+UME06P33.1
+Understand the concept of machining the hard material using mechanical energy,
+chemical energy, electrochemical energy and thermal energy. Able to implement the
+UME06P33.2
+mechanical energy, chemical, water and electrochemical based unconventional
+machining processes.
+To identify the process parameters affecting the product quality in various advanced
+UME06P33.3
+machining of metals/ non-metals, ceramics and composites.
+Able to think about the possibility of combining different processes to develop a more
+UME06P33.4
+efficient machining process.
+To understand the different metals and non-metals joining techniques, casting
+UME06P33.5
+techniques and additive manufacturing.
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME06P33 Advanced Manufacturing Processes Lab
+UME06P33.1 2 1 - 2 3 2 1 1 2 1 1 1 3 2
+UME06P33.2 2 2 1 2 3 1 2 1 2 - 1 1 3 2
+UME06P33.3 3 2 1 1 2 2 1 1 2 - 1 1 2 2
+UME06P33.4 2 2 1 2 3 2 1 1 2 - 1 1 2 3
+UME06P33.5 3 2 1 1 2 1 1 1 2 1 1 1 2 2
+Mechanical Engineering (sixth Semester)
+
+--- Page 93 ---
+IC ENGINE LAB
+Course Credit-01 Marks (Weightage)
+Name IC Engine Lab L T P Mid End Internal
+Code UME06P34 0 0 2 - 100 -
+Course content:
+UNIT:1 To Study The Function and Working Principle Of Ignition System of S.I Engine with Sketch.
+UNIT 2: To Study The Function and Working Principle Of Carburetor of S.I Engine with Sketch.
+UNIT 3: To Study The Function and Working Principle Of Injector & Injection Pump of C.I Engine with
+Sketch.
+UNIT 4: To Study The Function and Working Principle Of Lubrication System of IC Engine with Sketch.
+UNIT 5: To Study The Function and Working Principle Of Cooling System of IC Engine with Sketch.
+Unit 6: Detection Of Valve Timing Diagram For SI & CI Engines
+UNIT 7: Measurement Of Brake Power, Brake Specific Fuel Consumption by Rope Brake Dynamometer.
+UNIT 8: Analysis Of Engine Performance Using Computerized Engine Test Rig.
+UNIT 9: Measurement & Analysis of Of Engine Emission With Variable Loads.
+Text Books:
+1. Ganesan, V ―Internal Combustion Engines”, 2nd ed., Tata McGraw-Hill, 2003.
+2. Sharma, Mathur,. ―Internal Combustion Engine, Dhanpat Rai & Sons.
+Reference Books:
+1. Crouse, Anglin., ―Automotive Mechanics‖ Tata McGraw-Hill
+2.. Kirpal Singh, Automotive Engineering, Vol. I & II, Standards Publishers, New Delhi, 2002.
+Mechanical Engineering (sixth Semester)
+
+--- Page 94 ---
+Course outcome:
+No of COs
+Demonstrate the vehicle construction, lubrication system and cooling system in
+UME06P34.1
+automobile.
+Describe the principle and working of Carburetors, fuel injection system and Ignition
+UME06P34.2 system.
+Differentiate between: CI & SI engine, 2 Stroke & 4 Stroke engines etc.
+UME06P34.3
+UME06P34.4 Identify the Ignition coil, Fuel pump, injector, carburetor, spark plug of a vehicle.
+UME06P34.5 Appraise the recent trends in alternate fuels and automobile safety system
+Measure Performance (Brake Power etc) and emission of engine by the help of
+UME06P34.6
+experimental setup.
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME06P34.1 3 - - - - - - - 3 3 - - 3 -
+UME06P34.2 2 - - - - - - - 3 - - - 3 -
+UME06P34.3 3 2 - - - - - - 3 - - - 3 -
+UME06P34.4 3 2 - - - - - - 2 - - - 3 -
+UME06P34.5 2 - - - - - - - 3 - - 3 2 -
+UME06P34.6 3 2 - 3 - - - - 3 - - - - 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 95 ---
+MINOR PROJECT –II
+Course Credit-01 Marks (Weightage)
+Name Minor project –II L T P Mid End Internal
+Code UME06P30 0 0 3 100
+Course outcome
+No. of Course Outcome (C) Course Outcome
+UME06P30 At the end of this course, student will be able to
+Survey and identify the problems related to Mechanical
+UME06P30 / C01
+Engineering.
+Develop a systematic model/approach to analyze and solve the
+UME06P30 / C02
+technical problems as individual / team.
+Design and Propose a conceptual Model / Design and Develop a
+UME06P30 / C03 Prototype / Perform a case study for societal benefit ethically
+considering environmental factors.
+UME06P30 / C04 Conduct experiments / theoretical evaluation to some extent.
+Summarize their survey, problem identification, approach, design,
+UME06P30 / C05 expected outcome and attained results with cost estimation
+optimistically by means of oral presentation and written reports
+Mapping of course outcomes
+CO
+PO1 PO2 PO3 PO4 POI5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+UME06P30 Project Part – I
+UME06P30 /
+2 3 3 - -
+C01
+UME06P30 /
+3 3 - 3
+C02
+UME06P30 /
+3 3 3 3 3 3 3
+C03
+UME06P30 /
+3 3 - 3
+C04
+UME06P30 /
+3 3 3 -
+C05
+Average 2 3 3 3 3 3 3 3 3 3 3 3 3 3
+Mechanical Engineering (sixth Semester)
+
+--- Page 96 ---
+Mechanical Engineering Department
+
+Seventh Semester (Syllabus)
+
+
+--- Page 97 ---
+SEVENTH SEMESTER
+CODE SUBJECT NAME L-T-P CREDIT
+UME07E03
+Elective-I (Power Plant Engineering)
+3-0-0 03
+UME07E04
+Elective-I (Industrial Tribology)
+UME07E05 Elective-II (Automobile Engineering)
+3-0-0 03
+Elective-II (Product design for manufacturability
+UME07E06
+and assembly)
+Mechanical System Design &
+3-0-2 04
+UME07C82
+Industrial Automation
+UME07B91 Entrepreneurship Development 1-0-0 01
+PRACTICAL
+Industrial Training & Seminar 0-0-2 01
+UME07P102 Major Project- I 0-0-6 02
+14
+TOTAL CREDIT 10-0-10
+
+--- Page 98 ---
+POWER PLANT ENGINEERING (Elective-I)
+Course Credit-03 Marks (Weightage)
+Name Power Plant Engineering L T P Mid End Internal
+Code UME07E03 0 0 3 30 50 20
+INTRODUCTION TO POWER PLANTS AND BOILERS
+Concept of power plants, Layout of Steam, Hydel, Diesel, Nuclear and Gas turbine Power Plants, Combined
+Power cycles – comparison and selection , Load duration Curves, Steam boilers and cycles – High pressure and
+Super Critical Boilers – Fluidised Bed Boilers.
+STEAM POWER PLANT
+Fuel and ash handling, Combustion Equipment for burning coal, Mechanical Stokers. Pulveriser, Deaerator,
+Electrostatic Precipitator, Feed water heaters, Draught- Different Types, Surface condenser types, cooling
+Towers, Steam Turbines.
+NUCLEAR AND HYDEL POWER PLANTS
+Nuclear Energy-Fission , Fusion Reaction, Types of Reactors, Pressurized water reactor ,Boiling water reactor,
+Fast breeder reactor, Waste disposal and safety. Hydel Power plant- Essential elements, Selection of turbines,
+Governing of Turbines, Micro hydel developments, Site selection, Specific speed, Cavitation, Draft tube.
+DIESEL AND GAS TURBINE POWER PLANT
+Types of diesel plants, components, Selection of Engine type, applications. Gas turbine power plant- Fuels- Gas
+turbine material – open and closed cycles- reheating –Regeneration and intercooling – combined cycle .
+OTHER POWER PLANTS AND ECONOMICS OF POWER PLANTS
+Geothermal, OTEC, Tidel, Wind, Solar central receiver system, MHD power generation, Cost of electric
+Energy, Fixed and operating costs, Energy rates, Types tariffs- Economics of load sharing, comparison of
+various power plants.
+TEXTBOOKS:
+1. Nag P.K,”Power Plant Engineering”. Third edition Tata McGraw- Hill , 2007.
+2. Arora S.C and Domkundwar S, “A Course in Power Plant Engineering”, DhanpatRai, 2001.
+REFERENCES:
+1. EI-Wakil M.M, Power “Plant Technology”, Tata McGraw-Hill 1984.
+2. K.K.Ramalingam, “Power Plant Engineering”, Scitech Publications, 2002.
+3. G.R,Nagpal, “Power Plant Engineering”, Khanna Publishers 1998.
+4. G.D.Rai, “Introduction to Power Plant technology” Khanna Publishers, 1995.
+
+--- Page 99 ---
+Course outcomes
+No. of Course Course Outcomes
+Outcome
+CO1 Basic concept of power plant
+CO2 Operation of steam power plant and its performance
+CO3 Performance and Emission of Diesel Power Plant
+CO4 Optimum operation and performance of Gas Turbine Power Plant
+CO5 Concept of non conventional power plant.
+CO6 Power plant layout and economy
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO
+1 2 3 4 5 6 7 8 9 0 1 2 1 2
+Power Plant Engineering
+UME07E03
+3 -
+UME07E03.1 3 2 - - - - - - - - - -
+- 3
+UME07E03.2 3 - - 2 - - - - - - - -
+- 3
+UME07E03.3 3 3 - 3 - - - - 3 - - -
+- 3
+UME07E03.4 3 - 2 - - - 3 2 - - - 2
+- 3
+UME07E03.5 - 3 3 - - - - - - - - -
+- 3
+UME07E03.6 2 3 - - - - - - - - -
+
+--- Page 100 ---
+INDUSTRIAL TRIBOLOGY (Elective-I)
+Course Credit-03 Marks (Weightage)
+Name Industrial Tribology L T P Mid End Internal
+Code UME07E04 3 0 0 30 50 20
+Tribology: - Introduction, History, Industrial Importance, Available literature.
+Engineering surface-Properties and measurement: - Introduction, Measurement Methods, Statistical Description,
+Fractal Description.
+Surface contact: - Introduction, Non-Conforming Surface contact geometry, Stresses in Non-conforming Contacts,
+Contact of rough surface, Numerical Surface contact model.
+Adhesion: - Introduction, Adhesion at solid-Solid contact, Adhesion Model, Factor Influencing
+Adhesion produced by surface tension, Stiction, Adhesion at contact between rough surfaces.
+Friction: - Introduction, Measurement method, Origin of friction, Friction theories, Other Mechanism, Friction metals,
+Friction of nonmetallic material.
+Wear :- Introduction, Adhesive wear, Abrasive wear, Corrosive wear, Fatigue wear , Minor forms of wear, Delaminating
+theory of wear, Wear debris analysis, Wear testing methods, Wear of metals, Wear of ceramic, Wear of polymers, System
+approach for wear reduction.
+Thermal consideration in sliding contact: - Introduction, Measurement of surface temporary sliding, Theoretical
+analysis.
+Surface engineering: - Introduction, Surface treatment, Surface coating, Selection of surface treatment / surface coating.
+Boundary lubrication: - Introduction, Mechanism of boundary lubrication, Metal working lubrication, Solid film
+lubrication.
+Liquid lubricant- properties and measurement:- Introduction, Oil lubricant, Greases ,Viscosity, other properties ,
+additives.
+Basic equation for fluid film lubrication: - Introduction, Navier-strok equation, Continuity equation, Reynolds
+equation,, Dimensionless number, Flow rate AND shear force .
+Hydrodynamic thrust bearing :- Introduction, pressure development mechanism, Plane slider bearing with exponential
+film profile, Fixed inclination slider bearing, Tilting pad slider bearing, Parallel step slider bearing, Finite width thrust
+bearing, Design procedure.
+Hydrodynamic journal bearing: - Introduction, Infinitely long journal bearing, infinitely short journal bearing, finite
+length journal bearing: numerical solution, Effective temperature of lubricant, Design procedure, Hydrodynamic
+instability, Oil supply grove.
+Hydrodynamic squeeze film bearing: - Introduction, Infinitely long parallel surface bearing, infinitely long journal
+bearing, Special causes.
+Hydrostatic bearing: Introduction, Circular step thrust bearing
+annual thrust bearing, Rectangular thrust bearing, Hydrostatic journal bearing.
+
+--- Page 101 ---
+Gas lubricated bearing :- Introduction, Governing Equation, Infinitely long plain surface bearing, Infinitely long
+journal bearing, Finite journal bearing, Other Gas-bearing types, Squeeze Film Lubrication, Instability in Gas-Lubricated
+bearing.
+Elasto hydrodynamic lubrication :- Introduction, Line-contact: Rigid Cylinders, Line-contact: Elastic Cylinders, Point
+Contacts, Thermal Correction Factors, Surface roughness Correction Factors, Lubricant Rheology, Different Rheology in
+EHL Contacts.
+Rolling Element Bearing: - Introduction, Geometry, Kinematics, Load capacity, Fatigue Life, Lubrication.
+Nano-tribology: - Introduction, Measurement Tools, Measurements, Fabrication Techniques for MEMS/NEMS, Atomic
+Scale Simulation.
+Fractal Analysis in Tribology :- Introduction, Fractal Geometry , Fractal Characterization of rough Surface, Evaluation
+of Fractal Dimension, Fractal Contact Model, Fractal Analysis of adhesive contact, Critical to Fractal Theory.
+
+--- Page 102 ---
+AUTOMOBILE ENGINEERING (Elective-II)
+Course Credit-03 Marks (Weightage)
+Name Automobile Engineering L T P Mid End Internal
+Code UME07E05 3 0 0 30 50 20
+Introduction
+Classification of automobiles.
+Transmission
+Clutch-Details, Requirements of Clutches, Types of Clutches and Clutch materials, Design of clutch, Fluid
+coupling
+necessityofgear.box,Slidingmesh,Constantmesh,Synchromeshandepicyclicgearbox,Overdrivesandhydrodynamic
+torque converter. Automatic transmission
+Drive line:
+Propeller shafts and universal joints: Types and construction, Different types of universal joints and constant
+velocity joints. Live axle and differential: Necessity of differential, Conventional and non-slip differential.
+Brakes
+Requirement of brake, braking of front wheel, Rear wheel Brake. Introduction to antilock braking system
+(ABS)
+Steering and Front axles
+Steering geometry, Steering requirements, Steering linkages and steering gears, over steer and under steer,
+Cornering power, Reversibility of steering gears, Types of front axles
+Suspension
+Objects of suspension, Basic requirements, Independent suspension, Forces acting in independent suspension,
+Sprung and unsprung mass, --bicycle model analysis. Pitching, rolling and bouncing, Shock absorbers.
+Wheels and Tyres
+Requirements of wheel sand tyres, Constructional features, Types of tyres, Inflation Pressure and its
+importance, Application to ride and stability.
+Body Engineering
+Importance of Body design, Materials for body construction-Styling forms-Coach and bus body style, layouts
+of passenger cars, Bus and truck bodies. Chassis types and structure types. Frames: functions and types of
+frames, Loads on frames, Load distribution of structure, Location of power plant.
+Aerodynamic drag-Aerodynamic lifts and pitching moments, Side force, Yawing moments and rolling
+moments. Negative aero foil-applications
+Ergonomics and safety: Geometrical relations to drivers seat, Dimensions of foot and pedal control,
+visibility. Air bags
+TextBooks:
+• Garrett, T. K., Newton, K., & Steeds, W. (2000). Motor Vehicle. Butterworth-Heinemann.
+• Heisler, H. (2002). Advanced vehicle technology. Elsevier.
+• Singh, Kirpal. Automobile Engineering. Standard Publishers, Vol I and II.
+• Nunney, M. J. (2007). Light and heavy vehicle technology. Routledge.
+
+--- Page 103 ---
+Course outcomes
+No. of Course Course Outcomes
+Outcome
+UME07E05.1 To understand the basic fundamentals of Automobile Engineering.
+UME07E05.2 To apply knowledge of automotive engineering & practices to pursue successful
+career in the field of automotive technology.
+UME07E05.3 To contribute to the academics and research for socio-technological development.
+UME07E05.4 To demonstrate lifelong learning skills by engaging in professional activities and up-
+gradation of knowledge quotient.
+UME07E05.5 To be able to communicate the research findings confidently and effectively.
+UME07E05.6 To develop a strong base for understanding future developments in the automobile industry
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO1 PO1 PO1 PSO1 PSO2
+1 2 0 1 2
+Automobile Engineering
+UME07E05
+-
+UME07E05.1 3 - - - - - - - - - - 2 -
+UME07E05.2 3 - - - - - - - - - - - 2 -
+-
+UME07E05.3 3 - - - - - 2 - - - - 2 -
+2
+UME07E05.4 3 - - - - 2 - - - - - - 2
+-
+UME07E05.5 - - - 3 - - - - 3 - - - 3
+- - - - - - - - - -
+UME07E05.6 3 2 3 2
+
+--- Page 104 ---
+PRODUCT DESIGN FOR MANUFACTURABILITY AND ASSEMBLY
+(Elective-II)
+Course Credit-03 Marks (Weightage)
+Name Product Design For L T P Mid End Internal
+Manufacturability And Assembly
+Code UME07E06 3 0 0 30 50 20
+Introduction: - Need Identification and problem definition, Concept generation and Evaluation,
+Embodiment Design
+Selection of Materials and shape: Properties of Engineering Materials, Selection of materials, Selection of
+shapes, Co-selection of Materials and shapes
+Selection of Manufacturing Processes:-
+Review of Manufacturing Processes, Design for casting, Design for Bulk deformation processes, Design
+for Sheet metal forming processes, Design for Machining, Design for polymer Processing, Design for
+powder metallurgy, Co-selection of Materials and Processes
+Design for Assembly:-
+Review of Assembly processes, Design for welding, Brazing and Soldering, Design for joining of polymers,
+Design for Heat treatment
+Design for Reliability and quality:-
+Failure mode and effect analysis, Design for Quality and reliability, Approach to Robust design,Design for
+optimization
+
+--- Page 105 ---
+Course Outcomes
+No. of Course Course Outcomes
+Outcome
+UME07E06.1 Understand how to formulate the need analysis leading to definition of the design
+problem. Conceptualization of design problem leading to embodiment design.
+UME07E06.2 Select material base on target function, objective, constrains, and free variables of a
+design problem. Able to calculate material index for strength and shape factor.
+UME07E06.3 Select manufacturing process and to consider design as per the process adopted for the
+design problem.
+UME07E06.4 Select assembly process out of various assembly processes suitable to the design
+problem.
+UME07E06.5 Understand the importance of reliability and quality, evaluation of FMEA and its
+application to enhance the reliability of a system
+UME07E06.6 Analyse and apply the concept of reliability to increase the quality of a design
+problem.
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO PO PO PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO PSO
+1 2 1 2
+Product Design For Manufacturability And
+UME07E06
+Assembly
+3 3 1 - - 1 2 - 2 1 1 1 3 1
+UME07E06.1
+2 2 3 - - 1 2 1 - 1 1 - 2 3
+UME07E06.2
+3 - 1 - - - 1 - 2 1 - 1 2 2
+UME07E06.3
+3 - 1 - - - 1 - 2 1 - 1 2 2
+UME07E06.4
+3 2 2 - 2 1 - 1 - 1 1 - 1 2
+UME07E06.5
+2 2 2 - 1 1 - 1 1 1 1 1 1 2
+UME07E06.6
+
+--- Page 106 ---
+MECHANICAL SYSTEM DESIGN & INDUSTRIAL AUTOMATION
+Course Credit-03 Marks (Weightage)
+Name Mechanical System Design & L T P Mid End Internal
+Industrial Automation
+Code UME07C82 3 0 0 30 50 20
+Course Contents:
+Introduction of Design of Systems Introduction- Concept of Systems- General Model of A
+System- Application of A System Elements/Components of a System-Classification of a System
+in Mechanical Systems Design
+Engineering Processes and the System Approach Introduction (System Approach)- Application
+of Systems Concepts in Engineering Identification of Engineering Functions of Systems-
+Characteristics of a System in "Manufacturing Systems Design"-Role of Engineer in
+"Mechanical System Design"-Concurrent Engineering
+Design of Material Handling Equipment’s Objectives of material handling system, Principal
+groups of materials handling equipment and classification, Scope of Material Handling, Criteria
+for selection of Material Handling Equipment’s. Introduction to Belt Conveyors, Screw
+conveyors and their applications, Design of Belt conveyor- Belt selection procedure , Idler
+design. Design of bucket Elevator: Introduction, Types of Bucket Elevator, Design of Bucket
+Elevator-loading and bucket arrangements
+Simulation of Mechanical Systems: Surface modeling, Solid modeling, Assembly design,
+modeling and simulation of mechanisms, Optimum design
+Text Books:
+S.P.Patil, “Mechanical System Design”, Jaico Publishing House, 2005.
+R.C. Mishra, “Mechanical System Design”,Prentice Hall of India Private Ltd., 2009.
+Ibrahim Zeid, “CAD/CAM: Theory and practice”, TMH
+A.K. Arora, S.K Arora, “Industrial Automation and Robotics”, Laxmi Publications (P) Ltd., 2007
+Reference Books:
+S. Mukhopadhyay, S. Sen and A. K. Deb, “Industrial Instrumentation, Control and Automation”,Jaico
+Publishing House, 2013.
+R. Krishnan, “Electric Motor Drives, Modelling, Analysis and Control”, Prentice Hall India, 2002
+Herbert E. Merritt,“Hydraulic Control Systems”, Wiley, 1991
+Conveyor Equipment Manufacturer’s Association, “Belt conveyors for bulk materials” 6th edition, The
+New CEMA Book
+Rudenko N., “Materials handling equipment”, Elnvee Publishers, 1970
+Alexandrov, M., “Materials Handling Equipments”, MIR Publishers, 1981.
+
+--- Page 107 ---
+Course Outcomes:
+No of COs Course Outcomes
+UME07C82.1 Classify mechanical systems
+UME07C82.2 Apply systems concepts in manufacturing system design
+UME07C82.3 Design material handling systems
+UME07C82.4 Simulate mechanical systems
+UME07C82.5 Prepare architecture of Industrial Automation Systems
+UME07C82.6 Do part programming
+Mapping of Course Outcomes
+COs PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+UME07C82.1 3 2 - - - 1 - - - - 1 - 2 1
+UME07C82.2 3 - 3 - 2 - - - - - - 3 - 3
+UME07C82.3 3 3 3 2 - - - - 2 2 2 - - 3
+UME07C82.4 1 - 3 2 3 - 2 - 2 3 - 1 - 3
+UME07C82.5 3 - 3 - - - - - 1 - 1 - - 2
+UME07C82.6 2 - - 2 2 - - - - - 2 1 - 3
+-
+
+--- Page 108 ---
+ENTREPRENEURSHIP DEVELOPMENT
+Course Credit-01 Marks (Weightage)
+Name Entrepreneurship Development L T P Mid End Internal
+Code UME07B91 0 0 2 - 100 -
+Course Content:-
+Entrepreneur – Types Of Entrepreneurs – Difference Between Entrepreneur And Intrapreneur
+Entrepreneurship In Economic Growth, Factors Affecting Entrepreneurial Growth.
+Major Motives Influencing An Entrepreneur – Achievement Motivation Training, Self Rating,
+Business Games, Thematic Apperception Test – Stress Management, Entrepreneurship
+Development Programs – Need, Objectives.
+Small Enterprises – Definition, Classification – Characteristics, Ownership Structures – Project
+Formulation – Steps Involved In Setting Up A Business – Identifying, Selecting A Good
+Business opportunity, Market Survey And Research, Techno Economic Feasibility Assessment –
+Preparation of Preliminary Project Reports – Project Appraisal – Sources Of Information –
+Classification of Needs And Agencies.
+Need – Sources Of Finance, Term Loans, Capital Structure, Financial Institution, Management
+Of Working Capital, Costing, Break Even Analysis, Taxation – Income Tax, Excise Duty – Sales
+Tax.
+Sickness In Small Business – Concept, Magnitude, Causes And Consequences, Corrective
+Measures – Business Incubators – Government Policy For Small Scale Enterprises – Growth
+Strategies In Small Industry – Expansion, Diversification, Joint Venture, Merger And Sub
+Contracting.
+Text Books:
+Entrepreneurship Development & Small Business Enterprises, Poornima M. Charantimath, Pearson
+Reference Books:
+Khanka. S.S., “Entrepreneurial Development” S.Chand& Co. Ltd.,Ram Nagar, New Delhi, 2013.
+Donald F Kuratko, “ Entreprenuership – Theory, Process And Practice”, 9th Edition, Cengage Learning
+2014
+Hisrich R D, Peters M P, “Entrepreneurship” 8th Edition, Tata McGraw-Hill, 2013.
+Mathew J Manimala, “Enterprenuership Theory At Cross Roads: Paradigms And Praxis” 2nd Edition
+Dream Tech, 2005.
+Rajeev Roy, ‘Entrepreneurship’ 2nd Edition, Oxford University Press, 2011.
+EDII “Faulty And External Experts – A Hand Book For New Entrepreneurs Publishers:
+Entrepreneurship Development”, Institute Of India, Ahmadabad, 1986.
+
+--- Page 109 ---
+Course Outcomes:
+Understanding different terms in the field of Entrepreneurship. Knowing about different
+UME07B91.1
+related factors and importance, challenges of Entrepreneurship.
+Understanding the influencing motives of an Entrepreneur, learning and developing
+UME07B91.2
+different management techniques essential for becoming a successful entrepreneur.
+Students will be able to identify business opportunities and feasibility of any opportunity.
+UME07B91.3 They will be able to conduct market survey, write business plans and project reports with
+logically analyzing the survey outcomes.
+Students will be able to identify and act accordingly to convince the investors, financial
+sources for their business. In this process, students will be able to prepare different analysis
+UME07B91.4
+reports for enhancing their chances of higher investments. The students will be aware of
+different Tax systems, norms, clearances needed and guidelines for setting up a business.
+Students will be aware about the process to start a small business / enterprise by following
+UME07B91.5 the government policies. They will be able to plan and implement the strategies for business
+and also to manage uncertain situations by taking appropriate measures in advance.
+The students will be motivated to start a business of their own with proper market survey,
+UME07B91.6 planning, exploring financial sources and with proper strategy. They will be able to write
+effective business plans which they can implement into reality.
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+UME07B91.1 - - - - - - 3 - - - - - - -
+UME07B91.2 - - - - - - - - 3 - 3 - - -
+UME07B91.3 - - - - - 3 3 3 - - - - - -
+UME07B91.4 - - - - - - 3 - - 3 - - - -
+UME07B91.5 - - - - - - - - 3 - 3 - - -
+UME07B91.6 - - - - - - - - 3 - 3 - 2 -
+
+--- Page 110 ---
+INDUSTRIAL TRAINING & SEMINAR
+Course Credit-01 Marks (Weightage)
+Name Industrial Training & Seminar L T P Mid End Internal
+Code 0 0 3 100
+Course outcomes
+No. of Course Course Outcomes
+Outcome
+Survey and identify current trends being practiced in real time in industry / research
+CO 1
+in the field of Mechanical Engineering.
+Narrate the ethical and safety practice currently being followed in industry, Merits
+CO 2
+and demerits associated with the technology being adapted.
+Outline the process adapted in development of system or component for
+CO 3
+engineering application.
+Summarize the possible alternate technology available for the existing problem,
+CO 4
+societal benefit of the available technology / product / system developed.
+Summarize their survey, observations and inference by means of oral presentation
+CO 5
+and written reports
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO P PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO1 PSO2
+O 2 3 4 5 6 7 8 9 0 1 2
+Industrial Training & Seminar
+CO 1 - 2 - - - - - - 3 - - 3 - -
+CO 2 3 - - - - 2 2 2 - 3 - - - -
+CO 3 3 - - - - - - - - 3 - - 3 -
+CO 4 3 - - - - 2 - - - 3 - - - -
+CO 5 - - - - - - - - 3 3 - - - -
+
+--- Page 111 ---
+MAJOR PROJECT-I
+Course Credit-02 Marks (Weightage)
+Name Major Project-I L T P Mid End Internal
+Code UME07P102 0 0 3 100
+Course Outcomes
+No. of Course Course Outcomes
+Outcome
+UME07P102.1 At the end of this course, student will be able to
+UME07P102.2 Survey and identify the problems related to Mechanical Engineering.
+UME07P102.3 Develop a systematic model/approach to analyze and solve the technical
+problems as team.
+UME07P102.4 Outline the past, present and expected performance based on systematic survey.
+UME07P102.5 Outline a new design of product / system in association with multidisciplinary
+team for societal benefit ethically in environmental friendly manner.
+UME07P102.6 Conduct experiments / theoretical evaluation to some extent.
+CO-PO Matrices & CO-PSO Mapping of Courses
+CO P PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO1 PSO2
+O1 2 3 4 5 6 7 8 9 0 1 2
+UME07P102 Major Project-I
+UME07P102.1 - 3 - - - - - - - - - 3 - -
+UME07P102.2 3 3 3 - - - - - 3 - - - - 3
+UME07P102.3 - - - - - - - - - 3 - 3 2 -
+UME07P102.4 - - - - 3 2 2 2 - - - - 2 3
+UME07P102.5 - - - 2 - - - - - - - - 2 -
+UME07P102.6 - - - - - - - - - 3 2 - 3 -
+
+--- Page 112 ---
+Mechanical Engineering Department
+
+Eighth Semester (Syllabus)
+
+
+--- Page 113 ---
+EIGHTH SEMESTER
+CODE SUBJECT NAME L-T-P CREDIT
+UME08E51 Elective-III (Computational Fluid Dynamics)
+3-0-0 03
+UME08E52 Elective-III (Additive Manufacturing)
+UME08E53 Elective-IV (Powder Metallurgy)
+3-0-0 03
+UME08E54 Elective-IV (CAD and Geometric Modeling)
+UME08E55 Elective-V (Advanced Machine Design)
+3-0-0 03
+UME08E56 Elective-V (Boundary Layer Theory)
+PRACTICAL
+UME08P100 Viva-Voce 0-0-0 01
+UME08P101 Major Project- II 0-0-9 03
+TOTAL CREDIT 9-0-9 13
+FOR STUDENTS CARRYING OUT PROJECT WORK IN INDUSTRY/ORGANIZATION
+UME08P102 Industrial Project 10
+UME08P103 Project Seminar 2
+UME08P104 Comprehensive Viva 1
+TOTAL CREDIT 13
+
+--- Page 114 ---
+COMPUTATIONAL FLUID DYNAMICS (Elective-III)
+Course Credit-03 Marks (Weightage)
+Name L T P Mid End Internal
+Computational Fluid
+Dynamics
+Code 3 0 0 30 50 20
+UME08E51
+Course Contents
+Basic Thoughts
+Philosophy of Computational Fluid Dynamics, the impact of Computational Fluid Dynamics –
+some other examples- Automobile and Engineering applications, Industrial Manufacturing
+applications, Civil Engineering applications, Environmental Engineering applications. The
+governing equations of fluid dynamics: their derivation, a discussion of their physical meaning
+and presentation of forms particularly suitable to CFD: Introduction, finite control volume,
+infinitesimal fluid element, the substantial derivative, divergence of velocity-its physical
+meaning, physical boundary condition, Comments on the conservation form, shock fitting &
+shock capturing. Comparison of FDM, FVM and FEM technique.
+:
+Different Equations
+Mathematical Behavior of Partial Differential Equation – The Impact on CFD: Classification of
+quasi-linear partial differential equation, a general method of determining the classification of
+partial differential equations: the eigen value method, general behavior of the different classes of
+partial differential equation: impact on physical & computational fluid dynamics.
+Basics of the Numerical Discretization
+Basic aspect of Discretization methods; finite difference and finite volume formulations,
+difference equation, explicit and implicit approaches: definition and contrasts, Errors and an
+analysis of stability.
+Numerical Solutions
+Numerical solution of elliptical equations - Linear system of algebraic equations, Numerical
+solution of parabolic equations, Numerical solution of hyperbolic equations - Burgers equation.
+Some Simple CFD Techniques
+The lax-Wendroff Technique, MacCormack’s Technique, The Relaxation Technique & its use
+with Low-Speed Inviscid flow, Aspects of Numerical Dissipation and Dispersion; Artificial
+Viscosity, The Alternating Direction Implicit (ADI)Technique. Incompressible Navier-Stokes
+equations and algorithms - Basics of grid generation.
+
+--- Page 115 ---
+Text Books:
+i) J.Andeson J.D., Computational Fluid Dynamics – The basics with applications, Mc
+Graw-Hill, 1995.
+ii) Tannehill, J.e., Anderson, D.A., and Pletcher, R.H., Computational Fluid Mechanics
+andHeat Transfer, 2nd ed., Taylor & Francis, 1997.
+ii) Hoffmann, K.A. and Chiang, S.T., Computational Fluid Dynamics for Engineers,Engineering Education
+Systems, 2000.
+Reference Books:
+i) Versteeg, H.K. and Malalasekera, W., An Introduction to Computational Fluid Dynamics
+–The finite volume method, Longman Scientific & Technical, 1995.
+ii) Patankar, S.V., Numerical Heat Transfer & Fluid Flow, Hemisphere, 1980.
+iii) 3. P.J. Roache, Fundamentals of Computational Fluid Dynamics.
+Course Outcomes:
+UME08E51 Course Outcome
+Comprehensive, theory-based understanding, fundamentals of computational
+fluid dynamics and its application, Conceptual
+UME08E51.1
+understanding of mathematical behavior of partial differential equation and its impact
+on CFD.
+In-depth understanding of basic aspect of discretization methods and
+UME08E51.2
+its applications.
+Application of engineering methods to Numerical
+UME08E51.3
+Established solutions.
+Understand Some Simple CFD Techniques.
+UME08E51.4
+Understand and apply different algorithms, CFD technique and Basics of various grid
+UME08E51.5
+generation.
+Mapping of Course Outcomes with Program Outcomes:
+PO1 PO2 PO3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+UME08E51
+3 3 3 2 3 2 3 2
+UME08E51.1
+3 3 3 2 3 2 3 2
+UME08E51.2
+3 3 3 2 3 2 3 2
+UME08E51.3
+3 3 3 2 3 2 3 2
+UME08E51.4
+3 3 3 2 3 2 3 2
+UME08E51.5
+3 3 3 2 3 2 3 2
+UME08E51.6
+
+--- Page 116 ---
+ADDITIVE MANUFACTURING (Elective-III)
+Course Credit-03 Marks (Weightage)
+Name Additive Manufacturing L T P Mid End Internal
+Code UME08E52 3 0 0 30 50 20
+Syllabus Content
+Introduction: Prototyping fundamentals: Need for time compression in product development, Need for Additive
+Manufacturing, Historical development, Fundamentals of Additive Manufacturing, AM Process Chain, Advantages and
+Limitations of AM, commonly used Terms, Classification of AM process, Fundamental Automated Processes: Distinction
+between AM and CNC, other related technologies.
+Liquid-based AM Systems: Stereo lithography Apparatus (SLA): Models and specifications,
+Process, working principle, photopolymers, photo polymerization, Layering technology, laser and laser scanning,
+Applications, Advantages and Disadvantages, Case studies. Solid ground curing (SGC): Models and specifications, Process,
+working principle, Applications, Advantages and Disadvantages, Case studies. Poly jet: Process, Principle, working
+principle, Applications,
+Advantages and Disadvantages, Case studies. Micro fabrication.
+Solid-based AM Systems: Laminated Object Manufacturing (LOM): Models and specifications, Process, working
+principle, Applications, Advantages and Disadvantages, Case studies. Fused Deposition Modeling (FDM): Models and
+specifications, Process, working principle, Applications, Advantages and Disadvantages, Case studies. Multi-Jet Modelling
+(MJM): Models and specifications, Process, working principle, Applications, Advantages and Disadvantages, Case studies.
+Powder Based AM Systems: Selective laser sintering (SLS): Models and specifications, Process, working principle,
+Applications, Advantages and Disadvantages, Case studies. Three- dimensional Printing (3DP): Models and specifications,
+Process, working principle, Applications, Advantages and Disadvantages, Case studies.
+AM Applications: Application – Material Relationship, Application in Design, Application in Engineering, Analysis and
+Planning, Aerospace Industry, Automotive Industry
+Text Books:
+i) By C. K. Chua, K. F. Leong, C. S. Lim: Rapid Prototyping: Principles and Applications
+ii) Additive manufacturing by C.P PAUL
+Reference
+i) Additive Manufacturing Technologies” by Ian Gibson and David Rosen
+ii) Design for Additive manufacturing by Dr. Tom
+iii) ADDITIVE MANUFACTURING by Amit Bandyopadhyay, Susmita Bose
+
+--- Page 117 ---
+Course outcomes
+UME08E52 Course Outcome
+CO1 Basic of Additive manufacturing, Liquid based AM systems andit’s Applications, Solid
+based AM systems and it’s applications, Powder based AM systems .
+CO2 Classification of Various processes of AM
+CO3 Study of various materials of AM process
+CO4 Study of various AM processes AM
+CO5 Various case studies on AM processes
+CO6 AM Applications
+CO-PO Mapping
+CO PO-1 PO-2 PO-3 PO4 PO5 PO6 PSO1 PSO2
+1 2 2 3 1 3 3 2
+CO 1
+1 2 3 3 2 3 3 2
+CO 2
+1 1 - 3 2 3 3 2
+CO 3
+1 1 3 3 2 3 3 2
+CO 4
+1 1 2 3 3 2 2 2
+CO 5
+1 - 2 2 3 3 3 3
+CO 6
+
+--- Page 118 ---
+POWDER METALLURGY (Elective-IV)
+Course Credit-03 Marks (Weightage)
+Name Powder Metallurgy L T P Mid End Internal
+Code UME08E53 3 0 0 30 50 20
+Course Contents:
+Production of Metal Powders: Introduction to a) Mechanical Processes: Machining, Crushing, Milling, Shotting
+Graining, Atomization. b) Physico – Chemical Processes: Condensation, Thermal Decomposition, Reduction,
+Electrodeposition, Precipitation From Aqueous Solution, Intergranular Corrosion, Oxidation and Decarburization.
+Characterization and Testing of Metal Powders: Sampling, Particle Size and Distribution- Sieve Analysis, Light
+Scattering, Sedimentation, Microscopy and Image Analyzer, Chemical Analysis of Metal Powders, Surface Area,
+Density and Porosity of Metal Powder, Apparent and Tap Density of Metal Powder, Flow Rate, Compressibility
+and Green Strength.
+Consolidation of Metal Powder: Powder Conditioning, Cold Die Compaction Techniques, Choice of Tooling
+System for Die Compaction, Role of Lubrication, Hot and Cold Isostatic Pressing of Metal Powders, Roll
+Compacting, Powder Forging, Injection Molding, High Energy Rate Forming Process.
+Sintering: Different Stages of Sintering and Development of Microstructures During Sintering, Different
+Mechanisms of Sintering, Liquid Phase Sintering and Activated Sintering, Sintering Furnaces and
+Furnace Atmospheres.
+Secondary operations Performed on Powder Metallurgical Material, Inspection and Quality Control on
+Powder Metallurgical Materials. Application: Detailed Study on
+Processing of any 03 Components used in following applications: Bearing Materials, Tool Materials,
+Ferrites, Cermets, Friction Materials, Medical and Dental Applications, Nuclear Applications,
+Automotive Applications.
+Ceramic Materials: Crystalline structure, Glasses and other non-crystalline ceramics, Processing of
+Ceramics, Traditional and Technical Ceramics, Electrical, Thermal and Mechanical properties of
+ceramics, Effect of Temperature on Mechanical Behaviour, Strengthening of Ceramics
+Text Books:
+i. Powder Metallurgy: Science, Technology, and Materials, Anish Upadhyaya, Gopal Shankar
+Upadhyaya, CRC Press
+ii. Powder Metallurgy: Science, Technology and Applications, P. C. Angelo, R. Subramanian
+Reference Books:
+1. ASM W.D.Kingery, Introduction to Ceramic Material, Volume 18, Wiley 1960.
+2. Powder Metallurgy, ASM Handbook, Vol – VII, 1984.
+3. Rehamann, Processing of Ceramics and Sintering 2nd edition, 2007
+4. Sands & Shakespeare - Powder Metallurgy, Newnes: 1966.
+5. Barsaum - Fundamentals of Ceramics- 2003.
+
+--- Page 119 ---
+Course outcomes:
+UME08E53.1 Identify various powder manufacturing processes
+Explain effect of particle size and shape on compressibility of powders,
+UME08E53.2
+consolidation of powder, secondary operations and applications
+Apply various characterization techniques for knowing phase transformation and
+UME08E53.3
+properties
+UME08E53.4 Analyze sinter part for sinter ability of the powders
+UME08E53.5 Evaluate microstructural features of sintered products
+Design sintering cycle and process for the given alloy
+UME08E53.6
+Mapping of course outcomes
+PO- PO-
+PO-2 PO-3 PO-4 PO-5 PO-6 PO- PO- PO-
+PO-1 PO-8 11 12
+CO No. (C4/A (C3/A (C3/C (C5/P (A3/C 7 9 10 PSO1 PSO2
+(C4) (C5) (A2/C (C2/P
+4) 4) 5) 5) 5) (A2) (P2) (P6)
+3) 3)
+3 2 2 - - - 1 - 1 - - 1 3 -
+CO-1
+3 2 2 - 1 - 1 - 1 - - 1 2 -
+CO-2
+3 2 2 - 1 - 1 - 1 - - 1 3 2
+CO-3
+3 2 2 - - - 1 - 1 - - 1 2 2
+CO-4
+3 2 2 - 1 - 1 - 1 - - 1 1 -
+CO-5
+3 2 2 - 1 - 1 - 1 - - 1 1 3
+CO-6
+Avg.
+3 2 2 - 1 - 1 - 1 - 1 1 2 2.33
+Mechanical Engineering
+
+--- Page 120 ---
+CAD AND GEOMETRIC MODELING (Elective-IV)
+Course Credit-03 Marks (Weightage)
+Name CAD and Geometric Modeling L T P Mid End Internal
+Code UME08E54 3 0 0 30 50 20
+Course Contents:
+Product life cycle, Role of CAD in design process, CAD hardware and software, Criteria to
+evaluate CAD softwares, Computer Communications, Principle of networking, classification
+networks
+D Modeling
+Parametric representation of analytic curves, parametric representation of synthetic curves like
+Bezier curve, B-spline curve; Representation of synthetic surfaces like Bezier surface, B-spline
+surface
+Solid Modeling
+Solid modeling, Boolean operations, Methods, Boundary Representation, Constructive Solid
+Geometry, Sweep, solid manipulations, solid modeling based applications: mass properties
+calculations
+Transformations
+Transformation of geometric models: translation, scaling, reflection, rotation, homogeneous
+representation, concatenated transformations, Inverse Transformations, Mapping
+Data Exchange Formats
+Introduction to CAD/Cam data exchange formats. Direct and Indirect translators. Neutral file
+formats: Data Exchange format (DXF), Standard Triangular Languages (STL), Initial Graphics
+Exchange Specification (IGES)
+Mechanical Engineering
+
+--- Page 121 ---
+Course Outcomes:
+Choose suitable CAD hardware and software tools
+UME08E54.1
+Develop synthetic representation of curves
+UME08E54.2
+Develop synthetic representation of surfaces
+UME08E54.3
+Apply techniques for solid modeling
+UME08E54.4
+Transform the models
+UME08E54.5
+Apply data exchange formats
+UME08E54.6
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+3 - - - - - - - - - - - 3 -
+UME08E54.1
+- 3 3 2 - - - - 3 - - - - 3
+UME08E54.2
+3 2 2 2 - - - - 3 - - - 2 2
+UME08E54.3
+3 - 3 - - - - - 3 - - - - 3
+UME08E54.4
+- 3 3 - - - - - 3 - - - - 3
+UME08E54.5
+- 3 3 3 - - - - 3 - - 2 - 3
+UME08E54.6
+Text Books:
+i) Ibrahbim Zeid, “CAD / CAM Theory and Practice”, Tata McGraw Hill Publishing
+Company
+ii) Rogers / Adams, “Mathematical Elements for Computer Graphics”. McGraw Hill
+Education
+Reference Books:
+i) M.E. Mortenson, “Geometric Modeling”, Industrial Press Inc., USA
+ii) Jim Browne, “Computer Aided Engineering and Design”. New Age International
+publisher
+
+--- Page 122 ---
+ADVANCED MACHINE DESIGN (Elective-V)
+Course Credit-03 Marks (Weightage)
+Name Advanced Machine Design L T P Mid End Internal
+Code UME08E55 3 0 0 30 50 20
+Course Contents:
+Basic curves, Advanced curves. Combination Cams.
+Flat Belt Drives, Types, Belt materials, Belt slip and Creep, Design procedure of Flat and V-belt.
+Material Handling System, Design principles, Design of Conveyor belt, Different types of
+Conveyers, Safety devices.
+Design of general purpose Gear box, Automobile Gear box, Machine tool Gear box. Use of
+design data in gear box designing.
+Design of Crankshaft, Connecting rod, Cylinder, Cylinder head, Crank Shaft Materials.
+Approach to solve design problems of a system for its kinetics, kinematics along with power
+transmission. Optimization, Optimum design, Mathematical Methods of optimization, Johnson’s
+Method of Optimization.
+Course Outcomes:
+UME08E55.1 Understand fundamentals of various machine tools and mechanical systems.
+Analyze & design important machine parts and can solve numerical problems in
+UME08E55.2
+these topics in connection to design requirement.
+Understand different material handling machineries in a detailed manner. They will
+be able to design the widely used material handling machineries (in industries) like
+UME08E55.3
+Flat belts, V belts. They will be able to design important operational parameters in
+Conveyer Belt systems.
+Design a Gear Box with full detail as per requirement from the user. The students
+UME08E55.4
+will be able to solve practical problems related to power transmission.
+Design different types of Cams/ combination cams as per the design requirement
+UME08E55.5
+and analyze their motions.
+Students will be able to design and analyze in team/ individual, design and optimize
+UME08E55.6 the parameters involved to obtain optimum design output, for different real life
+problems.
+
+--- Page 123 ---
+Mapping of Course Outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+3 - - - - - - - - - - - 3 -
+UME08E55.1
+- 3 3 2 - - - - 3 - - - - 3
+UME08E55.2
+3 2 2 2 - - - - 3 - - - 2 2
+UME08E55.3
+3 - 3 - - - - - 3 - - - - 3
+UME08E55.4
+- 3 3 - - - - - 3 - - - - 3
+UME08E55.5
+- 3 3 3 - - - - 3 - - 2 - 3
+UME08E55.6
+Reference Books:
+1. Cam Design Hand Book, McGraw Hill Publications. Harold A. Rothbarth
+2. Shigley’s Mechanical Engineering Design, 9th Edition, Richard. G. Budyans& J. Keith Nisbett.
+3. Design of Machine Elements, Fourth Edition, V.B . Bhandari
+4. Design of Machinery, Robert. L. Norton.
+5. Engineering & Science Application for Belt Conveyors, Iswar. G. Mulani.
+6. Design of Transmission Elements, T.J. Prabhu
+7. Hand Book of Gear Design, Gitin. M. Mitra, Tata McGraw Hill Publications
+8. Machine Design Data Book, V.B. Bhandari
+9. PSG Design Data Book & ISO 11592, ISO 8730
+10. Design data Hand Book, K. Balaveera Reddy, K. Mahadevan
+11. Optimization for Engineering Design: Algorithms and Examples, K.Deb. PHI Publications.
+
+--- Page 124 ---
+BOUNDARY LAYER THEORY (Elective-V)
+Course Credit-03 Marks (Weightage)
+Name Boundary Layer Theory L T P Mid End Internal
+Code UME08E56 3 0 0 30 50 20
+Course Contents:
+Unit: 1
+Review of basic concepts and introduction of boundary layer phenomena and its
+Unit: 2
+Classifications Boundary layer thickness, displacement, momentum thickness, wall friction
+Unit: 3
+Derivations and applications of laminar, transition and turbulent boundary layer
+Unit: 4
+Equations Analyses and solutions of thermal boundary layer
+Unit: 5
+Analyses and solutions of separation of boundary layer
+Text Books:
+1. H. Schlichting, ‘Boundary Layer Theory’, McGraw- Hill.
+Reference Books:
+1. Introduction to Fluid Mechanics and Fluid Machines: by S. K. Som, Gautam Biswas and
+Suman Chakraborty, McGraw-Hill Education.
+
+--- Page 125 ---
+Course outcomes:
+CO Statement
+UME08E56.1 Understand the basic principles of boundary layer phenomena
+UME08E56.2 Understand the boundary layer parameters
+UME08E56.3 Explain the concepts of boundary layer regimes
+UME08E56.4 Gain the knowledge to use thermal boundary layer thickness
+UME08E56.5 Explain the separation of boundary layer
+UME08E56.6 Understand the interrelation of separation of boundary layer
+Mapping of course outcomes
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+COs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.1
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.2
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.3
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.4
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.5
+3 2 2 2 1 1 1 1 1 1 1 1 3 2
+UME08E56.6
+
+--- Page 126 ---
+VIVA–VOCE
+Course Credit 01 Marks (Weightage)
+Name Viva–Voce L T P Mid End Internal
+Code UME08P100 0 0 0 100
+Course Outcomes
+Course Outcome Course outcomes
+UME08P100.1 Comprehend any given problem / concept related to mechanical engineering field.
+Recall, recognize, visualize, demonstrate, criticize and appraise the aspects of
+UME08P100.2
+mechanical engineering systems and the interaction among them.
+CO-PO Matrices & CO-PSO Mapping of Course
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+UME08P100 Viva–Voce
+UME08P100. 3 3 - 2 - - - - 3 3 - 2 - -
+1
+UME08P100. 3 2 2 - - - - - 3 3 - 2 - -
+2
+
+--- Page 127 ---
+MAJOR PROJECT-II
+Course Credit 03 Marks (Weightage)
+Name Major Project-II L T P Mid End Internal
+Code UME08P101 0 0 9 100
+Course Outcomes
+No. of Course Course outcomes
+Outcome
+Demonstrate the role of Mechanical Engineers in the Design, Processing and Testing stages of
+UME08P101.1
+product / system with ethical responsibility
+Approach, identify, demonstrate and solve the technical problems using various available modern
+UME08P101.2 tools and techniques
+Outline the past, present and expected performance of a product / system in Engineering practice,
+UME08P101.3 knowledge of safety and environmental standards, cost estimation, scheduling of project, team
+management and ethical practice.
+Develop new product / system in association of multidisciplinary team which is useful to society,
+UME08P101.4
+cost effective and understand the importance of rendering service after sales.
+Survey, Analyze, summarize, infer and communicate their chosen domain problems and result
+UME08P101.5
+optimistically by means of oral presentation and written reports
+CO-PO Matrices & CO-PSO Mapping of Course
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+Project (Part - II)
+UME08P101
+UME08P101.1 3 3 3 - - 2 3 2 3 - - - 3 2
+UME08P11.2 - - - 3 3 - - 3 - - 3 - 3
+UME08P101.3 - - - - - 3 - 3 3 - - 3 3 -
+UME08P101.4 - - 3 - 3 - - 3 - 3 - 3 3
+UME08P101.5 - 3 2 - - - - 3 3 - 3 3 2

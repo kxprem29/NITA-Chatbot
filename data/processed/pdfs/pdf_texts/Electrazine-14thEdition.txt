@@ -1,0 +1,667 @@
+
+--- Page 1 ---
+FOURTEENTH JANUARY 2022
+A HALF YEARLY MAGAZINE
+
+--- Page 2 ---
+TECHNICAL
+ENGLISH
+2
+
+--- Page 3 ---
+EDITOR IN CHIEF
+FROM THE EDITOR
+Sumita Deb
+It is a pleasure that the eleventh issue of Electrazine is being
+published in spite of the devastating global pandemic situation
+owing to COVID19, a virus that has not only caused severe
+causality to human life but has also forced us to restrain
+DESIGN TEAM
+ourselves completely in our homes. It has gravely affected
+every sphere of life and we the teachers are no exception to
+Moumita Saha
+this. We have to spend hours with our mobile, laptop, tablet
+etc allowing only virtual interaction with our students. Inspite
+Jaya Saha
+of all these odds, I am really happy to let you know that our
+esteemed faculty members and beloved students have
+enthusiastically and promptly responded to my call for
+contributions towards this edition of Electrazine. I am very
+much thankful to all of them.
+I am confident that this magazine would find warm
+appreciation and welcome from all.
+Sumita Deb
+Chief Editor
+3
+
+--- Page 4 ---
+“DESIGN IS A WAY OF LIFE, A POINT OF VIEW.
+IT INVOLVES THE WHOLE COMPLEX OF VISUAL
+COMMUNICATIONS: TALENT, CREATIVE
+ABILITY, MANUAL SKILL AND TECHNICAL
+KNOWLEDGE. AESTHETICS AND ECONOMIS,
+TECHNOLOGY AND PSYCHOLOGY AND
+INTRINSICALLY RELATED TO THE PROCESS.”
+- Anonymous
+The Department of Electrical Engineering was established at NIT Agartala
+(then Tripura Engineering College) in 1965. Over the last few decades, our
+graduates have been serving the society in key positions and have made
+tremendous contributions to the development of India in its evolution from
+an industrial based to knowledge-based company.
+The field of Electrical Engineering encompasses many exciting
+technologies: Microelectronics, HV Transmission, Power Generation etc,
+which have been the fastest growing and most challenging technologies that
+enable the development of the modern information-based society.
+Our department provides tremendous opportunities for cross-interaction
+both in terms of teaching and research. The department has a wide range
+of research activities and has been recently accredited by NBA for a
+period of 2 years.
+Thus I feel very happy in presenting ELECTRAZINE on the eve of X-
+mass and HAPPY NEW YEAR. In a subtle sense it is the celebration of
+joy and rejuvenates us to struggle harder in our lives. This magazine brings
+us an opportunity to the students to celebrate their individuality by
+showcasing their hidden talent and helps them to unleash their potential.
+I hope this magazine will enjoyed by all of us as before.
+Dr.PriyaNath Das
+HOD, Electrical Engineering
+4
+
+--- Page 5 ---
+6
+
+--- Page 6 ---
+SOLAR POWER GENERATION AND
+TRANSMISSION OF
+COMMUNICATION SIGNAL
+THROUGH E-HIGHWAY
+Ranit Sengupta
+Abstract
+In order to reduce the environmental hazards and deficiency of non-
+renewable resources, development of Electric Vehicle is a remarkable
+step. As India going to replace the power sector from conventional non-
+renewable energy resources to renewable energy resources like solar,
+wind energy. E-highway will play a significant role on it. Through E-
+highway solar power can be generated and communication signal is also
+transmitted from which Internet is provided to the rural areas situated
+besides the E-highway.
+Implementation
+The concept of E-highway is not new, with a number of other countries
+already testing this idea. In august 2017, the German state of Hesse
+awarded a contract to siemens to build an overhead contact line for
+electrified freight transport on a 10km stretch of motorway. As part of
+strategy to boost electric mobility in the country, India is also planning
+to launch E-highway. Initially, a 10km pilot e-highway will be built with
+overhead electric lines to power the engines of trucks and buses. Mainly
+engines are replaced with motors. As we know through E-Highway, two
+overhead wires are connected to supply power to the Electric Vehicle and
+those wire suspended from supporting steel pole. Each pole is having 1
+or 2 solar panel of 250 watt, from which 250 to 500-watt power can be
+generated in a bright sunny day. As considering the length of 10 km long
+E-highway, supporting poles are placed 100m apart from each other and
+total number of poles will be 100. As a result, 25kw to 30kw power can
+be generated from the 10km long E-highway and this power is fed back
+to the grid. This power can be utilized for rural area electrification
+6
+
+--- Page 7 ---
+situated besides the E-highway. As we know India is going to get 5G
+internet service, so it can be transmitted through the wire of E-highway.
+It can distribute connections to its terminal point or use to serve internet
+connection in nearby rural villages across the highway where internet is
+still a dream till today. That MHz range signal can be collected from
+power line by a device name <wave trapper= which is use in High Voltage
+Power substations to communicate through Transmission line to another
+substation. In 2018 in Netherlands, during an attempt to test 5G
+connectivity nearly 300 birds lost live. Wire transmission of 5G is the
+best option for that. This implementation will lead the country forward
+with green and eco-friendly technology.
+7
+
+--- Page 8 ---
+STORAGE SYSTEMS FOR H FUEL
+2
+H CALLS FOR A CARBON FREE
+2
+FUTURE
+Madhumita Pal
+MTech 3rdSem, Integrated Energy systems
+1. BRIEF INTRODUCTION
+The global warming today knocks for a new fuel instead of Co2. H2
+provides a promising hand in replacement of the fossil fuel. Germany
+is leading in implementing in H2 fuel via automobile sector, power
+sector. But what is keeping this new fuel so challenging in India and
+other developing countries? The answer lies in the storage technology
+which is in its germinating stage. Compressed gaseous hydrogen
+storage is one of the best and reliable ways of storing H2 which is seen
+in the industries, factories. But with emerging technology solid- state
+H2 has turned up to be advantageous for its high-density volume
+storage capacity in a small area.
+2. METAL HYDRIDE
+The reversible reaction of absorption and de-absorption makes MH a
+viable, efficient option for storing H2. Its uses can be seen in
+integration with Fuel cell for better energy-heat management.
++ ↔
+E㕀xam㔻ples㕀 o㔻f such material Ti-Cr-V, MgH2, AB2 type alloys.
+2.1. There is an optimum refilling rate of MH in any cylindrical tank
+as per its dimensions, such that the heat generated during the process
+doesn’t burn the H2 within the tank. This can be analyzed using the
+graphs
+8
+
+--- Page 9 ---
+Fig 1 A Fig 1B
+Fig 1 C
+Fig 1: Required rate of charging a tank with H is dependent on
+2
+Fig1A: Accepted rise in Temperature (oC)
+Fig1B: characteristic distance between heat transfer surfaces (m)
+Fig 1C: Heat of reaction (J/mol H )
+2
+3. GAS- SOLID HYBRID STORAGE SYSTEM
+Various alloys are used to store H in the storage tank such that total
+2
+internal volume of the tank is
+V =V +V +V ; V =0.2(V +V );
+total alloy gas o o alloy gas
+V = internal cylinder volume that contains only gaseous hydrogen.
+gas
+V =internal cylinder volume that is filled with alloy
+alloy
+V = dead volume of the tank including valves, gas tubes, cylinder body,
+o
+thermal conductor, etc.
+The volumetric hydrogen storage density of the tank (kg m-3) is
+9
+
+--- Page 10 ---
+;
+þĀýý㕖ý+þĀÿĀ
+= weight of the solid-state hydrogen stored; = weight of the
+㔌㕣 = 㕉āýāÿý
+gaseous hydrogen stored;
+þĀýý㕖ý þ㕔ÿĀ
+Varies according to ideal gas equation and is analyzed according to
+following graphs.
+㔌㕣
+Fig2.the relationship between volumetric hydrogen storage density and
+hydrogen pressure (MPa). (At T=300k)
+4. STORAGE ON NANOPOROUS SOLID MATERIALS
+Solid nano porous materials, such as nano porous carbons, porous
+polymers and Metal Organic Frameworks (MOFs) are the surfaces to
+store H on board. The internal high storage capacities are the
+2
+advantages of these materials at nano scale (10-9 m).
+The volumetric capacity in kg/L is calculated as-
+;
+ÿ 㕣ÿýĀýÿĀþý
+= conversion factor, to convert from moles to kg of hydrogen;
+㕣 = 㕣þýý ∗ 㕣þýÿþ
+;
+ÿ
+㕣ÿýĀýÿĀþý
+= volumes of the adsorbed hydrogen phase; = volumes of
+㕣þýý = þýýþĀ ýÿ 㔻 ÿýĀýÿĀþý
+the pore.
+㕣ÿýĀýÿĀþý 㕣þýÿþ
+10
+
+--- Page 11 ---
+Fig 3 A Fig 3 B
+Fig 3 the relation between volumetric capacity in nanomaterial graphene
+with volume of pore (fig 3A) and with conversion factor (fig 3 B)
+5. CONCLUSION
+Various factors such as temperature, pressure etc. determine the suitable
+storage systems for H . The nanoparticles and hybrid gas-solid storage
+2
+systems are two ongoing research areas for storing this clean fuel. The
+need of the hour is a vibrant approach to harness cheap technology
+reliant to strategic utilization of it for generating energy as per
+requirement and demands.
+6. REFERENCES FOR THIS ARTICLE
+1. Development of a gaseous and solid-state hybrid system for stationary
+hydrogen energy storage.
+2. Comparison of theoretical methods of the hydrogen storage capacities
+of nano porous carbons.
+3. Design tool for estimating metal hydride storage system
+characteristics for light-duty hydrogen fuel cell vehicles.
+11
+
+--- Page 12 ---
+13
+
+--- Page 13 ---
+Ethics of Life
+MAHESWAR PATRA
+M.TECH (3RD SEMESTER)
+POWER SYSTEM ENGINEERING
+World is full of worries & trouble
+Happiness is just like a soap bubble
+Visible until you don’t touch
+When in contact lasts not much
+A little comfort & a little pain
+Both is needed like sun & rain
+Best is peace & never violence
+Sometimes noise & sometimes silence
+Always thinking of loss & gain!?
+Helping the indigent never goes in vain
+What’s required is a little solidarity
+That’s what we call a life of quality
+Life is a crop that you cultivate
+Live your own, please don’t imitate
+As long you live, live with dignity
+Nothing will last for all eternity
+13
+
+--- Page 14 ---
+CHAOS – An
+invisible push to
+MADHUMITA PAL
+M.TECH (3RD SEMESTER)
+INTEGRATED ENERGY SYSTEMS
+change
+Some people have lived a chaos
+Some have ignored it
+Some have even craved it
+While some have excused it
+In common everyone have survived it
+Either it turns your best
+Or it crawls your worst
+Either it heals you up
+Or it slays you back down
+In common your own chaos has changed your soul…
+14
+
+--- Page 15 ---
+Live the breath
+MADHUMITA PAL
+M.TECH (3RD SEMESTER)
+INTEGRATED ENERGY SYSTEMS
+quieter
+Fall deeper
+Wake up stronger
+Think calmer
+Work bolder
+15
+
+--- Page 16 ---
+Love the heart
+And forgive the hurt
+MADHUMITA PAL
+When time M.TECH (3RD SEMESTER) flows opposite
+INTEGRATED ENERGY SYSTEMS
+Hold the strong pillar
+stronger
+Uncertainty
+A second is uncertain to create you
+A second is uncertain to destroy you
+A second is uncertain to break you
+&
+A second is uncertain to repair you
+Live that each moment
+Pay that each moment
+Smile those each second
+Cry for those each second
+Success and failures are just parts,
+But to live and to let humanity live are the full stories of it.
+17
+
+--- Page 17 ---
+MAHESWAR PATRA
+M.TECH (3RD SEMESTER)
+#BLACK POWER SYSTEM ENGINEERING
+LIVES MATTER
+Caste, creed & colour separation
+A big mockery to Almighty’s creation
+Discriminating people saying white & black
+Shows nothing but your mental drawback
+Okay, okay let me get this straight
+Don’t be in illusion that you will write our fate
+Nothing will change though much is said
+Until you realize what message you want to spread
+Doesn’t affect them how loud we scream
+No racism is still a dream
+Hate, slap, punch, kick is what they give
+Living in 2020, do we really need to speak!!?
+To humanity it’s just like a speck
+But their knees will be on our neck
+No matter what we still be a target
+Colour of our skin continue to be a threat
+17
+
+--- Page 18 ---
+Support to end this utter nonsense
+We can’t bear more barbaric violence
+Oh stop! Please, we can’t breathe
+We beg of you!! Just go & leave
+Failure is the key to
+MOUMITA SAHA
+PHD SCHOLAR
+ELECTRICAL ENGINEERING
+Success ingredient
+for Creativity
+<Change is the only constant=
+and we need to modify our
+18
+
+--- Page 19 ---
+conventional proverbs with time.
+The well-known proverb <Failure is the key to Success= is no more valid
+for to-days generation. Persistence and certitude are the difference
+between success and failure. So if we want to succeed, we have to learn
+from our failure and need to modify our streamline in a creative way.
+Fail often, fail fast and take break to think creative. The more times we
+fail, the closer we are getting to success because we get more time to
+think before taking our next step.
+Revolution cannot be achieved by hard work but by smart work.
+One of the key ingredients of smart work is failure. We all are willing
+to do breathless job from day to night unless until failure knock the door.
+In order to be creative, we have to be willing to fail.
+In order to build a culture that’s unafraid to fail, we have to be willing to
+trust people to make mistakes and fix them quickly.
+Failure and creativity go hand in hand.
+Walt Disney
+Mickey Mouse creator Walt Disney dropped out of school at a young age
+in a failed attempt at joining the army. One of his earlier ventures,
+Laugh-o-Gram Studios, went bankrupt due to his lack of ability to run a
+successful business. He was once fired from a Missouri newspaper for
+<not being creative enough.= Yet today, the genius behind Disney studios
+is responsible for generations of childhood memories and dreams.
+From Snow White to Frozen, Disney will continue to entertain the world
+for generations to come.
+Vincent Van Gogh
+During his lifetime, Vincent Van Gogh suffered mental illness, failed
+relationships, and committed suicide at the age of 37.
+He only ever sold one painting in his life, pinning him a failure as an
+artist. However that did not put a damper on his enthusiasm and passion
+for art.
+He would never know that years and years after his death he would
+become known as a key figure in the world of post-impressionism, and
+ultimately, one of the greatest artist that ever lived. He would never
+19
+
+--- Page 20 ---
+know that he became a hot topic in art classes and his image was going to
+be used in TV, books and other forms of popular culture.
+Oprah Winfrey
+She grew up in extreme poverty and was even fired from her first job at
+Baltimore’s WJZ. She
+created the highest-
+JAYA SAHA
+ranked talk show in
+PHD SCHOLAR
+Chicago and secured a
+career as a ELECTRICAL ENGINEERING successful
+producer and
+philanthropist.
+Mysterious Covid-19
+Pandemic
+On 31 December 2019, unknown pneumonia cases were reported in
+people associated with the Huanan Seafood Wholesale Market in
+Wuhan, Hubei Province, China. On
+January 7, 2020, the Chinese
+health authorities confirmed that
+this case community was
+associated with a new type of
+coronavirus.
+Later, this clinical picture was
+named Coronavirus disease 2019
+20
+
+--- Page 21 ---
+(COVID-19), and its factor was reported as <Severe Acute Respiratory
+Syndrome Coronavirus 2 (SARS-CoV-2)=. COVID-19, which has been
+declared a pandemic with current data, continues to spread by increasing
+the number of infected cases and mortality day by day. SARS-CoV, an
+epidemic with viruses from the same family, appeared in 2002-2003,
+while 8,000 cases and 800 deaths occurred; Middle East Respiratory
+syndrome (MERS)-CoV appeared in 2012, causing 2,500 cases and 800
+deaths.
+On March 11, 2020, the World Health Organization (WHO) classified the
+COVID-19 infection as a pandemic.
+More than six months into the pandemic, the coronavirus has infected
+more than 11 million people worldwide, killing more than 525,000. But
+despite the increasing toll, scientists still do not have a definitive answer
+to one of the most fundamental questions about the virus: How deadly
+is it?
+A firm estimate could help governments predict how many deaths would
+ensue if the virus spread out of control. The figure, usually called the
+infection fatality rate, could tell health officials what to expect as the
+pandemic spreads to densely populated nations like Brazil, Nigeria and
+India.
+In even poorer countries, where lethal threats like measles and malaria
+are constant and where hard budget choices are routine, the number
+could help officials decide whether to spend more on oxygen
+concentrators or ventilators, or on measles or on measles shots and
+mosquito-nets.
+The question became even more complex, when the Canters for Disease
+Control and Prevention released data suggesting that for every
+documented infection in the United States, there were 10 other cases on
+average that had gone unrecorded, probably because they were very mild
+or asymptomatic. If there are many more asymptomatic infections than
+once thought, then the virus may be less deadly than it has appeared. But
+even that calculation is a difficult one.
+Differences in Sensitivity of Children and Adults to COVID-19
+There are some studies investigating why the disease is transmitted in
+children with a milder clinic picture. Due to the immature immune
+system in children, there are some data supporting the rarely occurrence
+or slight effect of some infections. For example; It has been shown that
+21
+
+--- Page 22 ---
+immature mice do not have poliovirus-induced paralysis due to
+maturational changes of the axonal transport system. Another thesis is
+that children have a more active natural immune response. Unlike
+adults, less exposure to air pollution and cigarette smoke, and other
+factors such as underlying diseases are thought to be the reason for the
+healthier airways of children. In addition, acute respiratory distress
+syndrome (ARDS) was associated with a much stronger immune
+response reaction in adults. One of the most remarkable reasons among
+these is that the distribution, maturation and functional differences of
+viral receptors vary depending on age. SARS-CoV, SARS-CoV-2 and
+human coronavirus NL63 use the SARS CoV receptor, namely
+angiotensin converting enzyme-2 (ACE-2) as a cell receptor to enter the
+‐
+host cells in humans. As a result, these and similar effects can be cited as
+the reason why children are more resistant to COVID-19 infections.
+In adults infected with the SARS-CoV-2 virus, there is a markable or
+progressive decrease in the number of peripheral absolute lymphocytes
+at an early stage. Both the CD4+ and CD8+ lymphocyte count decrease,
+and the neutrophil/lymphocyte ratio increases as SARS-CoV-2 consumes
+lymphocytes as an early and prominent sign. This proves that the virus
+used lymphocytes to reproduce and spread in the early stages. Adult
+cases become severe within 7-10 days from the onset of the disease. As a
+result of rapid virus replication, inflammatory cell infiltration, pro-
+inflammatory cytokines, and chemokine response increase, transition
+to ARDS, which is fatal lung injury occurs. The fact that the number of
+leukocytes and absolute lymphocytes is quite normal and there is no
+decrease in lymphocytes after the SARS-CoV-2 infection in children
+suggests that there is fewer immune dysfunction.
+On the other hand, mild COVID-19 disease in children may be associated
+with trained immunity/active immunization. The creation of a trained
+immune system is a new immune model. Some designated vaccines, such
+as Bacillus Calmette Guerin (BCG), create immune memory by training
+natural immunity. Most of the children in China and Asia are regularly
+vaccinated according to the routine scheme, which also includes BCG. In
+the light of this information, it should be investigated in more detail in
+terms of educating the immune system with vaccination, which may be
+one of the reasons why children have less ARDS than adults.
+Economic Consequences of the COVID-19 Outbreak
+22
+
+--- Page 23 ---
+As the spread of the virus is likely to continue disrupting economic
+activity and negatively impact manufacturing and service industries,
+especially in developed countries, we expect that financial markets will
+continue to be volatile. There is still a question as to whether this
+unfolding crisis will have a lasting structural impact on the global
+economy or largely short-term financial and economic consequences. In
+either case, it is evident that
+communicable RAJATSUBHRA diseases such as
+COVID-19 have the potential to
+inflict severe economic and
+financial costs on regional and global economies. As outbreaks of novel
+infections are not likely to disappear in the near future, proactive
+international actions are required not only to save lives but also to
+protect economic prosperity
+Sanatan Dharma
+The Origin
+With the world fast-pacing into the technological development meridian,
+many of us from the prevailing the-human-race experience the hunger
+for external and internal or to be more specific, spiritual growth. Some
+bourgeoisie who claim themselves to be the more practical and advanced
+among us multitudes, reject this hunger and the need to satisfy it, as a
+mere waste of time and energy. But what they do not comprehend is this
+hunger fuels the creation and the perfect regulation of our time and
+energy.
+Now, one might ask if this spiritual growth is so momentous and
+essential, how does one achieve it? The answer to that question lies in
+two words, that although seem limited but are infinite in possibilities
+and growth. The two words are Sanatana Dharma. What does Sanatana
+Dharma mean? Wikipedia defines Sanatana Dharma as "Sanātana
+23
+
+--- Page 24 ---
+dharma (Devanagari; meaning "eternal dharma" or "eternal order") is
+another name for Hinduism." Although the literal meaning is correct,
+Sanatana Dharma is not another name for Hinduism. Sanatana Dharma
+is not another name of any religion in this world.
+Then what is Sanatana Dharma in reality? Sanatana Dharma is the
+external dharma or duties or laws that govern the existence of all life in
+this multiverse. According to Vedic Mathematics, the age of Sanatan
+Dharma is estimated to be 155.52 Trillion Years. Sanatan Dharma is
+eternal (beyond the time). It is the Universal Truth that sustains the very
+core of the Universe and its beings. It is defined by the quest for cosmic
+truth, just as the quest for physical truth defines science. In abridgment,
+Sanatana Dharma represents a code of conduct and a value system that
+has spiritual freedom as its core. If any religion provides such a code of
+conduct and spiritual awakening, then that religion is Sanatana Dharma.
+By this syllogism, a Hindu, a Muslim, a Sikh, a Christian, a Buddhist, or
+be a person who is a devoted follower of any religion, is a practitioner of
+Sanatana Dharma. Every religion is Sanatana Dharma. One cannot limit
+it to a particular religion or cult or sect of society. Every religion teaches
+us the ways and enlightens the path to become more-virtuous varieties of
+ourselves.
+Human nature has always been to become limitless in all aspects of our
+existence. Infinite knowledge, infinite strength, infinite durability, and so
+on. We want to become gods. In the Bible, it is written, God created us in
+his image. i.e. we are the sublets of God and it is our destiny to become
+Him.
+But there are no such methods devised by the modern and advancing
+world to become limitless. As a gift to us, to help us reach the eternal and
+ultimate state of presence, to guide us on the path of becoming the
+Supreme Personality of Godhead, our forefathers left us with the
+knowledge of Sanatana Dharma.
+Sanatana Dharma is…
+1. God-centered rather than prophet-centered.
+2. Experience-based rather than belief based.
+3. Beyond any historical date of founding.
+24
+
+--- Page 25 ---
+4. The process of growth, which comes from the seed.
+5. Inherent in, and inclusive of all.
+6. In the world, while above the world.
+7. Both immanent and transcendent.
+8. The whole and the parts.
+RAJATSUBHRA
+9. Loving of all and excluding
+of none.
+Sanatana Dharma is Anadi (without beginning) and also a-
+paurusheya(without a human founder). Sanatana Dharma represents
+much more than just a religion. It provides its followers with an entire
+worldview, way of life, and with a coherent and rational view of the
+cosmic reality.
+Sanatan Dharma
+The Principles
+In our previous article, we began our study or discussion on Sanatana
+Dharma and its origins. We got to know that Sanatana Dharma, just as
+its name suggests is eternal and was, is, and always will remain and be
+preserved even when nothing existed, exists, or will exist. We discovered
+that Sanatana Dharma enlightens the path for creatures born in this
+universe, created in God’s image to be godlike, to be gods themselves.
+Sanatana Dharma teaches us humility and responsibility whilst making
+us masters of great powers, powers gained through enlightenment and
+liberation from this cycle of life and death. Sanatana Dharma teaches us
+to live in Death, Death which is ever constant and ever fair and unbiased.
+25
+
+--- Page 26 ---
+Sanatana Dharma is delimited by the desideratum for cosmic
+veridicality, just as the desideratum for physical truth defines scientific
+discipline. Its earliest record is the Rigveda, which is the record of
+ancient sages who by whatever means tried to learn the truth about the
+universe concerning Man’s place in the cosmos. They saw nature 4
+including all living and non-living things 4 as part of the same cosmic
+equation, and as pervaded by a higher consciousness or Paramatman.
+In this article, let us delve deeper into Sanatana Dharma by canvassing
+the principles it upholds.
+1. Sanatana Dharma recognizes that the greater portion of human
+religious aspiration has always been unknown, undefined, and outside of
+any institutionalized belief.
+2. The river of Dharma, regardless of what name you call it, whether
+Dharma or some other name is ever-flowing and has eternally existed. It
+has been before any of the great and ancient teachers were born. It is not
+better than, or alternative to, but is inclusive of all. Dharma is that out of
+which our earth and humanity itself emerged. Dharma not only is, but
+always was, and always will be. To live in alignment with, and to
+understand, the true nature of that Sanatana Dharma is one among the
+ways of describing the upper goal of life.
+3. Sanatana Dharma gives reverence to individual spiritual experience
+over any formal religious doctrine. Wherever the Universal Truth is
+manifest, there’s Sanatana Dharma 4 whether it’s during a field of faith,
+art or science, or within the lifetime of an individual or community.
+Wherever the Universal Truth isn’t recognized or is scaled-down and
+limited to a specific group, book, or person, albeit done so within the
+name of God, there Sanatana Dharma ceases to function, whatever we
+call the activity.
+4. Sanatana Dharma comprises spiritual laws that govern human
+existence. Sanatana Dharma is to human life what natural laws are to the
+physical phenomena. Just as the phenomena of gravitation existed
+before they discovered it, the spiritual laws of life are eternal laws that
+existed before the ancient rishis (sages discovered them) for the present
+age during the Vedic period. Sanatana Dharma declares that something
+26
+
+--- Page 27 ---
+cannot come out of nothingness and, therefore, the universe itself is the
+manifestation of the Divine Being.
+5. Since Sanatana Dharma corresponds to those ways of being are in
+concert and complete harmony and are synchronous with the Brahman
+and are aphoristic laws, this term refers not to something open to
+alteration or mutation. Just as the laws of gravity, mathematics or logic
+are not flexible with prejudiced criticism or relativistic opinions (gravity,
+for example, is an inherent law of nature whether or not one believes in
+the law of gravity), similarly the subtle laws of God transcend all
+irrespective of their beliefs and nature
+6. The universe is designed up of three depositions, reflexes,
+characteristics or tendencies called Gunas: Tamasic, Rajasic, and Sattvic.
+Tamasic tendencies are those that are inert, lazy, dull, and dark and
+procrastinating. Rajasic tendencies are people who are active, moving,
+indecisive, and forceful. Sattvic tendencies are those that are pure, clean,
+good, wholesome, calming, and peaceful. If it were not for these three
+tendencies, we would not exist. Everything in this universe a mixture of
+them. Even a saint who is primarily sattvic, no matter however small, has
+some level of rajas and tamas in him/her.
+7. Sanatan Dharma utilizes Yoga as the means to realize Moksha or God-
+realization. A very bland and rough translation of Yoga means "union". It
+means "union", but that is a poor definition because it encompasses so
+much more. Yoga is the union with Brahman (Absolute God). Therefore,
+the word yoga is not merely a statement of a union, but it encompasses
+the experience of liberation. In simpler words, Yoga is Enlightenment or
+Moksha.
+Just as a visible iceberg is only 10% of the actual size and mass of the
+complete iceberg, what we discuss in these articles is only skimming off
+the top of a magnificent and enormous iceberg that is ever-expanding.
+The more we know about it, the more we dive deeper into it, the more we
+get lost in its beauty and the more we come closer to the Paramatman.
+27
+
+--- Page 28 ---
+NATIONAL INSTITUTE OF TECHNOLOGY
+AGARTALA
+29
+
+--- Page 29 ---
+Semester Magazine of Department of Electrical Engineering
+NIT Agartala
+29

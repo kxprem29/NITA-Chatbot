@@ -1,0 +1,510 @@
+
+--- Page 1 ---
+ELECTRAZINE
+
+--- Page 2 ---
+TECHNICAL
+Motor protection
+ENGLISH
+Obesity
+I have learnt that I deserve
+FIFA world cup 2018:
+a Russian rendezvous
+The God Particle
+BENGALI
+PHOTOGRAPHY
+PAINTINGS
+2
+
+--- Page 3 ---
+EDITOR IN CHIEF
+FROM THE EDITOR
+Dr. Sumita Deb
+Dear Reader,
+Greetings to you all.
+Executive Editor
+It gives me immense pleasure to present to you the
+tenth edition of ELECTRAZINE. Publication of the magazine Arjita Pal
+included a lot of planning, organized effort and hard labour.
+Like the earlier issues of ELECTRAZINE, this issue also includes Prince Sharma
+some valuable technical and literary expressions of our
+students and faculties, scripted in the form of some amazing
+writing talents.
+DESIGN TEAM
+I am confident that this magazine would find warm
+appreciation and welcome for the readers. Nilakshi Das
+Sumita Deb
+Chitrarupa Chaudhuri
+Chief Editor Abhrajeet Das
+Rudra Sarkar
+3
+
+--- Page 4 ---
+FROM ELECTRATEAM
+It gives us a great pleasure and satisfaction to present to
+you the Tenth edition of the departmental magazine
+“
+ELECRAZINE. This branch magazine in is the culmination of
+You learn to rely on a efforts put in by the whole editing and designing team.
+few basic movements
+This magazine is intended to evoke a response from you.
+and use your voice to
+Our purpose is to use it as your mouthpiece and at the same time
+the greatest extent
+present the happenings of the department before you. We seek to
+possible to convey your
+provide you with some pages where you can unwind yourself
+emotions. So there was a
+from the daily grinds and the rigors of the technical complexities
+technical challenge and
+and let the creative self take over for a while. It is expected to
+a responsibility to
+serve as the little excuse or the tiny dose of motivation which
+create a character from
+will stir the dormant artistic creativity of the students. At the
+behind the task.
+same time it is also the mean by which you can have your
+opinion heard and your ideas shared.
+”
+-HELENA CARTER
+We are indebted to Dr. PRIYA NATH DAS and Dr.
+SUMITA DEB for the inspiration and the kind support. A
+branch magazine owes a lot to the contributors and hence we are
+also thankful to all those who chipped in with precious contents.
+We have put in our best in the pursuit of publishing this
+magazine which would cater to the expectations of the readers
+but still there is always a scope of improvement and thus
+feedback and suggestions are always welcome.
+We hope you all will enjoy as your turn over the leaves of
+ELECTRAZINE 13.0!!
+4
+
+--- Page 5 ---
+Message from HOD
+Electrical Engineering Department was started its journey since the establishment of Tripura Engineering
+College (TEC) in 1965. TEC got converted into NIT, Agartala with effect from 1st April, 2006. Over the last
+few decades, our graduates have been serving the society in key positions and have made tremendous
+contributions to the development of India in its evolution from an industrial based to a knowledge-based
+country.
+The field of Electrical Engineering encompasses many exciting technologies: Microelectronics, HV
+Transmission, Power Generation etc, which have been the fastest growing and most challenging
+technologies that enable the development of the modern information-based society.
+Thus I feel very happy in presenting the tenth edition of ELECTRAZINE on the eve NEW YEAR. I hope this
+magazine will be enjoyed by all of us as before.
+Dr. Priya Nath Das
+HOD, Electrical Engineering
+5
+
+--- Page 6 ---
+6
+
+--- Page 7 ---
+Motor
+Protection
+NAYAN PAUL, 4TH YEAR
+Due to its low cost and rugged nature most of the motors used in our domestic applications
+are squirrel cage induction motors. Slip ring induction motors are only used if speed control is
+required. The major parts of any motor feeder are the contactors and relays. Contactors are the
+predominant switching devices with a high mechanical and electrical life. Overload relays offer
+protection against overload and single phasing and can be directly mounted onto the contactors.
+This makes the motor feeder extremely compact and modular.
+MOG motor protection circuit breakers offer the advantage of having both overload and short
+circuit protection in a single compact unit. This solution is cost effective and ensures savings in
+panel space.
+The most common method of motor starting is either Direct On Line (DOL) or Star – Delta:-
+A) DOL Starting:-
+While DOL starting method is simple & most commonly used, care has to be taken while
+selecting the SCPD & relay. It is recommended to select MCCB & MPCB with magnetic
+7
+
+--- Page 8 ---
+threshold of at least 12 times of motor full load current for all standard motors & at least 14 times
+of full load current for high efficiency motors.
+1) Star - Delta Starting:-
+Star Delta starting method is popularly used to reduce the motor starting current. For Star-Delta
+motor feeders, the motor winding is connected in star. When it reaches a certain speed the motor
+winding connection is changed to delta. It is of following two types:-
+a) Open Transition:-
+Open transition star delta starting is preferred in majority of the motor starting applications. In
+open transition starting there is a momentary loss of supply to the motor when the changeover
+from star to delta takes place. When the ON button is pressed, the star and main contactors get
+picked and the motor is connected in star configuration. As a result a reduced voltage (VL/3) is
+applied across motor windings. The motor continues to run in star connection for a period set in
+the star delta timer. After the time delay, star contactor drops off and delta contactor picks up
+causing the motor to get connected in delta. There is a pause time of the order 50 - 80 msec
+configured in every star delta timer. This is to
+ensure that delta contactor picks up only after star contactor has fully dropped to prevent the
+eventuality of a short circuit. When this changeover takes place, the motor sees a zero voltage
+across its terminals momentarily. During this time the rotating magnetic field across the stator
+reduces to zero. However the rotor is still spinning and has a magnetic field. This spinning action
+of the rotor causes a voltage to be induced in the stator determined by the speed of the rotor. This
+induced voltage across the stator is called the back EMF.
+When the motor is now connected in delta full line voltage appears across its terminals. The
+difference between the back emf and supply voltage causes a high transient current and
+corresponding high transient torque. Hence the motor experiences a jerk. The magnitude of the
+transient current depends on the phase relationship between the back EMF and supply voltage at
+the time of closure. This current peak may reach a value of about 18In and a corresponding
+mechanical jerk, which can be damaging to some critical processes. To avoid this closed
+transition starting is used in such cases.
+R
+Y
+B
+N
+FUSE
+LINE CONTACTER
+DELTA CONTACTER STAR CONTACTER
+MOTOR
+8
+
+--- Page 9 ---
+Circuit diagram of a typical open transition Star Delta (SD) motor starter feeder.
+b) Close Transition:-
+In close transition starter, a smooth changeover from star to delta takes place without the
+temporary loss of supply to motor thus eliminating the switching transients. This is brought
+about by employing a fourth contactor along with a set of resistors. When the star contactor is
+opened, supply is maintained through the motor terminals via the resistors. The resistors are
+then shorted by the delta contactor when it closes.
+Advantages :-
+1) Operation is simple and rugged.
+2) Transition Peak is reduced to 1.5 times full load current instead of 18 times in open
+transition.
+3) The sudden jerk the motor experiences in open transition, while closing the delta contactor
+is avoided.
+R
+Y
+B
+FUSE
+RELAY
+DELTA CONTACTER TRANSITION MAIN CONTACTER STAR
+CONTACTER CONTACTER
+Circuit diagram of a typical close transition Star Delta (SD) motor starter feeder.
+Disadvantages :-
+1) More expensive.
+2) Starter can be bulkier.
+MOTOR PROTECTION :-
+The main purpose of motor protection system is to prevent excessive temperature built up in the
+windings because of over-current and short-circuit current. More importantly, the protection devices
+should be co-ordinated.
+A) OVERCURRENT PROTECTION
+Following are the reasons for over-current.
+9
+
+--- Page 10 ---
+1. Overloading
+2. Single Phasing
+3. Voltage Imbalance
+Thermal Overload Relay:-
+Thermal overload relay should protect the motor against single phasing and overloading or blocked
+rotor condition. At the same time, it should withstand starting current for a duration equal to the
+starting time of the motor. A relay of appropriate trip class can be selected by comparing 'locked rotor
+current withstand time' for the motor with maximum trip time. For example, for a motor with 'locked
+rotor current withstand time' of 15 seconds, the relay should have trip time less than 15 seconds at a
+current equal to locked rotor current.
+New generation of thermal overload relays incorporating 'differential mechanism' provide excellent
+protection against phase unbalance and phase failures even when motor is not running at full load.
+Unbalanced voltages result in high unequal currents in stator windings and consequently higher
+temperature rise. Though balanced voltages are preferred, in some applications, voltage unbalance is
+unavoidable and some derating might be necessary. Where a motor is derated, selection of overload
+relay should take into account the derating factor.
+SHORT CIRCUIT PROTECTING DEVICE:-
+Though they operates instantaneously but by the time SCPD interrupts short circuit current, certain
+amount of fault energy passes through the protected circuit. All the downstream devices and cables in
+the protected circuit are subjected to stresses corresponding to this energy.
+The two important parameters which indicate the extent of stresses generated by short circuits are 'l t
+let through' and 'cut-off current'. 'l t let through' signifies thermal stresses. 8Cut-off current (Ic)' is
+indicative of electro-dynamic stresses that various devices and links / cables will have to withstand.
+Lower 'l t let through' and 'cut-off current9 indicate a more efficient SCPD and hence better short
+circuit protection.
+Motor protection circuit breakers (MPCBs) combine short circuit and overload protection in a single
+compact unitCo-ordination of Thermal Overload Relay & SCPD
+What is Co-ordination?
+Co-ordination means matching the characteristics of SCPD and down stream equipment to ensure that
+the let-through energy and peak cut-off current do not rise above the levels that the circuit can
+withstand.
+IEC / IS / EN specifications require that thermal overload relays and SCPD are co-ordinated to ensure
+that they operate satisfactorily under all load and fault conditions
+Discrimination :-
+To understand various considerations for proper co-ordination, time-current characteristics of thermal
+overload relay (curve B), H.R.C. fuse (curve C), MCCB with only instantaneous release (curve D)
+and MPCB (curve E) are superimposed on motor starting characteristics (curve A) in Fig. 3b, 4b and
+5b. Intersection of characteristics of thermal overload relay and Fuse / MCCB is termed as 'cross-over
+point' and corresponding current as 'cross-over current' lco.
+Following points are to be ensured while selecting components to have properly co-ordinated motor
+protection:
+l )Contactor rating (AC-3) should be more than or equal to motor full load current (if application is
+AC-3 duty)
+2) Thermal overload relay of appropriate 'Trip Class' is selected. Time current characteristics of the
+relay should remain above motor starting characteristics as shown in Fig. 3b and 4b
+3) For fault currents lower than 'cross-over current lco', relay will respond faster than SCPD and
+hence contactor will interrupt the fault current. Fault currents higher than lco will be interrupted by
+SCPD. Hence, rating of contactor is so chosen that lco is less than rated breaking capacity of the
+contactor
+10
+
+--- Page 11 ---
+4) Relay and contactor should be able to withstand lco for a duration equal to trip time of the relay.
+IEC / IS / EN standards require that the contactor should be able to withstand at least current equal to
+8 times AC-3 rating (6 times for ratings higher than 630A) for 10 seconds
+5) While using MCCB or MPCB, attention needs to be given to motor peak starting current. To avoid
+nuisance tripping of MCCB/MPCB during starting, instantaneous release is chosen as 13 times the
+full load current of the motor. This thumb rule assumes motor starting current equal to 6 times full
+load current
+Type 1 and Type 2 Co-ordination in Motor Feeders:-
+Selection of components involves co-ordination of characteristics of various devices i.e. of the
+overload relay & of short circuit protection device of the motor feeder.
+Type <1= co-ordination requires that under short-circuit conditions, the contactor or the starter shall
+cause no danger to persons or installation. The motor feeder may not be suitable for further service
+without repair and replacement of parts.
+Type <2= co-ordination requires that under short-circuit conditions, the contactor or the starter shall
+cause no danger to persons or installation and shall be suitable for further use. However contact
+welding is recognized
+Recommended combination needs to be proven through short-circuit tests as
+1) Co-ordination with sdf Prospective current :- It is the highest short circuit current which
+can exist in a particular electrical system under short circuit conditions. It is determined by
+voltage and impedance. The protective device must be selected with an interrupting rating
+that exceeds the prospective short circuit current.
+2) Conditional short-circuit current:- It is the the maximum fault current that the feeder can
+withstand for a specified period of time. It is declared by the manufacturer.
+11
+
+--- Page 12 ---
+12
+
+--- Page 13 ---
+OBESITY
+DR. SUMITA DEB,
+ASSISTANT PROFESOR
+Along with a surge of adrenaline, today9s fast-paced, high-stressed living brings a host of other
+problems, Obesity being one of the chief concerns. Obesity is basically a life style disorder. It
+manifests as an excess of fat in the body. This fat invades all tissues and organs of the body
+indiscriminately. It can be accounted as an adverse consequence of the rapid technological advances
+made by man. Some very common causes include:
+1. Easily available and cheap junk food.
+2. Lack of adequate physical exercise and leisure activities centered around television and
+laptops
+3. Improved transportation facilities and mechanization of jobs.
+Added to these is our genetic makeup and body metabolism both of which provide the ideal
+environment for obesity to proliferate. Obesity basically occurs when our body consumes more
+calories than it burns. In the past, many people thought that obesity was simply caused by overeating
+and under-exercising, resulting from a lack of will power and self-control. Although these are
+significant contributing factors, doctors recognize that obesity is a complex medical problem that
+involves genetic, environmental, behavioral, and social factors. All these factors play a role in
+determining a person's weight.
+Obesity is determined by the body mass index (BMI) of a person. The BMI of an Indian
+ranges between 18-23 kg/m2. BMI above 30 kg/m2 is classified as obese. The health problems
+associated with obesity are numerous. It's a health hazard. Someone who is 40% overweight is twice
+13
+
+--- Page 14 ---
+as likely to die prematurely as is a normal-weight person. Obesity has been linked to several serious
+medical conditions, including:
+ Coronary heart disease and stroke.
+ High blood pressure.
+ Diabetes (Type-II in particular).
+ Cancer.
+ Gallbladder disease and gallstones.
+ Osteoarthritis.
+ Gout.
+ Gastroesophageal reflux disease.
+ Breathing problems, such as sleep apnea and asthma.
+Obese people are often subjected to public ridicule due to their weight, thus leading to psychological
+disorders such as depression, low self-esteem, discrimination, difficulty finding employment, and
+reduced quality of life.
+Prevention: Gaining knowledge about obesity, encouraging a more active and healthy lifestyle and
+educating children and parents about the ill-effects of obesity might help to curtail the spread of this
+disorder.
+Treatment: Actively treating those already suffering from obesity prevents many complications,
+early disabilities and death. Dieting and physical exercise are the mainstays of treatment for obesity.
+Diet quality can be improved by reducing the consumption of energy-dense foods such as those high
+in fat and sugars, and by increasing the intake of dietary fiber. Medical management of obesity
+involves various types of drugs to be taken under careful medical supervision. The only proven
+method to do is obesity or bariatric surgery which involves altering the digestive system of the person
+in such a manner that the feeling of hunger diminishes and satiety lasts longer. However, it would be
+best to consult a physician before attempting any such surgery.
+Instead of postponing what one must do, it is time to get cracking on obesity. It works slowly and
+silently giving the sufferer a false sense of security. Tacking obesity involves both prevention and
+treatment.
+14
+
+--- Page 15 ---
+I HAVE
+LEARNT THAT
+I DESERVE
+BHASWATI MEDHI,
+PH.D SCHOLAR
+When I was growing up, my parents never spoke to me about what I <deserve=. They spoke to me a
+lot about what was <expected=. They were very clear about that.
+They expected me to be tough, hard-working, well-read and smart. They expected me to help others,
+especially those struggling on the margins. They expected me to go to temple every now and then so
+that I would feel thankful to the God for whatever I had and had really nothing to complain about.
+They expected me to hold my head up and keep walking forward no matter what.
+They expected me to stand up when any elderly walked into a room, something I continued still. The
+list of their expectations went on and on. And along the way, their expectations of me slowly became
+my own.
+15
+
+--- Page 16 ---
+But over time, another word crept into my life. Slowly at first, even timidly, because for me the word
+and the concept felt foreign, maybe even embarrassing.
+That word was 8deserve9. To think you <deserve= something when others have so little, felt
+arrogant and selfish – as in, who do you think you are?!!
+But I9ve come to understand that there is power in the idea of deserving.
+For example, if you9re a hard worker, you deserve to be appreciated and respected by those you work
+with. That9s not asking too much. And if you work a lot, you deserve rest. My parents wouldn9t like
+me saying that, but it9s true. Resting your body and your mind isn9t lazy, it9s being smart. You and
+your body deserve to rest, mentally and physically, so you can be healthy and then work some more!
+You deserve to be treated kindly by your friends, family and significant others. As I say to my brother
+over and over, <You deserve my respect=. And as I say to him, <So do I. So look me in the eye when
+you talk to me, and don9t you dare text at the dinner table!= I realized that if we don9t treat ourselves
+as if we deserve these things, it9s hard for others to see that actions like those are important.
+So what do you deserve? That9s up to you. I can only answer with what I have come to believe I
+deserve.
+I deserve to be happy. Much of that is in my control, but just knowing that I deserve it has helped me
+be happier. And being treated kindly and respectfully starts with how I treat myself.
+I deserve to take rest and take breaks. That9s why I go to Guwahati, my parent9s place, eveniffor 2
+days, every once in a while, amidst my busy lifestyle. I9m not yet at the position where I cansay I
+deserve a really long vacation, but I9m working toward that <deserve=.
+I9m no longer embarrassed to admit I deserve these things, too. I deserve to live in a safe place. I
+deserve to love and be loved. I deserve the right to dream again. Yes, I do. Dreams are not for twenty-
+somethings. Dreams are for all of us at any age.
+I deserve to grieve in the manner that works for me. If that9s longer than others would like, so be it. I
+deserve to have people around me who tell me the truth, lift me up, and want the best for me. I
+deserve to take out some time for myself, if that means to read a good book or to take a nap or to go
+out to lunch with friends – that9s fine!
+I deserve to laugh as much as I want.
+I deserve to not know. That9s right. Until I know, I deserve to be unsure or uncertain of how I feel
+about something or someone. It9s okay. I deserve to express my opinions, and I don9t deserve to be
+attacked for what I said, for who I am, for what I believe. I deserve the right to change my beliefs
+once I9ve seen they hurt me or hold me down, or when I discover a better way.
+The list goes on, and it can also grow and change. In fact, I expect it to. I hope it will. I deserve that.
+I write all these in the hope that you all will think about what you all deserve. I hope you will allow
+space in your life and you mind to have this conversation with yourself, way earlier than I had mine.
+It9s not selfish or arrogant. It9s a way to be kind and loving to you.
+16
+
+--- Page 17 ---
+This thing called life is a magical journey. According to me, it doesn9t always make sense. It9s filled
+with uncertainty, joy, struggle, surprises, disappointments, and rewards. It isn9t always fair and clean.
+You deserve to design your life the way it works for you and then redesign it if you want to.
+That9s what I9ve come to expect. That9s what I9ve learned I deserve.
+17
+
+--- Page 18 ---
+FIFA
+WORLD
+CUP 2018:
+A RUSSIAN
+RENDEZVOUS
+SUBHRANIL DATTA,
+1ST YEAR
+Football appeals to the masses around the world like no other game does. Images from around the
+globe over the past weeks serve as an overwhelming proof of the World Cup fever. The pictures of
+several kids at a backstreet of Rio De Jeneiro having a ball as huge murals of Neymar and Jesus loom
+over them, or the self taught sculptor who carves out giant images of football stars on the beach in
+Puri, India- they all reflect the united colours of football.
+Athe opening ceremony of the World Cup 2018, the Russian president Vladimir Putin upheld the
+unifying nature of the game as he welcomed <the big, strong, multi-national, football family from all
+over the world= to Russia. From Moscow9s whopping Luzhniki stadium to the marvellous Fisht
+stadium in Sochi and the quaint Kaliningrad stadium, standing alone on the Oktyabrsky Island, these
+arenas have seen an outrush of footballing fans brought together by their collective love for the game.
+With great footballing nations like Italy, Chile, Netherlands, failing to even qualify for the tournament
+in Russia, everyone looked forward to a between the other international heavyweights. However,
+billions bore testimony to Germany crashing out of the World Cup group stage after defeat by South
+Korea. Lionel Messi and Argentina were knocked out of the world cup with Messi only a mere
+shadow of his otherwisecolossally talented self. Spain went from pre tournament favourites to
+crashing out on penalties against a far more superior Russian side. Sweden, despite lacking standouts,
+had an superb run in the tournament until they lost to England at the quarter finals. The English team
+may have suffered a despondent defeat against Croatia in the semi-finals but this young English side
+delivered the country9s best world cup performance in 28 years.
+To the horde of lovers of this game, one doesn9t need to be from a participating nation to soak in the
+spirit of the football mania. How else does one explain the madness of places like Kolkata and Kerala
+18
+
+--- Page 19 ---
+in a cricket-obsessed India where football fans stay divided into Brazil and Argentina camps for
+months and worship foreign players – like Messi or Ronaldo –as if they were their own? Kolkata, the
+Mecca of Indian football, has always led from the front when it comes to exhibiting its crazy passion
+for the game.
+The Messi-Ronaldo frenzy may have ended early on in the tournamentbut the billions who tuned into
+the games weren9t left dispirited as the antics of Kylian Mbappe, Lukaku, Harry Kane, Juan Quintero,
+breathe new life into the fans of the game across the world. Mbappe9s brace against Argentina is stuff
+that dreams are made of. Ante Rebic has emerged a breakout footballer for Croatia post a
+disappointing run in Brazil in 2014. The loss against Croatia is a heartbreak for England as they have
+produced one of the best young sides in the past few years butthis brand new English side has gained
+a legion of new fans courtesy of their great performance.
+Croatia has a population of about 4 million people - the second smallest in the tournament after
+Uruguay. Following a poor start in the semi finals against England, The Blazers rallied from behind to
+win the match 2-1 in extra time thanks to a goal from Mario Mandzukic. The victory for Croatia is
+ground breaking as they have registered a place in the world cup finals for the first time. The 62
+games over 30 days has produced some exciting contests that managed to shine the spotlight on a new
+generation of players while burnishing the reputation of some of the stars. A global audience in
+billions will be tuning into the final match as Croatia will be looking forward to ending their
+<Cinderella story= on a history-making win against a formidable French side who will be hoping for
+their second world cup win. May the best team emerge victorious.
+19
+
+--- Page 20 ---
+THE GOD
+PARTICLE
+RISHIRUP CHAKRABORTY, 2ND YEAR
+The discovery of this 'God Particle' was a break through in the field of Astro-Physics.
+A new particle with a mass of 125 Gev was discovered in 2012.It was later confirmed to be the Higgs
+Boson(God Particle).
+The Higgs boson is an elementary particle in the Standard Model of particle physics. First suspected
+to exist in the 1960s, it is the quantum excitation of the Higgs field,a fundamental field of crucial
+importance to particle physics theory unlike other known fields such as the electromagnetic field, it is
+20
+
+--- Page 21 ---
+scalar and also has a non-zero constant value in vacuum. The question of the existence of the Higgs
+field became the last unverified part of the Standard Model of particle physics, and for several
+decades, was considered "the central problem in particle physics".
+In Layman's terms,
+There are two kinds of statistics that particles follow, one discovered by Mr. Fermi and one
+discovered by Mr. Bose. The ones that do what Mr. Fermi says they do are called fermions and the
+ones that do what Mr. Bose says they do are called bosons.
+Mr. Higgs' boson helps explain why mass-energy and space-time are not actually separate entities but
+two ways of perceiving the unified field.
+The Higgs Boson explains why some particles have mass. The problem of where mass comes from is
+complicated because mass is strongly connected to gravity, and no theory of gravity plays nice with
+the currently popular model of particle physics. Gravity doesn't appear in quantum equations, so it
+can't explain the motion of big objects for which gravity is important; and the non-realism of quantum
+theory doesn't appear in Einstein's theory so he can't explain the motion of small objects for which
+non-realism is important.
+Before Mr. Higgs came along, all our equations for particles were symmetrical, so the mass value on
+one side of the equation was always canceled by the value on the other side. The Higgs field induces a
+spontaneous symmetry breaking, which leaves mass on one side of the equation and not the other.
+The Higgs boson is named after Peter Higgs, one of six physicists who, in the 1964 PRL symmetry
+breaking papers, proposed the mechanism that suggested the existence of such a particle. On 10
+December 2013, two of the physicists, Peter Higgs and Francois Englert, were awarded the Nobel
+Prize in Physics for their work and prediction (Englert's co-researcher Robert Brout had died in 2011
+and the Nobel Prize is not ordinarily given posthumously).Although Higgs's name has come to be
+associated with this theory, several researchers between about 1960 and 1972 independently
+developed different parts of it. In mainstream media the Higgs boson has often been called the "God
+particle", from a 1993 book on the topic the nickname is strongly disliked by many physicists,
+including Higgs, who regard it as sensationalistic.
+21
+
+--- Page 22 ---
+22
+
+--- Page 23 ---
+23
+
+--- Page 24 ---
+24
+
+--- Page 25 ---
+ANKUR BISWAS, 3RD YEAR
+25
+
+--- Page 26 ---
+E. THARUN, 2ND YEAR
+26
+
+--- Page 27 ---
+NABANITA DAS, 4TH YEAR
+27
+
+--- Page 28 ---
+Half yearly

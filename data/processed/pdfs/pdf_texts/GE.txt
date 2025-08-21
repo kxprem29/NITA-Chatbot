@@ -1,0 +1,2319 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+CIVIL ENGINEERING
+Specialization in
+GEOTECHNICAL ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+TRIPURA (WEST), INDIA
+PIN: 799046
+GE
+
+--- Page 2 ---
+Syllabus: M.Tech, Geotechnical Engineering NIT Agartala
+PREFACE
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology (M. Tech) in seven
+different specializations viz, Environmental Engineering, Geotechnical Engineering, Hydro-Informatics
+Engineering, Structural Engineering, Seismic Science and Engineering, Transportation Engineering and Water
+Resources Engineering.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits and 2000 marks.
+Semester wise distribution of course and credits are as follows: First semester: 25 credits and 800 marks for five
+theory subjects (comprises basic core, core and elective subjects), two laboratory subjects and seminar; Second
+semester: 25 credits and 800 marks for four theory subject (comprises basic core, core and elective subjects), two
+laboratory subjects, comprehensive viva-voce and project preliminaries; Third semester: 10 credits and 100
+marks; and Fourth semester: 20 credits and 300 marks. Third and fourth semester of PG courses will be fully
+devoted to project works. Minimum requirement of number of class hours for each theory course is 40 hours per
+semester.
+There will be continuous assessment of the performance of students throughout the semester. Each theory
+subject in a semester is evaluated for 100 marks, with the following weightages. Sub-component
+weightage:Continuous evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5 Marks, Class test: 10 Marks,
+Assignment: 10 Marks); Mid-semester Examination: 20 Marks; and End-semester Examination: 50 Marks
+The course curriculum of M Tech Geotechnical Engineering programme is designed considering the following
+six Programme Outcomes (POs).
+PO1: An ability to independently carry out research /investigation and development work to solve practical
+problems.
+PO2: An ability to write and present a substantial technical report/document.
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the specialization of the
+program. The mastery should be at a level higher than the requirements in the appropriate bachelor program
+PO4: An ability to identify, formulate and solve Geotechnical Engineering related problems using advanced
+level computing techniques
+PO5: An ability to understand the impact of Geotechnical Engineering solutions in a global, economic,
+environmental and societal context
+PO6: Ability to demonstrate the knowledge of Geotechnical Engineering and management principles and apply
+these to multidisciplinary environments.
+GE
+
+--- Page 3 ---
+Syllabus: M.Tech, Geotechnical Engineering NIT Agartala
+The course curriculum of M Tech Geotechnical Engineering programme is also designed considering two
+Program Specific Outcome (PSOs).
+PSO1: Analysis, design, investigation of complex problems in ways which are sustainable and environmental
+friendly.
+PSO2: Handling of any Civil Engineering projects ethically either as an individual or as a team.
+Expert opinions are being taken in regular basis in order to improve the quality of teaching learning process and
+to attain the programme outcomes efficiently.
+In the Final year of M.Tech programmes (Third and Fourth Semesters) students may also opt for industrial
+research. If any student desire to pursue his/her research in reputed industries, he/she may be allowed to do so,
+provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such industry bodies.
+b. The selected industry needs is approved by the DPPC of the concerned Department.
+c. The student selects one supervisor from industry and another supervisor from the Institute.
+d. If any student opts for such industrial research he/she will not receive any scholarship from the institute
+in this tenure, even if he/she wants to return back. In such cases the student will be allowed to complete
+his/her project in the institute but without any scholarship.
+GE
+
+--- Page 4 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Syllabus: M.Tech. (Geotechnical Engineering)
+Sl.
+Subject Page Nos.
+No.
+First Semester
+1 Basic Core GE-4 to GE-6
+PCE21B01: Advanced Mathematics
+2 Core Subject-I GE-7 to GE-9
+PCE21C01: Mechanics of Soil
+3 Core Subject-II GE-10 to GE-12
+PCE21C02: Soil Dynamics and Machine Foundations
+4 Elective Paper-I (Any one) GE-13 to GE-19
+PCE21E01: Ground Improvement Technique
+PCE21E02: Numerical methods and computer
+programming in Engineering
+PCE22E03: Elastic Analysis in Geotechnical
+Engineering
+5 Elective Paper-II (Any one) GE-20 to GE-27
+PCE21E04: Reinforced Soil Structures
+PCE21E05: Rock Mechanics and Tunnelling
+PCE21E06: Soil Investigation and Exploration
+6 PCE21P01: Soil Mechanics Laboratory GE-28 to GE-30
+7 PCE21P02: Foundation Engineering Laboratory GE-31 to GE-32
+8 PCE11P03: Seminar GE-33
+Second Semester
+1 Basic Core GE-35 to GE-37
+PCE22B01: Finite Element Method
+2 Core Subject-I GE-38 to GE-39
+PCE22C01: Advanced Foundation Design
+3 Core Subject-II GE-40 to GE-42
+PCE22C02: Soil Structure Interaction
+4 Elective Paper-III (Any one) GE-43 to GE-50
+PCE22E01: Environmental Geotechnique
+PCE22E02: Earthquake Geotechnical Engineering
+PCE22E03: Computer Aided Design
+5 PCE22P02: Foundation Design and Drawing GE-51 to GE-52
+6 PCE22P03: Computer Aided Geotechnical Design GE-53 to GE-54
+Laboratory
+7 PCE22P01: Project Preliminary GE-55
+8 PCE22P04: Comprehensive Viva-voce GE-55
+Third Semester
+1 PCE23P01: Project & Thesis - I GE-56
+Fourth Semester
+1 PCE23P04: Project & Thesis - II GE-56
+01/09/201
+GE-1 | P a ge
+
+--- Page 5 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+First Semester
+1 Basic Core 4 4 100
+PCE21B01: Advanced Mathematics
+2 Core Subject-I 4 4 100
+PCE21C01: Mechanics of Soil
+3 Core Subject-II 4 4 100
+PCE21C02: Soil Dynamics and Machine
+Foundations
+4 Elective Paper-I (Any one) 4 4 100
+PCE21E01: Ground Improvement Technique
+PCE21E02: Numerical methods and computer
+programming in Engineering
+PCE22E03: Elastic Analysis in Geotechnical
+Engineering
+5 Elective Paper-II (Any one) 4 4 100
+PCE21E04: Reinforced Soil Structures
+PCE21E05: Rock Mechanics and Tunnelling
+PCE21E06: Soil Investigation and Exploration
+6 PCE21P01: Soil Mechanics Laboratory 2 3 100
+7 PCE21P02: Foundation Engineering Laboratory 2 3 100
+8 PCE11P03: Seminar 1 2 100
+Total 25 28 800
+Second Semester
+1 Basic Core 4 4 100
+PCE22B01: Finite Element Method
+2 Core Subject-I 4 4 100
+PCE22C01: Advanced Foundation Design
+3 Core Subject-II 4 4 100
+PCE22C02: Soil Structure Interaction
+4 Elective Paper-III (Any one) 4 4 100
+PCE22E01: Environmental Geotechnique
+PCE22E02: Earthquake Geotechnical Engineering
+PCE22E03: Computer Aided Design
+5 PCE22P02: Foundation Design and Drawing 2 3 100
+6 PCE22P03: Computer Aided Geotechnical Design 2 3 100
+Laboratory
+7 PCE22P01: Project Preliminary 3 6 100
+8 PCE22P04: Comprehensive Viva-voce 1 0 100
+Total 25 28 800
+Third Semester
+1 PCE23P01: Project & Thesis - I 10 ----- 100
+Fourth Semester
+2 PCE23P04: Project & Thesis - II 20 ----- 300
+Total 2000
+Marks
+01/09/2021
+GE-2 | P a ge
+
+--- Page 6 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+First Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+1 Basic Core 4 4 100
+PCE21B01: Advanced Mathematics
+2 Core Subject-I 4 4 100
+PCE21C01: Mechanics of Soil
+3 Core Subject-II 4 4 100
+PCE21C02: Soil Dynamics and Machine
+Foundations
+4 Elective Paper-I (Any one) 4 4 100
+PCE21E01: Ground Improvement Technique
+PCE21E02: Numerical methods and computer
+programming in Engineering
+PCE22E03: Elastic Analysis in Geotechnical
+Engineering
+5 Elective Paper-II (Any one) 4 4 100
+PCE21E01: Reinforced Soil Structures
+PCE21E02: Rock Mechanics and Tunnelling
+PCE21E03: Soil Investigation and Exploration
+6 PCE21P01: Soil Mechanics Laboratory 2 3 100
+7 PCE21P02: Foundation Engineering Laboratory 2 3 100
+8 PCE11P03: Seminar 1 2 100
+Total 25 28 800
+01/09/21
+GE-3 | P a ge
+
+--- Page 7 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Basic Core
+ADVANCED MATHEMATICS
+(PCE21B01)
+Total Credit: 04 Contact Periods: 04 (4L+0T+0P)
+Course Objective
+1. Introduce students to ordinary differential equations and the methods for solving these
+equations Use differential equations as models for real world phenomena
+2. Integrate the knowledge accumulated in the calculus sequence to solve applied
+problems
+3. Introduce the fundamentals of Linear Algebra and Complex Analysis
+4. Provide a rigorous introduction to upper level mathematics which is necessary for
+students of engineering, physical sciences and mathematics.
+Course Content
+Unit-1
+Calculus of Variations – Variation and its properties – Euler’s equation – Conditional
+extreme – Isoperimetric problems – Functional dependant on first and higher order
+derivatives – Functional dependent on functions of several independent variables – some
+applications – Direct methods – Ritz and Kantorovich methods, Euler’s finite difference
+method.
+Unit-2
+Laplace Transforms and Fourier Transforms. Application of Fourier Transform in solving
+initial and boundary value problems. Laplace Equation, Heat equation and wave equation.
+Unit-3
+Hankel’s Transform, elementing properties of Hankel transforms, Hankel inversion and
+transform theorems. Hankel transforms of derivatives of functions. Parsevel’s theorem.
+(cid:3031)(cid:3118)(cid:3033) (cid:2869)(cid:3031)(cid:3033) (cid:3041)(cid:3118)
+Hankel transforms of + = f .
+(cid:3031) (cid:3051)(cid:3118) (cid:3051)(cid:3031)(cid:3051) (cid:3051)(cid:3118)
+Unit-4
+Simulation – Types, case studies in various fields using simulation techniques, simulation
+softwares used, use of mathematical models based on probabilistic and statistical
+methods.
+Partial Differential Equations – Formation of PDE, Solutions of PDE, Equations solvable
+by direct integration, Linear equations of the first order, Non-linear equations of the first
+order, Charpit’s
+Method, Homogeneous Linear equations with constant coefficient, Non-Homogeneous
+Linear equations, Non-Linear equations of the second order.
+GE-4 | P a ge
+
+--- Page 8 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Unit-5
+Solution of Parabolic and Hyperbolic equations – Implicit and Explicit Schemes, ADI
+methods, Non Linear parabolic equations – Iteration method, Solution of elliplic equation
+– Jacobi method, Gauss - Seidel & SOR method. Richardson method, RKF4.
+Unit-6
+Introduction to finite element method and its scope.
+References:
+1. Kreyszig Erwin, Advanced Engineering Mathematics, John Wiley & Sons (Asia) Pvt
+Ltd.
+2. Krishnamurthy &Sen, Numerical Algorithms, Afiliated East-west press private
+Limited, New Delhi.
+3. Ramana, B. V., Higher Engineering Mathematics, The McGraw-Hill Companies, New-
+Delhi.
+Course Outcome
+1. To utilize various methods for solving ODEs and solve initial value problems,
+understand the existence and uniqueness of such solutions and to Recognize ODEs of
+varying order and use these to solve problems involving population dynamics,
+oscillation of a spring and resistance in a circuit
+2. Ability to Work with and solve homogeneous and non-homogeneous ODEs and
+systems of ODEs. Moreover, to learn additional methods for solving ODEs including
+Euler’s method, the power series method and Laplace transforms.
+3. Perform basic operations with matrices, find the inverse of a matrix, determinant of a
+square matrix, as well as Eigen values and Eigen vectors and investigate associated
+applications, and to use matrices to solve systems of equations.
+4. Express complex numbers in trigonometric and polar form, and to perform operations
+with complex numbers, including finding the roots of unity.
+5. Explore functions of a single complex variable and calculate derivatives of analytic
+functions
+6. Calculate line integrals in the complex plane, and Study Cauchy-Riemann equations,
+Cauchy’s integral theorem and Cauchy’s integral formula.
+GE-5 | P a ge
+
+--- Page 9 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs &POs
+Table-1: Numbering of Course Outcome
+No. of Course
+Course Outcome
+Outcome (CO)
+To utilize various methods for solving ODEs and solve initial value problems,
+understand the existence and uniqueness of such solutions and to Recognize
+PCE21B01.1
+ODEs of varying order and use these to solve problems involving population
+dynamics, oscillation of a spring and resistance in a circuit
+Ability to Work with and solve homogeneous and non-homogeneous ODEs and
+PCE21B01.2 systems of ODEs. Moreover, to learn additional methods for solving ODEs
+including Euler’s method, the power series method and Laplace transforms
+Perform basic operations with matrices, find the inverse of a matrix, determinant
+PCE21B01.3 of a square matrix, as well as eigen values and eigen vectors and investigate
+associated applications, and to use matrices to solve systems of equations
+Express complex numbers in trigonometric and polar form, and to perform
+PCE21B01.4
+operations with complex numbers, including finding the roots of unity
+Explore functions of a single complex variable and calculate derivatives of
+PCE21B01.5
+analytic functions
+Calculate line integrals in the complex plane, and Study Cauchy-Riemann
+PCE21B01.6
+equations, Cauchy’s integral theorem and Cauchy’s integral formula
+Table-2: Co-relation between COs &POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21B01.1 2 2 3 2 2 2
+PCE21B01.2 2 2 3 2 2 2
+PCE21B01.3 2 2 3 2 2 2
+PCE21B01.4 2 2 3 2 2 2
+PCE21B01.5 2 2 3 2 2 2
+PCE21B01.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21B01.1 3 3
+PCE21B01.2 3 3
+PCE21B01.3 3 3
+PCE21B01.4 3 3
+PCE21B01.5 3 3
+PCE21B01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-6 | P a ge
+
+--- Page 10 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Core Subject-I
+MECHANICS OF SOIL (PCE21C01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand clay mineralogy of soil.
+2. To know the basic fundamental of soil mechanics.
+3. To understand the capillary phenomenon/permeability and flow behaviour of soil.
+4. To know the field application based on compaction for geotechnical problems
+5. To understand the application of consolidation to geotechnical problem
+6. To understand the compressibility behaviour of saturated/unsaturated soil.
+Course Content:
+Unit-1
+Introduction, formation of soil, clay mineralogy, structures of common clay minerals.
+Unit-2
+Identification and classification of soil, soil weight volume relationship, index properties
+of soils, surface tension and capillary phenomenon. Measurement of capillary rise in soil,
+soil moisture, soil-water potential, measurement of soil-water potential.Mechanism of
+swelling potential and pressure.
+Unit-3
+Soil compaction, standard and modified Proctor compaction, theories of soil compaction;
+compaction control in field. Permeability, Darcy’s law, Theories of wells, flownets and
+their properties, seepage flownet in dams, flownet by relaxation method, seepage forces,
+uplift, piping phenomenon, problems.
+Unit-4
+Consolidation of soils, Introduction, Terzaghi’s theory of one dimensional consolidation,
+application to geotechnical problems.Two and three dimensional consolidation of soils,
+secondary consolidation
+Unit-5
+Shear strength of soils; unsaturated soil Skempton pore pressure theory, compressibility
+of unsaturated soil, Rowes stress dilatancy theory.
+Different shear parameters; special consolidation and shear tests, application to
+geotechnical problems;
+References:
+GE-7 | P a ge
+
+--- Page 11 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+1. Atkinson, J.H. and Bransby, P.L, The Mechanics of Soils: An introduction to critical
+soil
+mechanics, McGraw Hill, 1978.
+2. Atkinson J. H, An introduction to the Mechanics of soils and Foundation, McGraw-
+Hill
+Co., 1993.
+3. Das, B. M., Advanced Soil Mechanics, Taylor and Francis, 2nd Edition, 1997
+4. Wood, D.M.,Soil Behavior and Critical State Soil Mechanics, Cambridge University
+Press, 1990.
+5. Craig, R. F., Soil Mechanics, Van Nostrand Reinhold Co. Ltd., 1987.
+6. Terzaghi, K., and Peck, R. B., Soil Mechanics in Engineering Practice, John Wiley &
+Sons, 1967.
+7. Lambe, T. W. and Whitman, R. V., Soil Mechanics, John Wiley & Sons, 1979.
+Course Outcome:
+1. Students will be able to understand the clay mineralogy of soil.
+2. Students will be able to understand the basic fundamental of soil mechanics.
+3. Students will be able to understand the capillary phenomenon/permeability and flow
+behaviour of soils.
+4. Students will be able to understand the field application based on compaction for
+geotechnical problem
+5. Students will be able to understand the application of consolidation to geotechnical
+problem
+6. Students will be able to understand the compressibility behaviour of
+saturated/unsaturated soil.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the clay mineralogy of soil.
+PCE21C01.1
+PCE21C01.2 Students will be able to understand the basic fundamental of soil mechanics
+Students will be able to understand the capillary phenomenon/permeability
+PCE21C01.3 and flow behaviour of soils.
+Students will be able to understand the field application based on
+PCE21C01.4
+compaction for geotechnical problem
+Students will be able to understand the application of consolidation to
+PCE21C01.5
+geotechnical problem
+Students will be able to understand the compressibility behaviour of
+PCE21C01.6 saturated/unsaturated soil.
+GE-8 | P a ge
+
+--- Page 12 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2: Co-relation between COs &POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21C01.1 2 2 3 2 2 2
+PCE21C01.2 2 2 3 2 2 2
+PCE21C01.3 2 2 3 2 2 2
+PCE21C01.4 2 2 3 2 2 2
+PCE21C01.5 2 2 3 2 2 2
+PCE21C01.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21C01.1 3 3
+PCE21C01.2 3 3
+PCE21C01.3 3 3
+PCE21C01.4 3 3
+PCE21C01.5 3 3
+PCE21C01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-9 | P a ge
+
+--- Page 13 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Core Subject-II
+SOIL DYNAMIC AND MACHINE FOUNDATIONS
+(PCE21C02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To know about the dynamic behaviour of soil and machine foundation
+2. To learn about theory of vibration, wave propagation through soil, dynamic properties
+of soil
+3. To know about the analysis of foundation, slope, retaining wall under seismic loading
+condition
+4. To know about the liquefaction of soil
+5. To know about the different types of machine foundation and their analysis under
+dynamic loading condition
+6. To evaluate safe response of Geotechnical Engineering Structures under dynamic
+loading condition.
+Course Content:
+Unit 1:
+Theory of Vibration: Elements of vibration, damped and undamped vibration, Effect of
+vibration on soil properties, Theory of vibration isolation, Vibration measuring
+instruments, Mode shapes and Multi-degree freedom system.
+Unit 2:
+Wave Propagation and Internal Structure of Earth: Theory of elasticity; Wave equation;
+Body and surface waves; Laws of reflection, refraction, attenuation, diffraction and
+dispersion; Local site effects; Seismic phases; Ray parameter; Travel time curves;
+Internal structure of earth; Reference models.
+Unit 3:
+Dynamic Properties of Soil: Factors affecting dynamic behavior of soil. Determination of
+Dynamic properties of soil- Field methods, Laboratory methods.
+Unit 4:
+Analysis of Geotechnical Structures: Pseudo-static, Pseudo-dynamic, modified pseudo-
+dynamic and IS code method of analysis of shallow foundation, slope and retaining wall.
+Unit 5:
+Liquefaction: Introduction, pore pressure, liquefaction related phenomena – flow
+liquefaction and cyclic mobility: Factors affecting liquefaction, liquefaction of
+cohesionless soils and sensitive clays, liquefaction susceptibility; State Criteria –CVR
+line, SSL, FLS; Evaluation of liquefaction potential: characterization of earthquake
+loading and liquefaction resistance, cyclic stress ratio, Seed and Idriss method; Effects of
+liquefaction.
+GE-10 | P a ge
+
+--- Page 14 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Unit 6:
+Machine Foundation: Various types of machine foundations; Permissible amplitudes of
+vibrations, factors affecting the resonant frequency and amplitudes of vibrations;
+Estimation of damping and plastic coefficients. Resonant frequency of the block
+foundations; Weightless spring and weighted spring method, elastic half space method,
+miscellaneous methods; Behaviour and design of block foundations, permissible
+amplitudes. Hammer foundations, classification, natural frequencies and amplitudes of
+foundation vibrations; Design principles, permissible amplitudes.
+References
+1. Swami Saran,”Soil dynamics and machine foundations”,Golgatiapublishers,New Delhi.
+2. Arya S. D, O’Neil, M. and Pincus, G., Design of structures and foundations for
+vibrating machines, Gulf Publishing Co., 1979.
+3. Prakash, S. and Puri, V. K., Foundation for machines: Analysis and Design, John
+Wiley & Sons, 1998
+4. Prakash, S., Soil Dynamics, McGraw Hill, 1981.
+5. Kameswara Rao, N. S. V., Vibration analysis and foundation dynamics, Wheeler
+Publication Ltd., 1998.
+6. Major, A., Dynamics in Civil Engineering: Analysis and Design Vol. I-III,
+AkademiaiKiado, 1980.
+7. Richart, F. E. Hall J. R and Woods R. D., Vibrations of Soils and Foundations, Prentice
+Hall Inc., 1970.
+Course Outcome:
+1. The students will know about the dynamic behaviour of soil and machine foundation
+2. They will learn about theory of vibration, wave propagation through soil, dynamic
+properties of soil
+3. They will know about the analysis of foundation, slope, retaining wall under seismic
+loading condition
+4. They will also know about the liquefaction of soil
+5. They will learn about the different types of machine foundation and their analysis
+under dynamic loading condition
+6. They can evaluate safe response of Geotechnical Engineering Structures under
+dynamic loading condition.
+GE-11 | P a ge
+
+--- Page 15 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+The students will know about the dynamic behaviour of soil and
+PCE21C02.1
+machine foundation
+They will learn about theory of vibration, wave propagation
+PCE21C02.2
+through soil, dynamic properties of soil
+They will know about the analysis of foundation, slope, retaining
+PCE21C02.3
+wall under seismic loading condition
+PCE21C02.4 They will also know about the liquefaction of soil
+They will learn about the different types of machine foundation
+PCE21C02.5
+and their analysis under dynamic loading condition
+They can evaluate safe response of Geotechnical Engineering
+PCE21C02.6
+Structures under dynamic loading condition
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21C02.1 2 2 3 2 2 2
+PCE21C02.2 2 2 3 2 2 2
+PCE21C02.3 2 2 3 2 2 2
+PCE21C02.4 2 2 3 2 2 2
+PCE21C02.5 2 2 3 2 2 2
+PCE21C02.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21C02.1 3 3
+PCE21C02.2 3 3
+PCE21C02.3 3 3
+PCE21C02.4 3 3
+PCE21C02.5 3 3
+PCE21C02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-12 | P a ge
+
+--- Page 16 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Elective Paper-I (Any one)
+PCE21E01: Ground Improvement Technique
+PCE21E02: Numerical methods and computer programming in Engineering
+PCE21E03: Elastic Analysis in Geotechnical Engineering
+GROUND IMPROVEMENT TECHNIQUES
+(PCE21E01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the necessity of ground improvement techniques
+2. To understand the details of mechanical stabilization
+3. To understand the ground improvement by drainage
+4. To understand the applications of admixtures for ground improvement
+5. To understand the applications of grouting techniques
+6. To understand the in situ soil treatment methods
+7. To understand the case studies of ground improvement projects.
+Course Content:
+Unit-1
+Introduction: Need for Ground Improvement, Different types of problematic soils,
+Emerging trends in ground
+Improvement.
+Unit-2
+Mechanical stabilization: Shallow and deep compaction requirements, Principles and
+methods of soil compaction, Shallow compaction and methods. Properties of compacted
+soil and compaction control, Deepcompaction and Vibratory methods Dynamic
+compaction.
+Unit-3
+Hydraulic modification: Ground Improvement by drainage, Dewatering methods.
+Design of dewatering systems, Preloading, Vertical drains, vacuum consolidation,
+Electro-kinetic dewatering, design andconstruction methods.
+Unit-4
+Modification by admixtures: Cement stabilization and cement columns, Lime
+stabilization and lime columns. Stabilization using bitumen and emulsions, Stabilization
+using industrial wastes Construction techniques andapplications.
+Unit 5
+Grouting: Permeation grouting, compaction grouting, jet grouting, different varieties of
+grout materials,grouting under difficult conditions.
+GE-13 | P a ge
+
+--- Page 17 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Unit-6
+In situ soil treatment methods: Soil nailing, rock anchoring, micro-piles, design
+methods, construction techniques.
+Unit-7
+Case studies: Case studies of ground improvement projects.
+References:
+Sl Name of the Books Authors Publishers
+No.
+1. Ground Improvement P. Purushothama Raj Laxmi Publications
+Techniques (P) Ltd.
+2. Engineering Principles of Manfired R. Hausmann McGraw-Hill Pub,
+Ground Modification Co.
+3. Designing with geosynthetics R. M. Koerner Prentice Hall Inc.
+4. Guidelines on ground U. S. Army Corps of U. S. Army Corps
+improvement for structure and Engineers of Engineers,
+facilities Washington DC
+5. Ground Control and Petros P. Xanthakos, John Wiley, New
+Improvement Lee W. Abramson and York
+Donald A. Bruce
+Additional Readings:
+Journal and Conference papers in the area of Ground Improvement, Ground Engineering,
+Geotextiles andgeomembranes, Geosynthetics, etc.
+Course Outcome:
+1. Students will be able to understand the necessity of ground improvement techniques
+2. Students will be able to understand the details of mechanical stabilization
+3. Students will be able to understand the ground improvement by drainage
+4. Students will be able to understand the applications of admixtures for ground
+improvement
+5. Students will be able to understand the applications of grouting techniques
+6. Students will be able to understand the in situ soil treatment methods
+7. Students will be able to understand the case studies of ground improvement projects.
+GE-14 | P a ge
+
+--- Page 18 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the correlation between COs &POs
+Table-1
+No. of Course Outcome (CO) Course Outcome
+Students will be able to understand the necessity of ground improvement
+PCE21E01.1
+techniques
+PCE21E01.2 Students will be able to understand the details of mechanical stabilization
+PCE21E01.3 Students will be able to understand the ground improvement by drainage
+Students will be able to understand the applications of admixtures for
+PCE21E01.4
+ground improvement
+PCE21E01.5 Students will be able to understand the applications of grouting techniques
+PCE21E01.6 Students will be able to understand the in situ soil treatment methods
+Students will be able to understand the case studies of ground
+PCE21E01.7
+improvement projects
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E01.1 2 2 3 2 2 2
+PCE21E01.2 2 2 3 2 2 2
+PCE21E01.3 2 2 3 2 2 2
+PCE21E01.4 2 2 3 2 2 2
+PCE21E01.5 2 2 3 2 2 2
+PCE21E01.6 2 2 3 2 2 2
+PCE21E01.7 2 2 3 2 2 2
+Total 14 14 21 14 14 14
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E01.1 3 3
+PCE21E01.2 3 3
+PCE21E01.3 3 3
+PCE21E01.4 3 3
+PCE21E01.5 3 3
+PCE21E01.6 3 3
+PCE21E01.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-15 | P a ge
+
+--- Page 19 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+NUMERICAL METHODS AND COMPUTER PROGRAMMING IN
+ENGINEERING
+(PCE21E02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the linear and nonlinear equations
+2. To understand the Eigen value problems
+3. To understand the differentiation and evaluation of single and multiple integrals
+4. To understand the finite element methods
+5. To understand the fundamental of statistical distribution
+6. To understand the computer programming in geotechnical engineering problem.
+Unit-1:
+Linear equations and Eigen value problems, Accuracy of approximate calculations,
+Nonlinear equations, interpolation.
+Unit-2:
+Differentiation and evaluation of single and multiple integrals, initial and boundary value
+problems by finite difference method.
+Unit-3:
+Newton’s method, variation and weighted residual methods, introduction to finite element
+methods, fundamental of statistical distribution.
+Unit-4:
+Computer programming in geotechnical engineering problem.
+References
+1. J. B. Scarborough, Numerical mathematical analysis, Oxford & IBH Publishing Co.
+Pvt., 2000
+2. K. K. Jain, S. R. K Iyengar and R. K. Jain Numerical methods-problem and solutions,
+Wiley eastern limited, 2001
+3. R.W. Hamming, Numerical methods for scientist and engineers, McGraw Hill, 1998.
+4. J. H. Mathews and K.D. Fink, Numerical methods using MATLAB, Pearson
+Education, 2004
+5. A. J. Hayter, Probability and statistics, Duxbury, 2002.
+Course Outcome:
+1. Students will be able to understand the linear and nonlinear equations
+2. Students will be able to understand the eigen value problems
+3. Students will be able to understand the differentiation and evaluation of single and
+multiple integrals
+4. Students will be able to understand the finite element methods
+5. Students will be able to understand the fundamental of statistical distribution
+GE-16 | P a ge
+
+--- Page 20 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+6. Students will be able to understand the computer programming in geotechnical
+engineering problem.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course Outcome (CO) Course Outcome
+PCE21E02.1 Students will be able to understand the linear and nonlinear equations
+PCE21E02.2 Students will be able to understand the eigen value problems
+Students will be able to understand the differentiation and evaluation of
+PCE21E02.3
+single and multiple integrals
+PCE21E02.4 Students will be able to understand the finite element methods
+PCE21E02.5 Students will be able to understand the fundamental of statistical distribution
+Students will be able to understand the computer programming in
+PCE21E02.6
+geotechnical engineering problem
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E02.1 2 2 3 2 2 2
+PCE21E02.2 2 2 3 2 2 2
+PCE21E02.3 2 2 3 2 2 2
+PCE21E02.4 2 2 3 2 2 2
+PCE21E02.5 2 2 3 2 2 2
+PCE21E02.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E02.1 3 3
+PCE21E02.2 3 3
+PCE21E02.3 3 3
+PCE21E02.4 3 3
+PCE21E02.5 3 3
+PCE21E02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-17 | P a ge
+
+--- Page 21 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+ELASTIC ANALYSIS IN GEOTECHNICAL ENGINEERING
+(PCE21E03)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the concepts of stress and strain, stress invariants
+2. To understand the concepts of plane state of stress and plane state of strain
+3. To understand the concepts of stresses and displacements in soil
+4. To understand the application of fundamental solutions for problems of practical
+interest in geotechnical engineering
+5. To understand the concepts of elastic solutions for layered soil systems
+6. To understand the concepts of settlement and contact stress under rigid and flexible
+foundations.
+Course Content:
+Unit-1:
+Concepts of stress and strain; Principal stresses and strains; Invariants; Octahedral
+stresses and strains; Mohr’s diagrams; Plane state of stress and Plane state of strain.
+Unit-2:
+Stress strain relations for linearly elastic solids; Stresses and displacements in soil, Basic
+solutions of Boussinesq, Cerutti, Mindlin and Westergaard.
+Unit-3:
+Application of fundamental solutions for problems of practical interest in geotechnical
+engineering: foundations, stress applied to surface of a circular opening, Inclusions in
+infinite regions, surface loads in a semi-infinite region.
+Unit-4:
+Elastic solutions for layered soil systems, settlement and contact stress under rigid and
+flexible foundations, Computation of immediate settlements for shallow and deep
+foundations.
+References
+1. Harr, M. E, Foundations of Theoretical Soil Mechanics, McGraw-Hill Inc., 1996.
+2. Das, B. M, Advanced Soil Mechanics, McGraw-Hill Book Co., 1987.
+3. Poulos, H. G. and Davis, E. H , Elastic Solutions for Soil and Rock Mechanics, Wiley,
+1974.
+GE-18 | P a ge
+
+--- Page 22 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the concepts of stress and strain, stress invariants
+2. They will understand the concepts of plane state of stress and plane state of strain
+3. They will understand the concepts of stresses and displacements in soil
+4. They will understand the application of fundamental solutions for problems of practical
+interest in geotechnical engineering
+5. They will understand the concepts of elastic solutions for layered soil systems
+6. They will understand the concepts of settlement and contact stress under rigid and
+flexible foundations.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course Outcome (CO) Course Outcome
+Students will be able to understand the concepts of stress and strain, stress
+PCE21E03.1
+invariants
+They will understand the concepts of plane state of stress and plane state of
+PCE21E03.2
+strain
+PCE21E03.3 They will understand the concepts of stresses and displacements in soil
+They will understand the application of fundamental solutions for problems
+PCE21E03.4
+of practical interest in geotechnical engineering
+PCE21E03.5 They will understand the concepts of elastic solutions for layered soil systems
+They will understand the concepts of settlement and contact stress under rigid
+PCE21E03.6
+and flexible foundations.
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E03.1 2 2 3 2 2 2
+PCE21E03.2 2 2 3 2 2 2
+PCE21E03.3 2 2 3 2 2 2
+PCE21E03.4 2 2 3 2 2 2
+PCE21E03.5 2 2 3 2 2 2
+PCE21E03.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E03.1 3 3
+PCE21E03.2 3 3
+PCE21E03.3 3 3
+PCE21E03.4 3 3
+PCE21E03.5 3 3
+PCE21E03.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-19 | P a ge
+
+--- Page 23 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Elective Paper-II (Any one)
+PCE21E04: Reinforced Soil Structures
+PCE21E05: Rock Mechanics and Tunneling
+PCE21E06: Soil Investigation and Exploration
+REINFORCED SOIL STRUCTURES (PCE21E04)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the principles, concepts and mechanism of reinforced earth
+2. To understand the composition of geosynthetics
+3. To understand the applications in reinforced earth structures
+4. To understand the design of reinforced soil structures like retaining walls,
+embankments, foundation beds etc.
+5. To understand the designing for landfill liners and barrier applications
+6. To understand the case histories of applications of design.
+Course Content:
+Unit-1
+Historical background; Principles, concepts and mechanism of reinforced earth; Design
+consideration for reinforced earth and reinforced soil structures.
+Unit-2
+Geosynthetics-their composition, manufacture, properties, functions, testing and
+applications in reinforced earth structures.
+Unit-3
+Design of reinforced soil structures like retaining walls, embankments, foundation beds
+etc.
+Unit-4
+Designing for Separation, Filtration, Drainage and Roadway Applications; Designing for
+Landfill Liners and Barrier Applications; Case histories of applications.
+References:
+1. Clayton, C. R. I., Milititsky, J. and Woods, R. I., Earth Pressure and Earth Retaining
+Structures, Blackie Academic & Professional, 1993.
+2. Ingold, T, Reinforced Earth, Thomas Telford Ltd., 1982.
+3. Jones, C. J. F. P, Earth Reinforcement and Soil Structures, Butterworth, 2005.
+4. Koerner, R. M, Designing with Geosynthetics, Prentice Hall, 1993.
+GE-20 | P a ge
+
+--- Page 24 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the principles, concepts and mechanism of
+reinforced earth
+2. Students will be able to understand the composition of geosynthetics
+3. Students will be able to understand the applications in reinforced earth structures
+4. Students will be able to understand the design of reinforced soil structures like
+retaining walls, embankments, foundation beds etc.
+5. Students will be able to understand the designing for landfill liners and barrier
+applications
+6. Students will be able to understand the case histories of applications of design.
+To establish the correlation between COs &POs
+Table 1
+No. of Course Outcome (CO) Course Outcome
+Students will be able to understand the principles, concepts and mechanism of
+PCE21E04.1
+reinforced earth
+PCE21E04.2 Students will be able to understand the composition of geosynthetics
+Students will be able to understand the applications in reinforced earth
+PCE21E04.3
+structures
+Students will be able to understand the design of reinforced soil structures like
+PCE21E04.4
+retaining walls, embankments, foundation beds etc.
+Students will be able to understand the designing for landfill liners and barrier
+PCE21E04.5
+applications
+PCE21E04.6 Students will be able to understand the case histories of applications of design
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E04.1 2 2 3 2 2 2
+PCE21E04.2 2 2 3 2 2 2
+PCE21E04.3 2 2 3 2 2 2
+PCE21E04.4 2 2 3 2 2 2
+PCE21E04.5 2 2 3 2 2 2
+PCE21E04.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E04.1 3 3
+PCE21E04.2 3 3
+PCE21E04.3 3 3
+PCE21E04.4 3 3
+PCE21E04.5 3 3
+PCE21E04.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-21 | P a ge
+
+--- Page 25 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+ROCK MECHANICS AND TUNNELLING
+(PCE21E05)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the scope and problems of Rock Mechanics
+2. To understand the different laboratory tests of rocks
+3. To understand the different in-situ tests on rock mass
+4. To understand the analysis of stresses in case of rocks
+5. To understand the concepts of lined and unlined tunnels
+6. To understand the concept of underground excavation and subsidence
+7. To understand the applications of Rock Mechanics.
+Course Content:
+Unit-1
+Introduction, objective, scope and problems of Rock Mechanics. Classification by origin,
+Lithological, Engineering. Rock exploration- rock coring, geophysical methods.
+Unit-2
+Laboratory testing of rocks- all types of compressive strength, tensile strength and
+flexural strength tests.
+Strength and failure of rocks- Griffith’s theory, Coulombs theory, rheological methods.
+In-situ tests on rock mass. Deformation characteristics of rocks, instrumentation and
+measurement of deformation of rocks. Permeability characteristics- interstitial water on
+rocks, unsteady flow of water through jointed rock mass. Mechanical, thermal and
+electrical properties of rock mass. Correlation between laboratory and field properties.
+Unit-3
+Analysis of stresses. Thick wall cylinder, formulae, Kreish equation, Green span method.
+Openings in rock mass and stresses around openings. Pressure tunnels, development of
+plastic zone. Rock support needed to avoid plastic deformation. Lined and unlined
+tunnels. Underground excavation and subsidence.
+Unit-4
+Rock mechanics applications. Bearing capacity of homogeneous as well as discontinuous
+rocks. Support pressure and slip of the joint. Delineation of types of rock failure.
+Unsupported span of underground openings, pillars. Rock slopes. Rock bolting. Plastic
+mechanics. Tunnels, shapes, usages, Methods of Construction, Problems associated with
+tunnels, tunnelling in various subsoil conditions and rocks.
+References:
+1. Mukerjee, P. K., A text book of Geology, World Press, 1995.
+2. Brady, B. H. G. and Brown, E. T, Rock Mechanics for Underground Mining, Chapman
+& Hall, 1993.
+3. Brown, E. T, Rock Characterisation, Testing and Monitoring, Pergamon Press, 1986.
+4. Herget, G, Stresses in Rock, Balkema, 1988.
+GE-22 | P a ge
+
+--- Page 26 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+5. Hoek, E. and Brown, E. T, Underground Excavation in Rock, Institution of Mining and
+Metallurgy, 1982.
+6. Goodman, R. E, Introduction to Rock Mechanics, John Wiley & Sons, 1989.
+7. Bieniawski, Z. T, Engineering Rock Mass Classification, John Wiley and Sons, 1989.
+8. Coates, D. F, Rock Mechanics Principles, Canada Centre for Mineral and Energy
+Technology, 1981.
+9. Jaeger, J. C. and Cook, N. G. W, Fundamentals of Rock Mechanics, Champman and
+Hall, 1976.
+10. Wyllie, D. C, Foundations on Rock, E & FN Spon. 2nd Edition, 1992.
+Course Outcome:
+1. Students will be able to understand the scope and problems of Rock Mechanics
+2. Students will be able to understand the different laboratory tests of rocks
+3. Students will be able to understand the different in-situ tests on rock mass
+4. Students will be able to understand the analysis of stresses in case of rocks
+5. Students will be able to understand the concepts of lined and unlined tunnels
+6. Students will be able to understand the concept of underground excavation and
+subsidence
+7. Students will be able to understand the applications of Rock Mechanics.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the scope and problems of Rock
+PCE21E05.1
+Mechanics
+PCE21E05.2 Students will be able to understand the different laboratory tests of rocks
+PCE21E05.3 Students will be able to understand the different in-situ tests on rock mass
+PCE21E05.4 Students will be able to understand the analysis of stresses in case of rocks
+PCE21E05.5 Students will be able to understand the concepts of lined and unlined tunnels
+Students will be able to understand the concept of underground excavation
+PCE21E05.6
+and subsidence
+PCE21E05.7 Students will be able to understand the applications of Rock mechanics
+GE-23 | P a ge
+
+--- Page 27 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E05.1 2 2 3 2 2 2
+PCE21E05.2 2 2 3 2 2 2
+PCE21E05.3 2 2 3 2 2 2
+PCE21E05.4 2 2 3 2 2 2
+PCE21E05.5 2 2 3 2 2 2
+PCE21E05.6 2 2 3 2 2 2
+PCE21E05.7 2 2 3 2 2 2
+Total 14 14 21 14 14 14
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E05.1 3 3
+PCE21E05.2 3 3
+PCE21E05.3 3 3
+PCE21E05.4 3 3
+PCE21E05.5 3 3
+PCE21E05.6 3 3
+PCE21E05.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-24 | P a ge
+
+--- Page 28 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+SOIL INVESTIGATION AND EXPLORATION
+(PCE21E06)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the different methods of site investigation and sub-soil exploration
+2. To understand the different methods of offshore exploration
+3. To understand the basic about of shallow foundations and deep foundations
+4. To understand the theory of stresses in soil
+5. To update the knowledge of latest technology on stability of finite and infinite slope
+6. To understand the different analyses and design of retaining walls to resist earth
+pressure.
+Course Content:
+Unit-1
+Site Investigation and Sub-soil Exploration: Planning of geotechnical exploration;
+Methods of boring; Types of samples & sampling; Non-destructive testing;Field tests:
+standard penetration, plate load, static and dynamic cone penetration, field vane shear and
+pressure meter tests, electrical resistivity and seismic refraction tests; Location of ground
+water table;Processing of soil exploration data and its interpretation.
+Unit-2
+Offshore Exploration: Offshore site investigations; Sampling and drilling; In-situ soil
+testing; Offshore structures and geotechnical considerations- Floating structures, Bottom
+founded platforms, Subsea structures.
+Unit-3
+Introduction to Bearing Capacity of Shallow Foundations: Prandtl, Terzaghi and
+Meyerhof’s method of analysis; Safe and allowable bearing pressures;
+Introduction to Shallow Foundations and Deep Foundations: Settlement calculations;
+Skempton Bjerrum modification and Martin’s method related to shallow foundation.
+Mechanics of load transfer in piles; Load carrying capacity; Pile load test.
+Unit-4
+Stress in soil and Stability of slope: Elastic stresses in soil; Stress-strain behaviour of
+soils; Mohr Circle of Stress; Principal Stresses. Stress distribution in homogeneous, non-
+homogeneous, layered and anisotropic deposits. Effect of non-linearity; Stability of
+slopes; stability number, method of slices.
+Unit-5
+Earth Pressure: Earth pressure computations on retaining walls and their design.
+GE-25 | P a ge
+
+--- Page 29 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+References:
+1. Bowles, J. E, Physical and Geotechnical Properties of Soil, McGraw-Hill Book
+Company, 1985.
+2. Bowles, J. E, Foundation Analysis and Design, McGraw-Hill International edition,
+1997.
+3. Dunnicliff, J. and Green, G. E, Geotechnical Instrumentation for Monitoring Field
+Performance, John Wiley & Sons, 1982.
+4. GopalRanjan and Rao, A. S. R, Basic and Applied Soil Mechanics, Wiley Eastern
+Limited, 1991.
+5. Lunne, T., Robertson, P. K. and Powell, J. J. M, Cone Penetration Testing in
+Geotechnical Practice, Blackie Academic & Professional, 1997.
+6. Compendium of Indian Standards on Soil Engineering Parts 1 and II 1987 - 1988.
+Course Outcome:
+1. Students will be able to understand the different methods of site investigation and sub-
+soil exploration
+2. Students will be able to understand the different field tests of sub-soil exploration
+3. Students will be able to understand the different methods of offshore exploration
+4. Students will be able to understand the basic about shallow and deep foundations.
+5. Students will be able to understand the theory of stress in soil.
+6. Students will be able to understand latest technology on stability of finite and infinite
+slope.
+7. Students will be able to understand the different analyses and design of retaining walls
+to resist earth pressure
+To establish the co-relation between COs &POs
+Table 1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the different methods of site
+PCE21E06.1
+investigation and sub-soil exploration
+PCE21E06.2 Students will be able to understand the different field tests of sub-soil
+exploration
+PCE21E06.3 Students will be able to understand the different methods of offshore
+exploration
+PCE21E06.4 Students will be able to understand the basic about shallow and deep
+foundation
+PCE21E06.5 Students will be able to understand the theory of stress in soil
+PCE21E06.6 Students will be able to understand latest technology on stability of finite
+and infinite slope.
+PCE21E06.7 Students will be able to understand the different analyses and design of
+retaining walls to resist earth pressure
+GE-26 | P a ge
+
+--- Page 30 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E06.1 2 2 3 2 2 2
+PCE21E06.2 2 2 3 2 2 2
+PCE21E06.3 2 2 3 2 2 2
+PCE21E06.4 2 2 3 2 2 2
+PCE21E06.5 2 2 3 2 2 2
+PCE21E06.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21E06.1 3 3
+PCE21E06.2 3 3
+PCE21E06.3 3 3
+PCE21E06.4 3 3
+PCE21E06.5 3 3
+PCE21E06.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-27 | P a ge
+
+--- Page 31 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+SOIL MECHANICS LABORATORY
+(PCE21P01)
+Total Credit: 02 Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To understand the different tests to know the physical properties of soils in the
+laboratory
+2. To understand the different tests to know the physical properties of soils in the field
+3. To understand the different compaction tests of soils in the laboratory
+4. To understand the different permeability tests of soils in the laboratory
+5. To understand the different shear strength tests of soils in the in the laboratory
+6. To understand the different shear strength tests of soils in the in the field
+7. To understand the consolidation tests in the laboratory.
+Course Content:
+Unit-1
+Identification and Physical description; Specific gravity; Mechanical analysis.
+Unit-2
+Proctor’s Compaction test; Permeability- Constant head, Variable head,
+Field Permeability test
+Unit-3
+Direct Shear test- Cohesionless soil, Cohesive soil; Unconfined Compression test; Tri-
+axial test- Undrained, Drained; Tri-axial test with pore pressure measurements; Vane
+Shear test.
+Unit-4
+1D and 3D Consolidation tests.
+References:
+1. B.M. Das, ‘Soil mechanics laboratory manual’, OUP USA.
+Additional Readings:
+Relevant I.S. Codes for the soil testing in the laboratory and field.
+GE-28 | P a ge
+
+--- Page 32 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the different tests to know the physical properties
+of soils in the laboratory
+2. Students will be able to understand the different tests to know the physical properties
+of soils in the field
+3. Students will be able to understand the different compaction tests of soils in the
+laboratory
+4. Students will be able to understand the different permeability tests of soils in the
+laboratory
+5. Students will be able to understand the different shear strength tests of soils in the in
+the laboratory
+6. Students will be able to understand the different shear strength tests of soils in the in
+the field
+7. Students will be able to understand the consolidation tests in the laboratory.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the different tests to know the physical
+PCE21P01.1
+properties of soils in the laboratory
+Students will be able to understand the different tests to know the physical
+PCE21P01.2
+properties of soils in the field
+Students will be able to understand the different compaction tests of soils
+PCE21P01.3
+in the laboratory
+Students will be able to understand the different permeability tests of soils
+PCE21P01.4
+in the laboratory
+Students will be able to understand the different shear strength tests of
+PCE21P01.5
+soils in the in the laboratory
+Students will be able to understand the different shear strength tests of
+PCE21P01.6
+soils in the in the field
+PCE21P01.7 Students will be able to understand the consolidation tests in the laboratory
+GE-29 | P a ge
+
+--- Page 33 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21P01.1 2 2 3 2 2 2
+PCE21P01.2 2 2 3 2 2 2
+PCE21P01.3 2 2 3 2 2 2
+PCE21P01.4 2 2 3 2 2 2
+PCE21P01.5 2 2 3 2 2 2
+PCE21P01.6 2 2 3 2 2 2
+PCE21P01.7 2 2 3 2 2 2
+Total 14 14 21 14 14 14
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21P01.1 3 3
+PCE21P01.2 3 3
+PCE21P01.3 3 3
+PCE21P01.4 3 3
+PCE21P01.5 3 3
+PCE21P01.6 3 3
+PCE21P01.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-30 | P a ge
+
+--- Page 34 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+FOUNDATION ENGINEERING LABORATORY
+(PCE21P02)
+Total Credit: 02 Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To understand the samplings of disturbed and undisturbed soils
+2. To understand the standard penetration test & static cone penetration test
+3. To understand the plate bearing test
+4. To understand in-situ dynamic properties
+5. To understand the model footing test
+6. To understand the model pile loading test
+7. To understand the laboratory vibration test.
+Course Content:
+Unit-1
+Disturbed and undisturbed sampling; Standard penetration test; Static cone penetration
+test.
+Unit-2
+Plate bearing test; In-situ dynamic properties.
+Unit-3
+Model footing test; Model pile loading test.
+Unit-4
+Laboratory vibration test; Determination of In situ Modulus by Pressuremeter.
+References:
+1. B.M. Das, ‘Soil mechanics laboratory manual’, OUP USA.
+Additional Readings:
+Relevant I.S. Codes for the soil testing in the laboratory and field.
+Course Outcome:
+1. Students will be able to understand the samplings of disturbed and undisturbed soils
+2. Students will be able to understand the standard penetration test & static cone
+penetration test
+3. Students will be able to understand the plate bearing test
+4. Students will be able to understand in-situ dynamic properties
+5. Students will be able to understand the model footing test
+6. Students will be able to understand the model pile loading test
+GE-31 | P a ge
+
+--- Page 35 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+7. Students will be able to understand the laboratory vibration test.
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE21P02.1 Students will be able to understand the samplings of disturbed and undisturbed soils
+Students will be able to understand the standard penetration test & static cone
+PCE21P02.2
+penetration test
+PCE21P02.3 Students will be able to understand the plate bearing test
+PCE21P02.4 Students will be able to understand in-situ dynamic properties
+PCE21P02.5 Students will be able to understand the model footing test
+PCE21P02.6 Students will be able to understand the model pile loading test
+PCE21P02.7 Students will be able to understand the laboratory vibration test
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21P02.1 2 2 3 2 2 2
+PCE21P02.2 2 2 3 2 2 2
+PCE21P02.3 2 2 3 2 2 2
+PCE21P02.4 2 2 3 2 2 2
+PCE21P02.5 2 2 3 2 2 2
+PCE21P02.6 2 2 3 2 2 2
+PCE21P02.7 2 2 3 2 2 2
+Total 14 14 21 14 14 14
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE21P02.1 3 3
+PCE21P02.2 3 3
+PCE21P02.3 3 3
+PCE21P02.4 3 3
+PCE21P02.5 3 3
+PCE21P02.6 3 3
+PCE21P02.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-32 | P a ge
+
+--- Page 36 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+SEMINAR
+(PCE21P03)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Each Student shall prepare a Report and present a Se-minar on topic related to the branch
+of specialization under the guidance of a Faculty member. The student shall submit copy
+of the paper to the Department. Grades will be awarded on the basis of contents of the
+paper and the presentation.
+GE-33 | P a ge
+
+--- Page 37 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Second Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+1 Basic Core 4 4 100
+PCE22B01: Finite Element Method
+2 Core Subject-I 4 4 100
+PCE22C01: Advanced Foundation Design
+3 Core Subject-II 4 4 100
+PCE22C02: Soil Structure Interaction
+4 Elective Paper-III (Any one) 4 4 100
+PCE22E01: Environmental Geotechnique
+PCE22E02: Earthquake Geotechnical Engineering
+PCE22E03: Computer Aided Design
+5 PCE22P02: Foundation Design and Drawing 2 3 100
+6 PCE22P03: Computer Aided Geotechnical Design 2 3 100
+Laboratory
+7 PCE22P01: Project Preliminary 3 6 100
+8 PCE22P04: Comprehensive Viva-voce 1 0 100
+Total 25 28 800
+01/09/21
+GE-34 | P a ge
+
+--- Page 38 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Basic Core
+FINITE ELEMENT METHOD
+(PCE22B01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. Understand the mathematical and physical principles underlying the Finite Element
+Method (FEM) focussed on stress analysis of common geotechnical engineering
+problems.
+2. Demonstrate the ability to formulate and implement to solve geotechnical engineering
+problems using Finite Element Analysis.
+3. Be able to evaluate accuracy of the Finite Element solutions using a range of
+techniques.
+4. Be able to create his/her own FEM computer programs, for simple problems.
+5. Understand the importance of analysis, using FEM, in the broader context of
+engineering practice.
+Course Content:
+Unit- 1
+Introduction: Boundary Value Problem - Approximate Solution - Variational and
+Weighted Residual Methods - Ritz and Galerkin Formulations - Concepts of
+Piecewise Approximation and Finite Elements - Displacement and Shape Functions -
+Weak Formulation - Minimum Potential Energy - Generation of Stiffness Matrix and
+Load Vector.
+Unit- 2
+Stress Analysis: Two Dimensional problems - Plane Stress, Plain Strain and
+Axisymmetric Problems - Triangular and Quadrilateral Elements - Natural
+Coordinates - Isoparametric Formulation - Numerical Integration - Plate Bending and
+Shell Elements - Brick Elements - Elements for Fracture Analysis.
+Unit- 3
+Meshing and Solution Problems: Higher Order Elements - p and h Methods of
+refinement - IIL conditioned Elements - Discretization Errors -Auto and Adaptive
+Mesh Generation Techniques - Error Evaluation.
+Unit- 4
+Nonlinear and Vibration Problems: Material and Geometric Nonlinearity -
+Methods of Treatment - Consistent System Matrices – Dynamic Condensation - Eigen
+Value Extraction.
+Unit- 5
+Thermal Analysis: Thermal analysis problems.
+GE-35 | P a ge
+
+--- Page 39 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+References:
+Sl. Name of the Book Author Publisher
+No.
+1 Finite Element Method Zeinkiewicz, O. C.Tata Mcgraw Hill, 1988
+2 The Finite Element Method- Zeinkiewicz& Mcgraw-Hill
+Vol. I Taylor International Editions
+3 The Finite Element Method- Zeinkiewicz& Mcgraw-Hill
+Vol. II Taylor International Editions
+4 The Finite Element Method- Zeinkiewicz& Mcgraw-Hill
+Vol. III Taylor International Editions
+5 Vibrations, Dynamics and Mukhopadhyay, Oxford and IBH
+Structural System M.
+6 An Introduction to the Finite Reddy, J. N. Mcgraw-Hill
+Element Method International Editions
+7 The Finite Element Analysis Seshu, P. PHI
+8 Finite Element Procedures Bathe, K. J. Prentice Hall, 1996
+9 A First Course in Finite Fish, J. and John Willey & Sons,
+Elements Belytschko, T. 2007
+10 Concepts and Applications of Cook, R. D. John Willey & Sons
+Finite Element Analysis
+11 Finite Element Analysis- Krishnamurthy, C. Tata Mcgraw Hill
+Theory and S.
+Programming
+12 Introduction to Finite Petyt, M. Cambridge University
+Element Vibration Press
+Analysis
+Course Outcome:
+At the end of the course, a student will be able to
+1. Analyze linear 1D problem such as bars, beams, 2D problems using CST element, 4
+node quadrilateral element, axi-symmetric problems with triangular elements, 3 and 4
+node plate elements.
+2. Write shape functions for 8 node quadrilateral, 6 node triangular (LST) elements, 8
+node brick element, shell element, and apply numerical integration to solve; 1D and
+2D; stiffness integrations.
+3. Understand p and h Methods of refinement, discretization Errors and auto and adaptive
+mesh generation techniques.
+4. Apply suitable boundary conditions to a global equation for various geotechnical
+engineering problems and solve them to determine displacements, stresses and strains.
+5. Understand the finite element method to solve problems with material and geometric
+nonlinearity and vibration problems.
+6. Critically assess a finite element analysis for correctness.
+GE-36 | P a ge
+
+--- Page 40 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs & POs
+Table 1
+No. of course outcome (CO) Course Outcome
+PCE22B01.1 Student will be able to analyze linear 1D problem such as bars, beams, 2D
+problems using CST element, 4 node quadrilateral element, axi-symmetric
+problems with triangular elements, 3 and 4 node plate elements.
+PCE22B01.2 Student will be able to write shape functions for 8 node quadrilateral, 6 node
+triangular (LST) elements, 8 node brick element, shell element, and apply
+numerical integration to solve; 1D and 2D; stiffness integrations.
+PCE22B01.3 Student will be able to understand p and h Methods of refinement,
+discretization Errors and auto and adaptive mesh generation techniques.
+PCE22B01.4 Student will be able to apply suitable boundary conditions to a global equation
+for various geotechnical engineering problems and solve them to determine
+displacements, stresses and strains.
+PCE22B01.5 Student will be able to understand the finite element method to solve problems
+with material and geometric nonlinearity and vibration problems.
+PCE22B01.6 Student will be able to critically assess a finite element analysis for
+correctness.
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22B01.1 3 2 2 2 2 2
+PCE22B01.2 3 2 2 2 2 2
+PCE22B01.3 3 2 2 2 2 2
+PCE22B01.4 3 2 2 2 2 2
+PCE22B01.5 3 2 2 2 2 2
+PCE22B01.6 3 2 2 2 2 2
+Total 18 12 12 12 12 12
+Average 3 2 2 2 2 2
+Equivalent Avg. 3 2 2 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22B01.1 3 3
+PCE22B01.2 3 3
+PCE22B01.3 3 3
+PCE22B01.4 3 3
+PCE22B01.5 3 3
+PCE22B01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-37 | P a ge
+
+--- Page 41 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Core Subject-I
+ADVANCED FOUNDATION DESIGN
+(PCE22C01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the design criteria of different types of shallow foundations
+2. To update knowledge on settlement calculations of shallow foundations
+3. To know the details design criteria of different types of deep foundations
+4. To study the analysis of pile foundation
+5. Detail design criteria of pile foundations
+6. To update the knowledge about analysis of well foundation
+Course Content:
+Unit-1
+Shallow foundations- selection of type and depth of foundations, isolated footings,
+combined footings, mat foundations including floating raft, settlement calculations.
+Unit-2
+Deep foundations- well foundations, coffer dams, pier foundations, earth pressure
+computations on retaining walls and their design, and Pile Foundation.
+Unit-3
+Pile Foundation- Introduction, estimation of pile capacity by static and dynamic formulae,
+wave equation method of analysis of pile resistance-load-transfer method of estimating
+pile capacity, settlement of single pile, elastic methods. Laterally loaded pile- modulus of
+sub grade reaction method, ultimate lateral resistance of piles.
+Unit-4
+Pile Groups- consideration regarding spacing, efficiency of pile groups, stresses on
+underlying soil strata, approximate analysis of pile groups, settlement of pile groups, pile
+caps, pile load tests, negative skin friction.
+References:
+1. Lambe and Whitman, Soil Mechanics, Wiley Eastern., 1976.
+2. Das B.M., Advanced Soil Mechanics, Mc. Graw-Hill, NY, 1985.
+3. Winterkorn H.F. and Fang H.Y. Ed., Foundation Engineering Hand Book, Van-
+Nostrand Reinhold, 1975.
+4. Bowles J.E., Foundation Analysis and Design (4th Ed.), Mc.Graw –Hill, NY, 1996.
+5. Poulose H.G. and Davis E.H., Pile foundation Analysis and Design, John-Wiley &
+Sons, NY, 1980.
+7. Leonards G. Ed., Foundation Engineering, Mc.Graw-Hill,NY, 1962.
+GE-38 | P a ge
+
+--- Page 42 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the design criteria of different types of shallow
+foundations
+2. Students will be able to understand the settlement calculations of shallow foundations
+3. Students will be able to understand the design criteria of different types of deep
+foundations
+4. Students will be able to understand the analysis of pile foundations
+5. Students will be able to understand the detail design criteria of pile foundations
+6. Students will be able to update the knowledge about analysis of well foundation.
+To establish the co-relation between COs & POs
+Table-1
+No. of Course Outcome (CO) Course Outcome
+Students will be able to understand the design criteria of different types of
+PCE22C01.1
+shallow foundations
+Students will be able to understand the settlement calculations of shallow
+PCE22C01.2
+foundations
+Students will be able to understand the design criteria of different types of deep
+PCE22C01.3
+foundations
+PCE22C01.4 Students will be able to understand the analysis of pile foundation
+PCE22C01.5 Students will be able to understand the detail design criteria of pile foundations
+PCE22C01.6 Students will be able to update the knowledge about analysis of well foundation
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22C01.1 3 2 2 2 2 2
+PCE22C01.2 3 2 2 2 2 2
+PCE22C01.3 3 2 2 2 2 2
+PCE22C01.4 3 2 2 2 2 2
+PCE22C01.5 3 2 2 2 2 2
+PCE22C01.6 3 2 2 2 2 2
+Total 18 12 12 12 12 12
+Average 3 2 2 2 2 2
+Equivalent Avg. Attainment 3 2 2 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22C01.1 3 3
+PCE22C01.2 3 3
+PCE22C01.3 3 3
+PCE22C01.4 3 3
+PCE22C01.5 3 3
+PCE22C01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-39 | P a ge
+
+--- Page 43 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Core Subject-II
+SOIL STRUCTURE INTERACTION
+(PCE22B02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand about the importance of interaction mechanics.
+2. To understand the effect of soil-structure interaction on response of structural system.
+3. To know the SSI modeling techniques and analysis.
+4. To understand the design implications.
+Course Content:
+Unit-1
+General soil-structure interaction problems, Contact pressures and soil-structure
+interaction for shallow foundations, Concept of sub grade modulus, effects/parameters
+influencing subgrade modulus. Soil behaviour, Foundation behaviour, Interface
+behaviour.
+Unit-2
+Scope of soil foundation interaction analysis, soil response models, Winkler, Elastic
+continuum, Two parameter elastic models, Elastic plastic behaviour, Time dependent
+behaviour. Isotropic elastic half space.
+Unit-3
+Beam on Elastic Foundation-Soil Models: Infinite beam, Two parameters, Analysis of
+beams of finite length, Classification of finite beams in relation to their stiffness. Elastic
+Analysis of Pile: Elastic analysis of single pile, Theoretical solutions for settlement and
+load distributions. Analysis of pile group, Interaction analysis, Load distribution in groups
+with rigid cap. Laterally Loaded Pile: Load deflection prediction for laterally loaded piles,
+Subgrade reaction and elastic analysis, Interaction analysis, Pile-raft system, Solutions
+through influence charts. Uplift capacity of piles and anchors.
+Unit-4
+Plate on Elastic Medium: Thin and thick plates, Analysis of finite plates, Numerical
+analysis of finite plates, simple solutions.
+Unit- 5
+Dynamic Soil Structure interaction, Inertial and Kinematic Interaction, Direct and
+substructure approach of model analysis, Dynamic stiffness, Dynamic equilibrium
+equation.
+GE-40 | P a ge
+
+--- Page 44 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+References:
+Sl Name of Book Author Publisher
+No.
+1. AdvancedGeotechnicalEngineeri Chandrakant S. CRC Press Taylor
+ngSoil–Structure Interaction Desai and Francis Group
+UsingComputer and Material Musharraf Zaman 2014
+Models
+2. Elastic Analysis of Soil-SelvaDurai, A. P. Elsevier, 1979.
+Foundation Interaction S
+3. Pile Foundation Analysis and Poulos, H. G., and Prentice Hall,
+Design Davis, E. H. 1981
+4. Structure Soil Interaction State of Art
+Report, Institution
+of Structural
+Engineers, 1978
+5 Suggested Analysis and Design ACI 336. (1988) American
+Procedures for combined Concrete
+footings and Mats Institute,1988.
+6 Foundation Analysis Scott, R. F. Prentice-Hall
+7 Dynamic Soil Structure John P Wolf Prentice-Hall Inc,
+Interaction Englewood Cliffs
+N.J
+Course Outcome:
+1. Students will be able to learn the behavior of whole system.
+2. Students will be able to learn linear and nonlinear behavior of soil-structure system.
+3. Students will be able to develop in depth idea about design of foundation.
+4. Students will be able to learn both static and dynamic SSI based design.
+To establish the co-relation between COs & POs
+Table-1
+No. of Course Outcome Course Outcome
+(CO)
+PCE22B02.1 Students will be able to learn the behavior of whole
+system.
+PCE22B02.2 Students will be able to learn linear and nonlinear
+behavior of soil-structure system.
+PCE22B02.3 Students will be able to develop in depth idea about
+design of foundation.
+PCE22B02.4 Students will be able to learn both static and
+dynamic SSI based design.
+GE-41 | P a ge
+
+--- Page 45 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22B02.1 3 2 3 2 2 2
+PCE22B02.2 3 2 3 2 2 2
+PCE22B02.3 3 2 3 2 2 2
+PCE22B02.4 3 3 3 3 3 3
+Total 12 9 12 9 9 9
+Average 3 2.25 3 2.25 2.25 2.25
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22B02.1 3 3
+PCE22B02.2 3 3
+PCE22B02.3 3 3
+PCE22B02.4 3 3
+Total 12 12
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-42 | P a ge
+
+--- Page 46 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Elective Paper-III (Any one)
+PCE22E01: Environmental Geotechnique
+PCE22E02: Earthquake Geotechnical Engineering
+PCE22E03: Computer Aided Design
+ENVIRONMENTAL GEOTECHNIQUE
+(PCE22E01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the concept of soil as a multiphase system
+2. To understand the concept of soil- environment interaction
+3. To understand the concept of soil mineralogy
+4. To understand the concept of soil-water-contaminant interaction
+5. To understand the concept of unsaturated soil mechanics
+6. To understand the concept of waste containment facilities
+7. To understand the concept of advanced soil characterization techniques
+Course Content:
+Unit-1
+Soil as a multiphase system; Soil-environment interaction; Properties of water in relation
+to the porous media; Water cycle with special reference to soil medium.
+Unit-2
+Soil mineralogy; significance of mineralogy in determining soil behaviour; Mineralogical
+characterization. Mechanisms of soil-water interaction: Diffuse double layer models;
+Force of attraction and repulsion;
+Unit-3
+Soil-water-contaminant interaction; Theories of ion exchange; Influence of organic and
+inorganic chemical interaction.
+Unit-4
+Introduction to unsaturated soil mechanics; water retention property and soil-water
+characteristic curve; flow of water in unsaturated soil.
+Unit-5
+Concepts of waste containment facilities; desirable properties of soil; contaminant
+transport and retention; contaminated site remediation.
+Unit-6
+Introduction to advanced soil characterization techniques; volumetric water content; gas
+permeation in soil; electrical and thermal properties; pore-size distribution; contaminant
+analysis, landfills liner systems.
+GE-43 | P a ge
+
+--- Page 47 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+References:
+1. Mitchell, J. K and Soga, K Fundamentals of Soil Behavior, John Wiley and Sons Inc.,
+2005.
+2. Fang, H-Y, Introduction to Environmental Geotechnology, CRC Press,1997.
+3. Daniel, D. E, Geotechnical Practice for Waste Disposal, Chapman and Hall, 1993.
+4. Rowe, R. K., Quigley, R. M. and Booker, Clay Barrier Systems for Waste Disposal
+Facilities, J. R., E & FN Spon, 1995.
+5. Rowe, R. K, Geotechnical and Geoenvironmental Engineering Handbook, Kluwer
+Academic Publishers, 2001.
+6. Reddi, L. N. and Inyang, H. F, Geoenvironmental Engineering-Principles and
+Applications, Marcel Dekker Inc, 2000.
+7. Sharma, H. D. and Lewis, S. P, Waste Containment Systems, Waste Stabilization and
+Landfills: Design and Evaluation, John Wiley & Sons Inc., 1994.
+Course Outcome:
+1. Students will be able to understand the concept of soil as a multiphase system
+2. Students will be able to understand the concept of soil- environment interaction
+3. Students will be able to understand the concept of soil mineralogy
+4. Students will be able to understand the concept of soil-water-contaminant interaction
+5. Students will be able to understand the concept of unsaturated soil mechanics
+6. Students will be able to understand the concept of waste containment facilities
+7. Students will be able to understand the concept of advanced soil characterization
+techniques.
+To establish the co-relation between COs &POs
+Table-1: Numbering of COs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the concept of soil as a multiphase
+PCE22E01.1
+system
+PCE22E01.2 Students will be able to understand the concept of soil-environment
+interaction
+PCE22E01.3 Students will be able to understand the concept of soil mineralogy
+PCE22E01.4 Students will be able to understand the concept of soil-water-
+contaminant interaction
+PCE22E01.5 Students will be able to understand the concept of unsaturated soil
+mechanics
+PCE22E01.6 Students will be able to understand the concept of waste containment
+facilities
+PCE22E01.7 Students will be able to understand the concept of advanced soil
+characterization techniques
+GE-44 | P a ge
+
+--- Page 48 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22E01.1 2 2 2 2 2 2
+PCE22E01.2 3 2 2 2 2 2
+PCE22E01.3 2 2 2 2 2 2
+PCE22E01.4 3 2 2 2 2 2
+PCE22E01.5 3 2 2 2 2 2
+PCE22E01.6 2 2 2 2 2 2
+PCE22E01.7 3 2 2 2 2 2
+Total 18 14 14 14 14 14
+Average 2.57 2 2 2 2 2
+Equivalent 3 2 2 2 2 2
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22E01.1 3 3
+PCE22E01.2 3 3
+PCE22E01.3 3 3
+PCE22E01.4 3 3
+PCE22E01.5 3 3
+PCE22E01.6 3 3
+PCE22E01.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-45 | P a ge
+
+--- Page 49 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+EARTHQUAKE GEOTECHNICAL ENGINEERING
+(PCE22E02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the necessity of geotechnical earthquake engineering
+2. To understand the details of engineering seismology
+3. To understand the concept of strong ground motion
+4. To understand the concept of seismic hazard analysis
+5. To understand the concept of ground response analysis
+6. To understand the concept of liquefaction related phenomena
+7. To understand the concept of seismic slope stability
+8. To understand the seismic design considerations of retaining walls.
+Course Content:
+Unit-1
+Introduction to Geotechnical Earthquake Engineering: Scope and objective; Nature
+and types of earthquake loading; Importance of Geotechnical Earthquake Engineering;
+Seismic hazards; Mitigation of seismic hazards.
+Engineering Seismology: Causes of earthquake; Plate tectonics; Earthquake fault
+sources; Seismic waves; Elastic rebound theory; Quantification of earthquake; Intensity
+and magnitudes; Earthquake source models.
+Unit-2
+Strong Ground Motion: Introduction; Strong-motion measurement; Seismograph;
+Ground motion parameters and their estimation; Effect of local site conditions on ground
+motions; Design earthquake; Design spectra; Development of site specification and code-
+based design.
+Seismic Hazard Analysis: Introduction; Identification and evaluation of earthquake
+sources; Deterministic seismic hazard analysis; Probabilistic seismic hazard analysis.
+Unit 3
+Wave Propagation: Introduction; Waves in unbounded media; Waves in a semi-infinite
+body; Waves in a layered body; Attenuation of stress waves.
+Ground Response Analysis: Ground response analysis – One-dimensional ground
+response analysis: Linear approaches; Equivalent linear approximation of non-linear
+approaches; Computer code “SHAKE”; Two-dimensional ground response analysis;
+Three-dimensional ground response analysis.
+Unit-4
+Dynamic Soil Properties: Introduction; Measurement of Dynamic Soil Properties;
+Stress-strain behavior of cyclically loaded soils; Strength of cyclically loaded soils.
+Liquefaction and Lateral Spreading: Liquefaction related phenomena; Liquefaction
+susceptibility: Historical, Geological, Compositional and State criteria; Evaluation of
+liquefaction by cyclic stress and cyclic strain approaches; Lateral deformation and
+spreading; Criteria for mapping liquefaction hazard zones.
+GE-46 | P a ge
+
+--- Page 50 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Unit-5
+Seismic Slope Stability: Internal stability and weakening instability.
+Seismic Design Considerations of Retaining Walls: Dynamic Response of Retaining
+Walls; Seismic Design Considerations of Gravity Walls; Cantilever Walls; Braced Walls
+and Reinforced Soil Walls.
+References:
+Sl No. Name of the Books Authors Publishers
+1. Geotechnical Earthquake Steven L. Kramer Prentice Hall
+Engineering
+2. Geotechnical Earthquake Robert W. Day McGraw Hill
+Engineering Handbook
+3. Geotechnical Earthquake IkuoTowhata Springer
+Engineering
+4. Soil Behaviour in Earthquake Kenji Ishihara Oxford University
+Geotechnics Press,
+USA
+5. Soil Dynamics Shamsher Prakash McGraw Hill
+6. Basic Geotechnical Earthquake Kamalesh Kumar New Age International
+Engineering (P) Limited, Publishers
+7. Seismic behaviour of ground and Seco e Pinto A. A. Balkema
+Geotechnical structure
+8. The Seismic Design Handbook F. Naeim Kluwer Academic
+Publication
+9. SPT-based Liquefaction I. M. Idriss and Center for
+Triggering Procedures Ross W. Boulanger Geotechnical
+Modeling, University
+of California
+10. IS 1893, Indian Standard Criteria B.I.S. B.I.S.
+for earthquake resistant Design
+of Structures
+Additional Readings:
+Journal and Conference papers in the area of Earthquake Geotechnical Engineering.
+Course Outcome:
+1. Students will be able to understand the necessity of geotechnical earthquake
+engineering
+2. Students will be able to understand the details of engineering seismology
+3. Students will be able to understand the concept of strong ground motion
+4. Students will be able to understand the concept of seismic hazard analysis
+5. Students will be able to understand the concept of ground response analysis
+6. Students will be able to understand the concept of liquefaction related phenomena
+7. Students will be able to understand the concept of seismic slope stability
+8. Students will be able to understand the seismic design considerations of retaining
+walls.
+GE-47 | P a ge
+
+--- Page 51 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs &POs
+Table-1: Numbering of COs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the necessity of geotechnical earthquake
+PCE22E02.1
+engineering
+PCE22E02.2 Students will be able to understand the details of engineering seismology
+PCE22E02.3 Students will be able to understand the concept of strong ground motion
+PCE22E02.4 Students will be able to understand the concept of seismic hazard analysis
+PCE22E02.5 Students will be able to understand the concept of ground response analysis
+PCE22E02.6 Students will be able to understand the concept of liquefaction related
+phenomena
+PCE22E02.7 Students will be able to understand the concept of seismic slope stability
+PCE22E02.8 Students will be able to understand the seismic design considerations of
+retaining walls
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22E02.1 3 2 2 2 2 2
+PCE22E02.2 3 3 2 2 2 2
+PCE22E02.3 3 2 2 2 2 2
+PCE22E02.4 3 2 2 2 2 2
+PCE22E02.5 3 3 2 2 2 2
+PCE22E02.6 3 3 2 2 2 2
+PCE22E02.7 3 3 2 2 2 2
+PCE22E02.8 3 3 2 2 2 2
+Total 24 21 16 16 16 16
+Average 3 2.62 2 2 2 2
+Equivalent Avg. Attainment 3 3 2 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22E02.1 3 3
+PCE22E02.2 3 3
+PCE22E02.3 3 3
+PCE22E02.4 3 3
+PCE22E02.5 3 3
+PCE22E02.6 3 3
+PCE22E02.7 3 3
+PCE22E02.8 3 3
+Total 24 24
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-48 | P a ge
+
+--- Page 52 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+COMPUTER AIDED DESIGN (PCE22E04)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the principles of computer aided design
+2. To understand the computer peripherals for CAD
+3. To understand the three-dimensional transformations and projections
+4. To understand the surface modeling
+5. To understand the representation of 3D objects
+6. To understand the computer aided drafting system.
+Unit-1:
+Principles of computer aided design, computer configuration for CAD applications,
+Computer peripherals for CAD. Computer graphics fundamentals, points and lines.
+Unit-2:
+Three-dimensional transformations and projections, plane curve, space curves surface
+descriptions and generation.
+Unit-3:
+Hidden line algorithms for wire-frame modeling, Surface modeling, Solid modeling,
+Representation of 3D objects. B-rep solid modelers and constructive solid geometry.
+Unit-4:
+CAD system utilization and application Hidden surface algorithms and Shading, Finite
+element systems, Computer aided drafting system.
+References
+1. D. F. Rogers, Mathematical elements for computer graphics, McGraw Hill, 1990.
+2. D. F. Rogers, Elements of computer graphics, McGraw Hill International edition, 1998.
+3. M. E. Mortenson, Geometric modelling, John Wiley and Sons, 1989.
+Course Outcome:
+1. Students will be able to understand the principles of computer aided design
+2. Students will be able to understand the computer peripherals for CAD
+3. Students will be able to understand the three-dimensional transformations and
+projections
+4. Students will be able to understand the surface modeling
+5. Students will be able to understand the representation of 3D objects
+6. Students will be able to understand the computer aided drafting system.
+GE-49 | P a ge
+
+--- Page 53 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the principles of computer
+PCE22E04.1
+aided design
+Students will be able to understand the computer peripherals for
+PCE22E04.2
+CAD
+Students will be able to understand the three-dimensional
+PCE22E04.3
+transformations and projections
+PCE22E04.4 Students will be able to understand the surface modeling
+Students will be able to understand the representation of 3D
+PCE22E04.5
+objects
+Students will be able to understand the computer aided drafting
+PCE22E04.6
+system
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22E04.1 3 2 2 2 2 2
+PCE22E04.2 3 2 2 2 2 2
+PCE22E04.3 3 2 2 2 2 2
+PCE22E04.4 3 2 2 2 2 2
+PCE22E04.5 3 2 2 2 2 2
+PCE22E04.6 3 2 2 2 2 2
+Total 18 12 12 12 12 12
+Average 3 2 2 2 2 2
+Equivalent Avg. Attainment 3 2 2 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22E04.1 3 3
+PCE22E04.2 3 3
+PCE22E04.3 3 3
+PCE22E04.4 3 3
+PCE22E04.5 3 3
+PCE22E04.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-50 | P a ge
+
+--- Page 54 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+FOUNDATION DESIGN AND DRAWING
+(PCE22P02)
+Total Credit: 02 Contact Periods: 04 (0L+0T+3P)
+Courses Objective:
+1. To understand the Structural design & drawing of different types of footings
+2. To understand the Structural design & drawing of different types of single piles
+3. To understand the Structural design & drawing of different types of pile groups
+4. To understand the Structural design & drawing of different types of pile caps
+5. To understand the Structural design & drawing of different types of well foundations
+6. To understand the Structural design & drawing of different types of retaining walls.
+Course Content:
+Unit-1
+Structural design& drawing: individual footings, strip footing, combined footing, rigid
+and flexible mat, buoyancy raft, basement raft and detailing in each case,
+Unit-2
+Structural design& drawing: deep foundation: design of single pile and pile groups, pile
+cap design and detailing,
+Unit-3
+Structural design& drawing: design of well foundation,
+Unit-4
+Structural design& drawing: design of retaining wall including detailing, design of
+cantilever and anchored sheet pile walls and ring foundations.
+Course Outcome:
+1. Students will be able to understand the Structural design & drawing of different types
+of footings
+2. Students will be able to understand the Structural design & drawing of different types
+of single piles
+3. Students will be able to understand the Structural design & drawing of different types
+of pile groups
+4. Students will be able to understand the Structural design & drawing of different types
+of pile caps
+5. Students will be able to understand the Structural design & drawing of different types
+of well foundations
+6. Students will be able to understand the Structural design & drawing of different types
+of retaining walls.
+GE-51 | P a ge
+
+--- Page 55 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+To establish the co-relation between COs &POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the Structural design & drawing
+PCE22P02.1
+of different types of footings
+Students will be able to understand the Structural design & drawing
+PCE22P02.2
+of different types of single piles
+Students will be able to understand the Structural design & drawing
+PCE22P02.3
+of different types of pile groups
+Students will be able to understand the Structural design & drawing
+PCE22P02.4
+of different types of pile caps
+Students will be able to understand the Structural design & drawing
+PCE22P02.5
+of different types of well foundations
+Students will be able to understand the Structural design & drawing
+PCE22P02.6
+of different types of retaining walls
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22P02.1 2 3 2 2 2 2
+PCE22P02.2 2 3 2 2 2 2
+PCE22P02.3 2 3 2 2 2 2
+PCE22P02.4 2 3 2 2 2 2
+PCE22P02.5 2 3 2 2 2 2
+PCE22P02.6 2 3 2 2 2 2
+Total 12 18 12 12 12 12
+Average 2 3 2 2 2 2
+Equivalent Avg. 2 3 2 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22P02.1 3 3
+PCE22P02.2 3 3
+PCE22P02.3 3 3
+PCE22P02.4 3 3
+PCE22P02.5 3 3
+PCE22P02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-52 | P a ge
+
+--- Page 56 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+COMPUTER AIDED GEOTECHNICAL DESIGN LABORATORY
+(PCE22P03)
+Total Credit: 02 Contact Periods: 03 (0L+0T+3P)
+Course objective:
+1. To understand about the use of different commercial software for solution of
+Geotechnical Engineering related problems.
+2. To understand about the numerical modeling of Soil Structure Interaction problems.
+3. To understand the idea on material modeling and FEM based numerical analysis.
+Course Content:
+Unit-1
+Modelling and analysis of static and dynamic Soil Structure interaction problems using
+commercial software
+Unit-2
+Modelling and Design of Geotechnical structure (Shallow, Deep foundation, Retaining Wall
+etc.) using Finite element method (FEM) based software
+Unit-3
+Numerical modelling and static and dynamic Analysis of Slope Stability Problems
+Unit-4
+Geotechnical Report preparation based on SubSoil Design parameters and design of
+foundation preparation using CASTeR software
+References
+Sl No. Name Of Book Author Publisher
+1 PLAXIS 3D Foundation Version 2 Brinkgreve, R.B.J., The Netherlands:
+user’s manual, PLAXIS Swolfs, W.M., Delft Univ. of
+Engine, E., Technology. 2008
+2 Abaqus/CAE User’s Manual - DS Simulia 2008.
+3 CASTeR User’s Manual - TDS 2008
+4 Foundation Analysis and Design Bowels, J. E. The McGraw-Hill
+Companies, Inc.
+(1997)
+5 Stability Modeling with SLOPE/W - GEO-SLOPE
+2007 Version, An Engineering International Ltd.
+Methodology (2008)
+GE-53 | P a ge
+
+--- Page 57 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to learn application of different commercial software to solve
+various geotechnical problems.
+2. Students will be able to learn numerical modeling of Soil Structure Interaction
+problems.
+3. Students will be able to develop idea on material modeling and FEM based numerical
+analysis.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome (CO) Course Outcome
+PCE22P03.1 Students will be able to learn application of different
+commercial software to solve various geotechnical
+problems.
+PCE22P03.2 Students will be able to learn numerical modeling of Soil
+Structure Interaction problems.
+PCE22P03.3 Students will be able to develop idea on material modeling
+and FEM based numerical analysis.
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE22P03.1 3 3 3 2 2 2
+PCE22P03.2 3 3 3 2 2 2
+PCE22P03.3 2 2 2 2 2 2
+Total 8 8 8 6 6 6
+Average 2.67 2.67 2.67 2 2 2
+Equivalent Avg. 3 3 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE22P03.1 3 3
+PCE22P03.2 3 3
+PCE22P03.3 3 3
+Total 9 9
+Average 3 3
+Equivalent Avg. Attainment 3 3
+GE-54 | P a ge
+
+--- Page 58 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+PROJECT PRELIMINARY
+(PCE22P01)
+Each student will be given a Thesis/Project problem at the beginning of Second Semester.
+They will work on the literature survey, scope of work, equipment development etc. and
+submit a report/dissertation. The main Thesis/Project work will, however, is done in
+Third and Fourth Semester.
+COMPREHENSIVE VIVA-VOCE
+(PCE22P04)
+Viva-voce will be conducted for all the students at the end of the Second Semester in the
+department by the board of examiners constituted by the Geotechnical Engineering
+Section of Civil Engineering Department.
+GE-55 | P a ge
+
+--- Page 59 ---
+Syllabus: M.Tech. , Geotechnical Engineering NIT Agartala
+Third& Fourth Semester
+Class
+Sl. Hours
+Subject Credit Marks
+No. per
+Week
+Third Semester
+1 PCE23P01: Project & Thesis - I 10 ----- 100
+Fourth Semester
+1 PCE23P04: Project & Thesis - II 20 ----- 300
+Third Semester
+Project & Thesis
+(PCE23P01)
+Each student will devote full time in the Third Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a part of the Thesis/Project Report at the end of the
+Third Semester which will be evaluated by a Board of Examiners consisting of the
+Supervisor and External Examiner. The evaluation of the abovesaid Thesis will be
+followed by a viva-voce in front of faculty members and other post-graduate students.
+Fourt Semester
+Project & Thesis
+(PCE24P01)
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a Final Thesis/Project Report at the end of the Fourth
+Semester which will be evaluated by a Board of Examiners consisting of the Supervisor
+and External Examiner. The evaluation of the above said Thesis will be followed by a
+viva-voce in front of faculty members and other post-graduate students.
+* * * * *
+01/09/21
+GE-56 | P a ge

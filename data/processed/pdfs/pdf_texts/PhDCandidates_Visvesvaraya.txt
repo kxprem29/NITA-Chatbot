@@ -1,0 +1,21 @@
+
+--- Page 1 ---
+Details of students enrolled in Visvesvaraya PhD scheme Phase II
+Name of the Name of the
+Sl No. Photo Academic year Enrollment No. Supervisor Full/ Part time
+Candidate Department
+Beauty Dr. Sarat Kumar
+1. 2023-24 23EDECV001 ECE Full time
+Debbarma Patra
+2. 2023-24 23EDECV002 Soumen Maity ECE Dr. Manas Rakshit Full time
+Debalina Roy Dr. Goutam
+3. 2023-24 23EDECV003 ECE Full time
+Choudhury Kumar Gupta
+
+--- Page 2 ---
+Dr. Shikha
+4. 2023-24 23EDECV004 Swastika Das ECE Full time
+Maurya
+Dr. Somnath Roy
+5. 2024-25 24ODECV001 Dhiraj Das ECE Full time
+Choudhury

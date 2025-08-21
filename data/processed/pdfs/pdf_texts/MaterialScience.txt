@@ -1,0 +1,1590 @@
+
+--- Page 1 ---
+M. TECH. DEGREE IN
+MATERIAL SCIENCE AND ENGINEERING
+(Twinning Program in association with VNIT Nagpur)
+SYLLABUS
+FOR
+CREDIT BASEDCURRICULUM
+DEPARTMENT OF MECHANICALENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY
+AGARTALA – 799046, INDIA
+1
+
+--- Page 2 ---
+M.Tech. Material Science and Engineering (Syllabus Structure)
+(Twinning Program in association with VNIT Nagpur)
+I SEMESTER
+Sr. No. Course Code Course Name Type DC/DE Structure Credits
+1. Thermodynamics of Materials DC 3-1-0 4
+2. Structure & Characterization of Materials DC 3-1-0 4
+3. Polymer Engineering DC 3-1-0 4
+4. Ceramic Engineering DC 3-1-0 4
+5. Numerical methods and Applied Statistics DC 3-1-0 4
+6. Physical Metallurgy DC 3-1-0 4
+7. Structure & Characterization of Materials DC 0-0-3 2
+Lab
+8. Physical Metallurgy Lab DC 0-0-3 2
+Total credits 28
+II SEMESTER
+Sr. No. Course Code Course Name Type DC/DE Structure Credits
+1. Design & Selection of Materials DC 3-0-0 3
+2. Phase Transformation of Materials DC 3-0-0 3
+3. Comprehensive Viva 0-0-0 1
+Elective: (13 Credits): Choose any FOUR Courses
+Any ONE from the following (01 Theory + Practical): 4 Credit
+4. Non Destructive Evaluation DE 3-0-0 3
+Non Destructive Evaluation Lab DE 0-0-2 1
+5. Process Modeling and Simulation DE 3-0-0 3
+Process Modeling and Simulation Lab DE 0-0-2 1
+Any THREE courses from the following: 9 Credit
+6. Advance Composite Materials DE 3-0-0 3
+7. Powder Metallurgy DE 3-0-0 3
+8. Deformation Behavior of Materials DE 3-0-0 3
+9. Alloy & Special Steels DE 3-0-0 3
+10. Biomaterials DE 3-0-0 3
+11. Corrosion Process and Control DE 3-0-0 3
+2
+
+--- Page 3 ---
+12. Advanced Ceramics DE 3-0-0 3
+13. Failure Analysis of Engineering Materials DE 3-0-0 3
+14. Welding & Joining DE 3-0-0 3
+15. Defect in Crystalline Materials DE 3-0-0 3
+Total credits 20
+III SEMESTER
+Sr. No. Course Code Course Name Type DC/DE Structure Credits
+1 Project and Thesis – I DC - 12
+Total credits 12
+IV SEMESTER
+Sr. No. Course Code Course Name Type DC/DE Structure Credits
+1 Project and Thesis – II DC - 20
+Total credits 20
+*DC= Departmental core *DE=Departmental Elective
+TOTAL CREDIT: 80
+Note:
+1) M.Tech Material Science and Engineering is twinning program offered by
+NIT Agartala in association with VNIT Nagpur.
+2) Under this program, students will undergo first semester courses in NIT
+Agartala and second semester courses in VNIT Nagpur Campus.
+3) Students are permitted to carry out their M.Tech Project either in NIT
+Agartala or in VNIT Nagpur.
+3
+
+--- Page 4 ---
+Program Outcomes for M.Tech Material Science and Engineering Program
+Material Science and Engineering post graduate students will have an
+PO1: Ability to independently carry out research /investigation and development
+work to solve practical problems
+PO2: Ability to write and present a substantial technical report/document
+PO3: Ability to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the
+requirements in the appropriate bachelor program
+PO4: Ability to analyze and characterize the advanced engineering materials.
+PO5: Ability to select / develop / process advance engineering materials considering
+economic, environmental, and societal context with ethical considerations leading to
+sustainable development.
+PO6: Ability and competency to work in research and industrial sectors with
+multifaceted teams.
+Program Specific Outcomes
+PSO1: Ability to identify / analyze / interpret the attainment of properties in
+processing stages of materials.
+PSO2: Ability to develop new materials based on societal needs.
+4
+
+--- Page 5 ---
+FIRST SEMESTER
+THERMODYNAMICS OF MATERIALS
+Semester: 1st Credit: 4
+Course Name: Thermodynamics of Materials L T P 3 1 0
+Course Objectives:
+To provide knowledge on:
+1. Fundamentals of Materials Thermodynamics.
+2. Applications of metallurgical Thermodynamics concept.
+3. Thermodynamics of phase transformation and crystal defect formation.
+Syllabus Content
+Module 1:
+Introduction to Thermodynamics- different approaches, emphasis on metallurgical
+Thermodynamics.
+Module 2:
+Laws and related applications, concept of energy and entropy, criteria for spontaneity. Maxwell’s
+Relations and Clausius Clayperon Relations.
+Module 3:
+Introduction to solutions, solution model, regular and quasi chemical models, sub regular, cluster
+variation model, multi parameter models.
+Module 4:
+Statistical thermodynamics and multicomponent system, partial molar quantities, Gibbs-Duhem
+relations, thermodynamic aspects of metallic solutions and salt melts, Raoult’s and Henry’s Law.
+Module 5:
+Thermodynamic aspect of phase transformation, similarity in thermodynamic approach towards
+different classes of materials, thermodynamic aspect of defect formation in metals and ceramics.
+Text Books:
+i)Gaskell, david, R., Introduction to metallurgical Thermodynamics, McGraw Hilll.
+ii) Upadhayaya, G.S., and Dube, R. K..Problems in Metallurgical Thermodynamics and Kinetics,
+Pergamon.
+5
+
+--- Page 6 ---
+Reference Books:
+i) Darken, L.S., and Gurry, R. W., Physical chemistry of Metals, McGraw Hill
+ii) Thermodynamics of Solids by R ASwalin.
+Course Outcomes:
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Identify the concept of metallurgical thermodynamics. 1
+2 Apply the various postulates related to materials thermodynamics 2
+3 Develop the several types of solution model of metallic solutions 2, 3
+Understand the concept of statistical thermodynamics of metallic
+4 4
+solutions.
+Apply the thermodynamics aspect of phase transformation and defect
+5 5
+formation in materials.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 0 2 2 0 1 2 1
+CO-2 0 0 2 0 0 0 1 2
+CO-3 2 1 2 2 2 2 2 3
+CO-4 1 1 2 2 1 1 1 2
+CO-5 2 2 2 3 1 2 2 1
+6
+
+--- Page 7 ---
+STRUCTURE AND CHARACTERIZATION OF MATERIALS
+Semester: 1st Credit: 4
+Course Name: Structure and Characterization of Materials L T P 3 1 0
+Course Objectives:
+1. To impart a sound understanding of principles of different fusion welding processes.
+2. To understand the effect of welding parameters on weld quality.
+3. To study the importance of allied welding processes
+Syllabus Content
+Module 1:
+Basic crystallography & lattice structure
+Basic crystallography (Bravais lattices, importance of symmetry in crystallography, SC,BCC,
+FCC, HCP, CsCl, NaCl, DC and ZnS structure description, description of planes and directions
+and their representation),Ideal vs. real crystals, definition of microstructure. Defect structure-points
+defects and its equilibrium concentration, methods of producing point defects, dislocations – edge,
+screw and mixed. Volterra model of dislocation, Burgers vector, dislocation line, dislocations in
+BCC, FCC and HCP crystals, energy of dislocations, partial dislocations, slip systems in BCC,
+FCC and HCP, stress field of a screw dislocation. Random vs. structural dislocations. 2D defects,
+classification (surface, grain boundary, stacking faults, twin boundaries, anti-phase
+boundaries),interfaces (coherent and in-coherent), concept of terraces, ledges and kinks. Types of
+grains boundaries (low angle and high angle), types of twins.
+Module 2:
+Structure property correlations in materials.
+Importance of structure-property correlation in materials, structure sensitive /insensitive
+properties, introduction to materials characterization and its importance in materials
+engineering, levels of characterization (macro, meso and micro), concept of resolution and
+depth of field/focus in imaging, types of aberrations (spherical, chromatic, diffraction and
+astigmatism), remedial measures for aberrations. Optical microscopy (OM)–
+reflected/transmitted light microscopy, theoretical and practical resolution of an optical
+microscope, numerical aperture, principles of image formation, microscope construction and
+working, effective/empty magnification, different light sources, importance of stage design,
+capturing of image, flat field correction in OM, bright field, dark field, polarized light and
+phase contrast microscopy and applications of each in metallurgical and materials
+engineering, sample preparation for optical microscopy and limitations.
+Module 3:
+Scanning electron microscopy
+Advantages / disadvantages as compared to OM and other imaging techniques, mechanics of
+SEM, types of electron gun and comparison between them (interms of resolution, brightness,
+7
+
+--- Page 8 ---
+efficiency, cost, stability and applications), line diagram of SEM, its working and
+construction, concept of magnification as applied to SEM, electron-matter interaction,
+imaging modes (secondary and backscattered), effect of spot size, effect of apertures, effect of
+accelerating voltage on SEM imaging, signal detection (by using Everhart- Thornley,
+Robinson and solid state segmented detectors), atomic number and topological contrast,
+critical probe current, chemical analysis of phases using SEM (EDS/WDS working principle,
+construction and analysis, data acquisition modes – spot, line and area scans), resolution of
+EDS/WDS detector attached to SEM, advantages/disadvantages, working and calibration,
+qualitative and quantitative analysis.
+Module 4:
+X-ray diffraction
+Elastic and inelastic scattering, Bragg’s law, basic powder diffraction, generation of X-rays,
+characteristic X-ray spectrum, Moseley’s law, methods toremove Kb radiation, detectors,
+factors affecting the intensity of diffraction peaks (atomic scattering factor, structure factor,
+multiplicity, Lorentz factor, Polarization factor, absorption effects), derivation of diffraction
+conditions for SC, BCC and FCC Bravais lattice, phase identification using XRD.
+Module 5:
+Thermal analysis techniques
+Importance of thermal characterization techniques. Differential thermal analysis (DTA),
+differential scanning calorimetry (DSC) and thermogravimetric analysis (TG) analysis –
+working principle, differences, accuracy, sensitivity, calibration and applications (Tg, Tc, Tm
+determination, factors affecting them, crystallinity determination, quantification of moisture
+and decomposition products etc.).
+Module 6:
+Infrared spectroscopy
+Infrared spectroscopy (conventional and Fourier transform, working principles, differences,
+instrumentation and applications).
+Text Books:
+i. Richard Little, Welding and Welding Technology, McGraw Hill, (2001), 1st edition.
+ii. H Cary, Welding Technology, Prentice Hall, 1988, 2nd edition.
+iii. S V Nadkarni, Modern Arc Welding Technology, Ador Welding Limited, 2010, New
+Delhi.
+Reference Books:
+i. Welding handbook, American Welding Society, (1983), 7th edition, volume 1 & 2, USA
+ii. http://eagar.mit.edu/EagarPapers/Eagar138.pdf http://www.techno4india.com/arc.pdf
+8
+
+--- Page 9 ---
+Course Outcomes
+CO-No. Course Outcome(4 to6) Module
+Covered
+1 To describe and explain fundamental concepts of Basic crystallography
+1,2
+and structure
+2 To know the details about Microstructural characterization
+3
+techniques.
+3 Have an understanding of IR spectroscopic techniques
+4
+4 Be able to know about the Thermal characterization methods
+5
+5 To identify the process of application of each technique for selection 3,4,5
+of a characterization method for a particular application and its
+limitations.
+CO-PO Mapping (Rate: scaleof1 to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 3 2 1 2 2 3
+CO-2 2 2 1 3 2 3 3 2
+CO-3 3 2 2 3 2 3 3 2
+CO-4 2 3 2 3 2 3 3 2
+CO-5 3 2 3 3 3 3 2 2
+9
+
+--- Page 10 ---
+POLYMER ENGINEERING
+Semester: 1st Credit: 4
+Course Name: Polymer Engineering L T P 3 1 0
+Course Objectives:
+1) To learn polymer materials
+2) To learn classification of engineering polymers, different chain or molecule structures.
+3) To learn and study polymerizations mechanisms and kinetics, solid state properties of
+polymers, polymer viscoelasticity.
+4) To learn about polymer processing and engineering and specialty polymers.
+Syllabus Content
+Module 1:
+Introduction and classification of engineering polymers: Basic concept in polymers,
+thermoplastic, thermosetting and elastomers
+Module 2:
+Polymer chain structures: Linear, cross-linked, branched and network structures. Chemical
+aspect of polymerization: Addition, condensation and ionic polymerization.
+Module 3:
+Physical aspect of polymerization: Bulk, solution, suspension and emulsion polymerization.
+Morphology of polymers: amorphous and semi crystalline structure, polymer crystallinity,
+factors affecting on crystallization and glass transition temperature, methods used for
+determination of molecular weight, polymer viscosity ,mechanical and creep behavior of
+amorphous and semi crystalline polymer.
+Module 4:
+Polymer viscoelasticity: Simple rheological responses, Mechanical models for linear
+viscoelastic response-The Maxwell model, The Voigt model, the four-parameter model,
+material response time-Deborah number, Maxwell-Weichert model, Volgt-Kelvin model.
+Module 5:
+Polymer Processing: Extrusion, injection molding, blow molding, thermoforming, calendaring,
+spinning, compression molding and transfer molding. Engineering and specialty polymers:
+Structure, properties and application of polyamide, polyester, polycarbonate, polyurethane and
+conducting polymers.
+Text Books:
+10
+
+--- Page 11 ---
+i. Clegg D.W., Collyer A.A., Structure and properties of polymeric Materials, Mats, pubin.
+ii. Fried J.R., Polymer Science and Technology, Prentice Hall of India, New Delhi 2000.
+iii. William D., Callister J.R.,Material Science and Engineering, John Wiley and Sons,1997.
+iv. Dyswan R.W., Speciality Polymers, Chapman and hall,1987.
+Course Outcomes:
+At the end of this course, students will be able to understand
+Module
+CO-No. Course Outcome
+Covered
+1 Polymers, Classification of engineering polymers. 1
+2 Polymer chain structures. 2
+Different polymerization process and its thermodynamic and
+3 3, 4
+kinetic aspect.
+4 Solid state properties of polymers. 3
+5 Polymer viscoelasticity. 4
+6 Processing of Polymers, Engineering and specialty polymers. 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 2 3 2 3
+CO-2 3 3 2 2 3 3 3 2
+CO-3 2 3 3 3 3 3 3 3
+CO-4 3 2 3 3 3 3 3 3
+CO-5 3 3 2 3 3 2 2 3
+11
+
+--- Page 12 ---
+CERAMIC ENGINEERING
+Semester: 1st Credit: 4
+Course Name: Ceramic Engineering L T P 3 1 0
+Course Objectives:
+1. To provide overview of ceramic materials and its fabrication techniques.
+2. To provide overview on defects in ceramics, properties and its applications.
+Syllabus Content
+Module 1:
+Materials classification with special reference to ceramics. Classification of ceramics
+Module 2:
+Structures of ceramics - AX/AmXp/AmBnXp types.
+Module 3:
+Imperfections- Kroger Vink notations, Defect reactions
+Module 4:
+Processing, Powder synthesis techniques, Ceramic fabrication techniques- pressing, slip casting,
+tape casting, Isostatic pressing.
+Module 5:
+Characterization of ceramics - particle size and distribution, shape, surface area, porosity, phase.
+Module 6:
+Sintering- basics, stages and mechanisms in ceramics.
+Module 7:
+Physical, Electrical, Dielectric, Magnetic, Optical and Thermal Properties
+Module 8:
+Applications of Advanced ceramics.
+Text Books:
+i) Michel W. Barsoum, Fundamentals of Ceramics: 2nd Edition, CRC Press, 2020
+ii) C. Barry Carter, M. Grant Norton: Ceramic Materials Science and Engineering,
+Springer, 2007
+iii) David W. Richerson, William E. Lee, Modern Ceramic Engineering: Properties,
+Processing, and Use in Design: 4th Edition, CRC Press, 2018
+12
+
+--- Page 13 ---
+iv) W. David Kingery, H,K, Bowen and Donald R. Uhlmann, Introduction to Ceramics: 2nd
+Edition, 1976
+Course Outcomes
+At the end of this course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Classify ceramics and analyze the structure and imperfections of
+1,2,3
+ceramics
+2 Fabricate/identify the fabrication techniques of ceramics 4,6
+3 Characterize the ceramics / Outline the Properties and application 5,7,8
+4 Write and present a technical report on advanced ceramic materials 1-8
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2 2
+CO-2 3 3 3 2 3
+CO-3 3 2 2 2
+CO-4 3 3 2 2 2 2 2
+13
+
+--- Page 14 ---
+NUMERICAL METHODS AND APPLIED STATISTICS
+Semester: 1st Credit: 4
+Course Name: Numerical methods and Applied Statistics L T P 3 1 0
+Course Objectives:
+1) Estimation of errors and roots of polynomials and transcendental equations
+2) System of Linear algebraic equations, Curve fitting and solution of ODE and PDE
+3) Random Variables
+4) Special Distributions and Joint Distributions
+5) Correlation and Regression
+6) Sampling Theory, Estimation and Testing of Hypotheses
+Syllabus Content
+Module 1:
+Approximation, rounding-off error, significant error, Truncation error and Taylor series.
+Determination of roots using Newton-Raphson method, Secant and airstow’s method.
+Module 2:
+Gauss Elimination and Gauss seidel iteration method. Backward, Forward and central difference
+relations, Numerical differentiation and integration. Numerical solution of PDE using difference
+relation, solution ODE using Euler, modified Euler, Runge-Kutta and Predictor- Corrector method.
+Module 3:
+Basic idea about random variables, Expectation, mean, variance, moments, skewness and kurtosis,
+median, mode, quartiles, moment generating function, Characteristic function, covariance,
+Chebyshev’s inequality, Convergence in probability, Bernoulli’s limit theorem, Law of large
+numbers.
+Module 4:
+Uniform, Binomial, Geometric, Poisson, Exponential, Gamma, Normal distributions. Joint,
+marginal and conditional distributions, product moments, joint characteristic function.
+Module 5:
+Correlation coefficient, rank correlation, linear regression and curvilinear regression.
+Module 6:
+Random sample, concept of sampling and various types of sampling, sample and population.
+Sample characteristic and their computation, sampling distribution of statistic, Estimates of
+14
+
+--- Page 15 ---
+population characteristic or parameter. The Central Limit Theorem, Sampling distributions of the
+sample mean and the sample variance for a normal population, Chi-Square, t and F distributions.
+Point estimation and interval, estimation, criterion of a good point estimate, maximum likelihood
+estimate. Interval estimation of population proportion, interval estimation of a Normal population
+parameters, estimate of population parameters with large sample when distribution of the
+population is unknown, confidence intervals for the mean(s) and variance(s) of normal
+populations.
+Null and alternative hypotheses, the critical and acceptance regions, two types of error, power of
+the test, testing of hypothesis for a population proportion and Normal population parameters and
+large sample test for population with unknown distribution, Chi-square test of goodness of fit. The
+most powerful test and Neyman-Pearson Fundamental Lemma.
+Text Books:
+i) An Introduction to Numerical Methods and Analysis- James F. Epperson.
+ii) Fundamentals of Engineering Numerical Analysis- P. Moin.
+iii) Mathematical Statistics-Gupta and Kapur-Sultan Chand.
+Reference Books:
+i) Numerical Methods: Fundamentals and Applications- Rajesh Kumar Gupta.
+ii) An Introduction to Probability Theory and its Applications – W. Feller, Wiley; 3rd
+ed.
+iii) Ground Work of Mathematical Probability and Statistics-Amritabha Gupta,
+Academic Pub.
+iv) Introduction to Probability and Statistics for Engineers and Scientists- S. Ross,
+Academic Press.
+v) Statistical Methods,Vill-I and II-N.G.Das.
+vi) A First Course in Probability-S. Ross, Pearson Education India.
+vii) Introduction to Probability- C. M. Grinstead and J. L. Snell, Universities Press
+India.
+Course Outcomes
+At the end of this course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Estimation of errors and roots of polynomials and transcendental
+1
+equations
+2 System of Linear algebraic equations, Curve fitting and solution of
+2
+ODE and PDE
+3 Random Variables 3
+4 Special Distributions and Joint Distributions 4
+15
+
+--- Page 16 ---
+5 Correlation and Regression 5
+6 Sampling Theory, Estimation and Testing of Hypotheses 6
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 2 2 2
+CO-2 3 3 3 2 2
+CO-3 2 3 3
+CO-4 2 3 3
+CO-5 3 3 3 2 2
+16
+
+--- Page 17 ---
+PHYSICAL METALLURGY
+Semester: 1st Credit: 4
+Course Name: Physical Metallurgy L T P 3 0 1
+Course Objectives:
+1. To Learn about Crystalline nature of Metals.
+2. To learn and study phase diagrams.
+3. To study the effect of alloying elements in steels.
+4. To study Non-ferrous alloys and special Alloys
+Syllabus Content
+Module 1:
+Crystalline nature of Metals, Crystal lattice, unit cell, Miller indices, Crystal structures-BCC,
+FCC, SCP, Packing density, defects in Crystal, diffusion.
+Module 2:
+Alloys:-Binary phase diagram, solid solution, Hume- rothary rules, phase rules, intermettalic
+compounds, lever rule, binary diagram involving eutectic, eutecoid, peritectic reaction. Iron-Iron
+carbide diagram, classification of steels and diagram, critical temperatures ,TTT diagram, critical
+cooling rate, hardenability, measurement techniques, heat treatment such as
+annealing,normalizing,hardening,tempering,austempering,martempering
+Module 3:
+Alloys steels:-Effects of Alloying elements in general and in particular, Introduction to tool
+steels(Low alloy tool steels ,HCHC, HSS, OHNS, ball bearing steel ,alloy cast iron) Stainless
+steels- alloying elements and their purpose, Properties and applications.
+Module 4:
+Non- Ferrous alloys;- Structure, properties and applications of Cu – Zn alloys, braces,Cu-Sn
+alloys –Bronzes ,Al-Si alloys, age hardenable aluminum alloys etc.
+Module 5:
+Introduction to special alloys- super alloys, titanium alloys, silicon steels.
+Text Books:
+i) Raghavan, V. Phase transformations, Prentice Hall
+ii) Narula and Narula, Materials science and Technology
+17
+
+--- Page 18 ---
+Reference
+i) Dieter, G.E., Mechanical Metallurgy, McGraw Hill
+ii) Avener, Introduction to Physical Metallurgy
+iii) Physical Metallurgy principals, Reza Abbaschim, Lara Abbaschim
+Course Outcomes
+At the end of this course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Basic crystalline structure of the metals. 1
+2 Phases in metals and alloys and phase diagram of binary alloys. 2
+Phase diagram of Iron-Iron carbide system, its various phases,
+3 2
+microstructure of iron alloys, their properties and applications.
+4 Alloy steels and effect of alloying elements 3
+Non-ferrous alloys, their phase diagrams, their properties and
+5 4
+applications.
+6 Special Alloys 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 1 2 1
+CO-2 1 2 2 2 2 1
+CO-3 1 1 1 2 2 2 1
+CO-4 2 1 2 3 3 3 2 3
+3 3 3 3 3
+CO-5 1 2
+18
+
+--- Page 19 ---
+STRUCTURE AND CHARACTERIZATION OF MATERIALS LAB
+Semester: 1st Credit: 2
+Course Name: Structure and Characterization of Materials L T P 0 0 3
+Course Objectives:
+1) To learn the principles of material testing and characterization and to apply them for
+various Engineering applications.
+List of Experiments
+1. Optical microscopy: Study of metallurgical microscope and sample preparation,
+Microscopic examination of ferrous and nonferrous alloys
+2. Scanning Electron Microscopy (imaging): understanding the basic operational procedure of
+SEM. Specimen mounting, inspection and analysis. Fractography using SEM
+3. Chemical analysis using scanning electron microscopy (EDS)
+4. Phase identification using X-ray Diffraction
+5. Determination of Crystallize / Grain Size and Lattice Strain using XRD
+6. Determination of onset of glass transition, crystallization and melting temperature using
+DTA.
+7. Identification and purity determination using DSC
+8. Quantification of crystalline percentage of a polymer using DSC
+9. Identification of polymer using FTIR.
+Text Books:
+1. L. Yang, Materials Characterization: Introduction to microscopic and spectroscopic
+method, Wiley.
+2. Goodhew, Humphreys and Beanland, Electron Microscopy and Microanalysis,
+Taylor and Francis.
+Course Outcomes
+At the end of this course, students will be able to
+CO-No. Course Outcome
+1 Understand about basic crystallography
+Perform microstructural characterization based on hands on experience.
+2
+Perform thermal characterization based on hands on experience.
+3
+19
+
+--- Page 20 ---
+4 Analyze and understand the limitation of characterization techniques.
+Understand the proper procedure for selection of a characterization method for a
+5
+particular application and perform the analysis
+CO-PO Mapping (Rate: scaleof1 to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 3 2 1 2 2 3
+CO-2 2 2 1 3 2 3 3 2
+CO-3 3 2 2 3 2 3 3 2
+CO-4 2 3 2 3 2 3 3 2
+CO-5 3 2 3 3 3 3 2 2
+20
+
+--- Page 21 ---
+PHYSICAL METALLURGY LAB
+Semester: 1st Credit: 4
+Course Name: Physical Metallurgy Lab L T P 0 0 1
+Course Objectives:
+1. To Learn about Crystalline nature of Metals.
+2. To learn and study phase diagrams.
+3. To study the effect of alloying elements in steels.
+4. To study Non-ferrous alloys and special Alloys
+List of Experiments
+1. Study of equipment’s used in the lab.
+2. Sample preparations for optical microscopy.
+3. Observe microstructure of a few steels.
+4. Observe microstructure of few cast irons.
+5. Observe microstructure of a few non-ferrous alloys.
+6. Demonstration of Jominy hardenability Test.
+7. Observe microstructure of a few hardened and tempered low alloy steels.
+8. Observe microstructure of a few hardened and tempered tool steels
+Course Outcomes
+Experiment
+CO-No. Course Outcome
+Covered
+1 Basic crystalline structure of the metals. 1,2
+2 Phases in metals and alloys and phase diagram of binary alloys. 3
+3 Phase diagram of Iron-Iron carbide system, its various phases,
+4,5
+microstructure of iron alloys, their properties and applications
+4 Alloy steels and effect of alloying elements 6,7
+5 Non-ferrous alloys, their phase diagrams, their properties and
+8
+applications.
+21
+
+--- Page 22 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 2
+CO-2 3 3 2
+CO-3 3 3 2 2 2 3 3
+CO-4 3 3 3 2 3 3 3
+CO-5 3 3 3 2 3 3 3
+22
+
+--- Page 23 ---
+SECOND SEMESTER
+DESIGN AND SELECTION OF MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Design and Selection of Materials L T P 3 0 0
+Course Objectives:
+1. To inculcate knowledge on selection of materials based on required properties for
+design
+Syllabus Content
+Module 1:
+Introduction to Material Selection and design
+Module 2:
+Engineering properties of Materials. Factors and property parameters in material selection.
+Module 3:
+Material selection vis – a – vis design, Material selection for strength and stiffness, Material
+selection and design for toughness and fatigue
+Module 4:
+Material selection for creep and wear, Material selection criteria and case studies.
+Text Books:
+i. Charles J.A.; Crane FAA, Furness JAG; Selection & Use of Engineering Materials;
+Butterworth & Heinemann,
+ii. Dieter G.E.; Mechanical Metallurgy; McGraw Hill, 1988.
+iii. Ashby M.F., Jones D.R.; Engineering Materials; Pergamon Press, 1992.
+iv. Askeland DR : Engineering Materials
+v. ASM Handbook : Vol.20: Material Selection : ASM
+
+--- Page 24 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Select materials based on service conditions and based on strength
+1 1,2,3
+and stiffness requirement
+Select materials considering the creep, fatigue and fracture
+2 3,4
+toughness requirement
+Analyze and solve numerical related to design for fracture toughness,
+3 3,4
+fatigue and creep life estimation.
+4 Analyze wear and select materials for different wear conditions. 4
+Write and present a technical report on design and selection of
+5 1-4
+materials
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 2
+CO-2 3 2 2
+CO-3 3 3 2 2 2
+CO-4 3 2 2 2 2
+CO-5 3 3 2 2 2 2 2
+
+--- Page 25 ---
+PHASE TRANSFORMATION OF MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Phase Transformation of Materials L T P 3 0 0
+Course Objectives:
+1. Phase transformation studies on steels, nonferrous alloys and other materials systems.
+2. Kinetics of phase transformationsand applications
+Syllabus Content
+Module 1:
+Phase diagram, free energy, composition diagram, kinetics of phase transformation, diffusion
+process mechanism Fick’s, law solutions, kirkendall effect, diffusion in alloys, and other
+materials problems,
+Module 2:
+Mechanism of phase transformation, nucleation and growth, homogenous and heterogeneous
+transformation.
+Module 3:
+Transformation behavior in steel- isothermal and diffusion less transformation, structure of
+interfaces, precipitation and strengthening mechanism problems
+Module 4:
+Studies on typical transformation in steels, non ferrous alloys and other materials systems
+Module 5:
+Studies on order-disorder transformation, spinodal decomposition, massive transformation,
+higher order transformation.
+Text Books:
+i. Introduction to Materials Thermodynamics - D. R. Gaskell
+ii. Kinetics of metallurgical processes – H. S. Ray
+iii. Phase transformation in metals and alloys - Porter and Easterling
+iv. Solid state phase transformation – V. Raghavan
+v. Diffusion in solids – P. G. Shewmon
+vi. Physical metallurgy principles - R. Reed-Hill
+
+--- Page 26 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Analyze and Interpret the phase transformation in steels, nonferrous
+1 4,5
+alloys and other materials.
+2 Analysis the kinetics of Phase transformation 1,2,3
+Prepare and present a technical report on Phase Transformation in
+3 1-5
+ferrous / nonferrous metals or alloys.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 2 3 2
+CO-2 2 2 2 2 2 2
+CO-3 3 3 2 2 2
+
+--- Page 27 ---
+COMPREHENSIVE VIVA
+Semester: 2nd Credit: 2
+Course Name: Comprehensive Viva L T P 0 0 0
+Course Objectives:
+1. To assess the overall knowledge of the student in the field of Material Science and
+Engineering acquired over one year of study in post graduate program.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+Comprehend any given problem / concept related to material science and
+1
+engineering domain.
+Recall, recognize, visualize, demonstrate, criticize and appraise the concepts
+2
+related to material science and engineering domain.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 2
+CO-2 3 3
+
+--- Page 28 ---
+ELECTIVES
+NON DESTRUCTIVE EVALUATION
+Semester: 2nd Credit: 3
+Course Name: Non Destructive Evaluation L T P 3 0 0
+Course Objectives:
+1. To impart knowledge to the students on non destructive evaluation methods.
+2. To impart the principles and limitation of non destructive evaluation techniques.
+Syllabus Content
+Module 1:
+Introduction and scope of non-destructive testing and evaluation (NDT/NDE) methods.
+Visual examination, principles and equipment’s, optical aids. Liquid penetrant testing:,
+principle, procedure, penetrant materials and methods, applications. Principles of magnetic
+particle testing, procedures and equipment's for MPT, magnetic field testing; limitations of
+MP methods, electromagnetic testing for residual stress measurement. Eddy current testing,
+principle and instrumentation, techniques like high sensitivity, multifrequency, high area,
+pulsed ECT, inspection of ferro-magnetic material, application and limitation ECT.
+Module 2:
+Radiographic inspection, principle, radiation sources, radiation attenuation's; film effect.
+Radiographic imaging, Imaging techniques: single wall, double wall, penetration, single
+image etc., applications and case studies; limitations. Ultrasonic Testing, case studies,
+limitations.Special / advanced techniques of NDE /AET, thermography, replica microscopy
+(in situ). Leak testing, remote field ECT, microwave inspection, topography, holography.
+Module 3:
+Criteria for selection of NDT methods and instruments related to metallurgical processes /
+defect in cast ,forged and rolled, heat treated and fabricated items (one case study for each
+category), reliability in NDT. Statistical method & quality control in NDT codes and standard
+specifications.
+Text Books:
+i. Baldev Raj & T. Jayakumar ; Practical Non-destructive Testing; Nanda Publishers,
+1997.
+ii. RaviPraksh: Non Destructive Testing Technique
+iii. Paul E. Mix : Introduction to nondestructive testing
+iv. ASM Handbook Volume 17: Non destructive Evaluation and Quality control.
+v. J. Blitz: Electrical and Magnetic methods of Nondestructive testing
+vi. B.P.C. Rao: Practical Eddy Current Testing
+
+--- Page 29 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Identify and select the techniques suitable for detecting the flaws in
+1 the engineering components based on knowledge of the principles 3
+and limitations of non destructive evaluation techniques.
+2 Perform non-destructive testing on engineering components 2
+3 Evaluate and interpret the defects using various NDE techniques. 2
+Prepare and present a technical/ evaluation report based on non
+4 1,2,3
+destructive evaluation in components.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2
+CO-2 2 3 2 2
+CO-3 3 3 2 2 2
+CO-4 3 3 2
+
+--- Page 30 ---
+NON DESTRUCTIVE EVALUATION LABORATORY
+Semester: 2nd Credit: 1
+Course Name: Non Destructive Evaluation Laboratory L T P 0 0 2
+Course Objectives:
+1. To provide hands on experience on handling non destructive testing kits
+2. To provide practical skills on non-destructive testing of materials.
+Syllabus Content
+Exp 1: Study of ultrasonic testing equipments used in lab
+Exp 2: Calibration of UT equipments
+Exp 3: Flow detection by UT equipments
+Exp 4: Study of Eddy Current testing equipments
+Exp 5: Sorting of material by eddy current testing
+Exp 6: Determination of electrical conducting by NDT techniques
+Exp 7: Flaw detection by magnetic particle inspection
+Exp 8: Flaw detection by liquid (Dye) penetrate test.
+Course Outcomes
+At the end of the course, students will be able to
+Exp
+CO-No. Course Outcome
+Covered
+1 Inspect and calibrate Ultrasonic Testing equipments 1,2
+Detect flaws using Ultra Testing equipments and interpret the
+2 3
+features of defects
+3 Sorting of materials using eddy current testing techniques. 4,5
+4 Determine the electrical conductivity by NDT techniques 6
+5 Detect flaws by magnetic particle inspection and dye peneterate test 7,8
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2
+CO-2 3 2 3 2 2
+CO-3 2 3 2 2
+CO-4 3 2 3 2
+CO-5 3 3 2 2
+
+--- Page 31 ---
+PROCESS MODELING AND SIMULATION
+Semester: 2nd Credit: 3
+Course Name: Process Modeling and Simulation L T P 3 0 0
+Course Objectives:
+1. Provide knowledge to the students on physical and mathematical modeling and
+simulation of metallurgical processes.
+Syllabus Content
+Module 1:
+Essence of Modeling of Metallurgical Processes. Introduction to Simulation and its
+Importance in Engineering
+Module 2:
+Analysis of Transport Processes and their Application in Modeling. System Analysis
+Module 3:
+Development of Mathematical Model and Algorithm for Simulation, Presentation of
+Simulation Results.
+Module 4:
+Physical Modeling and its Importance in Engineering Studies.
+Module 5:
+Case Studies on Modeling and Simulation of some Metallurgical Processes e.g. Melting of
+Scrap, Refining of Melt, Solidification, Re-heating, Heat Treatment, Fluid Flow in
+Laddle,Tundish etc.
+Text Books:
+i. DipakMazumdar, James W Evans, Modelling of Steelmaking Processes, CRC Press,
+2010.
+ii. S. Pal, A. Patra, Process Modeling for Steel Industry, I K International Publishing
+House Pvt. Ltd., 2018.
+iii. Hangos K M and Cameroon IT: Process Modeling and Model Analysis, Academic
+Press, London, 2001.
+iv. G. K. Lal, Modelling Techniques for Metal Forming Processes, Narosa Publishing
+House, 2011.
+v. Blast Furnace Phenomena and Modelling, The Iron and Steel Institute of Japan,
+Springer, 1987.
+vi. Peter Hartley, Ian Pillinger, Numerical Modelling of Material Deformation Processes:
+Research, Development and Applications, Springer, 2012.
+vii. John G. Lenard, Modelling Hot Deformation of Steels: An Approach to
+Understanding and Behaviour, Springer, 1989.
+
+--- Page 32 ---
+viii. Patankar S. V., Numerical Heat Transfer and Fluid Flow, Hemisphere.Washington.
+DC, 1980.
+ix. Nastac, L., Pericleous, K., SABAU, A., Zhang, L., Thomas, B., CFD Modeling and
+Simulation in Materials Processing, 2018.
+x. SeshadriSeetharaman, Treatise on Process Metallurgy, Volume 3: Industrial
+Processes, Elsevier, 2013.
+xi. Relevant journal articles from published literature.
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Perform analysis of transport processes and its application in
+1 1,2
+modeling.
+2 Perform system analysis. 1,2
+Develop Mathematical model and simulate metallurgical process
+3 3
+and present simulation results
+4 Develop physical models for metallurgical processes. 4
+Undergo case studies on modeling and simulation of metallurgical
+5 5
+processes and submit it as a technical report
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 2 2
+CO-2 3 3 2 2
+CO-3 3 3 3 3
+CO-4 3 3 3
+CO-5 3 3 3 2 2 2
+
+--- Page 33 ---
+PROCESS MODELING AND SIMULATION LAB
+Semester: 2nd Credit: 1
+Course Name: Process Modeling and Simulation Lab L T P 0 0 2
+Course Objectives:
+1. To provide hands on experience on handling non destructive testing kits
+2. To provide practical skills on non destructive testing of materials.
+Syllabus Content
+Exp 1: Study the use of commercial fluid dynamics software like Ansys Fluent.
+Exp 2: Introduction of programming in Matlab, C++ etc software.
+Exp 3: Study 2D Simulation of Metallurgical Processes.
+Exp 4: Study 3D Simulation of Metallurgical Processes.
+Exp 5: Observation of several Physical Models and find out the change of parameters like
+flow rate, composition, temperature, particle size, concentration, pressure, gas/liquid/solid
+flow rate, stirring speed, current density, etc on the efficiency or effect to the process.
+Exp 6: Student will develop new innovative process for iron and steelmaking as well as will
+able to develop small scale innovative non ferrous metallurgical treatments. They will study it
+by CFD software. In some cases they will use physical model also to study the innovations.
+Exp 7: Study and Use of Thermo-Calc Software.
+Exp 8: Industrial Visit.
+Text Books
+i. Dipak Mazumdar, James W Evans, Modelling of Steelmaking Processes, CRC Press,
+2010.
+ii. S. Pal, A. Patra, Process Modeling for Steel Industry, I K International Publishing
+House Pvt. Ltd., 2018.
+iii. Hangos K M and Cameroon IT: Process Modeling and Model Analysis, Academic
+Press, London, 2001.
+iv. 4.G. K. Lal, Modelling Techniques for Metal Forming Processes, Narosa Publishing
+House, 2011.
+v. Blast Furnace Phenomena and Modelling, The Iron and Steel Institute of Japan,
+Springer, 1987.
+vi. Peter Hartley, Ian Pillinger, Numerical Modelling of Material Deformation Processes:
+Research, Development and Applications, Springer, 2012.
+vii. John G. Lenard, Modelling Hot Deformation of Steels: An Approach to
+Understanding and Behaviour, Springer, 1989.
+viii. Patankar S. V., Numerical Heat Transfer and Fluid Flow, Hemisphere.Washington.
+DC, 1980.
+ix. Nastic, L., Pericleous, K., SABAU, A., Zhang, L., Thomas, B., CFD Modeling and
+Simulation in Materials Processing, 2018.
+x. SeshadriSeetharaman, Treatise on Process Metallurgy, Volume 3: Industrial
+Processes, Elsevier, 2013.
+
+--- Page 34 ---
+Course Outcomes
+At the end of the course, students will be able to
+Exp
+CO-No. Course Outcome (4 to 6)
+Covered
+Perform Modeling and simulation on metallurgical processesusing
+1 1,2,7
+advanced computing tools
+2 Perform 2D and 3D simulation of metallurgical processes 3,4
+Evaluate the influence of process parameters with respect to physical
+3 5
+models on efficiency/effect to the process
+Develop new innovative process on iron and steel making/non
+4 ferrous metallurgical treatments. Develop physical models and 6
+perform CFD analysis
+Apply neural network and genetic algorithm in iron and steel
+5 7
+making.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 2 2 2
+CO-2 3 3 2 2 2
+CO-3 3 3 3 2 2 2
+CO-4 3 3 2 2
+CO-5 3 3 2 2
+
+--- Page 35 ---
+ADVANCE COMPOSITE MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Advance Composite Materials L T P 3 0 0
+Course Objectives:
+1. Provide knowledge on advanced composite materials, its properties and application.
+2. Provide knowledge on fabrication techniques of composite materials.
+Syllabus Content
+Module 1:
+Introduction, concept and definition of composite materials, classification, advantages and
+limitations, scope and applications of composite materials
+Module 2:
+Study of parameters like composite matrix, reinforcing materials with respect to their
+structure, properties and manufacturing methods.
+Module 3:
+Manufacturing techniques of composites such as vacuum bagging, filament winding, resin
+transfer, pultrusion, CVD, PVD etc.
+Module 4:
+Study of structural, thermal, mechanical, physical, chemical and environmental
+characterization of composites and also their respective properties.
+Module 5:
+Application and degradation of composites
+Module 6:
+Study of natural composites and laminates
+Text Books:
+i. Matthews F.L ; Composite Materials Engg. & Science; Chapman & Hall, 1996.
+ii. Composites-ASM Vol.I (10th Edition), ASM Internationals, 1995.
+iii. Holliday L.; Composite Materials; Elseveis Publishing Co.; 1966.
+iv. Chawala C.K., Composite Materials; Springer Publishing Co., 1987
+v. Prasad R.C. & P. Ramakrishnan, Composite Science & Technology; New Age
+International, 2000.
+
+--- Page 36 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Analyze the influence of matrix, reinforcements on structure,
+1 1,2
+properties and manufacturing methods of composites.
+Identify the suitable composite fabrication techniques for
+2 3
+manufacturing composites
+Develop and characterize the physical, thermal and mechanical and
+3 4
+environmental properties of composite materials.
+Present a technical seminar on advance composite materials and its
+4 1-5
+applications
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3
+CO-2 3 3 3
+CO-3 3 3 2 3 3 3
+CO-4 3 3
+
+--- Page 37 ---
+POWDER METALLURGY
+Semester: 2nd Credit: 3
+Course Name: Powder Metallurgy L T P 3 0 0
+Course Objectives:
+1. To provide knowledge of powder production techniques to students.
+2. To provide knowledge on powder compaction and sintering techniques.
+Syllabus Content
+Module 1:
+Status of PM industries in India, advantages / disadvantages of PM techniques.
+Module 2:
+Powder production involved by comminution of solid metals like machining, crushing,
+milling etc. Powder production by pulverising molten metals, Physical methods of powder
+production, Chemical process of producing powder
+Module 3:
+Powder Characterization &Treatments: Thermal and mechanical treatments given to
+powders. Testing and evaluation of following characteristics of powder - particle size, shape
+& size distributions, surface topography, surface area, shape factors, apparent and tap density;
+mass and volume flow rates, compressibility and compression ratio etc.
+Module 4:
+Compaction techniques -Pressures and pressure - less compaction methods, die compaction
+(single / double / multiple action); reflex action, rotary compaction; isostatic compaction;
+rolling / forging / extrusion as techniques of compaction; vibratory compaction, continuos
+compaction; high energy rate following techniques; slip casting, green compact density,
+laminations and their control, hot pressing, explosive compaction.
+Module 5:
+Sintering, Powder Metallurgy Applications
+Text Books:
+i. Khanna A.K.; Powder Metallurgy.
+
+--- Page 38 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Understand and identify powder production techniques based on
+1 1,2
+need.
+2 Characterize and treat powder 3
+3 Compaction and consolidation based on principles learnt 4
+4 Analyzing mechanism involved in sintering process 5
+Prepare and present a technical seminar based on current trends in
+5 1-5
+powder metallurgy
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1
+Outcome
+CO-1 2 2 2 2
+CO-2 2 3 2 2
+CO-3 2 3 2 2
+CO-4 3 3 2 2
+CO-5 3
+
+--- Page 39 ---
+DEFORMATION BEHAVIOR OF MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Deformation Behavior of Materials L T P 3 0 0
+Course Objectives:
+1. To impart knowledge on elastic and plastic of materials
+Syllabus Content
+Module 1:
+Elastic and Plastic behaviour of Materials, Engineering Stress – strain curve.flow curve,
+Important relations of flow curve. Concept of stress and strain in two dimensions. Principal
+stresses, Mohr’s circle, Yield Criteria.
+Module 2:
+Mechanistic models for elastic, plastic and time-dependant deformation, phenomenological
+description of plastic deformation in metals – slip, twinning, stacking faults etc. ,
+strengthening mechanisms, deformation modes and mechanisms for polymeric and ceramic
+materials.
+Module 3:
+Fatigue of engineering materials, S-N Curve, Characteristics of fatigue fracture, Evaluation of
+fatigue behavior, mechanical and metallurgical aspects of fatigue life. High temperature
+deformation of materials, creep, analysis of creep curve, structural changes during creep,
+deformation mechanism maps.
+Module 4:
+Fracture of materials, types, effect of notch, structure and temperature, concept of toughness
+and fracture toughness, preliminary concept of LEFM and PYFM, strain energy release rate,
+stress intensity factors, Fracture toughness, and design.
+Module 5:
+Toughening mechanisms in various materials.
+Text Books:
+i. Mechanical Metallurgy, G. E. Dieter
+ii. Mechanical Behavior of Materials, T.H. Courtney
+iii. ASM Handbook Vol. 14.; Forming & Forging, ASTM
+
+--- Page 40 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Appreciate and understand the phenomenon of elastic deformation 1
+2 Analyze stress and strain at any point 1
+Understand the significance of empirical tools like yield criteria and
+3 1, 2
+their application
+Understandthe phenomena occurring during plastic deformation of
+4 3, 4
+metals/alloys
+5 Co-relate the structure-property-co relationship during deformation 4, 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 - - 3 3
+CO-2 3 - 3 3 3
+CO-3 2 - 2 2
+CO-4 2 - 2 3
+CO-5 3 - 3 3
+
+--- Page 41 ---
+ALLOY AND SPECIAL STEELS
+Semester: 2nd Credit: 3
+Course Name: Alloy and Special Steels L T P 3 0 0
+Course Objectives:
+1. To provide knowledge on phase diagram on alloy steels
+2. To provide knowledge on physical metallurgical aspects of alloy steel.
+Syllabus Content
+Module 1:
+Classification and Specification of Alloy Steels. Effect of Alloying Elements on the
+Constitution, Structure and Properties of Steels.
+Module 2:
+Study of Phase Diagrams of Fe with Commonly used Alloying Elements. Low Alloy
+Structural and Engineering Steels, High Strength Low Alloy Steels, Dual Phase Steels.
+Module 3:
+Alloy Tool Steels, Classification, Fundamental Properties, Role of Alloying Elements,
+Various Carbides. Detailed Study of High Speed Steels, High Carbon High Chromium Steels,
+Selection of Tool Steels.Stainless and Heat Resistant Steels – Classification and
+Specifications.
+Module 4:
+Constituents Phase Diagrams, Precipitation Hardenable Steels.Maraging Steels – Special
+Properties, Alloying Elements, Heat Treatment and Applications.
+Module 5:
+Magnetic Steel, Classification, Heat Treatment Properties and Applications. Spring Steels
+Processing and Heat Treatment.
+Text Books:
+i. Physical Metallurgy, S. Avner
+ii. Physical Metallurgy Principles- R. Reed-Hill
+iii. Physical Metallurgy of Stainless Steel- F.B Pickering
+
+--- Page 42 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Interpret the phase diagrams of alloy steels 1,2
+Interpret the properties based on physical metallurgical aspects of
+2 3
+alloy steel
+Analyze and interpret the micro structural changes during heat
+3 4,5
+treatment of different alloy steels
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3 3
+
+--- Page 43 ---
+BIO MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Bio Materials L T P 3 0 0
+Course Objectives:
+1. To impart knowledge on various types of Biomaterials and its applications
+Syllabus Content
+Module 1:
+Introduction- Classification-General Characteristics-Structure & Properties of Materials-
+Relevance – Crystal/Molecular Structure-Imperfections-Phase Diagrams.
+Module 2:
+Implant Materials-Metallic, Ceramic, Polymer, Composite
+Module 3:
+Characterization of Biomaterials-Mechanical, Chemical, Thermal, etc.Structural evolution of
+biocompatibility with reference to corrosion. Structural property correlation
+Module 4:
+Application of Biomaterials-Orthopaedic, Dentistry, Cardiac Devices, etc.Tissue
+Engineering- Soft Biomaterials
+Module 5:
+Case Studies, Proliferation of Biomaterials for development of Medical Technology &
+mankind.
+Text Books:
+i. Biomaterials- Sujata Bhat
+ii. Handbook of Materials Behaviour Models, Vol.3- Multiphase Behaviour
+iii. Biomaterials- Artificial organs & Tissue Engineering (Handbook)
+iv. Science & Engineering of Materials- D.R. Askeland
+v. Light Alloys- Polmear
+
+--- Page 44 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Understand broad outline on bio materials 1,2
+2 Characterize biomaterials based on knowledge learnt 3
+3 Understand the aspects of tissue engineering 4
+Write/ present technical presentation based on case study / literature
+4 5
+review
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2
+CO-2 2 3 3
+CO-3 2 3
+CO-4 3
+
+--- Page 45 ---
+CORROSION PROCESS AND CONTROL
+Semester: 2nd Credit: 3
+Course Name: Corrosion Process and Control L T P 3 0 0
+Course Objectives:
+1. To provide students importance of corrosion studies.
+2. To provide students better understanding on different forms of corrosion and its
+protection methods.
+Syllabus Content
+Module 1:
+Introduction to corrosion with historic and industrial cases, cost of corrosion, importance of
+corrosion studies, Thermodynamic aspect of corrosion reaction, Nerst equation, basic wet
+corrosion, electrode potential, potential Ph diagram, kinetics of corrosion reactions, Butler-
+Volmer equation, mixed potential theory, immunity, problems based on the theory.
+Module 2:
+Types of corrosion-recognition and mechanisms- uniform corrosion-galvanic-pitting,
+dealloying-crevice corrosion-intergranular corrosion-filiform corrosion- impingement attack-
+cavitation-fretting-corrosion cracking process.
+Module 3:
+Corrosion measurements-methods of measurement of corrosion based on study of various
+ASTM standards for corrosion-weight loss-electrochemical-electrical-thickness.
+Module 4:
+Corrosion protection-principles of different methods of corrosion protection, anodic
+protection, cathodic protection-protective coatings.
+Text Books:
+i. Rajnarayan, An introduction to metallic corrosion and its prevention, New Delhi,
+Oxford & India Bank House-1983.
+ii. Banerjee S. N., An introduction to Science of Corrosion & its inhibition, 1983.
+iii. Fontana M.G. Green N.D., Corrosion Engineering , New York, McGraw Hill
+Publication
+iv. Uhlig H.H, Corrosion Handbook (ASM) Vol.3.01
+
+--- Page 46 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Analyze the corrosion process and identify the type of corrosion. 1, 2
+2 Evaluate the corrosion based on ASTM standard 3
+3 Analyze the kinetics of electrochemical corrosion 3
+Suggest appropriate corrosion protection techniques based on
+4 4
+principle understanding
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2
+CO-2 2 3 2 2
+CO-3 3 2 2
+CO-4 3
+
+--- Page 47 ---
+ADVANCED CERAMICS
+Semester: 2nd Credit: 3
+Course Name: Advanced Ceramics L T P 3 0 0
+Course Objectives:
+1. To provide overview of advanced ceramic materials and its fabrication techniques.
+2. To provide overview on processing of functional ceramics.
+Syllabus Content
+Module 1:
+Background, Classification – Traditional v/s advanced ceramics, Spectrum of applications.
+Module 2:
+Novel processing techniques – Powder synthesis routes, consolidation/shaping techniques,
+advanced sintering techniques (Spark plasma sintering, microwave sintering), thin films.
+Module 3:
+Processing and properties of advanced ceramics – Oxide Ceramics - alumina, zirconia,
+titania, ceria Non-Oxide Ceramics - silicon carbide, silicon nitride.
+Module 4:
+Materials, structure, processing of functional ceramics: Electro ceramics, Bioceramics, Ultra-
+high temperature ceramics, Magnetic ceramics.
+Module 5:
+Glass ceramics – Synthesis, Processing, applications.
+Text Books:
+i. Modern ceramic engineering, Taylor and Francis, D.W. Richerson
+ii. Ceramic materials, B. Carter and G. Norton
+iii. Sintering theory and practice, R.M. German
+iv. Powder metallurgy and particulate materials processing, R.M. German.
+
+--- Page 48 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Fabricate/identify the novel techniques of processing powder,
+1 1,2
+consolidation and sintering
+2 Process oxide and non-oxide ceramics based on knowledge learnt 3
+3 Process functional ceramics / glass ceramics 4,5
+4 Prepare and present with respect to advanced cermics 1-5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2
+CO-2 3 2 2
+CO-3 3 2 2
+CO-4 3 3
+
+--- Page 49 ---
+FAILURE ANALYSIS OF ENGINEERING MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Failure Analysis of Engineering Materials L T P 3 0 0
+Course Objectives:
+1. To provide knowledge on techniques of failure analysis
+2. To provide knowledge on failure analysis associated with metallurgical parameters.
+Syllabus Content
+Module 1:
+Techniques of failure analysis Stage of analysis, procedural sequence, collection of
+background data, classification of various failure needs, preparation of questionnaire, review
+of mechanical testing methods used in failure analysis, review of NDT method and their
+application in failure analysis
+Module 2:
+Classification of fatigue and fracture modes, fractography and preparation of samples for
+fractography. Distortion failure, residual stress in engineering components, ductile and brittle
+fractures, fatigue fractures, Fundamentals of fracture mechanics; Casting / Welding related
+failures, Metallurgical failure in cast products and weldments ,Corrosion related failures.
+Practical examples and case studies, Elevated temperature failures. Creep Mechanism,
+Elevated temperature fatigue, Thermal fatigue, Metallurgical Instabilities, Environmentally
+induced failures.
+Module 3:
+Wearrelated failure: Wear types, Contact stress fatigue prevention methods. Subsurface
+origin and surface origin fatigue; Sub-case origin, cavitation fatigue, Case Studies on :
+(Metallurgical aspects) Failure of Shaft, bearings etc ,Failure of Mechanical fasteners ,Failure
+in Pressure vessels, Failure in Welded structure, Failure of gears, Advanced experimental
+techniques in failure analysis.
+Text Books:
+i. Bob Ross; Investigating Mechanical Failures; Chapman & Hall (1st Edition), 1995.
+ii. Wulpi D.J; Understanding How Components Fail; (2nd Edition), 1999.
+iii. Collins J.S.; Failure of Materials in Mechanical Design; A Wiley Interscience
+Publications, (2nd Edition), 1993.
+iv. ASM; Failure Analysis; the British Engine Technical Reports, 1981.
+
+--- Page 50 ---
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Perform failure analysis based on procedure stated 1
+2 Perform failure analysis associated with metallurgical parameters 2
+3 Perform analysis on wear related failures 3
+Perform failure analysis on pressure vessels, welded structure,etc.
+4 1-3
+and submit report
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2
+CO-2 3 2 2
+CO-3 3 2
+CO-4 3 2
+
+--- Page 51 ---
+WELDING AND JOINING
+Semester: 2nd Credit: 3
+Course Name: Welding and Joining L T P 3 0 0
+Course Objectives:
+1. To provide basic knowledge on materials joining to the students.
+2. To provide knowledge on welding metallurgy, welding defects, etc.
+Syllabus Content
+Module 1:
+Introduction to welding and joining, classification of welding processes on the basis of
+technological factors, welding and allied processes, power density and welding processes
+etc. Soldering and Brazing: Principle, advantages, limitations, tools, types of solder,
+soldering techniques. Adhesive bonding: Principle, surface preparation and curing, methods
+of application, types, failure etc.
+Module 2:
+Physics of welding arc: welding arc and electron emission mechanism, zones in welding arc,
+electrical fundamentals of welding arc, arc initiation, arc characteristics, temperature of the
+arc, arc forces and their significance on welding, effect of electrode polarity, cleaning action,
+arc efficiency, mode of metal transfer-globular, short circuit, spray and dip transfer.
+Module 3:
+Scope, working principle, process parameters, electrode/consumables, shielding mechanism,
+instrument details, advantages, limitations, applications and standards and specifications of
+(i) various conventional fusion welding processes like gas welding, shielded metal arc
+welding, gas metal arc welding, gas tungsten arc welding, plasma arc welding, submerged arc
+welding, electroslag welding, carbon arc welding etc. (ii) Advanced welding techniques like
+laser beam welding, electron beam welding (iii) Variant welding techniques like a) Activated
+TIG- effect of surface active elements, Marangoni convection mode b) Magnetic impelled arc
+butt welding, pulsed TIG and MIG welding c) cold metal transfer welding. Issues and
+challenges in welding processes.
+Module 4:
+Solid state welding: pressure welding, ultrasonic welding, diffusion welding, explosive
+welding, friction welding and friction stir welding: heat generation, parameters, zones, tools,
+defects etc.
+
+--- Page 52 ---
+Module 5:
+Computational welding mechanics : Analysis of heat flow, cooling rates, models for welding
+heat source, heat transfer, fluid flow, influence of surface active elements, analysis of stress
+and strain in welding, thermal cycle etc. (Numerical)
+Module 6:
+Welding metallurgy: Chemical reactions, distortion, solidification, weld microstructure,
+phase transformation, solidification cracking, post weld heat treatment of weld joints etc.
+Module 7:
+Welding and Joining of non-metals : plastic welding, ultra short pulse laser welding, laser
+transmission welding, glass and ceramic welding, biocompatible plastic to metal welding,
+metal printing, joining of dissimilar material combinations, microjoining and nanojoining,
+additive manufacturing, 3d printing, transient liquid phase bonding.
+Text Books:
+i. Littile R; Welding & Welding Technology; McGraw Hill, 2002.
+ii. Gibson SW; Advanced Welding, MacMillan Press.
+iii. Parmar RS; Welding Engineering and Technology, Khanna Publishers, Delhi
+Reference Books:
+i. 1.Joining of Materials and Structures by Robert W. Messler, Jr. – Elsevier
+(Butterworth-Heinemann)
+ii. Joining of Advanced Materials byMessler and Savage - Elsevier (Butterworth-
+Heinemann)
+iii. Welding Metallurgy by Sindo Kou – A John Wiley and Sons Inc. Publication
+Course Outcomes
+At the end of the course, students will be able to understand
+Module
+CO-No. Course Outcome
+Covered
+The broad outline on different types of welding and joining process
+1 1,3
+based on learning
+2 Physics of welding arc 2
+3 Welding metallurgy 6
+4 Welding defects and remedies 4
+5 Heat transfer during welding 4
+6 Perform computational welding mechanics 5
+
+--- Page 53 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2
+CO-2 2 3
+CO-3 3 2
+CO-4 2 3
+CO-5 3 2
+CO-6 3 3
+
+--- Page 54 ---
+DEFECT IN CRYSTALLINE MATERIALS
+Semester: 2nd Credit: 3
+Course Name: Defect in Crystalline Materials L T P 3 0 0
+Course Objectives:
+1. To provide knowledge on defect in crystalline materials.
+Syllabus Content
+Module 1:
+Point Defects: Equilibrium Point Defect Concentrations, Intrinsic/Extrinsic Point Defects,
+Diffusion, Impurity Diffusion.
+Module 2:
+Line Defects: Introduction to Dislocations, Elements of Elastic Theory, Stress Field of a
+Dislocation, Strain Energy of a Dislocation, Line Tension, Forces on Dislocations, Forces
+Between Dislocations, Dislocation Reactions, Dislocations in FCC Crystals, Dislocations in
+Other Crystal Systems, Dislocation Multiplication, Strength of Crystalline Solids.
+Module 3:
+Planar Defects: Twin Boundaries, Stacking Faults, Grain Boundaries Interface Boundaries.
+Text Books:
+i. Hull D. and Bacon D.J., Introduction to Dislocation, 5th ed., Butterworth-Heinemann,
+2011.
+ii. Kelly A. and Groves G.W., Crystallography and Crystal defects, Addison – Wesley,
+2000.
+iii. Shewmon P., Diffusion in Solids, A Publication of the Minerals, Metals & Materials
+Society, 1989.
+iv. Weertman J. and Weertman J. R., Elementary Dislocation Theory, Oxford, 1992.
+v. Hirth J.P., Theory of Dislocations, 2nd edition, A Wiley-Interscience Publication,
+1982.
+
+--- Page 55 ---
+Course Outcomes
+At the end of the course, students will be able to understand
+Module
+CO-No. Course Outcome
+Covered
+Gain basic understanding on the types, structures, formation
+1 1-3
+mechanisms and physical effects of various kinds of crystal defects
+To interpret various physical, thermal and mechanical features being
+2 observed in actual crystalline solids in terms of defect effects in 1-3
+addition to idealized bulk behaviours,
+Get fundamental knowledge on the microstructures and mechanical
+3 1-3
+behaviours of engineering materials
+CO-PO Mapping
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 2
+CO-2 3 3 3
+CO-3 3 3 2
+
+--- Page 56 ---
+THIRD SEMESTER
+PROJECT AND THESIS – I
+Semester: 3rd Credit: 12
+Course Name: Project and Thesis – I L T P 0 0 0
+Course Objectives:
+1. To provide the opportunities to the student to demonstrate and develop
+concept/project in the respective Engineering Domain
+2. To enable a student to work in cutting edge research problems in harmony.
+3. To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+Intensive literature survey and identify the research problems related to Material
+1
+Science and Engineering.
+2 Communicate and discuss research ideas
+3 Develop a systematic model/approach to analyze and solve the research problems.
+4 Outline the past, present and expected outcome based on systematic survey.
+5 Conduct preliminary experiments / theoretical evaluation to certain extent.
+Summarize their survey, research problem identification, approach, ,expected
+6 outcome and attained results with interpretation by means of oral presentation and
+written reports
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 - 3 3 3
+CO-2 3 2 3 3
+CO-3 3 3 3
+CO-4 3 3 3 3 3
+CO-5 3 3 3 3 3
+CO-6 3 3 3 3 3 3
+
+--- Page 57 ---
+FOURTH SEMESTER
+PROJECT AND THESIS – II
+Semester: 4th Credit: 20
+Course Name:Project and Thesis – II L T P 0 0 0
+Course Objectives:
+1. To provide the opportunities to the student to demonstrate and develop
+concept/project in the respective Engineering Domain
+2. To enable a student to work in cutting edge research problems in harmony.
+3. To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+Survey, approach, identify and demonstrate the research / industrial problems using
+1
+various available modern tools and techniques
+Develop and validate a systematic model/processtoanalyze and solve the research
+2
+problems.
+Outline the past, present and expected performance / outcome of a material / product /
+3 process / model / system(s) in Engineering domain in confirmation to the standard of
+safety and environmental, economicand ethical yardstick.
+4 Conduct experiments and theoretical evaluation extensively
+3. Analyze, summarize, inferbased on extensive research and communicate their chosen
+5 domain problems and result optimistically by means of oral presentation and written
+dissertation reports
+4. Present and publish their findings as technical manuscript in technical conference/
+6
+indexed research journals ethically.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 3
+CO-2 3 2 3 3 3 3 3
+CO-3 3 3 3 3 3
+CO-4 3 2 3 3 3
+CO-5 3 3 3 3 3 3 3
+CO-6 2 3 3 3
+
+--- Page 58 ---
+

@@ -1,0 +1,740 @@
+
+--- Page 1 ---
+Information Regarding Research & Publications
+Number of publications:
+Books/
+Sl. Internationa National
+Name of the faculty Conference Books
+No
+l Journal Journal
+Chapter
+International: 55
+1 Dr Paritosh Bhattacharya 75 00 00
+National: 12
+Publication Details: Dr Paritosh Bhattacharya
+2022
+1. Abhisek Paul a, Paritosh Bhattacharya b, Santi P. Maity c “Histogram modification in
+adaptive bi-histogram equalization for contrast enhancement on digital images” in
+Optik, pages 168-899(2022)
+2. Kishore Kumar Dhar, Asish Mitra, Paritosh Bhattacharya, "Edge Detection of Image
+Using Image Divergence and Downsampling Method ", in International Journal of
+Engineering and Manufacturing (IJEM), Vol.12, No.3, pp. 14-24, 2022. DOI:
+10.5815/ijem.2022.03.02
+3. Dridhiti Roy1, Paritosh Bhattacharya2, “Spatial Dynamics in a Predator-Prey Model with
+Beddington-Deangelis Functional Response”, in Journal of Mechanics of Continua
+and Mathematical Sciences, Cont. & Math. Sci., Vol.-17, No.-2, February (2022)
+pp 22-29
+4. Shilpa Samaddar1 , Mausumi Dhar2 , Paritosh Bhattacharya, “Local Stability
+Analysis of a Predator-Prey Dynamics Incorporating both Species Density
+Increasing Functional Response” in Journal of Mechanics of Continua and
+Mathematical Sciences, Vol. 17, No.1, January (2022) pp 81-87
+5. Kishore Kumar Dhar1 , Asish Mitra2 , Paritosh Bhattacharya3, “Thermal Effect on
+Bubble Rise - an Experimental Study”, in Journal of Mechanics of Continua and
+Mathematical Sciences, Vol.-17, No.-3, March (2022) pp 12-17
+2021
+6. S. Samaddar, M. Dhar, P. Bhattacharya “Impact of refuge to the
+heterogeneous interaction of species in food chain model: A holistic approach”
+in Iranian Journal of Science and Technology, Transactions A: Science,
+SCI, Impact Factor 0.875, 45, pages221–233(2021)
+
+--- Page 2 ---
+7. M. Dhar, S. Samaddar, P. Bhattacharya “Modeling the cell-to-cell transmission
+dynamics of viral infection under the exposure of non-cytolytic cure” in Journal
+of Applied Mathematics and Computing, SCI, Impact Factor 1.242, 65, Pp.
+885– 911(2021)
+8. Abhisek Paul a, Tandra Sutradhar b, Paritosh Bhattacharya c, Santi P. Maity d,
+“Infrared Images Enhancement using Fuzzy Dissimilarity Histogram
+Equalization” in Optik, Vol. 247, December (2021) pages 167-887
+9. Ankur Biswas, Paritosh Bhattacharya, Santi P Maity, Rita Banik, “Data
+Augmentation for Improved Brain Tumor Segmentation”, in IETE Journal of
+Research, pages 1-11 (2021)
+2020
+10. A. Paul, T. Dhar, S.P. Maiti and P. Bhattacharya “Adaptive Clip-Limit Based
+Bi- Histogram Equalization Algorithm for Infrared Image Enhancement” in
+Applied Optics, SCI, Impact Factor 2.180, Vol. 59,Issue 28,pp. 9032-
+9041(2020), https://doi.org/10.1364/AO.395848.
+11. S.Maiti, Jigar K Andharia; P. Bhattacharya “Development and performance
+analysis of a mixed mode solar thermal dryer for drying of natural rubber sheets
+in the north- eastern part of India” in Solar Energy, SCI, Impact Factor 5.170,
+208, 1091-1102 (2020)
+12. S. Samaddar, M. Dhar, P. Bhattacharya “Effect of fear on prey predator
+dynamics: Exploring the role of prey refuge and additional food” in Chaos: An
+Interdisciplinary Journal of Nonlinear Science, SCI, Impact Factor 2.643,
+Chaos 30, 063129 (2020).
+13. K. M. Dhar, S. Samaddar, P. Bhattacharya “Effect of non-cytolytic cure and
+saturation response: An in silico study to instigate the viral spread inhibition” in
+European Physical Journal Plus, SCI, Impact Factor 2.612, Vol 135, Article
+no.407 (2020).
+14. K. K. Dhar, A. Mitra and P. Bhattacharya “Two-Phase Simulation On Natural
+Convection Of A Nanofluid Along An Isothermal Vertical Plate” in Journal of
+Mechanics of Continua and Mathematical Sciences, Vol – 15, No – 9,
+September, 2020 Edition
+15. M. Dhar, S. Samaddar, P. Bhattacharya “Modeling the effect of non-cytolytic
+immune response on viral infection dynamics in the presence of humoral
+immunity” in Nonlinear Dynamics, Impact Factor: 4.604 (SCI Indexed).
+16. A Biswas, N Debnath, D Datta, S Das, P Bhattacharya, “A Hybrid Approach for
+Fast 3D Segmentation of Brain Tumor”, in Journal of Computational and
+Theoretical Nanoscience, Vol. 17, Issue 1, pages 340-346 (2020)
+
+--- Page 3 ---
+2019
+17. A. Biswas ,P. Bhattacharya and S.P.Maity “Data Augmentation for Improved
+Brain Tumor Segmentation” IETE Journal of Research, Taylor and Francis
+(SCIE Indexed 2019 Impact Factor 1.125)
+(https://doi.org/10.1080/03772063.2021.1905562).
+18. M. Dhar, S. Samaddar, P. Bhattacharya, R. K. Upadhyay “Viral Dynamic
+Model with Cellular Immune Response: A case study of HIV-1 Infected
+Humanized Mice” in Physica A, Impact Factor: 2.132 (SCI Indexed), Volume
+524, 15 June 2019, Pages 1-14.
+19. A. Biswas ,P. Bhattacharya, and S.P. Maity “A Smart System of 3D Liver
+Tumor Segmentation” in International Journal of Product Development
+(Scopus Indexed) – InderScience Publisher Vol. 23, No. 2/3, 2019.
+20. A. Debberma, P. Bhattacharya and B.S. Purkayastha “ Named Entity
+Recognitionfor a Low Resource Language” in International Journal of Rescent
+Technology and Engineering (IJRTE) Vol 8 , Issue 3, Sept 201 Page no. 587-
+590. (Scopus Indexed).
+21. S. Samaddar, M. Dhar and P. Bhattacharya “Supplement of additional food:
+Dynamics of self competitive prey predator system incorporating prey refuge” in
+Iranian Journal of Science and Technology, Transactions A: Science,
+Impact Factor: 0.757 (SCIE Indexed), DOI: 10.1007/s40995-019-00804-3.
+22. M. Dhar, P. Bhattacharya, “Analysis of SIR epidemic model with different basic
+reproduction numbers and validation with HIV and TSWV data" in Iranian
+Journal of Science and Technology Transactions A: Science, Impact Factor:
+0.757 (SCIE Indexed).
+2018
+23. M. Dhar and P. Bhattacharya “Comparison of the logistic and the Gompertz
+curve under different constraints” in Journal of Statistics & Management
+Systems DOI : 10.1080/09720510.2018.1488414 Emerging Source Citation
+Index Expanded (ESCI), Thomson Reuters) (Taylor & Francis) Vol 21,
+issue 7, 2018, Pp 1189- 1210.
+24. S. Deb, P. Bhattacharya, et.al“ Brain Computer Interfaced Single Key Onmi
+Directional Pointing and Command System: a Screen Pointing Interface for
+Differently-abled Person” in Elsevier Procedia Computer Science Journal
+(Scopus Indexed) 133 (2018), 161-168
+25. A. Biswas ,P. Bhattacharya, and S.P. Maity “An efficient volumetric
+segmentation of cerebral lateral ventricles” in Elsevier Procedia Computer
+Science Journal (Scopus Indexed) 133 (2018), 561-568
+26. A. Biswas ,P. Bhattacharya, and S.P. Maity “3D segmentation of liver and its
+lesions using optimized geometric contours” in Elsevier Procedia Computer
+Science Journal (Scopus Indexed) 133(2018), 240-247
+
+--- Page 4 ---
+27. S. Deb, P. Bhattacharya “Augmented Sign Language Modeling(ASLM) with
+interaction design on smartphone - an assistive learning and communication tool
+for inclusive classroom” in Procedia Computer Science 125 (2018) 492–500
+(Scopus Indexed)
+28. Mitra Barun Sarkar , Bijit Choudhuri , P. Bhattacharya , R.N. Barman , A.
+Ghosh ,S.M.M. Dhar Dwivedi , S. Chakrabartty, Aniruddha Mondal, “Improved UV
+Photodetction by Indium Doped TiO Thin Film Based Photodetector”, Journal of
+2
+Nanoscience and Nanotechnology,Vol 18, Issue 7 (2018) Pp 4898- 4903 (Science
+Citation Index Expanded (SCIE), Thomson Reuters).
+29. S. Deb, H Singh, BL Rohini, D Mishra, RK Meena, P Bhattacharya “BYOD
+Supported Crowd Interaction System” in Procedia Computer Science 132
+(2018) 1586-1591 (Scopus Indexed).
+2017
+30. A. Paul, P. Bhattacharya, S. P. Maity and B Bhattacharya “Plateau limit based
+Tri- histogram equalization for image enhancement” in IET Image Processing,
+Impact Factor : 1.044 (SCI, SCIE, Scopus Indexed)– DOI: 10.1049/iet-
+ipr.2017.1088.
+31. S. Deb, A. Pal, P. Bhattacharya “Design considerations for self paced interactive
+notes on video lectures - a learner's perspective and enhancements of learning
+outcome” in 9th international conference on Intelligent Human Computer
+Interaction (IHCI 2017), Paris, France, from 11 to 13 of December
+2017(Springer series Lecture Notes in Computer Science (LNCS) and indexed in
+the ISI Conference Proceedings Citation Index, Scopus)
+32. A. Debbarma, P. Bhattacharya and B. S. Purkayastha “SVM APPROACH TO
+NAMED ENTITY RECOGNITION FOR LOW RESOURCE LANGUAGE” in
+Journal of Advance Research in Dynamical and Control Systems ( Scopus
+Indexed) Volume 10 , Number 1, 2017.
+33. A. Debbarma, P. Bhattacharya and B. S. Purkayastha “CRF Approaches to
+Kokborok Named Entity Recognition, a Low Resource Language” in
+International Journal of Control Theory and Applications ( Scopus
+Indexed) 02- Special Issue, 2017, Pages: 738-747
+34. P. Bhattacharya, S. Das “A Numerical Study of Laminar natural convective heat
+transfer inside a closed cavity with different aspect ratio in Journal of
+Engineering Thermophysics (JET)– (Science Citation Index Expanded,
+Impact Factor: 0.812) Volume 26, Issue- 1, January 2017, Pp 79- 90.
+
+--- Page 5 ---
+2016
+35. S. Paul, S. Mondal and P. Bhattacharya, “Discussion on Proportional
+Harvesting Model in Fuzzy Environment: Fuzzy Differential Equation
+Approach” in International Journal of Applied and Computational
+Mathematics Vol 3, Issue 4 Pp 3067-3090 – Springer Journal.
+36. M Laskar, R Bhattacharjee, M Sau Giri, P Bhattacharya, “Weather Forecasting
+Using Arduino Based Cube-Sat” in Procedia Computer Science Vol 89, Pp
+320-323 (2016)– Scopus Indexed.
+37. S. Paul, S. Mondal and P. Bhattacharya, “Some comparison of Different
+Numerical techniques on Mathematical biology problem” in International
+Journal of Differential Equations– Hindawi press (Scopus Indexed,
+Emerging Source Citation Index Expanded (ESCI), Thomson Reuters )
+Volume 2016, Article ID 8921710, 14 page
+38. S. Paul, S. Mondal and P. Bhattacharya, “Discussion on Fuzzy Quota
+Harvesting Model in Fuzzy Environment: Fuzzy Differential Equation
+Approach” in Modeling Earth Systems and Environment- Springer
+Publication – Springer Vol. 2. Issue- 2 , June 2016, Pp- 1-15.
+39. S. Paul, S. Mondal and P. Bhattacharya, “Numerical Solution of Lotka
+Volterra Prey Predator Equations By Using Runge Kutta Fehlberg Method And
+Laplace Adomian Decomposition Method” in Alexandria Engineering Journal
+- Elsevier (Scopus Indexed, Emerging Sources Citation Index (ESCI),
+Thomson Reuters ) Vol. 55, Pp613-617, 2016.
+40. S. Dey, P. Bhattacharya “Role of immature Paddy in Rice Husk
+Gasification” in Energy Education Science and Technology Part B: Social and
+Educational Studies (Science Citation Index Expanded 2012), Volume 8,
+No. 1, Pp: 13-24 (2016)
+41. S. Dey, P. Bhattacharya “Performance Analysis of Bio-gas Plant for Cooking
+Applications” in Energy Education Science and Technology Part B:
+Social and Educational Studies (Science Citation Index Expanded 2012) ,
+Volume 8, No. 1, Pp: 1-12 (2016)
+
+--- Page 6 ---
+2015
+42. A. Biswas ,P. Bhattacharya “A hybrid approach for fast 3D segmentation of
+Brain Tumor” Journal of Computational and Theoretical Nanoscience (SCIE
+Indexed 2015 Impact Factor 1.666) Vol- 17 (1), 340-346.
+43. S. Paul, P. Bhattacharya and K. S. Choudhury “Stability Analysis Of A Two
+Species competition Model With Fuzzy Initial Conditions: Fuzzy Differential
+Equation Approach Environment” in BIOMAT 2015 , Proceedings of the
+International Symposium on Mathematical and Computational Biology
+(ISI - Web of Science- Scientific Proceedings Citation Index) (World Scientific
+Publication) Vol_ I Pp 334- 345
+44. S. Mondol, S. Paul and P. Bhattacharya “Classical Modeling of HIV Virus
+Infected Population in Imprecise Environments” in Turkish Journal of Fuzzy
+Systems Vol.6, No.1, pp. 017-055, 2015
+45. S. Das, P. Bhattacharya “Effect Of Prandtl Number On Laminar Natural
+Convective Heat Transfer Inside Cavity” in Procedia Engineering – Elsevier
+Journal (Scopus Indexed) Vol. 127 ( 2015 ) Pp. 229 – 234.
+46. A. Mitra, P. Bhattacharya and K. K. Dhar “Experimental Study on Shape and
+Rise Velocity Of Small Bubbles in Stagnant Water” in Journal of Mechanics
+of Continua and Mathematical Sciences, Volume 9, No. 2, Pp: 1396-1402,
+(2015)
+47. P. Biswas, A. Paul and P. Bhattacharya “Analyzing the Realization of Degree
+Sequence by Constructing Orthogonally Diagonalizable Adjacency Matrix” in
+Elsevier Procedia Computer Science Journal (Scopus Indexed) Volume 57,
+Pages 885–889 (2015).
+48. P. Bhattacharya, S. Dey, B. Mustaphi “Performance evaluation of a solar
+photovoltaic system in Rajasthan” in Energy Education Science and
+Technology Part B: Social and Educational Studies (Science Citation Index
+Expanded 2012) , Volume 7, No. 4, Pp: 301-314 (2015)
+49. A. Paul, P. Bhattacharya P. Biswas and S. P. Maity “Comparative Analysis of
+Image de-blurring with Radial Basis Functions in Artificial Neural Network” in
+Advances in Intelligent Systems and Computing (Scopus Indexed)–
+Springer Verlag, Germany Vol 332 Pp 135 - 143(2015)
+
+--- Page 7 ---
+50. P. Bhattacharya, Abhishek Pal, S. P. Maiti “ Comparative Analysis of Radial
+Basis Functions with SAR images in Artificial Neural Network” in Advances in
+Intelligent Systems and Computing (Scopus Indexed)– Springer Verlag,
+Germany Vol 320, Pp 125-131 (2015)
+51. P. Bhattacharya, S. Paul, K. S. Choudhury “Mathematical Modelling Of
+Ecological Networks, Structure and Interaction Of Prey And Predator” in
+Palestine Journal of Mathematics , Volume 4, Number 2, Pp 335-347 (2015)
+52. P. Bhattacharya, S. Das “A Study on Steady Natural Convective Heat Transfer
+Inside A Square Cavity For Different Values of Rayleigh and Nusselt Numbers”
+in Journal of Applied Fluid Mechanics (JAFM)– (Science Citation Index
+Expanded, Impact Factor: 0.746) (Scopus Indexed) Volume 8, Number 3, Pp
+635-640(2015).
+53. P. Bhattacharya, S. Paul, K. S. Choudhury “Different types of epidemic
+models and their Characteristic behaviour by using Matlab” in Journal of
+Interdisciplinary Mathematics (Scopus Indexed) – Taylor & Francis
+publication, Volume 18, issue 5, Pp 569-592 (2015)
+2014
+54. A. Paul, P. Bhattacharya and S. P. Maity “An approach of optimizing
+singular value of YCbCr Color space with q-Gaussian function in Image
+Processing” in Smart Innovation, Systems and Technologies (Scopus
+Indexed)– Springer International Publishing Switzerland Vol 27, Pp 245-250
+(2014).
+55. P. Bhattacharya, A. Biswas and S.P. Maity “Wavelets-Based Clustering
+Techniques for Efficient Color Image Segmentation” in Smart Innovation,
+Systems and Technologies(Scopus Indexed) – Springer International
+Publishing Switzerland, Vol 27, Pp 237-244 (2014).
+56. A. Paul, P. Bhattacharya and S. P. Maity “Eigen Value and It′s Comparison with
+Gaussian RBF, Multi-Quadratic RBF and Inverse Multi-Quadratic RBF
+Methods” in Information Sciences Letters Vol.3, No. 2, 41-47 (2014).
+57. P. Bhattacharya, S. Dey, B. Mustaphi “Some Analytical Studies on the
+Performance of Grid Connected Solar Photovoltaic System with Different
+Parameters” in Elsevier Journal Procedia Material Science Vol. 6, Pp 1942-
+1950 (2014).
+58. A. Paul, P. Bhattacharya and S. P. Maity “Eigen value and it’s comparison
+with different RBF methods by using Matlab” in Lecture Notes in Electrical
+Engineering (Scopus Indexed) – Springer Verlag, Germany vol. 298, Pp
+219 - 224 (2014)
+59. P. Bhattacharya, S. Paul, K. S. Choudhury “Analysis on Food Web
+Structure, Interaction, Strength, and Stability of different Mathematical models
+of Prey & predator” in Lecture Notes in Electrical Engineering (Scopus
+Indexed) – Springer Verlag, Germany vol. 298, Pp 207- 218 (2014) .
+
+--- Page 8 ---
+60. A. Paul, P. Bhattacharya and S. P. Maity “Comparative study of Radial Basis
+Function neural network with estimation of Eigenvalue in image using
+MATLAB” in Advances in Intelligent Systems and Computing (Scopus
+Indexed) – Springer Verlag, Germany vol. 266, Pp 141-146(2014)
+61. A. Paul, P. Bhattacharya and S. P. Maity “An Interference Based Routing
+Metric In Wireless Mesh Network” in Applied Mathematics & Information
+Sciences (Science Citation Index Expanded, Impact Factor: 1.232) , Vol. 8,
+No. 4, 1717- 1724 (2014).
+62. P. Bhattacharya, S. Dey “An update technology for integrated biomass
+gasification combined cycle power plant” in Applied Solar Energy (Springer
+Verlag, United States ) (Scopus Indexed), Vol. 50, No. 1, pp. 44–48, 2014.
+63. A. Paul, P. Bhattacharya and S. P. Maity “ Designing Interference Based
+Routing Metric In Wireless Mesh Network and Comparison According to
+Various Tunable Parameters” in Information Sciences Letters Vol.3, No. 1,
+21-27 (2014)
+2013
+64. S. Pal, P. Bhattacharya and K S Choudhury “Maximum Sustainable Yield Policy
+in Prey-Predator System-A Study” IJCA Proceedings on Computing
+Communication and Sensor Network, CCSN, Volume. 1 Pp. 46-49, 2013,
+Published by Foundation of Computer Science, New York, USA.
+2012
+65. P. Bhattacharya, S. Mukhopadhyay, P. K. Bose, B. B. Ghosh “ Optimized use of
+Solar Tracking System and Wind Energy” in Elsevier Journal Procedia
+Technology 4 ( 2012 ) 834 – 839.
+2011
+66. S. Mukhopadhyay, P. Bhattacharya, B. B. Ghosh, “Application of Vertex
+Coloring in a triangular Closed path structure & in Kraft’s inequality”, IEM
+International Journal of Management & Technology, Volume 1, No 1, 109-
+112, 2011.
+67. P. Bhattacharya, S Mukhopadhyay “Weibull Distribution for Estimating the
+Parameters and application of Hilbert Transform in case of a low wind speed at
+kolaghat” International Journal of Multi physics (Scopus Indexed) Volume
+5, Number 3, 2011, pp 203 - 214.
+
+--- Page 9 ---
+2010
+68. P. Bhattacharya, B. B. Ghosh, P. K. Bose “Transmission Loss And
+Performance Test Of A Two Cylinder Four Stroke Diesel Engine” Journal of
+Engineering Science and Technology (Scopus Indexed) Volume 5, Issue 3,
+September 2010, pp 284-291.
+2009
+69. P. Bhattacharya, R. Bhattacharjee “A Study on Weibull Distribution for
+Estimating the Parameters” Wind Engineering (Scopus Indexed, Emerging
+Sources Citation Index (ESCI), Thomson Reuters) Volume 33, No. 5, 2009
+Pp 469–476.
+2008
+70. P. Bhattacharya, R. Panua, B. B. Ghosh, P. K. Bose “Design of reactive
+muffler for study on the noise level and performance of a two cylinder four
+stroke 16 h.p diesel engine” Noise & Vibration Worldwide (Scopus Indexed),
+Volume 39, Number 8, September 2008, pp. 24-27.
+2007
+71. B. B. Ghosh, R. Panua, P. Bhattacharya, P. K. Bose “Studies on the Noise Level
+and Performance of a Two Cylinder Four Stroke 16 H.P Diesel Engine Using
+Modified Reactive and Resonative Muffler” Advances in Applied
+Mathematical Analysis (AAMA), Volume 2, Number 1 (2007), pp 31-39.
+72. B. B. Ghosh, P. Bhattacharya, R. Panua, P. K. Bose “Prediction of Noise Level
+by Mathematical Modeling in the Exhaust Muffler and Validation of these
+Analytical Results with the Experimental Results for 4-Stroke Diesel Engine, in
+Advances in Applied Mathematical Analysis (AAMA),Volume 2, Number 1
+(2007), pp 41-49.
+73. B. B. Ghosh, P. Bhattacharya, P. K. Bose, M.Y. Vaijanapurkar “Analytical and
+Experimental Study on Noise Attenuation of Multi-cylinder Diesel Engine with
+Resonative Muffler” JOURNAL OF APPLIED SCIENCES RESEARCH,
+3(8), 676-680, 2007.
+
+--- Page 10 ---
+2006
+74. B. B. Ghosh, P. Bhattacharya, P. K. Bose, M.Y. Vaijanapurkar “Analytical and
+Experimental Study on Noise Attenuation of Multi-cylinder Diesel Engine with
+Existing and Modified Muffler” Noise & Vibration Worldwide (Scopus
+Indexed), Volume 37, Number 9, October 2006, pp. 21-28(8).
+2005
+75. S. Paul, S. Mondal and P. Bhattacharya, “Optimal Harvesting of two species
+mutualism model with interval parameters” in Journal of Intelligent & Fuzzy
+Systems, Vol 33, Issue 4, Pp 1991-2005 – IOS press (Scopus Indexed, Science
+Citation Index Expanded (SCIE), Thomson Reuters ) (Impact Factor:
+1.004) .
+International Conferences:
+2020
+1. A.Hoque, J. Raj, A.Saha and P. Bhattacharya “Earthquake Magnitude Prediction
+Using Machine Learning Technique” International Conference on Computational
+Intelligence, Security and Internet of Things, Communications in Computer and
+Information Science book series (CCIS, volume 1358) ,2020 (Springer).
+2. S. Deb, N. Saha and P. Bhattacharya “Designing a BYOD Supported Formative
+Learning Interface and Analysis of Classroom Interaction” Advanced Computing and
+Intelligent Engineering, 497-506, 2020 (Springer Singapore).
+3. A. Biswas, S.P.Maity P. Bhattacharya “An Efficient Semiautomatic Active Contour
+Model of Liver Tumor Segmentation from CT Images” in Computational Network
+Application Tools for Performance Management, 75-85, 2020 Springer, Singapore.
+2019
+4. M. Dhar, S. Samaddar, P. Bhattacharya, “Global behavior of a within host viral
+dynamic model with non-cytolytic cure effect” in TENSYMP-2019 during 7th-9th
+June 2019, Kolkata.
+
+--- Page 11 ---
+2018
+5. A. Biswas, S.P.Maity P. Bhattacharya “A 3-dimensional Brain tumor segmentation
+using hybrid intelligent algorithms” in 4th International Conference on Computing
+Communication and Automation (ICCCA 2018) Galgotias University on 14-15
+December 2018.(IEEE Conference ISBN # 978-1-5386-6947-1).
+6. A. Biswas, S.P.Maity P. Bhattacharya “Optimal Geometric Active Contours:
+Application to human brain Segmentation” in in 52nd Annual Convention of
+Computer Society of India (CSI 2017) organized by Kolkata Chapter at Science City
+Kolkata on 19th – 21st January 2018.(Springer CCIS Series (SCOPUS INDEXED).
+Best Technical Paper Award (First).
+2017
+7. S. Paul, S. Banik and P. Bhattacharya, "Stability analysis of prey–predator system in
+Interval environment" 11th International Conference of IMBIC on "Mathematical
+Sciences for Advancement of Science and Technology" (MSAST 2017) ,
+December 21-23, 2017 at Kolkata.
+8. A. Biswas, P. Bhattacharya and S.P.Maity “An efficient semi automatic Active
+Contour model of Liver Tumor Segmentation from CT Images” in International
+Conference RECENT ADVANCES & APPLICATIONS IN COMPUTER
+ENGINEERING (RAACE 2017), November 23-25, 2017at Xt. Xavier College
+Jaipur. (Springer CCIS Series (SCOPUS INDEXED)).
+9. S. Deb and P. Bhattacharya “Enhancing personalized learning with interactive note
+taking on video lectures-an analysis of effective HCI design on learning outcome ” 3rd
+International Conference on Next Generation Computing Technologies during 30th
+and 31st Oct 2017 at University of Petroleum and Energy Studies, Dehradun,
+India (Springer Publication).
+10. A.Paul, P. Bhattacharya “Power-log Based Plateau Limit Histogram Equalization
+Algorithm for Infrared Image Enhancement” in 2017 10th International Conference
+on Contemporary Computing (IC3- 2017) August 10-12, 2017 at JIIT Noida .
+11. P. Bhattacharya , A. Roy “Stochastic Time Evolution Of A Simple Birth-Death
+Process” in International Journal of Arts & Sciences (IJAS) in Joseph B. Martin
+Conference Center at Harvard Medical School, 77 Avenue Louis Pasteur, Boston,
+Massachusetts, from 22 to 26 May 2017.
+12. Sawon Pratiher, Vigneshram Krishnamoorthy, P. Bhattacharya “An Adaptive
+Weighted Lp Metric with Application to Optical Remote Sensing Classification
+Problems” in SPIE Digital Optical Technologies Internationales Congress Center,
+Munich, Germany, 25 - 29 June 2017.
+2016
+13. S. Pratiher, S. Patra,P. Bhattacharya “On the Marriage of Kolmogorov Complexity
+and Multi-fractal parameters for Epileptic Seizure Classification” 2nd International
+
+--- Page 12 ---
+Conference on Contemporary Computing and Informatics (IC3I 2016) held in Amity
+University, Noida, India from 14 - 17 December 2016.( IEEE Conference).
+14. P. Bhattacharya , A. Roy S. Paul “Differential-Transform-Method For Solving Lotka
+-Volterra Equations By Using Holling Type III Functional Response” in 9th
+International Conference on Research in Sciences Technology (ICRST - 2016) in
+AIT, Bangkok during 29-30 December, 2016.
+15. S. Prathier, P. Bhattacharya “Trends in wind velocity distribution using phase space
+trajectory” in IEEE International Conference on Signal Processing (ICSP-SATI
+2016), at Samrat Ashok Technological Institute (Engineering College), Vidisha
+(M.P.) India during 7-9 November, 2016.
+16. S. Prathier, P. Bhattacharya “On the Fusion of Non-linear features for Epileptic
+Seizure Detection” in IEEE International Conference on Signal Processing
+(ICSP-SATI 2016), at Samrat Ashok Technological Institute (Engineering College),
+Vidisha (M.P.) India during 7-9 November, 2016.
+17. Suman Deb, Ananda Bibek Ray and Paritosh Bhattacharya “Smartphone Based
+Virtual Reality Systems in Classroom Teaching - a study on the effects of learning
+outcome” in IEEE International Conference on Technology for Education (T4E
+2016). T4E 2016, at the Indian Institute of Technology Bombay, Mumbai, India from
+December 2-4, 2016.
+18. Jagrati, Suman Deb and Paritosh Bhattacharya “A Framework To Enhance The
+Learning Outcome With Fuzzy Logic Based ABLS(Adaptive Behaviourial Learning
+System)” in International Conference on Advanced Computing and Intelligent
+Engineering (ICACIE 2016), Dec 21-23, 2016 at Bhubaneswar (Springer
+Publication)
+19. P. Bhattacharya, S. Paul “Solution Of Insect Population Model By Using Laplace
+Adomian Decomposition Method” in International Conference on Computational
+Science and Engineering ( ICCSE 2016), October 4-6, 2016 at RCC Institute of
+Information Technology, Kolkata. Accepted papers will be published by CRC Press
+(Taylor and Francis) (http://www.balkema.nl/) in online (CRCnetBASE) with ISBN
+(ISBN: 978-1-138-02983-5).
+20. K.Gogoi, M.B.Sarkar and P.Bhattacharya “ Analysis of Different Defect States
+Incorporated in e-Beam Evaporated TiO Thin Flim of Variable Thickness” in 4th
+2
+National Conference on Materials, Devices and Circuits in Communication
+Technology (MDCCT 2016), February 19-20, 2016 at Burdwan University, West
+Bengal.
+
+--- Page 13 ---
+2015
+21. P. Bhattacharya, S. Das “Analysis of Heat Transfer and Flow due to Natural
+Convection in Air of Different Sizes inside A Closed Cavity” in 9th International
+Conference of IMBIC on "Mathematical Sciences for Advancement of Science
+and Technology" (MSAST 2015) , December 21-23, 2015 at Salt Lake Kolkata.
+22. S. Deb, M. Sinha, S. Nandi, P. Bhattacharya “ Blended 3D Interaction Using Wii-
+Remote for Learning Educational Content” in Progress in Advanced Computing
+and Intelligent Engineering, Pp23-88 (Springer Singapore).
+23. S. Deb, S.Saha and P. Bhattacharya “ Blended Interaction for Augmented Learning-
+an Assistive Tool for Cognitive Disability ” in 12th International Conference on
+Cognition and Exploratory Learning in Digital Age (CELDA 2015), October 24-
+26, 2015 at Maynooth University, Greater Dublin, Ireland.
+24. P. Biswas, P. Bhattacharya, et.al “An Efficient Way to Determine the Chromatic
+Number of a Graph Directly from its Input Realizable Sequence.” in Third
+International Symposium on Women in Computing and Informatics (WCI-
+2015), August 10-13, 2015 (ACM Conference) at Kerala, India.
+25. P. Biswas, A. Paul and P. Bhattacharya, “An Efficient Approach for Constructing
+Spanning Trees by Applying BFS and DFS Algorithm Directly on Non-regular
+Graphic Sequences” in Third International Conference on “Emerging Research
+in Computing, Information, Communication and Applications (ERCICA-
+2015), 31 July – 01 August, 2015 (Springer Conference) at NMIT Bangalore.
+26. P. Biswas, A. Paul, P. Bhattacharya “Application of (0, 1)-Matrix in Determination
+of Graphic Realization of Non-Increasing Positive Integer Sequence.” in
+International Conference on Advanced Research in Computer Science
+Engineering & Technology (ICARCSET 2015), March 6-7, 2015 (ACM
+Conference) at Eluru, Andhra Pradesh.
+27. P. Bhattacharya, P. Biswas, A.Paul “Some Analytical Study On the Realization of
+Degree Sequence of Graphs Using Adjacency Matrix.” in International Conference
+on Emerging Trends in Information Technology (ICETIT 2015), March 23-24,
+2015 at Babasaheb Bhimrao Ambedkar University, Lucknow.
+28. P. Bhattacharya, P. Biswas, A. Paul “An Optimized Algorithm To Determine The
+Eigenvalues From A Graphic Sequence By Constructing A Symmetric Matrix” in
+International Conference on Management and Behavioral Sciences-ICMBS
+2015, March 25-26, 2015 in Singapore.
+
+--- Page 14 ---
+29. P. Bhattacharya, S. Paul, P. Biswas, “Mathematical Modeling Of Treatment Sir
+Model With Respect To Variable Contact Rate” in International Conference on
+Management and Behavioral Sciences-ICMBS 2015, March 25-26, 2015 in
+Singapore
+30. P. Bhattacharya, P. Biswas, A. Paul “Generating Spanning Tree of Non-Regular
+Graphic Sequences Through A Variant of Prim’s Algorithm” IEEE International
+Conference on Circuit, Power and Computing Technologies, ICCPCT-2015, March
+19-20, 2015, Kanyakumari district, Tamilnadu.
+31. S. Mukhopadhyay, P. Bhattacharya, A. Mitra, K. K. Dhar “Diagnosing
+Heterogeneous Dynamics for wind particle trajectory in wavelet domain” in IEEE
+International conference on Computer, Communication, Control and
+Information Technology (C3IT 2015) from 7-8 February 2015 at Academy of
+Technology, Kolkata.
+32. P. Bhattacharya, A. Mitra, K. K. Dhar “Experimental Study on Shape and Path of
+Small Bubbles using Video-Image Analysis” in IEEE International conference on
+Computer, Communication, Control and Information Technology (C3IT 2015)
+from 7-8 February 2015 at Academy of Technology, West Bengal
+2014
+33. P. Bhattacharya, Abhishek Pal, S.P.maiti “An Analytical and Comparative study of
+various Radial Basis Functions in Artificial Neural Network” in 3rd International
+Conference on RECENT ADVANCES IN COGNITION AND HEALTH
+(ICRACH-2014) from December 19-21, 2014 at Banaras Hindu University,
+Varanasi, India.
+34. S. Paul, S. Mondol, P. Bhattacharya “Application of Adomian Decomposition
+Method in Biological Growth Model and Epidemic Model” in 8th International
+Conference of IMBIC on "Mathematical Sciences for Advancement of Science
+and Technology" (MSAST 2014) , December 21-23, 2014 at Salt Lake Kolkata.
+35. P. Biswas, A. Paul, P. Bhattacharya “An Efficient Dynamic Non-Linear Minimal
+Spanning Tree Algorithm using Cycle Detection in an Undirected Graph” in
+International Conference on Nonlinear Dynamics and its Applications in Physical and
+Biological Sciences (CNDAPBS-14) during 01—03 Nov. 2014 organized by the
+Department of Physics, Darjeeling Govt. College in collaboration with Bose Institute
+& St. Joseph’s College, Darjeeling, 734101, India.
+
+--- Page 15 ---
+36. A. Debbarma, P. Bhattacharya, B. S. Purkayastha “Frequency Based Named Entity
+Recognition System For Under Resource Language” in International Conference on
+Control, Instrumentation, Communication and Computational Technologies
+(ICCICCT 2014) (IEEE Conference) from July 10 -11, 2014 at Noorul Islam
+University, Tamilnadu.
+37. P. Bhattacharya, S. Paul, K.S.Choudhury “Ecological Networks, Structure,
+Interaction, Strength & Stability on different Prey predator Models” in 3rd
+International Symposium on Complex Dynamical Systems and Applications (CDSA
+2014) from March 10 -12, 2014 at Indian Statistical Institute, Kolkata.
+38. A. Debberma, P.Bhattacharya, B. Purakayasta “Stemmer for Resource Scarce
+Language using String Similarity Measure” in IEEE International Conference on
+Reliability Optimization & Information Technology (ICROIT 2014) from 6-8
+February 2014, New Delhi.
+2013
+39. P. Bhattacharya, Abhishek Pal, S.P.maiti “Eigen values of colour images and their
+comparison with various Radial Basis Functions” in IEEE 2nd International
+Conference on Computing, Communication and Sensor Network (CCSN 2013) from
+22nd -24th , 2013, Kolkata.
+40. P. Bhattacharya, Abhishek Pal, S.P.maiti “Mathematical Modelling and Comparison
+of Eigen Value with Different Radial Basis Functions in Neural Network” in 7th
+International Conference on Advanced Computing and Communication Technologies
+(ICACCT™-2013) in association with INDERSCIENCE Publishers, UK, IETE
+and Technically Co-sponsored by Computer Society Chapter IEEE, Delhi Section at
+Asia Pacific Institute of Information Technology SD India, Panipat (Haryana) on16th
+November 2013.
+41. P. Bhattacharya, S. Das, U. K. Bera “Visualization of streamlines with their velocity
+profiles” in International Conference Energy System Modeling and Optimization
+Conference (ESMOC 2013) from December 9-11, 2013, NIT Durgapur, India.
+42. P. Bhattacharya, Abhishek Pal, S. P. Maiti “Eigen value and its comparison with
+different RBF neural Networks” in International Conference on Recent Trends in
+Communication and Computer Networks - ComNet 2013 from Nov 08-09, 2013;
+Hyderabad, India (Elsevier Science and Technology Publications 2013) .
+43. P. Bhattacharya, Abhishek Pal, S. P. Maiti “Study of various Routing Metric In
+Wireless Mesh Network and comparison according to various tuning parameters” in
+Fifth International Conference on Advances in Recent Technologies in
+Communication and Computing, ARTCom 2013 from 20-21 September 2013,
+Bangalore (Elsevier Science and Technology Publications 2013).
+
+--- Page 16 ---
+44. P. Bhattacharya, S. Paul, K.S.Choudhury “Different growth models in population
+dynamics and its exponential regression” in International Conference on Emerging
+Research in Computing, Information, Communication and Applications (ERCICA
+2013) from 2-3 August 2013 at Nitte Meenakshi Institute of Technology, Bangalore.
+(Elsevier Science and Technology Publications 2013)
+45. S. Mukhopadhyay, Paritosh Bhattacharya, “Optimized DHT-RBF model as
+replacement of ARMA-RBF model for wind power forecasting” in IEEE
+International Conference in Emerging Trends in computing, communication
+and Nanotechnology (ICE-CCN) from 25-26 March 2013 at Tirunelveli, India
+46. S. Mukhopadhyay, Paritosh Bhattacharya, “Minimum Vertex Colored Wavelet
+Packets to prove the Kraft’s Inequality”, 100th Indian Science Congress, 3-7
+January 2013,Calcutta University, Kolkata, India
+2012
+47. S. Mukhopadhyay, Paritosh Bhattacharya, R. Bhattacharjee, P.K.Bose “Discrete
+Hilbert Transform as Minimum Phase Type Filter for the Forecasting and the
+characterization of Wind Speed”, IEEE International Conference on
+Communications, Devices and Intelligent Systems (CODIS), 28-29, December
+2012 at Jadavpur University, Kolkata.
+48. A.Mitra, S.Mukhopadhyay P. Bhattacharya “Wind Power Forecasting Based on
+Discrete Hilbert Transform and Neural Network Model” International Conference
+on Advances in Mechanical Engineering and its interdisciplinary areas, CEM
+Kolaghat, 27-28, December, 2012.
+49. S. Mukhopadhyay, P. Bhattacharya, P. Das, “Sustainable Development Using Wind
+Power in Rural Area”, National Conference on Sustainable Development through
+Innovative Research in Science and Technology sponsored by DST PURSE
+PROGRAMME, 28-29, September,2012 at Jadavpur University, Kolkata
+50. S. Mukhopadhyay, P. Bhattacharya, P. Das, “Possibility Determined by Weibull
+Parameters for Wind Farm installation in Midnapore Zone”, IETE Annual Seminar,
+8-9 September, 2012, Kolkata.
+2011
+1. Paritosh Bhattacharya, S Mukhopadhyay, “Weibull Distribution and Hilbert
+Transform for Characterization of Wind Speed at Kolaghat”, National Conference
+on Material Science & Technolgy, (3-5) June, 2011, Haldia Institute of
+Technology, West Bengal
+2. Participated and Presented a paper entitled “Fabrication and Performance Test Of a
+Two Cylinder Four Stroke Diesel Engine” in National Seminar on Mechanical
+Engineering “Advance Manufacturing Trend” on 24th February 2011. at
+Seacom Engineeering College, Howrah , Kolkata.
+
+--- Page 17 ---
+3. Application of Vertex coloring in a particular triangular closed path structure and in
+Kraft’s inequality in International Conference on Scientific Paradigm Shift in
+Information Technology & Management January 5th & 6th, 2011 ,Science City
+Auditorium (Kolkata, India).
+4. Participated and Presented a paper entitled “Mathematical Modeling For Design Of
+Expansion Chamber Of Muffler Using Bessel Function” in IEEE Sponsored
+International Conference on Scientific Paradigm Shift in Information
+Technology & Management January 5th & 6th, 2011 ,Science City Auditorium
+(Kolkata, India).
+2010
+5. Participated and Presented a paper entitled “Effect on Velocity Distribution of A Pipe
+Containing Stagnant Viscous Fluid Due To External Sinusoidal Pulse” in 4th
+International Conference of IMBIC on "Mathematical Sciences for
+Advancement of Science and Technology" (MSAST 2010) , December 19-21,
+2010 at IMBIC Hall , Salt Lake Kolkata.
+2009
+6. Participated and Presented a paper entitled “Computational Experiments for
+Estimating the Parameters of Weibull Distribution” in 3rd Annual International
+Conference on Management and Social Welfare, December (14-15) 2009 at
+IISWBM Kolkata.
+2008
+7. Studies On The Noise Level And Loss Of Output Energy Of A Two Cylinder Diesel
+Engine Using Modified Muffler in NCRAME (20-21) December, 2008, NIT
+Silchar.
+8. Participated and Presented a paper entitled Mathematical Modeling For
+Prediction Of Sound Pressure Level By The Exhaust Muffler And Validation Of
+Analytical Results With The Experimental Results For Two Cylinder Four Stroke 16
+H.P Diesel Engine in NCRAME (20-21) December, 2008, NIT Silchar.
+9. Studies On The Noise Level And Performance Of A Two Cylinder Diesel Engine
+Using Modified Muffler in , Proceedings of 4th BSME-ASME International
+Conference on Thermal Engineering, 27 - 29 December, 2008, Dhaka.
+10. Theoretical Modeling For Prediction Of Noise Level By The Exhaust Muffler And
+Validation Of These Analytical Results With The Experimental Results, in
+Proceedings of 4th BSME-ASME International Conference on Thermal
+Engineering, 27 - 29 December, 2008, Dhaka.
+
+--- Page 18 ---
+11. Participated and Presented a paper entitled “PREDICTION OF NOISE LEVEL BY
+MATHEMATICAL MODELING IN THE EXHAUST MUFFLER” in International
+Conference on Frontier of Mathematics & Applications (icfma-2008) from
+January, 16-18, 2008 at Burdwan University.
+2005
+12. Control Of S.I.Engine Exhaust Emissions Using Non-Precious Catalyst (Zsm-5)
+Supported Bimetals And Noble Metals As Catalyst, Proceedings of ICES2005,
+ASME Internal combustion Engine Division, 2005 Spring Technical Conference,
+April 5-7, Chicago, IL , USA.
+13. Participated and Presented a paper entitled “ COMPARISON BETWEEN
+WEIBULL DISTRIBUTION AND GAMMA DISTRIBUTION FOR DIFFERENT
+VALUES OF THE SHAPE PARAMETER” in 92nd Indian Science Congress,
+Ahemedabad (India) from January 3-7, 2005
+2004
+14. Participated and presented a paper entitled “THE TOUCHING STORY OF AN
+INDIAN MATHEMATICIAN” in International Conference on History and
+Heritage of Mathematical Sciences, Indore (India) from December 16-19, 2004.
+15. Participated and presented a paper entitled "DESIGN OF A WINDMILL ROTOR
+USING LINEARIZATION OF BLADE CHORD AND BLADE SETTING" in
+National Seminar on Mathematics And Its Application held at Bengal Engineering
+College (Deemed University) Howrah on 27th March, 2004.
+16. Seminar attended with Presentation of a paper entitled “ GLOBAL DATABASE
+MODELLING FOR SOLAR SIMULATION OF BUILDINGS “ in All India Inter
+Science, Engineering & Technology Colleges ACADEMIC MEET 2000 ,held at
+Bengal Engineering College (Deemed University) Howrah (14th-15th July) organized
+by FORUM OF SCIENTISTS, ENGINEERS & TECHNOLOGISTS (FOSET)
+B.E College , Howrah. T-he paper was judged THIRD in the meet.
+2000
+17. Participated and Presented a paper entitled “DYNAMIC HEAT FLOW
+MODELLING OF BUILDING STRUCTURES in National Renewable Energy
+Convention (NREC-2000), 30th November -2nd December 2000, Organized by
+IIT Bombay, Mumbai-400076.
+
+--- Page 19 ---
+List of Ph.D Awarded:
+Sl.
+Name Title of the Thesis Year Supervisor
+No.
+Dr. Paritosh Bhattacharya
+Some problems on
+&
+Ms Susmita Paul dynamics and control of
+1 2016 Prof. Kripasindhu
+population growth models
+Choudhury, Jadavpur
+And epidemic models
+University
+Dr. Paritosh Bhattacharya
+Some numerical studies on
+2 Sangita Das 2018 &
+closed cavities
+Dr. Uttam kumar Bera
+Dr.
+ParitoshBhattacharya
+Properties of in Doped
+Mr. Mitra Barun
+3 Tio2 And its Applications 2018
+Sarkar &
+in Optoelectronics
+Dr. Aniruddha Mondal,
+NIT Durgapur
+Dr. Paritosh
+On Modification in Bhattacharya
+Histogram Equalization &
+4 2020
+Mr. Abhishek Paul
+for Enhancement in Prof. Shanti Prasad
+Digital Images Maiti, IIEST Shibpur
+Mathematical modeling of
+intra and inter host
+transmission dynamics of Dr. Paritosh
+5 2020
+Mousumi Dhar
+infectious diseases Bhattacharya
+incorporating some real
+life applications
+Dr. Paritosh
+Bhattacharya
+On active contour methods &
+in medical image Prof. Shanti Prasad
+6 2020
+Mr. Ankur Biswas
+segmentation Maiti, IIEST Shibpur
+
+--- Page 20 ---
+Sl.
+Name Title of the Thesis Year Supervisor
+No.
+Didactic design
+scaffolding BYOD
+supported teaching
+learning and models for Dr. Paritosh
+7 2020
+Mr. Suman Deb
+enhancing classroom Bhattacharya
+interaction with
+technology inclusion.
+(Submitted on 28.09.2020)
+Dr. Paritosh
+Named Entity Recognition
+Bhattacharya
+For Low Resource
+8 Mr. Abhijit 2020 &
+Language (Submitted on
+Debberma
+Prof. B. Purokayastha,
+17.09.2020)
+Assam University
+
+--- Page 21 ---
+

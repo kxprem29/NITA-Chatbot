@@ -1,0 +1,2498 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+CIVIL ENGINEERING
+Specialization in
+Seismic Science and Engineering
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA (TRIPURA)
+
+--- Page 2 ---
+PREFACE
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology
+(M. Tech) in seven different specializations viz, Environmental Engineering, Geotechnical
+Engineering, Hydro-Informatics Engineering, Structural Engineering, Seismic Science and
+Engineering, Transportation Engineering and Water Resources Engineering.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits
+and 2000 marks. Semester wise distribution of course and credits are as follows: First semester:
+25 credits and 800 marks for five theory subjects (comprises basic core, core and elective
+subjects), two laboratory subjects and seminar; Second semester: 25 credits and 800 marks for
+four theory subject (comprises basic core, core and elective subjects), two laboratory subjects,
+comprehensive viva-voce and project preliminaries; Third semester: 10 credits and 100 marks;
+and Fourth semester: 20 credits and 300 marks. Third and fourth semester of PG courses will
+be fully devoted to project works. Minimum requirement of number of class hours for each
+theory course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester.
+Each theory subject in a semester is evaluated for 100 marks, with the following weightages.
+Sub-component weightage:Continuous evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5
+Marks, Class test: 10 Marks, Assignment: 10 Marks); Mid-semester Examination: 20 Marks;
+and End-semester Examination: 50 Marks
+The course curriculum of M Tech Seismic Science and Engineering programme is designed
+considering the following six Programme Outcomes (POs):
+PO1: An ability to independently carry out research /investigation and development work to
+solve practical problems.
+PO2: An ability to write and present a substantial technical report/document.
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements in
+the appropriate bachelor program
+PO4: An ability to identify, formulate and solve Seismic Science and Engineering related
+problems using advanced level computing techniques
+PO5: An ability to understand the impact of Seismic Science and Engineering solutions in a
+global, economic, environmental and societal context
+
+--- Page 3 ---
+PO6: Ability to demonstrate the knowledge of Seismic Science and Engineering and
+management principles and apply these to multidisciplinary environments.
+The course curriculum of M Tech Seismic Science and Engineering programme is also
+designed considering two Program Specific Outcome (PSOs).
+PSO1: Analysis, design, investigation of complex problems in ways which are sustainable and
+environmental friendly.
+PSO2: Handling of any Civil Engineering projects ethically either as an individual or as a team.
+Expert opinions are being taken in regular basis in order to improve the quality of teaching
+learning process and to attain the programme outcomes efficiently.
+In the Final year of M.Tech programmes (Third and Fourth Semesters) students may also opt
+for industrial research. If any student desire to pursue his/her research in reputed industries,
+he/she may be allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such
+industry bodies.
+b. The selected industry needs is approved by the DPPC of the concerned Department.
+c. The student selects one supervisor from industry and another supervisor from the
+Institute.
+d. If any student opts for such industrial research he/she will not receive any scholarship
+from the institute in this tenure, even if he/she wants to return back. In such cases the student
+will be allowed to complete his/her project in the institute but without any scholarship.
+
+--- Page 4 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Syllabus: M.Tech. (Seismic Science and Engineering)
+Sl.
+Subject Page No.
+No.
+First Semester
+1 Basic Core SSE-4 to SSE-7
+PCE71B01: Advanced Engineering Geology and Geo-
+HazardManagement
+2 Core Subject-I SSE-8 to SSE-10
+PCE71C01: Dynamics of systems
+3 Core Subject-II SSE-11 to SSE-13
+PCE71C02: Numerical Methods
+4 Elective Paper I (Any One)
+PCE71E01:Geographical Information Systems and Remote
+Sensing
+SSE-14 to SSE-22
+PCE71E02: Structural Reliability
+PCE71E03: Seismic Microzonation
+5 Elective Paper II (Any One)
+PCE71E04: Ground Improvement Techniques
+PCE71E05: Engineering Application of Geophysical SSE-23 to SSE-33
+Techniques
+PCE71E06: Seismic Hazrd&Risk Assessment
+6 PCE71P01: Advanced Dynamics Laboratory SSE-34 to SSE-35
+7 PCE71P02: Characterization of Rock and Fault SSE-36 to SSE-37
+8 PCE71P03: Seminar SSE -38
+Total
+Second Semester
+1 PCE72B01: Advanced Seismology SSE-40 to SSE-43
+2 Core Subject-I
+PCE72C01: Geotechnical Earthquake Engineering SSE-44 to SSE-47
+3 Core Subject-II SSE-48 to SSE-50
+PCE72C02: Seismic Analysis and Design of Structures
+4 Elective Paper III (Any One)
+PCE72E01: Soil-Structure Interaction
+PCE72E02: Finite Element Method
+SSE-51 to SSE-60
+PCE72E03: Seismic Slope Stability: Earth Dam and
+Retaining Wall
+5 PCE72P01: Software Application Lab SSE-61 to SSE-63
+6 PCE72P02: Digital Image Processing and Seismic Signal SSE-64 to SSE-65
+Processing Lab
+7 PCE72P03: Project Preliminary SSE-66
+8 PCE72P04: Comprehensive Viva-voce SSE-66
+Total
+Third Semester
+1 PCE73P06: Project & Thesis - I SSE-67
+Fourth Semester
+1 PCE74P01: Project & Thesis - II SSE-67
+SSE-1 | Pa ge
+
+--- Page 5 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+First Semester
+1 Basic Core 4 4 100
+PCE71B01: Advanced Engineering Geology and Geo-
+Hazard Management
+2 Core Subject-I 4 4 100
+PCE71C01: Dynamics of systems
+3 Core Subject-II 4 4 100
+PCE71C02: Numerical Methods
+4 Elective Paper I (Any One) 4 4 100
+PCE71E01:Geographical Information Systems and
+Remote Sensing
+PCE71E02: Structural Reliability
+PCE71E03: Seismic Microzonation
+5 Elective Paper II (Any One) 4 4 100
+PCE71E04: Ground Improvement Techniques
+PCE71E05: Engineering Application of Geophysical
+Techniques
+PCE71E06: Seismic Hazrd&Risk Assessment
+6 PCE71P01: Advanced Dynamics Laboratory 2 3 100
+7 PCE71P02: Characterization of Rock and Fault 2 3 100
+8 PCE71P03: Seminar 1 2 100
+Total 25 28 800
+Second Semester
+1 PCE72B01: Advanced Seismology 4 4 100
+2 Core Subject-I 4 4 100
+PCE72C01: Geotechnical Earthquake Engineering
+3 Core Subject-II 4 4 100
+PCE72C02: Seismic Analysis and Design of Structures
+4 Elective Paper III (Any One) 4 4 100
+PCE72E01: Soil-Structure Interaction
+PCE72E02: Finite Element Method
+PCE72E03: Seismic Slope Stability: Earth Dam and
+Retaining Wall
+5 PCE72P01: Software Application Lab 2 3 100
+6 PCE72P02: Digital Image Processing and Seismic 2 3 100
+Signal Processing Lab
+7 PCE72P03: Project Preliminary 3 6 100
+8 PCE72P04: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+Third Semester
+1 PCE73P06: Project & Thesis - I 10 ----- 100
+Fourth Semester
+1 PCE74P01: Project & Thesis - II 20 ----- 300
+Total 2000
+Marks
+SSE-2 | Pa ge
+
+--- Page 6 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+First Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+First Semester
+1 Basic Core 4 4 100
+PCE71B01: Advanced Engineering Geology and
+Geo-Hazard Management
+2 Core Subject-I 4 4 100
+PCE71C01: Dynamics of systems
+3 Core Subject-II 4 4 100
+PCE71C02: Numerical Methods
+4 Elective Paper I (Any One) 4 4 100
+PCE71E01:Geographical Information Systems and
+Remote Sensing
+PCE71E02: Structural Reliability
+PCE71E03: Seismic Microzonation
+5 Elective Paper II (Any One) 4 4 100
+PCE71E04: Ground Improvement Techniques
+PCE71E05: Engineering Application of
+Geophysical Techniques
+PCE71E06: Seismic Hazrd&Risk Assessment
+6 PCE71P01: Advanced Dynamics Laboratory 2 3 100
+7 PCE71P02: Characterization of Rock and Fault 2 3 100
+8 PCE71P03: Seminar 1 2 100
+Total 25 28 800
+SSE-3 | Pa ge
+
+--- Page 7 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Basic Core
+ADVANCED ENGINEERING GEOLOGY AND GEO-HAZARD
+MANAGEMENT(PCE71B01)
+Total Credit: 04 Contact Periods: 04 (4L+0T+0P)
+Course Objective:
+1. To know about Geology and Geo-hazard Management
+2. To understand origin of Earth, Earth surface topography, ocean floors, Earth’s interior,
+fault, fold, rift and basin systems, tectonic plates, etc.
+3. To understand geological and geophysical mapping for engineering projects.
+4. To understand geohazards and disaster mitigation management, seismic zonation,
+building code.
+5. To understand Earthquake, Volcano, Flood, Cyclone, Landslides, Tsunami, and various
+warning systems.
+6. To understand Geo-environment, Climate & Tectonics.
+7. To evaluate geological structures of a particular location/site and to go for geo-hazard
+management, if required.
+Course Content:
+Unit-1:
+Origin of Earth, various hypothesis, figure of the Earth, geoid, Earth’s interior structure
+and constitution. Mantle convection and self-dynamo theory, Earth’s crust, oceanic and
+continental types, structure, composition and mineralogy.
+Unit-2:
+Continental drift theory, plate tectonics, plate margins, kinematics and relative
+movements of the major plates, surface manifestations, tectonic and seismic activity at the
+plate margins, sea mounts, ridges, ocean volcanoes, continental slope, shelf and hinge
+zones.
+Unit-3:
+Geological time scales, structure and composition of the crust in land and ocean. The
+Himalaya orogeny. Formation of different types of rocks and soils, geological
+classifications, rock hardness, strength, rock cycles, soil classification, soil erosion.
+SSE-4 | Pa ge
+
+--- Page 8 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-4:
+Weathered layer, bed rock, strike, dip, rock texture, fractures, joints, shear strength,
+stability and slope, landslides, engineering properties of rocks (lab and in-situ) density,
+porosity, permeability, drilling / borehole lithologs, core, SPT.
+Unit-5:
+Faults. lineaments and fold structures in rocks, kinematics and dynamics of faulting and
+folding, crustal structures like graben, rift systems, sedimentary basin, dykes, sills and
+batholith. An introduction to geological and tectonic map of India.
+Unit-6:
+Global seismicity, seismic wave types and propagation, interior structure of the Earth
+based on seismological observations. Tsunami, Paleoseismicity and seismites.
+Unit-7:
+Geological mapping, weathered layer section from drilling data, lithology identification,
+dip and strike of bed rock formation, surface structural discontinuity, unconformity.
+Geophysical mapping (by resistivity and seismic refraction methods) of the subsurface
+structures, bed rock depth, hidden fault identification at the engineering project sites.
+Unit-8:
+Geohazards like earthquakes, floods, river behavior, draughts, landslides, cyclones,
+tsunamis, coastal hazards, sea level changes. Disaster mitigation and management.
+Unit-9:
+Seismic zoning map (BIS), building codes, preparation of microzonation maps for the
+engineering projects by multidisciplinary approaches (Geology, Geophysics, Seismology
+and Geotechnical).
+Unit-10:
+Earthquake, Tsunami, Cyclone, Flood, Volcano, Landslide and warning systems, and
+developing public awareness.
+Unit-11:
+An interactive discussion on geo-environment, tectonics and climate change.
+SSE-5 | Pa ge
+
+--- Page 9 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Reference:
+1. Legget, R.F. and Hathway, A., “Geology and Engineering”, McGraw-Hill 1988
+2. Bell, F.G., “Fundamentals of Engineering Geology”, Elsevier 2007
+3. Johnson, R.B. and DeGraft, J.V. “Principles of Engineering Geology”, John Wiley &
+Sons 1988
+4. Brown, G.C., Hawkesworth, C.J. and Wilson, R.C.L.(Eds.), “Understanding the Earth”,
+Cambridge University Press 1992
+5. Condie, K.C, “Plate Tectonics and Crustal Evolution”, Butterworth-Heinemann 1982
+6. Cox, A. and Hart, R. B “Plate Tectonics: How it Works”, Wiley- Blackwell 1986
+7. Davies, G.F., “Dynamic Earth: Plates, Plumes and Mantle Convection”, Cambridge
+2000
+8. Hoek E. and Bray J.W., “Rock Slope Engineering”, Spoon Press, 3rd edition. 1980
+9. Petak W.J. and Aitkinson A.D., “Natural Hazard risk Assessment and Public Policy”,
+Springer-Verlag. 1982
+10. Haque C. E., “Mitigation of Natural Hazards and Disasters”, International
+perspectives”, Springer.
+Course Outcome:
+1. The students will know about Geology and Geo-hazard Management.
+2. They will understand origin of Earth, Earth surface topography, Earth’s interior, crustal
+structures like faults, folds, rift and basin systems, tectonic plates, etc.
+3. They will understand geological and geophysical mapping for engineering projects.
+4. They will learn geo-hazards and disaster mitigation management, seismic
+microzonation, building code.
+5. They will also learn Earthquake, Volcano, Flood, Cyclone and Tsunami warning
+systems, geo-environment and climate.
+6. They can evaluate geological and structural conditions of a particular location and take
+precautionary measures for geo-hazard management, if required.
+SSE-6 | Pa ge
+
+--- Page 10 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE71B01.1 The students will know about Engineering Geology and Geo-hazard
+Management
+PCE71B01.2 They will understand origin of Earth, Earth surface topography, Earth’s
+interior structure, fault, fold, rift, basin, tectonic plates etc.
+PCE71B01.3 They will understand geological and geophysical mapping for engineering
+projects.
+PCE71B01.4 They will learn geo-hazards and disaster mitigation management, seismic
+microzonation, building code etc.
+PCE71B01.5 They will also learn Earthquake, Volcano, Flood, Landslides, Cyclone,
+Tsunami and various warning systems, geo-environment and climate.
+PCE71B01.6 They can evaluate surface and subsurface geological structures of a
+particular location and take necessary measures for geo-hazard
+management, if required
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71B01.1 3 3 2 2 2 2
+PCE71B01.2 3 3 2 2 2 2
+PCE71B01.3 3 3 2 2 2 2
+PCE71B01.4 3 3 2 2 2 2
+PCE71B01.5 3 3 2 2 2 2
+PCE71B01.6 3 3 2 2 2 2
+Total 18 18 12 12 12 12
+Average 3 3 2 2 2 2
+Equivalent Avg. Attainment 3 3 2 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71B01.1 3 3
+PCE71B01.2 3 3
+PCE71B01.3 3 3
+PCE71B01.4 3 3
+PCE71B01.5 3 3
+PCE71B01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+SSE-7 | Pa ge
+
+--- Page 11 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Core Subject-I
+DYNAMICS OF SYSTEMS (PCE71C01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. 1.To make the students understand the basics of structural dynamics, different types
+of dynamic loads and systems.
+2. To make able the students to analyze different systems under dynamic loads.
+3. To gain knowledge about application of structural dynamics to civil engineering
+problems.
+Course Content:
+Unit-1
+An over view on basic features of dynamic loading and response – models for dynamic
+analysis –lumped mass, generalized displacements and finite element models.
+Formulation of equation of motion – irect equilibration, principle of virtual displacement
+and Hamilton’s principle. Degrees of freedom – Translational and rotational systems -
+Mass moment of inertia- Generalized single degree of freedom systems- Rigid body
+assemblage determination of characteristic properties.
+Unit -2
+Free vibration of single degree of freedom system: - Solution of equation of motion,
+undraped free vibration - Damped free vibration, critically damped, under damped and
+over damped systems, Negative damping.
+Unit -3
+Forced vibration of Single degree of freedom system –Response to harmonic loading,
+undamped system and damped system, Response to periodic loading -Fourier series
+expansion of the loading response to Fourier series loading Exponential form of Fourier
+series loading and response-Complex frequency transfer functions. Response to impulsive
+loads: - Suddenly applied load, sine wave impulse, rectangular impulse, triangular
+impulse, spike loading, approximate analysis. Response to general dynamic loading: -
+Duhamel integral for undamped system – unit impulse response function – numerical
+evaluation, response of damped system- numerical evaluation, Numerical analysis in the
+frequency domain, fast Fourier transform analysis.
+Unit 4
+Multi degree of freedom system: - Two degree of freedom system – equation of motion,
+characteristic equation, frequencies and mode shapes, coordinate coupling and choice of
+degree of freedom, orthogonality of modes, natural coordinates, superposition of natural
+SSE-8 | Pa ge
+
+--- Page 12 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Modes, response of two degree of freedom system to initial excitation, beat phenomenon,
+response to harmonic excitation. Multi- degree of freedom system – analysis of multi-
+degree of freedom system- mode superposition analysis.
+Unit 5
+Distributed Parameter System: Partial differential equation of motion - Axial vibration of
+prismatic bars - Elementary case of flexural vibration of beams - Beam flexure including
+axial force effects. Orthogonality of modes- Normal Coordinates- Uncoupled Equations
+of flexible vibration of beams. Practical Vibration Analysis: - Determination of frequency
+by Rayliegh’s method, beam flexure –selection of shape- improved Rayliegh’s method.
+References:
+Sl Name of Book Author Publisher
+No.
+1. Dynamics of structures – Theory Chopra, A.K. Tata McGraw
+and Application to Earthquake Hill.,
+Engg.
+2. Structural Dynamics Mario Paz CBS Publishers
+and Distributors
+3. IS 1893 – Criteria for Earthquake Resistant Design of Structures
+4. SP 22: Explanatory Handbook on Codes for Earthquake Engineering
+Course Outcome:
+At the end of the course, student will be able to
+1. Understand different types of dynamic loading and will be able to convert
+structures into SDOF and MDOF system.
+2. Evaluate the free and forced vibration response of SDOF system with damped and
+undamped conditions.
+3. Evaluate free and forced vibration response of MDOF systems with damped and
+undamped conditions.
+4. Apply numerical methods to evaluate response of SDOF and MDOF system.
+5. Understand time history analysis and concept of response spectra.
+SSE-9 | Pa ge
+
+--- Page 13 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table-1
+To establish the correlation between COs &POs
+No. of Course Course Outcome
+Outcome (CO)
+PCE71C01.1 Students will be able to understand different types of dynamic loading
+and will be able to convert structures into SDOF and MDOF system
+PCE71C01.2 Students will be able to calculate free and forced vibration response of
+SDOF system
+PCE71C01.3 Students will be able to calculate free and forced vibration response of
+MDOF system
+PCE71C01.4 Students will be able to apply numerical methods to evaluate response
+of SDOF and MDOF systems
+PCE71C01.5 Students will be able to understand time history analysis and concept
+of response spectra
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71C01.1 3 2 3 2 2 2
+PCE71C01.2 3 2 3 2 2 2
+PCE71C01.3 3 2 3 2 2 2
+PCE71C01.4 3 2 3 2 2 2
+PCE71C01.5 3 2 3 2 2 2
+Total 15 10 15 10 10 10
+Average 3 2 3 2 2 2
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71C01.1 3 2
+PCE71C01.2 3 2
+PCE71C01.3 3 2
+PCE71C01.4 3 2
+PCE71C01.5 3 2
+Total 15 10
+Average 3 2
+Equivalent Avg. 3 2
+Attainment
+SSE-10 | P a ge
+
+--- Page 14 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Core Subject-II
+NUMERICAL METHODS (PCE71C02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand about the necessity of approximations and errors in computation.
+2. To explain the various methods of interpolation, numerical differentiation and
+integration.
+3. To explain the numerical solution of algebraic and transcendental equations.
+4. To explain the numerical solution of ordinary and partial differential equation.
+5. To explain the numerical solution of eigen value problem.
+Course Content:
+Unit-1
+Estimation of Errors: Approximation of numbers; Significant figures, Absolute, Relative
+and Percentage errors, Truncation and round-off errors, Accumulation and propagation of
+errors.
+Unit -2
+Concept of interpolation, difference operators, divided difference interpolation, Newton’s
+forward, backward interpolation, Lagrange’s interpolation, Central Difference
+Interpolation Formula, Starling and Bessel’s interpolation, Hermite interpolation, Spline
+interpolation – cubic splines, least square approximation to discrete data. Numerical
+Differentiation using Newton’s Forward and Backward Interpolation Formula. Newton-
+Cote’s Formula, Trapezoidal Rule, Simpson’s one-third Rule, Simpson’s three-eighth
+Rule, Weddle’s Rule, Euler- Maclaurin’s Summation Formula, Gaussian Legendre and
+GaussainChebyshevs quadrature, Richardson extrapolation, Euler Maclaurins sum
+formula, Rombergs integration.
+Unit -3
+Solution of algebraic and transcendental equations by bisection method, iteration method,
+Regula-Falsi method (Method of False position), Newton-Raphson method, Complex
+roots by Lin-Bairstow’s method, Solution of Simultaneous linear equations by Gauss
+Elimination Method, Gauss-Jordan Elimination Method and Gauss-Seidal Iteration
+Method, Matrix Inversion Method, Triangular factorization, relaxation method. Roots of
+Polynomial equations: Sensitivity of Polynomial Roots, Steffensen method, Bairstows
+method of quadratic factors, Graeffes root squaring method.
+Unit -4
+Taylor’s method, Picard’s method, Euler’s method, Euler’s modified method, Runge’s
+method, Runge-Kutta’s method, Predictor- corrector method (Milne’s Method , ABM
+Method). Numerical Solution of Partial differential equation: Methods for solving
+Hyperbolic Equations by finite difference methods, explicit methods, implicit methods &
+by the method of characteristics.
+Unit -5
+LU decomposition of matrices, Power method of extreme eigen values, Jacobis method
+for symmetric matrices.
+SSE-11 | P a ge
+
+--- Page 15 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl Name of Book Author Publisher
+No.
+1. Advanced Engineering E. Kreyszig John Wiley & Sons
+Mathematics
+2. Numerical Methods in Engineering B. S. Grewal Khanna Publishers
+and Science
+3. Numerical Analysis S.A.Mollah Books & Allied Ltd
+Course Outcome:
+1. Students will be able to analyze and compute the error of estimation.
+2. Students will be able to analyze and find the numerical solution of algebraic and
+transcendental equations.
+3. Students will be able to analyze and find the numerical solution of ordinary and partial
+differential equations.
+4. Students will be able to analyze and compute the numerical solution of eigen value
+problems.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE71C02.1 Students will be able to analyze and compute the error of estimation.
+PCE71C02.2 Students will be able to analyze and find the numerical solution of
+algebraic and transcendental equations.
+PCE71C02.3 Students will be able to analyze and find the numerical solution of
+ordinary and partial differential equations.
+PCE71C02.4 Students will be able to analyze and compute the numerical solution of
+eigen value problems.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71C02.1 2 2 2 2 2 2
+PCE71C02.2 3 3 2 2 2 2
+PCE71C02.3 3 3 2 2 2 2
+PCE71C02.4 3 3 2 2 2 2
+Total 11 11 8 8 8 8
+Average 2.75 2.75 2 2 2 2
+Equivalent Avg. Attainment 3 3 2 2 2 2
+SSE-12 | P a ge
+
+--- Page 16 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71C02.1 2 2
+PCE71C02.2 3 3
+PCE71C02.3 3 3
+PCE71C02.4 3 3
+Total 11 11
+Average 2.75 2.75
+Equivalent Avg. Attainment 3 3
+SSE-13 | P a ge
+
+--- Page 17 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Elective Paper - I (Any One)
+PCE71E01: Geographical Information Systems and Remote Sensing
+PCE71E02: Structural Reliability
+PCE71E03: Seismic Microzonation
+GEOGRAPHICAL INFORMATION SYSTEMS AND REMOTE
+SENSING(PCE71E01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To make the students conversant with the basics of GIS and its general applications in
+various fields.
+2. To have adequate knowledge on Type of data and information handled in GIS.
+3. To have adequate knowledge on various GIS analysis operations with vector data.
+4. To have adequate knowledge on various GIS analysis operations with Raster data.
+5. To understand Remote sensing and its basic along with its application in
+Environmental Engineering.
+6. To have practical knowledge about handing geo-spatial data.
+Course Content:
+Unit-1:
+Introduction to GIS (history of GIS, early developments in GIS, components of GIS,
+Applications of GIS etc).
+Unit-2:
+Spatial Data Modelling (Representation of spatial data, Raster & vector data model, TIN
+& DEM), Geo-referencing and Projection (Coordinate System, Map Projection,
+Transformation, Geo-referencing), Map and Map Scales (Introduction to Maps, Map
+Scales, Types of Maps, Map and Globe).
+Unit-3:
+Data Base Management system (Data Storage, Database Structure Models, GIS Data File
+Management), Spatial data (Primary data, Secondary data, Data pre-processing).
+SSE-14 | P a ge
+
+--- Page 18 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-4:
+Data Analysis (Vector operation & analysis, Raster operation & analysis, Network
+Analysis), Interpolation Technique (Global Methods of Interpolation, Local Methods of
+Interpolation).
+Unit-5:
+Cartographic Principles and Design (Introduction, Map layout, Toposheet, component of
+Map), GPS, Introduction to Remote sensing and its application.
+References:
+1. Burrough P A., (1986), "GIS for Land Resource Assessment", Oxford University Press,
+U.K.
+2. Star J.L., and Estes J.E., (1990). "Geographic Information Systems; An Introduction".
+Prentice Hall Publications.
+3. Laurini R. and Thompson D., (1992). "Fundamentals of Spatial Information Systems",
+Academic Press.
+4. Mishra H.C., (1997), "GIS Handbook", GIS India, ShanthiNivas, Hyderabad.
+5. Anji Reddy, (2001), "Remote Sensing and GIS", B.S. Publications, Hyderabad.
+6. Floyd F. Sabins, (1996) "Remote Sensing - Principles and Interpretations", W.H.
+Freeman & Co
+7. Michael N. Demas. (2000), "Fundamentals of GIS", John Wiley & Sons, Inc.
+Course outcome:
+1. Students will be able to understand basics about GIS and RS.
+2. Students will be able to understand the practical application of GIS & RS in
+Environmental Engineering.
+3. Students will be able to analysis and visualize their own data sets in GIS domain.
+4. Students will be able to download and process various data obtained from various RS
+platform.
+5. Students will be able to use the knowledge to solve practical real-life problem and help
+in planning & management.
+SSE-15 | P a ge
+
+--- Page 19 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table 1
+To establish the correlation between COs &POs
+No. of Curse
+Course Outcome
+Outcome (CO)
+PCE71E01.1 Students will be able to understand basics about GIS and RS
+PCE71E01.2 Students will be able to understand the practical application of GIS
+& RS in Environmental Engineering.
+PCE71E01.3 Students will be able to analyse and visualize their own data sets in
+GIS domain
+PCE71E01.4 Students will be able to download and process various data obtained
+from various RS platform
+PCE71E01.5 Students will be able to use the knowledge to solve practical real-
+life problem and help in planning & management.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E01.1 3 3 3 2 2 2
+PCE71E01.2 3 3 3 2 2 2
+PCE71E01.3 3 3 3 2 2 2
+PCE71E01.4 3 3 3 2 2 2
+PCE71E01.5 3 3 3 2 2 2
+Total 15 15 15 10 10 10
+Average 3 3 3 2 2 2
+Equivalent Avg. 3 3 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E01.1 3 3
+PCE71E01.2 3 3
+PCE71E01.3 3 3
+PCE71E01.4 3 3
+PCE71E01.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. 3 3
+Attainment
+SSE-16 | P a ge
+
+--- Page 20 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+STRUCTURAL RELIABILITY(PCE71E02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand about the probabilistic methods in engineering problems.
+2. To understand the statistical modeling of engineering problem.
+3. To understand the reliability assessment of structural performance with design
+optimization.
+Course Content:
+Unit-1
+Concepts of structural safety.
+Basic Statistics: - Introduction, data reduction.
+Unit-2
+Probability theory: Introduction, random events, random variables, functions of random
+variables, moments and expectation, common probability distributions.
+Unit-3
+Resistance distributions and parameters: - Introduction, Statistics of properties of concrete,
+steel and other building materials, statistics of dimensional variations, characterization of
+variables, Allowable stresses based on specified reliability. Probabilistic analysis of loads:
+gravity loads, wind loads.
+Unit-4
+Basic structural reliability: - Introduction, computation of structural reliability. Level 2
+Reliability methods: Introduction, basic variables and failure surface, first order second
+moment methods (FOSM). Monte Carlo study of structural safety: -General, Monte Carlo
+method, applications.
+Unit-5
+Reliability based design: Introduction, determination of partial safety factors, development of
+reliability-based design criteria, optimal safety factors. Reliability of Structural system:
+Introduction, system reliability, modelling of structural systems, bounds of system reliability,
+reliability analysis of frames.
+SSE-17 | P a ge
+
+--- Page 21 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl Name of Book Author Publisher
+No.
+1. Reliability Analysis and Design of Structures R. Ranganathan. Tata McGraw Hill,
+1990
+2. Probability Concepts in Engineering Planning Ang, A. H. S and Tang, W. John Wiley & Sons,
+and Design, Vol. I Basic Principles 1975
+3. Probability Concepts in Engineering Planning Ang, A. H. S and Tang, W. John Wiley & Sons,
+and Design, Vol. II Decision, Risks and H. 1984
+Reliability
+4. Probability, Statistics and Decision for Jack R. Benjamin & C. Allin Tata McGraw-Hill
+Engineers Cornell.
+5 Reliability based structural design Seung-Kyum Choi, Ramana Springer 2007
+V. Grandhi and Robert A.
+Canfield
+Course Outcome:
+1. Students will be able to learn application of probabilistic methods in engineering
+problem.
+2. Students will be able to learn linear and nonlinear reliability problems.
+3. Students will be able to develop idea on reliability based structural design.
+4. Students will be able to learn various statistical modeling techniques and method of
+analysis.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome
+(CO)
+PCE71E02.1 Students will be able to learn application of probabilistic methods in
+engineering problem.
+PCE71E02.2 Students will be able to learn linear and nonlinear reliability problems.
+PCE71E02.3 Students will be able to develop idea on reliability based structural design.
+PCE71E02.4 Students will be able to learn various statistical modelling techniques and
+method of analysis.
+SSE-18 | P a ge
+
+--- Page 22 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E02.1 2 2 3 2 2 2
+PCE71E02.2 3 3 3 2 2 2
+PCE71E02.3 3 3 3 2 2 2
+PCE71E02.4 3 3 3 2 2 2
+Total 11 11 12 8 8 8
+Average 2.75 2.75 3 2 2 2
+Equivalent Avg. Attainment 3 3 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E02.1 2 2
+PCE71E02.2 3 3
+PCE71E02.3 3 3
+PCE71E02.4 3 3
+Total 11 11
+Average 2.75 2.75
+Equivalent Avg. Attainment 3 3
+SSE-19 | P a ge
+
+--- Page 23 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+SEISMIC MICROZONATION
+(PCE71E03)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To know about seismic microzonation including basic principle, prevailing practices,
+survey and techniques and estimation of spatial and temporal variation of ground
+motion characteristics.
+2. To apply geological, geophysical, seismological and geotechnical methods for the
+determination of soil and rock properties and subsurface structures
+3. To quantify the site effects and ground motion using both experimental and empirical
+methods.
+4. To evaluate the seismic microzonation of an area using different methods like PSHA,
+DSHA and NDSHA.
+5. To synthesize the results obtained by different researchers and present study.
+6. To evaluate the most acceptable solution for seismic microzonation.
+Course Content:
+Unit-1:
+Introduction: Seismic microzonation and its objectives, historical developments;
+geological, seismological, geophysical and geotechnical investigations, and data
+interpretation.
+Unit-2:
+Use of GIS and GPS in Microzonation: Type of surveys, map scales; GIS components,
+vector and raster data; GIS-techniques, methodology software; Use of GIS in
+microzonation; PS, mapping using GPS & GIS.
+Unit-3:
+Seismic Waves and Local Site Effects: Body and surface waves; Factors affecting ground
+motion characteristics; Local site effects basic physical concept, liquefaction potential,
+impedance contrast, resonance, predominant frequency (PF), amplification factors,
+basement topography, attenuation, trapping; basin-edge, topography, ridge, valley, slope;
+lateral discontinuity etc..
+Unit-4:
+Geological, geophysical, geotechnical and well logging investigations for bedrock
+configuration and also for determining soil properties; seismological methods for site
+response studies; steady state Rayleigh method, spectral analysis of surface waves,
+(SASW), MASW for Vs and ground penetrating radar (GPR) for profiling shallow
+structures etc.
+Unit-5:
+Quantification of Site Effects: Experimental methods; Microearthquake- standard spectral
+ratio method (SSR), ambient noise horizontal to vertical (H/V) spectral ratio method,
+determination of amplification factor, predominant frequency (PF), empirical relations;
+Analytical method; 1D ground response of layered medium.
+SSE-20 | P a ge
+
+--- Page 24 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-6:
+Site-specific Ground Motion Estimation: Empirical Green’s function; Numerical
+methods; Basic concept, recent developments; Domain method, boundary method &
+hybrid method; Effects of nonlinearity on ground motion.
+Unit-7:
+Seismic Microzonation: PSHA, DSHA and NDSHA; Seismic microzonation of mega
+cities, scales used in seismic microzonation; Recent developments and case studies.
+Unit-8:
+Computer Programs: Computer programs to estimate seismic ground motion knowing the
+seismic response at given point using linear and non-linear properties of layered medium;
+Seismic hazard and risk assessment.
+References:
+Sl. Year of
+Name of Books/ Authors/ Publishers
+No. Publication
+Dobrin, M.B. and C.H. Savit, “Introduction to Geophysical Prospecting,
+1
+Fourth Edition, McGraw Hill Book Company”, Singapore. 1988
+Leon Reiter, “Earthquake Hazard Analysis”, Columbia University Press”,
+2 1990
+New York.
+Antoni Roca and Carlos Oliveria, “Earthquake Microzoning”,
+3 2002
+BirkhauserVerlag, Berlin.
+Konency, G., “Geoinformation, Remote Sensing, Photogrammetry and
+4 Geographic Information System”, Taylor and Francis, London. 2003
+Kramer, S.L., “Geotechnical Earthquake Engineering, Second Indian
+reprint”, Pearson 2004
+5
+Education.
+Course Outcome:
+1. The students will know about seismic microzonation including basic principle,
+prevailing practices, survey and techniques and estimation of spatial and temporal
+variation of ground motion characteristics.
+2. They can apply geological, geophysical, geotechnical and seismic methods for the
+determination of soil and rock properties, Vs of the soil cover, bed rock configuration
+etc. for seismic microzonation.
+3. They can estimate the site effects, amplification factor, predominant frequency (PF),
+liquefaction potential, and ground motion using both experimental and empirical
+methods.
+4. They can prepare a seismic microzonation map of an area using different methods like
+PSHA, DSHA and NDSHA.
+5. They can synthesize the results obtained by different researchers and present study.
+6. They can evaluate and update the most acceptable solution for seismic microzonation.
+SSE-21 | P a ge
+
+--- Page 25 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE71E03.1 The students will know about seismic microzonation including basic
+principle, prevailing practices, survey and techniques and estimation of
+spatial and temporal variation of ground motion characteristics.
+PCE71E03.2 They can apply geological, geophysical, geotechnical and seismic
+methods for the determination of soil and rock properties, Vs of the soil
+cover, bed rock configuration etc. for seismic microzonation.
+PCE71E03.3 They can estimate the site effects, amplification factor, predominant
+frequency (PF), liquefaction potential, and ground motion using both
+experimental and empirical methods.
+PCE71E03.4 They can prepare a seismic microzonation map of an area using different
+methods like PSHA, DSHA and NDSHA.
+PCE71E03.5 They can synthesize the results obtained by different researchers and
+present study.
+PCE71E03.6 They can evaluate and update the most acceptable solution for seismic
+microzonation.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E03.1 3 2 3 2 2 2
+PCE71E03.2 2 2 3 2 2 2
+PCE71E03.3 3 2 3 2 2 2
+PCE71E03.4 2 2 3 2 2 2
+PCE71E03.5 3 2 3 2 2 2
+Total 13 10 15 10 10 10
+Average 2.6 2 3 2 2 2
+Equivalent Avg. Attainment 3 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E03.1 3 2
+PCE71E03.2 2 2
+PCE71E03.3 3 2
+PCE71E03.4 2 2
+PCE71E03.5 3 2
+Total 13 10
+Average 2.6 2
+Equivalent Avg. Attainment 3 2
+SSE-22 | P a ge
+
+--- Page 26 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Elective Paper - II(Any One)
+PCE71E04: Ground Improvement Techniques
+PCE71E05: Engineering Application of Geophysical Techniques
+PCE71E06: Seismic Hazard & Risk Assessment
+GROUND IMPROVEMENT TECHNIQUES (PCE71E04)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand the necessity of ground improvement techniques.
+2. To understand the details of mechanical stabilization.
+3. To understand the ground improvement by drainage.
+4. To understand the applications of admixtures for ground improvement.
+5. To understand the applications of grouting techniques.
+6. To understand the in-situ soil treatment methods.
+7. To understand the case studies of ground improvement projects.
+Course Content:
+Unit-1
+Introduction: Need for Ground Improvement, Different types of problematic soils,
+Emerging trends in ground Improvement.
+Unit-2
+Mechanical stabilization: Shallow and deep compaction requirements, Principles and
+methods of soil compaction, Shallow compaction and methods. Properties of compacted
+soil and compaction control, Deep compaction and Vibratory methods Dynamic
+compaction.
+Unit-3
+Hydraulic modification: Ground Improvement by drainage, Dewatering methods.
+Design of dewatering systems, Preloading, Vertical drains, vacuum consolidation,
+Electro-kinetic dewatering, design and construction methods.
+SSE-23 | P a ge
+
+--- Page 27 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-4
+Modification by admixtures: Cement stabilization and cement columns, Lime
+stabilization and lime columns. Stabilization using bitumen and emulsions, Stabilization
+using industrial wastes Construction techniques and applications.
+Unit 5
+Grouting: Permeation grouting, compaction grouting, jet grouting, different varieties of
+grout materials, grouting under difficult conditions.
+Unit-6
+In situ soil treatment methods: Soil nailing, rock anchoring, micro-piles, design
+methods, construction techniques.
+Unit-7
+Case studies: Case studies of ground improvement projects.
+References:
+Sl No. Name of the Books Authors Publishers
+1. Ground Improvement Techniques P. Purushothama Raj Laxmi Publications
+(P) Ltd.
+2. Engineering Principles of Ground Manfired R. Hausmann McGraw-Hill Pub,
+Modification Co.
+3. Designing with geosynthetics R. M. Koerner Prentice Hall Inc.
+4. Guidelines on ground improvement U. S. Army Corps of U. S. Army Corps of
+for structure and facilities Engineers Engineers,
+Washington DC
+5. Ground Control and Improvement Petros P. Xanthakos, Lee John Wiley, New
+W. Abramson and Donald York
+A. Bruce
+Additional Readings: Journal and Conference papers in the area of Ground
+Improvement, Ground Engineering, Geotextiles and geomembranes, Geosynthetics, etc.
+Course Outcome:
+1. Students will be able to understand the necessity of ground improvement techniques.
+2. Students will be able to understand the details of mechanical stabilization.
+3. Students will be able to understand the ground improvement by drainage.
+4. Students will be able to understand the applications of admixtures for ground
+improvement.
+5. Students will be able to understand the applications of grouting techniques.
+SSE-24 | P a ge
+
+--- Page 28 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+6. Students will be able to understand the in-situ soil treatment methods.
+7. Students will be able to understand the case studies of ground improvement projects.
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the necessity of ground improvement
+PCE71E04.1
+techniques.
+PCE71E04.2 Students will be able to understand the details of mechanical stabilization.
+PCE71E04.3 Students will be able to understand the ground improvement by drainage.
+Students will be able to understand the applications of admixtures for ground
+PCE71E04.4
+improvement.
+PCE71E04.5 Students will be able to understand the applications of grouting techniques.
+PCE71E04.6 Students will be able to understand the in-situ soil treatment methods.
+Students will be able to understand the case studies of ground improvement
+PCE71E04.7
+projects.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E04.1 2 2 3 2 2 2
+PCE71E04.2 3 2 3 2 2 2
+PCE71E04.3 3 2 3 2 2 2
+PCE71E04.4 3 2 3 2 2 2
+PCE71E04.5 2 2 3 2 2 2
+PCE71E04.6 2 2 2 2 2 2
+PCE71E04.7 3 3 2 2 2 2
+Total 18 15 19 14 14 14
+Average 2.57 2.14 2.71 2 2 2
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+SSE-25 | P a ge
+
+--- Page 29 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E04.1 2 2
+PCE71E04.2 3 2
+PCE71E04.3 3 2
+PCE71E04.4 3 2
+PCE71E04.5 2 2
+PCE71E04.6 2 2
+PCE71E04.7 3 3
+Total 18 15
+Average 2.57 2.14
+Equivalent Avg. 3 2
+Attainment
+SSE-26 | P a ge
+
+--- Page 30 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+ENGINEERING APPLICATION OF GEOPHYSICAL TECHNIQUES
+(PCE71E05)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To study the applications of gravity and magnetic methods.
+2. To study the applications of seismic refraction and reflection method.
+3. To study the applications of electrical method.
+4. To study the applications of well logging method.
+5. To understand geophysical interpretation of the subsurface parameters.
+6. To study the concept of geophysical mapping.
+7. To understand and identification of subsurface structures.
+8. To understand case studies of geophysical investigations for engineering applications.
+Course Content:
+Unit-1:
+Introduction to Geophysics: Basic concepts and objectives of geophysical techniques, like
+gravity, magnetic, electrical, seismic and well logging; need of subsurface geophysical
+mapping in Earthquake Engineering.
+Unit-2:
+Seismic method: Seismic refraction method, time-distance relations for horizontal layers,
+dipping layer and linearly increasing velocity with depth, elevation and weathering time
+corrections, limitations of seismic refraction method; Seismic reflection method, Time-
+distance relation for horizontal and dipping layers, static and dynamic time corrections,
+simple interpretation techniques.
+Unit-3:
+Gravity Method: Earth gravitational field, gravimeters, gravity field measurements,
+gravity field reduction and interpretation of gravity map, gravity effects of subsurface
+bodies of simple shapes.
+Unit-4:
+Magnetic Method: Earth magnetic field, magnetism of rocks and minerals,
+magnetometers, field operations, local magnetic anomaly, magnetic effects of buried
+magnetic bodies and interpretation.
+Unit-5:
+Electrical Method: Electrical properties of rocks, resistivity method, various electrode
+arrangements, sounding and profiling, data acquisition, analysis and interpretation for
+engineering problems like bedrock depth, lateral discontinuity, hidden structure or
+pipeline etc.
+SSE-27 | P a ge
+
+--- Page 31 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-6:
+Well logging: Borehole and general aspects of well logging; single and multi-electrode
+Resistivity logging, SP logging, Density logging, Acoustic (Sonic) logging. Interpretation
+of the Well logs for evaluating the formation characteristics.
+Unit-7:
+Evaluating subsurface parameters: Identification of detailed lithology from the resistivity
+and SP logs, seismic velocity structures at depth by sonic logging, formation in-situ
+density by density logging, evaluation of strength index, water saturation, saline
+contamination, porosity, permeability etc. from the well logs.
+Unit-8:
+Site Investigations: Identification of seismically active fault, induced seismicity potential,
+hidden fault structure, study of the surface lineaments, weathered layer thickness, bedrock
+configuration, water table depth, water leakage, fault, dike, landfill sites etc.
+Unit-9:
+Identification of Subsurface Structures: Archaeological sites, weak zones, cavities and
+voids, tunnelling, underground excavation.
+Unit-10:
+Case studies: Illustration of Case studies of geophysical methods for engineering
+applications.
+References:
+1. Dobrin, M. B. and C. H. Savit, “Introduction to Geophysical Prospecting”, Fourth
+Edition, McGraw Hill Book CO. 1988.
+2. Telford, W.M., Geldart, L.P. and Sheriff, R.E., “Applied Geophysics”, Second edition,
+Cambridge Univ. Press. 1990.
+3. William Lowrie, “Fundamentals of Geophysics”, Cambridge Univ. Press. 1997.
+4. Reynolds, John M., “An Introduction to Applied and Environmental Geophysics”,
+Wiley. 1997.
+5. Darling, T. “Well Logging and Formation Evaluation” Gulf Professional Publishing.
+2005.
+Course Outcome:
+1. Students will be able to understand the concept of geophysical techniques and its
+applications.
+2. They will be able to understand the applications of seismic refraction and reflection
+methods and the velocity structures beneath the study or project area.
+3. They will be able to understand the gravity and magnetic (G-M) surveys and
+interpretation of the G-M maps to find any lineament or fault in the study/project area.
+4. They will be able to understand the applications electrical methods to investigate
+subsurface resistivity structures and its implications to engineering projects.
+5. They will be able to understand applications of well logging methods to measure the
+in-situ physical properties of the rocks at depths.
+6. They will be able to understand geophysical investigations at a selected site and
+interpretations of the results in terms of its engineering applications.
+SSE-28 | P a ge
+
+--- Page 32 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+7. They will be able to identify seismically active fault, induced seismicity
+potential, subsurface hidden structures, the surface lineaments, weathered
+layer thickness, bedrock configuration, water table depth, water leakage, fault,
+dike, landfill sites etc.
+8. They will be able to understand the case studies of geophysical methods for
+engineering applications
+To establish the correlation between COs & POs
+Table-1
+No. of
+Course
+Course Outcome
+Outcome
+(CO)
+Students will be able to understand the concept of geophysical techniques
+PCE71E06.1
+and its applications in Engineering projects.
+They will be able to understand the applications of seismic refraction and
+PCE71E06.2 reflection methods, the velocity structures beneath the study or project
+area and its implications..
+They will be able to understand the gravity and magnetic (G-M) surveys
+PCE71E06.3 and interpretation of the G-M maps to find any lineament or fault in the
+study or project area.
+They will be able to understand the applications of electrical methods to
+PCE71E06.4 investigate subsurface resistivity structures and its implications to
+engineering projects.
+They will be able to understand applications well logging method to
+PCE71E06.5
+measure the in-situ physical properties of rocks at depths.
+They will be able to understand geophysical investigations at a selected site
+PCE71E06.6
+and interpretations of the results in terms of its engineering applications.
+They will be able to identify seismically active fault, induced seismicity
+potential, subsurface hidden structures, the surface lineaments, weathered
+PCE71E06.7
+layer thickness, bedrock configuration, water table depth, water leakage,
+fault, dike, landfill sites etc.
+They will be able to understand the case studies of geophysical methods for
+PCE71E06.8
+engineering applications.
+SSE-29 | P a ge
+
+--- Page 33 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E06.1 2 2 3 2 2 2
+PCE71E06.2 3 2 3 2 2 2
+PCE71E06.3 3 2 3 2 2 2
+PCE71E06.4 3 2 3 2 2 2
+PCE71E06.5 2 2 3 2 2 2
+PCE71E06.6 2 2 3 2 2 2
+PCE71E06.7 3 3 3 2 2 2
+PCE71E06.8 3 3 3 2 2 2
+Total 21 18 24 16 16 16
+Average 2.63 2.25 3 2 2 2
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E06.1 2 2
+PCE71E06.2 3 2
+PCE71E06.3 3 2
+PCE71E06.4 3 2
+PCE71E06.5 2 2
+PCE71E06.6 2 2
+PCE71E06.7 3 3
+PCE71E06.8 3 3
+Total 21 18
+Average 2.63 2.25
+Equivalent Avg. 3 2
+Attainment
+SSE-30 | P a ge
+
+--- Page 34 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+SEISMIC HAZRD & RISK ASSESSMENT
+(PCE71E06)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the idea about seismic hazard and risk analysis
+2. To understand the deterministic seismic hazard analysis (DSHA)
+3. To understand probabilistic seismic hazard analysis (PSHA)
+4. To understand seismicity, active faults, source processes etc.
+5. To understand earthquake occurrences and seismotectonic models
+6. To understand ground motion prediction relations.
+Course Content:
+Unit-1:
+Introduction: Definitions, seismic hazard analysis, both probabilistic and deterministic
+approaches, earthquake source mechanisms, seismo-tectonic modeling; identification and
+evaluation of earthquake sources / active faults at depth: surface geological and
+geomorphological evidences, tectonic setting, historical seismicity, paleoseismological
+evidences, instrumental seismicity, Estimation of moment magnitude, maximum credible
+earthquake, design basis earthquake, maximum probable earthquake.
+Unit-2:
+Seismicity Data and Treatment: Seismicity catalogues, spatial coverage, temporal
+coverage, completeness in size and time, cut off or threshold magnitude, earthquake
+swarm, foreshocks and aftershocks, declustering of data, homogenization of catalogue,
+empirical relations, bivariate orthogonal regression.
+Unit-3:
+Earthquake Occurrence Models: Gutenberg Richter frequency magnitude distribution,
+return period; Poissonian model, time dependent Poisson process, characteristic
+earthquake model, periodicity, conditional probabilities, Gamma distribution, Weibul
+distribution, Gaussian distribution, log normal distribution, Markov and semi-Markov
+models, Gumbel distributions and mixed Gumble distribution; Time and slip predictable
+earthquake models
+Unit-4:
+Ground Motion Prediction Equations: Strong motion attenuation relationships,
+dependent and independent parameters, PGA and spectral accelerations, elastic and
+inelastic response spectra, displacement spectra, periods of interest.
+Unit-5:
+Deterministic and Probabilistic Seismic Hazard Analysis: Deterministic and
+probabilistic seismic hazard methods; Types of earthquake sources-point, line and areal
+sources, random seismicity method, seismotectonic providence method, geological slip
+rate method, Zoneless seismic hazard estimation: Epistemic and aleatory uncertainty
+estimation, deaggregation, logic tree, hazard estimation at the bedrock level, various types
+SSE-31 | P a ge
+
+--- Page 35 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+of iso acceleration maps, probability of exceedance and return periods in earthquake
+engineering; Monte Carlo simulations.
+References:
+Sl No. Name of the Books Authors Publishers
+1 Geotechnical Earthquake Steven L. Kramer Prentice Hall
+Engineering
+2 Bootstrap methods: A practitioner’s M. R. Chernick W. A. Shewhart (Editor),
+guide, in Wiley Series in Probability John Wiley and Sons
+and Statistics,
+3 Earthquake Hazard Analysis, Issues L. Reiter Columbia University Press
+and Insights
+4 An Introduction to Seismology, Stein, Seth and Blackwell Publishing
+Earthquake, and Earth Structure Wysession, M
+5 Seismic Hazard and Risk Analysis McGuire, Robin K. Earthquake Engineering
+Research Institute
+6 Applied regression analysis Draper, N.R. and John Wiley & Sons (Asia)
+Smith, H.
+7 Active faults, paleoseismology, and R.E. Wallace American Geophysical
+earthquake hazards in the western Union, Washington, D. C.
+United States
+8 Seismic hazards: New trends in D.P. Schwartz and Academic Press, Orlando,
+analysis using K.J. Coppersmith Florida
+geologic data
+9 IS 1893, Indian Standard Criteria for B.I.S. B.I.S.
+earthquake resistant Design of
+Structures
+Additional Readings:
+Journal and Conference papers in the area of Seismic Hazard Analysis and Risk
+Assessment.
+Course Outcome:
+1. Students will be able to understand about seismic hazard analysis and required
+parameters.
+2. Students will be able to understand the deterministic seismic hazard analysis (DSHA).
+3. Students will be able to understand the probabilistic seismic hazard analysis (PSHA).
+4. Students will be able to understand the seismicity data and its analysis.
+5. Students will be able to understand the earthquake occurrence models.
+6. Students will be able to understand the ground motion prediction equations.
+SSE-32 | P a ge
+
+--- Page 36 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE71E06.1 Students will be able to understand the seismic hazard analysis and its applications
+PCE71E06.2 Students will be able to understand the deterministic seismic hazard analysis.
+PCE71E06.3 Students will be able to understand the probabilistic seismic hazard analysis.
+PCE71E06.4 Students will be able to understand the seismicity data and its analysis.
+PCE71E06.5 Students will be able to understand the earthquake occurrence models.
+PCE71E06.6 Students will be able to understand the ground motion prediction equations.
+Table-2
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71E06.1 2 2 3 2 2 2
+PCE71E06.2 2 2 3 2 2 2
+PCE71E06.3 2 2 3 2 2 2
+PCE71E06.4 2 2 3 2 2 2
+PCE71E06.5 2 2 3 2 2 2
+PCE71E06.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71E06.1 2 2
+PCE71E06.2 2 2
+PCE71E06.3 2 2
+PCE71E06.4 2 2
+PCE71E06.5 2 2
+PCE71E06.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. 2 2
+Attainment
+SSE-33 | P a ge
+
+--- Page 37 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+ADVANCED DYNAMICS LABORATORY
+(PCE71P01)
+Total Credit: 02 Contact Periods: 02 (0L+0T+2P)
+Course Objective:
+1. To know about different tests and software use under dynamic loading condition.
+2. To apply the tests for evaluation of dynamic Soil properties.
+3. To apply the dynamic soil properties in software analysis for different structures under
+dynamic loading condition.
+4. To evaluate the response of different structures under dynamic loading condition.
+5. To synthesize the results obtained from different study.
+6. To evaluate the most acceptable experimental methodology and dynamic soil
+parameters.
+Course Content:
+Unit 1: Cyclic tri-axial test
+Unit 2: Cyclic plate load test
+Unit 3: Block Vibration Test
+Unit 4: Shake table test
+Unit 5: Cyclic Pile Load Test
+Unit 6: Free vibration characteristic of structural systems-natural frequency and damping
+ratio
+Unit 7: Harmonic forced vibration response of structural models and frequency response
+functions
+Unit 8: Dynamic vibration absorber
+Unit 9: Prototype testing and system identification.
+References:
+Corresponding IS Code (if available) and concerned manual.
+Course Outcome:
+1. Students will able to know about the different tests and software used under dynamic
+loading condition.
+2. They can apply the tests for evaluation of dynamic Soil properties.
+3. They can apply the evaluated dynamic soil properties in software analysis for different
+structures under dynamic loading condition.
+4. They can evaluate the response of different structures under dynamic loading
+condition.
+5. They can synthesize the results obtained from different experimental study.
+6. They can find out the most acceptable methodology and dynamic soil parameters.
+SSE-34 | P a ge
+
+--- Page 38 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE71P01.1 Students will able to know about the different tests and software can be used under
+dynamic loading condition.
+PCE71P01.2 They can apply the tests for the evaluation of dynamic Soil properties.
+PCE71P01.3 They can apply the evaluated dynamic soil properties in software analysis for
+different structures under dynamic loading condition.
+PCE71P01.4 They can evaluate the response of different structures under dynamic loading
+condition.
+PCE71P01.5 They can synthesize the results obtained from different experimental study.
+PCE71P01.6 They can find out the most acceptable methodology and dynamic soil parameters.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71P01.1 3 3 3 2 2 2
+PCE71P01.2 3 3 3 2 2 2
+PCE71P01.3 3 3 2 2 2 2
+PCE71P01.4 3 3 2 2 2 2
+PCE71P01.5 3 3 2 2 2 2
+PCE71P01.6 3 3 2 2 2 2
+Total 18 18 14 12 12 12
+Average 3 3 2.33 2 2 2
+Equivalent 3 3 3 2 2 2
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71P01.1 3 3
+PCE71P01.2 3 3
+PCE71P01.3 3 3
+PCE71P01.4 3 3
+PCE71P01.5 3 3
+PCE71P01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent 3 3
+Avg.
+Attainment
+SSE-35 | P a ge
+
+--- Page 39 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+CHARACTERIZATION OF ROCK AND FAULT
+(PCE71P02)
+Total Credit: 02 Contact Periods: 02 (0L+0T+2P)
+Course Objective:
+1. To know different Survey processes to characterize the rock and soil.
+2. To apply different tests for characterization of rock and soil.
+3. To study the ground motion using strong motion records.
+4. To develop ground motion prediction equation and to analyse different structures under
+dynamic loading condition using ground motion prediction equation.
+5. To synthesize the results obtained by earlier researchers with the present study.
+6. To evaluate the most acceptable solution.
+Course Content:
+Unit 1: GPS Survey and collection of data.
+Unit 2: Demonstration of GIS Software and GIS Map Preparation
+Unit 3: Seismic Refraction Survey for bed rock information.
+Unit 4: Soil Profile using MASW
+Unit 5: Soil Profile using GPR
+Unit 6: Use of SAR interferometry for surface displacement measurement.
+Unit 7: Rock/ Soil Characterisation using Seismic Noise/ Signal Processing.
+Unit 8: Ground Motion Study (using Strong Motion records) for earthquakes by different
+faulting (Normal, Thrust and Strike-slip).
+References:
+Related Manual and IS Code (if available).
+Course Outcome:
+1. Students will know about different seismic noise/ signal processing to characterize the
+rock and soil.
+2. They can apply the tests for characterization of rock and soil.
+3. They can evaluate the ground motion using strong motion records.
+4. They can develop ground motion prediction equation and analyse different structures
+under dynamic loading condition using the ground motion prediction equation.
+5. They can synthesize the results obtained by different researchers and present study.
+6. They can determine the most acceptable solution.
+SSE-36 | P a ge
+
+--- Page 40 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course
+Outcome
+(CO)
+PCE71P02.1 Students can know about different seismic noise/ signal processing to
+characterize the rock and soil.
+PCE71P02.2 They can apply the tests for characterization of rock and soil.
+PCE71P02.3 They can develop ground motion prediction equation using strong motion
+records.
+PCE71P02.4 They can evaluate ground motion prediction equation and analyse
+different structures under dynamic loading condition using the ground
+motion prediction equation.
+PCE71P02.5 They can synthesize the results obtained by different researchers and
+present study.
+PCE71P02.6 They can determine the most acceptable solution.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE71P02.1 3 3 3 2 2 2
+PCE71P02.2 3 3 3 2 2 2
+PCE71P02.3 3 3 3 2 2 2
+PCE71P02.4 3 3 3 2 2 2
+PCE71P02.5 3 3 3 2 2 2
+PCE71P02.6 3 3 3 2 2 2
+Total 18 18 18 12 12 12
+Average 3 3 3 2 2 2
+Equivalent Avg. Attainment 3 3 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE71P02.1 3 3
+PCE71P02.2 3 3
+PCE71P02.3 3 3
+PCE71P02.4 3 3
+PCE71P02.5 3 3
+PCE71P02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+SSE-37 | P a ge
+
+--- Page 41 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+SEMINAR
+(PCE71P03)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Each student shall prepare a Report and present a Seminar on topic related to the branch
+of specialization under the guidance of a Faculty member. The student shall submit a
+copy of the Report to the Department. Grades will be awarded on the basis of the Report
+and presentation.
+SSE-38 | P a ge
+
+--- Page 42 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Second Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+1 Basic Core 4 4 100
+PCE72B01: Advanced Seismology
+2 Core Subject-I 4 4 100
+PCE72C01: Geotechnical Earthquake Engineering
+3 Core Subject-II 4 4 100
+PCE72C02: Seismic Analysis and Design of
+Structures
+4 Elective Paper III (Any One) 4 4 100
+PCE72E01: Soil-Structure Interaction
+PCE72E02: Finite Element Method
+PCE72E03: Seismic Slope Stability: Earth Dam
+and Retaining Wall
+5 PCE72P01: Software Application Lab 2 3 100
+6 PCE72P02: Digital Image Processing and Seismic 2 3 100
+Signal Processing Lab
+7 PCE72P03: Project Preliminary 3 6 100
+8 PCE72P04: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+SSE-39 | P a ge
+
+--- Page 43 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Basic Core
+ADVANCED SEISMOLOGY
+(PCE72B01)
+Total Credit: 04 Contact Periods: 04 (4L+0T+0P)
+Course Objective:
+1. To understand different kinds of earthquakes, and seismic waves for local, regional and
+teleseismic events, identifying Earth’s subsurface and deep interior structures from the
+seismic waves.
+2. To understand earthquake magnitude and intensity scales, hypocenter locations, and
+source parameters determination by different computational methods.
+3. To understand the Earth’s structures by seismic tomography and by Receiver Function
+methods.
+4. To understand fault plane solutions, tectonic stress systems and identifying active
+faults.
+5. To understand earthquake power law relations: Frequency-magnitude relation (b-
+value), Aftershock attenuation (p-value) and Fractal correlation dimension (D2).
+6. To understand Quality (Q) factor, seismic attenuation and anisotropy.
+7. To understand seismic hazard microzonation and risk evaluation, and earthquake and
+tsunami early warning systems.
+8. To understand earthquake precursors (Geophysical, Seismological and Geochemical).
+Course Content:
+Unit-1:
+Earthquakes and different types of source zones, seismic waves for local, regional and
+telseismic events, identifying seismic phases, identifying the local crustal discontinuities
+and Earth’s interior structures.
+Unit-2:
+Earthquake magnitude and intensity scales. Earthquake locations by computational
+methods: Least square method, Double difference method, Joint hypocenter method and
+simultaneous inversion (seismic tomography) method), Wadati plot, time-distance plot,
+computer analysis for source parameters (source time function, fault-slip, corner
+frequency f , seismic moment M , moment magnitude M , stress drop etc.
+c o w
+Unit-3:
+Seismic velocity structure imaging (local tomography, regional tomography and global
+tomography), and imaging the crustal discontinuities (Moho) and discontinuities of the
+Earth’s deeper interior by receiver function analysis.
+Unit-4:
+Reid’s elastic rebound theory, double couple hypothesis, fault-plane solutions by P-wave
+first motion plot and by waveform inversion, identifying tectonic stress system,
+interpretation of seismically active faults.
+SSE-40 | P a ge
+
+--- Page 44 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-5:
+Power laws of earthquakes: frequency-magnitude relation (b-value), aftershock
+attenuation (p-value) and fractal correlation dimension (D ).
+2
+Unit-6:
+Q factor, seismic wave attenuation, scattering and intrinsic effects, shear wave splitting,
+anisotropy of the crustal and upper mantle structures.
+Unit-7:
+Seismic hazard microzonation, site response (H/V), weathered-layer shear wave velocity
+(Vs30), basement configuration (by geophysical methods), ground acceleration (SM) for
+engineering structures / projects.
+Unit-8:
+Earthquake precursors: Geophysical, Seismological and Geochemical precursors before a
+large earthquake, and earthquake and tsunami early warning system.
+References:
+1. Aki, K. and Richards, P.G; “Quantitative Seismology”, W.H. Freeman & Co. 2002
+2. Stein, S. and Wyssession, M., “An Introduction to Seismology, Earthquakes and
+Structure”, Blackwell Publishing 2003
+3. Lay, T. and Wallace, T.C., “Modern Global Seismology”, Academic Press 1995
+4. Garland, G D: An Introduction to Geophysics
+5. Stacey, F D and Davis P. M: Physics of the Earth
+6. Fowler C M R, Solid Earth: An Introductionto Global Geophysics
+7. Howell, B F: An Introduction to Geophysics
+8. Lowrie, W: Fundamentals of Geophysics
+9. Tucker, R H et al.: Global Geophysics
+10. Turcotte, D L and Schubert G: Geodynamics
+11. Wyllie, Peter J: The Dynamic Earth
+12. Kayal, J R: Microearthquake Seismology and Seismotectonics of South Asia.
+Course Outcome:
+1. The student will understand different kinds of earthquakes and earthquake waves, the
+seismic waves for local, regional and teleseismic events, identifying Earth’s subsurface
+and deep interior structures from the seismic waves.
+2. They can learn earthquake magnitude and intensity scales, hypocenter locations, and
+source parameters determinations by different computational methods.
+3. They will also learn seismic imaging of the Earth’s structure by seismic tomography
+and receiver function methods.
+4. They will understand fault plane solutions, tectonic stress systems and identifying
+active faults and type of faulting (Normal, Thrust, and Strike-slip).
+5. They will understand Power laws of earthquakes: frequency-magnitude relation (b-
+value), aftershock attenuation (p-value) and fractal correlation dimension (D2).
+6. They will understand crustal Q factor, seismic wave attenuation, scattering and
+intrinsic effects, shear wave splitting, anisotropy of the crust and upper mantle
+structures.
+SSE-41 | P a ge
+
+--- Page 45 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+7. They will understand Seismic hazard microzonation, risk evaluation, site response
+(H/V), weathered-layer shear wave velocity (Vs30), basement configuration (by
+geophysical methods), ground acceleration (SM) for engineering structures /
+projects.
+8. They will understand Earthquake precursors: Geophysical, Seismological and
+Geochemical precursors before a large earthquake, and earthquake and tsunami
+early warning system.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course
+Outcome
+(CO)
+PCE72B01.1 The student will understand different kinds of earthquakes and seismic
+waves for local, regional and teleseismic events, identifying Earth’s
+subsurface and deep interior structures from the seismic waves.
+PCE72B01.2 They can learn earthquake magnitude and intensity scales, hypocenter
+locations, and source parameters determinations by different computational
+methods.
+PCE72B01.3 They will also learn seismic imaging of the Earth’s structure by seismic
+tomography and receiver function methods.
+PCE72B01.4 They will understand fault plane solutions, tectonic stress systems and
+identifying active faults and types of faulting.
+PCE72B01.5 They will understand Power laws of earthquakes: frequency-magnitude
+relation (b-value), aftershock attenuation (p-value) and fractal correlation
+dimension (D ).
+2
+PCE72B01.6 They will understand crustal Q factor, seismic wave attenuation, scattering
+and intrinsic effects, shear wave splitting, anisotropy of the crust and upper
+mantle structures.
+PCE72B01.7 They will understand Seismic hazard microzonation, risk evaluation, site
+response (H/V), weathered-layer shear wave velocity (Vs30), basement
+configuration (by geophysical methods), ground acceleration (SM) for
+engineering structures / projects.
+They will understand Earthquake precursors: Geophysical, Seismological
+PCE72B01.8 and Geochemical precursors before a large earthquake, and earthquake and
+tsunami early warning system.
+SSE-42 | P a ge
+
+--- Page 46 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72B01.1 2 2 3 2 2 2
+PCE72B01.2 2 2 3 2 2 2
+PCE72B01.3 2 2 3 2 2 2
+PCE72B01.4 2 2 3 2 2 2
+PCE72B01.5 2 2 3 2 2 2
+PCE72B01.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72B01.1 2 2
+PCE72B01.2 2 2
+PCE72B01.3 2 2
+PCE72B01.4 2 2
+PCE72B01.5 2 2
+PCE72B01.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. Attainment 2 2
+SSE-43 | P a ge
+
+--- Page 47 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Core Subject-I
+GEOTECHNICAL EARTHQUAKE ENGINEERING
+(PCE72C01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand the necessity of geotechnical earthquake engineering.
+2. To understand the details of engineering seismology.
+3. To understand the concept of strong ground motion.
+4. To understand the concept of seismic hazard analysis.
+5. To understand the concept of ground response analysis.
+6. To understand the concept of liquefaction related phenomena.
+7. To understand the concept of seismic slope stability.
+8. To understand the seismic design considerations of retaining walls.
+Course Content:
+Unit-1
+Introduction to Geotechnical Earthquake Engineering: Scope and objective; Nature
+and types of earthquake loading; Importance of Geotechnical Earthquake Engineering;
+Seismic hazards; Mitigation of seismic hazards.
+Engineering Seismology: Causes of earthquake; Plate tectonics; Earthquake fault
+sources; Seismic waves; Elastic rebound theory; Quantification of earthquake; Intensity
+and magnitudes; Earthquake source models.
+Unit-2
+Strong Ground Motion: Introduction; Strong-motion Accelerograph; Ground motion
+parameters and their estimation; Effect of local site conditions on ground motions; Design
+earthquake; Design spectra; Development of site specification and code-based design.
+Seismic Hazard Analysis: Introduction; Identification and evaluation of earthquake
+sources; Deterministic seismic hazard analysis; Probabilistic seismic hazard analysis.
+Unit 3
+Wave Propagation: Introduction; Waves in unbounded media; Waves in a semi-infinite
+body; Waves in a layered body; Attenuation of stress waves.
+Ground Response Analysis: Ground response analysis – One-dimensional ground
+response analysis: Linear approaches; Equivalent linear approximation of non-linear
+approaches; Computer code “SHAKE”; Two-dimensional ground response analysis;
+Three-dimensional ground response analysis.
+Unit-4
+Dynamic Soil Properties: Introduction; Measurement of Dynamic Soil Properties;
+Stress-strain behavior of cyclically loaded soils; Strength of cyclically loaded soils.
+Liquefaction and Lateral Spreading: Liquefaction related phenomena; Liquefaction
+susceptibility: Historical, Geological, Compositional and State criteria; Evaluation of
+liquefaction by cyclic stress and cyclic strain approaches; Lateral deformation and
+spreading; Criteria for mapping liquefaction hazard zones.
+SSE-44 | P a ge
+
+--- Page 48 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Unit-5
+Seismic Slope Stability: Internal stability and weakening instability.
+Seismic Design Considerations of Retaining Walls: Dynamic Response of Retaining
+Walls; Seismic Design Considerations of Gravity Walls; Cantilever Walls; Braced Walls
+and Reinforced Soil Walls.
+References:
+Sl No. Name of the Books Authors Publishers
+1. Geotechnical Earthquake Steven L. Kramer Prentice Hall
+Engineering
+2. Geotechnical Earthquake Robert W. Day McGraw Hill
+Engineering Handbook
+3. Geotechnical Earthquake IkuoTowhata Springer
+Engineering
+4. Soil Behaviour in Earthquake Kenji Ishihara Oxford University Press,
+Geotechnics USA
+5. Soil Dynamics ShamsherPrakash McGraw Hill
+6. Basic Geotechnical Earthquake Kamalesh Kumar New Age International (P)
+Engineering Limited, Publishers
+7. Seismic behaviour of ground and Seco e Pinto A. A. Balkema
+Geotechnical structure
+8. The Seismic Design Handbook F. Naeim Kluwer Academic
+Publication
+9. SPT-based Liquefaction Triggering I. M. Idriss and Ross Center for Geotechnical
+Procedures W. Boulanger Modeling, University of
+California
+10. IS 1893, Indian Standard Criteria for B.I.S. B.I.S.
+earthquake resistant Design of
+Structures
+Additional Readings: Journal and Conference papers in the area of Earthquake
+Geotechnical Engineering.
+Course Outcome:
+1. Students will be able to understand the necessity of geotechnical earthquake
+engineering.
+2. Students will be able to understand the details of engineering seismology.
+3. Students will be able to understand the concept of strong ground motion.
+4. Students will be able to understand the concept of seismic hazard analysis.
+5. Students will be able to understand the concept of ground response analysis.
+6. Students will be able to understand the concept of liquefaction related phenomena.
+7. Students will be able to understand the concept of seismic slope stability.
+8. Students will be able to understand the seismic design considerations of retaining
+walls.
+SSE-45 | P a ge
+
+--- Page 49 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the necessity of geotechnical
+PCE72C01.1
+earthquake engineering.
+PCE72C01.2 Students will be able to understand the details of engineering seismology.
+PCE72C01.3 Students will be able to understand the concept of strong ground motion.
+PCE72C01.4 Students will be able to understand the concept of seismic hazard analysis.
+Students will be able to understand the concept of ground response
+PCE72C01.5
+analysis.
+Students will be able to understand the concept of liquefaction related
+PCE72C01.6
+phenomena.
+PCE72C01.7 Students will be able to understand the concept of seismic slope stability.
+Students will be able to understand the seismic design considerations of
+PCE72C01.8
+retaining walls.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72C01.1 2 2 3 2 2 2
+PCE72C01.2 2 2 3 2 2 2
+PCE72C01.3 2 2 3 2 2 2
+PCE72C01.4 2 2 3 2 2 2
+PCE72C01.5 2 2 3 2 2 2
+PCE72C01.6 2 2 3 2 2 2
+PCE72C01.7 2 2 3 2 2 2
+PCE72C01.8 2 2 3 2 2 2
+Total 16 16 24 16 16 16
+Average 2 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+SSE-46 | P a ge
+
+--- Page 50 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72C01.1 2 2
+PCE72C01.2 2 2
+PCE72C01.3 2 2
+PCE72C01.4 2 2
+PCE72C01.5 2 2
+PCE72C01.6 2 2
+PCE72C01.7 2 2
+PCE72C01.8 2 2
+Total 16 16
+Average 2 2
+Equivalent Avg. 2 2
+Attainment
+SSE-47 | P a ge
+
+--- Page 51 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Core Subject-II
+SEISMIC ANALYSIS AND DESIGN OF STRUCTURES
+(PCE72C02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To make the students understand plate tectonics, earthquakes and seismic parameters.
+2. To make the students understand the philosophy of earthquake resistant design of
+structure.
+3. To make the students able to analyze and design different structures subjected to
+earthquake load.
+4. To understand the strengthening measures of seismically deficient structures.
+Course Content:
+Unit 1:
+Introduction to Earthquake: Plate tectonics and earthquakes; effects of earthquakes;
+seismic waves; earthquake recording, Earth’s interior
+Unit 2
+Seismic response of soils and structures: Dynamic properties of soils, site response to
+earthquake, Seismic response of soil-structure system; seismic consideration for
+foundation; Elastic seismic response of structures; Non-linear seismic response of
+structures; level of damping in different structures; Interaction of frames and infill panels;
+Method of seismic analysis of structures.
+Unit 3
+Earthquake resistant Design Philosophy: Criteria for earthquake resistant design;
+Principles of reliable seismic behavior- form, materials and failure modes; specific
+structural forms for earthquake resistance-moment-resisting frames, shear wall,
+concentrically braced frames, hybrid structural system. Energy isolating and dissipating
+devices.
+Unit 4
+Earthquake resistant design of structures: Seismic response of masonry buildings,
+Design and construction details for reinforced masonry. Seismic response of reinforced
+concrete structures, Design and Detailing of Reinforced concrete Structures.
+Unit 5
+Restoration and Strengthening structures.
+SSE-48 | P a ge
+
+--- Page 52 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl No. Name of Book Author Publisher
+1. Seismic design of RC and masonry Paulay, T & Priestley John Wiley & Sons,
+buildings
+2. Design of multi-storey RC buildings Blume, J.A Newmark and
+for earthquake motions Corning – Portland
+Cement Association.
+3. Earthquake resistant design Dowrick, D.J. John Wiley & Sons,
+4. Earthquake Resistant Design of Agarwal &Shrikande PHI
+Structures
+5. I.S. 1893 - 2016, Criteria for Earthquake Resistance design of Structures.
+6. IS.13920- 2016, Ductile detailing of Reinforced concrete structures subjected to seismic
+forces, Bureau of Indian Standards, New Delhi.
+Course Outcome:
+At the end of the course, student will be able to
+1. Understand the concept and terminology related to earthquakes and its effects on
+buildings/Engg structures.
+2. Understand the philosophy of earthquake resistant design.
+3. Analyze and design masonry and RC structures under the earthquake forces as per the
+recommendations of IS codes of practice.
+4. Suggest retrofitting techniques for existing RCC and Masonry buildings.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE72C02.1 Students will be able to understand the concept and terminology
+related to earthquake and its effects on buildings and Engg structures.
+PCE72C02.2 Students will be able to understand the philosophy of earthquake
+resistant design.
+PCE72C02.3 Students will be able to analyze and design masonry and RC
+structures under the earthquake forces as per the recommendations of
+IS codes of practice.
+PCE72C02.4 Students will be able to suggest retrofitting techniques for existing
+RCC and Masonry buildings.
+SSE-49 | P a ge
+
+--- Page 53 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table-2
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) And ‘-’ For No
+correlation
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72C02.1 2 2 3 2 2 2
+PCE72C02.2 2 2 3 2 2 2
+PCE72C02.3 2 2 3 2 2 2
+PCE72C02.4 2 2 3 2 2 2
+Total 8 8 12 8 8 8
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72C02.1 2 2
+PCE72C02.2 2 2
+PCE72C02.3 2 2
+PCE72C02.4 2 2
+Total 8 8
+Average 2 2
+Equivalent Avg. Attainment 2 2
+SSE-50 | P a ge
+
+--- Page 54 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Elective Paper III(Any One)
+PCE72E01: Soil-Structure Interaction
+PCE72E02: Finite Element Method
+PCE72E03: Seismic Slope Stability: Earth Dam and Retaining Wall
+SOIL STRUCTURE INTERACTION
+(PCE72E01)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course objective:
+1. To understand about the importance of interaction mechanics.
+2. To understand the effect of soil-structure interaction on response of structural system.
+3. To know the SSI modeling techniques and analysis.
+4. To understand the design implications.
+Course Content:
+Unit-1
+General soil-structure interaction problems, contact pressures and soil-structure
+interaction for shallow foundations, Concept of sub grade modulus, effects/parameters
+influencing subgrade modulus. Soil behaviour, Foundation behaviour, Interface
+behaviour.
+Unit-2
+Scope of soil foundation interaction analysis, soil response models, Winkler, Elastic
+continuum, Two parameter elastic models, Elastic plastic behaviour, Time dependent
+behaviour. Isotropic elastic half space.
+Unit-3
+Beam on Elastic Foundation-Soil Models: Infinite beam, Two parameters, Analysis of
+beams of finite length, Classification of finite beams in relation to their stiffness. Elastic
+Analysis of Pile: Elastic analysis of single pile, Theoretical solutions for settlement and
+load distributions. Analysis of pile group, Interaction analysis, Load distribution in groups
+with rigid cap. Laterally Loaded Pile: Load deflection prediction for laterally loaded piles,
+Subgrade reaction and elastic analysis, Interaction analysis, Pile-raft system, Solutions
+through influence charts. Uplift capacity of piles and anchors.
+Unit-4
+Plate on Elastic Medium: Thin and thick plates, Analysis of finite plates, Numerical
+analysis of finite plates, simple solutions.
+Unit- 5
+Dynamic Soil Structure interaction, Inertial and Kinematic Interaction, Direct and
+substructure approach of model analysis, Dynamic stiffness, Dynamic equilibrium
+equation.
+SSE-51 | P a ge
+
+--- Page 55 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl No. Name of Book Author Publisher
+1. CRC Press Taylor and
+Francis Group 2014
+Advanced Geotechnical Engineering Soil–Chandrakant S. Desai
+2. SEtlraustcitcu Aren aIlnytseirs aocft iSooni l-UFsoinungd Caotimonp uter and MSeulvsahDarurraafi ,Z Aam. Pa.n S Elsevier, 1979.
+MInatetrearcitailo Mn odels
+3. Pile Foundation Analysis and Design Poulos, H. G., and Davis, Prentice Hall, 1981
+E. H.
+4. Structure Soil Interaction State of Art Report,
+Institution of Structural
+Engineers, 1978
+5 Suggested Analysis and Design Procedures ACI 336. (1988) American Concrete
+for combined footings and Mats Institute,1988.
+6 Foundation Analysis Scott, R. F. Prentice-Hall
+7 Dynamic Soil Structure Interaction John P Wolf Prentice-Hall Inc,
+Englewood Cliffs N.J
+Course Outcome:
+1. Students will be able to learn the soil structure interaction problems.
+2. Students will be able to learn linear and nonlinear behavior of soil-structure system.
+3. Students will be able to develop in depth idea about design of foundation.
+4. Students will be able to learn both static and dynamic SSI based design.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE72E01.1 Students will be able to learn the soil structure interaction problem.
+PCE72E01.2 Students will be able to learn linear and nonlinear behavior of soil-
+structure system.
+PCE72E01.3 Students will be able to develop in depth idea about design of foundation.
+PCE72E01.4 Students will be able to learn both static and dynamic SSI based design.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72E01.1 2 2 3 2 2 2
+PCE72E01.2 2 2 3 2 2 2
+PCE72E01.3 2 2 3 2 2 2
+PCE72E01.4 2 2 3 2 2 2
+Total 8 8 12 8 8 8
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+SSE-52 | P a ge
+
+--- Page 56 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72E01.1 2 2
+PCE72E01.2 2 2
+PCE72E01.3 2 2
+PCE72E01.4 2 2
+Total 8 8
+Average 2 2
+Equivalent Avg. Attainment 2 2
+SSE-53 | P a ge
+
+--- Page 57 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+FINITE ELEMENT METHOD
+(PCE72E02)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand the mathematical and physical principles underlying the Finite Element
+Method (FEM) focussed on stress analysis of common geotechnical engineering
+problems.
+2. To demonstrate the ability to formulate and implement to solve geotechnical
+engineering problems using Finite Element Analysis.
+3. To evaluate accuracy of the Finite Element solutions using a range of techniques.
+4. To develop FEM computer programs for simple problems.
+5. To understand the importance of analysis using FEM in the broader context of
+engineering practices.
+Course Content:
+Unit- 1
+Introduction: Boundary Value Problem - Approximate Solution - Variational and
+Weighted Residual Methods - Ritz and Galerkin Formulations - Concepts of
+Piecewise Approximation and Finite Elements - Displacement and Shape Functions -
+Weak Formulation - Minimum Potential Energy - Generation of Stiffness Matrix and
+Load Vector.
+Unit- 2
+Stress Analysis: Two Dimensional problems - Plane Stress, Plain Strain and
+Axisymmetric Problems - Triangular and Quadrilateral Elements - Natural Coordinates -
+Isoparametric Formulation - Numerical Integration - Plate Bending and Shell Elements -
+Brick Elements - Elements for Fracture Analysis.
+Unit- 3
+Meshing and Solution Problems: Higher Order Elements - p and h Methods of
+refinement - IIL conditioned Elements - Discretization Errors -Auto and Adaptive
+Mesh Generation Techniques - Error Evaluation.
+Unit- 4
+Nonlinear and Vibration Problems: Material and Geometric Nonlinearity -
+Methods of Treatment - Consistent System Matrices – Dynamic Condensation - Eigen
+Value Extraction.
+Unit- 5
+Thermal Analysis: Thermal analysis problems.
+SSE-54 | P a ge
+
+--- Page 58 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl. No. Name of the Book Author Publisher
+1 Finite Element Method Zeinkiewicz, O. C. Tata Mcgraw Hill, 1988
+2 The Finite Element Method- Vol. I Zeinkiewicz& Taylor Mcgraw-Hill International
+Editions
+3 The Finite Element Method- Vol. II Zeinkiewicz& Taylor Mcgraw-Hill International
+Editions
+4 The Finite Element Method- Vol. III Zeinkiewicz& Taylor Mcgraw-Hill International
+Editions
+5 Vibrations, Dynamics and Structural Mukhopadhyay, M. Oxford and IBH
+System
+6 An Introduction to the Finite Reddy, J. N. Mcgraw-Hill International
+Element Method Editions
+7 The Finite Element Analysis Seshu, P. PHI
+8 Finite Element Procedures Bathe, K. J. Prentice Hall, 1996
+9 A First Course in Finite Elements Fish, J. and John Willey & Sons, 2007
+Belytschko, T.
+10 Concepts and Applications of Finite Cook, R. D. John Willey & Sons
+Element Analysis
+11 Finite Element Analysis- Theory Krishnamurthy, C. S. Tata Mcgraw Hill
+and Programming
+12 Introduction to Finite Element Petyt, M. Cambridge University Press
+Vibration Analysis
+Course Outcome:
+At the end of the course, a student will be able to
+1. Analyze linear 1D problem such as bars, beams, 2D problems using CST element, 4
+node quadrilateral element, axi-symmetric problems with triangular elements, 3 and 4
+node plate elements.
+2. Write shape functions for 8 node quadrilateral, 6 node triangular (LST) elements, 8
+node brick element, shell element, and apply numerical integration to solve; 1D and
+2D; stiffness integrations.
+3. Understand p and h Methods of refinement, discretization Errors and auto and adaptive
+mesh generation techniques.
+4. Apply suitable boundary conditions to a global equation for various geotechnical
+engineering problems and solve them to determine displacements, stresses and strains.
+5. Understand the finite element method to solve problems with material and geometric
+nonlinearity and vibration problems.
+6. Critically assess a finite element analysis for correctness.
+SSE-55 | P a ge
+
+--- Page 59 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE72E02.1 Student will be able to analyze linear 1D problem such as bars, beams,
+2D problems using CST element, 4 node quadrilateral element, axi-
+symmetric problems with triangular elements, 3 and 4 node plate
+PCE72E02.2 Student w ill be able to write shape functions for 8 node quadrilateral, 6
+node triangular (LST) elements, 8 node brick element, shell element, and
+apply numerical integration to solve; 1D and 2D; stiffness integrations.
+PCE72E02.3 Student will be able to understand p and h Methods of refinement,
+discretization Errors and auto and adaptive mesh generation techniques.
+PCE72E02.4 Student will be able to apply suitable boundary conditions to a global
+equation for various geotechnical engineering problems and solve them
+to determine displacements, stresses and strains.
+PCE72E02.5 Student will be able to understand the finite element method to solve
+problems with material and geometric nonlinearity and vibration
+problems.
+PCE72E02.6 Student will be able to critically assess a finite element analysis for
+correctness.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72E02.1 2 2 3 2 2 2
+PCE72E02.2 2 2 3 2 2 2
+PCE72E02.3 2 2 3 2 2 2
+PCE72E02.4 2 2 3 2 2 2
+PCE72E02.5 2 2 3 2 2 2
+PCE72E02.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+SSE-56 | P a ge
+
+--- Page 60 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72E02.1 2 2
+PCE72E02.2 2 2
+PCE72E02.3 2 2
+PCE72E02.4 2 2
+PCE72E02.5 2 2
+PCE72E02.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. 2 2
+Attainment
+SSE-57 | P a ge
+
+--- Page 61 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+SEISMIC SLOPE STABILITY: EARTH DAM AND RETAINING WALL
+(PCE72E03)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course objective:
+1. It deals with the issues pertaining to Slope, dam, foundation and retaining wall and
+their analysis using classical and contemporary approaches for both the linear and non-
+linear models.
+2. To analyse slope, dam, retaining wall and foundation using different analytical
+methods.
+3. To perform the different experimental and numerical study on slope, dam, retaining
+wall and shallow foundation.
+4. To synthesise the results obtained from different analytical, experimental and
+numerical study.
+5. To evaluate the most acceptable solution and apply the same for field problem.
+Course Content:
+Unit-1:
+Introduction to Slope: Performance of slope during past earthquakes, General features of
+slope, Analysis of slope under static and dynamic loading conditions, Numerical and
+Experimental study on slope, Case study on Slope.
+Unit-2:
+Introduction to Earth Dams: Performance of earth dam in past earthquakes; Homogenous
+and non-homogenous dams, general features, Seepage in earth dam, estimation of pore
+pressure by flow net, standard analytical solutions for seepage problems, piping.
+Analysis of dam under static and dynamic loading condition, Numerical and
+Experimental Study on dam; Case study.
+Unit-3:
+Introduction to Shallow Foundation: Performance of Shallow Foundation during past
+earthquakes, General features of Shallow Foundation, Analysis of Shallow Foundation
+under static and dynamic loading conditions, Numerical and Experimental study on
+Shallow Foundation, Case study on Shallow Foundation.
+Unit-4:
+Earth Pressures Under Static and Dynamic Conditions: History; Analysis of Retaining
+Wall under static and dynamic loading conditions, Numerical and Experimental study on
+Retaining Wall, Case study on Retaining Wall.
+Unit-5:
+Computer Applications for Earth Pressure: Software to evaluate static/dynamic earth
+pressures; Pressure distribution, stability of retaining structures and critical wall friction.
+SSE-58 | P a ge
+
+--- Page 62 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+References:
+Sl. Name of Books/ Authors/ Publishers Year of
+No. Publication
+Duncan J.M., “State-of-the-art: static stability and deformation analysis,” in R.B.
+1 Seed and R.W. Boulanger, Eds., Proc. Specialty Conf. on Stability and Performance 1992
+of Slopes & Embankments, II, ASCE, New York, Vol. I, pp. 222-266.,
+2 Bharat Singh & R.S. Varshney , “Embankment Dam Engineering”, Nem Chand & 2004
+Bro., Roorkee
+3 Kramer S.L., “Geotechnical-Earthquake Engineering”, Pearson Education – Indian 2004
+Low Price Edition, New Delhi.
+4 Saran, S. , “Soil Dynamics and Machine Foundation”, Galgotia 2015
+5 Das, B. M., “Principle of Soil Dynamics”, PWS-Kent Publishing Company 2020
+Course Outcome:
+1. Students will be able to know the issues pertaining to Slope, dam, foundation and
+retaining wall and their analysis using classical and contemporary approaches for both
+the linear and non-linear models.
+2. They will be able to analyse slope, dam, retaining wall and foundation using different
+analytical methods.
+3. They will be able to perform the different experimental and numerical study on slope,
+dam, retaining wall and shallow foundation.
+4. They will be able to synthesise the results obtained from different analytical,
+experimental and numerical study.
+5. They will be able to evaluate the most acceptable solution and apply the same for field
+problem.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome
+(CO)
+PCE72E03.1 Students will be able to know the issues pertaining to Slope, dam,
+foundation and retaining wall and their analysis using classical and
+contemporary approaches for both the linear and non-linear models.
+PCE72E03.2 They will be able to analyse slope, dam, retaining wall and foundation
+using different analytical methods
+PCE72E03.3 They will be able to perform the different experimental and numerical
+study on slope, dam, retaining wall and shallow foundation
+PCE72E03.4 They will be able to synthesise the results obtained from different
+analytical, experimental and numerical study
+PCE72E03.5 They will be able to evaluate the most acceptable solution and apply
+the same for field problem.
+SSE-59 | P a ge
+
+--- Page 63 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72E03.1 2 2 3 2 2 2
+PCE72E03.2 3 2 3 2 2 2
+PCE72E03.3 2 2 3 2 2 2
+PCE72E03.4 2 2 3 2 2 2
+PCE72E03.5 3 2 3 2 2 2
+Total 12 10 15 10 10 10
+Average 2.4 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72E03.1 2 2
+PCE72E03.2 3 2
+PCE72E03.3 2 2
+PCE72E03.4 2 2
+PCE72E03.5 3 2
+Total 12 10
+Average 2.4 2
+Equivalent Avg. 2 2
+Attainment
+SSE-60 | P a ge
+
+--- Page 64 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+SOFTWARE APPLICATION LAB
+(PCE72P01)
+Total Credit: 02 Contact Periods: 02 (0L+0T+2P)
+Course Objective:
+1. Use of software to analyse ground motion parameters.
+2. Use of software to analyse ground responses.
+3. Use of software to analyse liquefaction potential of soil.
+4. Use of software to analyse seismic slope stability.
+5. Use of software to analyse seismic design of retaining walls.
+6. Use of software to analyse seismic hazard and risk.
+Course Content:
+Unit-1:
+Use of software to analyse the ground motion parameters
+Unit-2:
+Use of software to analyse the ground responses,
+Unit-3:
+Use of software to analyse liquefaction potential of soil
+Unit-4:
+Use of software to analyse seismic slope stability.
+Unit-5:
+Use of software to analyse seismic design of retaining walls
+Unit-6:
+Use of software to analyse seismic hazard and risk.
+Course Outcome:
+1. Students will know the use of software to analyze the ground motion parameters
+2. They will know the use of software to analyze the ground response analysis
+3. They will know the use of software to analyze the liquefaction analysis of soil
+4. They will know the use of software to analyze the seismic slope stability analysis
+5. They will know the use of software to analyze the seismic design of retaining walls
+6. They will know the use of software to analyze the seismic hazard analysis.
+SSE-61 | P a ge
+
+--- Page 65 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will know the use of software to analyze the ground motion
+PCE72P01.1
+parameters
+They will know the use of software to analyze the ground response
+PCE72P01.2
+analysis
+They will know the use of software to analyze the liquefaction analysis
+PCE72P01.3
+of soil
+They will know the use of software to analyze the seismic slope stability
+PCE72P01.4
+analysis
+They will know the use of software to analyze the seismic design of
+PCE72P01.5
+retaining walls
+They will know the use of software to analyze the seismic hazard a and
+PCE72P01.6
+risk
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72P01.1 2 2 3 2 2 2
+PCE72P01.2 2 2 3 2 2 2
+PCE72P01.3 2 2 3 2 2 2
+PCE72P01.4 2 2 3 2 2 2
+PCE72P01.5 2 2 3 2 2 2
+PCE72P01.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+SSE-62 | P a ge
+
+--- Page 66 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72P01.1 2 2
+PCE72P01.2 2 2
+PCE72P01.3 2 2
+PCE72P01.4 2 2
+PCE72P01.5 2 2
+PCE72P01.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. 2 2
+Attainment
+SSE-63 | P a ge
+
+--- Page 67 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+DIGITAL IMAGE PROCESSING AND SEISMIC SIGNAL PROCESSING LAB
+(PCE72P02)
+Total Credit: 02 Contact Periods: 02 (0L+0T+2P)
+Course Objective:
+1. To know about the Seismographs, Strong Motion Accelerographs, reading of
+Seismograms and Accelerograms using Seisan computer program.
+2. To understand earthquake effects and isoseismal maps.
+3. To estimate the earthquake source parameters (origin time, epicentre, focal depth etc.)
+by manual method and computational method using Seisan software.
+4. To determine fault plane solution by first-motion plot and waveform inversion.
+5. To estimate frequency-magnitude relation (b-value), and Vp/Vs from Wadati plot.
+Course Content:
+Unit 1: Seismograph Operation
+Unit 2: Calibration of Seismograph
+Unit 3: Study of background noise
+Unit 4: Strong Motion Accelerograph Operation and Processing
+Unit 5: Estimation of Source Parameters
+Unit 6: Familiarization with the instruments in seismological observatory
+Unit 7: Interpretation of seismograms (seismic waves).
+Unit 8. Processing of Seismic Records and reading of Seismic Phases.
+Unit 8: Estimation of origin time, epicenter and focal depth of earthquakes using manual
+method and computational methods.
+Unit 9: Preparation of isoseismal maps
+Unit 11: Fault plane solutions by first-motion plot and waveform inversion.
+Unit 12: Evaluation of b-value and V /V .
+p s
+References:
+Related Manuals.
+Course Outcome:
+1. Students will know about the Seismographs, Accelerographs, and recording system of
+earthquakes.
+2. Students will know seismogram processing, reading of seismic phases, creating data
+files etc.
+3. Students will know earthquake location (origin time, epicenter and focal depth) by
+manual method and computational method.
+4. Students will know to estimate earthquake magnitude (Richter magnitude ML and
+Moment magnitude Mw), and from the reported damage data prepare isoseismal map
+etc.
+5. Students will know to determine Fault plane solutions by first-motion plot and
+waveform inversion.
+6. Students will know to estimate to estimate b-value and V /V .
+p s
+SSE-64 | P a ge
+
+--- Page 68 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+To establish the co-relation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE72P02.1 Students will know about the Seismographs, Accelerographs, and
+recording system of earthquakes.
+PCE72P02.2 Students will know seismogram processing, reading of seismic phases,
+creating data files etc.
+PCE72P02.3 Students will know earthquake location (origin time, epicenter and focal
+depth) by manual method and computational method.
+PCE72P02.4 Students will know to estimate earthquake magnitude (Richter magnitude
+M and Moment magnitude Mw), and from the reported damage data
+L
+prepare isoseismal map etc.
+PCE72P02.5 Students will know to determine Fault plane solutions by first-motion plot
+and waveform inversion.
+PCE72P02.6 Students will know to estimate b-value and V /V .
+p s
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE72P02.1 2 2 3 2 2 2
+PCE72P02.2 2 2 3 2 2 2
+PCE72P02.3 2 2 3 2 2 2
+PCE72P02.4 2 2 3 2 2 2
+Total 8 8 12 8 8 8
+Average 2 2 3 2 2 2
+Equivalent Avg. Attainment 2 2 3 2 2 2
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE72P02.1 2 2
+PCE72P02.2 2 2
+PCE72P02.3 2 2
+PCE72P02.4 2 2
+Total 8 8
+Average 2 2
+Equivalent Avg. Attainment 2 2
+SSE-65 | P a ge
+
+--- Page 69 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+PROJECT PRELIMINARY (PCE72P03)
+Each student will be given a Thesis/Project problem at the beginning of Second Semester.
+They will work on the literature survey, explore the scope of work, equipment
+development etc. and submit a report/dissertation. The main Thesis/Project work will,
+however, be done in Third and Fourth Semester.
+COMPREHENSIVE VIVA-VOCE(PCE72P04)
+Viva-voce will be conducted for the students at the end of the Second Semester in the
+department by the board of examiners constituted by the Geotechnical Engineering
+Section of Civil Engineering Department.
+SSE-66 | P a ge
+
+--- Page 70 ---
+Syllabus: M.Tech., Seismic Science and Engineering NIT Agartala
+Third & Fourth Semester
+Sl. Class Hours
+Subject Credit Marks
+No. per Week
+Third Semester
+1 PCE73P01: Project & Thesis - I 10 ----- 100
+Fourth Semester
+1 PCE74P01: Project & Thesis - II 20 ----- 300
+Third Semester
+Project & Thesis (PCE73P01)
+Each student will devote full time in the Third Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a part of the Thesis/Project Report at the end of the
+Third Semester which will be evaluated by a Board of Examiners consisting of the
+Supervisor and External Examiner. The evaluation of the above said Thesis will be
+followed by a viva-voce in front of faculty members and other post-graduate students.
+Fourth Semester
+Project & Thesis (PCE74P01)
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a Final Thesis/Project Report at the end of the Fourth
+Semester which will be evaluated by a Board of Examiners consisting of the Supervisor
+and External Examiner. The evaluation of the above said Thesis will be followed by a
+viva-voce in front of faculty members and other post-graduate students.
+SSE-67 | P a ge

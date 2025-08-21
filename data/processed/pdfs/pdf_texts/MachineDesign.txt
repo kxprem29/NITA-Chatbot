@@ -1,0 +1,2100 @@
+
+--- Page 1 ---
+M. TECH.
+MACHINE DESIGN
+SYLLABUS
+FOR
+CREDIT BASED CURRICULUM
+DEPARTMENT OF MECHANICAL
+ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY
+AGARTALA – 799046, INDIA
+Page 1 of 62
+
+--- Page 2 ---
+M.Tech. Machine Design (Syllabus Structure)
+Program: M.Tech. Machine Design
+Sl. Class hours
+Course Code Subject Credit Marks
+No. per week
+First Semester
+1 Advanced Machine Design 4 3-1-0 100
+2 Computer Aided Design 4 3-1-0 100
+Analysis and synthesis of
+3 4 3-1-0 100
+Mechanism
+4 Elective –I 4 3-1-0 100
+5 Elective –II 4 3-1-0 100
+Modeling and Analysis
+6 2 0-0-3 100
+Laboratory
+Computer Aided Design
+7 2 0-0-3 100
+Laboratory
+8 Technical Writing and Seminar 1 0-0-2 100
+Total 25 28 800
+Second Semester
+1 Machine Tool Design 4 3-1-0 100
+2 Advanced Vibration 4 3-1-0 100
+3 Elective –III 4 3-1-0 100
+4 Elective –IV 4 3-1-0 100
+5 Machine Tool Laboratory 2 0-0-3 100
+Advanced Vibration
+6 2 0-0-3 100
+Laboratory
+7 Project Preliminary 3 0-0-6 100
+8 Comprehensive Viva Voce 2 0-0-0 100
+Total 25 28 800
+Third Semester
+1 Project and Thesis – 1 10 0-0-0 100
+Fourth Semester
+1 Project and Thesis – 2 20 0-0-0 300
+Total Credit 80 Total Marks 2000
+Page 2 of 62
+
+--- Page 3 ---
+Electives (M.Tech. Machine Design)
+Elective I
+Sl. Class hours
+Course Code Subject Credit Marks
+No. per week
+Advanced Mathematics for
+1 4 3-1-0 100
+Engineers
+2 Soft computing 4 3-1-0 100
+3 Artificial Intelligence 4 3-1-0 100
+Elective II
+Sl. Class hours
+Course Code Subject Credit Marks
+No. per week
+1 Finite Element Methods 4 3-1-0 100
+Experimental Stress
+2 4 3-1-0 100
+Analysis for Design
+Advanced mechanics of
+3 4 3-1-0 100
+solids
+Elective III
+Sl. Class hours
+Course Code Subject Credit Marks
+No. per week
+1 Robotics 4 3-1-0 100
+2 Tribological System Design 4 3-1-0 100
+3 Robotics and Automation 4 3-1-0 100
+4 Applied Computational Methods 4 3-1-0 100
+5 Design Optimization 4 3-1-0 100
+Elective IV
+Sl. Class hours
+Course Code Subject Credit Marks
+No. per week
+1 Product Design & Development 4 3-1-0 100
+2 Design of Combustion Engine 4 3-1-0 100
+Mechanics of Composite
+3 4 3-1-0 100
+Materials
+4 Fracture Mechanics 4 3-1-0 100
+Page 3 of 62
+
+--- Page 4 ---
+Program Outcomes for Machine Design M.Tech Program
+PO1: An ability to independently carry out research /investigation and development work to
+solve Machine Design related problem.
+PO2: An ability to write and present a substantial technical report/document
+PO3: Students should be able to demonstrate a degree of mastery in the area of Machine Design
+specialization. The mastery should be at a level higher than the requirements in the bachelor
+program of Mechanical Engineering
+PO4: An ability to use analytical, numerical, and experimental methodologies to identify, define,
+and solve Machine Design related Problem.
+PO5: An ability to apply the acquired knowledge to design / develop mechanical equipment and
+systems considering environmental, socio-economic and ethical issues.
+PO6: An ability to realize the impact of a selected Design and its solutions in terms of scientific, social,
+environmental, and economic progress.
+Programs Specific Outcomes (PSOs)
+PSO1: To provide optimal and sustainable solutions by conduct investigation in the areas of
+numerical analysis, vibration analysis, failure analysis, mechanism synthesis.
+PSO2: Understanding the current scenario and Apply Machine Design engineering knowledge,
+skills and competency in Design and analysis of systems related to Mechanical and allied areas
+to obtain realistic outcomes.
+Page 4 of 62
+
+--- Page 5 ---
+FIRST SEMESTER
+ADVANCED MACHINE DESIGN
+Semester: 1st M. Tech. Credit: 4
+Course Name: Advanced Machine Design L T P 3 1 0
+Course Objectives:
+1) To adopt a better Design and Machine design process appropriate for production
+Syllabus Content
+Module 1:
+Concurrent Engineering: Design Process, Application of Computers for Design, Product Life
+Cycle, Product Life Cycle Revised with CAD/CAM, Sequential Engineering, Concurrent
+Engineering Definitions, Features, Advantages, Organizational Structures (Galbraith) Case
+Studies on Industries which successfully implemented Concurrent Engineering, Collaborative
+Engineering
+Module 2:
+Reverse Engineering: Product Development Approaches – Conventional and Non-
+Conventional Reverse Engineering – Definition, Importance, Steps Involved in it and its
+Applications Coordinate Measuring Machine (CMM) – Structural Description, Different
+Probing Systems, Computer Tomography.
+Module 3:
+Product / Process Re engineering: Definition, She whart-Deeming Cycle (Plan, Do, Check,
+Action), Phases of Reengineering, Reengineering Leadership, Selecting the Reengineering
+Team, Business Assessment, Setting the Project Scope, Studying the Problem, Understanding
+the Current Process, Understanding the Current Information, Architecture Preparing for the
+Redesign, Travelling through the Process Space, Key Concepts in Information Technology,
+Data Analysis and Reengineering Project, Redesign Principles.
+Module 4:
+Loss Function and Design Techniques: Definitions of Quality, Quality Loss Function, Causes
+of Variation, Average Quality Loss Exploring Nonlinearity, Classification of Parameters,
+Steps in Designing Performance into a Product, Functional Design: The Traditional Focus,
+Loss Functions and Manufacturing Tolerances, Concept Design, Parameter Design,
+Tolerance Design.
+Module 5:
+Product / Process Optimization: Signal to Noise Ratios for Static Problems, Signal to Noise
+Ratios for Dynamic Problems Optimization using Signal to Noise Ratios.
+Module 6:
+Robust Design: Steps in Robust Design, Fundamental Principle, Tools used in robust Design,
+Application and Benefits of Robust Design.
+Page 5 of 62
+
+--- Page 6 ---
+Text Books:
+i) Imad Moustapha, “Concurrent Engineering in Product Design and Development”,
+New Age International (P) Ltd. Publishers
+ii) Ibrahim Zeid, “CAD/CAM Theory and Practice”, Tata McGraw-Hill Publishing
+Company Ltd.
+iii) Mikell P. Groover and Emory W. Zimmers Jr., “CAD/CAM: Computer-Aided Design
+and Manufacturing”, Prentice Hall of India Pvt. Ltd.
+References:
+i) P. Radhakrishnan, S. Subramanyan, “CAD/CAM/CIM”, New Age International (P)
+Ltd., Publishers
+ii) Vikram Sharma, “Fundamentals of CAD/CAM/CIM”, S.K. Kataria and Sons
+iii) Daniel P. Petrozzo and John C. Stepper, “Successful Reengineering”, Jaico Publishing
+House
+iv) Tapan Bagchi Taguchi, “Methods Expalined – Practical Steps to Robust Design”,
+Prentice Hall, India
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 To be acquainted with the overview of design process correlating the
+I & II
+fabrication /production process.
+2 To study the process of production incorporating modern machine
+III
+design process
+3 Correlation of a design process to product IV
+4 To find out best solution by application of optimization technique V
+To incorporate a process of production /member to with stand
+VI
+application hazard and uncertainty by means of robust design
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 3 2 3 2 2 1
+CO-2 2 3 3 3 3 1 3 2
+CO-3 2 3 3 3 3 3 3 3
+CO-4 1 2 3 1 3 1 2
+CO-5 3 2 3 1 2 3 3 3
+Page 6 of 62
+
+--- Page 7 ---
+COMPUTER AIDED DESIGN
+Semester: 1st Credit: 4
+Course Name: Computer Aided Design L T P 3 1 0
+Course Objectives:
+1) To learn modeling techniques for Computer Aided Design
+2) To learn transformation methods for visual clarity of shape of model
+3) To learn data exchange formats
+Syllabus Content
+Module 1:
+Introduction-Product life cycle, Role of CAD in design process, CAD hardware and software,
+Criteria to evaluate CAD softwares, Computer Communications, Principle of networking,
+classification networks.
+Module 2:
+2 – D Modeling-Parametric representation of analytic curves, parametric representation of
+synthetic curves like Bezier curve, B-spline curve; Representation of synthetic surfaces like
+Bezier surface, B-spline surface.
+Module 3:
+Composite shape-NURBS, Inverse problem, Geometric surface analysis, Edgewise docking,
+Volumetric docking, assessment criterion.
+Module 4:
+3 – D Modeling-Solid modeling, Boolean operations, Methods, Boundary Representation,
+Constructive Solid Geometry, Sweep, solid manipulations, solid modeling based applications:
+mass properties calculations.
+Module 5:
+Transformations-Transformation of geometric models: translation, scaling, reflection,
+rotation, homogeneous representation, concatenated transformations, Inverse
+Transformations, Mapping.
+Module 6:
+Data Exchange Formats-Introduction to CAD/Cam data exchange formats. Direct and
+Indirect translators. Neutral file formats: Data Exchange format (DXF), Standard Triangular
+Languages (STL), Initial Graphics Exchange Specification (IGES).
+Page 7 of 62
+
+--- Page 8 ---
+Text Books:
+i) Ibrahbim Zeid, “CAD / CAM Theory and Practice”, Tata McGraw Hill Publishing
+Company
+ii) Rogers / Adams, “Mathematical Elements for Computer Graphics”. McGraw Hill
+Education
+Reference Books:
+i) M.E. Mortenson, “Geometric Modeling”, Industrial Press Inc., USA
+ii) Jim Browne, “Computer Aided Engineering and Design”. New Age International
+iii) Rooney and Steadman, “Principles of Computer Aided Design”, Routledge
+publication.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Choose suitable CAD hardware and software tools 1
+2 Construct abstract models of curves and surfaces 2, 3
+3 Construct abstract models of solid entities 4
+4 Apply transformations to the models 5
+5 Use data exchange formats 6
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 2
+CO-2 3 2 2
+CO-3 3 2 3
+CO-4 2 3 2
+CO-5 3 1 3
+CO-6 3 2 2
+Page 8 of 62
+
+--- Page 9 ---
+ANALYSIS AND SYNTHESIS OF MECHANISM
+Semester: 1st Credit: 4
+Course Name: Analysis and Synthesis of Mechanism L T P 3 1 0
+Course Objectives:
+4) To provide knowledge on fundamental theories used in kinematic analysis and their
+application in mechanism synthesis.
+5) To make students enable to construct mechanisms using kinematic analysis.
+Syllabus Content
+Module 1:
+Basics of Mechanism- Rigid body, Kinematic pairs, Lower pairs connections, Higher pair
+connections, Kinematic chain, Mechanism, Four bar mechanism, Slider crank mechanism,
+Transmission, deviation and pressure angles, Equivalent mechanisms
+Module 2:
+Type Synthesis, Number Synthesis, Dimensional Synthesis- Type synthesis, Number
+synthesis, Dimensional synthesis, Accuracy points, Spacing of accuracy points, Chebyshev
+polynomials.
+Module 3:
+Four Bar Coupler Point Curve- Four bar linkage, coupler curve equation, double points and
+symmetry, Roberts-Chebyshev theorem
+Module 4:
+The Euler Savary Equation and Cubic of Stationary Curvature- The Euler Savary equation
+and the Inflection circle, The cubic of stationary curvature.
+Module 5:
+Linkage Synthesis with Three Accuracy Points (Geometric Methods)- Concept of poles,
+relative poles, pole triangle of four bar and slider crank mechanism. Application in position
+generation, function generation problems.
+Module 6:
+Linkage Synthesis with Four Accuracy Points (Geometric Methods)- Concept of opposite
+pole quadrilateral, Center point curve, Circle point curve, Application in position generation
+problems.
+Page 9 of 62
+
+--- Page 10 ---
+Module 7:
+Linkage Synthesis with Three Accuracy Points (Algebraic Method)- Fredeinstain
+displacement equation of four bar linkage for three accuracy points, Crank-follower linkage
+synthesis angular velocities and acceleration
+Module 8: Linkage Synthesis with Three Accuracy Points- Complex Number Method
+Text Books:
+i) Richard Scheunemann Hartenberg and Jacques Denavit,“Kinematic Synthesis of
+Linkages”, McGraw-Hill.
+Reference Books:
+i. Asok Kumar Malik, Amitabh Ghosh,“Kinematic Analysis and Synthesis of
+Mechanism”
+ii. Deh Chang Tao,“Applied Linkage Synthesis”, Addison-Wesley Pub. Co.
+iii. Rudolf Beyer, “The Kinematic Synthesis of Mechanisms”, Chapman & Hall
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Understand fundamental concepts of mechanisms 1, 2
+2 Understand theories and methodologies applied for design of 3, 4
+mechanisms
+3 Synthesize mechanism using 3 accuracy points 5, 7, 8
+4 Synthesize mechanism using 4 accuracy points 6
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 2 1 1 1 1 1 1
+CO-2 1 2 2 2 1 2 2 2
+CO-3 3 1 3 3 1 1 3 2
+CO-4 3 1 3 3 1 1 3 2
+CO-5 1 2 1 1 1 1 1 1
+CO-6 1 2 2 2 1 2 2 2
+Page 10 of 62
+
+--- Page 11 ---
+COMPUTER AIDED DESIGN LABORATORY
+Semester: 1st Credit: 2
+Course Name: Computer Aided Design Laboratory L T P 0 0 3
+Course Objectives:
+1) To learn implementation of CAD algorithms for modeling of geometric entities
+2) To learn use of available CAD softwares for modeling and assembly of machine
+components
+List of Experiments:
+Exp 1: Implement CAD algorithms for modeling of 2-D enteritis and display the results
+Exp 2: Implement CAD algorithm for modeling of composite shape and display the results
+Exp 2: Use CAD software for modeling and assembly of machine components
+Exp 4: Implement CAD algorithm for transformation of objects
+Exp 5: Convert CAD model data from one exchange format to the other format
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Exp
+1 Model 2-D geometric entities using CAD algorithms 1
+2 Apply CAD algorithm for modeling composite shape 2
+3 Model and assemble machine components using CAD software 3
+4 Apply transformations to the object shapes 4
+5 Use data exchange formats for conversion of CAD model data 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 2
+CO-2 3 2 3
+CO-3 3 2 3
+CO-4 3 2 2
+CO-5 3 1 3
+CO-6 3 2 2
+Page 11 of 62
+
+--- Page 12 ---
+MODELING AND ANALYSIS LAB
+Semester: 1st Credit: 2
+Course Name: Modeling and Analysis Lab L T P 0 0 3
+Course Objectives:
+1) To acquire basic understanding of Modeling and Analysis software
+2) To understand the different kinds of analysis and apply the basic principles to find out the
+stress and other related parameters of bars, beams loaded with loading conditions.
+3) To lean to apply the basic principles to carry out dynamic analysis to know the natural
+frequency of different kind of beams.
+4) To impart the fundamental knowledge on using various analytical tools like ANSYS,
+FLUENT, etc., for Engineering Simulation.
+5) To impart knowledge on how these tools are used in Industries by solving some real time
+problems using these tools.
+List of Experiment:
+Exp 1: Study of a FEA package and modeling and stress analysis of:
+a) Bars of constant cross section area, tapered cross section area and stepped bar
+b) Trusses – (Minimum 2 exercises of different types)
+c) Beams – Simply supported, cantilever, beams with point load, UDL, beams with varying
+load etc (Minimum 6 exercises different nature)
+d) Stress analysis of a rectangular plate with a circular hole
+Exp 2: Thermal Analysis – 1D & 2D problem with conduction and convection boundary
+conditions (Minimum 4 exercises of different types )
+Exp 3: Dynamic Analysis to find
+a) Fixed – fixed beam for natural frequency determination
+b) Bar subjected to forcing function
+c) Fixed – fixed beam subjected to forcing function
+Exp 4: (only for demo and oral exam)
+1) Demonstrate the use of graphics standards to import the model from modeler to solver
+2) Demonstrate one example of contact analysis to learn the procedure to carry out contact
+analysis. 3) Demonstrate at least two different type of example to model and analyze bars or
+plates made from composite material
+Page 12 of 62
+
+--- Page 13 ---
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Exp
+1 Use the modern tools to formulate the problem, and able to create Exp 1 to 4
+geometry, descritize, apply boundary condition to solve problems of
+bars, truss, beams, plate to find stress with different loading conditions.
+2 Demonstrate the deflection of beams subjected to point, uniformly Exp-1
+distributed and varying loads further to use the available results to draw
+shear force and bending moment diagrams.
+3 Analyze the given problem by applying basic principle to solve and Exp-2
+demonstrate 1D and 2D heat transfer with conduction and convection
+boundary conditions.
+4 Able to appreciate the utility of the tools like Solid works, ANSYS or Exp-1 to 4
+FLUENT in solving real time problems and day to day problems
+5 Use of these tools for any engineering and real time applications. Exp-4
+6 Acquire knowledge on utilizing these tools for a better project in their Exp-4
+curriculum as well as they will be prepared to handle industry problems
+with confidence.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 3 3 3 3 3 3 3
+CO-2 3 2 3 1 1 1 1 1
+CO-3 3 2 2 1 1 1 1 2
+CO-4 3 2 3 1 1 1 1 1
+CO-5 3 2 3 1 1 1 1 1
+Page 13 of 62
+
+--- Page 14 ---
+TECHNICAL WRITING AND SEMINAR
+Semester:1st Credit:4
+Course Name: Technical Writing and Seminar L T P 3 1 0
+Course Objectives:
+1) To develop comprehensive technical communication skill.
+2) To develop competency for communicating technical projects.
+Syllabus Content:
+Module 1:
+Report writing and other business communications: project writing, technical proposal,
+report Writing (Business and Technical Report), journal writing (Research Article), technical
+description.
+Module 2:
+Miscellaneous correspondence: process of communication, barriers in communication,
+written communication business letters (Quotations, Orders, Tenders, Complaint,
+Responding/reply to enquiry), email (email etiquettes), minutes, memorandum, circular,
+notice, agenda.
+Module 3:
+Job based communication: Job application, resume writing, profile summary and
+employment interview, presentation skills.
+Module 4:
+Seminar presentation: seminar preparation on: various technical innovations, recent
+developments in the field of automotive technology, topics of universal importance.
+Presentation of seminar on audio visual mode.
+Text Books:
+i) Sharma R C., Mohan Krishna, Business Correspondence and Report Writing.
+5th ed. Chennai: Mc Graw Hill Education (India) Pvt. Ltd,2016.
+Reference Books:
+i) Padmaja T.V.S., Pfeiffer William Sanborn. Technical Communication. 6th ed. Noida:
+Pearson, India Education Services Pvt. Ltd, 2008.
+ii) Anderson V. Paul, Technical Communication.6th ed. New Delhi: Cengage
+Learning, 2010.
+Page 14 of 62
+
+--- Page 15 ---
+Course Outcomes:
+CO-No. Course Outcome Module
+Covered
+1 Ability of narrating any technical concept, communicating research article. 1
+2 Develop overall experience of handling any official, business 2
+correspondence.
+3 Self-development to communicate for any job prospects. 3
+4 Ability to represent project report, thesis, technical view point. 4
+CO-PO Mapping (Rate: scale of1to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 1 3 1 2 2 2 1
+CO-2 3 2 3 2 1 2 2 2
+CO-3 2 3 3 2 2 3 2 2
+CO-4 1 3 3 1 2 3 2 1
+Page 15 of 62
+
+--- Page 16 ---
+SECOND SEMESTER
+MACHINE TOOL DESIGN
+Semester: 2nd M.Tech. Credit: 4
+Course Name: Machine Tool Design L T P 3 1 0
+Course Objectives:.
+1) Skill for reasoning and application of machine tools.
+Syllabus content
+Module 1:
+Introduction to Machine Tools, General Principals of Machine Tool Design: Types and
+capabilities of machine tools, Constructional and operational features, Techno-Economical
+Prerequisites for undertaking the Design of New Machine Tool, General Requirements of
+Machine Tool Design, Engineering Design Process Applied to Machine Tools.
+Module 2:
+Machine Tool Drives- Working and auxiliary motions in machine tools, Mechanical
+transmission and its elements, Aim of Speed and Feed Rate Regulation, Stepped regulation of
+speed: Design of speed box, Design of Feed Box, Construction of speed charts, Development
+of gearing diagram, Determination of gear teeth, module, shaft sizes, centre distances.
+Module 3:
+Design of Machine Tool Structures and guide ways - Functions of Machine Tool Structures
+and Their Requirements, Design criteria for Machine Tool Structures, Materials of Machine
+Tool Structures Static and Dynamic Stiffness, Profiles of Machine Tool Structures, Basic
+Design Procedure of Machine Tool Structures, Design of Beds, Columns, Bases and Tables,
+Functions and types of guide ways, Design of sideways,
+Module 4:
+Design of Spindles and Spindle Supports- Functions of Spindle Unit and Requirements,
+Materials of Spindles, Effect of Machine Tool Compliance on Machining Accuracy, Design
+Calculations of Spindle
+Module 5:
+Acceptance Tests on Machine Tools- Significance, Performance and geometrical tests on
+lathe, milling, drilling and shaping machines.
+Text Books:
+i) N.K. Mehta, “Machine Tool Design and Numerical Control” Second Edition, Tata
+McGraw Hill Publishing Co. Ltd., New Delhi, 1984
+ii) S.K. Basu and D.K. Pal, “Design of Machine Tools”, Fourth Edition, Oxford and IBH
+Publishing Co. Pvt. Ltd., New Delhi, 1990.
+Page 16 of 62
+
+--- Page 17 ---
+References Books:
+i) G.C. Sen and A. Bhattacharya, “Principles of Machine Tools”, Second Edition, New
+Central Book Agency (P) Ltd., Kolkata, 1988.
+ii) F. Koenigsberger, “Design Principles of Metal Cutting and Machine Tools”, Edition
+1964,Pergamon Press Ltd., London. 5. H.C.Town, “The Design and Construction of
+Machine Tools”
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 To earn skill to apply right machine tool in fabrication /production 1
+process
+2 To study the design process of speed regulatory and driving
+mechanism of machine tools II
+3 To know the design process of the guide ways of machine tool along
+with the structures as associated III
+4 To know and select the proper speed and feed mechanism for
+IV,V
+machine tool
+5 To know the process of testing and acceptance of machine tools VI
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 3 2 3 3 1 3 2
+CO-2 2 3 3 3 3 2 3 3
+CO-3 3 3 3 3 3 3 3 2
+CO-4 1 3 2 1 1 3 2 3
+CO-5 3 3 3 3 2 3 3 3
+Page 17 of 62
+
+--- Page 18 ---
+ADVANCED VIBRATION
+Semester: 2nd Credit: 4
+Course Name: Advanced Vibration L T P 3 1 0
+Course Objectives:
+1. Ability of perform harmonic analysis of systems with Fourier series expansions,
+frequency domain representations. Analysis of systems under hysteresis damping,
+coulomb damping and other different types of damping.
+2. The ability to analyze and solve two degree of freedom systems with or without
+damping using Transfer function approach, problems using Laplace transforms.
+3. To develop ability for analyzing response of systems under periodic force of irregular
+form, non periodic force. Understanding the convolution integral. Understanding the
+control of vibrations.
+4. Ability to use different approach, Eigen value problem approach to generate the
+equation of motion for systems undergoing multidegree of freedom vibration.
+Understanding and performing Modal Analysis.
+5. Understanding and analyzing vibration of continuous systems.
+6. Understanding and performing numerical integration methods in vibration analysis.
+Develop ability to analyze a vibrating system with Finite Element Methods.
+Syllabus Content
+Module 1:
+Free and forced vibration of systems. Rayleigh‟s energy methods. Characteristics Roots, root
+locus representations. Energy dissipated in viscous damping. Construction of dampers with
+linearization of non linear damper. Forced Vibration analysis of systems with hysteretic
+damping and coulomb damping. Harmonic analysis, Fourier series analysis, frequency
+spectrum, time and frequency domain representations.
+Module 2:
+Free and forced vibration analysis of two degree of freedom systems, coordinate coupling,
+semi definite systems. Self excitation and stability analysis of systems. Solutions of systems
+using Laplace transformations, frequency transfer functions. Related Numerical problems.
+Module 3:
+Response of first and second order systems under general periodic force. Response of
+systems under irregular periodic force, non periodic force. Response to an impulse, general
+forcing conditions, base excitations. Transient and steady state response. Vibration control,
+natural frequency control, vibration isolations, vibration absorbers. Solving related numerical
+problems.
+Module 4:
+Modeling of multi degree of freedom systems (free, forced, damped and undamped).
+Stiffness, flexibility and inertia influence coefficients. Lagrange‟s equations. Eigen value
+Page 18 of 62
+
+--- Page 19 ---
+problem, solution of characteristics equations, orthogonality of normal modes. Modal
+analysis of undamped and damped systems undergoing forced vibrations. Standard Eigen
+value problems, Raleigh‟s Formula, Jacobi‟s method, Dunkerley‟s Formula. Solving related
+problems.
+Module 5:
+Transverse vibration of string and cable, Longitudinal vibration of rods, torsional vibration of
+shafts, Lateral Vibration of Beams (Timoshenko, Euler Bernoulli Beam), Membrane
+vibrations. Application of Rayleigh- Ritz method. Related problems.
+Module 6:
+Finite difference methods for simple systems. Central difference methods, Runge – Kutta
+method for single degree and multi degree of freedom systems. Response to irregular forcing
+conditions using numerical methods. Finite difference methods for continuous systems.
+Equation of motion of an element, mass, stiffness matrix and force vector formulations.
+Transformation of element matrices. Equation of motion of systems using finite elements,
+imposing boundary conditions. Problems solving with different systems.
+Text Books:
+i) “Mechanical Vibrations”, S.S Rao; Pearson Publication.
+Reference Books:
+i) Mechanical Vibrations; Dr. Debabrata Nag; WILLEY INDIA
+ii) Mechanical Vibrations; J. S. Mehta & A.S. Kailey. S. Chand Publication
+iii) Theory of Vibrations with Applications; William. T. Thomson. Pearson
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Ability of perform harmonic analysis of systems with Fourier series
+expansions, frequency domain representations. Analysis of systems
+1
+under hysteresis damping, coulomb damping and other different
+types of damping.
+2 The ability to analyze and solve two degree of freedom systems with
+or without damping using Transfer function approach, problems 2
+using Laplace transforms.
+3 To develop ability for analyzing response of systems under periodic
+force of irregular form, non periodic force. Understanding the 3
+convolution integral. Understanding the control of vibrations.
+Page 19 of 62
+
+--- Page 20 ---
+4 Ability to use different approach, Eigen value problem approach to
+generate the equation of motion for systems undergoing multidegree
+4
+of freedom vibration. Understanding and performing Modal
+Analysis.
+5 Understanding and analyzing vibration of continuous systems. 5
+6 Understanding and performing numerical integration methods in
+vibration analysis. Develop ability to analyze a vibrating system with 6
+Finite Element Methods.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 2 3 2
+CO-2 3 3 2
+CO-3 2 3 3 3
+CO-4 3 3 3 2
+CO-5 3 3 3 2
+CO-6 3 3 3 3 3
+Page 20 of 62
+
+--- Page 21 ---
+ADVANCED VIBRATION LABORATORY
+Semester: 2nd Credit: 2
+Course Name: Advanced Vibration Laboratory L T P 0 0 3
+Course Objectives:
+1) To provide the knowledge about advanced vibration analysis techniques and practical
+approach to analyze and resolve any problems of vibrating systems.
+2) Understanding the approach for Control of systems and ability to analyze a system
+from its responses.
+List of Experiments
+Exp 1 Vibration analysis of Beams under different boundary conditions (Free
+Vibration and Vibration due to Impact)
+Exp 2 Frequency analysis of vibrating systems with FFT Analyzer under different
+loading conditions.
+Exp 3 Numerical analysis of the response systems with SCILAB.
+Exp 4 Modeling and Designing of Advanced Combination Cams and their
+response investigation (experimentally/ with CAD model).
+Exp 5 Control system designing for an inverted pendulum and modeling with
+software packages like MATLAB/ SCILAB.
+Exp 6 Magnetic levitation analysis and modeling with software packages like
+MATLAB/ SCILAB.
+Exp 7 Vibration analysis of Clamped/ reinforced natural fiber composites after
+developing the same OR any standard practical problem solving.
+Exp 8 Unbalance response analysis of rotating systems with the response of its
+supports.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome (4 to 6) Experiment
+1 Analyzing and understanding the responses of continuous systems under
+1,2,8
+different boundary conditions.
+2 Ability to use software packages, advanced vibration analysis tools to
+2 - 6
+analyze and understand its responses.
+3 Ability to Design Control systems and simulating its responses. Ability
+3,5,6
+to analyze any systems response with numerical approach.
+4 Ability to solve any practical problems observed in systems due to
+7,8
+vibration, analyzing the vibration characteristics of natural fiber
+Page 21 of 62
+
+--- Page 22 ---
+composites to enhance their uses.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3
+CO-2 3 3
+CO-3 3 2
+CO-4 3 3 3 2 2
+Page 22 of 62
+
+--- Page 23 ---
+MACHINE TOOL LAB
+Semester: 2nd Sem Credit: 2
+Course Name: Machine Tool Lab L T P 0 0 3
+Course Objectives:
+1) Ability enhancement for the design of various components of structures, guide ways,
+spindles of machine tools
+List of Experiments:
+Exp 1: General requirement of Machine tools
+Exp 2: Define working and auxiliary motion motion of various machine Tool
+Exp 3: Different Mechanism for transforming rotary motion to translator
+Exp 4: Write Design procedure of Gear box design
+Exp 5: Draw a neat schematic diagram of herringbone gear and Explanation
+Exp 6. Speed chart Construction
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Exp
+1 To gain the knowledge of different drives and mechanisms used in
+1,2
+machine tools
+2 To minimize the complexity of the problem 2
+3 To gain the knowledge of design of structures 2
+4 To gain the knowledge of design of gear boxes & feed boxes used in
+2,4
+machine tools
+5 To adopt & implement the recent trends required as per the
+2,3,4
+applications
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 2 3 2 2 2 2
+CO-2 2 2 3 2 2 1 1 1
+CO-3 2 2 3 1 2 2 2 2
+CO-4 2 2 2 3 1 1 1 2
+CO-5 3 1 3 1 2 1 2 1
+Page 23 of 62
+
+--- Page 24 ---
+COMPREHENSIVE VIVA
+Semester: 2nd Credit: 4
+Course Name: Comprehensive Viva L T P 0 0 0
+Course Objectives:
+1) To assess the overall knowledge of the student in the field of Machine Design domain
+acquired over one year of study in post graduate program.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+1 Comprehend any given problem / concept related to Machine Design domain.
+2 Recall, recognize, visualize, demonstrate, criticize and appraise the concepts related to
+automotive engineering domain.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 3 2 1 2 2 2 2
+CO-2 3 2 2 2 1 2 2 2
+Page 24 of 62
+
+--- Page 25 ---
+PROJECT PRELIMINARY
+Semester: 2nd Credit: 6
+Course Name: Project Preliminary L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop
+concept/project in the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+1 1. Undergo literature survey in the chosen field of research
+2 2. Approach and identify a research problem and able to analyze the scope of research
+3 3. Develop a research methodology to proceed with the research
+4 Summarize and Present a technical presentation with proper reference
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 3 3 2 2 2 2 2
+CO-2 3 3 3 2 1 2 2 2
+CO-3 3 3 3 2 2 3 2 2
+CO-4 2 3 3 1 2 3 2 1
+Page 25 of 62
+
+--- Page 26 ---
+THIRD SEMESTER
+PROJECT AND THESIS-I
+Semester: 3rd Credit: 10
+Course Name: Project and Thesis – I L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop
+concept/project in the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Intensive literature survey and identify the research problems related to Material
+1
+Science and Engineering.
+2 Communicate and discuss research ideas
+3 Develop a systematic model/approach to analyze and solve the research problems.
+4 Outline the past, present and expected outcome based on systematic survey.
+5 Conduct preliminary experiments / theoretical evaluation to certain extent.
+Summarize their survey, research problem identification, approach, ,expected
+6 outcome and attained results with interpretation by means of oral presentation and
+written reports
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 3 3 1 2 2 1 2
+CO-2 3 2 3 1 2 1 1 1
+CO-3 3 3 3 2 3 2 2 2
+CO-4 3 3 3 2 3 3 2 1
+CO-5 3 3 3 1 2 1 1
+CO-6 3 3 3 2 3 1 2 2
+Page 26 of 62
+
+--- Page 27 ---
+FOURTH SEMESTER
+PROJECT AND THESIS-II
+Semester: 4th Credit: 20
+Course Name: Project and Thesis-II L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop
+concept/project in the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Survey, approach, identify and demonstrate the research / industrial problems using
+1
+various available modern tools and techniques
+Develop and validate a systematic model/processto analyze and solve the research
+2
+problems.
+Outline the past, present and expected performance / outcome of a material / product /
+3 process / model / system(s) in Engineering domain in confirmation to the standard of
+safety and environmental, economic and ethical yardstick.
+4 Conduct experiments and theoretical evaluation extensively
+4. Analyze, summarize, infer based on extensive research and communicate their
+5 chosen domain problems and result optimistically by means of oral presentation and
+written dissertation reports
+5. Present and publish their findings as technical manuscript in technical conference/
+6
+indexed research journals ethically.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 3 1 1 2 1 2
+CO-2 3 2 3 2 2 1 1 1
+CO-3 3 3 3 2 3 2 2 3
+CO-4 3 2 3 2 3 3 2 2
+CO-5 3 3 3 2 2 1 3 2
+CO-6 2 3 3 3 3 2 3 3
+Page 27 of 62
+
+--- Page 28 ---
+ELECTIVE- I
+ADVANCED MATHEMATICS FOR ENGINEERS
+Semester: 1st M. Tech. Credit: 4
+Course Name: Advanced mathematics for engineers L T P 3 1 0
+Course Objectives:
+1) Solving optimization problems, boundary value problems viz. Heat equation, Wave
+equation & mathematical modeling which are very useful in Engineering field.
+2) Simulation modeling is used to solve mathematical models based on probabilistic
+and statistical methods related to real-world problems safely and efficiently.
+3) To solve homogeneous, non-homogeneous linear equation & numerical solution of
+partial differential equation.
+Syllabus Content
+Module 1:
+Calculus of Variations: Variation and its properties, Euler‟s equation, Conditional extreme,
+Isoperimetric problems, Functional dependent on first and higher order derivatives,
+Functional dependent on functions of several independent variables, Some applications-
+Direct methodsRitz and Kantorovich methods, Eulers finite difference method.
+Module 2:
+Laplace Transform & Fourier Transform: Applications of fourier transform in solving initial
+& boundary value problems. Laplace equation, Heat equation & wave equation.
+Module 3:
+Hankel‟s Transform: Eliminating properties of Hankel transform, Hankel inversion, and
+transform theorem, Hankel transform of derivatives of functions, Parsevel‟s theorem.
+Module 4:
+Simulation: Types, case studies in various fields using simulation technique, simulation
+software‟s used, use of mathematical models based on probabilistic and statistical methods.
+Module 5:
+Partial Differential Equation: Formation of PDE, Solution of PDE, Equation solvable by
+direct integration, linear equation of first order, Non-linear equation of first order, Charpit‟s
+method, Homogeneous linear equations with constant co-efficient, Non-homogeneous linear
+equation, Non-linear equation of second order.
+Module 6:
+Solution of parabolic & Hyperbolic equations: Implicit & Explicit schemes, ADI methods,
+Nonlinear parabolic equations – iteration method, Solution of elliptic equation-Jaccobi
+method, Gauss Seidel & SOR method, Ricardson method, RKF4 method, Galarkin‟s method.
+Module 7:
+Introduction to finite element method & scope.
+Page 28 of 62
+
+--- Page 29 ---
+Text Books:
+i) Calculus of Variations with Applications, Gupta A.S, Prentice Hall India Learning
+Private Limited.
+ii) Stochastic Modeling: Analysis & Simulation, Barry L Nelson, Dover Books on
+Mathematics.
+iii) Advanced Differential Equations, M.D. Raisinghania, S Chand Publishing.
+iv) Numerical Analysis, S.A.Mollah, Books & Allied Ltd
+Reference Books:
+i) Advanced Engineering Mathematics, E. Kreyszig, John Wiley & Sons.
+ii) Numerical Methods in Engineering and Science, B. S. Grewal, Khanna Publishers.
+iii) Advanced Engineering Mathematics, H. K. Dass, S. Chand Publishing
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Students will be able to analyze and solve optimization problems in
+1
+Engineering using different techniques.
+2 Students will be able to solve the boundary value problems viz. Heat
+2, 3
+equation, wave equation
+3 Students will learn to analyze and compute mathematical models based
+4, 7
+on probabilistic and statistical methods
+4 Student can be able to solve homogeneous, non-homogeneous linear
+5
+equations arising in Engineering problems
+5 Student can be able to solve the problems of partial differential equation
+6, 7
+using numerical techniques
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 - 2 3 2 - - -
+CO-2 3 1 1 3 2 - - -
+CO-3 3 2 2 3 2 - - -
+CO-4 2 - 1 3 2 - - -
+CO-5 1 - 1 3 2 - - -
+Page 29 of 62
+
+--- Page 30 ---
+SOFT COMPUTING
+Semester: 1st Sem Credit: 4
+Course Name: Soft Computing L T P 3 1 0
+Syllabus content
+Module 1:
+Introduction to Soft Computing, Evolution of Computing ,Soft Computing Constituents ,
+From Conventional Artificial Intelligence to Computational Intelligence, Machine
+LearningBasics.
+Module 2:
+Fuzzy sets and Fuzzy logic: Introduction, Fuzzy sets versus crisp sets, operations on fuzzy
+sets,Extension principle, Fuzzy relations and relation equations, Fuzzy numbers, Linguistic
+variables, Fuzzy logic, Linguistic hedges, Applications, fuzzy controllers, fuzzy
+patternrecognition, fuzzy image processing, fuzzy database.
+Module 3:
+Artificial Neural Network: Introduction, basic models, Hebb's learning, Adaline, Perceptron,
+Multilayer feed forward network, Back propagation, Different issues regarding convergence
+ofMultilayer Perceptron, Competitive learning, Self Organizing Feature Maps,
+AdaptiveResonance Theory, Associative Memories
+Module 4:
+Evolutionary and Stochastic techniques: Genetic Algorithm (GA), different operators of
+Genetic Algorithm, Analysis of selection operations, Hypothesis of building Blocks, Schema
+theorem and convergence of Genetic Algorithm, Simulated annealing and Stochastic
+models,Boltzmann Machine, Applications. Rough Set: Introduction, Imprecise Categories
+Approximations and Rough Sets, Reduction on of Knowledge, Decision Tables, and
+Applications.
+Module 5:
+Hybrid Systems :Neural,Network,Based Fuzzy Systems, Fuzzy Logic,Based Neural
+Networks, Genetic Algorithm for Neural Network Design and Learning, Fuzzy Logic and
+Genetic Algorithm for Optimization,
+Text Book
+i) Amit Konar, “Computational Intelligence: Principles, Techniques and Applications”,
+Springer
+Reference Books:
+Page 30 of 62
+
+--- Page 31 ---
+i) Mitchell Melanie, “An Introduction to Genetic Algorithm”, Prentice Hall.
+ii) David E. Goldberg, “Genetic Algorithms in Search, Optimization and Machine
+Learning”, Addison Wesley.
+iii) S. Haykin, “Neural Networks”, Pearson Education, 2ed.
+iv) S. Rajasekaran& G. A. V. Pai , Neural Networks, Fuzzy logic, and Genetic
+Algorithms, PHI.
+v) Fuzzy Sets and Fuzzy Logic, Klir& Yuan, PHI.
+vi) Rough Sets, Z. Pawlak, Kluwer Academic Publisher.
+vii) Neural Networks, Fuzzy logic, and Genetic Algorithms, S. Rajasekaran and G. A. V.
+Pai, PHI.
+viii) Intelligent Hybrid Systems, D. Ruan, Kluwer Academic Publisher.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Develops students' skill in neuro-fuzzy engines to handle machine
+I,IV
+learning in presence of uncertainty with nature inspired algorithms.
+2 Provides solution to real world problems with approximate reasoning
+II, III,V
+using fuzzy logic.
+3 Instills the scope of optimization in engineering design using
+VI,VII
+evolutionary computation.
+4 Demonstrates the scope of the subject in all aspects of science,
+VIII
+humanities and engineering.
+5 Emphasizes the necessity of soft techniques in engineering industry,
+where mathematically hard techniques are difficult to realize in IX,XI
+absence of sufficient data.
+6 Understanding the deep learning and processing high dimensional
+X
+data
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 2 1 1 1 1 1 1
+CO-2 2 2 1 2 2 2 2
+CO-3 2 2 2 2 1 1 2 2
+CO-4 2 3 2 3 1 1 2 2
+CO-5 3 3 3 1 1 1 2 1
+CO-6 2 3 3 2 1 2 2 2
+Page 31 of 62
+
+--- Page 32 ---
+ARTIFICIAL INTELLIGENCE
+Semester: 1st Sem Credit: 4
+Course Name: Artificial Intelligence L T P 3 1 0
+Syllabus Content
+Module 1:
+Introduction to AI and intelligent agents, Problem Solving: Solving Problems by Searching,
+heuristic search techniques, constraint satisfaction problems, stochastic search methods,
+Game playing: min max, alpha beta pruning, Knowledge and Reasoning: Building a
+Knowledge Base: Propositional logic, first order Logic, situation calculus, Theorem Proving
+in First Order Logic.
+Module 2:
+Uncertain Knowledge and Reasoning, Overview of Probability Theory, Bayes Networks,
+Undirected Graphical Models, Template Based Representations, Exact Inference: Variable
+Elimination, Clique Trees, Belief Propagation, Tree Construction, Baye‟s Theorem,
+Dempster- Shafer theory of evidence.
+Module 3:
+Introduction to Optimization, Approximate Inference: Sampling, Markov Chains, Maximum
+A posteriori Probability (MAP) Inference, Inference in Temporal Models, Introduction to
+learning graphical models, Parameter Estimation, Bayesian Networks and Shared Parameters.
+Module 4:
+Learning: Overview of different forms of learning, Learning Decision Trees, EM, Hidden
+Variables, Decision Problems, Neural Networks, ANN, McCulloch Pitts Model, Perceptron
+Network.
+Module 5:
+Statistical learning methods, k-nearest neighbor algorithm, Naïve Bayes classifier,
+Introduction to Natural Language Processing.
+Module 6:
+Fuzzy Logic: operations of Fuzzy sets, Variables inference techniques, defuzzification
+techniques, basic Fuzzy interference algorithm, application of fuzzy logic , Fuzzy system
+design implementation.
+Text book:
+i) Artificial Intelligence and Soft Computing by Amit Konar, CRC Press, Taylor and
+Francis
+ii) Artificial Intelligence: A Modern Approach by S.Russell and P. Norvig.
+Reference Books:
+i) Nils J. Nilsson, Artificial Intelligence: A New Sythesis, Morgan,Kaufmann.
+ii) Probabilistic Graphical Models, by Daphne Koller and Nir Friedman, MIT Press.
+Page 32 of 62
+
+--- Page 33 ---
+iii) References:
+iv) Neural Network Design, Hagan, Demuth and Beale, Vikas PublishingHouse
+v) Fundamentals of Artificial Neural Networks, Mohamad H Hassoum.PHI
+vi) Fuzzy Set Theory & its Applica tion, H.J. Zimmerman Allied PublishedLtd.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Solve basic AI based problems and construct logical building blocks
+I,II
+for problem formulation.
+2 Acquaint with Knowledge Representation and decision under
+II, III
+uncordiality.
+3 Apply Optimization and inferencing with available knowledge. III
+4 Pragmatic approach of Machine learning and fuzzy knowledge
+III,IV,VI
+representation.
+5 Apply AI techniques to real-world problems to develop intelligent
+IV,V
+systems.
+6 Select appropriately from a range of techniques when implementing
+V
+intelligent system
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 1 1 1 1 1 1 1
+CO-2 2 2 1 2 2 2 2 2
+CO-3 2 2 2 2 1 1 2 3
+CO-4 2 3 2 3 1 1 2 3
+CO-5 3 3 3 1 1 1 2 1
+CO-6 3 3 3 2 2 2 3 2
+Page 33 of 62
+
+--- Page 34 ---
+ELECTIVE II
+FINITE ELEMENT METHODS
+Semester: 1st Credit: 4
+Course Name: Finite Element Methods L T P 3 1 0
+Course Objectives:
+1) Enable the student to analyze the engineering problems in the design process of solids and
+their structure.
+2) Make the students to apply the knowledge of mathematics, science and engineering to do
+the analysis of simple and complex elastic structures using the finite element analysis
+3) Derive the finite element equations for different mechanical elements.
+4) Learn and apply finite element solutions to structural, thermal, dynamic problem to
+develop the knowledge and skills needed to effectively evaluate finite element analysis.
+Syllabus Content
+Module 1:
+Introduction to FEM, basic concepts, historical back ground, applications of FEM, general
+description, comparison of FEM with other methods, variational approach, Glerkin‟s
+Methods. Co-ordinates, basic element shapes, interpolation function, Virtual energy principle,
+Rayleigh – Ritz method, properties of stiffness matrix, treatment of boundary conditions,
+solution of system of equations, shape functions and characteristics, Basic equations of
+elasticity, strain- displacement relations.
+Module 2:
+1-D Structural Problems: Axial bar element – stiffness matrix, load vector, temperature
+effects, Quadratic shape functions and problems. Analysis of Trusses: Plane Trusses and
+Space Truss elements and problems, Hermite shape functions – stiffness matrix – Load vector
+– Problems.
+Module 3:
+2-D Problems: CST, LST, force terms, Stiffness matrix and load vectors, boundary
+conditions, Isoparametric elements – quadrilateral element, shape functions – Numerical
+Integration. Finite element modeling of Axi-symmetric solids subjected to Axi-symmetric
+loading with triangular elements. 3-D Problems: Tetrahedran element – Jacobian matrix –
+Stiffness matrix.
+Module 4:
+Steady state heat transfer: One dimensional heat conduction, Boundary condition, One
+dimensional element, Functional approach for heat conduction, ,Galarkins approach for heat
+conduction, One dimensional heat transfer in thin Fins, Two dimensional steady state heat
+conduction.
+Module 5:
+Scalar Field Problems: 1-D Heat conduction-Slabs – fins – 2-D heat conduction problems –
+Introduction to Torsional problems. Dynamic considerations, Dynamic equations –
+consistent mass matrix – Eigen Values, Eigen vector, natural frequencies – mode shapes –
+Page 34 of 62
+
+--- Page 35 ---
+modal analysis.
+Text Books:
+i) Finite Element Methods: Basic Concepts and applications, Alavala, PHI.
+ii) Introduction to Finite Elements in Engineering, Chandrupatla, Ashok and Belegundu,
+Prentice – Hall
+Reference Books:
+i) Concepts and Application of Finite Elements Analysis, Cook, Malkus and Plesha, Wiley.
+ii) Bathe K.J., “Finite Element Procedures in Engineering Analysis”, Prentice Hall of India
+iii)O.C.Zienkiewicz, R.L.Taylor & J.Z.Zhu, “The Finite Element Method its Basis and
+Fundamentals”, Butterworth-Heinemann,Elsevier
+iv) Finite Element Method, J N Reddy, McGraw Hill International Edition.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Apply and understand the basic concepts of Finite element analysis 1, 2, 3 , 4
+procedure.
+2 Analyze and build FEA model for complex engineering problems. 5
+3 Knowledge of mathematics and engineering in solving the problems 4, 5
+related to structural and heat transfer
+4 Develop element characteristic equation and generation of global 1, 2, 3, 4
+equation
+5 Identify the application and characteristics of FEA elements such as 2, 3
+bars, beams, plane and isoparametric elements
+6 Use the commercial FEA packages like ANSYS for solving real life 5
+structural thermal, dynamic problems etc.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 3 3 3 3 3 3 3
+CO-2 3 3 2 3 2 3 2 1
+CO-3 3 3 3 3 3 2 1 1
+CO-4 2 2 3 3 2 3 2 2
+CO-5 3 2 3 3 3 3 1 1
+Page 35 of 62
+
+--- Page 36 ---
+EXPERIMENTAL STRESS ANALYSIS FOR DESIGN
+Semester: 1st Credit: 4
+Course Name: Experimental Stress Analysis for Design L T P 3 1 0
+COURSE OBJECTIVES:
+1. To understand the science behind working of a strain gauge.
+2. To Understanding the practical applications of a strain gauge.
+3. To understand the calibration of strain gauges.
+4. To study the importance of different Non-Destructive Testing.
+Course Content
+Module 1:
+INTRODUCTION AND STRAIN MEASUREMENT METHODS: Strain gauge,
+principle, types, performance and uses-Moire Fringe - Hydraulic jacks and pressure
+gauges –load cells – Proving Rings –Calibration of Testing Machine.
+Module 2:
+ELECTRICAL RESISTANCE STRAIN GAUGES: Introduction – gauge construction –
+strain gauge adhesives - mounting methods – gauge sensitivities and gage factor –
+performance characteristics of wire and foil strain gauges – environmental effects -
+Analysis of strain gauge data – the three-element rectangular rosette – the delta rosette –
+correction for transverse sensitivity.
+Module 3:
+NON – DESTRUCTIVE TESTING: Load testing on structures, buildings, bridges and
+towers – Rebound Hammer – acoustic emission –ultrasonic testing principles and
+application– Holography – use of laser for structural testing – Brittle coating
+Module 4:
+PHOTO ELASTICITY: Introduction – the stress optic law – effects of stressed model in
+a polariscope for various arrangements - Fringe Multiplication with Partial Mirrors.
+Module 5:
+EXPERIMENTS IN MATERIAL TESTING: Introduction - To Plot a Graph Between
+Actual Stress and Actual Strain for a Sample Under Tension Using UTM - Buckling Test
+on Columns Using UTM - Determination of Shear Centre of a Channel Section - Creep
+Test - Fatigue Test - Determination of Young's Modulus and Poisson's Ratio -
+Determination of Shear Modulus - Calibration of a Proving Ring - Calibration of a Photo
+elastic Model for Stress Fringe
+Text Books:
+1. Srinath,L.S. M.R. Raghavan, K. Lingaiah, G. Gargesa, B. Pant, and K.
+Page 36 of 62
+
+--- Page 37 ---
+Ramachandra, “Experimental Stress Analysis”, Tata McGraw Hill,1984.
+2. Sirohi,R.S. Radhakrishna,H.C. “Mechanical Measurements”, New Age International
+(P) Ltd. 1997
+3. BrayD.E. &StanleyR. K, “Non-destructive Evaluation”, McGraw Hill Publishing
+Company, N.Y.1989
+References Books:
+1. K. Ramesh, Digital Photoelasticity – Advanced Techniques and
+Applications, Springer,2000.
+2. George Hamor Lee, “An Introduction Experimental Stress Analysis”, John Wiley &
+Sons Publishers,1950.
+3. Alessandro Freddi, “Experimental Stress Analysis for materials and structures”,
+Springer
+Course Outcomes
+At the end of course, students will be able to
+CO’s Course Module
+Outcomes Covered
+1 To understand the mechanical properties of strain 1
+gauges and applications
+2 To understand the design and performance of strain gauges 1,2
+3 To understand the methods of Non-Destructive testing 3
+4 To understand the methods of photo elasticity and models 4
+5 To have a brief idea regarding experiments in material testing. 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 2 2 1 1 2 1 2 2
+CO-2 2 2 2 2 2 2 2 2
+CO-3 3 2 2 3 2 1 3 2
+CO-4 3 2 3 3 2 1 3 2
+CO-5 3 2 2 1 2 1 1 1
+CO-6 3 2 2 2 2 2 2 2
+Page 37 of 62
+
+--- Page 38 ---
+ADVANCED MECHANICS OF SOLID
+Semester: 1st Credit: 4
+Course Name: Advanced Mechanics of Solid L T P 3 1 0
+Course Objectives:
+1. To impart concepts of stress and strain tensor.
+2. To study the basic solution methods in theory of elasticity.
+3. To familiarize with solution of axisymmetric problems in elasticity and solution of advanced
+bending problems.
+4. To familiarize the solution of torsion problem of non circular bars.
+Syllabus Content
+Module 1: Introduction to stress analysis in elastic solids - stress at a point – stress tensor –
+stress components in rectangular and polar coordinate systems - Cauchy‟s equations – stress
+transformation – principal stresses and planes - hydrostatic and deviatoric stress components,
+octahedral shear stress - equations of equilibrium Displacement field – engineering strain -
+strain tensor (basics only)
+Module 2: Constitutive equations – generalized Hooke‟s law – equations for linear elastic
+isotropic solids - relation among elastic constants – Boundary conditions – St. Venant‟s
+principle for end effects – uniqueness theorem 2-D problems in elasticity - Plane stress and
+plane strain problems – stress compatibility equation - Airy‟s stress function and equation
+Module 3: Equations in polar coordinates (2D) – equilibrium equations, strain-displacement
+relations, Airy‟s equation, stress function and stress components , Application of stress
+function to Lame‟s problem and stress concentration problem of a small hole in a large plate
+(only stress distribution) Axisymmetric problems – governing equations
+Module 4: Strain energy of deformation – special cases of a body subjected to concentrated
+loads, moment or torque - reciprocal relation – strain energy of a bar subjected to axial force,
+shear force, bending moment and torque
+Module 5: Castigliano‟s first and second theorems – virtual work principle – minimum
+potential energy theorem. Torsion of non-circular bars: Saint Venant‟s theory - solutions for
+circular and elliptical cross-sections
+Module 6: Prandtl‟s method - solutions for circular and elliptical cross-sections - membrane
+analogy. Torsion of thin walled tubes, thin rectangular sections, rolled sections and multiply
+connected sections
+Text Books:
+1. L. S. Sreenath, Advanced Mechanics of Solids, McGraw Hill,2008
+Page 38 of 62
+
+--- Page 39 ---
+2. S. M. A. Kazimi, Solid Mechanics, McGraw Hill,2008
+3. S. Jose, Advanced Mechanics of Materials, Pentagon Educational Services,20
+Reference Books:
+1. U. Saravanan, Advanced Solid Mechanics, NPTEL
+2. S. Anil Lal, Advanced Mechanics of Solids, Siva Publications and Distributions, 2017.
+3. S. P. Timoshenko, J. N. Goodier, Theory of elasticity, McGraw Hill,1970
+4. R.J. Atkin, and N. Fox, An introduction the theory of elasticity, Longman,1
+Course Outcomes:
+CO-No. Course Outcome Module
+At the end of course, student should able to Covered
+1 Students will be able to solve problems in elasticity using fundamental 1
+equations viz., equilibrium equation, strain displacement relations,
+compatibility conditions and stress – strain relations.
+2 Students will be able to Identify the principal planes corresponding to each 2
+principal stress/strain.
+3 Students will be able to demonstrate the procedure for solving 2-D 2
+problems in elasticity.
+4 Students will be able to compute hoop stress, radial stress and radial 3
+displacement for thick cylinders subjected to internal and external
+pressure and rotating discs.
+5 Students will be able to comprehend the usage of energy methods for 4
+solving structural problems. Energy principles like Castigliano‟s
+theorem, principle of virtual work etc. for solving simple problems
+6 Students will be able to Solve problem on torsion of noncircular shafts 5,6
+including solid bars, thin walled tubes, rectangular sections, rolled
+sections and multiply connected sections. The nature of stress developed
+in circular shaft and non circular shafts
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 2 2 1 1 1 1 1
+CO-2 2 1 3 2 1 1 3 2
+CO-3 2 1 3 2 1 1 1 2
+CO-4 2 1 3 2 1 1 1 2
+CO-5 1 1 2 1 2 3 1 1
+CO-6 3 2 2 1 1 2 1 1
+Page 39 of 62
+
+--- Page 40 ---
+ELECTIVE - III
+ROBOTICS
+Semester: 2nd Sem Credit: 4
+Course Name: Robotics L T P 3 1 0
+Course Objectives:
+1) Application of Robot and automation process in fabrication and production entangling
+design/selection process.
+Syllabus content
+Module 1:
+Introduction: Automation & robotics, Robotic System & Anatomy Classification, Future
+Prospects
+Module 2:
+Robotic Application in Manufacturing: Material transfer, Machine loading & unloading,
+Processing operations, Assembly & Inspectors
+Module 3:
+Social Issues and Economics of robotics Drives: Control Loops, Basic Control System
+Concepts & Models, Control System Analysis, Robot Activation & Feedback Components,
+Position & Velocity Sensors, Actuators , Power Transmission Systems.
+Module 4:
+Robot &its Peripherals: End Effecters - types, Mechanical & other grippers, Tool as end
+effecter
+Module 4:
+Sensors: Sensors in Robotics, Tactile Sensors, Proximity & Range Sensors, Sensor Based
+Systems
+Module 5:
+Robotic Cell Design & Control. Robot Kinematics: Coordinate Frames, Rotations,
+Homogeneous Coordinates, Arm Equation of Planer Robot, Four axis SCARA Robot, TCV,
+Inverse Kinematics of Planer Robot, Four Axis SCARA Robot.
+Module 6:
+Trajectory Planning & Robot Dynamics: Manipulator Path Control- Linear, Quadratic and
+Cubic Interpolation, Work Space Analysis, Robot Dynamics –Langrangian Dynamics of one
+and two link robot arm
+Module 7:
+Machine Vision: Introduction, Low level & High level vision, Sensing & Digitizing, Image
+processing & analysis, Segmentation, Edge detection, Object description & recognition,
+Interpretation, Noises in Image, Applications
+Module 8:
+Programming For Robots: Methods, Robot programmed as a path in space, Motion
+interpolation, level & task level languages, Robot languages; Programming in suitable
+languages Characteristics of robot
+Page 40 of 62
+
+--- Page 41 ---
+Text Books:
+i) Yorem Koren, “Robotics for Engineers”
+ii) J. F. Engelberger, “Robotics in Practice”
+iii) Ulrich Rembolds, ChristialBlume, “Computer Integrated Manufacturing Technology
+and Systems”
+References Books:
+i) Beckwith and Lewisbuck, “Mechanical Measurements”
+ii) K. Ogata,“Modern Control Engineering”,PHI
+iii) Benjamin Kuo, “Automatic Control Systems”, Wiley India
+iv) Richard D. KIafter et al, “Robotic Engineering -an Integrated Approach”, PHI
+v) Spyros G. Tzafestas, “Intelligent Robotic Systems”
+vi) Ramamurthy, “Computer Aided Design in Mechanical Engineering”
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Learning about robots types and application in industry. 1, 2
+2 To study the economics and social issues in robot applications. 3
+3 To study the end effectors and sensors of robots, robot visions. 4, 5, 8
+4 To study the robot manipulator‟s kinematics and dynamics. 6, 7
+To study the manufacturing cell, a step towards production. 6
+Designing of pathways and programing of robots. 7, 9
+Learning about robots types and application in industry. 1, 2
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 3 2 3 1 3 1 1
+CO-2 3 3 3 3 2 3 3 3
+CO-3 3 3 3 3 3 3 3 2
+CO-4 3 2 3 3 3 2 3 3
+CO-5 2 3 2 3 2 3 3 3
+CO-6 3 2 3 2 3 3 3 3
+Page 41 of 62
+
+--- Page 42 ---
+TRIBOLOGICAL SYSTEM DESIGN
+Semester: 2nd Credit: 4
+Course Name: Tribological System Design L T P 3 1 0
+Course Objectives:
+1) To of Tribology in Design of machine components.
+2) To select proper grade lubricant for specific application.
+3) To adequate knowledge to understand the principles of lubrication, lubrication regimes.
+4) To provide the concept of surface engineering and its importance in tribology.
+Syllabus Contents
+Module 1:
+Friction, theories of friction, Friction control, contact of surfaces, stick-slip phenomenon.
+Module 2:
+Wear, types of wear, theories of wear, wear prevention.
+Module 3:
+Surface Texture and Interactions, Geometric characterization of surfaces, Surface
+parameters, Measurement of surface texture, Measurement of surface flatness, Statistical
+descriptions, Contact between surfaces, Lubrication regime relation to surface roughness,
+Bearing Materials, Distinctive selection factors, Oil-film bearing materials, Dry and semi-
+lubricated bearing materials, Air bearing materials, High-temperature materials, Rolling
+bearing materials.
+Module 4:
+Lubricants and Lubrication, Mineral oils, Synthetic oils, Viscosity, Density and
+compressibility, Thermal Properties, Oil life, Greases, Solid lubricants, Lubricant supply
+methods.
+Module 5:
+Reynolds‟s equation and its limitations, idealized bearings, infinitely long pivoted and
+fixed slider shoe bearings, Infinitely long, short (narrow) and finite journal bearings,
+lightly loaded infinitely long journal bearing (Petroff‟s solution), Design of
+hydrodynamic journal and slider-shoe bearings, Air lubricated bearings,, Squeeze film
+Circular and rectangular flat plates,
+Module 6:
+Hydrostatic Bearings, Types and configurations, Circular step thrust bearings, Design
+procedure for compensated bearings, Hydraulic lift, Rolling Element Bearings, Ball
+bearing types, Roller bearing types, Thrust bearing types, Load–life relations, Adjusted
+rating life, Static load capacity.
+Page 42 of 62
+
+--- Page 43 ---
+Text Book:
+i) Engineering Tribology– Prasanta Sahoo – Prentice Hall of India Pvt. Ltd., New Delhi,
+2005.
+ii) Fundamentals of Tribology – S.K. Basu, S.N. Sengupta, B.B. Ahuja – PHI Learning
+Pvt. Ltd., 2010.
+iii) Tribology in Industries – S.K. Shrivastava – S. Chand & Company Ltd., New Delhi,
+2001
+iv) Bearing Design in Machinery, Engineering Tribology and Lubrication - A. Harnoy-
+Marcel Dekker Inc., 2003
+References Books:
+i) Principles in Tribology, Edited by J. Halling, 1975
+ii) Fundamentals of Fluid Film Lubrication – B. J. Hamrock, McGraw Hill
+International,1994
+iii) Cameron, “Basic Lubrication Theory”, Ellis Horwood Ltd, 1981.
+iv) D.D. Fuller, “Theory and Practice of Lubrication for Engineers”, John Wiley and
+Sons, 1984.
+v) “Fundamentals of Friction and wear of Materials” American Society of Metals.
+vi) Introduction to Tribology of Bearings –B. C. Majumdar, A. H. Wheeler & co.
+pvt. ltd 1985.
+vii) T.A. Stolarski, “Tribology in Machine Design”.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Apply different theories of friction and wear to various practical
+1,2
+applications
+2 Understand the various surface measurement techniques and
+3
+effect of surface roughness on Tribology.
+3 Select lubricants suitable for particular materials and to suggest a
+4,5
+tribological solution to a particular situation
+4 Design different types of bearing 5,6
+5 Up-to-date with the recent developments and understand modern
+5,6
+research material.
+Page 43 of 62
+
+--- Page 44 ---
+CO – PO mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 2 2 1 1 2 1 2 2
+CO-2 2 2 2 2 2 2 2 2
+CO-3 3 2 3 3 2 1 3 2
+CO-4 3 2 3 3 2 1 3 2
+CO-5 1 2 1 1 2 1 1 1
+CO-6 2 2 2 2 2 2 2 2
+Page 44 of 62
+
+--- Page 45 ---
+ROBOTICS AND AUTOMATION
+Semester: 2nd Sem Credit: 4
+Course Name: Robotics and Automation L T P 3 1 0
+Syllabus content
+Module I
+Robotics Foundations: Kinematics , Dynamics , Mechanisms and Actuation , Sensing and
+Estimation , Motion Planning , Motion Control , Force Control , Robotic Systems
+Architectures and Programming , AI Reasoning Methods for Robotics.
+Module II
+Robot Structures: Performance Evaluation and Design Criteria , Redundant Manipulators
+Parallel Mechanisms and Robots , Robots with Flexible Elements , Model Identification ,
+Robot Hands , Legged Robots , Wheeled Robots , Micro/Nano Robots.
+Module III
+Sensing and Perception: Force and Tactile Sensors , Inertial Sensors, GPS and Odometry,
+Sonar Sensing , Range Sensors , 3D Vision and Recognition , Visual Servoing and Visual
+Tracking , Sensor Fusion.
+Module IV
+Manipulation and Interfaces: Motion for Manipulation Tasks , Modelling and Manipulation
+, Grasping , Cooperative Manipulators, Haptics, Telerobotics, Networked Teleoperation,
+Exoskeletons for Human Performance Augmentation.
+Module V
+Mobile and Distributed Robotics: Motion Control of Wheeled Mobile Robots , Motion
+Planning and Obstacle Avoidance , World Modeling , Simultaneous Localization and
+Mapping , Behavior Based Systems , Distributed and Cellular Robots , Multiple Mobile
+Robot Systems , Networked Robots.
+Module VI
+Field and Service Robotics: Industrial Robotics, Underwater Robotics, Aerial Robotics,
+Space Robots and Systems, Robotics in Agriculture and Forestry, Robotics in
+Construction, Robotics in Hazardous Applications, Mining Robotics , Search and Rescue
+Robotics, Intelligent Vehicles, Medical Robots and Systems, Rehabilitation and Health Care
+Robotics , Domestic Robots, Robots for Education.
+Module VII
+Human-Centered and Life Like Robotics: Humanoids , Safety for Physical Human Robot
+Interaction , Social Robots that Interact with People , Robot Programming by Demonstration
+Page 45 of 62
+
+--- Page 46 ---
+, Biologically, Inspired Robots , Evolutionary Robotics, Neurorobotics: From Vision to
+Action Perceptual Robotics, Roboethics: Social and Ethical Implications.
+Text Books:
+i) Introduction to Robotics: Mechanics & Control, 3ed, J. Craig, Prentice Hall, 2004.
+ii) Robot Modeling and Control, M. Spong, S. Hutchinson, M. Vidyasagar, Wiley, 2005.
+References Books:
+i) Fundamentals of Robotics: Analysis and Control, Robert J. Schilling, Prentice Hall,
+1990.
+ii) Theory of Applied Robotics 2nd Ed., R. Jazar, Springer, 2010.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Introduction to kinematics and basic construction of Robotics
+I
+concept.
+2 Learners will know about structural and design criteria of robot
+II
+construction with ethical application.
+3 An introduction to Perception - actuator sequence with
+III
+environmental variation and haptic manipulation.
+4 Introduction to mobile robot with AGV and UGV. IV,V
+5 Field application of robotics including agricultural and service sector. V
+6 Human robot interaction and visual perception for surround
+V,VI
+localization and mapping.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 1 2 1 1 2 1 2 1
+CO-2 2 2 2 2 2 2 2 2
+CO-3 3 3 2 1 1 1 1 2
+CO-4 3 3 3 1 1 1 1 2
+CO-5 2 2 3 1 1 1 1 2
+CO-6 2 2 3 2 2 3 2 3
+Page 46 of 62
+
+--- Page 47 ---
+APPLIED COMPUTATIONAL METHOD
+Semester: 2nd Semester Credit: 4
+Course Name: Applied Computational Method L T P 3 1 0
+Course Objectives:
+1) Students will learn the theory underlying the derivation of standard numerical
+techniques and the development of algorithm
+2) Students will demonstrate aptitude in standard numerical techniques for solving
+various classes of problems.
+Syllabus Content
+Module1:
+Introduction to numerical methods applied to engineering problems: Examples, solving
+sets of equations – Matrix notation – Determinants and inversion – Iterative methods –
+Relaxation methods – System of linear algebraic equations and Eigen value problems:
+elimination method, Gauss method, Gauss-Jordan method; Eigen values and Eigen vectors,
+System of non-linear equations – computer programs.
+Module2:
+Numerical differentiation and integration: differentiation of continuous functions, forward
+difference quotient, central difference quotient, error analysis; derivatives from differences
+table, higher-order derivatives, Richardson extrapolation techniques, Newton-Cotes method,
+trapezoidal rule, Simpson‟s rule, higher order rules, Romberg integration. Numerical solution
+of ordinary differential equations: Taylor‟s series method, Euler and modified Euler method,
+Runge-Kutta methods.
+Module3:
+Numerical solutions of partial differential equations: Laplace‟s equations –
+Representations as a difference equation – Iterative methods for Laplace‟s equations –
+poisson equation – Examples – Derivative boundary conditions – Irregular and non –
+rectangular grids – Matrix patterns, sparseness – ADI method – Finite element method
+Module4:
+Parabolic partial differential equations: Explicit method – Crank-Nickelson method –
+Derivative boundary condition – Stability and convergence criteria – Finite element for heat
+flow – computer programs. Hyperbolic partial differential equations: Solving wave
+equation by finite differences stability of numerical method –method of characteristics-wave
+equation in two space dimensions-computer programs.
+Module5:
+Optimization: basic concept of optimization, classification of optimization, optimization
+techniques, engineering applications of optimization. Classical optimization techniques:
+unconstrained optimization single-variable optimization, multivariable optimization,
+Page 47 of 62
+
+--- Page 48 ---
+multivariable optimization, multivariable optimization with equality constraints: solution by
+direct search method, solution by Lagrange-multipliers method, multivariable optimization
+with inequality constraints
+Module6:
+Boundary value problems and characteristic value problems: Shooting method –
+Solution through a set of equations – Derivative boundary conditions – Rayleigh – Ritz
+method – Characteristic value problems. Curve fitting and approximation of functions:
+Least square approximation fitting of non-linear curves by least squares –regression analysis-
+multiple linear regressions, non linear regression - computer programs.
+Text Books:
+i) “Numerical Methods for Engineers”, Steven C.Chapra, Raymond P.Canale Tata
+McGraw hill
+ii) “Applied numerical analysis”, Curtis F.Gerald, partick.O.WheatlyAddison-
+wesley,1989
+Reference Books:
+i) “Numerical methods”, Douglas J..Faires, Riched Burden Brooks/cole publishing
+company, 1998.Second edition.
+ii) “Numerical mathematics and computing”, Ward cheney &David Kincaid
+Brooks/Cole publishing company1999,fourth edition.
+iii) “Mathematical methods for physics and engineering”Riley
+K.F.M.P.Hobson.&.Bence S. J. Cambridge university press,1999.
+iv) “Engineering Optimization”, by SS Rao; New Age International Ltd.
+v) “Numerical Method”, by E. Balaguruswamy; Tata McGraw Hill.
+vi) “Numerical methods for Scientific & Engineering Computation”, by MK Jain, SRK
+Iyengar and RK Jain; New Age International Ltd.
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Apply numerical methods to find our solution of algebraic equations
+using different methods under different conditions, and numerical 1 to 6
+solution of system of algebraic equations.
+2 Work out numerical differentiation and integration whenever and
+2
+wherever routine methods are not applicable
+3 Apply various interpolation methods and finite difference concepts 1 &2
+4 Work numerically on the ordinary and Partial differential equations
+3 & 4
+using different methods through the theory of finite differences.
+Page 48 of 62
+
+--- Page 49 ---
+5 Apply the concepts of optimization, Boundary value problems, Curve
+fitting and approximation of functions in various engineering 5 & 6
+problems.
+6 To develop a practical approach to various critical distinct
+1 to 6
+mathematical problem solving in the field of machine design domain
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 3 2 1 2 2 1
+CO-2 3 3 2 1 1 3 2 1
+CO-3 3 2 3 2 1 2 1 2
+CO-4 3 3 2 1 2 2 2 2
+CO-5 2 3 3 2 1 1 2 1
+CO-6 3 2 3 2 1 2 2 1
+Page 49 of 62
+
+--- Page 50 ---
+DESIGN OPTIMIZATION
+Semester: 2nd Credit: 4
+Course Name: Design Optimization L T P 3 1 0
+Course Objectives:
+1) To learn Optimal Design Problem Formulation
+2) To learn optimization methods and their application for finding optimum solution
+Syllabus Content
+Module 1:
+Introduction- Optimal design problem formulation, design variables, constraints, objective
+function, variable bounds, Concept of duality, design optimization problems
+Module 2:
+Single Variable Optimization- Optimality Criteria, Bracketing methods, Direct search
+methods, Gradient based methods, Applications.
+Module 3:
+Multivariable Unconstrained Optimization- Optimality Criteria, Direct search methods,
+Gradient based methods, Applications
+Module 4:
+Constrained Optimization- Optimality Criteria, Transformation methods, Direct search
+methods, Gradient based methods, Applications
+Module 5:
+Linear Programming Problems- Linear programming, simplex method and Duality in
+linear programming, sensitivity or post-optimality analysis, Applications
+Module 6:
+Non-traditional methods-Evolutionary Optimization methods, Genetic Algorithm,
+Simulated Annealing, etc. Introduction to Multi-objective optimization, Applications.
+Text Books:
+i) Kalyanmoy Deb, “Optimization for Engineering Design”, Prentice Hall of India,
+New Delhi
+ii) J. S. Arora, “Introduction to Optimum Design”, McGraw Hill, New York
+iii) Kalyanmoy Deb,“Evolutionary multi-objective optimization, Willey, New York
+Reference Books:
+i) L.C.W. Dixon, “Non-Linear Optimization - Theory and Algorithms”, Birkhauser,
+Boston
+ii) G.B. Dantzig, “Linear Programming and Extensions Princeton University Press”,
+Princeton, N. J.
+iii) R.C. Johnson, “Optimum Design of Mechanical Elements”, Willey, New York
+Course Outcomes
+Page 50 of 62
+
+--- Page 51 ---
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Formulate an optimum design problem 1
+2 Solve single and multivariable optimization problems 2, 3
+3 Apply appropriate algorithm for constraint optimization 4
+4 Solve linear programming problems 5
+5 Find the optimum solution using nontraditional optimization techniques 6
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 2 3
+CO-2 3 2 3
+CO-3 3 2 3
+CO-4 3 2 3
+CO-5 3 2 3
+CO-6 3 2 3
+Page 51 of 62
+
+--- Page 52 ---
+ELECTIVE - IV
+FRACTURE MECHANICS
+Semester: 2nd Credit: 4
+Course Name: Fracture Mechanics L T P 3 1 0
+Course Objectives:
+3) To introduce the concept of failure due the existing flaws.
+4) To provide knowledge on fundamental theories of fracture mechanics and their uses
+in engineering design.
+5) To make the students enable for determining the chances of failure due to fracture.
+Syllabus Content
+Module 1:
+Introduction- A Crack in Structure, Fracture Toughness, Micro and Macro Phenomena of
+Fracture, Microscopic Aspects: Surface Energy, Theoretical Strength, Microstructure and
+Defects, Crack Formation, Macroscopic Aspects: Crack Growth, Types of Fracture,
+Mechanisms of Fracture and Crack Growth, Cleavage Fracture, Ductile Fracture, Fatigue
+Cracking, Environment Assisted, Cracking, Creep Fracture, Service Failure Analysis
+Module 2:
+Crack Growth Based on Energy Balance- Energy Balance During Crack Growth, Griffith
+Theory, Graphical Representation of the Energy Balance Equation, Equivalence between
+Strain Energy Release Rate and Stress Intensity Factor, Compliance, Crack Stability
+Module 3:
+Linear Elastic Stress Fields in Cracked Bodies- Crack Deformation Modes and Basic
+Concepts, Westergaard‟s Method, Singular Stress and Displacement Fields, Stress Intensity
+Factor Solutions, Three-Dimensional Cracks
+Module 4:
+Linear Elastic-Plastic Stress Fields in Cracked Bodies- Approximate Determination of the
+Crack-Tip Plastic Zone, Irwin‟s Model, Dugdale‟s Model
+Module 5:
+Fracture Criteria- Critical Stress Intensity Factor Fracture Criterion, J-Integral and Crack
+Opening Displacement Fracture Criteria, Strain Energy Density Failure Criterion: Mixed-
+Mode Crack Growth
+Module 6:
+Dynamic Fracture- Mott‟s Model, Stress Field around a Rapidly Propagating Crack, Strain
+Page 52 of 62
+
+--- Page 53 ---
+Energy Release Rate, Crack Branching, Crack Arrest, Experimental Determination of Crack
+Velocity and Dynamic Stress Intensity Factor.
+Module 7:
+Fatigue Fracture and Environment-Assisted Fracture- Fatigue Fracture, Terminology, S-N
+Curve, Crack Initiation, Crack Propagation, Effect of an overload, Crack Closure, Variable
+Amplitude Fracture Load, Micromechanisms, Test Methods, Major Factors Influencing
+Environment-assisted Fracture, Liquid Metal Embrittlement, Design Considerations
+Module 8:
+Crack Detection Methods- Dye Penetration, Magnetic Particles, Eddy Current, Radiography,
+Ultrasonics, Acoustic Emission
+Text Books:
+i) Prashant Kumar, Elements of Fracture Mechanics, Tata McGraw Hill, New Delhi,
+India.
+Reference Books:
+i. E.E. Gdoutos, “Fracture Mechanics - An Introduction”, Springer
+ii. D. Gross and T. Seelig, “Fracture Mechanics - With an Introduction to
+Micromechanics”, Springer
+iii. D. Broek, “Elementary Engineering Fracture Mechanics”, MartinusNijhoff Publishers
+iv. R.W. Hertzberg, “Deformation and Fracture Mechanics of Engineering Materials”
+John Wiley& Sons, Inc.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Understand the theory, concepts and principles of fracture mechanics. 1, 6
+2 Analyze crack growth using energy Balance approach 2
+3 Determine the stress and displacement fields around the crack tip using 3, 4
+the concept of stress intensity factor
+4 Use of J-Integral for finding stress and strain around the crack tip. 5
+5 Understand the cause of fracture failure. 7
+6 Use of different nondestructive testing in crack detection. 8
+Page 53 of 62
+
+--- Page 54 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 1 2 1 1 1 1 1
+CO-2 2 1 3 3 1 1 3 2
+CO-3 2 1 3 3 1 1 3 2
+CO-4 2 1 3 3 1 1 3 2
+CO-5 1 1 2 1 2 3 2 1
+CO-6 3 1 2 1 1 2 2 1
+Page 54 of 62
+
+--- Page 55 ---
+MECHANICS OF COMPOSITE MATERIALS
+Semester: 2nd Credit: 4
+Course Name: Mechanics of Composite Materials L T P 3 1 0
+Course Objectives:
+1. Understanding different types of composites, advantages and disadvantages,
+classifications, and Introduce terminology used for studying mechanics of
+composites.
+2. Developing concepts about about the manufacturing process of different
+composites. Understanding different material properties of laminated composites.
+3. Developing stress-strain relationships, Develop stress-strain relationships for a
+unidirectional/bidirectional lamina, finding the engineering constants of a
+unidirectional/bidirectional lamina in terms of the stiffness and compliance
+parameters of the lamina. Understanding the matrix transformations.
+4. Understanding the failure criteria for laminates based on failure of individual lamina
+in a laminate. Developing concepts about different failure theories.
+5. Design laminated structures such as plates and thin pressure vessels subjected to
+different loads. Understanding different composite plate theories.
+Syllabus Content
+Module 1:
+Geometric and Physical definitions, natural and man-made composites, Aerospace and
+structural applications. Properties of typical composite materials. Volume and Weight
+Fractions. Longitudinal Strength and Stiffness. Transverse Modulus. In-plane shear Modulus.
+Poisson‟s ratio . Types and classification of composites. Fibres – Glass, Silica, Kevlar,
+carbon, boron, silicon carbide, and born carbide fibers. Particulate composites, Polymer
+composites, Thermoplastics, Metal matrix and ceramic composites. Types of Matrix, Fillers
+and other Additives. Matrices – Polymer, Graphite, Ceramic and Metal Matrices,
+Characteristics of fibers and matrices.
+Module 2:
+Unidirectional composites, constituent materials and properties, elastic properties of a lamina,
+properties of typical composite materials, laminate characteristics and configurations.
+Manufacturing methods.
+Module 3:
+Hooke‟s law for different types of materials, Hooke‟s law for two dimensional unidirectional
+lamina, Transformation of stress and strain, Numerical examples of stress strain
+transformation, Graphic interpretation of stress – strain relations. Off – axis, stiffness
+modulus, off – axis compliance. Elastic constants of lamina, relationship between engineering
+constants and reduced stiffness and compliances, analysis of laminated composites, Laminate
+Constitutive Equations – Coupling Interactions, Balanced Laminates, Symmetric Laminates,
+Angle Ply Laminates, Cross Ply Laminates. Quasi-Isotropic Laminates. Determination of
+Lamina stresses within Laminates.
+Page 55 of 62
+
+--- Page 56 ---
+.Module 4:
+Micro mechanics of failure, Failure mechanisms, strength of an orthotropic lamina, strength
+of a lamina under tension and shear maximum stress and strain criteria, application to design.
+The failure envelope, first ply failure. Micros mechanical predictions of elastic constants.
+Module 5:
+Introduction thin plate theory, specially orthotropic plate, cross and angle ply laminated
+plates, problems using thin plate theory. Equilibrium Equations of Motion. Energy
+Formulations. Static Bending Analysis. Buckling Analysis. Free Vibrations – Natural
+Frequencies
+Contents Beyond Syllabus: Use of software packages or learning codes to design and
+analyze composites.
+Text Books:
+i. Mechanics of Laminated Composite Plates and Shells: Theory and Analysis, J.N.
+Reddy, CRC Press
+Reference Books:
+i) Mechanics of Composite Materials/ R. M. Jones/ Mc Graw Hill Company, New York,
+1975.
+ii) Engineering Mechanics of Composite Materials by Isaac and M Daniel, Oxford
+University Press, 1994.
+iii) Analysis and performance of fibre Composites/ B. D. Agarwal and L. J. Broutman/
+Wiley-Interscience, New York, 1980.
+iv) Mechanics of Composite Materials/ Second Edition (Mechanical Engineering)/ Autar
+K. Kaw , CRC
+v) Analysis of Laminated Composite Structures/ L. R. Calcote/ Van Nostrand Rainfold,
+New York, 1969.
+Course Outcomes
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome (4 to 6)
+Covered
+1 Understanding the types of composites, matrices and uses of
+1
+composites. Understanding the properties of composite materials.
+2 Understanding and establishing the relationships for the properties of
+composite materials due to its different configurations. Knowing 1,2
+about different methods for developing composite materials.
+3 Understanding and developing stress – strain relationships.
+Understanding the relationship between engineering constants and
+2,3
+developing the constitutive equations. Developing relations for cross-
+ply, angle play laminates.
+Page 56 of 62
+
+--- Page 57 ---
+4 Understanding different failure criteria of composite materials.
+4
+Developing the relations involved. Solving related problems.
+5 Developing concepts about composite plate theories and properties
+5
+and behaviors of composite plates and their analysis.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3
+CO-2 3 2
+CO-3 3 3 2
+CO-4 3 3 2
+CO-5 3 2
+CO-6 3 3 2
+Page 57 of 62
+
+--- Page 58 ---
+PRODUCT DESIGN AND DEVELOPMENT
+Semester 2nd Credit:4
+Course Name: Product Design and L T P 3 1 0
+Development
+Course objectives:-
+1) To impart basic concepts of product design and development processes
+2) To understand the integration of customer requirements in product design.
+3) To develop ability to apply structural approach to concept generation, selection and
+testing.
+4) To understand various aspects of design such as product architecture industrial design,
+design for manufacturing and economic analysis.
+Syllabus Content
+Module 1:
+Introduction- Characteristics of successful product development, Challenges of product
+development, Structural approach to product development, Adapting generic product
+development process, Product development process flow.
+Module 2:
+Product planning and customer needs- Product planning process, identifying opportunities,
+evaluation and prioritizing projects, resources allocation and plan timing, Pre-project
+planning, Identifying customer needs, gathering of raw data from customers, Interpreting to
+customer needs and establishing of relative importance of needs.
+Module 3:
+Product specifications and concept generation- Processes for establishing target
+specifications, methods for setting the final specifications, concept generation, screening and
+evaluation methods.
+Module 4:
+Product architecture and industrial design- Methods of establishing product architecture,
+implications of product architecture, introduction to industrial design, study the impact of
+industrial design, Management of industrial design process and its quality assessment.
+Module 5 :
+Design for manufacturing and product development economics- Definition, Estimation of
+Manufacturing cost, reducing the component costs and assembly costs, reducing system
+complexity - Prototype basics - Principles of prototyping, planning for prototypes, Economic
+Analysis of product development.
+Text Books:
+i) Product Design and Development, Karl T.Ulrich and Steven D.Eppinger, Anita
+Goyal, McGraw –Hill (2008)4th edition (SIE)
+Reference Books:
+i) Kevin Otto & Kristin Wood Product Design: “Techniques in Reverse Engineering
+and new Product Development.” 1 / e 2004 , Pearson Education New Delhi
+Page 58 of 62
+
+--- Page 59 ---
+ii) www.mhhe.com/sie-ulrich4e
+iii) Clive L.Dym, Patrick Little, “Engineering Design: A Project-based Introduction”,
+Wiley; Fourth edition (1 January 2015)
+Course Outcomes
+At the end of course, students will be able to
+CO Course outcome Module
+No. covered
+1 Having the understanding of the processes involved in the 1
+product design and development.
+2 Ability to evaluate customer needs and understand project 2
+planning
+3 Ability to formulate product specifications and generate 3
+feasible concepts
+4 Ability to apply industrial design principles in product 4
+development.
+5 Ability to understand the product development for 5
+manufacturability and undertake economic analysis
+CO-PO Mapping (Rate: scale of 1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 1 1 3 2 2 1 1
+CO-2 2 3 1 1 1 2 2 2
+CO-3 2 1 2 2 2 1 1 2
+CO-4 2 1 2 2 1 1 1 1
+CO-5 2 1 2 2 3 3 3 2
+CO-6 3 1 1 3 2 2 1 1
+Page 59 of 62
+
+--- Page 60 ---
+DESIGN OF COMBUSTION ENGINE
+Semester:2nd Credit:4
+Course Name: Design Of Combustion Engine L T P 3 1 0
+Course Objectives:
+1) To understand the basic concepts of S.I. and C. I. engine configuration and working
+principles.
+2) To develop the knowledge of modern day fuel injection systems and cooling and
+lubricating systems.
+3) To understand the basic engine performance parameters and contemporary and pathways
+to improve the Thermal, Mechanical and Volumetric efficiency.
+Syllabus Content:
+Module 1:
+PARAMETERS: Compression ratio, Pressure volume and pressure crank angle diagram,
+frictional mean effective pressure, engine capacity, calculation of bore and stroke length,
+velocity and acceleration, gas force, inertia and resultant force at various crank angles–Side
+thrust on cylinder walls, Optimization criteria for improving Thermal, Mechanical and
+Volumetric efficiency.
+Module 2:
+DESIGN OF CRANK TRAIN: Design of Piston, piston rings, piston pin, Design of
+connecting rod; big end, small end and shank, Material and failures related to Cylinder,
+piston, connecting rod, design of crankshaft for light and heavy vehicle; Crankshaft, frontend,
+rear end journals, rank pin, Crank web. Design of flywheel; Speed fluctuation and stress
+calculations, turning moment diagram, design of hub, rim and arms of the flywheel, Ring
+gear Material and failures related to Crankshaft and flywheel.
+Module 3:
+DESIGN OF CYLINDER HEAD AND BLOCK: Functional requirement, Block material
+like Gray Iron, Aluminum, Compacted Graphite Iron and Magnesium, Cylinder head alloys,
+Design layout, Basic block, Bulk head design, and Cylinder liner design approach and
+Thermal loads, Cylinder arrangement.
+Module 4:
+DESIGN OF VALVE TRAIN: Effect of valve timing on engine performance, Number of
+Valves, Design of valves, Valve seat, Valve guide and cotter, Time selection of valveCam
+profile construction, Design of valve spring, Design of camshaft, Single and Double
+Overhead camshaft design, Design of valve gear train for variable valve timing.
+Module 5:
+DESIGN OF COOLING, LUBRICATION, INTAKE, EXHAUST AND FUEL
+INJECTION SYSTEM: Design of cooling system, radiator, water pump, thermostat and
+fan, Computation of air-cooling system Engine friction and wear, Selection of lubricant,
+lubricating system, pump and filters, Design of intake and exhaust system, Design of fuel
+injection system for CI engine, Governor Design, Design of carburetor- electronic carburetor,
+Design of MPFI, GDI, CRDI system.
+Page 60 of 62
+
+--- Page 61 ---
+Text Books:
+i) I. C. Engine & Air Pollution – E. F. Obert, Harper & Row Publishers, New York
+ii) Engine Design – Giles J. G., Lliffe Book Ltd.
+iii) Engine Design – Crouse, Tata McGraw Publication, Delhi
+iv) I.C. Engine - Maleev V. L., McGraw Hill Book, Co.
+v) I. C. Engine – L. C. Litchy, International Student Edition
+vi) Design of Automotive Engine – A. Kolchin and V. Demidov
+vii) I. C. Engine – Heywood
+Reference Books:
+i) KevinL. Hoag , „VehicularEngineDesign‟,SAEinternational,2005.
+ii) 2. A. Kolchin and V. Demidov, „Design of Automotive Engines‟, MIR Publishers,
+Moscow,
+iii) 1984.
+iv) R.K. Jain, „Machine Design‟, Khanna Publishers, New Delhi,1997.
+v) „Design Data Book‟, PSG College of Technology, Coimbatore,2000.
+vi) GilesJ. G „Engine Design‟–., Life Book Ltd.2000
+vii) Crouse„EngineDesign‟Tata McGraw Publication, Delhi 2002
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Describe the various engine performance parameters 1
+2 Construct crank train for the given specifications which includes the 2
+design of piston, connecting rod, crankshaft and flywheel
+3 Calculate thermal loads and select a suitable material to design cylinder 3
+head and block
+4 Select and design suitable valve train for the given specifications 4
+5 Describe the design procedure involved in Cooling, Lubrication, Intake, 5
+Exhaust and Fuel Injection Systems
+Page 61 of 62
+
+--- Page 62 ---
+CO-PO Mapping (Rate: scale of1to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 3 3 3 2 2 3 3
+CO-2 3 3 3 2 2 2 2 2
+CO-3 3 3 3 2 2 1 1 2
+CO-4 3 3 3 2 1 1 1 1
+CO-5 3 3 3 2 3 3 3 2
+CO-6 3 3 3 3 2 2 1 1
+Page 62 of 62

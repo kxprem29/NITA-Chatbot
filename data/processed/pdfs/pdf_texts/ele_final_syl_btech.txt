@@ -1,0 +1,3097 @@
+
+--- Page 1 ---
+DEPARTMENT OF ELECTRICAL ENGINEERING
+SYLLABIIFOR UG 1st,2nd,3rd,4th,5th,6th,7th&8thSEMESTERS
+
+--- Page 2 ---
+HOUR CREDIT
+Semester Lecture Tutorial Practical Lecture Tutorial Practical Total
+FirstYear(1stSemester+2ndSemester)[already 43
+implementedbytheacademicsectionin2018-19
+session.]
+3rdSemester
+1 EngineeringMathematicsIII 3 1 0 3 1 0 4
+2 ElectricalMeasurementandMeasuringInstruments 2 1 2 2 1 1 4
+3 NetworkAnalysis 3 1 2 3 1 1 5
+4 DigitalElectronics 3 0 2 3 0 1 4
+5 ObjectOrientedProgramming 2 0 3 2 0 1.5 3.5
+6 Signals&Systems 2 1 0 2 1 0 3
+7 Seminar(SoftSkilledbased) 0 0 0 0 0 0 0
+23.5
+4thSemester
+1 ElectricalMachine-I 3 1 3 3 1 1.5 5.5
+2 PowerSystemI 3 1 0 3 1 0 4
+3 DataStructure&Algorithm 2 1 0 2 1 0 3
+4 NumericalMethodsandAnalysis 3 1 2 3 1 1 5
+5 AnalogElectronics 3 1 2 3 1 1 5
+6 Elective-I 3 0 0 3 0 0 3
+7 Seminar(SoftSkilledbased) 0 0 0 0 0 0 0
+25.5
+5thSemester
+1 ElectricalMachine-II 3 1 3 3 1 1.5 5.5
+2 PowerElectronics 3 1 3 3 1 1.5 5.5
+3 MicroprocessorsandMicrocontroller 3 0 2 3 0 1 4
+4 ControlSystem-I 3 1 2 3 1 1 5
+5 ElectromagneticFieldTheory 3 0 0 3 0 0 3
+6 Seminar 0 0 2 0 0 1 1
+24
+6thsemester
+1 PowerSystemII 3 1 3 3 1 1.5 5.5
+2 DigitalSignalProcessing 3 0 2 3 0 1 4
+3 IndustrialInstrumentation 3 1 2 3 1 1 5
+4 PrincipleofCommunication 3 0 2 3 0 1 4
+5 IndustrialVisit/internship audit
+6 Seminar 0 0 2 0 0 1 1
+19.5
+7thSemester
+1 ElectricalDrives 3 0 3 3 0 1.5 4.5
+2 EngineeringEconomics 3 0 0 3 0 0 3
+3 ElectiveII 3 0 0 3 0 0 3
+4 ElectiveIII 3 0 0 3 0 0 3
+5 Project–I 0 0 6 0 0 2 2
+6 Seminar 0 0 2 0 0 1 1
+16.5
+8thsemester (IfastudentdoesnotparticipateprojectinIndustry)
+1 IndustrialManagement 3 0 0 3 0 0 3
+2 ElectiveIV 3 0 0 3 0 0 3
+3 ElectiveV 3 0 0 3 0 0 3
+4 GrandViva 1
+5 Project–II 0 0 9 0 0 3 3
+13
+8thsemester (IfastudentparticipatesprojectinIndustry)
+1 IndustrialProject 10
+2 ProjectSeminar 2
+3 ComprehensiveViva 1
+13
+TOTAL (43+122)=165
+
+--- Page 3 ---
+3rd Semester
+1. Engineering Mathematics III L T P: 3-1-0 Credit : 04
+Probability and statistics-classical and axiomatic definition of probability, conditional probability, independent
+events, random variables, probability mass function and probability density function, distribution function,
+function of random variables, standard univariate discrete and continuous distribution and their properties,
+mathematical expectation, moments, moments generating function, correlation and regression. Function of
+several variables-partial derivatives, chain rule, differentiation of implicit functions, exact differentials, tangent
+planes and normal planes, maxima, minima and saddle points, simple problems in extrema of functions with
+constraints, method of Lagrangian multipliers. Function of a complex variable-limit, continuity and
+differentiation, analytic function, Cauchy-Riemann equations, conjugate functions, application to two
+dimensional problems, Cauchy’s integral theorem, Taylor’s and Laurent’s expansions, branch points, zeros,
+poles,residues,simpleproblemsoncontourintegration.
+TextBooks:
+1.E.Kreyszig,AdvancedEngineeringMathematics,Wileypublication,9thEdition,
+2.B.S.Grewal,HigherEngineeringMathematics,KhannaPublication,Delhi.
+ReferrenceBooks:
+1.H.Bauer,ProbabilityTheoryandElementsofMeasureTheory,AcademicPress,1981.
+2.P.E.Danko,A.G.Popov,T.YA.Koznevnikova, HigherMathematicsinProblemsandExercises,Part2,Mir
+Publishers,1983.
+Coursesobjective:
+TheobjectivesofthecourseEngineeringMathematics-IIIare:
+1. The main objective of this course is to provide students with the foundations of probabilistic and
+statistical analysis mostly used in varied applications in engineering and science like disease
+modeling,climatepredictionandcomputernetworksetc.
+2. ApplyprobabilitytheoryviaBayes’Rule
+3. Describethepropertiesofdiscreteandcontinuousdistributionfunctions.
+4. Usemethodofmomentsandmomentgeneratingfunctions.
+5. ApplytheCentralLimitTheorem.
+6. Usestatisticaltestsintestinghypothesesondata.
+7. Introduce students to partial differential equations, and to solve linear Partial Differential with
+differentmethods.
+8. Introduce students to some physical problems in Engineering and Biological models that results in
+partialdifferentialequations.
+9. IntroducetheFourierseriesanditsapplicationtothesolutionofpartialdifferentialequations.
+Coursecontent:
+Unit-1
+Probability and Random Variable: Axioms of probability, Conditional probability, Independent events,
+Baye’s Theorem, Random variables, Probability mass function, Probability density function - properties,
+Moments,Momentgeneratingfunctionsandtheirproperties.
+Unit-2
+Standard Distributions: Binomial, Poisson Normal distribution and their properties, function of random
+variables.
+Unit-3
+Two-dimensional random variables: Joint distribution, Marginal and conditional distribution, covariance,
+correlationandregression,Transformationofrandomvariables,Centrallimittheorem.
+
+--- Page 4 ---
+Unit-4
+Testing of hypothesis: Sampling distribution, Testing of hypothesis of mean, variance, proportion and
+differencesusingNormal,tandChi-square.
+Unit-5
+Fourier Series: Periodic functions, Fourier series, Dirichlet’s conditions, function defined in two or more
+sub-ranges,discontinuousfunctions,evenfunction,oddfunction,halfrangeseries,changeofinterval.
+Unit-6
+Partial Differential Equations: Order, Method of forming Partial Differential Equations, Solution of
+Equation by Direct Integration, Lagrange’s Linear equation, Method of Multipliers, Partial Differential
+equations non-linear in p, q, Charpits Method, Linear Homogeneous Partial Differential equation, Non-
+Homogeneous LinearEquations,MethodofSeparationofvariables, Equationof vibratingstring, Solutionof
+waveequationbyD’Alembert’smethod,Onedimensionalheatflow,TwodimensionalHeatflow.
+Courseoutcome:
+Attheendofthecourse,studentswillbeableto
+1. Understand the basic concepts of probability, random variables, probability distribution, and
+momentsandmomentgeneratingfunctions.
+2. Define the basic discrete and continuous distributions such as normal, binomial, Poisson, and make
+beabletoapplythemandsimulatetheminsimplecases.
+3. Explain the concepts of tow dimensional random variable, independence, jointly distributed random
+variables and conditional distributions, and use generating functions to establish the distribution of
+linearcombinationsofindependentrandomvariables.AlsoStatethecentrallimittheorem,andapply
+it.
+4. Explain the concepts of random sampling, statistical inference and sampling distribution, and state
+andusebasicsamplingdistributions.Hypothesistestinganditsapplicationinreallifeproblems.
+5. FindtheFourierseriesrepresentationofafunctionofonevariable,andfindthesolutionofthewave,
+diffusionandLaplaceequationsusingtheFourierseries.
+6. Students familiarize with the fundamental concepts of Partial Differential Equations (PDE) which
+will be used as background knowledge for the understanding of specialized courses in Engineering.
+Students will master how solutions of PDEs are determined by conditions at the boundary of the
+spatialdomainandinitialconditionsattimezero.
+2. Electrical Measurement & Measuring Instruments
+L T P: 2-1-1 Credit : 04
+Sensitivity-reliability-accuracy-resolution, error analysis of measurements: Systematic and random
+errors, propagation of errors; Classification of analog and digital Instrument; Specific analog
+instruments to be covered: PMMC meter, moving iron type meter and Electrodynamometer type
+meter; Wattmeters; induction type energy meter; Extension of range for an instrument; instrument
+transformers: Principle of CT and PT and error; DC potentiometers; Measurement of low, medium
+and high resistances; Principles of ac bridges; Basics of digital measurements: A/D and D/A
+converters, programmable gain amplifier-auto-ranging; Introduction to DSO and its specifications;
+digital voltmeter, ammeter, frequency meter, digital multimeter, Block diagram of LCR meter; Hall
+effect sensor; clamp-on-meter; static energy meter; Sample and Hold circuit; Data Acquisition
+Systems
+TextBooks:
+1.N.Kularatna:DigitalandAnalogueInstrumentation:TestingandMeasurement,IET,2003.
+
+--- Page 5 ---
+2.HelfrickandCooper,ModernElectronicInstrumentationandMeasurementTechniques,Prentice-Hall.
+3.E.W.Golding&F.C.Widdis,ElectricalMeasurements&MeasuringInstruments,A.H.Wheeler&Co.
+ReferenceBooks:
+1.F.K.Harris,ElectricalMeasurement.
+2. ErnestFrank,ElectricalMeasurementAnalysis.
+Coursesobjective:
+1.Tointroducestudentstomonitor,analyzeandcontrolanyphysicalsystem.
+2. To understand the different analog and digital instruments adopted for measurement of current, voltage,
+power,energyetc.
+3. Know different methods available for measurement of passive elements like resistance, inductance &
+capacitance.
+4.ToknowtheindustrialpracticesofMeasuringearthresistance&Testingofundergroundcables.
+5.Tointroducestudentsaknowledgetousemoderntoolsnecessaryforelectricalprojects.
+Coursecontent:
+Unit-1
+Sensitivity-reliability-accuracy-resolution,erroranalysisofmeasurements.
+Unit2
+Classification analogue & digital; Analogue instruments- classification of analog electrical measuring
+instruments highlighting working principles of indicating, integrating, potentiometric, bridges, electrostatic,
+electro-dynamic,andthermaltypeinstruments;
+Unit–3
+Specific analogue instruments to be covered: moving coil, moving iron (attraction and repulsion types) for
+voltage and current measurements; single phase wattmeter (induction disc type, electro-dynamic type)-
+modifications required for measuring three phase power, energy meter, power factor meter; VAR
+measurement,trivectormeter.
+Unit–4
+Resistance measurement: low resistance (Kelvin double bridge, dc potentiometer), high/insulation resistance
+(megger),earthresistance;emfmeasurementusingdcpotentiometer.
+Unit–5
+AC bridges: Maxwell(two versions), Anderson, Schering and Wien bridge and measurement of L,C and
+internalr/lossfactor
+Unit–6
+Extension of range for an instrument to measure voltage and current, voltage divider, shunt, instrument
+transformers, details of CT, working flux, vector diagram, magnitude and phase angle errors and their
+computations,specificdifferencesformeasuringandprotectionCTs.
+Unit–7
+Testing of energy meters- phantom loading tests, different types of errors of an energy meter and their
+remedies.
+Unit–8
+Oscilloscope-construction,workingprinciple,measurementofvoltage,time&frequency,Lissajouspatterns,
+digitalvoltmeter,ammeter,frequencymeter,resistancemeter,energymeteranddigitalmultimeter.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1. Appreciate a system to determine appropriate instruments by type and range to measure different
+quantitiesinthesystem.
+2. Measure various electrical quantity like R,L,C ,Voltage, Current, Power factor , Power and Energy for ac
+anddcquantitiesusinganaloganddigitalmeters.
+3.Balancevariousacanddcbridgestofindunknownvalues.
+4.UseCRO/DSOwithconfidencetomeasuredifferentquantitiesandviewingsignalwaves.
+5.Measureearthresistanceandusetechniquesandskillstolocatethefaultofundergroundcables.
+
+--- Page 6 ---
+6.Takeupprojectstoapplythelearnedtechniquesandskills.
+Subject : Electrical Measurement & Measuring Instruments Lab
+LTP: 0-0-1 Credit : 01
+Coursesobjective:
+1.ToknowtheproceduresformeasuringResistance,InductanceandCapacitanceofdifferentranges.
+2. To perform experiments to measure current, voltage, power, power factor and energy using analog and
+digitalmeters.
+3. To design and implement various ac and dc bridges for measuring various electrical quantities like
+resistance,inductanceandcapacitance.
+4. To know the industrial practices of Measuring earth resistance and insulation resistance of electrical
+machines.
+5.Tointroducestudentsaknowledgeofusingmoderntoolsnecessaryforelectricalprojects.
+Coursecontent:
+Unit-1
+Measurementofvoltageandcurrentbyusinganalogmeter,digitalmetersandDSO.
+Unit2
+Measurementof Resistance,InductanceandCapacitanceofdifferentranges
+Unit–3
+Measurementofpowerandenergy
+Unit–4
+Resistance measurement: low resistance (Kelvin double bridge), high/insulation resistance (megger), earth
+resistance;emfmeasurementusingdcpotentiometer,mediumresistancemeasurementbyWheatstonebridge.
+Unit–5
+Designandapplicationofacbridgesformeasurementofinductance,andcapacitance
+Unit–6
+MeasurementofphaseandfrequencybyCRO.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Measure variouselectricalquantities like R,L,C,Voltage, Current,Power factor, PowerandEnergy using
+analoganddigitalmeters.
+2. Designvariousacanddcbridgestofindunknownvalues.
+3.UseCRO/DSOwithconfidencetomeasuredifferentquantitiesandviewingsignalwaves.
+4.CalibrateandtestsinglephaseenergymeterandcalibratePMMCammeter.
+5.Measureearthresistanceandinsulationresistanceofdifferentelectricalmachines.
+6.Takeupprojectstoapplythelearnedtechniquesandskills.
+3. Networks Analysis L T P: 3-1-1 Credit: 05
+Introduction to circuit elements, types of network, network theorems, transient response. Transform of
+different signal wave forms, initial and final value. Concept of complex frequency, transform
+impedances, transformcircuit andapplicationofnetworktheorem. Concept ofpolesandzeros,network
+functions for one port and two port network, restrictions of poles and zeros location for driving point
+function and transfer function. Time domain behaviour for the poles and zeros plots. Concept of two
+portnetwork,impedanceparameter,admittanceparameter,transmissionparameter,inversetransmission
+parameter, hybrid parameter, inverse hybrid parameter, relation between parameter set, interconnection
+
+--- Page 7 ---
+of two networks, network functions for general networks. Graph of a network, trees, co-trees, loops,
+incidence matrix, cut-set, tie-set matrix, number of possible trees of a graph, mutual inductance, dot
+convention, co-efficient of coupling, series andparallel combination ofcoupled circuit. Classification of
+passive filters, characteristics, equation of filter networks, resonance, bandwidth and selectivity, quality
+factor,Introductiontonetworkssynthesis.
+TextBooks:
+1. F
+ranklinKuo,NetworkAnalysisAndSynthesis,Wileyinternational,2ndedition.
+2. M
+.E.VanValkenburg,NetworkAnalysis,PHI,3rdedition.
+ReferenceBooks:
+1. W
+.H.HyattandJ.E.Kemmerly,EngineeringCircuitAnalysis,McGraw-Hill.
+2. A
+.E Fitzgerald, David E. Higginbotham, Arvin Grabel, Basic Electrical Engineering,
+McGraw-Hill,5thEdition.
+Coursesobjective:
+1. To attain basic knowledge about the electrical law, different network problems and solution methods of
+electricalsystem.
+2.Learningnetworktheoremsandproperunderstatingofbasiccomponentsofelectrical.
+3.Tolearnandconceptsbuildingregardingproblemanalysis,selectingappropriatesolvertechnique.
+4. Understanding the time domain analysis, frequency domain analysis, influence of interconnected network
+inrealtime.
+5.Learntoapplydifferentmathematicaltoolsinproblemanalysis.
+6.Abletoarticulategraphtheoryconceptincomplexnetworkanalysis.
+Coursecontent:
+Unit-1
+Introductiontocircuitelements,typesofnetwork,networktheorems,
+Unit2
+Time domain analysis of network, Transient response. Transform of different signal wave forms, initial and
+finalvalue.
+Unit3
+Conceptofcomplexfrequency,transformimpedances,transformcircuitandapplicationofnetworktheorem.
+Unit–4
+Concept of poles and zeros, restrictions of poles and zeros location for driving point function and transfer
+function.Timedomainbehaviorforthepolesandzerosplots.
+Unit–5
+Networkfunctionsforoneportandtwoportnetwork,networkfunctionsforgeneralnetworks..
+Unit–6
+Concept of two port network, impedance parameter, admittance parameter, transmission parameter, inverse
+transmission parameter, hybrid parameter, inverse hybrid parameter, relation between parameter set,
+interconnectionoftwonetworks,
+Unit–7
+Graph of a network, trees, co-trees, loops, incidence matrix, cut-set, tie-set matrix, number of possible trees
+ofagraph.
+Unit–8
+Mutual inductance, dot convention, co-efficient of coupling, series and parallel combination of coupled
+circuit.
+Unit–9
+Classificationofpassivefilters,characteristics,equationoffilternetworks,.
+
+--- Page 8 ---
+Unit–10
+Resonance,bandwidthandselectivity,qualityfactor.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1.Understandthebasicfundamentalsofelectricalnetwork/circuitanalysis.
+2. Applypropernetworktheoremsforelectricalnetwork.
+3.Findtheappropriatesolutionmethod/techniqueforaparticularnetworkproblem.
+4.Abletoidentifyorderofthesystemitsdescriptionandresponsetype.
+5. Analyzepassivefilteranditsapplication.
+Subject: Network Analysis Laboratory L T P: 0-0-1 Credit: 01
+Coursesobjective:
+1.Toknowthepracticalimplementationoftheorems.
+2.Toperformexperimentstomeasurecurrent,voltage,frequencyandtimeconstant.
+3.Toutilizetheanaloganddigitalinstrumentsforpracticalpurpose.
+4.Understandingparticularnetworkproblemandverifyingitinpractice.
+5.Abletodesigncircuitparameteraccuratelyandisappliedinrealtime.
+Coursecontent:
+Unit-1
+Estimationofnetworkvoltage,currentandpowerbyapplyingTheorems.
+Unit2
+Trackingresonancefrequencyfromaseriescircuit
+Unit–3
+Measuring maximum voltage and minimum current instants and also resonance frequency of a parallel
+circuit.
+Unit–4
+Findingtimeconstantsandplottingcurrentandvoltageresponseofafirstordercircuit
+Unit–5
+VerifyingchargingcurrentofadcRCnetwork.
+Unit–6
+Analysisofsystemdescriptionanditsnatureforsecondordercircuit
+Unit–7
+DeterminationofPortvoltageandcurrentfortwoportnetwork
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Authenticatethetheoremsappliedtoelectricalnetwork.
+2. Fabricateanetworkasperdesiredfrequency.
+3.EffectivelyutilizeCRO/DSOforplottingtheresponsewithtimes.
+4.Adjusttheresponseofcurrentforfirstorderaswellassecondordernetworkbyselectingsuitablevalueof
+thecomponent.
+5.Verifyanalogcircuitresponseorresultinsimulationplatform.
+6.Relatethereciprocityandsymmetryconditionoftwoportnetworkaccurately.
+4. Digital Electronics L T P: 3-0-1 Credit: 4
+Number systems and codes, Boolean algebra, Logic gates, Tristate logic, minimization using Karnaugh
+map and QM method. Code converters. Finite state machines. Combinational and Sequential logic
+circuits. Encoders, Decoders.Shift registers, Asynchronous and synchronous counters. Memory: ROM,
+
+--- Page 9 ---
+PROM, EPROM, EEPROM,RAM, Flash memory. Design of ROM, PAL, PLA. MUX andDEMUX etc.
+Logicfamilies:TTL,ECL,CMOS.
+TextBooks:
+1. H.TaubandD.L.Schilling,DigitalIntegratedElectronics,McGraw-Hill,1977.
+2. M.MorrisMano,DigitalDesign,PrenticeHall,3rdEdition,2002.
+ReferenceBooks:
+1. W.I.Fletcher,AnEngineeringApproachtoDigitalDesign,Prentice-Hall1980.
+2. T.M.Floyd,R.P.Jain,Digitalfundamentals,PearsonEducation
+Coursesobjective:
+1) TodevelopasolidgroundinbasicDigitalCircuitDesign
+2)ExplainconceptsandterminologyofDigitalElectronics.
+3)TounderstandandexaminethestructureofvariousnumbersystemsanditsApplicationindigitaldesign.
+4)Todevelopanunderstandingforanalysisanddesignofvariouscombinationalandsequentialcircuits.
+5)Understandingoflogicfunctions,circuits,truthtables,andBooleanalgebraexpressions.
+6)Providesabilitytomodel,analyze,andtestadigitalcircuitusingacomputersoftwareapplication.
+7) Todeveloptheabilitytoidentifybasicrequirementsforadesignapplicationinacosteffectivemanner.
+8)Alsoactsasapre-requisiteforsubjectslikedigitalcommunication,microprocessorsetc.
+Coursecontent:
+Unit-1Numbersystemsandcodes
+Conversion of bases, Representation of negative numbers, 1’s complement, 2’s complement, arithmetic
+using 2’s complement Hexadecimal code, weighted codes - BCD, Excess-3 code, Gray Code. Logic gates
+andBooleanAlgebra.
+Unit2Booleanfunctionrepresentationandminimizationtechniques
+Standard and canonical representation and minimization of Boolean expressions using Boolean algebra and
+Karnaughmap.Logicgates,Tristatelogic,NANDandNORgateimplementation.
+Unit–3CombinationalLogicCircuits
+Half Adder, FullAdder,HalfSubtractor, FullSubtractor, Full adder usinghalf adder, Code converters, BCD
+to seven segment decoder, 4-bit magnitude comparator. Multiplexer/de- multiplexers, Encoders and
+Decoders.
+Unit–4SequentialLogicCircuits
+Latches,EdgeTriggeredFlipFlops:SR,D,JK,MasterslaveJK,.Excitationtables,conversionofFlipFlops.
+StateDiagrams
+Unit–5Counters
+Synchronous and Asynchronous counters, Up/Down Counters, Design of Synchronous counters, Mod-k or
+divide-by-k counters, Decade counter, BCD counter, Ring counters, Johnson or twisted-ring counter,
+Counterapplications
+Unit–6Shiftregisters
+Shift register functions, Serial in/serial out shift registers, serial in parallel out/shift registers, Parallel In/
+Paralleloutshiftregisters,bidirectionalShiftregisters,Shiftregistercounters,ShiftregisterApplications.
+Unit–7Memory
+ROM,PROM,EPROM,EEPROM,RAM,introductiontomemoryorganization
+Unit–8Circuit design
+Usingdecoders,MUXandDEMUXetc.Designusingmultiplexers,ROM,PAL,PLA.
+Unit–9Llogicfamilies
+TTL,ECL,CMOS,calculationofnoisemargins,faninandfan-out.
+Courseoutcome:
+Onsuccessfulcompletionofthecoursethestudentswillbeableto:
+1. List thevarious types of numbersystems and thedigital logic families.
+2. Develop adigital logic simplify it and apply it to solvereal lifeproblems.
+
+--- Page 10 ---
+3. Analyse, design and implement Combinational Logic Circuits and Programmable logic
+devices.
+4. Analyse, design and implement Sequential LogicCircuits different semiconductormemories.
+5. Analyse digital system design using PLD.
+Subject: Digital Electronics Lab L T P: 0-0-1 Credit: 1
+Coursesobjective:
+1)Learnthebasicsofgates.
+2)Understandingoflogicfunctions,circuits,truthtables,andBooleanalgebraexpressions.
+3)Todevelopanunderstandingforanalysisanddesignofvariouscombinationalandsequentialcircuits.
+Coursecontent:
+Unit-1
+FamiliarizationwithLogicGates(AND,OR,NOT,XOR).
+Unit2
+Standard and canonical representation and proof of Boolean expressions using Boolean algebra.Deriving
+truthtable.StudyofUniversalGates(NAND,NOR).
+Unit–3
+HalfAdder,FullAdder,HalfSubtractor,FullSubtractor,Fulladderusinghalfadder,Codeconvertersdesign
+andproofwithtruthtable.
+Unit–4
+Magnitude comparator. Multiplexer/de- multiplexers, Encoders and Decoders design and proof with truth
+table.
+Unit–5
+Latches:SR,Dlatchesdesignandproofwithtruthtable.
+Courseoutcome:
+Onsuccessfulcompletionofthecoursethestudentswillbeableto:
+1. ExplainthebasiclogicoperationsofNOT,AND,OR,NAND,NOR,andXORwithtruthtable.
+2. Interpret logic functions, circuits, truth tables, and Boolean algebra expressions and Understand De
+Morgan’sTheorem.
+3. UnderstandvariousCombinationalLogicDesignandlatches.
+5. Object Oriented Programming L T P:2-0-1.5 Credit : 3.5
+A look at procedure-oriented programming, object oriented programming paradigm, basic concepts of object oriented
+programming,benefitsofOOP,objectorientedlanguages.Tokens,keywords,identifiersandconstants,basicdatatypes,
+user-defined and derived data types, type compatibility, reference, variables, scope resolution operator, type casting,
+implicit conversion, operator precedence, control structures, structure, function. Class specification, class objects,
+accessing class members, data hiding, empty classes, pointers within a class, passing objects as arguments, returning
+objects from functions, friend functions and friend classes, constant parameters and member functions, structures and
+classes, static members, objects and memory resource, class design steps. Constructors, destructor, constructor
+overloading, order of construction and destruction, constructors with default arguments, nameless objects, dynamic
+initialization through constructors, constructors with dynamic operations, constant objects and constructor, static data
+memberswithconstructorsanddestructors, nestedclasses. Definingoperatoroverloading, overloadingunaryoperators,
+overloading binary operators, overloading binary operators using friends, manipulation of strings using operators, rules
+
+--- Page 11 ---
+for overloading operators, type conversions. Deriving derived classes, single, multilevel, multiple, hierarchical, hybrid
+inheritance, constructors & destructors in derived classes, constructors invocation and data members initialization,
+virtual base classes, abstract classes, delegation. Pointers to objects, this pointer, pointers to derived classes, virtual
+functions,implementationofrun-time polymorphism,purevirtualfunctions.Classesforfilestreamoperations,opening
+and closing a file, file pointers and their manipulations, sequential input and output operations, error handling during
+file operations, command line arguments. Class templates with multiple parameters, function templates, overloading of
+template functions, member function templates. Object-oriented analysis and design, procedure oriented development
+tools,prototypingparadigm.
+TextBooks:
+1. Budd,ObjectOrientedProgramming,AddisonWesley,
+2. K.RVenugopal,Rajkumar,MasteringC++,TMH.
+ReferenceBooks:
+1. LipmanandLajole,C++Primer,AddisonWesley.
+2. B.Stroustrup,TheC++Programminglanguage,AddisonWesley
+Coursesobjective:
+1.The model of object oriented programming: abstract data types, encapsulation, inheritance
+andpolymorphism.
+2.Fundamental features of an object oriented language like C++: object classes and interfaces,
+exceptionsandlibrariesofobjectcollections.
+3.How to take the statement of a business problem and from this determine suitable logic for solving the
+problem;thenbeabletoproceedtocodethatlogicasaprogramwritteninJava.
+Coursecontent:
+Unit-1
+Introduction
+RevisionofImportantConceptsinCIntroduction&OverviewFromCtoC++PrinciplesofOOP
+Unit2
+Classes
+Introduction, Operator Overloading, Constructors & Destructors, Predefined C++ Classes in iostream.h, The
+Copyconstructor.
+Unit–3
+DataAbstraction
+Public,PrivateandProtectedBuildingObjectswithClassesDefiningOperationsonObjects
+Unit–4
+Inheritance, DerivedClassesandClassHierarchiesMultipleInheritanceNameSpaces
+Unit–5
+PolymorphismStatic&DynamicBindingVirtualFunctionsUsingPolymorphism
+Courseoutcome:
+1. Distinguishbetweentop-downandbottom-upprogrammingapproachandapply
+bottom-upapproachtosolverealworldproblems
+2. Interpretthedifferencebetweenstaticanddynamicbinding.Applybothtechniquesto
+solveproblems
+3. Analysegenericdatatypeforthedatatypeindependentprogrammingwhichrelateittoreusability.
+4. InterpretanddesigntheExceptionHandlingTechniquesforresolvingrun-timeerrors
+andhandlelargedatasetusingfileI/O
+5. Analyzing a problem written in English language and apply the methods to code it according to the
+knowledgeprovided.
+Subject : Object Oriented Programming Lab L T P: 0-0-1.5 Credit : 1.5
+Coursesobjective:
+1. The model of object oriented programming: abstract data types, encapsulation,
+inheritanceandpolymorphism
+
+--- Page 12 ---
+2. Fundamental features of an object oriented language like C++: object classes and interfaces,
+exceptionsandlibrariesofobjectcollections
+3. How to take the statement of a business problem and from this determine suitable logic for solving the
+problem;thenbeabletoproceedtocodethatlogicasaprogramwritteninJava.
+Coursecontent:
+Unit-1
+Introduction
+RevisionofImportantConceptsinCIntroduction&OverviewFromCtoC++PrinciplesofOOP
+Unit2
+Classes
+Introduction, Operator Overloading, Constructors & Destructors, Predefined C++ Classes in iostream.h, The
+Copyconstructor.
+Unit–3
+DataAbstraction
+Public,PrivateandProtectedBuildingObjectswithClassesDefiningOperationsonObjects
+Unit–4
+Inheritance,DerivedClassesandClassHierarchiesMultipleInheritanceNameSpaces
+Unit–5
+PolymorphismStatic&DynamicBindingVirtualFunctionsUsingPolymorphism
+Courseoutcome:
+1. Writecodesusingc++basicstatements
+2. CreateClassandobjects
+3. ImplementConstructorandDestructors,Polymorphism
+4. Writecodesforinheritance
+5. Usetemplateandanalyseagivenproblemandwritecodes.
+6. Signals and systems L T P: 2-1-0 Credit : 03
+Different types of signals: continuous and discrete, impulse sequence, impulse functions and other singularity
+functions. Typesofsystem: continuousand discretelinearity, time invariance and causality; convolution: convolution
+sum, convolution integral and their evaluation; time-domain representation and analysis of LTI systems based on
+convolution and differential equations and difference equation. Multi input-multi output discrete and continuous
+systems: transform domain considerations: Laplace transforms and Z-transforms; applications of transforms to
+discrete and continuous systems-analysis; transfer function, block diagram representation. Fourier series and Fourier
+transform,samplingtheorem,discreteFouriertransform(DFT),estimatingFouriertransformusingDFT.DTFT,DFT,
+FFT.
+TextBooks:
+1.A.V.Oppenheim,Schafer,R.W,A.S.WillskyandI.T.Young,SignalsandSystems,PrenticeHall,1983
+2.R.F. Ziemer, W.H.Tranter and D.R. Fannin, Signals and Systems - Continuous and Discrete, 4thEdition, Prentice
+Hall,1998.
+ReferenceBooks:
+1.A.Papoulis,CircuitsandSystems,ModernApproach,HRW,1980
+2.Kuo,B.C,AutomaticControlSystem,PrenticeHallofIndia
+Coursesobjective:
+1.TointroducestudentsaboutbasicsignalsandsystemsinthefieldofSignalsandsystems.
+2.Tounderstandthedifferentanaloganddigitalsystemsandtheiroperatingprinciples.
+3.ToKnowaboutdifferentmethodsandmathematicaltoolstoanalyzesignalsandsystems.
+4.Toknowtheindustrialpracticesofsignalsandsystems.
+5.Tointroducestudentsaboutspecificknowledgetousemoderntoolsnecessaryforelectricalprojects.
+
+--- Page 13 ---
+Coursecontent:
+Unit-1
+Different types of signals: continuous and discrete, impulse sequence, impulse functions and other
+singularityfunctions.
+Unit2
+Types of system: continuous and discrete linearity, time invariance and causality; convolution: convolution
+sum,convolutionintegralandtheirevaluation.
+Unit–3
+Time-domainrepresentationandanalysisofLTIsystemsbasedonconvolutionanddifferentialequationsand
+differenceequation.
+Unit–4
+Multi input-multi output discrete and continuous systems: transform domain considerations: Laplace
+transforms andZ-transforms; applicationsoftransforms todiscreteandcontinuoussystems-analysis;transfer
+function,blockdiagramrepresentation.
+Unit–5
+FourierseriesandFouriertransform,samplingtheorem,discreteFouriertransform(DFT),estimatingFourier
+transformusingDFT.DTFT,DFT,FFT.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Acquiremasteryinthesignalsandsystems.
+2. Able to design analog and digital systems and can do structural analysis over these systems to improve
+them.
+3.Abletounderstandwhydigitaldomainispreferredoveranalogdomain.
+4.Abletodefinetheappropriatenessofthedigitalworldanditsnecessity..
+5.Takeupprojectstoapplythelearnedtechniquesandskills.
+6.Abouttransformationsnecessarytounderstandsignalsandsystemscompletely.
+7. Seminar (Soft Skilled Based)
+
+--- Page 14 ---
+4th Semester
+1. Electrical Machine-I L T P: 3-1-1.5 Credit: 5.5
+Single phase transformer: equivalent circuit, phasor diagram, open circuit and short circuit tests,
+regulation and efficiency; Three phase transformers: connections, parallel operation;
+Auto‐transformer, Electromechanical energy conversion principles, DC machines: separately excited,
+series and shunt, motoring and generating mode of operation and their characteristics, starting and
+speedcontrolofdcmotors;Threephaseinductionmotors:principleofoperation,types,performance,
+torque-speed characteristics, no-load and blocked rotor tests, equivalent circuit, starting and speed
+control.
+TextBooks:
+1.I.J.NagrathandD.P.Kothari,ElectricMachines,TataMcGrawHill,1985.
+2.S.K.Bhattacharya,ElectricalMachines,TataMcGrawHill.2ndedition,2007.
+3.H.Cotton,A.H.Wheeler,AdvancedElectricalTechnology
+4.V.DToro,ElectricalEngineeringFundamentals,2ndEdition,Prentice-HallofIndia.
+ReferenceBooks:
+1.MGSay,PerformanceandDesignofACmachines,CBSPublishers.
+2.A.E.Fitzgerald,C.KingsleyJr.andS.D.Umans,ElectricalMachinery,McGrawHill,1983.
+Coursesobjective:
+1. To understand the construction and basic principal of operation of electrical machines, and power
+flowstages.
+2. Toderiveallfundamentaloperatingequationsandunderstandingmachinesphilosophy.
+3. To learn the magnetization characteristics, load characteristics, external and internal characteristics
+ofDCmachines.
+4. Tolearnthevariousmethods/techniquesofstarting,speedcontrolandbrakingofelectricalmachines.
+5. TolearnthevarioustechniquesoftestingofDC&ACmachines.
+6. TolearnthevariousapplicationsofDCandACMachines.
+Coursecontent:
+Unit-1
+Direct Current Generator: principle of operation, construction, description some essential parts, Types of
+armature windings, Analysis of Lap winding and wave winding along with numerical problems, uses of lap
+and wave windings. Types of Generator, Derived generated E.M.F equation, total losses in a DC Generator,
+Powerstages,efficiency,conditionformaximumefficiencyandNumericalproblems.
+Unit2
+Armature reaction, effects of armature reaction, Methods of reduction of Armature Reaction, Commutation
+Process,MethodsofimprovingCommutation,CharacteristicsofDCGenerator.Applications
+Unit–3
+DC Motor Principle of operation, back emf, voltage equation, Derived Torque equation, Armature torque,
+DC Motor speed control methods, Torque and speed of a DC Motor, Characteristics of DC Motor, Losses
+and Efficiency, Power stages, Electric Braking Methods, Starting of DC Motor- two/ three point / four point
+starter, TestingofDCMotors.Applications
+Unit–4
+
+--- Page 15 ---
+Induction machine: construction, classification, rotating magnetic field, Induction Motor operating principle,
+slip, rotor frequency, Relation in between Torque and Rotor power factor, Starting Torque, condition for
+maximum starting torque, Running torque and its maximum condition, power flow diagram , slip-torque
+characteristics, effects of change of supply voltage and frequency on torque and speed, Relation in between
+Torque, Mechanical Power and Rotor Output power, Induction motor as Generalized Transformer,
+Equivalent circuit of an Induction motor, circle diagram, starting and speed control of induction motor,
+performance indices, double cage rotor, testing of induction motor, induction generator, crawling and
+cogging,applications.Applications
+Unit–5
+Double-field Revolving Theory, Operating principle of Single Phase Induction Motor, Various types of
+Single-phaseMotor.Applications
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1. Acquireknowledgeabouttheconstruction,operationandclassificationofDCmachines.
+2. AcquireknowledgeaboutthecharacteristicsandapplicationsofDCmachines
+3. Understand various losses, power stages, efficiency, speed control techniques, braking techniques and
+testingofDCmachines.
+4. Acquire the knowledge about the constructional details and principle of operation of three phase and
+singlephaseinductionmotor.
+5. Understandthepowerflowdiagram,slip-torquecharacteristicsandequivalentcircuitofinductionmotor.
+6. Acquireknowledgeaboutstarting,speedcontrol,testingandapplicationsofinductionmotor.
+Subject: Electrical Machine-II Lab L T P: 0-0-1.5 Credit: 1.5
+Coursesobjective:
+1. StudythevarioustypesstartersandStartingofDCMotors
+2. TounderstandthecharacteristicsDCMotorandDCGenerators
+3. Todeterminetheefficiencybyusingdifferentmethods.
+4. UnderstandingthevariousmethodsofSpeedcontrolofDCShuntMotor.
+5. Findoutperphaseequivalentcircuitparameters,losses,byperformingO.O.CTeatandS.CTest.
+6. Understandtheparalleloperationanditsconditionforparalleloperation.
+Coursecontent:
+Unit–1
+Starting of DC Shunt motor with help of three point starter and DC Variac andSpeedcontrol of a DC Shunt
+motor
+Unit-2
+Open circuit characteristics i.e. Magnetising characteristics of a DC self-excited / separately excited shunt /
+compoundGenerators.
+Unit3
+LoadcharacteristicsofaDCShunt/DCcompoundGenerator.
+Unit–4
+DeterminationofefficiencyofDCMotorandDCGenerator(Swinbure’stest/Hopekinson’sTest)
+Unit–5
+OpencircuittestandShortcircuittestofsinglephaseTransformer,
+Unit-6
+ParalleloperationoftwosinglephaseTransformer.
+
+--- Page 16 ---
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeable
+1. Understand the necessity of starter and distinguish in between three point starter and four point
+starter.
+2. Develop engineering knowledge and practical ability for evaluating the performance of DC machine
+bydeterminingvariouscharacteristics.
+3. UnderstandthefundamentalconceptsofSpeedcontrolDCmotors.
+4. UnderstandthemethodstogettheefficiencyofDCmachinewhilerunasmotorandgenerator.
+5. Understandthetechniquetogetallparameters,losses.
+6. Investigatetheparalleloperation.Understandallnecessaryconditionsforthis.
+2. Power System-I L T P: 3-1-0 Credit: 4
+Ideaofdifferentenergyresourcesincludingrenewables,Institutionalarrangements&regulatoryaffairsofpower
+system, Overhead lines and cables: main component of overhead line, line supports, overhead line insulators,
+insulating materials, types of insulator, corona, underground cable, load curves, power distribution system,
+primary and secondary distribution. Substations: classification of substations, major equipment in substation,
+bus bar configurations, line parameter- resistance, conductance, inductance, capacitance of short, medium and
+longsingleandthreephaselines,proximityeffect,skineffect,Ferrantieffect,bundleconductors,effectofearth
+on the capacitance ofthe conductors, power factor improvement. Performance oflines: A, B, C, D parameters,
+short, medium, long lines, transmission efficiency, voltage regulation. Per unit system: per unit impedance,
+changingthebaseofperunitquantities,puimpedancesoftransformer,alternator,advantagesofperunitsystem,
+Earthingtechniques.
+TextBooks:
+1. W.D.Stevenson,ElementsofPowerSystemsAnalysis,4thedition,McGrawHill,1982.
+2. I.J.NagrathandD.P.Kothari,ModernPowerSystemAnalysis,TataMcGrawHill,2ndEdition,1989.
+3. C.L.Wadha
+ReferenceBooks:
+1. JDuncanGlover,MulukutalaS.SarmaandThomasJ.Overbye,PowerSystemAnalysisandDesign,
+CengageLearningIndiaPvt.Ltd.4thEdition.
+2. ArthurRburgenandVijayVittal,PowerSystemAnalysis,PearsonEducation.
+Coursesobjective:
+Todevelopcomprehensiveknowledgeandanalyticalcapabilityofthecourseattendeesonthetopicsof:
+1) Overheadlinesandcables,theircharacteristicsandmechanicaldesign
+2) Loadcurvesandpowerdistributionsystem
+3) Substations
+4) Lineparametersandperformanceoflinesincludingpowerfactorimprovementmethodologies
+5) Perunitsystem
+Coursecontent:
+Unit-1
+Overhead lines and cables: main component of overhead line, line supports, overhead line insulators,
+insulatingmaterials,typesofinsulator,sagandtension,stringingchart,corona,undergroundcable.
+
+--- Page 17 ---
+Unit2
+Loadcurves
+Unit3
+powerdistributionsystem,primaryandsecondarydistribution.
+Unit4
+Substations:classificationofsubstations,majorequipmentinsubstation,busbarconfigurations
+Unit5
+line parameter- resistance, conductance, inductance, capacitance of short, medium and long single and three
+phase lines, proximity effect, skin effect, Ferranti effect, bundle conductors, effect of earth on the
+capacitanceoftheconductors
+Unit6
+powerfactorimprovement.
+Unit7
+Performance of lines: A, B, C, D parameters, short, medium, long lines, transmission efficiency, voltage
+regulation.
+Unit8
+Per unit system: per unit impedance, changing the base of per unit quantities, pu impedances of
+transformer,alternator,advantagesofperunitsystem
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1.Demonstrateanunderstandingaboutfundamentalsofpowersystem.
+2. Have a detailed knowledge about various aspects of overhead lines and underground cables in order to
+developanalyticalandproblemsolvingability.
+3. Have a basic knowledge about substation which in turn may help to solve different problems of
+substationanddesignasubstation.
+4.Gatherknowledgeabouttransmissionlineparametersandanalysetheperformanceoftransmissionlinesin
+ordertosolvevariousrelatedproblems.
+5. Apply the knowledge gathered about transmission and distribution system to practical scenario such as
+planning,designingandotherpracticalproblems.
+6.Demonstrateperunitsystemandunderstanditsapplicabilityinpowersystem.
+3. Data Structures & Algorithm L T P: 2-1-0 Credit: 03
+INTRODUCTION: Definition, Interrelationship of Data structure and algorithms, Asymptotic complexity analysis,
+Abstract Data Types, Recursive programming and recurrence relations ARRAYS: Representation of arrays, Sparse
+Representation, Circular arrays STACKS AND QUEUES: Fundamental of stacks and queues, Representation with
+arrays,circularqueue,Multiplestacksandqueuesdynamics,Dequeues.
+LINK LISTS: Singly linked list and their manipulation, doubly linked list, storage pool, Dynamic storage
+management, Garbage collection, generalized list, Linked stacks and queues. TREES: Binary trees and its
+representation arrays, Tree traversals (preorder, inorder, and postorder), Threaded binary tree, Binary tree
+representation of tree, heaps, union-findSORTING AND SEARCHING: Searching – linear search, binary search,
+hashing; Binary search trees, Balanced binary search trees, Different algorithms for sorting – bubble sort, selection
+
+--- Page 18 ---
+sort,insertionsort,mergesort,quicksort,heapsort,radixsort,countingsort,lowerboundsforsorting
+RecommendedBooks:
+1.S.Lipschutz,”DataStructure”,Schaum’sOutlineSeries,TataMcGraw-Hill
+2.Tannenbaum,“DataStructures”,PHI
+3.AnIntroductionToDataStructuresWithApplications,TremblayJ.P.andSorensonP.J,TataMcgrawHill
+4.‘FundamentalsofDataStructures’,HorowitzS.andSahaniS.,ComputerSciencePress.
+4. Numerical Methods and Analysis L T P: 3-1-1 Credit : 05
+Solution to algebraic and transcendental equations by regula-falsi method, iteration method, Newton-Raphson
+method, simultaneous linear algebraic equations by Gauss-Jordon method, Crout’s method, factorization method,
+Gauss-Seidel iterative method, determination of eigen values. Numerical differentiation based on interpolation,
+numerical integration, a general quadrature formula for equidistant ordinates, the trapezoidal rule, Simpson’s 1/3rd
+and 3/8th rules, Weddles rule, Method of undetermined coefficients, extrapolation method. Numerical solution of
+ordinary differential equations of first order by Euler’s and Runge –Kutta’s method.Introduction to interpolation,
+interpolation with equal intervals, different interpolation methods (Newton-Gregory forward and backward
+differenceformulae),interpolationwithunequalintervals,divideddifferencesandtable,Newton’sdivideddifference
+formulae, central difference interpolation formulae (Gauss, Stirling, Bessel formulae), piecewise and spline
+interpolation,(cubicsplines)leastsquaresapproximations.
+TextBooks:
+1. Robert J. Schiling and Sandra L. Harris, Applied Numerical Methods for Engineers using Matlab and C,
+ThomsomAseaPte.Ltd.
+2. S.S.Sastry,Introductorymethodsofnumericalanalysis,4thedition,PHILearningPvt.Ltd.,2005
+ReferenceBooks:
+1. E.Kreyszig,AdvancedEngineeringMathematics,9thedition,Wileypublication
+2.S.A.Mollah,Numericalmethods,T.M.H.publication
+Coursesobjective:
+1. To provide the student with numerical methods of solving the non-linear equations, interpolation,
+differentiation, and integration and also to improve the student’s skills in numerical methods by using
+thenumericalanalysissoftwareandcomputerfacilities.
+2. The objectives of studying this course are to make the students familiarise with the ways of solving
+complicatedmathematicalproblemsnumericallywhichcannotbeeasilysolvedbyanalyticalmethod.
+3. Influenceofdatarepresentationandcomputerarchitecturesonalgorithmschoiceanddevelopment.
+4. Thelimitationsofanalyticalmethodsforthesolutionofalgebraicandtranscendentalequationshave
+necessitatedtheuseofiterativemethodsinnumericalanalysis.
+5. Themainaimofstudyingcurvefittingistofindacurvethatcouldbestindicatethetrendofagivenset
+ofdatawhereasinterpolationistoconnectdiscretedatapointssothatonecangetreasonableestimates
+ofdatapointsbetweenthegivenpoints.
+Coursecontent:
+Unit-1
+Interpolation:Differentinterpolationmethods(Newton-Gregoryforwardandbackwarddifference
+formulae),interpolationwithunequalintervals,divideddifferencesandtable,Newton’sdivideddifference
+formulae,centraldifferenceinterpolationformulae(Gauss,Stirling,Besselformulae),piecewiseandspline
+interpolation,(cubicsplines)leastsquaresapproximations.
+Unit-2
+Solutionofalgebraicandtranscendentalequations:Solutiontoalgebraicandtranscendentalequationsby
+regula-falsimethod,iterationmethod,Newton-Raphsonmethod.
+Unit-3
+Numericaldifferentiationandnumericalintegration:Numericaldifferentiationbasedoninterpolation,
+numericalintegration,ageneralquadratureformulaforequidistantordinates,thetrapezoidalrule,Simpson’s
+1/3rdand3/8thrules,Weddlesrule,Methodofundeterminedcoefficients,extrapolationmethod.
+Introductiontointerpolation,interpolationwithequalintervals,
+Unit4
+
+--- Page 19 ---
+Solutionofsimultaneousequations:SimultaneouslinearalgebraicequationsbyGauss-Jordonmethod,
+Crout’smethod,factorizationmethod,Gauss-Seideliterativemethod,determinationofeigenvalues.
+Unit–5
+NumericalSolutionofOrdinarydifferentialequation:Numericalsolutionofordinarydifferential
+equationsoffirstorderbyEuler’sandRunge–Kutta’smethod.
+Courseoutcome:
+1. Aparticularandimportantaspectinthenumericalmethodssubjectistheapproximationofthe
+differentvalues,operationdesignatedasinterpolation,whichisemployedinmostofthebranchesof
+theengineering.
+2. Numerical differentiationandintegrationisthe process of computingthevalue of the derivative of a
+function, whose analytical expression is not available, but is specified through a set of values at
+certaintabularpoints.
+3. Derive numerical methods for various mathematical operations and tasks, such as interpolation,
+differentiation, integration, the solution of linear and nonlinear equations, and the solution of
+differentialequations.
+4. Most problems arising from engineering and applied sciences required the solution of systems of
+linearalgebraicequationsandcomputationsofeigenvaluesandeigenvectorsofamatrix.Numerical
+analysishelps tosolve suchtype ofequations ina easiermanner.The eigenvaluesof amatrixareof
+great importance in many engineering problems for example, problem concerning the stability of an
+aircraftandthoseonvibrationofabeamrequirethecomputationofeigenvaluesofamatrix.
+5. There exist a large number of ordinary differential equations whose solution cannot be obtained in
+closedformbyusingthewellknownanalyticalmethod,wheretheuseofnumericalmethodsgetsthe
+appropriatesolutionofadifferentialequationundertheprescribedinitialconditionorconditions.
+5. Analog Electronics L T P: 3-1-1 Credit: 05
+Operation and characteristics of BJT and FET, Biasing circuits. Frequency response of different configurations. h-
+parameter model of BJT. Power amplifiers. Feedback amplifiers. Differential amplifiers. Tuned amplifiers. Simple
+active filters. Op-amp, ideal and non-ideal properties, high frequency effects onop-amp gain and phase. Linear and
+non-linearcircuitapplicationsofop-amp.VariousOscillators.Voltageregulators.VCOsandtimers.
+TextBooks:
+1. J.MillmanandA.Grabel,,Microelectronics,McGrawHill,International,1987.
+2. J.MillmanandC.C.Halkias.,ElectronicDevicesandCircuits,McGraw-Hill,NewYork.
+ReferenceBooks:
+1. A.S.SedraandK.C.Smith,MicroelectronicCircuits,Saunder'sCollegePublishing,1991
+2. R.BoylestadandL.Nashelsky,ElectronicDevicesandCircuitTheory,PrenticeHallPublishingCo.
+3. L.S.Bobrow,FundamentalsofElectricalEngineering,OxfordUniversityPress.
+Coursesobjective:
+1. Observe the effect of negative feedback on different parameters of an Amplifier and different types
+ofnegativefeedbacktopologies.
+2. ToanalysethedifferentRCandLCoscillatorcircuitstodeterminethefrequencyofoscillation.
+3. TounderstandtheoperationofthevariousbiascircuitsofBJTandFETandAnalyzeanddesignbias
+circuits.
+4. Acquirebasicknowledgeofphysicalandelectricalconductingpropertiesofsemiconductors.
+
+--- Page 20 ---
+5. Develop the Ability to understand the design and working of BJT / FET amplifiers and linear non
+linearopampcircuits.
+6. To design amplifier circuits using BJT s And FET’s. and observe the amplitude and frequency
+responsesofcommonamplifiercircuits.
+7. Observe theeffect ofpositive feedbackandable todesignandworkingof different Oscillators using
+BJTS.
+8. Developtheskilltobuild,andtroubleshootAnalogcircuits.
+CourseContent:
+Unit-1ReviewofSemiconductors
+SemiconductordiodeVIcharacteristics,Diodenumericalproblems.
+Unit2BipolarJunctionTransistors(BJTs)
+Transistor characteristics, analysis and design of different biasing circuits, h-parameter model of BJT, mid
+frequency and low frequency analysis of CE, CB and CC amplifier, hybrid-pi model of BJT, high frequency
+analysisofBJTamplifiers,transistorsasaswitch;transientswitchingcharacteristicsoftransistors.
+Unit–3FieldEffectTransistors(FETs)
+Analysis and design of different biasing circuits of FET amplifiers, small-signal low frequency model of
+FET, mid frequency and low frequency analysis of CS, CG and CD amplifiers, small-signal high frequency
+modelofBJT,highfrequencyanalysisofFETamplifiers,bodeplots.
+Unit–4Generaltheoryoffeedback
+Stability of feedback amplifier, different feedback topologies, effect of different parameters of an amplifier,
+frequency response of 2pole/3 pole feedback amplifiers, bode plot, gain and phase margin, compensation,
+methodanalysis,designexamples.
+Unit–5Amplifiers
+Differential amplifiers using BJT and FET characteristics of op-amp, ideal and non ideal properties, high
+frequencyeffectsonop-ampgainandphase,bodeplotslewratelimitation.
+Unit–6Linearandnon-linearcircuitapplicationsofOperationalAmplifiers
+Analysis of op-amp circuit, integrator, differentiator ,comparators, Schimitt trigger (inv and non-inv),
+triggerable and non-triggerable multi-vibrator, triangular and sinusoidal wave generators, precisionrectifier,
+gyratornetwork,frequencydependentnegativeresistance(FDNR),peakdetector.
+Unit–7OscillatorsandVoltageRegulators
+Wein bridge oscillator, phase shift oscillator, quadrature oscillator, harmonic oscillators, tuned oscillator,
+Colpits oscillator, Hartely oscillator. Design of series voltage regulator, series regulator with current pre-
+regulator.
+Courseoutcome:
+Attheendofthecoursestudentswillhavetheabilityto:
+1. DefinesignificanceofSemiconductordiode,BJT,FET,OpAmpsandtheirimportance.
+2. Effect of feedback andother feedback topologies. Abilitytouse OP Amp invarious linear nonlinear
+circuits.
+3. In-depth knowledge of applying the concepts of BJTs and FETs in real time applications also by
+buildingcircuits.
+Subject: Analog Electronics Lab L T P: 0-0-1 Credit: 1
+Coursesobjective:
+1. Toprovideexperienceondesign,testingandanalysisoffewopampcircuitssuchas
+Invertingamplifier,non-invertingamplifier,Summinganddifferenceamplifier,Instrumentation
+Amplifier.
+2. Toprovideexperienceondesign,testingandanalysisofIntegratorandDifferentiator.
+
+--- Page 21 ---
+3. Toprovideexperienceondesign,testingandanalysisoffewelectroniccircuitssuchas
+Astableandmonostablemultivibrators.Determinethefrequencyofoscillation.
+4. Toprovideexperienceondesignandtesting ofSchmitttrigger.
+5. Todeveloptheskilltobuild,andtroubleshootAnalogcircuits.
+CourseContent:
+Unit-1
+To sketch and analyse the following basic op-amp circuits and explain the operation of each Unity gain
+amplifier (With DC and AC Power supply), Inverting amplifier (With DC and AC Power supply), Non-
+Inverting amplifier (With DC and AC Power supply) with transfer characteristics, slew rate, gain and wave
+formanalysis.Totroubleshootandanalyzefaultsintheop-ampcircuits
+Unit2
+To introduce the design and characteristics of Summing amplifier and Difference amplifier. Observe the
+input voltages and output voltage, find the magnitude of the output voltage and tabulate the reading.
+Compare the experimental results with the theoretical values. To trouble shoot and analyze faults in the
+summerordifferenceampcircuits.
+Unit–3
+To introduce the design characteristics of Instrumentation amplifier. Observe the input voltages and output
+voltage, find the gain with variable resistance and tabulate the reading. Compare the experimental results
+withthetheoreticalvalues.
+Unit–4
+To design and setup a Inverting and Non- Inverting Schmitt trigger, plot the input output waveforms and
+measureV andV withitshysteresischaracteristics.
+UT LT
+Unit–5
+To introduce the characteristics of Integrator and Differentiator amplifier. Observe the input and output
+voltagesonaCRO.Determinethegainofthecircuitandtabulatethereadings.Drawthewaveforms.
+Unit–6
+To design and setup the Regenerative feedback system with Astable Multivibrator and Monostable
+Multivibrator,plotthewaveformsandmeasurethefrequencyofoscillation.
+Courseoutcome:
+Attheendofthecoursestudentswillhavetheabilityto:
+1.ObservetheeffectoffeedbackonOpAmpsinbothdcandaccircuits.
+2.DesignOp-ampcircuitstoperformarithmeticoperations.
+3.AnalyzeanddesignoscillatorsusingOp-amps.
+6. Elective-I
+7. Seminar (Soft Skilled Based)
+
+--- Page 22 ---
+Elective-I
+1.Applied Thermodynamics L T P: 3-0-0 Credit: 03
+Definition: Thermodynamic system, control volume, thermodynamic properties, processes, cycles, homogenous and
+heterogeneoussystem, thermodynamic equilibrium, quasi-staticprocess,work transfer,pdvwork, indicatordiagram,
+freeexpansion,pathfunction.Firstlawofthermodynamics:quantityofenergyanditsmeasurement,firstlawenergy
+equation forclosed and openloopsystem under SSSFand USUF condition, applicationof first law energy equation
+to thermodynamic system components such as boiler, turbine, compressor, nozzle, expander, pump, condenser, first
+law efficiency, first law analysis of combustion process. Second law of thermodynamics, quality of energy and its
+measurements, reversible and irreversible processes, entropy and its significance, principle of increase of entropy of
+the universe, Carnot cycle, Clausius inequality, application of second law to various thermodynamic system,
+combination of first and second law, first and second law combined, reversible adiabatic work in a steady flow
+system, unsteady flow, control system analysis, control volume analysis, entropy and disorder, availability and
+irreversibility, second law analysis of combustion process, air standard cycles, Otto-cycle, Diesel cycle, limited
+pressure cycle, comparison of Otto and Diesel and dual cycle, Brayton cycle, Stirling cycle and Ericsson cycle.
+Simplevapourcycles,Rankinecycle,actualvapourcycleprocesses,comparisonofRankineandCarnotcycle,reheat
+cycle,regenerativecycle,binaryvapourcycles
+Text/ReferenceBooks:-
+1.Nag,P.K.,EngineeringThermodynamics,3rdedition,TataMcGraw-Hill,2005
+2.Cengal,Y.AandBoles,M.A,Thermodynamics:AnEngineeringApproach,5thedition,McGrawHill,2006.
+3.Rajput,R.K.,ThermalEngineering
+4.Ballaney,P.L,ThermalEngineering,KhannaPublishers
+Coursesobjective:
+1. Tocoverthebasicprinciplesofclassicalthermodynamicsinacomprehensive wayinconsistentwith
+engineeringperspective
+2. To develop an intuitive understanding of thermodynamics by insightful explanation of the physics
+andphysicalarguments
+3. To lay the foundationof subsequent subjects like AppliedThermodynamics, FluidMechanics, Heat
+andMassTransfer,Refrigeration,AirConditioningetc.
+4. To prepare the students efficiently how to use classical thermodynamics in practical engineering
+applications
+Coursecontent:
+Unit–I:
+Definition: Thermodynamic system, control volume, thermodynamic properties, processes, cycles,
+homogenousandheterogeneoussystem,thermodynamicequilibrium,quasi-staticprocess,work
+transfer,pdvwork,indicatordiagram,freeexpansion,pathfunction.
+Unit–II:
+First law of thermodynamics: quantity of energy and its measurement, first law energy equation for closed
+and open loop system under SSSF and USUF condition, application of first law energy equation to
+thermodynamicsystemcomponentssuchasboiler,turbine,compressor,nozzle,expander,
+pump,condenser,firstlawefficiency,firstlawanalysisofcombustionprocess.
+Unit–III:
+Second law of thermodynamics, quality of energy and its measurements, reversible and irreversible
+processes, entropy and its significance, principle of increase of entropy of the universe, Carnot cycle,
+Clausius inequality, Application of second law to various thermodynamic system, combination of first and
+second law, first and second law combined, reversible adiabatic work in a steady flow system, unsteady
+flow,controlsystemanalysis,controlvolumeanalysis,Entropyanddisorder,availability
+andirreversibility,secondlawanalysisofcombustionprocess.
+
+--- Page 23 ---
+Unit–IV:
+Airstandardcycles,Otto-cycle,Dieselcycle,Limitedpressurecycle,comparisonofOttoandDiesel
+anddualcycle,Braytoncycle,StirlingcycleandEricssoncycle.
+Unit–V:
+Simple vapour cycles, Rankine cycle, Actual vapour cycle processes, comparison of Rankine and Carnot
+cycle,Reheatcycle,regenerativecycle,binaryvapourcycles.
+Courseoutcome:
+After going through careful explanations of concepts, numerous practical examples and figures, a student
+willbeableto
+1.Understandthebasicprinciplesofthermodynamics
+2. Use the necessary skills to bridge the gap between knowledge and the confidence to properly apply
+knowledge
+3.Understandtheinterrelationbetweenthethermodynamicsfunctions
+4.Knowhowenergytransformationtakesplace
+5.Gain the knowledge to use such relationships to solve the real-world engineeringapplications
+6.Understandthemostcomplexproblems,formulatethem,andinterprettheresults.
+2. Fluid Mechanics
+Properties of fluid: Mass and weight density, specific gravity, specific volume, viscosity and Newton’s law of
+viscosity,compressibility,typesoffluid,surfacetensionandcapillarity,pressureanditsmeasurement:fluidpressure
+at a point and pascal’s law, absolute, gauge and vacuum pressures, pressure variation in a fluid at rest, pressure
+measurement-manometersandmechanicalgauges.Hydrostatics:Totalpressureandcentreofpressureforhorizontal,
+vertical, inclined plane surfaces and curved surfaces submerged in liquid. Total pressure and centre of pressure on
+lock gates. Buoyancy and flotation: Buoyancy, centre of buoyancy, iamagneti and metacentric height and
+equilibrium of floating bodies, period of oscillation .Kinematics of flow: Types of fluid flow, continuity equation in
+three dimensions, velocity potential function and stream function, forced and free vortex flow. Dynamics of flow:
+Euler’sequation and Bernoulli’s equation , applicationof Bernoulli’s equation-venturimeter, orifice-meter, and pitot
+tube. Orifice and notches: Flow through orifices, hydraulic coefficients, time of emptying hemispherical and
+horizontal cylindrical tank through an orifice at it’s bottom, discharge over rectangular, triangular and trapezoidal
+notches, velocity of approach. Laminar flow : Flow of viscous fluid through circular pipe-velocity distribution and
+average velocity, Hagen Poiseiulle formula, kinetic energy correction and momentum correction factors , Navier-
+Stokes equation of motion. Turbulent Flow: Reynold’s experiment, Loss of head due to friction in pipes, Reynold’s
+expression and Prandtl mixing length theory for turbulent shear stress. Flow through Pipes: Major and minor losses
+ofenergiesinpipes,
+hydraulicgradientandtotalenergylines,flowthroughpipesinseries,equivalentpipe,flowthroughparallelpipes,
+powertransmissionthroughpipesandnozzles,waterhammer.
+Text/ReferenceBooks:-
+1.Bansal,S.K.,FluidMechanics&HydraulicMachines,LaxmiPublications.
+2.Cengel,Y.A.,FluidMechanics:Fundamentals&Applications(SIUnits),TataMcGraw-HillPublications
+3.Jain,A.K.,FluidMechanics,KhannaPublishers.
+4.Rajput,R.K.,Fluidmechanics&Hydraulicmachines,S.ChandPublications.
+3. Strength of Materials
+Stress, strain, types of stresses, elastic limit, Hook’s law, Analysis of barsof varying sections, law of superposition,
+composite bar, thermal stress, thermal stresses in composite bars, elongation of bar due to it’s own weight, stress-
+straindiagram.Introduction,longitudinal&lateralstrain, Poisson’sratio,volumetricstrainforrectangularbar,bulk
+modulus , principle of complementary shear stress, relation between various elastic constants. Principle planes and
+principlestresses, methodsfor determining stressesonobliquesection,analytical method,graphical method,Mohr’s
+circle,useof Mohr’scircletofindprinciplestresses.Typesofbeamsandloads,S.F&BMdiagramforacantilever,
+uniformly distributed load, simply supported beam for various types of loading, relation between load, shear force
+and bending moment diagram. Theory of simple bending, expression for bending stress, bending stresses in
+
+--- Page 24 ---
+symmetrical sections, section modulus, section modulus for various shapes of beam sections, bending stress in
+unsymmetrical sections, deflection of various types of beams. Basic assumptions and derivation of shear stress
+produced in a circular shaft subjected to torsion, torque transmitted by a circular and hollow circular shaft, polar
+modulus, strength of a shaft and tensional rigidity, composite shafts, combined bending and torsion, strength of a
+shaftofvaryingcrosssection.
+Text/ReferenceBooks:-
+1.Ramamurtham,S.,“StrengthofMaterials”,DhanpatRai&Sons,1974.
+2.Bansal,R.K.,“StrengthofMaterials”,Laxmipublications.
+3.Beer,Johnston.,“MechanicsofMaterials”,TataMcGraw-HillPublications
+4. Electrical Engineering Materials L T P: 3-0-0 Credit: 03
+Crystallography: Crystalline and amorphous solids, periodic structures – Lattice, basis, unit cell, bravais lattice,
+crystal structure and symbols, millar indices reciprocal lattice. X- ray crystallography: X- ray diffraction , Bragg’s
+law , determination of lattice constant, atomic form factor, closest packing of spheres, packing efficiency , crystal
+defects, band theory of solids, Kronig – Penny model, Brillouin zones, electronic distinction between conductors ,
+insulators and semiconductors, dielectric properties ofmaterials: iamagnetism and dielectric constant, frequency and
+temperature dependence of relative permittivity iamagne of dielectric under alternating fields, dielectric losses.
+Conductors:Electricalconductivityofmetals,Lorentztheory,freeelectrontheory,electronscattering,resistivitiesof
+conductors including alloys. Semiconductors: Intrinsic and Extrinsic semiconductors, Fermi-Dirac distribution,
+dependence of carrier concentration on temperature, measurement of resistivity, four probe method, Hall effect,
+measurement of carrier concentration, Zener breakdown phenomenon, photo-electric effect in semiconductors.
+Magnetic properties of materials: iamagnetism, paramagnatism, ferromagnetism, exchange interaction,
+antiferromagnatism,ferrimagnetism,andferrites,magneticresonance,magnetotriction,Curie-Weisslaw,Curielaw,
+Curie temperature of ferromagnetic material, soft and hard magnetic material. Ni-Fe alloy and applications, Alnic,
+Alcomax and application. Special materials, ceramics, polymers, XLPE, nanostructures and nanomaterials,
+biomaterials and bioceramics. Superconductivity: Superconductivity phenomena, meissner effect, type I and type II,
+superconductors,highTCSuperconductors,Josephsonjunction,SQUID.
+Text/ReferenceBooks:-
+1. A.J.Dekker,SolidStatePhysics,TataMcGraw-HillPublications
+2. C.Kittel,IntroductiontoSolidStatePhysics,Wiley&sons
+3. RLSinghal,SolidStatePhysics,MacmillanPublishingCo.
+4. S.O.Pillai,SolidStatePhysics,McGrawHillPublisherCoursesobjective:
+1. Toprovidetheknowledgeofsciencetounderstandthesolutionofcomplexengineeringproblems.
+2. To know basic theory to Identify, formulate, and analyze complex engineering problems reaching
+substantiatedconclusionsusingengineeringsciences.
+3. Toprovidebasictheoriesofmaterialstounderstandtheirtechnologicalapplications.
+4. Toprovideideaaboutapplicationsofmaterialsintechnology.
+Coursecontent:
+Unit-1
+Crystallography : Crystalline and amorphous solids. Periodic structures – Lattice, Basis , Unit cell. Bravais
+lattice,Crystalstructureandsymbols,MillarIndicesReciprocallattice
+Unit-2
+X- ray Crystallography : X- ray diffraction , Bragg,s law , Determination of lattice constant. Atomic form
+factor,Closestpackingofspheres,packingefficiency,crystaldefects
+Unit–3
+Band theory of solids : Kronig – Penny Model, Brillouin Zones. Electronic distinction between conductors ,
+insulatorsandsemiconductors.
+Unit–4
+Dielectric properties of materials : Polarisation and dielectric constant, Frequency and temperature
+dependenceofrelativepermittivitybehaviorofdielectricunderalternatingfields,dielectriclosses
+Unit–5
+
+--- Page 25 ---
+Conductors : Electrical conductivity of metals, Lorentz theory, free electron theory, electron scattering,
+Resistivitiesofconductorsincludingalloys
+Unit–6
+Semiconductors : Intrinsic and extrinsic semiconductors, Fermi-Dirac distribution, dependence of carrier
+concentration on temperature, Measurement of resistivity, Four probe method, Hall effect, measurement of
+carrierconcentration,Zenerbreakdownphenomenon,Photo-electriceffectinsemiconductors.
+Unit–7
+Magnetic properties of materials : Diamagnatism, paramagnatism, ferromagnatism. Exchange interaction,
+antiferromagnatism, ferrimagnetism, and ferrites. Magnetic resonance, Magnetotriction , Curie-Weiss law ,
+Curie law, Curie temperature of ferromagnetic material. Soft and Hard magnetic material .Ni-Fe alloy and
+applications,Alnic,Alcomaxandapplication.
+Unit–8
+Special materials : Ceramics, polymers , XLPE, nanostructures and nanomaterials Biomaterials and
+bioceramics.
+Unit–9
+Superconductivity : Superconductivity phenomena, Meissner effect, Type 1 and Type 11 superconductors,
+HighTCSuperconductors,Josephsonjunction.SQUID
+Courseoutcome:
+1. Helpstounderstandthebasicpropertiesofmaterials
+2. Helpstounderstandthetheoriesbehindthepropertiesofmaterial.
+3. Helpstounderstandapplicationofmaterialsintechnology.
+
+--- Page 26 ---
+5th Semester
+1. Electrical Machine-II L T P: 3-1-1.5 Credit: 5.5
+Synchronous machine: construction, classification, application, non-salient pole synchronous machine:
+working principle, emf equation, distribution factor and pitch factor, armature reaction, equivalent
+circuit,phasordiagram, calculationofsynchronous reactance, performanceindices,isolatedandparallel
+operation of synchronous generator, power angle characteristics, V-curve , load sharing, starting of
+synchronous motor, hunting, short circuit transient in synchronous machine. Salient pole synchronous
+machine: two reaction theory, determination of X and X , performance. Single phase motor:
+d q
+classification of single phase motor and their applications, single phase induction motor- double
+revolvingfieldtheory,equivalentcircuit,torque-slipcharacteristics,performance.
+TextBooks:
+1. I.J.NagrathandD.P.Kothari,ElectricMachines,TataMcGrawHill,1985.
+2. E.Fitzgerald,C.KingsleyJr.andS.D.Umars,ElectricalMachinery,McGrawHill,1983.
+ReferenceBooks:
+1. MGSay,PerformanceandDesignofACmachines,CBSPublishers.
+2. A.FPuschtein&T.C.Lloyd,AlternatingCurrentMachines,JohnWiley&Sons.
+Coursesobjective:
+1. To understand the construction and basic principal of operation of synchronous machine, Single
+phase induction machine single phase synchronous motor, single phase commutator motors and
+otherspecialmachines
+2. To understand andapply different method for experimental determinationof synchronous reactance
+ofsalientandnonsalientsynchronousmachine
+3. To develop analytical skills for evaluating performance parameter such as voltage regulation,
+efficiency,powerfactoretc.
+4. To understand the basic concepts of parallel operation in a synchronous generator and
+mathematically analysis the phenomenon of load sharing between synchronous generator connected
+inparallel
+5. Basic understanding of and transients phenomena’s such a starting, hunting, faults in a synchronous
+machine.
+6. Performanceanalysisofsinglephaseinductionmachine
+Coursecontent:
+Unit-1
+Construction,classification,basicprincipalofoperationandapplicationofsynchronousmachine
+Unit2
+EMFequation,distributionfactorandpitchfactorarmaturereaction,equivalentcircuit,phasordiagram,
+calculationofsynchronousreactance,performanceindices
+Unit–3
+Isolatedandparalleloperationofsynchronousgenerator,poweranglecharacteristics,V-curve,loadsharing
+Unit–4
+startingofsynchronousmotor,hunting,shortcircuittransientinsynchronousmachine
+Unit–5
+Salientpolesynchronousgenerator-tworeactiontheory,phasordiagram,performanceanalysisdetermination
+ofXdandXq
+Unit–6
+
+--- Page 27 ---
+Singlephasemotor:classificationofsinglephasemotorandtheirapplications,
+Unit–7
+singlephaseinductionmotordoublerevolvingfieldtheory,equivalentcircuit,torque-slipcharacteristics,
+performancecalculations
+Unit–8
+Principalofoperationofsinglephasesynchronousmotor,singlephasecommutatormotors.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeable
+1. To understandbasic principal of operationof synchronous machine, Single phase inductionmachine
+singlephasesynchronousmotor,singlephasecommutatormotorsandotherspecialmachines
+2. To experimentally determine the value of synchronous reactance of salient and non salient
+synchronousmachine
+3. To calculate performance parameter such as voltage regulation, efficiency, power factor etc. of
+synchronousmachine.
+4. To understandthebasicconceptsofparalleloperationinasynchronousgeneratorandcalculateload
+sharingbetweensynchronousgeneratorsconnectedinparallel
+5. Develop basic understanding of and transients phenomena’s such a starting, hunting, faults in a
+synchronousmachine.
+6. To determine the equivalent circuit parameter of single phase induction machine and evaluate the
+performanceparameterfromtheequivalentcircuit.
+Subject:Electrical Machines -II Lab L T P: 0-0-1.5 Credit: 1.5
+Coursesobjective:
+1.StudythefundamentalconceptsandprinciplesofoperationofthreephaseAlternatorandInductionmotor.
+2.UnderstandingthemagnetizingcharacteristicsofACGenerator
+3. Understanding the phenomena like voltage regulation of an three phase Alternator, variation field current
+overthearmaturecurrentandpowerfactorofathreephasesynchronousmotor.
+4.LearntheexperimentalmethodtomeasuretheparameterslikesynchronousImpedance,reactanceetc.
+5. Study various starters or starting methods of three phase Induction motor, speed control methods. Learn
+the techniques to determine the machine parameters in order to develop the mathematical model of three
+phaseInductionmotor.
+6.ToperformtheparalleloperationofAlternatorsandunderstandingloadsharing.
+Coursecontent:
+Unit-1
+DeterminationofthemagnetizationcharacteristicsofSynchronousGenerator(Alternator)
+Unit2
+TodeterminethevoltageregulationofthreephaseAlternatorbySynchronousImpedancemethod.
+Unit–3
+To study the effect of variation of field current upon stator current and power factor of a Synchronous at
+variousloads,draw“V”curveandinverted“V”curve.
+Unit–4
+To measure the direct axis synchronous reactance and quadrature axis reactance by Slip test of a
+Synchronousmachine.
+Unit–5
+
+--- Page 28 ---
+StudythestartersforthreephaseInductionMotor.
+Unit–6
+PerformNoloadTestandBlockedTest.
+Unit–7
+TostudyspeedcontrolofathreephaseInductionmotor.
+Unit–8
+ParalleloperationsthreephaseAlternators.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1. Develop engineering knowledge and practical ability for evaluating the performance of AC machine
+bydeterminingvariouscharacteristics.
+2. UnderstandthenecessityofstarterandknowaboutvarioustypesstartersforACmotors.
+3. Developthebasicexperimentalandmodellingskillsforhandlingproblems associatedwithelectrical
+ACmachines
+4. Develop practical skill for evaluating various performances of a AC machine such as speed control,
+Load characteristics of a Three phase Induction motor, Magnetization characteristics, Load
+characteristics, of a Synchronous Generator, variation of field excitation current over the armature
+currentandpowerfactorforathreephasesynchronousmotor.
+2. Power Electronics L T P: 3-1-1.5 Credit: 5.5
+Characteristics of power semiconductor switches: diodes, SCR, MOSFET and IGBT; their driving and
+switchingaidcircuitsand coolingissues;UncontrolledRectifiers: single phase andthree phaseoperation.
+Phase controlled rectifier- single-phase & three- phase converters, effects of source inductance, dual
+converters, issues of line current harmonics and power factor; cyclo-converter. Principles of switched
+mode dc to ac conversion: single-phase and three phase voltage source inverters and current source
+inverter. Various PWM techniques: SPWM, SVPWM. Basic principles of switched mode dc-dc power
+conversion:non-isolatedandisolatedconverter-flyback,forwardandpush-pull.
+TextBooks:
+1. MuhammadHRashid,PowerElectronicsCircuitsDevicesandApplications.
+2. N. Mohan, T. M. Undeland, W. P Robbins, Power Electronics: Converter, Applications & Design,
+3rdedition,Wiley&Sons.
+3. L.Umanand,PowerElectronics,WileyIndiaPvt.Ltd.
+ReferenceBooks:
+1. B.W.Williams,PowerElectronics:Devices,DriversandApplications,Macmillan,London
+Coursesobjective:
+1. To understand the construction and basic principal of operation of various types of power
+semiconductor devices in order have knowledge where to apply those particular devices in line with
+fieldofapplication.
+2. To understand and analyze different types of converters like uncontrolled rectifier, ac-dc, dc-dc, dc-
+ac,ac-ac
+3. Tounderstand,analyzeanddevelopthedrivercircuits,snubbercircuits,heatsinketc.
+4. To understand and analyze switch mode power supply, uninterrupted power supply and their
+application.
+
+--- Page 29 ---
+5. To develop analytical skills for evaluating performance parameters such as power delivered to load,
+inputVArating,inputpowerfactor,ripplefactor,efficiencyetc.fordifferentconverters.
+6. To understand the basic concepts of developing driver circuits, control circuits and power circuits
+whicharethebasiccomponentsofanypowerelectronicsystems.
+Coursecontent:
+Unit-1
+Generalintroductionofpowerelectronics,scopeandapplications
+Unit-2
+Review of power semiconductor devices, their protection, heat management and drive circuits. Switching
+lossesandsnubber.
+Unit-3
+Dioderectifiersandoperatingcharacteristics.
+Unit-4
+Principles of phase angle control- single-phase & three phase semi-converters and full converters. Inverter
+operation,effectsofsourceinductance,dualconverters.
+Unit-5
+Singlestageactoacconversion:single-phaseandthree-phaseacvoltagecontrollers,cyclo-converters.
+Unit-6
+Principles of switched mode dc to ac conversion: single-phase and three phase voltage source inverters;
+modesofoperation,voltagecontrolandwaveformcontrol.PWMprinciples,currentsourceinverters.
+Unit-7
+Choppers: principle of operation & modes of operation. Basic principles of switched mode dc-dc power
+conversion-isolatedandnonisolatedconverterconfigurations.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeable
+1. Tohave abasicideaabouttheconstructionandoperationofdifferentpowersemiconductorswitches
+likeSCR,MOSFET,IGBT,GTOetc.
+2. Tounderstandandanalyzetheperformanceofuncontrolledrectifiers.
+3. To understand and analyze the performance of controlled rectifiers, inverters, choppers, cyclo-
+converters and ac voltage controllers for their application in different filed –like chopper and
+rectifiersinDCdrives,invertersinACdrivesetc.
+4. To understand, analyze and develop the driver circuit and snubber circuits etc for turning the
+differentswitches.
+5. To understand, analyze apply the switchmode power supply, uninterrupted power supplyin specific
+application.
+6. To develop analytical skills understanding for evaluating performance parameters such as power
+deliveredtoload,inputVArating,inputpowerfactor,ripplefactor,THD,efficiencyetcfordifferent
+converters.
+Subject: Power Electronics Lab LTP: 0- 0- 1.5 Credit : 1.5
+Courseobjective:
+1. To provide working experience with the power electronics concepts presented in the lecture course,
+whilegivingstudentsknowledgeofthespecialmeasurementanddesigntechniques.
+
+--- Page 30 ---
+2. To design/select components required for specific power supply application and study the
+performance.
+3. To familiarize students withbasic featuresof laboratoryequipment like multimeter, power supplies,
+oscilloscopesandfunctiongenerators.
+4. DesignbasiccircuitsusinggeneralpurposePCB/printedcircuitboards.
+5. Studentswilllearntoworkinateamthusdevelopingprofessionalethicsandresponsibilities.
+Coursecontent:
+1. DiodeRectifierwithLCFilterACsideInductor0-15-30mH.
+2. DiodeRectifierwithLCFilterDCsideInductivefilter&DCsideCapacitor0-180-360mH.
+3. DiodeRectifierwithLCFilterDCsideInductivefilter&DCsideCapacitor0-30-60mH.
+4. FullyControlledRectifierwithInductiveLoad0-180-360mHCCMOperation.
+5. R-TriggeringofSCR.
+6. RChalfTriggeringofSCR.
+7. RCfullTriggeringofSCR.
+8. PCBDesigningfromagivencircuit.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursestudentswillbeableto
+1. Keeptechnicalrecordsofexperimentscarriedoutandusebasicfeaturesoflaboratoryequipment
+likemultimeter,powersupplies,oscilloscopesandfunctiongenerators.
+2. Understandandanalyzetheperformanceofcontrolledconverter.
+3. Understandandanalyzetheperformanceofuncontrolledconverter.
+4. Designing,analyzinganddevelopmentof SCRtriggeringcircuits
+5. Demonstrate participation activities that develop their personal generic capabilities e.g.
+Interpersonalrelationshipskills,highstandardofethicalbehavior,teamworketc.
+2. Microprocessors and Microcontrollers L T P: 3-0-1 Credit: 04
+Blockdiagramviewofageneralpurposeprocessor(Preferably8085or8086):Elementsofhardwareandsoftware
+architectures;introductiontoconceptsofdataandcontrolpaths,registersandmemoryorganization.Instructionset
+basics and assembly language programming: instruction structure and addressing modes, instruction
+encodingtiming diagrams, internal registers, interrupt mechanism (hardware/software). DMA mechanism -
+Detailed description of a typical microprocessor. Interfacing with support chips, signals and timing details along
+with hardware/software interfacing techniques. I/O interfaces with switch, multi-segment display, ADC/DAC,
+instructioncycle,machinecycle,Tstates.Instructionset,addressingmodes,stacksubroutine,andinterruptservice
+routines.
+8051 hardware and instruction set architecture, timers/counters, interrupts and serial interface (including multi-
+processor communication). Interfacing basics using examples of I/O devices: parallel port, serial ports, keypad,
+display,etc.
+Introduction to PIC micro controllers -Advantage of PIC micro controllers – History, Types and products of PIC
+andfeatures,CCSCCompilerandPIC18FDevelopmentSystem, PICArchitecture&Programming,PICI/OPort
+Programming, PIC Programming in C, PIC18 Hardware Connection and ROM loaders, PIC18 Timers
+
+--- Page 31 ---
+Programming, PIC18 Serial Port Programming, Interrupt Programming, LCD and Keypad Interface, External
+EEPROM and I2C, USB and HID Class, ADC and DAC, Sensor and other Applications, CCP and ECCP
+Programming.
+TextBooks:
+1. Ramesh S. Gaonkar, Microprocessor Architecture, Programming and Applications with the 8085A/8080A,
+WileyEasternLimited.
+2. Muhammed Ali Mazidi and Janice Gillispie Mazidi, The 8051 Microcontroller and Embedded Systems,
+PearsonEducationInc.,FifthEdition,2003.
+ReferenceBooks:
+1. I.Liu,G.A.Gibson,MicrocomputerSystems:The8086/8088Family,2ndEd.,PrenticeHall,1986.
+2. DouglasHall,MicroprocessorsInterfacing,TataMcGrawHill,1991
+3. KennethJ.Ayala,The8051Microcontroller,PenramInternationalPublishing,1996
+Coursesobjective:
+1. Introduction to different types of microprocessor and microcontrollers including Intel 8085, 8086 and
+8051.
+2. Thearchitecture,pinconfigurations,addressanddatalines,differenttypesofregisters.
+3. Instruction cycle, machine cycle, T states, instruction set, addressing modes, stack subroutine; interrupt
+serviceroutines,Opcodefetching,executionandtimingcycleandmachinecycle.
+4. Assemblylevellanguageprogrammingformicroprocessorandmicrocontrollers.
+5. Interfacing with support chips, signals and timing details along with hardware/software interfacing
+techniques.I/Ointerfaceswithswitch,multi-segmentdisplay,ADC/DAC.
+6. Development of application programs in assembly language using 8051. I/O interfacing standards.
+Microprocessorbasedsystemdesignaidsandtroubleshootingtechniques.
+Coursecontent:
+Unit-1
+Microprocessor architecture- address / data and control lines, timing diagrams, internal registers, interrupt
+mechanism(hardware/software)
+Unit-2
+DMA mechanism- study mainly based on Intel 8085 and other popular microprocessors.Detailed description
+ofatypicalmicroprocessor(preferably8085&8086).
+Unit–3
+Interfacing with support chips, signals and timing details along with hardware/software interfacing
+techniques.I/Ointerfaceswithswitch,multi-segmentdisplay,ADC/DAC.
+Unit–4
+Assembly language programming of 8 bit and 16 bit microprocessors : instruction cycle, machine cycle, T
+states. Instruction set, addressing modes, stack subroutine, interrupt service routines. Example programs in
+assemblylanguages.Conceptandoperationofassemblerandcrossassembler.
+Unit–5
+Microcontrollers and embedded processors- difference between a microprocessor and microcontroller
+criteria for choosing a microcontroller. Architecture, memory interface and programming concepts of some
+microcontrollersincluding8051.
+Unit–6
+Development of application programs in assembly language using 8051. I/O interfacing standards.
+Microprocessorbasedsystemdesignaidsandtroubleshootingtechniques.
+Courseoutcome:
+1. Introduction to Intel 8085 microprocessor architecture- address / data and control lines, timing
+diagrams, internal registers. Introduction to Operating Systems, Real Time Operating Systems,
+DeviceDrivers.
+
+--- Page 32 ---
+2. Familiar with interrupt mechanism Interfacing and control - Analog I/O, Digital I/O, Bus I/O, Serial
+andNetworkI/O,Memory,PowerandDisplayDevices
+3. Students get familiar with cycle, machine cycle, T states, instruction set, addressing modes, stack
+subroutine; interrupt service routines, Opcode fetching, execution and timing cycle and machine
+cycle.
+4. Students learn to do assembly level language programming with different instructions for data
+transfer,arithmeticandlogicaloperations,subroutineetc.
+5. Students learn about Interfacing with support chips, signals and timing details along with
+hardware/software interfacing techniques. I/O interfaces with switch, multi-segment display,
+ADC/DAC.
+6. They study about development of application programs in assembly language using 8051. I/O
+interfacingstandards.Microprocessorbasedsystemdesignaidsandtroubleshootingtechniques.
+Subject: Microprocessors and Microcontrollers Lab L T P: 0-0-1 Credit: 01
+Coursesobjective:
+1. To learn about different types of microprocessor and microcontrollers including Intel 8085, and
+8086etc.andtolearnbasicsofAssemblyLanguageProgramming.
+2. TolearnlogicalandadvancedinstructionsandtousetheminAssemblyLanguageProgramming
+3. To learn interfacing with support chips, signals and timing details along with hardware/software
+interfacingtechniques.I/Ointerfaceswithswitch,multi-segmentdisplayetc.
+4. To develop application programs in assembly language; to learn I/O interfacing standards,
+Microprocessorbasedsystemdesignaidsandtroubleshootingtechniques.
+Coursecontent:
+Unit-1
+Microprocessor architecture- address / data and control lines, timing diagrams, internal registers, interrupt
+mechanism (hardware/software). Microcontrollers and embedded processors- difference between a
+microprocessor and microcontroller, criteria for choosing a microcontroller. Assembly language
+programmingof8bitand16bitmicroprocessors
+Unit-2
+Instruction set, addressing modes, stack, subroutine, and interrupt service routines. Example programs in
+assemblylanguagesonatypicalmicroprocessor(preferably8085).
+Unit–3
+Interfacing with support chips, signals and timing details along with hardware/software interfacing
+techniques.
+Unit–4
+Developmentofapplicationprogramsinassemblylanguage.I/Ointerfacingstandards.Microprocessorbased
+systemdesignaidsandtroubleshootingtechniques.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1. Demonstrate an understanding of the fundamentals of microprocessor and microcontroller, difference
+betweenthem;writebasicAssemblyLanguageProgram.
+2.UselogicalandadvancedinstructionsindifferenttypesofAssemblyLanguageProgram.
+
+--- Page 33 ---
+3. Understand interfacing with peripherals, signals and timing details along with hardware/software, I/O
+interfacingtechniques.
+4. DesignvariousMicroprocessorandmicrocontrollerbasedapplicationprograms.
+4. Control System-I L T P: 3-1-1 Credit : 05
+Introduction: Control systems, Physical elements of a control system, classification, examples, effects of feedback,
+conceptofnon-linearity.
+Mathematical Model of Physical Systems: Introduction, Differential equation representation of physical systems,
+Transferfunctionconcepts,Blockdiagramreduction,Signalflowgraphs,Mason’sGainformula
+Time Response Analysis: Introduction, Standard test signals, Time response of first and second order systems, steady
+stateerroranderrorcoefficients,P,PIandPIDtypecontrollers.
+Stability of linear systems-Routh-Hurwitz criterion, Nyquist criterion, root locus, Bode-plot, stability margins, effects
+ofsystemgainonstability.
+Compensation:DesignofLag,leadandlag-leadcompensator.
+StateVariableAnalysis: Conceptofstate,statevariables,statemodetransferfunctiondecomposition,Statemodelsof
+linearcontinuous-timesystems.Basicconceptsofstateandoutputfeedbackcontroller.Controllability&Observability.
+Texts/References
+1. NagrathIJ&GopalM:ControlSystemsEngineering,NewAgeInternationalPub.
+2. K.Ogata:ModernControlEngineering,PrenticeHallpublishers
+3. S.HasanSaeed:AutomaticControlSystems,S.K.Kataria&SonsPublisher
+4. F.Golnaraghi,B.C.Kuo:AutomaticControlSystems,WileyPub.
+Coursesobjective:
+1.Tounderstandthefundamentalconceptofopenloopandclosedloopcontrolsystems
+2.Tounderstandthemathematicalmodellingofanygivenphysicalsystem
+3.Tostudythetimeresponseanalysisofvarious1storderand2ndordercontrolsystems
+4.Tostudyandanalyzevariouscontrolsystemcontrollers,i.e.,P,PD,PIandPID
+4.Tostudythestabilityanalysisofclosedloopandopenloopcontrolsystems
+5.Tostudythedesignofvariouskindsofcompensators
+Coursecontent:
+Unit-1
+Introduction:Controlsystems,Physicalelementsofacontrolsystem,effectsoffeedback.
+Unit2
+Mathematical Model of Physical Systems: Introduction, Differential equation representation of physical
+systems,Transferfunctionconcepts,Blockdiagramalgebra,Signalflowgraphs,Mason’sGainformula
+Unit–3
+Control System Components: Control system components: Potentiometer, ac & dc tachogenerator, ac &
+dcservomotor,amplidyne,synchro,resolver,errordetector,remotepositioncontrol.
+Unit–4
+Time Response Analysis: Introduction, Standard test signals, Performance indices, Time response of first
+and second order systems, steady state error and their minimization, error coefficients, P, PI and P-I-D type
+controllers.
+Unit–5
+Stability Analysis in Time Domain: The concept of stability, Assessment of stability from pole positions,
+Necessaryconditionsforstability,RouthStabilityCriterion,Relativestabilityanalysis.
+Unit–6
+Root Locus Technique: Introduction, The root locus concept, Root locus construction rules, Root contours,
+Casestudies.
+Unit–7
+
+--- Page 34 ---
+Frequency Response Analysis: Introduction, Performance indices, Frequency response of second order
+systems, Polar plots, Bode plots, All pass systems, Minimum-phase and Non-minimum-phase systems,
+Illustrativeexamples
+Unit–8
+Stability Analysis in Frequency Domain: Introduction, A brief review of Principle of Argument, Nyquist
+stability criterion, Assessment of relative stability – Gain Margin and Phase Margin, Closed loop frequency
+response,Illustrativeexamples.
+Unit–9
+Compensatordesigninfrequencydomain:Lead,lagandlag-leadcompensation.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Demonstrateanunderstandingofthefundamentalsofopenloopandclosedloopcontrolsystems.
+2. Determine and use models of physical systems in forms suitable for use in the analysis and design of
+controlsystems.
+3. Determine the time-domain responses of first and second-order systems to various test inputs like step,
+ramp,parabolic,impulsesignals.
+4. Determine the stability of a closed-loop control system using various stability analysis techniques like
+Routh-Hurtwizcriterion,NyquistCriterion,Bodeplot,Rootlocus.
+5.Understandandanalyzevariouscontrolsystemcontrollers,i.e.,P,PD,PIandPID.
+6.Designvariouscompensatorsbasedonstabilityanalysis.
+Subject : Control System-I Lab L T P: 0-0-1 Credit : 1
+Coursesobjective:
+1.Tounderstandthemathematicalmodellingofanygivenphysicalsystem
+2. To study the time response analysis of various 1st order and 2nd order control systems using the standard
+referencesignals
+3.Tostudyandanalyzevariouscontrolsystemcontrollers,i.e.,P,PD,PIandPID
+4.Tostudythestabilityanalysisofagivencontrolsystems
+5.Tostudytheinput/outputcharacteristicsofvariouscontrolsystemcomponents
+Coursecontent:
+Unit1:
+TodeterminethetransferfunctionbyBlockDiagramreductionandverificationofoutputbya)MATLAB
+simulinkmodelling b)MATLABprogramming.
+Unit2
+Time response analysis of a) 1st order system for step, ramp, parabolic and impulse response b) 2nd order
+systemforstep,ramp,parabolicandimpulseresponse
+Unit–3
+Step response analysis of a) 1st order system with an additional pole/zero b) 2nd order system with an
+additionalpole/zero
+Unit–4
+To study the effect of various controller actions (P, PD, PI, PID) on the output response of a second order
+system.
+Unit–5
+VerificationofthestabilityofagivenclosedloopcontrolsystemusingRHCriterionandPoleZeroMapping
+Unit–6
+To determine the natural frequency of oscillation and damping ratio for a second order and third order
+system
+Unit–7
+Verificationof the stabilityof a givenclosedloopcontrolsystemusingBode plotandNyquistplot.Studyof
+Rootlocusdiagram.
+Unit–8
+
+--- Page 35 ---
+Tostudytheinput-outputcharacteristicsofPotentiometer.UseofPOTsetaserrordetector.
+Unit–9
+Tostudythetorquespeedcharacteristicsofdcservomotor.
+Unit–10
+Tostudytheinput-outputcharacteristicsofdctachogenerator.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentshave:
+1. a strong knowledge of MATLAB software for solving control system related problems including time
+responseanalysis,stabilityanalysis,etc.
+2. an understanding of the working principle and input output relation of some control system components
+likedcservomotor,tachogeneratorandpotentiometer.
+3.anabilitytodovariousengineeringprojects.
+5. Electromagnetic Field Theory L T P : 3-0-0 Credit : 3
+Electrostatic field: dielectric interface, Laplace and Poisson’s equations, energy & force. Steady currents: continuity
+equations, Ohm’s law, Joule heating, current flow in materials, Eddy current, skin effect, displacement current.
+Magnetostatic field: Ampere’s circuital law, scalar & vector potentials, Laplace and Poissions equations.
+Electromagnetic induction: Maxwell’s equations; power flow and Poynting vector. Solutions of field equations in
+rectangular, cylindrical and spherical coordinate system, radiation generation, propagation of electromagnetic waves,
+various boundary value problems, principle of electromagnetic radiation & interaction with matter; scientific and
+engineeringapplicationsofelectro-magneticradiation.
+TextBooks:
+1. WHHayt&JABuck,EngineeringElectromagnetic,7thEdition,TataMcGrawHill.
+2. JDKrauss,Electromagneticwithapplication,5thEdition,TataMcGrawHill.
+ReferenceBooks:
+1. J. A. Edminister , Schaum's outline of theory and problems of electromagnetics, 2nd edition,
+McGraw-HillProfessional
+2. APramanik,Electromagnetism–TheoryandApplications,Prentice-HallofIndia
+CourseObjective:
+1. To provide the basic skills required to understand, develop, and design various engineering
+applicationsinvolvingelectromagneticfields.
+2. To lay the foundations of electromagnetism and its practice in modern communications such as
+wireless,guidedwaveprinciplessuchaselectronicelectromagneticstructures.
+3. To develop a strong background in electromagnetic theory and use various mathematical tools to
+solveMaxwellequationsinproblemsofwavepropagationandradiation.
+Coursecontent:
+Unit-1
+Electrostaticfield:DielectricInterface,LaplaceandPoisson’sequation,Energyandforce,Electricfluxdensity,
+Coulomb’sLaw,Bounderyconditionforelectricfield
+Unit–2
+Magnetostatic field : Magnetic flux density, Ampere’s Law, Scalar & Vector potential, Boundery condition for
+magneticfield,Laplace&Poission’seequation
+Unit–3
+Steady Currents: Current flow in materials, Eddy current, Skin effect, Skin depth, Displacement current,
+Ohm’slaw,Jouleheating
+
+--- Page 36 ---
+Unit–4
+Electromagnetic Induction: Maxwell’s equations, Gauss Law, Faraday’s Law, Biot savart law, Four
+Maxwell’sequationsfromaboveLaw,PowerflowandPoyntingvector
+Unit–5
+Electromagnetic Waves: The wave equation for E, The wave equation for B, the time-independent wave
+equationforE,TransverseEMWpropagationinfreespace,TransverseEMWpropagationinconductivemedia
+Unit-6
+Guided fields: Waveguides, Dispersion, phase and group velocities, attenuation, inhomogeneous waveguides,
+Rectangularmetallicwaveguide
+Unit–7
+Scientific & Engineering applications of electromagnetic radiation: FM wavelength radio waves,
+Transmissionofenergythroughavacuum,communicationtechnology
+Courseoutcome:
+Afterstudythroughlecturesandassignments,studentswillbeableto:
+1. Applyvectorcalculustostaticelectric-magneticfieldsindifferentengineeringsituations.
+2. Analyze Maxwell’s equation in different forms (differential and integral) and apply them to diverse
+engineeringproblems.
+3. Examine the phenomena of wave propagation in different media and its interfaces and in
+applicationsofmicrowaveengineering.
+4. Relatethevolumechargedensityandelectricfluxdensityintheboundedarea
+5. Computethespatialvariationsofphysicalquantitiesbyusingvariouscoordinatesystems
+6. Seminar
+
+--- Page 37 ---
+6th Semester
+1. Power System II LTP: 3-1-1.5 Credit: 5.5
+Symmetrical fault and unsymmetrical faults: symmetrical components single line diagram for a balanced
+system, analysis of three phase fault, construction of sequence networks under fault conditions (L-G, L-L, and
+L-L-G). Analyses of unsymmetrical faults using symmetrical components. Load flow analysis: static load flow
+equation, system variables, bus admittance matrix, bus classification, Gauss Seidel, Newton-Raphson and fast-
+decoupled load flow methods, comparison of methods. Voltage and frequency control. Economic aspects of
+power system. Power System transient Stability: synchronous generator connected to an infinite bus, power
+angle curve, steady state, transient, swing equation, equal area and criteria ofstability. Briefideas about power
+system protection and circuit breakers: general requirements of circuit breakers. Different types of circuit
+breakers, their construction, operating principles and relative merits and demerits. Fundamental principles of
+protective relays, their properties and block diagrams. Introduction to HVDC Transmission, Basic
+configurationsanditsmerit.
+TextBooks:
+1.W.D.Stevenson,‘ElementsofPowerSystemsAnalysis’,4thEdition,McGrawHill,1982.
+2.I.J.NagrathandD.P.Kothari,‘ModernPowerSystemAnalysis’,2ndEdition.TMH,NewDelhi,1989.
+ReferenceBooks:
+1. PowerSystemEconomics:DesigningMarketsforElectricity–StevenStoftIEEEPress‘AJohnWiley&
+Sons,INC.,Publication.
+2. JDuncanGlover,MulukutalaS.SarmaandThomasJ.Overbye,PowerSystemAnalysisandDesign,
+CengageLearningIndiaPvt.Ltd.4thEdition.
+3.OlleI.Elgerd,ElectricEnergySystemsTheory-AnIntroduction,TataMcGrawHill.
+Coursesobjective:
+1. To understand different transmission line parameters, calculation of line inductances and
+capacitances,introductiontosymmetricalandunsymmetricalcomponents
+2. To understand different symmetrical and unsymmetrical faults, and the use of symmetrical and
+unsymmetricalcomponentsinfaultanalysisandcorrection
+3. To obtain voltage and power profiles for each bus in a power network using different Load flow
+analysissuchas,GaussSeidel,Newton-Raphsonandfast-decoupledloadflowmethods.
+4. To analyse the power system from stability point of view, understand the generation of power angle
+curve, steady state and transient stability of power system, swing equations and other stability
+criteria
+5. Introduction to brief ideas about power system protection and circuit breakers, Types of circuit
+breaker their general requirements of circuit breakers and construction. Different types of circuit
+breakersandrelays,theirconstructionandoperatingprinciples.
+Coursecontent:
+Unit-1Introduction:
+Introduction to symmetrical and unsymmetrical components of transmission lines and determination of
+variouslineparameters.
+Unit-2PowerSystemFaultAnalysis:
+Symmetrical fault and unsymmetrical faults: symmetrical components single line diagram for a balanced
+system, analysis of three phase fault, construction of sequence networks under fault conditions (L-G, L-L,
+andL-L-G).Analysesofunsymmetricalfaultsusingsymmetricalcomponents.
+Unit-3LoadFlowAnalysis:
+Staticloadflowequation,systemvariables,busadmittancematrix,busclassification,GaussSeidel,Newton-
+Raphsonandfast-decoupledloadflowmethods,comparisonofmethods.
+Unit-4 PowerSystemStability:
+Power System transient Stability: synchronous generator connected to an infinite bus, power angle curve,
+steadystate,transient,swingequation,equalareaandcriteriaofstability.
+
+--- Page 38 ---
+Unit–5 PowerSystemProtection:
+General requirements of circuit breakers. Different types of circuit breakers, their construction, operating
+principles and relative merits and demerits. Fundamental principles of protective relays, their properties and
+blockdiagrams.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Understandthesymmetricalandunsymmetricalcomponentsofpowersystem
+2.Canidentifyvariousfaultsbothsymmetricalandunsymmetricalandcananalyseitcauseandremedies.
+3. Can calculate each bus voltage and power parameters in a connected network using various load flow
+methodandcancompareanddeducebestresultsofloadflowamongstthevariousmethodintroduced.
+4. Will be able to determine the stability criteria of a power network and can analyse its steady state and
+transientstates.
+5. Will have ideas about the protection scheme involved in power system and various components used to
+protect the system against faults. They will have the understanding of the operations, constructions and
+requirementsofvariousrelaysandcircuitbreakersandtheirusesindifferenttypesoffault.
+Subject: Power System Lab II L T P: 0-0-1.5 Credit: 1.5
+Coursesobjective:
+1) Tounderstandlong,mediumtransmissionlineparameters.
+2) Tocalculatelinevoltageregulation&transmissionefficiency.
+3) TostudyFerrantieffectinlongtransmissionline.
+4) Toperformexperimentstomeasurecurrent,voltageofseriesRL,RC,RLCcircuits.
+5) Understandingdifferenttypesofrelays.
+Coursecontent:
+Unit-1
+Tocalculatethetransmissionparametersoftwoportnetworkforlongtransmissionline.
+Unit-2
+Tocalculatethetransmissionparametersformediumtransmissionline.
+Unit-3
+TestingofFerrantieffectofalongtransmissionline.
+.Unit-4
+TocalculateVoltageregulationoflongtransmissionline.
+Unit–5
+TocalculateTransmissionefficiencyoflongtransmissionline.
+Unit–6
+CharacteristicstudyofseriesRL,RC,RLCcircuit.
+Unit–7
+TostudytheworkingofearthfaultrelayinEHVtransmissionlinesimulator.
+Unit–8
+TostudytheworkingofovercurrentrelayinEHVtransmissionlinesimulator.
+Unit–9
+TostudytheworkingofundervoltagerelayinEHVtransmissionlinesimulator.
+Unit–10
+Tostudyoftheoperationofelectromechanicaldirectionalovercurrentrelay.
+Unit–11
+Tostudyoftheoperationofmicroprocessorbasedovercurrentrelay.
+Unit–12
+Tostudyoftheoperationofstaticbiaseddifferentialrelay.
+Unit–13
+Tostudyoftheoperationofmicroprocessorbasedimpedancerelay.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+
+--- Page 39 ---
+1.UnderstandtheA,B,C,Dparametersinlongtransmissionlineofpowersystem
+2.Canidentifythedifferenttypesofrelaysandcananalysisitcauseandremedies.
+3. Introduction to brief ideas about power system protection and circuit breakers, Types of circuit breaker
+their generalrequirements of circuit breakersandconstruction. Different typesof circuitbreakers andrelays,
+theirconstructionandoperatingprinciples.
+4. Will be able to determine the stability criteria of a power network and can analyse its steady state and
+transientstates.
+5. Will have ideas about the protection scheme involved in power system and various components used to
+protect the system against faults. They will have the understanding of the operations, constructions and
+requirementsofvariousrelaysandcircuitbreakersandtheirusesindifferenttypesoffault.
+2.Digital Signal Processing L T P: 3-0-1 Credit : 04
+Design of fir digital filters: window method, frequency sampling method, Park-McClellan's method.
+Design of IIR digital filters: bilinear transformation, butterworth, chebyshev and elliptic approximations;
+frequencytransformationlowpass,bandpass,bandstopandhighpassfilters.
+Structures of DSP: direct, parallel, cascade and lattice, effect of finite register length in FIR filter design,
+limit cycle in IIR filters. Introduction to multi-rate signal processing. Hardware implementation
+considerationsinDSP,selectedapplicationsofdigitalsignalprocessing.
+TextsBooks:
+1. S.K.Mitra,Digitalsignalprocessing:Acomputationalapproach,TataMcGrawHill
+2. A.V.OppenheimandR.W.Schafer,DiscreteTimeSignalProcessing,PrenticeHall,
+ReferencesBooks:
+1. L.R.RabinerandB.Gold,TheoryandApplicationofDigitalSignalProcessing,PrenticeHall,
+2. J.R.Johnson,IntroductiontoDigitalSignalProcessing,PrenticeHall,1992.
+Coursesobjective:
+1.Tointroducestudentsaboutbasicsignalsandsystemsinthefieldofdigitalsignalprocessing.
+2.Tounderstandthedifferentdigitalfiltersandprocessorsandtheiroperatingprinciples.
+3.ToKnowaboutdifferentmethodsandmathematicaltoolstoanalyzedigitalsignalsanddigitalsystems.
+4.ToknowtheindustrialpracticesofDigitalsignalprocessors.
+5.Tointroducestudentsaboutspecificknowledgetousemoderntoolsnecessaryforelectricalprojects.
+Coursecontent:
+Unit-1
+DesignofFIRdigitalfilters:windowmethod,frequencysamplingmethod,Park-McClellan'smethod.
+Unit2
+Design of IIR digital filters: bilinear transformation, butterworth, chebyshev and elliptic approximations;
+frequencytransformationlowpass,bandpass,bandstopandhighpassfilters.
+Unit–3
+Structures of DSP: direct, parallel, cascade and lattice, effect of finite register length in FIR filter design,
+limitcycleinIIRfilters.
+Unit–4
+Introduction to multi-rate signal processing. Hardware implementation considerations in DSP, selected
+applicationsofdigitalsignalprocessing.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Designadigitalsystems,componentorprocesstomeetdesiredneedsinelectricalengineering.
+2.Structuralanalysisofdigitalfiltersandsystems.
+3.Lookforimprovementofavailablesystems.
+4.Designdigitalsystemstoimprovethefunctioningprocess.
+
+--- Page 40 ---
+5.Usethemethodsandskillsforelectricalprojects.
+6.Useyourtechnicalknowledgetotheindustrialapplications.
+Subject : Digital Signal Processing Lab LTP: 0-0-1 Credit : 01
+Coursesobjective:
+1.Toknowtheproceduresforsampling,signaloperations,variousdigitalsystems.
+2.Toperformexperimentstoconvolution,correlationetc.
+3.Todesignandimplementvariousdigitalfiltersfordevelopmentofdigitalinstruments.
+4.ToknowtheindustrialpracticesofDigitalsignalprocessors.
+5.Tointroducestudentsaknowledgeofusingmoderntoolsnecessaryforelectricalprojects.
+Coursecontent:
+Unit-1
+Designelementarysignalsandtheirbasicoperations.
+Unit2
+Performlinearandcircularconvolutionandautoandcrosscorrelations.
+Unit–3
+DesignUp-samplingandDown-samplingoperations.
+Unit–4
+Performz-transformandFourierseriesandFouriertransforms.
+Unit–5
+DesignIIRandFIRfilter.Latticestructures.
+Unit–6
+PerformimpulseinvariancemethodandBi-lineartransformations.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Designvariouselementarysignalsandtheiroperations.
+2. Designtoperformlinearandcircularconvolutionandautoandcrosscorrelations.
+3.UseMatlabsoftwareasabaseofdesigning.
+4.CalibrateandtestSamplingtheorem.
+5. Perform z-transform and Fourier series and Fourier transforms. Design IIR and FIR filter. Lattice
+structures.PerformimpulseinvariancemethodandBi-lineartransformations.
+6.Takeupprojectstoapplythelearnedtechniquesandskills.
+3. Industrial Instrumentation L T P: 3-1-1 Credit : 05
+Measurement of non-electrical quantities: Transducers: Definition and introduction, classification: Active/ passive,
+primary/secondary, etc. specific transducers: strain gauge, LVDTs and Signal conditioning circuit, Measurement of
+temperature, pressure, flow and level, Static and dynamic characteristics of sensors. Resistive, Inductive and
+Capacitive sensors, Piezo-electric and Ultrasonic sensors and its application in process and biomedical
+instrumentation, Measurement of viscosity, humidity, thermal conductivity, Nucleonic gauges: Sources and Detectors
+and its application. Interfacing Sensors and actuators: LabVIEW technique. Optical sensors including infrared, laser
+andopticalfiber.
+TextBooks:
+1. D.Patranabis,PrinciplesofIndustrial Instrumentation,TataMcGrawHill,
+2. A.E.Fribrance,IndustrialInstrumentationFundamentals,McGrawHill.
+3. J.P.Bentley,Principleofmeasurementsystem,PearsonEducationIndia,1988.
+4. R.P.Areny,J.G.Webster,SensorandSignalConditioning,JohnWiley&Sons,Inc.2001.
+ReferenceBooks:
+1. DonaldP.Eckman,IndustrialInstrumentation
+2.E.O.Doebeline&D.NManik,MeasurementsystemsApplicationanddesign,5thedition,McGraw-Hill.
+
+--- Page 41 ---
+Coursesobjective:
+1.Developknowledgeaboutthedifferenttransducertechnologies
+2.Characterizationsandmodelingofdifferenttransducersystems.
+3.Designinginstrumentationsystems.
+4. Relate the differentnon-electrical measurement technologies withother engineeringsubjects toextendthe
+boundaryofresearchareas.
+Coursecontent:
+Unit-1
+Measurement of non-electrical quantities: Transducers: Definition and introduction, classification: Active/
+passive,primary/secondary,etc.specifictransducers:straingauge,LVDT,thermistorandthermocouple.
+Unit2
+Staticanddynamiccharacteristicsofsensors.Resistive,InductiveandCapacitivesensors
+Unit–3
+pH and conductivity sensors, Piezo-electric and ultrasonic sensors and its application in process and
+biomedicalInstrumentation.Measurementofviscosity,humidityandthermalconductivity.
+Unit–4
+Nucleonicgauges:SourcesandDetectorsanditsapplication.InstrumentationsystemDesign.Opticalsensors
+includinginfrared,laserandopticalfiber.
+Courseoutcome:
+1. Student’s ability to understand the measurement of non-electrical quantities and transduction
+principle.
+2. Student’sabilitytounderstandthefundamentalsofvarioussensorsandtransducersystems.
+3. Student’sabilitytoanalyseandcharacterizetransducersystems.
+4. Student’sabilitytoidentifytheproblemsinthesubjectdomain.
+5. Student’sabilitytounderstandtheambientparametersforsustainability.
+Subject: Industrial Instrumentation Lab L T P: 0-0-1 Credit: 01
+Coursesobjective:
+1. Learn working principle, interfacing and various applications of different types of thermocouple, with
+specialemphasisonPttypeandKtypethermocouple.
+2. Learn working principle, interfacing and various applications of different types of humidity and gas
+sensors.
+3. Learn working principle, interfacing andvarious applications of different types of photo-diode and photo-
+transistors.
+4. Learn working principle, interfacing and various applications of different types of IR Transmitter and
+receivers.
+5.Learnworkingprinciple,interfacingandvariousapplicationsofdifferenttypesofUltrasonicsensors.
+6.Learnworkingprinciple,interfacingandvariousapplicationsofdifferenttypesofHall-effectsensors.
+7. Learn working principle, interfacing and various applications of different types of Distance measuring
+sensors.
+8.Learnworkingprinciple,interfacingandvariousapplicationsofdifferenttypesofNTCandPTCsensors.
+9. Learn working principle, interfacing and various applications of different types of Piezo Pressure sensors
+andSoundSensors.
+10. Learn working principle, interfacing and various applications of different types of LEDs with special
+emphasisonRed,WhiteandIRLEDs.
+
+--- Page 42 ---
+11.Learnworkingprinciple,interfacingandvariousapplicationsofdifferenttypesofProximitySensors.
+12. Learn working principle, interfacing and various applications of Mercury Switch, Limiting Switch and
+ReedRelay.
+Coursecontent:
+Experiment-1
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofthermocouple,withspecial
+emphasisonPttypeandKtypethermocouple.
+Experiment 2
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofhumidityandgassensors.
+Experiment –3
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofphoto-diodeandphoto-
+transistors.
+Experiment –4
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofIRTransmitterandreceivers.
+Experiment –5
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofUltrasonicsensors.
+Experiment –6
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofHall-effectsensors.
+Experiment –7
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofDistancemeasuringsensors
+Experiment –8
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofNTCandPTCsensors.
+Experiment –9
+Working principle, interfacing and various applications of different types of Piezo Pressure sensors and
+SoundSensors.
+Experiment –10
+Workingprinciple, interfacingandvariousapplicationsofdifferenttypesofLEDswithspecialemphasison
+Red,WhiteandIRLEDs.
+Experiment –11
+Workingprinciple,interfacingandvariousapplicationsofdifferenttypesofProximitySensors.
+Experiment –12
+Working principle, interfacing and various applications of Mercury Switch, Limiting Switch and Reed
+Relay.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1. Understand the basics of different types of thermocouple, with special emphasis on Pt type and K type
+thermocoupleandtheirapplicationsinIndustries.
+2.UnderstandthebasicsofdifferenttypesofhumidityandgassensorsandtheirapplicationsinIndustries.
+
+--- Page 43 ---
+3. Understand the basics of different types of photo-diode and photo-transistors and their applications in
+Industries.
+4.UnderstandthebasicsofdifferenttypesofIRTransmitterandreceiversandtheirapplicationsinIndustries.
+5.UnderstandthebasicsofdifferenttypesofUltrasonicsensorsandtheirapplicationsinIndustries.
+6.UnderstandthebasicsofdifferenttypesofHall-effectsensorsandtheirapplicationsinIndustries.
+7.UnderstandthebasicsofdifferenttypesofDistancemeasuringsensorsandtheirapplicationsinIndustries.
+8.UnderstandthebasicsofdifferenttypesofNTCandPTCsensorsandtheirapplicationsinIndustries.
+9. Understand the basics of different types of Piezo Pressure sensors and Sound Sensors and their
+applicationsinIndustries.
+10.Understand the basicsof different types of LEDs withspecial emphasis onRed,White andIR LEDs and
+theirapplicationsinIndustries.
+11.UnderstandthebasicsofdifferenttypesofProximitySensorsandtheirapplicationsinIndustries.
+12. Understand the basics of different types of Mercury Switch, Limiting Switch and Reed Relay and their
+applicationsinIndustries.
+4. Principles of Communication L T P: 3-0-1 Credit : 04
+Analog communication : introduction to communication systems, communication channels and propagation
+characteristics, basics of amplitude modulation and angle modulation - spectra, circuits and systems, frequency
+divisionmultiplexing,performanceofanalogcommunicationsystemsinAWGN.
+Digital communication: A-D conversion, quantization and companding, PCM, DPCM, ADPCM, DM, ADM, time
+division multiplexing, baseband transmission, data regenerators and clock recovery, inter-symbol interference,
+equalizers,digital modulationanddemodulation:FSK&MSK,PSK&QPSK,QAMwiththeirspectra,circuitsand
+systems,Informationtheory:entropy,mutualinformation&channelcapacity,basicsofspreadspectrum.
+TextBooks:
+1. S.S.Haykin,AnIntroductiontoAnalogandDigitalCommunicationSystems,WileyEastern1989
+2. R.B.Carlson,CommunicationSystems,3rdinternationaledition,McGrawHill,1986.
+ReferenceBooks:
+1. B.P.Lathi,CommunicationSystems,JohnWiley,1987.
+2. H. Taub and D.L. Shilling, Principles of Communication Systems, McGraw Hill international student
+edition,1971.
+Coursesobjective:
+1.Toacquireknowledgeaboutprincipleandtechniquesofmoderncommunicationsystem.
+2.ToacquireknowledgeofanalogcommunicationsystemsinadditivewhiteGaussiannoise.
+3.To acquire knowledge in various methods of analog and digital communication, including amplitude
+modulation,frequencymodulationandphasemodulation.
+4.Toacquireknowledgeaboutthetheoryofprobability,randomprocessandoptimumdetection.
+5.Todesignacommunicationsystemandvalidatetheideabyusingcomputersimulation.
+6.To acquire knowledge of different digital modulation and demodulation of amplitude shift keying,
+frequencyshiftkeying,phaseshiftkeyingwiththeirspectraandcircuits.
+CourseContent:
+Unit-1
+Analog communication: introduction to communication systems, signals and spectra, electromagnetic
+spectrumanditsusage,communicationchannelsandpropagationcharacteristics.
+Unit2
+Amplitude modulation and demodulation - spectra, circuits and systems, frequency
+modulation/demodulation,frequencydivisionmultiplexing,pulsemodulationanddemodulation.
+Unit–3
+
+--- Page 44 ---
+PerformanceofanalogcommunicationsystemsinAWGN
+Unit–4
+Digitalcommunication:A-Dconversion,quantizationandcompanding, PCM,DPCM,ADPCM, DM,ADM,
+time division multiplexing, baseband transmission, data regenerators and clock recovery, inter-symbol
+interference,equalizers.
+Unit–5
+Digital modulation and demodulation, ASK, FSK, PSK and their spectra, circuits and systems, carrier
+recovery.
+Courseoutcome:
+Aftersuccessfulcompletionofthecourse,thestudentswillbeableto:
+1. Demonstrateanunderstandingofthefundamentalsofcommunicationsystems
+2. Demonstrateanunderstandingofthebasicsignalandsystems,Fouriertransformanditsproperties.
+3. Designbandpass,lowpassandhighpassfilters.
+4. Understandthebasicknowledgenecessaryfortransmittingandreceivinginformation.
+5. Understanddifferenttypesofanaloganddigitalmodulationanddemodulation.
+6. Learn the theory of probability, random variables and stochastic processes. They will also able to
+understandnoiseinthecommunicationsystemsandhowtheoptimumdetectionworks.
+Subject : Principle of Communication Lab L T P: 0-0-1 Credit : 1
+Coursesobjective:
+1.Toacquireknowledgeaboutprincipleandtechniquesofmoderncommunicationsystem.
+2.ToacquireknowledgeofdifferentanalogfilterslikeLPF,HPF,etc.
+3.ToacquireknowledgeinmodulationanddemodulationofAM.
+4.ToacquireknowledgeinmodulationanddemodulationofFM.
+5.Todesignacommunicationsystemandvalidatetheideabyusingcomputersimulation.
+6. To acquire knowledge of different digital modulation and demodulation of amplitude shift keying,
+frequencyshiftkeying,phaseshiftkeyingwiththeirspectraandcircuits.
+CourseContent:
+Unit-1
+DesignofHighpassandLowpassfilters.
+Unit2
+Pre-emphasis&De-emphasis
+Unit–3
+GenerationofAMsignals
+Unit–4
+DemodulationofAMsignals.
+Unit–5
+GenerationofFMsignals.
+Unit-6
+DemodulationofFMsignals
+Unit–7
+
+--- Page 45 ---
+GenerationofPAMsignals.
+Unit-8
+DemodulationofPAMsignals
+Unit–9
+GenerationofASKsignals.
+Unit-10
+GenerationofPSKsignals
+Unit–11
+GenerationofBPSKsignals
+Courseoutcome:
+Aftersuccessfulcompletionofthecourse,thestudentswillbeableto:
+1.Demonstrateanunderstandingofthefundamentalsofcommunicationsystems.
+2.Demonstrateanunderstandingofthebasicsignalandsystems,Fouriertransformanditsproperties.
+3.Designlowpassandhighpassfilters.
+4.Understandthebasicknowledgenecessaryfortransmittingandreceivinginformation.
+5.Understanddifferenttypesofanalogmodulationanddemodulation.
+6.Understanddifferenttypesofdigitalmodulationanddemodulation.
+5. Seminar (Project Related)
+7th Semester
+1. Electrical Drives L T P: 3-0-1.5 Credit: 4.5
+Basic Electric drives and its components, Torque speed characteristics of different types of loads, Selection of
+motor power ratings, Torque speed characteristics and speed control of Separatelyexcited and series DCmotor
+drives: Armature resistance control, combined armature voltage and field control, four quadrant operation.
+
+--- Page 46 ---
+Induction motor drive: toque speed characteristics and speed control of stator voltage controlled and v/f
+controlled IM drive, various performance like T/I ratio, Issues of efficiency, four quadrant operation, speed
+control of slip ring IM: static Scherbius drive. Toque speed characteristics of v/f controlled IM drive. Torque
+speed characteristics and speed control of synchronous motor drive, principle of operation of BLDC motor and
+switchedreluctancemotordrives.
+TextBooks:
+1.G.K.Dubey,Fundamentalsof ElectricalDrives,CRCPress,2002
+2.R.Krishnan,ElectricMotorDrives–Modeling,AnalysisandControl,Prentice-HallofIndiaPvtLtd.,New
+Delhi,2003.
+ReferenceBooks:
+1.BimalK.Bose,ModernPowerElectronicsandACDrives,PearsonEducationPvt.Ltd.,2003.
+2.PaulC.Krause,OlegWasynczuk,ScottSudhoff,StevenPekarek,AnalysisofElectricMachineryandDrive
+systems,Wileypublication,3rdedition,2013.
+Courseobjective:
+1.Studentsareexposedtoknowledgeofdcandacdrives.
+2.Studentswouldbeabletoanalysetheperformanceofdcandacdrives.
+3.Designandanalysisofdifferentdrivesystem.
+4.Tofindtheindustrialapplicationofdrive.
+Coursecontent:
+Unit-1
+Basic power electronic drive system components. Different types of loads, shaft-load coupling
+systems, selection of motor power ratings, review of starting, braking and speed control of DC and
+IM.
+Unit2
+Transient analysis during starting braking & speed control of dc & ac drives, calculation of energy
+loss, stability, single phase and three phase converter fed dc motor drive. Four quadrant operation,
+constant flux operation and field weakening, chopper fed drives, braking and speed reversal of dc
+motordrives using choppers.
+Unit–3
+Three phase induction motor drives - ac voltage controlled drives –- VSI fed induction motor drive
+– stator side control – scalar control and vector control – rotor side control - slip power recovery
+scheme -CSIcontrolled inductionmotordrives.
+Unit–4
+Regeneration in drives: dynamic braking, regenerative braking, dc injection, plugging. Basic
+concepts of synchronous motor drives, switched reluctance motor drives and permanent magnet
+motordrives.
+Courseoutcome:
+1.Basicconceptofdrivesystem,load,selectionofmotor,startingandbraking.
+2.InculcationofknowledgeofdifferentcontrolstrategiesfordcMotordrive.
+3.ExposuretocontrolstrategiesofIMdrives.
+4.ExposuretodifferentcontrolstrategiesforSynchronousMotor,SRMandPMmotordrives.
+Subject : Electrical Drives Lab L T P: 0-0- 1.5 Credit :1.5
+Courseobjective:
+1. TounderstandtheoperationofInductionmotorandcontrolitsspeed.
+
+--- Page 47 ---
+2. TounderstandtheoperationofDCmotorandcontrolitsspeed.
+3. TounderstandtheoperationofBLDC(BrushLess)motorandcontrolitsspeed
+4. TounderstandtheoperationofPMSM(PermanentMagnetSynchronousMotor)andcontrolitsspeed.
+5. TounderstandtheoperationofSRM(SwitchedReluctanceMotor)andcontrolitsspeed.
+Coursecontent:
+Unit-1
+(i)Controlthespeedoftheinductionmotorbyvaryingthevoltagewithfixedfrequency.
+(ii)Controlthespeedoftheinductionmotorbyvaryingfrequencywithfixedvoltage.
+(iii)Controlthespeedoftheinductionmotorbyvaryingbothvoltageandfrequency.
+Unit-2
+(i)StudytheopenloopspeedcontrolofDCmotorbyarmaturecontrolusingPEC16HV2B
+&PEC14HV4Dmodule.
+(ii)StudytheopenloopspeedcontrolofDCmotorbyfieldcontrolusingPEC16HV2B
+&PEC14HV4Dmodule.
+Unit-3
+OpenloopspeedcontrolofDCmotorusingpowerelectronicstrainerkit.
+Unit-4
+ClosedloopspeedcontrolofDCmotorwithspeedfeedback.
+Unit-5
+StudythecharacteristicsofDCdriveusingJonesChopper.
+Unit-6
+Controlthespeedof3phaseslipringInductionmotorusingthePEC16HV10Btrainermodule.
+Unit-7
+Studythe open loop and closed loop speed control of AC Motor by using MICRO 2812 and PEC16DSMO1
+(IPM)module.
+Unit-8
+Study the open loop and closed loop speed control of BLDC Motor by using MICRO 2812
+andPEC16DSMO1(IPM)module.
+Unit-9
+ControlthespeedofPMSMmotorusingIntelligentPowerModule(PEC16DSMO1)andMicro-2812trainer.
+Unit-10
+Control the speed of Switched Reluctance Motor using Micro-2812 trainer and SRM power module
+(PEC16DSMO15).
+Unit-11
+Studyofspeedcontrolofdcmotorwithaninnercurrentloopandouterspeedloop.
+Courseoutcome:
+
+--- Page 48 ---
+Aftersuccessfulcompletionofthecoursestudentswillbeableto
+1. Control the speed of three phase Induction motor, DC motor, BLDC motor, PMSM and SRM using
+Micro2812.
+2. Useoscilloscope,micro2812anddifferentconvertermodule.
+3. Identifyandinvestigatehardwareproblemassociatedwiththetrainerkits.
+4. Performworkinateam.
+5. Receivetechnicalinstruction,communicatetheirneedandwritealabreport.
+6. Learnprofessionalethicsandresponsibilitiesandnormsoftheengineeringpractice.
+2. Engineering Economics L T P: 3-0-0 Credit: 03
+Introduction – engineering economy and its important, want activity satisfaction of wants. Resources planning and
+distribution ineconomic system –Laissez Faireand socialism. Factorsofproduction andconcept ofoptimum. Laws of
+return. Demand - elasticity of demand, demand – estimation, market research, supply and industrial costs. Money –
+value of money, quantity theory; inflation and deflection. Neural network and its applications. Banking - role in
+commercial banks credit and its importance in industrial financing, sources of finance Reserve bank of India and its
+functions. Business management and organization, proprietorship, partnership and joint stock company – their
+formation, finance and management. Elements of taxation, insurance, business combinations. Basic principles of
+management. Industrial record keeping : double entry system – journal, ledger, trial balance, cash book, preparation of
+final accounts,tradingand profitandlossaccount and balancesheet.Industrial costsand their classifications–material
+costcontrol,labourcostcontrolandoverheadcostcontrol.Depreciationandreplacementstudies;financialcontrolratio
+analysisandtheirinterpretationforindustrialcontrol.Budgetarycontrol.
+TextBooks:
+1. HLAhuja,BusinessEconomics,SChand’s&CompanyLtd.
+2. SampatMukherjee,ManagerialEconomics,NewAgeInternational(P)Ltd.
+ReferenceBooks:
+1. OPChhabra,ManagerialEconomics,TataMcGrawHill
+Coursecontent:
+Unit-1
+EngineeringEconomics-meaning,nature,scopeandsubjectmatter
+Unit2
+Utility- definition, total, marginal and average; cardinal utility theory; indifference curves theory; Demand-
+factors effecting demand, elasticity of demand- different types of elasticity, classification of goods based on
+variouselasticityofdemand
+Unit–3
+Production- Production function; Iso-quant; returns to scale; Total, Average & Marginal Product; law of
+variable proportions; Cobb-Douglas production function; Iso-cost curve; Derivation of cost curve from
+productionfunction;Productionoptimization;expansionpath
+Unit–4
+Cost- short run and long run cost (the ‘Envelope Curve’); shape of different types of cost curves; Revenue-
+totalrevenueandmarginalrevenue,relationbetweenmarginalrevenueandpriceelasticityofdemand
+Unit–5
+Firm-differenttypesoffirmanditscharacteristics;traditionaltheoryoffirm;objectivesoffirm
+Unit–6
+
+--- Page 49 ---
+Introduction to Accounting- Definition of Accounting and accountancy, objectives of accounting, users of
+accounting information, Double Entry system of Book-Keeping, Journal and Ledger, Cash book, Trial
+balance.
+Unit–7
+Final Accounts- Basic concepts, uses and preparation of Trading account; Profit and Loss account; and
+BalanceSheet.IssueandForfeitureofShareandRe-IssueofCompany.
+Unit–8
+Introduction to Costing- Elements of Cost, Direct Materials, Direct Labour, Direct Expenses, Overheads,
+Production, Office and Administration, Selling and Distribution, Allocation of overhead, machine hour rate,
+labourhourrate,practicalproblems.
+Courseoutcome:
+1. Be able to identify and explain economic concepts and theories related to the behavior of economic
+agentspresentinmarket.
+2. Be able to analyse the impact of various government policies in production and profitability of the
+company.
+3. Beabletoidentifythebasicfeaturesofalternativerepresentationsofhumanbehaviorineconomics.
+4. Be able to understand the impact various decisions or transactions will have on the company’s
+statementsandfinancialhealth.
+5. Be able to comfortably communicate with senior financial and non-financial leaders about financial
+statementissuesandthefinancialimpactofbusinessdecisions.
+2. Elective-II
+3. Elective-III
+4. Project-I
+8th Semester
+1. Industrial Management L T P: 2-0-0 Credit: 02
+
+--- Page 50 ---
+Introductiontomanagement, evolutionof scientific management, modernmanagement. Principles. Elements
+of management; Planning, organizing, staffing, directing, coordinating, reporting, budgeting. Core concepts
+of marketing. Need, want, demand, product, value, satisfaction, marketing mix- product, price, place,
+promotion. Financial management, objectives, scope, techniques of investment analysis, pay- back period,
+accounting rate of return, working capital, cost of capital. Sources of financing. Technology management.
+Product design. Types of production system. Plant location-factors to be considered. Plant layout. Types of
+layout. Inventory management. Significance of HRM. HR planning job evaluation. Recruitment and
+selection. Placement and induction. Training. Performance appraisal. Compensation. Industrial relations.
+Microeconomics. Demand and supply. Forecasting techniques. Cost and revenues. Competitive nature of
+firms. Keynesian economics. Aggregate demand and supply. Employment determination. National income.
+Trade cycle. Inflation. Index numbers. Capital budgeting. Cash flow analysis. Balance sheet. Risk analysis
+and decision making. Impact of liberalization, privatization and globalization. Locating the firm in a global
+economy. Fiscal policy. Taxation-principles. Exchange rate determination. Monetary policy. Functions of
+banks.Creditcreationbycommercialbanks.
+TextBooks:
+1.P.Kotler,MarketingManagement,12thedition,Pearson
+2.P.Chandra,FinancialManagementTheoryandPractice,3rdedition,TataMcGrawHill,
+ReferenceBooks:
+1.K.Ashwathappa,HumanResourcesandPersonnelManagement,3rdedition,TataMcGrawHill
+2.E.S.Buffa&R.K.Sarin,ModernProduction/OperationManagement,8thedition,Wiley.
+Coursesobjective:
+1. To make the Engineering student know about the basic concepts, functions, principles and techniques of
+management and their application, which complement the technical skills to execute their capabilities
+successfully.
+2. TomaketheEngineeringstudentknowaboutthebasicconceptsoffinanceincarryingoutanyproject
+Coursecontent:
+Unit-1
+Basic Concepts and functions of management: planning, nature, purpose and objective of planning;
+organizing: nature and purpose, authority and responsibility, staff bug; supply of human resources,
+performanceappraisal.Controlling:systemandprocessofcontrolling,controltechniques.
+Unit2
+Human resource Management and Marketing Management: nature and scope of human resource of
+planning,planninganddevelopment,recruitmentandselection,careergrowth,grievances,motivationandits
+type, needs for motivation, reward and punishment, models of motivation. Leaders: kinds of leaders,
+leadershipstyles, rolesandfunctionsofleader;conflictmanagement:kindsandcausesofconflict,settlement
+ofconflict,Groupandteamworking,organizationaldesignanddevelopment.
+Unit–3
+Financial Management: Needof finance, kinds and sources ofcapital sharesand debentures, fixedand
+working capital , capital structure of a firm, operating and financial leverage, EBIT and EPS analysis,
+financialratioanalysis:usesandnatures,liquiditycoverageratios,practical problems.
+Unit–4
+Investment decisions and forecasting of working capital: Kinds of capital Budgeting decisions,
+evaluation of proposals, capital discounting and non discounting based methods. Practical problems.
+Definition and importance of working capital. Working capital operating cycle, factors affecting Working
+capital,inventorymanagement
+Unit–5
+
+--- Page 51 ---
+Cost Analysis and Cost Control: elements of cost, types of cost, direct and indirect, variable and fixed,
+labourcost,materialcost,overheadcost,costcontroltechniques.Budget:meaning,kinds,budgetarycontrols,
+breakevenanalysis,practicalproblems.
+Unit–6
+Perfect Competition- Perfect Competition, Features; Short run and long run equilibrium of firm and
+industry,shutdownpoint
+Unit–7
+Monopoly-features,monopolypower,pricingundermonopoly,pricediscrimination.
+Unit–8
+Oligopoly-Features,kinckeddemandCurve,Cournot’sDuoployModelCartels,Priceleadership.
+Unit–9
+MonopolisticCompetition-Features,Pricingundermonopolisticcompetition,Productdifferentiation.
+Unit–10
+Macroeconomics-Inflation;FunctionofCentral&CommercialBanks
+Courseoutcome:
+1. Be able to understand the principles of management and apply these to one’s own work, as a
+memberandleaderinateam,tomanageprojectsandinmultidisciplinaryenvironments.
+2. Beabletomakeaplanhowtoorganize,controlandmotivatepeople.
+3. Be able to understand the Cost analysis in the context of short and long term decision making and
+theuseofdiscountedcashflowanalysis.
+4. Be able to identify and explain economic concepts and theories related to the markets, industry and
+firmstructures.
+5. Beabletopursuethelargerobjectivesofthefirmbesidesprofitmaximization.
+2. Elective-IV
+3. Elective-V
+4. Grand Viva
+5. Project-II
+Electives II, III, IV&V
+
+--- Page 52 ---
+Lecture Tutorial Practical Credit
+Sl.No. Title
+1 SpecialTopicsinElectricalEngineeringI
+2 SpecialTopicsinElectricalEngineeringII
+3 AnalysisandControlofElectricalMachines 3 0 0 3
+3
+4 PowerPlantEngineering 3 0 0
+3
+5 AdvancedPowerSystems 3 0 0
+3
+6 ProcessControl&Automation 3 0 0
+3
+7 Opto-electronicsInstrumentation 3 0 0
+3
+8 HighVoltageEngineering 3 0 0
+3
+9 ElectricalMachineDesign 3 0 0
+3
+10 AdvancedPowerElectronics 3 0 0
+11 OpticalEngineeringandLaserInstrumentation 3 0 0 3
+3
+12 RenewableEnergyTechnology 3 0 0
+3
+13 SolarPhotovoltaicSystems 3 0 0
+3
+14 NetworkSynthesis 3 0 0
+15 EmbeddedSystems 3 0 0 3
+16 PulseWidthModulationTechnique 3 0 0 3
+17 PowerSystemProtection 3 0 0 3
+18 SmartGridFundamentalswithRenewable 3 0 0 3
+Integration
+19 ArtificialIntelligenceandExpertSystem 3 0 0 3
+18 AdvancedControlSystems 3 0 0 3
+
+--- Page 53 ---
+1. Special Topics in Electrical Engineering I
+Details syllabus and reference will be given in class at the beginning of semester
+2. Special Topics in Electrical Engineering II
+Details syllabus and reference will be given in class at the beginning of semester
+3. Analysis and Control of Electrical Machines
+Introduction to generalized theory: elementary energy converter of Gibbs and Adkins, transformer with
+movable secondary, transformer voltage and speed voltage, transformation from 3-phase to 2- phase,
+stationery axes to rotating axes, transformed impedance matrix, generalized torque equation. Derivation of
+DC machine from generalized machine, performance evaluation of DC machine and speed control. Three
+phase induction motor: transformation methods (stationary, rotor and synchronous frames) and
+correspondingequivalentcircuits.Vectorcontrolanddirecttorquecontrol.ThreePhasesynchronousmotor:
+representation,Parktransformationandcontrol.Permanentmagnetsynchronous motors-machinemodel(d-
+q) and control methods, Switched reluctance motor drive and various power circuit configurations and
+control.
+TextBooks:
+1. P.C.Krause,AnalysisofElectricMachinery,McGrawHill,NewYork,1987.
+2. R.Krishnan, Electric Motor Drives – Modeling, Analysis and Control, Prentice-Hall of India Pvt Ltd.,
+NewDelhi,2003.
+ReferenceBooks:
+1.C.V.Jones,TheUnifiedTheoryofElectricalMachines,Butterworth,London,1967.
+2.P.Vas,VectorControlofA.C.Machines,ClarendonPress,Oxford1990.
+4. Power Plant Engineering
+Theintroductionofthevarioussourcesoftheenergy, principaltypesofthepowerplantsandcombustionof
+fuels, the various cycles used in power plants, viz., Rankine cycle, regenerative cycle, binary vapour cycle,
+otto cycle,diesel cycle, duel combustion cycle, gas turbine cycles. Description of different aspects of steam
+power plant,layout of a modernsteam power plant, fuel handling, combustion equipment for steam boilers,
+ash handling, dust collection, chimney draught, boiler accessories, steam nozzles, steam turbines, cooling
+towers, cooling ponds etc. IC engines used in such a plant and essential components of diesel power plants,
+combustion phenomenon in IC engines, its related topics, layout of a diesel engine power plants, general
+aspects of gas turbine used in such a plant along with the description of gas power cycle used in such
+turbines,operationofgasturbines,gasturbinespowerplantslayout.Elementsofhydro-electricpowerplant,
+hydro- electric turbines, plant, layout, hydro-electric plant controls, hydrology. General aspects of nuclear
+engineering, nuclear power systems, nuclear reactors and their description, nuclear energy, advantages of
+combined operation of plants, load division between power stations, hydro-electric plant in combination
+with steam or nuclear power plants, co-ordination of hydro-electric and gas turbine stations, co-ordination
+ofdifferenttypesofpowerplants.
+TextBooks:
+1.M.M.El-Wakil,PowerplantTechnology,McGrawHill
+2.Arora&Domkundwar,ACourseinPowerPlantEngineering,DhanpatRai
+ReferenceBooks
+1.B.G.A.Skrotzki&W.A.Vopat,PowerStationEngineering&Economy,TataMcGrawHill
+2.M.V.Deshpande,ElementsofElectricalPowerStationDesign,Wheeler
+Coursesobjective:
+
+--- Page 54 ---
+1. Learn various sources of the energy, principal types of the power plants and combustion of fuels, the
+various cycles used in power plants, viz., Rankine cycle, regenerative cycle, binary vapour cycle, otto cycle,
+dieselcycle,duelcombustioncycle,gasturbinecyclesetc.
+2.LearnDescriptionofdifferentaspectsofsteampowerplant,layoutofamodernsteampowerplant.
+3.Learnthelayoutofadieselenginepowerplants,generalaspectsofgasturbine
+4. Understand basics of hydro-electric power plant, hydroelectric turbines, plant, layout, hydro-electric plant
+controls,hydrology.
+5.LearnGeneralaspectsofnuclearengineering,nuclearpowersystems,nuclearreactorsetc.
+6. Understand advantages of combined operation of plants, load division between power stations, hydro-
+electricplantincombinationwithvarioussources.
+Coursecontent:
+Unit-1
+Introduction: The introduction of the various sources of the energy, principal types of the power plants and
+combustion of fuels, the various cycles used in power plants, viz., Rankine cycle, regenerative cycle, binary
+vapourcycle,ottocycle,dieselcycle,duelcombustioncycle,gasturbinecycles.
+Unit2
+ThermalPowerPlant:Descriptionofdifferentaspectsofsteampowerplant,layoutofa modernsteampower
+plant,fuelhandling,combustionequipmentforsteamboilers,ashhandling,dustcollection,chimneydraught,
+boileraccessories,steamnozzles,steamturbines,coolingtowers,coolingpondsetc.
+Unit–3
+Diesel and Natural Gas Power Plant: IC engines used in such a plant and essential components of diesel
+power plants, combustion phenomenon in IC engines, its related topics, layout of a diesel engine power
+plants, general aspectsof gas turbine usedinsucha plant alongwiththe descriptionof gas power cycle used
+insuchturbines,operationofgasturbines,gasturbinespowerplantslayout.
+Unit–4
+Hydro-electric Power Plant: Elements of hydro-electric power plant, hydroelectric turbines, plant, layout,
+hydro-electricplantcontrols,hydrology.
+Unit–5
+Nuclear Power Plant: General aspects of nuclear engineering, nuclear power systems, nuclear reactors and
+theirdescription,nuclearenergy,Operation,control,safetyandregulationofnuclearpowerplants.
+Unit–6
+Hybrid Power Plants: advantages of combined operation of plants, load division between power stations,
+hydro-electric plant in combination with steam or nuclear power plants, co-ordination of hydro-electric and
+gasturbinestations,co-ordinationofdifferenttypesofpowerplants.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1. Understand the basics of a power plant, classify various types of power plants, understand various forms
+ofenergydeployedinpowerplants.
+2.Understandtheworking,setup,operationandcontrolofvariousthermal powerplants,analyze theirsafety
+hazardsandknowhowtoavoidthem.
+3. Understand the working, setup, operation and control of Natural Gas and Diesel power plants, analyze
+theirsafetyhazardsandknowhowtoavoidthem.
+4. Understand the working, setup, operation and control of various Hydro-electric power plants, various
+typesofturbines,analyzetheirsafetyhazardsandknowhowtoavoidthem.
+5.Understandtheworking, setup,operationandcontrolofvariousNuclearpowerplants,variousgenerations
+ofreactors,analyzetheirsafetyhazardsandknowhowtoavoidthem.
+
+--- Page 55 ---
+6. Understand the working, setup, operation and control of various hybrid power plants, calculate their
+suitability,analyzetheirsafetyhazardsandknowhowtoavoidthem.
+5. Advanced Power systems
+Load frequency control: multi area load frequency control problem and concept of tie line control, speed
+governing system, AVR, AGC, economic operation of power system, introduction- incremental fuel rate
+curves, incremental fuel cost curve, constraints in economic operation of power system, cost function
+control for economic operation of a two area power system. Voltage control: methods of voltage control,
+tapchangingtransformer, HVDC operationandcontrol:CIA, CC andCEA control.Determinationof stable
+operatingpoint. Introduction toFACTS – brief descriptionof various FACTS devices andtheir principle of
+operation, role of FACTS in active and reactive power control. Harmonics in Power Systems – different
+sourcesofharmonics,effectsofharmonicsonpowersystemperformanceandpowerquality.Introductionto
+SCADAandsecuritymonitoring.
+TextBooks:
+1.A.J.WoodandB.F.Wollenberg,PowerGeneration,OperationandControl,2ndedition,JohnWiley.
+2.K.R.Padiyar,HVDCPowerTransmissionSystems–Technology&SystemInteraction,WilleyEastern
+ReferenceBooks
+1.E.W.Kimbark,DirectCurrentTransmission,Vol1,WileyInterscience
+2.N.G.Hingorani&L.Guygyi,UnderstandingFacts,IEEEPress
+6. Process Control & Automation
+Concept of processes and units: process statics, mass and enthalpy balance. Modelling of process dynamics,
+Process control terminology, Modelling of chemical processes. Single loop control of standard first order
+process plants. Controller implementation: Electronic, Analog, Digital, Pneumatic, Hydraulic controllers. P,
+P-I, P-D, P-I-D control, Controller tuning, Ziegler-Nichlol's method. Simulation of process control systems.
+Boiler drum level control. Discrete controllers: Selection of sampling intervals, stability analysis, controller
+design via frequency response analysis,pulse testing technique. Cascade control, Feed-forward control,
+Ratio control, Multi-loop control, Interaction and decoupling non-linear effects in plants and controllers.
+Concepts of Modulating and Sequential control, Structure of Modulating control loops. Self-tuning and
+Multifunction controllers. Control valves, Servo valves. Process Actuators: Electrical, Pneumatic, Hydraulic,
+valve positioners, P-I and I-P converters. Programmable Logic Controllers (PLC), Supervisory Control
+and Data Acquisition (SCADA), Distributed control system: Architecture and loop elements,
+interfacingunits,operatingstations.
+TextBook:
+1.D.Patranabis,Principlesofprocesscontrol,TataMcGrawHill.
+2.D.R.CoughanowrandL.B.Koppel,“ProcessSystemsAnalysisandControl”,Mc-GrawHill.
+3.SurekhaBhanot,ProcessControl-PrinciplesAndApplications,OxfordUniversityPress.
+4.D.E.Seborg,T.F.EdgarandD.A.Mellichamp,Processdynamicsandcontrol,Wiley.
+5.GeorgeStephanopoulos,Chemicalprocesscontrol:anintroductiontotheoryandpractice,Prentice-Hall.
+ReferenceBook:
+1.William L Luyben and Michael L. Luyben, Essential of Process Control, McGraw Hill.
+2.P.Harriot,ProcessControl,McGrawHill,NewYork.
+3.B.G.Liptak,InstrumentationEngineersHandbook,CRCPress.
+4.Mukhopadhay,Sen&Deb,“IndustrialInstrumentation,ControlandAutomation”,JaicoPublishing.
+5.S.K.Singh,ProcessControl:Concepts,DynamicsandApplications,PHILearning.
+6.DouglasMConsidine,Processinstrumentsandcontrolshandbook,McGraw-Hill.
+Coursesobjective:
+
+--- Page 56 ---
+1.Introductiontobasiccomponentsofprocesscontrolloopandindustrialinstrumentationsystem.
+2.Conceptofdifferentprocessesandmodellingofprocessdynamics.
+3. To study the characteristics of different control actions and implementation of different controllers along-
+withcontrollertuningtechniques.
+4.Analyzingthebehaviourofdifferentcontrolactions.
+5. Knowledge about basic components of final control element, characteristics of control valves, different
+typesofcontrolvalvesandprocessactuators.
+Coursecontent:
+Unit-1Introduction:
+Conceptofprocessesandunits:processstatics,massandenthalpybalance
+Unit2Modellingofprocessdynamics:
+Modelling of process dynamics, process control terminology, process instrumentation diagrams, modelling
+ofchemicalprocesses,singleloopcontrolofstandardfirstorderprocessplants.
+Unit–3Controllerandcontrolactions:
+Controller implementation: Electronic, analog, digital, pneumatic controllers. P, P-I, P-D, P-I-D control,
+controllertuning,Ziegler-Nichlol'smethod,frequencydomaindesign.
+Unit–4Complexcontrolactions:
+Cascadecontrol,Feed-forwardcontrol,Ratiocontrol.
+Unit–5Simulationofprocesscontrolsystems:
+Simulation of process control systems, boiler drum level control, discrete controllers: Selection of sampling
+intervals,stabilityanalysis.
+Unit–6ModulatingandSequentialcontrol:
+Concepts of modulating and sequential control, structure of modulating control loops, self-tuning and
+multifunctioncontrollers.
+Unit-7Multiloopinteractions:
+Multi-loopcontrol,interactionanddecouplingnon-lineareffectsinplantsandcontrollers.
+Unit–8Controlvalvesandprocessactuators:
+Controlvalves.ProcessActuators:electrical,pneumatic,hydraulic,valvepositioners.
+Unit–9Industrialinstrumentationsystems:
+Industrialinstrumentationsystems:components,structure,specification,
+Unit–10Selective,AdaptivecontrolandSupervisorycontrol:
+Selective control systems, Self tuning and adaptive controllers. Supervisory control: objectives and
+implementation.
+7. Opto-electronics Instrumentation
+Introduction toelectromagnetic fieldtheory: Ray andwave optics, Reflection andtransmission coefficients,
+Zero reflection condition. Modulators-Intensity, Polarization: Types of polarization, Polarization crystals.
+Birefringence, Isotropic and anisotropic media, Direct and indirect bandgap semiconductors. Phase, Read
+out schemes for modulation-polarimeter, Interferometer: Febry-perot interferometer, Finesses,
+Transportation media. Wave plates: Half wave plate, quarter wave plate, higher order wave plate. Optical
+fiber as a cylindrical wave guide, waveguide equations, Boundary conditions for cylindrical waveguide,
+Waveguide theory-slab waveguide, scalar wave equation. Opto-electronic devices: Sources-LED,
+Broadband calibrationsources, Detectors-Photodiodes, PIN photodiodes, Photomultiplier tube, APD, Laser,
+Classifications of laser with its useful applications, Three level and Four level lasers, Laser diode, Optical
+fibreCharacteristics:absorptionanddispersion,Cylindricalwaveguide,PANDAfiber,Fibreopticpolarizer,
+attenuator, copler and polarization splitter, Gaussian beam, Bessel beam, Brewster angle, GRIN lens, Fiber
+Bragggrating, LongfiberBragggrating,Braggreflection,Dispersion,Typesofdispersion.Distributedfiber
+optic sensors: OTDR and OFDR principles in temperature measurement, Stress, strain and temperature
+measurementusingfiberopticsensors,Microbendsensor,Fiberopticgyroscope:Principleandapplications,
+
+--- Page 57 ---
+Bicolour thermometry. Fiber optic gyro holographic measurement and its biomedical applications,
+Optoelectronic integratedcircuit andintegratedoptics sensor,Optoelectronics sensors andsystem: sensor as
+a modulator, bulk modulator, fibre optic modulator. Sensing principles: electro-optic and magneto-optic
+(polarimetricandinterferometric),magneto-strictionbasedsensors.
+TextBook:
+1.G.P.Agrawal,Fiber-OpticCommunicationSystem,3rdEdition,WileyStudentEdition
+2.Amnon Yariv, PochiYeh , Photonics: optical electronics in modern communications, 6th edition, Oxford
+UniversityPress.
+ReferenceBook:
+1.C.K.Sarkar,OptoElectronicsAndFibreOpticsCommunication,NewAgeInternational(P)Ltd
+2.CliffordR.Pollock,Fundamentalsofoptoelectronics,Irwin
+8. High Voltage Engineering
+Breakdown phenomenon: breakdown in gases - mechanism of breakdown in gases, Townsend’s ionization
+coefficients, Paschen’s Law, time lags for breakdown, streamer breakdown theory. Breakdown in liquids -
+suspended solid particle mechanism, cavitation and bubble mechanism, stressed oil volume mechanism, etc.
+Breakdown in solids - intrinsic breakdown, electromechanical breakdown, breakdown of solid dielectrics in
+practice, chemical and electrochemical deterioration and breakdown, breakdown due to treeing and tracking,
+breakdownduetointernaldischarges.
+Basic idea about protection against overvoltage - lightningarresters, surge absorbers, ground wire, grounding
+practicesetc.BIL,SILoftheequipments,v-tcurve,conceptsofinsulationcoordination.
+Generation of high ac & dc voltage: high ac voltage generation – testing transformer and its cascaded
+connections. Single phase resonant circuits. High dc voltage generation- single stage and multi stage voltage
+multipliercircuits.
+Impulse voltage and current generation: introduction to impulse current and voltage, impulse generator
+circuits,analysisofcircuit“a”and“b”.
+Measurement ofhighvoltage andcurrent:electrostaticvoltmeter,ChubbandFortescuemethodofmeasuring
+peak value of a.c., sphere gap method, rod gap method of measuring high voltage, impulse voltage
+measurementusingpotentialdividers,impulsevoltageandcurrentmeasurementusingCRO.
+High voltage testing: Testing of overhead line insulators, bushing, power transformer, circuit breakers,
+Testingoftransformeroil,lossindielectric,measurementofresistivity,dielectricconstantandlossfactor.
+TextBooks:
+1.C.L.Wadhwa,HighVoltageEngineering.
+2.M.SNaidu&VKamaraju,HighVoltageEngineering.
+ReferenceBooks:
+1.E.KuffelandWSZaengl,HighVoltageEngineering-Fundamentals,PergamonPress.
+2.Alston,HighVoltageTechnology,OxfordUniversityPress.
+CoursesObjective:
+1: Understand breakdown phenomena in gases, liquids and solids. To understand effects of non-uniform
+fields,partialbreakdownandcorona.
+2: Elucidate different methods used for the generation of high voltages and currents of power frequency and
+impulse.
+3: Elucidate the concepts used for the measurement of high voltages and currents and design corresponding
+circuits.
+4:UnderstandhighvoltagetestingtechniquesfordifferentdielectricmaterialandPowerapparatus.
+5: Understand causes of over voltages in Power systems. Design the layout of substations and to know the
+conceptsofinsulationcoordination.
+Coursecontent:
+Unit1: Introduction,ElectricFields,Breakdownofgaseousmedium
+
+--- Page 58 ---
+The purpose and objective of studying HVE. Introduction to the subject. Voltage Levels, Uniform and non-
+uniform fields, Electrical Insulations and Dielectrics, breakdown phenomenon of gaseous medium,
+electronegativegases,corona.
+Unit2:BreakdowninLiquidandSolid
+Liquids as insulators, different liquids, major characteristics influencing dielectric properties. Different
+theories for breakdown: suspended particle, cavity theory, thermal and electro-convection mechanisms.
+Different soliddielectricscommonlyusedinpractice. Differentbreakdownmechanismsinsoliddielectrics:
+intrinsic,electromechanical,treeingandtracking,thermal,electrochemicalandinternaldischarges.
+Unit3:Generationof HighVoltages
+Methods of generation of Power Frequency high voltage: HV low power transformers, Cascaded
+transformers,ResonanceTransformers. GenerationofhighDCvoltage:Multistage Cockroft-Walton Voltage
+Multiplier,RippleandRegulation. Impulse Generator:AnalysisofSingleStage Circuit,MultistageImpulse
+Generator,TriggeringMethods.
+Unit4:MeasurementofHighVoltage
+PotentialDividers, theirtypesandapplications. Measurement of acanddc.ACPeakandRMSHighVoltage
+measurement techniques using: sphere gap breakdown, rod gap breakdown, CVT, Electrostatic Voltmeter.
+ImpulseVoltagemeasurementusingCRO.Measurementofcurrents:HallSensor,Electro-opticalSensor.
+Unit5: HighVoltageTesting
+Measurable properties ofdielectrics:dc resistivity, dielectricconstant,loss factor. Measurement ofDielectric
+properties with HV Schering Bridge, Wagner earthing. HV Testing of equipment and apparatus: Type tests
+andRoutinetests,Differentcommontests.
+Unit6:OvervoltagesinPowerSystemsandInsulationCoordination
+Internal: System transients, Arcing ground. External: Lightnings: Different theories for lightning: Wilson
+theory, Simpson theory. Insulation Coordination and overvoltage Protection: BIL - SIL, V-t Curve, Horn
+gap,Surgediverter,Shieldwire.
+CourseOutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1. Understand breakdown phenomena in gases and to elucidate the concepts used for the generation of high
+voltagesandcurrents.
+2. Elucidate the techniques used for the generation and measurement of high voltages and currents in Lab
+fromavailable415/240Vsource.
+3. Understand high voltage testing techniques of Power apparatus and causes of over voltage in Power
+systems.
+4. Understand the layout of high voltage substations and to know the concepts of overvoltage protection and
+insulationcoordination.
+9. Electrical Machine Design
+Designing an electrical machine – a paradigm shift from studying an electrical machine; converting &
+expressingelectrical quantities andequations involvinglength, breadth, cross-section, etc, specifications for
+commencing a design; the three major sub-areas: electromagnetic, thermal & mechanical; use of empirical
+formulas, use of assumed constants, lack of clear mathematical relations make designing a repetitive task;
+no optimum but optimal design; use of computers. Transformer: initial values to be assumed, core design,
+windowdimensiondesign, yoke design, overalldimensiondesign, LV windingdesign, HV winding design,
+checking the design output with specification: calculation of resistance, reactance, losses, efficiency,
+regulation,noloadcurrent,designingcoolingsystem.Rotatingmachine:generalconceptsandconstraintsin
+design of rotating machines; output equation in terms of main dimensions, specific magnetic & electric
+loadingsandspeed;factorsaffectingthesize ofmachines;choicesofbothspecificloadings;separationofD
+& L for different types of machines. Output equation of induction motor – choice of average air gap flux
+density – choice of ampere conductor per metre - main dimensions –stator winding design – stator slots
+
+--- Page 59 ---
+design – stator teeth & core - rules for selecting rotor slots of squirrel cage machines – design of rotor bars
+& slots – design of end rings – design of wound rotor -– magnetic leakage calculations – leakage reactance
+of poly phase machines- magnetizing current - short circuit current – circle diagram - operating
+characteristics.
+TextBooks:
+1.MGSay,PerformanceandDesignofacmachines,CPSPublishers
+2.S.K.Sen,PrinciplesofElectricalMachineDesignwithComputerProgrammes,OxfordandIBH
+PublishingCo.PvtLtd.
+ReferenceBooks:
+1.R.K.Agarwal,PrinciplesofElectricalMachineDesign,S.K.Kataria&Sons
+2.A.K.Sawhney,ACourseinElectricalMachineDesign,6thedition,DhanpatRaiandSons
+Coursesobjective:
+1. To understand the significance of magnetic flux, magnetic circuits with and without airgaps for electrical
+machines
+2. To design inductors and small transformers for different applications: DC-DC Converters, Fluorescent
+lampchoke,Powersupplyset.
+3.Todomagneticdesignsforathreephasetransformertofindalldetailsofcore
+4. To do electrical designs to determine no of turns, selection of conductors, type of windings. To compute
+performancesofthedesigndonewithrespecttofullloadlosses,noloadcurrent,etc.andtocomparewith
+the specifications and hence to decide about where and how much modifications are necessary for
+improvingperformancestomatchspecifications
+5.Todothermaldesignbydecidingcoolingmethodrequiredandtodesignthat
+6. To study the basics of design of rotating machines with designing main dimensions of a three phase
+InductionMotor.
+Coursecontent:
+Unit-1Introduction:
+Comparison of studying Electrical Machines and studying Electrical Machine Design. Machine Design
+involves all activities required to manufacture a machine from required data as given by the customer’s
+specifications. Machine design is a team work and needs interactions and cooperation within a team and
+amongteams.
+Unit-2 Revisitingmagneticcircuitanalysis:
+Revisiting magnetic circuit analysis for ampere-turns, core flux, and air-gap flux. Designing Inductors for
+differentapplicationslikeDC-DCConvertersandFluorescentlampchoke
+Unit-3 Magneticdesignofatransformer:
+Magneticdesignofatransformer:choiceofcorematerialandmaximumfluxdensity,designingemfperturn,
+no. of turns of all windings, to design main dimensions, window details – deciding height and width of
+windows,coreandyokedesign,useoflaminationsandsteppeddesigns.Usecomputersforcomputations
+Unit-4 Electricdesignsofatransformer:
+Designing winding types, choice of current densities and selection of conductor cross-section areas and
+determining bare sizes and sizes after insulation, Finally refining current densities with final sizes, verifying
+window area free space with designed conductor sizes, finding resistances and leakage reactances of
+windings, estimatingpossible regulation, lossesandefficiencywithdesigneddata andtoverifywhether they
+are withinthelimits of specification. To redothe parts of designs incases of limit violations. Use computers
+forcomputations
+Unit–5 Thermaldesigning:
+Different types of cooling e.g. ONAN, ONAF, etc., different classifications of insulations based on
+temperature, Designing tank size, designing extra cooling surface required and designing cooling tubes,
+checkingtemperatureriseandtokeepitbelowthespecifiedvalue.Usecomputersforcomputations
+
+--- Page 60 ---
+Unit–6 Introductiontorotatingmachinedesigning:
+IntroducingthreephaseInductionMotor design,Specificmagneticloadingandcurrentloading. Determining
+main dimensions, Differences in flux distribution due to air-gaps, armature slots and teeth, flux density
+concentrationatteeth, dependence of specific loadings onmaindimensions, separationof D andL,Standard
+framesandchoiceofframes.
+CourseOutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Designandfabricatesmallitemslikeinductorsandsmalltransformersfordifferentapplications.
+2.PreparespecificationsnecessarytopurchaseanElectricalMachine.
+3.DesignaTransformerfromthebuyer’sspecifications.
+4.DesignanInductionMotorfromthebuyer’sspecifications.
+10. Advanced Power Electronics
+Analysis of ac to dc, dc to ac, dc to dc converters; applications of state space averaging techniques, small signal
+modelling, control issues. Switched mode rectifier- operation of single/ three phase bilateral bridges in rectifier mode.
+Design of high frequency transformers and inductors. Introduction to resonant converters, Classification of resonant
+converters, Basic resonant circuit concepts, Load resonant converter, Resonant switch converter. Zero voltage
+switching,zerocurrentswitching,clampedvoltagetopologies.
+TextBook:
+1.RobertW.Ericson,FundamentalsofPowerElectronics,Chapman&Hall
+2.NedMohan,UndelandandRobbin,PowerElectronics:converters,Applicationanddesign,JohnWileyandsons.
+3.L.Umanand,PowerElectronics:essentialsandapplication,Wiley
+ReferenceBook:
+1.Bose,BimalK,PowerElectronicsandACDrives,Prentice-HallIndia
+11. Optical Engineering and Laser Instrumentation
+Opticalfieldsandwaves-their interactionwith bulkand structuredmatter: Engineeringprinciplesforopticalmaterials,
+componentsandsystems.Laserandtheirrelatedtechnologies,Principleanddevicesonelectro-opticeffect:Phaseand
+amplitude modulation, acousto-optic: A.O. diffraction, modulators, deflectors and magneto-optic effect, Guided
+wave optics and harmonic generation, Methods of Q switching and mode locking, Ultrashort pulse generation, Laser
+basedmethodsandsystemsformeasurementandsensing,interferometry,holography,speckle,fibreandFourieroptics.
+TextBook:
+1. AmnonYariv,PochiYeh,Opticalwavesincrystals:propagationandcontroloflaserradiation,Wiley.
+2.OrazioSvelto,PrinciplesofLaser,Springer.
+ReferenceBooks
+1.PDas,LaserAndOpticalEngineering,Springer
+2.G.P.Agrawal,NonlinearFiberOptics,AcademicPress.
+CourseObjective:
+1. ToexposethestudentstothebasicsconceptsofOptics.
+2. TointroducewithdifferenttypesofElectroopticeffects.
+3. AnalyzetheoperationofElectroopticmodulatorsandapplyinopticalsystems.
+4. Tounderstandthephasematchingconceptalongwithharmonicgeneration.
+5. ToexposethestudentstothebasicsfundamentalsofLASER.
+6. ToprovideadequateknowledgeabouttheapplicationsofLASERindifferentfields.
+
+--- Page 61 ---
+7. Tounderstandtheinteractionprocessofopticalwavewithbulkandstructuredmatter.
+8. Toexposethestudentstothebasicsfundamentalsofpolarization.
+9. ExplaintheprincipleofQ-switchingandmodelocking.
+10. Tounderstandthemethodofpulsegeneration.
+11. Explainthefundamentalsofdifferenttypeofscattering.
+Coursecontent:
+Unit-1
+BasicFundamentalofOptics:
+Overviewofbasicoptics.
+IsotropicandAnisotropicmedium.
+Typesofcrystals:UniaxialcrystalandBiaxialcrystal
+Differenttypesofpolarization:Ppolarization,Spolarization
+RefractiveIndex:ordinaryandextraordinary.
+SecondHarmonicGeneration
+SFG,DFG,OPG
+Conversionefficiency
+Phasematching:CriticalandNon-critical
+Quasi-PhaseMatching
+Unit–2
+Principleofelectro-optics:
+FundamentalofElectro–opticeffect.
+Types of Electro–optic effect: Linear electro–optic effect,Non-linear electro–optic effect, Quadratic electro–
+opticeffect,KerrEffect.
+IndexEllipsoid,Jonescalculus,Millercalculus.
+Energydensityw.r.t EOE.
+EOEin3-axissystemwithelectro-optictensor.
+Linearelectro–opticeffectinuniaxialcrystal.
+Linearelectro–opticeffectinbiaxialcrystal.
+Linearelectro–opticeffectinisotropiccrystal.
+Electro–opticco-efficientfordifferenttypesofmaterials.
+Unit–3
+Devicesbasedonelectro-optics:
+Electro-OpticModulator.
+ClassificationofEOModulator:
+PhaseModulator
+AmplitudeModulator
+PolarizationModulator
+Transverse EOModulator
+Mach-ZehnderModulator
+TravellingwaveModulator
+Unit–4
+Lasersandtheirrelatedtechnologies:
+WorkingprincipalofLaser.
+TypesofLasers.
+3-levellaserand4-levellaser
+AbsorptionandEmission
+
+--- Page 62 ---
+SpontaneousEmission
+StimulatedEmission
+Applicationofdifferenttypesoflasers.
+Unit–5
+Opticalfieldsandwaves:
+Opticalwaves-theirinteractionwithbulkandstructuredmatter.
+Birefringence:NaturalandInduced.
+Focusing&Defocusing.
+Gausslawofelectricfields
+Vectormagneticpotential.
+Interactionoflightwithmetal
+Opticalrectification
+Unit-6
+MethodsofQ-switching:
+Q-switching:ActiveandPassive.
+ONQ-switching,OFFQ-switching,EOQ-switching.
+PeakPowerandIntensityofLaser.
+DifferenttypesofPolarization.
+ApplicationsofQ-switchedLaser.
+AOEQ-switching
+Unit–7
+Ultrashortpulsegeneration:
+Averageenergyofpulse.
+Gradeindexlens
+Intensitydependentrefractiveindex
+Soliton:temporalandSpatial
+Selfphasemodulation
+Selpinducedchirp
+Crossphasemodulation
+Opticalbistability
+modulationintensity.
+Unit–8
+ModelockingTechnique:
+Fundamentalofmodelocking
+KerrlensModelocking
+Non-linearmirrormodelocking
+Non-linearcascademodelocking
+SaturableAbsorber
+Unit–9
+OpticalScattering:
+Ramanscaterring
+Stimulatedramanscattering
+Brillouinscaterring
+Stimulatedbrillouinscattering
+StokesandAnti-stokesScattering
+Courseoutcome:
+1. Students learn basic laser theory, and the the necessary components and control systems that are
+necessary for lasers to be useful in modern optical communication systems. Student’s ability to
+analyseperformanceofdifferenttypeelectro-opticmodulators.
+
+--- Page 63 ---
+2. Student’sabilitytodesigndifferentcavityasperrequirement.
+3. Studentslearnhowtocalculatethepeakpowerandintensityofpulse.
+4. Students are given opportunities to observe the impact of modern telecommunication systems on
+society.
+5. Student’sabilitytodosimulationofparticularproblemthroughMATLAB.
+6. Student’sabilitytowriteagoodtechnicalreport.
+12. Renewable Energy Technology
+Energyresources,reserveandavailabilityofOil,gasandcoalinglobalandnationalcontext.Environmental
+constraints of traditional non-renewable sources. Renewable Energy: need for accelerated growth,
+Technologies for electricity generation: Solar energy: solar fundamentals, solar energy resources, solar PV
+system: components, types, design, and applications; Thermo solar systems. Wind energy system: wind
+energy conversionanddevices,powerfrom thewind, windenergy andenvironment. Hydroelectric system:
+classifications, concepts, benefits of hydel power generation. Tidal energy system: free-flow and dam-type,
+evaluation of tidal energy. Biomass energy generation; Geothermal power plants. Energy storage and
+Energymanagement.
+TextBook:
+1.B.H.Khan,Non-ConventionalEnergyResources,McGrawHill.
+2.J.Andrews,N.Jelley,EnergySciencePrinciples,TechnologiesandImpact,OxfordUniversityPress.
+ReferenceBooks:
+1.D.S.Chauhan,S.K.Srivastava,NonConventionalEnergyResources,NewAgeInt.(P)Ltd.
+2.P.Gevorkian,SustainableEnergySystemsEngineering,McGrawHill.
+Coursesobjective:
+1. Develop knowledge about the different renewable energy sources, energy conversion devices and their
+technologies.
+2. Characterizations and modeling of different renewable energy sources and performance evaluation of the
+systems.
+3.Designandintegrationofrenewableenergysystems.
+4.Relatethedifferentenergy generationtechnologieswithotherengineeringsubjectstoextendtheboundary
+ofresearchareas.
+Coursecontent:
+Unit-1
+EnergyResources: Terminology, MajorEnergy Resources inuse:Resource, Reserve andAvailabilityof Oil,
+GasandCoalinglobalandnationalcontext.EnergyConsumptionDemand:
+Unit2
+Renewable Energy: Need for accelerated growth: availability and environmental constraints of traditional
+non-renewablesources.DemeritsofSolarsources.PVTechnologiesforelectricitygeneration
+Unit–3
+WindPowerplants.Hydroelectricity
+Unit–4
+Biomass;TidalandGeothermalpowerplants,EnergyStorage
+Unit–5
+EnergyManagementandAudit
+Courseoutcome:
+1. Student’sabilitytounderstandtheenergyscenarioinnationalandgloballevel.
+
+--- Page 64 ---
+2. Student’sabilitytounderstandthefundamentalsofvariousrenewableresourcesandsystems.
+3. Student’sabilitytoanalyseperformanceofrenewableenergysystems.
+4. Student’sabilitytodesignenergyprojects.
+5. Student’sabilitytoidentifytheproblemsinthesubjectdomain.
+6. Student’sabilitytounderstandtheenergypolicyandenergysecurityissues.
+7. Student’sabilitytounderstandenvironmentalandsustainabilityissuesofenergysector.
+13. Solar Photovoltaic Systems
+Solar cells, solar PV modules, PV module output as function of temperature and solar radiation, solar
+geometry, availability of solar radiation at a given location, solar PV systems and components, solar PV
+water pumping system, introduction to power electronic devices, off-grid and grid-connected PV systems,
+charge controller, DC-DC converter, DC-AC inverter, maximum power point tracking, energy storage
+options for solar PV systems, design of off-grid PV systems, design of grid-connected PV systems, hybrid
+PVSystems,lifecyclecostanalysis.
+TextBook:
+1.R.A.Messenger,J.Venture,PhotovoltaicSystemsEngineering,CRCPress.
+2.R.Foster,M.Ghassemi,A.Cota,SolarEnergy,CRCPress.
+ReferenceBook:
+1.S.P.Sukhatme,SolarEnergy,TataMcGrawHill.
+2.C.S.Solanki,SolarPhotovoltaics,PrintaceHallofIndia.
+14. Network Synthesis
+Positive real function –synthesis of 2 port, R-L-C networks, cascading and interconnection, bisection
+theorem, synthesis of R-L and R-C filters-Butterworth, Chebyschev, Bessel type frequencytransformations.
+Active networks and synthesis techniques. Synthesis of R-L-C, low pass, high pass, band pass and band
+rejectfilters.Biquadandsimulationofphysicalsystemsandactivenetworks.
+TextBook:
+1.Kuo,FranklinF,NetworkAnalysisandSynthesis,JohnWileyandsons,Singapore,1966.
+2.DRoyChaudhury,NetworkAnalysisandSystems,NewAgeInternational,NewDelhi,1996.
+3.RolfSchaumann,MacEVanValkenburg,DesignofAnalogFilters,OxfordUniversityPress,2001.
+ReferenceBook:
+1.M.E.VanValkenburg,AnIntroductiontoModernNetworkSynthesis,Wiley.EasternLtd..
+2.HarryY.F.Lam,Analoganddigitalfilterdesignandrealization,PrenticeHall
+15. Embedded Systems
+Introduction to Embedded Systems; Embedded Systems Hardware: Processors - Digital Signal Processors,
+Microcontrollers,SpecialPurposeProcessors,I/O devices,interfacingandcontrol- AnalogI/O,DigitalI/O,
+Bus I/O, Serial andNetworkI/O, Memory, Power andDisplayDevices - Reconfigurable and Custom Logic
+Devices, System Hardware Design Case Study; Embedded Systems Software : Introduction to Operating
+Systems, Real Time Operating Systems, Device Drivers; Embedded Systems Application Design and
+Programming Environments : System Specification and Modelling, Programming, Simulation and
+Verification, Performance Analysis and Optimisation; Selected Application Case Studies from areas such
+as : Instrumentation and Signal Processing Systems, Control and Actuation Systems, Power Electronic
+DriveSystemsetc;EmbeddedSystemsTesting.
+
+--- Page 65 ---
+Text/ReferenceBooks:
+1.SantanuChattopadhyay,“EmbeddedSystemDesign”,PHILearningPvt.Ltd.
+2.Andrew N. Sloss, Dominic Symes, Chris Wright. “ARM System Developers Guide: Designing and
+OptimizingSystemSoftware”,Elsevier
+3.Richard Barnett, Larry O’Cull, Sarah Cox, “Embedded C Programming and the Microchip PIC”, Delmar
+CengageLearning.
+4.PLapsley,DSPProcessorFundamentals-ArchitectureandFeatures,ChandPublications
+5.Hamid.A.Toliyat and Steven G.Campbell, “DSP Based Electro Mechanical Motion Control”, CRC Press
+NewYork,2004
+6.WayneWolf,”FPGAbasedsystemdesign“,Prenticehall,2004.
+7.Real-timeSystems-JaneLiu,PH2000.
+16.PulseWidthModulationTechnique
+Purpose of Pulse Width Modulation, Low switching frequency Pulse width modulation, Selective harmonic
+elimination, offline optimized pulse width modulation. Sine-triangle pulse width modulation, Harmonic
+injection pulse width modulation, Bus clamping pulse width modulation.Space Vector based PWM: Concept
+of space vector, Conventional space-vector PWM, Space vector based bus clamping PWM, Space vector
+based advanced bus clamping PWM.Harmonic analysis of PWM technique, Analysis of RMS line current
+ripple. Analysis of DC link current and DC capacitor current in a VSI.Evaluation of conduction loss and
+switching loss in three phase inverter, Design of PWM for reduced switching loss in three phase
+inverter.Effect of dead time on inverter output voltage for continuous PWM scheme and bus-clamping PWM
+scheme.Over-modulation in sine-triangle PWM inverter and in space vector modulated inverter.PWM for
+threelevelneutralpointclampedinverter
+Text/ReferenceBooks:
+1. D. Grahame Holmes, Thomas A. Lipo, “Pulse width modulation of Power Converter: Principles and
+Practice”,JohnWiley&Sons.
+2. BinWu,“HighPowerConvertersandACDrives”,JohnWiley&SonsPublication.
+Coursesobjective:
+1. TounderstandoperationofdifferentPWMconverters.
+2. To acquire in depth knowledge regarding step by step implementation of various PWM methods for
+VSIs.
+3. TolearntheeffectofvariousPWMmethods.
+4. ToexplorethepossibilitiesofmodifyingPWMforbetterefficiencyofPEconverters.
+5. ToanalyseandcomparevariousconventionalPWMmethodsforVSIs.
+Coursecontent:
+Unit-1
+Overview of the PE Converters: Electronic Switches and their V-I characteristics, Basic Operation of DC-
+DC converters, DC-AC converters, Multilevel Converters, Purpose of PWM, Application of Voltage Source
+Converters.
+Unit-2
+Low Switching Frequency PWM: One switching per quarter, Two switching per quarter, Selective
+Harmonicelimination,Offlinepulsewidthmodulation.
+Unit–3
+Triangle comparison PWM: Sine Triangle PWM, Harmonic injection PWM, Bus Clamping PWM etc. For
+1-phaseand3-PhaseVSIandthreelevelNPC.
+
+--- Page 66 ---
+Unit–4
+Space vector based PWM : Concept of Space vector, Conventional SVPWM , Conduction loss, DC Link
+currentcalculation,Analysisoflinecurrentripple,Effectofdeadtime.
+Unit–5
+Other PWMs in perspective of Space Vector PWM : Space Vector based60 degree Bus ClampingPWM,
+Space Vector based 30 degree Bus Clamping PWM, Continual Clamp and Split Clamp PWM, Space vector
+basedAdvancedBusClampingPWM.
+Courseoutcome:
+1. UnderstandtheworkingprincipleandapplicationofvariousPWMconverters.
+2. UnderstandtheimplementationprocessofvariousPWMmethods
+3. CalculatetheswitchingtimedurationofsingleandthreephaseVSIfordifferentPWMmethods.
+4. LearntheadvantagesanddisadvantagesofvariousPWMmethodsapplicabletoVSI.
+5. EvaluatetheperformanceofvariousPWMmethodsapplicabletoVSI.
+17. Power System Protection
+Basic concepts of power system protection, overview of over current, distance, directional, differential
+protection. Protection of generators, transformers, bus bars and transmission lines. Distance protection.
+Computer relaying. Induction motor protection, Digital relays, Microprocessor based relay. Protection of
+distributionDG,specialprotectionscheme.Phasorestimation,wideareaprotection.
+CourseContent:
+UnitI Introduction
+Importance of protective schemes for electricalapparatus andpower system.Qualitative reviewof faults and
+fault currents –relay terminology –definitions –and essential qualities of protection . Protection against over
+voltages due to lightning and switching –arcing grounds-Peterson Coil-ground wires-surge absorber and
+divertersPowerSystemearthing,neutral Earthing-basicideasofinsulationcoordination.
+UnitII OperatingPrinciplesandRelayCharacteristics
+Electromagnetic relays-over current, directional and non- directional, distance, negative sequence and
+differential and under frequency relays –Introduction to static relays.Fundamental principles of protective
+relays , their properties and block diagrams .Single input relays , over current , earth fault and over voltage
+relays .Principle and application of directional over current and earth fault relays .Principle of 2-input
+comparison ,two and multi input comparators . Distance relays & their settings, errors and remedies to
+errors.Differentialrelayscurrentandvoltagecomparison.
+UnitIIIApparatusProtection
+Main considerations in apparatus protection –transformer, generator and motor protection –protection of
+busbars. Transmission line protection –zones of protection .CTs and PTs and their applications in protection
+schemes.
+UnitIVTheoryofCircuitInterruption
+Physics of arcphenomena and arc interruption .DCandAC circuit breaking-re-striking voltage andrecovery
+voltage –rate of rise of recoveryvoltage – resistance switching–currentchopping–interruption of capacitive
+current.
+UnitVCircuitBreakers
+Types of circuit breakers –air blast, air break, oil, SF6 and vacuum circuit breakers-comparative merits of
+different circuit breakers –testing of circuit breakers.Auto re-closing feature –three pole & single pole auto
+
+--- Page 67 ---
+re-closing. Protective relays ,circuit breakers and switchgear are items of an equipment with which every
+powerengineerhastodealwithinthecourseofhis/herprofessionalcareer.Thiscourse willbeveryuseful
+to students preparing for professional examinations as well as to practicing engineers engaged in systems
+protectionwork.
+Courseoutcome:
+Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+1.understandthefundamentalsofprotectionforelectricalapparatusandswitchgear.
+2.understandtheoperatingprinciplesofrelaycharacteristics
+3.haveadetailedknowledgeabouttheprotectionofdifferentapparatus.
+4.haveananalyticalstudyof thetheoryofcircuitbreakersforapplicationpurpose.
+5.haveadetailedknowledgeabouttheinterruptionofcircuitbreakers.
+6.understand the practical application and testing and various precautionary measures of protective devices
+withaviewtoapplyingtheknowledgetosolvepracticalproblems.
+18. Smart Grid Fundamentals with Renewable Integration
+The Smart Grid: Introduction, Why implement the Smart Grid now, Ageing assets and lack of circuit capacity,
+Thermal constraints, Operational constraints, Security of supply, National initiatives, What is the Smart Grid?, Early
+SmartGridinitiatives,Activedistributionnetworks,Virtualpowerplant,Otherinitiativesanddemonstrations,Overview
+ofthetechnologiesrequiredfortheSmartGrid.
+Introduction to Smart Grid Applications: Introduction, Voltage and Var Control and Optimization, Devices for
+Voltage and Var Control, Voltage Dropand Energy Loss in Distribution System, Load Response to Voltage Variations,
+Benefits Potential of Voltage and Var Control Approaches, Communication Requirements, Inclusion of New
+Controllable Resources, Interaction with Applications, Fault Detection, Isolation and Restoration (FDIR), Drivers and
+Benefits of FDIR, Field- Based FDIR Schemes, Control Centre Based FDIR Schemes, Reliability: Present and Future,
+Demand Response (DR), Types of DR Programs, Communication requirement, Statistical Reliability of Demand
+Response.
+Smart Grid Monitoring and Control: Distributed Energy resources (DERs), Operation and Control, Communication
+Requirements, Sustainable Power Grid, Wide- Area Monitoring, Control and Protection (WAMCP), Structure of
+WAMCP system, Overview of WAMCP Application, Stabilizing and Emergency Control Actions, Implementation
+AspectsofWAMCPSystems.
+Smart Grid CommunicationsAndMeasurement Technology:CommunicationandMeasurement, Monitoring, PMU,
+Smart Meters, and Measurements Technologies, Phasor Measurement Units (PMU), Smart Meters, Smart Appliances,
+Advanced Metering Infrastructure (AMI), GIS and Google Mapping Tools, Multiagent Systems (MAS) Technology,
+Multiagent Systems for Smart Grid Implementation, Multiagent Specifications, Multiagent Technique, Microgrid and
+SmartGridComparison
+Performance AnalysisToolsForSmart GridDesign:IntroductiontoLoadFlowStudies,ChallengestoLoadFlowin
+Smart Grid and Weaknesses of the Present Load Flow Methods, Load Flow State of the Art: Classical, Extended
+Formulations, and Algorithms, Congestion Management Effect, Load Flow for Smart Grid Design, Contingencies and
+TheirClassification,ContingencyStudiesfortheSmartGrid.
+Stability Analysis Tools For Smart Grid: Introduction to Stability, Strengths and Weaknesses of Existing Voltage
+Stability Analysis Tools, Voltage Stability Assessment, Voltage Stability Assessment Techniques, Voltage Stability
+Indexing, Analysis Techniques for Steady-State Voltage Stability Studies, Application and Implementation Plan of
+Voltage Stability, Optimizing Stability Constraint through Preventive Control of Voltage Stability, Angle Stability
+Assessment,StateEstimation.
+Computational Tools For Smart Grid Design: Introduction to Computational Tools, Decision Support Tools (DS),
+Optimization Techniques, Classical Optimization Method, Heuristic Optimization, Evolutionary Computational
+
+--- Page 68 ---
+Techniques, Adaptive Dynamic Programming Techniques, Pareto Methods, Hybridizing Optimization Techniques and
+ApplicationstotheSmartGrid,ComputationalChallenges
+Renewable Energy and Storage: Renewable Energy Resources, Sustainable Energy Options for the Smart Grid, Solar
+Energy , Solar Power Technology, Modeling PV Systems, Wind Turbine Systems, Biomass-Bio energy, Small and
+MicroHydropower,FuelCell,GeothermalHeatPumps,PenetrationandVariabilityIssuesAssociatedwithSustainable,
+Energy Technology, Demand Response Issues, Electric Vehicles and Plug-in Hybrids, HEV Technology, Impact of
+PHEV on the Grid, Environmental Implications, Climate Change, Implications of Climate Change, Storage
+Technologies.
+ReferenceBooks:
+1.SmartGrid:FundamentalofDesignandAnalysisByJamesMomoh-WileyPublication
+2.SmartGridTechnologyandApplicationByJanakaEkanayake,KithsiriLiyanage,JianzhongWu,AkihikoYokoyama
+andNickJenkins-WileyPublications
+Coursesobjective:
+1.Tounderstandthesmartgridinitiativesandtechnologyrequirementsinexistingpowersystemnetwork.
+2.Tounderstandsmartgridmonitoring,controlandapplicationsintermsofdemandsideintegration.
+3.To acquaint with different communication and measurement technologies involved with smart grid
+namely:LAN,HAN,NAN,WAMCP,SmartMeter,AMI,PMUsandIEDsetc.
+4.To analyze performance analysis tools in term of load flow studies, congestion management and
+contingencystudies.
+5.Introduction to brief ideas about renewable energy and storage. HEV, PHEV and its impact on grid,
+climatechangeetc.
+Coursecontent:
+Unit-1Introduction:
+TheSmartGrid:Introduction,whyimplementtheSmartGridnow,Ageingassetsandlackofcircuitcapacity,
+Thermalconstraints,Operationalconstraints,Securityofsupply,Nationalinitiatives,WhatistheSmartGrid,
+Early Smart Grid initiatives, Active distribution networks, Virtual power plant, Other initiatives and
+demonstrations,OverviewofthetechnologiesrequiredfortheSmartGrid.
+Unit-2IntroductiontoSmartGridApplications:
+Introduction, Voltage and Var Control and Optimization, Devices for Voltage and Var Control, Voltage
+Drop and Energy Loss in Distribution System, Load Response to Voltage Variations, Benefits Potential of
+Voltage and Var Control Approaches, Communication Requirements, Inclusion of New Controllable
+Resources, Interaction with Applications, Fault Detection, Isolation and Restoration (FDIR), Drivers and
+Benefits of FDIR, Field- Based FDIR Schemes, Control Centre Based FDIR Schemes, Reliability: Present
+and Future, Demand Response (DR), Types of DR Programs, Communication requirement, Statistical
+ReliabilityofDemandResponse.
+Unit-3SmartGridMonitoringandControl:
+Distributed Energy resources (DERs), Operation and Control, Communication Requirements, Sustainable
+Power Grid, Wide- Area Monitoring, Control and Protection (WAMCP), Structure of WAMCP system,
+Overview of WAMCP Application, Stabilizing and Emergency Control Actions, Implementation Aspects of
+WAMCPSystems.
+Unit-4SmartGridCommunicationsandMeasurementTechnology:
+Communication and Measurement, Monitoring, PMU, Smart Meters, and Measurements Technologies,
+Phasor Measurement Units (PMU), Smart Meters, Smart Appliances, Advanced Metering Infrastructure
+(AMI), GIS and Google Mapping Tools, Multiagent Systems (MAS) Technology, Multiagent Systems for
+Smart Grid Implementation, Multiagent Specifications, Multiagent Technique, Microgrid and Smart Grid
+Comparison
+
+--- Page 69 ---
+Unit–5 PerformanceAnalysisToolsforSmartGridDesign:
+Introduction to Load Flow Studies, Challenges to Load Flow in Smart Grid and Weaknesses of the Present
+Load Flow Methods, Load Flow State of the Art: Classical, Extended Formulations, and Algorithms,
+Congestion Management Effect, Load Flow for Smart Grid Design, Contingencies and Their Classification,
+ContingencyStudiesfortheSmartGrid.
+Unit–6 StabilityAnalysisToolsforSmartGrid:
+Introduction to Stability, Strengths and Weaknesses of Existing Voltage Stability Analysis Tools, Voltage
+Stability Assessment, Voltage Stability Assessment Techniques, Voltage Stability Indexing, Analysis
+Techniques for Steady-State Voltage Stability Studies, Application and Implementation Plan of Voltage
+Stability, Optimizing Stability Constraint through Preventive Control of Voltage Stability, Angle Stability
+Assessment,StateEstimation.
+Unit–7ComputationalToolsforSmartGridDesign:
+Introduction to Computational Tools, Decision Support Tools (DS), Optimization Techniques, Classical
+Optimization Method, Heuristic Optimization, Evolutionary Computational Techniques, Adaptive Dynamic
+Programming Techniques, Pareto Methods, Hybridizing Optimization Techniques and Applications to the
+SmartGrid,ComputationalChallenges
+Unit–8 RenewableEnergyandStorage:
+Renewable Energy Resources, Sustainable Energy Options for the Smart Grid, Solar Energy , Solar Power
+Technology, Modeling PV Systems, Wind Turbine Systems, Biomass-Bio energy, Small and Micro
+Hydropower , Fuel Cell, Geothermal Heat Pumps, Penetration and Variability Issues Associated with
+Sustainable, Energy Technology, Demand Response Issues, Electric Vehicles and Plug-in Hybrids, HEV
+Technology, Impact of PHEV on the Grid, Environmental Implications, Climate Change, Implications of
+ClimateChange,StorageTechnologies.
+Courseoutcome:
+Aftersuccessfulcompletionofthecoursethestudentswillbeableto:
+1.Understandthesmartgridinitiativesandtechnologyrequirementsinexistingpowersystemnetwork.
+2.Understandsmartgridmonitoring,controlandapplicationsintermsofdemandsideintegration.
+3. Will be familiar with different communication and measurement technologies involved with smart grid
+namely:LAN,HAN,NAN,WAMCP,SmartMeter,AMI,PMUsandIEDsetc.
+4.Tobeabletoanalyzeperformanceanalysistoolsintermofloadflowstudies,congestionmanagementand
+contingencystudies.
+5.Willbe introducedtobriefideas aboutrenewable energyandstorage.HEV,PHEV anditsimpact ongrid,
+climatechangeetc.
+19. Artificial Intelligence and Expert System
+Expert Systems (ES): Major Characteristics of expert systems, techniques, rule-based expert systems, knowledge
+acquisition,applications.
+FuzzyLogic(FL):Fuzzysettheory,fuzzyinference,fuzzylogicexpertsystem,fuzzycontrol.
+Neural Networks (NS): Artificial neurons and neural networks, Learning process: error-correction learning, Hebbian
+learning, Boltzmann learning, Competitive learning, Supervised/ unsupervised learning, Perception and multilayer
+perception,Self-organisingKohonennetworks,Hopfieldneuralnetworks,practicalimplementationandapplications.
+Genetic Algorithms (GA): adaptation and evolution, a simple genetic algorithm, genetic algorithms in optimization,
+geneticalgorithmsincontrols.
+Text/ReferenceBooks:
+1. MichaelNegnevitsky,“ArtificialIntelligence:AguidetoIntelligentSystems”,OxfordUniversityPress.
+2. M. Gopal, “Digital Control and State Variable Methods, Conventional and Neuro-Fuzzy Control System”,
+OxfordUniversityPress.
+3. StaurtRusselandPeterNorvig,“ArtificialIntelligence-Amodernapproach”,PHI.
+4. PatrickHenryWinston,“ArtificialIntelligence”,3rdEd.,AdditionWesley.
+5. S.Haykin,“NeuralNetworks:AcomprehensiveFoundation”,Pearson.
+
+--- Page 70 ---
+20. Advanced Control Systems
+Introductory matrix algebra and linear vector space. State space representation of systems, Linearization, Solution of
+state equations, Evaluation of state transition matrix(STM).Simulation of state equation using MATLAB ,SIMULINK
+program, Similarity transformation and invariance of system properties due to similarity transformations, Minimal
+realization ofSISO,SIMO, MISO transfer function .Discretization ofa continuous time state space model. Convert state
+space model to transfer function model using Fadeeva algorithm .Fundamental theorem of feedback control,
+Controllability and Controllable canonical form .Pole assignment by state feedback using Ackermann’s formula,
+controllable canonical form and numerically stable method based on controllable Hessenberg form. Eigen structure
+assignment problem. Linear Quadratic Regulator (LOR) problem and solution of algebraic Rieeati equation using eigen
+value and eigenvector methods, iterative method, and numerically stable algorithm .Controller design using output
+feedback. Observability and observable canonical forms. Design of full order observer using Ackermann’s formula,
+observable canonical form, observable Hessenberg canonical form and Bass Gura algorithm, Duality. Observer based
+controller design. Reduced order observer design. Internal stability of a system. Stability in the sense of Lyapunov,
+asymptotic stability of linear time invariant continuous and discrete time systems. Solution of Lyapunov type equation
+Model decomposition and Decoupling by state feedback. Disturbance rejection, sensitivity and complementary
+sensitivityfunctions,internalmodelcontrol(IMC).
+Text/ReferenceBooks:-
+1. NormanN.Nise,“ControlSystemsEngineering”,10thEditionwiley&son
+2. B.CKuo,“AutomaticControlSystems”,4thEdn.,PrenticeHallofIndia.
+3. W.AWolowich,“Automaticcontrolsystems,basicanalysisanddesign”.
+4. K.Ogata,”ModernControlEngineering“,5thEdition.,PrenticeHall.

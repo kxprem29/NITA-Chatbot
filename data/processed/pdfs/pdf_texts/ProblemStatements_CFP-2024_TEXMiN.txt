@@ -1,0 +1,767 @@
+
+--- Page 1 ---
+Problem Statement for CFP
+2024 (Annexure I)
+SI. No. Categories Deliverables Remarks
+A Mineral Exploration
+(i) Enhance Resource Discoveries
+1. Geological & Geophysical maps on the same scale 3D and 4D maps based on
+1 Deposit Scale Modelling integrated studies.
+2. Better resolution Geological Map using Artificial Algorithm.
+1. Formulation of self-consistent numerical models for the mineralogical
+evolution of fluid chambers in the lithosphere and upper mantle.
+2. Development of 3D optimization tools for joint inversion of data sets
+constrained by petrophysics.
+3. Identification of deep-penetrating faults and crustal suture zones, which are
+important controls on the movement of metal-bearing fluids and, hence,
+Mapping Lithospheric
+2 indicators of prospectivity.
+Architecture
+4. Development of laboratory models to study the fluid-rock interaction,
+resulting in rock deformation and thermal transitions in mineral systems due
+to heat transfer.
+5. Understanding and characterizing the fluid-bearing mineral system
+components with respect to their response to geophysical exploration
+methods.
+1. The goal is to improve our fundamental understanding of the linear and non-
+linear polarization phenomena of natural mineralized porous media at various
+3 Mineral Discrimination
+scales and over the frequency band of 1 MHz to 30 MHz.
+2. The interfacial and textural properties of rocks will be characterized.
+1. Petrophysical data sets of the different metallogenic provinces of India,
+consisting of density, susceptibility, conductivity, resistivity, chargeability,
+4 Petrophysical Data Base
+velocity, location, stratigraphic unit, lithology, weathering, alteration,
+metamorphism, porosity, and geochemical and mineralogical information.
+1. System development & deployment
+Remote Survey Hyper-spectral 2. Mineral mapping and feature extraction for Hyperspectral Imaging (HSI).
+5
+imaging One of the biggest challenges in HSI is determining which types of features
+should be extracted from pixels.
+1. Develop geophysical approaches to rare earth element evaluation.
+2. Conduct geochemical and mineralogical analyses of heavy mineral sand
+samples from both archives and field efforts.
+3. Analyze new and existing data on the samples to evaluate links between
+Rare Earth Elements and Platinum geophysical, geochemical properties, rare earth element content, and local
+6
+Group of Elements geologic processes.
+4. Synthesize geophysical, geochemical, and geological data using AI, and relate
+results to geological processes acting on a regional scale.
+5. Study the dispersion of REE/PGE in secondary environments such as placer
+deposits, weathered horizons, and gossans.
+1. Cross-well tomography maps.
+7 Cross Well Tomography
+2. Integration of these maps with surface maps to reduce uncertainties.
+1. To develop a new passive low-frequency surface wave field test methodology.
+2. To develop a new wave field transformation technique to generate high-
+Development of a Novel Low-Cost
+resolution images of the subsurface from a passive surface wave test.
+Ambient Reconnaissance
+3. To develop a fast and accurate numerical algorithm to model the subsurface
+8 Technique for the Exploration of
+earth.
+Mineral Deposits in Geosciences
+4. To develop an analytical Jacobian-based inverse model.
+and Exploration
+5. To develop a convolutional neural network-based algorithm to predict mineral
+deposits.
+Page 1
+
+--- Page 2 ---
+Problem Statement for CFP
+2024 (Annexure I)
+1. To develop the Underwater Hyperspectral Unfixing algorithm and design a
+prototype for mineral detection.
+Development of an Automated 2. To preprocess the images using a suitable dimensionality reduction technique for
+Mineral Detection System Using subsequent analysis to extract the end members' signatures and estimate the
+9 Underwater Hyperspectral abundance fraction using deep convolutional neural networks.
+Imaging for Deep-Sea Mining in 3. To validate the results obtained using the proposed method with ground truth
+Geosciences and Exploration data.
+4. To implement the developed algorithm in FPGA-based reconfigurable
+computing.
+Developing an Integrative
+1. Development of an automated prototype to assist polarization-sensitive
+Approach to Geophysical
+hyperspectral imaging devices in capturing a large field of view.
+Exploration with Simultaneous
+2. Exploration of mineral content or deposits in test fields using the developed
+Application of Polarization-
+10 system.
+Sensitive Hyperspectral Imaging
+3. Ambient noise recordings with analysis via the horizontal-to-vertical spectral
+and the HVSR Method Assisted by
+ratio technique on sites determined by hyperspectral imaging, and subsequent
+Machine Learning in Geosciences
+correlation using machine learning-based analysis.
+and Exploration
+(ii) Get Real-Time Data
+1. Develop an unmanned aerial vehicle (UAV) capable of carrying up to a 10 kg
+payload (e.g., geophysical instruments, measurement systems) and flying/
+hovering for up to 90 minutes.
+Development of an autonomous 2. Design the craft using materials that do not interfere with the functionality of
+1 multirotor unmanned aerial the instruments being carried as a payload.
+vehicle for geophysical survey 3. Create appropriate interfaces to provide the necessary power for the onboard
+devices during the survey.
+4. Minimize the turnaround time to facilitate easy preparation for the next round
+of surveys.
+1. Interpretational techniques for hyperspectral data.
+2. Hand-held and down-hole analytical instruments.
+2 Drilling Technology
+3. Directional drilling, improved drill bits, and down-hole logging.
+4. Improvements in slim hole drilling and in-situ measurements.
+B. Safe, Smart, and Sustainable (3S) Mining
+(i) Smart Mining
+1. Improve operational efficiency (OE) by optimizing unit operations in mining
+through the application of smart sensors, real-time data acquisition, data
+transfer, and analysis for performance prediction using Cyber-Physical
+Systems (CPS).
+2. Increase machine reliability and availability through continuous condition
+monitoring, online real-time data transfer using suitable sensors and IoT,
+prediction of failures through AI-based data analysis, and implementation of
+routine and preventive maintenance schedules based on machine health
+condition monitoring.
+3. Optimize resources by ensuring optimum machine deployment through
+capturing real-time data on machine downtime, idle time, operational delays,
+Optimization of mining machinery
+1 etc., and analyzing this data using AI.
+and resources using CPS
+4. Optimize energy usage in all activities from mine to mill by capturing unit-
+wise energy consumption data, analyzing it using CPS, and benchmarking
+energy consumption.
+AI-CPS for Optimization of Mining Machinery and Resources:
+5. AI combined with Cyber-Physical Systems (CPS) can optimize mining
+machinery and resources by analyzing real-time data from sensors embedded
+in equipment and mining operations. This allows for predictive maintenance,
+efficient resource allocation, and dynamic scheduling to maximize
+productivity and minimize downtime.
+Page 2
+
+--- Page 3 ---
+Problem Statement for CFP
+2024 (Annexure I)
+1. 3D Simulation & Modelling
+2. Digital Twins: By creating a virtual model that is fed real-time data from the
+field, scenarios can be quickly tested, and operations and production can be
+optimized
+3. Autonomous Drilling
+4. Autonomous Equipment: Greater use of self-controlling machines in harsh
+environments
+5. Reducing environmental impact with AI: Sensors and IoT to monitor
+excavation, extraction, and general mining activities, keeping tabs on the
+2 Mine Simulation Systems spread of waste and harmful materials.
+6. GIS analytical information with graphical representation for better
+understanding and policy making and AI-based decision support system.
+AI-Powered Mine Simulation Systems:
+7. AI-driven simulation systems can model various mining scenarios, including
+equipment deployment, resource extraction, and logistics, enabling miners to
+simulate and optimize operations before implementation. This helps in
+reducing risks, optimizing processes, and improving decision-making.
+1. Development of an effective underground mine communication system for
+dynamic and challenging sub-surface environments: Improved Through-The-
+Earth (TTE) Communications for Underground Mines.
+2. Designing portable communication devices based on UHF frequencies for
+miners in underground coal mines.
+3. Development of Underground Positioning Systems (UPS): Smart portable
+systems for tracking miners, including mine safety monitoring, and alerting.
+4. Creation of a low-cost AI/ML portable RADAR system for monitoring and
+predicting rock and dump slope failures in open-cast mines.
+5. Designing a novel surveillance and evacuation system for underground mine
+Reduce risks: Development of
+safety.
+3 Smart Communication, Sensing
+6. Implementation of Drone, LIDAR, GIS, and Remote Sensing-based Mine
+and Monitoring Technologies
+Surveillance System.
+Development of Smart Communication, Sensing, and Monitoring Technologies for
+Risk Reduction:
+7. AI can be utilized in developing smart communication, sensing, and
+monitoring technologies to enhance safety and reduce risks in mining
+operations. AI algorithms can analyze sensor data in real-time to detect
+potential hazards, monitor environmental conditions, and provide early
+warnings to workers.
+(ii) Safe Mining
+a Major hazard mitigation using CPS
+1. Development of an integrated system for continuous monitoring of indicators
+of spontaneous heating using sensor-based technology, analysis of
+spontaneous heating indices using artificial intelligence (AI) based analytical
+software and activation of control measures including Mass Inertization (N2
+1 Spontaneous combustion of coal
+or CO2), withdrawal of persons etc.
+2. Development of wearable portable sensors for the detection of gases like
+CH4, H2, CO
+3. Detection of portable sensors for detection of hotspot
+1. Development of an Integrated system of continuous monitoring of
+accumulation of inflammable gases in mine atmosphere using sensor-based
+detectors, analysis of explosibility indicators using Artificial Intelligence (AI)
+2 Explosions in coal mines based analytical software and activation of control measures including
+ventilation on demand, withdrawal of persons etc.,
+2. Design and activation of sensor-based explosion barrier to prevent the
+propagation of explosion,
+Page 3
+
+--- Page 4 ---
+Problem Statement for CFP
+2024 (Annexure I)
+3. Design of sensor-based instrumentation for the detection of methane layering
+by sensor-based instrumentation,
+4. Development of portable sensors for the detection of inflammable gases like
+CH4, H2, and CO.
+5. Development of portable sensors for determination of inert content in
+roadway dust.
+1. Development of geophysical method or instrument for identifying the
+presence of water bodies /water logged workings/accumulation of
+unconsolidated material ahead of mine workings, which are inaccessible, and
+analysis of geophysical parameters of the presence of water bodies using AI
+The inrush of huge quantities of for predicting the location of such water bodies.
+3
+water or unconsolidated mass 2. Development of a handheld portable water body detector for proving the
+presence of water bodies immediately ahead of mine workings
+3. Continuously monitoring the inflow of water into mine workings and
+analysing the data using AI to identify the probable hazard of the inrush of
+water.
+1. Development of an integrated strata management system for continuous
+monitoring of strata behaviour and analysing the data using artificial
+intelligence-based software for prediction of failure of strata ahead of time
+2. Development of a handy tool for detecting the presence and location of bed
+separation in roof rock, based on onsite monitoring of geophysical parameters
+of roof rock and digitally expressing the failure by using analytical software.
+3. Development of an integrated strata management system for monitoring the
+strata behaviour by using sensors on the existing support system like
+hydraulic props, powered supports etc. and real-time analysis of monitoring
+Ground failure in Underground
+4 data for prediction of strata behaviour as well as activating the controls on the
+mine workings
+support system as required.
+4. Continuous monitoring health condition of the support system and prediction
+of failure of the support system. Activating alarm for taking action and also
+activating alarm for withdrawal of persons in case of imminent failure
+5. Monitoring behaviour of goaf in caving method of mining, using cavity
+scanner or similar other instruments, analysing data using AI to predict the
+behaviour of caving, like interval and magnitude of periodic weighting, main
+weighting, movement of strata vertically as well as horizontally, impact of
+superimposition of caving panels etc.
+b Minor hazard mitigation using CPS
+1. Development of suitable sensor based portable detector for identifying the
+presence and location of misfired shots by scanning the profile of blasted
+material and using AI for analysis of scanning data
+2. Development of App based tracking system using sensors or tags for ensuring
+human and equipment exclusion zone during blasting in opencast mines.
+Same system may be useful.
+3. Prediction of fly rocks from data of blasting detail using AI
+4. Development of expert system for measurement while drilling (MWD)
+1 Blasting
+technology coupled with AI and machine learning to ensure optimum blast
+design
+AI Optimization for Blasting:
+5. AI can analyze geological data, historical blasting records, and real-time
+sensor data to optimize blast patterns, timing, and explosives usage, reducing
+environmental impact and increasing safety.
+1. Development of Sensor-based proximity detection devices capable of
+detecting the proximity of other equipment and activating an alarm for both
+Collision of mobile equipment or operators.
+2
+hit by machines in UG mines 2. Development of Sensor-based tags or personal wearable devices to send an
+alert signal to the machine operator approaching within the operating zones
+and similar audio-visual alert to the persons approaching the machine.
+Page 4
+
+--- Page 5 ---
+Problem Statement for CFP
+2024 (Annexure I)
+AI-Based Collision Prevention for Mobile Equipment:
+3. AI systems can utilize sensors and machine learning algorithms to detect and
+prevent collisions of mobile equipment in underground mines by providing
+real-time alerts and autonomous control.
+1. Development of suitable technology using geophysical method for detecting
+subsurface unstable areas and application of AI for locating such unstable
+Potholing and collapse of areas.
+important surface structures due to
+AI-Driven Surface Structure Stability Monitoring:
+3 unstable subsurface areas from
+mine workings or subsurface mine
+2. AI can analyze subsurface data, including geospatial information and mine
+fire
+workings, to predict areas prone to potholing and collapse, enabling
+preventive measures to protect important surface structures.
+1. Development of an integrated system for sensor-based continuous monitoring
+of exhaust discharge from the machines like SOx, NOx, CO and DPM,
+Exposure to Diesel Particulate 2. Analysis of data using AI and prediction of concentration of DPM or other
+4
+Matter (DPM) beyond safe limit harmful diesel exhaust and
+3. Automatic activation of mitigating measures like ventilation flow control,
+controlling the movement of diesel vehicles
+1. Development of an integrated system for sensor based continuous monitoring
+of exhaust discharge from the machines like SOx, NOx, CO and DPM,
+analysis of data using AI and prediction of concentration of DPM or other
+harmful diesel exhaust and activation of mitigating measures like ventilation
+flow control, controlling the movement of diesel vehicles
+Exposure to toxic gases beyond
+5
+safe limit
+AI Monitoring for Air Quality and Toxic Gases:
+2. AI-powered monitoring systems can continuously analyze air quality data and
+gas concentrations in underground mines, providing early warnings when
+Diesel Particulate Matter (DPM) or toxic gases exceed safe limits.
+1. Measuring and monitoring of physiological effects of the human body due to
+fatigue, physiological stresses due to working and task conditions, and
+physiological disorders due to lack of proper ergonomic design of machines
+2. Prediction of fatigue level, level of physiological stresses and physiological
+disorders by analysing the data using AI
+3. Activation of machine interlock with digital fatigue detectors.
+Workmen’s Fatigue and
+6
+physiological stresses or disorders
+AI for Fatigue Management and Physiological Stress:
+4. AI algorithms can monitor worker activities, physiological parameters, and
+environmental conditions to detect signs of fatigue and physiological stresses,
+optimizing work schedules and environments to reduce the risk of accidents
+and health issues.
+1. Sensor-based continuous monitoring of structural integrity of complex and
+large-size machines or structures in mines and prediction of failure by
+analysing the data using AI before actual failure.
+2. Sensor-based monitoring of structural stability of heavy machines in mines
+and prediction of loss of stability by analysing data of the physical effects of
+Loss of structural stability and
+structural stability on different parts of machines.
+7 integrity of heavy machines or
+structures in mines
+AI for Structural Integrity Monitoring:
+3. AI can monitor equipment and structural health using sensor data to detect
+anomalies, predict potential failures, and schedule maintenance, preventing
+loss of structural stability and integrity in heavy machines or structures.
+Page 5
+
+--- Page 6 ---
+Problem Statement for CFP
+2024 (Annexure I)
+1. Sensor-based continuous monitoring of structural integrity of complex and
+large-size machines or structures in mines and prediction of failure by
+analysing the data using AI before actual failure.
+2. Sensor-based monitoring of structural stability of heavy machines in mines
+and prediction of loss of stability by analysing data on the physical effects of
+structural stability on different parts of machines.
+8 Dump body stabilizers for tippers
+AI-Enabled Dump Body Stabilizers:
+3. AI systems can optimize dump body stabilizers for tippers by analyzing
+terrain data, load conditions, and vehicle dynamics in real-time, ensuring safe
+dumping operations and preventing accidents.
+(iii) Sustainable Mining
+1. Development of knowledge/method/process to determine the peak gas rate or
+well potential of CBM/CMM well in the exploratory stage and do away with
+the requirement of pilot wells.
+2. Development of knowledge/method/process to deliver robust Mechanical
+Earth Models (MEM) with the integration of geological, geophysical,
+petrophysical, coal reservoir, and production data with coal reservoir
+geomechanics.
+3. Development of structured well-drainage-area based AI models as general
+methane production forecasting tool for coal seam degasification using ML-
+based algorithms.
+4. Development of policy framework and guidelines for the CBM/CMM
+drainage.
+Reducing Green House Gas 5. Development of a technical screening guide system using an artificial neural
+(GHG) emissions, and network (ANN) to assist in the selection of production methods such as
+1
+monetization of methane gas drilling, completion, and stimulation in the CBM/CMM reservoir.
+through CBM/CMM activities 6. Development of Indigenous Pneumatic Controllers for cost-effective
+separation of gas and water in the separator and accurate metering of water.
+7. Development of technology and process that offers economical ways of
+carbon capturing and utilization in enhanced coalbed methane (ECBM)
+operation.
+8. Development of an AI-enabled reservoir surveillance approach for timely
+identification of the reason for any production decline, the reversal of
+production decline by removing wellbore damage, and minimizing shut-down
+of CBM/CMM wells for an extended period.
+9. Development of indigenous permanently mounted sensors in CBM/CMM
+wells to enable smart good technology
+10. Development of cost-effective technologies for treatment and management of
+water and wastewater.
+C. Enhancing mining activities and novel use of minerals/coal
+1. Estimation of the effect of different physical and chemical properties of
+particles on their breakage.
+2. Quantification of different particle processing stages’ effect on comminution.
+3. Strategies for the introduction of efficiency-boosting techniques like
+controlled blasting and particle pre-processing within and around
+1 Extraction Cost Reduction
+comminution circuits.
+4. Development of novel comminution circuits integrated with blasting for
+improving energy efficiency
+5. Development of robust simulators aided by sensor-based online PSA (Particle
+Size Analysers) to reduce the processing cost and even capital cost
+Life extension of mining 1. Development of AI-based prediction model of wear and tear of screen panels,
+2
+equipment grinding media, liners etc.
+Page 6
+
+--- Page 7 ---
+Problem Statement for CFP
+2024 (Annexure I)
+2. Ultra-fast onsite repair of worn out and corroded components of mining
+machinery with the ability to prevent heat-related distortion, and requirement
+of inert gas or vacuum sealed environment
+3. Cost effective way to extend the useful life of mining machineries
+significantly
+1. Sensor-based/Processor controller aided cost-effective, environment-friendly
+3 Deep cleaning of coal technology for deep cleaning of high-ash Indian coal
+2. Report on techno-economic comparison of different deep-cleaning techniques
+1. Development of AI-based CNTs, graphene and graphene oxide for their usage
+as supercapacitors in high-energy storage materials to increase catalytic
+4 Carbon based nanoparticles performance and effective drug delivery in biomedical applications
+respectively.
+2. Mechanistic understanding of nanoparticle synthesis from heterogeneous coal
+1. Sewage sludge as a source of energy
+Urban municipal waste processing
+2. Sensor and AI-based enhanced water recovery from sewage sludge
+5 for energy and precious metal
+3. Pyrolysis char as a source of valuable metals/minerals e.g., phosphate, lead,
+recovery
+mercury, etc.
+Mixing sewage sludge with fine
+1. Sewage sludge as a source of energy.
+coal waste/ carbon anodes/ forest
+2. Proper utilization of coal waste /carbon anodes/ forest biomass to increase
+6 bio-mass to increase calorific
+calorific value.
+value for subsequent use in cement
+3. AI/Sensor based cleaner cement production
+plants
+1. Mine and mineral processing plant water as a source of precious metals
+Recovery of valuable metals from 2. Sensor and Process controller aided treatment of wastewater to make it
+7
+process plant water available for use in agriculture, horticulture, fisheries and if possible, as
+potable water
+1. Application of AI in developing modified scheme for improved dewatering
+performance of Indian red mud slurry
+Holistic utilization of end products 2. Production of dewatered red mud for re-use
+8 to address social and 3. Improved recovery of water from red mud slurry for recycling back to the
+environmental concerns plant to reduce freshwater consumption.
+4. Increased availability of land, reduced pollution of nearby water bodies and
+land area, conservation of nearby forests, etc.
+1. Prediction of water quality degradation and potential aquifer vulnerability in
+down-gradient regions from a hypothetical uranium in situ recovery (ISR)
+Machine Learning Approaches for
+9 operation site.
+Water Quality Testing
+2. Identification of data gaps in mitigating these vulnerabilities, hydrogeological
+characterization, and development of monitoring programs.
+1. Sensor/processor controller aided blending of sal leaves and plant reject
+2. Potential for rural employment generation through the social forestry
+Utilization of Coal Cleaning Plant
+10 programme
+Rejects
+3. Reduction of carbon footprint by utilizing renewable energy sources
+4. Utilization of low-grade coal
+1. Database on the occurrence of REE in Indian coals
+Extraction of Rare Earth Elements 2. Information on the distribution of REE in different by-products of coal
+11 (REE) from coal and its by- utilisation
+products 3. Sensor/processor controller aided technique(s) for the extraction of REE from
+coal at a different stage of preparation and utilisation and comparisons thereof.
+1. Green and Clean method for CO2 and SO2 capture
+2. Sensor-aided monitoring of Carbon capture and formation of conversion
+12 Carbon and Sulphur Capture product
+3. Biofuels from CO2 and SO2 capture
+4. Obtaining carbon credit
+Page 7
+
+--- Page 8 ---
+Problem Statement for CFP
+2024 (Annexure I)
+Early detection and prevention of
+1. Early detection and prevention of spontaneous combustion of coal using UAV
+13 spontaneous combustion of coal
+in coal stockyards, non-active coal mines etc.
+using UAV
+Application of AI in enhancing the
+1. Optimized use of material handling system through AI application
+efficiency of material handling
+14 2. Operating cost reduction
+systems in coal and mineral
+3. Maximizing the operating hours
+processing and process metallurgy.
+AI Techniques for a Multidisciplinary Approach Combining Ore Geology,
+Geochemistry, Hydrogeology, Geometallurgy, Mining Engineering, Geostatistics, and
+Ore geology, geochemistry,
+Machine Learning for the Development of Reactive Transport Simulation Models for:
+hydrogeology, geometallurgy,
+15 mining engineering, and
+1. In Situ Recovery (ISR) of Uranium, REEs, Copper, and Gold from sandstone-
+geostatistics using machine
+hosted and unconformity-associated mineral deposits.
+learning techniques
+2. Predicting the Environmental Footprint of Uranium In Situ Recovery.
+Ministry of Coal
+A. Improvement of safety, health, and environment
+Development of a real-time monitoring system for assessing the health condition
+of support structures and predicting their potential failures, including the
+activation of alarms for immediate evacuation. Evaluation and mitigation of coal
+Ground/strata control /Hard roof
+bumps or rock bursts during the extraction of deep-seated coal seams, and
+1 management in underground
+monitoring the behaviour of goaf using cavity scanners or similar instruments,
+mining
+with data analysis performed through AI. Implementation of hydro-fracturing
+techniques and the use of slow-acting expansion chemicals in drill holes within
+roof strata to induce fractures for managing hard roofs.
+Development of an integrated system and wearable portable sensors for
+continuous monitoring of indicators for spontaneous heating by detecting hotspots
+Prevention and control of and analyzing indices using artificial intelligence (AI)-based analytical software.
+2 spontaneous combustion & fire in Activation of control measures including Mass Inertization (N2 or CO2),
+highly gassy coal seams withdrawal of persons, equipment, etc. Technology development for pre-drainage
+of coal seam methane by inseam/surface-to-inseam gas drainage system and its
+standardization.
+Surface potholing or collapse due Identification of sub-surface unstable areas due to fire or mining-induced cavities
+3
+to subsurface cavities using geophysical methods for stabilizing such areas by remote sealing.
+Measuring and monitoring the physiological effects of the human body due to
+fatigue, physiological stresses from working and task conditions, and
+4 Fatigue management physiological disorders due to the lack of proper ergonomic design of machines.
+Prediction of fatigue level, assessed by analyzing the data using AI. Activation of
+machine interlock with digital fatigue detectors is also a key area.
+Page 8
+
+--- Page 9 ---
+Problem Statement for CFP
+2024 (Annexure I)
+Monitoring of Mine Reclamation & Rehabilitation using remote sensing,
+subsidence monitoring through advanced Geomatic tools (Radar Interferometry),
+application of UAV, tree transplantation, integrated hydrological study for impact
+assessment of mining activities on perennial rivers, biodiversity assessment, and
+Environmental impact and
+5 ecological study of coal mine reclamation/plantation sites following International
+sustainable development
+Union for Conservation of Nature (IUCN) and UNFCCC methodologies.
+Minimization of Diesel Particulate Matter (DPM), etc., are major areas of
+research. It is also necessary to develop technologies utilizing excavation without
+the use of explosives.
+Although energy audit is being conducted regularly, energy efficiency and
+Energy efficiency and optimization remain green areas for research. It is necessary to optimize the energy
+6
+optimization input and output of mining operations to improve efficiency and become an
+energy-efficient industry.
+AI can analyze geological data, monitoring data from sensors, and historical
+AI for Ground/Strata Control in
+7 records to predict ground conditions, manage hard roof formations, and optimize
+Underground Mining
+support systems to ensure safety and stability in underground mining operations.
+AI algorithms can analyze various parameters such as gas concentration,
+AI-Driven Prevention of temperature, ventilation data, etc., to detect early signs of spontaneous combustion
+8
+Spontaneous Combustion and Fire and fire in highly gassy coal seams, allowing for proactive measures to prevent
+and control incidents.
+AI can analyze geospatial data, including satellite imagery, geological surveys,
+and ground monitoring data, to detect subsurface cavities and predict areas prone
+to surface potholing or collapse, enabling preventive measures to be taken.
+AI-Based Surface Cavity Detection and Prevention:
+AI-Based Surface Cavity
+9
+Detection and Prevention
+• AI algorithms can analyze geospatial data, including satellite imagery,
+geological surveys, and ground monitoring data, to detect subsurface cavities
+and predict areas prone to surface potholing or collapse. AI can also suggest
+preventive measures to mitigate risks and prevent accidents.
+AI can monitor operator activities, equipment status, and environmental
+conditions to detect signs of fatigue and optimize work schedules to ensure worker
+safety and productivity.
+AI for Fatigue Management:
+10 AI for Fatigue Management
+• AI algorithms can monitor worker activities, equipment usage, and
+environmental conditions to detect signs of fatigue and physiological stress.
+By analyzing data patterns, AI can optimize work schedules, tasks allocation,
+and rest periods to reduce fatigue-related risks.
+AI can analyze environmental data to assess the impact of mining activities,
+optimize resource utilization, and suggest sustainable practices to minimize
+environmental footprint and comply with regulations.
+AI for Environmental Impact and
+11 AI algorithms can optimize energy usage in mining operations by analyzing
+Sustainable Development
+equipment performance data, scheduling tasks efficiently, and recommending
+energy-saving practices, contributing to cost reduction and environmental
+sustainability.
+Page 9
+
+--- Page 10 ---
+Problem Statement for CFP
+2024 (Annexure I)
+B Alternative use of coal and clean coal technologies
+A carbon nanotube is a seamless cylinder of rolled graphene sheet with high length-
+to-diameter ratio, exhibiting impressive mechanical and electronic properties. Its
+applications span electronics, composites, sensors, catalysts, fuel cells, textiles,
+coatings, optics, and more.
+Graphene, an atom-thick two-dimensional sheet of carbon atoms, is harder than
+diamond yet more elastic than rubber, tougher than steel yet lighter than aluminium,
+with superior electrical and thermal conductivity. Its applications include mechanical,
+thermal, energy storage, coatings, sensors, electronics, catalysis, and biomedicine.
+Coal to activated carbon
+1 (AC)/carbon nanoparticles /carbon Research focuses on converting coal to activated carbon, carbon nanoparticles, CNTs,
+nanotube (CNT) / Graphene and Graphene, along with pilot-scale studies and field implementation.
+AI Optimization for Coal Conversion Processes:
+• AI can optimize the processes involved in converting coal to activated carbon
+(AC), carbon nanoparticles, carbon nanotubes (CNT), and graphene by
+analyzing various parameters such as temperature, pressure, feedstock
+composition, and reaction kinetics, leading to improved efficiency and
+product quality.
+Different technology has been established for CBM resource estimation and few
+technologies are available for the production of CBM/CMM & AMM. It is
+required to have technologies for commercial production of CBM/CMM/AMM.
+AI-Driven Commercial Production Technology for CBM/CMM/AMM:
+Technology for commercial
+2
+production of CBM/ CMM/ AMM
+• AI algorithms can analyze geological data, reservoir characteristics, and
+production parameters to optimize the commercial production of Coal Bed
+Methane (CBM), Coal Mine Methane (CMM), and Abandoned Mine
+Methane (AMM), maximizing gas recovery and profitability.
+Surface & Underground Coal Mapping of Indian Coal for Gasification & Indigenous development of Surface &
+3
+Gasification underground coal gasification technology and field implementation.
+Coal to chemicals, Fertilizer, and Characterization of coal, experimental and simulation studies, Pilot-scale study &
+4
+liquid field implementation.
+Characterization of the site & development of technology to Capture the
+Geothermal heat by Simulation, pilot, and field-scale study.
+AI Optimization for Geothermal Energy Generation:
+Establishment of geothermal
+5
+energy power generation ▪ AI can optimize the establishment of geothermal energy power generation by
+analyzing geological data, reservoir characteristics, and production
+parameters. AI algorithms can predict reservoir behaviour, optimize drilling
+strategies, and enhance energy extraction efficiency.
+Coal may be a substitution for furnace oil. R&D is needed in this field for the
+utilisation of coal as a replacement for furnace oil. Development of
+technology/method for replacement of furnace oil by coal through plasma.
+CO2 Capture, Utilisation &
+6
+AI for CO2 Capture, Utilization & Storage (CCUS):
+Storage
+• AI can optimize CO2 capture processes from industrial emissions by
+analyzing data from sensors and process parameters.
+Page 10
+
+--- Page 11 ---
+Problem Statement for CFP
+2024 (Annexure I)
+Coal may be a substitution for furnace oil. R&D is needed in this field for
+Replacement of furnace oil with
+7 utilization of coal as a replacement for furnace oil. Development of
+coal through plasma
+technology/method for replacement of furnace oil by coal through plasma.
+Coal quality estimation is an important parameter for predicting the future coal
+reserve. An indigenous method is to be developed for Geotechnical
+8 Coal quality estimation Characterization & Coal quality estimation from Borehole Logging Data. Also, a
+method is required to delineate the coal potential zone where it is difficult to access
+the area for exploration.
+Rare earth is one of the essential materials for different electronic use. India is a
+Assessment of Rare Earth
+poor contributor to it the world market, as of date. Assessment of rare earth is one
+9 Elements (REE) in Coal & Non-
+of the prime areas of research in coal & non-coal strata with special emphasis on
+Coal strata
+North Eastern Coalfields.
+Exploration in areas under forest cover or inaccessible areas, different state-of-
+Development of geophysical
+10 the-art geophysical exploration techniques is required to be developed for quick
+exploration techniques
+exploration of any unexplored area.
+AI can analyze various parameters like coal composition, mineral content,
+11 AI-Based Coal Quality Estimation calorific value, etc., from geological data, drilling samples, and historical records
+to estimate coal quality accurately.
+AI algorithms can process geological and geochemical data to assess the presence
+Machine Learning for Rare Earth
+12 and distribution of Rare Earth Elements in both coal and non-coal strata, enabling
+Elements (REE) Assessment
+better resource estimation and mining planning.
+AI can optimize geophysical exploration by analyzing seismic, electromagnetic,
+AI-Driven Geophysical
+13
+and other geophysical data to identify geological structures, mineral deposits, and
+Exploration Techniques
+coal seams more efficiently, leading to improved exploration success rates.
+D Innovation & Indigenization (Under Make-in-India Concept)
+Developing an active method for detecting buried individuals in opencast &
+underground mines.
+Indigenous development of an
+AI-Powered Sensor Networks:
+active method of detecting buried
+1
+humans for opencast and ▪ AI can analyze data from sensor networks including seismic sensors, acoustic
+underground mines sensors, and imaging devices installed in mines. AI algorithms can detect
+patterns associated with human presence and movements, enabling early
+detection of buried humans.
+Indigenization of integrated low-
+power wireless load monitoring,
+Development of a low-power wireless monitoring and tracking system using
+2 gas monitoring, and tracking
+RFID technology for load, gas and tracking in underground mining.
+system using RFID technology for
+underground mining
+Page 11
+
+--- Page 12 ---
+Problem Statement for CFP
+2024 (Annexure I)
+Indigenous Development of IoT-
+Enabled Technology for
+Monitoring, Analysis, and Developing IoT technology for monitoring, analyzing, and interpreting longwall
+3
+Interpretation of Longwall Shield shield pressures to enhance safety and productivity.
+Pressures for Improving Safety
+and Productivity
+Indigenous development of Self-
+contained Breathing apparatus
+(Both closed and open circuit), Developing self-contained breathing apparatus (closed and open circuit), escape
+4
+Escape apparatus, and Reviving apparatus, and reviving apparatus for below-ground and opencast mining.
+apparatus used for below-ground
+and opencast mining.
+Development of an indigenous
+robotic technology for detecting
+5 Creating a robotic technology to detect and extinguish fires in opencast mines.
+firefighting in opencast mines and
+extinguishing the fire
+Development of a technique for
+Artificial Intelligence (AI)/
+Developing a technique using AI/ML and data analytics for an automated mine
+6 Machine Learning (ML), data
+management system.
+analytics for automated mine
+management system
+Development of Mixed reality
+(Virtual reality, Augmented reality Creating a mixed reality solution for underground and opencast mining operations
+7
+& Extended reality) for mining and training.
+(UG & OC) operation & training
+Development of miners Personal
+8 Protective Equipment (PPE) using Developing personal protective equipment for miners using nanotechnology.
+nanotechnology
+Development of a portable
+instrument for detecting bed
+Creating a portable instrument to detect bed separation and minor faults/hidden
+9 separation, and minor faults/
+slips in the roof of coal mines.
+hidden slips in the roof of coal
+mines.
+AI algorithms can analyze data from sensors such as seismic, acoustic, or imaging
+Machine Learning for Human
+10 devices to detect buried humans in opencast and underground mines by pattern
+Detection:
+recognition and anomaly detection.
+AI can optimize low-power wireless load monitoring, gas monitoring, and
+AI-Enabled Integrated Monitoring
+11 tracking systems using RFID technology in underground mining by analyzing data
+Systems:
+patterns, predicting potential hazards, and providing real-time alerts.
+AI can be utilized with IoT devices to monitor, analyze, and interpret longwall
+IoT-Based Technology with AI for
+12 shield pressures in real-time, identifying safety risks and optimizing productivity
+Shield Pressure Monitoring:
+through predictive analytics.
+AI can aid in the indigenous development of self-contained breathing apparatus
+AI-driven Development of
+13 (SCBA), escape apparatus, and reviving apparatus for mining by optimizing
+Breathing Apparatus:
+design, materials, and functionality based on safety standards and historical data.
+AI-powered robotic systems can be developed to detect and extinguish fires in
+Robotic Technology with AI for
+14 opencast mines autonomously by analyzing sensor data, identifying fire risk areas,
+Fire Detection and Extinguishing:
+and taking appropriate actions.
+Page 12

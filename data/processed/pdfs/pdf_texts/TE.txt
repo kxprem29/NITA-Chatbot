@@ -1,0 +1,2675 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+CIVIL ENGINEERING
+Specialization in
+TRANSPORTATION ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+TRIPURA (WEST), INDIA
+PIN: 799046
+
+--- Page 2 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+PREFACE
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology (M. Tech) in seven
+different specializations viz, Environmental Engineering, Geotechnical Engineering, Hydro-Informatics
+Engineering, Structural Engineering, Seismic Science and Engineering, Transportation Engineering and Water
+Resources Engineering.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits and 2000 marks.
+Semester wise distribution of course and credits are as follows: First semester: 25 credits and 800 marks for five
+theory subjects (comprises basic core, core and elective subjects), two laboratory subjects and seminar; Second
+semester: 25 credits and 800 marks for four theory subject (comprises basic core, core and elective subjects), two
+laboratory subjects, comprehensive viva-voce and project preliminaries; Third semester: 10 credits and 100 marks;
+and Fourth semester: 20 credits and 300 marks. Third and fourth semester of PG courses will be fully devoted to
+project works. Minimum requirement of number of class hours for each theory course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester. Each theory subject
+in a semester is evaluated for 100 marks, with the following weightages. Sub-component weightage: Continuous
+evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5 Marks, Class test: 10 Marks, Assignment: 10 Marks); Mid-
+semester Examination: 20 Marks; and End-semester Examination: 50 Marks
+The course curriculum of M Tech Transportation Engineering programme is designed considering the following
+six Programme Outcomes (POs).
+PO1:An ability to independently carry out research /investigation and development work to solve practical
+problems.
+PO2:An ability to write and present a substantial technical report/document.
+PO3:Students should be able to demonstrate a degree of mastery over the area as per the specialization of the
+program. The mastery should be at a level higher than the requirements in the appropriate bachelor program
+PO4:An ability to identify, formulate and solve Transportation Engineering related problems using advanced
+level computing techniques
+PO5:An ability to understand the impact of Transportation Engineering solutions in a global, economic,
+environmental and societal context
+PO6:Ability to demonstrate the knowledge oftransportationengineering and management principles and apply
+these to multidisciplinary environments.
+The course curriculum of M Tech Transportation Engineering programme is also designed considering two
+Program Specific Outcome (PSOs).
+PSO1: Analysis, design, investigation of complex problems in ways which are sustainable and environmental
+friendly.
+PSO2: Handling of any Civil Engineering projects ethically either as an individual or as a team.
+TE 1 |P a g e
+
+--- Page 3 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Expert opinions are being taken in regular basis in order to improve the quality of teaching learning process and
+to attain the programme outcomes efficiently.
+In the Final year of M.Tech programmes (Third and Fourth Semesters) students may also opt for industrial
+research. If any student desire to pursue his/her research in reputed industries, he/she may be allowed to do so,
+provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such industry bodies.
+b. The selected industry needs is approved by the DPPC of the concerned Department.
+c. The student selects one supervisor from industry and another supervisor from the Institute.
+d. If any student opts for such industrial research he/she will not receive any scholarship from the institute
+in this tenure, even if he/she wants to return back. In such cases the student will be allowed to complete
+his/her project in the institute but without any scholarship.
+TE 2 |P a g e
+
+--- Page 4 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+CONTENT
+FIRST SEMESTER
+Page No.
+Sl. No. Subject
+Basic Core
+1 TE 8- TE 10
+PCE31B01: Pavement Materials
+Core Subject-I
+2 TE 11 – TE 13
+PCE31C01: Urban Transportation Planning and Management
+Core Subject-II
+3 TE 14 – TE 16
+PCE31C02: Traffic Engineering Operation & Management
+Elective Paper-I (Any One)
+TE 17 – TE 19
+PCE31E01: Advanced Mathematics
+4 PCE31E02: Traffic Safety TE 20 – TE 22
+PCE31E03 : Highway Construction Practice TE 23 - TE 25
+PCE31E04: Airport Planning & Design TE 26 – TE 28
+Elective Paper-II (Any One)
+TE 29 – TE 31
+PCE31E05: Intelligent Transportation System
+5 PCE31E06: Geographical Information System & its application TE 32 – TE 34
+PCE31E07: Mechanics of Soil TE 35 – TE 37
+PCE31E08: Railway Transportation System TE 38 – TE 40
+6 PCE31P01: Pavement Engineering Laboratory-I TE 41 – TE 43
+7 PCE31P02: Traffic Engineering Laboratory TE 44 – TE 45
+8 PCE31P03: Seminar TE 46
+SECOND SEMESTER
+Basic Core
+1 TE 48 – TE 50
+PCE32B01:Analysis & Design of Pavements
+Elective Paper-III (Any One)
+2 TE 51- TE 53
+PCE32E01:Geometric Design of Transportation Facilities
+PCE32E02: Ecology & Environmental Impact Assessment TE 54 – TE 57
+PCE32E03: Geo-environmental Engineering TE 58 – TE 59
+Elective Paper-IV (Any One)
+TE 60 – TE 62
+PCE32E04: Bridge Engineering
+3
+PCE32E05: Pavement Evaluation, Rehabilitation and Maintenance TE 63 – TE 65
+PCE32E06: Urban Mass Transit Planning, Operations and Management TE 66 – TE 67
+Elective Paper-V (Any One)
+TE 68 – TE 70
+PCE32E07: Ground Improvement Technique
+4
+PCE32E08: Finite Element Method TE 71 – TE 73
+PCE32E09: Advanced Traffic Engineering TE 74 – TE 76
+5 PCE32P01: Project Preliminaries TE 77
+6 PCE32P02: Pavement Engineering Laboratory II TE 78 – TE 80
+7 PCE32P03: Computer Oriented Design Lab TE 81 – TE 82
+8 PCE32P04: Comprehensive Viva-voce TE 83
+THIRD SEMESTER
+1 PCE33P01: Project & Thesis - I TE 84
+FOURTH SEMESTER
+1 PCE34P01: Project & Thesis - II TE 84
+TE 3 | P age
+
+--- Page 5 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Syllabus: M.Tech. (Transportation Engineering)
+FIRST SEMESTER No. of Classes/Week
+Total
+Sl. Marks
+Subject Lecture Tutorial Practical Credits
+No.
+Basic Core
+1 03 01 00 4 100
+PCE31B01:Pavement Materials
+Core Subject-I
+2 PCE31C01:Urban Transportation Planning 03 01 00 4 100
+and Management
+Core Subject-II
+3 PCE31C02:Traffic Engineering Operation & 03 01 00 4 100
+Management
+Elective Paper-I (Any One)
+PCE31E01:Advanced Mathematics
+4 PCE31E02: Traffic Safety 03 01 00 4 100
+PCE31E03: Highway Construction Practice
+PCE31E04: Airport Planning & Design
+Elective Paper-II (Any One)
+PCE31E05: Intelligent Transportation
+System
+5 PCE31E06: Geographical Information 03 01 00 4 100
+System & its application
+PCE31E07: Mechanics of Soil
+PCE31E08: Railway Transportation System
+PCE31P01: Pavement Engineering
+6 00 00 03 2 100
+Laboratory-I
+7 PCE31P02: Traffic Engineering Laboratory 00 00 03 2 100
+8 PCE31P03: Seminar 00 00 02 1 100
+Total 15 05 08 25 800
+TE 4 | P age
+
+--- Page 6 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+SECOND SEMESTER No. of Classes/Week
+Total
+Sl. Marks
+Subject Lecture Tutorial Practical Credits
+No.
+Basic Core
+1 03 01 00 4 100
+PCE32B01:Analysis & Design of Pavements
+Elective Paper-III (Any One)
+PCE32E01:Geometric Design of
+Transportation Facilities
+2 03 01 00 4 100
+PCE32E02: Ecology & Environmental
+Impact Assessment
+PCE32E03: Geo-environmental Engineering
+Elective Paper-IV (Any One)
+PCE32E01: Bridge Engineering
+PCE32E02: Pavement Evaluation,
+3 03 01 00 4 100
+Rehabilitation and Maintenance.
+PCE32E03: Urban Mass Transit Planning,
+Operations and Management
+Elective Paper-V (Any One)
+PCE32E04: Ground Improvement
+03 01 00 4
+4 Technique 100
+PCE32E05: Finite Element Method
+PCE32E06: Advanced Traffic Engineering
+5 PCE32P01: Project Preliminaries 00 00 04 4 100
+PCE32P02: Pavement Engineering
+6 00 00 04 2 100
+Laboratory-II
+7 PCE32P03: Computer Oriented Design Lab 00 00 04 2 100
+8 PCE32P04: Comprehensive Viva-voce 00 00 00 1 100
+Total 12 04 12 25 800
+TE 5 | P age
+
+--- Page 7 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+THIRD SEMESTER No. of Classes/Week
+Total
+Marks
+Sl. No. Subject Lecture Tutorial Practical Credits
+1 PCE33P01: Project & Thesis - I 00 00 Full 10 100
+Total 00 00 Full 10 100
+FOURTH SEMESTER No. of Classes/Week
+Total
+Marks
+Sl. Credits
+Subject Lecture Tutorial Practical
+No.
+1 PCE34P01: Project & Thesis - II 00 00 Full 20 300
+Total 00 00 Full 20 300
+TE 6 | P age
+
+--- Page 8 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+SYLLABUS FOR M.TECH(Transportation Engineering)
+FIRST SEMESTER
+Total
+Sl. No. Name of the Subject L T P Periods/ Credit Marks
+Subject Code
+week
+01 PCE31B01 Pavement Materials 03 01 × 04 4 100
+Urban Transportation Planning and
+02 PCE31C01 03 01 × 04 4 100
+Management
+Traffic Engineering Operation &
+03 PCE31C02 03 01 × 04 4 100
+Management
+04 PCE31E01-04 Elective Paper-I 03 01 × 04 4 100
+05 PCE31E05-08 Elective Paper-II 03 01 × 04 4 100
+Practical/Sessional
+Total
+Sl. No. Subject Code Name of the Subject L T P Periods/ Credit Marks
+week
+06 PCE31P01 Pavement Engineering Lab-I 00 00 03 03 4 100
+07 PCE31P02 Traffic Engineering Laboratory 00 00 03 06 4 100
+08 PCE31P03 Seminar I 00 00 01 02 1 100
+TE 7 |P a g e
+
+--- Page 9 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Pavement Materials
+(PCE31B01)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To study the types of material and their properties available for the construction of pavements.
+2. To understand the behaviour of binders and their importance as a pavement material before and
+after mixing with other ingredient material.
+3. To execute the importance of paving concrete, their behavior during life and after life as recycles
+material.
+4. To be appraise the different techniques used for soil improvement, use of different material during
+improvement of soil etc.
+CourseContent:
+Unit-1
+Classification of soil, soil strength parameters, compaction consolidation, various tests of soil properties for
+highway design; Classification, properties of aggregates, design of aggregate gradation.
+Unit-2
+Bituminous binder-Penetration grade, emulsions, cutback and modified binders. Rheology of bituminous binders,
+modified binders.
+Bituminious Mix design. Marshall Method and Superpave procedure; Design of emulsified mixes, Visco-elastic
+and fatigue properties of bituminous mixtures, resilient modulus of pavement materials.
+Unit-3
+Requirements of paving concrete,design of mixes for recycling of bituminousand concrete pavement surfaces.
+Unit-4
+Soil stabilization techniques; Use of alternative material–fly ash, rice husk, geotextiles etc.
+Course Outcome:
+1. Students will be able to enumerate the types andquality of different material required for pavement construction
+(K1).
+2. Students will be able to describe the requirement of binders in paving mix, their importance in mix design etc.
+They will also learn the techniques of different mix design procedures(K2).
+3. Students will be able to illustrate the paving concrete, re-use of materials when the lifecycle of the material is
+over (K3).
+4. Students will be able to formulate the different soil stabilization techniques. They will be expert in choosing
+different material useful for soil improvement required for better pavement construction (K6).
+TE 8 |P a g e
+
+--- Page 10 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs& POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to enumerate the types and quality of different material
+PCE31B01.1
+required for pavement construction.
+Students will be able to describe therequirement of binders in paving mix, their
+PCE31B01.2 importance in mix design etc. They will also learn the techniques of different
+mix design procedures.
+Students will be able to illustrate the paving concrete, re-use of materials when
+PCE31B01.3
+thelifecycle of the material is over.
+Students will be able to formulate the different soil stabilization techniques.
+PCE31B01.4 They will be expert in choosing different material useful for soil improvement
+required for better pavement construction.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31B01.1 3 3 2 3 2 3
+PCE31B01.2 2 3 3 3 2 3
+PCE31B01.3 3 3 2 3 2 3
+PCE31B01.4 2 3 2 3 2 3
+Total 10 12 9 12 8 12
+Average 2.5 3 2.25 3 2 3
+Eq. Av
+3 3 2 3 2 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31B01.1 3 3
+PCE31B01.2 3 3
+PCE31B01.3 3 3
+PCE31B01.4 3 3
+Total 12 12
+Average 3 3
+Eq. AvgAttainment 3 3
+TE 9 |P a g e
+
+--- Page 11 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Reference:
+Sl. No. Name of Books Author Publisher
+1 Highway construction and Maintenance Martin Blackwell Science
+2 Highway Material Testing Khanna & Justo Nem Chand Bros
+Haas, R., Krieger Publishing,
+3
+Modern Pavement Management
+Zaniewski,W.R. Hudson, J.P. company
+Standard specification for
+4 Transportation Material & Method of AASHTO AASHTO
+sampling & TestingEngineering
+TE 10 |P a g e
+
+--- Page 12 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Urban Transportation Planning and Management
+(PCE31C01)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the principles and practices of transportation engineering and urban transportation
+planning.
+2. To introduce travel survey method forunderstanding travel behaviour.
+3. Tointroduce the key concepts of the urbantransportation planning system.
+4. To introduce the fundamental concepts of public transport system such as system, technology and
+quality of service.
+5. Have the capability to identify and solve transportation problems within the context of data
+availability and limitations of analysis tools.
+Course Content:
+Unit-1
+Urban Transportation Problems & Policy:
+Urban transportation Issues, Travel Characteristics, Evolution of Planning Process,Systems approach to urban
+transportation planning concepts; flow chart for transportation planning process.
+Unit-2
+Travel Demand Modelling:
+Travel Attributes, Assumptions in Demand Estimation, Aggregate and Disaggregate Techniques, Activity based
+models.
+Unit-3
+Data Collection and Inventories:
+Data needs for planning process, Use of secondary data. Definition of the study area. Cordon line, screen line,
+Zoning, sample size determination, Data collection techniques. O-D surveys.
+Unit-4
+Travel Demands Forecasting:
+Travel demand estimation; Trip generation analysis-Aggregate analysis, dis-aggregate analysis, Regression
+analysis. Types of regression models-linear, non-linear, multiple regression models. Category analysis. Trip
+distribution analysis. Growth models- Fratar and Furness models. Various forms of the gravity models, Modal
+split analysis, Modelling travel behaviour. Aggregate and Dis-aggregate Models, Probabilistic models-probit and
+logit models. Trip assignment models. Minimum path assignment. All or nothing assignment, Capacity restrained
+assignment.
+Unit 5-Land Use and Transportation
+Urban land use planning-land use and land cover,Land usetransportation interaction; Accessibility and mobility,
+Land use models.
+TE 11 |P a g e
+
+--- Page 13 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Unit-6
+Introduction to Urban Freight Transportation and Urban Mass Transportation Systems.
+Course Outcome:
+1. To identify the issues of transportation planning andtransportation policy (K3)
+2. To be able to apply the knowledge to supervise the process of data collection about travel behavior
+and analyze the data for use in transportationplanning.(K3)
+3. Develop and calibrate modal spit, trip generation rates for specific types of land use developments.
+(K6)
+4. Prepare urban transportation plans.(K6)
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+PCE31C01.1 To identify the issues of transportation planning and transportation policy
+To be able to apply the knowledge to supervise the process of data
+PCE31C01.2
+collection about travel
+Develop and calibrate modal split, trip generation rates for specific types
+PCE31C01.3
+of land use developments
+PCE31C01.4 Prepare urban transportation plans
+Table-2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31C01.1 3 2 3 2 3 3
+PCE31C01.2 3 2 3 2 3 3
+PCE31C01.3 3 2 3 2 3 3
+PCE31C01.4 3 2 3 2 3 3
+Total 12 8 12 8 12 12
+Average 3 2 3 2 3 3
+Eq. Av Attainment 3 2 3 2 3 3
+TE 12 |P a g e
+
+--- Page 14 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31C01.1 4 3
+PCE31C01.2 4 3
+PCE31C01.3 4 3
+PCE31C01.4 4 3
+Total 16 12
+Average 4 3
+Eq. Avg Attainment 4 3
+Reference:
+1. J. de D.Ortuzarand L.G.Willumsen,ModellingTransport, John Wiley and Sons,2001.
+2. C.J.Khistyand B.K.Lall, Transportation Engineering–An Introduction, Prentice Hall of India Pvt. Ltd.,
+2002.
+3. C. S.Papacostasand P. D.Prevedouros, Transportation Engineering and Planning, Prentice Hall of India Pvt.
+Ltd., 2001.
+4.Transit Capacity and Quality of Service Manual, 2nd Edition, Transportation Research Board
+TE 13 |P a g e
+
+--- Page 15 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Traffic Engineering Operation & Management
+(PCE31C02)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the importance of traffic engineering including the knowledge of basic parameters viz. Speed,
+volume, density and their relationship.
+2. To study the various procedure of traffic survey.
+3. To implement the proper parking slots of vehicles in a city.
+4. To create proper management system and operation of traffic in a city.
+Course Content:
+Unit-1
+Traffic Engineering and its importance in development of a country; Traffic Flow parameters Relationship–speed,
+volume, density, capacity.
+Unit-2
+Traffic Survey–speed, journeytime,delay studies; Vehicle volumecounts, classificationand occupancy; Origin
+& destination survey-need for O-Dsurvey,survey methods; Statistical analysis and interpretation of trafficstudies
+--sampling theory and significance testing, linear regression and correlation, Multiple Linear Regression.
+Unit-3
+Parking and Parking Survey – Types of parking- on- street and off-street parking; Need for parking surveys,
+parking space inventory,parking usage survey by patrol, cordon count;
+Traffic Forecasting – need for traffic forecasting, limitation of traffic forecasting, forecasts and mathematical
+models.
+Unit-4
+Traffic management and operation --Traffic signs and signals, Need for Signalization, Hierarchy of Intersection
+Control: Basic Rules of Road, STOP and YEILD Signs, Traffic Signalization. Warrants for Traffic signals,
+Components of Signal Cycle. Types of Signal Operation: Pre-Timed, Semi-Actuated and Full- Actuated
+Operation.
+Streetlighting, road markings and traffic control aids and street furniture.
+Course Outcome:
+1. Students will be able to studythe importance of traffic engineering including the knowledge of basic
+parameters viz. Speed, volume, density and theirrelationship.(K2)
+2.Students will be able to know the variousprocedure of traffic survey including regression analysis.(K2)
+3. Students canimplement the proper parking slots of vehicles in a city. (K3)
+4. Students cancreate propermanagement system and operation of traffic in a city.(K6)
+TE 14 |P a g e
+
+--- Page 16 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to studythe importance of traffic engineeringincluding the
+PCE31C02.1
+knowledge of basic parameters viz. Speed, volume, density and their relationship
+Students will be able to know the variousprocedure of traffic survey including
+PCE31C02.2
+regression analysis
+PCE31C02.3 Students canimplement the proper parking slots of vehicles in a city.
+PCE31C02.4 Students cancreate proper management system and operation of traffic in a city
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31C02.1 3 3 3 2 3 3
+PCE31C02.2 3 3 3 2 3 3
+PCE31C02.3 3 3 3 2 3 3
+PCE31C02.4 3 3 3 2 3 3
+Total 12 12 12 8 12 12
+Average 3 3 3 2 3 3
+Eq. Av Attainment 3 3 3 2 3 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31C02.1 4 4
+PCE31C02.2 4 4
+PCE31C02.3 4 4
+PCE31C02.4 4 4
+Total 16 16
+Average 4 4
+Eq. Avg Attainment 4 4
+TE 15 |P a g e
+
+--- Page 17 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+Sl.No. Name of Books Author Publisher
+1 Fundamentals of traffic engineering C.S Papacostas Prentice-Hall
+Traffic Engineering and Transport
+2 L.R . Kadiyali Khanna Publisher
+Planning
+Roger P Roess, Elena S
+3. Traffic Engineering Prentice Hall
+Prassas
+Principles of Transportation P. Chakraborty & A.
+4. Prentice Hall
+Engineering Das
+TE 16 |P a g e
+
+--- Page 18 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ELECTIVE PAPER-I
+Advance Mathematics
+(PCE31E01)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1 Introduce students to ordinary differential equations and the methods for solving these equations Use
+differential equations asmodels for real world phenomena.
+2 Integrate the knowledge accumulated in the calculus sequence to solve applied problems.
+3 Introduce the fundamentals of Linear Algebra and Complex Analysis.
+4 Provide a rigorous introduction to upper level mathematics which isnecessary for students of engineering,
+physical sciences and mathematics.
+Course Content:
+Unit-1
+Calculus of Variations – Variation and its properties – Euler’s equation – Conditional extreme – Isoperimetric
+problems – Functional dependant on first and higher order derivatives – Functional dependent on functions of
+several independent variables–some applications–Direct methods–Ritz and Kantorovich methods, Euler’s finite
+difference method.
+Unit-2
+Laplace Transforms and Fourier Transforms. Application of Fourier Transform in solving initial and boundary
+value problems. Laplace Equation, Heat equation and wave equation.
+Unit-3
+Hankel’s Transform, elementing properties of Hankel transforms, Hankel inversion and transform theorems.
+d2 f 1 df n2
+Hankel transforms of derivatives of functions. Parsevel’s theorem. Hankel transforms of   f .
+dx2 x dx x2
+Unit-4
+Simulation –Types, case studies in various fields using simulation techniques, simulation softwares used, use of
+mathematical models based on probabilistic and statistical methods.
+Partial Differential Equations – Formation of PDE, Solutions of PDE, Equations solvable by direct integration,
+Linear equations of the first order, Non-linear equations of thefirst order, Charpit’s Method,
+Homogeneous Linear equations with constant coefficient, Non-Homo geneous Linear equations, Non-Linear
+equations of the second order.
+Unit-5
+Solution of Parabolic and Hyperbolic equations – Implicit and Explicit Schemes, ADI methods, Non Linear
+parabolic equations – Iteration method, Solution of elliplic equation – Jacobi method, Gauss - Seidel & SOR
+method. Richardson method, RKF4.
+TE 17 |P a g e
+
+--- Page 19 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Unit-6
+Introduction to finite element method and its scope.
+CourseOutcome:
+1 To utilize various methods for solving ODEs and solve initial value problems, understand the existence and
+uniqueness of such solutions and to Recognize ODEs of varying order and use these to solve problems
+involving population dynamics, oscillation of a spring and resistance in a circuit
+2 Ability to Work with and solve homogeneous and non-homogeneous ODEs and systems of ODEs. Moreover,
+to learn additional methods for solving ODEs includingEuler’s method, the power series method and Laplace
+transforms.
+3 Perform basic operations with matrices, find the inverse of a matrix, determinant of a square matrix, as well
+as eigen values and eigen vectors and investigate associated applications, and touse matrices to solve systems
+of equations.
+4 Express complex numbers in trigonometric and polar form, and to perform operations with complex numbers,
+including finding the roots of unity.
+5 Explore functions of a single complex variable and calculate derivatives of analytic functions
+6 Calculate line integrals in the complex plane, and Study Cauchy-Riemann equations, Cauchy’s integral
+theorem and Cauchy’s integral formula.
+Table 1:To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome
+(CO)
+To utilize various methods for solving ODEs and solve initial value problems,
+understand the existence and uniqueness of such solutions and to Recognize ODEs
+PCE31E01.1
+of varying order and use these to solve problems involving population dynamics,
+oscillation of a spring and resistance in a circuit
+Ability to Work with and solve homogeneous and non-homogeneous ODEs and
+PCE31E01.2 systems of ODEs. Moreover, to learn additional methods for solving ODEs
+including Euler’s method, the power series method and Laplace transforms.
+Perform basic operations with matrices, find the inverse of a matrix, determinant
+PCE31E01.3 of a square matrix, as well as eigen values and eigen vectors and investigate
+associated applications, and to use matrices to solve systems of equations.
+Express complex numbers in trigonometric and polar form, and to perform
+PCE31E01.4
+operations with complex numbers, including finding the roots of unity.
+Explore functions of a single complex variable and calculate derivatives of analytic
+PCE31E01.5
+functions
+Calculate line integrals in the complex plane, and Study Cauchy-Riemann
+PCE31E01.6
+equations, Cauchy’s integral theorem and Cauchy’s integral formula
+TE 18 |P a g e
+
+--- Page 20 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E01.1 3 2 3
+3 3 2
+PCE31E01.2 3 2 2
+2 2 2
+PCE31E01.3 3 2 2
+3 2 3
+PCE31E01.4 3 2 3
+3 3 2
+PCE31E01.5 3 2 3
+2 2 2
+PCE31E01.6 3 2 2
+3 2 1
+Total 16 14 12 18 12 15
+Average 2.67 2.33 2 3 2 2.5
+Eq. AvAttainment 3 2 2 3 2 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E01.1 4 3
+PCE31E01.2 4 3
+PCE31E01.3 4 3
+PCE31E01.4 4 3
+PCE31E01.5 4 3
+PCE31E01.6 4 3
+Total 24 18
+Average 4 3
+Eq. Avg Attainment 4 3
+References:
+1. KreyszigErwin, Advanced Engineering Mathematics, John Wiley & Sons (Asia) Pvt Ltd.
+2. Krishnamurthy & Sen, Numerical Algorithms, Afiliated East-west press private Limited, New Delhi.
+3. Ramana, B. V., Higher Engineering Mathematics, The McGraw-Hill Companies, New-Delhi
+TE 19 |P a g e
+
+--- Page 21 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Traffic Safety
+(PCE31E02)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. Understanding the road safety issues
+2. Analyzing factors causing crashes and countermeasures
+3. Understanding the principles of road safety audit
+Course Content:
+Unit-1
+Highway functions; highway safety: road, vehicle and human factors in crashes, Vehicle and Human
+Characteristics; Vehicle related characteristics; human factors; Non-motorist road users; Engineering
+Components; Road design standards; pavement properties.
+Unit-2
+Planning of road network, land use and road environment for safety, road link design for safety. Safety Analysis:
+Statistical Models, Road crashes: causes,assessment of high collision sites, collision diagram, crash factor matrix,
+preliminary report, crash summary report accident forensic investigation, accident reconstruction; expert witness
+analysis; field studies; safety enhancement projects.
+Unit-3
+Human factors approach: Forgiving designs, safety issues of vulnerable road users: bicycle/pedestrian safety and
+traffic control devices for safety; safety issues in public transport; bus stops and bus bays; Night time driving:
+visibility, road lighting and retro-reflectivity of signs and markings; Safety at Construction zones; Enforcement
+and regulations.
+Unit-4
+Speed Management & safety, Safe systems and the role of speed, Benefits of speed management, tools
+for managing speed, Design of speed management system.
+Unit-5
+Traffic Safety Audits: introduction; description; significance; Institutional framework; Case studies; Field visit;
+Data and its significance: crash data, traffic data, planning data, design data; Crash analysis: temporal and spatial
+distributions; Problem identification and selection of countermeasures: engineering, enforcement and educational
+treatments; Feasibility; Evaluation of safety improvement projects: mathematical and statistical techniques; Case
+studies.
+Course Outcome:
+1. Design different highway facilities and apply relevant highway design standards (K6)
+2. Analyze crash and traffic data employing the appropriate statistical techniques (K5)
+3. Conduct traffic safety studies, identify high-accident locations, and propose crashcountermeasure and
+potential engineering solutions. (K6)
+4. Conduct crash investigation and expect witness analysis (K6)
+TE 20 |P a g e
+
+--- Page 22 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Design different highway facilities and apply relevant highway design
+PCE31E02.1
+standards
+Analyze crash and traffic data employing the appropriate statistical
+PCE31E02.2
+techniques
+Conduct traffic safety studies, identify high-accident locations, and
+PCE31E02.3
+propose crash countermeasure and potential engineering solutions
+PCE31E02.4 Conduct crash investigation and expect witness analysis
+Table- 2
+1. Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E02.1 3 3 3 2 3 3
+PCE31E02.2 3 3 3 2 3 3
+PCE31E02.3 3 3 3 2 3 3
+PCE31E02.4 3 3 3 2 3 3
+Total 12 12 12 8 12 12
+Average 3 3 3 2 3 3
+Eq. Av Attainment 3 3 3 2 3 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E02.1 4 3
+PCE31E02.2 4 3
+PCE31E02.3 4 3
+PCE31E02.4 4 3
+Total 16 12
+Average 4 3
+Eq. Avg Attainment 4 3
+TE 21 |P a g e
+
+--- Page 23 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+1. Kadyali, L.R.,Traffic Engineering and Transport Planning, Khanna Publications, New Delhi5.
+2. Latest Editions of Relevant Indian Roads Congress (IRC) Publications for Geometric Design and Road
+Safety.
+TE 22 |P a g e
+
+--- Page 24 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Highway Construction Practice
+(PCE31E03)
+Total Credits 04 L – T – P 3 – 1 – 0
+CourseObjective:
+1. To study the technique of construction of Embankments, formation and other types of road subgrade, Sub base,
+Base course.
+2. To implement the construction of different bituminous layers of pavement along with use of equipment’s.
+3. To experiment the use of concrete road and other nonconventional material, recycle material etc. in pavement
+construction and the details of contract with the firms.
+4. To formulate the quality control of different construct techniques of hill roads.
+Course Content:
+Unit-1
+Embankment Construction: Formation cutting in Soil and hard rock, Preparation of Subgrade, Application of
+Ground improvement techniques, Retaining and Breast walls on hill roads, Granular and Stabilized, Sub–bases /
+bases, Construction of Water BoundMacadam (WBM) / Wet Mix Macadam (WMM) / Cement treated bases / Dry
+Lean Concrete (DLC), Road Construction Equipment’s;
+Unit-2
+Bituminous Constructions: Types of Bituminous Constructions, Interface Treatments, Bituminous Surfacing and
+wearing Courses for roads and bridge deck slabs, Selection of wearing Course under different Climatic and Traffic
+conditions, IRC specifications, Construction techniques and Quality Control, Details of Contracts;
+Unit-3
+Concrete road construction: Test on Concrete mixes, Construction equipment’s, Method of construction of joints
+in concrete pavements, Quality Control in Construction of Concrete pavements, Construction of Continuously
+reinforced, Prestressed, Steel Fibre Reinforced (SFRC) Pavements, IRC, MORT&H, ACI Specifications,
+AASHTO Specifications, Recycled pavements, Non–Conventional Pavements, Overlay Construction.
+Unit-4
+Hill Roads Construction: Stability of Slopes, Landslides – Causes and Control measures, Construction of
+Bituminous and Cement Concrete roads at high altitudes, Hill road drainage,
+Construction and maintenanceproblems and remedial measures.
+TE 23 |P a g e
+
+--- Page 25 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to associate with the construction of subgrade in embankment, cutting and plain terrain
+(K2).
+2. Students will beable to compose the different structural layers of road pavement (K6).
+3. Students will be able to solve the problem of shortage of conventional materials for road and other road related
+structures (K3).
+4. Students will be able to discuss the use of various equipments in road construction along with quality control
+techniques (K2).
+To establish the correlation between COs & POs
+Table1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to associate with the construction of subgrade in
+PCE31E06.1
+embankment, cutting and plain terrain, Sub base and base preparation.
+Students will be able to compose the different bituminous layers of road
+PCE31E06.2
+pavement. They will be able to understand the contract details.
+Students will be able to solve the problem of shortage of conventional materials
+PCE31E06.3 for road and other road related structures. They will also be able to construct
+different concrete roads.
+Students will be able to discuss the use of various road construction techniques
+PCE31E06.4
+during hill road construction.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3
+PCE31B01.1 3 3 2
+PCE31B01.2 3 3 3
+PCE31B01.3 3 3 3
+PCE31B01.4 2 3 2
+Total 11 12 10
+Average 2.75 3 2.5
+Eq. Av
+3 3 3
+Attainment
+TE 24 |P a g e
+
+--- Page 26 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3 To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31B01.1 4 4
+PCE31B01.2 4 4
+PCE31B01.3 4 4
+PCE31B01.4 4 4
+Total 16 16
+Average 4 4
+Equivalent Avg. Attainment 4 4
+Reference:
+Sl. No. Name of Books Author Publisher
+Highway construction and
+1. Martin Blackwell Science
+Maintenance
+2. Highway Material Testing Khanna & Justo Nem Chand Bros
+Krieger Publishing,
+Haas, R.,
+3. Modern Pavement Management Hudson, J.P.
+Zaniewski,W.R.
+Company
+Standard specification for
+4. Transportation Material & Method AASHTO AASHTO
+of sampling & TestingEngineering
+5.
+MoRTH MoRTH IRC
+TE 25 |P a g e
+
+--- Page 27 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Airport Planning and Design
+(PCE31E04)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To study the types of types of aircraft, their obstructions during movement and their operation.
+2. To execute the design and orientation of runways and taxiways.
+3. To evaluate the different facilities required in terminal building and in ground.
+4. To design the different types of pavement, drainage facilities etc required for airport.
+Course Content:
+Unit-1
+Aircraft characteristics; obstruction criteria; air traffic control; noise pollution, operations and scheduling.
+Unit-2
+Terminalbuilding functional areas and facilities; planning and site selection; Ground transportation facilities.
+Unit-3
+Runways: orientation, length, geometric standards, capacity, configuration; taxiway: geometric standards, fillets,
+high speed exit taxiway; apron-gate area and circulation.
+Unit-4
+Pavement design and evaluation; visual aids; drainage; heliports, Airport capacity and delays.
+CourseOutcome:
+1. Students will be able to describe the types of aircraft, different types of obstruction for aircraft and the control
+of air traffic movement (K1).
+2. Students will be able recommend the different facilities required in the terminal building as well as in ground
+transport facilities (K5).
+3. Students will be able to design the runways and taxiways along withtheir suitable orientation (K6).
+4. Students will be able to design and construct the different types of pavement for aircraft, drainage facilities for
+airport etc (K6).
+TE 26 |P a g e
+
+--- Page 28 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between Cos & POs
+Table-1
+No. of CourseOutcome
+Course Outcome
+(CO)
+Students will be able to describe the types of aircraft, different types of
+PCE31E04.1
+obstruction for aircraft and the control of air traffic movement.
+Students will be able recommend the differentfacilities required in the terminal
+PCE31E04.2
+building as well as in ground transport facilities.
+Students will be able to design the runways and taxiways along with their
+PCE31E04.3
+suitable orientation.
+Students will be able to design andconstruct the different types of pavement for
+PCE31E04.4
+aircraft, drainage facilities for airport etc.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E04.1 3 3 3 3 2 3
+PCE31E04.2 2 3 2 3 2 3
+PCE31E04.3 3 3 3 3 2 2
+PCE31E04.4 2 3 3 3 2 3
+Total 10 12 11 12 8 11
+Average 2.5 3 2.75 3 2 2.75
+Eq. Avg. Attainment 3 3 3 3 2 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E04.1 4 4
+PCE31E04.2 4 4
+PCE31E04.3 4 4
+PCE31E04.4 4 4
+Total 16 16
+Average 4 4
+Eq. Avg Attainment 4 4
+TE 27 |P a g e
+
+--- Page 29 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Reference:
+Sl.No. Name of Books Author Publisher
+1. Planning & Design of Airports Robert Horenjoff McGraw Hill Professional
+2. Airport Planning & Design Khanna, Arora, Jain Nem Chand Bros
+3. Airport Engineering Rangwala Charotar Book Publishing
+4. Airport Engineering Normal J. Ashford John–Willey
+TE 28 |P a g e
+
+--- Page 30 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ELECTIVE PAPER-II
+Intelligent Transportation Systems
+(PCE31E05)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To describe the role and responsibilities of ITS system, different uses of ITS.
+2. To organize the structure of ITS framework using different tools.
+3. To implement the recent advancement in the field of transportation engineering.
+4. To formulate the business opportunities using the advance tools in the field of transportation engineering.
+Course Content:
+Unit-1
+Definition –Role and Responsibilities –Advanced Traveller Information System –Fleet Oriented ITS Services –
+Electronic Toll Collection–Critical issues–Security–Safety.
+Unit-2
+Architecture –ITS Architecture Framework –Hardware Sensors –Vehicle Detection –Techniques –Dynamic
+Message Sign –GPRS –GPS –Toll Collection. Video Detection –Virtual Loop -Cameras -ANPR –IR Lighting –
+Integrated Traffic Management–Control Centre–Junction Management Strategies.
+Unit-3
+ATMS –Route Guidance –Issues -Travel Information –Pre Trip and Enroute Methods –Historical –Current –
+Predictive Guidance –Data Collection –Analysis –Dynamic Traffic Assignment (DTA) –Components –
+Algorithm.
+Unit-4
+Basic ATIS Concepts–Smart Route System–Data Collection–Process–Dissemination to Travelers–Evaluation
+of Information–Value of Information–Business Opportunities.
+Course Outcome:
+1. Students will be able to understandthe different uses of ITS (K2).
+2. Students will be able to apply different techniques for better management of traffic in normal roads as well as
+in tool collecting places (K3).
+3. Students will be able to analyzethe different traffic assignments using algorithm (K4).
+4. Students will be able to evaluate the business opportunities using smart route system (K5).
+TE 29 |P a g e
+
+--- Page 31 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+CourseOutcome
+(CO)
+PCE31E05.1 Students will be able to understand the different uses of ITS.
+Students will be able to apply different techniques for better management of
+PCE31E05.2
+traffic in normal roads as well as in tool collecting places.
+Students will be able to analyze the different traffic assignments using
+PCE31E05.3
+algorithm.
+Students will be able to evaluate the business opportunities using smart route
+PCE31E05.4
+system.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E05.1 3 3 2 3 2 3
+PCE31E05.2 3 3 3 3 2 3
+PCE31E05.3 2 3 3 3 3 3
+PCE31E05.4 3 3 2 3 2 3
+Total 11 12 10 12 9 12
+Average 2.75 3 2.5 3 2.25 3
+Eq. Avg.
+3 3 3 3 2 3
+Attainment
+TE 30 |P a g e
+
+--- Page 32 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E05.1 3 4
+PCE31E05.2 3 4
+PCE31E05.3 3 4
+PCE31E05.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+Reference:
+Sl. No. Name ofBooks Author Publisher
+Henry F.Korth,
+1 Data Base System Concepts McGraw Hill
+Abraham Siberschatz
+Decision Support and Export Systems
+2 E.Turban Maxwell Macmillan
+Management Support Systems
+Decision Support Systems–Tools and
+3 SitausuS.Mittra John Wiley
+Techniques
+Decision Support Systems–Theory Cycle W.Halsapple,
+4 Springer Verlog
+and Application Andrew B.Winston
+TE 31 |P a g e
+
+--- Page 33 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Geographical Information System & Its Application
+(PCE31E06)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the concept of GIS including the knowledge of basiccomponents and commercial use of
+GIS.
+2. To study the process of data input and its interpolation technique.
+3. To analyse different types of data and its presentation.
+4. To apply GIS in different types of fields for proper detection.
+Course Content:
+Unit-1
+Introduction-Information systems, spatial and non-spatial information, Geographical concepts and terminology,
+Advantages of GIS. Basic components of GIS, Commercially available GIS hardware & software, organisation of
+data in GIS.
+Unit-2
+Input data -Field data, Statistical data, Maps, Aerial photographs, Satellite data, Points, lines and areas features,
+Vector and Raster data, Advantages and Disadvantages, Data entry through keyboard, digitizers and scanners,
+Digital data.Pre-processingof data-Rectification and registration, Interpolation techniques.
+Unit-3
+Data Management - Data Base Management System (DBMS), Various data models, Run -length encoding,
+Quadtrees, Data Analysis-Data layers, analysis of spatial and non-spatial data, Data overlay and modelling. Data
+Presentation-Hardcopy devices, softcopy devices.
+Unit-4
+Applications of GIS in Map Revision, Land use, Agriculture, Forestry, Archaeology, Municipal, Geology Water
+Resources, Soil Erosion, Land suitability analysis, Change detection.
+Course Outcome:
+1. Students will be able to recognize the concept of GIS including the knowledge of basic components and
+commercial use of GIS. (K1)
+2. Students will be able to interpret the process of data input and its interpolation technique.(K2)
+3. Students will be able to apply GIS in different types of fields for proper detection. (K3)
+4. Students will able to analyse different types of data and its presentation. (K4)
+TE 32 |P a g e
+
+--- Page 34 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. ofCourse Outcome Course Outcome
+(CO)
+Students will be able to recognize theconcept of GIS including the
+PCE31E06.1
+knowledge of basic components and commercial use of GIS.
+Students will be able to interpret the process of data input and its
+PCE31E06.2
+interpolation technique.
+Students will be able to apply GIS in different types of fields for proper
+PCE31E06.3
+detection.
+PCE31E06.4 Students will able to analyse different types of data and its presentation.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E06.1 3 2 2 2 3 2
+PCE31E06.2 3 2 2 2 3 3
+PCE31E06.3 3 2 2 2 3 2
+PCE31E06.4 3 2 2 2 3 3
+Total 12 8 8 8 12 10
+Average 3 2 2 2 3 2.5
+Eq. Av Attainment 3 2 2 2 3 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E06.1 3 4
+PCE31E06.2 3 4
+PCE31E06.3 3 4
+PCE31E06.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+TE 33 |P a g e
+
+--- Page 35 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+Sl. No. Name of Books Author Publisher
+Principles of Geographic Information Claredon Press,
+1 Burrough, P.A
+System for Land Resources Assessment Oxford, 1988
+The Guilford Press,
+2 Introduction to Remote Sensing Campbell, J. B.
+London, 1986
+Engaman, E.T.,
+3 RemoteSensing in Hydrology Chapman and Gurney, Hall, London 1991
+R.J
+Remote Sensing & Geographic Ellis Horwood,
+4 Legg, C.A.
+Information Systems London. 1992.
+TE 34 |P a g e
+
+--- Page 36 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Mechanics of Soil
+(PCE31E07)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand clay mineralogy of soil.
+2. To know the basic fundamental of soil mechanics.
+3. To understand the capillary phenomenon/permeability and flow behaviour of soil.
+4. To know the field application based on compaction for geotechnical problems
+5. To understand the application of consolidation to geotechnical problem
+6. To understand the compressibility behaviour of saturated/unsaturated soil.
+Course Content:
+Unit-1
+Introduction, formation of soil, clay mineralogy, structures of common clay minerals. Identification and
+classification of soil, soil weight volume relationship, index properties of soils, surface tension and capillary
+phenomenon. Measurement of capillary rise in soil, soil moisture, soil-water potential, measurement of soil-water
+potential. Mechanism of swelling potential and pressure.
+Unit-2
+Soil compaction, standard and modified Proctor compaction, theories of soil compaction; compaction control in
+field. Permeability, Darcy’s law, Theoriesof wells, flow nets and their properties, seepage flow net in dams, flow
+net by relaxation method, seepage forces, uplift, piping phenomenon, problems.
+Unit-3
+Consolidation of soils, Introduction, Terzaghis theory of one dimensional consolidation, application to
+geotechnical problems. Two and three dimensional consolidation of soils, secondary consolidation.
+Unit-4
+Shear strength of soils; unsaturated soil Skempton pore pressure theory, compressibility of unsaturated soil, Rowes
+stress dilatancy theory.
+Different shear parameters; special consolidation and shear tests, application to geotechnical problems.
+Unit-5
+Elastic stresses in soil; Stress-strain behaviour of soils; Mohr Circle of Stress; Principal Stresses. Stress distribution
+in homogeneous, non-homogeneous, layered and anisotropic deposits. Effect of non-linearity. Review of classical
+earth pressure theories and trial wedge method for c-φ soils; Stability of slopes; stability number, method of slices.
+TE 35 |P a g e
+
+--- Page 37 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the clay mineralogy of soil.
+2. Students will be able to understand the basic fundamental of soil mechanics.
+3. Students will be able to understand the capillary phenomenon/permeability and flow behaviour of soils.
+4. Students will be able to understand the field application based on compaction for geotechnical problem
+5. Students will be able to understand the application of consolidation to geotechnical problem
+6. Students will be able to understand the compressibilitybehaviour of saturated/unsaturated soil.
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE31E07.1
+Students will be able to understand the clay mineralogy of soil.
+PCE31E07.2 Students will be ableto understand the basic fundamental of soil mechanics
+PCE31E07.3 Students will be able to understand the capillary phenomenon/permeability and flow
+behaviour of soils.
+PCE31E07.4 Students will be able to understand the field application based oncompaction for geotechnical
+problem.
+PCE31E07.5 Students will be able to understand the application of consolidation to geotechnical problem
+PCE31E07.6 Students will be able to understand the compressibility behaviour of saturated/unsaturated soil.
+Table-2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E07.1 3 2 2 2 3 2
+PCE31E07.2 3 2 2 2 3 2
+PCE31E07.3 3 2 2 2 3 2
+PCE31E07.4 3 2 2 2 3 2
+PCE31E07.5 3 2 2 2 3 2
+PCE31E07.6 3 2 2 2 3 2
+Total 18 12 12 12 18 12
+Average 3 2 2 2 3 2
+Eq. Av Attainment 3 2 2 2 3 2
+TE 36 |P a g e
+
+--- Page 38 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E07.1 3 3
+PCE31E07.2 3 3
+PCE31E07.3 3 3
+PCE31E07.4 3 3
+PCE31E07.5 3 3
+PCE31E07.6 3 3
+Total 18 18
+Average 3 3
+Eq. Avg Attainment 3 3
+References:
+1. Atkinson, J.H. and Bransby, P.L, The Mechanics of Soils: An introduction to critical soil
+mechanics, McGraw Hill,1978.
+2. Atkinson J. H, An introduction to the Mechanics of soils and Foundation, McGraw-Hill
+Co., 1993.
+3. Das, B. M., Advanced Soil Mechanics, Taylor and Francis, 2nd Edition, 1997
+4. Wood, D.M.,Soil Behaviorand Critical State Soil Mechanics, Cambridge University
+Press, 1990.
+5. Craig, R. F., Soil Mechanics, Van Nostrand Reinhold Co. Ltd., 1987.
+6. Terzaghi, K., and Peck, R. B., Soil Mechanics in Engineering Practice, John Wiley &
+Sons, 1967.
+7. Lambe, T. W.and Whitman, R. V., Soil Mechanics, John Wiley & Sons, 1979.
+TE 37 |P a g e
+
+--- Page 39 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Railway Transportation System
+(PCE31E08)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the concept of railway geometric design and relatedapproaches.
+2. To illustrate the construction and maintenance process of railway track.
+3. To explain the modernization of railways and rail transportation system planning.
+4. To plan urban rail transit and its infrastructure.
+Course Content:
+Unit-1
+Railway geometric design--curves, cant Gradients and grade compensation, track diversion; turn out --points
+and crossing and their design approaches.
+Unit-2
+Construction and maintenance of railway track, Control of train movements; Signals and interlocking.
+Unit-3
+Modernization of railways and future trends; Track standards and track rehabilitation.
+Unit-4
+Urban Rail Transit Planning–MRTS–LRTS, Metro Rail–Monorail–Network Design, Capacity and Traffic
+Fore casting-Case Studies.
+Unit-5
+Modern Transit Facilities-Railway Track–Transfer Station–Structures–Bridges–Tunnels–
+Planning and Design aspects.
+Course Outcome:
+1. Students will be able to understand the concept of railway geometric design and related approaches. (K2)
+2. Students willbe able to illustrate the construction and maintenance process of railway track. (K3)
+3. Students will be able to explain the modernization of railways and rail transportation system planning. (K4)
+4. Students will be able to plan urban rail transit and its infrastructure. (K6)
+TE 38 |P a g e
+
+--- Page 40 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome Course Outcome
+(CO)
+Students will be able to recognize theconcept of GIS including the
+PCE31E08.1
+knowledge of basic components andcommercial use of GIS.
+Students will be able to interpret the process of data input and its
+PCE31E08.2
+interpolation technique.
+Students will be able to apply GIS in different types of fields for proper
+PCE31E08.3
+detection.
+PCE31E08.4 Students willable to analyse different types of data and its presentation.
+Table-2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31E08.1 3 2 2 3 2 2
+PCE31E08.2 3 2 2 3 3 2
+PCE31E08.3 3 2 2 3 2 2
+PCE31E08.4 3 2 2 3 2 2
+Total 12 8 8 12 9 8
+Average 3 2 2 2 2.25 2
+Eq. Av Attainment 3 2 2 2 2 2
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31E08.1 3 4
+PCE31E08.2 3 4
+PCE31E08.3 3 4
+PCE31E08.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+TE 39 |P a g e
+
+--- Page 41 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+Sl. No. Name of Books Author Publisher
+Urban Transit: Operations, Planning and John Wiley and Sons
+1 Vukan R.Vuchie
+Economics Inc.
+John Wiley and Sons
+2 Urban TransitSystems and Technology Vukan R.Vuchie
+Inc.
+Tata McGraw Hill Co.
+3 Railway Track Engineering J.S. Mundrey
+Ltd.
+TE 40 |P a g e
+
+--- Page 42 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+PRACTICAL/SESSIONAL
+Pavement Engineering Laboratory-I
+(PCE31P01)
+Total Credits 02 L – T – P 0– 0 – 3
+Course Objective:
+1. To gain knowledge about the tests related to pavement materials.
+2. To learn the method of performing different tests ofpavement materials.
+3. To apply different methods of performing tests in the field based on the appropriateness.
+Course Content:
+Unit-1
+To determine the in situ density of natural or compacted soils using sand pouring cylinders.
+Unit-2
+To performgrain size analysis of soil.
+Unit-3
+To determine the consistency limits of soil sample.
+Unit-4
+To determine the relative density of given coarse grained material.
+Unit-5
+To determine the coefficient of permeability of a soil sample.
+Unit-6
+To conduct proctor compaction test of soil.
+Unit-7
+To find shear strength of a given soil specimen by vane shear test.
+Unit-8
+To find the shear of the soil by Undrained Triaxial Test.
+Unit-9
+To determine the settlements due to primary consolidation of soil by conducting one dimensional test.
+Unit-10
+To determine the California bearing ratio by conducting a load penetration test in the laboratory.
+TE 41 |P a g e
+
+--- Page 43 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to explain the tests related to pavement materials. (K2)
+2. Students will beable to apply different methods of performing tests in the field based on the appropriateness.
+(K3)
+3. Students will be able to analyze the different tests of pavement materials. (K4)
+4. Students will be able to recommend the appropriate test related to pavement materials based on the field
+condition. (K5)
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome Course Outcome
+(CO)
+Students will be able to demonstrate the tests related to pavement
+PCE31P01.1
+materials.
+Students will be able to apply different methods of performing tests in
+PCE31P01.2
+the field based on the appropriateness.
+PCE31P01.3 Students will be able to explain the different tests of pavement materials.
+Students will be able to recommend theappropriate test related to
+PCE31P01.4
+pavement materials based on the field condition.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31P01.1 3 2 2 2 3 2
+PCE31P01.2 3 2 2 2 2 2
+PCE31P01.3 3 2 2 2 3 3
+PCE31P01.4 3 2 2 2 2 2
+Total 12 8 8 8 10 9
+Average 3 2 2 2 2.5 2.25
+Eq. Av Attainment 3 2 2 2 3 2
+TE 42 |P a g e
+
+--- Page 44 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31P01.1 2 3
+PCE31P01.2 2 3
+PCE31P01.3 2 3
+PCE31P01.4 2 3
+Total 8 12
+Average 2 3
+Eq. Avg Attainment 2 3
+TE 43 |P a g e
+
+--- Page 45 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Traffic Engineering Laboratory
+(PCE31P02)
+Total Credits 02 L – T – P 0– 4 – 0
+Course Objective:
+1. To gain knowledge about thedifferent field experiments related to Traffic Engineering.
+2. To learn the method of performing different tests of Traffic Engineering.
+3. To apply different methods of performing tests in the field based on the appropriateness.
+Course Content:
+Unit-1
+To conduct the O-D survey related to traffic.
+Unit-2
+To conduct the traffic volume count & traffic density.
+Unit-3
+To conduct the spot speed study of traffic.
+Unit-4
+To conduct the traffic volume study in intersection.
+Unit-5
+To conduct the delay study in intersection.
+Unit-6
+To conduct the noise study of traffic.
+Unit-7
+To conduct the axle load survey.
+Unit-8
+To determine the PCU of traffic.
+Course Outcome:
+1. Students will be able to explain the tests related to Traffic Engineering. (K2)
+2. Students will be able to apply different methods of performing tests in the field based on the appropriateness.
+(K3)
+3. Students will be able to analyze the different tests of Traffic Engineering. (K4)
+4. Students will be able to recommend the appropriate test related to Traffic Engineering based on the field
+condition. (K5)
+TE 44 |P a g e
+
+--- Page 46 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to explain the tests related to Traffic
+PCE31P02.1
+Engineering.]
+Students will be able to apply different methods of performing tests in
+PCE31P02.2
+the field based on the appropriateness.
+Students will be able to analyzethe different tests of Traffic
+PCE31P02.3
+Engineering.
+Students will be able to recommend the appropriate test related to
+PCE31P02.4
+Traffic Engineering based on the field condition.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE31P02.1 3 2 2 3 2 2
+PCE31P02.2 3 2 2 3 2 2
+PCE31P02.3 3 2 2 3 2 2
+PCE31P02.4 3 2 2 3 2 2
+Total 12 8 8 12 8 8
+Average 3 2 2 3 2 2
+Eq. Av Attainment 3 2 2 3 2 2
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE31P02.1 3 3
+PCE31P02.2 3 3
+PCE31P02.3 3 3
+PCE31P02.4 3 3
+Total 12 12
+Average 3 3
+Eq. Avg Attainment 3 3
+TE 45 |P a g e
+
+--- Page 47 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Seminar
+(PCE31P03)
+Total Credits 01 L – T – P 0– 0 – 1
+Each Student shall prepare a Report and present a Seminar on topic related to the branch of specialization under
+the guidance of a Faculty member. The student shall submit copy of the paper to the Department. Grades will be
+awarded on the basis of contents of the paper and the presentation.
+TE 46 |P a g e
+
+--- Page 48 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+SECOND SEMESTER No. of Classes/Week
+Total
+Sl. Marks
+Subject Lecture Tutorial Practical Credits
+No.
+Basic Core
+1 PCE32B01:Analysis & Design of 03 01 00 4 100
+Pavements
+Elective Paper-III(Any One)
+PCE32E01:Geometric Design of
+Transportation Facilities
+2 03 01 00 4 100
+PCE32E02:Ecology & Environmental
+Impact Assessment
+PCE32E03:Geo-environmental Engineering
+Elective Paper-IV (Any One)
+PCE32E04:BridgeEngineering
+PCE32E05:Pavement Evaluation,
+3 03 01 00 4 100
+Rehabilitation and Maintenance
+PCE32E06:Urban Mass Transit Planning,
+Operations and Management
+Elective Paper-V (Any One)
+PCE32E07:Ground Improvement
+03 01 00 4
+4 Technique 100
+PCE32E08:Finite Element Method
+PCE32E09:Advanced Traffic Engineering
+5 PCE32P01:Project Preliminaries 00 00 04 4 100
+PCE32P02:Pavement Engineering
+6 00 00 04 2 100
+Laboratory-II
+7 PCE32P03:Computer Oriented Design Lab 00 00 04 2 100
+8 PCE32P04:Comprehensive Viva-voce 00 00 00 1 100
+Total 12 04 12 25 800
+TE 47 |P a g e
+
+--- Page 49 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Analysis & Design of Pavements
+(PCE32B01)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. Identify and categorize the factors affecting design andperformance of pavements.
+2. To understand basicmodelling concepts used to analyse flexible and rigid pavements.
+3. To understand different design methods for flexible and rigid pavement design
+4. Develop skills to perform functional and structural evaluation ofpavement
+Course Content:
+Unit-1
+Types of pavement–Factors affecting design of pavements–wheel loads–ESWL Concept-tyre pressure–
+contact pressure, Material characteristics–Environmental and other factors.
+Unit-2
+Stresses in flexible pavement–layered systems concept–one layer system–Boussinesq,Two layer system–
+Burmister Theoryand problems on above.
+Unit-3
+Stresses in rigid pavements–relative stiffness of slab, modulus of sub-grade reaction–stresses due to warping,
+stresses due to loads, stresses due to friction.
+Unit-4
+Pavement design: IRC method of flexible pavement design.-AASHO Method of Flexible Pavement design. ,
+Design methods for airfield pavements, problems of the above
+Unit-5
+IRC method of Rigid pavement design, AASHTO Method, PCA method of design–Importance of Joints in
+Rigid Pavements-Types of Joints–Use of Tie Bars and Dowell Bars., Design methods for airfield
+pavements, problems of the above
+Unit-6
+Need for Highway Maintenance-Pavement Failures-Failures in Flexible Pavements-Types and Causes-Rigid
+Pavement Failures-Types and causes-Pavement Evaluation-Structural evaluation by Benkleman beam
+deflection method, Falling weight deflectometer, GPR method.
+Course Outcome:
+1. List and explain the various factors affecting design and performance of pavements
+2. Calculate the stresses and deflection in flexible and rigid pavements
+3. Design flexible and rigid pavements
+4. Design flexible and rigid overlay.
+TE 48 |P a g e
+
+--- Page 50 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+List and explain the various factors affecting design and performance of
+PCE32B01.1
+pavement
+PCE32B01.2 Calculate the stresses and deflection in flexible and rigid pavements
+PCE32B01.3 Design flexible and rigid pavements
+PCE32B01.4 Design flexible and rigid overlay
+Table- 2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32B01.1 3 3 3 3 2 3
+PCE32B01.2 3 3 3 3 2 3
+PCE32B01.3 3 3 3 3 2 3
+PCE32B01.4 3 3 3 3 2 3
+Total 12 12 12 12 8 12
+Average 3 3 3 3 2 3
+Eq. Av Attainment 3 3 3 3 2 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32B01.1 4 3
+PCE32B01.2 4 3
+PCE32B01.3 4 3
+PCE32B01.4 4 3
+Total 16 12
+Average 4 3
+Eq. Avg Attainment 4 3
+TE 49 |P a g e
+
+--- Page 51 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Reference:
+1. Pavement Analysis and Design, Yang H. Hung, Prentice-Hall
+2. Principles of PavementDesign Yoder & WitczakWileyPublication
+3. IRC: 37 & 58 Codes for Flexible and Rigid Pavements Design.
+TE 50 |P a g e
+
+--- Page 52 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ELECTIVE PAPER-III
+Geometric Design of Transportation Facilities
+(PCE32E01)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To study the different types of highways and the performance of users on those highways.
+2. To evaluate the various safety measures of the highways and their design along with hill roads.
+3. To understand the importance of intersection in road and their design.
+4. To be familiar with the different types of ramp, other types of lanes and parking lots along with their design.
+Course Content:
+Unit-1
+Highway functional classification; route layout and selection; design controls and criteria: vehicular
+characteristics, turning paths; driver performance; traffic characteristics; highway capacity.
+Unit-2
+Access control; safety; elements of design: sight distances, horizontal alignment, transition curves, super elevation
+and side friction; vertical alignment: grades, crest and sag curves; highway cross-sectional elements and their
+design; Hill road.
+Unit-3
+Intersections--at-grade intersections, sight distance consideration and principles of design, channelization, speed
+change lanes; Roundabout, mini roundabouts, design of roundabouts.
+Unit-4
+Inter-changes, types of interchanges, entrance and exit ramps, ramp metering; Bicycle and pedestrian facility
+design; Parking layout and design; Terminal layout and design.
+Course Outcome:
+1. Students will be able to identify the different types of highways, characteristics of driver, traffic and other users
+on those highways (K1).
+2. Students will be able to apply the design and construction of various safety measures in highways and hill roads
+(K3).
+3. Students will be able to explain the design and construction of road intersection, roundabouts etc (K4).
+4. Students will be able to evaluate the requirements of different types of entry and exit in highways, bicycle lane,
+parking lots etc and their design techniques (K5).
+TE 51 |P a g e
+
+--- Page 53 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between Cos & POs
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to identify the different types of highways, characteristics of
+PCE32C01.1
+driver, traffic and other users on those highways (K1).
+Students will be able to apply the design and construction of various safety
+PCE32C01.2
+measures in highways and hill roads (K3).
+Students will be able to explain the design and construction of road intersection,
+PCE32C01.3
+roundabouts etc (K4).
+Students will be able to evaluate the requirements of different types of entry and
+PCE32C01.4
+exit in highways, bicycle lane, parking lots etc and their design techniques (K5).
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32C01.1 3 3 2 3 2 3
+PCE32C01.2 3 3 3 3 3 3
+PCE32C01.3 3 3 2 3 2 2
+PCE32C01.4 2 2 3 3 2 3
+Total 11 11 10 12 9 11
+Average 2.75 2.75 2.5 3 2.25 2.75
+Eq. Av Attainment 3 3 3 3 2 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32C01.1 3 3
+PCE32C01.2 3 3
+PCE32C01.3 3 3
+PCE32C01.4 3 3
+Total 12 12
+Average 3 3
+Eq. Avg Attainment 3 3
+TE 52 |P a g e
+
+--- Page 54 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Reference:
+Sl. No. Name of Books Author Publisher
+1 HighwayEngineering Khanna & Justo Nem Chand Bros
+2 Highway Engineering Rogers, Martin Blackwell Publisher
+Principles of Transportation, and
+3. Rao, G.V, Tata McGraw Hill
+Highway Engineering
+Roger P. Roess,Person
+4. Highway Transportation Engineering US Import & John C. PHIPEs
+Falcocchio
+TE 53 |P a g e
+
+--- Page 55 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Ecology & Environmental Impact Assessment
+(PCE32E02)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objectives:
+1. To make the students able to understand structure and function ofecosystem in conservation of different kind
+of Environmental system.
+2. To have adequate knowledge on principles, modeling and application of ecological engineering.
+3. To have adequate knowledge on scope and contents, methodologies and techniques of Environmental Impact
+Assessment.
+4. To have understanding of prediction and assessment of impacts on the surface water environment.
+5. To have understanding of prediction and assessment of impacts on the air environment.
+6. To have understanding of prediction and assessment of impacts on the land environment.
+7. To understand the basics of risk characterisation and risk reduction.
+8. To have sufficient knowledge of case studies related to Environmental Impact Assessment.
+Course Content:
+Unit 1
+Ecology – Classification of Ecosystems, Structure and Function of Ecosystems, Energy Flow in Ecosystems,
+Ecological Niche and succession, Bio-geo-chemical cycles, Ecological Pyramids.
+Unit 2
+Ecosystems–Biotic and abiotic components, production and consumption, trophic levels, productivity and energy
+flow, food webs, cycling of elements.
+Unit 3
+Changes in ecosystems – Succession, long range changes, long range stability, the organization and dynamics of
+ecological communities, description and study of typical natural and artificialecosystems.
+Unit 4
+Principles of ecological engineering – Principles, components and characteristics of Systems - Classification of
+systems - Structural and functional interactions of environmental systems - Environmental systems as energy
+systems -Mechanisms of steady-state maintenance in open and closed systems -Modelling and ecotechnology -
+Elements of modelling - Modelling procedure - Classification of ecological models - Applications of models in
+ecotechnology-Ecological economics.
+Unit 5
+Aquatic and Terrestrial Ecosystems–Diversity and dominance Indices, Ecosystem Models.
+Unit 6
+Climate change and biodiversity, Application of ecological engineering–Ecosanitation-Principles and operation
+of soil infiltration systems - Wetlands and ponds - Source separation systems - Aquacultural systems - Detritus
+based treatment for solid wastes-Applications of ecological engineering for marine systems.
+TE 54 |P a g e
+
+--- Page 56 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Unit 7
+Lake Ecosystem–trophic levels, nutrient loading, nutrient enrichment, Leibig’s Law, control of eutrophication.
+Unit 8
+Environmental Impact Assessment–Definition, Objectives, Types–Rapid and Comprehensive EIA, EIS, FONSI,
+Step-by-step procedure for conducting EIA and Limitations of EIA, Prevention of Significant Deterioration (PSD)
+Programme.
+Unit 9
+Frame work of Impact Assessment–scope and contents of EIA, methodologies and techniques of EIA.
+Unit 10
+Prediction and Assessment of Impacts on the Surface Water Environment – Quality Impacts, Quantity Impacts,
+Water Quality Index, Mass Balances, Quantitative Modeling, Water Conservation - Case Study. Prediction and
+Assessment of Impacts on the Groundwater Environment: Hydrogeological Information, Vulnerability Mapping,
+Subsurface Transport and Fate.
+Unit 11
+Prediction and Assessment of Impacts on the Air Environment – Air Pollutants Emission, Ambient Air Quality
+and Standards, Emission Inventories, Meteorological Data, Mass Balances, Dispersion Models, Pollutant
+Emissions Minimization-Case Study.
+Unit 12
+Prediction and Assessment of Impacts on the Land Environment – Soil & Geological properties, Universal Soil
+Loss equation, mitigation measures.
+Unit 13
+Risk Assessment–Hazard Identification, Effect Assessment, Risk characterization, Risk Reduction.
+Unit 14
+Attributes, Standards and Value functions, public participation in EIA. Environmental Management Plan (EMP)
+and Disaster Management Plan (DMP).
+Unit 15
+EIA Case Studies – Thermal Power Plant, Mining, Fertilizer, Construction Projects, Airport, Water and
+Wastewater Treatment Plants.
+References
+1.Kormandy, (1996), “Concepts of Ecology”, 4thEdition, Prentice Hall publication, New Jersey.
+2.Odum, (1974), “Fundamentals of Ecology”, 3rdEdition, W.B. Saunders & CO, NBF.
+3.Krebs J., (2008), “Ecology–The Experimental Analysis of Distribution and Abundance”, 6thEdition, Perason
+International.
+4. Hall C.A.S., and Day J.W. (1977), “Ecosystem Modeling in Theory and Practice: An Introduction with Case
+Histories”, John Willey.
+5.Canter L., (1995),“Environmental Impact Assessment”, 2ndEdition, McGraw Hill Higher Education.
+TE 55 |P a g e
+
+--- Page 57 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+6.Weathern, P., (1982), “Environmental Impact Assessment –Theory and Practice”, Unwin Hyman, London.
+7.Jain R.K., Urban L.V., Stacey G.S., (1981), “Environmental Impact Analysis–A New Dimension in Decision
+Making”, 2ndEdition, Van Nostrand Reinhold Co.
+8. Clark B.C., Bisett and Tomilson P, (1985), “Perspective on Environmental Impact Assessment”, Allied
+Publishers.
+9.Charles, H., (2011), “Environmental Impact Assessment”, 1stEdition, CRC Press.
+10.Rau and Wooten, (1981). “Environmental Impact Assessment Handbook”, McGraw Hill.
+CourseOutcomes (CO):
+1. Students will be able to understand structure and function of ecosystem in conservation of different kind of
+Environmental system.
+2. Students will be able to understand principles, modeling and application of ecological engineering.
+3. Students will have adequate knowledge of scope and contents, methodologies and techniques of
+Environmental Impact Assessment.
+4. Students will have understanding of prediction and assessment of impacts on the surface water environment,
+air environment and land environment.
+5. Students will have understanding of basics of risk characterisation and risk reduction.
+6. Students will have sufficient knowledge ofcase studies related to Environmental Impact Assessment.
+Table 1: To establish the correlation between COs & POs
+No. of Curse
+Outcome Course Outcome
+(CO)
+Students will be able to understand structure and function of ecosystem in
+PCE42C03.1
+conservationof different kind of Environmental system.
+Students will be able to understand principles, modeling and application of
+PCE42C03.2
+ecological engineering.
+Students will have adequate knowledge of scope and contents, methodologies and
+PCE42C03.3
+techniques of Environmental Impact Assessment.
+Students will have understanding of prediction and assessment of impacts on the
+PCE42C03.4
+surface water environment, air environment and land environment.
+Students will haveunderstanding of basics of risk characterisation and risk
+PCE42C03.5
+reduction.
+Students will have sufficient knowledge of case studies related to Environmental
+PCE42C03.6
+Impact Assessment.
+TE 56 |P a g e
+
+--- Page 58 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 andfor NO CORELATION: ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE42C01.1 3 2 3 2 3 3
+PCE42C01.2 3 2 3 3 2 2
+PCE42C01.3 3 2 3 3 2 2
+PCE42C01.4 3 2 3 2 3 3
+PCE42C01.5 3 2 3 3 3 2
+PCE42C01.6 3 2 3 3 2 2
+Total 18 12 18 16 15 14
+Average 3 2 3 2.67 2.5 2.33
+Equivalent Avg.
+3 2 3 3 3 2
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42C03.1 3 3
+PCE42C03.2 3 3
+PCE42C03.3 3 3
+PCE42C03.4 3 3
+PCE42C03.5 3 3
+PCE42C03.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg.
+3 3
+Attainment
+TE 57 |P a g e
+
+--- Page 59 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Geo-Environmental Engineering
+(PCE32E03)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objectives:
+1. To have sufficient knowledge on fundamentals of Geoenvironmental Engineering.
+2. To have adequate knowledge on planning and design of MSW and Hazardous waste Landfills.
+3. To have better understanding on planning and design of slurry ponds -ash ponds and tailing ponds.
+4. To have better understanding on subsurface contamination.
+5. To have understanding of geotechnical reuse of waste.
+CourseContent:
+Unit 1
+Concepts and principles of Geoenvironmental Engineering.
+Unit 2
+Geotechnical aspects of planning anddesign of MSW and Hazardous waste Landfills
+Unit 3
+Geotechnical aspects of planning and design of slurry ponds-ash ponds and tailing ponds.
+Unit 4
+Geotechnical aspects of detection & monitoring of subsurface contamination and control &remediation of
+contaminated sites.
+Unit 5
+Rehabilitation of waste dumps and geotechnical re-use of waste.
+References:
+1. Rowe R.K.,"Geotechnical and Geoenvironmental Engineering Handbook" Kluwer Academic Publications,
+London, 2000.
+2. Reddi L.N. and Inyang, H. I.,"Geoenvironmental Engineering,Principles and Applications" Marcel Dekker
+Inc. New York, 2000.
+3. Yong, R. N.,"Geoenvironmental Engineering, Contaminated Soils,Pollutant Fate, and Mitigation" CRC Press,
+New York, 2001.
+4. Sharma H.D. and Reddy K.R.,"Geoenvironmental Engineering: Site Remediation, Waste Containment, and
+Emerging Waste Management Technologies" John Wiley & Sons, Inc., USA, 2004.
+5. Fredlund D.G. and Rahardjo, H.,"Soil Mechanics for Unsaturated Soils" Wiley-Interscience, USA, 1993.
+6. Mitchell, J.K.,"Fundamentals of Soil Behavior" Wiley, 2005.
+7. Hillel D.,"Introduction to Environmental Soil Physics" Academic Press, New York, 2003.
+TE 58 |P a g e
+
+--- Page 60 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+CourseOutcomes (CO):
+1. Students will be able to understand fundamentals of Geoenvironmental Engineering.
+2. Students will have knowledge on planning and design of MSW and Hazardous waste Landfills.
+3. Students will have adequate knowledge on planning and design of slurry ponds - ash ponds and tailing
+ponds.
+4. Students will have adequate knowledge on subsurfacecontamination.
+5. Students will have understanding on reuse of geotechnical waste.
+Table 1: To establish the correlation between COs & POs
+No. of Curse
+Outcome Course Outcome
+(CO)
+Students will be able to understand fundamentals of Geoenvironmental
+PCE32E03.1
+Engineering.
+Students will have knowledge on planning and design of MSW and Hazardous
+PCE32E03.2
+waste Landfills.
+Students will have adequate knowledge on planning anddesign of slurry ponds-
+PCE32E03.3
+ash ponds and tailing ponds.
+PCE32E03.4 Students will have adequate knowledge on subsurface contamination.
+PCE32E03.5 Students will have understanding on reuse of geotechnical waste.
+TE 59 |P a g e
+
+--- Page 61 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ELECTIVE-IV
+Bridge Engineering
+(PCE32E04)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To learn the components of bridges, classification of bridges, importance of bridges and to
+understand the investigation for bridges, subsoil exploration, choice of bridge type.
+2. To study the specification of road bridges, loads to be considered.
+3. To familiarize students with various types of bridges and their design procedure.
+4. To get exposure to evaluation of sub structures and foundations.
+5. To understand the importance of bearings, expansion joints and lessons from bridge failures.
+Course Content:
+Unit-1
+Introduction-Historical development of Bridge–Components of Bridges–Classification–Importance of
+Bridges–Investigation for Bridges–Selection of Bridge site–Economical span–Location of piers and
+abutments–Subsoil exploration–Scour depth–Traffic projection–Choice of bridge type.
+Unit-2
+Specification of road bridges–width of carriageway–loads to be considered-dead load–IRC standard live load
+–Impact effect.
+Unit-3
+General design considerations – Slab Bridge – Design of T-beam bridge – Box culvert-Overview on continuous
+bridge–balanced cantilever bridge-Arch Bridge–Box girder bridge decks.
+Unit-4
+Evaluation of sub structures–Pier and abutments caps–Design of pier–Abutments–Type offoundations.
+Unit-5
+Importance of Bearings–Bearings for slab bridges–Bearings for girder bridges–Elastomeric bearing–Joints
+–Expansion joints. Construction and Maintenance of bridges–Lessons from bridge failures.
+Course Outcome:
+1. To be familiar with the components of bridges, classification of bridges, importance of bridges and to understand
+the methods of investigation for bridges, subsoil exploration, choice of bridge type.
+2. To understand the specification of road bridges, loads to be considered.
+3. To be familiar with various types of bridges such as slab-bridge, T-beam bridge, continuous bridge, balanced
+cantilever bridge, arch bridge, box girder bridge.
+4. To get exposed to evaluation of sub structures and foundations.
+5. To be familiar with importance of bearings, expansion joints and lessons from bridge failures.
+TE 60 |P a g e
+
+--- Page 62 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+Students will be able to learn components of bridges, classification of bridges,
+PCE32E04.1 importance of bridges and understand the methods of investigation for bridges,
+subsoil exploration, choice of bridge type.
+PCE32E04.2 Students will be able to understand the specification of road bridges, loads to be
+considered.
+PCE32E04.3 Students will be familiar with various types of bridges such as slab-bridge, T-
+beam bridge, continuous bridge, balanced cantilever bridge, arch bridge- box
+girder bridge.
+PCE32E04.4 Students will be exposed to evaluation of sub structures and foundations
+PCE32E04.5 Students will be familiar with importance of bearings, expansion joints and
+lessons from bridge failures.
+Table-2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E04.1 2 3 2 3 3 2
+PCE32E04.2 2 1 1 2 3 3
+PCE32E04.3 3 3 3 1 3 2
+PCE32E04.4 3 3 3 2 3 2
+PCE32E04.5 3 3 3 3 3 2
+Total 13 13 12 11 15 11
+Average 3 3 3 2.2 3 2.2
+Eq. Av Attainment 3 3 3 2 3 2
+Table 3: To establish the correlationbetween COs & PSOs
+CO PSO1 PSO2
+PCE32E04.1 4 4
+PCE32E04.2 4 4
+PCE32E04.3 4 4
+PCE32E04.4 4 4
+PCE32E04.5 4 4
+Total 20 20
+Average 4 4
+Eq. Avg Attainment 4 4
+TE 61 |P a g e
+
+--- Page 63 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+Sl. No. Name Of Book Author Publisher
+Tata McGraw–Hill, New
+1. Bridge Engineering Ponnuswamy, S.
+Delhi, 1997
+Essentials of Bridge Oxford and IBH Publishers
+2. Victor, D. J.
+Engineering Co., New Delhi, 1980.
+NarosaPublishing House,
+3. Bridge Superstructure N. Rajagopalan
+New Delhi, 2006
+Jagadeesh. T. R. and Prentice Hall of India Pvt.
+4. Design of Bridge Structures
+Jayaram. M. A. Ltd., 2004.
+Tata McGraw Hill Publishing
+5 Concrete Bridge Practice Raina. V. K.
+Company, New Delhi, 1991.
+TE 62 |P a g e
+
+--- Page 64 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Pavement Evaluation, Rehabilitation and Maintenance
+(PCE32E05)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the concept of pavement distress and its different types.
+2. To study the techniques forfunctional and structural evaluation of pavements.
+3. To evaluate different types of survey and rehabilitation techniques.
+4. To design procedures of overlay for different types of pavements and their recycling.
+Course Content:
+Unit-1
+Types ofpavement distress; Techniques for functional and structural evaluation of pavements.
+Unit-2
+Network and project survey and evaluation; Pavement rehabilitation techniques.
+Unit-3
+Overlay design procedures for flexible & rigid pavements, recycling of flexible and rigid pavements.
+Unit-4
+Maintenance of paved and unpaved roads, Pavement management systems, Life cycle cost.
+Course Outcome:
+1. Students will be able to describe the concept of pavement distress and its different types. (K2)
+2. Students will be ableto illustrate the techniques for functional and structural evaluation of pavements. (K3)
+3. Students will be able to evaluate different types of survey and rehabilitation techniques. (K5)
+4. Students will be able to design procedures of overlay for different types of pavements and their recycling.
+(K6)
+TE 63 |P a g e
+
+--- Page 65 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to describe the concept of pavement distress and its
+PCE32E05.1
+different types.
+Students will be able to illustrate the techniques for functional and
+PCE32E05.2
+structural evaluation of pavements.
+Students will be able to evaluate different types of survey and
+PCE32E05.3
+rehabilitation techniques.
+Students will be able to design procedures of overlay for different types
+PCE32E05.4
+of pavements and their recycling.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E05.1 3 1 1 2 2 2
+PCE32E05.2 3 2 2 3 2 3
+PCE32E05.3 3 3 3 2 2 2
+PCE32E05.4 3 3 3 2 2 2
+Total 12 9 9 9 8 9
+Average 3 2.25 2.25 2.25 2 2.25
+Eq. Av Attainment 3 2 2 2 2 2
+Table 3: To establish the correlation between COs &PSOs
+CO PSO1 PSO2
+PCE32E05.1 3 4
+PCE32E05.2 3 4
+PCE32E05.3 3 4
+PCE32E05.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+TE 64 |P a g e
+
+--- Page 66 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+References:
+Sl. No. Name of Books Author Publisher
+1 Pavement Analysis and Design Yang H. Hung Prentice-Hall
+Design and Performance of Road
+2 David Croney McGraw Hill
+Pavements
+3 Guide for Design of Pavement AASHTO AASHTO
+TE 65 |P a g e
+
+--- Page 67 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Urban Mass Transit Planning, Operations and Management
+(PCE32E06)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the concept of public transportation in urban area and the technology of public transit.
+2. To illustrate estimation of demand in transit planning and its functional design.
+3. To evaluateperformance of transit systems and its operational management.
+4. To create demand modelling and development of transit cost alongwith data and analysis technique.
+Course Content:
+Unit-1
+Modes of public transportation and their roles to meet urban travel needs; comparison of transit modes and
+selection of technology and transit service.
+Unit-2
+Estimating demand in transit planning studies and functional design of transit routes; routing and scheduling of
+transit services; terminal design.
+Unit-3
+Managementand operation of transit systems; performance evaluation of systems; transit and urban development.
+Unit-4
+Challenges, Demand Modeling, Development of Generalized Cost, RP & SP Data and Analysis Techniques, Case
+Studies.
+Course Outcome:
+1. Students willbe able to explain the concept of public transportation in urban area and the technology of public
+transit. (K2)
+2. Students will be able to illustrate estimation of demand in transit planning and its functional design. (K3)
+3. Students will be able to evaluate performance of transit systems and its operational management. (K5)
+4. Students will be able to create demand modelling and development of transit cost alongwith data and analysis
+technique. (K6)
+TE 66 |P a g e
+
+--- Page 68 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+To establish the correlation between COs &POs
+Table-1
+No. of Course Outcome Course Outcome
+(CO)
+Students will be able to explain the concept of public transportation in
+PCE32E06.1
+urban area and the technology of public transit.
+Students will be able to illustrateestimation of demand in transit
+PCE32E06.2
+planning and its functional design.
+Students will be able to evaluate performance of transit systems and its
+PCE32E06.3
+operational management.
+Students will be able to create demand modelling and development of
+PCE32E06.4
+transit cost alongwith data and analysis technique.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E06.1 3 3 3 2 3 3
+PCE32E06.2 3 3 2 2 3 2
+PCE32E06.3 3 2 3 2 3 2
+PCE32E06.4 3 3 2 2 3 3
+Total 12 11 10 8 12 10
+Average 3 2.75 2.5 2 3 2.5
+Eq. Av Attainment 3 3 3 2 3 3
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32E06.1 3 4
+PCE32E06.2 3 4
+PCE32E06.3 3 4
+PCE32E06.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+References:
+Sl. No. Name of Books Author Publisher
+Urban Mass Transportation
+1 Alan Black Mcgraw-Hill College
+Planning
+TE 67 |P a g e
+
+--- Page 69 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ELECTIVE-V
+Ground Improvement Technique
+(PCE32E07)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the necessity of ground improvement techniques
+2. To understand the details of mechanical stabilization
+3. To understand the ground improvement by drainage
+4. To understand the applications of admixtures for ground improvement
+5. To understand the applications of grouting techniques
+6. To understand the in situ soil treatment methods
+7. To understand the case studies of ground improvement projects.
+Course Content:
+Unit-1
+Introduction:Need for Ground Improvement, Different types of problematic soils, Emerging trends in ground
+Improvement.
+Unit-2
+Mechanical stabilization: Shallow and deep compaction requirements, Principles and methods of soil
+compaction, Shallow compaction and methods. Properties of compacted soil and compaction control,
+Deepcompaction and Vibratory methods Dynamic compaction.
+Unit-3
+Hydraulic modification:Ground Improvement by drainage, Dewatering methods. Design of dewatering systems,
+Preloading, Vertical drains, vacuum consolidation, Electro-kinetic dewatering, design andconstruction methods.
+Unit-4
+Modification by admixtures: Cement stabilization and cement columns, Lime stabilization and lime columns.
+Stabilization using bitumen and emulsions, Stabilization using industrial wastes Construction techniques
+andapplications.
+Unit 5
+Grouting:Permeation grouting, compaction grouting, jet grouting, different varieties of grout materials,grouting
+under difficult conditions.
+Unit-6
+In situ soil treatment methods: Soil nailing, rock anchoring, micro-piles, design methods, construction
+techniques.
+Unit-7
+Case studies:Case studies of ground improvement projects.
+TE 68 |P a g e
+
+--- Page 70 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Course Outcome:
+1. Students will be able to understand the necessity of ground improvement techniques
+2. Students will be able to understand the details of mechanicalstabilization
+3. Students will be able to understand the ground improvement by drainage
+4. Students will be able to understand the applications of admixtures for ground improvement
+5. Students will be able to understand the applications of grouting techniques
+6. Students will be able to understand the in situ soil treatment methods
+7. Students will be able to understand the case studies of ground improvement projects.
+To establish the correlation between COs & POs
+Table-1
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE32E07.1
+Students will be able to understand the necessity of ground improvement techniques
+PCE32E07.2 Students will be able to understand the details of mechanical stabilization
+PCE32E07.3 Students will be able tounderstand the ground improvement by drainage
+PCE32E07.4 Students will be able to understand the applications of admixtures for ground improvement
+PCE32E07.5
+Students will be able to understand the applications of grouting techniques
+PCE32E07.6 Students will be able to understand the in situ soil treatment methods
+PCE32E07.7 Students will be able to understand the case studies of groundimprovement projects
+Table-2
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E07.1 3 2 2 3 2 3
+PCE32E07.2 3 2 2 3 2 3
+PCE32E07.3 3 2 2 3 2 3
+PCE32E07.4 3 2 2 3 2 3
+PCE32E07.5 3 2 2 3 2 3
+PCE32E07.6 3 2 2 3 2 3
+PCE32E07.7 3 2 2 3 2 3
+Total 21 14 14 21 14 21
+Average 3 2 2 3 2 3
+Eq. Av Attainment 3 2 2 3 2 3
+TE 69 |P a g e
+
+--- Page 71 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32E07.1 4 3
+PCE32E07.2 4 3
+PCE32E07.3 4 3
+PCE32E07.4 4 3
+PCE32E07.5 4 3
+PCE32E07.6 4 3
+PCE32E07.7 4 3
+Total 28 21
+Average 4 3
+Eq. Avg Attainment 4 3
+References:
+Sl. No. Name of the Books Authors Publishers
+Laxmi Publications (P)
+1. Ground Improvement Techniques P. Purushothama Raj
+Ltd.
+Engineering Principles of Ground McGraw-Hill Pub,
+2. Manfired R.Hausmann
+Modification Co.
+3. Designing with geosynthetics R. M. Koerner Prentice Hall Inc.
+U. S. Army Corps of
+Guidelines on ground improvement for U. S. Army Corps of
+4. Engineers, Washington
+structure and facilities Engineers
+DC
+Petros P. Xanthakos, Lee W.
+5. Ground Control and Improvement Abramson and Donald A. John Wiley, New York
+Bruce
+Additional Readings:
+Journal and Conference papers in the area of Ground Improvement, Ground Engineering, Geotextiles and
+geomembranes, Geosynthetics, etc.
+TE 70 |P a g e
+
+--- Page 72 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Finite Element Method
+(PCE32E08)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. Understand the mathematical and physical principles underlying the Finite Element Method (FEM) focussed on
+stress analysis of common geotechnical engineering problems.
+2. Demonstrate the ability to formulate and implement to solve geotechnical engineering problems using Finite
+Element Analysis.
+3. Be able to evaluate accuracy of the Finite Element solutions using a range of techniques.
+4. Be able to create his/her own FEM computer programs, for simple problems.
+5. Understand the importance of analysis, using FEM, in the broader context of engineering practice.
+Course Content:
+Unit-1
+Introduction: Boundary Value Problem - Approximate Solution - Variational and Weighted Residual
+Methods - Ritz and Galerkin Formulations - Concepts of Piecewise Approximation and Finite Elements -
+Displacement and Shape Functions-Weak Formulation-Minimum Potential Energy-Generation of Stiffness
+Matrix and Load Vector.
+Unit-2
+Stress Analysis: Two Dimensional problems - Plane Stress, Plain Strain and Axisymmetric Problems -
+Triangular and Quadrilateral Elements - Natural Coordinates - Isoparametric Formulation - Numerical
+Integration-Plate Bending and Shell Elements-Brick Elements-Elements for Fracture Analysis.
+Unit-3
+Meshing and Solution Problems:Higher Order Elements-p and h Methods of refinement-IIL conditioned
+Elements-Discretization Errors-Auto and Adaptive Mesh Generation Techniques-Error Evaluation.
+Unit-4
+Nonlinear and Vibration Problems: Material and Geometric Nonlinearity - Methods of Treatment -
+Consistent System Matrices–Dynamic Condensation-Eigen Value Extraction.
+Unit-5
+Thermal Analysis:Thermal analysis problems.
+Course Outcome:
+At the end of the course, a student will be able to
+1. Analyze linear 1D problem such as bars, beams, 2D problems using CST element, 4 node quadrilateral element,
+axi-symmetric problems with triangular elements, 3 and 4 node plate elements.
+2. Write shape functions for 8 node quadrilateral, 6 node triangular (LST) elements, 8 node brick element, shell
+element, and apply numerical integration to solve; 1D and 2D; stiffness integrations.
+TE 71 |P a g e
+
+--- Page 73 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+3. Understand p and h Methods of refinement, discretization Errors and auto and adaptive mesh generation
+techniques.
+4. Apply suitable boundary conditions to a global equation for various geotechnical engineering problems and
+solve them to determine displacements, stresses and strains.
+5. Understand the finite element method to solve problems with material and geometric nonlinearity and vibration
+problems.
+6. Critically assess a finite element analysis for correctness.
+To establish the correlation between COs & POs
+Table-1
+No. of course
+Course Outcome
+outcome (CO)
+Student will be able to analyzelinear 1D problem such as bars, beams, 2D problems
+PCE32E08.1 using CST element, 4 node quadrilateral element, axi-symmetric problems with
+triangular elements, 3 and 4 node plate elements.
+Student will be able to write shape functions for 8 node quadrilateral, 6 node triangular
+PCE32E08.2 (LST) elements, 8 node brick element, shell element, and apply numerical integration to
+solve; 1D and 2D; stiffness integrations.
+Student will be able to understandp and h Methods of refinement, discretization Errors
+PCE32E08.3
+and auto and adaptive mesh generation techniques.
+Student will be able to apply suitable boundary conditions to a global equation for
+PCE32E08.4
+variousgeotechnicalengineering problemsand solve them to determine displacements,
+stresses and strains.
+Student will be able to understand the finite element method to solve problems with
+PCE32E08.5
+material and geometric nonlinearity and vibration problems.
+PCE32E08.6
+Student will beable to critically assess a finite element analysis for correctness.
+Table-2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E08.1 3 3 2 3 2 3
+PCE32E08.2 3 3 2 3 2 3
+PCE32E08.3 3 3 2 3 2 3
+PCE32E08.4 3 3 2 3 2 3
+PCE32E08.5 3 3 2 3 2 3
+PCE32E08.6 3 3 2 3 2 3
+Total 18 18 12 18 12 18
+Average 3 3 2 3 2 3
+Equivalent Avg. Attainment
+3 3 2 3 2 3
+TE 72 |P a g e
+
+--- Page 74 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish thecorrelation between COs & PSOs
+CO PSO1 PSO2
+PCE32E08.1 4 2
+PCE32E08.2 4 2
+PCE32E08.3 4 2
+PCE32E08.4 4 2
+PCE32E08.5 4 2
+PCE32E08.6 4 2
+Total 24 12
+Average 4 2
+Eq. Avg Attainment 4 2
+References:
+Sl. No. Name of the Book Author Publisher
+1 Finite Element Method Zeinkiewicz, O. C. Tata Mcgraw Hill, 1988
+Mcgraw-Hill International
+2 The Finite Element Method-Vol. I Zeinkiewicz & Taylor
+Editions
+Mcgraw-HillInternational
+3 The Finite Element Method-Vol. II Zeinkiewicz & Taylor
+Editions
+Mcgraw-Hill International
+4 The Finite Element Method-Vol. III Zeinkiewicz & Taylor
+Editions
+Vibrations, Dynamics and Structural
+5 Mukhopadhyay, M. Oxford and IBH
+System
+An Introduction to the Finite Element Mcgraw-Hill International
+6 Reddy, J. N.
+Method Editions
+7 The Finite Element Analysis Seshu, P. PHI
+8 Finite Element Procedures Bathe, K. J. Prentice Hall, 1996
+Fish, J. and Belytschko,
+9 A First Course in Finite Elements John Willey & Sons, 2007
+T.
+Concepts and Applications of Finite
+10 Cook, R. D. John Willey & Sons
+Element Analysis
+Finite Element Analysis-Theory and
+11 Krishnamurthy, C. S. Tata Mcgraw Hill
+Programming
+Introduction to Finite Element
+12 Petyt, M. CambridgeUniversity Press
+Vibration Analysis
+TE 73 |P a g e
+
+--- Page 75 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Advanced Traffic Engineering
+(PCE32E09)
+Total Credits 04 L – T – P 3 – 1 – 0
+Course Objective:
+1. To understand the concept of Traffic flow
+2. To know the function of different intersections
+3. To analyse the various aspect of road safety
+4. To evaluate the traffic problem in cities including air pollution, noise pollution etc.
+Course Content:
+Unit-1
+Traffic flow- Relationship between the variables, fundamental diagram of traffic flow Microscopic and
+macroscopic flow characteristics, Different models
+Light hill and Witham’s theory -Approach to signalized intersection, Bottleneck , Green bergs extension law of
+continuity:Shock Wave Analysis;
+Car following theories-Principles, Derivation of equation: Queuing Analysis;
+Level of service–Concept in HCM manual, factors affecting capacity & level of service.Estimation of traffic for
+road construction.
+Unit-2
+Speed Change Lanes-Acceleration, Deceleration lane and Design
+Intersection – At grade, Grade separated intersection, Channelized & Non- Channelized intersection; Rotary
+intersection–advantages, disadvantages &design; Signal-signal phasing, dilemma zone.
+Unit-3
+Road safety analysis – spot map, collision & condition diagram, causes and prevention of accidents, Types of
+crashes, Functional design implication in safety; Conflict-diverging, merging, crossing; Road safety Audit
+Regulation of Traffic–Need for traffic regulation-traffic laws and regulation of speed.
+Unit-4
+Nature of traffic problems in cities – difficulties in urban traffic conditions, measures to meet the problem,
+promotion of public transport,pedestrianisation; Mode choice.
+Environmental & Energy consideration in transportation – Air pollution, noise pollution, Fuel crisis, Factors
+affecting fuel consumption of motor vehicles; Vehicle Operating Costs – components of VOC, factors affecting
+VOC.
+TE 74 |P a g e
+
+--- Page 76 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Course Outcome:
+1. Studentswill be able to studythe concept of Traffic flow including Level of service (K2)
+2.Students will be able to acquire a idea regarding different intersections & their function including speed
+change lane (K2)
+3. Students will be able to analyse accident study using the knowledge of spot map, collision & condition
+diagram etc. (K4)
+4. Students can evaluate the traffic problems in cities & can take appropriate measures for smooth traffic
+operation (K5)
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to studythe concept of Traffic flow including Level of
+PCE32E09.1
+service
+Students will be able to acquire aidea regarding different intersections & their
+PCE32E09.2
+function including speed change lane.
+Students will be able to analyse accident study using the knowledge of spot map,
+PCE32E09.3
+collision & condition diagram etc.
+Students can evaluate thetraffic problems in cities & can take appropriate
+PCE32E09.4
+measures for smooth traffic operation.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32E09.1 3 3 3 3 2 2
+PCE32E09.2 3 3 3 3 2 2
+PCE32E09.3 3 3 3 3 2 2
+PCE32E09.4 3 3 3 3 2 2
+Total 12 12 12 12 8 8
+Average 3 3 3 3 2 2
+Eq. Av Attainment 3 3 3 3 2 2
+TE 75 |P a g e
+
+--- Page 77 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32E09.1 3 4
+PCE32E09.2 3 4
+PCE32E09.3 3 4
+PCE32E09.4 3 4
+Total 12 16
+Average 3 4
+Eq. Avg Attainment 3 4
+References:
+Sl No. Name of Books Author Publisher
+Introduction to traffic Engg: A manual
+1 Thomas Currin Brroks
+for data collection and analysis
+Traffic Engineering and Transport
+2 L.R . Kadiyali Khanna Publisher
+Planning
+Roger P Roess, Elena S
+3. Traffic Engineering Prentice Hall
+Prassas
+Traffic Engineering Design Principle Mike Siinn, Poter
+4. Elsevier
+&Practice Guest, Paul Matthews
+TE 76 |P a g e
+
+--- Page 78 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+PRACTICAL/SESSIONAL
+Project Preliminaries
+(PCE32P01)
+Total Credits 04 L–T–P 0–0–4
+Each student will be given a Thesis/Project problem at the beginning of Second Semester. They will work on the
+literature survey, scope of work, equipment development etc. and submit a report/dissertation. The main
+Thesis/Project work will, however, be done in Third and Fourth Semester.
+TE 77 |P a g e
+
+--- Page 79 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Pavement Engineering Laboratory-II
+(PCE32P02)
+Total Credits 02 L – T – P 0 – 0 – 4
+Course Objective:
+1. To gain knowledge about the tests related to pavement materials.
+2. To learn the method of performing different tests of pavement materials.
+3. To apply different methods of performing tests in the field based on the appropriateness.
+Course Content:
+Unit-1
+To determine the impact value of coarse aggregate.
+Unit-2
+To determine the Los Angeles Abrasion test of coarse aggregate.
+Unit-3
+To determine the shape test of coarse aggregate.
+Unit-4
+To determine the CBR test ofcoarse aggregate.
+Unit-5
+To determine the rutting behavior of pavement materials.
+Unit-6
+To determine the percentage of binder content from asphalt mix.
+Unit-7
+To determine the Marshall stability test of asphalt mix.
+Unit-8
+To determine the skidresistance of road surface.
+Unit-9
+To determine the viscosity of bitumen.
+Unit-10
+To determine the permeability of concrete.
+Unit-11
+To conduct the RTFO test on Asphalt.
+TE 78 |P a g e
+
+--- Page 80 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Unit-12
+To determine the PCI for pavement surface.
+Course Outcome:
+1.Students will be able to explain the tests related to pavement materials. (K2)
+2. Students will be able to apply different methods of performing tests in the field based on the appropriateness.
+(K3)
+3. Students will be able to analyze the different tests of pavement materials. (K4)
+4. Students will be able to recommend the appropriate test related to pavement materials based on the field
+condition. (K5)
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+Students will be able to demonstrate the tests related to pavement
+PCE32P02.1
+materials.
+Students will be able to apply different methods of performing tests in
+PCE32P02.2
+the field based on the appropriateness.
+PCE32P02.3 Students will be able toexplain the different tests of pavement materials.
+Students will be able to recommend the appropriate test related to
+PCE32P02.4
+pavement materials based on the field condition.
+Table2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32P02.1 3 2 2 3 2 2
+PCE32P02.2 3 2 2 3 2 2
+PCE32P02.3 3 2 2 3 2 2
+PCE32P02.4 3 2 2 3 2 2
+Total 12 8 8 12 8 8
+Average 3 2 2 3 2 2
+Eq. AvAttainment 3 2 2 3 2 2
+TE 79 |P a g e
+
+--- Page 81 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32P02.1 2 3
+PCE32P02.2 2 3
+PCE32P02.3 2 3
+PCE32P02.4 2 3
+Total 8 12
+Average 2 3
+Eq. Avg Attainment 2 3
+TE 80 |P a g e
+
+--- Page 82 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+ComputerOriented Design Lab
+(PCE32P03)
+Total Credits 02 L – T – P 0 – 0 – 4
+Course Objective:
+1. To gain knowledge about the different softwares related to Transportation Engineering.
+2. To learn the method of performing different softwares ofTransportation Engineering.
+3. To analyse collected data using appropriate softwares.
+Course Content:
+Unit-1
+To learn Q-GIS software.
+Unit-2
+To learn Arc-GIS software.
+Unit-3
+To learn KENPAVE software.
+Unit-4
+To learn KENSLAB software.
+Unit-5
+Tolearn Abacus software.
+Unit-6
+To learn Biogeme software.
+Course Outcome:
+1. Students will be able to explain the operation of sofwares. (K2)
+2. Students will be able to apply the softwares based on the application. (K3)
+3. Students will be able to analysethe data using different softwares. (K4)
+4. Students will be able to design any model using appropriate software. (K6)
+To establish the correlation between COs & POs
+Table-1
+No. of Course Outcome
+Course Outcome
+(CO)
+PCE32P03.1 Students will be able to explain the operation of sofwares.
+PCE32P03.2 Students will be able to apply the softwares based on the application.
+PCE32P03.3 Students will be able to analyse the data using different softwares.
+PCE32P03.4 Students will be able to design any model using appropriate software.
+TE 81 |P a g e
+
+--- Page 83 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Table- 2
+Slight(Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE32P03.1 3 2 2 3 2 2
+PCE32P03.2 3 2 2 3 2 2
+PCE32P03.3 3 2 2 3 2 2
+PCE32P03.4 3 2 2 3 2 2
+Total 12 8 8 12 8 8
+Average 3 2 2 2 2 2
+Eq. Av Attainment 3 2 2 2 2 2
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE32P03.1 2 2
+PCE32P03.2 2 2
+PCE32P03.3 2 2
+PCE32P03.4 2 2
+Total 8 8
+Average 2 2
+Eq. Avg Attainment 2 2
+TE 82 |P a g e
+
+--- Page 84 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+Comprehensive Viva-Voce
+(PCE32P04)
+Viva-voce will be conducted forallthe students at the end of the Second Semester in the department by the board
+of examiners constituted by the Transportation Engineering Section of Civil Engineering Department.
+TE 83 |P a g e
+
+--- Page 85 ---
+Syllabus: M.Tech, Transportation Engineering NIT Agartala
+THIRD SEMESTER
+Project & Thesis
+(PCE33P01)
+Each student will devote full time in the Third Semester on a Thesis/Project on an assigned research problem of
+Design/Development work under the supervision of a Faculty Member. They will present a part of the
+Thesis/Project Report at the end of the Third Semester which will be evaluated by a Board of Examiners consisting
+of the Supervisor and External Examiner. The evaluation of the above said Thesis will be followed by a viva-voce
+in front of faculty members and other post-graduate students.
+THIRD SEMESTER No. of Classes/Week
+Sl. Marks
+Subject Code Name of the Subject Lecture Tutorial Practical
+No. Total
+Credits
+1. PCE33P01 Project & Thesis 00 00 Full 10 100
+00 00 10 100
+Total Full
+FOURTH SEMESTER
+Project & Thesis
+(PCE34P01)
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an assigned research problem of
+Design/Development work under the supervision of a Faculty Member. They will present a Final Thesis/Project
+Report at the end of the Fourth Semester which will be evaluated by a Board of Examiners consisting of the
+Supervisor and External Examiner. The evaluation of the above said Thesis will be followed by a viva-voce in
+front of faculty members and other post-graduate students.
+FOURTH SEMESTER No. of Classes/Week
+Total
+Marks
+Sl. Credits
+Subject Lecture Tutorial Practical
+No.
+1 PCE34P01:Project & Thesis 00 00 Full 20 300
+Total 00 00 Full 20 300
+TE 84 |P a g e

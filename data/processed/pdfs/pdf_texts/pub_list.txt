@@ -1,0 +1,58 @@
+
+--- Page 1 ---
+SUPRIYO DUTTA
+Assistant Professor,
+Department of Mathematics,
+National Institute of Technology Agartala, Tripura, India - 506371.
+Email: dosupriyo@gmail.com, drsupriyo@nita.ac.in
+Homepage: https://sites.google.com/view/supriyo-dutta
+Orcid id: 0000-0003-2369-7915
+List of Publications
+2023
+18. ShigeruFuruichi,HamidRezaMoradi,SupriyoDutta. Convexinequalitiesandtheirapplicationstorelativeoperator
+entropies. Journal of Convex Analysis (Accepted). ArXiv: 2202.04299.
+17. Supriyo Dutta, Subhashish Banerjee, Monika Rani. Quantum Hypergraph States in Noisy Quantum Channels.
+Physica Scripta (Accepted). ArXiv: 2110.08829.
+16. Supriyo Dutta. Quantum routing in planar graph using perfect state transfer. Quantum Information Processing
+(Accepted). ArXiv:2302.10074.
+15. SupriyoDutta,ParthaGuha. ASystemofBilliardandItsApplicationtoInformation-TheoreticEntropy. Advances
+in Theoretical and Mathematical Physics (Accepted). ArXiv: 2004.03444.
+14. SupriyoDutta,ShigeruFuruichi. Onlog-suminequalities. Linear and Multilinear Algebra. 2023. ArXiv:2005.03272.
+2022
+13. SupriyoDutta,ParthaGuha. AnInformation-TheoreticEntropyRelatedtoIharaζ FunctionandBilliardDynamics.
+Mathematical Analysis and Applications, MAA 2020, Jamshedpur, India. Print ISBN: 978-981-16-8176-9. 2022.
+2021
+12. Ramita Sarkar, Supriyo Dutta, Subhashish Banerjee, Prasanta K. Panigrahi. Phase Squeezing of Quantum Hyper-
+graph States. Journal of Physics B: Atomic, Molecular and Optical Physics, 54, 135501, 2021. ArXiv: 2009.01082.
+11. Supriyo Dutta, Shigeru Furuichi, Partha Guha. A two-parameter entropy and its fundamental properties. Reviews
+in Mathematical Physics, 33 (4), 2130003, 2021. ArXiv:1908.01696.
+2020
+10. Siddhant Singh, Bibhas Adhikari, Supriyo Dutta, David Zueco. Perfect state transfer on hypercubes and its imple-
+mentation using superconducting qubits. Physical Review A 102 (6), 062609, 2020. ArXiv:2011.03586.
+9. SupriyoDutta. ConstructingNon-isomorphicSignlessLaplacianCospectralGraphs. DiscreteMathematics,343(04):
+111783, 2020. ArXiv:1808.04054.
+8. Supriyo Dutta, Bibhas Adhikari. Construction of cospectral graphs. Journal of Algebraic Combinatorics, 52,
+215–235. 2020. ArXiv:1808.03490.
+2019
+7. SupriyoDutta, RamitaSarkar, PrasantaKPanigrahi. PermutationSymmetricHypergraphStatesandMultipartite
+Quantum Entanglement. International Journal of Theoretical Physics, 58(11): 3927–3944, 2019.
+6. Souma Mazumdar, Supriyo Dutta, Partha Guha. Sharma-Mittal quantum discord. Quantum Information Process-
+ing, 18(6): 169, 2019. arXiv:1812.00752v2.
+5. JavidNaikoo,SupriyoDutta,SubhashishBanerjee. Facetsofquantuminformationundernon-Markovianevolution.
+Physical Review A 99(4): 042128, 2019. arXiv:1902.01394.
+Updated on October 8, 2023.
+1
+
+--- Page 2 ---
+4. Supriyo Dutta, Bibhas Adhikari, Subhashish Banerjee. Condition for zero and nonzero discord in graph Laplacian
+quantum states. International Journal of Quantum Information, 17(02): 1950018, 2019. arXiv:1705.00808v2.
+2018
+2017
+3. Supriyo Dutta, Bibhas Adhikari, Subhashish Banerjee. Quantum discord of states arising from graphs. Quantum
+Information Processing, 16(8): 183, 2017. arXiv:1702.06360v1.
+2016
+2. Supriyo Dutta, Bibhas Adhikari, Subhashish Banerjee, R. Srikanth. Bipartite separability and nonlocal quantum
+operations on graphs. Physical Review A, 94 (1): 012306, 2016. arXiv:1601.07704v2.
+1. Supriyo Dutta, Bibhas Adhikari, Subhashish Banerjee. A graph theoretical approach to states and unitary opera-
+tions. Quantum Information Processing, 15 (5):2193-2212, 2016. arXiv:1502.07821v2.
+2
