@@ -1,7 +1,0 @@
-Employee Login
-Username
-Password
-Forgot Password?
-Home
-Don't have an account?
-Create One
