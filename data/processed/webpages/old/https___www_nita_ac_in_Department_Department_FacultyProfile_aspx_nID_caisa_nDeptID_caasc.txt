@@ -1,0 +1,455 @@
+Webmail
+MIS
+Login
+Old Website
+-
+font size
+                                    decrease
+font size reset
++
+font size
+                                    increase
+default theme
+Dark mode
+National Institute of Technology Agartala
+राष्ट्रीय प्रौद्योगिकी संस्थान अगरतला
+Skip Navigation Links
+HOME
+ABOUT
+About NITA
+Facilities
+Strategic Plan 2020-2030
+Virtual Tour of NIT Agartala
+ADMINISTRATION
+Board of Governors
+The Senate Committee
+The Finance Committee
+Office of Director
+The Buildings and Works Committee
+Office of Registrar
+Office of Dean (Academic Affairs)
+Office of Dean(Planning & Development)
+Office of Dean(Students' Welfare)
+Office of Dean(Research & Consultancy)
+Office of Dean(Faculty Welfare)
+Office of Chairman (AR & IR)
+Chief Information Security Officer (CISO)
+Chief Vigilance Officer (CVO)
+Establishment Section
+Accounts Section
+Audit Section
+Purchase Section
+MIS Section
+Library Section
+Computing & ICT Unit
+Office of  Vehicle Section
+ACADEMICS
+Academic Calendar
+Academic Regulations
+UG Regulations (old)
+Regulations for M.tech Programme (2019)
+Regulations for M.tech Programme (Old)
+Regulations for Ph.D Programme  (2018)
+Regulations for Ph.D Programme (Old)
+Admission
+UG Admission
+M.Tech Admission
+M.Sc Admission
+MCA Admission
+MBA Admission
+Ph.D Programme
+Visvesvaraya PhD Scheme
+DASA at NIT Agartala
+Prospectus
+First Year Syllabus
+B.Sc- B.Ed programme (4-Year ITEP)
+List of Holidays (July 2025 - June 2026)
+DEPARTMENT
+Bio Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Production Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+STUDENT
+Center for Career Development
+Examination Section
+List of People
+Verification of Academic Credential
+DigiLocker
+SOP for acquiring Academic Documents
+Question Bank Link
+Hostel
+Office of the Chief Warden
+NITA Health Centre
+Sports at NIT Agartala
+Student Bodies and Clubs
+Student Discipline Manual
+Academic Bank of Credits (ABC)
+Anti-Ragging
+Study in India
+ALUMNI
+Message
+Chairman Alumni Affairs
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+NEWS EVENTS
+Newsletter of NIT Agartala
+Magazine "UPSHIFT" Edition 3
+Magazine "UPSHIFT" Edition 2
+Magazine "UPSHIFT" Edition 1
+Past Events
+Research
+Overview
+Project
+Sponsored Project
+Consultancy Project
+Patent
+Education/ Training
+Conference Organized
+Workshop/ Seminar Organized
+Research & Innovation Centre
+Documents
+Achievements
+LIBRARY
+E-Resource (Remote Access)
+OPAC
+One nation One Subscription (ONOS)
+Electrical Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Magazine
+Faculty/Staff Profile
+Dr. Shailendra Singh
+Dr. Shailendra Singh
+Assistant Professor
+Department:
+Electrical Engineering
+Email ID :
+shailendra.ee@nita.ac.in
+URL:
+https://scholar.google.co.in/citations?hl=en&user=UIZaoYYAAAAJ
+Research Area :
+Smart Energy Distribution Systems, Grid Automation and Control, Micro-Grid Control, Electric Vehicles Grid Integration, Distributed Energy Resources Management. Application of  Blockchain, Artificial Intelligence & Machine Learning in Energy Systems, IOT Applications in Distribution/Micro-grids, and Electricity Energy Market
+(Looking for highly motivated research scholars for Ph.D. and Masters's degrees in above mentioned research areas.
+Please get in touch with me and send your CV to: shailendra.ee@nita.ac.in)
+CV :
+View
+Courses Taught
+UG Courses
+1)Basic Electrical Engineering,
+2)Artificial Intelligence and Expert System
+PG Courses
+1) Operation and Control of  Electrical Energy System
+2) Energy Management Planning and Audit
+Student Register For PhD Enrolled OnGoing
+Mr. Naren Das, (Supervisor)
+Mr. Rajesh Kumar (Co-Supervisor)
+Address Information
+Address
+6th Floor, FC-7D, Electrical Engineering Department
+National Institute of Technology Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+shailendra.ee@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+9412482849
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Post Doc
+(
+                                                            Post Doc                                                                                            )
+Nanyang Technological University (NTU) Singapore
+2022
+Project: 1) Blockchain based Decentralized Peer to Peer Energy Trading (2)Mitigating Solar Intermitt
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+Indian Institute of Technology(Banaras Hindu University) Varanasi, UP, India
+2020
+Thesis: Energy Conservation in Active Distribution Network via Smart Volt/VAR Control
+OTHER
+(
+                                                            OTHER                                                                                               )
+National Renewable Energy Laboratory (NREL), Golden USA (Visting Scholar)
+2018
+Project: Grid Integration of Photovoltaics and Operational Issues in Smart Grid
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+National Institute of Technology (NIT) Kurukshetra,Haryana, India
+2012
+Electrical Engineering (Power Systems)
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+Dr. A P J Abdul Kalam Technical University (Formally UPTU) Lucknow UP, India
+2010
+Electrical and Electronics Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Irudayaraj, Raj,  Veerapandiyan Veerasamy,  Shailendra Singh, and Hoay Beng Gooi et all. "An adaptive Zhang Neural Network controller for Frequency Control of Renewable Energy Integrated System.", IEEE PIICON 2022, at NIT Delhi, 25-27 Nov 2022
+FEB
+2023
+Veerapandiyan Veerasamy, Shailendra Singh, Shadab Murshid and Hoay Beng Gooi et all. "Blockchain-Based Microgrid Frequency Control and 
+Energy Trading to Incentivize EV Aggregator"2023 IEEE 3rd International Conference on Sustainable Energy and Future Electric Transportation (IEEE SeFeT 2023), 09 - 12 August 2023. (Accepted)
+AUG
+2023
+Amit Kumar Thakur, Shailendra Singh, Devesh Shukla, S. P. Singh, “Detection and Classification of Power Quality Disturbance in Variable Renewable Energy Resources using Variational Mode Decomposition, “2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC), KIIT, Bhuvneshwar, 09-13 Dec 2023.
+DEC
+2023
+Veerasamy, Veerapandiyan; Singh, Shailendra; Murshid, Shadab; Nguyen, Hung D; Gooi, H. B, “Blockchain-Based Microgrid Frequency Control and Energy Trading to Incentivize EV Aggregator” IEEE 3rd International Conference on Sustainable Energy and Future Electric transportation (SEFET) 2023, 09-12 Aug. 2023.
+AUG
+2023
+Purba Sutradhar, Shailendra Singh and Diptanu Dey, Intelligent Energy Management System for Community Microgrid, International Conference on Recent Trends in Mathematics, Statistics, and Engineering on December 22 – 23, 2023.
+DEC
+2023
+Shailendra Singh, A. K. Thakur, Vijay babu.P, S. P. Singh, “Real-time Conservation Voltage Reduction and Control in Smart Micro¬Grid Application” 2020 IEEE International Conference on Power Electronics, Drives, and Energy Systems (PEDES), MNIT Jaipur, India 16¬-19 December 2020.
+DEC
+2020
+3.	Vijay babu. P, Shailendra Singh, A. K. Thakur, S. P. Singh,” Coordinated Operation of Battery Energy Storage and VVC devices in High¬PV Penetrated Distribution Network” 2020 IEEE International Conference on Power Electronics, Drives, and Energy Systems (PEDES), MNIT Jaipur, India 16¬-19 December 2020
+DEC
+2020
+4.	Vijay babu. P, A. K. Thakur, Shailendra Singh, S. P. Singh,” Bi¬Level Operational Planning of Microgrids considering Conservation Voltage Reduction” 2020 IEEE International Conference on Power Electronics, Drives, and Energy Systems (PEDES) 16¬19 December 2020., ISBN/ISSN: 978-1-7281- 6612-4
+DEC
+2020
+5.	Vijay Babu Pamishetti, Shailendra Singh and S. P. Singh, “Multi¬Stage Coordination Volt/VAR Control with CVR in Active Distribution Network in presence of Inverter¬Based DG Units and Soft Open” 55th IEEE Industry Application Society Annual Meeting, Detroit, Michigan, USA, 2020
+NOV
+2020
+6.	Devesh Shukla, Shailendra Singh, and S. P. Singh,” Block¬chain Based Energy Trading in AND with its probable impact on Aggregated Load Profile and Available Distribution Capability” 2020 2nd International Conference on Smart Power and Internet Energy Systems, Thailand, 15¬-18 September 2020
+SEPT
+2020
+7.	Vijay babu.P, Shailendra Singh, Amit Kumar; Singh, S. P., B.V. kumar, ”Integrated Operation of Conservation Voltage Reduction and Network Reconfiguration in PV¬Rich Distribution Network considering Soft Open Point Impact, IEEE Industry Application Society Annual Meeting, Baltimore, Maryland, United States, 2019
+2019
+Shailendra Singh, Santosh Veda, S. P. Singh and Murali Baggu, “Maximizing the Benefits of Volt/VAR Optimization in the Presence of Community Energy Storage” 2018 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Chennai, India, Dec.18-¬21, 2018
+DEC
+2018
+Shailendra Singh, S. Muwal, D. Shukla and S. P. Singh, “Model Predictive Driven Volt/VAr Control for Smart Grid Enabled CVR in Active Distribution Network” 8th IEEE Power India International Conference, Kurukshetra, India,9¬-11 Dec. 2018
+DEC
+2018
+Shailendra Singh, P.Vijay Babu and S. P. Singh, “Impact of Combined Operation of CVR and Energy Storage System in Distribution Grid” 20th National Power System Conference, NIT Trichy, India, 18¬-21 Dec, 2018.
+DEC
+2018
+Singh, Shailendra, Santosh Veda, Murali M. Baggu, and Shiv Singh. Smart grid-enabled CVR: an advanced application for distribution management systems. No. NREL/PO-5D00-71946. National Renewable Energy Lab.(NREL), Golden, CO (United States), 2018 Presented at IEEE PES General Meeting, Portland, USA,  2018
+SEPT
+2018
+Shailendra Singh, S. P. Singh, ‘Peak Load Relief in MV/LV Distribution Network Through Smart Grid Enabled CVR With Droop Control EV2G Reactive Power Support’, IEEE International Conference on Power, Instrumentation, Computing and Control, GEC Trichur, India, Jan. 18¬ 20, 2018.
+JAN
+2018
+Vijay Babu P. Shailendra Singh, S.P. Singh, “Distributed Generators allocation in Distribution System” 2017 IEEE PES General Meeting, Chicago USA, July 16¬20, 2017.pp¬1¬6
+JULY
+2017
+Shailendra Singh, Devesh Shukla S.P. Singh, “Peak Load Demand Reduction in Distribution Network Grid Enabled CVR” with Smart 2016 IEEE PES Innovative Smart Grid Technologies – Asia, at Melbourne, Australia, 28 Nov ¬ 01 Dec 2016,
+DEC
+2016
+Shailendra Singh, A. K. Thakur, S. P. Singh, “Energy Savings in Distribution Network With Smart Grid¬Enabled CVR and Distributed Generation,” National Power System Conference, 19¬21 Dec, 2016, at IIT Bhubaneswar India
+DEC
+2016
+Shailendra Singh, S. P. Singh, “Opportunities and Challenges for Deployment of CVR/VVO Methodology in Indian Smart Energy Distribution System” 2nd International Conference Exhibition on Smart Grids and Smart Cities,(ISGW 2016), at India Smart Grid Forum (ISGF)India, 15¬-19 March 2016.
+MAR
+2016
+Shailendra Singh, S. P. Singh, “A Smart Volt¬Var Optimization Engine for Energy Distribution System” IEEE International Conference on Emerging Trends in Electrical, Electronics Sustainable Energy Systems (ICETEESES¬16), at KNIT, Sultanpur India, on March 11¬-12, 2016.
+MAR
+2016
+Swati Rawat, Shailendra Singh, Kshitij Gaur Load Frequency Control of a Hybrid Renewable Power System with Fuel Cell System, 6TH IEEE POWER INDIA International Conference of PES¬IAS PELS¬IES Chapters of IEEE, At Delhi Technological University, Delhi, India December 05¬-07, 2014.
+DEC
+2014
+Shailendra Singh, Sameer K. Singh, Saurabh Chanana, YP Singh, “Frequency Regulation of an Isolated Hybrid Power System with Battery Energy Storage System”, IEEE International Conference Power and Energy System: Towards sustainable Energy, Bangalore India, March 15¬-16, 2014
+MAR
+2014
+Shailendra Singh, Harshita Joshi, Saurabh Chanana, Rohit Kumar Verma, “Impact of Superconducting Magnetic Energy Storage on Frequency Stability of an Isolated Hybrid Power System”. Proceedings of the 8th INDIACom; IEEE International Conference on “Computing for Sustainable Global Development”, 5th– 7th March 2014.
+MAR
+2014
+Dogga Raveendhra, Rahul Kumar and Shailendra Singh, Performance investigation of FPGA controlled central 3¬Level diode clamped inverter in 2¬stage (DC) SPV system. Second IEEE International Conference on Electrical Energy Systems (ICEES) – Jan 2014.
+JAN
+2014
+Shailendra Singh, Munendra Singh, Saurabh Chanana, and Dogga Raveendhra “Operation and control of a hybrid wind, diesel, battery energy system connected to microgrid” IEEE Conference on Control, Automation, Robotics Embedded system (CARE¬13), IIITDM Jabalpur,16¬-18 Dec 2013.
+DEC
+2013
+Shailendra Singh, Ajeet Kumar Singh, Saurabh Chanana, “Operation and Control of a Hybrid Photovoltaic, Diesel ¬Fuel Cell System Connected to Micro Grid”, 2012 IEEE Fifth POWER INDIA Conference, Delhi National Capital Region, INDIA. December 19-¬22, 2012.
+DEC
+2012
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Veerapandiyan V., A. Raj Irudayaraj, Zhijian Hu, Shailendra Singh, Qiu Haifeng, H. D. Nguyen, and H. B. Gooi, “Second-order Network for Decentralized Frequency Control of Multi-Microgrid Systems” IEEE CSEE Journal of Power and Energy Systems, April 2024 (Accepted)
+APRIL
+2024
+Udit Prasad, Soumya R. Mohanty, Shailendra Singh, and, S. P. Singh, Assessment of Protection Issues in Active Distribution Networks with Cyber Attack-Induced OLTC Operations, IEEE Transactions on Industry Applications, July 2024 (Accepted)
+JULY
+2024
+Shailendra Singh, Vijay Babu Pamshetti, Amit Kumar Thakur, SP Singh, HB Gooi, "Profit Maximization in ADN through Voltage Control and DR management with Networked Community Micro-Grids" IEEE Transactions on Industry Applications, 2023
+JAN
+2023
+V. Veerasamy, L. P. M. I. Sampath, Shailendra Singh, H. D. Nguyen and H. B. Gooi, "Blockchain-based Decentralized Frequency Control of Microgrids using Federated Learning Fractional-Order Recurrent Neural Network," IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2023.3267503. 2023 (Early Access).
+APRIL
+2023
+V. B. Pamshetti, Shailendra Singh, et al., "Cooperative Operational Planning Model for Distributed Energy Resources with Soft Open Point in Active Distribution Network," in IEEE Transactions on Industry Applications, 2022, doi: 10.1109/TIA.2022.3223339.
+NOV
+2022
+Shukla, Devesh, Shailendra Singh, Satyendra Pratap Singh, Amit Kumar Thakur, and Shiv Pujan Singh. "Blockchain-based energy trading in ADN with its probable impact on aggregated load profile, available distribution capability and loadability margin." IET Renewable Power Generation, 2022 (Early View).
+APRIL
+2022
+Shailendra Singh, Santosh Veda, S. P. Singh, Rishabh Jain and Murali Baggu ."Event-Driven Predictive Approach for Real-time Volt/VAR control with CVR in solar PV rich Active Distribution Network." IEEE Transactions on Power Systems, vol. 36, no. 5, pp. 3849- 3864 2021. DOI (identifier)10.1109/TPWRS.2021.3057656, ISBN No. 1558-0679 Impact Factor: 6.0
+FEB
+2021
+Vijay Babu Pamishetti, Shailendra Singh, A. K. Thakur and S. P. Singh, "Multi-Stage Coordination Volt/VAR Control with CVR in Active Distribution Network in presence of Inverter-Based DG Units and Soft Open Points." IEEE Transactions on Industry Applications, vol. 57, no. 3, pp. 2035-2047, May-June 2021. ISBN No. 1939-9367, DOI: 10.1109/TIA.2021.3063667 Impact Factor: 3.488
+JUN
+2021
+Shailendra Singh, Vijay Babu Pamishetti, A. K. Thakur and S.P. Singh, "MultiStage MultiObjective VoltVAR Control for Smart GridEnabled CVR with Solar PV Penetration." IEEE Systems Journal, Vol. 15, No. 2, pp 2767- 2778, 2021
+2021
+Vijay Babu Pamishetti, Shailendra Singh and S. P. Singh, “Combined Impact of Network Reconfiguration and Volt/VAR Control Devices on Energy Savings in the Presence of Distributed Generation,” IEEE Systems Journal, vol. 14, no. 1, pp. 995-1006, March 2020. Doi: 10.1109/JSYST.2019.2928139, ISBN No. 1939-9367 Impact Factor:3.987
+MAR
+2020
+Shailendra Singh, Vijay Babu Pamishetti and S.P. Singh, "Energy efficiency and peak load management via CVR and distributed energy storage in active distribution grid." International Transactions on Electrical Energy Systems, vol. 30, no. 3, March 2020. PP. e12224, DOI: 10.1002/2050-7038.12224, Impact Factor:2.860, ISSN:2050-7038
+MAR
+2020
+Vijay Babu Pamishetti, Shailendra Singh and S.P. Singh, “Reduction of energy demand via conservation voltage reduction considering network reconfiguration and soft open point”, International Transactions on Electrical Energy Systems, Vol. 30, Issue 1, January 2020. Doi: 10.1002/2050-7038.12147, e12147, Impact Factor: 2.860, ISSN:2050-7038
+JAN
+2020
+Shailendra Singh, Vijay Babu Pamishetti and S. P. Singh,” Time-Horizon Based Model Predictive Volt/VAR Optimization for Smart Grid Enabled CVR in the Presence of Electric Vehicle Charging Loads,” IEEE Transactions on Industry Applications, vol. 55, no. 6, pp. 5502-5513, Nov/Dec 2019. ISBN No.1939-9367, DOI: 10.1109/TIA.2019.2928490, Impact Factor: 3.488
+2019
+Shailendra Singh, and S. P. Singh, “Energy saving estimation in distribution network with smart grid enabled CVR and solar PV inverter”, IET Generation, Transmission Distribution, vol. 12, no. 6, 2018: 1346–1358. ISBN No. 1346-1358, DOI: 10.1049/iet-gtd.2017.0973 Impact Factor: 2.862
+2018
+Shailendra Singh, Rohit Kumar Verma A. K. Shakya, S. P. Singh, “Frequency Regulation of Microgrid Connected Hybrid Power System with SMES”, Technology and Economics of Smart Grids and Sustainable Energy, vol. 2. No.1, 2017, pp. 13. Springer (Scopus Index), DOI:10.1007/s40866-017-0028-3 , ISSN: 2199-4706
+2017
+Shailendra Singh, Deepak Tyagi, Ashwani Kumar, and Saurabh Chanana. ”Load shedding in Deregulation Environment and Impact of Photovoltaic System with SMES”, Energy Procedia, Elsevier, vol. 90, 2016, pp. 412-422. ISSN :1876-6102 (Scopus Index)
+2016
+Munendra Singh, Sunil Semwal, Asavani Kumar and Shailendra Singh” Impedance modeling for classification of flavored green teas” Turkish Journal of Electrical Engineering and Computer Science, vol. 23, 2015, pp. 2208 – 2214: doi 10.3906/elk-1306-253,ISSN: 1300-0632 Impact Factor:0.80
+2015
+Book Published
+No.
+Book Published
+Year
+1.	Udit Prasad, Soumya R. Mohanty, Shailendra Singh, and, S. P. Singh, Assessment of Protection Issues in Active Distribution Networks with Cyber Attack-Induced OLTC Operations, IEEE Transactions on Industry Applications, July 2024 (Accepted) (Book Chapter)
+2000
+Patent
+No.
+Patent Information
+Year
+Shailendra Singh and S. P. Singh, “System and method for energy management and voltage control through grid-connected community energy resources” (Published: Application No.: 202111033576).
+2021
+Achievement Information
+No.
+Patent Information
+Year
+•	Awarded Prestigious Young Professional Research Award at 3rd International Symposium on Sustainable energy and Technological Advancements (ISSETA-2024) during 23-24 Feb 2024 organized by NIT Meghalaya, in recognition of his outstanding professional & research achievements in the field of energy technologies
+2024
+Guest Editor in Energies Journal for Special Issue on "Application of Intelligent Techniques in Power System Stability, Control, and Protection", MDPI Publication (SCI, IF:3.04)
+2022
+Awarded Prestigious POSOCO Power System Award (PPSA-2020) under Doctoral Category for the research work on
+Energy Conservation in Active Distribution Network via smart Volt/VAR control, organized by Power System Operation
+Cooperation (POSOCO) Ltd. India in association with Fundamental for Innovation Technology Transfer (FITT), Indian Institute of Technology, Delhi.
+2020
+Ph.D. thesis shortlisted in top four candidates for final presentation round at Innovative Student Projects Award 2020
+under Doctoral Level(Electrical Engineering Domain) by the Indian National Academy of Engineers (INAE)
+2020
+The part of the Ph.D. thesis work, especially related to real-time co-simulations platform and Models,is recognized by
+RTDS Technologies Inc, CANADA, for webinar presentations under User Spotlight Series event in September-October
+2020.
+2020
+Awarded Prestigious Bhaskara Advanced Solar Energy (BASE) Fellowship/Internship-2018 supported by the Department of Science and Technology, Govt. of India, and the Indo-U.S. Science and Technology Forum for six months internship at National Renewable Energy Laboratory (NREL), Golden, Colorado, USA
+2018
+Training Conducted
+Month
+Year
+Training Conductted Information
+MAR
+2024
+As a coordinator, organised one-week DST-SERB sponsored High-end workshop on Blockchain Technology Applications in Electrical Energy systems, under accelerate Vigan Scheme from 13th to 19 March 2024 (Fund Received: 05 Lakhs)
+Subject Information
+Sr.No.
+Class
+Subject
+1
+B.Tech
+Basic Electrical Engineering
+2
+M.Tech
+Operation and Control of Electrical Energy System
+3
+B.Tech
+Expert System and Artificial Intelligence
+Department Important Links
+Quick Links
+Skip Navigation Links.
+Skip Navigation Links.
+National Institute of Technology Agartala
+Jirania , West Tripura
+Pin - 799046
+: director@nita.ac.in, nita.director@gmail.com
+: (0381)2546630 & Fax:(0381)2546360
+Reports/Minutes
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+Annual Audited Report
+Other Links
+Institute Innovation Council & Startup
+Central Research Facility
+Disclaimer
+Holiday List
+Alumni
+Convocation
+GSTIN of NITA
+Space Technology Incubation Centre
+External links
+ICT Initiatives of MoE
+Ministry of Education
+JOSAA,
+CSAB
+DASA,
+ICCR
+Study in India
+CCMT
+CCMN
+National Career Service Portal
+BIS
+Contact
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+Internal Complaint Committee (ICC)
+Copyright. All rights reserved. © National Institute of Technology Agartala
+Designed by
+Mastersoft
+| Maintained by
+NIT Agartala
+Last updated on 20/08/2025
+Number of visitors on the website :

@@ -1,0 +1,34 @@
+Alumni Database
+Message
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+Alumni Statistics (1970-2024)
+Sl No.
+Name of Degree
+Total No. of Alumni
+1.
+Bachelor of Technology
+12230
+2.
+BS-MS
+307
+3.
+BT-MT
+95
+4.
+Master of Technology
+1979
+5.
+M.Sc
+255
+6.
+MBA
+229
+7.
+MCA
+215
+8.
+Ph.D
+345

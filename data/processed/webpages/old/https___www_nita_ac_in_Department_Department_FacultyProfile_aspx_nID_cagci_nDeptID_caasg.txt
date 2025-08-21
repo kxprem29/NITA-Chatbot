@@ -1,0 +1,279 @@
+Webmail
+MIS
+Login
+Old Website
+-
+font size
+                                    decrease
+font size reset
++
+font size
+                                    increase
+default theme
+Dark mode
+National Institute of Technology Agartala
+राष्ट्रीय प्रौद्योगिकी संस्थान अगरतला
+Skip Navigation Links
+HOME
+ABOUT
+About NITA
+Facilities
+Strategic Plan 2020-2030
+Virtual Tour of NIT Agartala
+ADMINISTRATION
+Board of Governors
+The Senate Committee
+The Finance Committee
+Office of Director
+The Buildings and Works Committee
+Office of Registrar
+Office of Dean (Academic Affairs)
+Office of Dean(Planning & Development)
+Office of Dean(Students' Welfare)
+Office of Dean(Research & Consultancy)
+Office of Dean(Faculty Welfare)
+Office of Chairman (AR & IR)
+Chief Information Security Officer (CISO)
+Chief Vigilance Officer (CVO)
+Establishment Section
+Accounts Section
+Audit Section
+Purchase Section
+MIS Section
+Library Section
+Computing & ICT Unit
+Office of  Vehicle Section
+ACADEMICS
+Academic Calendar
+Academic Regulations
+UG Regulations (old)
+Regulations for M.tech Programme (2019)
+Regulations for M.tech Programme (Old)
+Regulations for Ph.D Programme  (2018)
+Regulations for Ph.D Programme (Old)
+Admission
+UG Admission
+M.Tech Admission
+M.Sc Admission
+MCA Admission
+MBA Admission
+Ph.D Programme
+Visvesvaraya PhD Scheme
+DASA at NIT Agartala
+Prospectus
+First Year Syllabus
+B.Sc- B.Ed programme (4-Year ITEP)
+List of Holidays (July 2025 - June 2026)
+DEPARTMENT
+Bio Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Production Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+STUDENT
+Center for Career Development
+Examination Section
+List of People
+Verification of Academic Credential
+DigiLocker
+SOP for acquiring Academic Documents
+Question Bank Link
+Hostel
+Office of the Chief Warden
+NITA Health Centre
+Sports at NIT Agartala
+Student Bodies and Clubs
+Student Discipline Manual
+Academic Bank of Credits (ABC)
+Anti-Ragging
+Study in India
+ALUMNI
+Message
+Chairman Alumni Affairs
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+NEWS EVENTS
+Newsletter of NIT Agartala
+Magazine "UPSHIFT" Edition 3
+Magazine "UPSHIFT" Edition 2
+Magazine "UPSHIFT" Edition 1
+Past Events
+Research
+Overview
+Project
+Sponsored Project
+Consultancy Project
+Patent
+Education/ Training
+Conference Organized
+Workshop/ Seminar Organized
+Research & Innovation Centre
+Documents
+Achievements
+LIBRARY
+E-Resource (Remote Access)
+OPAC
+One nation One Subscription (ONOS)
+Electronics and Instrumentation Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Placement
+Faculty/Staff Profile
+Dr. Rupam Gupta Roy
+Dr. Rupam Gupta Roy
+Assistant Professor (Contractual)
+Department:
+Electronics and Instrumentation Engineering
+Date of Joining :
+07/11/2014
+Email ID :
+rupamguptaroy05@gmail.com
+Address Information
+Address
+Electronics and Instrumentation Engineering, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+rupamguptaroy05@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+7005940657
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+ECE Department, NIT Agartala
+2021
+Robotics and Control domain.
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+Electrical Engineering, Specialization on Instrumentation Engineeringm, NIT agartala
+2013
+Instrumentation Engineering
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+M.B.E.S. College of Engineering, Ambajogai, Maharashtra
+2007
+Instrumentation Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Girish V Lakhekar and Rupam Gupta Roy “A fuzzy neuralapproach for dynamic spectrum allocation in cognitive radio networks”, iccpct 2014, ieee. (SCOPUS INDEXED).
+2014
+Girish V Lakhekar and Rupam Gupta Roy, “Heading control of an underwater vehicle using dynamic fuzzy sliding mode controller”, iccpct 2014, ieee. (SCOPUS INDEXED).
+2014
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Lakhekar V. Girish, Laxman M. Waghmare and Rupam Gupta Roy “Disturbance ObserverBased Fuzzy Adapted S-Surface Controller for Spatial Trajectory Tracking of Autonomous Underwater Vehicle”, IEEE Transactions on Intelligent Vehicles (2019). DOI: https://doi.org/10.1109/TIV.2019.2938082
+2020
+Lakhekar V. Girish, Laxman M. Waghmare, P. G. Jadhav and Rupam Gupta Roy “Robust diving motion control of an autonomous underwater vehicle using adaptive neuro-fuzzy sliding mode technique”, IEEE Access (2020). (SCIE indexed)
+2020
+Rupam Gupta Roy and Dibyendu Ghoshal (2019), “Adaptive second-order sliding-mode controller for shank-foot orthosis system”, International Journal of Control,92:7,1580-1589. DOI: https://doi.org/10.1080/00207179.2017.1400183 (SCI and SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “Grey Wolf Optimization-based Second order Sliding Mode Control for Inchworm Robot”, Robotica, Cambridge University Press (2019) DOI: https://doi.org/10.1017/S0263574719001620 (SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “A Novel Adaptive Second Order Sliding Mode Controller for Autonomous Underwater Vehicles”, Adaptive Behavior, SAGE Journals (2019). DOI: https://doi.org/10.1177/1059712319882105 (SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “Advanced Heavy Water Reactor Control with the aid of Adaptive Second Order Sliding Mode Controller” Engineering Computations, Emerald (2019) DOI: https://doi.org/10.1108/EC-03-2019-0088 (SCIE indexed).
+2019
+Book Published
+No.
+Book Published
+Year
+Baidya D. and Rupam Gupta Roy, “Speed Control of DC Motor Using Fuzzy-Based Intelligent Model Reference Adaptive Control Scheme”. In: Bera R., Sarkar S., Chakraborty S. (eds) Advances in Communication, Devices and Networking. Lecture Notes in Electrical Engineering, vol 462. Springer, Singapore, 2018 (SCOPUS INDEXED). (Book Chapter)
+2018
+Subject Information
+Sr.No.
+Class
+Subject
+1
+3rd Year
+Instrumentation Devices-II , Industrial Instrumentation , Process Control – I , Biomedical instrumentation
+2
+4th Year
+Process Control – II, Elective-I , Elective 2
+Department Important Links
+Quick Links
+Skip Navigation Links.
+Skip Navigation Links.
+National Institute of Technology Agartala
+Jirania , West Tripura
+Pin - 799046
+: director@nita.ac.in, nita.director@gmail.com
+: (0381)2546630 & Fax:(0381)2546360
+Reports/Minutes
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+Annual Audited Report
+Other Links
+Institute Innovation Council & Startup
+Central Research Facility
+Disclaimer
+Holiday List
+Alumni
+Convocation
+GSTIN of NITA
+Space Technology Incubation Centre
+External links
+ICT Initiatives of MoE
+Ministry of Education
+JOSAA,
+CSAB
+DASA,
+ICCR
+Study in India
+CCMT
+CCMN
+National Career Service Portal
+BIS
+Contact
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+Internal Complaint Committee (ICC)
+Copyright. All rights reserved. © National Institute of Technology Agartala
+Designed by
+Mastersoft
+| Maintained by
+NIT Agartala
+Last updated on 20/08/2025
+Number of visitors on the website :

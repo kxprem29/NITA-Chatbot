@@ -1,0 +1,110 @@
+Skip Navigation Links.
+*Important Note :
+1) Quick registration for faculties/staff.
+2) After successful registration and approval by the administrator, you will be allowed to access your control panel.
+3) *Indicates fields are mandatory, please enter required data and click on submit button.
+Register
+Please wait...
+Working on your request
+DOB
+Title *
+Title*
+Mr.
+Mrs.
+Ms.
+Shri.
+Dr.
+Prof.
+Adv.
+CA.
+Type *
+Select Type*
+Name *
+Designation *
+Designation*
+admin
+Assistant Professor
+Staff
+Other
+Lecturer
+Distinguished Professor
+Visiting Faculty
+Associate Professor
+Technical Assistant
+HOD & Associate Professor
+HOD
+Dean, HOD & Professor
+Professor & HOD
+Lab Assistant
+Jr. Clerk
+Peon
+HOD & Assistant Professor
+Data Entry Operator
+Computer Programmer
+Other
+Staff
+System Analyst
+Professor
+Adjunct Professor
+Vice Principal & B.Com Coordinator
+Coordinator
+Adv.
+CA
+Assistant Programmer
+System Administrator
+Technician
+Senior Technician
+Deputy Librarian
+Assistant Librarian
+Library Assistant
+Junior Assistant
+Office Assistant
+Medical Officer
+Pharmacist
+Staff Nurse
+Helper
+Attendant
+Public Relation Assistant
+GDA Cum Dresser
+Teaching Assistant
+Instructor
+Counselor (Psychologist)
+Assistant Professor (Contractual)
+System Administrator (Contractual)
+Teaching Assistant (Contractual)
+Technical Assistant (Contractual)
+Lab Assistant (Contractual)
+Technician (Contractual)
+Head of the Dept.
+Instructor ( Contractual )
+Public Relation Assistant (Contractual)
+Associate Professor (In Lien)
+Department *
+Select
+Civil Engineering (NBA Accredited)
+Production Engineering
+Bio Engineering
+Chemical Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+MIS SECTION
+Central Library
+Medical Unit
+Website and Network Unit
+Center for Carrier Development
+Information Technology
+Email *
+Mobile No. *
+Username *
+Password *
+Retype Password *
+Home
+Already Registered?
+Login

@@ -1,0 +1,255 @@
+Electronics and Instrumentation Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Placement
+Faculty/Staff Profile
+Dr. Jayanta Kumar Rakshit
+Dr. Jayanta Kumar Rakshit
+HOD & Associate Professor
+Department:
+Electronics and Instrumentation Engineering
+Email ID :
+jayantarakshit.eie@nita.ac.in
+Research Area :
+Photonics, Optical computing, optical communication, Optoelectronics Instrumentation
+Address Information
+Address
+Department of Electronics and Instrumentation Engineering,
+NIT Agartala, Agartala-799046
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+jayantarakshit.eie@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+-
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+2015
+Optics and Photonics
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+2004
+Optics and Optoelectronics
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+2002
+Optics and Optoelectronics
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+M. Hossain, M. P. Singh, J. K. Rakshit, "Modelling of one-bit Arithmetic Logic Circuit using silicon micro-ring resonator", Recent Advances in Electrical, Electronics, Ubiquitous Communication and Computational Intelligence (RAEEUCCI-2022).
+2022
+U. Biswas, J. K. Rakshit, "Photonic crystal race track ring resonator design for the detection of cancer cells", Recent Advances in Electrical, Electronics, Ubiquitous Communication and Computational Intelligence (RAEEUCCI-2022).
+2022
+M. Hossian, J. K.Rakshit, M. P. Singh, U. Biswas, "Implementation Of All-Optical Reversible New Gate Using Silicon Micro-Ring Resonator", 27th International Conference of International Academy of Physical Sciences (CONIAPS XXVII).
+2021
+U. Biswas, J. K. Rakshit, M. P. Singh, "Photonic Crystal based Micro Ring Resonator Sensor Design for Urinanalysis", 2020 International Conference on Computational Performance Evaluation (ComPE).
+2020
+M. P. Singh, J. K. Rakshit, U. Biswas, G. K. Bharti, A. Tiwari, "Design of All-Optical OR/AND Logic Gates using Conversion of Polarization States in Single-Waveguide Coupled Ring-Resonator", 2020 International Conference on Computational Performance Evaluation (ComPE).
+2020
+U. Biswas, J. K. Rakshit, G. K. Bharti, "Designing of all optical switch using periodically poled lithium niobate and its applications to design NOT and Buffer circuit", International conference on Applied Mathematics and computational intelligence (ICAMC-2020).
+2020
+S. A. Ganapathiraju, P. Bhattacharya, A. Debnath, J. K. Rakshit, "A Survey on the Ionospheric Parameters for Earthquake Warning Systems", International Conference on Applied Mathematics and Computational Intelligence (ICAMCI 2020) Proceedings, Dec 23-24 December 2020 .
+2020
+U. Biswas, J. K. Rakshit, G. K. Bharti, "Design of an optical binary decoder circuit using polarization conversion in periodically poled lithium niobate", International conference on Applied Mathematics and computational intelligence (ICAMC-2020).
+2020
+U. Biswas, G. K. Bharti, J. K. Rakshit, "Design of Photonic Crystal Based Optical Sensor for Analyzing Water Content in Milk", International Conference on Innovation in Modern Science and Technology. ICIMSAT 2019.
+2019
+G. K. Bharti, J. K. Rakshit, "All-optical logic AND/NAND gates using two symmetric micro ring resonators", Seventh International Conference on Optical and Photonic Engineering (icOPEN 2019).
+2019
+M. P. Singh, G. K. Bharti, J. K. Rakshit, U. Biswas, "Design of polarization switch in a single micro-ring resonator and its application to design all-optical logic OR/NOR gates using FDTD", 2019 International Conference on Electrical, Electronics and Computer Engineering (UPCON).
+2019
+D. Nath, S.K. Mandal, D. Deb, J. K. Rakshit, P. Dey, J. N. Roy, "Optical, electrical properties and structural characterization of ZnO: rGO based photodetector", 62 DAE solid state Physics symposium (AIP Conference Proceedings).
+2018
+S. S. Pal, G. K. Bharti, U. Biswas, J. K. Rakshit, "Implementation of polarization-conversion in ring-resonator and its application to design all-optical NOT logic gate", 2018 3rd International Conference for Convergence in Technology (I2CT).
+2018
+D. Nath, P. Dey, D. Deb, J. K. Rakshit, J. N. Roy , "Design of CuPc  and C60  based bilayer organic photodetector", International Conference on Fiber Optics and Photonics.
+2018
+J. K. Rakshit, “Design of all optical 1-bit and 2-bit magnitude comparator using micro-ring resonator”, CLEO-PR, OECC and PGC 2017 International Conference.
+2017
+J. K. Rakshit, G. K. Bharti, "Design of all optical half-adder/subtractor using two cascaded micro-ring resonators", XLI OSI International Conference on Advances in Optics & Photonics (ICAOP 2017).
+2017
+J. K. Rakshit, J. N. Roy, “Design of all optical circular shift register using micro-ring resonator”, 2016 URSI Asia-Pacific Radio Science Conference.
+2016
+J. K. Rakshit, J. N. Roy, “Manchester code generation scheme using micro-ring resonator based all optical switch”, 9th International Symposium on Communication Systems, Networks & Digital Signal Processing (CSNDSP).
+2014
+J. K. Rakshit, J. N. Roy, "micro-ring resonators based all optical reversible TR gate and its applications in information processing”, 12th International Conference on Fibre Optics and Photonics.
+2014
+J. K. Rakshit, J. N. Roy, T. Chattopadhyay, "Design of Micro Ring Resonator Based All optical Binary to Gray Code Converter", 37th National Symposium of Optical society of India, 2013.
+2013
+J. K. Rakshit, T. Chattopadhyay, J. N. Roy, “All optical clocked D flip flop using single micro-ring resonator”, International Conference on Fiber Optics and Photonics.
+2012
+J. N. Roy, J. K. Rakshit, T. Chattopadhyay, “All-optical conversion scheme from n to 2n line decoder using micro-ring resonators”, 5th International conference on Computers and Devices for Communication(CODEC).
+2012
+J. K. Rakshit, J. N. Roy, T. Chattopadhyay,  “All-optical XOR/XNOR logic gate using micro-ring resonators”, 5th International conference on Computers and Devices for Communication(CODEC).
+2012
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+A. Nath, N. Bhati, B. K. Mahajan, J. K. Rakshit, M. B. Sarkar, "Silver Nanoparticles Textured Oxide Thin Films for Surface Plasmon Enhanced Photovoltaic Properties", Plasmonics, 17,  193-201.
+2022
+M. Hossain, M. P. Singh, J. K. Rakshit, "Modelling of Silicon micro-Ring Resonator Based all-Optical Precoder Circuit for Differential Quadrature Phase-Shift Keying", Silicon, 14(10), 5601-5615.
+2022
+J. K. Rakshit, M. P. Singh, M. Hossain, J. N. Roy, J. K. Rakshit, "Polarization rotation based all-optical ternary half-adder and full-adder: design and analysis using micro-ring resonator", Optical and Quantum Electronics,  54(2),  1-29.
+2022
+M. P. Singh, M. Hossain, J. N. Roy, J. K. Rakshit, "Design and analysis of polarization rotation based all-optical ternary half-subtractor and full-subtractor using micro-ring resonator", Optical and Quantum Electronics,  54(5),  1-25.
+2022
+M. Hossain, T. Chattopadhyay, J. K. Rakshit, "Silicon microring resonator based on all-optical reversible modified Fredkin gate: design and analysis", Optical Engineering,  61(4), 046111.
+2022
+M. P. Singh, M. Hossain, J. K. Rakshit, "Implantation of polarization rotation based ternary 3:1 multiplexer and 1:3 demultiplexer using optical micro ring resonator", Optics Communication, 522, 128646.
+2022
+M. Hossain, K. E. Zoiros, J. K. Rakshit, "Microring Resonator-Based All-Optical Parallel Pseudo Random Binary Sequence Generator for Rate Multiplication", Optical and Quantum Electronics, 54(8), 1-24.
+2022
+D. Nath, P. Dey, J. K. Rakshit, J. N. Roy, N. Sharma, V. Kanwar, D. Nath, "Role of reduced graphene oxide as photo-response enhancer in BPPC and F16CuPc based bilayer organic photodetector", Materials Today: Proceedings.
+2022
+U. Biswas,  K. E. Zoiros, J. K. Rakshit, "Effect of smoking and alcohol on the hemoglobin concentration of blood: modeling and analysis using photonic crystal based race track ring resonator", Optoelectronics and Advanced Materials - Rapid Communications, 16, 325-335.
+2022
+M. Hossain, M. P. Singh, J. K. Rakshit, "Numerical analysis of all-optical silicon microring resonator-based cyclic redundancy check encoder", Journal of Nanophotonics, 16(3), 036007.
+2022
+J. K. Rakshit, M. Hossain, "Design and analysis of an efficient reversible hybrid new gate using silicon micro-ring resonator-based all-optical switch", Photonic Network Communications, 1-17.
+2022
+U. Biswas, J. Das, G. K. Bharti, B. Suthar, A. Amphawan, M. Najjar, J. K. Rakshit, "Design of an Ultra-Compact and Highly-Sensitive Temperature Sensor Using Photonic Crystal Based Single Micro-Ring Resonator and Cascaded Micro-Ring Resonator", Silicon, 13,  885-892.
+2021
+J. K. Rakshit, K. E. Zoiros, G. K. Bharti, J. K. Rakshit, "Proposal for ultrafast all-optical pseudo random binary sequence generator using microring resonator-based switches", Journal of Computational Electronics,  20(1),  353-367.
+2021
+G. K. Bharti, J. K. Rakshit, "Design of all-optical logical mode-switching using micro-ring resonator", Optical Engineering,  60(3), 035103.
+2021
+M. P. Singh, M. Hossain,  G. K. Bharti, J. N. Roy, J. K. Rakshit, "Proposal for Polarization Rotation–Based Ultrafast All Optical Switchin Ring Resonator", Brazilian Journal of Physics, 51,  1763-1774.
+2021
+U. Biswas, B. Suthar, D. Kumar, C. Nayak, J. K. Rakshit, "Modeling and analysis of all-optical pressure sensor using photonic crystal based micro ring resonator", International Journal of Numerical Modelling: Electronic Networks, Devices and Fields, 35(2), e2962.
+2021
+M. Hossain, K. E. Zoiros, T. Chattopadhyay, J. K. Rakshit, "Speed enhancement of all-optical pseudo random binary sequence (PRBS) generator using microring resonator", Optical and Quantum Electronics,  53(12),  1-31.
+2021
+M. P. Singh, M. Hossain, J. K. Rakshit, "Design of polarization conversion and rotation based ternary logic AND/NAND, OR/NOR, Ex-OR/Ex-NOR gates using ring resonator", Optical and Quantum Electronics,  53(12),  1-22.
+2021
+G. K. Bharti, M. P. Singh, J. K. Rakshit, "Design and Modeling of Polarization-Conversion Based all-Optical Basic Logic Gates in a Single Silicon Ring Resonator", Silicon, 12,  1279-1288.
+2020
+U. Biswas, G. K. Bharti, J. K. Rakshit, "Design of photonic crystal microring resonator based all-optical refractive-index sensor for analyzing different milk constituents", Optical and Quantum Electronics,  52(1),  1-15.
+2020
+D. Nath, P. Dey, A. M.  Joseph, J. K. Rakshit, J. N. Roy, "Photocurrent generation under forward bias with interfacial tunneling of carrier at pentacene/F16CuPc heterojunction photodetector", Journal of Alloys and Compounds, 815, 152401.
+2020
+D. Nath, P. Dey, A. M. Joseph, J.K. Rakshit, J.N. Roy, "Zero bias high responsive visible organic photodetector based on pentacene and C60", Optics and Laser Technology, 131, 106393.
+2020
+J. K. Rakshit, "Design of Micro-ring Resonator Based 4 × 4 Optical Router for Photonic Network Applications", Brazilian Journal of Physics,  50(5),  582-593.
+2020
+D. Nath, P. Dey, A. M. Joseph, J.K. Rakshit, J.N. Roy, "CuPc/C60 heterojunction for high responsivity zero bias organic red light photodetector", Applied Physics A,  126(8),  1-8.
+2020
+C. Nayak, A. Aghajamali, M. Solaimani, J. K. Rakshit, D. Panigrahy, K. VP. Kumar, B. Ramakrishna, C. Nayak, "Dodecanacci superconductor-metamaterial photonic quasicrystal", Optik, 222, 165290.
+2020
+D. Nath, P. Dey, A. M. Joseph, J. K. Rakshit, J. N. Roy, "Performance improvement of bilayer CuPc/BPPC organic photodetector by thermal annealing", Optical Materials, 108, 110371.
+2020
+U. Biswas, J. K. Rakshit, "Detection and analysis of hemoglobin concentration in blood with the help of photonic crystal based micro ring resonator structure", Optical and Quantum Electronics,  52(10),  1-16.
+2020
+G. K. Bharti, S. S. Pal, J. K. Rakshit, "Design and modeling of mode-conversion in ring resonator and its application in all-optical switching", Microsystem Technologies,  25(1),  295-306.
+2019
+G. K. Bharti, J. K. Rakshit, "Micro-ring resonator based all optical reversible logic gates and its applications", Optoelectronics And Advanced Materials – Rapid Communications,  13(1-2),  10-19.
+2019
+G. K. Bharti, M. P. Singh, P. Yupapin, J. K. Rakshit, "Design of all-optical universal logic gates usingmode-conversion in single silicon microring", Journal of Nanophotonics, SPIE,  13(3), 036002.
+2019
+G. K. Bharti, U. Biswas, J. K. Rakshit, "Design of micro-ring resonator based all optical universal reconfigurable logic circuit", Optoelectronics and Advanced Materials-Rapid Communications,  13(7-8),  407-414.
+2019
+G. K. Bharti, J. K. Rakshit, "Design of all-optical JK, SR and T flip-flops using micro-ring resonator-based optical switch", Photonic Network Communications,  35(3),  381-391.
+2018
+G. K. Bharti, J. K. Rakshit, "Design and Performance Analysis of High Speed Optical Binary Code Converter using Micro-Ring Resonator", Fiber and Integrated Optics,  37(2),  103-121.
+2018
+D. Nath, S. K. Mandal, D. Deb, J. K. Rakshit, P. Dey,, J. N. Roy, "Light tuning DC and AC electrical properties of ZnO-rGO based hybrid nanocomposite film", Journal of Applied Physics,  123(9), 095115.
+2018
+J. K. Rakshit, J. N. Roy, "Silicon micro-ring resonator-based all-optical digital-to-analog converter", Photonic Network Communication,  34(1),  84-92.
+2017
+J. K. Rakshit, J. N. Roy, "All-optical ultrafast switching in a silicon microring resonator and its application to design multiplexer/demultiplexer, adder/subtractor and comparator circuit", Optica Applicata,  46(4),  517-539.
+2016
+J. K. Rakshit, J. N. Roy, "Design of all-optical universal shift register using nonlinear microring resonators", Journal of Computational Electronics,  15(4),  1450-1461.
+2016
+J. K. Rakshit, J. N. Roy, "Design of all-optical time-division multiplexing scheme with the help of microring resonator", Optica Applicata,  44(1),  38-54.
+2014
+J. K. Rakshit, J. N. Roy, "Design of micro-ring resonator-based all-optical logic shifter", Optics Communication, 312,  73-79.
+2014
+J. K. Rakshit, T. Chattopadhyay, J. N. Roy, "A theoretical study of all optical clocked D flip flop using single micro-ring resonator", Journal of Computational Electronics, 13,  278-286.
+2014
+J. K. Rakshit, J. N. Roy, "Micro-ring resonator based all-optical reconfigurable logic operations", Optics Communication, 321,  38-46.
+2014
+J. K. Rakshit, T. Chattopadhyay, J. N. Roy, "Design of micro-ring resonator based all-optical parity generator and checker circuit", Optics Communication, 303,  30-37.
+2013
+J. K. Rakshit, T. Chattopadhyay, J. N. Roy, "Design of ring resonator based all optical switch for logic and arithmetic operations - a theoretical study", Optik,  124(23),  6048-6057.
+2013
+Achievement Information
+No.
+Patent Information
+Year
+Selected in the World's Ranking Top 2% Scientist list for the year 2023.
+2023
+Selected in the World's Ranking Top 2% Scientist list for the year 2022.
+2022
+Selected in the World's Ranking Top 2% Scientist list for the year 2021.
+2021
+Training Attended
+Month
+Training Attended Information
+Year
+JUN
+Innovation Ambassador training (Foundation Level) conducted by MoE's Innovation Cell & AICTE.
+2021
+MAY
+Special summer workshop on "Active Learning, Autonomy, Academic Governance and R&D" at IIT Roorkee.
+2018
+OCT
+Two days' workshop on "Optics and Photonics" organised by the Department of Electrical Engineering at NIT Agartala.
+2015
+FEB
+One day National Workshop on "Contemporary and Future perspectives of Physics applicable to science and Technology: Challenges and Opportunities" in the Department of Physics, NIT Agartala.
+2013
+MAY
+The course in "Field Instruments, PLC & DCS" conducted by the Technical School of Yokogawa India Ltd.
+2013
+APRIL
+AICTE sponsored Staff Development Program of two weeks duration on "DSP & Embedded Systems" organised by ECE department, NIT Agartala.
+2011
+FEB
+AICTE sponsored Staff Development Programme of two weeks duration on "Power Electronics & Drives-Recent Developments" organised by Electrical Engineering department, NIT Agartala.
+2011
+DEC
+Two week ISTE Workshop on "Solar Photovoltaics: Fundamentals, Technologies and Applications" conducted by Indian Institute of Technology, Bombay.
+2011
+NOV
+Mission10X workshop conducted by Tripura Institute of Technology at Agartala, Tripura.
+2010
+Subject Information
+Sr.No.
+Class
+Subject
+1
+3rd Sem, EIE
+Analog Electronic and Linear Integrated Circuits
+2
+4th Sem, EIE
+Electromagnetic Theory
+3
+6th Sem
+Communication Theory and Telemetry
+4
+7th Sem
+Optoelectronic Instrumentation

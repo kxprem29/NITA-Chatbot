@@ -1,0 +1,213 @@
+Mechanical Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Faculty/Staff Profile
+Dr. Arindam Majumder
+Dr. Arindam Majumder
+Assistant Professor
+Department:
+Mechanical Engineering
+Date of Joining :
+20/04/2010
+Email ID :
+arindan.me@nita.ac.in
+URL:
+https://scholar.google.com/citations?user=X_sISHMAAAAJ&hl=en
+Research Area :
+Advanced Manufacturing Systems, Scheduling, Soft Computing Techniques, Robotics, Non-traditional Machining
+Courses Taught
+UG Courses
+Kinematics of Machine, Design of Machine Element I & II, Strength of Material, Theory of Machine-I, Composite Material
+PG Courses
+Fracture Mechanics, Analysis and Synthesis of Mechanism
+Student Register For PhD Enrolled OnGoing
+MD PIYAR UDDIN (Co-guide), ANIT KUMAR
+Address Information
+Address
+Room No. M-228, Department of Mechanical Engineering, National Institute of Technology, Agartala, Barjala, Jirania, Tripura West,  Pin: 799046
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+arindan.me@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+9612089371
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+Jadavpur University
+2020
+Mechanical Engineering (Industrial Engineering)
+M.E.
+(
+                                                            Master of Engineering                                                                               )
+Indian Institute of Engineering Science and Technology, Shibpur (Formerly Bengal Engineering and Science University)
+2009
+Mechanical Engineering (Machine Design)
+B.E
+(
+                                                            Bachelor of Engineering                                                                             )
+North Maharashtra University, Jalgaon
+2007
+Mechanical Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Arindam Majumder, Dipak Laha.“Bacterial foraging optimization in non-identical parallel batch processing machines”, International Conference on Machine Intelligence and Signal Processing (MISP-2019), September 7-10, 2019 at IIIT Allahabad, India.
+SEPT
+2019
+Arindam Majumder, Dipak Laha.“Bacteria Foraging Optimization Algorithm for Robotic Cell Scheduling Problems”, 5th International Conference of Materials Processing and Characterization (ICMPC 2016), 13th-12th  March  2016 (Published in Procedia Material Today. Vol. 4(2), 2129-2136, 2017)
+MAR
+2016
+Arindam Majumder, Dipak Laha.“Cuckoo Search on Parallel Batch Processing Machines”, International Conference on Advanced Computing and Intelligent Engineering (ICACIE-2016), December 21-23, 2016
+DEC
+2016
+Sheetal Kumar Parwar, John Deb Barma, Arindam Majumder. "Study of the Effect of Inclusion of TiO2 in Active Flux on Submerged Arc Welding of Low Carbon Mild Steel Plate and Parametric Optimization of the Process by Using DEA Based Bat Algorithm". ICACE 2015 : 17th International Conference on Advances in Civil Engineering, Venice, Italy, June 22-23, 2015   (World Academy of Science, Engineering and Technology, International Science Index, Industrial and Manufacturing Engineering (2015), 2(6), 633
+JUN
+2015
+Argha Das, Arindam Majumder, and Pankaj Kumar Das,: “An Approach to Optimize the Parameters of Particle Swarm Optimization by Taguchi Based Grey Relational Analysis”, 3rd  International Conference on Material Processing and Characterization (ICMPC 2012), 8-9 March 2014. (Published in Procedia Material Science. 6, 2014, 597 – 604. Doi: 10.1016/j.mspro.2014.07.074.)
+MAR
+2014
+Dipak Laha, Arindam Majumder, “Modeling of Flow Shop Scheduling with Effective ANN-based Training Algorithms”, The 18th Online World Conference on Soft-Computing in Industrial Applications (WSC18), 1st-12th  December 2014
+DEC
+2014
+S. K. Parwar,  Arindam Majumder, John Deb Barma: “An Intelligent approach to optimize multi objective manufacturing processes using DEA based BAT algorithm”, National Conference on Recent Advancements in Mechanical Engineering (NCRAME 2013), 8th-9th Nov. 2013
+NOV
+2013
+A. Tripathi, Argha Das, A. Kumar, K. Sao, Arindam Majumder. A: “Study of the Effect of Altitude and Velocity on Thrust of Jet Engine”, Proceedings of 5th International Conference on Advance in Mechanical Engineering (ICAME-2011), pp. 303-307,June 06-08, 2011.
+JUN
+2011
+Arindam Majumder. A. Saha. “Study of the effect of Machining Parameters on electrode Wear during Electro Discharge Machining of IS:226/75 Mild Steel”, National Conference on Design and Manufacturing (NaConDM2011),pp:863-870, 2011. (Also published in the Special Issue of International Journal of Applied Engineering Research)
+DEC
+2011
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Arindam Majumder. "Termite alate optimization algorithm: a swarm-based nature inspired algorithm for optimization problems." Evolutionary Intelligence 16, no. 3 (2023): 997-1017.
+2023
+Alok Ranjan, Ranjan Das, Sameer S. Gajghate, Debabrata Barik, Himadri Majumder, Elaine M. Cardoso, Arindam Majumder, Sagnik Pal, and Madhujit Deb. "Numerical and Optimization-Based Study on Split Hemispherical Shaped Fins for Augmenting Heat Transfer Rate." International Journal of Energy Research 2023 (2023).
+2023
+Alok Ranjan, Ranjan Das, Sagnik Pal, Arindam Majumder, and Madhujit Deb. "Performance analysis of porous-based taper-shaped fin for enhanced heat transfer rate using cuckoo search algorithm." Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering (2023): 09544089231157151.
+2023
+Md Piyar Uddin, John Deb Barma, and Arindam Majumder. "Effect of Process Parameters on the Performance of Powder Mixed EDM of Ni-based Superalloys: A Review." Surface Review and Letters (2023).
+2023
+Anit Kumar, Shubham Tiwari, and Arindam Majumder. "A*-VG algorithm: a hybrid algorithm for the path planning of inspection robots." Journal of the Brazilian Society of Mechanical Sciences and Engineering 45.7 (2023): 1-19.
+2023
+Alok Ranjan, Ranjan Das, Debabrata Barik, Sagnik Pal, Arindam Majumder, Madhujit Deb, and Milon Selvam Dennison. "Heat Transfer and Performance Enhancement of Porous Split Elliptical Fins." International Journal of Energy Research 2023 (2023).
+2023
+Arindam Sinha, Arindam Majumder, and Krishanu Gupta. "A RSM based MOGOA for process optimization during WEDM of Inconel 625." Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering 236, no. 5 (2022): 1824-1832..
+2022
+Aparesh Datta, Santosh Sah, Arindam Majumder, Nirmalendu Biswas, and Dipankar Sanyal. "Designing Interrupted Microchannel Heat Sink with Ribbed Microchambers by Single and Bi-objective Optimizations of Numerical Results." Journal of Thermal Analysis and Calorimetry (2021): 1-17.
+2021
+Alok Ranjan, Ranjan Das, Sagnik Pal, Arindam Majumder, and Madhujit Deb. "Use of Cuckoo Search Algorithm for Performance Evaluation of Split Elliptic Shaped Fins for Enhanced Rate of Heat Transfer." Journal of Heat Transfer 143, no. 6 (2021): 063301.
+2021
+Arindam Majumder. "Optimization of Modern Manufacturing Processes Using Three Multi-Objective Evolutionary Algorithms: A Step Towards Selecting Efficient Algorithms." International Journal of Swarm Intelligence Research (IJSIR) 12.3 (2021): 96-124.
+2021
+Sushmita Sharma, Apu Kumar Saha, Arindam Majumder, and Sukanta Nama. "MPBOA-A novel hybrid butterfly optimization algorithm with symbiosis organisms search for global optimization and image segmentation." Multimedia Tools and Applications, Vol. 80(8), pp 12035-12076, 2021. https://doi.org/10.1007/s11042-020-10053-x.
+2021
+Arindam Majumder, Abhishek Majumder, and Rahul Bhaumik. "Teaching–Learning-Based Optimization Algorithm for Path Planning and Task Allocation in Multi-robot Plant Inspection System." Arabian Journal for Science and Engineering (2021): 1-23. https://doi.org/10.1007/s13369-021-05710-8.
+2021
+Suman Dey, N. M. Reang, Arindam Majumder, Madhujit Deb & Pankaj Kumar Das (2020). A hybrid ANN-Fuzzy approach for optimization of engine operating parameters of a CI engine fueled with diesel-palm biodiesel-ethanol blend. Energy, 117813.
+2020
+Jatinder ND Gupta, Arindam Majumder, Dipak Laha. Flowshop scheduling with artificial neural networks. Journal of the Operational Research Society. 71(10), pp. 1619-1637, 2020. https://doi.org/10.1080/01605682.2019. 1621220.
+2020
+Arindam Majumder, Ponnuthurai N Suganthan, Dipak Laha. “Bacterial foraging optimization algorithm in robotic cells with sequence-dependent setup times.” Knowledge-Based Systems, Vol. 172, pp 104–122, 26 February 2019.
+2019
+Arindam Majumder, Dipak Laha, and P. N. Suganthan. "A hybrid cuckoo search algorithm in parallel batch processing machines with unequal job ready times." Computers & Industrial Engineering. Vol. 124, pp. 65-76, 2018.
+2018
+Arindam Majumder, Argha Das, and Pankaj Kr Das. A standard deviation based firefly algorithm for multi-objective optimization of WEDM process during machining of Indian RAFM steel. Neural Computing and Applications. Vol. 29, Issue 3, pp 665–677, February 2018.
+2018
+Arindam Majumder, A Simple and robust Fuzzy-AHP based Taguchi Approach for multi-objective optimization of welding process parameters” International Journal of Productivity and Quality Management. Vol. 20, No. 1, pp.116–137, 2017.
+2017
+Arindam Majumder, and Dipak Laha. "A New Cuckoo Search Algorithm for 2-Machine Robotic Cell Scheduling Problem with Sequence-Dependent Setup Times." Swarm and Evolutionary Computation, 28 (2016): 131-143. Doi:10.1016/j.swevo.2016.02.001
+2016
+Arindam Majumder, Abhishek Majumder: “Standard Deviation Method Based PSO- An Instigated Approach to Optimize Multi-Objective Manufacturing Process Parameters”. Journal of Swarm Intelligence Research (IJSIR). 7.2 (2016): 15-35. Doi: 10.4018/IJSIR.2016040102
+2016
+Madhujit Deb, Pinki Majumder, Arindam Majumder, Sumit Roy, Rahul Banerjee, Application of artificial intelligence (AI) in characterization of the performance–emission profile of a single cylinder CI engine operating with hydrogen in dual fuel mode: An ANN approach with fuzzy-logic based topology optimization, International Journal of Hydrogen Energy, Available online 21 July 2016, http://dx.doi.org/10.1016/j.ijhydene.2016.07.016.
+2016
+Madhujit Deb, Bishop Debbarma, Arindam Majumder, Rahul Banerjee, Performance –emission optimization of a diesel-hydrogen dual fuel operation: A NSGA II coupled TOPSIS MADM approach, Energy, Volume 117, Part 1, 15 December 2016, Pages 281-290, ISSN 0360-5442,    http://dx.doi.org/10.1016/j.energy.2016.10.088.
+2016
+Arindam Majumder: “Comparative Study of Evolutionary Algorithms Coupled with Neural Network Model for Optimization of EDM Process Parameters” Proceedings of IMechE, Part B: Journal of Engineering Manufacture. Vol. 229 no. 9, pp. 1504-1516, September 2015. Doi: 10.1177/0954405414538960
+2015
+Joydeep Roy, Arindam Majumder, R. N. Rai, S. C. Saha: Study the Influence of Heat Input on the Shape Factors and HAZ width during Submerged Arc welding Indian Welding Journal. Volume 48 No. 1 January, 2015
+2015
+Madhujit Deb, Arindam Majumder, Rahul Banerjee, G.R.K. Sastry, P.K. Bose, A Taguchi-fuzzy based multi-objective optimization study on the soot-NOx-BTHE characteristics of an existing CI engine under dual fuel operation with hydrogen, International Journal of Hydrogen Energy, Volume 39, Issue 35, ISSN 0360-3199, http://dx.doi.org/10.1016/j.ijhydene.2014.09.171.
+2014
+A. Sarkar, Arindam Majumder, M. Pawar, S. C. Saha, R. N. Rai: “Optimization of Process Parameters of Submerged Arc Welding by using Grey-Fuzzy based Taguchi Method for AISI 1518 grade steel.” Proceedings of IMechE, Part B: Journal of Engineering Manufacture.  Vol. 228 (11), pp. 1491-1500, 2014as Doi:10.1177/0954405414521064
+2014
+Madhujit Deb, Rahul Banerjee, Arindam Majumder, G.R.K. Sastry, Multi objective optimization of performance parameters of a single cylinder diesel engine with hydrogen as a dual fuel using pareto-based genetic algorithm, International Journal of Hydrogen Energy, Vol. 39, pp. 8063-8077. 2014, Doi: http://dx.doi.org/10.1016/j.ijhydene.2014.03.045.
+2014
+A. Sarkar, J.  Roy, Arindam Majumder, S. C. Saha, R. N. Rai: Optimization of welding parameters of submerged arc welding using Analytic Hierarchy Process (AHP) based on Taguchi technique, Journal of The Institution of Engineers (India): Series C. Vol. 95.(2), pp. 159-168,2014. Doi: 10.1007/s40032-014-0114-4
+2014
+Arindam Majumder, Pankaj Kumar Das, Abhishek Majumder & Moutushee Debnath (2014) An approach to optimize the EDM process parameters using desirability-based multi-objective PSO, Production & Manufacturing Research: An Open Access Journal, 2:1, 228-240, Doi:  http://dx.doi.org/10.1080/21693277.2014 .902341
+2014
+Arindam Majumder:“ Hybridized SA based BAT algorithm: an improved bat algorithm for global optimization” Journal of Computational Intelligence and Electronic Systems (JCIES). Volume 3, Issue 4, (2014) 278-284. Doi: http://dx.doi.org/10.1166/jcies.2014.1098.
+2014
+Joydeep Roy, Arindam Majumder, John Deb Barma, R. N. Rai, S. C. Saha: An approach for solving multicharacteristics optimization of submerged arc welding process parameters by using grey based genetic algorithm, Journal of Scientific and Industrial Research, Vol. 72.(6), pp- 340-347,2013.
+2013
+Arindam Majumder: “Process Parameter Optimization during EDM of AISI 316LN Stainless Steel by Using Fuzzy based multi objective PSO”, Journal of Mechanical Science and Technology, Vol. 27.(7), pp. 2143-2151,2013. Doi: 10.1007/s12206-013-0524-x
+2013
+Joydeep Roy, Arindam Majumder, R. N. Rai, S. C. Saha: “Optimization of the effect of welding heat input on the Microstructure and mechanical properties of submerged arc welded joints by Fuzzy based Multiobjective Threshold Acceptance Algorithm” Proceedings of IMechE, Part B: Journal of Engineering Manufacture. Vol. 227.(12), pp. 1830-1840. 2013 Doi: 10.1177/0954405413494921.
+2013
+P. K. Bose, M. Deb, R. Banerjee, Arindam Majumder: "Multi objective optimization of performance parameters of a single cylinder diesel engine running with hydrogen using a Taguchi-fuzzy based approach", Energy-The International Journal. Vol. 63, pp. 375-386. 2013. Doi: 10.1016/j.energy.2013.10.045.
+2013
+Arindam Majumder: “Parametric Optimization of electric Discharge Machining by GA-based Response Surface Methodology”, Journal for Manufacturing Science and Production, Vol. 12. (1), pp. 25–30, 2012. Doi:  10.1515/jmsp-2011-0016
+2012
+Arindam Majumder: “Study of The Effect of Machining Parameters on Material Removal Rate and Electrode Wear during Electric Discharge Machining of Mild Steel”, Journal Engineering Science and Technology Review, Vol. 5.(1), pp-14-18, 2012
+2012
+Arindam Majumder: “Study of the effect of bevel angle and welding heat input on mechanical properties of mild steel weldments”, International Journal of Mechanical and Materials Engineering (IJMME), Vol. 6. (2), pp. 280-290, 2011
+2011
+Arindam Majumder: “A Comparative Study of the ANN with RSM for Predicting Bead Geometry of Gas Tungsten Arc Welded aa7039 aluminium Alloy Joints”, International Review of Mechanical Engineering, Vol. 4. (7), pp. 833-839, 2010
+2010
+Book Published
+No.
+Book Published
+Year
+Arindam Majumder. Robotic Cell Scheduling Problems and Their Solution Procedures: A Survey and Future Research Directions. Handbook of Research on AI and Knowledge Engineering for Real-Time Business Intelligence. pp. 271-295. IGI Global, 2023.
+2023
+Abhishek Majumder, Joy Lal Sarkar and Arindam Majumder eds.
+Artificial Intelligence and Data Science for Recommendation Systems: Current Trends, Technologies and Applications. Bentham Books. ISBN: 978-981-5179-40-8, eISBN: 978-981-5179-39-2 (Online).
+2023
+Arindam Majumder and Rajib Ghosh. Task Allocation and Path Planning of a Multi-Robot System Using Heuristic Coupled Particle Swarm Optimization Algorithm. In Handbook of Research on Developments and Trends in Industrial and Materials Engineering, pp. 194-209. IGI Global, 2020. DOI: 10.4018/978-1-7998-1831-1.ch009.
+2020
+Arindam Majumder, Abhishek Majumder. Application of Standard Deviation Method integrated PSO approach in optimization of manufacturing process parameters. Handbook of Research on Artificial Intelligence Techniques and Algorithms (2014): 541. DOI: 10.4018/978-1-4666-7258-1.ch017.
+2014
+Patent
+No.
+Patent Information
+Year
+A Polishing System for Polishing of Surface of Subjects such as the Incense Sticks Application.No.1370/KOL/2012, Applied To: Indian Patent Office, Inventors: Shubhendu Debbarma, John Deb Barma, Arindam Majumder. (Granted)
+2023
+Training Conducted
+Month
+Year
+Training Conductted Information
+MAY
+2023
+One week Short Term Training Program in Hybrid mode on 'Optimum Design: Principles and Applications'.
+JULY
+2023
+Seven Days training Program on 'Optimization in Engineering Design and Applications' under DST-STUTI
+NOV
+2019
+TEQIP-III sponsored five days Workshop on ‘Optimization Techniques in Multi-Disciplinary Research’.

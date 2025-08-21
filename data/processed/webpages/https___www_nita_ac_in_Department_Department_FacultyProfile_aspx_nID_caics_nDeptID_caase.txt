@@ -1,0 +1,106 @@
+Electronics and Communication Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Publications
+Time Table
+Faculty/Staff Profile
+Dr. BIMAN DEBBARMA
+Dr. BIMAN DEBBARMA
+Assistant Professor
+Department:
+Electronics and Communication Engineering
+Email ID :
+bimandebbarma.ece@nita.ac.in
+Research Area :
+Hardware Security
+Network on Chip
+CV :
+View
+Courses Taught
+UG Courses
+Microprocessor and Microcontroller
+Computer Architecture
+Cryptography and Network Security
+Data Communication Networks
+PG Courses
+Advanced Computer Architecture
+Student Register For PhD Enrolled OnGoing
+Mr. Akash Das
+Address Information
+Address
+ECE Department, NIT Agartala, West tripura, 799046
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+bimandebbarma.ece@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+-
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+0
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Biman Debbarma and Jeetu Debbarma “Clock Gated Round Robin Arbiter for NoC Router.”, 19th International Conference on Researches in Science & Technology (ICRST), 2017, Barcelona, Spain
+JULY
+2017
+Biman Debbarma and Sambhu Nath Pradhan, “Segmented Buffer for NoC Router”, 4th International Conference on Computer and Software Modeling (ICCSM 2014), Bangkok Thailand
+OCT
+2014
+Biman Debbarma, Sambhu Nath Pradhan and Anupam Jamatia., “Energy Comparison of Different NoC Routers”, International Conference on Advances in Computing, Electronics and Communication – ACEC 2013”, Zurich, Switzerland, 2013.
+OCT
+2013
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Biman Debbarma and Jeetu Debbarma “Clock Gated Round Robin Arbiter for NoC Router.”, MATTER: International Journal of Science and Technology, Volume 3, Issue 3, November 2018.
+2018
+Biman Debbarma and Sambhu Nath Pradhan, “Segmented Buffer for NoC Router”, International Journal of Modeling and Optimization”, Volume 5, Issue 1, February 2015.
+2015
+Biman Debbarma, Dibyendu Ghoshal, “A modified canny edge detection algorithm with variable sigma”, International Journal of Emerging Trends in Electrical and Electronics, Volume 1, Issue 2, 2013.
+2013
+Conference Attended
+No.
+Conference Attended Information
+Month
+Year
+19th International Conference on Researches in Science & Technology (ICRST), 2017, Barcelona, Spain
+JULY
+2017
+4th International Conference on Computer and Software Modeling (ICCSM 2014), Bangkok Thailand
+OCT
+2014
+International Conference on Advances in Computing, Electronics and Communication – ACEC 2013, Zurich, Switzerland, 2013.
+OCT
+2013
+Training Conducted
+Month
+Year
+Training Conductted Information
+JUN
+2018
+TEQIP-III sponsored National Workshop on "Challenges in Processor Design", 18-22 June, 2018,
+APRIL
+2011
+AICTE sponsored Staff Development program on "DSP and Embedded Systems", 05-16 April, 2011

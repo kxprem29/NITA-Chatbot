@@ -1,0 +1,847 @@
+Webmail
+MIS
+Login
+Old Website
+-
+font size
+                                    decrease
+font size reset
++
+font size
+                                    increase
+default theme
+Dark mode
+National Institute of Technology Agartala
+राष्ट्रीय प्रौद्योगिकी संस्थान अगरतला
+Skip Navigation Links
+HOME
+ABOUT
+About NITA
+Facilities
+Strategic Plan 2020-2030
+Virtual Tour of NIT Agartala
+ADMINISTRATION
+Board of Governors
+The Senate Committee
+The Finance Committee
+Office of Director
+The Buildings and Works Committee
+Office of Registrar
+Office of Dean (Academic Affairs)
+Office of Dean(Planning & Development)
+Office of Dean(Students' Welfare)
+Office of Dean(Research & Consultancy)
+Office of Dean(Faculty Welfare)
+Office of Chairman (AR & IR)
+Chief Information Security Officer (CISO)
+Chief Vigilance Officer (CVO)
+Establishment Section
+Accounts Section
+Audit Section
+Purchase Section
+MIS Section
+Library Section
+Computing & ICT Unit
+Office of  Vehicle Section
+ACADEMICS
+Academic Calendar
+Academic Regulations
+UG Regulations (old)
+Regulations for M.tech Programme (2019)
+Regulations for M.tech Programme (Old)
+Regulations for Ph.D Programme  (2018)
+Regulations for Ph.D Programme (Old)
+Admission
+UG Admission
+M.Tech Admission
+M.Sc Admission
+MCA Admission
+MBA Admission
+Ph.D Programme
+Visvesvaraya PhD Scheme
+DASA at NIT Agartala
+Prospectus
+First Year Syllabus
+B.Sc- B.Ed programme (4-Year ITEP)
+List of Holidays (July 2025 - June 2026)
+DEPARTMENT
+Bio Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Production Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+STUDENT
+Center for Career Development
+Examination Section
+List of People
+Verification of Academic Credential
+DigiLocker
+SOP for acquiring Academic Documents
+Question Bank Link
+Hostel
+Office of the Chief Warden
+NITA Health Centre
+Sports at NIT Agartala
+Student Bodies and Clubs
+Student Discipline Manual
+Academic Bank of Credits (ABC)
+Anti-Ragging
+Study in India
+ALUMNI
+Message
+Chairman Alumni Affairs
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+NEWS EVENTS
+Newsletter of NIT Agartala
+Magazine "UPSHIFT" Edition 3
+Magazine "UPSHIFT" Edition 2
+Magazine "UPSHIFT" Edition 1
+Past Events
+Research
+Overview
+Project
+Sponsored Project
+Consultancy Project
+Patent
+Education/ Training
+Conference Organized
+Workshop/ Seminar Organized
+Research & Innovation Centre
+Documents
+Achievements
+LIBRARY
+E-Resource (Remote Access)
+OPAC
+One nation One Subscription (ONOS)
+Electrical Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Magazine
+Faculty/Staff Profile
+Dr. Bikram Das
+Dr. Bikram Das
+Assistant Professor
+Department:
+Electrical Engineering
+Date of Joining :
+31/03/2006
+Email ID :
+bikram.ee@nita.ac.in
+Research Area :
+Multilevel Inverter Topologies, Harmonic Elimination techniques, Modular Multilevel 
+Converter for HVDC application, Power Electrics Application to Renewables, Electric Vehicle
+CV :
+View
+Courses Taught
+UG Courses
+Power Electronics- EE 
+Industrial Electronics -ECE
+Power Electronics-EIE
+Electromagnetic Field Theory-EE
+Generalized Theory of Electrical Machines-EE Elective
+Advance Power Electronics -EE Elective
+High Voltage Engineering-EE
+PG Courses
+Advance Power Electronics
+Student Register For PhD Enrolled OnGoing
+1. PARTHA PRATIM CHAKRABORTY  
+  21EDEEA001
+2. DIPANKAR SUTRADHAR                    
+ 21EDEEA002
+3. RAJESH KUMAR                                   
+  22ODEER001
+4.  SIDDHARTHA SANKAR DEB             
+  22ODEEA002
+Address Information
+Address
+Srinagar Road-01, Near TV Centre, PO-AD Nagar, Agartala West Tripura
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+bikram.ee@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+9436459126
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+Thesis title-Multilevel inverter topologies suitable for applications with renewable energy sources
+2021
+Electrical Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+Power Electronics and Drives
+2010
+Electrical Engineering
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+Electrical Engineering
+2003
+Electrical Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+K. Amitabh, S. Majumder, K. De and B. Das, "Electric Vehicle Production: A Comprehensive study of Environmental and Water Resource Impacts," 2024 IEEE Silchar Subsection Conference (SILCON 2024), Agartala, India, 2024, pp. 1-5, doi: 10.1109/SILCON63976.2024.10910422.
+MAR
+2025
+G. Keerthana, D. Majumder, D. Sutradhar, B. Das, A. Chakrabarti and P. R. Kasari, "2-Level BDC for Grid-to-Vehicle (G2V) and Vehicle-to-Grid (V2G) Power Transfer," 2024 IEEE Silchar Subsection Conference (SILCON 2024), Agartala, India, 2024, pp. 1-6, doi: 10.1109/SILCON63976.2024.10910574.
+MAR
+2025
+S. D. Biswas, B. Das and C. Nandi, "Optimized Switching Angle Control Using Newton-Raphson Method for THD Reduction in Cascaded H-Bridge Multilevel Inverters," 2024 IEEE Silchar Subsection Conference (SILCON 2024), Agartala, India, 2024, pp. 1-6, doi: 10.1109/SILCON63976.2024.10910788.
+MAR
+2025
+N. Das, D. Majumder, J. Das, A. Chakrabarti, S. Singh and B. Das, "Electrical Energy Generation from Parabolic Concentrator by Using Thermoelectric Module," 2024 IEEE Silchar Subsection Conference (SILCON 2024), Agartala, India, 2024, pp. 1-6, doi: 10.1109/SILCON63976.2024.10910902.
+MAR
+2025
+S. D. Biswas, S. Chowdhury, C. Nandi and B. Das, "Power Quality Improvement with Hybrid Shunt Active Power Filter," 2023 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2023, pp. 1-6, doi: 10.1109/PESGRE58662.2023.10404126.
+JAN
+2024
+P. P. Chakraborty, C. Abhilash Reddy, D. Sutradhar, P. R. Kasari, B. Das and A. Chakraborti, "THD analysis of 15 Level MLI for Variation in Carrier Frequency and MI," 2023 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2023, pp. 1-6, doi: 10.1109/PESGRE58662.2023.10404128
+JAN
+2024
+S. S. Deb, B. Das and S. Sharma, "Novel Proposed 7- level Capacitor-Switched Multilevel Inverter," 2023 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2023, pp. 1-6, doi: 10.1109/PESGRE58662.2023.10404172.
+JAN
+2024
+Shailendra Singh, Rajesh kumar, Bikram Das and S. P.  Singh," Demand Side Management and Voltage Control through Smart Inverter enabled DER with Networked Micro-Grid System', International Conference on Computer, Electronics, Electrical Engineering and Their Applications (IC2E3-2024)
+JUN
+2024
+Sangita  Das Biswas, Bikram Das & Champa Nandi" Reduced Switched Multilevel Inverter as a Shunt Active Power Filter to Improve Power Quality"Micro2024,11th   International Conference on Microelectronics, Circuits & Systems.
+MAY
+2024
+Diptanu Majumder; Manohar Lal Kumawat; Dipankar Sutradhar; Bikram Das;  Abanishwar Chakrabarti; Prabir Ranjan Kasari "Highly efficient GaN-based DC-DC converter"
+AIP Conf. Proc. 3242, 050001 (2024)
+https://doi.org/10.1063/5.0234304
+SEPT
+2024
+Tanmoy Karmakar; Sangita Das Biswas; Somudeep Bhattacharjee; Champa Nandi; Bikram Das "Harmonic mitigation in multilevel inverters for power quality improvement in power system"
+AIP Conf. Proc. 3242, 050002 (2024)
+https://doi.org/10.1063/5.0234391
+SEPT
+2024
+Diptanu Majumder; Naren Das; Joyashree Das; Abanishwar Chakrabarti; Prabir Ranjan Kasari; Bikram Das "A comparative study of various Bi-directional charging topologies for electric vehicles"
+AIP Conf. Proc. 3242, 050003 (2024)
+https://doi.org/10.1063/5.0234423
+SEPT
+2024
+Sangita Das Biswas; Bikram Das; Champa Nandi "A comprehensive review of optimization techniques for
+power quality improvement using multilevel inverters"
+AIP Conf. Proc. 3242, 050004 (2024)
+https://doi.org/10.1063/5.0234302
+SEPT
+2024
+C. Biswas, V. Gurram, B. Das, P. R. Kasari, A. Chakraborti and S. Majumder, "Control of Hybrid PV System with Battery Storage," 2023 International Conference on Power, Instrumentation, Control and Computing (PICC), Thrissur, India, 2023, pp. 1-6, doi: 10.1109/PICC57976.2023.10142378.
+APRIL
+2023
+V. K. Kaiwart, A. Jamatia, A. Chakrabarti, B. Das, P. R. Kasari and N. Laskar, "Modeling of Dual Active Bridge with Extended Phase Shift and Dual Phase Shift Modulation Technique using Reduced Order Model Method," 2023 Second International Conference on Electronics and Renewable Systems (ICEARS), Tuticorin, India, 2023, pp. 13-20, doi: 10.1109/ICEARS56392.2023.10085254.
+MAR
+2023
+Padma Paul, Prabir Ranja Kasari, Bikram Das and Abanishwar Chakrabarti “A Five-level Boost 
+Cascaded Multilevel Inverter with single DC source´ 2nd IEMRE2022, February 25th-27th, 2022.
+FEB
+2022
+Kamakshi Patro , Jyotsna Nain , Abanishar Chakrabarti , Rakesh Roy , Bikram Das , Prabir Rn. 
+Kasari and Sujit Kr. Biswas “Hybrid Islanding Protection Scheme For V2G Connected System 
+With Local Load” International Transportation Electrification Conference (iTEC) India 2021, 
+16th to 18th Dec 2021.
+DEC
+2021
+Jyotsna Nain , Kamakshi Patro , Abanishar Chakrabarti , Rakesh Roy , Bikram Das , Prabir Rn. 
+Kasari and Sujit Kr. Biswas “Super Capacitor Based Regenerative Braking in EV” International 
+Transportation Electrification Conference (iTEC) India 2021, 16th to 18th Dec 2021
+DEC
+2021
+Rakesh Roy; Amit Kumar; Abhinav Kumar; Anindita Jamatia; Prabir Ranjan Kasari; Bikram Das Abanishwar Chakrabarti "MMCC Based Decoupled Control of PMSG for Small Scale Hydro Power Plants," IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, Toronto, ON, Canada, 2021, pp. 1-6, doi: 10.1109/IECON48115.2021.9589944.
+OCT
+2021
+Sankarrao Ruttala, Subhasish Nayak, Bikram Das, Abanishwar Chakraborti, Prabir Ranjan 
+Kasari, “Decouple control of asymmetrical multilevel VSI for standalone PV application” IEEE 
+PEDES 2020,16th -19th December 2020, MNIT Jaipur, India
+DEC
+2020
+Amit Kumar, Abhinav Kumar, Chandan Kumar, Prabir Ranjan Kasari, Bikram Das, Abanishwar 
+Chakraborti “MMC based PMSG for oceanic wave energy conversion system” IEEE PEDES 
+2020,16th -19th December 2020, MNIT Jaipur, India.
+DEC
+2020
+Abhinav Kumar, Amit Kumar, Amit Kumar Ray, Prabir Ranjan Kasari, Bikram Das, 
+Abanishwar Chakraborti “TSBC converter for decouple control of DFIG in Micro Hydro Power 
+Plants” IEEE PEDES 2020,16th -19th December 2020, MNIT Jaipur, India.
+DEC
+2020
+Bikram Das Aniruddha Bhattacharya Debashis Chatterjee Prabir Ranjan Kasari “Multi 
+Reference Modulation Based Grid Integration of Cascaded Half Bridge MLI for Medium 
+Voltage PV Application” IEEE REGION 10 SYMPOSIUM (TENSYMP 2020) 5th – 7th June, 2020 | 
+Dhaka, Bangladesh.
+JUN
+2020
+Amit Kumar Kar, Chandan Kumar, Abanishwar Chakraborti, Bikram Das, Prabir Ranjan Kasari 
+“Single Stage Integration of PMSG to the Grid Using MMCC-TSBC for WECS” 2020, IEEE 9th 
+Power India International Conference (PIICON 2020), 28 February 2020 - 01 March 2020, Sonepat,India.
+MAR
+2020
+Bikram Das, Aniruddha Bhattacharya, Debashis Chatterjee “Boost Modular Multilevel 
+Converter’s Capacitor Voltage Balancing without voltage sensors” 2020 IEEE International 
+Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020), 02-04 January, kerala, India.
+JAN
+2020
+Nikhilesh Panda, Bikram Das, Prabir Ranjan Kasari, Abanishwar Chakrabarty “A Developed 
+Eleven-Level Inverter Topology for Medium-Voltage Application” 2020 IEEE International 
+Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020), 02-04 Jan, Kerala,India.
+JAN
+2020
+Deepak Sharma, Ujwal Kumar, Kajal K Shetty, Prabir Ranjan Kasari, Abanishwar 
+Chakrabarti, Bikram Das “Grid connected asymmetric cascaded H-bridge with LDN topology”
+2019 Innovations in Power and Advanced Computing Technologies (i-PACT),22-23 March ,2019, VIT, Vellore India.
+MAR
+2019
+Deepak Sharma, Prabir Ranjan Kasari, Sumit Kumar, Sudhanshu Kumar, Abanishwar 
+Chakraborty, Bikram Das “A Modified Controller for Solar PV Grid Tied Multilevel Inverter” 
+2019 Innovations in Power and Advanced Computing Technologies (i-PACT),2019,India.
+MAR
+2019
+Apurva Verma ; Abanishwar Chakraborti ; Ujwal Kumar ; Bikram Das ; Arindam 
+Das ; Prabir Ranjan Kasari “Fault Tolerant Control of Hybrid Wind-Solar Generation System” 
+2019 IEEE International Conference on Sustainable Energy Technologies and Systems 
+(ICSETS), Bhubaneswar 26Feb.-1 March 2019, India.
+MAR
+2019
+Kajal K Shetty ; Prabir Ranjan Kasari ; Bikram Das ; Abanishwar Chakrabarti “A Modified Cascaded Inverter for PV Integration into Grid Without Transformer” 2019 IEEE International Conference on Sustainable Energy Technologies and Systems (ICSETS), Bhubaneswar 26 Feb.-1 March 2019,India
+MAR
+2019
+Arindam Das , Ujwal Kumar, Apurva Verma ; Souradeep Pal ; Aby Joseph ; Abanishwar 
+Chakraborti; Bikram Das ; Prabir Ranjan Kasari” Grid Connected Wind-Solar Hybrid 
+Topology Controlled using TSBC” 2018 IEEE International Conference on Power Electronics, 
+Drives and Energy Systems (PEDES), 18-21 December Chennai- 2018,India.
+DEC
+2018
+Rajnikant Sinha ; Prabir Ranjan Kasari ; Abanishwar Chakrabarti ; Bikram Das ; 
+Arindam Das “Speed Regulation of DC Motor by Buck Converter” PEDES, 18-21 December
+Chennai- 2018,India.
+DEC
+2018
+Souradeep Pal ; Manash Mishra ; Apurva Verma ; Prabir Ranjan Kasari ; Bikram 
+Das ; Abanishwar Chakraborti ‘Control of Grid Connected Converters Under Unbalanced Grid 
+Faults” PEDES, 18-21 December Chennai- 2018,India.
+DEC
+2018
+Bikram Das ; Sunanda Banerjee ; Sudhangshu Kumar ; Prabir Ranjan Kasari ;Abanishwar 
+Chakrabarti “Solar based Air Conditioner with BLDC Motor and Battery Backup” PEDES, 18-
+21 December Chennai- 2018,India.
+DEC
+2018
+R. Sahoo, P. R. Kasari, M. R. Mishra, A. Chakraborti, A. D. Kumar and B. Das “Phase Shift 
+PWM based Inverter with reduced dc source” International Conference on Electrical, 
+Electronics, Computers, Communication, Mechanical and Computing(EECCMC), 28-29 Jan
+2018, Chennai, India
+JAN
+2018
+R. Sahoo, P. R. Kasari, M. R. Mishra, A. Chakraborti, A. D. Kumar and B. Das “A seven level 
+cascaded H-bridge inverter topology with reduced sources” 2nd International Conference on 
+Inventive Systems and Control (ICISC), 19-20 Jan. 2018, Coimbatore, India.
+JAN
+2018
+Apurva Verma, Abanishwar Chakraborti, Bikram Das, Prabir Ranjan Kasari, Manas Mishra 
+and Souradeep Pal “A New Topology for Hybrid Wind-Solar Generation system for Isolated 
+Loads” 978-1-5386-2462-3/18/$31.00©2018 IEEE ,Conference on Power, Instrumentation, 
+Control and Computing (PICC),18-20 Jan,2018 Trissur, India.
+JAN
+2018
+Vidyasagar Tummakuri, Prabir Ranjan Kasari, Bikram Das, Abanishwar Chakraborti “DSTATCOM: A Study on The NPC Multilevel Inverter and Control Strategies” 2018 IEEE 
+,Conference on Power, Instrumentation, Control and Computing (PICC),2018, Trissur, India.
+JAN
+2018
+Bikram Das, Debashis Chatterjee, Aniruddha Bhattacharya “Pulse Width Modulated 
+Cascaded Multi Level Topology” IEEE conference on “International Electrical Engineering 
+Congress (iEECON) 2018, Krabi, Thailand, 7th - 9th March, 2018
+MAR
+2018
+V. Tummakuri, P. R. Kasari, B. Das and A. Chakraborti “Performance Evaluation of 
+Cascaded H-Bridge Inverter as Active Line Conditioner” IEEE conference on “ International 
+Electrical Engineering Congress (iEECON) 2018, Krabi, Thailand, 7th - 9th March, 2018.
+MAR
+2018
+Manas Patra, Mriganka Ghosh Majumder, Bikram Das, Abanishwar Chakraborti, Prabir 
+Ranjan Kasari “A New Modular Multilevel Converter Topology with Reduced Number of 
+Power Electronic Components” 2017 International Conference on Innovations in Information, 
+Embedded and Communication Systems (ICIIECS), 978-1-5090-3294-5 /17/$31.00 ©2017 
+IEEE, India.
+MAR
+2017
+Manas Patra, Mriganka Ghosh Majumder, Bikram Das, Abanishwar Chakraborti, Prabir 
+Ranjan Kasari “A New Series Connected Switched Sources Based Multilevel Inverter Topology 
+with Reduced Device Count, i-PACT 2017, DOI: 978-1-5090-5682-8 /17/$31.00 ©2017 
+IEEE, India.
+APRIL
+2017
+Mriganka Ghosh Majumder, Manas Patra, Prabir Ranjan Kasari, Bikram Das, Abanishwar 
+Chakraborti “Photovoltaic array based Grid connected Cascaded Multilevel Inverter Using PR 
+controller” i-PACT 2017, 978-1-5090-5682-8 /17/$31.00 ©2017 IEEE, India.
+APRIL
+2017
+A. Dinesh Kumar, Bikram Das, Prabir Ranjan Kasari and Abanishwar Chakraborti 
+“Maximum Utilization of DC link voltage in Grid Connected Hybrid Modular Multi Level 
+Converter ”2017, 9th International Conference on Information Technology and Electrical 
+Engineering (ICITEE-2017), Phuket, Thailand. DOI:-978-1-5090-6477-9/17/$31.00 ©2017 
+IEEE.
+OCT
+2017
+Bikram Das, Aniruddha Bhattacharya, Debashis Chatterjee , Prabir Ranjan Kasari 
+”Development of Modified Cascaded Multilevel Inverter Configuration with Less Number of 
+Switches”, TENCON-2017, Penang, Malaysia. P-1550-1555. 978-1-5090-1134-6/17/$31.00 
+©2017 IEEE.
+NOV
+2017
+Prabir Ranjan Kasari, Manish Paul, Bikram Das, Abanishwar Chakraborti “Analysis of DSTATCOM for Power Quality Enhancement in Distribution Network” TENCON-2017, Penang, 
+Malaysia. P-1550-1555. 978-1-5090-1134-6/17/$31.00 ©2017 IEEE. P-1421-2426.
+NOV
+2017
+Vidyasagar Tummakuri, Bikram Das, Prabir Ranjan Kasari Abanishwar Chakraborti “Grid 
+Connected Five Level Cascaded H Bridge Inverter as Shunt Active Power Filter” NPEC-2017, 
+60-65,2017Pune, India.
+DEC
+2017
+Amal C Sunny A. Sarkar A. Chakrabarti, B Das, P.R.Kasari Aby Joseph “A Noble Control 
+Scheme for Grid Connected PV System Under Unbalanced Grid Condition” NPEC-2017, 60-
+65,2017Pune, India.
+DEC
+2017
+Mriganka Ghosh Majumder, Prabir Ranjan Kasari, Bikram Das, Abanishwar Chakraborti 
+“Solar Photovoltaic Array Based Multilevel Inverter for Power Conditioning In Four-Wire 
+Distribution System” in 3rd International Conference on Advances in Electrical, Electronics, 
+Information, Communication and Bio-Informatics (AEEICB17), 978-1-5090-5434-3©2017 
+IEEE, Chennai, India.
+JULY
+2017
+Abanishwar Chakraborti, Mahua Chanda, Arnab Sarkar, Bikram Das, Prabir Kasari, 
+Ardhendu Saha, Dilip Pandit, Amal C Sunny “Improved single stage grid connected solar PV
+system using multilevel inverter”, 2016 IEEE International Conference on Power Electronics, 
+Drives and Energy Systems (PEDES) 2016, India
+DEC
+2016
+Julakanti Satheesh Reddy; Abanishwar Chakraborti; Bikram Das “Implementation and 
+practical evaluation of an automatic solar tracking system for different weather conditions” 
+2016 IEEE 7th Power India International Conference (PIICON-2016). 978-1-4673-8962-
+4/16/$31.00 ©2016 IEEE
+NOV
+2016
+Amal C Sunny; Bikram Das; P. R. Kasari; Arnab Sarkar; Sayantan Bhattacharya; Abanishwar 
+Chakrabarty, “SVPWM based decoupled control of active and reactive power for single stage 
+grid connected solar PV system” 2016 IEEE 7th Power India International Conference 
+(PIICON-2016). 978-1-4673-8962-4/16/$31.00 ©2016 IEEE, India.
+NOV
+2016
+Bikram Das, Medaaibok Fancon, Prabir Ranjan Kasari, Abanishwar Chakrabarti 
+“Comparison of different PWM-VSI fed 3 F IM based on modulation index and switching 
+frequency” 2015 International Conference on Electrical, Electronics, Signals, Communication 
+and Optimization (EESCO), 2015, India.
+2015
+Navonita Sharma, Anurag Priyadarshi, Bikram Das, Prabir Ranjan Kasari, Abanishwar 
+Chakraborti “Testing of electrical machines using power electronic converters” 2015 
+International Conference on Electrical, Electronics, Signals, Communication and Optimization 
+(EESCO), 2015, India
+2015
+Navonita Sharma, Anurag Priyadarshi, Bikram Das, Prabir Ranjan Kasari, Abanishwar 
+Chakraborti “Testing of electrical machines using power electronic converters” 2015 
+International Conference on Electrical, Electronics, Signals, Communication and Optimization 
+(EESCO), 2015, India
+JAN
+2015
+A Sarkar, S Reddy, B Das, PR Kasari, A Saha, A Chakrabarti “Multilevel inverter based single 
+stage grid connected solar PV” 2015 International Conference on Green Computing and 
+Internet of Things (ICGCIoT), 2015, India.
+OCT
+2015
+Bikram Das, Suvamit Chakrabarti, Prabir Ranjan Kasari, Abanishwar Chakraborti “Novel 
+reverse regeneration technique of BLDC motor for capacitor charging” Proceedings of The 
+2014 International Conference on Control, Instrumentation, Energy and Communication 
+(CIEC)-2014, India.
+JAN
+2014
+Bikram Das, Suvamit Chakraborty, Prabir Rn. Kasari, Abanishwar Chakraborti” 
+International Conference on “Reverse regeneration technique of BLDC motor for Capacitor 
+Charging” ACEC-2013, (12-13 Oct’13), ISBN: 978-981-07-7965-8 DOI:10.3850/ 978-981-07-
+7965-8_02,PP-7-11, Zurich, Switzerland.
+OCT
+2013
+B.Das, A. Chakrabarti, P.R.Kasari and N.Sharma , 2013 International Conference on Power, 
+Energy and Control (ICPEC) “Sensorless speed control of dc machine” (6-8)th February’13,
+PSNA College, Dindigul Tamil Nadu State. DOI: 10.1109/ICPEC.2013.6527723, PP 572-577, 
+India.
+FEB
+2013
+Chakrabarti, D. Kastha, B. M. Mohan, B. Das & P.R.Kasari” Nonlinear Transient Modeling of 
+a Diesel Engine” International Conference on Advances in Power Electronics and Control 
+System - PECS 2012, Nov 22-23, 2012; Amsterdam, Netherlands.
+NOV
+2012
+A. Chakrabarti, N.Sharma, P.Banik, S.Bhattacharjee, R.Patwari, K,Singh, B.Das, P.R.Kasari” 
+Internatioinal Conference “Observer based speed control of DC machine” IEEE –ICPEN -
+2012,NERIST,Nirjuli,India.
+DEC
+2012
+Prabir Rn. Kasari, Prashanta Saha, Abanishwar Chakraborti & Bikram Das. National 
+Conference on “Condition Monitoring of transformer winding” in Proceeding of fifth national 
+Conference on Advances in Energy Conversion Technology (AECT 2012),India.
+2012
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Chiranjit Biswas Soham Chakraborty Kamakshi Patro Jyotsna Nain Abanishwar Chakrabarti, Rakesh Roy, BIkram Das, Prabir R Kasari, Swanirbar Majumder, Joyashree Das, Sujit K Biswas" Negative Sequence Current Injection Based Active Islanding Detection Method, IEEE Transactions on Industry Applications. Volume: 61, Issue: 2, PP: 2093-2102 DOI: 10.1109/TIA.2024.3523870
+MAR
+2025
+T. Karmakar, S. Das Biswas, Somudeep Bhattacharjee, Champa Nandi & BikramDas "A Comprehensive Survey on Harmonic Elimination in Multilevel Inverters Using Optimization Techniques for Power Quality Improvement" DOI: 10.2174/0123520965283680240102080153;  Recent Advances in Electrical & Electronic Engineering, SCOPUS
+JAN
+2024
+Dipankar Sutradhar and Bikram Das, "Multilevel Inverters: An Exploration of Topologies, Advantages, and Limitations" Recent Advances in Electrical & Electronic Engineering., 10.2174/0123520965309258240917150616 (SCOPUS).
+OCT
+2024
+A. Chakrabarti, K. Sarkar, P. R. Kasari, B. Das and S. K. Biswas, "A CB-PWM Technique for Eliminating CMV in Multilevel Multiphase VSI," in IEEE Transactions on Industrial Electronics, vol. 70, no. 9, pp. 8666-8675, Sept. 2023, doi: 10.1109/TIE.2022.3198256.
+SEPT
+2023
+K. Sarkar, A. Chakrabarti, P. R. Kasari, B. Das and S. K. Biswas, "Performance Improved Multi-Level OEIM Drive With Voltage Boost Through Unequal Levels," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2023.3290574. Early Acess.
+2023
+A. Chakrabarti, N. Sharma, P. R. Kasari, B. Das and S. K. Biswas, "A Fault Tolerant Control Scheme of Grid Connected VSI for Balanced Power Injection," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3285028. Early Acess.
+2023
+Bikram Das, Debashis Chatterjee and Aniruddha Bhattacharya “Multilevel Converter 
+Topology Suitable for Separate and Variable Magnitude of DC Sources” Int. J. Power 
+Electronics, Vol. 15, No. 2, 2022, pp-194-215 (SCOPUS)
+MAR
+2022
+N. Panda, B. Das, A. Chakrabarti, P. R. Kasari, A. Bhattacharya and D. Chatterjee, "A New Grid Interactive 11-Level Hybrid Inverter Topology for Medium-Voltage Application," in IEEE Transactions on Industry Applications, vol. 57, no. 1, pp. 869-881, Jan.-Feb. 2021, doi: 10.1109/TIA.2020.3040204.
+FEB
+2021
+Navonita Sharma; Souradeep Pal; Manas Mishra; Apurva Verma; Ajoy Kumar Chakraborty;
+Prabir Ranjan Kasari; Bikram Das; Abanishwar Chakrabarti, "OCNOP Control of Grid Connected Converters for Single-Phase Open Circuit Fault," in IEEE Transactions on Industry 
+Applications, vol. 57, no. 1, pp. 964-976, Jan.-Feb. 2021, doi: 10.1109/TIA.2020.3033263. 
+(SCI)
+FEB
+2021
+Arindam Das; Amit Kumar Kar; Chandan Kumar; ? Mayur; Ujwal Kumar; Apurva Verma, 
+Souradeep Pal, Aby Joseph, Bikram Das, P. R. Kasari, A. Chakrabarti, Subhadeep 
+Bhattacharjee"TSBC Converter With BESS for DFIG-Based Wind Energy Conversion System," 
+in IEEE Transactions on Industry Applications, vol. 56, no. 6, pp. 6158-6173, Nov.-Dec. 2020,
+doi: 10.1109/TIA.2020.3022605.(SCI)
+DEC
+2020
+Bikram Das, Manas Patra, Debashis Chatterjee and Aniruddha Bhattacharya” An improved 
+topology of cascaded multilevel inverter with low switch count” Int. J. Power Electronics, Vol. 
+12, No. 1, 2020, pp1-29 (SCOPUS)
+MAY
+2020
+Mahua Chanda, Bikram Das” Torque Ripple reduction and Speed performance of BLDCM 
+drive with Hystersisi current controller” IJERT Vol.03.Issue.05, May-2014.
+MAY
+2014
+Bikram Das, Suvamit Chakraborty, Abanishwar Chakraborti & Prabir Rn. Kasari, 
+International Journal on “Performance Analysis Of BLDC Motor Using Basic Switching 
+Converters ”IJITEE (ISSN: 2278 - 3075 Online, Reg. No.: 5021/BPL/CE/12),PP 11-14.
+NOV
+2014
+Navonita Sharma, Abanishwar Chakrabarti, Prabir Ranjan Kasari, Bikram Das “Regenerative 
+Loading System” International Journal of Electrical Engineering & Technology (IJEET); ISSN 
+0976 – 6545(Print); ISSN 0976 – 6553(Online); Volume 4, Issue 4, July-August (2013), pp. 
+213-224.(SCOPUS)
+AUG
+2013
+Prabir Ranjan Kasari, Prashanta Saha, Abanishwar Chakrabarti &Bikram Das “Transformer 
+Winding Insulation Measurement Using Phase Difference Technique” International Journal of 
+Recent Technology and Engineering(IJRTE) ISSN: 2231-2307, Volume 1, Issue 6, January 
+2013;PP-76-80.
+JAN
+2013
+Bikram Das, Prabir Rn. Kasari, Abanishwar Chakraborti, Prasul Jain, Sanjay Raghuwanshi and 
+Pawan Kr. Navin “Battery Energy Storage And Power Electronics Based Voltage And 
+Frequency Controller For WECS Connected To Grid” International Journal of Electrical 
+Engineering & Technology (IJEET); ISSN 0976 – 6545(Print); ISSN 0976 –
+6553(Online);Volume 4, Issue 2, March – April (2013), pp. 283-292. (SCOPUS)
+APRIL
+2013
+Bikram Das, Suvamit Chakraborty, Prabir Rn. Kasari, Abanishwar Chakraborti, Manik 
+Bhowmik. International Journal on “Speed Control of BLDC Motor using Soft Computing 
+Technique and its Stability Analysis” IJECCE ,Volume 3, Issue 5,pp 1046-1051, ISSN (Online): 
+2249–071X, ISSN (Print): 2278–4209,Sept’2012.
+SEPT
+2012
+Bikram Das, Anindita Jamatia, Abanishwar Chakraborti, Prabir Rn. Kasari & Manik 
+Bhowmik. International Journal on “ New Perturb and Observe MPPT algorithm and its 
+validation using data from PV Module”,IJAET,ISSN:2231-1963,volume4,issue1, pp 579-
+591,July 2012.
+JULY
+2012
+Bikram Das, Naireeta Deb, Prabir Rn. Kasari & Abanishwar Chakraborti International 
+Journal on “Power Electronics based voltage and frequency controller feeding fixed loads for 
+application in standalone wind energy conversion systems” ,IJERT,ISSN: 2278-0181,volume 
+1.Issue 3.May 2012.
+MAY
+2012
+Book Published
+No.
+Book Published
+Year
+Book Chapter- "A Comparative Analysis of Multicarrier PWM Techniques in a Seven-level Asymmetrical Multilevel Inverter" Sangita Das Biswas, Bikram Das, Champa Nandi, Tripura India. River Publisher, ISBN: 9788770041430 e-ISBN: 9788770041133,
+2025
+Title-"Integrated Energy Systems: Design, Control and Operation", Editors: Bikram Das, Abanishwar Chakrabarti, Arvind Kumar Jain, Subhadeep Bhattacharjee, ISBN: 979-8-89113-206-1, DOI: https://doi.org/10.52305/SLPI5681; NOVA Science Publishers, SCOPUS Indexed.
+2023
+Book Chapter- Energy Storage Schemes, Controls, and the Management of Integrated Energy Systems" Bikram Das
+Department of Electrical Engineering, NIT, Agartala, Tripura, India, DOI: https://doi.org/10.52305/SLPI5681; NOVA Science Publishers, SCOPUS Indexed.
+2023
+Title-Maximum Power Point Tracking For Solar Panels
+ Authors: Bikram Das, Prabir Ranjan Kasari, Abanishwar Chakrabarti. 
+ ISBN-13: 978-3-659-43563-8, ISBN-10: 3659435635; EAN: 9783659435638;
+ LAP- Lambert Academic Publishing (2013-08-02 ).
+2013
+Conference Attended
+No.
+Conference Attended Information
+Month
+Year
+National Conference on Smart and Sustainable city infrastructure on 29th November 2018
+at NIT Agartala organized by BIS, New Delhi; NIT Agartala; IEI Tripura state Centre and IBC 
+Tripura state Centre.
+NOV
+2018
+57th Convention of the Institution of Engineers, Bangladesh (IEB) from 28th-30th January 
+2017 at Chittagong, Bangladesh
+JAN
+2017
+Seminar on “Application of power electronics on Power System: The Future Trend” 21st 
+September 2016 organized by Jadavpur University.
+SEPT
+2016
+30th Indian Engineering Congress from 17-20th December 2015 at Guwahati.
+DEC
+2015
+29th Indian Engineering Congress from 18-21st December 2014 at Hyderabad.
+DEC
+2014
+Seminar on “Power System Components” from 22nd -23rd April 2010 organized by NIT 
+Agartala and Power Grid Corporation of India Limited
+APRIL
+2010
+Conference Conducted
+No.
+Conference Conducted Information
+Month
+Year
+2024 IEEE Silchar Subsection Conference (SILCON 2024) has been posted to the IEEE Xplore digital library effective 2025-03-13. Served as Organizing Chair-Main Lead.
+NOV
+2024
+Training Attended
+Month
+Training Attended Information
+Year
+FEB
+FDP on “Intellectual Property management at early stage of innovation and start-ups” 
+from 21st -26th Feb’2022 at NIT Agartala, 1week
+2022
+DEC
+STC on” Smart Energy System for Rural and Urban Development” from 02-12- 2019 to 06-
+12- 2019 at NIT Agartala, 1week.
+2019
+JAN
+STC on” Electrical Power System and Protection” from 09-01- 2017 to 13-01-2017 at 
+NITTTR Kolkata, 1week.
+2017
+AUG
+STC on” Students Mentorship” from 07-08- 2017 to 11-08-2017 at NITTTR Kolkata, 1week.
+2017
+JULY
+FDP on “Achieving Academic Excellence” from 25-30 July 2016 at IIM Raipur, 1week
+2016
+MAY
+STC on” Power Electronics and Thyristor Base Control System” from 23-05- 2016 to 27-05-
+2016 at NITTTR Kolkata, 1week.
+2016
+JAN
+STC on” Stability Modeling& Analysis of Power System Including Large and Renewable 
+Energy Sources” from 30-12-2015 to 08-01-2016 at NIT Agartala, (GIAN Course) 2 Week.
+2016
+JUN
+STC on” Electrical Machines &Power System” from 29-06- 2015 to 10-07-2015 at NITTTR 
+Kolkata, 2 week
+2015
+NOV
+Workshop on Aakash for Education.” under the National Mission on Education through ICT (MHRD,
+Govt. of India) and MNRE from 10-11-12 to 11-11 12 organized by IIT, Bombay held at NIT, 
+Agartala, Two days”.
+2012
+DEC
+Workshop on “Solar Photovoltaic: Fundamentals, Technologies and applications” under the National 
+Mission on Education through ICT (MHRD, Govt. of India) and MNRE from 12th Dec’11-22nd
+Dec’2011 organized by IITB held at NIT, Agartala, (10-day ISTE).
+2011
+FEB
+SDP on” Engineering Graphics through AUTOCAD” from 14-02-2011 to 27-02-2011, at NIT 
+Agartala, 2 week.
+2011
+FEB
+SDP on” Use of Alternative Fuels –A Current Trend in Automobile Industry” from 24-01-
+2011 to 06-02-2011 at NIT Agartala, 2 week
+2011
+JAN
+SDP on” Fundamentals of Software Engineering” from 04-01-2010 to 15-01-2010 at NIT 
+Agartala, 2 week.
+2010
+NOV
+SDP on” Web Application with Data Base using PHP and my SQL” from 23-11- 2009 to 04-
+12-2009 at NIT Agartala, 2 week.
+2009
+JULY
+STC on” Power Electronics” from 16-07- 2009 to 22-07-2009 at BESU, Shibpur, 1 week.
+2009
+JUN
+STC on” Evaluating Students’ performance” from 08-06- 2009 to 12-06-2009 at NITTTR 
+Kolkata, 1 week.
+2009
+SEPT
+TC on” Computer Networking” from 17-09- 2008 to 21-09-2008 at NIT, Agartala in coordination of NITTTR Kolkata, 1 week.
+2008
+JUN
+STC on” Improvement of Teaching Skills through Microteaching” from 23-06- 2008 to 27-
+06-2008 at NITTTR Kolkata, 1 week.
+2008
+MAY
+STC on” Industrial Electronics and its applications” from 19-05- 2008 to 23-05-2008 at 
+NITTTR Kolkata, 1 week.
+2008
+JULY
+STC on” Exposure on MATLAB” from 16-07- 2007 to 20-07-2007 at NITTTR Kol., 1 week
+2007
+MAY
+STC on” Power Electronics and Drives” from 21-05- 2007 to 25-05-2007 at NITTTR 
+Kolkata, 1 week
+2007
+Training Conducted
+Month
+Year
+Training Conductted Information
+MAR
+2024
+Microgrids design, control, applications and challenges, 5-11th March 2024 (7 Days) .File Number: AV/KAR/2023/0262 Dated: 13-02-2024, Karyashala, Under Accelerate Vigyan Scheme.
+MAR
+2023
+AICTE Training and Learning (ATAL) Academy Faculty Development Program On Power Quality Disturbances in Smart Distribution Grid: Theories, Concepts and Solutions 
+(Duration: 13/03/2023 to 24/03/2023)
+OCT
+2019
+Recent Trends in Multilevel Converter
+ 30th Sept-4
+th October „2019 jointly with VNIT Nagpur funded by TEQIP-III
+AUG
+2018
+Emerging Trends of Power Electronics in Renewable Energy
+ 06 -10th August? 2018 funded by TEQIP-III
+JAN
+2017
+Strategies in Power Electronics 
+ 20-22nd January 2017 funded by TEQIP-II.
+AUG
+2017
+Power Electronics and its scope of Application in North East India (PEANEI -2017)
+ 23 -25th August, 2017, funded by NaMPET-II, CDAC Trivandrum- Rs. 2.65 lac
+NOV
+2015
+Recent trends on Power Electronics and Drives
+ 21-22nd November, 2015 funded by TEQIP-II.
+Subject Information
+Sr.No.
+Class
+Subject
+1
+B.Tech, 5th Sem
+Power Electronics
+2
+M.Tech, 1st Sem
+Advanced Power Electronics
+3
+M.Tech
+Power Electronics Lab-1
+4
+M.Tech
+Power Electronics Lab-2
+Department Important Links
+Quick Links
+Skip Navigation Links.
+Skip Navigation Links.
+National Institute of Technology Agartala
+Jirania , West Tripura
+Pin - 799046
+: director@nita.ac.in, nita.director@gmail.com
+: (0381)2546630 & Fax:(0381)2546360
+Reports/Minutes
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+Annual Audited Report
+Other Links
+Institute Innovation Council & Startup
+Central Research Facility
+Disclaimer
+Holiday List
+Alumni
+Convocation
+GSTIN of NITA
+Space Technology Incubation Centre
+External links
+ICT Initiatives of MoE
+Ministry of Education
+JOSAA,
+CSAB
+DASA,
+ICCR
+Study in India
+CCMT
+CCMN
+National Career Service Portal
+BIS
+Contact
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+Internal Complaint Committee (ICC)
+Copyright. All rights reserved. © National Institute of Technology Agartala
+Designed by
+Mastersoft
+| Maintained by
+NIT Agartala
+Last updated on 20/08/2025
+Number of visitors on the website :

@@ -1,0 +1,371 @@
+Webmail
+MIS
+Login
+Old Website
+-
+font size
+                                    decrease
+font size reset
++
+font size
+                                    increase
+default theme
+Dark mode
+National Institute of Technology Agartala
+राष्ट्रीय प्रौद्योगिकी संस्थान अगरतला
+Skip Navigation Links
+HOME
+ABOUT
+About NITA
+Facilities
+Strategic Plan 2020-2030
+Virtual Tour of NIT Agartala
+ADMINISTRATION
+Board of Governors
+The Senate Committee
+The Finance Committee
+Office of Director
+The Buildings and Works Committee
+Office of Registrar
+Office of Dean (Academic Affairs)
+Office of Dean(Planning & Development)
+Office of Dean(Students' Welfare)
+Office of Dean(Research & Consultancy)
+Office of Dean(Faculty Welfare)
+Office of Chairman (AR & IR)
+Chief Information Security Officer (CISO)
+Chief Vigilance Officer (CVO)
+Establishment Section
+Accounts Section
+Audit Section
+Purchase Section
+MIS Section
+Library Section
+Computing & ICT Unit
+Office of  Vehicle Section
+ACADEMICS
+Academic Calendar
+Academic Regulations
+UG Regulations (old)
+Regulations for M.tech Programme (2019)
+Regulations for M.tech Programme (Old)
+Regulations for Ph.D Programme  (2018)
+Regulations for Ph.D Programme (Old)
+Admission
+UG Admission
+M.Tech Admission
+M.Sc Admission
+MCA Admission
+MBA Admission
+Ph.D Programme
+Visvesvaraya PhD Scheme
+DASA at NIT Agartala
+Prospectus
+First Year Syllabus
+B.Sc- B.Ed programme (4-Year ITEP)
+List of Holidays (July 2025 - June 2026)
+DEPARTMENT
+Bio Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Production Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+STUDENT
+Center for Career Development
+Examination Section
+List of People
+Verification of Academic Credential
+DigiLocker
+SOP for acquiring Academic Documents
+Question Bank Link
+Hostel
+Office of the Chief Warden
+NITA Health Centre
+Sports at NIT Agartala
+Student Bodies and Clubs
+Student Discipline Manual
+Academic Bank of Credits (ABC)
+Anti-Ragging
+Study in India
+ALUMNI
+Message
+Chairman Alumni Affairs
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+NEWS EVENTS
+Newsletter of NIT Agartala
+Magazine "UPSHIFT" Edition 3
+Magazine "UPSHIFT" Edition 2
+Magazine "UPSHIFT" Edition 1
+Past Events
+Research
+Overview
+Project
+Sponsored Project
+Consultancy Project
+Patent
+Education/ Training
+Conference Organized
+Workshop/ Seminar Organized
+Research & Innovation Centre
+Documents
+Achievements
+LIBRARY
+E-Resource (Remote Access)
+OPAC
+One nation One Subscription (ONOS)
+Computer Science and Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+NLP Research Group
+Publications
+Faculty/Staff Profile
+Dr. Dwijen Rudrapal
+Dr. Dwijen Rudrapal
+Assistant Professor
+Department:
+Computer Science and Engineering
+Email ID :
+dwijen.rudrapal@gmail.com
+Research Area :
+Explainable Artificial Intillegence, NLP, Multimodal NLP, Machine Learning, Statistical Modeling, Information Retrieval.
+Courses Taught
+UG Courses
+1. Formal Language & Automata Theory
+2. Object Oriented Programming
+3. Cryptography and Network Security
+4. Information Retrieval.
+5. Algorithm
+6. Machine Learning
+PG Courses
+1. Information Retrieval
+2. Cryptography and Network Security
+3. Theory of Computation
+Student Register For PhD Enrolled OnGoing
+1. Mr Binnu Paul (Ongoing)
+2. Miss Kavita Sinha (Ongoing)
+3. Miss Shyamashri Das (Ongoing)
+Address Information
+Address
+Department of CSE, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+dwijen.rudrapal@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+9856027328
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+NIT Agartala
+2021
+In Natural Language Processing
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+NIT Agartala
+2012
+In Computer science and engineering
+B.E
+(
+                                                            Bachelor of Engineering                                                                             )
+Tripura University
+2003
+In Computer science and engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Maitra, S., Rudrapal, D. (2023). Comparative Study on Different Approaches for Understanding the Privacy Policies. In: Bhateja, V., Yang, XS., Lin, J.CW., Das, R. (eds) Evolution in Computational Intelligence. FICTA 2022. Smart Innovation, Systems and Technologies, vol 326. Springer, Singapore. https://doi.org/10.1007/978-981-19-7513-4_2
+APRIL
+2023
+Koushik, G.J.S., Tirudeepak, K., Rudrapal, D. (2023). Personality Detection Using Signature Analysis. In: Chakravarthy, V., Bhateja, V., Flores Fuentes, W., Anguera, J., Vasavi, K.P. (eds) Advances in Signal Processing, Embedded Systems and IoT . Lecture Notes in Electrical Engineering, vol 992. Springer, Singapore. https://doi.org/10.1007/978-981-19-8865-3_48
+MAY
+2023
+Banik, A., Datta, A., Rudrapal, D. (2023). Name Entity Recognition for Transliterated Bengali Text Using Machine Learning Algorithm. In: Chaki, N., Roy, N.D., Debnath, P., Saeed, K. (eds) Proceedings of International Conference on Data Analytics and Insights, ICDAI 2023. ICDAI 2023. Lecture Notes in Networks and Systems, vol 727. Springer, Singapore. https://doi.org/10.1007/978-981-99-3878-0_19
+JULY
+2023
+Chakraborty, D., Rudrapal, D., Bhattacharya, B. (2023). A Study on the Research Progress of Multimodal Sentiment Analysis in Indian Languages. In: Chaki, N., Roy, N.D., Debnath, P., Saeed, K. (eds) Proceedings of International Conference on Data Analytics and Insights, ICDAI 2023. ICDAI 2023. Lecture Notes in Networks and Systems, vol 727. Springer, Singapore. https://doi.org/10.1007/978-981-99-3878-0_17
+JULY
+2023
+Amaan Rizvi, Anupam Jamatia, Dwijen Rudrapal, Kunal Chakma, Björn Gambäck, Cross-Lingual Speaker Identification for Indian Languages.  Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing (RANLP), Pages
+979-987, September, Bulgeria, 2023.
+SEPT
+2023
+Biswas T, Bhattacharya D, Rudrapal D, Roy S, Mandal G. Motion Detection in Real-Time Surveillance Using Two Frame Differencing. InInternational Conference on Information and Communication Technology for Competitive Strategies 2023 Dec 8 (pp. 97-109). Singapore: Springer Nature Singapore.
+DEC
+2023
+Biswas T, Bhattacharya D, Rudrapal D, Roy S. Machine Learning for Forecasting Depression and Anxiety in University Students. InInternational Conference on Information and Communication Technology for Competitive Strategies 2023 Dec 8 (pp. 83-95). Singapore: Springer Nature Singapore.
+DEC
+2023
+Souvik Maitra and D Rudrapal, “Understanding the insights of Privacy Policies using BERT”, in the 3rd International Conference on Advances in Computer Engineering and Communication Systems (ICACECS-2022) during 11th & 12th August 2022, Hyderabad, Telangana, India.
+AUG
+2022
+Rudrapal, Dwijen, Manaswita Datta, Ankita Datta, Puja Das, and Subhankar Das. "An Approach to Compress English Posts from Social Media Texts." In Computational Intelligence in Data Mining, pp. 83-91. Springer, Singapore, 2020
+JUN
+2020
+Rudrapal, Dwijen, Sasank Boro, Jatin Srivastava, and Shyamu Singh. "A Deep Learning Approach to Predict Football Match Result." In Computational Intelligence in Data Mining, pp. 93-99. Springer, Singapore, 2020
+JUN
+2020
+Rudrapal, Dwijen, and Amitava Das. "Measuring the Limit of Semantic Divergence for English Tweets." In Proceedings of 11th International Conference Recent Advances in Natural Language Processing, RANLP 2017, pp. 618-624. 2017
+DEC
+2017
+Rudrapal, Dwijen, Das, Amitava, Bhattacharya, B. Quotology - Reading Between the Lines of Quotations, in: 22nd International Conference on Applications of Natural Language to Information Systems, NLDB 2017, Belgium, PP:292--296, June 21-23, 2017.
+JUN
+2017
+Dwijen Rudrapal, Anupam Jamatia, Kunal Chakma, Amitava Das, Björn Gambäck Sentence Boundary Detection for Social Media Text. In: Proceedings 12th International Conference on Natural Language Processing (ICON-2015). PP: 254--260, IIITM-K, Trivandrum, NLP Association of India, India, 11-14 December 2015
+DEC
+2015
+Dwijen Rudrapal, Amitava Das, Baby Bhattacharya, "Measuring Semantic Similarity for Bengali Tweets Using WordNet", Proceedings of Recent Advances in Natural Language Processing, pages 537–544, Hissar, Bulgaria, Sep 7–9, 2015
+SEPT
+2015
+Dwijen Rudrapal, Dr Baby Bhattacharya, "Recognition of Partial Textual Entailment for Bengali Tweets", In the Proceedings of 1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), Pages 29-35, Goa, India, 21st December 2014. Eleventh International Conference on Natural Language Processing (ICON-2014)
+DEC
+2014
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Chakma, K., Datta, S., Jamatia, A. and Rudrapal, D. (2025), Semantic Role Labelling: A Systematic Review of Approaches, Challenges, and Trends for English and Indian Languages. Expert Systems, 42: e13838. https://doi.org/10.1111/exsy.13838
+MAR
+2025
+M, V.R., Chakma, K., Jamatia, A., Rudrapal, D., An innovative Telugu text summarization framework using the pointer network and optimized attention layer. Multimed Tools Appl (2024). https://doi.org/10.1007/s11042-024-19187-8
+APRIL
+2024
+Paul, B., Rudrapal, D., Chakma, K., Jamatia, A. Multimodal Machine Translation Approaches for Indian Languages: A Comprehensive Survey. Journal of Universal Computer Science (J.UCS). Accepted in January, 2024. In press (May, 2024 issue).
+JAN
+2024
+Chakma Kunal, Jamatia Anupam, and Rudrapal Dwijen, "Identification and Summarization of Events from Twitter using Clustering Algorithms and Deep Neural Network", in Natural Language Engineering (NLE) Journal, Accepted in June, 2024.
+JUN
+2024
+Chakraborty, D., Rudrapal, D. & Bhattacharya, B. A multimodal sentiment analysis approach for tweets by comprehending co-relations between information modalities. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-17569-y
+NOV
+2023
+Rudrapal, Dwijen, Amitava Das, and Baby Bhattacharya. "A New Approach for Twitter Event Summarization Based on Sentence Identification and Partial Textual Entailment." Computación y Sistemas 23, no. 3 (2019).
+OCT
+2019
+Rudrapal, Dwijen, Amitava Das, and Baby Bhattacharya. "Ranking of Event-focused English Tweets Based on Relevance and Informativeness." Computación y Sistemas 23, no. 2 (2019): 491-500.
+AUG
+2019
+Rudrapal, Dwijen, Amitava Das, and Baby Bhattacharya. "Recognition of partial textual entailment for Indian social media text." Computación y Sistemas 23, no. 1 (2019): 143.
+APRIL
+2019
+Rudrapal, Dwijen, and Amitava Das. "Semantic Role Labeling of English Tweets." Computación y Sistemas 22, no. 3 (2018): 739-746.
+OCT
+2018
+Rudrapal, Dwijen, and Amitava Das. "Semantic role labelling of English tweets through sentence boundary detection." International Journal of Intelligent Information and Database Systems 11, no. 4 (2018): 225-235.
+DEC
+2018
+Rudrapal, Dwijen, and Amitava Das. "Semantic role labelling of English tweets through sentence boundary detection." Special Issue on: Big Data and Decision Sciences in Management and Engineering, International Journal of Intelligent Information and Database Systems 11, no. 4 (2018): 225-235.
+DEC
+2018
+Dwijen Rudrapal, Amitava Das, and Baby Bhattacharya, "A Survey on Automatic Twitter Event Summarization," Journal of Information Processing Systems, Special issue on JIPS survey paper award, Silver paper awarded and Free publication, vol. 14, no. 1, pp. 79~100, 2018. DOI: 10.3745/JIPS.02.0079
+APRIL
+2018
+K Johnson, K Gourav, Gaurav, D Rudrapal, S Debnath, " OCR for devanagari numerals using zonal histogram of angle ", Journal of Statistics and Management Systems , Vol:20, Issue:4, Pages 519-534, 2017
+DEC
+2017
+Amitava Das and Dwijen Rudrapal "Exploring the Partial Textual Entailment Problem for Bengali News Texts" Research in Computing Science, Vol. 86, pp. 43-52, 2014
+JULY
+2014
+Conference Attended
+No.
+Conference Attended Information
+Month
+Year
+19th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing-2018), March 18 to 24, 2018, Hanoi, Vietnam
+MAR
+2018
+The Twelfth International Conference on Natural Language Processing (ICON-2015) at IIITM-Kerala, Trivandrum during December 11-14, 2015
+DEC
+2015
+The Eleventh International Conference on Natural Language Processing (ICON-2014) at Goa University, Goa, India during December 18-21, 2014
+DEC
+2014
+10th International Conference on Distributed Computing and Intelligent Technology (ICDCIT-2014) at KIIT, Bhubaneswar, India, February 6-9, 2014.
+FEB
+2014
+The 4th International Conference on Computing, Communications and Networking Technologies (ICCCNT) at Tamilnadu, India, during 4-6 July 2013
+JULY
+2013
+Department Important Links
+Quick Links
+Skip Navigation Links.
+Skip Navigation Links.
+National Institute of Technology Agartala
+Jirania , West Tripura
+Pin - 799046
+: director@nita.ac.in, nita.director@gmail.com
+: (0381)2546630 & Fax:(0381)2546360
+Reports/Minutes
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+Annual Audited Report
+Other Links
+Institute Innovation Council & Startup
+Central Research Facility
+Disclaimer
+Holiday List
+Alumni
+Convocation
+GSTIN of NITA
+Space Technology Incubation Centre
+External links
+ICT Initiatives of MoE
+Ministry of Education
+JOSAA,
+CSAB
+DASA,
+ICCR
+Study in India
+CCMT
+CCMN
+National Career Service Portal
+BIS
+Contact
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+Internal Complaint Committee (ICC)
+Copyright. All rights reserved. © National Institute of Technology Agartala
+Designed by
+Mastersoft
+| Maintained by
+NIT Agartala
+Last updated on 20/08/2025
+Number of visitors on the website :

@@ -1,0 +1,96 @@
+Central Research Facility of NIT Agartala
+NITA
+About CRF
+Instruments
+Charges
+Requistion-Form
+Members
+Contact Us
+Scanning Electron Microscope (SEM)
+Atomic Force Microscopy (AFM)
+List of available Instruments:
+Sl. No.
+Instruments
+Detail Specification
+Present Status
+1
+Scanning Electron Microscope    (SEM)
+Make- FEI MICROSCOPE
+Model- Nova NanoSEM 450
+Under Maintenance
+2
+Transmission Electron Microscope
+Bright and dark field images;
+Selected area    electron diffraction patterns;  Energy    Dispersive X-ray Spectroscopy.
+Under maintenance
+3
+Atomic Force Microscopy (AFM)
+Bruker Multimode 8
+Working
+4
+X-ray Diffractometer
+1. X-ray source with Cu-Kα radiation (λ=1.54Å).
+2. Operating voltage of 40 kV and current of 40 mA.
+3. Different stage equipment for powder materials and also for thin    films to do XRD.
+4. Dedicated chiller to control the X-ray tube temperature.
+Under Maintenance
+5
+De-ionized Water Plant
+Model: Milli-Q® Direct    8 Water Purification System
+Company Name: Millipore S.A.S, BP 116, 67124, Molsheim, France.
+Working
+6
+SonTek 16-MHz Micro ADV
+Acoustic Doppler Velocimeter is the most significant breakthrough in    3-axis (3D) current meter technology.
+Working
+7
+SonTek River Surveyor M9
+The River Surveyor S5/M9 is a river discharge measurement system    without the traditional limitations.
+Working
+8
+WaterLog Seven Sensor Weather Station
+WaterLOG weather sensors are designed specifically for extreme weather    conditions worldwide.
+Working
+9
+YSI 6600 Sonde Multiparameter Water Quality Analyzer
+The YSI 6600 V2-4 data sonde is a water quality monitoring platforms    with simultaneous measurement of conductivity (salinity), temperature, depth    or level, pH/ORP, and more.
+Working
+10
+Liquid Nitrogen Generator
+Make- Kelvin International INC., USA
+Model- M280x3T-13-0570
+Working
+11
+FTIR
+The FT-IR's manufacturer is Thermo Fisher Scientific Inc.
+Model - Nicolet iS10 fitted with Smart Omni Transmission
+And the working range is 400-4000 cm-1
+Working
+12
+Precision PCB Board Maker With 50 micron Line/Space
+Besides general    purpose high density PCBs, this instrument specially caters to fabrication of
+High Frequency    RF/ Antenna Circuit Board, Interdigitated electrodes etc.
+Model: FP-21T    Precision
+Make: MITs    Electronics, Japan
+Minimum pattern    width (mm): 0.05 (50 µm) (2 mil)
+Minimum milling    width (mm): 0.05 (50 µm)(2 mil)
+Working
+13
+Ellipsometer with Accessories
+1. Model: SE400adv
+2. Operating Wavelength: 632.8 nm
+3. Company    Name: SENTECH Instruments GmbH,           Schwarzschildstr. 2, D-12489, Berlin, Germany.
+Working
+14
+Optical Spectrum Analyzer
+1. Model No:    AQ6370C-20-  H/FC/RFC/B5
+2. Serial No:    91N806362
+3. Company    Name: YOKOGAWA
+Working
+15
+UV/Vis Spectrophotometer
+1. Model No :    LAMBDA 950
+2. Serial No :    950N9112802
+3. Company Name    : Perkin Elmer
+4.Operating    Wavelength Range: 175 - 3300 nm
+Working

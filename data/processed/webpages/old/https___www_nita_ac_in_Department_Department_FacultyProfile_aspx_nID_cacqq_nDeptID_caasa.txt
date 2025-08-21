@@ -1,0 +1,323 @@
+Webmail
+MIS
+Login
+Old Website
+-
+font size
+                                    decrease
+font size reset
++
+font size
+                                    increase
+default theme
+Dark mode
+National Institute of Technology Agartala
+राष्ट्रीय प्रौद्योगिकी संस्थान अगरतला
+Skip Navigation Links
+HOME
+ABOUT
+About NITA
+Facilities
+Strategic Plan 2020-2030
+Virtual Tour of NIT Agartala
+ADMINISTRATION
+Board of Governors
+The Senate Committee
+The Finance Committee
+Office of Director
+The Buildings and Works Committee
+Office of Registrar
+Office of Dean (Academic Affairs)
+Office of Dean(Planning & Development)
+Office of Dean(Students' Welfare)
+Office of Dean(Research & Consultancy)
+Office of Dean(Faculty Welfare)
+Office of Chairman (AR & IR)
+Chief Information Security Officer (CISO)
+Chief Vigilance Officer (CVO)
+Establishment Section
+Accounts Section
+Audit Section
+Purchase Section
+MIS Section
+Library Section
+Computing & ICT Unit
+Office of  Vehicle Section
+ACADEMICS
+Academic Calendar
+Academic Regulations
+UG Regulations (old)
+Regulations for M.tech Programme (2019)
+Regulations for M.tech Programme (Old)
+Regulations for Ph.D Programme  (2018)
+Regulations for Ph.D Programme (Old)
+Admission
+UG Admission
+M.Tech Admission
+M.Sc Admission
+MCA Admission
+MBA Admission
+Ph.D Programme
+Visvesvaraya PhD Scheme
+DASA at NIT Agartala
+Prospectus
+First Year Syllabus
+B.Sc- B.Ed programme (4-Year ITEP)
+List of Holidays (July 2025 - June 2026)
+DEPARTMENT
+Bio Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Electronics and Instrumentation Engineering
+Mechanical Engineering
+Production Engineering
+Management, Humanities & Social Sciences
+Physics
+Chemistry
+Mathematics
+STUDENT
+Center for Career Development
+Examination Section
+List of People
+Verification of Academic Credential
+DigiLocker
+SOP for acquiring Academic Documents
+Question Bank Link
+Hostel
+Office of the Chief Warden
+NITA Health Centre
+Sports at NIT Agartala
+Student Bodies and Clubs
+Student Discipline Manual
+Academic Bank of Credits (ABC)
+Anti-Ragging
+Study in India
+ALUMNI
+Message
+Chairman Alumni Affairs
+List of People
+Alumni Database
+Alumni Portal
+Alumni Feedback Form
+NEWS EVENTS
+Newsletter of NIT Agartala
+Magazine "UPSHIFT" Edition 3
+Magazine "UPSHIFT" Edition 2
+Magazine "UPSHIFT" Edition 1
+Past Events
+Research
+Overview
+Project
+Sponsored Project
+Consultancy Project
+Patent
+Education/ Training
+Conference Organized
+Workshop/ Seminar Organized
+Research & Innovation Centre
+Documents
+Achievements
+LIBRARY
+E-Resource (Remote Access)
+OPAC
+One nation One Subscription (ONOS)
+Computer Science and Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+NLP Research Group
+Publications
+Faculty/Staff Profile
+Dr. Kunal Chakma
+Dr. Kunal Chakma
+Assistant Professor
+Department:
+Computer Science and Engineering
+Date of Joining :
+15/05/2004
+Email ID :
+kchakma.cse@nita.ac.in
+URL:
+https://kunalchakma.com/
+Address Information
+Address
+Room 227, Second Floor
+CSE Department
+NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+kchakma.cse@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+-
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+0
+Computer Science and Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+0
+Computer Science and Engineering
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+0
+Computer Science and Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Sinha, A., Chakma, K. (2022). A Comparative Analysis of Machine Learning Based Sentiment Analysis. In: Sk, A.A., Turki, T., Ghosh, T.K., Joardar, S., Barman, S. (eds) Artificial Intelligence. ISAI 2022. Communications in Computer and Information Science, vol 1695. Springer, Cham. https://doi.org/10.1007/978-3-031-22485-0_12
+JAN
+2023
+Sinha, A., Chakma, K. (2023). A Comparative Analysis of Sentiment Analysis and Emotion Detection Problems on Texts. In: Bhateja, V., Yang, XS., Chun-Wei Lin, J., Das, R. (eds) Intelligent Data Engineering and Analytics. FICTA 2022. Smart Innovation, Systems and Technologies, vol 327. Springer, Singapore. https://doi.org/10.1007/978-981-19-7524-0_41
+FEB
+2023
+Kunal Chakma, Amitava Das, Swapan Debbarma, Summarization of Twitter Events with Deep Neural Network Pre-trained Models SIMBIG 2020: 7th International Conference on Information Management and Big Data, October 1--3, 2020, Lima, Peru.Springer CCIS proceedings volume 1410. Pages 45-62. DOI: https://doi.org/10.1007/978-3-030-76228-5_4
+2020
+Kunal Chakma, Steve Durairaj Swamy, Amitava Das and Swapan Debbarma, 5W1H-based Semantic Segmentation of Tweets for Event Detection using BERT, in the 2nd International Conference on Machine Learning, Image Processing, Network Security and Data sciences (MIND-2020), 23 – 24 April 2020 at NIT Silchar. Springer CCIS proceedings volume 1240. Pages 57-72. DOI: https://doi.org/10.1007/978-981-15-6315-7_5
+2020
+Kunal Chakma, Rohit Chakraborty and Shubhanshu Kumar Singh, Finding Correlation Between Twitter In?uence Metrics and Centrality Measures for Detection of In?uential Users in the 5th International Conference on Computational Intelligence in Data Mining (ICCIDM - 2018) December 15-16, 2018, Burla, Odisha, India. Published in Computational Intelligence in Data Mining, Springer, Vol: 990, pages:51-62 DOI: https://doi.org/10.1007/978-981-13-8676-3_5
+2018
+Somnath Banerjee, Kunal Chakma, Sudip Kumar Naskar, Amitava Das, Paolo Rosso, Sivaji Bandyopadhyay, Monojit Choudhury, Overview of the Mixed Script Information Retrieval (MSIR) at FIRE-2016, pp-94-99
+2016
+Priyadarshini Lamabam and Kunal Chakma, A Language Identification System for Code-Mixed English-Manipuri Social Media Text in Proceedings of 2nd IEEE International Conference on Engineering and Technology (ICETECH), 17th & 18th March 2016, Coimbatore, TN, India. pg 79-83 DOI: 10.1109/ICETECH.2016.7569216,Electronic ISBN: 978-1-4673-9916-6.
+2016
+Bidipto Chakraborty, Kunal Chakma and Anjan Mukherjee, A Density-Based Clustering Algorithm and Experiments on Student Dataset with Noises using Rough Set Theory in Proceedings of 2nd IEEE International Conference on Engineering and Technology (ICETECH), 17th & 18th March 2016, Coimbatore, TN, India. pg431-436 DOI: 10.1109/ICETECH.2016.7569290,Electronic ISBN: 978-1-4673-9916-6
+2016
+Dwijen Rudrapal, Anupam Jamatia, Kunal Chakma, Amitava Das, Björn Gambäck, Sentence Boundary Detection for Social Media Text , In the Proceedings 12th International Conference on Natural Language Processing (ICON-2015). IIITM-K, Trivandrum, India, 11-14 December 2015 pp.254-260.
+2015
+Royal Sequiera, Monojit Choudhury,Parth Gupta, Paolo Rosso,Shubham Kumar,Somnath Banerjee, Sudip Kumar Naskar, Sivaji Bandyopadhyay,Gokul Chittaranjan,Amitava Das,Kunal Chakma, Overview of FIRE-2015 Shared Task on Mixed Script Information Retrieval in: Notebook Papers of FIRE 2015 in 7th meeting of Forum for Information Retrieval Evaluation 2015 ,4-6 December 2015 ,page 19-25 ,Vol.1587in CEUR Workshop Proceedings, published on 5th May 2016, ISSN:1613-0073.
+2015
+K. Chakma, Named Entity Detection from Tweets on Cricket in Proceedings of the 1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), pages 9–15, Goa, India, 21st December 2014. Eleventh International Conference on Natural Language Processing (ICON-2014), Goa, India; 12/2014.
+2014
+K. Chakma, Amitava Das, Revisiting Automatic Transliteration Problem for Code-Mixed Romanized Indian Social Media Text , in Proceedings of the 1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), pages 42–48, Goa, India, 21st December 2014. Eleventh International Conference on Natural Language Processing (ICON-2014), At Goa, India.
+2014
+Muny Tamut, Kunal Chakma, A Hybrid Approach to Synchronization in Real-Time Multiprocessor Systems in 2014 IEEE International Conference on Advanced Communication Control and Computing Technologies - ICACCCT, May 8-10, 2014, Ramanathapuram, Tamilnadu, India, Pages 1153-1157, Print ISBN: 978-1-4799-3913-8, DOI:10.1109/ICACCCT.2014.7019278.
+2014
+Pumima Singhal, Amit Kumar, Upendra Ghintala, Kunal Chakma, Extended Level Real-Time Scheduling Framework Using a Generalized Non-Real Time Platform in Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference,24-27 Sept. 2014, Pages 1279 - 1284, Print ISBN: 978-1-4799-3078-4, DOI:10.1109/ICACCI.2014.6968278.
+2014
+Nirmalya Kar, Atanu Majumder, Ashim Saha, Anupam Jamatia, Kunal Chakma and M.C. Pal, An improved data security using DNA sequencing in MobileHealth '13 Proceedings of the 3rd ACM MobiHoc Workshop on Pervasive wireless healthcare Pages 13-18, July 29, 2013, Bangalore, India.
+2013
+Nirmalya Kar, Sharmistha Roy, Ashim Saha, Kunal Chakma and Anupam Jamatia, A Biometric Based Design Pattern for Implementation of a Security-Conscious E-Voting System using Cryptographic Protocols , Yogesh Chabba (Ed.): Second International Conference on Advances in Information Technology and Mobile Communication – AIM 2012,AIM 2012, pp. 78-85, 2012. Communications in Computer and Information Science (CCIS) Vol-296 © Springer-Verlag Berlin Heidelberg2012(ISBN:978-3-642-20572-9).
+2013
+D.Rudrapal, A.Pandey, S.Das and K.Chakma, Gait as a Biometric for Human Recognition by Histogram of Silhouette Image in International Conference on Sunrise Technologies 13th-15th January 2011, Dhule, Maharashtra, India.
+2011
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Somnath Benarjee, Monojit Choudhury, Kunal Chakma, Sudip Kumar Naskar, Amitava Das, Sivaji Bandyopadhyay and Paolo Rosso MSIR@FIRE: A Comprehensive Report from 2013 to 2016 in SN Computer Science, Springer, Vol. 23, No. 3, 2020, pp. 751–763, DOI: 10.13053/CyS-23-3-3253, ISSN 2007-9737
+2020
+Kunal Chakma, Amitava Das and Swapan Debbarma, Deep Semantic Role Labeling for Tweets using 5W1H: Who, What, When, Where, Why and How in Computación y Sistemas, Vol. 23, No. 3, 2019, pp. 751–763, DOI: 10.13053/CyS-23-3-3253, ISSN 2007-9737
+2019
+Kunal Chakma and Amitava Das, A 5W1H Based Annotation Scheme for Semantic Role Labeling of English Tweets in Computación y Sistemas, Vol. 22, No. 3, 2018, pp. 747–755, DOI: 10.13053/CyS-22-3-3016, ISSN 2007-9737
+2018
+Kunal Chakma and Amitava Das, CMIR:A Corpus for Evaluation of Code Mixed Information Retrieval of Hindi-English Tweets in 17th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2016) April 3–9, 2016 , Konya, Turkey, published in Computación y Sistemas, Vol. 20, No. 3, 2016, pp. 425–434, DOI: 10.13053/CyS-20-3-2459, ISSN 2007-9737
+2016
+Chandrika Chatterjee and Kunal Chakma, A Comparison between Sentiment Analysis of Student Feedback at Sentence Level and at Token Level in International Journal of Computer Science and Network (IJCSN), Volume 4, Issue 3, June 2015, Pages 482 - 486, ISSN (Online): 2277-5420
+2015
+Conference Attended
+No.
+Conference Attended Information
+Month
+Year
+SIMBIG 2020: 7th  International Conference on Information Management and Big Data, October 1--3, 2020, Lima, Peru
+OCT
+2020
+2nd  International Conference on Machine Learning, Image Processing, Network Security and Data sciences (MIND-2020), 23 – 24 April 2020 at NIT Silchar
+APRIL
+2020
+19th  International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), March 18 to 24, 2018, Hanoi, Vietnam
+MAR
+2018
+1st  Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), pages 9–15, Goa, India, 21st December 2014. Eleventh International Conference on Natural Language Processing (ICON-2014), Goa, India
+DEC
+2014
+4th  International Conference on Computer and Software Modelling (ICCSM) in Bangkok, Thailand from October 10-12, 2014
+OCT
+2014
+3rd  International Conference on Software and Computing Technology ICSCT 2012 in Kuala Lumpur, Malaysia
+DEC
+2012
+Achievement Information
+No.
+Patent Information
+Year
+M.Tech. Gold Medalist
+2013
+Department Important Links
+Quick Links
+Skip Navigation Links.
+Skip Navigation Links.
+National Institute of Technology Agartala
+Jirania , West Tripura
+Pin - 799046
+: director@nita.ac.in, nita.director@gmail.com
+: (0381)2546630 & Fax:(0381)2546360
+Reports/Minutes
+NIRF
+ARIIA
+BOG Minutes
+BWC Minutes
+FC Minutes
+SENATE Minutes
+Annual Reports
+Annual Audited Report
+Other Links
+Institute Innovation Council & Startup
+Central Research Facility
+Disclaimer
+Holiday List
+Alumni
+Convocation
+GSTIN of NITA
+Space Technology Incubation Centre
+External links
+ICT Initiatives of MoE
+Ministry of Education
+JOSAA,
+CSAB
+DASA,
+ICCR
+Study in India
+CCMT
+CCMN
+National Career Service Portal
+BIS
+Contact
+How to Reach
+Telephone Directory
+Guest House
+RTI
+SC/ST/OBC Cell
+Internal Complaint Committee (ICC)
+Copyright. All rights reserved. © National Institute of Technology Agartala
+Designed by
+Mastersoft
+| Maintained by
+NIT Agartala
+Last updated on 20/08/2025
+Number of visitors on the website :

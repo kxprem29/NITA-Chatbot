@@ -1,0 +1,280 @@
+Computer Science and Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+NLP Research Group
+Publications
+Faculty/Staff Profile
+Dr. Ranjita Das
+Dr. Ranjita Das
+Assistant Professor
+Department:
+Computer Science and Engineering
+Date of Joining :
+08/09/2022
+Email ID :
+ranjita.nitm@gmail.com
+Research Area :
+Artificial Intelligence, Evolutionary Computation, Pattern Recognition, NLP , Computational Biology, Computer Vision and Image processing, Image Captioning
+CV :
+View
+Courses Taught
+UG Courses
+Data Structures, Theory of Computation, Data Communication, Computer Networks, Data Mining, Introduction to Programming
+PG Courses
+Machine Learning, Artificial Intelligence, Pattern Recognition, Soft Computing
+Address Information
+Address
+Room No 217, APJ Abdul Kalam Block, CSE Department, NIT Agartala, Tripura West, India-799046
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+ranjita.nitm@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+8787779140
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+NIT Mizoram
+2018
+Computer Science & Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+Tezpur University
+2011
+Information Technology
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+2008
+Computer Science & Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Debnath, D., Pakray, P., Das, R., Gelbukh, A. (2023). An Abstractive Text Summarization Using Recurrent Neural Network. In: Gelbukh, A. (eds) Computational Linguistics and Intelligent Text Processing. CICLing 2018. Lecture Notes in Computer Science, vol 13397. Springer, Cham. https://doi.org/10.1007/978-3-031-23804-8_29
+FEB
+2023
+Boruah, M., Das, R. (2023). Transfer Learning-Based Advanced Deep Learning Architecture for the Identification of HIV-1 Integration Sites Using Imbalanced Dataset. In: Bhateja, V., Yang, XS., Chun-Wei Lin, J., Das, R. (eds) Intelligent Data Engineering and Analytics. FICTA 2022. Smart Innovation, Systems and Technologies, vol 327. Springer, Singapore. https://doi.org/10.1007/978-981-19-7524-0_42
+FEB
+2023
+Kolluri, J., Das, R. (2023). Ship Detection from Satellite Images with Advanced Deep Learning Model (Single Shot Detector (SSD)). In: Bhateja, V., Yang, XS., Chun-Wei Lin, J., Das, R. (eds) Intelligent Data Engineering and Analytics. FICTA 2022. Smart Innovation, Systems and Technologies, vol 327. Springer, Singapore. https://doi.org/10.1007/978-981-19-7524-0_30
+FEB
+2023
+Boruah, M., Das, R. (2023). Transfer Learning-Based Advanced Deep Learning Architecture for the Identification of HIV-1 Integration Sites Using Imbalanced Dataset. In: Bhateja, V., Yang, XS., Chun-Wei Lin, J., Das, R. (eds) Intelligent Data Engineering and Analytics. FICTA 2022. Smart Innovation, Systems and Technologies, vol 327. Springer, Singapore. https://doi.org/10.1007/978-981-19-7524-0_42
+FEB
+2023
+De, S., Das, R., Das, K. (2023). Deep Learning Based Bengali Image Caption Generation. In: , et al. Key Digital Trends Shaping the Future of Information and Management Science. ISMS 2022. Lecture Notes in Networks and Systems, vol 671. Springer, Cham. https://doi.org/10.1007/978-3-031-31153-6_5
+MAY
+2023
+J. Kolluri and R. Das, "An efficient Synergic Model with Contrast Limited Adaptive Histogram Equalization model for Object Classification in Ship Detection," 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon), Mysuru, India, 2022, pp. 1-7, doi: 10.1109/MysuruCon55714.2022.9972532.
+DEC
+2022
+Pathak, A., Pakray, P., Das, R. (2022). MathIRs: A One-Stop Solution to Several Mathematical Information Retrieval Needs. In: Basu, S., Kole, D.K., Maji, A.K., Plewczynski, D., Bhattacharjee, D. (eds) Proceedings of International Conference on Frontiers in Computing and Systems. Lecture Notes in Networks and Systems, vol 404. Springer, Singapore. https://doi.org/10.1007/978-981-19-0105-8_17
+JUN
+2022
+M. Boruah and R. Das, "Developments Pertaining to the Characteristics of the Sites of HIV Integration Highlighting its role in Clinical Research and its Future with AI: A Review," 2022 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS), 2022, pp. 1-7, doi: 10.1109/IEMTRONICS55184.2022.9795700.
+JUN
+2022
+A. R. Mangalam , R. Das, et al., "Emotion Recognition from Mizo Speech: A Signal Processing Approach," 2022 IEEE International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE), 2022, pp. 1-6, doi: 10.1109/ICDCECE53908.2022.9793078.
+APRIL
+2022
+Senapati, B., Das, R. (2022). Single-Cell RNA Sequence Data Analysing Using Fuzzy de Based Clustering Technique. In: Rout, R.R., Ghosh, S.K., Jana, P.K., Tripathy, A.K., Sahoo, J.P., Li, KC. (eds) Advances in Distributed Computing and Machine Learning. Lecture Notes in Networks and Systems, vol 427. Springer, Singapore. https://doi.org/10.1007/978-981-19-1018-0_41
+JULY
+2022
+Debnath, D., Das, R., Rafi, S. (2022). Sentiment-Based Abstractive Text Summarization Using Attention Oriented LSTM Model. In: Satapathy, S.C., Peer, P., Tang, J., Bhateja, V., Ghosh, A. (eds) Intelligent Data Engineering and Analytics. Smart Innovation, Systems and Technologies, vol 266. Springer, Singapore. https://doi.org/10.1007/978-981-16-6624-7_20
+FEB
+2022
+chom, A., Das, R., Gond, P., Pakray, P. (2022). A Fuzzy-Based Multiobjective Cat Swarm Optimization Algorithm: A Case Study on Single-Cell Data. In: Satapathy, S.C., Peer, P., Tang, J., Bhateja, V., Ghosh, A. (eds) Intelligent Data Engineering and Analytics. Smart Innovation, Systems and Technologies, vol 266. Springer, Singapore. https://doi.org/10.1007/978-981-16-6624-7_21
+FEB
+2022
+S. Rafi and R. Das, "RNN Encoder And Decoder With Teacher Forcing Attention Mechanism for Abstractive Summarization," 2021 IEEE 18th India Council International Conference (INDICON), 2021, pp. 1-7, doi: 10.1109/INDICON52576.2021.9691681.
+DEC
+2021
+B. Khanal, A. Singh, S. Paul and R. Das, "Multi-Class Classification on Chest X-Ray Images Using Convolution Neural Network," 2021 IEEE 18th India Council International Conference (INDICON), 2021, pp. 1-5, doi: 10.1109/INDICON52576.2021.9691747.
+DEC
+2021
+M. Boruah and R. Das, "Identification of DNA motif using likelihood and attention based pooling method in the GRU framework," 2021 6th IEEE International Conference on Recent Advances and Innovations in Engineering (ICRAIE), 2021, pp. 1-5, doi: 10.1109/ICRAIE52900.2021.9704010.
+DEC
+2021
+S. Rafi and R. Das, "A Linear Sub-Structure with Co-Variance Shift for Image Captioning," 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI), 2021, pp. 242-246, doi: 10.1109/ISCMI53840.2021.9654828.
+NOV
+2021
+Das, R., Achom, A., Sharma, A., Mandal, J.K. (2022). A Novel Fuzzy Based Weighted Differential Evolution Algorithm for Clustering Gene Expression Data. In: Mandal, J.K., De, D. (eds) Advanced Techniques for IoT Applications. EAIT 2021. Lecture Notes in Networks and Systems, vol 292. Springer, Singapore. https://doi.org/10.1007/978-981-16-4435-1_26
+AUG
+2021
+Debnath, D., Das, R. (2022). Automatic Citation Contextualization Based Scientific Document Summarization Using Multi-objective Differential Evolution. In: Mandal, J.K., De, D. (eds) Advanced Techniques for IoT Applications. EAIT 2021. Lecture Notes in Networks and Systems, vol 292. Springer, Singapore. https://doi.org/10.1007/978-981-16-4435-1_28
+AUG
+2021
+Achom, A., Das, R. (2021). Clustering of Single-Cell Transcriptome Data Based on Evolutionary Algorithm in Assimilation with Fuzzy C-Means. In: Singh, B., Coello Coello, C.A., Jindal, P., Verma, P. (eds) Intelligent Computing and Communication Systems. Algorithms for Intelligent Systems. Springer, Singapore. https://doi.org/10.1007/978-981-16-1295-4_24
+JUN
+2021
+Paul, S., Agarwal, S., Das, R. (2021). Detection of COVID-19 Using ResNet on CT Scan Image. In: Balas, V.E., Hassanien, A.E., Chakrabarti, S., Mandal, L. (eds) Proceedings of International Conference on Computational Intelligence, Data Science and Cloud Computing. Lecture Notes on Data Engineering and Communications Technologies, vol 62. Springer, Singapore. https://doi.org/10.1007/978-981-33-4968-1_23
+APRIL
+2021
+D. Debnath, R. Das and P. Pakray, "Extractive Single Document Summarization Using an Archive-Based Micro Genetic-2," 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), 2020, pp. 244-248, doi: 10.1109/ISCMI51676.2020.9311571.
+NOV
+2020
+Ankireddy, N., Das, R. (2020). Automatic Color Image Segmentation Using Clustering Technique. In: Dawn, S., Balas, V., Esposito, A., Gope, S. (eds) Intelligent Techniques and Applications in Science and Technology. ICIMSAT 2019. Learning and Analytics in Intelligent Systems, vol 12. Springer, Cham. https://doi.org/10.1007/978-3-030-42363-6_91
+MAR
+2020
+A. Achom, R. Das, P. Pakray and S. Saha, "Classification of Microarray Gene Expression Data using Weighted Grey Wolf Optimizer based Fuzzy Clustering," TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), 2019, pp. 2705-2710, doi: 10.1109/TENCON.2019.8929385.
+DEC
+2019
+A. Pathak, P. Pakray and R. Das, "LSTM Neural Network Based Math Information Retrieval," 2019 Second International Conference on Advanced Computational and Communication Paradigms (ICACCP), 2019, pp. 1-6, doi: 10.1109/ICACCP.2019.8882887.
+FEB
+2019
+R. Das and S. Saha, "Evidence Accumulation from Some Clustering Algorithms to Improve Gene Expression Data Classification," 2016 3rd International Conference on Soft Computing & Machine Intelligence (ISCMI), 2016, pp. 79-83, doi: 10.1109/ISCMI.2016.54.
+NOV
+2016
+R. Das and S. Saha, "Gene expression data classification using automatic differential evolution based algorithm," 2016 IEEE Congress on Evolutionary Computation (CEC), 2016, pp. 3124-3130, doi: 10.1109/CEC.2016.7744184.
+JULY
+2016
+R. Das and S. Saha, "Microarray gene expression data classification using modified differential evolution based algorithm," 2015 Annual IEEE India Conference (INDICON), 2015, pp. 1-6, doi: 10.1109/INDICON.2015.7443705.
+DEC
+2015
+R. Das and S. Saha, "Gene Expression Classification Using a Fuzzy Point Symmetry Based PSO Clustering Technique," 2015 Second International Conference on Soft Computing and Machine Intelligence (ISCMI), 2015, pp. 69-73, doi: 10.1109/ISCMI.2015.32.
+NOV
+2015
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+S.Rafi and R.Das"SCT: Summary Caption Technique for Retrieving Relevant Images in Alignment with Multimodal Abstractive Summary,ACM Transactions on Asian and Low-Resource Language Information Processing"(2024), SCI,  Rank-Q1
+FEB
+2024
+Kolluri, J. ., Dash, S. K. ., & Das, R. . (2024). Plant Disease Identification Based on Multimodal Learning. International Journal of Intelligent Systems and Applications in Engineering, 12(15s), 634–643. https://ijisae.org/index.php/IJISAE/article/view/4815(Scopus)
+FEB
+2024
+Senapati, B., Das, R. Tumor cell type and gene marker identification by single layer perceptron neural network on single-cell RNA sequence data. J Biosci 49, 47 (2024). https://doi.org/10.1007/s12038-023-00368-w
+MAR
+2024
+Johnson Kolluri, Ranjita Das "Intelligent multimodal pedestrian detection using hybrid metaheuristic optimization with deep learning model", Image and Vision Computing, Volume 131,2023, 104628, ISSN 0262-8856, https://doi.org/10.1016/j.imavis.2023.104628(SCI, IF-3.86, Q1Rank)
+JAN
+2023
+Mothe Rajesh, Biswajit Senapati, Ranjita Das, Sheshikala Martha,"Identifying Colorectal Tumor For Single Cell RNA Sequence Using Rectified Linear Unit With Stochastic Gradient Descent,
+Procedia Computer Science",Volume 218,2023,Pages 189-198,ISSN 1877-0509, https://doi.org/10.1016/j.procs.2023.01.001.(Scopus)
+JAN
+2023
+Boruah, M., Das, R. CaDenseNet: a novel deep learning approach using capsule network with attention for the identification of HIV-1 integration site. Neural Computing & Application (2023). https://doi.org/10.1007/s00521-023-08585-y, SCI, IF-5.102, Rank-Q1
+APRIL
+2023
+J, K and R. Das, "Surveillance video based smart Transportation with pedestrian Detection and Malicious Activity Analysis using Machine Learning Techniques", Soft computing (Accepted), 2023, SCI, IF-3.732  Rank- Q2
+JUN
+2023
+S. Rafi and R. Das , "Topic-Guided Abstractive Multimodal Summarization with Multimodal Output", Neural Computing and Applications , 2023 (Accepted) , SCI, IF-5.102, Rank-Q1
+JUN
+2023
+B.Senapati and R.Das . Tumor cell type identification by single layer perceptron neural network on single cell RNA sequence data, Journal of Bioscience (Accepted), 2023 SCI , IF-2.795, Rank-Q1
+MAY
+2023
+A Achom, R Das, P Pakray, “Identification of host protein receptor that mediates mucormycosis infection post COVID-19 disease”, Computación y Sistemas, Vol. 27, No. 3, 2023 (Scopus)
+APRIL
+2023
+R.Das, D.Debnath, P.Pakray N.Chaitanya “A binary grey wolf optimizer to solve the scientific document summarization problem”, Multimedia tools and applications (Accepted), 2023(SCI, IF=3.6, Rank-Q1)
+JULY
+2023
+Amika Achom, Ranjita Das, Partha Pakray, "An improved Fuzzy based GWO algorithm for predicting the potential host receptor of COVID-19 infection", Computers in Biology and Medicine", 2022,106050, ISSN 0010-4825,https://doi.org/10.1016/j.compbiomed.2022.106050.(SCI, IF-6.698, Rank-Q1)
+AUG
+2022
+Debnath, D., Das, R. & Pakray, P. Single document text summarization addressed with a cat swarm optimization approach. Applied Intelligence (2022). https://doi.org/10.1007/s10489-022-04149-0(SCI, IF-5.019, Rank-Q2)
+SEPT
+2022
+Debnath, D., Das, R., Pakray, P. et al. Extractive single-document summarization using adaptive binary constrained multi-objective differential evaluation. Innovations Syst Softw Eng (2022). https://doi.org/10.1007/s11334-022-00474-2(Scopus)
+AUG
+2022
+Johnson Kolluri, and Ranjita Das. “An Evaluation of Deep Learning-Based Object Identification”. International Journal on Recent and Innovation Trends in Computing and Communication, vol. 10, no. 1s, Dec. 2022, pp. 52-80, doi:10.17762/ijritcc.v10i1s.5795.(Scopus)
+DEC
+2022
+Majumder, G., Pakray, P., Das, R. et al. Interpretable semantic textual similarity of sentences using alignment of chunks with classification and regression. Applied Intelligence 51, 7322–7349 (2021). https://doi.org/10.1007/s10489-020-02144-x(SCI, IF-5.019, Rank-Q2)
+DEC
+2021
+Debnath, D., Das, R. & Pakray, P. Extractive single document summarization using multi-objective modified cat swarm optimization approach: ESDS-MCSO. Neural Computing & Applications (2021). https://doi.org/10.1007/s00521-021-06337-4(SCI, IF-5.102, Rank:Q1)
+AUG
+2021
+S K Dash, Y V Sureshchandra, Y Mishra, P Pakray, R Das & A Gelbukh, "Multimodal Learning Based Spatial Relation Identification"
+Computación y Sistemas, On-line ISSN 2007-9737versión impresa ISSN 1405-5546 Comp. y Sist. vol.24 no.3 Ciudad de México jul./sep. 2020  Epub 09-Jun-2021
+https://doi.org/10.13053/cys-24-3-3773 (Scopus)
+SEPT
+2020
+A Pathak, P Pakray &R Das," Context guided retrieval of math formulae from scientific documents" , Pages 1559-1574 | Published online: 02 Feb 2020 https://doi.org/10.1080/02522667.2019.1703255(Scopus)
+FEB
+2020
+A Pathak, R Das, P Pakray & A Gelbukh "Extracting Context of Math Formulae Contained inside Scientific Documents"
+Computación y Sistemas versión On-line ISSN 2007-9737versión impresa ISSN 1405-5546 Comp. y Sist. vol.23 no.3 Ciudad de México jul./sep. 2019  Epub 09-Ago-2021 https://doi.org/10.13053/cys-23-3-3246 (Scopus)
+SEPT
+2019
+Dash, S.K., Acharya, S., Das, R. et al. Topic-Based Image Caption Generation. Arabian Journal of  Science & Engineering 45, 3025–3034 (2020). https://doi.org/10.1007/s13369-019-04262-2(SCI, IF-2.807, Rank-Q1)
+JULY
+2019
+Saha, S., Das, R. & Pakray, P. Aggregation of multi-objective fuzzy symmetry-based clustering techniques for improving gene and cancer classification. Soft Computing 22, 5935–5954 (2018). https://doi.org/10.1007/s00500-017-2865-3(SCI, IF-3.732, Rank-Q2)
+OCT
+2017
+Saha, S., Das, R. Exploring differential evolution and particle swarm optimization to develop some symmetry-based automatic clustering techniques: application to gene clustering. Neural Computing & Applications 30, 735–757 (2018). https://doi.org/10.1007/s00521-016-2710-0(SCI, IF-5.102, Rank:Q1)
+FEB
+2017
+Book Published
+No.
+Book Published
+Year
+Vikrant Bhateja, Xin-She Yang, Jerry Chun-Wei Lin, Ranjita Das,"Intelligent Data Engineering and Analytics" Springer Singapore, eBook ISBN 978-981-19-7524-0 ,https://doi.org/10.1007/978-981-19-7524-0
+2023
+V Bhateja, Xin-She Yang, Jerry Chun-Wei Lin, Ranjita Das,"Evolution in Computational Intelligence" Springer Nature Singapore, 2022,ISBN-9789811975127
+2022
+Conference Conducted
+No.
+Conference Conducted Information
+Month
+Year
+10th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2022) June 18 - 19, 2022
+JUN
+2022
+9th International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA 2021)
+JULY
+2021
+Achievement Information
+No.
+Patent Information
+Year
+Best paper award in the conference FICTA2022
+2022
+Best paper award in the conference FICTA2021
+2021
+Best paper award in the conference IEEE-INDICON 2015
+2020
+Sponsored Project 2: Identification and Characterization of glioblastoma tumour cell from the single cell RNA seq data using Machine learning technique,  Principle Investigator: Dr. Ranjita Das ,2020-2023, 18.54 lac funded by-DST-SERB
+2020
+Best paper award in the conference ICACCP-2019
+2019
+Sponsored Project 1: Integrated Software for analyzing Single Cell RNA Sequencing data, Principal Investigator: Dr. Ranjita Das, Co-PI: Dr. Asish Anand, IIT Ghy 11.74 lac, 2019-2021 funded by:DBT
+2019
+Best paper award in the conference IC4E2020,
+2015
+Subject Information
+Sr.No.
+Class
+Subject
+1
+UG
+Theory of Computation, Data Structures, Computer Networks, Data Communications,
+2
+PG
+Pattern Recognition, Data Mining, Machine Learning, Artificial Intelligence, Soft Computing

@@ -1,0 +1,295 @@
+Mechanical Engineering
+Skip Navigation Links
+Programmes
+Faculty
+Staff
+Facilities
+Research
+Time Table
+Faculty/Staff Profile
+Dr. Rahul Banerjee
+Dr. Rahul Banerjee
+Assistant Professor
+Department:
+Mechanical Engineering
+Email ID :
+iamrahul.ju@gmail.com
+Research Area :
+AI, IC Engine, Optimization, Feature Engineering.
+Courses Taught
+UG Courses
+Applied Thermodynamics; Fuel & Combustion (Elective II); Automobile Engineering (Elective II)
+PG Courses
+Engine Pollution and Control Systems; Automotive Chassis and Transmission; Automotive Engine Design
+Student Register For PhD Enrolled Completed
+Dr. A. Chakraborty; Dr, D. Kakati; Dr. S. Biswas
+Student Register For PhD Enrolled OnGoing
+Mrs. A. Sengupta
+Address Information
+Address
+Department of Mechanical Engineering, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+iamrahul.ju@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+6009155151
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+National Institute of Technology, Agartala.
+0
+ME
+M.E.
+(
+                                                            Master of Engineering                                                                               )
+Jadavpur University
+0
+ME
+B.E
+(
+                                                            Bachelor of Engineering                                                                             )
+IEI
+0
+ME
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Srijit Biswas, Rahul Banerjee,
+In-cylinder pressure profiling for CNG/ethanol enriched biodiesel combustion,
+Fuel,
+Volume 343,
+2023,
+127970,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2023.127970.
+JULY
+2023
+Srijit Biswas, Anindita Sengupta, Dipankar Kakati, Prasun Chakraborti, Rahul Banerjee,
+Parametric optimization of the CNG/ethanol-induced RCCI profiles in biodiesel combustion through a robust design space foray,
+Fuel,
+Volume 332, Part 2,
+2023,
+126203,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2022.126203.
+JAN
+2023
+1.
+Biswas S, Sengupta A, Kakati D, Banerjee R. The transition from conventional biodiesel combustion to RCCI with CNG/ethanol induction in CI engine: A comparative combustion analysis and relative effects on performance-emissions. International Journal of Engine Research. 2022;0(0). doi:10.1177/14680874221123615
+SEPT
+2022
+Amitav Chakraborty, Srijit Biswas, Saratchandra Meitei, Anindita Sengupta, Dipankar Kakati, Rahul Banerjee,
+Examining the significance of the ignition characteristics of hydrogen and liquefied-petroleum-gas on the reactivity controlled compression ignition and its interspersed profiles induced in an existing diesel engine: A comparative perspective,
+Energy Conversion and Management,
+Volume 268,
+2022,
+115976,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2022.115976.
+SEPT
+2022
+Srijit Biswas, Dipankar Kakati, Prasun Chakraborti, Rahul Banerjee,
+Performance-emission-stability mapping of CI engine in RCCI-PCCI modes under varying ethanol and CNG induced reactivity profiles: A comparative study through experimental and optimization perspectives,
+Energy,
+Volume 254, Part B,
+2022,
+124231,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2022.124231.
+SEPT
+2022
+Amitav Chakraborty, Srijit Biswas, Dipankar Kakati, Rahul Banerjee,
+Leveraging hydrogen as the low reactive component in the optimization of the PPCI-RCCI transition regimes in an existing diesel engine under varying injection phasing and reactivity stratification strategies,
+Energy,
+Volume 244, Part A,
+2022,
+122629,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2021.122629.
+APRIL
+2022
+Dipankar Kakati, Rahul Banerjee,
+Assessing the competency of a semi-parametric expert system in the realms of response characterization uncertainty in premixed methanol dual fuel diesel combustion strategies: In critique to RSM,
+Expert Systems with Applications,
+Volume 185,
+2021,
+115516,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2021.115516.
+DEC
+2021
+Dipankar Kakati, Srijit Biswas, Rahul Banerjee,
+Artificial intelligence assisted MOPSO strategy for discerning the exergy efficiency potential of a methanol induced RCCI endeavour through GA coupled multi-attribute decision making approach,
+Energy Conversion and Management,
+Volume 248,
+2021,
+114727,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2021.114727.
+NOV
+2021
+Dipankar Kakati, Sumit Roy, Rahul Banerjee,
+Development and validation of an artificial intelligence platform for characterization of the exergy-emission-stability profiles of the PPCI-RCCI regimes in a diesel-methanol operation under varying injection phasing strategies: A Gene Expression Programming approach,
+Fuel,
+Volume 299,
+2021,
+120864,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2021.120864.
+SEPT
+2021
+Srijit Biswas, Dipankar Kakati, Prasun Chakraborti, Rahul Banerjee,
+Assessing the potential of ethanol in the transition of biodiesel combustion to RCCI regimes under varying injection phasing strategies: A performance-emission-stability and tribological perspective,
+Fuel,
+Volume 304,
+2021,
+121346,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2021.121346.
+NOV
+2021
+Srijit Biswas, Dipankar Kakati, Prasun Chakraborti & Rahul Banerjee (2021) Characterization of CNG induced transition regimes of reactivity-controlled-combustion of Madhuca longifolia biodiesel: An experimental case study, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, DOI: 10.1080/15567036.2021.1936302
+MAY
+2021
+Dipankar Kakati, Srijit Biswas, Rahul Banerjee,
+Parametric sensitivity analysis of split injection coupled varying methanol induced reactivity strategies on the exergy efficiency enhancement and emission reductions objectives in a biodiesel fuelled CI engine,
+Energy,
+Volume 225,
+2021,
+120204,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2021.120204.
+JUN
+2021
+Nishant Kumar, Vinod Singh Yadav, Rahul Banerjee,
+Optimizing emission characteristics of a GDI engine using grey Taguchi methodology,
+Materials Today: Proceedings,
+Volume 44, Part 6,
+2021,
+Pages 4227-4232,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2020.10.537.
+2021
+Srijit Biswas, Dipankar Kakati, Sumit Roy, Prasun Chakraborti & Rahul Banerjee (2020) Exploring the synergistic potential of response surface methodology based multi-objective optimization in the performance–emission-stability trade-off envelope of an existing diesel engine, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, DOI: 10.1080/15567036.2020.1840670
+DEC
+2020
+Paulami Banerjee, Tarla R. Peterson, Michael J. Liles, Rahul Banerjee, Markus J. Peterson,
+How key sociodemographic and spatial variables influence stakeholders' social control frames regarding natural resource conservation in East Sikkim, India,
+Biological Conservation,
+Volume 245,
+2020,
+108528,
+ISSN 0006-3207,
+https://doi.org/10.1016/j.biocon.2020.108528.
+MAY
+2020
+Sumit Roy,  Pranay Kumar Parsi,  R. Sreeram Kotha,  Sanmitra Barman, Kalluri Vinayak,   Mili Mitra Roy  and  Rahul Banerjee 
+Effective utilisation of waste cooking oil in a single-cylinder diesel engine using alumina nanoparticles
+Sustainable Energy Fuels, 2020,4, 571-581
+DOI	https://doi.org/10.1039/C9SE00393B
+NOV
+2019
+Dipankar Kakati, Sumit Roy, Rahul Banerjee,
+Development of an artificial neural network based virtual sensing platform for the simultaneous prediction of emission-performance-stability parameters of a diesel engine operating in dual fuel mode with port injected methanol,
+Energy Conversion and Management,
+Volume 184,
+2019,
+Pages 488-509,
+ISSN 0196-8904,
+https://doi.org/10.1016/j.enconman.2019.01.087.
+MAR
+2019
+Chakraborty, A., Roy, S. & Banerjee, R. Characterization of performance-emission indices of a diesel engine using ANFIS operating in dual-fuel mode with LPG. Heat Mass Transfer 54, 2725–2742 (2018). https://doi.org/10.1007/s00231-018-2312-8
+MAR
+2018
+Sumit Roy, Rahul Banerjee,
+Multi-objective optimization of the performance-emission trade-off characteristics of a CRDI coupled CNG diesel dual-fuel operation: A GEP meta-model assisted MOGA endeavour,
+Fuel,
+Volume 211,
+2018,
+Pages 891-897,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2017.10.003.
+JAN
+2018
+Bishop Debbarma, Prasun Chakraborti, Probir Kumar Bose, Madhujit Deb, Rahul Banerjee,
+Exploration of PROMETHEE II and VIKOR methodology in a MCDM approach for ascertaining the optimal performance-emission trade-off vantage in a hydrogen-biohol dual fuel endeavour,
+Fuel,
+Volume 210,
+2017,
+Pages 922-935,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2017.08.016.
+DEC
+2017
+Rahul Banerjee, Maciej Mikulski, Amitav Chakraborty, Sumit Roy, Probir K. Bose,
+ANN meta-model assisted MOPSO application in an EPA-Tier 4 constrained emission-performance trade-off calibration problem of a hydrogen-diesel-EGR dual fuel operation,
+Fuel,
+Volume 208,
+2017,
+Pages 746-778,
+ISSN 0016-2361,
+https://doi.org/10.1016/j.fuel.2017.07.037.
+NOV
+2017
+Bose, P.K., Bodkhe, V.N., Barma, B.D., Banerjee, R. (2017). Response Surface Methodology Based Multi-objective Optimization of the Performance-Emission Profile of a CI Engine Running on Ethanol in Blends with Diesel. In: Agarwal, A., Agarwal, R., Gupta, T., Gurjar, B. (eds) Biofuels. Green Energy and Technology. Springer, Singapore. https://doi.org/10.1007/978-981-10-3791-7_11
+MAR
+2017
+Madhujit Deb, Bishop Debbarma, Arindam Majumder, Rahul Banerjee,
+Performance –emission optimization of a diesel-hydrogen dual fuel operation: A NSGA II coupled TOPSIS MADM approach,
+Energy,
+Volume 117, Part 1,
+2016,
+Pages 281-290,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2016.10.088.
+DEC
+2016
+Madhujit Deb, Pinki Majumder, Arindam Majumder, Sumit Roy, Rahul Banerjee,
+Application of artificial intelligence (AI) in characterization of the performance–emission profile of a single cylinder CI engine operating with hydrogen in dual fuel mode: An ANN approach with fuzzy-logic based topology optimization,
+International Journal of Hydrogen Energy,
+Volume 41, Issue 32,
+2016,
+Pages 14330-14350,
+ISSN 0360-3199,
+https://doi.org/10.1016/j.ijhydene.2016.07.016.
+AUG
+2016
+Rahul Banerjee, Bishop Debbarma, Sumit Roy, Prasun Chakraborti, Probir Kumar Bose,
+An experimental investigation on the potential of hydrogen–biohol synergy in the performance-emission trade-off paradigm of a diesel engine,
+International Journal of Hydrogen Energy,
+Volume 41, Issue 5,
+2016,
+Pages 3712-3739,
+ISSN 0360-3199,
+https://doi.org/10.1016/j.ijhydene.2015.12.140.
+FEB
+2016
+Roy, S., Das, A.K. & Banerjee, R. RETRACTED ARTICLE: Grey-Fuzzy Taguchi approach for multi-objective optimization of performance and emission parameters of a single cylinder crdi engine coupled with EGR. Int.J Automot. Technol. 17, 1–12 (2016). https://doi.org/10.1007/s12239-016-0001-5
+FEB
+2016
+Udayan Majumder, Prasun Chakraborti, Rahul Banerjee, Bishop Debbarma,
+Experimental study on the role of ethanol on performance emission trade-off and tribological characteristics of a CI engine,
+Renewable Energy,
+Volume 86,
+2016,
+Pages 972-984,
+ISSN 0960-1481,
+https://doi.org/10.1016/j.renene.2015.09.007.
+FEB
+2016
