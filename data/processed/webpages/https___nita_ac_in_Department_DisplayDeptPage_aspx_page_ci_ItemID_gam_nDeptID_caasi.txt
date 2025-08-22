@@ -1,20 +1,5 @@
 Mechanical Engineering
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Time Table
-Programmes
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Time Table
-programmes
+
 Program Educational Objectives (PEOs)
 PEO-1: To empower 
 students to identify, formulate and solve Mechanical Engineering 
@@ -34,9 +19,11 @@ PEO-6: To encourage the students for developing life-long learning
 attitude with moral ethics and values and professional development 
 through higher study, continuing education and Independent research 
 activities.
+
 Program Specific Outcome (PSOs)
 PSO 1: Specification, fabrication, testing, operation or documentation of basic mechanical systems/processes.
 PSO 2: Analysis, design, development and implementation of more advanced mechanical systems or processes.
+
 Under Graduate Programmes:
 B.Tech in Mechanical Engineering (4 years)
 Syllabus

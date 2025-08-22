@@ -1,26 +1,5 @@
 Computing & ICT Unit
-Board of Governors
-The Senate Committee
-The Finance Committee
-The Buildings and Works Committee
-Office of Director
-Office of Registrar
-Office of Dean (Academic Affairs)
-Office of Dean(Planning & Development)
-Office of Dean(Students' Welfare)
-Office of Dean(Research & Consultancy)
-Office of Dean(Faculty Welfare)
-Office of Chairman (AR & IR)
-Chief Information Security Officer (CISO)
-Chief Vigilance Officer (CVO)
-Establishment Section
-Accounts Section
-Audit Section
-Purchase Section
-MIS Section
-Library Section
-Computing & ICT Unit
-Office of  Vehicle Section
+
 The Computing & ICT Unit of NIT Agartala manages the network services, website and other domain related activity in the Institute.
 Some major tasks being looked after by the Computing & ICT Unit are:
 Providing the internet services to the Institute.

@@ -1,21 +1,5 @@
 Bio Engineering
-Skip Navigation Links
-Home
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Publications
-Programmes
-Skip Navigation Links
-Home
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Publications
+
 Programmes
 Program Outcomes (POs):
 The students who have undergone the B.Tech. program in Bioengineering:
@@ -31,6 +15,7 @@ will be able to function as a part of a team and individual, as the situation de
 Will be able to communicate efficiently about the engineering problems related to bioengineering to the larger society with the aid of effective reports, documentation and presentation.
 Will be able to utilize the knowledge of engineering and management principles to manage projects in multi-disciplinary set-up.
 Will have the necessary impetus for life-long learning in the context of technological changes.
+
 PEOs (Program Educational Objectives):
 The major objectives of the B.Tech. program in Bioengineering are:
 To impart knowledge about applications of engineering techniques in biological systems.
@@ -40,6 +25,7 @@ To develop capabilities to work in research and development organizations.
 PSOs (Program Specific Objectives):
 To learn protocols and employ engineering principles to solve the problems relevant to today’s industries in the field of bioengineering.
 To learn to design and develop different equipment, experiments and computational approaches related to bioengineering.
+
 Programmes :
 The department currently offers the following programs:
 Under Graduate Program (B.Tech) in Biotechnology & Biochemical Engineering for 4 Years

@@ -1,21 +1,5 @@
 Computer Science and Engineering
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-NLP Research Group
-Publications
-Overview
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-NLP Research Group
-Publications
+
 programmes
 The Department of Computer Science and Engineering of National Institute
  of Technology Agartala offers undergraduate and postgraduate 
@@ -33,8 +17,10 @@ Programmes:
 This Institute offers courses of study and facilities for research 
 leading to following programmes under Computer Science & 
 Engineering department.
+
 Under Graduate Programmes:
 B.Tech in Computer Science & Engineering (4 years).
+
 Post Graduate Programmes:
 M.Tech specialization in Artificial Intelligence, Computer Science & Engineering (2 years).
 Brochure

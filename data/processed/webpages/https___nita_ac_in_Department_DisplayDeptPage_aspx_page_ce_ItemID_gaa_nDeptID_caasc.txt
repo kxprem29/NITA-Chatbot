@@ -1,21 +1,5 @@
 Electrical Engineering
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Time Table
-Magazine
-Programmes
-Skip Navigation Links
-Programmes
-Faculty
-Staff
-Facilities
-Research
-Time Table
-Magazine
+
 programmes
 Program Educational Objective Statements
 PEO-1:
@@ -38,6 +22,7 @@ Specification, fabrication, testing, operation or documentation of basic Electri
 .
 PSO-2:
 Analysis, design, development and implementation of more advanced Electrical systems or processes.
+
 Under Graduate Programmes
 B.Tech in Electrical Engineering (4 Years):
 This course aims at providing all the facilities
@@ -49,8 +34,10 @@ challenging jobs in the industry and also will be able to carry out research
 and developmental activities with innovative ideas. The students are assigned
 with a major project during the end semesters where they carry out the
 developmental work under the guidance /supervision of the staffs.
+
 Syllabus of B.Tech (Old Course)
 Syllabus of B.Tech (New Course)
+
 Post Graduate Programmes
 Electrical Engineering department provide M.Tech
 degree in following branches. It aims at providing all the facilities for
@@ -70,6 +57,7 @@ M.Tech in Instrumentation
 M.Tech in Integrated Energy
      System
 Brochure of PG Programme
+
 Ph.D Programmes
 Facilities of research are
 provided by the department on different appropriate topics that leads to the

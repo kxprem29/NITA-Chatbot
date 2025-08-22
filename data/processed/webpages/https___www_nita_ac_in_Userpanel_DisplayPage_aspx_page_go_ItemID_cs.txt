@@ -1,26 +1,5 @@
 Purchase Section
-Board of Governors
-The Senate Committee
-The Finance Committee
-The Buildings and Works Committee
-Office of Director
-Office of Registrar
-Office of Dean (Academic Affairs)
-Office of Dean(Planning & Development)
-Office of Dean(Students' Welfare)
-Office of Dean(Research & Consultancy)
-Office of Dean(Faculty Welfare)
-Office of Chairman (AR & IR)
-Chief Information Security Officer (CISO)
-Chief Vigilance Officer (CVO)
-Establishment Section
-Accounts Section
-Audit Section
-Purchase Section
-MIS Section
-Library Section
-Computing & ICT Unit
-Office of  Vehicle Section
+
 List of People
 Name
 Designation
@@ -29,10 +8,12 @@ Assistant Registrar, Admin-2 and
 Asst. Registrar(Purchase)-cum- Sectional Head (Purchase)
 Email: arsiva.admin@nita.ac.in,
 arsivanita@gmail.com
+
 Mr. Nabin Chandra Kundu
 Section Officer , Purchase (Contractual)  and
 Officer-In-Charge (Central Store)
 Email: nitapurchasesection2@gmail.com
+
 Mr. Sujoy Dey
 Jr. Assistant-cum-Hostel Supervisor
 (Contractual)

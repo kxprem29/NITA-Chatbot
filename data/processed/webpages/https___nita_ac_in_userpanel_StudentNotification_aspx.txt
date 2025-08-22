@@ -1,13 +1,13 @@
 Student Notification
-XYZ
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 Examination
+
 Sr. No.
 Title
-Download
 Uploaded Date
 1
 Notice for the collection of various Certificates by Graduating Students
@@ -216,16 +216,18 @@ Programme Schedule of 1st Year 1st Semester End Term Examination 2022-23.
 69
 Notice for Parallel Exam Even 2023 & Supplementary Exam for lab Even 2023.
 05/01/2023
-XYZ
+
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 UG Programme
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 1
 Notice for Branch Change for academic session 2025-26.
 20/08/2025
@@ -352,16 +354,17 @@ Programme Schedule of 1st Year 1st Semester End Term Examination 2022-23.
 42
 Notice regarding extension of date of semester registration, except 1st year, for EVEN 2022-23 session.
 05/01/2023
-XYZ
+
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 PG Programme
 Sr. No.
 Title
-Download
 Uploaded Date
+
 1
 Addendum to the notification for provisional shortlisted candidates for admission in M. Tech and M.Sc programme against vacant seats, if any, after admission through CCMT and CCMN- 2025, for the academic session 2025-26.
 05/08/2025
@@ -578,16 +581,17 @@ List of candidates provisionally shortlisted for Institute Level Test (ILT) and 
 72
 Notice regarding extension of date of semester registration, except 1st year, for EVEN 2022-23 session.
 05/01/2023
-XYZ
+
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 PhD Programme
 Sr. No.
 Title
-Download
 Uploaded Date
+
 1
 Notice regarding commencement of class for Ph.D coursework RM, RPE for the 2025-26 odd semester.
 31/07/2025
@@ -819,16 +823,18 @@ Notice regarding Fresh scholarship of Ph.D scholars for the Even Session 2022-23
 77
 Notice regarding extension of date of semester registration, except 1st year, for EVEN 2022-23 session.
 05/01/2023
-XYZ
+
+
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 Hostel
 Sr. No.
 Title
-Download
 Uploaded Date
+
 1
 Notice regarding Hostel Admission Process for all the first-year UG, PG and Dual degree students of NIT Agartala and IIIT Agartala, who wants to stay in the hostel.
 11/08/2025
@@ -928,16 +934,18 @@ Notice regarding submission of Google Form regarding details of Hostel Fee.
 33
 Notice regarding submission of Hostel Fee.
 05/01/2023
-XYZ
+
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 Scholarship
+
 Sr. No.
 Title
-Download
 Uploaded Date
+
 1
 Guidelines for National Fellowship & Scholarship for Higher Education of Scheduled Tribe students [central sector scheme] 2021-22 to 2025-26
 26/06/2025

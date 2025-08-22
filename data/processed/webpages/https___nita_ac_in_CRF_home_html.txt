@@ -8,6 +8,7 @@ Members
 Contact Us
 Scanning Electron Microscope (SEM)
 Atomic Force Microscopy (AFM)
+
 About CRF-NIT, Agartala:-
 The concept of Central Research Facility (CRF) is an integrated establishment to carry out research activities centrally under an umbrella. A CRF is of utmost importance in any academic institution where state-of-the-art analytical and high-end instruments are housed at a single location manned by qualified personnel to provide scientific and technical services for supporting research, carried out by UG, PG, PhD and project students. Such a facility represents a key commitment for preserving and raising the efficiency of research to top international standards. It strengthens the research-relevant infrastructure of Science and Technology.
 At NIT Agartala, to begin with, CRF has been developed with various sophisticated equipment and instruments, mainly:
@@ -17,6 +18,7 @@ At NIT Agartala, to begin with, CRF has been developed with various sophisticate
 •	Liquid Nitrogen Plant (LNP)
 •	Atomic Force Microscope (AFM)
 All equipment and instruments under CRF will be used for various types of characterization including study of structure and chemical composition of surfaces and bulk materials at different length scales (sub-nanometer to millimeter), phase transitions, as well as evaluation of mechanical, electrical, magnetic, and optical properties. Liquid Nitrogen Plant (LNP) will help to produce Nitrogen in liquid form which can be utilized for developing low temperature research facility in the areas of Bio-Engineering, Chemistry and Medical Science.
+
 Objectives of the CRF:-
 Our objective is to extend the present research facilities to fulfill the following objectives:
 •	to carry out analysis of samples received from the scientists/institutes;
