@@ -1,0 +1,1385 @@
+
+--- Page 1 ---
+POST GRADUATE SYLLABUS
+FOR
+COMMUNICATION SYSTEMS & SIGNAL
+PROCESSING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+DEPARTMENT OF ELECTRONICS & COMMUNICATION
+ENGINEERING
+BARJALA, AGARTALA - 799046
+
+--- Page 2 ---
+FOREWORD
+Electronics & Communication Engineering Department of NIT Agartala awards the degree of
+Master of Technology (M.Tech) in two different specializations, i.e. i)Communication Systems
+& Signal Processing and ii) VLSI Design.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits
+and 2000 marks. Semester wise distribution of course and credits are as follows. First semester
+25 credits and 800 marks for five theory subjects, two laboratory subjects and seminar, second
+semester 25 credits and 800 marks for four theory subjects, two laboratory subjects,
+comprehensive viva-voce and project preliminaries; Third Semester 10 credits and 100 marks,
+fourth semester 20 credits and 300 marks. Third and fourth semester of PG courses will be fully
+devoted ton project works. Minimum requirement of number of class hours for each theory
+course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester.
+Each theory subject in a semester is evaluated for 100 marks, with the following weightage
+sub-component weightage. Continuous evaluation 30 marks (Attendance: 5 marks, Quiz: 5
+marks, Class test 10 marks, Assignment 10 marks); Mid-Semester Examination 20 marks; and
+End-Semester Examination 50 marks.
+The course curriculum of all post-graduate programmes are designed considering the
+Programme Outcomes as formulated by National Board of accreditation (NBA)
+Expert opinions are being taken on a regular basis in order to improve the quality of teaching
+learning process and to attain the programme outcomes efficiently.
+In the final year of M.Tech Programmes (third and fourth semesters) students may also opt
+industrial research. If any student desire to pursue his/her research in reputed industries, he/she
+may be allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such
+industry bodied.
+b. The selected industry needs is approved by the DPPC of the concerned department.
+c. The student selects one supervisor from industry and another supervisor form the
+Institute.
+d. If any students opt for such industrial research he/she will not receive any scholarship
+from the institute in this tenure, even if he/she wants to return back. In such cases the
+student will be allowed to complete his/her project in the institute but without any
+scholarship.
+Page i
+
+--- Page 3 ---
+Vision and Mission of ECE Department
+Vision
+Department is committed to impart high level of Teaching, Conducting up to date
+research along with technical skill so that the department can excel in the fields of
+teaching and research at national and international level and to cope with the latest
+demand of industry, academia and research in Electronics & Communication
+Engineering.
+Mission
+I. To provide high quality undergraduate and graduate education in the field of Electronics
+and Communication Engineering.
+II. To promote research and development.
+III. To collect the knowledge and expertise and to cater the people and to work for the
+development of the society at large.
+IV. To develop and promote a smooth and friendly academic industry relationship.
+V. To make the department more conductive for professional and personal development
+so as to attract good professionals and academicians from all over the country and
+abroad.
+Page ii
+
+--- Page 4 ---
+Program Outcomes (POs)
+PO1: Ability to independently carry out research/investigation and development to solve
+practical problems.
+PO2: Ability to write and present substantial technical report/document
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements
+in the appropriate bachelor program.
+PO4: Ability to identify, formulate, and solve Communication Systems & Signal Processing
+related problems using advanced level computing techniques.
+PO5: Ability to understand the impact of Communication Systems & Signal Processing
+solutions in a global, economic, environmental and societal context.
+PO6: Ability to demonstrate knowledge and understanding of the engineering and management
+principles and apply these to multidisciplinary environment..
+Program Educational Objectives (PEOs)
+1. To develop a sound knowledge in the field related to Communication and Signal
+Processing to serve as a competent engineer.
+2. To develop a sound knowledge in theory and practical related to Communication and
+Signal Processing to prove the ability to work in any interdisciplinary areas.
+3. To acquire the proper skill and techniques to apply in the industrial fields.
+4. To be acquainted with the latest technology so as to be placed in the best industries in
+the country and abroad.
+5. To acquire a strong sound knowledge in the mathematical theory and related
+computation using recent software.
+Program Specific Objectives (PSOs)
+1. To create powerful competent engineers acceptable to any relevant industry all over
+the world.
+2. To acquire sound knowledge in more than one sub-areas of Communication and
+Signal Processing to pursue research.
+Page iii
+
+--- Page 5 ---
+Course structure for M. Tech in Communication Systems &
+Signal Processing
+Semester-I
+Sl.No. Subject L T P Hours/Week Credit
+1 Linear Algebra &Stochastic Processes 3 1 0 4 4
+2 Advanced Digital Signal Processing 3 1 0 4 4
+3 Advanced Digital Communication 3 1 0 4 4
+4 Elective-I 3 1 0 4 4
+5 Elective-II 3 1 0 4 4
+6 Laboratory–I(Advanced Digital Communication
+0 0 3 3 2
+Laboratory)
+7 Laboratory –II(Advanced DSP Laboratory) 0 0 3 3 2
+8 Seminar 0 0 2 2 1
+Total 28 25
+Semester-II
+Sl.No. Subject L T P Hours/Week Credit
+1 Estimation and Detection Theory 3 1 0 4 4
+2 Mobile Communication 3 1 0 4 4
+3 Switching & Communication Networks 3 1 0 4 4
+4 Elective-III 3 1 0 4 4
+5 Laboratory –III (Optical Fibre Communication
+0 0 3 3 2
+/Wireless Communication Laboratory)
+6 Laboratory –IV(Advanced RF Laboratory) 0 0 3 3 2
+7 Project Preliminary 0 0 6 6 3
+8 Comprehensive Viva-Voce - - - - 2
+Total 28 25
+Semester-III
+Sl.No. Subject L T P Hours/Week Credit
+1 Project & Thesis-I - - - - 10
+Semester-IV
+Sl.No. Subject L T P Hours/Week Credit
+1 Project & Thesis-II - - - - 20
+Total Credit 80
+4 | P a g e
+
+--- Page 6 ---
+List of Electives
+Sl.No. Elective Name of the Course
+1. Antenna Theory and Design
+2. Smart Antenna
+3. Microwave & Millimeter Wave Devices
+4. Radar Signal Processing
+Elective-I
+5. Microwave Circuits, Systems and
+Application
+6. Cryptography & Network Security
+7. Light Wave Technology
+8. MIMO Communication Systems
+9. Optical Communication Systems
+Elective-II
+10. Electromagnetic Metamaterials
+11. Advanced Control System
+12. Digital Control System
+13. Advanced Microwave Circuits
+14. Fundamentals of Antenna and Design
+15. Remote Sensing and Navigational Systems
+16. Optoelectronic Devices & Circuits
+Elective-III
+17. Laser Science & Technology
+18. Metaheuristic Algorithms & their
+applications
+19. Electromagnetic Interference &
+Compatibility
+5 | P a g e
+
+--- Page 7 ---
+Semester-I
+Linear Algebra & Stochastic Processes L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ Introduction to Probability , Random Process and Linear Algebra
+ Application of linear algebra in theoretical analysis of the communication systems.
+ Application of the concepts of Probability & Random Process to solve problems in
+Communication Systems and Signal Processing.
+COURSE CONTENT:
+Module-1
+Vector spaces, Vector sub spaces of a matrix, Rank-Nullity Theorem, Projection theorem, linear
+transformation matrix with different basis- Gram-Schmidt orthogonalization procedure, QR factorization,
+Eigen values, Eigenvectors, Singular values, Singular vectors, Computation of Eigen values and
+Eigenvectors, Eigen vectors of a symmetric positive definite matrix and its meaning. Diagonalization of a
+matrix and applications, Singular Value Decomposition, Derivatives of scalars w.r.t a vector, Jacobian.
+Module-2
+Probability spaces, Random variables and random vectors, Distributions and densities-Conditional
+distributions and densities, Independent random variables, Transformation of random variables
+Expectations, Moment generating function, Characteristic function, Multiple random variable, Gaussian
+random vector. Co-variance matrix, Complex random variables, Sequence of random variable, Central limit
+theorem.
+Module-3
+Strictly stationary random process. Wide sense stationary random process. Complex random
+process. Jointly strictly and wide sense stationary of two random processes. Correlation matrix obtained
+from random process, Ergodic process, Independent random process, Uncorrelated random process,
+Random process as the input and output of the system, Power spectral density, White random process,
+Gaussian random process, Cyclo-stationary random process, Wide sense cyclo-stationary random process.
+Module-4
+Sampling and reconstruction of random process, BandPass random process, Applications of Linear
+algebra and stochastic process for telecommunication.
+TEXTS/ REFERENCES:
+1. G.Strang, Linear Algebra, Thomson Brooks/Cole Cengage Hill
+2. Peter J. Olver, Applied Linear Algebra, Pearson Education
+3. A.Papoulis, S.U.Pillai, Probability, Random variables and Stochastic Processes, TataMcGraw Hill
+4. GeoffreyGrimmett, Probability and Random Processes, Oxford University Press
+6 | P a g e
+
+--- Page 8 ---
+COURSE OUTCOME:
+CO1: Apply probability and matrix theory to solve stochastic models.
+CO2: Solve stochastic process problems mathematically and using software.
+CO3: Identify and apply the most appropriate stochastic process technique for a given applied problem.
+CO4: Interpret and understand the solution for a stochastic process application.
+CO5: Be familiar with the usage of random process in telecommunication engineering and to solve the
+corresponding problems.
+7 | P a g e
+
+--- Page 9 ---
+Advanced Digital Signal Processing L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To provide rigorous foundations in multirate signal processing,
+ To provide the knowledge of design & analysis of Adaptive Filters and their applications.
+ To provide knowledge on different methods of Spectrum Estimation.
+COURSE CONTENT:
+Module-1
+Review of sampling theory, sampling rate conversion by integer and rational factors, efficient
+realization and applications of sampling rate conversion
+Module-2
+Wiener filtering. Optimum linear prediction. Levinson- Durbin algorithm, Prediction error filters,
+Adaptive filters, FIR adaptive LMS algorithm, Convergence of adaptive algorithms, Fast algorithms,
+Applications: Noise canceller, echo canceller and equalizer.
+Module-3
+Recursive least squares algorithms, Matrix inversion lemma, Convergence analysis of the RLS
+algorithm, Adaptive beam forming, Kalman filtering.
+Module-4
+Spectrum estimation, Estimation of autocorrelation, Periodogram method, Nonparametric methods.
+Parametric methods
+.
+TEXTS/ REFERENCES:
+1. S.Haykin, Adaptive Filter Theory, Prentice- Hall
+2. M.H. Hayes, Statistical Digital Signal Processing and Modeling, John Wiley
+3. J.G.Proakis, D.M. Manolakis, Digital Signal Processing, Prentice Hall
+COURSE OUTCOME:
+CO1: Apply multirate DSP for applications and design efficient digital filters & construct multichannel
+filter banks.
+CO2: Apply linear filtering techniques to engineering problems.
+CO3: Solve adaptive filter problems.
+CO4: Analyze the various adaptive filter algorithms.
+CO5: Understand and analyze the statistical properties of the conventional spectral estimators.
+8 | P a g e
+
+--- Page 10 ---
+9 | P a g e
+
+--- Page 11 ---
+Advanced Digital Communication L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To review and enhance the knowledge of different digital communication schemes.
+ To study the different types of digital Amplitude, Frequency, Phase Keying, different M-array and
+hybrid Amplitude-Phase, Phase-Frequency keying techniques for high performance modern
+communication systems.
+ To aware of noise performance of different carrier modulation schemes passing through additive
+white Gaussian noise (AWGN) channels and accordingly to design optimum receiver.
+ To make students aware of interference (Inter Symbol Interference (ISI)) due to non-ideal / non
+linear channel andto minimize the effects of ISI, and thereby deliver the digital data to its destination
+with the smallest possible error rate.
+ To convert the channel into an equivalent AWGN at each time ‘k’ by using adaptive receivers and
+equalizers.
+ To familiar with carrier and clock synchronization or recovery circuits to avoid the effects of phase
+shifting and timing jitter.
+ To enhance the knowledge of different channel coding techniques and their performance
+evaluation.
+ To understand the coded modulation schemes to increase the minimum distance between the signals
+that are the most likely to be confused, without increasing the average signal power and to study
+the digital transmission over fading channels.
+COURSE CONTENT:
+Module 1:
+Review of digital modulation schemes and receivers in additive white Gaussian noise channels,
+CPM, MSK, CPFSK.
+Module 2:
+Inter symbol interference, Adaptive receivers and channel equalization: MMSE, ZFE, FSE, Carrier
+and clock synchronization, Effects of phase and timing jitter.
+Module 3:
+Channel Coding techniques: Linear Block codes, Cyclic codes, Convolution codes and their
+performance evaluation.
+Module 4:
+Coded modulation schemes: TCM, Turbo codes, Digital transmission over fading channels.
+TEXTS/ REFERENCES:
+1. S. Benedetto and E.Biglieri, Principles of Digital Transmission with Wireless Applications, Kluwer
+Academic.
+2. B. P. Lathi, Z. Ding, Modern Digital and Analog Communication Systems, Oxford University Press
+3. J. G.Proakis, Digital Communications, McGraw Hill
+10 | P a g e
+
+--- Page 12 ---
+4. S.Haykin, Digital Communication Systems, John Wiley
+5. H. Taub and D. L.Schilling, Principles of Communication Systems, McGraw Hill.
+6. U. Madhow, “Fundamentals of Digital Communication”, Cambridge University Press.
+COURSE OUTCOME:
+After successful completion of this course, students
+CO1: Will have enhanced knowledge of different digital communication schemes for high speed modern
+communication.
+CO2: Will learn to design optimum receivers to obtain correct decision in presence of channel noise.
+CO3: Will earn sufficient knowledge regarding signal dispersion and fading, and their impact (ISI) due to
+channel characteristics and accordingly will learn how to take correct decision in presence of ISI.
+CO4: Will capable to measure ISI and to convert the channel into an equivalent AWGN by designing
+adaptive receivers and equalizers.
+CO5: Will familiar with carrier and clock synchronization or recovery circuits to avoid the effects of
+phase shifting and timing jitter.
+CO6: Will have knowledge of Channel Coding techniques and Coded modulation schemes desired for
+advanced digital communication.
+11 | P a g e
+
+--- Page 13 ---
+Semester-II
+Estimation and Detection Theory L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To have some idea about the hypothesis testing in an ensemble of random data.
+ To have knowledge about signal detection under various noise environments.
+ To learn about various theories of estimation in random data assembly.
+ To learn about non stationary filters for signal detection.
+COURSE CONTENT:
+Module-1
+Binary hypothesis testing, Bayes, mini- max and Neyman-Pearson tests, Composite hypothesis
+testing.
+Module-2
+Signal detection in discrete time: Models and detector structures. Coherent detection in independent
+noise. Detection in Gaussian noise. Detection of signals with random parameters. Detection of stochastic
+signals. Performance evaluation of signal detection procedures.
+Module-3
+Bayesian parameter estimation, MMSE, MMAE and MAP estimates. Nonrandom parameter
+estimation. Exponential families. Completeness theorem. ML estimation. Information inequality.
+Asymptotic properties of MLEs.
+Module-4
+Discrete time Kalman-Bucy filter. Linear estimation. Orthogonality principle. Wiener-
+Kolmogorov filtering – causal and non -causal filters.
+Module-5
+Signal detection in continuous time: Detection of deterministic signals in Gaussian noise. Coherent
+detection in white Gaussian noise.
+TEXTS/ REFERENCES:
+1. H.V.Poor, Introduction to Signal Detection and Estimation, Springer.
+2. B.C.Levy, Priciples of Signal Detection and Parameter Estimation, Springer
+3. H.L.Vantrees, Detection, Estimation and Modulation theory, Part I, Wiley.
+4. M.D.Srinath&P.K.Rajasekaran, Statistical Signal Processing with Applications, Wiley
+5. J.C.Hancock& P.A. Wintz, Signal Detection Theory, Mc-Graw Hill, 1966.
+12 | P a g e
+
+--- Page 14 ---
+COURSE OUTCOME:
+CO1: To be able to gain the basic concept of hypothesis testing in random data assembly.
+CO2: To have the idea of detection of original signal under different noises.
+CO3: To be able to understand about different signals under different time and sample domain.
+CO4: To learn the concept of stationary and non-stationary filters.
+13 | P a g e
+
+--- Page 15 ---
+Mobile Communication L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To make students familiar with fundamentals of wireless and mobile communication systems and
+to impart an introduction to radio wave propagation techniques for mobile wireless radio.
+ To discuss various multiple access techniques for wireless communication and choose system
+(TDMA/FDMA/CDMA) according to the complexity, installation cost, speed of transmission,
+channel properties etc.
+ To identify the requirements of mobile communication as compared to static communication.
+ To identify the limitations of 2G and 2.5G wireless mobile communication and use design of 3G
+/4G and beyond mobile communication systems.
+COURSE CONTENT:
+Evolution of mobile radio Communication From 1G to2G systems, 2.5G Mobile Radio networks, 3G/4G
+Wireless networks, WLAN
+Module-1
+Introduction and Basic system Design: Cellular concept Cellular system, Frequency re-use , Co-
+channel interference and its reduction GOS, Frequency Spectrum, utilization, Traffic and channel
+assignments, various handoff strategies, Analog and digital cellular systems. Loss Models for Mobile Radio
+Propagation: Point to point Propagation. Model, Foliage loss, Free space propagation model, Reflection,
+Diffraction analysis using Fresnel zone geometry and knife Edge diffraction model, Outdoor Propagation
+models, Indoor propagation models, signal penetration into buildings . scale Fading and Multipath: Causes
+of fading ,Reciprocity theorem Amplitude and Selective fading Doppler shift ,Impulse response model of
+multipath Channel, Doppler spread and Rican distributions, Statistical analysis of Multipath fading
+channels, fading behavior analysis using channel models, Bit error rate and word error rate in fading
+Environment.
+Module-2
+Design Parameter for Mobile Radio Network: Antenna location, Antenna Spacing and heights
+for base station and mobile units, Antenna configurations for Base Environment, Frequency dependence of
+mobile unit Diversity schemes of mobile Unit, Antenna connection’s locations on mobile unit. Modulation
+techniques –MSK-GMSK spread spectrum modulation multicarrier modulation (OFDM,MC-CDMA
+techniques).
+Module-3
+Multiple Access Techniques: Frequency division multiple access, Time division multiple access,
+Spread spectrum multiple access, space division multiple access, Pure and slotted ALOHA, CSMA
+protocols, Reservation protocols.
+14 | P a g e
+
+--- Page 16 ---
+Module-4
+Cellular systems: ARQ Techniques, Digital mobile telephony system, GSM architecture, services
+and features, GSM channels, CDMA digital cellular standard, Forward and reverse CDMA channel.
+TEXTS/ REFERENCES:
+1. T. Rappaport, Wireless Communication, Pearson Education
+2. A. Goldsmith, Wireless Communications, Cambridge University Press
+3. D. Tse, P. Viswanath, Fundamentals of Wireless Communication, Cambridge University Press
+4. V.K. Garg, Wireless Communications & Networking, Elsevier
+COURSE OUTCOME:
+CO1: To make students familiar with various generations of mobile communications and basics of
+wireless communication.
+CO2: Knowledge of GSM mobile communication standard, its architecture, logical channels,
+advantages and limitations.
+CO3: To understand the concept of tele-traffic engineering
+CO4: To understand various Wireless LANs and multicarrier communication systems.
+15 | P a g e
+
+--- Page 17 ---
+Switching and Communication Networks L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand the principles of switching systems from manual and electromechanical to
+electronic systems.
+ To provide the understanding of traffic engineering in telecommunication system along
+with the network architecture of modern day communication systems.
+ To familiarize with the theory of Data communication components, networks and systems.
+ To provide the understanding of principle of ISDN.
+COURSE CONTENT:
+Module-1
+Introduction to Telecommunication Switching: Evolution of Telecommunications, Simplex-
+duplex telephone communication, Elements of switching systems, Structure of rotary dial telephone, Step
+by step switching, Touch tone dial telephone, Principles of crossbar switching & crossbar exchange
+organizations. Electronic Space Division Switching: Centralized SPC with dual processor architecture,
+Levels of processing in Distributed SPC, Enhanced services, Design and determination of blocking
+probability of two stage and N stage networks. Time division multiplexing. Time Division Switching: Time
+division space switching with input-controlled and output–controlled configuration, Time multiplexed
+space switch.
+Module-2
+Telecommunication Traffic Modeling and Analysis: Various parameters of network traffic,
+GOS and blocking probability, Types of stochastic processes, Markov and Birth-Death processes, Poisson
+process, Blocking models and loss estimates, Erlang B formula, Delay systems with queuing configuration,
+Erlang C formula.
+Module-3
+Introduction to Communication Networks and Services: Data communication components,
+Data representation, Categories of networks (LAN, MAN, WAN), Unified view of OSI reference model,
+TCP/IP architecture and protocols, Physical structure connection and topology. Circuit and Packet
+Switching Systems: Circuit switched network routing tables; hierarchical routing, the Bellman-ford
+algorithm, Dijkstra's algorithm.
+Module-4
+ISDN and Other Modern Networks: ISDN services, Network and protocol architecture,
+Transmission channels & multiplexing schemes, ISDN message format and address structure,
+Internetworking of ISDN with other networks, Broadband ISDN, Brief architecture and operation of cable
+modem, DSL Technology, WLAN: IEEE 802.11, Introduction to Bluetooth.
+16 | P a g e
+
+--- Page 18 ---
+TEXTS/ REFERENCES:
+1. Wireless Communication: Rappaport, Second Edition, Pearson
+2. William C.Y.Lee, Mobile Cellular Telecommunications-Analog & Digital Systems, Mc.Graw Hill
+3. Computer organization and design: the hardware/software interface/David A. Patterson, John L.
+Hennessy
+4. Telecommunication Switching Systems and Networks 2nd Edition by Thiagarajan Viswanathan.
+COURSE OUTCOME:
+CO1: Describe and apply fundamentals of switching in telecommunication systems and its
+associated technologies.
+CO2: Apply the principles of queuing theory in evaluating the performance of congested
+telecommunication networks and explain the reasons for switching, and the relative merits of the
+possible switching modes, e.g. packet and circuit switching.
+CO3: Understand the principles of the internal design and operation of telecommunication traffic
+modelling.
+CO4: Understand the principles of Data communication and Networks components, procedure and
+types.
+17 | P a g e
+
+--- Page 19 ---
+ELECTIVES
+Antenna Theory and Design L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To provide an in-depth understanding of modern antenna concepts, and practical antenna
+design for various applications.
+ To familiarize with the essential parameters of antenna theory.
+ To understand the basics of radiation pattern of different types of antennas.
+ To study the different types of antenna and their application.
+COURSE CONTENT:
+Module-I
+Fundamental Concepts: Radiation pattern, near- and far-field regions, reciprocity, directivity and
+gain, effective aperture, polarization, input impedance, efficiency, Friis transmission equation, radiation
+integrals and auxiliary potential functions.
+Module-2
+Radiation from Wires and Loops: Infinitesimal dipole, finite-length dipole, linear elements near
+conductors, dipoles for mobile communication, small circular loop.
+Module-3
+Aperture Antennas: Huygens’ Principle, radiation from rectangular and circular apertures, design
+considerations, Babinet’s principle, and Fourier transform method in aperture antenna theory.
+Module-4
+Horn and Reflector Antennas: Radiation from sectoral and pyramidal horns, design concepts,
+prime-focus parabolic reflector and casse-grain antennas.
+Module-5
+Microstrip Antennas: Basic characteristics, feeding methods, methods of analysis, design of
+rectangular and circular patch antennas.
+Module-6
+Antenna Arrays: Analysis of uniformly spaced arrays with uniform and non-uniform excitation
+amplitudes, beam forming, extension to planar arrays, synthesis of antenna arrays using Schelkunoff
+polynomial method, Fourier transform.
+18 | P a g e
+
+--- Page 20 ---
+TEXTS/ REFERENCES:
+1. C.A. Balanis, “Antenna Theory: Analysis and Design’, Wiley
+2. J.D Kraus, R. J. Marhefka and A. Khan, Antennas and Wave Propagation, MGH
+3. R. S. Elliot, “Antenna Theory and Design”, Wiley
+4. R. Garg, P.Bhartia, I. Bhal and A. Ittipiboon, “Microstrip Antenna Design Handbook”, Artech House 6.
+G. Kumar and K.P. Ray, Broad Band Microstrip Antennas, Artech House.
+COURSE OUTCOME:
+CO1: Understand the basics and theory behind antenna radiation mechanisms, point sources, small-
+wave dipoles, and half-wave dipoles.
+CO2: Understand and apply the various figures of merit for antennas such as radiation pattern,
+gain, polarization, efficiency, bandwidth, and others.
+CO3: Learn about, and design various types of wire antennas, such as dipoles, loops, arrays,
+Yagi-Uda and logarithmic.
+CO4: Learn about patch antennas, microstrips, MIMOs, mobile antennas and smart antennas.
+19 | P a g e
+
+--- Page 21 ---
+Smart Antenna L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To gain understanding and achieve familiarity with smart antenna environments.
+ To understand algorithms and their implementation.
+ To apply the concepts in Smart Antenna system design
+COURSE CONTENT:
+Module-1
+Introduction, Need of Smart Antenna Systems, Overview of smart antenna systems, The Vector
+Channel Impulse Response and the Spatial Signature, Spatial Processing Receivers, Fixed Beam
+forming Networks, Switched Beam Systems, Hybrid Beamformer, Overview of distributed beam
+forming, interference rejection using adaptive antennas.
+Module-2
+Adaptive Antenna Systems, Wideband Smart Antennas, Diversity Techniques, Multiple Input -
+Multiple Output (MIMO) Communications Systems, MIMO for frequency selective scenarios.
+SDMA using smart antennas
+Module-3
+Sample matrix inversion algorithm, unconstrained LMS algorithm, normalized LMS algorithm,
+Constrained LMS algorithm, Perturbation algorithms, neural network approach, Adaptive beam
+space processing, Implementation issues.
+Module-4
+Direction of Arrival (DOA) Estimation for smart antennas: Spectral estimation methods, linear
+prediction method, Maximum entropy method, Maximum likelihood method, Eigen structure
+methods, MUSIC algorithm – root music and cyclic music algorithm, the ESPRIT algorithm.
+TEXTS/ REFERENCES:
+1. R.A. Monzingo, R.A. Haupt, W.H. Miller, Introduction to Adaptive Arrays, SciTech Publishing Inc
+2. Frank Gross, Smart Antennas for Wireless Communications, McGraw Hill
+3. Ahmed El-Zooghby, Smart Antenna Engineering, Artech House Publishers
+4. Constantine Balanis, Introduction to Smart Antennas, Morgan and Claypool Publishers
+20 | P a g e
+
+--- Page 22 ---
+5. J. Liberti, T.S. Rappaport, Smart Antennas for Wireless Communications-IS-95 and Third Generation
+CDMA Applications, Prentice Hall
+COURSE OUTCOME:
+CO1: Compare the performances of digital radio receivers and software radios.
+CO2: Study the CDMA spatial processors to analyze the multi-cell systems.
+CO3: Analyze the channel models for smart antenna systems.
+CO4: Study the environmental parameters for signal processing of smart antenna systems.
+CO5: Evaluate the requirements for the design and implementation of smart antenna systems.
+21 | P a g e
+
+--- Page 23 ---
+Microwave & Millimeter Wave Devices L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand the basics of microwave device physics.
+ To familiarize with operation and characteristics of various microwave devices and circuits such
+as klystron, TWT, magnetrons.
+ To Study the application of RF and Microwave devices.
+ To study three terminal Microwave devices.
+COURSE CONTENT:
+Module-1
+RF and Microwave tubes: Vacuum tube microwave device physics: Beam field interaction; power
+frequency limitation, device size limitations; special features of microwave tubes. Non relativistic electron
+tubes, Parallel field type – Klystron, Reflex Klystron, Helix TWT, coupled cavity TWT, Twystrons;
+Crossed field type – magnetrons, FWCFA, carcinotron. Relativistic electron tubes: gyrotrons; free electron
+LASER.
+Module-2
+RF and Microwave Devices: Diodes; high-frequency equivalent circuit; Schottky barrier diode;
+varactor diode; PIN diode; Applications, Tunnel diodes, Quantum tunneling mechanism, Impact ionization;
+IMPATT and other related diodes; small-signal analysis and model of IMPATT diode; TRAPATT;
+BARRITT, Transferred electron devices; differential negative resistance and two-valley model of Gunn
+Effect devices; modes of operation; waveguide cavity Gunn oscillator.
+Module-3
+Three terminal devices: BJT, MESFET, MOSFET, HFET, HEMT – device physics,
+characteristics, model, Three terminal devices; BJT, MESFET, MOSFET, HFET, HEMT – device physics,
+characteristics, model.
+TEXTS/ REFERENCES:
+1. A. S. Gilmour, “Microwave Tubes”, Artech House
+2. K. C. Gupta, Microwaves, New Age International
+3. S. Y. Liao, Microwave Devices and Circuits, Pearson Education
+4. R. E. Collin, Foundations for Microwave Engineering, Wiley
+5. S. Das, Microwave Engineering, Oxford University Press
+6. M. L. Sisodia, “Microwave Active Devices: Vacuum and Solid State, New Age Publishers
+COURSE OUTCOME:
+22 | P a g e
+
+--- Page 24 ---
+The student after undergoing this course will be able to:
+CO1: Explain different types of RF and Microwave tubes and their features.
+CO2: Differentiate the working of various tubes and their applications.
+CO3: Explain working of microwave active devices such as ATT, TED and tunnel diode etc
+CO4: Describe and explain working of microwave tubes and solid-state devices.
+23 | P a g e
+
+--- Page 25 ---
+Radar Signal Processing L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To achieve understanding of the principles of Signal Processing techniques used in Radar
+Systems.
+ To apply the concepts in real time processing of RADAR signals
+COURSE CONTENT:
+Module-1
+Introduction: Radar Block Diagram, Radar Equation, Information Available from Radar Echo.
+Review of Radar Range Performance– General Radar Range Equation, Radar Detection with Noise
+Jamming, Beacon and Repeater Equations, Bistatic Radar, Matched Filter Receiver – Impulse
+Response, Frequency Response Characteristic and its Derivation, Matched Filter and Correlation
+Function, Correlation Detection and Cross-Correlation Receiver, Efficiency of Non Matched Filters,
+Matched Filter for Non-White Noise.
+Module-2
+Detection of Radar Signals in Noise: Detection Criteria – Neyman-Pearson Observer, Likelihood-
+Ratio Receiver, Inverse Probability Receiver, Sequential Observer, Detectors – Envelope Detector,
+Logarithmic Detector, I/Q Detector. Automatic Detection - CFAR Receiver, Cell Averaging CFAR
+Receiver, CFAR Loss, CFAR Uses in Radar, Radar Signal Management – Schematics, Component Parts,
+Resources and Constraints, RADAR System Losses.
+Module-3
+Waveform Selection: Radar Ambiguity Function and Ambiguity Diagram – Principles and
+Properties; Specific Cases – Ideal Case, Single Pulse of Sine Wave, Periodic Pulse Train, Single Linear
+FM Pulse, Noise Like Waveforms, Waveform Design Requirements, Optimum Waveforms for
+Detection in Clutter, Family of Radar Waveforms, Radar and its composite environment, Review of Radar
+range performance computations, Detection Processes, Sequential and adaptive processes, Atmospheric
+effects, Sea and land Back scatter, Signal Processing concepts and waveform designs MTI & CW radars,
+phase coding techniques, FM pulse compression waveforms, Meteoroidal Radar and system performance
+analysis, Monopulse radars, Amplitude Comparison Monopulse & Phase Comparison Monopulse, error
+signal of amplitude comparison Monopulse, Phased Array RADAR.
+Module-4
+Pulse Compression in Radar Signals: Introduction, Significance, Types, Linear FM Pulse
+Compression – Block Diagram, Characteristics, Reduction of Time Sidelobes, Stretch Techniques,
+Generation and Decoding of FM Waveforms – Block Schematic and Characteristics of Passive
+System, Digital Compression, SAW Pulse Compression.
+24 | P a g e
+
+--- Page 26 ---
+TEXTS/ REFERENCES:
+1. R.J Sullivan, Radar Foundations for imaging and Advanced Concepts, PHI.
+2. F.E Nathanson, Radar Design Principles, Signal Processing and the Environment, PHI.
+3. J.C. Toomay, Principles of Radar, PHI.
+4. M. Skolnik, Introduction to Radar Systems, McGraw Hill
+COURSE OUTCOME:
+CO1: Understand the principles of Radar Systems and Signal Processing techniques.
+CO2: Detect radar signals in noise using different receivers.
+CO3: Analyze the properties of Ambiguity function and waveform design requirements.
+CO4: Describe the concepts of pulse compression Radar.
+25 | P a g e
+
+--- Page 27 ---
+Microwave Circuits, Systems and L-3 T-1 P-0 4 credits
+Application
+COURSE OBJECTIVE:
+ To have the basic idea of microwave passive circuits and their methods of representation.
+ To learn about the concept of periodic structures in microwave circuits
+ To have some knowledge about the design principles of microwave oscillators and amplifiers
+ To collect the basic knowledge of mobile communication
+ To have some knowledge about the fundamentals of radar systems.
+COURSE CONTENT:
+Module-1
+Microwave Circuits: Lumped and distributed circuit elements at RF and microwave frequencies,
+transmission lines for RF & microwave circuits, Discontinuity Model, Impedance Matching Using Smith
+Chart. Network Parameters, ABCD, Z, Y, S, S -parameter description of passive and active networks,
+network concept. Periodic structures and Design of filters. Attenuators: Fixed Digital & Programmable
+Attenuators
+Module-2
+Network concept. Periodic structures and Design of filters. Attenuators: Fixed Digital &
+Programmable Attenuators.
+Module-3.
+Performance and design principles of amplifiers and oscillators using Klystron, Magnetrons: Co-
+axial magnetron, inverted co-axial magnetron, voltage tunable magnetron, TWTs: Design of TWT
+amplifiers, carcinotrons, Amplitrons
+Module-4
+Microwave Systems and Application: Mobile Communication: Frequencies, regulations, Signals,
+Antennas, Signal propagation, Multiplexing, Modulation Techniques, Satellite networks, Wireless
+Application Protocol.
+Module-5
+Radar: Radar equations for tracking, volume search, jamming and cluttering. Non coherent MTI,
+MTI from moving platform, Pulse compression radar, Phased array, synthetic aperture radars, Radar
+antenna systems, ECCM techniques
+26 | P a g e
+
+--- Page 28 ---
+TEXTS/ REFERENCES:
+1. S. L. Liao, Microwave Devices and Circuits, Pearson
+2. D.M. Pozar, Microwave Engineering, John Wiley
+3. R.E. Collin, Foundations for Microwave Engineering, John Wiley
+4. M. Skolnik, Introduction to Radar Systems, McGraw Hill
+COURSE OUTCOME:
+CO1: To be able to learn the basic difference between the concept of lower frequency circuits and
+microwave circuits.
+CO2: To collect the knowledge about the mathematical methods of representing the periodic microwave
+passive structures.
+CO3: To understand the concept of design of microwave oscillators and amplifiers.
+CO4: To learn the basic idea about mobile communication techniques.
+CO5: To understand the principles of various radar systems.
+27 | P a g e
+
+--- Page 29 ---
+Cryptography & Network Security L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To have an understanding of the fundamentals of Cryptography.
+ To know the goals of cryptography e.g. data secrecy, message integrity, non-repudiation and
+authentication.
+ To have a knowledge of the prominent techniques for private key encryption, hashing and message
+authentication e.g, DES, AES, SHA-1, HMAC.
+ To understand the difference between private key cryptography and public key cryptography.
+ To have knowledge of the prominent techniques for public-key cryptosystems and digital signature
+schemes e.g. RSA, ElGamal, EC.
+COURSE CONTENT:
+Module-1
+INTRODUCTION: Security Policies, Model of network security, Security attacks, services and
+mechanisms, OSI security architecture, Classical encryption techniques
+Module-2
+SYMMETRIC KEY CRYPTOGRAPHY: Mathematics of symmetric key cryptography:
+Modular arithmetic, Euclid’s algorithm, Linear Congruence, Matrices, Block ciphers and Stream ciphers,
+Symmetric key ciphers: DES, Differential and linear cryptanalysis, AES, RC4.
+Module-3
+PUBLIC KEY CRYPTOGRAPHY: Mathematics of asymmetric key cryptography: Primes,
+Primality Testing, Factorization, Euler‘s totient function, Fermat‘s and Euler‘s Theorem, Chinese
+Remainder Theorem, Exponentiation and logarithm, Asymmetric Key Ciphers, RSA cryptosystem, Key
+distribution, Key management, Diffie- Hellman key exchange , ElGamal cryptosystem, Elliptic curve
+arithmetic, Elliptic curve cryptography.
+Module-4
+MESSAGE AUTHENTICATION AND INTEGRITY: Authentication function, MAC, Hash
+function, Security of hash function and MAC, SHA, Digital signature and authentication protocols, DSS,
+Entity Authentication: Biometrics, Passwords, Challenge Response protocols- Authentication applications
+– Kerberos.
+Module-5
+SECURITY PRACTICE AND SYSTEM SECURITY: PGP, S/MIME, IP security, Web
+Security, System Security: Intruders – Malicious software – viruses –Firewalls, SSL and TSL.
+28 | P a g e
+
+--- Page 30 ---
+TEXTS/ REFERENCES:
+1. William Stallings, Cryptography and Network Security: Principles and Practice, PHI
+2. Forouzan and Mukhopadhyay, Cryptography and Network Security, McGraw Hill.
+COURSE OUTCOME:
+After the completion of the course, students will:
+CO1: Have an idea about the basics of cryptography.
+CO2: Will understand the difference between private key and public key cryptography.
+CO3: Will have knowledge of different enciphering techniques.
+CO4: Will have knowledge of digital signature, hash function, key exchange, digital certificate, security
+etc.
+CO5: Will get an insight in to message authentication and integrity.
+29 | P a g e
+
+--- Page 31 ---
+Light Wave Technology L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ The objective of this course is to provide an in-depth understanding of optical fiber communication.
+To study various types of light sources, photo detectors, amplifiers in optical communication. To
+understand the basics of Transmission characteristics of an optical fiber and to design and analyze
+optical networks and optical fiber links.
+ To provide an in-depth understanding of optical fiber communication
+ To study various types of light sources, photo detectors, amplifiers in optical communication
+ To understand the basics of Transmission characteristics of an optical fiber.
+ To design and analyze opticalnetworks and optical fiber links.
+COURSE CONTENT:
+Module-1
+Introduction and fiber optics components: optical fiber; optical cables; splices and connectors;
+couplers and dividers
+Module-2
+Optical sources, detectors and displays for communication: LED; semiconductor LASER; PIN,
+APD; CCD; LCD.
+Module-3
+Transmission and detection systems: intensity modulation; direct and coherent detection; S/N ratio; BER;
+WDM.
+Module-4
+LIDAR and its applications. Optical space communication.
+Module-5
+Application of fiber optics systems.
+Module-6
+Broadband technology: fiber optics links – design and systems; application of light wave technology to
+microwaves
+TEXTS/ REFERENCES:
+1. J. M. Senior, “Optical Fiber Communications: Principles and Practice”, Pearson Education India
+2. G. Keiser, “Optical Fiber Communication”, McGraw Hill India.
+3. T. L. Singal, “Optical Fiber Communications: Principles and Applications”, Cambridge University Press
+30 | P a g e
+
+--- Page 32 ---
+4. M. Alhaider, “Optical Fiber Communications”, Notion Press
+5. C. K. Sarkar and D. C. Sarkar, “Optoelectronics and Fiber Optic Communication”, New Age
+International
+6. J. Franz and V. K. Jain, “Optical Communication System”, Narosa Pub. House
+7. M. Young, “Optics and Lasers including Fibres and Optical Waveguides”, Springer
+COURSE OUTCOME:
+The student after undergoing this course will be able to:
+CO1: Working and design of Optical fiber cables, fiber alignment and splicing Techniques
+CO2: Understand the basics of Transmission characteristics and the concept of absorption losses and
+Dispersion.
+CO3: Understand the construction and working of Optical sources- LEDs and LASERs
+CO4: Design and analysis of Optical networks and Optical fiber link design
+31 | P a g e
+
+--- Page 33 ---
+MIMO Communication Systems L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To provide a comprehensive coverage of MIMO communication systems.
+ To introduce the coding techniques used in MIMO systems and their performance analysis.
+ To apply the concepts in analysis and design of MIMO Communication Systems.
+Module-1
+Overview of MIMO communications: Introduction to MIMO, Introduction to Spatial Diversity and
+Spatial Multiplexing, MIMO capacity formula, MIMO System Model. Application of MIMO Capacity.
+Module-2
+Phenomenology of multipath channels, Power law propagation, Impulse response of a multipath
+channel, intrinsic multipath channel parameters, Classes of multipath channels, Statistics of small-scale
+fading.
+Module-3
+MIMO channels in LOS geometry, Antenna spacing and scattering angle, Alamouti Coding and
+Space-time Coding: Maximal ratio receive combining(MRRC), Maximum likelihood decoding in MRRC
+and Alamouti receivers, Performance results, Space-time coding.
+Module-4
+Spatial Multiplexing: Overview of spatial multiplexing, BLAST architecture, Broadband MIMO,
+Narrowband and Broadband MIMO channel estimation
+TEXTS/ REFERENCES:
+1. Jerry R. Hampton, Introduction to MIMO Communications, Cambridge University Press.
+2. Bliss and S. Govindasamy, Adaptive Wireless Communications: MIMO Channels and Networks,
+Cambridge University Press
+3. Simon Haykin, Michael Moher, Modern Wireless Communications, Pearson.
+4. Andrea Goldsmith, Wireless Communication, Cambridge University Press.
+5. Jafarkhani, Space-Time Coding: Theory and Practice, Cambridge University Press
+COURSE OUTCOME:
+32 | P a g e
+
+--- Page 34 ---
+CO1: Design precoders for MIMO communication systems.
+CO2: Design MIMO communication transceivers with and without channel state information.
+CO3: Design space time codes for MIMO systems.
+CO4: Analyze and design optimum MIMO Communication systems for given channel conditions.
+33 | P a g e
+
+--- Page 35 ---
+Department of Electronics & Communication Engineering 2021
+Optical Communication Systems L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To provide an in-depth understanding of optical fiber communication.
+ To study various types of light sources, photo detectors, amplifiers in optical communication.
+ To understand the basics of Transmission characteristics of an optical fiber and to design and analyze
+optical networks and optical fiber links.
+COURSE CONTENT:
+Module-1
+Fundamentals of coherent systems: Basic concepts. Modulation and demodulation schemes.
+System performance.
+Module-2
+Semiconductor optical amplifiers. EDFA and Raman amplifiers – modeling and analysis, Analysis
+and digital transmission with high power fiber amplifiers.
+Module-3
+Multichannel systems: WDM light wave systems, TDM and code division multiplexing,
+Advances in wavelength division multiplexing / demultiplexing technologies.
+Module-4
+SONET/SDH, ATM, IP, storage area networks. Wavelength routed networks. Next generation
+optical Internets.
+Module-5
+Soliton systems: Nonlinear effects, Soliton – based communication. High speed and WDM
+soliton systems, Fiber based grating, Broadband.
+TEXTS/ REFERENCES:
+1. G.P.Agrawal, “Fiber Optic Communication Systems (4/e)”, Wiley, 2010
+2. B.P.Pal , “Guided Wave Optical Components and Devices”, Elsevier , 2006
+3. C.S.Murthy&M.Gurusamy, “WDM Optical Networks”, PHI, 2002
+4. R.Ramaswami, K.N. Sivarajan, “Optical Networks”, (2/e), Elsevier, 2002.
+5. J.M. Senior, Optical Fiber Communications: Principles and Practice, Pearson
+6. A Selvarajan, S. Kar, T. Srinivas, “Opticl fiber communication principles and systems”, Tata McGraw
+Hill, 2005.
+34 | P a g e
+
+--- Page 36 ---
+Department of Electronics & Communication Engineering 2021
+COURSE OUTCOME:
+At the end of the course student will be able
+CO1: Understand the modulation and demodulation schemes in the coherent optical systems.
+CO2: Understand the various types of the optical amplifiers
+CO3: Analyze various multiplexing techniques used and evaluate the recent advances in this field
+CO4: Compare the merits and demerits, potential applications of microwave semiconductor devices.
+CO5: Analyze the operating principle of WDM solutions systems.
+35 | P a g e
+
+--- Page 37 ---
+Department of Electronics & Communication Engineering 2021
+Electromagnetic Metamaterials L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand the principles of Metamaterials
+ To apply the concepts in design of Metamaterial components
+COURSE CONTENT:
+Module-1
+Definition of Metamaterials & Left handed materials, Theoretical Speculation by Viktor Veselago,
+Conventional backward waves & Novelty of LH MTMs, Terminology, Transmission Line Approach
+Composite right & Left handed(CRLH) MTMs, MTMS & Photonic Band Gap Structures(PBG), Historical
+Germs of MTMs.
+Module-2
+Fundamentals of LH MTMs: Left handedness from Maxwell’s Equations, Entropy condition in
+dispersive media, boundary Conditions, Reversals of Doppler Effect, Radiation, Snell’s Law,
+Convergence & Divergence in Convex & Conclave Lenses. Sub wavelength Diffraction.
+Module-3
+TL Theory of MTMLs: Ideal Homogeneous CRLH TLs, LC Network Implementation, Real
+Distributed1D CRLH Structures, Transmission Characteristics, Conversion to Constitutive Parameters.
+Two Dimensional MTMs : Eigen Value Problem, Driven Problem by the Transmission Matrix
+Method(TMM), Transmission Line Matrix Modelling(TLM), Negative Refractive Index(NRI) Effects,
+Distributed 2D Structures, Guided Wave applications, Radiated wave applications.
+Module-4
+Guided-Wave Applications - Dual-Band Components: Dual-Band Property of CRLH TLs - Quarter
+wavelength TL and Stubs - Passive Component Examples: Quadrature Hybrid and Wilkinson Power
+Divider - Enhanced-Bandwidth Components: Principle of Bandwidth Enhancement - Rat-Race Coupler
+Example .Tight Edge-Coupled Coupled-Line Couplers (CLCs): Generalities on Coupled-Line Couplers -
+TEM and Quasi-TEM Symmetric Coupled-Line Structures with Small Interspacing: Impedance Coupling
+(IC) - Non- TEM Symmetric Coupled-Line Structures with Relatively Large Spacing: Phase Coupling (PC)
+- Summary on Symmetric Coupled-Line Structures - Asymmetric Coupled-Line Structures -Advantages of
+MTM Couplers - Symmetric Impedance Coupler - Radiated-Wave Applications and examples - Uniform
+and Periodic Leaky-Wave Structures - “Real-Artificial” Materials: the Challenge of Homogenization –
+Special Topics of Interest.
+36 | P a g e
+
+--- Page 38 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. N. Engheta , R. W. Ziolkowski, Metamaterials: Physics and Engineering Explorations, John Wiley
+2. F. Capolino, Theory and Phenomena of Metamaterials, CRC Press
+3. C. Caloz, T. Itoh, Electromagnetic Metamaterials: Transmission Line Theory and Microwave
+Applications, Wiley IEEE Press
+COURSE OUTCOME:
+CO1: Learn and understand the principles of Metamaterials
+CO2: Understand the theory of Transmission line theory of Metamaterials.
+CO3: Learn the applications of and Principles of two dimensional MTMs.
+CO4: Learn the principles of Guided Wave Applications of MTMs.
+CO5: Learn the principles coupling theory and its applications in MTMs.
+37 | P a g e
+
+--- Page 39 ---
+Department of Electronics & Communication Engineering 2021
+Advanced Control System L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To study state variable approach for the analysis of control system
+ To learn testing techniques for controllability and observability of a given system
+ To acquire knowledge to design pole placement and state observer using state feedback
+ To understand describing function and phase plane analysis of non-linear system.
+ To study the analysis of non-linear system using Lyapunov function.
+ To learn the concept of various linearization techniques.
+COURSE CONTENT:
+Module- 1: State Space Analysis:
+Introduction, State variable modelling, decomposition, solutions of state equations, state transition
+matrix, Linear Transformations, Controllability & Observability, Pole-placement and Observer design.
+Module- 2: Non-Linear System:
+Classification of non-linearity, types of non-linearity in physical system, jump resonance, methods
+of analysis of non-linear systems, linearization.
+Module- 3 : Phase Plane Analysis:
+Concept of phase plane, phase trajectory, phase portraits, methods of plotting phase plane
+trajectories, Vander Pol’s equation, limit cycle.
+stability from phase portrait, time response from trajectories, isoclines method, Pell's method of phase
+trajectory, Delta method of phase trajectory construction.
+singular points, Classification of singular points.
+Module- 4: Describing function analysis:
+Fundamentals, computation of Describing function, describing functions of common non-
+linearities, Describing function method for stability analysis.
+Module- 5: Lyapunov Stability Analysis:
+Asymptotic stability, global stability, Concepts of definiteness, Lyapunov Stability theorem,
+stability analysis by Lyapunov direct method, Lyapunov function, generation of Lyapunov function.
+Module-6: Nonlinear Control Design:
+Feedback linearization, Input Output linearization, sliding mode control
+TEXTS/ REFERENCES:
+38 | P a g e
+
+--- Page 40 ---
+Department of Electronics & Communication Engineering 2021
+1. Gopal - Modern Control System Theory, New Age International
+2. John Doyle, Bruce Francis & Allen Tannenbaum - Feedback Control Theory, Macmillan Publishing
+Co.
+3. Tan, J - Modern Control Theory, Mc. Grawhill.
+4. Ogata K - Modern Control Engg. PHI
+5. Kuo B.C - Automatic Control System, PHI
+6. Dorf R C & Bishop R.H - Modern Control System, Addison – Wisley.
+7. Nagrath I J &Gopal M - Control Systems Engineering, New Age International Pub.
+8. Hassan K. Khalil - Nonlinear systems, 3rd edition, Prentice Hall, 2002.
+9. Stanislaw H. Zak - Systems and Control.
+COURSE OUTCOME:
+CO1: Acquire knowledge to develop state models of a system and find solution of state equations for the
+system.
+CO2: Ability to test a system for controllability and observability.
+CO3: Ability to design pole placement and state observer with the help of state feedback.
+CO4: Acquire knowledge to analyse non-linear system behaviour by describing function and phase plane
+techniques.
+CO5: Acquire knowledge to perform stability analysis of non-linear system using Lyapunov function.
+CO6: Ability to apply linearization techniques in the analysis of non-linear systems
+39 | P a g e
+
+--- Page 41 ---
+Department of Electronics & Communication Engineering 2021
+Digital Control System L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To introduce control theory in the analysis and design of computer-controlled system.
+ To acquire knowledge on pulse transfer function and their analysis.
+ To study stability concepts in discrete domain.
+ To introduce state variable approach in discrete domain.
+ To acquire knowledge about the design techniques of Digital controller.
+ To study PID controller in discrete domain.
+COURSE CONTENT:
+Module- 1: Introduction to Discrete time control
+Features of Discrete time control system, Structure of a computer-controlled system, Signal processing
+in discrete time control.
+Module- 2 : Modeling of discrete-time systems
+Review of Z-transform, Mapping of S-plane to Z transform, Pulse transfer function, Pulse transfer function
+of closed loop system
+Module- 3: Stability analysis of discrete time systems
+Jury stability test, Stability analysis by use of the Bi-linear transformation and Routh stability criterion,
+Root locus
+Module- 4: Design of Discrete time control system
+Transient and steady state response analysis, design based on the frequency response method, Bi-linear
+transformation and design procedure in the W-plane.
+Module- 5: State Space representation of discrete-time system
+Discrete state space model, Pulse transfer function matrix solving discrete time state space equations, state
+transition matrix, Discretization of continuous time state space equations, Controllability, observability.
+Module- 6: State feedback design
+Pole placement by State feedback, State estimator
+Module- 7 : Design of Controller in discrete domain
+Digital controllers, Digital PID controller, Dead beat control design
+40 | P a g e
+
+--- Page 42 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. B. C. Kuo, “Digital Control Systems”, 2nd Edition, Oxford University Press, 2003.
+2. K. Ogata, “Discrete-Time Control systems”, 2nd Edition. PHI, 2002.
+3. M. Gopal, “Digital Control and State Variable Methods”, 3rd Edition, TMH, Sep-2008.
+4. M. Gopal, “Modern Control Systems Theory”, Wiley Eastern, 1984
+5. M. Gopal, “Digital control engineering”, New Age International Publications, 2003
+6. Kannan M.Moddgalya, Digital Control, Wiley India, 2007.
+COURSE OUTCOME:
+CO1: Acquire knowledge to understand the concepts of digital control system.
+CO2: Ability to analyse the stability of discrete time system.
+CO3: Acquire knowledge to analyse digital control system using transform techniques.
+CO4: Ability to analyse and design discrete time system using state space method
+CO5: Ability to design digital controller.
+41 | P a g e
+
+--- Page 43 ---
+Department of Electronics & Communication Engineering 2021
+Advanced Microwave Circuits L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand the basics of transmission lines & Waveguides.
+ To familiarize with principle of various microwave circuits.
+ To study Impedance transformers.
+ To familiarize with Power Dividers, Couplers and filters.
+ To understand the basics of Resonator circuits.
+COURSE CONTENT:
+Module-1
+Transmission Lines and Waveguides: Review of TEM, TE, and TM mode solutions of Maxwell’s
+equations; TEM mode transmission lines: lossless line, line with small losses, power flow in a terminated
+line; Quasi- TEM mode lines: Fields in microstrip lines and strip lines, losses in microstrips, microstrip
+discontinuities, coupled lines, slot lines and coplanar waveguides; Surface waveguides: Surface waves
+along an impedance plane, dielectric-coated conducting plane, slab waveguide, corrugated plane; Wave
+velocities.
+Module-2
+Microwave Circuit Theory Principles: Equivalent voltages and currents; Z, Y, S, and ABCD
+parameters; Equivalent circuit representation of microwave junctions; Scattering parameter analysis of
+microwave junctions; Coupling of waveguides through probes, loops, and apertures.
+Module-3
+Impedance Transformers: Review of single-, double- and triple-stub tuners, waveguide reactive
+elements, quarter-wave transformers, design of maximally flat and Chebyshev transformers; Introduction
+to tapered transmission lines.
+Module-4
+Power Dividers and Couplers: Scattering matrix of 3- and 4-port junctions; Design of T-junction
+Filters: Analysis of periodic structures, Floquet’s theorem, filter design by insertion loss method,
+maximally flat and Chebyshev designs.
+Module-5
+Resonators: Principles of microwave resonators, loaded, unloaded and external Q, open and
+shorted TEM lines as resonators, microstrip resonators, dielectric resonators.
+42 | P a g e
+
+--- Page 44 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. S. L. Liao, Microwave Devices and Circuits, Pearson
+2. D.M. Pozar, Microwave Engineering, John Wiley
+3. R.E. Collin, Foundations for Microwave Engineering, John Wiley
+4. S. Das, Microwave Engineering, Oxford University Press
+COURSE OUTCOME:
+CO1: Explain different types of waveguides and their respective modes of propagation.
+CO2: Analyze typical microwave networks using impedance, admittance, transmission and scattering
+matrix representations.
+CO3: Design microwave matching networks using L section, single and double stub and quarter wave
+transformer.
+CO4: Explain working of microwave passive circuits such as isolator, circulator, Directional couplers,
+attenuators etc.
+43 | P a g e
+
+--- Page 45 ---
+Department of Electronics & Communication Engineering 2021
+Fundamentals of Antenna and L-3 T-1 P-0 4 credits
+Design
+COURSE OBJECTIVE:
+ The objective of this course is to provide a detailed idea of antenna parameters and numerical
+methods to analyze and differentiate the antennas. The student will learn and understand radio wave
+propagation concepts and radiation mechanism of various antennas and practical antenna design
+for various applications.
+ To understand the basics of antenna parameter.
+ To familiarize with different types of antennas.
+ To study antenna array and beam pattern.
+ To familiarize with the theory of radio wave propagation.
+ To understand the basics of link budget in communication system.
+COURSE CONTENT:
+Module-1
+Antenna parameters; radiation from wires and loops; infinitesimal dipole; finite-length dipole;
+linear elements near conductors; small circular loop.
+Module-2
+Aperture antenna: Huygens’ Principle; radiation from rectangular and circular apertures; design
+considerations; Fourier transform method in aperture antenna theory.
+Module-3
+Horn and reflector antennas: radiation from sectoral and pyramidal horns; design techniques;
+parabolic reflector.
+Module-4
+Printed antenna: basic characteristics; feeding methods; methods of analysis; design of rectangular
+and circular patch antennas; bandwidth enhancement techniques.
+Module-5
+Antenna arrays and beam forming, beam pattern: analysis and synthesis; dielectric resonator
+antennas; ultra wideband antennas; active antennas; antenna measurements.
+44 | P a g e
+
+--- Page 46 ---
+Department of Electronics & Communication Engineering 2021
+Module-6
+Radio wave propagation: Antenna located over flat and spherical earth; coverage diagram, it’s
+application and interference formulas. Modes of propagation: LOS and radio horizon; non-LOS propagation
+– indirect, tropospheric and ionospheric propagation; propagation effects as a function of frequency. Need
+for modeling propagation; model selection and application.
+Module-7
+Communication systems and link budget. Atmospheric effects; fading and multipath
+characterization; indoor and outdoor propagation model; microwave and mm wave propagation and rain
+drop attenuation.
+TEXTS/ REFERENCES:
+1. C.A. Balanis, “Antenna Theory: Analysis and Design’, Wiley
+2. J.D Kraus, R. J. Marhefka and A. Khan, Antennas and Wave Propagation, MGH
+3. R. S. Elliot, “Antenna Theory and Design”, Wiley
+4. S. R. Saunders and A. R. Zavala, “Antennas and Propagation for Wireless Communication Systems”,
+Wiley
+5. W. A. Stutzman and G. A Thiele, “Antenna Theory and Design”’ Wiley
+6. R. Garg, P.Bhartia, I. Bhal, A. Ittipiboon, Microstrip Antenna Design Handbook, Artech
+House
+7. R. E. Collin, “Antenna and Radio Wave Propagation”, McGraw Hill
+COURSE OUTCOME:
+CO1: Define various antenna parameters.
+CO2: Analyze radiation patterns of antennas.
+CO3: Analyze radiation patterns of antennas
+CO4: Illustrate techniques for antenna parameter measurement.
+45 | P a g e
+
+--- Page 47 ---
+Department of Electronics & Communication Engineering 2021
+46 | P a g e
+
+--- Page 48 ---
+Department of Electronics & Communication Engineering 2021
+Remote Sensing and Navigational L-3 T-1 P-0 4 credits
+Systems
+COURSE OBJECTIVE:
+ To familiarize with the principle of Radar system.
+ To study the basics of remote sensing.
+ To understand the basics of satellite communications and different satellite
+communication orbits
+ Provide an in-depth understanding of satellite communication system operation,
+launching techniques, satellite link design and earth station technology.
+ To understand the basics of satellite based navigational systems.
+COURSE CONTENT:
+Module-1
+Radar: Introduction; basic radar range equation and modification; CW, FM and pulsed radar; MTI and
+pulsed Doppler radars; scanning and tracking radars; receiver; duplexer; display systems; ambiguity
+diagram; pulse compression; radar antennas; ECM and ECCM .
+Module-2
+Remote sensing: Overview, earth’s atmosphere; land surface; oceans; land and sea ice; radiation budget;
+climate; radar altimeters; synthetic aperture radars (SAR); wind scatterometers; multispectral imaging; IR
+and microwave radiometers; concept of GIS.
+Module-3
+Satellite System: Kepler’s Laws, Newton’s law, orbital parameters, orbital perturbations, station keeping,
+geo stationary and non-Geo-stationary orbits –Limits of visibility – Structure, Primary power, Attitude and
+Orbit control, Thermal control and Propulsion, communication Payload and supporting subsystems.
+Module-4
+Satellite communication: Telemetry, Tracking and command-Transponders-Basic link analysis,
+Interference analysis, Ionospheric characteristics, Link Design with and without frequency reuse,
+INTELSAT Series, INSAT, VSAT, Mobile satellite services: GSM, GPS, INMARSAT, LEO, MEO,
+Satellite Navigational System. GPS Position Location Principles, Differential GPS, Direct Broadcast
+satellites (DBS/DTH).
+Module-5
+Satellite based navigational systems: Electronic navigation systems – global and regional; concepts of
+satellite based navigation systems – GPS, GLONASS, Galileo, Beidou, QZSS, NaVIC; code and carrier
+phase based measurement techniques; augmentation; relative positioning – DGPS, RTK; Precise Point
+Positioning (PPP); Satnav applications.
+47 | P a g e
+
+--- Page 49 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. MerillSkolnik; Introduction to Radar Systems, 3rd Edition; Tata McGraw Hill
+2. Satellite Communication- T. Pratt & W. Boston
+3. Satellite Communication- Roddy
+4. Fundamental of Remote Sensing, Noam Levin
+5. James B. Campbell & Randolph H. Wynne., Introduction to Remote Sensing, The Guilford Press
+COURSE OUTCOME:
+CO1: Understand the working principle of various RADAR techniques
+CO2: Explain the concepts, methodologies and applications of Remote Sensing.
+CO3: Understand satellite system
+CO4: Illustrate techniques and concepts of satellite-based navigation systems.
+48 | P a g e
+
+--- Page 50 ---
+Department of Electronics & Communication Engineering 2021
+Optoelectronic Devices & Circuits L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To familiarize with the principle of optical systems.
+ To study basics of semiconductor Optoelectronics.
+ To study the basics of Photo detector, Optical Wave Guide and Optical Amplifier.
+ To understand the basics of optical passive and active device, Filters etc.
+COURSE CONTENT:
+Module 1:
+Introduction: Generic Optical Systems and Fundamental Building Blocks.
+Module 2:
+Basics of Semi-conductor Optoelectronics: Elemental and Compound Semiconductors.
+Module 3:
+Electronic Properties and Optical Processes in Semiconductors, P-N Junction Theory, LEDs and Photo
+detectors.
+Module 4:
+Heterostructures, Confinement of Electron Waves, Optical Waveguides and Guided Modes.
+Module 5:
+Semiconductor Optical Amplifiers and Fabry-Perot Lasers, Coupled Mode Theory, DBR and DFB Lasers.
+Module 6:
+Silicon Photonics: Integrated Optical Passive and Active Components. Tunable Filters, Delay-Lines and
+Switching Circuits in SOI Platform. CMOS Technology: Electrical vs. Optical Interconnects.
+TEXTS/REFERENCES:
+1. Pallab Bhattacharya, Semiconductor Opto-Electronic Devices, Prentice Hall of India.
+2. Yariv and P. Yeh, Photonics - Optical Electronics in Modern Communications, Oxford University
+Press.
+M. Jamal Deen and P.K. Basu, Silicon Photonics - Fundamentals and Devices, John Wiley & Sons Ltd.
+49 | P a g e
+
+--- Page 51 ---
+Department of Electronics & Communication Engineering 2021
+COURSE OUTCOME:
+At the end of this course the students should be able to
+CO1: Develop a basic understanding on the key concepts in quantum and statistical mechanics relevant to
+physical, electrical and optoelectronic properties of materials and their applications to optoelectronic
+devices and photonic integrated circuits that emit, modulate, switch, and detect photons.
+CO2: Become proficient with the fundamental and applied optoelectronic device physics and its
+applications.
+CO3: Learn to analyze optoelectronic device characteristics in detail and brainstorm ways towards
+improving them or adapting them to new applications.
+CO4: Illustrate applications of quantum and statistical mechanics in opto electronic devices and photonic
+integrated circuits that emit, modulate, switch, and detect photons.
+50 | P a g e
+
+--- Page 52 ---
+Department of Electronics & Communication Engineering 2021
+LASER Science & Technology L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To prepare the students understand fundamental physics behind laser light radiation
+ To enable students familiar with Solid state, gas and semiconductor lasers
+ How to generate ultra short laser pulses
+COURSE CONTENT:
+Module-1
+Laser fundamentals: Spontaneous and stimulated emission, absorption, Einstein’s coefficients, active
+medium, population inversion, laser-pumping, laser gain, metastable state, condition for light amplification,
+Optical resonator, Solid state laser: Ruby laser, Nd:YAG laser,
+Module-2
+Liquid lasers: Principle and main components of laser, levels of laser action, continuous wave lasers,
+construction and working of dye laser.
+Gas Laser: Principle, working and usefulness of gas laser, He-Ne laser, lasing action in Ion lasers.
+Module-3
+Semiconductor laser: Characteristics of semiconductor lasers, semiconductor diode lasers construction and
+operation of ion lasers.
+Laser fabrication, Laser in optical communication: Optical source for fiber optical communication, essential
+characteristics of laser in fibre optic communication.
+Module-4
+Fundamentals of Nonlinear Optics: Nonlinear Wave Propagation, Second Harmonic Generation, Phase
+Matching, Q-switching, mode locking.
+TEXTS/REFERENCES:
+1. Laser Fundamentals, 2nd Edition, William T. Silfvast
+2. Lasers- Fundamentals & Applications, 2nd Edition, K. Thyagarayan and Ajay Ghatak
+3. G.P.Agarwal, Nonlinear Fiber Optics, 4th edition, Academic
+51 | P a g e
+
+--- Page 53 ---
+Department of Electronics & Communication Engineering 2021
+COURSE OUTCOME:
+CO1: Understand the special characteristics of laser light and optical resonator function
+CO2: Understand constructional features of different types of Lasers
+CO3: Compare different ultra-short laser pulse generation
+CO4: Explore laser fabrication and its various applications
+52 | P a g e
+
+--- Page 54 ---
+Department of Electronics & Communication Engineering 2021
+Metaheuristic Algorithms& their applications L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ Understanding computational intelligence techniques and methods, particularly
+metaheuristic algorithms for optimization problem
+ Learning the use of software tools which are specific for computational intelligence.
+ Ability to conduct research activity and to prepare reports on a given topic.
+COURSE CONTENT:
+Module-1
+Introduction:
+Classes of difficult problems (planning, assignment, selection, adaptation, prediction) and
+corresponding search spaces, classes of metaheuristics, overall structure of a metaheuristic
+algorithm.
+Module-2
+Overview of Heuristic and Meta-Heuristic Search:
+Deterministic local search (Pattern Search, Nelder Mead), Random local search (Matyas and Solis-Wets
+algorithms), Global search (restarted local search, iterated local search, simulated annealing, tabu search,
+variable neighborhood search etc).
+Module-3
+Population-based metaheuristics:
+Overall structure, Main components (exploration and exploitation operators), Operators for evolutionary
+algorithms: mutation, crossover, selection, Encoding types, Genetic algorithms, evolution strategies,
+evolutionary programming, genetic programming.
+Swarm Intelligence: Ant colony optimization, Particle swarm optimization, Artificial bee colony.
+Difference-based and Probabilistic Algorithms: Differential Evolution, Population Based Incremental
+Learning, Estimation of Distribution Algorithms, Bayesian Optimization Algorithms.
+Module-4
+Scalability of Metaheuristic Algorithms: Cooperative coevolution, Parallel models for population-based
+metaheuristics
+Multi-objective/ multi-modal/ dynamic optimization:
+Particularities of multi-objective optimization (non-domination, Pareto front etc), Apriori and aposteriori
+techniques, Quality metrics, Multi-modal optimization and specific approaches (niching, sharing etc),
+Techniques for dynamic optimization (hyper-mutation, random immigrants, ageing mechanisms).
+Applications of metaheuristic algorithms in engineering.
+53 | P a g e
+
+--- Page 55 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. Mohammad Solgi, Hugo A. Loáiciga, OmidBozorg-Haddad, Meta-heuristic and Evolutionary
+Algorithms for Engineering Optimization, Wiley
+2. Ke-Lin Du, M. N. S. Swamy, Search and Optimization by Metaheuristics: Techniques and Algorithms
+Inspired by Nature, Birkhauser
+3. Xin-She Yang, Nature-Inspired Optimization Algorithms, Elsevier
+COURSE OUTCOME:
+CO1: Present basic principles of metaheuristic techniques.
+CO2: Identify& apply the appropriate technique to a given problem.
+CO3: Implement and validate a computational model based on metaheuristic algorithms
+CO4: Present examples of metaheuristics for global, multi-modal, multi-criteria and dynamic
+optimization.
+CO5: Solve a real-world problem using computational intelligence tools.
+54 | P a g e
+
+--- Page 56 ---
+Department of Electronics & Communication Engineering 2021
+Electromagnetic Interference & Compatibility L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To familiarize with the fundamentals that are essential for electronics industry in the field of EMI /
+EMC
+ To understand EMI sources and its measurements
+ To understand the various techniques for electromagnetic compatibility.
+ Acquire broad knowledge of various EM radiation measurement techniques.
+ Model a given electromagnetic environment/system so as to comply with the standards.
+COURSE CONTENT:
+Module-1
+Introduction, Natural and Nuclear Sources of EMI / EMC: Electromagnetic environment, History,
+Concepts, Practical experiences and concerns, frequency spectrum conservations, An overview of EMI /
+EMC, Natural and Nuclear sources of EMI.
+Module-2
+EMI from Apparatus, Circuits and Open Area Test Sites: Electromagnetic emissions, Noise from relays
+and switches, Non-linearity in circuits, passive inter modulation, Cross talk in transmission lines, Transients
+in power supply lines, Electromagnetic interference (EMI), Open area test sites and measurements.
+Module-3
+Radiated and Conducted Interference Measurements and ESD: Anechoic chamber, TEM cell, GH TEM
+Cell, Characterization of conduction currents / voltages, Conducted EM noise on power lines, Conducted
+EMI from equipment, Immunity to conducted EMI detectors and measurements, ESD, Electrical fast
+transients / bursts, Electrical surges.
+Module-4
+Grounding, Shielding, Bonding, and EMI filters: Principles and types of grounding, Shielding, and bonding,
+Characterization of filters, Power lines filter designs.
+Module-5
+Cables, Connectors, Components and EMC Standards: EMI suppression cables, EMC connectors, EMC
+gaskets, Isolation transformers, optoisolators, National / International EMC standards.
+55 | P a g e
+
+--- Page 57 ---
+Department of Electronics & Communication Engineering 2021
+TEXTS/ REFERENCES:
+1. Dr. V.P. Kodali, IEEE Publication, Engineering Electromagnetic Compatibility,S. Chand &
+Co. Ltd.
+2. Clayton R. Paul, Introduction to Electromagnetic Compatibility, Wiley
+3. Henry W. Ott , Electromagnetic Compatibility Engineering, Wiley
+COURSE OUTCOME:
+CO1: Designing electronic systems that function without errors or problems related to electromagnetic
+compatibility.
+CO2: Diagnose and solve basic electromagnetic compatibility problems.
+CO3: Real-world EMC design constraints and make appropriate tradeoffs to achieve the most cost-effective
+design that meets all requirements.
+CO4: Understand the effect of EM noise in system environment and its sources.
+CO5: Identifying of EMI hotspot and various techniques like Grounding, Filtering, Soldering, etc
+56 | P a g e

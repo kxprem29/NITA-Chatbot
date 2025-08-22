@@ -1,0 +1,82 @@
+
+--- Page 1 ---
+Information Regarding Research & Publications
+Number of publications:
+Sl. Name of the International National Books
+Conference Books
+No.
+faculty Journal Journal Chapter
+International: 02
+1 Dr. Abhijit Baidya 19 00 00 00
+National: 00
+Publication Details: Dr. Abhijit Baidya
+2022
+1. Baidya, A., Bera, U. K., Maiti, M., “Restricted Multi-Objective Solid Transportation
+Problem with Budget Constraint Involving Stochastic Variable & Interval Type-2 Fuzzy
+Number, New Mathematics & Natural Computation, 18(3), 747-773 (2022).
+2021
+2. Baidya, A., “Application of Grey Number to solve Multi-Stage Supply Chain
+Networking Model”, International Journal of Logistics Systems and Management,
+Accepted, accepted date: 29.09.2021.
+3. Baidya, A., Bera, U. K. and Maiti, M., “Restricted Multi-objective Solid
+Transportation Problem with Budget Constraint involving Stochastic Variable and
+Interval Type-2 Fuzzy Number”, New Mathematics and Natural Computation,
+Accepted.
+2019
+4. Baidya, A. and Bera, U. K., “Solid Transportation Problem under Fully Fuzzy
+Environment”, International Journal of Mathematics in Operational Research, 15(4), 498 -
+539(2019).
+5. Baidya, A., “Stochastic Supply Chain Transportation Models
+Implementations and Benefits”, OPSEARCH, 56(2), 432–476(2019).
+6. Baidya, A. and Bera, U. K. “New Model for Addressing Supply Chain and Transport
+Safety for Disaster Relief Operations”, Annals of Operations Research, 283, 33–69
+(2019).
+2018
+7. Baidya, A., Bera, U. K. and Maiti, M., “Multi-item Multi-stage transportation
+problem with Breakability”, International Journal of Operational Research, 31(4),
+510 – 544 (2018).
+
+--- Page 2 ---
+2017
+8. Baidya, A., Bera, U. K. and Maiti, M., “Models for solid transportation problems in
+logistics using particle swarm optimisation algorithm and genetic algorithm”,
+International Journal of Logistics Systems and Management, 27(4), 487-526(2017).
+2016
+9. Baidya, A., Bera, U. K. and Maiti, M., “Uncertain Multi-Objective Restricted Solid
+Transportation Problem with Budget and Vehicle Cost”, U.P.B. Sci. Bull., Series C,
+78(1), 161-174(2016).
+10. Baidya, A., Bera, U. K. and Maiti, M., “Multi-Stage Multi-Objective Solid
+Transportation Problem for Disaster Response Operation with Type-2 Triangular
+Fuzzy Variables”, Hacettepe Journal of Mathematics and Statistics, 45(5), 1485-
+1518(2016).
+11. Baidya, A., Bera, U. K. and Maiti, M., “The Grey Linear Programming Approach
+and its Application to Multi-Objective Multi-Stage Solid Transportation Problem”,
+OPSEARCH, 53(3), 500–522(2016).
+2015
+12. Baidya, A., Bera, U. K. and Maiti, M., “Breakable Fuzzy Multi-stage Transportation
+Problem” Journal of Operations Research Society of China, 3(1), 53-67 (2015).
+2014
+13. Baidya, A., Bera, U. K. and Maiti, M., “Interval Oriented Entropy Based Multi-item
+Solid Transportation Problem with Budget and Breakability”, International Journal of
+Applied and Computational Mathematics, 1(1), 279–292(2014).
+14. Baidya, A., Bera, U. K. and Maiti, M., “Breakable Solid Transportation Problem
+with Hybrid and Fuzzy Safety Factors Using LINGO and Genetic Algorithm”,
+Journal of Applied and Computational Mathematics, 3(1), 1-12(2014).
+15. Das, A, Baidya, A., Bera, U. K. , “An Interval Solid Transportation Problem with
+Vehicle Cost, Fixed Charge and Budget”, International Journal of Mathematics and
+Scientific Computing, 4(1), 28-32(2014).
+16. Baidya, A., Bera, U. K. and Maiti, M., “An interval valued solid transportation
+problem with budget constraint in different interval approaches”, Journal of
+Transportation Security, 7(2), 147-155(2014).
+
+--- Page 3 ---
+2013
+17. Baidya, A., Bera, U. K. and Maiti, M., “Solution of multi-item interval valued solid
+transportation problem with safety measure using different methods”, OPSEARCH,
+51 (1), 1-12 (2013)
+18. Baidya, A., Bera, U. K. and Maiti, M., “Multi-item interval valued solid
+transportation problem with safety measure under fuzzy-stochastic environment”,
+Journal of Transportation Security, 6(1), 151-174 (2013).
+19. Baidya, A., Bera, U. K. and Maiti, M., “A solid transportation problem with safety
+factor under different uncertainty environments”, Journal of Uncertainty Analysis
+and Applications, 1(18), 1-22 (2013).

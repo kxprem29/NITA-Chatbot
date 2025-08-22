@@ -1,0 +1,2547 @@
+
+--- Page 1 ---
+Syllabus of B.Tech 1st Year
+NIT Agartala
+Semester - I
+Group - I Group - II
+Sl. No Course L T P Credit L T P Credit
+1 Engineering 2 1 0 3 Engineering 2 1 0 3
+Mathematics-I Mathematics-I
+2 Engineering 2 1 0 3 Engineering 2 1 0 3
+Physics-I Physics-I
+3 Engineering 3 0 0 3 Engineering 3 0 0 3
+Chemistry-I Chemistry-I
+4 Basic Electrical 3 0 0 3 Basic Electronics 3 0 0 3
+Engineering
+5 Engineering 3 1 0 4 Disaster 2 0 0 2
+Mechanics Management
+6 Language 3 0 0 3 Introduction to 3 0 0 3
+(Professional Programming
+Communication in
+English)
+7 Engineering 0 0 2 1 Engineering 0 0 2 1
+Chemistry Physics Laboratory
+Laboratory
+8 Workshop Practice 0 0 2 1 Engineering 1 0 2 2
+Graphics
+9 Computer 0 0 2 1
+Programing
+Laboratory
+10 Basic Electrical 0 0 2 1 Basic Electronics 0 0 2 1
+Engineering Laboratory
+Laboratory
+11 NSS/NCC 0 0 3 0 NSS/NCC 0 0 3 0
+Total Credit in Total Credit
+16 3 9 22 16 2 11 22
+1st Sem in 1st Sem
+
+--- Page 2 ---
+Semester - II
+Group - I Group - II
+Sl. No Course L T P Credit L T P Credit
+1 Engineering 2 1 0 3 Engineering 2 1 0 3
+Mathematics-II Mathematics-II
+2 Engineering 2 1 0 3 Engineering 2 1 0 3
+Physics-II Physics-II
+3 Engineering 2 0 0 2 Engineering 2 0 0 2
+Chemistry-II Chemistry-II
+4 Basic Electronics 3 0 0 3 Basic Electrical 3 0 0 3
+Engineering
+5 Disaster 2 0 0 2 Engineering 3 1 0 4
+Management Mechanics
+6 Introduction to 3 0 0 3 Language 3 0 0 3
+Programming (Professional
+Communication in
+English)
+7 Engineering 0 0 2 1 Engineering 0 0 2 1
+Physics Laboratory Chemistry
+Laboratory
+8 Engineering 1 0 2 2 Workshop Practice 0 0 2 1
+Graphics
+9 Computer 0 0 2 1
+Programing
+Laboratory
+10 Basic Electronics 0 0 2 1 Basic Electrical 0 0 2 1
+Laboratory Engineering
+Laboratory
+Total Credit in 2nd 15 2 8 21 Total Credit in 2nd 15 3 6 21
+Sem Sem
+Total First Total First
+43 43
+Year Year
+Credit Credit
+2
+
+--- Page 3 ---
+ENGINEERING PHYSICS-I
+(UPH11B07)
+Total Credit: 03 Contact Periods: 03 (2L+1T+0P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and
+write effective reports and design documentation, make effective presentations, and give
+and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member
+and leader in a team, to manage projects and in multidisciplinary environ-ments.
+3
+
+--- Page 4 ---
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Specify and design prototypes to study physical systems that perform
+electrical/optical/magnetic characterization
+PEO-2 Developing the knowledge of Wave-Mechanical and Optical properties of matter
+PEO-3 Knowledge of basic building block of mechanics
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn and develop their concepts for technological applications.
+PSO-2 Successfully apply the principles, learned as a part of this course, to different
+engineering aspects and practical day to day life.
+PSO-3 Apply optical concepts in practical life.
+Course Objective:
+1. To impart knowledge of basic concepts of applied physics.
+2. To familiarize the students with topics like Electromagnetism, Waves and Oscillations,
+Interference, Diffraction and Polarization.
+3. To provide a balance account of the fundamentals of modern physics.
+4. To familiarize the students with some of the recent developments in these areas, best suited
+to the Engineering applications in different branches.
+5. To develop enhance the problem honing skill in the field of engineering.
+Course Content:
+1. Mathematical Preliminary:
+Vector Differentiation, Scalar and Vector Fields, Directional Derivatives, Vector Differential
+Operator, Gradient, Divergence, Curl, Line, Surface & Volume integrals and their applications,
+Green’s theorem.
+4
+
+--- Page 5 ---
+2. Electromagnetics:
+Gauss’s Theorem of Electrostatics, Ampere’s law, Magnetostatics and laws of Electromagnetic
+Induction, Self and Mutual induction, Concept of Displacement Current, Difference between
+Conduction Current and Displacement Current, Eddy Current, Maxwell’s Equations, Propagation
+of Electromagnetic Waves in Free Space, Solution of propagation of Plane Electromagnetic Wave
+in free space and medium, Eddy Current, Concept of Field Energy (Poynting Vector)
+3. Oscillations & Waves:
+Plane progressive wave, Energy of waves, Reverberation, Sabine’s law(derivation), Damped
+Vibration:-differential equation and solution, critical damping, logarithmic decrement, analogy
+with electrical circuit, Forced damped Vibration, Amplitude and Velocity Resonance, sharpness
+of resonance and quality factor, applications of oscillatory motions.
+4. Interference:
+Coherence (temporal and spatial), Fresnel’s Bi-prism, Conditions for interference, Techniques of
+obtaining interference: Interference of Light due to division of wave front, Interference of Light
+due to division of amplitude; Newton’s Ring, colour of thin film.
+5. Diffraction:
+Types of Diffraction; Fresnel and Fraunhofer, Difference between Interference and Diffraction,
+Zone plate; positive and Negative Zone plates, action of zone plate as a convex lens, Fraunhofer
+Diffraction at a Single Slit and Double slit, Plane transmission diffraction grating spectra,
+Comparison between Prism and Grating Spectra, Resolving Power and limit of resolution,
+Rayleigh’s criterion, Resolving Power of Microscope, Telescope and prism.
+6. Polarization:
+Polarization, types of polarized light, polarizer and analyzer, Effect of polarizer on natural
+light, Effect of analyzer on plane polarized light-Malus Law, Nicol’s Prism; Polaroid,
+Anisotropic crystal; Birefringence, calcite crystal; Huygens’ explanation of double refraction;
+5
+
+--- Page 6 ---
+Huygens’ construction of wave fronts; experimental determination of principal refractive
+indices; phase difference between o – ray and e – ray; superposition of waves linearly polarized
+at right angles; Conditions for obtaining linearly polarized light, circularly polarized light and
+elliptically polarized light, retarders or wave plates; Babinet Compensator.
+Reference Books
+1. D. J. Griffith, Introduction to Electrodynamics, PHI Pubs.
+2. G. B. Arfken and H. J. Weber, Mathematical Methods For Physicists, Elsevier Academic
+Press.
+3. H. J. Pain, The Physics of Vibrations and Waves, John Wiley & Sons Ltd.
+4. A. Ghatak, Optics, Tata Mc Graw Hill
+5. Optics, E. Hecht, Pearson.
+6. F. A. Jenkins and H. E. White, Fundamentals of Optics, Tata Mc Graw Hill
+Course Outcome:
+Understand the concept of electric & magnetic fields for Electromagnetic Wave
+CO-1
+propagation through different media.
+Relate wave nature of light with the physical parameters of wave.
+CO-2
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 2 - - - - - - - - - - 3 2 2
+1
+CO- 3 2 - - - - - - - - - - 2 2 -
+2
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2 PSO-3
+6
+
+--- Page 7 ---
+CO-1 3 4 -
+CO-2 3 3 -
+ENGINEERING PHYSICS-II
+(UPH12B09)
+Total Credit: 03 Contact Periods: 03 (2L+1T+0P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and
+write effective reports and design documentation, make effective presentations, and give
+and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member
+and leader in a team, to manage projects and in multidisciplinary environ-ments.
+7
+
+--- Page 8 ---
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Specify and design prototypes to study physical systems that perform
+electrical/optical/magnetic characterization
+PEO-2 Developing the knowledge of Wave-Mechanical and Optical properties of matter
+PEO-3 Knowledge of basic building block of mechanics
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn and develop their concepts for technological applications.
+PSO-2 Successfully apply the principles, learned as a part of this course, to different
+engineering aspects and practical day to day life.
+PSO-3 Find the difference between Classical domain and Quantum domain.
+Course Objective:
+1. To impart knowledge of basic concepts of applied physics.
+2. To familiarize the students with topics like Quantum Mechanics, Relativity, Concepts of
+solids, LASER and Optical Fibre.
+3. To provide a balance account of the fundamentals of modern physics.
+4. To familiarize the students with some of the recent developments in these areas, best suited
+to the Engineering applications in different branches.
+5. To develop enhance the problem honing skill in the field of engineering.
+Course Content:
+1.Introduction to Quantum Mechanics:
+Blackbody Radiation, Planck’s Radiation Formula, de Broglie’s hypothesis, Davisson
+Germer Experiment, Stern-Gerlach Experiment, Heisenberg’s uncertainty principle
+and its application, Wave packets, Phase velocity and group velocity, probability
+8
+
+--- Page 9 ---
+current density, Operators, Hermitian operators, expectation 1values, Interpretation of
+wave function, Postulates of quantum mechanics, Orthogonal & orthonormal
+functions, Schrödinger equation in one dimensional problems, Particle in a box, Eigen
+values and Eigen function, stationary states, Tunneling problems, Bound States.
+2. Relativity:
+Reference Frames, Michelson - Morley Experiment and its consequences, Lorentz
+Transformation, Postulates of Relativity, Relativistic Mass & Mass-Energy
+Equivalence, Time Dilation, Length Contraction, Relativistic Kinematics, Principle of
+Simultaneity, Twin Paradox.
+3. Concepts of Solids:
+Statistical distributions, M-B, B-E and F-D statistics and their simple applications,
+Planck’s radiation law, Degenerate Fermi Gas.
+Crystallographic planes, reciprocal lattice and miller indices, Inter-planer spacing
+(cubic system only), Bragg’s diffraction, Laue’s equation of X-ray diffraction, Crystal
+structure analysis, Lattice Vibration, Electrons in a crystalline solid, free electron
+theory, electronic conduction in solids, Band theory of solids, Kronig - Penny model.
+4. Introduction to Laser and Optical Fibre:
+Spontaneous and stimulated emission, Einstein’s A-B coefficients, Meta - Stable states,
+Population inversion, basic principle of laser (three and four level), optical cavity and
+resonator, Ruby and He-Ne laser, holography.
+Propagation of light in fibre, step and graded index fibre, numerical aperture,
+attenuation in optical fibre, introduction of optical window, application of laser and
+optical fibre.
+Suggested Books:
+1. A. K. Ghatak and S. Lokanathan, Quantum Mechanics, Macmillan India Ltd.
+2. R. Eisberg and Resnick, Quantum Physics of Atoms, Molecules, Solids, Nuclei
+9
+
+--- Page 10 ---
+and Particles, Wiley India Pvt. Ltd.
+3. Robert Resnick, Introduction to Special Relativity, John Wiley & Sons.
+4. F. Reif, Statistical Mechanics, Mc Graw Hill.
+5. B.K. Agarwal, Elements of Statistical Mechanics
+6. Kittel, Introduction solid State Physics, Willy Eastern Limited
+7. K. Thyagrajan, A. Ghatak, Lasers, Fundamentals and Applications, Springer Pub.
+8. D. J. Griffiths, Introduction to Quantum Mechanics, Pearson
+9. M. Ali Omar, Elementary Solid State Physics: Principles and Applications,
+Pearson Pub.
+Course Outcome:
+CO-1 Apply the knowledge of LASER & Fibre Optics for technological applications.
+Understand/Identify different statistical distributions and their relevant applications in
+CO-2
+Engineering Physics.
+CO-3 Identify the basic difference between classical domain and quantum domain of Physics.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 2 2 1 - - - - - - - - - 2 1 -
+1
+CO- 2 2 - - - - - - - - - - 2 2 -
+2
+CO- 2 2 - - - - - - - - - - 2 2 -
+3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2 PSO-3
+CO-1 4 4 -
+CO-2 3 3 -
+CO-3 2 2 3
+10
+
+--- Page 11 ---
+ENGINEERING PHYSICS LABORATORY
+(UPH12P06)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and
+write effective reports and design documentation, make effective presentations, and give
+and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member
+and leader in a team, to manage projects and in multidisciplinary environ-ments.
+11
+
+--- Page 12 ---
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Adapt to work with new environments, assimilate updated information, and solve
+complex problems.
+PEO-2 Learn the fundamental application of Physics to set up modern experimental
+techniques.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Achieve confidence in handling instruments professionally and develop the modern
+laboratory techniques.
+PSO-2 Acquisition of skills in measuring, calibrating instruments, taking readings with
+minimum errors.
+Course Objective:
+1. To develop the practical skill in Engineering Physics lab, which includes activities such
+as handling of instruments, calibration of equipment, measure basic parameters etc.
+2. To understand the principles of mechanics and optics instruments along with underlying
+physics.
+Course Content:
+List of Experiments:
+1. Determination of moment of inertia of a flywheel.
+2. Measurement of angle of prism and the angle of minimum deviation for parallel rays
+on spectrometer and hence find the refractive index of the material of the prism.
+3. To determine the radius of curvature of the convex surface of a lens by Newton’s Rings.
+4. Determination of the frequency of a tuning fork by Melde’s apparatus.
+5. Verification of Faraday and Lenz's law of induction.
+6. Determination of earth’s horizontal magnetic field intensity and magnetic moment of a
+magnet by employing magnetometer.
+7. Determination of self-inductance of a coil with Anderson’s Bridge.
+8. Determination of
+12
+
+--- Page 13 ---
+i) Plank’s constant and work function using photoelectric cell.
+ii) Verification of inverse square law of radiation using a photoelectric cell.
+9. Measurement of unknown wavelength of laser with a diffraction grating.
+10. Determination of unknown resistance by Carrey Foster bridge method.
+11. Determination of Young’s Modulus of elasticity of the material of a bar by the method
+of flexure.
+12. Determination of surface tension of a liquid by capillary tube method.
+13. Determination of the co-efficient of viscosity of glycerin by Stoke’s method.
+14. Determination of rigidity modulus of the material of the wire by Torsional Pendulum.
+Course Outcome:
+Coverage of basic experiments illustrating the principles in general physics relevant to the
+CO-1
+study of science and engineering
+Acquisition of skills in measuring, calibrating instruments, taking readings, while
+CO-2
+minimizing errors, etc
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 2 - - - - - - - - - - 3 2 2
+1
+CO- 3 2 - - - - - - - - - - 2 2 -
+2
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2 PSO-3
+CO-1 3 3 2
+CO-2 3 3 1
+13
+
+--- Page 14 ---
+ENGINEERING CHEMISTRY-I
+(UCY11B10)
+Total Credit: 03 Contact Periods: 03 (3L+0T+0P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+14
+
+--- Page 15 ---
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyze the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn and develop their concepts on a wide spectrum of basic topics in chemistry
+from chemical bonding, polymers, electrochemistry to control of pollution, among
+others.
+PSO-2 Successfully apply the principles, learned as a part of this course, to different
+engineering aspects and practical day to day life.
+PSO-3 Gauge the relevant environmental and societal issues and look for their solutions
+using the concepts of chemistry acquired from this course.
+Course Objective:
+1. Chemical bonding, which deals with different types of chemical bonds present in various
+chemical compounds and biological molecules, will cover bonding, structure, geometry and
+hybridization of various molecules.
+2. Studying this topic the students will learn about the extraction and production of oil and gas to
+meet energy needs, as well as refining of crude oil into several value added products.
+3. To get knowledge about water quality parameters and find ways to make water suitable for
+domestic and industrial uses.
+4. Pollution, different types of polluting agent is incorporated to make the student aware of ways
+to keep atmosphere pollution free.
+5. Electrochemistry deals with conductance in electrolytic solutions and its applications.
+6. The objective of introducing polymer is to provide an overview of the fundamentals of
+polymer science and engineering, including the chemical structure of polymers, their methods
+of preparation, and a variety of properties exhibited by polymers.
+Course Content:
+15
+
+--- Page 16 ---
+Unit-1: Chemical Bonding
+Ionic and covalent bonds; valence bond theory (VBT) of covalency-atomic orbitals and their
+overlap, hybridization of orbitals-definition, types, associated geometries, VSEPR theory, shapes
+of simple molecules like H O, CO , NH , CH , C H , C H BF , PCl , SF inter-halogen and noble
+2 2 3 4 2 6 2 2 3 5 6,
+gas compounds in the light of the hybridization state of the central atom and VSEPR effects;
+molecular orbital theory (MOT) - concept of molecular orbitals, molecular orbital energy level
+diagrams; homonuclear diatomic molecules (like He , O , N ) and their molecular ions; bond
+2 2 2
+order, bond length and magnetic properties; non-covalent interactions: van der Waals and
+hydrogen bonding and their effect over physical properties.
+Unit-2: Fuels
+Definition and classification of fuels; characteristics of good fuel; comparison among solid, liquid
+and gaseous fuels; calorific value of fuels-definition, units, higher and lower calorific values,
+determination of the calorific value of a solid fuel by bomb calorimeter; solid fuel: coal- origin,
+types; proximate and ultimate analysis; liquid fuel: petroleum- origin, refining of crude oil,
+cracking; isomerization; catalytic hydrogenation; desulfurization; synthetic petrol; synthesis of
+gasoline: Fischer-Tropsch and Bergius methods knocking; octane number; cetane number.
+Numerical problems.
+Unit-3: Water
+Introduction; hardness of water: causes, types, units, disadvantages of using hard water for
+domestic and industrial purposes (e.g., scale and sludge formation in boilers, caustic
+embrittlement, boiler corrosion, etc.); softening of hard water (lime-soda, permutit and ion-
+exchange processes); chemical analysis of water- estimation of free chlorine, total alkalinity,
+hardness and dissolved oxygen. Numericals on hardness.
+Unit-4: Pollution and its Control
+Pollution-introduction, air pollutants, particulates, smog, photochemical smog, acid rain, green
+house effects; ozone layer depletion; analysis of gaseous effluents-oxides of nitrogen, oxides of
+sulphur and H S; chemical analysis of effluent liquid streams; BOD, COD; control of air pollution-
+2
+particulate emission, gaseous pollutants.
+Unit-5: Electrochemistry
+Arrhenius theory of electrolytic dissociation; electrolytes, classification; degree of dissociation;
+dissociation constant of weak acids; conductance of solutions-specific, molar and equivalent
+conductance, variation of molar conductance with dilution for strong and weak electrolytes;
+Kohlrausch’s law of independent migration of ions; Ostwald’s dilution law; Nernst equation for
+single electrode and electrochemical cells; concept of pH and pOH; buffer solutions; solubility
+product; common ion effect; indicators and theory of acid-base indicators; Photoelectric effect and
+solar cells. Numericals.
+Unit-6: Polymer Chemistry
+Introduction; types of polymerization; classification of polymers based on chain characteristics,
+source, method of synthesis and molecular forces involved; mechanism of polymerization
+16
+
+--- Page 17 ---
+reaction; glass transition and crystalline melting point temperatures; factors influencing glass
+transition and crystalline melting point temperatures; preparation, properties and uses of the
+following-polyethylene, PVC, polystyrene, PAN, teflon, nylon-6:6, polyester, rubber-monomer,
+structure, compounding of rubber, vulcanization, synthetic rubbers-Buna-S, Buna-N, neoprene,
+butyl rubber and polyurethanes, weight average and number average molecular weight (expression
+and numerical problems), PDI.
+Course Outcome:
+To predict the structure and properties of different materials using the knowledge
+CO-1
+of chemical bonding.
+Knowledge on conventional and non-conventional energy sources and future
+CO-2
+energy resources in sustainable development.
+Develop novel systems to analyse water for domestic and industrial use at very low
+CO-3
+cost.
+Knowledge of contemporary environmental issues and adverse effects of pollution
+CO-4
+to living forms and ways to keep problems arising from pollution at bay.
+Acquire the knowledge of electrochemistry and its principles and apply the same
+CO-5
+to various disciplines.
+CO-6 Comprehend idea about the synthesis and applications of polymers.
+Reference Books:
+1. Shashi Chawla, A Text Book of Engineering Chemistry, 3rd Edition, Dhanpat Rai & Co.,
+New Delhi, 2007.
+2. Jain and Jain, Engineering Chemistry, 15th Edition, Dhanpat Rai Publishers.
+3. Dr S. Vairam and Dr. Suba Ramesh, Engineering Chemistry, 1st Edition, Wiley-India, New
+Delhi.
+4. S. S. Dhara, A Text book of Engineering Chemistry,11th Edition, S Chand & Co. Ltd., New
+Delhi.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 2 - - - - - - - - - 2 - -
+1
+CO- - 2 - - - - - - - - - 2 - -
+2
+CO- - - - - - - - - - - - - 2 - -
+3
+CO- - - - - - - - - - - - - - - 3
+4
+17
+
+--- Page 18 ---
+CO- - 2 2 - - - - - - - - - - 2 -
+5
+CO- - - - - - - - - - - 3 - 2 -
+6
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 2 - -
+CO-6 - - -
+18
+
+--- Page 19 ---
+ENGINEERING CHEMISTRY LABORATORY
+(UCY11P05)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+19
+
+--- Page 20 ---
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Adapt to work with new environments, assimilate updated information, and solve
+complex problems.
+PEO-2 Learn the fundamental application of chemistry to set up modern experimental
+techniques.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Achieve confidence in handling chemicals, glassware and instruments
+professionally in chemical industries and develop the modern laboratory
+techniques.
+PSO-2 Successfully apply their practical experience to determine analytical estimation
+of materials applicable in our daily life.
+Course Objective:
+1. Students will learn laboratory techniques in chemistry, carrying out practicals and to
+determine the quality of water sample.
+2. Analytical estimation of metal ions in supplied chemical compound..
+3. By applying their practical knowledge student will get exposure to the Chemical Industry.
+Course Content:
+1. Preparation of primary standard solution (oxalic acid, K Cr O ).
+2 2 7
+2. Preparation and standardization of solution (NaOH, HCl, KMnO ).
+4
+3. Determination of total hardness of water sample by complexometric titration method.
+4. Estimation of total amount of chloride present in a water sample through argentometric
+titration method.
+5. Estimation of carbonate and bicarbonate alkalinity of a water sample by acid base titration
+method.
+6. Determination of iron present in Mohr’s salt solution by redox titration.
+7. Estimation of acetic acid present in commercial vinegar sample.
+8. Determination of alkali content in a given antacid tablet through acid base titration method.
+9. Synthesis of aspirin.
+10. Separation of caffeine from tea powder.
+Course Outcome:
+Acquisition of necessary laboratory training required for measuring, weighing,
+CO-1
+transferring chemicals, data collection, while minimizing errors, etc.
+Acquire analytical skills for preparation of chemicals and estimation of material
+CO-2
+contstituents.
+20
+
+--- Page 21 ---
+Developing the knowledge to handle water related problems for domestic and
+CO-3
+industrial purposes.
+Reference Books:
+1. S. Chawla, Essentials of Experimental Engineering Chemistry, Dhanpat Rai & Co., 3rd
+Edition, 2010.
+2. A. I. Vogel, G. H. Jeffery, Vogel’s Text Book of Quantitative Chemical Analysis, Published
+by Longman Scientific & Technical, 5th Edition, 1989.
+3. A. J. Elias, A Collection of Interesting Gneral Chemistry Experiments, Universities Press,
+2002.
+4. A. K. Nad, B. Mahapatra and A. Ghoshal; An Advanced Course in Practical Chemistry, New
+Central Book Agency (P) Ltd, 3rd Edition, 2011.
+Mapping with the POs/PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO-1 PO-2 PO- PO- PO- PO- PO- PO- PO- PO- PO- PO-
+3 4 5 6 7 8 9 10 11 12
+CO-1 3 2 - - - - - - - - - -
+CO-2 - 2 - - - - - - - - - -
+CO-3 - - 2 - - - - - - - - -
+To establish the correlation between Cos & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2
+CO-1 4 -
+CO-2 3 -
+CO-3 - 4
+ENGINEERING CHEMISTRY-II
+(UCY12B11)
+Total Credit: 02 Contact Periods: 02 (2L+0T+0P)
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+21
+
+--- Page 22 ---
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal,
+and environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+22
+
+--- Page 23 ---
+PEO-2 Ability to analyze the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Acquire the concepts of chemistry involved in various engineering materials that
+will find relevance to their engineering programs.
+PSO-2 Apply their knowledge of chemistry, acquired from this course, to different
+engineering problems.
+PSO-3 Assess the practical solutions to problems in day to day life.
+Course Objective:
+1. To introduce the principles of corrosion, common corrosion types, corrosion control methods,
+and material selection to reduce corrosion cost.
+2. The students will learn about cement, its large-scale industrial manufacturing process, the
+mechanism of setting and hardening of cement, and various types of cement.
+3. The topic on refractories will discuss about the manufacturing process, properties, types of
+refractories, their uses in heat treatment systems in industry and in society.
+4. The purpose of incorporating lubricants is to make students aware of different types of
+lubricants and of their uses in machine parts to reduce the wear and tear and running cost of
+engine.
+Course Content:
+Unit-1: Corrosion
+Introduction, definition, classification; dry corrosion-factors affecting dry corrosion, mechanism,
+types; oxidation corrosion; Pilling-Bedworth rule; corrosion by other gases; hydrogen related
+corrosion; liquid metal corrosion; wet corrosion-types; chemical corrosion; factors affecting
+chemical corrosion; mechanism of wet corrosion-electrochemical mechanism; evolution of H and
+2
+absorption of O ; differential aeration theory, passivity, pitting, waterline and stress corrosion;
+2
+corrosion control- purification, alloying, application of protective coatings, cathodic protection,
+etc.
+Unit-2: Cement
+Introduction, classification; Portland cement-definition, raw materials, manufacture, ideal
+composition and physical requirement according to I.S code; setting and hardening of cement; heat
+of hydration; special cements: high-alumina cement, white Portland cement, water-proof cement,
+Sorel cement, barium and strontium cement.
+Unit-3: Refractories
+Definition, objective of using, classification based on chemical nature; properties-refractoriness,
+strength, dimensional stability, chemical inertness, thermal expansion, thermal conductivity,
+23
+
+--- Page 24 ---
+porosity, spalling, electrical conductivity, etc., and interrelations between them; selection of good
+refractory; common refractory bricks: silica, fireclay, high-alumina, carbon and carborundom
+bricks, properties and uses.
+Unit-4: Lubricants
+Introduction; mechanism-thick-film, thin-film and extreme pressure lubrication; classification of
+lubricants-lubricating oils, greases and solid lubricants, their properties, uses and additives
+required (e.g., antioxidants, corrosion preventers, etc.); properties of lubricating oils: viscosity,
+flash and fire-point, cloud and pour point, aniline point etc.; cutting fluids.
+Course Outcome:
+CO-1 Understand electrochemical reaction fundamentals, different types of corrosions
+and their prevention methods.
+CO-2 Relate physical, chemical and other properties of different cements as modern
+building block materials for numerous applications.
+CO-3 Usefulness of refractory materials in metallurgical furnaces and other heat
+treatment equipment were also understood.
+CO-4 Understanding the role of lubrication in reducing friction, wear and tear of
+machinery parts in engines, and so on.
+Reference Books:
+1. Shashi Chawla, A Text Book of Engineering Chemistry, 3rd Edition, Dhanpat Rai & Co., New
+Delhi, 2007.
+2. Jain and Jain, Engineering Chemistry, 15th Edition, Dhanpat Rai Publishers
+3. Dr S. Vairam and Dr. Suba Ramesh, Engineering Chemistry, 1st Edition, Wiley-India, New
+Delhi.
+4. S. S. Dhara, A Text Book of Engineering Chemistry, 11th Edition, S. Chand & Co. Ltd., New
+Delhi.
+Mapping with the Pos/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 - - - - - - - - - - - 3 - -
+1
+CO- - - 2 - - - - - - - - - - 2 3
+2
+CO- - - 2 - - - - - - - - - - 2 3
+3
+CO- - - - 2 - - - - - - - - - 3 -
+4
+24
+
+--- Page 25 ---
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2
+CO-1 3 -
+CO-2 - 4
+CO-3 - 4
+CO-4 3 -
+ENGINEERING MATHEMATICS-I
+(UMA11B11)
+Total Credit: 03 Contact Periods: 03
+(2L+1T+0P)
+Purpose of the inclusion of the subject:
+Engineering Mathematics is a branch of applied Mathematics concerning mathematical methods
+and techniques that are typically used in engineering and industry. Engineering Mathematics is
+an interdisciplinary subject motivated by engineers' needs both for practical, theoretical and other
+considerations out with their specialization, and to deal with constraints to be effective in their
+work.
+Historically, Engineering Mathematics consisted mostly of applied analysis, most
+notably: differential equations; real and complex analysis (including vector and tensor
+analysis); approximation theory (broadly construed, to include asymptotic, variational
+and perturbative methods, representations, numerical analysis); Fourier analysis; potential
+theory; as well as linear algebra and applied probability, outside of analysis. These areas of
+Mathematics were intimately tied to the development of Newtonian physics, and the mathematical
+physics of that period. This history also left a legacy: until the early 20th century subjects such
+as classical mechanics were often taught in applied mathematics departments at American
+universities, and fluid mechanics may still be taught in (applied) mathematics as well as
+engineering departments.
+The success of modern numerical computer methods and software has led to the emergence
+of computational mathematics, computational science, and computational engineering , which
+occasionally use high-performance computing for the simulation of phenomena and the solution
+of problems in the sciences and engineering. These are often considered interdisciplinary fields,
+but are also of interest to Engineering Mathematics.
+Why we are teaching that subject in line of PO/PEOs?
+25
+
+--- Page 26 ---
+This course is taught in order to develop Engineering knowledge of students in the field of
+Mathematics. The course inspires students to build up skills for solving real life problems. This
+course helps students to perform investigation by applying different techniques to improve
+different methodologies.
+Courses objective:
+The objectives of the course Engineering Mathematics are:
+1. To apply the knowledge in modern industry or teaching, or secure acceptance in high-
+quality graduate programs in mathematics and other fields such as the field of
+quantitative/mathematical finance, mathematical computing, statistics and actuarial
+science
+2. To exhibit ethical and professional behavior
+3. To make connections between different mathematical concepts, such as geometric,
+analytic and numerical interpretations of functions, derivatives and integrals.
+4. To develop ability to understand and create rigorous formal mathematical arguments by
+applying basic mathematical logic.
+5. To learn the application of mathematics in real life problems and analyzing the results.
+Course content:
+Unit- 1
+Infinite series: Convergence of Sequence, Bounded Sequence, Monotonic Sequence, Convergent
+Divergent and Oscillatory Series, Geometric Series, Positive term series, pseries, Comparison
+Test, D’Alembert’s Ratio tests, Raabe’s Test, Gauss’s Test, Cauchy’s Integral Test, Cauchy’s Root
+test, Logarithmic Test.
+Unit 2
+Calculus of function of one variable: Successive differentiation, Leibnitz’s theorem, Mean Value
+theorem and Taylor’s theorem, expansion of functions into Taylor’s and Maclaurin’s series,
+Indeterminate forms.
+Unit – 3
+Function of several Variables: Partial Derivatives, Chain Rule, Differentiation of Implicit
+functions, Exact Differentials, Euler’s theorem on homogeneous function and its converse.
+Maxima, Minima and Saddle points, Simple problems in extrema of functions with constraints.
+Method of Lagrangian Multipliers.
+Unit – 4
+Ordinary Differential Equation: Linear equations and Bernoulli’s equation, Ordinary linear
+differential equation of nth order, Solution of homogeneous and non-homogeneous equations,
+Variation of parameters, Solution of simple simultaneous ordinary differential equation.
+Unit – 5
+Laplace Transform: Transforms of elementary functions, Inverse transforms, properties of Laplace
+transform. Convolutions. Transforms of periodic functions, unit step functions, shifting theorems.
+Solutions of ODE’s using transforms.
+Course outcome: At the end of the course, students will be able to
+26
+
+--- Page 27 ---
+1. Use various convergence tests (geometric series test, divergence test, integral test,
+comparison tests, alternating series tests, ratio test, and root test) to determine convergence
+or divergence of series.
+2. Apply function of single variables in the field of engineering optimization, modelling etc.
+3. Use multivariable functions of real variables in engineering and physics,
+because observable physical quantities are real numbers (with
+associated units and dimensions), and any one physical quantity will generally depend on
+a number of other quantities.
+4. Solve the basic application problems described by first order and higher order differential
+equations in orthogonal trajectories, electrical circuit, mechanical system, simple harmonic
+motion etc.
+5. Use Laplace Transform in signal processing. in the frequency domain. This can be a
+powerful tool to study a signal in the frequency domain.
+Program Outcomes (POs):
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modeling to complex engineering activities with
+an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+27
+
+--- Page 28 ---
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1: To empower students to identify, formulate and solve Electrical Engineering problems by
+applying their knowledge in the field of mathematics, Science, Communication and Computing
+skills and enabling them to understand specific problem areas and finding the optimum solutions
+for the same.
+PEO-2: To widen the talents of the students to become effective collaborators and innovators,
+leading in efforts to tackle social, business, design and production challenges.
+PEO-3: To develop industry focused skills and leadership qualities to become successful engineers
+and entrepreneurs.
+PEO-4: To enable students to acquire skills to communicate effectively with the society and the
+constituents which enable them to collaborate as team members and team leaders.
+PEO-5: To develop professional work ethics and social responsibilities so as to tackle social,
+business, design and production challenges.
+PEO-6: To encourage the students for developing life-long learning attitude with moral ethics and
+values and professional development through higher study, continuing education and independent
+research activities.
+PSOs(Program Specific Objectives):
+PSO 1: Specification, fabrication, testing, operation or documentation of basic Electrical
+systems/processes.
+PSO 2: Analysis, design, development and implementation of more advanced Electrical systems
+or processes.
+To establish the correlation between Cos & POs
+Table 1
+No. of Course Outcome (CO) Course Outcome
+CO UMA11B04.1 Use various convergence tests (geometric series test, divergence
+test, integral test, comparison tests, alternating series tests, ratio
+test, and root test) to determine convergence or divergence of
+series.
+CO UMA11B04.2 Apply function of single variables in the field of engineering
+optimization, modelling etc.
+CO UMA11B04.3 Use multivariable functions of real variables in engineering and
+physics, because observable physical quantities are real numbers
+28
+
+--- Page 29 ---
+(with associated units and dimensions) and any one physical
+quantity will generally depend on a number of other quantities.
+CO UMA11B04.4 Solve the basic application problems described by first order and
+higher order differential equations in orthogonal trajectories,
+electrical circuit, mechanical system, simple harmonic motion
+etc.
+CO UMA11B04.5 Use Laplace Transform in signal processing. in the frequency
+domain. This can be a powerful tool to study a signal in the
+frequency domain.
+Table 2
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO PO PO PO PO PO PO PO PO PO PO PO
+1 2 3 4 5 6 7 8 9 10 11 12
+CO 2 2 - 1 1 - - - - - 2 -
+UMA11B04.1
+CO 2 2 3 1 3 - 2 1 - 2 3 2
+UMA11B04.2
+CO 2 2 3 1 3 1 2 - 1 1 3 2
+UMA11B04.3
+CO 3 3 2 2 3 1 3 1 2 2 2 1
+UMA11B04.4
+CO 2 2 2 - 1 2 1 - - 2 - 1
+UMA11B04.5
+Total 11 11 10 5 11 4 8 2 3 7 10 6
+Average 2.2 2.2 2 1 2.2 0.8 1.6 0.4 0.6 1.4 2 1.2
+Eq. Av 1.47
+Attainment
+*** It is not mandatory that every CO will match with all POs. Please keep blank where COs do
+not match POs. A table is provided below for easy reference.
+To establish the correlation between Cos & PSOs
+Table 3
+CO PSO1 PSO2
+CO UMA11B04.1 3 1
+CO UMA11B04.2 1 2
+CO UMA11B04.3 2 2
+29
+
+--- Page 30 ---
+CO UMA11B04.4 1 2
+CO UMA11B04.5 1 1
+Total 8 8
+Average 1.6 1.6
+Eq. Av 1.6
+Attainment
+ENGINEERING MATHEMATICS-II
+(UMA12B13)
+Total Credit: 03 Contact Periods: 03 (2L+1T+0P)
+Purpose of the inclusion of the subject:
+Engineering Mathematics is a key area in the study of an engineering course. It is the study of
+numbers, structures, and associated relationships using rigorously defined literal, numerical and
+operational symbols. A sound knowledge of the subject develops analytical skills, thus enabling
+engineering graduates to solve numerical problems encountered in daily life, as well as apply
+mathematical principles to physical problems, particularly in the area of engineering.
+Engineering Mathematics is the application of mathematics and computing of problems of modern
+engineering. Real world problems of direct engineering, scientific or industrial relevance are
+studied using mathematics. Research interests cover mathematics for tomorrow’s technology,
+ranging from artificial intelligence (including fuzzy logic, computational intelligence, etc.) to
+applied mathematics.
+Engineering Mathematics offers a balance of theory and practice, which is both intellectually
+stimulating and topical. Learning the craft of applying mathematics to real world problems will
+not only equip an engineering student with technical skills, but it will also enhance his/her ability
+to make sound judgements on the increasing important role played by science and technology in
+the modern world. Industry is well aware of acute skills shortage in various fields including applied
+mathematics and computing. These shortages are bound to persist in the near future, due to
+increasing demand from employers in line with the industrial growth.
+Why we are teaching that subject in line of PO/PEOs?
+Please list after brainstorming within the 3-4 faculty members of your specialization
+1. Dr. Debasish Bhattacharya
+2. Dr. Uttam Kumar Bera
+30
+
+--- Page 31 ---
+3. Dr. Paritosh Bhattacharya
+4. Dr. Apu Kumar Saha
+5. Dr. Baby Bhattacharya
+Courses objectives:
+The objectives of the course Engineering Mathematics-II are:
+6. To identify algebraic eigen-value problems from practical areas and obtain the eigen
+solutions in certain cases.
+7. To understand double and triple integration and enable them to handle integrals of higher
+orders.
+8. To know the basics of vector calculus comprising of gradient, divergence & curl and line,
+surface & volume integrals along with the classical theorems involving them.
+9. To understand analytic functions and their interesting properties.
+10. To grasp the basics of complex integration and the concept of contour integration.
+Course content:
+Unit- 1
+Matrices: Algebra of matrices, Vector spaces- linear dependence of vectors, basis, Linear
+Transformations, Rank and inverse of a matrix, Solution of algebraic equations, consistency
+conditions, Hermitian , skew-Hermitian and Unitary matrices, by-linear form, eigen value and
+eigen vectors. Cayley-Hamilton theorem .
+Unit 2
+Complex numbers : Exponential complex numbers and logarithm of a complex number, circular,
+hyperbolic and inverse circular functions of complex numbers.
+Unit – 3
+Function of a Complex Variable : Limit, continuity and differentiation, Analytic function, Cauchy-
+Riemann equations, Conjugate functions, Application to two dimensional problems, Taylor’s and
+Laurent’s expansions, Branch points, zeros, poles, residues, Cauchy’s Integral theorem, simple
+problems on Contour Integration.
+Unit – 4
+Integral Calculus: Improper Integrals, Beta and Gamma function. Double and Triple Integrals,
+Jacobians and transformation of co-ordinates.
+Unit – 5
+Vectors: Scalar and vector triple product, space curves, Seret-Frenet formula, velocity and
+acceleration-simple problems, moment of force, work done, angular velocity, relative velocity-
+31
+
+--- Page 32 ---
+simple applications.Vector function of one variable, vector differentiation and integration,
+gradient, divergence and curl --- Applications. Stoke’s theorem, Green’s theorem, Gauss
+divergence theorem - simple applications to areas, Volumes and centre of Pressure.
+Course outcome: At the end of the course, students will be able to
+6. Use matrices to describe linear equations, keep tract of the coefficients of linear
+transformations, and record data that depend on multiple parameters. There are many
+applications of matrices in mathematics, viz., graph theory, probability theory, statistics,
+computer graphics, geometrical optics, etc.
+7. Use complex numbers for finding the possible solutions of polynomial equations of degree
+more than one. Complex numbers are used in many applications, such as control theory,
+signal analysis, quantum mechanics, relativity, etc.
+8. Determine whether a given function is differentiable, and if so find its derivative. Use
+differentiation rules to compute derivatives. Express complex-differentiable functions as
+power series. Use Cauchy’s integral theorem and formula to compute line integrals.
+Identify the isolated singularities of a function and determine whether they are removable,
+poles, or essential. Compute innermost Laurent series at an isolated singularity, and
+determine the residue. Use the residue theorem to compute complex line integrals and real
+integrals.
+9. Use beta and gamma functions in solving the integral of a given function. Perform basic
+calculations relating to double and triple integrals in Cartesian, polar and spherical
+coordinates.
+10. Understand the basic theory of line and surface integrals and the theorems of Green, Stokes
+and Gauss. Perform basic calculations relating to line and surface integrals and apply the
+theorems of Green, Stokes and Gauss.
+Program Outcomes (POs):
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering
+problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+32
+
+--- Page 33 ---
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modeling to complex engineering activities with
+an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1: To empower students to identify, formulate and solve Electrical Engineering problems by
+applying their knowledge in the field of mathematics, Science, Communication and Computing
+skills and enabling them to understand specific problem areas and finding the optimum solutions
+for the same.
+PEO-2: To widen the talents of the students to become effective collaborators and innovators,
+leading in efforts to tackle social, business, design and production challenges.
+PEO-3: To develop industry focused skills and leadership qualities to become successful engineers
+and entrepreneurs.
+PEO-4: To enable students to acquire skills to communicate effectively with the society and the
+constituents which enable them to collaborate as team members and team leaders.
+PEO-5: To develop professional work ethics and social responsibilities so as to tackle social,
+business, design and production challenges.
+33
+
+--- Page 34 ---
+PEO-6: To encourage the students for developing life-long learning attitude with moral ethics and
+values and professional development through higher study, continuing education and independent
+research activities.
+PSOs(Program Specific Objectives):
+PSO 1: Specification, fabrication, testing, operation or documentation of basic Electrical
+systems/processes.
+PSO 2: Analysis, design, development and implementation of more advanced Electrical systems
+or processes.
+To establish the correlation between Cos & POs
+Table 1
+No. of Course Outcome (CO) Course Outcome
+CO UMA21B04.1 Use matrices to describe linear equations, keep tract of the
+coefficients of linear transformations, and record data that depend
+on multiple parameters. There are many applications of matrices
+in mathematics, viz., graph theory, probability theory, statistics,
+computer graphics, geometrical optics, etc.
+CO UMA21B04.2 Use complex numbers for finding the possible solutions of
+polynomial equations of degree more than one. Complex numbers
+are used in many applications, such as control theory, signal
+analysis, quantum mechanics, relativity, etc.
+CO UMA21B04.3 Determine whether a given function is differentiable, and if so
+find its derivative. Use differentiation rules to compute
+derivatives. Express complex-differentiable functions as power
+series. Use Cauchy’s integral theorem and formula to compute
+line integrals. Identify the isolated singularities of a function and
+determine whether they are removable, poles, or essential.
+Compute innermost Laurent series at an isolated singularity, and
+determine the residue. Use the residue theorem to compute
+complex line integrals and real integrals.
+34
+
+--- Page 35 ---
+CO UMA21B04.4 Use beta and gamma functions in solving the integral of a given
+function. Perform basic calculations relating to double and triple
+integrals in Cartesian, polar and spherical coordinates.
+CO UMA21B04.5 Understand the basic theory of line and surface integrals and the
+theorems of Green, Stokes and Gauss. Perform basic calculations
+relating to line and surface integrals and apply the theorems of
+Green, Stokes and Gauss.
+Table 2
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO PO PO PO PO PO PO PO PO PO PO PO
+1 2 3 4 5 6 7 8 9 10 11 12
+CO 2 2 3 1 1 - 1 - - 1 2 2
+UMA21B04.1
+CO 3 2 3 2 2 1 - 1 1 1 2 1
+UMA21B04.2
+CO 2 2 2 1 2 1 1 - 1 1 1 2
+UMA21B04.3
+CO 2 2 1 1 - 1 - 1 1 1 2 1
+UMA21B04.4
+CO 3 2 2 2 1 1 1 - - 1 1 2
+UMA21B04.5
+Total 12 10 11 7 6 4 3 2 3 5 8 8
+Average 2.4 2 2.2 1.4 1.2 0.8 0.6 0.4 0.6 1 1.6 1.6
+Eq. Av 1.32
+Attainment
+*** It is not mandatory that every CO will match with all POs. Please keep blank where COs do
+not match POs. A table is provided below for easy reference.
+To establish the correlation between Cos & PSOs
+Table 3
+CO PSO1 PSO2
+CO UMA21B04.1 2 2
+CO UMA21B04.2 1 3
+CO UMA21B04.3 2 1
+CO UMA21B04.4 1 1
+35
+
+--- Page 36 ---
+CO UMA21B04.5 3 2
+Total 9 9
+Average 1.8 1.8
+Eq. Av 1.8
+Attainment
+LANGUAGE (PROFESSIONAL COMMUNICATION IN ENGLISH)
+(UHU11B08)
+Total Credit: 03 Contact Periods: 03 (3L+0T+0P)
+Course Objective:
+1. To introduce the important aspects of communication skills – speaking, reading, writing,
+listening and interpersonal communication.
+2. To enrich the students with communicational tools.
+3. To pursue their present and future academic as well as career goals – both inside and outside
+the classroom domain.
+4. To train students in social and other situations in which they may be called upon to use
+English.
+5. To enable the students to better their professional skills in terms of conducting meetings,
+making effective presentations etc.
+Course Outcome:
+1. Students would develop dynamic communication skills and determination to work as a team
+in future.
+2. Students would have better confidence in themselves competing and co-operating with
+other Co-workers in their career.
+3. Students would have the capability to connect with larger audiences and develop leadership
+qualities.
+4. Students would make better decisions through processes of group discussions.
+5. Students would obtain clear understanding of the process of inter-cultural communication
+in an environment of multi-cultural workforce.
+Course Content:
+Unit -1
+Organizational Communication
+Process of communication; Features of Successful Professional Communication; Importance of
+Communication; Purpose of Professional Communication; Different Forms of Communication;
+Communication Network in an Organization; Barriers to communication.
+36
+
+--- Page 37 ---
+Unit -2
+Listening Skills
+Listening is an art ; Listening vs. Hearing; Poor Listening vs. Effective Listening ; Important facts
+about listening; Advantages of Good Listening; Process of Listening ; Types of Listening;
+Intensive vs. Extensive Listening; Barriers to Effective Listening; Techniques for Effective
+Listening; Listening and Note Taking.
+Unit -3
+Effective Presentation Strategies
+Introduction; Defining Purpose; Analyzing Audience and Locale; Organizing Contents; Preparing
+an Outline; Kinesics; Proxemics; Paralinguistic.
+Unit -4
+Oral Communication
+Communication/ Public Speaking Skill, Features of Effective Speech-verbal; Group Discussion-
+principle and practice (the context of a GD, positive and negative roles played in a GD, different
+stages in a GD etc. and practice sessions), Interview skills and Non –verbal Communication using
+Audio-Visual aids, Studying Body Language, Distance and Positioning, Body Orientation,
+Pronunciation and Vocabulary extension.
+Unit-5
+Writing Skills
+The Basics of Writing, The Process of Writing, Mind Mapping
+Unit-6
+Mechanics of Reading & Writing
+Fundamentals of Grammar, One Word Substitution
+Models of Technical Writing:
+Notice Writing, Formal Letters, Email Writings, Job Applications, Reports, Essays, CV, Passages
+for Comprehension and Advertisements.
+PEOs (Program Educational Objectives):
+PEO-1: To empower students to identify, formulate and solve Electrical Engineering problems by
+applying their knowledge in the field of mathematics, Science, Communication and Computing
+skills and enabling them to understand specific problem areas and finding the optimum solutions
+for the same.
+PEO-2: To widen the talents of the students to become effective collaborators and innovators,
+leading in efforts to tackle social, business, design and production challenges.
+PEO-3: To develop industry focused skills and leadership qualities to become successful engineers
+and entrepreneurs.
+PEO-4: To enable students to acquire skills to communicate effectively with the society and the
+constituents which enable them to collaborate as team members and team leaders.
+PEO-5: To develop professional work ethics and social responsibilities so as to tackle social,
+business, design and production challenges.
+37
+
+--- Page 38 ---
+PEO-6: To encourage the students for developing life-long learning attitude with moral ethics and
+values and professional development through higher study, continuing education and independent
+research activities.
+PSOs (Program Specific Objectives):
+PSO 1: Specification, fabrication, testing, operation or documentation of basic Electrical
+systems/processes.
+PSO 2: Analysis, design, development and implementation of more advanced Electrical systems
+or processes.
+To establish the correlation between Cos & POs
+Table 1
+Table 2
+No. of Course Outcome (CO) Course Outcome
+CO UHU11BO1.1 Handle all aspects of that experience with a professional
+demeanor; interacting with team members responsibly, meeting
+deadlines, preparing and presenting effectively.
+CO UHU11BO1.2 Display competence in oral, written, and visual communication.
+CO UHU11BO1.3 Possess skills to effectively deliver formal and informal oral
+presentations
+CO UHU11BO1.4 Respond effectively to cultural communication differences.
+CO UHU11BO1.5 Overcoming communication barriers, understanding the nuances
+of organizational set up by acting positively through group
+communication.
+1: Slight (low), 2: Moderate (MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+co PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO -- 2 -- -- -- -- 2 1 3 3 -- 2
+UHU11BO1.1
+CO -- 2 -- -- -- -- 2 1 3 2 -- 3
+UHU11BO1.2
+CO -- 2 1 -- -- -- 2 -- 3 3 -- 2
+UHU11BO1.3
+CO -- 3 -- -- -- -- 2 -- 3 2 -- 3
+UHU11BO1.4
+CO -- -- 1 -- -- -- 2 2 2 2 -- 2
+UHU11BO1.5
+Total -- 9 2 -- -- -- 10 4 14 12 -- 12
+Average -- 1.8 0.4 -- -- -- 2 0.8 2.4 2.4 -- 2.4
+Eq Av - 2 0.4 - - - 2 1 2 2 - 2
+Attainment
+38
+
+--- Page 39 ---
+References:
+Mishra Sunita and Murali Krishna C. Communication Skills for Engineers, (2nd Edition), Thane:
+Pearson India Education Services Pvt. Ltd., 2019.
+Mitra, Barun. Personality Development and Soft Skills.Oxford University Press, 2012.
+Raymond Murphy. Intermediate English Grammer. (II Edition) Cambridge University Press,
+2011.
+Rizvi Ashrf M. Effective Technical Communication, (II Edition), Chennai: Mc Graw Hill
+Education, 2018.
+Raman Meenakshi and Sangeeta Sharma. Technical Communication; Principles and Practice, (II
+Edition), Oxford University Press, 2011.
+Sharma RC and Mohan Krishna. Business Correspondence and Report Writing :Practical
+Approach to Business and Technical Communication, (V Edition), Chennai: Mc Graw Hill
+Education, 2018.
+INTRODUCTION TO PROGRAMMING
+(UCS11B08)
+Total Credit: 03 Contact Periods: 03 (3L+0T+0P)
+Purpose of the inclusion of the subject : Developing Knowledge of computer fundadmental and
+inhance the programming skils.
+Why we are teaching that subject in line of PO/PEOs?
+To develop appropriate knowledge skill, entrepreneurship capacity in the field of Computer
+Science and Engineering and develop attitude to contribute to research for the benefit of society.
+Courses objective:
+The purpose of this course is to making the students understand and learn the basics of
+computer system and introduce to students to the field of programming using C language.
+The students will be able to enhance the analyzing and problem solving skills and use the
+same for writing programs in C.
+Course content :
+BASICS OF COMPUTERS:
+Computer fundamentals: Bits and Bytes, CPU, Memory, Input and output devices, I/O devices,
+Operating systems, Application software’s. Number system – Decimal, Binary, Octal,
+Hexadecimal.
+Need for high level languages, Program design using flow charts
+C LANGUAGE PRELIMINARIES:
+C character set, Identifiers and keywords, Data types, Declarations, Expressions, statements and
+symbolic constants. Pre-processor commands: #include, #define, #ifdef Input-Output: getchar,
+39
+
+--- Page 40 ---
+putchar, scanf, printf, gets, puts. Operators and expressions: Arithmetic, unary, assignment,
+logical, conditional, and bit-wise operators.
+Control statements: if else, for, while, do-while, switch, break, continue; nested loops
+Storage types: Automatic, external, register and static variables.
+Functions: Defining and accessing, passing arguments, Function prototypes, Recursion,
+Library functions, Static functions.Makes students gain a broad perspective about the uses of
+computers in engineering industry
+Arrays: Defining and processing, Passing arrays to a function, Multi-dimensional arrays.
+Pointers: Basic concepts, malloc, pointers and arrays, simple singly linked list examples.
+Course outcome:
+CO1.Know the basic components of the computer and working of each device along with a broad
+perspective about the uses of computers in engineering industry
+CO2.Understand the representation of data in computer and number system conversion
+CO3. To know the role of Operating system in computer system and the fundamentals of
+Computer Networking.
+CO4.Know the difference between Assembly and High level programming Languages. And the
+concept of Arithmetic operators, relational and logical operators, type.
+CO5.Design Algorithms and Flowcharts to know the concepts of problem solving and understand
+and use the common data structures in C programs:- arrays and strings
+Program Outcomes (POs): Sl 1 to Sl 12
+PO 1.Engineering Knowledge: Apply knowledge of mathematics and science, with
+fundamentals of Computer Science & Engineering to be able to solve complex engineering
+problems related to CSE.
+PO 2.Problem Analysis: Identify, Formulate, review research literature and analyze
+complex engineering problems related to CSE and reaching substantiated conclusions using
+first principles of mathematics, natural sciences and engineering sciences.
+PO3. Design/Development of solutions:Design solutions for complex engineering
+problems related to CSE and design system components or processes that meet the specified
+needs with appropriate consideration for the public health and safety and the cultural societal
+and environmental considerations.
+PO4. Conduct Investigations of Complex problems: Use research–based knowledge
+and research methods including design of experiments, analysis and interpretation of
+data, and synthesis of the information to provide valid conclusions.
+PO5. Modern Tool Usage: Create, Select and apply appropriate techniques, resources and
+modern engineering and IT tools including prediction and modeling to computer science
+related complex engineering activities with an understanding of the limitations
+40
+
+--- Page 41 ---
+PO6. The Engineer and Society: Apply Reasoning informed by the contextual knowledge
+to assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the CSE professional engineering practice.
+PO7.Environment and Sustainability: Understand the impact of the CSE professional
+engineering solutions in societal and environmental contexts and demonstrate the
+knowledge of, and need for sustainable development.
+PO8. Ethics: Apply Ethical Principles and commit to professional ethics and
+responsibilities and norms of the engineering practice
+PO9. Individual and Team Work: Function effectively as an individual and as a member
+or leader in diverse teams and in multidisciplinary Settings
+PO10. Communication: Communicate effectively on complex engineering activities
+with the engineering community and with society at large such as able to comprehend and
+with write effective reports and design documentation, make effective presentations and
+give and receive clear instructions.
+PO11. Project Management and Finance: Demonstrate knowledge and
+understanding of the engineering management principles and apply these to one’s own
+work, as a member and leader in a team, to manage projects and in multi disciplinary
+environments
+PO12 Life-Long Learning: Recognize the need for and have the preparation and ability to
+engage in independent and life-long learning the broadest context of technological change
+To establish the correlation between Cos & Pos
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO.1 3 3 3 1 - - - - 1 - - -
+CO.2 3 3 3 2 - - - - 1 - - -
+CO.3 3 3 3 2 - - - - 1 - - -
+CO.4 3 3 3 1 - - - - 1 - - -
+Total 12 12 12 6 4
+Average 3 3 3 1.5 1
+Eq. Av
+Attainment
+Text Books:
+1. Introduction to Computer Science - ITL Education solutions limited, Pearson Education.
+2. The C Programming Language by Dennis Ritchie And Brian Kernighan, PHI.
+Reference Books:
+1. An introduction to Computing & C Language-by Dr. P.N. Basu, New Light.
+2. C How to Program - 5th Edition by Deitel, PHI.
+3. Computer Science: A Structured Programming Approach Using C by Behrouz A.
+4. Computer Basics and C Programming by V. Rajaraman, PHI.
+5. Let's C- YashwantKanetkar, Allied Publishers.
+6. Programming in C- ReemaThareja, Oxford.
+41
+
+--- Page 42 ---
+7. C – programming By-E.Balagurusamy, TMH.
+8. How to Solve it by Computer- G. Dromey, Prentice-Hall Inc.
+COMPUTER PROGRAMMING LABORATORY
+(UCS12P08)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Purpose of the inclusion of the subject : Developing Knowledge of computer fundamentals and
+enhancing the programming skills.
+Why we are teaching that subject in line of PO/PEOs?
+To develop appropriate knowledge skill, entrepreneurship capacity in the field of Computer
+Science and Engineering and to develop attitude to contribute to research for the benefit of the
+society.
+Course content:
+Expt No Description Duration (hrs)
+1  C "Hello, World!" Program 02 hrs
+ C program for Input/output of Integer, Character and Floating
+point numbers C Program to Add Two Integers
+ C Program to Find ASCII Value of a Character
+ C Program to Compute Quotient and Remainder
+ C Program to Swap Two Numbers using and without using
+third variable
+2  C Program to find area of a triangle, square, circle. 02 hrs
+ C program to find square root of a number using sqrt function
+ C Program to calculate gross salary of a person.
+ Where DA is 12% of basic Salary, HR is 7% of basic Salary
+and TA is 5% of Basic Salary.
+.
+3  C Program to Check Whether a Number is Even or Odd 02 hrs
+ C Program to Check Whether a Character is Vowel or
+Consonant
+ C Program to Find the Largest Number Among Three Numbers
+ C Program to Check Leap Year.
+4  Write a C program to check whether a character is uppercase 02 hrs
+or lowercase alphabet.
+ Write a C program to find all roots of a quadratic equation.
+42
+
+--- Page 43 ---
+ Write a C program to input month number and print number of
+days in that month.
+5  Write a C program to input marks of five subjects Physics, 02 hrs
+Chemistry, Biology, Mathematics and Computer. Calculate
+percentage and grade.
+ Write a C program to input basic salary of an employee and
+calculate its Gross salary
+6  Write a C program to find maximum between two numbers 04 hrs
+using conditional operator.
+ Write a C program to check whether a number is even or odd
+using conditional operator.
+ Write a C program to check whether character is an alphabet
+or not using conditional operator.
+7  C Program to Calculate the Sum of Natural Numbers 04 hrs
+ C Program to print all the even number up to n
+ C Program to Find Factorial of a Number
+ C Program to Generate Multiplication Table
+8  C Program to Display Fibonacci Sequence 02 hrs
+ C Program to print list of all Prime Number up to a certain
+Limit.
+ C Program to find sum of prime numbers
+9  C program to print right triangle star pattern series 02 hrs
+*
+* *
+* * *
+* * * *
+ C program to print equilateral triangle or pyramid star pattern
+*
+* *
+* * * *
+* * * * * *
+ C program to print Floyd's triangle
+1
+2 3
+43
+
+--- Page 44 ---
+4 5 6
+7 8 9 10
+.
+10 02 hrs
+ C Program to Reverse a Number
+ Program to find exponential without using pow() method
+ C Program to Check Whether a Number is Palindrome or Not
+ C Program to Check Armstrong Number
+11  C Program to Display Factors of a Number 02 hrs
+ C Program to find weather a character is vowel or consonant.
+ C Program to Make a Simple calculator.
+ C program to find number of days in a month using switch case
+12  C Program to Copy a String 02 hrs
+ C program to sort an integer array in ascending order.
+ C program to find the sum of all the elements in a matrix.
+13  C Program to check prime and Armstrong number by making 02 hrs
+functions
+ C Program to find the sum of natural numbers using
+recursion
+ C Program to find the G.C.D using recursion
+Revision of all Experiments 02 hrs
+Lab Exam 06 hrs
+Total 38 hrs
+Course outcome:
+Table 1
+No. of Course Outcome (CO) Course Outcome
+CO1 Students will have a basic understanding of computers, compiler
+and the concept of algorithm and algorithmic thinking.
+CO2 Develops the ability to analyze a problem and design an algorithm
+to solve it.
+CO3 Develops the use of the C programming language to implement
+various algorithms, and gathers the knowledge about the basic
+concepts and terminology of programming in general.
+CO4 Introduces the more advanced features of the C language like
+array, structure, union and their applications.
+44
+
+--- Page 45 ---
+Program Outcomes (POs):
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+To establish the correlation between Cos & Pos
+Table-2
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO1 2 1 1 1 1 - - - 1 - - -
+CO2 3 3 3 2 3 - - - 1 1 - -
+CO3 3 2 3 1 1 - - - 1 2 - -
+CO4 3 3 3 3 3 - - - 1 1 - -
+45
+
+--- Page 46 ---
+Total 11 9 10 7 8 4 4
+Average 3 2 3 2 2 1 1
+Eq. Av
+Attainment
+Text Books:
+1. The C Programming Language by Dennis Ritchie And Brian Kernighan PHI.
+Reference Books:
+1. C How to Program - 5th Edition by Deitel published by PHI.
+2. Programming With C - by Gottfried, Byron S, Publisher: TMH
+3. Computer Science: A Structured Programming Approach Using C by Behrouz A.
+4. Let's C- YashwantKanetkar, Allied Publishers.
+5. Computer Basics and C Programming by V. Rajaraman, PHI.
+6. Programming in C- ReemaThareja, Oxford.
+7. C – programming By-E.Balagurusamy, TMH.
+BASIC ELECTRICAL ENGINEERING
+(UEE11B12)
+Total Credit: 03 Contact Periods: 03 (3L+0T+0P)
+Purpose of the inclusion of the subject:
+The course aims to provide knowledge about basic electrical engineering by means of which
+fundamental concept of electrical engineering may be acquired. The course covers fundamental
+concepts of electrical circuits, instruments and measurement of the basic electrical quantities like
+voltage, current and power. It covers the basic analysis of both ac and dc circuits. Finally it also
+provides an elemental knowledge of some important electrical machines like motor, generator and
+transformer.
+Why we are teaching that subject in line of PO/PEOs?
+This course is taught to develop basic Engineering knowledge, Problem analysis ability of
+students in the field of Electrical Engineering. The course enables the students to Design/develop
+solution of basic electrical circuits using both ac/dc energy sources. This course helps students
+to perform investigation by applying different mathematical techniques to determine basic
+electrical quantities like voltage, current and power. The course is obviously a Life-long learning
+for students in the field of electrical engineering.
+Course content :
+Unit- 1
+Basic circuit analysis methods: Kirchhoff’s laws, mesh and nodal analysis.
+Unit 2
+46
+
+--- Page 47 ---
+Network Theorems: Superposition theorem, Thevenin-Norton theorem, maximum power-transfer
+theorem, star-delta transformation.
+Unit – 3
+AC circuit analysis: AC fundamentals, phasor diagrams, Power in ac circuits, Series AC circuit
+and parallel AC circuit, Resonance, Network analysis methods, Poly-phase circuit.
+Unit – 4
+Basics of Electrical Machines: Basic principle of generator and motor, emf induced in a coil,
+concept of rotating magnetic field, introduction to transformer.
+Course outcome:
+Table 1
+No. of Course Outcome (CO) Course Outcome
+CO.1 To understand the fundamental concept of basic electrical
+components: resistors, energy sources, capacitors and
+inductors.
+CO.2 To study various circuit analysis methods and network
+theorems to facilitate solution of complicated electrical
+networks.
+CO.3 To obtain basic engineering knowledge to analyse and solve
+problems of ac circuit by investigating, interpreting and
+synthesizing given data.
+CO.4 To study the working principles of some fundamental
+electrical machines.
+Program Outcomes (POs):
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modeling to complex engineering activities with
+an understanding of the limitations.
+47
+
+--- Page 48 ---
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1: To empower students to identify, formulate and solve Electrical Engineering problems by
+applying their knowledge in the field of mathematics, Science, Communication and Computing
+skills and enabling them to understand specific problem areas and finding the optimum solutions
+for the same.
+PEO-2: To widen the talents of the students to become effective collaborators and innovators,
+leading in efforts to tackle social, business, design and production challenges.
+PEO-3: To develop industry focused skills and leadership qualities to become successful engineers
+and entrepreneurs.
+PEO-4: To enable students to acquire skills to communicate effectively with the society and the
+constituents which enable them to collaborate as team members and team leaders.
+PEO-5: To develop professional work ethics and social responsibilities so as to tackle social,
+business, design and production challenges.
+PEO-6: To encourage the students for developing life-long learning attitude with moral ethics and
+values and professional development through higher study, continuing education and independent
+research activities.
+PSOs (Program Specific Objectives):
+PSO 1: Specification, fabrication, testing, operation or documentation of basic Electrical
+systems/processes.
+PSO 2: Analysis, design, development and implementation of more advanced Electrical systems
+or processes.
+48
+
+--- Page 49 ---
+To establish the correlation between Cos & POs
+Table 2
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO PO PO PO PO PO PO PO PO PO PO PO
+1 2 3 4 5 6 7 8 9 10 11 12
+CO.1 3 3 3 2 - - - - - - - -
+CO.2 3 2 3 3 - - - - - - - -
+CO.3 3 3 2 3 - - - - - - - -
+CO.4 3 3 3 3 - - - - - - - -
+Total 12 11 11 11 - - - - - - - -
+Average 3 2.7 2.7 2.7 - - - - - - - -
+5 5 5
+Eq. Av
+Attainment
+To establish the correlation between Cos & PSOs
+Table 3
+CO PSO1 PSO2
+CO.1 3 -
+CO.2 3 -
+CO.3 3 -
+CO.4 3 -
+Total 12 -
+Average 3 -
+Eq. Av
+Attainment
+BASIC ELECTRICAL ENGINEERING LABORATORY
+(UEE11P07)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Purpose of the inclusion of the subject:
+The course aims to provide knowledge about basic electrical components like rheostats, capacitors
+and inductors along with energy sources like voltage source, current source, DC source, AC source
+etc. The course covers fundamental concepts of electrical circuits, instruments and measurement
+49
+
+--- Page 50 ---
+of the basic electrical quantities like voltage, current and power. Finally it also provides an
+elemental knowledge of some important electrical machines like motor, generator and transformer.
+Why we are teaching that subject in line of PO/PEOs?
+This course is taught to develop practical Engineering knowledge about basic electrical
+components, sources and machineries. The course enables the students to Design/develop
+solution of basic electrical circuits using both ac/dc energy sources. This course helps students to
+perform verificationof different mathematical techniques to determine basic electrical quantities
+like voltage, current and power. The course is obviously a Life-long learning for students in the
+field of electrical engineering.
+Course content :
+Expt No Description Duration (hrs)
+1 Study of different Electrical sources. 02 hrs
+i) To draw the characteristics of ideal voltage & current
+sources.
+ii) To draw the characteristics of non- ideal voltage & current
+sources.
+iii) Conversion of Voltage to Current source.
+2 Verification of Thevenin’s theorem. 02 hrs
+3 Verification of Norton’s theorem. 02 hrs
+4 Verification of Maximum power transfer theorem. 02 hrs
+5 Verification of Superposition theorem. 02 hrs
+6 Extension of meter range. 04 hrs
+i) To convert a galvanometer into an ammeter
+ii) To convert a galvanometer into a voltmeter
+7 Study of characteristics of Fluorescent lamp and Incandescent 04 hrs
+Lamp.
+i. To draw the voltage vs. current characteristic of lamp and
+choke coil in a fluorescent lamp and Incandescent Lamp.
+ii. To determine the striking voltage and extinguishing voltage
+of a fluorescent lamp.
+iii. To observe the effect of connecting a capacitor parallel with
+a fluorescent lamp.
+8 Characteristics of R-L circuit, R-C circuit, R-L-C series circuit 02 hrs
+with AC source.
+9 Determination of insulation resistance by using Megger. 02 hrs
+10 Study of different transformer connections. 02 hrs
+50
+
+--- Page 51 ---
+11 Transformer testing 02 hrs
+12 Starting of induction motor 02 hrs
+Revision of all Experiments 02 hrs
+Lab Exam 06 hrs
+Total 36 hrs
+Course outcome:
+Table 1
+No. of Course Outcome (CO) Course Outcome
+CO.1 Students will have a working knowledge of the basic electrical
+engineering components like resistors, inductor, capacitor etc.
+CO.2 Students will gain knowledge and handling capacity of the basic
+electrical sources.
+CO.3 Students will understand the working principle of some basic
+electrical instruments and their usage.
+CO.4 Students will understand the working principle of some basic
+electrical machineries which includes transformers, motors,
+generators etc.
+Program Outcomes (POs):
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modeling to complex engineering activities with
+an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+51
+
+--- Page 52 ---
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1: To empower students to identify, formulate and solve Electrical Engineering problems by
+applying their knowledge in the field of mathematics, Science, Communication and Computing
+skills and enabling them to understand specific problem areas and finding the optimum solutions
+for the same.
+PEO-2: To widen the talents of the students to become effective collaborators and innovators,
+leading in efforts to tackle social, business, design and production challenges.
+PEO-3: To develop industry focused skills and leadership qualities to become successful engineers
+and entrepreneurs.
+PEO-4: To enable students to acquire skills to communicate effectively with the society and the
+constituents which enable them to collaborate as team members and team leaders.
+PEO-5: To develop professional work ethics and social responsibilities so as to tackle social,
+business, design and production challenges.
+PEO-6: To encourage the students for developing life-long learning attitude with moral ethics and
+values and professional development through higher study, continuing education and independent
+research activities.
+PSOs(Program Specific Objectives):
+PSO 1: Specification, fabrication, testing, operation or documentation of basic Electrical
+systems/processes.
+PSO 2: Analysis, design, development and implementation of more advanced Electrical systems
+or processes.
+To establish the correlation between Cos & Pos Table-2
+1: Slight(low), 2: Moderate(MEDIUM)
+3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+52
+
+--- Page 53 ---
+CO.1 3 3 3 1 - - - - 1 - - -
+CO.2 3 3 3 2 - - - - 1 - - -
+CO.3 3 3 3 2 - - - - 1 - - -
+CO.4 3 3 3 1 - - - - 1 - - -
+Total 12 12 12 6 4
+Average 3 3 3 1.5 1
+Eq. Av
+Attainment
+To establish the correlation between Cos & PSOs
+Table 3
+CO PSO1 PSO2
+CO.1 3 -
+CO.2 3 -
+CO.3 3 -
+CO.4 3 -
+Total 12
+Average 3
+Eq. Av
+Attainment
+BASIC ELECTRONICS
+(UEC11B12)
+Total Credit: 03 Contact Periods: 03 (3L+0T+0P)
+Course Objective:
+1) To introduce the students to the fundamental of Semiconductor Physics, classification of
+semiconductors and energy band formation.
+2) To explain the concept of Fermi energy level and features of Fermy function.
+3) To provide a comprehensive understanding of semiconductor devices like p-n diode, Zener
+diode and to study the application of p-n diode as Rectifiers, Clippers and Clampers.
+4) To analyze the operation, different characteristics and biasing of BJT and FET.
+5) To familiarize the students with basic of Operational amplifier and its application.
+53
+
+--- Page 54 ---
+Course Content:
+Module 1
+Basics of conductor, semiconductor and insulator, formation of energy band, elemental and
+compound semiconductor, Intrinsic and extrinsic semiconductor, p-type and n-type
+semiconductor, Direct and indirect band gap Semiconductor, Fermi function and its characteristics.
+Module 2
+Introduction to p-n junction, Depletion layer, V-I characteristics of p-n diode, diode rating (average
+current, PIV), Avalanche breakdown and Zener breakdown, V-I characteristics of Zener diode
+and its application as voltage regulator.
+Module 3
+PN junction diode as half wave rectifier, center tap full wave rectifier, full wave bridge rectifier.
+Positive and negative unbiased and biased Clipper, positive and negative clamper.
+Module 4
+Basic construction and working principle of BJT, Common Emitter (CE), Common Base (CB) and
+Common Collector configuration of BJT, Input and output characteristics of BJT in CB and CE
+mode. Biasing of BJT, DC Load line and operating point, BJT as amplifier and switch, FET, Basic
+construction and operation of JFET, Drain characteristics of JFET, Fixed and self-biasing of JFET
+amplifier
+Module 5
+Operation and ideal characteristics of OP-AMP, Application of OP-AMP as inverting and non-
+inverting, Adder and subtractor, Differentiator and Integrator. Introduction to IC-555, Operation
+of Monostable, Astable and Bistable multivibrators using BJT. Optoelectronic devices –LED,
+LCD, Photo diode, LDR, photo transistor, seven segment display, optoisolator
+Text/References:
+1. “Integrated Electronics”, Jacob Millman, Christos Halkias
+2. “Electronic Devices and Circuit Theory”, Robert L.Boylestad
+3. “Electronic Devices and Circuits”, David A.Bell, Prentice Hall of India
+4. “Electronics Fundamentals and Applications”, D.Chattopadhyay and P.C. Rakshit,
+New Age International Publishers
+Course Outcome:
+CO1: Understand the fundamental of Semiconductor Physics and energy band formation.
+54
+
+--- Page 55 ---
+CO2: Comprehend the concept of Fermi energy and its characteristics.
+CO3: Understand the basics of semiconductor devices and their applications.
+CO4: Be familiar with different characteristics and biasing techniques to operate BJTand FET
+in different modes.
+CO5: Perceive the basic knowledge of operational amplifier and its application .
+CO-PO-PSO Mapping:
+PO PO PO PO PO PO PO PO PO PO1 PO1 PO1 PSO PSO
+1 2 3 4 5 6 7 8 9 0 1 2 1 2
+CO 3 3 2 2 1 1 1 - 2 2 - 3 3 3
+1
+CO 3 3 2 2 1 1 1 - 2 2 - 3 2 2
+2
+CO 3 3 3 2 2 3 2 - 3 3 - 3 3 3
+3
+CO 3 3 3 3 2 2 1 - 3 3 - 3 3 3
+4
+CO 3 3 3 3 2 3 2 - 3 3 - 3 2 3
+5
+Avg 3 3 2.6 2.4 1.6 2 1.4 - 2.6 2.6 - 3 2.6 2.8
+.
+BASIC ELECTRONICS LABORATORY
+(UEC12P07)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+LIST OF EXPERIMENTS
+1.  Identification, specifications, testing of R, L, C components (Color
+Codes), potentiometers, switches (SPDT, DPDT and DIP), coils, Gang
+condensers, relays, bread boards, PCBs, identification, specifications
+and testing of active devices, diodes, BJTs, Low power JFETs,
+MOSFETs, power transistors, LEDs, LCDs, optoelectronic devices,
+SCR, UJT,DIACs.
+55
+
+--- Page 56 ---
+ Familiarization of various equipments – DSO, SIGNAL
+GENERATOR, DIGITAL MULTIMETER, DC REGULATED
+POWER SUPPLY
+2. To plot Volt-Ampere Characteristics of PN Junction Diode and Zener Diode
+and find out
+ Cut-in Voltage for P-N Junction diode.
+ Static and dynamic resistances for P-N Junction diode.
+ Breakdown voltage for Zener Diode
+3. To study Rectifier Circuits with and without filters and calculate:
+ Ripple Factor
+ Efficiency
+ PIV
+4. To study
+ Positive and negative biased clipper (STUDENTS CAN CARRY OUT
+EITHER POSITIVE OR NEGATIVE BIASED CLIPPER)
+ Positive clamper circuits.
+5. To study Zener Diode as Voltage Regulator
+ By varying load resistance by keeping input voltage constant (load
+regulation).
+ By Varying input voltage by keeping load resistance constant (line
+regulation
+6. To study the input and output characteristics of a Bipolar Junction Transistor
+(BJT) in Common Emitter mode and determine transistor parameters.
+7. To study the following linear applications of op-amp
+ Inverting amplifier
+ Non – inverting amplifier
+8. To study the following linear applications of op-amp
+ Summing Amplifier
+ Differential Amplifier
+56
+
+--- Page 57 ---
+9. To verify the operation of all Logic gates: OR gate, AND gate, NOT gate,
+NOR gate, NAND gate and Ex-OR gate
+10. Implementation of the Given Boolean Function using Logic Gates
+ S= ABC
+ C= A.B + A.C + B.C
+ M=A’B’I +A’BI +A B’I +ABI
+0 1 2 3
+Program Educational Objective(s)
+After graduation and few years of graduation, the Electronics & Telecommunication Engineering
+graduates would
+PEO 1 Core Competency: Graduates will provide engineering solutions with strong base of
+science and mathematics, subject domain knowledge for challenging problems in Electronics and
+allied disciplines.
+PEO 2 Career Building: Graduates will fulfill professional responsibilities effectively by
+synergizing theoretical and practical skills.
+PEO 3 Technical Proficiency: Graduates will practice analytical, creative, innovative skills for
+higher education, research, industrial development.
+PEO 4 Managerial Skills: Graduates will perform cohesively in group using moral, ethical
+practice, managerial, entrepreneurial skills for welfare of society with global outlook.
+Programme Outcomes (PO’s)
+Programme Outcomes describe what students are expected to know or be able to do by the time of
+graduation from the programme. The POs for Under Graduate Course in Electronics and
+Telecommunication Engineering are able to
+1. Apply knowledge of mathematics, science and technical fundamentals for solutions of domain
+problems
+2. Identify, formulate, review the literature, and analyze the complex engineering problems
+3. Design and implement the systems‟ components and processes serving the needs of safety,
+environment and society
+4. Perform experiment, analyze and interpret results
+5. Use modern tools and technical skills necessary for electronic system development
+57
+
+--- Page 58 ---
+6. Understand the impact of electronics in modern era
+7. Explore the needs of society for sustainable development and human values
+8. Understand professional, ethical and legal responsibilities
+9. Work effectively in diverse and multidisciplinary tasks, to accomplish common goal
+10. Communicate effectively
+11. Engage in continuing educational / professional, entrepreneurship development
+12. Apply electronics engineering and management principles / skills, as a member and leader in
+a team to solve social and industrial problems
+Course Overview:
+i) This course provides the basic knowledge over the construction and functionality of the
+basic electronic devices such as diodes and transistors, Op-Amps and digital ICs.
+ii) It also provides the information about the uncontrollable and controllable electronic
+switches and the flow of current through these switches in different biasing conditions.
+iii) This course is intended to describe the different configurations and modes of controllable
+switches and how these electronic devices can be configured to work as rectifiers, clippers,
+clampers, oscillators, amplifiers, combinational circuits.
+Course Outcomes:
+Upon the completion of Basic Electronics practical course, the student will be able to:
+1. Analyze the diode and transistor characteristics.
+2. Understand the principles of rectifier circuits using diodes and implement them using
+hardware.
+3. Design the biasing circuits like self biasing, fixed biasing.
+4. Design various Linear Integrated Circuits.
+5. Understand the concepts of Digital ICs,
+6. Understand the concepts of Combinational Circuits.
+58
+
+--- Page 59 ---
+ENGINEERING MECHANICS
+(UME12B11)
+Total Credit: 04 Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. Solve for the resultants of any force systems & Differentiates between different force
+systems
+2. Draw the FBD and find the internal and external forces acting on a body for coplanar and
+non coplanar force system
+3. Differentiate between centroid and centre of gravity & calculate the CG for a given object.
+4. Analysis of the force(s) that causes motion and also analyze for the friction& Truss
+problems.
+5. To calculate the moment of inertia for area and solids.
+6. Analysis of Rectilinear & Curvilinear Translation.
+7. Analysis of Rotation of Rigid Body about a fixed axis.
+Analyze the effects of Stress, strain and Hooks law.
+Course Content:
+UNIT I: FORCE SYSTEMS AND EQUILIBRIUM
+Force moment and couple principle of transmissibility, Varignon’s theorem. Resultant of force
+system- concurrent and non-concurrent coplanar forces, free body diagram, equilibrium
+equations and their uses in solving elementary engineering problems.
+UNIT II : PROPERTIES OF SURFACE & SOLIDS
+Centroid & Centre of Mass-Centroid of lines and areas using Standard formulas. Theorem of
+Pappus. Area moment of Inertia of plane figures. Hollow section by using Standard formula-
+Parallel axis theorem and Perpendicular axis theorem-Principle axes of inertia -Mass moment
+of Inertia for prismatic cylindrical and spherical solids from first principle- Relation to area
+moments of Inertia
+UNIT III: PLANE TRUSSES
+Analysis of plane trusses and plane frames (Analytical Method), Method of joints, Method of
+sections.
+UNIT IV: DYNAMICS OF PARTICLES
+Displacement, Velocity and acceleration, their relationship -Relative motion -Curvilinear
+motion- Newton’s Law of motion-Work Energy Equation-Impulse and Momentum -Impact of
+elastic bodies, Simple stress strain for deformable body, Hooke’s Law.
+UNIT V: FRICTION AND ELEMENTS OF RIGID BODY DYNAMICS
+59
+
+--- Page 60 ---
+Friction force- Laws of friction- equilibrium analysis of simple systems with sliding friction,
+Translation and Rotation of Rigid Bodies -Velocity of Acceleration-General Plane motion of
+simple rigid bodies such as cylinder, disc/wheel and sphere.
+Text Book:
+ENGINEERING MECHANICS REVISED 5th Edition by S. Timoshenko, D.H. Young, et al.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+UME11B05/ ENGINEERING MECHANICS
+UME22B05
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO1
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO2
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO3
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO4
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO5
+UME11B05/ 3 2 1 1 - - - - 1 1 - 2
+UME22B05/CO6
+Average 3 2 1 1 - - - - 1 1 - 2
+60
+
+--- Page 61 ---
+ENGINEERING GRAPHICS
+(UME12P03)
+Total Credit: 02 Contact Periods: 03 (1L+0T+2P)
+Courses objective:
+1) To understand techniques of drawings in various fields of engineering.
+2) The course is aimed at developing Basic Graphic skills.
+3) To Develop Skills in Preparation Of Basic Drawings.
+4) To provide skills in Reading and Interpretation of Engineering Drawings.
+Course content:
+UNIT I: Drawing Instrument and their uses, lines, lettering and dimensioning, various types of
+curves used in engineering practice.
+UNIT II: Orthographic projection and convention, projection of points and lines, illustrative
+examples.
+UNIT III: Projection of lamina and solids including sectional solids, end view concept.
+UNIT IV: Isometric projection of solids.
+Text/Reference Books:
+1. N. D. Bhatt, Elementary Engineering Drawing (Plane and solid geometry).
+2. R. B Gupta, A text Book of Engineering Drawing.
+3. K.Venugopal, A text Book of Engineering Drawing.
+4. N. D. Bhatt, Machine Drawing.
+5. R. K. Dhawan, A text Book of Machine Drawing (In first angle projection)
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO1 PO PO3 PO PO PO PO PO PO PO1 PO1 PO1
+CO 2 4 5 6 7 8 9 0 1 2
+UME11P06 ENGINEERING GRAPHICS
+UME21P06.1 3 - - - - - - 3 - - - 2
+UME21P06.2 3 - - - - - - - - - - -
+UME21P06.3 3 2 - - - - - - - - - -
+UME21P06.4 3 - 2 3 - - - - - - - -
+UME21P06.5 3 - - - - - - - - 3 - -
+UME21P06.6 3 - - - - - - - - - - 2
+Average 3 2 2 3 - - - - - 3 - 2
+DISASTER MANAGENT
+61
+
+--- Page 62 ---
+(UCE11B11/UCE21B08)
+Total Credit: 02 Contact Periods: 02 (2L+0T+0P)
+Courses objective:
+1. To improve the understanding of disaster risk, hazards, and vulnerabilities through structural,
+non-structural and financial measures, as well as comprehensive capacity development.
+2. To give the idea for making different earthquake resistant buildings along with various
+earthquake parameters.
+3. To learn how to recognize areas which are more prone to landslides and mitigation measures to
+reduce the effects of landslides.
+4. To make a safe workplace and preventing fires including fire safety training. With proper
+training workers can eliminate fire hazards and respond quickly and efficiently if a fire breaks out.
+5. To reduce the vulnerability to flood hazards in order to protect the life, health, safety and welfare
+of the community’s residents and visitors.
+6. To learn the cause of cyclones and how to recognize areas which are more prone to cyclones
+and mitigation measures to reduce the effects of cyclones.
+Course content:
+Unit1
+Elements of Engineering Seismology, Earthquake occurrence in the world, Causes of
+Earthquake, Plate tectonics, Earthquake mechanism, Seismic zoning map of India and its use.
+Unit2
+Earthquake phenomenon, Focus, Epicenter, Seismic waves, Magnitude, Intensity scale its co-
+relation assessment, Do’s, and Don’ts for protection of life and property during disaster.
+Unit3
+Landslides, Geo-technical aspects of landslides and control of landslide hazard.
+Unit4
+Flood, Flood control as a measure of disaster management and mitigation.
+62
+
+--- Page 63 ---
+Unit5
+Cyclone and Fire, Cyclone Disaster Mitigation and ensuring wind and fire hazard safety during
+disaster.
+Course outcome:.
+1. Students will be able to prevent disasters and achieve substantial reduction of disaster risk
+and losses in lives, livelihoods, health, and assets (economic, physical, social, cultural and
+environmental)
+2. Students will be able to learn different prospective of earthquake including its mitigative
+measures.
+3. Students will be able to learn causes, effects and preventive measures of landslide hazard.
+4. Students will be able to understand how to mitigate the effects of flood hazard in flood
+prone areas by knowing its root causes.
+5. Having the knowledge of fire proof construction students will make themselves enable for
+future fire disaster.
+6. Students will be able to understand the effects of cyclone by knowing their underlying
+causes.
+Table 1
+To establish the correlation between COs & POs
+No. of Course Outcome Course Outcome
+(CO)
+Students will be able to prevent disasters and achieve substantial
+reduction of disaster risk and losses in lives, livelihoods, health,
+UAD12B14.1
+and assets (economic, physical, social, cultural and
+environmental)
+Students will be able to learn different prospective of earthquake
+UAD12B14.2
+including its mitigative measures.
+Students will be able to learn causes, effects and preventive
+UAD12B14.3
+measures of landslide hazard.
+Students will be able to understand how to mitigate the effects of
+flood hazard in flood prone areas by knowing its root causes.
+UAD12B14.4
+Be Having the knowledge of fireproof construction students will
+UAD12B14.5
+make themselves enable for future fire disaster.
+63
+
+--- Page 64 ---
+Students will be able to understand the effects of cyclone by
+knowing their underlying causes.
+UAD12B14.6
+References:
+Sl. Name of Book Author Publisher
+No.
+1. Engineering and General Parbin Singh
+Geology for B.E (civil, KATSON Books.
+Mining, Metallurgy) B.Sc
+(pass) and A.M.I.E
+2 Disaster P Kumar Oak Bridge.
+Management Paperback –
+2019
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: “-“
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+UAD12B14.1 3 2 - 1 - 2 3 - - 1 - 3
+UAD12B14.2 3 2 - 1 - 2 3 - - 1 - 3
+UAD12B14.3 3 2 - 1 - 2 3 - - 1 - 3
+UAD12B14.4 3 2 - 1 - 2 3 - - 1 - 3
+UAD12B14.5 3 2 - 1 - 2 3 - - 1 - 3
+UAD12B14.6 3 2 - 1 - 2 3 - - 1 - 3
+Total 18 12 0 6 0 12 15 0 0 6 0 18
+Average 3.00 2.00 0.00 1.00 0.00 2.00 3.00 0.00 0.00 1.00 0.00 3.00
+Equivalent 3 2 0 1 0 2 3 0 0 1 0 3
+Avg.
+attainment
+Table 3
+To establish the correlation between COs &PSOs
+CO PSO1 PSO2
+UAD12B14.1 3 2
+UAD12B14.2 3 2
+UAD12B14.3 3 2
+UAD12B14.4 3 2
+UAD12B14.5 3 2
+UAD12B14.6 3 2
+64
+
+--- Page 65 ---
+TOTAL 18 12
+AVERAGE 3 2
+Equivalent Avg. 3 2
+Attainment
+WORKSHOP PRACTICE
+(UME22P08)
+Total Credit: 01 Contact Periods: 02 (0L+0T+2P)
+Course Objectives:
+1. Introduction to basic manufacturing process like welding, fitting, machining, sheet metal,
+smithy, forging, carpentry, pattern and casting works .
+2. Familiarization of basic manufacturing hand tools and equipment’s like files, hacksaw,
+spanner, chisel, hammers, etc
+3. Familiarization of various measuring devices like vernier height gauge, vernier
+caliper, steel rule etc.
+Syllabus Content
+1. Fitting Shop
+a) Introduction of hand Tools.
+b) Job No. 01:- Making of Square bar from round bar of mild steel by metal wearing process.
+c) Job No.02:- Making of V-Groove on Mild Steel Flat by metal cutting process.
+2. Carpentry Shop
+a) Introduction of Hand Tools.
+b) Job No.01:- Making of wooden End half lap joint.
+c) Job No.02:- Making of wooden T-Joint.
+3. Smithy Shop
+a) Introduction of Hand Tools
+d) Job No.01:- To make square bar from round bar of Mild Steel by heating& hammering.
+e) Job No.02:- To make Hexagonal bar from round bar of Mild Steel by heating& hammering.
+4. Machine Shop
+a) Introduction of operation of Machine Tools.
+b) Job No. 01:- Facing and Turning operation by using Lathe machine.
+c) Job No. 02:- Step turning operation by using Lathe machine.
+65
+
+--- Page 66 ---
+5. Welding Shop
+a) Introduction to Welding Machines and related Tools.
+b) Job No.01:- Lap joining of two metal plates by arc welding process.
+c) Job no.02:- Butt joining of two metal plates by arc welding process.
+6. Forging Shop
+a) Introduction of forging process and related tools.
+b) Job No.01:- Making of mild steel ring by forging process.
+c) Job NO.02:- Making of Square punch from round Mild Steel Bar.
+7. Pattern Shop
+a) Introduction of wood working Machine Tools.
+b) Job No.01:- Making of wooden Knuckle Joint.
+c) Job No.02:- Making of wooden Halving Joint.
+8. Sheet Metal Shop
+a) Introduction of machine tools & hand tools.
+b) Job No. 01:- Metal sheet single seam joining.
+c) Job No. 02:- Metal sheet joining by riveting.
+9. Casting Shop
+a) Introduction of Casting process & related tools.
+b) Job No. 01:- metal casting using a pattern of Knuckle Joint.
+Contents beyond Syllabus (If any):
+Text Books:
+i. Fundamentals of Manufacturing Processes, G.K. Lal and S.K. Choudhury
+ii. J.S. Campbell: Principles of Manufacturing Materials and Process, McGraw Hill.
+Reference Books:
+1. Materials Science & Engineering, G.S. Upadhyaya and A. Upadhyaya
+2. Fundamentals of Modern Manufacturing, M.P. Groover
+3. Materials & Processes in Manufacturing, E. P. DeGarmo, J.T. Black and R. Kohser
+4. Manufacturing Engineering and Technology, S. Kalpakjian
+Course Outcomes
+CO- Module
+Course Outcome (5 to 6)
+No. Covered
+1 At the end of this lab course student will be able to discuss about various
+manufacturing process like smithy, carpentry, pattern, welding, casting and All
+different machines.
+66
+
+--- Page 67 ---
+2 Students are able to select the appropriate tools required for specific operation
+All
+and the safety measures required to be taken while using these tools.
+3 Students are able to demonstratethe various hand tools used in the basic
+mechanical engineering workshop sections-smithy, carpentry, pattern,welding All
+etc. based on application.
+4 Student are be able to identify and distinguish various trades.
+All
+Mapping of CO’s & PO’s
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO PSO
+POs
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO 1 2 1 1 1 3 1 3 - 1 3 1 2 2 -
+CO 2 2 - 2 1 3 3 3 3 3 2 - 2 3 -
+CO 3 2 - 2 1 3 1 1 2 2 2 - - 3 -
+CO 4 2 - 1 - 2 2 - 2 - 2 - 3 2 -
+Program Outcomes for all B.Tech Program
+Graduate
+PO Program Outcomes (PO)
+Attributes
+Apply the knowledge of mathematics, science, engineering
+Engineering
+PO1 fundamentals, and an engineering specialization in to the solution of
+Knowledge
+complex engineering problems.
+Identify, formulate, study literature, and analyze complex problems in
+Problem
+PO2 Engineering reaching substantiated conclusions using first principles of
+Analysis
+mathematics, natural sciences, and engineering sciences.
+Design solutions for complex Engineering problems and design system
+Design and
+components or processes that meet the specified needs with appropriate
+PO3 Development
+consideration for the public health and safety, and the cultural, societal,
+of solution
+and environmental considerations.
+Conduct Use research-based knowledge and research methods including design of
+Investigation of experiments, analysis and interpretation of data, and synthesis of the
+PO4
+Complex information to provide valid conclusions for complex Engineering
+problem Problems.
+Create, select, and apply appropriate techniques, resources, and modern
+Modern tools
+PO5 engineering and IT tools including prediction and modeling to complex
+usage
+Engineering activities with an understanding of the limitations.
+Apply reasoning informed by the contextual knowledge to assess societal,
+Engineer and
+PO6 health, safety, legal and cultural issues and the consequent responsibilities
+Society
+relevant to the professional engineering practice.
+Environment Understand the impact of the Engineering solutions in societal and
+PO7 and environmental contexts, and demonstrate the knowledge of, and need for
+Sustainability sustainable development.
+67
+
+--- Page 68 ---
+Apply ethical principles and commit to professional ethics and
+PO8 Ethics
+responsibilities and norms of the engineering practice.
+Individual and Function effectively as an individual, and as a member or leader in diverse
+PO9
+team work teams, and in multidisciplinary settings.
+Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to
+PO10 Communication
+comprehend and write effective reports and design documentation, make
+effective presentations, and give and receive clear instructions.
+Demonstrate knowledge and understanding of the engineering and
+Project
+management principles and apply these to one’s own work, as a member
+PO11 management
+and leader in a team, to manage projects and in multidisciplinary
+and finance
+environments.
+Recognize the need for, and have the preparation and ability to engage in
+Lifelong
+PO12 independent and life-long learning in the broadest context of
+learning
+technological change.
+NSS/NCC
+(UAD11P04)
+Total Credit: 00 Contact Periods: 03 (0L+0T+3P)
+Students have to appear the classes of NSS/NCC and need to pass the examination for course
+completion.
+Selective number of students are allowed to join NCC under NIT Agartala.
+68

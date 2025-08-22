@@ -1,0 +1,3013 @@
+
+--- Page 1 ---
+B.Tech
+in
+Biotechnology
+&
+Biochemical
+Engineering
+OFFERED
+BY
+DEPARTMENT OF BIO ENGINEERING,
+NIT-AGARTALA
+1
+
+--- Page 2 ---
+VISION
+To Produce the Bright Young Professionals by Quality Education & Research in the
+Emerging Field of Biotechnology & Biochemical Engineering to Fulfill the Societal
+Commitments at per Global Standard
+MISSION
+• To impart quality education for fundamental knowledge in engineering science and
+technology with social responsibilities.
+ To develop the engineering background of students towards employability,
+entrepreneurship, Research and higher studies.
+ To develop continuous improvement in teaching learning process through
+interactive sessions, industry-academia interaction.
+ To make good human beings possessing Professional Ethics.
+PEOs (Program Educational Objectives)
+ To empower students for attaining competence in identifying, formulating and
+solving Biological problems by applying their knowledge in the field of science and
+engineering skills to meet the challenges, demands and expectations on global
+context.
+ To establish an understanding of professionalism, ethics, quality performance in
+order to become professional leaders and contributors to the society.
+ To initiate program for life-long learning that provides continuous development of
+the technical abilities and professional skills to become successful professionals and
+entrepreneurs.
+ To Prepare Students to Pursue Higher Studies in the Area of Biotechnology &
+Biochemical Engineering in India or Abroad
+PSOs (Program Specific Outcomes)
+To acquire competency in applications of basic engineering principle in
+PSO -1
+biological system to apply in industry and research
+To recognize the importance of bioethics and environmental impact to apply in
+PSO -2
+any technical solution
+2
+
+--- Page 3 ---
+POs (Program Outcomes)
+Engineering knowledge: Apply the knowledge of mathematics, science,
+PO-1 engineering fundamentals, and an engineering specialization to the solution of
+complex engineering problems.
+Problem analysis: Identify, formulate, research literature, and analyze complex
+PO-2 engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+Design/Development of solutions: Design solutions for complex engineering
+problems and design system components or processes that meet the specified
+PO-3
+needs with appropriate consideration for the public health and safety, and the
+cultural, societal, and environmental considerations.
+Conduct investigations of complex problems: Use research-based knowledge
+and research methods including design of experiments, analysis and
+PO-4
+interpretation of data, and synthesis of the information to provide valid
+conclusions.
+Modern tool usage: Create, select, and apply appropriate techniques, resources,
+PO-5 and modern engineering and IT tools including prediction and modelling to
+complex engineering activities with an understanding of the limitations.
+The engineer and society: Apply reasoning informed by the contextual
+PO-6 knowledge to assess societal, health, safety, legal and cultural issues and the
+consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability: Understand the impact of the professional
+PO-7 engineering solutions in societal and environmental contexts, and demonstrate
+the knowledge of, and need for sustainable development.
+Ethics: Apply ethical principles and commit to professional ethics and
+PO-8 responsibilities and norms of the engineering practice.
+Individual and team work: Function effectively as an individual, and as a
+PO-9 member or leader in diverse teams, and in multidisciplinary settings.
+Communication: Communicate effectively on complex engineering activities with
+the engineering community and with society at large, such as, being able to
+PO-10
+comprehend and write effective reports and design documentation, make
+effective presentations, and give and receive clear instructions.
+Project management and Finance: Demonstrate knowledge and understanding
+of the engineering and management principles and apply these to one’s own
+PO-11
+work, as a member and leader in a team, to manage projects and in
+multidisciplinary environments.
+Life-long learning: Recognize the need for, and have the preparation and ability
+PO-12 to engage in independent and life-long learning in the broadest context of
+technological change.
+3
+
+--- Page 4 ---
+SEMESTER III
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1 Biochemistry 3 0 0 3 3 100
+2 Microbiology 100
+3 0 0 3 3
+3 Biochemical Reaction 100
+2 1 0 3 3
+Engineering
+4 Heat & Mass Transfer in 100
+2 1 0 3 3
+Biological Systems
+5 Engineering Mathematics-III 100
+3 0 0 3 3
+(offered by Math Department)
+6 Engineering Economics and
+100
+Accountancy 3 0 0 3 3
+(offered by HSS Department)
+Laboratory
+1 Biochemistry Laboratory 100
+0 0 3 3 2
+2 Microbiology Laboratory 100
+0 0 3 3 1.5
+3 Biochemical Reaction 100
+0 0 3 3 1.5
+Engineering Laboratory
+23 900
+SEMESTER IV
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1 Molecular Biology &
+3 0 0 3 3 100
+Genetics
+2 Recombinant DNA
+3 0 0 3 3 100
+Technology
+3 Transport phenomena in
+2 1 0 3 3 100
+Biological Systems
+4 Bioprocess Engineering 2 1 0 3 3 100
+5 Principles of Management
+and Managerial Economics 3 0 0 3 3 100
+(offered by HSS Department)
+Laboratory
+1 Recombinant DNA
+0 0 3 3 1.5 150
+Technology Laboratory
+2 Mass Transfer Laboratory 0 0 3 3 1.5 150
+3 Fluid Mechanics Laboratory 0 0 3 3 1.5 150
+4 Bioprocess Engineering
+0 0 3 3 1.5 150
+laboratory
+21 1100
+4
+
+--- Page 5 ---
+SEMESTER V
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1 Immunology and
+3 0 0 3 3 100
+Immunotechnology
+2 Bioinformatics and
+3 0 0 3 3 100
+Computational Biology
+3 Downstream Processing 2 1 0 3 3 100
+4 Biochemical Process
+2 1 0 3 3 100
+Calculation
+5 Departmental Elective-I 3 0 0 3 3 100
+6 Departmental Elective-II 3 0 0 3 3 100
+Laboratory
+1 Bioinformatics and
+Computational Biology 0 0 3 3 1.5 150
+Laboratory
+2 Heat Transfer Laboratory 0 0 3 3 1.5 150
+21 900
+SEMESTER VI
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1 Process Biotechnology 2 1 0 3 3 100
+2 Bioprocess instrumentation
+2 1 0 3 3 100
+& Control
+3 Animal Biotechnology 3 0 0 3 3 100
+4 Intellectual Property Right 0
+(IPR) (Non-
+1 0 0 1 100
+credit
+Course)
+5 Departmental Elective-III 3 0 0 3 3 100
+6 Departmental Elective-IV 3 0 0 3 3 100
+7 Departmental Elective-V 3 0 0 3 3 100
+Laboratory
+1 Downstream Processing
+0 0 3 3 1.5 150
+Laboratory
+2 Immunotechnology
+0 0 3 3 1.5 150
+Laboratory
+21 1000
+5
+
+--- Page 6 ---
+SEMESTER VII
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1 Environmental Biotechnology 3 0 0 3 3 100
+2 Plant Biotechnology 3 0 0 3 3 100
+3 Biophysical and Bioanalytical 2 1 0 3 3 100
+Techniques
+4 Departmental Elective-VI 3 0 0 3 3 100
+5 Open Elective-I 3 0 0 3 3 100
+Laboratory
+1 Project-I 0 0 6 6 2 100
+2 Seminar 0 0 3 3 1 100
+18 700
+SEMESTER VIII*
+Sl.No. Code Course Title L T P H Credit Marks
+Theory
+1. Departmental Elective-VII 3 0 0 3 3 100
+2. Departmental Elective-VIII 3 0 0 3 3 100
+3. Open Elective-II 3 0 0 3 3 100
+Laboratory
+1. Project-II 0 0 6 6 3 100
+2. Comprehensive Viva 0 0 3 3 1 100
+13 500
+*SEMESTER VIII (If project being carried out at industry)
+Sl.No. Code Course Title L T P H Credit Marks
+Laboratory
+1. Industrial Project 0 0 40 40 10 300
+2. Project Seminar 0 0 3 3 2 100
+3. Comprehensive Viva 0 0 3 3 1 100
+13 500
+Distribution of credits
+Sl. No Semester Credit Marks
+01 SEMESTER I
+43
+02 SEMESTER II
+03 SEMESTER III 23 900
+04 SEMESTER IV 21 1100
+05 SEMESTER V 21 900
+06 SEMESTER VI 21 1000
+07 SEMESTER VII 18 700
+08 SEMESTER VIII 13 500
+Total 160 5100
+6
+
+--- Page 7 ---
+ELECTIVES
+DEPARTMENTAL ELECTIVES
+1. Bioprocess plant design
+2. Thermodynamics in biological systems
+3. Metabolic Engineering & Systems Biology
+4. Genomics and Proteomics
+5. Protein Structure and Engineering
+6. Tissue Engineering
+7. Food Process Engineering
+8. Pharmaceutical Biotechnology
+9. Biological Waste Treatment
+10. Biostatistics
+11. Synthetic Biology
+12. Valorization of Biomass
+13. Molecular Basis of Diseases
+14. IPR and Biosafety
+15. Modelling and Simulation for Biological Systems
+16. Drug Design and Development
+17. Students can choose any course from Digital Platforms. Those courses must be
+available during that particular session. Besides, the approval of competent
+authority of NITA is applicable for those online courses.
+OPEN ELECTIVES
+1. Biosensors
+2. Computational Fluid Dynamics in Biology
+3. Bio-Nanotechnology
+4. Biomaterials
+5. Students can choose any course from Digital Platforms. Those courses must be
+available during that particular session. Besides, the approval of competent
+authority of NITA is applicable for those online courses.
+6. Any course may be taken as open elective subject offered by other departments of
+NITA, if available in respective session.
+7
+
+--- Page 8 ---
+SEMESTER III
+1. Name of the Subject: BIOCHEMISTRY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biochemistry L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Structure and function of biomolecules: Amino acids, Carbohydrates, Lipids, Proteins and Nucleic
+acids; Protein structure, folding and function: Myoglobin, Hemoglobin, Lysozyme, Ribonuclease A,
+Carboxypeptidase and Chymotrypsin.
+Module 2: Biological membranes, structure, action potential and transport processes; Enzymes- classification,
+kinetics and mechanism of action; Basic concepts and designs of metabolism (carbohydrates, lipids, amino
+acids and nucleic acids) photosynthesis, respiration and electron transport chain; Bioenergetics.
+Module 3: Signal transduction; Hormones and neurotransmitters.
+Module 4: Biochemical separation techniques: ion exchange, size exclusion and affinity chromatography,
+Characterization of biomolecules by electrophoresis, UV-visible and fluorescence and phosphorescence.
+4. Text/Reference:
+a. David L. Nelson and Michael M. Cox: Lehninger Principles of Biochemistry, Palgrave Macmillan,
+Freeman, Low Price Edition, 4th Edition, 2007.
+b. Mary K. Campbell and Shawn O. Farrell: Biochemistry, Thomson Brooks/Cole, Indian Edition, 5th
+Edition, 2007.
+c. Voet & Voet, Principles of Biochemistry. John Wiley & Sons Limited.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Understand the basic structures and functions of the macromolecules.
+CO-2 Understand basic tools for investigating macromolecules.
+CO-3 Understanding of the major cell signaling pathways.
+Overall, gaining an understanding of the biochemical processes of metabolic transformation
+CO-4
+at the molecular level.
+Comprehensive understanding of the working mechanisms of the biological systems and
+CO-5
+about the recent advancements in the field.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High) and for No Correlation :--
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 1 2 1 1 1 1 1 - 1 - - 2 3 3
+CO-2 2 2 2 2 3 1 2 - 2 - - 2 3 3
+CO-3 - 2 2 2 3 1 1 1 2 - 1 2 2
+CO-4 1 2 1 1 - 1 2 - 1 2 - 2 3 2
+CO-5 - 1 2 2 2 1 1 - 1 2 - 2 3 2
+Total 4 9 8 8 9 5 7 - 6 6 - 9 14 12
+Average 1 2 2 2 2 1 1 - 1 2 - 2 3 2
+8
+
+--- Page 9 ---
+SEMESTER III
+1. Name of the Subject: MICROBIOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Microbiology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Microbes and life today, Methods of microbiology, Cultivating microorganisms; Theory and
+practice of sterilization; Evaluation of effectiveness of antimicrobial agents. Principles of microbial nutrition;
+Enrichment culture techniques for isolation of microorganisms. Bacteria, Archea and their broad classification;
+Eukaryotic microbes: Yeasts, molds and protozoa; Viruses and their classification; Molecular approaches to
+microbial taxonomy.
+Module 2: Definition of growth; Growth curve; Mathematical expression of exponential growth phase;
+Measurement of growth and growth yields; Synchronous growth; Continuous culture; Effect of environmental
+factors on growth. Environmental factors that influences microbes, Microbial growth, Microbial Genetics,
+Bacteriophages, Bacterial Plasmids.
+Module 3: Energetics: redox reactions and electron carriers; An overview of metabolism; Entner-Doudoroff
+pathway; Glyoxalate pathway; Fermentation; Aerobic and anaerobic respiration; Chemolithotrophy;
+Photosynthesis; Calvin cycle.
+Module 4: General characteristics of antimicrobial drugs; Antibiotics: Classification, mode of action and
+resistance; Antifungal and antiviral drugs. Viruses- structure and classification; Aerobic and anaerobic
+respiration; Nitrogen fixation; Microbial diseases and host-pathogen interaction. Microbial interactions;
+Carbon, sulphur and nitrogen cycles; Soil microorganisms associated with vascular plants.
+4. Text/Reference:
+a. Michael J. Pelczar, Jr., E.C.S. Chan, Noel R. Krieg: Microbiology, Tata McGraw Hill, 5th Edition, 2006.
+b. John L. Ingraham, Catherine A. Ingraham: Introduction to Microbiology, A case History Approach,
+Thomson Brooks/Cole, 3rd Edition, 2004.
+c. Joanne M. Willey, Linda M. Sherwood, Christopher J. Woolverton: Prescott, Harley, and Klein’s
+Microbiology, McGraw Hill Higher Education, International Edition, 7th Edition, 2007.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Have an appreciation of the practice of microbiology, sterilization processes, physical and
+CO-1
+chemical methods used to control microbial growth.
+CO-2 Understanding of basic instruments/tools for the culturing of microbes
+Clear conception on structure of bacterial cells, major metabolic pathways within a
+CO-3
+bacterial cell.
+CO-4 Understanding of nutritional and physical requirements for bacterial growth.
+CO-5 Understanding of microbial pathogenesis and antimicrobial agents.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 1 2 - 1 1 - 3 1 1 1 - 2 3 3
+CO-2 2 2 2 1 3 1 3 1 2 - - 2 3 3
+CO-3 - 2 2 2 3 1 1 - 1 2 - 1 2 2
+CO-4 1 2 1 1 - 1 2 - 1 2 - 2 3 2
+CO-5 - 1 2 2 2 1 1 - 1 2 - 2 3 2
+Total 4 9 7 7 9 4 10 2 6 7 0 9 14 12
+Average 1 2 1 1 2 1 2 0 1 1 0 2 3 2
+9
+
+--- Page 10 ---
+SEMESTER III
+1. Name of the Subject: BIOCHEMICAL REACTION ENGINEERING
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biochemical Reaction L T P Mid End Internal
+Engineering
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Reactor design: Rate law, Order, molecularity and rate law, elementary and non elementary
+reaction, reversible reaction. Classification of reactors, design equations for batch, flow and semi batch reactors
+and their performance. Collection and interpretation of rate data using batch and flow reactors. Space time,
+space velocity; Conversion and reactor sizing: concept of conversion, Levenspiel’s plot, reactors in series and
+parallel.
+Module 2: Residence Time Distribution (RTD): fundamentals of non-ideal reactors; measurement and
+characterization of RTD: C curve, E curve, F curve, Mean Residence Time, RTD for ideal reactor (batch, CSTR,
+PFR, PBR, FBR); non ideal reactor modeling using RTD: Zero Parameter Model: Segregation model &
+maximum mixedness; Tanks in Series Model; Dispersion Model.
+Module 3: Biochemical reaction systems: Enzyme kinetics: Michaelis-Menten kinetics, inhibition by foreign
+substances, kinetics of competitive and noncompetitive inhibitions, Models for more complex enzyme kinetics,
+effect of pH and temperature, inhibition kinetics.
+Module 4: Reaction catalyzed by solids: Introduction to heterogeneous reactions, rate equation for surface
+kinetics, pore diffusion resistance combined with surface kinetics. Methods of immobilization, immobilized
+enzyme kinetics. Performance equations for PFR, PBR and FBR. Effect of pressure drop on conversion for PFR
+and PBR, FBR.
+4. Text/Reference:
+1. Fogler, HS, “Elements of Chemical Reaction Engineering”, PHI, 4th ed., 2010
+2. Levenspiel O, Chemical Reaction Engineering, Wiley India Pvt Ltd, 3rd ed., 2007
+3. Smith JM, Chemical Engineering Kinetics, McGraw-Hill, 2nd edition, 1970
+4. Roulings, “Chemical Reactor Analysis”.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Understand the reaction mechanism, order and types of biochemical reaction
+CO-2 Development of design equations for batch, flow and semi batch reactors and their
+performance study.
+CO-3 Understand the conversion, Levenspiel’s plot, conversion when reactors in series and
+parallel.
+CO-4 Understand Residence Time Distribution (RTD) for ideal reactor (batch, CSTR, PFR, PBR,
+FBR) & non ideal reactor modeling using RTD
+CO-5 Understand the kinetic behavior of heterogeneous and homogeneous catalysis process
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 3 3 2 1 - - - - - - - 3 -
+CO-2 2 3 3 2 1 - - - - - - - 3 -
+CO-3 2 3 3 2 1 - - - - - - - 3 -
+CO-4 2 3 3 2 1 - - - - - - - 3 -
+CO-5 2 3 3 2 1 - - - - - - - 3 -
+Total 10 15 15 10 5 - - - - - - - 15 -
+Average 2 3 3 2 1 - - - - - - - 3 -
+10
+
+--- Page 11 ---
+SEMESTER-III
+1. Name of the Subject: HEAT AND MASS TRANSFER IN BIOLOGICAL SYSTEM
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Heat and Mass Transfer in Biological system L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module-I: Heat transfer: Classification of heat flow processes. Heat flow in fluids by conduction, convection
+and radiation. Governing Equations and Boundary conditions of heat transfer. Metabolism and regulation of
+body temperature; physiological radiative, convective, conductive heat transfer; heat transfer resistance in the
+body. Counter-current and parallel flow. Enthalpy balance in heat exchange equipment. Individual heat
+transfer coefficients, overall coefficient, Heating and cooling of fluids.
+Module II: Heat Transfer with Change of Phase: Freezing of pure water, solution, cells and tissues, Freezing
+time calculation. Heat transfer equipment: heat exchanger, condenser, boiler, heat transfer in agitated vessel,
+heat transfer in pack bed. Unsteady state heat transfer. Design equation & Application: Design equation for
+heat transfer system, application of Design equation, and Hydrodynamic consideration with cooling coil.
+Application of heat transfer to bioreactor system: with reference to both heat generation and removal. Bio-heat
+transfer equation for mammalian tissue
+Module III: Mass transfer: Diffusion: Fick's first and second law for steady and unsteady state diffusion.
+Single phase mass transfer, transport between phases; diffusion across a membrane, cellular transport
+mechanisms, macroscopic species balances, compartmental analyses, microscopic species conservation, gas
+exchange in the lungs and tissues. Analogy between heat and mass transfer. Properties of gases, liquids,
+biological solutions, ice and solids.
+Module –IV: Absorption: The mechanism of absorption, Diameter and height calculations for packed columns,
+equilibrium solubility of gases in liquids; counter-current multi-stage absorption; continuous contact
+equipment; multi-component systems. Extraction: Liquid- liquid extraction and liquid solid extraction
+(Leaching). Co-current and countercurrent extractor; Adsorption: Mechanism, Batch and continuous
+adsorption. Application of adsorption in biological system.
+4. Text/Reference:
+1. Treybal RE, “Mass Transfer Operations”, MGH, International student Edition, 3rdedition, 1981.
+2. Binay K. Dutta, “Principles of Mass Transfer and Separation Processes”, PHI, 4th Ed., 2010.
+3. Geankoplis, “Transport process and Unit Operations”, PHI, 4th Ed., 2007.
+4. McCabe, Smith, and Harriot, “Unit Operations in Chemical Engfueering”, MGH, 5th Ed., 1993.
+5. Wankat PC, "Equilibrium-Staged Separations", Prentice Hall, 1989
+6. Coulson & Richardson, Chemical Engineering, Vol-I & II:, Butterworth Heinemann; D.Q. Kern. Process Heat
+Transfer. McGraw-Hill Inc., US.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Ability to apply principles of mass transfer and heat transfer in biological system
+CO-2 Ability to perform design calculation for absorption, adsorption and extraction column
+CO-3 Ability to understand various laws in heat and mass transfer
+CO-4 Thorough understanding of diffusional mass transfer
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+PO
+PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2
+1
+CO-1 3 3 2 3 3 - 1 - - - - - 3 -
+CO-2 3 3 3 3 3 1 1 - - - - - 3 -
+CO-3 3 3 2 3 3 - 1 - - - - - 3 -
+CO-4 3 3 2 - - - - - - - - - 3 -
+Total 12 12 9 9 9 1 3 - - - - - 12 -
+Average 3 3 2.25 3 3 1 1 - - - - - - -
+11
+
+--- Page 12 ---
+SEMESTER-III
+1. Name of the Subject: BIOCHEMISTRY LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biochemistry Laboratory L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+a. Estimation of amino acid by UV method.
+b. Estimation of protein by UV method
+c. Estimation of protein by Bradford method
+d. Glucose estimation by DNSA method
+e. Estimation of starch
+f. Estimation of enzyme (Amylase) Activity
+g. Carbohydrate estimation by GOD-POD Method
+h. Estimation of lipid
+i. Amino Acid- Titration Curve
+j. Detection of the isoelectric point of casein
+k. Determination of protease activity
+l. Protein purification (Ammonium Salt PPt.)
+m. Protein purification (Column Chromatography)
+n. Estimation of nucleic acids by UV method
+4. Text/Reference:
+a. Plummer Mu, David T. Plummer, Introduction to Practical Biochemistry, Tata McGraw-Hill Education, 1988
+b. J. Sambrook, E.F. Fritsch, T. Maniatis. Molecular Cloning: A Laboratory Manual ( Volume I, II & III), Cold
+Spring Harbor Laboratory press.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Able to explain principles of the performed experiments.
+CO-2 Demonstrate proper operation of the equipment and instruments used in this course.
+CO-3 To acquire the knowledge of standard of practice for safe handling of reagents.
+CO-4 Able to solve their unknown problems and document the results in laboratory reports.
+CO-5 Complete exams that require problem solving and creative thinking.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 3 3 1 3 1 1 1 - 1 - - 2 3 3
+CO-2 3 3 - 3 3 1 2 - 2 - 1 2 3 3
+CO-3 2 1 2 2 3 1 1 - 1 2 - 1 2 2
+CO-4 2 2 2 - 2 1 2 - 1 2 - 2 3 2
+CO-5 1 1 3 2 2 1 - 2 1 2 1 2 3 2
+Total 11 10 8 10 11 5 6 2 6 6 2 9 14 12
+Average 2 2 2 2 2 1 1 - 1 1 - 2 3 2
+12
+
+--- Page 13 ---
+SEMESTER-III
+1. Name of the Subject: MICROBIOLOGY LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Microbiology Laboratory L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+a. Preparation of liquid and solid culture medium and sterilization of medium
+b. Gram staining and microscopic examination for morphometric analysis
+c. Study different phases of bacterial growth and determination of Specific growth rate and Doubling time
+d. Bacterial count : spectroscopic vs plate count method
+e. Biochemical test for bacterial identification(Catalase activity test, Imvic test)
+f. Staining of bacteria (Grams, Acid Fast and Capsular)
+g. Staining of bacterial spores by Malachite green or acid fast staining
+h. Citrate Utilization Test (Distinguish between coliform bacteria)
+i. Use of selective and differential media
+j. Antibiotic susceptibility testing using Disk diffusion test
+k. Inoculation of fungus in PDA & YEPD medium (Petri dish and broth medium)
+l. Growth and microscopic examination of fungal culture
+m. Isolation and preservation of pure culture from natural source
+4. Text/Reference:
+a. Emanuel Goldman and Lorrence H Green . Practical Handbook of Microbiology, Second Edition, CRC
+Press, ISBN-13: 978-8123900346
+b. G. D. Gupta and R. S. Gaud. Practical Microbiology, Nirali Prakashan.
+c. Sherman, Microbiology : A laboratory manual. Benjamin Science publishing.
+d. John Harley, Microbiology Lab Manual, McGraw-Hill Science/Engineering/Math.
+e. John G. Holt, David Hendricks Bergey, R.S. Breed, Bergey's Manual of Determinative Bacteriology,
+Wolters Kluwer.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+Able to successfully perform streak plate isolation technique; bacterial staining techniques; and
+CO-1
+proper culture handling.
+CO-2 Demonstrate proper operation of the equipment and instruments used in this course.
+CO-3 To acquire the knowledge of standard of practice for safe handling of reagents and microbes.
+CO-4 Able to solve their unknown problems and document the results in laboratory reports.
+CO-5 Complete exams that require problem solving and creative thinking.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation:--
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 2 3 1 3 1 1 1 - 1 - - 1 3 3
+CO-2 2 2 - 2 3 0 1 - 2 1 1 2 2 2
+CO-3 1 1 - 2 2 1 1 1 1 - - - 3 2
+CO-4 2 2 1 1 2 - 2 - - 2 - 1 2 3
+CO-5 1 1 3 - 1 1 - 2 1 2 1 2 3 2
+Total 8 9 5 8 9 3 5 3 5 5 2 6 13 12
+Average 2 2 1 2 2 1 1 1 1 1 0 1 3 2
+13
+
+--- Page 14 ---
+SEMESTER-III
+1. Name of the Subject: BIOCHEMICAL REACTION ENGINEERING LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biochemical Reaction Engineering Lab L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content: Kinetics of Batch reactor, Continuous stirred tank reactor, plug flow reactor, residence time
+distribution studies, sterilization kinetics, enzyme and immobilized enzyme kinetics.
+4. Text/Reference:
+1. Fogler, HS, “Elements of Chemical Reaction Engineering”, PHI, 4th ed., 2010
+2. Levenspiel O, Chemical Reaction Engineering, Wiley India Pvt Ltd, 3rd ed., 2007
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Estimate the rate constant and order of batch reaction
+CO-2 Estimate the rate constant and order of flow reaction
+CO-3 Estimate residence time distributions in batch and flow bioreactors.
+CO-4 Estimate specific death rate of batch sterilization
+CO-5 Estimate rate constant for enzymatic reaction
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 3 2 1 2 - - - - - - - 3 -
+CO-2 2 3 2 1 2 - - - - - - - 3 -
+CO-3 2 3 2 1 2 - - - - - - - 3 -
+CO-4 2 3 2 1 2 - - - - - - - 3 -
+CO-5 2 3 2 1 2 - - - - - - - 3 -
+Total 10 15 10 5 10 - - - - - - - 15 -
+Average 2 3 2 1 2 - - - - - - - 3 -
+14
+
+--- Page 15 ---
+SEMESTER-IV
+1. Name of the Subject: MOLECULAR BIOLOGY & GENETICS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Molecular Biology & Genetics L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Molecular structure of genes and chromosomes;
+Module 2: Nucleic acid replication, transcription, translation and their regulatory mechanisms in prokaryotes
+and eukaryotes; Mutations and mutagenesis;
+Module 3: Mendelian inheritance; Gene interaction; Complementation; Linkage, recombination and
+chromosome mapping; Extra chromosomal inheritance.
+Module 4: Microbial genetics (plasmids, transformation, transduction, conjugation);
+Module 5: Horizontal gene transfer and Transposable elements; RNA interference; DNA damage and repair;
+Chromosomal variation; Molecular basis of genetic diseases.
+4. Text/Reference:
+a. B. Alberts, A. Johnson, J.Lewis and M.Raff, Molecular Biology of the Cell, Garland Science; 5th edition.
+b. H. Lodish, A Berk, C.A. Kaiser and M.Krieger, Molecular Cell Biology, W. H. Freeman, 6th edition, 2007.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+Understanding of gene and genetic material within a bacterial cell; the types of
+CO-1
+mutations that may occur in bacterial DNA.
+Understanding of evolution of bacteria, the use of nucleic acid in the molecular
+CO-2
+taxonomy of bacterial species.
+Clear conception on replication, transcription and translation process used by
+CO-3
+prokaryotes and eukaryotes.
+Understanding of how proteins are secreted and exported to different cellular
+CO-4
+compartments and appreciate the role of membrane.
+CO-5 Understand controlling mechanism of gene expressions in prokaryotes.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 3 3 1 - 1 - 1 - - 1 - 2 2 2
+CO-2 3 3 - 1 2 - 1 1 2 1 1 2 2 2
+CO-3 3 3 - 2 2 1 1 1 1 1 - 3 2 2
+CO-4 2 2 1 1 2 - 2 - - 1 - 1 2 3
+CO-5 1 1 3 - 1 1 - 2 1 1 1 2 3 2
+Total 12 12 5 4 8 2 5 4 4 5 2 10 11 11
+Average 2 2 1 1 2 0 1 1 1 1 0 2 2 2
+15
+
+--- Page 16 ---
+SEMESTER-IV
+1. Name of the Subject: RECOMBINANT DNA TECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Recombinant DNA Technology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Restriction and modification enzymes; Vectors; plasmid, bacteriophage and other viral
+vectors, cosmids, Ti plasmid, yeast artificial chromosome; mammalian and plant expression vectors.
+Module 2: DNA labeling; DNA sequencing; Polymerase chain reactions; DNA fingerprinting; Southern
+and northern blotting; In-situ hybridization; RAPD, RFLP.
+Module 3: cDNA and genomic DNA library; Gene isolation, cloning and expression; Transposons and
+gene targeting, Site-directed mutagenesis; Gene transfer technologies; Gene therapy
+4. Text/Reference:
+1. Principles of Gene Manipulation; S. B. Primrose, R. Twyman, R.W. Old; Wiley-Blackwell; 6th Edition.
+2. Gene Cloning and DNA Analysis: An Introduction, T A Brown; Wiley-Blackwell; 6th Edition
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Understand basic and advanced techniques in Genetic Engineering.
+CO-2 Select appropriate host and vector system for cloning and expression.
+CO-3 Understand the cloning strategies and expression of recombinant molecules
+CO-4 Understand the gene regulation mechanism in bacteria and eukaryotic hosts.
+Apply genetic engineering principles for biotechnological and biomedical
+CO-5
+applications.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 2 - 2 1 - - 1 - - - - 3 3
+CO-2 - 3 3 3 2 - - 2 - - - - 3 -
+CO-3 - 3 3 3 2 - - - - - - - 3 3
+CO-4 3 3 - 1 - - - - - - - - 3 -
+CO-5 1 2 3 3 - 2 - - - - 1 2 3 3
+Total 7 13 6 12 5 2 - 3 - - 1 2 15 9
+Average 2.33 2.6 3 2.4 1.6 2 - 1.5 - - 1 2 3 3
+16
+
+--- Page 17 ---
+SEMESTER IV
+1. Name of the Subject: TRANSPORT PHENOMENA IN BIOLOGICAL SYSTEMS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Transport Phenomena in Biological Systems L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Truncation and round-off errors, Interpolation; Least-squares regression; root finding techniques;
+Solution of algebraic and transcendental equations; Numerical differentiation; Numerical Integration; Numerical
+Solution of ODEs; Numerical Solution of PDEs.
+Module 2: Physical properties of fluids; types of fluids; governing laws of fluid flow: integral and differential
+relations; Bernoulli’s equation, flow of incompressible fluids in pipes; laminar and turbulent flow; flow of fluids
+through solids; compressible flow, measurement of fluid flow parameters; fluid machineries.
+Module 3: Constitutive relations for biological fluids; Hemodynamics; blood flow in microcirculation; transport in
+digestive system; fluid dynamics in vestibular system; transport in plants: xylem and phloem; Diffusion and
+osmosis; Fick’s law; diffusion with convection or electrical potentials; transport in porous media; membrane
+transport: active and passive transport; advection-diffusion equation; diffusion processes in human systems; gas
+exchange in the pulmonary system; transvascular transport; solvent and solute transport across the kidney
+glomerulus; mixing in digestive system.
+4. Text/Reference:
+1. FM White; Fluid Mechanics; McGraw-Hill; 7th ed.
+2. SC Chapra & RP Canale; Numerical Methods for Engineers; McGraw-Hills; 5th ed.
+3. RB Bird, WE Stewart and EN Lightfoot; Transport Phenomena; Wiley & Sons.
+4. Jagan Majumder; Biofluid Mechanics; World Scientific.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Understanding basics of numerical methods and their applications in biological field
+Understanding various laws governing fluid flow, fluid types, measurement machineries, and
+CO-2
+viscosity, pressure, velocity relations
+CO-3 Understanding the flow types, friction factors, dimension less numbers.
+CO-4 Understanding the transport mechanisms in biological systems, diffusion, convection
+Understanding the combinatorial transport mechanisms that govern the functions of living
+CO-5
+systems
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO PO- PO- PO- PO- PO- PO- PO- PSO PSO
+PO/PSO PO-1 PO-2 PO-3 PO-4
+-5 6 7 8 9 10 11 12 -1 -2
+mapping
+CO-1 3 1 - 2 - - - - - - - - 3 -
+CO-2 3 1 - 2 - - - - - - - - 3 -
+CO-3 3 1 - 2 - - - - - - - - 3 -
+CO-4 3 1 - 2 - - - - - - - - 3 -
+CO-5 3 1 - 2 - - - - - - - - 3 -
+Total 15 5 - 10 - - - - - - - - 15 -
+Average 3 1 - 2 - - - - - - - - 3 -
+17
+
+--- Page 18 ---
+SEMESTER IV
+1. Name of the Subject: BIOPROCESS ENGINEERING
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioprocess Engineering L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module1: Media and air Sterilization: Introduction. Medium sterilization, design of batch sterilization processes.
+Calculation of the Del factor during heating and cooling; Calculation of the holding time at constant temperature.
+Sterilization of media by membrane filters. Design of continuous sterilization processes: Sterilization of fermenter,
+Sterilization of feeds, Sterilization of liquid wastes. Air sterilization: Various types of sterilization equipments.
+Model –III: Cell growth, substrate utilization and product formation kinetics: Quantification of cell growth, growth
+patterns and kinetics in batch culture, environmental factors affecting growth kinetics, heat generation by microbial
+growth, unstructured/ structured, non segregated/ segregated models, models for transient behaviour, kinetics of
+substrate utilization, Yield and maintenance coefficients, kinetics of product formation. Continuous Flow Reactors:
+CFSTR, Fed Batch Reactor, PBR, PFR, FBR and MBR.
+Module- II: Agitation and aeration: Introduction, Basic Mass-Transfer Concepts, types of impellors and sparger,
+oxygen transfer rate, oxygen uptake rate, volumetric oxygen transfer rate (k a), measurement of k a, power
+L L
+requirement for agitation in gaseous and non gaseous systems, Gas Hold-Up: Gas Sparging with or without
+Mechanical Agitation. Scale-up: various criteria for scale-up.
+Model –IV: Operating considerations for bioreactors: Choosing the cultivation methods, Batch, fed-batch and
+continuous mode of operation. Chemostat with cell recycle, Stability analysis.
+4. Text/Reference:
+1. M.L. Shuler and F.Kargi, Bioprocess Engineering: Basic Concepts(2nd Edition), Prentice Hall PTR; 2 edition, 2001.
+2. Doran, Bioprocess Engineering Principles. Academic Press.
+3. J.E. Bailey and D.F. Ollis, Biochemical Engineering Fundamentals, McGraw Hill Higher Education, 2nd edition,
+1986
+4. James M. Lee, Biochemical Engineering. Prentice Hall.
+5. Douglas S. Clark, Harvey W. Blanch. Biochemical Engineering. CRC Press.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand the roles and responsibilities of a bioprocess engineer
+CO-2 Understand sterilization techniques and estimate the sterilization time
+CO-3 Understand the rheology of fermentation fluids and determine the power requirement in bioreactors
+CO-4 Develop the design equations for bioreactors and calculate the oxygen demand for cell growth.
+CO-5 Understand the scale up concepts for bioprocesses
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 1 3 1 1 - - - - - - - 3 2
+CO-2 2 3 3 1 1 - - - - - - - 3 3
+CO-3 2 3 3 2 1 - - - - - - - 3 -
+CO-4 2 3 3 2 2 - - - - - - - 3 -
+CO-5 2 3 3 1 1 - - - - - - - 3 -
+Total 11 13 15 7 6 - - - - - - - 15 5
+Average 2.2 2.6 3 1.4 1.2 - - - - - - - 3 2.5
+18
+
+--- Page 19 ---
+SEMESTER-IV
+1. Name of the Subject: RECOMBINANT DNA TECHNOLOGY LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Recombinant DNA Technology Laboratory L T P Mid End Internal
+Code 0 0 2 - 80 20
+3. Course Content:
+1. Bacterial plasmid DNA Extraction and analysis by agarose gel electrophoresis
+2. Isolation of genomic DNA from microbes and Plant
+3. Isolation of RNA from various sources
+4. Amplification of Genomic DNA by Random primers using PCR
+5. Restriction digestion of genomic DNA.
+6. Ligation of digested DNA into the expression vector
+7. Preparation of Competent cell
+8. Transformation of recombinant DNA into host
+9. Isolation of recombinants and confirmation of insert DNA in vector (selection of recombinant colonies)
+4. Text/Reference:
+1. John R. W. Masters, Animal Cell Culture: A Practical Approach. Oxford University Press
+2. J. Sambrook, E.F. Fritsch, T. Maniatis. Molecular Cloning: A Laboratory Manual (Volume I, II & III), Cold Spring
+Harbor Laboratory press
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Exposure to standard operating procedure of safe laboratory practices
+CO-1
+and operation of laboratory equipments
+CO-2 Isolation of nucleic acids from biological samples
+Understanding of quality and quantity of nucleic acids by different bio-
+CO-3
+analytical techniques
+CO-4 Understanding of gene expression strategies
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 - 3 - - - 2 2 3 1 - 1 2 3 3
+CO-2 1 1 1 1 2 - - - - - - - 1 1
+CO-3 - 3 1 3 2 - - - - - - - 1 1
+CO-4 3 3 3 3 3 2 2 - - - - - 3 3
+Total 4 10 5 7 7 4 4 3 1 - 1 2 8 8
+Average 2 2.5 1.66 2.33 2.33 2 2 3 1 - 1 2 2 2
+19
+
+--- Page 20 ---
+SEMESTER-IV
+1. Name of the Subject: MASS TRANSFER LAB
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name MASS TRANSFER LAB L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+1. To determine the drying rate and equilibrium moisture content of given sample at various temperature.
+2. To determine mass transfer coefficient in solid-liquid agitation system
+3. To determine the diffusivity coefficient of acetone in air by natural diffusion
+4. To find out volumetric mass transfer coefficient for gas absorption
+5. To determine extraction efficiency of lipid using various organic solvent
+6. To study mass transfer in adsorption system in batch and continuous mode
+7. Estimation of partition coefficients of two immiscible liquid
+8. Determination of mass transfer coefficient for steady state surface evaporation of
+water at different temperature
+9. Determination of ternary curve
+10. Verification of Rayleigh equation in a binary batch distillation process
+4. Text/Reference:
+1. McCabe and Smith, Unit Operation of Chemical Engg
+2. Gavhane Unit operation Chemical Engineering,.
+3. Treyball, Mass Transfer Operation
+4. Treybal, R. E.: “Mass transfer Operations”, 3rd ed., McGraw-Hill, New York, 1980
+5. Seader, J.D., E. J. Henley, and D. K. Roper: “Separation Process Principles – Chemical and Biochemical
+Operations”, 3rd ed., John Wiley, New Jersey, 2011.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Ability to understand safe handling of chemical reagents
+CO-2 Ability to operate the equipment and instruments used in this course.
+CO-3 To know how to analyze and report experimental data in a methodical manner
+CO-4 Ability to conduct experiments involving mass transfer in chemical and biochemical systems.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO PSO
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 -1 -2
+mapping
+CO-1 1 3 2 1 1 1 1 1 2 - - - 3 -
+CO-2 2 3 2 2 3 1 1 1 3 2 1 - 3 -
+CO-3 2 3 2 3 1 1 - - - 3 1 - 3 -
+CO-4 3 3 2 3 3 1 1 1 2 2 1 - 3 -
+Total 8 12 8 9 8 4 3 3 7 7 3 - 12 -
+Average 2 3 2 2.25 2 1 1 1 2.33 2.33 1 - 3 -
+20
+
+--- Page 21 ---
+SEMESTER IV
+1. Name of the Subject: FLUID MECHANICS LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+FLUID MECHANICS
+Name L T P End Internal
+LABORATORY
+Code 0 0 3 80 20
+3. Course Content:
+Flow through open channel, straight pipe, bends; frictional losses; Bernoullis theorem; flow measuring
+instruments; Reynold number quantification; instruments for pumping; fluid dynamics
+4. Text/Reference:
+1. FM White; Fluid Mechanics; McGraw-Hill; 7th ed.
+2. SC Chapra& RP Canale; Numerical Methods for Engineers; McGraw-Hills; 5thed.
+3. RB Bird, WE Stewart and EN Lightfoot; Transport Phenomena; Wiley & Sons.
+4. JaganMajumder; Biofluid Mechanics; World Scientific.
+5. Course Outcomes:
+No. of
+course Name of the course outcome
+outcome
+CO-1 Ability to Utilize basic measurement techniques of fluid mechanics
+Ability to understand the differences among measurement techniques, their relevance
+CO-2
+and applications.
+CO-3 Estimate the friction and measure the frictional losses in fluid flow.
+CO-4 experiment with flow measurement devices like venturimeter and orifice meter
+CO-5 Understand different principles related to fluid flow, flow velocity, bernouli`s theorem.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO PSO
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 -1 -2
+mapping
+CO-1 3 2 1 3 1 1 - - 2 1 - 1 2 -
+CO-2 3 - 1 3 3 1 - - 2 2 - - 2 -
+CO-3 2 - 3 2 3 1 - - 2 - - - 2 -
+CO-4 2 - 3 2 3 1 - - 2 - - - 2 -
+CO-5 2 2 1 1 1 1 - - 1 - - - 2 -
+Total 12 4 9 11 11 5 - - 9 3 - 1 10 -
+Average 2.4 2 1.8 2.2 2.2 1 - - 1.8 1.5 - 1 2 -
+21
+
+--- Page 22 ---
+SEMESTER IV
+1. Name of the Subject: BIOPROCESS ENGINEERING LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioprocess Engineering Laboratory L T P Mid End Internal
+Code 0 0 3 30 50 20
+3. Course Content: The Microbial cell growth kinetics, Preparation and characterization of immobilized
+enzyme, Determination of kinetic constants in free and immobilized enzyme systems, Analysis of mass
+transfer effects of kinetics of the immobilized enzyme reactions, Bio-conversion studies with immobilized
+enzyme packed bed reactors, Effect of pH and temperature on enzyme activity, Kinetics of enzyme inhibition
+activity, Production of secondary metabolites in synthetic and complex industrial media, Estimation of monod
+parameters in batch, fed-batch and continuous cultures and Solid state fermentation.
+4. Text/Reference:
+1. Brian McNeil and Linda Harvey. Practical Fermentation Technology. Wiley
+2. S. Kulandaivelu (Author), S. Janarthanan. Practical Manual on Fermentation Technology. I K
+International Publishing House Pvt. Ltd; First Edition edition
+3. Paul Cutler. Protein Purification Protocols. Humana Press; 2nd edition
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Estimate specific growth rate and development of growth kinetics model.
+CO-2 Estimate the monod parameters in batch, fed-batch and continuous cultures
+CO-3 Investigate the effect of pH and temperature on enzyme activity
+CO-4 Determination of kinetic constants in free and immobilized enzyme systems
+CO-5 Determination of conversion efficiency of immobilized enzyme packed bed reactors
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 3 2 1 2 - - - - - - - 3 -
+CO-2 2 3 3 1 2 - - - - - - - 3 -
+CO-3 2 3 3 1 2 - - - - - - - 3 -
+CO-4 2 3 2 1 2 - - - - - - - 3 -
+CO-5 2 3 1 1 2 - - - - - - - 3 -
+Total 10 15 11 5 10 - - - - - - - 15 -
+Average 2 3 2.2 1 2 - - - - - - - 3 -
+22
+
+--- Page 23 ---
+SEMESTER-V
+1. Name of the Subject: IMMUNOLOGY AND IMMUNOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Immunology and Immunotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Primary and secondary lymphoid organ; B and T cells and macrophages; Innate, humoral and
+cell mediated immunity; Antigen; Antibody structure and function. Molecular basis of antibody
+diversity; Synthesis of antibody and secretion;
+Module 2: Antigen-antibody reaction; Complement; Major histocompatibility complex (MHC); Antigen
+processing and presentation; Polyclonal and monoclonal antibody, Hybridoma technology
+Module 3: Regulation of immune response; Immune tolerance; Hypersensitivity; Autoimmunity; Graft
+versus host reaction.
+4. Text/Reference:
+Kuby Immunology, by Judy Owen, Jenni Punt, Sharon Stranford, Patricia Jones;
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+Able to understand the various mechanisms that regulate immune responses and
+CO-1
+maintain the tolerance
+Able to understand the adverse effect of immune system including Allergy,
+CO-2
+hypersensitivity and autoimmunity
+CO-3 Able to apply basic techniques for identifying antigen and antibody interactions.
+CO-4 Able to explain the stages of transplantation of various transplant procedures
+Able to elucidate the reasons for immunization and aware of different
+CO-5
+vaccination
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 2 2 2 - - - - - - - 2 1 2
+CO-2 3 3 3 3 - - 1 - - - - 2 1 3
+CO-3 3 3 3 3 - - - - - - - 2 1 3
+CO-4 3 3 3 3 2 - 3 3 - - - 2 2 3
+CO-5 3 3 3 3 1 - 3 2 - - - 2 2 3
+Total 15 15 15 14 3 - 7 5 - - - 10 7 14
+Average 3 3 3 2.8 1.5 - 2.33 2.5 - - - 2 1.4 2.8
+23
+
+--- Page 24 ---
+SEMESTER-V
+1. Name of the Subject: BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioinformatics and Computational Biology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Introduction to Biological databases and Alignment: types of databases, Sequence Analysis,
+Pairwise alignment, Dot matrix Scoring function, Substitution matrix, Dynamic programming, BLAST and
+FASTA algorithms, Multiple sequence alignment:
+Module 2: Phylogenetic analysis: Molecular clock theory, Distance and character-based methods,
+Phylogenetic tree evaluation: Bootstrap analysis.
+Module 3: Genomics: Genome sequencing, annotation, Basic principles of microarray, Gene prediction
+algorithms, Machine learning techniques: Artificial Neural Networks, Hidden Markov Models
+Module 4: Proteomics: Structure classification of proteins (SCOP, CATH); Secondary structure prediction,
+Tertiary structure prediction (homology modeling and fold recognition), Protein protein interaction,
+protein-protein, protein-nucleic acid, protein-ligand interaction, Molecular docking.
+4. Text/Reference:
+a) Arthur Lesk; Introduction to Bioinformatics, Oxford University Press, Second edition, 2002
+b) David W. Mount; Bioinformatics: Sequence and Genome Analysis; CSHL Press; First edition, 2001
+c) Andreas D. Baxevanis, Bioinformatics, A Practical Guide to the Analysis of Genes and Proteins. Wiley-
+Interscience, 3rd edition 2004
+d) Richard Durbin; Sean R. Eddy; Anders Krogh; Graeme Mitchison; Biological Sequence Analysis:
+Probabilistic Models of Proteins and Nucleic Acids, Cambridge University Press, 3rd edition, reprint
+2008.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+To understand the Scope of Bioinformatics and the importance of biological
+CO-1
+database using online resources
+To acquire the contextual knowledge of sequence alignment and testing the
+CO-2
+accuracy of predicted alignment
+To analyze and develop the phylogenetic model for better interpretation of
+CO-3
+biological data for public health.
+CO-4 To predict the genome structure using probabilistic model
+To analyze the structure and function of Protein using contemporary bio
+CO-5
+informatics tools and IT resources.
+6. CO-PO Matrices &CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 1 2 2 3 - 1 - - 1 - 2 3 -
+CO-2 2 2 1 3 3 - - - - 1 - 1 3 -
+CO-3 2 3 3 3 3 2 1 - - 1 - 2 3 1
+CO-4 3 3 2 3 2 - - - - - - 1 3 -
+CO-5 2 2 2 3 3 2 1 - - 1 - 2 3 -
+Total 11 11 10 14 14 4 3 - - 4 - 8 15 1
+Average 2.2 2.2 2.0 2.8 2.8 0.8 0.6 - - 0.8 - 1.6 3 0.2
+24
+
+--- Page 25 ---
+SEMESTER-V
+1. Name of the Subject: DOWNSTREAM PROCESSING
+3. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Downstream Processing L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Overview of upstream and downstream processing of bioprocess, Role and importance of
+Downstream process in biotechnological processes.
+Module 2: Cell disruption methods, Precipitation of protein by different methods, Sedimentation,
+Flocculation, Filtration, Centrifugation, Adsorption, Extraction.
+Module 3: MEMBRANE BASED SEPARATION PROCESS: fundamentals of membrane based separation,
+Microfiltration, Ultrafiltration, Reverse osmosis, concentration polarization, Dialysis, Electrodialysis,
+Diafiltration. CHROMATOGRAPHY: principles, instruments and practice, adsorption, reverse phase, ion
+exchange, size exclusion, HPLC.
+Module 4: ELECTROKINETIC METHOD OF SEPARATION: Electrophoresis, Capillary electrophoresis,
+Isoelectric focusing. PRODUCT FINISHING OPERATION: Crystallization, Drying, Lyophilization, Case
+studies of the downstream processing of Baker’s yeast, ethanol, citric acid.
+4. Text/Reference:
+1. Roger G Harrison et al “Bioseparation Science and Engineering” Oxford University Press, 2003
+2. Belter PA and Cussler E, “ Bioseparations”, Wiley 1985
+3. Christie J Geankoplis, “Transport processes and unit operations” Allyn& Bacon, 1978
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand separation techniques used in downstream process
+CO-2 Design and optimize downstream processes
+CO-3 Understand the requirements for successful operation of downstream processes
+CO-4 Understand the principles of major unit operations used in downstream processing of
+biopharmaceuticals.
+CO-5 Understand the downstream processing of various products
+6. CO-PO Matrices &CO-PSO Mapping of courses:
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 2 3 2 1 1 - - - - - - - 3 -
+CO-2 2 3 3 1 2 - - - - - - - 3 -
+CO-3 2 3 3 1 2 - - - - - - - 3 -
+CO-4 2 3 3 3 2 - - - - - - - 3 -
+CO-5 2 3 2 2 2 - - - - - - - 3 -
+Total 10 15 13 8 9 - - - - - - - 15 -
+Average 2 3 2.6 1.6 1.8 - - - - - - - 3 -
+25
+
+--- Page 26 ---
+SEMESTER-V
+1. Name of the Subject: BIOCHEMICAL PROCESS CALCULATION
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biochemical Process L T P Mid End Internal
+Calculation
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Introduction to process calculations: Units & Dimensions, Dimensional Consistency,
+Conversion of units, Mole & mole fractions, Stoichiometric relationship and yield concepts, Presentation
+and analysis of experimental data: Mean median mode and standard deviation.
+Module2: Perception of Ideal gas, Vapour pressure and Humidity: Behaviour of ideal gases and its
+application to gaseous mixtures, Law of Dalton and Amagat, Densities of gaseous mixture; Vapour
+pressures: Liquefaction, Vaporization, Boiling point, Vapour pressures of solids and liquids, Raoult’s law,
+Humidity & Saturation.
+Module 3: Fundamentals of Material balance: problems with and without reactions, concepts of Excess
+reactant, Limiting Reactant, Degree of completion; Elemental balance, Growth and product stoichiometry.
+Module 4: Concept of Energy balance: Enthalpy calculation procedure, Heat capacity of gases, liquid
+and solids, Latent heat, Heat of reaction, formation and combustion, solution and dilution. Energy
+balance of reactive and non-reactive processes enthalpy concentration charts, Calculation of heat of
+reaction for biomass production, energy balance equation for microbial growth and cell culture.
+4. Text/Reference:
+a) Pauline M Doran., “Bioprocess Engineering Principles”; Publisher: Elesvier Science & Technology.
+b) Hougen OA et. Al., Chemical Process Principles (Vol.1); Publisher: CBS Publishers And Distributors Pvt
+Ltd.
+c) Felder RM and Rousseau RW, “Elementary Principles of Chemical processes”, John wiley.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+To acquire the fundamental concepts and principles of engineering process
+CO-1
+calculations
+CO-2 To learn statistical techniques for processing & evaluating biological data
+CO-3 To apply hypothesis testing principles to biological data and interpret them
+CO-4 To understand the material balance in several unit processes and unit operations
+To understand the energy balance related to various process used for biological
+CO-5
+system
+6. CO-PO Matrices &CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 2 - - - - - - - - - - 2 -
+CO-2 3 3 - - - - - - - - - - 3 -
+CO-3 2 3 - - - - - - - - - - 3 -
+CO-4 3 3 1 - - - - - - - - - 2 1
+CO-5 3 3 1 - - - - - - - - - 2 1
+Total 14 14 2 - - - - - - - - - 12 2
+Average 2.8 2.8 0.4 - - - - - - - - - 2.4 0.4
+26
+
+--- Page 27 ---
+SEMESTER-V
+1. Name of the Subject: BIOINFORMATICS AND COMPUTATIONAL BIOLOGY LAB
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioinformatics and Computational Biology Lab L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+1. Overview of biological database
+2. Data retrieval practice using NCBI Entrez
+3. Finding similar nucleotide sequences using BLASTn, megablast and discontinuous megablast
+4. Finding similar protein sequences using BLASTp
+5. Finding similar protein sequences using PSI-BLAST, PHI-BLAST, DELTA-BLAST
+6. Perform Multiple sequence alignment using MEGA
+7. Perform Phylogenetic analysis using different algorithms in MEGA
+8. Perform protein structure visualization
+9. Molecular docking using Autodock
+10. Construct basic programs for bioinformatics using PERL
+4. Text/Reference Book
+1. Andreas D. Baxevanis. Bioinformatics, A Practical Guide to the Analysis of Genes and Proteins. Wiley-
+Interscience
+2. Mohammed and Mohammed RukunuddinGhalib. Bioinformatics Practical Manual: Basic Bioinformatics
+Practical
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+To gain the knowledge of biological database providing the information of biological
+CO-1
+macromolecules
+To acquire the knowledge of data mining through various bioinformatics and
+CO-2
+computational resources
+CO-3 To analyze the biological data by dynamic programming and machine learning
+CO-4 To visualize the protein structure and it its folding mechanism by various IT resources.
+To learn the different algorithms and programming language PERL for biological data
+CO-5
+interpretation
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 2 1 2 3 - - - 2 2 - 1 3 -
+CO-2 3 1 1 2 3 1 - 1 1 - 2 1 3 1
+CO-3 3 2 1 3 3 2 - 1 2 2 - 1 1 -
+CO-4 2 2 1 2 3 1 - - 2 2 3 - 3 -
+CO-5 3 2 - 3 3 2 - 1 1 2 2 2 2 1
+Total 13 9 4 12 15 6 - 3 8 8 7 5 12 2
+Average 2.6 1.8 0.8 2.4 3 1.2 - 0.6 1.6 1.6 1.4 1 2.4 0.4
+27
+
+--- Page 28 ---
+SEMESTER-V
+1. Name of the Subject: HEAT TRANSFER LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Heat Transfer Laboratory L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+1. To find out heat transfer through lagged pipe.
+2. To find the specific heat and thermal conductivity of solid fruits and vegetables.
+3. Measurement of specific heat and thermal conductivity of fermentation broth.
+4. To find the specific heat and thermal conductivity of gas
+5. To find out the overall heat transfer co-efficient for natural and force convection
+6. To find the thermal conductivity of Biological tissue
+7. To determine the overall heat transfer coefficient in shell and tube heat exchanger
+8. To determine over-all heat transfer coefficient in CSTR
+9. To find out the heat transfer coefficient in a vertical and a horizontal condenser
+10. To find out the heat transfer coefficient of a plate type heat exchanger
+11. To find out the Stefan Boltzman’s constant and compare with the theoretical value
+12. Study and operation of a single effect evaporator
+13. To study the unsteady state Heat Transfer
+4. Text/Reference Book
+1. Ozisik, M. N.: Heat Transfer – A Basic Approach, McGraw-Hill, New York, 1985.
+2. Dutta, BK, “Heat Transfer: Principles and Applications”, Phi Learning, 2009.
+3. Kern DQ, “Process Heat Transfer”, Tata McGraw Hill, 2002.
+4. Holman JP, “Heat Transfer (in SI Units)”, Tata McGraw Hill, 2008
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Estimate heat transfer coefficient in solid fruits and vegetables
+CO-2 Estimate the specific heat and thermal conductivity of fermentation broth
+CO-3 Estimate the overall heat transfer co-efficient for natural and force convection
+CO-4 Estimate the Stefan Boltzman’s constant and compare with the theoretical value
+CO-5 Estimate the heat transfer coefficient in a vertical and a horizontal condenser
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 3 2 1 2 - - - - - - - 3 -
+CO-2 2 3 3 1 2 - - - - - - - 3 -
+CO-3 2 3 3 1 2 - - - - - - - 3 -
+CO-4 2 3 2 1 2 - - - - - - - 3 -
+CO-5 2 3 1 1 2 - - - - - - - 3 -
+Total 10 15 11 5 10 - - - - - - - 15 -
+Average 2 3 2.2 1 2 - - - - - - - 3 -
+28
+
+--- Page 29 ---
+SEMESTER-VI
+1. Name of the Subject: PROCESS BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Process Biotechnology L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Cell factory design: Microbial, animal and plant cell culture platforms; low cost substrates;
+Bioprocess design and development from lab to industrial scale; Industrial application of chromatographic and
+membrane based bioseparation methods, process intensification.
+Module 2: Production of biomass, industrial enzymes, Large scale production and purification of recombinant
+proteins (human insulin, monoclonal antibodies, erythropoietin, vaccines, growth promoting factors, tissue
+plasminogen activators).
+Module 3: Process technology for production of primary and secondary metabolites; antibiotics; Biofuels,
+Bioplastics, Bioconversion processes; Bioremediation-Aerobic and anaerobic processes for stabilization of solid
+/ liquid wastes; principles of life cycle assessment and bioeconomics
+4. Text/Reference Book
+1. Ashok Pandey, Rainer Hofer, Mohammad Taherzadeh, et al., 2015. Industrial biorefineries and white
+biotechnology. Elsevier, 2015, Netherlands
+2. Satya N. Mukhopadhyay, Process Biotechnology Fundamentals, Anshan Publishers; 1 edition (April 30,
+2004)
+3. P T Kalaiselvan, Bioprocess Technology, MJP PUBLISHERS; 1st edition (January 11, 2007)
+4. Future Prospects for Industrial Biotechnology, OECD Publishing
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand design of various process for production of primary and secondary metabolites
+CO-2 Cell factory design for industrial scale production of primary and secondary metabolites
+CO-3 Understand process intensification involved for metabolite production process
+CO-4 Understand large scale production and purification process for recombinant proteins.
+CO-5 Understand life cycle assessment and bioeconomics
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 2 1 1 1 - - - - - - - 2 -
+CO-2 2 2 3 2 3 - - - - - - - 2 -
+CO-3 2 2 3 2 3 - - - - - - - 2 1
+CO-4 2 2 3 3 3 - - - - - - - 2 1
+CO-5 2 2 1 1 2 - - 1 - - 2 - 2 -
+Total 10 10 11 9 12 - - 1 - - 2 - 10 2
+Average 2 2 2.2 1.8 2.4 - - 1 - - 2 - 2 1
+29
+
+--- Page 30 ---
+SEMESTER-VI
+1. Name of the Subject: BIOPROCESS INSTRUMENTATION AND CONTROL
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioprocess Instrumentation and Control L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Introduction to automation, process instrumentation, principles of operation, block diagrams, P&I
+diagrams, revision of Laplace transform, Modeling based on transfer function approach, open-loop systems:
+dynamic response of first order systems, first order systems in series, second order systems, and transportation
+lag; Examples for process instruments and control.
+Module 2: Process Control:Feedback control, P, PI, PID controllers. Dynamic response of closed loop systems
+Linear stability analysis: Routh stability criterion, root locus diagrams. Frequency response: Bode diagrams,
+Nyquist diagrams, Bode and Nyquist stability criterion. Routh analysis; Frequency response - Control system
+design. Controller tuning: Zeigler-Nichols and Cohen-Coon methods.
+Module 3: Control valves, actuators, positioners; Introduction to advanced control: feedforward control,
+cascade control, dead time compensation, ratio control, internal model control.
+Module 4: Modern computer-based control systems: SCADA, PLC, DCS, DDC, illustration of instruments with
+softwares.
+4. Text/Reference Book
+1. D. P. Coughnowr, Process Systems Analysis and Control, McGraw Hill, New York, 1991.
+2. C. A. Smith and A. B. Corripio, "Principles and Practice of Automatic Process Control", Wiley, New York,
+1989.
+3. P. Harriot, Process Control, Tata McGraw Hill, New Delhi, 1984.
+4. D.P. Eckman, "Industrial Instrumentation", Wiley Eastern Ltd., New York 1990.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Classify instruments for the measurement of pressure, temperature, fluid flow and liquid level.
+CO-2 Understand the dynamic behavior of bioprocesses
+CO-3 Analyze different components of a control loop
+CO-4 Understand the closed loop control system,Sensors and Transducer.
+CO-5 Analyze stability of feedback control system
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO &
+PO- PO- PO- PS PS
+PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9
+10 11 12 O-1 O-2
+mapping
+CO-1 2 1 3 1 - - 1 - - - - 2 2 1
+CO-2 2 2 - 1 - - 1 - - - - 1 1 -
+CO-3 3 2 - 1 - - - - - - - 1 - -
+CO-4 3 2 - 1 - - 1 - - - - 2 - -
+CO-5 3 2 2 1 - - 1 - - - - 1 - -
+TOTAL 13 9 5 5 0 0 4 0 0 0 0 7 3 1
+AVG 2.6 1.8 1 1 0 0 0.8 0 0 0 0 1.4 0.6 0.2
+30
+
+--- Page 31 ---
+SEMESTER-VI
+1. Name of the Subject: ANIMAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Animal Biotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Cell cycle and cell growth control, Animal cell culture; media composition and growth
+conditions; Animal cell and tissue preservation;
+Module 2: Anchorage and non-anchorage dependent cell culture; Kinetics of cell growth; Micro & macro-
+carrier culture.
+Module 3: Stem cell technology; Animal cloning; Transgenic animals
+4. Text/Reference:
+1. Culture of animal Cells, A manual of Animal Cells, R.Ian Freshney
+2. Principles of Gene Manipulation; S. B. Primrose, R. Twyman, R.W. Old; Wiley-Blackwell; 6th Edition.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Describe the limitations and challenges facing the animal industries and
+CO-1
+disciplines
+CO-2 Describe the various biotechnologies available to the animal related fields
+Evaluate and discuss public and ethical concerns over the use of animal
+CO-3
+biotechnology
+Locate and critically evaluate scientific literature and experimental studies
+CO-4 relating to animal biotechnology and be able to effectively communicate the
+findings in oral and written form.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 2 2 - - 2 - - - - 2 3 3
+CO-2 3 3 3 2 3 - - - - - - 2 3 3
+CO-3 - - - - - - 3 3 - - - 2 3 3
+CO-4 - - 2 - - - - - - 3 - 2 3 3
+Total 6 6 7 4 3 - 5 3 - 3 - 8 12 12
+Average 3 3 2.33 2 3 - 2.5 3 - 3 - 2 3 3
+31
+
+--- Page 32 ---
+SEMESTER-VI
+1. Name of the Subject: DOWNSTREAM PROCESSING LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Downstream Processing Laboratory L T P Mid End Internal
+Code 0 0 3 - 80 20
+3. Course Content:
+1. Harvesting of fermentation broth and its processing for product purification.
+2. Solid-liquid separation for purification of biomolecules
+3. Liquid-liquid separation for purification of biomolecules
+4. Disruption of microbial cells by enzymatic or ultrasonic methods
+5. Separation of biomolecules in batch and continuous centrifuges.
+6. Separation of biomolecules using supercritical fluid extraction
+7. Separation of proteins by precipation through adding salts and solvents.
+8. Dialysis method for protein purification
+9. Separation of biomolecules through cross flow ultra filtration modules.
+10. Separation of proteins and other biomolecules by various Chromatography techniques
+11. Concentration of biomolecules through Conventional drying, Vaccum evaporation and lyophilization
+12. Separation and crystallization of Biomolecules
+13. Microbial production and purification of antibiotics
+14. Microbial production and purification of enzymes
+15. Microbial production and purification of vitamins
+16. Microbial production and purification of organic acid
+4. Text/Reference:
+1. Shuler, M. L., &Kargi, F. (2002). Bioprocess engineering: Basic concepts. Upper Saddle River, NJ: Prentice
+Hall.
+2. Stanbury, P. F., & Whitaker, A. (1984). Principles of fermentation technology. Oxford: Pergamon Press.
+3. Blanch, H. W., & Clark, D. S. (1997). Biochemical engineering. New York: M. Dekker.
+4. Bailey, J. E., &Ollis, D. F. (1986). Biochemical engineering fundamentals. New York: McGraw-Hill.
+5. El-Mansi, M., & Bryce, C. F. (2007). Fermentation microbiology and biotechnology. Boca Raton:
+CRC/Taylor & Francis.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Extract intra and extra cellular proteins/biomolecules from biological samples
+CO-2 Perform cell destruction using a sonicator and enzymatic methods
+CO-3 Fractionate proteins using precipitation methods
+CO-4 Separate proteins/biomolecules using chromatographic techniques
+CO-5 Analyze the purity of protein or biomolecules
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PSO- PSO-
+PO/PSO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+1 2
+mapping
+CO-1 2 3 1 1 2 - - - - - - - 2 -
+CO-2 2 3 2 1 2 - - - - - - - 2 -
+CO-3 2 3 2 1 2 - - - - - - - 2 -
+CO-4 2 3 2 1 2 - - - - - - - 2 -
+CO-5 2 3 1 1 2 - - - - - - - 2 -
+Total 10 15 8 5 10 - - - - - - - 10 -
+Average
+2 3 1.6 1 2 - - - - - - - 2 -
+32
+
+--- Page 33 ---
+SEMESTER-VI
+1. Name of the Subject: IMMUNOTECHNOLOGY LABORATORY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Immunotechnology Laboratory L T P Mid End Internal
+Code 0 0 2 - 80 20
+3. Course Content:
+Animal Cell Culture Techniques, Estimation and identification of Antigen, Estimation and identification
+of Antibody, SDS PAGE analysis, Western Blot Techniques, ELISA, ICC, Assay of cellular immunity.
+4. Text/Reference:
+1. Culture of animal Cells, A manual of Animal Cells, R.Ian Freshney
+2. Principles of Gene Manipulation; S. B. Primrose, R. Twyman, R.W. Old; Wiley-Blackwell; 6th Edition.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to quantify and identify the antigens and antibodies
+Able to understand the polyclonal and monoclonal antibodies and their
+CO-2
+production
+Able to design different immunological techniques for biotechnology
+CO-3
+industry
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 - 3 - - - - - - 1 1 -
+CO-2 3 3 3 - - - - - - - - 1 2 -
+CO-3 3 3 3 - 3 2 3 - - - - 1 3 -
+Total 9 9 9 - 6 2 3 - - - - 3 6 -
+Average 3 3 3 - 3 2 3 - - - - 1 2 -
+33
+
+--- Page 34 ---
+SEMESTER-VII
+1. Name of the Subject: ENVIRONMENTAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Environmental Biotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Basics of environmental microbiology, metabolism and trophic classification, molecular tools
+to study microbial ecology
+Module 2: Bioremediation: scope and characteristics of contaminants, biodegradability, contaminant
+availability for biodegradation, engineering strategies for bioremediation, biosorption
+Module 3: Treatment of hazardous chemicals: factors causing molecular recalcitrance, biodegradation of
+problematic environmental contaminants (synthetic detergents, pesticides, hydrocarbons, chlorinated
+aromatic hydrocarbons, explosives etc.)
+Module 4: Biological treatment of water and wastewater, biological nutrient removal (N & P removal)
+4. Text/Reference:
+1. Environmental Biotechnology: Principles and applications by Bruce E Rittmann and Perry L McCarty.
+2. Brock Biology of Microorganisms By Michael T Madigan, John M. Martinko, Paul V. Dunlap, David P.
+Clark
+3. Wastewater Engineering: Treatment and Reuse by Metcalf and Eddy
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Ability to understand the principle of bioremediation
+CO-2 Ability to apply engineering skills to solve environmental challenges.
+CO-3 Ability to understand the cause, status and ways to reduce pollution.
+Ability to understand unit operations related to water, wastewater and solid waste
+CO-4
+treatment.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PSO PSO
+PO/PSO PO-6 PO-7 PO-8 PO-9
+1 2 3 4 5 10 11 12 -1 -2
+mapping
+CO-1 3 3 2 1 1 2 3 2 - - - - 3 3
+CO-2 3 3 2 1 1 2 3 2 - - - - 3 3
+CO-3 3 2 2 1 1 3 3 2 - - - - 3 3
+CO-4 3 3 2 1 1 1 3 1 - - - - 3 3
+Total 12 12 8 4 4 8 12 7 - - - - 12 12
+Average 3 3 2 1 1 2 3 1.75 - - - - 3 3
+34
+
+--- Page 35 ---
+SEMESTER-VII
+1. Name of the Subject: PLANT BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Plant Biotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Plant morphogenesis: Special features and organization of plant cells; cellular totipotency; in vitro
+culture; protoplast isolation and culture; somatic hybridization; haploid and triploid production; somaclonal
+variation; embryo rescue and synthetic seeds; regeneration of plants, autotrophic and heterotrophic growth; Plant
+growth regulators and elicitors.
+Module 2: Plant cell culture:Outline of plant tissue culture, Cell suspension culture development: methodology,
+kinetics of growth and production formation, nutrient optimization; Production of secondary metabolites by plant
+suspension cultures; Hairy root cultures and their cultivation, cryopreservation and conservation of germplasm
+Module 3: Plant gene structure and transformation: plant gene structure, function and regulation; plant
+transformation; marker genes; promoters; Agrobacterium mediated gene transfer –Ti-plasmid-process of T-DNA
+transfer and integration, transformation in plant, Direct gene transfer methods. Binary vectors, chloroplast
+transformation.
+Module 4: Future Application of plant Biotechnology:Plants as bioreactors, transgenic plants, organic foods,
+molecular farming, therapeutic products.
+4. Text/Reference:
+a) Plant Biotechnology-The genetic manipulation of plants”. A. Slater, N.W.Scott and M. Fowler. Oxford
+university press, 2003
+b) “Plant Molecular Biology: Essential Techniques“ P . Jones, P. J. Jones and J. M. Sutton, John Wiley & Sons, 1997.
+c) “Plant Tissue Culture: Theory and Practice” S. S. Bhojwani and M. K. Razdan, Elsevier, 1996.
+d) “Gene Transfer to Plants”; Potrykus and G. Spangenberg, SpringerVerlag, 1995.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To gain the fundamental knowledge of plant cell culture.
+CO-2 To understand the concept and principles of plant tissue culture
+To learn the different strategies of r DNA technology beneficial for crop improvement
+CO-3
+research
+To familiarize with the concept of molecular farming by gene manipulation and their
+CO-4
+scope in agricultural sector
+CO-5 To acquire the knowledge of plant derived products useful for society
+5. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 2 - - - - - - - - - 2 3 -
+CO-2 3 2 - - - - - - - - - 1 2 -
+CO-3 2 3 3 3 1 2 1 - - - - 2 3 1
+CO-4 2 2 2 3 1 1 2 - - - - 2 3 2
+CO-5 2 3 3 3 1 2 1 - - - - 2 3 2
+Total 12 12 8 9 3 5 4 - - - - 9 14 5
+Average 2.4 2.4 1.6 1.8 0.6 1.0 0.8 - - - - 1.8 2.8 1.0
+35
+
+--- Page 36 ---
+SEMESTER-VII
+1. Name of the Subject: BIOPHYSICAL AND BIOANALYTICAL TECHNIQUES
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biophysical and Bioanalytical Techniques L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Spectroscopy study of chemical compounds and bio-molecules Electromagnetic radiations and
+interactions with matters: Absorption of radiation, Beer-Lambert’s law, deviation of Beer-Lambert’s equation
+and its limitations. Principals, instrumentation, sampling and application of few spectroscopic techniques: UV-
+Visible spectroscopy, Fluorescence spectroscopy, IR/Raman spectroscopy, NMR Spectroscopy and Mass
+spectroscopy.
+Module 2: Microscopy: Principals, instrumentation and applications of imaging techniques: Dark-field, Phase
+contrast, Fluorescence, Confocal microscopy, Atomic force microscopy, and Transmission and Scanning
+electron microscopy.
+Module 3: Diffraction Technique: Crystal geometry and structure: Introduction to lattice and lattice systems,
+Bragg’s plane, miller indices, point groups and space groups Principle of diffraction and X-ray diffraction: X-
+rays production, X- ray spectra, Bragg’s law and intensity of X- rays, Mosley’s law, powdered XRD, percentage
+crystallinity, single crystal XRD, macromolecular XRD (protein crystallization, data collection and structure
+solution).
+Module 4: Gas Chromatography, Introduction to hyphenated techniques in chromatography, GC-MS and LC-
+MS. Radioisotope techniques Study of radioisotopes in biological samples; Quantification of radioisotopes by
+proportional and GM counter, scintillation counters; Principles and application of autoradiography and
+Radioimmunoassay.
+4. Text/Reference:
+a. I. D. Campbell, Biological spectroscopy (Benjamin/Cummings Pub. Co, Menlo Park, Calif, 1984),
+Biophysical techniques series.
+b. K. Wilson, J. M. Walker, Eds., Principles and techniques of biochemistry and molecular biology (Cambridge
+University Press, Cambridge, UK : New York, 7th ed., 2009).
+c. R. F. Boyer, Biochemistry laboratory: modern theory and techniques (Prentice Hall, Boston, 2nd ed., 2012).
+d. R. Katoch, Analytical techniques in biochemistry and molecular biology (Springer, New York, 2011).
+e. D. L. Spector, R. D. Goldman, Eds., Basic methods in microscopy: protocols and concepts from cells: a
+laboratory manual (Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y, 2006).
+f. J. R. Lakowicz, Principles of fluorescence spectroscopy (Springer, New York, 2006;
+http://site.ebrary.com/id/10229235).
+g. B. Fultz, Transmission electron microscopy and diffractometry of materials (Springer, Berlin ; New York,
+2nd ed., 2002).
+h. D. B. Williams, C. B. Carter, Transmission electron microscopy a textbook for materials science (Springer,
+New York, 2009;
+i. R. M. Silverstein, Spectrometric identification of organic compounds (John Wiley & Sons, Hoboken, NJ, 7th
+ed., 2005).
+j. D. Harvey, Modern analytical chemistry (McGraw-Hill, Boston, 2000).
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Advanced knowledge about the interactions of electromagnetic radiation and matter
+CO-1 and their applications in spectroscopy and understanding of spectroscopic data
+collected by the methods discussed in the course.
+Prepare samples for different types of microscopes while understanding the necessity
+CO-2
+of such wide range of microscopes.
+Employ different imaging techniques and may develop new techniques while
+CO-3
+understanding the applications and principles of physics in imaging techniques.
+Understand the fundamental principals of different bio-analytical techniques, able to
+CO-4 apply the math, science, and engineering knowledge gained in the course to the
+analysis of biomolecules.
+36
+
+--- Page 37 ---
+Problem solving ability related to the structure, purity and concentration of chemicals
+CO-5 and to study molecular interactions by choosing suitable spectroscopic methods and
+interpreting corresponding data.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High) and for No Correlation :--
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 3 3 3 1 1 - 1 - - 1 - 2 3 3
+CO-2 3 1 1 - 2 - 1 1 2 1 1 2 3 3
+CO-3 3 3 - 2 2 1 1 1 1 1 - 3 2 2
+CO-4 2 2 1 1 2 - 2 - - 1 - 1 2 3
+CO-5 3 3 3 1 1 1 1 2 1 1 1 2 3 3
+Total 14 12 8 5 8 2 6 4 4 5 2 10 13 14
+Average 3 2 2 1 2 1 1 1 1 1 1 2 3 3
+37
+
+--- Page 38 ---
+SEMESTER-VII
+1. Name of the Subject: PROJECT- I
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Project-I L T P Mid End Internal
+Code 0 0 2 - 100 -
+3. Course Content: Project Topic
+4. Text/Reference:
+Journals, Articles and book chapters related to project topics. Students can also access e-sodhsindhu
+portal.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Students will learn how to execute literature survey and how to define a problem
+CO-1
+statement.
+Frame solutions for the problem and to propose a methodology to work for the
+CO-2
+problem stated with flow chart/ planning.
+Proof of concept, few experiments that can prove the designed solution may work
+CO-3
+for the problem.
+Ethical analysis of work, safety, and project finance requirements will be
+CO-4
+understood.
+Communicating the findings and prove the concept to be working in the
+CO-5
+language of Engineering to the panel members.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High) and for No Correlation :--
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 - 3 - 3 - - - - 3 - - - - -
+CO-2 3 - 3 - - - - - - - - - 3 -
+CO-3 - - - 3 3 - - - - - - - - -
+CO-4 - - - - - - 3 3 - - 3 - - 3
+CO-5 - - - - - - - - - 3 - - - -
+Total 3 3 3 6 3 - 3 3 3 3 3 - 3 3
+Average 3 3 3 3 3 - 3 3 3 3 3 - 3 3
+38
+
+--- Page 39 ---
+SEMESTER-VII
+1. Name of the Subject: SEMINAR
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Seminar L T P Mid End Internal
+Code 0 0 1 - 100 -
+3. Course Content: Seminar topic related to Biotechnology and as per the Summer Training taken up by
+the students.
+4. Text/Reference:
+Journals, Articles and book chapters related to project topics. Students can also access e-sodhsindhu
+portal.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Cover up recent trends and advancements in the field which are out of
+CO-1
+scope for the curriculum.
+CO-2 To communicate and explain the details to large group of people.
+CO-3 Preparation of report
+Collect, analyse, understand, and explain the information on the topic
+CO-4
+provided.
+CO-5 Use of word, powerpoint, latex and other essentials tools.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation :--
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 - 3 - 2 - - 3 - 3 - - - 2 3
+CO-2 - - - - - - - - - 3 - - - -
+CO-3 - - - - 2 - - 3 - - - - - -
+CO-4 - - - - - 3 - - - - - - 1 -
+CO-5 - - - - 3 - - - - - - - - -
+Total - 3 - 2 5 3 3 3 3 3 - - 3 3
+Average - 3 - 2 2.5 3 3 3 3 3 - - 1.5 3
+39
+
+--- Page 40 ---
+SEMESTER-VIII
+1. Name of the Subject: PROJECT- II
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Project-II L T P Mid End Internal
+Code 0 0 3 - 100 -
+3. Course Content: Project Topic
+4. Text/Reference:
+Journals, Articles and book chapters related to project topics. Students can also access e-sodhsindhu
+portal.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Execute experiments, identify results, analyse, and prepare discussions
+CO-2 Use of modern instruments, tools in engineering and IT fields as required.
+CO-3 Report preparation
+Ethical analysis of work, safety, and project finance requirements will be
+CO-4
+understood.
+CO-5 Communicating the findings and presenting to the panel members.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High) and for No Correlation :--
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 3 - - - - 3 - - - 2 3
+CO-2 - - - - 3 - - - - - - - 1 -
+CO-3 - - - - 2 - - 3 - - - - - -
+CO-4 - - - - - - 3 3 - - 3 - - 3
+CO-5 - - - - - - - - - 3 - - - -
+Total 3 3 3 3 5 - 3 6 3 3 3 - 3 6
+Average 3 3 3 3 2.5 - 3 3 3 3 3 - 1.5 3
+40
+
+--- Page 41 ---
+SEMESTER-VIII
+1. Name of the Subject: COMPREHENSIVE VIVA VOCE
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Comprehensive Viva Voce L T P Mid End Internal
+Code 0 0 1 - 100 -
+3. Course Content: Total B.Tech Course Curriculum
+4. Text/Reference: All books of B.Tech Course Curriculum
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Evaluate, reasoning, identifying, criticizing, different aspects in the
+CO-1
+respective field of Biotechnology and Biochemical Engineering.
+Realize problem stated and relate them to concepts in Biotechnology and
+CO-2
+Biochemical Engineering
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 2 2 - - - - - 3 3 - 2 - -
+CO-2 3 3 - 2 - - - - 3 3 - 2 - -
+Total 6 5 2 2 - - - - 6 6 - 4 - -
+Average 3 2.5 2 2 - - - - 3 3 - 2 - -
+41
+
+--- Page 42 ---
+SEMESTER-VIII
+1. Name of the Subject: INDUSTRIAL PROJECT & PROJECT SEMINAR
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+L T P Mid End Internal
+Name Industrial Project 0 0 10 - 100 -
+Code -
+Name Project Seminar 0 0 02 - 100 -
+Code -
+3. Course Content: Project Topic decided by mainly industry.
+4. Text/Reference: Journals, Articles and book chapters related to project topics. Students can also access
+e-sodhsindhu portal.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Execute experiments, identify results, analyse, and prepare discussions
+CO-2 Use of modern instruments, tools in engineering and IT fields as required.
+CO-3 Report preparation
+CO-4 Ethical analysis of work, safety, and project finance requirements will be understood.
+CO-5 Communicating the findings and presenting to the panel members.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 3 - - - - 3 - - - 2 3
+CO-2 - - - - 3 - - - - - - - 1 -
+CO-3 - - - - 2 - - 3 - - - - - -
+CO-4 - - - - - - 3 3 - - 3 - - 3
+CO-5 - - - - - - - - - 3 - - - -
+Total 3 3 3 3 5 - 3 6 3 3 3 - 3 6
+Average 3 3 3 3 2.5 - 3 3 3 3 3 - 1.5 3
+42
+
+--- Page 43 ---
+DEPARMENTAL ELECTIVE (01)
+1. Name of the Subject: THERMODYNAMICS IN BIOLOGICAL SYSTEM
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Thermodynamics in biological system L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module1: scope of thermodynamics, work, heat, state function, paths, equilibrium, first law of
+thermodynamics, enthalpy, heat capacity, reversible and irreversible processes, application of first law in
+closed system.
+Module2: thermochemistry, application of thermochemistry in biochemical systems, limitations of the first law,
+heat engine, statements of the second law, entropy (Boltzmann and Clausius), free energy, Maxwell relations,
+reaction direction and chemical equilibrium, statement of third law.
+Module 3: chemical potential and phase equilibria, Clausius Clapeyron equation, thermodynamic properties of
+mixture (partial molar properties), Gibbs-Duhem relation, fugacity, electrochemical equilibria.
+Module 4: bioenergetics, major bioenergetic processes. Application of thermodynamics in metabolic processes,
+protein stability, DNA hybridization, enzyme-substrate interaction, membrane transport. DONNAN
+equilibrium.
+4. Text/Reference:
+1. Biological Thermodynamics by Donald T. Haynie; Cambridge University Press Publication
+2. Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience by
+Dill and Bromberg; Garland Science Publication
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+CO-1 Ability to identify and describe energy exchange processes (in terms of various forms of
+energy, heat and work) in different chemical and biochemical systems.
+CO-2 Ability to apply fundamental concept of thermodynamics to biological and cellular
+systems.
+CO-3 Ability to apply the first Law of Thermodynamics on closed systems
+CO-4 Ability to calculate thermodynamic parameters involved in a biochemical reaction.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 2 2 1 - - - - - - - 3 -
+CO-2 3 3 2 2 1 - - - - - - - 3 -
+CO-3 3 3 2 2 1 - - - - - - - 3 -
+CO-4 3 3 2 2 1 - - - - - - - 3 -
+Total 12 12 8 8 4 - - - - - - - 12 -
+Average 3 3 2 2 1 - - - - - - - 3 -
+43
+
+--- Page 44 ---
+DEPARMENTAL ELECTIVE (02)
+1. Name of the Subject: IPR AND BIOSAFETY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name IPR and Biosafety L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Introduction to Intellectual Property and its types; IPs of relevance to Biotechnology; Important
+agreements and treaties in general and specific to the field of Bioengineering; handling important databases for
+IPs.
+Module II: Patent: definition and type; National & PCT filing procedure: Time frame, Cost, Precautions while
+patenting – disclosure/non-disclosure; Patent licensing and agreement Patent infringementmeaning, scope,
+litigation.
+Module III: Safety in therapeutic and diagnostic devices like defibrillator, pacemaker, artificial ventilators,
+patient monitoring system etc; Safety in biomedical implants and prostheses; Precautions in measurements of
+different physiological parameters; Safety and protocols in proper storage and maintenance of medical records;
+computers in health care, responsibility, checklists; biomedical waste management.
+Module IV: Primary Containment for Biohazards; Biosafety Levels; Biosafety Levels of Specific
+Microorganisms; Recommended Biosafety Levels for Infectious Agents and Infected Animals; Safety in genetic
+and tissue engineering research; GMOs & LMOs; protocol of drug administration dosage and radiation dosage.
+Social and ethical implications of biological weapons.
+4. Text/Reference:
+1. Bertil Jacobson and Alan Murray, Medical Devices: Use and Safety, Publisher: Churchill Livingstone; 1
+edition, ISBN-10: 0443102597, ISBN-13: 978-0443102592.
+2. Shayne C. Gad and Marian G. McCord, Safety Evaluation in the Development of Medical Devices and
+Combination Products, Publisher: CRC; 3 edition, ISBN-10: 1420071645, ISBN-13: 978-1420071641
+3. Jose Justiniano and VenkyGopalaswamy, Practical Design Control Implementation for Medical Devices,
+Publisher: Informa Healthcare; 1 edition, ISBN-10: 1574911279, ISBN-13: 978-1574911275.
+4. Shayne C. Gad, Safety Evaluation of Medical Devices, Publisher: CRC; 2 edition, ISBN-10: 082470617X, ISBN-
+13: 978-0824706173.
+5. BAREACT, Indian Patent Act 1970 Acts & Rules, Universal Law Publishing Co. Pvt. Ltd., 2007
+6. Kankanala C., Genetic Patent Law & Strategy, 1st Edition, Manupatra Information Solution Pvt. Ltd., 2007
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand the basic issues of biosafety, bioethics and IPR
+CO-2 Follow good laboratory procedures and practices
+CO-3 Justify the design of confinement facilities at different Biosafety levels
+CO-4 Understand the social and ethical issues related to plant, animal and modern biotechnology.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO-
+PO/PSO PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+1 2 3 4 5 6 7 8
+mapping
+CO-1 - 1 - - - 3 3 3 2 1 3 3 - 3
+CO-2 - - - - - 1 2 3 2 2 1 3 - 1
+CO-3 - - - - - 3 2 1 - 3 2 1 2 2
+CO-4 - - - - - - 3 2 1 3 2 2 - 1
+CO-5 - - - - - - - 2 - - - 2 - 2
+TOTAL - 1 - - - 7 10 11 5 9 8 11 2 9
+AVG - 0.4 - - - 1.4 2 2.2 1 1.8 1.6 2.2 0.4 1.8
+44
+
+--- Page 45 ---
+DEPARMENTAL ELECTIVE (03)
+1. Name of the Subject: METABOLIC ENGINEERING AND SYSTEMS BIOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Metabolic Engineering And Systems Biology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Introduction to Systems Biology & metabolic engineering, Laboratory techniques used in systems
+biology studies: Omics technologies; Monitoring and measuring the metabolome: isotope labelling methods,
+separation-analytical techniques, DNA /phenotypic microarrays and proteomics.
+Module II: Mechanistic models for different biochemical processes in cells: Enzyme kinetics, cooperativity,
+transport systems & kinetics, ODEs& stochastic biochemical kinetics, Lambda phage multistability, synthetic
+genetic switches, Chemotaxis, genetic oscillators.
+Module III: Cellular network reconstruction, Genome scale metabolic models, comprehensive models of
+cellular reactions with stoichiometry and reaction rates; metabolic flux analysis of exactly/over/under
+determined systems, sensitivity analysis; Regulatory network models.
+Module IV: Metabolic control analysis, control coefficient estimation, summation theorems, Identification of
+targets for metabolic engineering, pathway editors.
+4. Text/Reference:
+1. Christinia D Smolke. The Metabolic Pathway Engineering Handbook. Fundamentals. CRC Press, Finland
+2010.
+2. Christinia D Smolke. The Metabolic Pathway Engineering Handbook. Tools and applications. CRC Press,
+Finland 2010.
+3. Greogory N Stephanopoulos. Metabolic Engineering: Principles and Methodologies. Academic Press, UK,
+1998.
+4. Oleg Demin, Igor Goryanin. Kinetic Modeling in Systems biology. CRC Press, 2009
+5. Uri Alon, An Introduction to Systems Biology: Design Principles of Biological Circuits, Chapman &
+Hall/CRC Press,Â Mathematical and Computational Biology, 2nd edition, 2006.
+6. Zoltan Szallasi, JörgStelling, and Vipul Periwal, System Modeling in Cellular Biology: From Concepts to nuts
+& bolts. The MIT Press, Massachusetts.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Fundamentals of systems biology and analytical tools required for the system level studies on
+CO-1
+different cellular factories
+CO-2 Mechanistic modeling of complex cellular functions, enzymes and cooperativity.
+CO-3 Pathways, Tools, mathematical interventions required for metabolic engineering.
+CO-4 Metabolic Control analysis, and pathway manipulation target identifications.
+CO-5 Construction, and analysis of systems level and Genome Scale Metabolic models
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low); 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PSO-
+PO/PSO PO-1 PO-2 PO-5 PO-6 PO-7 PO-8 PO-10 PO-11 PO-12 PSO-2
+3 4 9 1
+mapping
+CO-1 2 2 - - 3 2 - - - - - - - -
+CO-2 3 3 3 3 2 - - - - - - - - -
+CO-3 2 2 3 3 - - - - - - - - -
+CO-4 2 2 3 2 2 - - 2 - - - - - 2
+CO-5 - - 3 3 - - 3 - - - - - 3
+Total 9 9 9 8 13 2 - 5 - - - - - 5
+Average 2.25 2.25 3 2.67 2.6 2 - 2.5 - - - - - 2.5
+45
+
+--- Page 46 ---
+DEPARMENTAL ELECTIVE (04)
+1. Name of the Subject: GENOMICS AND PROTEOMICS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Genomics and Proteomics L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I:Structural genomics: Overview of Human genome, DNA mapping and sequencing; Map alignment;
+Large scale sequencing methods (Shotgun and Sanger method); Functional Genomics Analyses: Genome-wide
+association (GWA) analysis; Comparative Genomic Hybridization (CGH); Serial Analysis of Gene Expression
+(SAGE); Massively parallel Signature Sequencing (MPSS);
+Module II:Pattern of Gene expression: Analysis of alteration in gene expression by differential display and
+suppression subtractive hybridization, Designing and producing microarrays; types of microarrays; cDNA
+microarray technology; oligonucleotide arrays; Sample preparation, labelling, hybridization, generation of
+microarray data. Gene Expression analysis by cDNA and oligonucleotide arrays;
+Module III:Tools of Proteomics: Over-View of strategies used for the identification and analysis of proteins; 1-
+D and 2-D Polyacrylamide Gel Electrophoresis (PAGE) of Proteins, Zymogram; western blotting, DIGE,
+iTRAQ, MRM techniques.
+Module IV: Advanced Proteomics: Mass-Spectrometry in Proteomics, analysis, functional and comparative
+Proteomics, protein microarray and applications.
+4. Text/Reference:
+a) Richard M. Twyman; ‘Principles of Proteomics’, Publisher: BIOS Scientific Publishers, ISBN: 978-0815344728
+b) Matthiesen R, ‘Mass Spectrometry Data Analysis in Proteomics’; Humana Press 2007; ISBN: 978-1-58829-563-7
+c) Terence A Brown., Genomes, 2nd edition; Oxford: Wiley-Liss; 2002. ISBN-10: 0-471-25046-5
+d) Pevsner J, Bioinformatics and Functional Genomics, Wiley-Blackwell, ISBN: 978-81-265-3834-8
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+To familiarize the students with the basic concepts of genome structure and its
+CO-1
+importance in modern research
+To practicethe versatile techniques, tools and IT resources often used in genome
+CO-2
+sequencing, assembly and annotation
+To acquire the knowledge of protein expression and its application in clinical and
+CO-3
+health sciences.
+To analyze the complex interaction between genomics and proteomics and their
+CO-4
+application in current research.
+To apply the different methodologies, tools and common IT resources used in
+CO-5
+proteomics
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 1 2 2 3 2 1 - - - 1 - 2 3 -
+CO-2 2 2 2 2 3 - - - - 1 - 1 2 -
+CO-3 1 2 3 3 2 3 1 - - 1 1 2 3 -
+CO-4 2 2 2 3 3 2 - - - - - 1 2 -
+CO-5 2 2 3 2 3 1 - - - 1 - 2 3 -
+Total 8 10 12 13 13 7 1 - - 4 1 8 13 -
+Average 1.6 2.0 2.4 2.6 2.6 1.4 0.2 - - 0.8 0.2 1.6 2.6 -
+46
+
+--- Page 47 ---
+DEPARMENTAL ELECTIVE (05)
+1. Name of the Subject: PROTEIN STRUCTURE AND ENGINEERING
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Protein Structure and Engineering L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module-I: Introduction to protein structure: Protein structural families: Basic structural principles: amino acids and
+their conformational accessibilities, Ramachandran Plot; Motifs of protein structures and their packing; Schematic
+and topology diagrams; Families of protein structures: alpha, alpha/beta, beta, small etc.
+Module-II: Protein folding and assembly: Protein folding pathways in prokaryotes and eukaryotes; Single and
+multiple folding pathways; Protein folding of single domain and multi-domain proteins; Inclusion bodies and
+recovery of active proteins; Osmolyte assisted protein folding; Structure of chaperones and role of chaperones in
+protein folding.
+Module-III: Protein engineering Strategies: Random and site directed mutagenesis; Various PCR based strategies;
+Role of low-fidelity enzymes in protein engineering; Gene shuffling and Directed evolution of proteins; Protein
+backbone changes; Antibody engineering; All topics will deal with case studies.
+Module-IV: Prediction and design of protein structures Similar structure and function of homologous proteins; Role
+of multiple alignment; Homology and ab-initio method for protein structure prediction; Phage display systems;
+Structure based drug design and case studies, Rational protein design, Specific examples of enzyme engineering such
+as Tryesyl t RNAsynthetase, Dihydrofolate reductase, Subtilisin.
+4. Text/Reference Book
+Protein Structure and Protein Engineering, Winnacker Huber, Publisher: Springer, ISBN: 9783642741753, 3642741754,
+Edition: 2013
+5. Course Outcomes:
+No. of
+course Name of the course outcome
+outcome
+CO-1 To acquire the fundamental knowledge of protein structure and family
+CO-2 To analyze the structure of protein and their interaction at cellular level
+CO-3 To learn the cutting-edge technologies for protein analysis useful for scientific research
+CO-4 To understand the protein folding mechanism and protein stability
+To design the bioactive lead molecule from given protein sequence beneficial for human
+CO-5
+health.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 2 1 - - - - - - - - 2 3 -
+CO-2 3 2 2 - 2 - - - - - - 1 3 -
+CO-3 2 3 3 3 2 1 - - - - - 2 3 -
+CO-4 3 3 3 2 2 2 - - - - - 2 2 -
+CO-5 2 3 3 3 - 2 1 - - - - 1 3 1
+Total 13 13 12 8 6 5 1 - - - - 8 14 1
+Average 2.6 2.6 2.4 1.6 1.2 1.0 0.2 - - - - 1.6 2.8 0.2
+47
+
+--- Page 48 ---
+DEPARMENTAL ELECTIVE (06)
+1. Name of the Subject: TISSUE ENGINEERING
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Tissue Engineering L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Introduction to tissue engineering, Cells as therapeutic Agents with examples, Cell numbers and
+growth rates, Tissue organization, Tissue Components, Tissue types, Functional subunits. Tissue Dynamics,
+Dynamic states of tissues, Homeostasis in highly prolific tissues and Tissue repair. Angiogenesis.
+Module II: Cellular fate processes, Cell differentiation, Cell migration - underlying biochemical process, Cell
+division - mitotic cell cycle, Cell death - biological description of apoptosis. Coordination of cellular fate
+processes - soluble signals, types of growth factors and chemokines, sending and receiving a signal, processing
+a signal, integrated responses, soluble growth factor receptors, Malfunctions in soluble signaling.
+Module III: Cell-extracellular matrix interactions - Binding to the ECM, Modifying the ECM, Malfunctions in
+ECM signaling. Direct Cell-Cell contact - Cell junctions in tissues, malfunctions in direct cell-cell contact
+signaling. Response to mechanical stimuli. Measurement of cell characteristics - cell morphology, cell number
+and viability, cell-fate processes, cell motility, cell function. Cell and tissue culture - types of tissue culture,
+media, culture environment and maintenance of cells in vitro, cryopreservation. Basis for Cell Separation,
+characterization of cell separation, methods of cell separation.
+Module IV: Biomaterials in tissue engineering - biodegradable polymers and polymer scaffold processing,
+Growth factor delivery, Stem cells, Gene therapy, Bioreactors for Tissue Engineering, In vivo cell & tissue
+engineering case studies: Artificial skin, Artificial blood vessels, In vivo cell & tissue engineering case studies:
+Artificial pancreas, Artificial liver, In vivo cell & tissue engineering case studies: Regeneration of bone, muscle,
+In vivo cell & tissue engineering case studies: Nerve regeneration.
+4. Text/Reference:
+a. "Tissue Engineering", Bernhard O. Palsson, Sangeeta N. Bhatia, Pearson Prentice Hall Bioengineering.
+b. "Nanotechnology and Tissue engineering - The Scaffold", Cato T. Laurencin, Lakshmi S. Nair, CRC
+Press.
+5. Course Outcomes:
+No. of course Name of the course outcome
+outcome
+Understand the different types of biomaterials that can be used in tissue engineering
+CO-1
+applications.
+Acquire knowledge on complex interaction between biomaterials, cells and signals in
+CO-2
+biological system.
+Learn the principles techniques skills and modern engineering tools used in tissue
+CO-3
+culture and regeneration.
+Develop student’s ability to identify, formulate and adopt engineering solution to
+CO-4
+unmet biological needs.
+CO-5 Able to understand broadly the key topics in tissue engineering.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation :--
+CO & PO/PSO PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+mapping 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+CO-1 3 3 2 1 1 1 1 1 - 1 - 2 3 3
+CO-2 3 - 1 1 3 - 1 1 2 1 1 2 3 1
+CO-3 1 - 1 - 2 1 1 1 1 1 1 - 2 2
+CO-4 2 2 1 1 1 - 2 - - 1 - 1 1 3
+CO-5 2 2 2 1 1 1 - 2 - 1 1 2 2 2
+Total 11 7 7 4 8 3 5 5 3 5 3 7 11 11
+Average 2 2 1 1 2 1 1 1 2 1 1 2 2 2
+48
+
+--- Page 49 ---
+DEPARMENTAL ELECTIVE (07)
+1. Name of the Subject: FOOD PROCESS ENGINEERING
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Food Process Engineering L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Chemical constituents of foods, their properties and functions; chemical/biochemical reactions in
+storage/spoilage/ handling of foods; food safety, quality control and certifications.
+Module II: Engineering properties of food material (rheological, thermal, electrical properties); mechanical
+operations in food processing (material handling, size reduction, mixing).
+Module III: Food preservation technologies (addition/removal of heat, removal of moisture, irradiation,
+fermentation, food additives, high pressure processing, hurdle technology).
+Module IV: Case studies of a few specific food processing sectors: cereals, oil seeds, fruits and vegetables, fish,
+meat, poultry, dairy, beverages, spices and herbs, confectioneries.
+Module V: Bioprocess for value added products; genetically modified foods, their regulations and social
+aspects.
+4. Text/Reference:
+1) William C. Frazier, Dennis C. Westhoff, N.M. Vanitha, " Food Microbiology"
+2) Romeo T. Toledo, "Fundamentals of Food Process Engineering"
+3) H.K. Chopra, P.S. Panesar., "Food Chemistry"
+4) P.S. Panesar, H.K. Sharma, B.C. Sarkar, "Bio-processing of foods"
+5) R. L. Henricksons, "Meat, Poultry and Sea Food Technology"
+6) N. L. Kent, "Technology of Cereals"
+7) GiridhariLal, "Preservation of Fruits & Vegetables"
+8) Prescott & Dunn, "Industrial Microbiology"
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Ability to understand the component and nutritional value of food
+CO-2 Ability to understand the food preservation technologies
+CO-3 Ability to understand the processing involved in various food sectors
+CO-4 Ability to understand the importance of food safety and regulations
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 2 2 2 1 1 - - - - - - 3 -
+CO-2 3 3 2 1 1 2 2 - - - - 3 -
+CO-3 3 3 2 1 1 3 1 1 - - - - 3 -
+CO-4 1 1 1 1 1 3 3 1 - - - - 3 3
+Total 9 9 7 4 4 8 6 2 - - - - 12 3
+Average 2.25 2.25 1.75 1 1 2.66 2 1 - - - - 3 3
+49
+
+--- Page 50 ---
+DEPARMENTAL ELECTIVE (08)
+1. Name of the Subject: PHARMACEUTICAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Pharmaceutical Biotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Introduction, Industrial Applications- Biopharmaceuticals Role of r-DNA technology for the
+production of biopharmaceuticals - applications of PCR - constructing recombinant DNA molecules - vectors
+and host cells for recombinant DNA – transformants - expression of foreign genes - site directed mutagenesis -
+cloning of human somatostatin in E. coli - engineering bacteria for industrial production of small valuable
+organics - Characterization and Bioanalytical Aspects of Recombinant Proteins as Pharmaceutical Drugs.
+Module II: Monoclonal antibodies - applications of monoclonal antibodies - generation of monoclonal
+antibodies – immunization, cell fusion, screening and assays – cloning - cell line characterization - antibody
+characterization - recombinant antibodies - humanization and deimmunization - antibody fragments and
+constructs - transgenic mice - production methods - in vivo production - mammalian cell culture - Pre-clinical
+safety assessment and PK/PD in clinical development of antibody therapeutics, Manufacture, Quality control
+and Stability of immunological products. Manufacturing process validation, Characterization of rDNA-derived
+biotherapeutics (Physiochemical characterization, biological activity), process related impurities and
+contaminants, product related impurities and contaminants.
+Module III: Vaccines - Ideal Vaccine - types of modern vaccines - attenuated live vaccines - killed inactivated
+vaccines - conjugated vaccines - subunit vaccines - protein vaccines - DNA vaccines - lipid and carbohydrate
+antigen vaccines - recombinant live carriers - vaccine adjuvants - Scientific, Technical and Economic Aspects of
+Vaccine Research and Development
+Module IV: Basic approach to gene therapy - vectors used in gene therapy – adeno and retroviral vectors,
+additional viral-based vectors – manufacturing of viral vectors - non-viral vectors - gene therapy and genetic
+disease - gene therapy and cancer - gene therapy and AIDS - anti-sense technology - anti-sense
+oligonucleotides – advantages and disadvantages of ‘oligos’ - delivery and cellular uptake of oligonucleotides -
+synthesis of oligonucleotides - anti-gene sequences and ribozymes - membrane modifying agents -
+Electroporation
+Module V: Monoclonal antibodies as therapeutic agents – Rituximab, Advanced biotechnology products in
+clinical development –Erythropoietin, Insulin, Somatotropin, Interleukin-2, Interferon Granulocyte-
+macrophageCSF, Factor VIIa, Factor IX, Factor VIII, Tissue plasminogen activator, Monoclonal antibodies and
+engineered Mabs, Somatic Gene Therapy- Nonviral Gene Transfer Systems – Xenotransplanation in
+Pharmaceutical Biotechnology - Tissue Engineering.
+4. Text/Reference:
+1. Groves, J.M., Pharmaceutical Biotechnology, Taylor and Francis, London, 2nd edition, 2006.
+2. Klefenz, H., Industrial Pharmaceutical Biotechnology, Wiley-VchVerlag GmbH, Weinheim, 2nd edition,
+2002. 2. Rodney, J.Y., Gibaldi, M, Biotechnology and Biopharmaceuticals, John Wiley, New Jersy, 2nd edition,
+2003.
+3. Pharmaceutical Biotechnology, Drug Discovery and Clinical Applications. Edited by
+O.KayserandR.H.M¨uller (2006) Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+4. Walsh, G., Biopharmaceuticals: Biochemistry and Biotechnology, John Wiley, New Jersy, 2nd edition, 2003.
+5. Rodney J Y Ho, MILO Gibaldi, Biotechnology & Biopharmaceuticals Transforming proteins and genes into
+drugs, 1st Edition, Wiley Liss, 2003.
+6. Brahmankar D M, Jaiswal S B, Biopharmaceutics and Pharmacokinetics A Treatise, Vallabh Publisher, (1995,
+reprint 2008).
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand principles of biotechnology in pharmaceutical product developme
+CO-2 Role of r-DNA technology for the production of biopharmaceuticals
+CO-3 Identify the challenges faced in development of biologicals and drugs
+CO-4 Apply advanced biotechnology methods in novel drug development
+CO-5 Review the production processes for biologicals and drugs
+50
+
+--- Page 51 ---
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO1 2 2 2 1 1 - - - - - - - 1 1
+CO2 2 3 2 1 3 - - - - - - - 2 1
+CO3 2 3 2 1 2 - - - - - - - 3 1
+CO4 2 3 2 1 2 - - - - - - - 3 -
+CO5 2 3 2 2 2 - - - - - - - 1 1
+Total 10 14 10 6 10 - - - - - - - 10 4
+Average 2 2.8 2 1.2 2 - - - - - - - 2 0.8
+51
+
+--- Page 52 ---
+DEPARMENTAL ELECTIVE (09)
+1. Name of the Subject: BIOLOGICAL WASTE TREATMENT
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biological Waste Treatment L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Characterization of waste, waste disposal norms and regulations, stoichiomentry and bacterial
+energetics of biological treatment, microbial kinetics, reactor types (suspended growth reactors, attached
+growth reactors)
+Module II: Introduction to aerobic suspended growth biological treatment, activated sludge treatment,
+characteristics of activated sludge, process configurations, aeration systems, bulking and other sludge
+settling problems, analysis and design of activated sludge, analysis and design of settlers
+Module III:
+Introduction to aerobic attached growth biological treatment systems, trickling filter, oxygen transfer and
+utilization, rotating biological contactors, biological nutrient removal
+Module IV: Introduction to anaerobic process, anaerobic suspended growth processes, anaerobic sludge
+blanket process, upflow attached growth processes, downflow attached growth processes
+Module V: Advanced wastewater treatment (depth filtration, surface filtration, adsorption, gas stripping,
+ion exchange), Treatment and disposal of sludge, biological means for stabilization and disposal of solid
+wastes, Treatment of hazardous and toxic wastes.
+4. Text/Reference:
+1) Wastewater Engineering: Treatment and Reuse by Metcalf and Eddy
+2) Environmental Biotechnology: Principles and applications by Bruce E Rittmann and Perry L McCarty
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Ability to apply engineering skills for biological wastewater treatment
+CO-2 Ability to understand the various types of bioreactors used in wastewater treatment
+CO-3 Ability to understand unit operations related to biological wastewater treatment
+CO-4 Ability to understand the role of microbes in wastewater treatment
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium) 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PSO- PSO-
+PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9
+10 11 12 1 2
+mapping
+CO-1 3 3 2 1 1 2 3 2 - - - - 3 2
+CO-2 3 3 2 1 1 2 3 2 - - - - 3 -
+CO-3 3 2 2 1 1 2 3 2 - - - - 3 2
+CO-4 3 3 2 1 1 2 3 1 - - - - 3 2
+Total 12 11 8 4 4 8 12 7 - - - - 12 6
+Average 3 2.75 2 1 1 2 3 1.75 - - - - 3 3
+52
+
+--- Page 53 ---
+DEPARMENTAL ELECTIVE (10)
+1. Name of the Subject: BIOSTATISTICS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biostatistics L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module I: Fundamentals of statistics in biology; Probability: Permutations; Combinations; Inclusion-
+exclusion rule; Sampling with and without replacement; Conditional probability: Bayes’ theorem;
+Independence; Descriptive statistics and Random variables; Measures of central tendency; Measures of
+spread; Higher moments: kurtosis, skewness, Statistical data representation; Discrete random variables:
+Bernoulli, Binomial, Poisson;Geometric distributions; Continuous random variables: Normal; Exponential
+distributions; Standard normal distribution.
+Module II: Samples and populations; Single- and Double-blind experiments; Point and interval
+estimates; Sampling distributions: t, chi-square, F distributions; Hypothesis testing: null and alternative
+hypotheses, decision criteria, critical values, type I and type II errors, Meaning of statistical significance;
+Power of a test; One sample hypothesis testing: Normally distributed data: z, t and chi-square tests;
+Binomial proportion testing. Two sample hypothesis testing; Nonparametric methods: signed rank test,
+rank sum test; Kruskal-Wallis test; Analysis of variance: One-way ANOVA.
+Module III: Regression and correlation; Analysis of enzyme kinetic data; Michaelis-Menten; Lineweaver-
+Burk and the direct linear plot; Logistic Regression; Polynomial curve fitting.
+Module IV: Single factor experiments; Randomized block design; Plackett-Burman Design; Comparison
+of k treatment means; Factorial designs; Blocking and confounding; Response surface methodology.
+4. Text/Reference:
+1. Hogg R.V. and Tanis E.A.(2001). Probability and Statistical Inference, Prentice Hall International Inc.
+2. Kale, B.K. (1999). A first Course on Parametric Inference, Narosa Publishing House.
+3. Manly, B. F. (2007). Randomization, Bootstrap and Monte Carlo methods in Biology, Chapman & Hall
+/ CRC.
+4. Rohatgi, V.K. and Saleh, A.K.Md.(2001). An Introduction to Probability and Statistics, John Wiley &
+Sons.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Recognize the importance of data collection and its role in determining scope of
+CO-1
+inference.
+CO-2 Demonstrate a solid understanding of interval estimation and hypothesis testing.
+Choose and apply appropriate statistical methods for analyzing one or multiple
+CO-3
+variables.
+Use technology to perform descriptive and inferential data analysis to interpret
+CO-4
+statistical results correctly, effectively, and in context.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO 1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 3 - 1 - - - - - 1 2 1
+CO-2 3 3 3 3 - 1 - - - - - 1 2 1
+CO-3 3 3 3 3 3 1 - - - - - 1 2 1
+CO-4 3 3 3 3 3 1 - - - - - 1 2 1
+Total 12 12 12 12 6 4 - - - - - 4 8 4
+Average 3 3 3 3 3 1 - - - - - 1 2 1
+53
+
+--- Page 54 ---
+DEPARMENTAL ELECTIVE (11)
+1. Name of the Subject: SYNTHETIC BIOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Synthetic Biology L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module-I: History, definition, Concepts, standardization of biological parts and hierarchical abstraction,
+Sequencing and fabrication, multiple conditions for accurate modeling and computer-aided-design
+(CAD), laboratory highlighting BioBrick cloning and chromoprotein reporters as a methodology in
+synthetic biology.
+Module-II: Modeling: Modular protein assembly, modeling of all biomolecular interactions in
+transcription, translation, regulation and induction of gene regulatory networks; molecular motifs in a
+bigger network with upstream and downstream components in living cell.
+Module-III: Example of applications: Biological computers, Biosensors, Cell transformation, Designed
+proteins, Industrial enzymes, Information storage,Materials production, Reduced amino-acid libraries,
+Space exploration, Synthetic genetic pathways, Synthetic life, Synthetic amino acids, Synthetic
+nucleotides; Bioethics and security.
+4. Text/Reference:
+1. Liljeruhm, Josefine; Gullberg, Erik; Forster, Anthony C.Synthetic biology: a lab manual
+2. Journal: Synthetic biology, Nature Publisher
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 The ability to understand the various definitions of synthetic biology
+An understanding of the context of synthetic biology with closely related field
+CO-2
+such as metabolic engineering and genetic engineering
+An understanding of the issues and relationships between ‘top down’ and
+CO-3
+‘bottom up’ approach of synthetic biology
+An appreciation on how the synthetic biology might impact on aspects of interest
+CO-4
+to mankind internationally
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 3 3 2 1 1 - - - 1 2 2
+CO-2 3 3 3 3 3 2 1 1 - - - - 2 2
+CO-3 3 3 3 3 3 1 1 1 - - - - 2 2
+CO-4 - - 3 - 2 3 3 3 1 - - - 2 2
+Total 9 9 12 9 11 8 6 6 1 - - 1 8 8
+Average 3 3 3 3 2.75 2 1.5 1.5 1 - - 1 2 2
+54
+
+--- Page 55 ---
+DEPARMENTAL ELECTIVE (12)
+1. Name of the Subject: VALORIZATION OF BIOMASS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Valorization of Biomass L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Introduction to valorization, significance of valorization for sustainable management of
+natural resource, biomass types (food waste, agricultural residues, energy crops and others).
+Module 2: Valorization of agricultural residues/energy crops: Source, characterization and
+composition;Separation of lignin & sugars viaphysical, chemical and enzyme catalysis reactions; cellular
+factories and technologies (fermentation, catalytic hydrogenation, oxidation, thermal liquefaction,
+gasification, etc.,) for bioconversion of biomass to form value added chemicals and bioenergy products.
+Module 3: Valorization of Food wastes: Source, characterization and composition of food waste,
+biorefinery development, waste valorization strategies: case studies for recovery of chemicals and
+bioenergy products from food wastes.
+4. Text/Reference:
+1. Lignocellulosic Biomass Production and Industrial Applications. ArindamKuila, Vinay Sharma, Wiley &
+Sons, 2017.
+2. Reaction Pathwaysand Mechanismsin ThermocatalyticBiomass Conversion II. Marcel Schalf and Z.Conard
+Zhang. Green Chemistry and Sustainable Technology. Springer Science, 2016. ISBN 978-981-287-768-0; DOI
+10.1007/978-981-287-769-7
+3. Utilization of By-Productsand Treatment of Waste in the Food Industry. Vasso Oreopoulou and Winfried
+Russ, Springer Science, 2017. ISBN-10: 0-387-33511-0
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Identify the potential resources for valorization targeted for product generation.
+CO-2 Understand valorization of agricultural residues
+Understand various process and cellular factories utilized in valorization of
+CO-3
+different biomass residues
+CO-4 Understand valorization of food wastes
+CO-5 Sustainable utilization of resources for economically feasible products.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO PO PO- PO- PO- PO- PO PO- PSO
+PO/PSO PO-1 PO-2 PO-11 PO-12 PSO-2
+-3 -4 5 6 7 8 -9 10 -1
+mapping
+CO-1 - 3 - - - - 3 - - - - - - 3
+CO-2 - 3 - - - - 3 - - - - - - 3
+CO-3 - - 3 - - - 3 - - - - - - 3
+CO-4 3 - - - - - 3 - - - - - - 3
+CO-5 3 3 3 2 - - 3 - - - - - - 3
+Total 6 9 6 2 - - 15 - - - - - - 15
+Average 3 3 3 2 - - 3 - - - - - - 3
+55
+
+--- Page 56 ---
+DEPARMENTAL ELECTIVE (13)
+1. Name of the Subject: BIOPROCESS PLANT DESIGN
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bioprocess Plant Design L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Introduction; general design information, mass and energy, flow sheeting, piping and instrumentation,
+materials of construction for bioprocess plants, mechanical design of process equipment, vessels for
+biotechnology applications, design consideration for maintaining sterility of process streams and
+processing equipment, selection and specification of equipment for handling fluids and solids, selection
+specification and design of heat and mass transfer equipment used in bioprocess industries, utilities for
+biotechnology production plants, process economics, bioprocess validation, safety considerations, case
+studies.
+4. Text/Reference:
+1. Michael C Flickinger. Upstream Industrial Biotechnology, Volume 2: Equipment, Process Design,
+Sensing, Control, and cGMP Operations. John Wiley & Sons, 2013; ISBN: 1118131231; 9781118131237
+2. Henry C. Vogel, Celeste M. Todaro. Fermentation and Biochemical Engineering Handbook, 2nd
+edition: Principles, Process Design and Equipment. Elsevier Science, 2008.
+3. ChristophWittmann, and James C Liao. Industrial Biotechnology: Products & processes. Wiley_VCH.
+2017.
+4. Brian McNeil, Linda M. Harvey. Practical Fermentation Technology.John Wiley& Sons. 2008.
+5. Ray Sinnott and Gavin Towler; Chemical engineering design, Coulson and Richardson’s Chemical
+Engineering Series, sixth edition
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understandingthe components of a bioprocess plant and their importance
+CO-2 Design of working components involved in the bioprocess plant
+Understand and develop a P & ID-diagrams, its applications in industrial
+CO-3
+installations with subsequent plant designs
+CO-4 Calculate and understand the process economics of various bioproducts
+Understanding safety, environmental, and ethical considerations involved in
+CO-5
+industries
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO PO PO- PO- PO- PO- PO PO- PSO
+PO/PSO PO-1 PO-2 PO-11 PO-12 PSO-2
+-3 -4 5 6 7 8 -9 10 -1
+mapping
+CO-1 3 - - - - - - - - - - - 3 -
+CO-2 3 - 3 - - - - - - 3 -
+CO-3 3 - 3 - - 3 - - - - 3 -
+CO-4 3 3 3 - - 2 - - - 3 - 3 -
+CO-5 3 2 3 - - 3 3 3 - - - 3 -
+Total 15 3 12 - - 6 5 3 - - 3 - 15 -
+Average 3 2.5 3 - - 3 2.5 3 - - 3 - 3 -
+56
+
+--- Page 57 ---
+DEPARMENTAL ELECTIVE (14)
+1. Name of the Subject: MODELING AND SIMULATION FOR BIOLOGICAL
+SYSTEMS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Modeling and Simulation for Biological Systems L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Modeling & simulation basics, principles, applications in biological systems; introduction to
+various software utilized in modeling and simulation; SBML intro & applications.
+Module 2: Modeling of enzyme kinetics and growth in batch, fed batch, semi-batch, repeated fed batch,
+continuous operational modes with analysis; bioreactor modeling;process simulation.
+Module 3: Cell physiology modeling: gene expression modeling, Hodgkin-Huxley equations, receptor-
+ligand binding, ion channels; and systems level modeling
+4. Text/Reference:
+1. J. Dunn, E. Heinzle, J. Ingham, J.E. Pfenosil “Biological Reaction Engineering:
+DynamicModellingFundamentalswithSimulationExamples”WILEY-
+VCHVerlagGmbH&Co.KGaA,Weinheitn, 2003.
+2. Z. Szallasi, J. Stelling, V. Periwal “System Modeling in Cellular Biology: From Concepts to Nuts
+and Bolts” MIT-Press, 2006.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understand the modeling principles and basics of simulation
+CO-2 Utilize certain software tools for modeling and simulation
+CO-3 Design and develop kinetic models for various bioprocess involving enzymes and cells
+CO-4 Understand the bioreactor modeling principles
+Understanding the modeling and simulation principles involved in various biological
+CO-5
+systems
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 - 3 - - - - - - - - - 2 -
+CO-2 3 - 3 - 3 - - - - - - - 2 -
+CO-3 3 - 3 - 1 - - - - - - - 2 -
+CO-4 3 - 3 - 1 - - - - - - - 2 -
+CO-5 3 - 3 - 1 - - - - - - - 2 -
+Total 15 - 15 - 6 - - - - - - - 10 -
+Average 3 - 3 - 1.5 - - - - - - - 2 -
+57
+
+--- Page 58 ---
+DEPARMENTAL ELECTIVE (15)
+1. Name of the Subject: MOLECULAR BASIS OF DISEASES
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Molecular Basis Of Diseases L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Identification, Characterization of Genetic Diseases
+ Loss of function effect like Hemoglobinopathies, cystic fibrosis
+ Chromosomal Disorders like Autosomal dominant, Autosomal recessive, X-linked dominant, X-linked
+recessive, Y-linked, Abnormality in Mitochondrial DNA
+ Huntington's disease, Duchenne muscular dystrophy etc,
+Module II: Identification, Characterization of Infectious Diseases
+ Types of infectious agents and Pathogens
+ Routes of Infection
+ Inflammation and Immune Regulation
+ Alterations and modifications of Microenvironment, Host-Pathogen Interaction
+ Malaria, Leishmaniasis, Influenza, Hepatitis, Urinary tract infections, Botulism, Tetanus, Diarrhea,
+Tuberculosis, Leprosy, etc.
+Module III: Identification, Characterization of Metabolic Diseases
+ Energy & Redox Metabolism
+ Cell Membrane Transport & Cell Dynamics
+ e.g. Diabetes, Alcoholic and Non-alcoholic livers cirrhosis, Obesity etc.
+Module IV: Challenging Disease/Syndrome like AIDS, Cancer, Parkinson, Alzheimer
+ Genetic & Epigenetic Pathways of Disease
+ Responsible Biochemical Pathway
+4. Text/Reference:
+1. Signal Transduction and Human Disease, T. Finkel, J. S. Gutkind, Wiley Interscience, 10th Edition, 2003
+2. Molecular Biology of the Cell (5th Edition), B. Alberts et al., 2008
+3. The Biology of Disease (2001), Edited by Jonathan Phillips, Paul Murray & Paul Kirk, Blackwell Scientific
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Overall understand the molecular processes contributing to diseases.
+Understand the molecular processes that lead to development of knowledge driving the
+CO-2
+planning of potential therapeutic strategies.
+Formulate experimental strategies to identify the molecular basis of an uncharacterized
+CO-3
+disease
+CO-4 An ability to be aware of current status of any diseases.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO PO PO- PO- PO- PO- PO PO- PSO-
+PO/PSO PO-1 PO-2 PO-11 PO-12 PSO-2
+-3 -4 5 6 7 8 -9 10 1
+mapping
+CO-1 3 3 - 3 3 - - - - - - 1 2 -
+CO-2 3 3 3 3 3 3 - 1 - - - - 2 2
+CO-3 3 3 3 3 3 3 - 1 - - - - 2 1
+CO-4 3 3 - - - 3 1 - 1 - - 1 2 1
+Total 12 12 6 9 9 9 1 2 1 - - 2 10 4
+Average 3 3 3 3 3 3 1 1 1 - - 1 2 1.33
+58
+
+--- Page 59 ---
+DEPARMENTAL ELECTIVE (16)
+1. Name of the Subject: DRUG DESIGN AND DEVELOPMENT
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Drug Design and Development L T P Mid End Internal
+Code 2 1 0 30 50 20
+3. Course Content:
+Module 1: Introduction to drug discovery: What is Drug, Natural Substance as Drug, Criteria for
+compound act as Drug: Stages of drug discovery, identification and validation, Rational approaches to
+lead discovery based on traditional medicine: Random screening, Non-random screening, serendipitous
+drug discovery, lead discovery based on drug metabolism, lead discovery based on clinical observation.
+Module 2: Target identification and lead characterization: Protein expression profiles. Brief description
+of methods for generating protein expression profiles: 2D gel-electrophoresis, 2D LCMS and 2D Mass-
+spectrometry. Analysis of data from 2D-gel experiments: Tools for analysis for Protein-protein
+interactions: Methods (phage display, yeast two hybrid technique), Analysis of microarray data for target
+identification. Combinatorial Chemistry for Lead characterization: 2D and 3D NMR spectroscopy
+principles, X-ray crystallography for target and lead characterization.
+Module 3: Computational biology for drug design: Molecular modelling and Virtual screening,
+Computer assisted Drug Design (CADD), Quantitative modelling of structure activity relationships
+(QSAR and 3D-QSAR).
+Module 4: Delivery of drug into system: Transport of drugs across biological membranes: Factors
+affecting drug absorption. Role of intestinal transporters in drug absorption; Bioequivalence; Absorption
+kinetics: Estimation of pharmacokinetic parameters.
+4. Text/Reference:
+1. Textbook of Drug Design and Discovery, Third Edition, Tommy Liljefors, Povl Krogsgaard-Larsen, Ulf
+Madsen
+2. Introduction to Proteomics, Tools for the New Biology, Daniel C. Liebler, Humana Press; 2002 edition.
+3. Terpenoids against human diseases; Editor: DNROY, Taylor & Francis, First Edition, 2019
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Able to understand the basic concept of pharmaceutical drugs
+CO-2 Ability to identification of target and lead, and their characterization
+To understand the criteria for selection of drugs for the development of Novel
+CO-3
+drug delivery systems, their formulation and evaluation.
+To understand various approaches for development of novel drug delivery
+CO-4
+systems.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO PO PO- PO- PO- PO- PO PO- PSO-
+PO/PSO PO-1 PO-2 PO-11 PO-12 PSO-2
+-3 -4 5 6 7 8 -9 10 1
+mapping
+CO-1 3 1 - - - 1 1 - - - - 1 2 -
+CO-2 3 2 2 1 2 1 - - - - - 1 2 -
+CO-3 3 2 2 1 2 1 1 1 - - - 1 2 -
+CO-4 3 1 2 1 2 1 1 1 - - - 1 2 -
+Total 12 6 6 3 6 4 3 2 - - - 4 8 -
+Average 3 1.5 2 1 2 1 1 1 - - - 1 2 -
+59
+
+--- Page 60 ---
+OPEN ELECTIVE (01)
+1. Name of the Subject: BIOSENSORS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biosensors L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Introduction to MEMS, Scaling laws, Dynamics and Transport at the micro and nanoscales,
+Electrokinetics.
+Module II: Photolithography : Hard and Soft lithography; Chemical etching; Ion implantation; Bulk and
+Surface micromachining ; Nanofabrication Techniques; Fabrication based on self assembly; Micropatterns
+of self assembled monoplayers (SAMs) ; Micropatterns of cells.
+Module III: Sensors , actuators and Pumps in MEMS; Molecular Biology on a Chip ; Point Of Care
+diagnostics; Problems with microfluidic sample preparation; Chips for genomics and proteonomics ; Cell
+Based Chips for Biotechnology; BioMEMS for cell biology .
+Module IV: BioMEMS application in Tissue Engineering; Microscaffording ; Micropatternedcocultures;
+stem cell Engineering ; Implantable Microdevices ; Implantable Microelectrodes,; Microtools for surgery.
+4. Text/Reference:
+1. Fundamentals of BioMEMS and Medical Microdevices ; Steven S. Saliterman.
+2. Introduction to BioMEMS ; Albert Foltch.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Have a concept on the scope and recent development of the science and
+CO-1
+technology of micro-and nano-systems
+Ability to design the micro devices, micro systems using the MEMS fabrication
+CO-2
+process.
+CO-3 Gain a knowledge of basic approaches for various sensor design
+CO-4 Gain a knowledge of basic approaches for various actuator design
+CO-5 Students will learn about the use of MEMS in biological field.
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PS PS
+PO/PSO PO-5 PO-6 PO-8 PO-9
+1 2 3 4 7 10 11 12 O-1 O-2
+mapping
+CO-1 3 1 1 - 3 - 1 - - 1 - 2 3 -
+CO-2 3 3 3 1 2 - - - - - - - 1 -
+CO-3 3 2 3 1 2 - - - - - - - 2 -
+CO-4 3 2 3 1 2 - - - - - - - 1 -
+CO-5 1 2 3 - 1 - 2 - - - - 2 1 -
+Total 13 10 13 3 10 - 3 - - 1 - 4 8 -
+Average 2.6 2 2.6 0.6 2 -- 0.6 - - 0.2 - 0.8 1.6 -
+60
+
+--- Page 61 ---
+OPEN ELECTIVE (02)
+1. Name of the Subject: COMPUTATIONAL FLUID DYNAMICS IN BIOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Computational Fluid
+Name L T P Mid End Internal
+Dynamics in Biology
+Code 2 1 0 30 50 20
+3. Course Content:
+Module I: Conservation equation; mass; momentum and energy equations; convective forms of the
+equations and general description.Overview of Numerical Methods; parabolic elliptic and hyperbolic
+equations; boundary and initial conditions; Approximate Solutions of DifferentialEquations; Variational
+Principles.
+Module II: Finite difference methods (FDM); different means for formulating finite difference equation;
+treatment of boundary conditions; boundary layer treatment; variable property; interface and free surface
+treatment; accuracy of FDM; Application of the method in bioengineering.
+Module III: Finite volume methods (FVM); different types of finite volume grids; central, upwind and
+hybrid formulations and comparison for convection-diffusion problem; Properties of discretisation
+schemes; The quadratic upstream interpolation for convective kinetics (QUICK) scheme. Application of
+the method in bioengineering.
+Module IV: Finite Element Methods (FEM): Finite element methods; Rayleigh-Ritz, Galerkin and Least
+square methods; applications in bioengineering.
+Turbulence modeling: Reynolds averaged Navier-Stokes equations, RANS modeling, DNS and LES;
+applications in bioengineering.
+4. Text/Reference:
+1. Moukalled, F., Mangani, L., Darwish, M. The Finite Volume Method in Computational Fluid Dynamics;
+Springer; 2015.
+2. O. C. Zienkiewicz, R. L. Taylor and P. Nithiarasu; The Finite Element Method for Fluid Dynamics
+(Seventh Edition); Elsevier; 2014.
+3. Fletcher, Clive A. J.; Computational Techniques for Fluid Dynamics (Volume-I); Springer; 1988.
+4. Fletcher, Clive A. J.; Computational Techniques for Fluid Dynamics (Volume-II); Springer; 1988.
+5. H. Versteeg, W. Malalasekra; An Introduction to Computational Fluid Dynamics: The Finite Volume
+Method Approach, Prentice Hall, 1996.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Understanding the mass, momentum and energy equations.
+Know about numerical methods, boundary and initial conditions, approximate
+CO-2
+solutions of differential equations, variational principles.
+Write the formulation of FDM, FEM and FVM method and apply to write the
+CO-3
+code, design and solve the industrial problems.
+CO-4 Generate ideas about grid, model, different types of discretization schemes.
+CO-5 Application of the FDM, FEM and FVM method in Bioengineering
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO &
+PO- PO- PO- PO- PO- PO- PSO PSO
+PO/PSO PO-5 PO-6 PO-8 PO-9 PO-10 PO-11
+1 2 3 4 7 12 -1 -2
+mapping
+CO-1 3 2 1 1 1 - - - - - - 1 3 -
+CO-2 3 3 2 3 3 - - - - - - - 3 -
+CO-3 3 3 3 3 3 - - - - - - - 3 -
+CO-4 3 3 3 3 3 - - - - - - - 3 -
+CO-5 3 2 1 2 1 - - - - - - 1 3 -
+Total 15 13 10 12 11 - - - - - - 2 15 -
+Average 3 2.6 2 2.4 2.2 - - - - - - 0.2 3 -
+61
+
+--- Page 62 ---
+OPEN ELECTIVE (03)
+1. Name of the Subject: BIO-NANOTECHNOLOGY
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Bio-nanotechnology L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module I: Basics of biology - cell, organelles and nucleic acids as genetic material, Biomacromolecules - Self
+assembly of proteins, oligonucleotides, amphipathic lipids. Organic & inorganic templates in biological
+systems (Bone mineralization, silicate deposits). Nanomaterial in biotechnology - nanoparticles, quantum dots,
+nanotubes and nanowires etc.
+Module II: Development of nanobiotechnology - timelines and progress, overview, Biogenic nanoparticles,
+Stealth nanoparticles, Virosomes and virus-like nanoparticles for gene delivery, Stimuli responsive ‘smart’
+nanosystems. Biosensors- different classes; molecular recognition elements, transducing elements, Applications
+of molecular recognition elements in nanosensing of different analytes.
+Module III: Application of various transducing elements as part of nanobiosensors, Miniaturized devices in
+nanobiotechnology - types and applications, lab on a chip concept, Biological nanoparticles production - plants
+and microbial. Targeted nano delivery systems – The Trojan horse concept (Passive targeting, Active targeting,
+External triggers, Internal triggers),
+Module IV: Nanobiotechnological applications in health and disease – infectious, genetic and chronic, Stem
+cells & Nanotechnology – Stimulating tissue regeneration (Importance of nanogeometry, nanochemistry &
+nanomechanics), Capture-based, Cell-based & Tissue based sensors, Nanoparticles for imaging,
+Nanobiotechnological applications in Environment and food - detection and mitigation.
+4. Text/Reference:
+a. Nanobiotechnology: Concepts, Applications and Perspectives (2004), Christof M.Niemeyer (Editor), Chad
+A. Mirkin (Editor), Wiley VCH.
+b. Nanobiotechnology - II more concepts and applications. (2007) - Chad A Mirkin and Christof M. Niemeyer
+(Eds), Wiley VCH.
+c. Nanotechnology in Biology and Medicine: Methods, Devices, and Applications by Tuan Vo-Dinh, CRC
+Press.
+d. An Introduction to Materials in Medicine. Edited by: Buddy D. Ratner, Allan S. Hoffman, Frederick J.
+Schoen and Jack E. Lemons, Academic Press, 2013.
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Able to correlate the impact of nanotechnology and nanoscience in a global, economic, environmental, and
+CO-1
+societal context.
+Accquire a working knowledge in nanotechnology techniques (synthesis, fabrication, characterization) and
+CO-2 acquire the ability to use them to solve problems in bioengineering, biomedicine and
+agricultural/environmental issues.
+Learn the principles governing the effect of size on material properties at the nanoscale, and perform
+CO-3
+quantitative analysis.
+CO-4 Learn the wide range of applications of nanotechnology and its interdisciplinary aspect.
+Able to identify career paths at the interface of nanotechnology, biology, environmental and agricultural
+CO-5
+engineering and medicine.
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PO-7 PO-8 PO-9 PO-10 PO-11 PO-12 PSO-1 PSO-2
+mapping
+CO-1 2 3 2 1 1 - 1 - - 1 - 2 1 3
+CO-2 3 1 1 - 3 - 1 1 2 1 1 2 1 1
+CO-3 3 - - - 2 1 1 1 1 1 - - 2 2
+CO-4 2 2 1 1 1 - 2 1 - 1 - 1 1 3
+CO-5 3 2 3 1 1 1 1 2 1 1 1 2 3 3
+Total 13 8 7 3 8 2 6 5 4 5 2 7 8 12
+Average 3 2 2 1 2 1 1 1 1 1 1 2 2 2
+62
+
+--- Page 63 ---
+OPEN ELECTIVE (04)
+1. Name of the Subject: BIOMATERIALS
+2. Credit Structure:
+Course Name Credit Marks (Weightage)
+Name Biomaterials L T P Mid End Internal
+Code 3 0 0 30 50 20
+3. Course Content:
+Module 1: Introduction to biomaterials science: a multidisciplinary endeavor, Properties of Biomaterials:
+Physics and General Concepts, Bonding, interatomic, intermolecular, surface interactions, bulk properties
+of materials: microstructure, strength, deformation, thermal and optical properties, Surface properties of
+biomaterials, Characterization of Biomaterials.
+Module 2: Metallic biomaterials, Ceramic biomaterials, Polymeric biomaterials, Hydrogels, Composite
+materials, Biological materials, Fatigue failure, Metallic corrosion, Polymer degradation, Ceramic
+degradation, Biomaterial calcification.
+Module 3: Physical and Mechanical Properties of Biomaterials, Biocompatibility, Biomaterials surface
+properties: protein adsorption, surface tension, cells and surfaces in vitro, Tissue-material interface:
+cell/tissue-biomaterials interaction, biological responses to biomaterials, inflammation, wound healing,
+and the foreign-body response, systemic toxicity and hypersensitivity, Biofilms, biomaterials and device-
+related infections.
+Module 4: Biomaterials Degradation in the Biological Environment, Selected Applications of Biomaterials
+(Orthopedics, Dental implantation, Tissue engineering, Implants, Devices and Biomaterials, Regulatory
+compliance, Legal aspects of biomaterials, clinical trials.
+4. Text/Reference:
+1. Biomaterials Science: An introduction to materials in Medicine. Buddy D. Ratner et al. 3rd edition, 2012.
+2. Biomaterials: The Intersection of Biology and Materials Science - Temenoff and Mikos (Pearson Prentice Hall; ISBN
+0-13-009710-1), 1st edition (January 12, 2008.
+3. Materials Science and Engineering: An Introduction - Callister (John Wiley and Sons; ISBN 0-471-13576-3), 6th
+edition, 2002.
+4. Science and Engineering of Materials - Askland and Phule (Thomson; ISBN 0-534-55396-6), 5th edition, 2005.
+5. An Introduction to Tissue-Biomaterial Interactions- Kay C. Dee et al. (Wiley-Liss, 1st edition, 2002).
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+Understand the fundamental principals in biomedical engineering, material science and
+CO-1
+chemistry, and how they contribute to biomaterial development and performance.
+Able to apply the math, science, and engineering knowledge gained in the course to
+CO-2
+biomaterial selection and design.
+Able to classify materials into three main classes and describe their structure-property
+CO-3
+relationships for use in medical applications.
+Acquire knowledge of what to consider when selecting a material for an implant and their
+CO-4
+implications.
+CO-5 Learn the mechanisms by which the human body reacts to a foreign material
+6. CO-PO Matrices & CO-PSO Mapping of courses:
+(1: Slight (low), 2: Moderate (Medium); 3: Substantial (High); and for No Correlation: --
+CO &
+PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PO- PSO- PSO-
+PO/PSO
+1 2 3 4 5 6 7 8 9 10 11 12 1 2
+mapping
+CO-1 3 3 3 - 1 1 - - 1 - - 3 3
+CO-2 3 1 1 - 3 - - 1 2 1 1 - 3 1
+CO-3 3 - - - 2 1 - 1 1 1 - - 3 3
+CO-4 - 2 1 - 1 3 2 1 - 1 - - 1 -
+CO-5 3 2 3 - 1 1 1 2 1 1 1 - 3 -
+Total 12 8 8 - 8 5 4 5 4 5 2 - 13 7
+Average 3 2 2 - 2 2 1 1 1 1 1 - 3 2
+63

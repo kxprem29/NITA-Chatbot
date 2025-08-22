@@ -1,0 +1,2424 @@
+
+--- Page 1 ---
+UUNNDDEERR GGRRAADDUUAATTEE SSYYLLLLAABBUUSS
+DDDEEEPPPAAARRRTTTMMMEEENNNTTT OOOFFF EEELLLEEECCCTTTRRROOONNNIIICCCSSS AAANNNDDD
+CCCOOOMMMMMMUUUNNNIIICCCAAATTTIIIOOONNN EEENNNGGGIIINNNEEEEEERRRIIINNNGGG
+NNNAAATTTIIIOOONNNAAALLL IIINNNSSSTTTIIITTTUUUTTTEEE OOOFFF TTTEEECCCHHHNNNOOOLLLOOOGGGYYY AAAGGGAAARRRTTTAAALLLAAA
+BBAARRJJAALLAA,, AAGGAARRTTAALLAA - 779999004466
+
+--- Page 2 ---
+B.TECH SYLLABUS FOR DEPARTMENT OF ELECTRONICS AND
+COMMUNICATION ENGINEERING
+Course Structure of B.Tech in Electronics and Communication Engineering (3rd to 8th
+Semester) from 2019-2020 Admission Batch Onwards.
+3rd Semester L T P Total CR
+1 Mathematics III 3 0 0 3
+2 Data Structures and Algorithms 3 0 2 3+1
+3 Semiconductor Devices 3 1 2 4+1
+4 Analog Electronic Circuits-I 3 0 2 3+1
+5 Network Analysis and Synthesis 3 1 2 4+1
+6 Signals & Systems 3 1 0 4
+25
+4th semester
+1 Engineering Economics & Accounts 3 0 0 3
+2 Analog Electronic Circuits-II 3 0 2 3+1
+3 Electromagnetic Theory & Antennas 3 1 2 4+1
+4 Probability and Random processes 3 0 0 3
+5 Digital Electronics 3 1 2 4+1
+6 Control Systems 3 1 2 4+1
+25
+5th Semester
+1 Industrial Management 3 0 0 3
+2 Analog and Digital Communication 3 1 2 4+1
+3 Electronic Instrumentation & Measurement 3 1 2 4+1
+4 Digital Signal Processing 3 1 2 4+1
+5 Microprocessor sand Microcontroller 4 0 2 4+1
+23
+6th semester
+1 Microwave Engineering 3 1 2 4+1
+2 Optical Fibre Communication 3 1 2 4+1
+3 VLSI Technology 3 0 2 3+1
+4 Information Theory & Coding 3 0 0 3
+5 Data Communication Networks 3 0 2 3+1
+21
+7th Semester
+1 Wireless Communication 3 0 2 3+1
+2 Elective-I (Departmental) 3 0 0 3
+3 Elective –II(Departmental/Open) 3 0 0 3
+4 Project Preliminary 0 0 6 2
+5 Industrial training and Seminar 0 0 2 1
+13
+8th semester
+FOR STUDENTS UNDERGOING PROJECT WORK IN THE INSTITUTE
+1 Elective- IV(Departmental) 3 0 0 3
+2 Elective-V (Departmental/Open) 3 0 0 3
+3 Elective –VI (Departmental/Open) 3 0 0 3
+4 Project 0 0 9 3
+5 Comprehensive Viva 0 0 0 1
+13
+FOR STUDENTS UNDERGOING PROJECT WORK IN THE INDUSTRY
+1 Industrial Project 0 0 0 10
+
+--- Page 3 ---
+2 Project Seminar 0 0 0 2
+3 Comprehensive Viva 0 0 0 1
+13
+TOTAL 120
+ELECTIVE SUBJECTS OF 7th AND 8th SEMESTER
+DEPARTMENTAL ELECTIVE
+Sl. No. Course title
+L T P CR
+1 Advanced Digital Systems 3 0 0 3
+2 Computer architecture 3 0 0 3
+3 Embedded System Design 3 0 0 3
+4 Advanced Semiconductor Devices 3 0 0 3
+5 Advanced Control System 3 0 0 3
+6 Low Power VLSI Circuits 3 0 0 3
+7 Industrial Electronics 3 0 0 3
+8 Detection and Estimation Theory 3 0 0 3
+9 Radar & Navigation Systems 3 0 0 3
+10 Smart Antenna 3 0 0 3
+11 RF Circuits & Systems 3 0 0 3
+12 Electronic System Design 3 0 0 3
+13 Wireless Networks 3 0 0 3
+14 Internet of Things 3 0 0 3
+15 Adaptive Signal Processing 3 0 0 3
+
+--- Page 4 ---
+OPEN ELECTIVE
+Sl. No. Course title L T P CR
+1. Digital Image Processing 3 0 0 3
+2. Machine learning & Artificial Intelligence 3 0 0 3
+3. Fuzzy Logic and Neural Network 3 0 0 3
+4. Laser and Nonlinear Optics 3 0 0 3
+5. Nano‐Technology 3 0 0 3
+6. Cryptography & Network security 3 0 0 3
+7. Biomedical signal Processing 3 0 0 3
+8. Operating Systems 3 0 0 3
+9. Computational Electro magnetics 3 0 0 3
+10. Digital Speech Processing 3 0 0 3
+11. Object Oriented Programming 3 0 0 3
+12. Robotics 3 0 0 3
+13. Smart Grid Communication 3 0 0 3
+14. VLSI for Wireless Communication 3 0 0 3
+
+--- Page 5 ---
+rd
+3 SEMESTER
+Mathematics-III
+Mathematics-III L-3 T-0 P-0 3 credits
+COURSES OBJECTIVE:
+The objectives of the course Engineering Mathematics-III are:
+ The main objective of this course is to provide students with the foundations of
+probabilistic and statistical analysis mostly used in varied applications in engineering and
+science like disease modeling, climate prediction and computer networks etc.
+ Apply probability theory via Bayes’ Rule
+ Describe the properties of discrete and continuous distribution functions.
+ Use method of moments and moment generating functions.
+ Apply the Central Limit Theorem.
+ Use statistical tests in testing hypotheses on data.
+ Introduce students to partial differential equations, and to solve linear Partial Differential
+with different methods.
+ Introduce students to some physical problems in Engineering and Biological models that
+results in partial differential equations.
+ Introduce the Fourier series and its application to the solution of partial differential
+equations.
+COURSE CONTENT:
+Module-1
+Probability and Random Variable: Axioms of probability, Conditional probability,
+Independent events, Baye’s Theorem, Random variables, Probability mass function,
+Probability density function - properties, Moments, Moment generating functions and their
+properties.
+Module-2
+Standard Distributions: Binomial, Poisson Normal distribution and their properties,function of
+random variables.
+Module-3
+Two-dimensional random variables: Joint distribution, Marginal and conditional distribution,
+covariance, correlation and regression, Transformation of random variables, Central limit
+theorem.
+
+--- Page 6 ---
+Module-4
+Testing of hypothesis: Sampling distribution, testing of hypothesis of mean,
+variance,proportion and differences using Normal, t and Chi-square.
+Module-5
+Fourier series: Periodic functions, Fourier series, Dirichlet’s conditions, functiondefined in
+two or more sub-ranges, discontinuous functions, even function, odd function, halfrange
+series, and change of interval.
+Module-6
+Partial Differential Equations:Order, Method of forming Partial Differential Equations,
+Solution of Equation by Direct Integration, Lagrange’s Linear equation, Method of
+Multipliers, Partial Differential equations non-linear in p,q, Charpits Method, Linear
+Homogeneous Partial Differential equation, Non-Homogeneous Linear Equations, Method of
+Separation of variables, Equation of vibrating string, Solution of wave equation
+byD’Alembert’s method, One dimensional heat flow, Two dimensional Heat flow.
+COURSE OUTCOME:
+At the end of the course, students will be able to:
+CO1: Understand the basic concepts of probability, random variables, probability distribution,
+and moments and moment generating functions.
+CO2: Define the basic discrete and continuous distributions such as normal, binomial,
+Poisson, and make be able to apply them and simulate them in simple cases.
+CO3: Explain the concepts of two dimensional random variable, independence, jointly
+distributed random variables and conditional distributions, and use generating functions to
+establish the distribution of linear combinations of independent random variables. Also State
+the central limit theorem, and apply it.
+CO4: Explain the concepts of random sampling, statistical inference and sampling
+distribution, and state and use basic sampling distributions. Hypothesis testing and its
+application in real life problems.
+CO5: Find the Fourier series representation of a function of one variable, and find the solution
+of the wave, diffusion and Laplace equations using the Fourier series.
+CO6: Students familiarize with the fundamental concepts of Partial Differential Equations
+(PDE) which will be used as background knowledge for the understanding of specialized
+courses in Engineering. Students will master how solutions of PDEs are determined by
+conditions at the boundary of the spatial domain and initial conditions at time zero.
+
+--- Page 7 ---
+Data Structures and Algorithm
+Data Structures and Algorithms L-3 T-0 P-0 3 credits
+COURSE OBJECTIVES:
+ To impart a thorough understanding of linear data structures such as stacks, queues and
+their applications.
+ To impart a thorough understanding of non-linear data structures such as trees, graphs
+and their applications.
+ To impart familiarity with various sorting, searching and hashing techniques and their
+performance comparison.
+ To impart a basic understanding of memory management.
+COURSE CONTENT:
+Module-1
+Concepts of data Structures- Information & Meaning, Abstract data Types.
+Module-2
+Linear Data Structures – Sequential RepresentationsArrays and Lists, Stacks, Queues and
+Dequeues and their Applications; Linked Representations: Linear Linked List, Circular Linked
+List, Doubly Linked List and their Applications.
+Module-3
+Nonlinear Data structures: Trees : Basic Terminologies; Binary trees: Properties, Traversals
+and Threads, Expression.
+Module-4
+Tree, Binary search tree: Operations, Height Balanced Binary trees; M-Way Search Tree, B-
+Trees; Applications. Heaps & Priority Queues.
+Module-5
+Graphs: Graph Terminologies, Representation of graphs, Graph Traversals, Application of
+Graphs. Recursion – Design of Recursive Algorithms, Tail Recursion, When not to use
+recursion, Removal of Recursion.
+Module-6
+Sorting Algorithms: Insertion sorts : Straight insertion sort, Binary insertion of sort, Shell sort;
+Exchange sorts, Bubble sort, Quick sort, selection sorts: Straight Selection Sort, Heap Sort;
+Merge sort; Distribution Sorts : Bucket Sort, Radix Sort
+Module-7
+Searching: Sequential Search, Ordered Sequential Search, Binary Search, Interpolation
+Search.
+
+--- Page 8 ---
+Module-8
+Hashing: Hashing Methods, Hash Function Implementations, Hash Tables, Scatter Tables,
+Scatter tables using Open Addressing.
+Module-9
+Programming Experiments based on: Arrays, Stacks, Queues, Linked lists, Trees, Recursion,
+Sorting, searching and Hashing data structures.
+TEXT/REFERENCE BOOKS:
+1. Lipschutz, S. (1987).Schaum's Outline of Data Structure. McGraw-Hill, Inc
+2. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009).Introduction to
+algorithms. MIT press.
+COURSE OUTCOMES
+CO1: Summarize different categories of data Structures
+CO2: Identify different parameters to analyze the performance of an algorithm.
+CO3: Explain the significance of dynamic memory management Techniques.
+CO4: Design algorithms to perform operations with Linear and Nonlinear data structures.
+CO5: illustrate various technique to for searching, Sorting and hashing.
+CO6: Choose appropriate data structures to solve real world problems efficiently.
+
+--- Page 9 ---
+Semiconductor Devices
+Semiconductor Physics and Devices L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ Foundation for qualitative and quantitative evaluation and understanding the different
+parameters governing the electronic properties and flow of currents in semiconductor
+materials.
+ Introduction to the structure, principle of operation and justifying in terms of electronic
+parameters the characteristic devices like p-n Junction, BJT, MOS, MOSFET.
+ Introduction to some basic optoelectronic devices.
+COURSE CONTENT:
+Module – 1
+Bonding Forces in Solids, Energy Bands theory in crystals (Qualitative Analysis),
+Metals,Semiconductors, & Insulators, FermiLevel, Intrinsic, Extrinsic Semiconductors,
+Concept ofHoles, Carrier Conc. and Mobility, Recombination& generation of charge carriers.
+Module - 2
+Carrier drift, diffusion, graded impurity distribution, carrier generation and recombination,
+Built in fields, continuity equations, steady state carrier injection, Diffusion length.
+Module - 3
+Physical Description of p-n junction, Current flow at a junction, I –V characteristics,
+Quantitative analysis of p-n diode characteristics, equivalent circuit, temperature dependence,
+Capacitance of p-n junction diode (transition & storage), Junction Breakdown (Avalanche
+&Zener), Step and linearly graded junction, diode switching characteristics, M – S junction
+(Schottky barrier, Ohmic contact and rectifying contact), Hetero-junction.
+Module – 4
+Junction transistor, Charge transport in BJT, base narrowing (Early effect),
+Avalanchebreakdown& Punch through, transistor switching, Coupled-Diode model, Ebers-
+Moll equations,LF and HF model.
+Module - 5
+MOS structure, Basic operation of Enhancement & Depletion mode MOSFET, MOS
+capacitance (Operation with band diagram, threshold voltage & Characteristics), CCD and
+applications, LFand HF model.
+Module-6
+Optical absorption in semiconductors, photovoltaic effects, solar cells (p-n junction),
+Photoconductors, Photodiode, PIN photodiode, Avalanche photodiode, Phototransistor, LED,
+Semiconductor Laser (p-n junction)
+
+--- Page 10 ---
+TEXT /REFERENCEBOOK:
+1. Solid State Electronic Devices by Streetman & Banerjee
+2. Semiconductor Physics and Devices: Donald Neaman
+3. Integrated Electronics: Millman & Halkias
+4. Semiconductor Optoelectronic Devices: Pallab Bhattacharaya
+5. Semiconductor Physics: Device & Technology: S. M. Sze
+COURSE OUTCOME:
+CO1: Understanding of the basic crystal structure, semiconductor material classification and
+introduction in general.
+CO2: Understanding parameters governing the electronic properties of semiconductors,
+equilibrium carrier concentration, bond and band models of Intrinsic and extrinsic
+semiconductors.
+CO3: Understanding carrier Transport phenomenon and non equilibrium excess carriers in
+Semiconductor.
+CO4: Understanding the Theory of Junction and Interfaces.
+CO5: Understanding Bipolar Junction Transistor characteristics and its operation.
+CO6: Understanding the characteristics and operation of MOS, MOSFET and introduction to
+Optoelectronic Devices.
+
+--- Page 11 ---
+Network Analysis and Synthesis
+Network Analysis and Synthesis L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand and analyse electrical networks in time and frequency domain.
+ To understand various network laws, techniques and theorems in solving the problems
+related to electrical networks.
+ To learn the network graph theory.
+ To know the basic concepts of coupled circuits and to understand the concept of resonance
+in series and parallel circuits.
+ To describe and analyse two port networks.
+ To understand synthesis of electrical network from a given impedance/admittance
+function.
+COURSE CONTENT:
+Module- 1
+Network Concepts: Review of network / circuit concepts, Network elements, Types of
+Electrical Energy Sources: Independent and dependent voltage and current sources, voltage
+and current relations for Resistors, Inductors and Capacitors, Kirchoff’s laws, Loop current
+and node voltage methods for network analysis, Concepts of super node and super mesh,
+Wye- Delta transformation.
+Module-2
+Initial conditions and Linear Differential Solution: Initial conditions in elements, behavior of
+circuit elements under switching condition and their representation, 1st order and 2nd order
+differential solution for Transient and steady state response of R-L, R-C, L-C and R-L-C
+circuits.
+Module-3
+Laplace Transformation and application: Concept of complex frequency, Definition and basic
+theorems of Laplace transform, Laplace transform of some basic functions, Gate function
+,Wave form synthesis, inverse Laplace transform, Transient and steady state response of R-L,
+R-C, and R-L-C circuits with Laplace transforms .
+Module-4
+Network theorems: Superposition, Thevenin’s, Norton’s, Maximum power transfer,
+Reciprocity, Substitution and Compensation, Millman’stheorem, Tellegen’s Theorem as
+applied to AC circuits.
+
+--- Page 12 ---
+Module-5
+Coupled circuits: Self-inductance and Mutual inductance, Coefficient of coupling, dot
+convention, and Equivalent inductance of mutually coupled circuits, Analysis of single tuned
+and double tuned coupled circuits.
+Module-6
+Resonance: Behaviors of Series and parallel resonant circuits.
+Module-7
+Network Graph theory: Concept of a network graph, terminology, Incidence matrix and its
+properties , Tie-Set Matrix, Cut-Set Matrix, Graph theory for electric networks analysis, Dual
+of a network.
+Module-8
+Two port networks: Characterization in terms of Impedance, admittance, transmission and
+inverse transmission, hybrid and inverse hybrid parameters ,Interrelationship between the
+various parameters , Interconnection of two port networks- Series, parallel and cascade.
+Module-9
+Network functions and passive network synthesis: Driving points and transfer functions for
+one port and two port network, poles and zeros of immittance function, Hurwitz polynomial,
+positive real function and their properties, Synthesis of LC, RC and RL Networks, Foster
+Forms and Cauer Forms.
+TEXT/ REFERENCES:
+1. Van, Valkenburg.; “Network analysis”; 3rd Ed., Prentice Hall International Edition, 2007.
+2. Sudhakar, A., Shyammohan, S. P.; “Circuits and Network”; Tata Mcgraw-Hill New Delhi,
+1994
+3. Hayt W. H., Kemmerly J. E. and Durbin S. M., “Engineering Circuit Analysis”, 6th
+Ed.,Tata McGraw-Hill Publishing Company Ltd.,2008.
+4. Van Valkenberg M.E., Introduction to Modern Network Synthesis, John Wiley and Sons,
+Inc, 1960.
+5. F.F. Kuo, “Network analysis and Synthesis”, Wiley International Edition ,2008.
+6. B.S.Nair and S.R.Deepa, “Network analysis and Synthesis”, Elsevier,2012.
+7. DeCalro and Lin “Linear Circuit Analysis”, 2nd Ed. Oxford University Press, Indian
+Edition(2004).
+
+--- Page 13 ---
+COURSE OUTCOME:
+CO1: Acquire knowledge to understand the fundamentals of electrical networks.
+CO2: Ability to use various network laws, techniques and theorems in analyzing complex
+networks.
+CO3: Acquire knowledge to analyze electrical networks using graph theory.
+CO4: Ability to analyze magnetically coupled circuits and series and parallel resonant circuits
+CO5: Ability to express given electrical network in terms of various two port parameters and
+to relate various two port parameters for finding network solution.
+CO6: Ability to synthesis electrical networks using immittance functions.
+
+--- Page 14 ---
+Analog Electronic Circuits-I
+Analog Electronic Circuits-I L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ To make the students understand the fundamentals of electronic circuits.
+COURSE CONTENT:-
+Module-1:
+Review of BJT operation and its characteristics, need of biasing and different types of biasing
+circuits for BJT & FET, stability analysis, small signal Amplifier analysis of BJT & FET,
+estimation of voltage gain, input resistance, output resistance etc.
+Module-2:
+Feedback concept, Feedback amplifier topologies, General characteristics of negative
+feedback amplifier, input and output resistance with negative feedback, Method of analysis of
+feedback amplifiers with practical examples.
+Module-3:
+RC and Direct coupling Amplifier, Low and High Frequency response of Amplifier circuit,
+Gain and Frequency response of Multi stage Amplifier, Darlington pair.
+Module-4:
+Definition of class A, B and C power amplifiers, Distortion analysis, Series fed and
+transformer coupled power amplifier, Push-pull amplifiers, Conversion efficiency.
+Module-5:
+Basic operation of differential Amplifier, Different configuration of differential Amplifier,
+Calculation of gain, impedance etc. Biasing of differential Amplifier, calculation of
+differential gain, common mode gain, CMRR.
+Module-6:
+Review of the basic concept for oscillation, Barkhausen criterion, Sinusoidal Oscillator, LC
+Oscillators, RC phase shift oscillator, Crystal Oscillator.
+TEXT/REFERENCES
+1. Microelectronic Circuits Theory and Application-Sedra and Smith, 7th Ed, Oxford
+publication.
+2. Electronic Circuit Analysis and Design- Donald A. Neamen, McGraw-Hill
+Education
+3. Electronic Principles- Albert Malvinoand David Bates,7th Ed, McGraw Hills
+4. Electronic Devices and Circuits- David A. Bell, 5th Ed, PHI
+5. Electronic Device and Circuits - J. Millman, CCHalkias and S. Jit
+6. Electronics: Circuits and Analysis - Dinesh C. Dube, 2ndEd, NAROSA publication
+
+--- Page 15 ---
+COURSE OUTCOMES:-
+At the end of the course student will be able
+CO1: illustrate about rectifiers, transistor and FET amplifiers and its biasing. Also
+compare the performances of its low frequency models.
+CO 2: discuss about the frequency response of FET and BJT amplifiers.
+CO 3: illustrate about differential amplifiers and its characteristics.
+CO4: discuss about the feedback concepts and construct feedback amplifiers and
+oscillators. Also summarizes its performance parameters.
+CO 5: explain about power amplifiers and its types and also analyze its characteristics.
+
+--- Page 16 ---
+Signals & Systems
+Signals & Systems L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ To understand the basics of time and frequency domain signals.
+ To understand the basics of time and frequency domain systems.
+ To study the analysis of different signals and systems.
+ To study Fourier series, Fourier Transform, Laplace Transform, Z- Transform.
+ To study different sampling procedure of signals.
+ To study different modulation techniques for communication systems.
+COURSE CONTENT:
+Module-1:
+Introduction: signal and system in everyday life. Types of signals: Continuous‐time
+and discrete time signals. Energy and Power signal, Transformations of the
+independent variable, Exponential and sinusoidal signals, Module- impulse and
+Module- step, Continuous‐time and Discrete time systems and Basic system
+properties.
+Module-2:
+Linear time‐invariant systems: Discrete and Continuous time systems, convolution
+sum, convolution Integral, Properties, causality and stability of linear time invariant
+systems. System representation by differential equations and difference equations,
+singularity function.
+Module-3:
+Fourier series and Fourier transform: analysis of continuous-time and discrete time
+signals by Fourier series, properties. Representation of aperiodic signals by Fourier
+Transform: Continuous‐time and discrete‐time signals, Properties, System
+characterized by linear constant coefficient differential equation. Discrete time Fourier
+transform and discrete Fourier transform, Parseval’s theorem.
+Module-4:
+Laplace Transform for continuous-time signal and systems: Eigen functions of LTI
+systems, region of convergence, system functions, pole and zero of system functions
+and signals. Laplace domain analysis, differential equation solution, Parseval’s
+theorem representation.
+Module-5:
+Z-transform of discrete time signals and systems: Eigen functions, region of
+convergence, system function, poles and zeros representation of systems, z-domain
+analysis, Parseval’s theorem representation.
+
+--- Page 17 ---
+Module-6:
+Sampling: Sampling theorem, Impulse train sampling, Sampling with zero order hold,
+Reconstruction of signal from its samples using interpolation, Aliasing. Discrete time
+processing of continuous time signals, Digital differentiator, half sample delay, Sampling of
+Discrete-time signals, Decimation and interpolation.
+Module-7:
+Advanced topics: modulation for communication, filter, and time-frequency
+representation of uncertainty principle, short-term Fourier transform and wavelet
+transform.
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Realize the significance of studying signals and systems and their properties.
+CO2: Understand the concept to analyze different signals.
+CO3: Understand the concept to analyze different systems.
+CO4: Understand the way to sample different signals.
+CO5: Understand different modulation scheme for modern communication.
+
+--- Page 18 ---
+th
+4 SEMESTER
+Engineering Economics and Accounts
+Engineering Economics and Accounts L-3 T-0 P-0 3 credits
+COURSES OBJECTIVE:
+ To make the Engineering student know about the basic concepts and law of Economics
+and their application to understand the behaviour of agents present in the market. The
+subject will address the requirement of evaluating the commercial viability of projects
+undertaken by graduate engineers
+ To make the Engineering student know about the basic concepts of cost and costing,
+Accounts and financial statements and their application to understand the issue of
+commercial viability of any projects.
+COURSE CONTENT:
+Module- 1:
+Engineering Economics- meaning, nature, scope and subject matter
+Module-2:
+Utility- definition, total, marginal and average; cardinal utility theory; indifference
+curves theory; Demand- factors effecting demand, elasticity of demand- different
+types of elasticity, classification of goods based on various elasticity of demand
+Module – 3:
+Production- Production function; Iso-quant; returns to scale; Total, Average & Marginal
+Product; law of variable proportions; Cobb-Douglas production function; Iso-cost curve;
+Derivation of cost curve from production function; Production optimization; expansion path
+Module – 4:
+Cost- short run and long run cost (the ‘Envelope Curve’); shape of different types of cost
+curves; Revenue- total revenue and marginal revenue, relation between marginal revenue and
+price elasticity of demand.
+Module – 5:
+Firm- different types of firm and its characteristics; traditional theory of firm; objectives of
+firm
+Module – 6:
+Introduction to Accounting- Definition of Accounting and accountancy, objectives of
+accounting, users of accounting information, Double Entry system of Book-Keeping, Journal
+and Ledger, Cash book, Trial balance.
+Module – 7:
+Final Accounts- Basic concepts, uses and preparation of Trading account; Profit and Loss
+account; and Balance Sheet. Issue and for feature of Share and Re-Issue of Company.
+
+--- Page 19 ---
+Module – 8:
+Introduction to Costing - Elements of Cost, Direct Materials, Direct Labour, Direct Expenses,
+Overheads, Production, Office and Administration, Selling and Distribution, Allocation of
+overhead, machine hour rate, labour hour rate, practical problems.
+COURSE OUTCOME:
+CO1: Be able to identify and explain economic concepts and theories related to the behavior
+of economic agents present in market.
+CO2: Be able to analyse the impact of various government policies in production and
+profitability of the company.
+CO3: Be able to identify the basic features of alternative representations of human behavior in
+economics.
+CO4: Be able to understand the impact various decisions or transactions will have on the
+company’s statements and financial health.
+CO5: Be able to comfortably communicate with senior financial and non-financial leaders
+about financial statement issues and the financial impact of business decisions.
+TEXT/REFERENCES:
+1. Chan S.Park, “Contemporary Engineering Economics”, Prentice Hall of India, 2002.
+2. Donald.G. Newman, Jerome.P.Lavelle, “Engineering Economics and analysis” Engg.
+Press, Texas, 2002
+3. Degarmo, E.P., Sullivan, W.G and Canada, J.R, “Engineering Economy”, Macmillan,
+New York, 1984
+4. Grant.E.L.,Ireson.W.G., and Leavenworth, R.S, “Principles of Engineering Economy”,
+Ronald Press, New York,1976.
+5. Smith, G.W., “Engineering Economy”, Lowa State Press, Iowa, 1973.
+
+--- Page 20 ---
+Electromagnetic Theory & Antenna
+Electromagnetic Theory & Antenna L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ To understand the basics of electrodynamics.
+ To understand the application of electrodynamics in waves.
+ To study the fundamentals of antennas.
+ To study wire and loop antennas.
+ To study antenna array.
+ To study microstrip and broadband antennas.
+COURSE CONTENT:
+Module-1:
+Electrodynamics: Electromagnetic induction, inductance, continuity equation,
+displacement current, Maxwell’s equations, boundary conditions, Poynting’s theorem,
+energy and momentum in 0electromagnetic field.
+Module-2:
+Electromagnetic Waves: EM waves in vacuum and in matter, plane waves, wave
+polarization, group velocity, normal and oblique incidence of uniform plane
+electromagnetic waves at conducting boundary, dielectric boundary.
+Module-3:
+Fundamental Concepts Antenna: Physical concept of radiation, Radiation pattern,
+near-and far-field regions, reciprocity, directivity and gain, effective aperture,
+polarization, input impedance, efficiency, Friis transmission equation, radiation
+integrals and auxiliary potential functions
+Module-4:
+Radiation from Wires and Loops: Infinitesimal dipole, finite-length dipole,
+monopole antennas, small circular loop, radiation from apertures.
+Module-5:
+Antenna Arrays: Analysis of array of uniformly spaced elements, uniform and non-
+uniform excitation, extension to planar arrays, synthesis of antenna arrays
+Module-6:
+Micro strip Antennas: Basic characteristics of micro strip antennas, feeding methods,
+methods of analysis, design of rectangular and circular patch antennas.
+Module-7:
+Broadband Antennas: Log-periodic and Yagi-Uda antennas, frequency independent
+antennas, broadcast antennas.
+
+--- Page 21 ---
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Realize the significance of studying electrodynamics.
+CO2: Understand the generation of electromagnetic waves.
+CO3: Understand the fundamental concept of antennas.
+CO4: Understand the analysis of different wire antenna, loop antenna, antenna array, microstrip
+and broadband antenna.
+
+--- Page 22 ---
+Probability & Random Process
+Probability & Random Process L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+To expose the students to the basics of probability theory and random processes which is an
+prerequisite for their consequent study of basic and advanced communication courses.
+Module-1
+Axioms of probability theory. Probability spaces. Joint and conditional probabilities. Bayes’
+Theorem-Independent events.
+Module-2
+Random variables and random vectors. Distributions and densities. Independent random
+variables. Functions of one and two random variables.
+Module-3
+Moments and characteristic functions. Inequalities of Chebyshev and Schwartz. Law of large
+numbers, Central limit theorem, Convergence concepts.
+Module-4
+Random processes. Stationarity and ergodicity. Strict sense and wide sense stationary
+processes. Covariance functions and their properties. Spectral representation. Wiener-
+Khinchine theorem.
+Module-5
+Gaussian processes. Processes with independent increments. Poisson processes. Low
+pass and Band pass noise representations
+TEXT/REFERENCE:
+1. Davenport,” Probability and Random Processes for Scientist and Engineers”, McGraw-
+Hill.
+2. Papoulis. A.,” Probability, Random variables and Stochastic Processes”, McGraw Hill.
+3. E.Wong, “Introduction to Random Processes”, Springer Verlag.
+4. W.A.Gardner, “Introduction to Random Processes”, (2/e), McGraw Hill.
+5. H.Stark&J.W.Woods, “Probability, Random Processes and Estimations Theory for
+Engineers”, (2/e), Prentice Hall.
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Understand the Axiomatic Theory of Probability and realize the importance of random
+variables as an intrinsic need for the analysis of random phenomena.
+CO2: Characterize probability models and function of random variables based on single &
+multiple random variables.
+CO3: Evaluate and apply moments & characteristic functions and understand the concept of
+inequalities and limits in Probability.
+
+--- Page 23 ---
+CO4: Understand the concept of random processes and determine different statistical
+parameters related to stationary random processes
+CO5: Be familiar with the usage of random process in telecommunication engineering and to
+solve the corresponding problems.
+
+--- Page 24 ---
+Digital Electronics
+Digital Electronics L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+This course intends to impart the following knowledge to the students:
+ To present the Digital fundamentals, Boolean algebra and its applications in digital
+systems.
+ To familiarize with the design of various combinational digital circuits using logic gates.
+ To introduce the analysis and design procedures for synchronous and asynchronous
+sequential circuits.
+ To explain the various semiconductor memories and related technology.
+ To introduce the electronic circuits involved in the making of logic gates.
+COURSE CONTENT:
+Module- 1:
+Binary arithmetic, Codes—BCD, Gray, Excess-3, Error detection & Correcting Code-
+Hamming code, Logic Gates, Boolean Algebra, Basic theorems & properties of
+Boolean Algebra, K-map representation, Q-M Method, simplification and realization
+with logic gates.
+Module- 2:
+Code Converters, Adders (Half and Full adders, parallel binary adders, look ahead
+carry adder generator, BCD Adder), Subtractor (Half and Full subtractor), Combined
+adder/subtractor block, Magnitude comparator, decoders and Encoders, Priority
+Encoder, Multiplexer and Multiplexer-tree, De-multiplexer, Parity generator/checkers.
+Module- 3:
+Latches, Flip-Flops (SR, D, JK, T and Master Slave JK), Conversion of Flip-Flops,
+Glitches, Shift Register (SISO, SIPO, PIPO, PISO, Bidirectional), Counter (ripple and
+synchronous, Ring and Johnson Counters), Model of Finite State Machine---State
+diagram, Mealy and Moore models.
+Module- 4:
+Memory concepts, RAM, ROM, UV-EPROM, EEROM, Flash memory, Optical
+memory.
+Module- 5:
+PAL, PLA, PROM, CPLD, FPGA and Programmable ASIC.
+
+--- Page 25 ---
+Module-6:
+Transistor as switch, Characteristics (Propagation delay, Speed-power product, Noise
+margin, Fan-in, Fan-out), Standard logic families (RTL, TTL, ECL, CMOS), Gate
+Design using TTL/ CMOS.
+TEXT/REFERENCES:
+1. A. Anand Kumar, Fundamentals of Digital Logic, PHI.
+2. M. Morris Mano, Digital Logic and Computer Design, PHI.
+3. R.P. Jain, Modern Digital Electronics, McGraw Hill Education.
+4. T. L. Floyd & Jain, Digital Fundamentals, Pearson Education.
+5. Malvino & Leach, Digital Principles and Applications, McGraw Hill Education.
+COURSE OUTCOME:
+Upon completion of the course students are expected to demonstrate knowledge, skill and
+abilities in the following areas:
+CO1: Have a thorough understanding of the fundamental concepts and techniques used in
+digital electronics.
+CO2: To understand and examine the structure of various number systems and its application
+in digital design.
+CO3: The ability to understand, analyze and design various combinational and sequential
+circuits.
+CO4: Ability to identify basic requirements for a design application and propose a cost
+effective solution.
+CO5: The ability to identify and prevent various hazards and timing problems in a digital
+design.
+CO6: To develop skill to build, and troubleshoot digital circuits.
+
+--- Page 26 ---
+CONTROL SYSTEM
+Control System L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+ To understand the concept of control system and modeling of physical systems
+using differential equation, transfer function, block diagram, signal flow graph and
+state variables.
+ To examine the feedback control systems using transient and steady-state
+responses.
+ To analyze the stability of a system in time domain and frequency domain
+ To analyze the behavior of closed loop systems using root locus technique.
+ To design various controllers and compensator to meet desired system
+performance specification
+ To derive state variable model for dynamical system and to analyze controllability
+and observe ability.
+COURSE CONTENT:
+Module-1
+Introduction: Elements of control systems, concept of open loop and closed loop systems,
+effects of feedback on parameter variation.
+Module-2
+Mathematical Models of Systems: Differential Equations of Physical Systems, Transfer
+function concepts, Block Diagram Models, Determination of transfer function by block
+diagram reduction techniques, Signal-Flow Graph Models, Mason’s Gain formula.
+Module-3
+Mathematical Modeling of Physical Systems: Modeling of Electric systems, Liquid level
+system, Translational and rotational mechanical systems.
+Module-4
+Control System Components: DC servomotors, Stepper motors and synchros.
+Module-5
+Time Response analysis: Standard test signals, time response of first and second order
+systems, time response specifications, steady state errors, error coefficients, P, PI and P‐I‐D
+type controllers.
+Module-6
+Stability and Algebraic Criteria: Concept of stability, Assessment of stability from pole
+positions, Routh-Hurwitz Stability criteria and limitations.
+
+--- Page 27 ---
+Module-7
+Root Locus Technique: The root locus concept, Root locus construction rules.
+Module-8
+Frequency Response Analysis and frequency domain methods: Frequency response,
+correlation between time and frequency responses, Closed loop frequency response ,polar and
+inverse polar plots, Nyquist plot, Bode plots, constant M & N circles , All pass systems,
+Minimum-phase and Non‐minimum‐phase systems, Illustrative examples.
+Module-9
+Stability in the Frequency Domain: Introduction, Mapping Contours in the s-Plane, Principle
+of Argument, Nyquist stability criterion, Bode plots, assessment of relative stability: gain
+margin and phase margin.
+Module-10
+Compensator Design: Lag, lead and lag-lead compensation.
+Module-11
+State space representation: Concepts of state, state variables and state model, Transfer
+Function from the State Equation, The Time Response and the State Transition Matrix,
+Concept on Controllability and Observe ability and their testing.
+TEXTS/REFERENCES:
+1. Kuo B.C. Automatic Control System, PHI
+2. Nagrath I J & Gopal M : Control Systems Engineering, New Age International Pub.
+3. Ogata K : Modern Control Engg. PHI
+4. Dorf R C & Bishop R.H.: Modern Control System ; Addison – Wisley
+5. Gopal: Modern Control System Theory, New Age International
+6. Gibsen JF, “Control System Components,” Mcgraw Hill.
+7. D.Roy Choudhary, “Modern Control Engineering”, Prentice Hall of India.
+8. Norman S. Mise, Control System Engineering, Wiley Publishing Co.
+9. Ajit K Mandal, “Introduction to Control Engineering” New Age International.
+10. R.T. Stefani, B.Shahian, C.J.Savant and G.H. Hostetter, “Design of Feedback Control
+Systems” Oxford University Press.
+11. .Samarjit Ghosh, “ Control Systems theory and Applications”, Pearson Education
+COURSE OUTCOME:
+CO1: Acquire knowledge to develop mathematical model of the physical system and represent
+them in various forms.
+CO2: Ability to analyze time response of different order system for standard test inputs and to
+analyze the stability in time domain.
+CO3: Ability to apply Root-locus technique to analyze the stability of control system.
+CO4: Ability to design various controllers and compensators.
+CO5: Acquire knowledge to analyze the stability of a system by frequency domain techniques.
+CO6: Ability to develop and analyze state space model.
+
+--- Page 28 ---
+Analog Electronic Circuits-II
+Analog Electronic Circuits-II L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ To introduce the theoretical & circuit aspects of an Op-amp.
+COURSE CONTENT:
+Module-1:
+Review of differential Amplifier. Basic information of OP-AMP, Characteristic of OP-AMP,
+Application of OP-AMP-inverting , non-inverting and differential amplifiers, voltage
+follower, Current to voltage converter, mathematical application of OP-AMP-, sign changer,
+summing, scaling and averaging Amplifier, Instrumentation amplier, Logarithmic amplifier,
+integrator and differentiator, Active filters: Low pass, high pass, band pass and band stop,
+design guidelines.
+Module-2:
+Non-linear application of OP-AMP in designing comparators, application of comparator such
+as zero crossing detector, window detector, etc. Regenerative comparator (Schmitt Trigger),
+Square wave generator (Astable Multivibrator), Monostable Multivibrator, Triangular wave
+generator.Design of Oscillator using OP-AMP, RC phase shift oscillator, Wien Bridge
+Oscillator, LC Oscillator, Colpitt’s and Hartley Oscillator.
+Module- 3:
+Design of Voltage regulator using OP-AMP, Series and Switching regulator. Basic of
+Operational Trans conductance Amplifier (OTA), Function of 555 timer, 555 timer for
+Monostable and Astable operation. Block diagram representation of Phase-locked loop (PLL)
+and use of PLL.
+Module- 4:
+Digital-to-analog converters (DAC): Weighted resistor, R-2R ladder, resistor string etc.
+Analog-to-digital converters (ADC): Single slope, dual slope, successive approximation, flash
+etc. Switched capacitor circuits: Basic concept, practical configurations, application in
+amplifier, integrator, ADC etc.
+TEXT/REFERENCES
+1. Tobey, Graeme , Huelsman , “Operational amplifiers, Design and applications”, McGraw
+Hills, Edition
+2. Gaikwad R.A “Operational Amplifiers and Linear Integrated Circuits”, PHI 1990 Edition
+3. D. Ray Choudhury&Shail Jain “Linear Integrated Circuits” New Age, 5th Edition.
+4. Design with OPAMPS and Analog ICs-Fransis S, McGraw Hills
+5. OPAMPS and Linear ICs -Fiore J.M,Delmer-Thomson, USA 2001.
+6. Microelectronic Circuits Theory and Application-Sedra and Smith, 7th Ed, Oxford
+publication.
+7. Design of Analog CMOS Integrated Circuits-Behzad Razavi, McGraw Hills
+
+--- Page 29 ---
+COURSE OUTCOMES:
+At the end of the course student will be able to
+CO1: infer the DC and AC characteristics of operational amplifiers and its effect on output
+and their compensation techniques.
+CO2: elucidate and design the linear and nonlinear applications of an op-amp and special
+application ICs.
+CO3: explain and compare the working of multi vibrators using special application IC 555 and
+general purpose op-amp.
+CO4: classify and comprehend the working principle of data converters.
+CO5: illustrate the function of application specific ICs such as Voltage regulators, PLL and its
+application in communication.
+
+--- Page 30 ---
+th
+5 SEMESTER
+Industrial Management
+Industrial Management L-3 T-0 P-0 3 credits
+COURSES OBJECTIVE:
+ To make the Engineering student know about the basic concepts, functions, principles and
+techniques of management and their application, which complement the technical skills to
+execute their capabilities successfully.
+ To make the Engineering student know about the basic concepts of finance in carrying out
+any project
+COURSE CONTENT:
+Module- 1:
+Basic Concepts and functions of management: planning, nature, purpose and objective of
+planning; organizing: nature and purpose, authority and responsibility, staff bug; supply of
+human resources, performance appraisal. Controlling: system and process of controlling,
+control techniques.
+Module- 2:
+Human resource Management and Marketing Management: nature and scope of human
+resource of planning, planning and development, recruitment and selection, career growth,
+grievances, motivation and its type, needs for motivation, reward and punishment, models of
+motivation. Leaders: kinds of leaders, leadership styles, roles and functions of leader; conflict
+management: kinds and causes of conflict, settlement of conflict, Group and team working,
+organizational design and development.
+Module – 3:
+Financial Management: Need of finance, kinds and sources of capital shares and
+debentures, fixed and working capital , capital structure of a firm, operating and financial
+leverage, EBIT and EPS analysis, financial ratio analysis : uses and natures, liquidity
+coverage ratios, practical problems.
+Module – 4:
+Investment decisions and forecasting of working capital: Kinds of capital Budgeting decisions,
+evaluation of proposals, capital discounting and non discounting based methods. Practical
+problems. Definition and importance of working capital. Working capital operating cycle,
+factors affecting Working capital, inventory management
+Module – 5:
+Cost Analysis and Cost Control: elements of cost, types of cost, direct and indirect, variable
+and fixed, labour cost, material cost, overhead cost, cost control techniques. Budget: meaning,
+kinds, budgetary controls, break even analysis, practical problems.
+Module – 6:
+Perfect Competition- Perfect Competition, Features; Short run and long run equilibrium of
+firm and industry, shut down point.
+
+--- Page 31 ---
+Module – 7:
+Monopoly- features, monopoly power, pricing under monopoly, price discrimination.
+Module – 8:
+Oligopoly- Features, kincked demand Curve, Cournot’s Duoploy Model Cartels, Price
+leadership.
+Module – 9:
+Monopolistic Competition- Features, Pricing under monopolistic competition, Product
+differentiation.
+Module – 10
+Macroeconomics- Inflation; Function of Central & Commercial Banks.
+COURSE OUTCOME:
+CO1: Be able to understand the principles of management and apply these to one’s own work,
+as a member and leader in a team, to manage projects and in multidisciplinary environments.
+CO2: Be able to make a plan how to organize, control and motivate people.
+CO3: Be able to understand the Cost analysis in the context of short and long term decision
+making and the use of discounted cash flow analysis.
+CO4: Be able to identify and explain economic concepts and theories related to the markets,
+industry and firm structures.
+CO5: Be able to pursue the larger objectives of the firm besides profit maximization.
+TEXT/REFERENCES:
+1. M. Adhikari, Business Economics, Excel Books, 2004
+2. S. K. Misra & V.K.Puri, Economic Environment of Business, HPH, 2003
+3. L.M.Prasad, Priciples and Practice of Management, S.Chand & Sons.
+4. P.Chandra, Financial Management Theory and Practice (3/e), TMH, 2004
+
+--- Page 32 ---
+Analog and Digital Communication
+Analog And Digital Communication L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To understand the fundamentals of analog and digital communication.
+ To study the different Linear Modulation or Amplitude Modulation (AM) schemes.
+ To study the different Angular Modulation schemes, i.e. Frequency Modulation (FM) and
+Phase Modulation (PM).
+ To study about the sampling theorem, different analog and digital pulse modulations.
+ To study different Digital Modulation schemes.
+ To make students aware of noise and interference (Inter Symbol Interference (ISI)) in
+digital modulated signal and method of minimizing it.
+ To study the different types of digital Amplitude, Frequency and Phase Keying
+techniques.
+COURSE CONTENTS:
+Module- 1:
+Introduction to analog modulation, Theory of Amplitude Modulation (AM)- With Large
+Carrier, DSB-SC, SSB-SC, VSB, Basic of Anguler Modulation; Frequency Modulation (FM)
+and Phase modulation (PM).Frequency Division Multiplexing (FDM), Super-heterodyne
+Radio Receiver.
+Module- 2:
+Pulse Modulation –PAM, PWM & PPM. Pulse Code Modulation , Linear quantizer,
+Quantization noise power calculation, Signal to Quantization noise ratio, Non-uniform
+quantizer, A law & u- law, companding; encoding and Bandwidth of PCM, Differential pulse
+code modulation, Delta modulation, Idling noise and slope overload, Adaptive delta
+modulation, DPCM, Comparison of PCM and DM. Time Division Multiplexing(TDM)
+Module- 3:
+Line Coding & its properties. NRZ & RZ types, signaling format for unipolar, Polar, bipolar
+(AMI) & Manchester coding and their power spectra, HDB and B8ZS signaling, ISI, Nyquist
+criterion for zero ISI & raised cosine spectrum, Matched filter receiver, Derivation of its
+impulse response and peak pulse signal to noise ratio, Correlation detector decision threshold
+and error probability for binary unipolar (on-off) signaling.
+Module- 4:
+Types of digital modulation, Wave forms for Amplitude, Frequency and Phase Shift Keying,
+Method of generation and detection of coherent & non-coherent binary ASK, FSK & PSK,
+Differential phase shift keying, Quadrature modulation techniques, M-ary FSK, Minimum
+Shift Keying (MSK), Probability of error and comparison of various digital modulation
+techniques. Coherent reception, Coherent reception of ASK, PSK and FSK, Non-Coherent
+reception of ASK, FSK, PSK and QPSK, Calculation of error probability of BPSK and BFSK,
+Error probability for QPSK.
+
+--- Page 33 ---
+TEXTS/ REFERENCES:
+1. Haykin Simon, “Communication Systems”, 4th Edition, Wiley publication.
+2. Lathi B P, “Digital and Analog Communication Systems”, Oxford University Press.
+3. U. Madhow, “Fundamentals of Digital Communication”, Cambridge University Press.
+4. H.Taub, D. L. Schilling, G.Saha “Principles of Communication Systems” 3rd Edition, Mc
+Graw –Hill.
+5. Proakis J G, M. Salehi, “Communication Systems Engineering”, Prentice Hall.
+6. R.E. Zeimer, “ Principles of Communication” , John Wiley
+COURSE OUTCOMES:
+After successful completion of this course, students
+CO1: Will gathered knowledge about the fundamentals of analog and digital communication,
+advantages and disadvantages and their applications.
+CO2: Will learn design linear and angular modulators and demodulators for communication.
+CO3: Will earn sufficient knowledge regarding signal sampling to understand multiplexing
+and digital modulation schemes for modern communication.
+CO4: Will enhance knowledge regarding signal dispersion and fading, and their impact (ISI)
+due to channel characteristics and accordingly will learn how to take correct decision in
+presence of ISI, and learn to design optimum receivers to obtain correct decision in presence
+of channel (AWGN) noise
+CO5: Will familiar with different digital carrier modulation/ switching techniques highly
+required for modern high speed advanced digital communication.
+
+--- Page 34 ---
+Electronic Instrumentation and
+Measurement
+Electronic Instrumentation And
+L-3 T-1 P-0 4 credits
+Measurement
+COURSE OBJECTIVES:
+ To introduce students to Monitor, Analyze and Control any Physical System and Basic
+Measurement Techniques.
+ To understand different errors in measurement.
+ To understand the construction & operation of different analog and digital instruments
+adopted for measurement of Resistance, Inductance, Capacitance, Frequency, Power,
+Energy etc.
+ To understand different Sensors, Transduces and Digital Measurement Techniques.
+ To know the industrial practices of locating the cable faults.
+ To understand the Construction & Operation of Frequency Domain & Special Purpose
+Instruments.
+ To introduce students a knowledge to use modern tools necessary for Electrical &
+Electronic projects.
+COURSE CONTENTS:
+Module-1:
+Basic Measurement Techniques: Construction and Principle of Operation of Moving Coil,
+Moving Iron, Dynamometer, Thermal and Rectifier type Deflecting Instruments, DC ammeter,
+Ammeter shunts, DC Voltmeter, Voltmeter multiplier.
+Moduel-2:
+Errors in Measurement: Definition of Accuracy, Precision, Fidelity, Speed of
+Response, Non‐linearity, techniques of Linearization, Classification of errors,
+Statistical analysis.
+Module-3:
+Measurements of Resistances: Measurement of low, medium and high Resistances (Wheat
+Stone Bridge, Kelvin Bridge), Kelvins Double Bridge.
+Module-3:
+Localization of Cable faults: Murray and Varley Loop Methods.
+Module-4:
+AC Bridges: Measurement of Inductances, Capacitance and Frequency by A.C.
+Bridges – Maxwell Bridge, Hay’s Bridge, Anderson Bridge, Owen’s Bridge, De
+Sauty’s Bridge, Schering, Wein Bridge.
+
+--- Page 35 ---
+Module-5:
+Measurement of Power & Energy: Measurements of Power in Polyphase Circuits,
+various Wattmeter connections, A.C. and D.C. Energy Meters.
+Module-6:
+Cathode Ray Oscilloscope: C.R.O Construction &Principle of Operation. Cathode Ray Tube
+(CRT), Digital Storage Oscilloscopes.
+Module-7:
+Sensors & Transducers: Piezoelectric Sensors, LVDT, Stain Gauges, Thermistors,
+Thermocouple, Actuators A/D, D/A Conversion Techniques; S/H and Mu ltiplexers; Isolation
+Amplifiers; Data Acquisition System, Sampling Concepts, ADC and DAC.
+Module-8:
+Digital Instrumenta tion: Block diagram of Instrumentation Schemes, DVM, DMM, and
+Frequency Counter.
+Module-9:
+Frequency Domain Instruments: Wave Analyzer, Spectrum Analyzer.
+Module-10:
+Special Purpose Instruments: Signal Generators, Q-meter.
+TEXTS/ REFERENCES:
+1. Golding E.W. & Wides F.C. : Electrical Measuring Instruments & Measurements ;
+Wheeler.
+2. Sawhney A K: A course in Electrical & Electronic Measurements & Instruments, Dhanpat
+Rai & Co.
+3. S K Singh : Industrial Instrumentation & Control , Tata McGraw Hill.New Delhi.
+4. H. S. Kalsi : Electronic Instrumentation and Measurements , Tata Mc‐Graw Hill.
+5. Heltrick A.D. & Cooper W.D.: Modern Electronic Instrumentation & Measuring
+Instruments; Wheeler.
+6. Patranabis D: Sensors & Transducers, Wheeler 96.
+7. Bell, David : Electronic Instrumentation & Measurement, Reston Publishers.
+8. R K Rajput: Electronic Measurements and Instrumentation; S Chand.
+COURSE OUTCOMES:
+After successful completion of the course the students will be able to:
+CO1: Appreciate a system to determine appropriate instruments by type and range to
+measure different quantities in the system.
+CO2: Measure various electrical quantities like R.L.C, Voltage, Current, Frequency,
+Power and Energy for AC and DC quantities using analog and digital meters.
+CO3: Balance various AC and DC bridges to find unknown values.
+CO4: Use Sensors & Transducers for measurement of various parameters.
+CO5: Use CRO with confidence to measure different quantities and viewing signal
+waves.
+CO6: Use techniques and skills to locate the fault of underground cables.
+CO7: Take up projects to apply the learned techniques and skills.
+
+--- Page 36 ---
+Digital Signal Processing
+Digital Signal Processing L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ The primary objective of this course is to provide a comprehensive understanding and
+working knowledge of analysis, design & implementation of DSP systems.
+COURSE CONTENTS:
+Module- 1:
+Fourier analysis of discrete-time signals and systems: Discrete Fourier Series, Discrete Time
+Fourier Transform (DTFT), Discrete Fourier Transform (DFT) - Properties; Approximation of
+Fourier transform through DFT, Fast algorithms for DFT: The FFT algorithm – Prime factor
+algorithms, Convolution; Linear and circular convolution, Practical implementation, Overlap-
+save and overlap-add methods.
+Module- 2:
+Design of Digital Filters: Linear Phase FIR filters; Design methods for FIR filters, FIR filter
+design using windows; IIR filter design by Impulse Invariance, Bilinear Transformation,
+Matched Z‐Transformation, Frequency Transformation in the Analog and Digital Domain,
+Filter structures for IIR and FIR filters, direct form I and II, parallel and cascade forms,
+frequency sampling structure for FIR filters
+Module-3:
+Finite length register effects: Limit cycles, Overflow oscillations, State variable model for
+overflow, Round-off noise in IIR digital filters, Computation of output round-off noise,
+Methods to prevent overflow, Scaling rules and scaling operations, Scaling state variable
+description, Trade-off between round-off and overflow noise, Measurement of coefficient
+quantization effects through pole-zero movement, Dead-band effects, Constant input limit
+cycles.
+Module- 4:
+Introduction to multirate DSP: Decimation and interpolation, polyphase decomposition,
+uniform DFT filter banks, quadrature mirror filters and perfect reconstruction
+Digital Signal Processors: Architecture and types of instructions, Addressing schemes and
+Interface details of one of the latest, commonly used Digital Signal Processors.
+TEXTS/ REFERENCES:
+1. J.G.Proakis, D.G. Manolakis, “Digital Signal Processing”, (4/e) Pearson, 2007.
+2. A.V.Oppenheim & R.W.Schafer, “Discrete Time Signal processing", (2/e), Pearson
+Education, 2003.
+3. S.K.Mitra, “Digital Signal Processing (3/e)”, Tata McGraw Hill, 2006.
+COURSE OUTCOME:
+CO1: To understand the key theoretical principles underpinning DSP in a design procedure
+CO2: Implementation and applications of digital signal processing concepts and algorithms
+
+--- Page 37 ---
+CO3: Ability to design & analyze DSP systems like FIR and IIR Filters etc.
+CO4: To give an exposure to the various fixed point & a floating point DSP architectures and
+to develop applications using these processors
+CO5: Analysis and Design of Practical Systems for Communication Engineering and Signal
+Processing.
+
+--- Page 38 ---
+Microprocessors and Microcontrollers
+Microprocessors And Microcontrollers L-4 T-0 P-0 4 credits
+COURSES OBJECTIVE:
+ To have an understanding of Microprocessor Architecture Basics (8085 and 8086)
+ To get familiar with Assembly Language Programming, Memory Systems and I/Os.
+ To have knowledge of Advanced Microprocessors.
+ To understand Architecture of Microcontrollers.
+ To understand the basics of interfacing.
+COURSE CONTENT:
+Module- 1
+Microprocessor architecture: 8‐bit (e.g.8085) and 16‐bit (e.g. 8086/8088).
+Module- 2
+Addressing modes of microprocessors, instruction set of 8‐bit (8085) and 16‐bit
+microprocessors (8086/8088).
+Module- 3
+Instruction cycle, timing diagram, Subroutine, assembly language programming.
+Module- 4
+Types of memories and their organizations (RAM, ROM, stack, secondary etc.).
+Module- 5
+Interrupt, DMA, Principle of data transfer (synchronous and asynchronous). Serial data
+communication, RS‐232 standard. Peripheral interface: PPI, DMA controller, interrupt
+controller, programmable timer, USART.
+Module-6
+Introduction to advanced microprocessors (16 bit, 32 bit & 64 bit), Architecture of advanced
+microprocessors‐80186, 80286, 80386, 80486,Pentium processor.
+Module- 7
+Microcontrollers and its applications (e.g.8051).
+TEXTS/ REFERENCES:
+1. Ramesh Gaonkar, Microprocessor Architecture, Programming and Applications with the
+8085, Penram.
+2. B. Ram, Fundamentals Microprocessor and Microcontrollers, Dhanpat Rai Publications.
+3. Barry B. Brey, The INTEL Microprocessors, Pearson.
+4. Mazidi, The 8051 Microcontroller and Embedded Systems.
+
+--- Page 39 ---
+COURSE OUTCOMES:
+After the completion of the course, the students:
+CO1: Will have an idea about some basic and advanced microprocessors.
+CO2: Will learn assembly language programming.
+CO3: Will learn about various I/O chips and interfacing.
+CO4: Will have knowledge of different interrupts.
+CO5: Will have a basic idea about microcontrollers.
+
+--- Page 40 ---
+th
+6 SEMESTER
+Optical Fibre Communication
+Optical Fibre Communication L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ To introduce basic overview of optical communication in telecommunication system,
+fundamental data communication concept used in optical communications.
+ To understand the purpose and performance characteristics of major elements in optical
+link: Optical fibers, types, physical structures, constituent materials, fabrication methods,
+and attenuation behaviour, loss and dispersion mechanisms.
+ To understand the working principles of Optical sources: Operating characteristics, direct
+and external modulation techniques, temperature effects, device lifetime considerations,
+noise, etc.
+ To know about Power Launching and Coupling: Source to fibre power launching, fibre to
+fibre joints, couplers, multiplexers and splices
+ To understand the purpose and working of Detectors: Structures and response of photo-
+detectors, operational characteristics, concept of signal detection and eye diagram
+measurement schemes
+ To acquire knowledge of design methods for digital and analog links, discussion of link
+power budget and bandwidth limitation; wavelength converters, coherent and WDM
+schemes, Grating structures, etc.
+ To understand te working of Optical amplifiers (EDFA, etc); Raman Scattering, Brillouin
+Scattering, stimulated Raman Scattering, Solution, etc.
+COURSE CONTENT:
+Module-1
+Overview of Optical Fiber Communication: Introduction, Historical development, general
+system, advantages, disadvantages, and applications of optical fiber communication, optical
+fiber waveguides, Ray theory, cylindrical fiber, single mode fiber, cutoff wave length, mode
+filed diameter. Optical Fibers: fiber materials, photonic crystal, fiber optic cables specialty
+fibers.
+Module-2
+Transmission Characteristics of Optical Fibers: Introduction, Attenuation, absorption,
+scattering losses, bending loss, dispersion, Intra model dispersion, Inter model dispersion.
+Module-3
+Optical Sources and Detectors: Introduction, LED’s, LASER diodes, Photo detectors, Photo
+detector noise, Response time, double hetero junction structure, Photo diodes, comparison of
+photo detectors.
+Module-4
+Fiber Couplers and Connectors: Introduction, fiber alignment and joint loss, single mode fiber
+joints, fiber splices, fiber connectors and fiber couplers.
+
+--- Page 41 ---
+Module-5
+Optical Receiver: Introduction, Optical Receiver Operation, receiver sensitivity, quantum
+limit, eye diagrams, coherent detection, burst mode receiver, operation, and Analog receivers.
+Module-6
+Analog And Digital Links: Analog links – Introduction, overview of analog links, CNR,
+multichannel transmission techniques, RF over fiber, key link parameters, Radio over fiber
+links, microwave photonics. Digital links – Introduction, point–to–point links, System
+considerations, link power budget, resistive budget, short wave length band, and transmission
+distance for single mode fibers, Power penalties, nodal noise and chirping.
+Module-7
+WDM Concepts and Components: WDM concepts, overview of WDM operation principles,
+WDM standards, Mach-Zehender interferometer, multiplexer, Isolators and circulators, direct
+thin film filters, active optical components, MEMS technology, variable optical attenuators,
+tunable optical fibers, dynamic gain equalizers, optical drop multiplexers, polarization
+controllers, chromatic dispersion compensators, tunable light sources.
+Module-8
+Optical Amplifiers and Networks: Optical Amplifiers and Networks – optical
+amplifiers, basic applications and types, semiconductor optical amplifiers, EDFA.
+OPTICAL NETWORKS: Introduction, SONET / SDH, Optical Interfaces,
+SONET/SDH rings, High – speed light – waveguides.
+TEXTS/ REFERENCES:
+1. G. Keiser, Optical Fibre Communications, McGraw Hill, 2008.
+2. John M. Senior, Optical Fiber Communications: Principles and Practice, PHI, 2008
+3. Jones, William B. Jones, Introduction to Optical Fiber Communications Systems, Oxford
+University Press (1995).
+4. A. J. Rogers, Understanding Optical Fiber Communications, Artech House (2001).
+5. J. C. Palais, Fiber optic communication, 5th edition, Prentice Hall, 2004
+COURSE OUTCOMES:
+After successful completion of the course the students will be able to:
+CO1: Express the basic concepts of Fiber optic communication link
+CO2: Analyse the operating characteristics of light sources, analysing the performance and
+modulation characteristics
+CO3: Develop the concept of coupling light source to fiber and how to join two or more fibers
+in order to ensure a low optical power loss at the joints; fiber couplers, multipliers and
+splicing.
+CO4: Design structure, configuration and responses of light-wave receivers (photo-detectors) -
+principles, functions and operational characteristics; developing concepts of signal-detection
+statistics and eye-diagram measurement schemes.
+CO5: Design methods for digital and analog links, link power budgets and bandwidth
+limitations, error control methods for digital links, etc. Principles of WDM, examples of active
+and passive WDM devices, fiber Bragg grating, waveguide grating, diffraction gratings, etc.
+CO6: Take up projects using different concepts for creating Optical amplification, origin and
+effects of nonlinear processes in optical fibers, system performance and control, solution etc.
+
+--- Page 42 ---
+VLSI Technology
+VlSI Technology L-3 T-0 P-0 3 credits
+COURSES OBJECTIVE:
+ Providing exposure to different steps involved in the fabrication of ICs using MOS
+transistor, CMOS transistors and passive components.
+ To explain electrical properties of MOS devices to analyze the behavior of inverters
+designed with various loads.
+ Give exposure to the design rules to be followed to draw the layout of any logic circuit.
+ Providing concept for design different types of logic gates using CMOS inverter and
+analyze their transfer characteristics.
+ Giving design concepts to design building blocks of data path of any system using gates.
+COURSE CONTENT:
+Module- 1:
+Introduction to VLSI design, Moore’s Law, VLSI Design flow, Design hierarchy, VLSI
+Design style: Full custom, Gate array, standard‐cell, Macrocell based design, Field
+programmable devices, design quality.
+Module -2:
+Electrical characteristics of MOSFET, Body effect, MOSFET scaling, Short‐channel effects.
+Unit – 3: Unit process in VLSI: Wafer preparation, Oxidation, Diffusion, Ion implantation,
+Deposition, Metallization, Etching and Lithography.
+Module– 3:
+IC fabrication: nMOS fabrication, n‐well and p‐well process, Stick diagram. Layout and
+Layout design rules.
+Module – 4:
+CMOS Digital Circuits: General CMOS logic structure, VTC of inverter, noise margin,
+Different types of inverter (resistive load, enhancement and depletion nMOS load and
+CMOS), Switching characteristic (propagation delay and parasitic capacitance estimation),
+switching power, latch‐up, sizing for large capacitive load, NAND, NOR and other complex
+CMOS logic circuits. Dynamic CMOS logic circuits (Domino and NORA logic). Introducing
+sequential CMOS logic circuits.
+Module-5:
+CMOS analog circuits: Differential Amplifier – Source coupled pair, CMRR, Basic CMOS
+op‐Amp design.
+Module-6:
+Physical Design Automation: Objectives and goals of partitioning, floor planning and
+placement, Global routing.
+Module-7:
+Advanced topic: Low power VLSI Design and Testing.
+
+--- Page 43 ---
+TEXTS/ REFERENCES:
+1. Neil Weste& Kamran Eshraghian, Principles of CMOS VLSI Design: A Systems
+Perspective, Addison-Wesley Publishing Company,(1993).
+2. Sung-Mo (Steve) Kang, Yusuf Leblebici, CMOS Digital Integrated Circuits Analysis &
+Design, McGraw Hill Education; 3 edition (2002).
+3. Simon Sze, Vlsi Technology,McGraw Hill Education; 2nd Edition (2017).
+4. Sedra A.S. & Smith K.C., Microelectronic Circuits, Oxford University Press (2015).
+5. Samir Palnitkar,VerilogHdl, Pearson Education; 2 edition (2003).
+6. J. Bhasker, A Verilog HDL Primer, Star Galaxy Publishing ; 2nd Edition (1999).
+COURSE OUTCOME:
+CO1: Acquire qualitative knowledge about different VLSI design styles and fabrication
+process.
+CO2: Gain knowledge about the electrical characteristics of MOSFET.
+CO3: Develop knowledge about the electrical characteristics CMOS inverter.
+CO4: Acquire concepts digital and analog circuit design with CMOS, pseudo N-MOS etc. and
+layout design.
+CO5: Develop concepts of VLSI physical design automation.
+CO6: Develop the knowledge of low power design and fault testing.
+CO7: Get acquainted with digital circuit design using HDL.
+
+--- Page 44 ---
+Information Theory and Coding
+Information Theory And Coding L-3 T-0 P-0 3 credits
+COURSES OBJECTIVE:
+ To expose the students to the basics of Information Theory and Coding Theory.
+ To analyze the performance of different types of source and channel coding.
+ To introduce the students to the basics of Network Information Theory.
+COURSE CONTENT:
+Module- 1
+Information Measure, Source Extension, Joint and Conditional Entropy, Mutual Information,
+Differential Entropy, Asymptotic Equipartition Property, Source coding theorem, Kraft
+McMillan Inequality, Arithmetic coding, Huffman and Lempel Ziv Algorithms, Rate
+Distortion function and optimum quantizer design, lossless and lossy image compression.
+Module- 2
+Modeling of discrete memory less channels, Binary symmetric Channel and Binary Erasure
+Channel, Shannon Channel coding theorem, lossless, distortion less and useless channel,
+Gaussian channel capacity Theorem, Shannon Limit, Water-Filling Algorithm, rate distortion
+theory.
+Module- 3
+Network Information Theory.
+Module- 4
+Motivation behind channel coding, Coding gain, Difference between hard decoding and soft
+decoding. Linear block codes: design, syndrome detection and performance issues, Hamming
+bound, Hamming code, cyclic codes, Convolution code: state diagram, Trellis Tree, Impulse
+response of encoder. Maximum likelihood detection, Bounds on error probability,
+Introduction to LDPC code, TURBO code and TRELLIS coded Modulation.
+TEXTS/ REFERENCES:
+1. Information Theory and Coding by Ranjan Bose
+2. Communication System Engineering by Proakis and Salehi
+3. Cryptography and Network Security by Forouzan and Mukhopadhaya
+4. Cryptography and Network Security by William Stallings
+COURSE OUTCOME:
+CO1: Understand the basic concepts of Information and Coding theories.
+CO2: Analyze channel performance using Information Theory.
+CO3: Comprehend various sources and channel coding techniques and analyze their
+performance.
+CO4: Use various Coding and Decoding Techniques for error detection and correction.
+CO5: Be familiar with the basic concepts of Network Information Theory.
+
+--- Page 45 ---
+Data Communication Networks
+Data Communication Networks L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ To know the Standard Layered network Architecture (OSI and TCP/IP).
+ To get acquainted with the functionalities of Each Layer.
+ To understand the basics of Switching and subsequent advances in switching technologies.
+ To get an overview of security issues in a network.
+ To get an insight of network performance analysis.
+COURSE CONTENT:
+Module-1
+7-Layer/4- Layer network Architecture, Network Protocol Concepts.
+Protocol Examples: Link layer protocols- X.25, RS232, RS485, Access protocols- IEEE
+802.1, IEEE 802.2, IEEE 802.3 Ethernet, IEEE 802.4, IEEE 802.5, IEEE 802.11 WLAN,
+IEEE 802.15, Routing protocols- OSPF, BGP, RIP. Drawbacks of layered architecture and
+motivation to cross-layer optimization.
+Module-2
+Error control: CRC fundamentals. Concepts of finite field, Link layer protocols and
+performance analysis, physical layer aware link layer performance.
+Module-3
+Network performance analysis, Queueing theory basics, Application of queueing analysis,
+Multiaccess performance.
+Module-4
+Graph concepts of network, Network routing performance analysis.
+TEXTS/ REFERENCES:
+1. 1.Forouzan, Data Communications and Networking, McGraw Hill Education.
+2. 2.Kurose and Ross, Computer Networking: A Top Down Approach, Pearson.
+COURSE OUTCOME:
+After the completion of the course, students:
+CO1: Will have knowledge of OSI and TCP/IP layered architecture and their functionalities.
+CO2: Will learn about wireless networking.
+CO3: Will be familiar with various routing algorithms and switching techniques.
+CO4: Will learn different error control and flow control techniques.
+CO5: Will have knowledge of network performance analysis.
+
+--- Page 46 ---
+Microwave Engineering
+Microwave engineering L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ To understand the basics of transmission line.
+ To understand the basics of waveguides.
+ To study the analysis of different microwave components.
+ To study different waveguide resonators.
+ To study klystron amplifier.
+ To study different semiconductor microwave devices.
+COURSE CONTENT:
+Module- 1
+Transmission lines –TEM and Quasi‐TEM analysis, characteristic impedance, standing wave
+ratio, impedance matching techniques, Smith Chart.
+Module- 2
+Modal analysis of rectangular waveguides –TE and TM modes, guide wavelength, cut‐off,
+mode excitation, circular waveguides.
+Module- 3
+Passive microwave components – S matrix formalism, directional coupler, rat-race coupler,
+waveguide tees, isolator, circulator, phase shifter, impedance matching.
+Module- 4
+Microwave Resonators – waveguide cavity resonators and transmission line resonators,
+analysis of Q factor.
+Module- 5
+Vacuum tube microwave devices – Klystron ‐ velocity modulation and bunching, Reflex
+klystron, traveling wave tube ‐ slow wave structure and Brillouin diagram, Magnetron.
+Module- 6
+Semiconductor microwave devices – Tunnel diode, Gunn diode, IMPATT diode, CCD,
+heterojunction bipolar transistors – principle, characteristics, noise figure.
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Realize the significance of studying transmission line.
+CO2: Realize the significance of studying waveguide.
+CO3: Understand the concept to analyze different microwave components.
+CO4: Understand the way to generate and amplify microwave signals
+
+--- Page 47 ---
+TH
+7 SEMESTER
+Wireless Communication
+Wireless Communication L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ To make students familiar with fundamentals of wireless and mobile communication
+systems and to impart an introduction to radio wave propagation techniques for mobile
+wireless radio.
+ To discuss various multiple access techniques for wireless communication and choose
+system (TDMA/FDMA/CDMA) according to the complexity, installation cost, speed of
+transmission, channel properties etc.
+ To understand the concept ofpropagation mechanism
+ To identify the requirements of mobile communication as compared to static
+communication.
+ To understand the concept of Teletraffic Theory
+COURSE CONTENT:
+Module- 1
+Wireless Standards: Overview of 2G, 3G & 4G cellular standards. Cellular concepts-
+frequency reuse, co-channel interference, adjacent channel interference -power control for
+reducing interference, improving capacity in cellular systems – cell splitting, sectoring, hand
+off strategies, channel assignment strategies, Teletraffic Theory.
+Module- 2
+Signal propagation-Propagation mechanism- reflection, refraction, diffraction and
+scattering,large scale signal propagation and log normal shadowing. Link Budget Analysis.
+Fading channels-Multipath and small scale fading- Doppler shift, statistical multipath channel
+models, narrowband and wideband fading models, power delay profile, average and rms delay
+spread, coherence bandwidth and coherence time, flat and frequency selective fading, slow
+and fast fading, average fade duration and level crossing rate.
+Module- 3
+Notion of channel Capacity, capacity of fading channel, outage Probability analysis
+Module- 4
+QAM, MSK, GMSK, MC-modelling, DSSS, Introduction to space modulation’s index,
+advantage, application, DVOR, Doppler Effect. OFDM, OFDMA, SCMA, Multiple access
+schemes- FDMA, TDMA, CDMA and SDMA.
+Module- 5
+Resource allocation and optimization
+
+--- Page 48 ---
+Module- 6
+Receiver structure- Diversity receivers- selection and MRC receivers, RAKE receiver,
+equalization: linear-ZFE and adaptive DFE. Transmit diversity- Altamouti scheme. MIMO
+and space time signal processing, spatial multiplexing, diversity/multiplexing trade off.
+TEXT BOOK/REFERENCES:
+1. Wireless Communications: Principles and Practice, Theodore Rappaport , Prentice Hall.
+2. Wireless Communications: Andrea Goldsmith, Cambridge University Press.
+3. Fundamentals of Wireless Communications, David Tse and Pramod Viswanath,
+Cambridge University Press
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: To make students familiar with Wireless Standards& cellular communication.
+CO2: To understand different issues regarding channels (fading etc.)
+CO3: To understand the concept of Propagation mechanism.
+CO4: Knowledge of the concept of.GSM architecture.
+CO5: To make students familiar with cellular system
+CO6: To understand the concept of Tele traffic Theory
+CO7: Knowledge of Multiple access schemes.
+CO8: To differentiate various Wireless LANs.
+
+--- Page 49 ---
+ELECTIVE SUBJECTS OF
+TH TH
+7 &8 SEMESTER
+Adaptive Signal Processing
+Adaptive Signal Processing L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Background from linear algebra, vector spaces, inner product, projection theorem, singular
+value decomposition and Moore Penrose pseudo-inverse
+Module 2
+Random processes and signal modeling. Discrete time random processes, correlation and
+power spectrum. Models: linear processes, harmonic processes, AR, MA, ARMA processes
+Module 3
+Wiener filters and linear prediction, optimal linear filtering, forward and backward prediction,
+Levinson-Durbin algorithm, lattice predictors, joint-process estimation
+Module 4
+LMS adaptive filtering, method of steepest descent, LMS algorithm. Stability and
+performance analysis.
+Module 5
+Method of least squares, least-squares solution, properties, recursive least-squares method.
+TEXT BOOK/REFERENCES:
+1. S. Haykin, Adaptive Filter Theory, 5th edition, Prentice Hall, 2013
+2. G. Strang, inear algebra and its applications.5th edition, Wellesley-Cambridge Press, 2016
+
+--- Page 50 ---
+Advanced Semiconductor Devices
+Advanced Semiconductor Devices L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module- 1:
+Basic Introduction: Classification and properties of semiconductor devices. Binary and ternary
+semiconductors, dopants and impurities, temperature dependency, crystal structure of Si and
+GaAs. Growth techniques of GaAs and InP by LPE and MBE.
+Module- 2:
+Contact and MESFET:Metail-semiconductor contacts: ohmic and schottky contact, interface
+trap density issues, non-idealities (image force lowering and quantum mechanical tunnelling),
+Fermi level pinning, I-V characteristics. Motel semiconductor field effect transistor: operation
+and I-V characteristics, Shockley’s model, velocity saturation effect, gradual channel
+approximation model. Velocity overshot effect.
+Module- 3:
+Hetero junction: different types of heterojunctions, band diagram. Importance of hetero
+junctions. High electron mobility transistors: AlGaAs/GaAs HEMT structure, band diagram,
+operation and I-V characteristics. Pseudomorphic (AlGaAs/InGaAs) and metamorphic
+(InAlAs/InGaAs) HEMT structures and their advantages.
+Module- 4:
+Heterojunction bipolar transistor: comparison between BJT and HBT, device structure and
+operation, current gain (β) calculation, effect of surface passivation in current gain.
+Module- 5:
+Solar cell: operations, I-V characteristics, maximum power transfer equation, fill factor,
+efficiency. Heterojunction solar cell (AlGaAs/GaAs), multi junction solar cell.
+Module- 6:
+Power devices: basic requirements of power semiconductor devices: on resistance, specific
+resistance, breakdown voltage. Power MOSFET, IGBT.
+TEXT/REFERENCES:
+1. VLSI fabrication principle, by Sorab K. Gandhi, Wiley India.
+2. Physics of semiconductor devices, S.M. Sze, Wiley
+3. Semiconductor optoelectronics devices, by Pallab Bhattacharya, PHI.
+4. Fundamental of power semiconductor devices, by Jayant Baliga, Springer.
+
+--- Page 51 ---
+Advanced Digital Systems
+Advanced Digital Systems L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module- 1
+Introduction to Digital IC design flow, Gate-Level, Dataflow & Behavioral Modeling of
+digital circuits.
+Module- 2
+Timing characteristics of combinational logic design and Sequential machines, system
+decomposition, arithmetic Module-s, ALU design.
+Module- 3
+Programming of complex digital logic circuits using HDL: Encoder/Decoder, Counters, shift
+registers, ADC, DAC, PLD etc.
+Module- 4
+Finite State Machines: Design and applications.
+Module- 5
+Programmable Memory elements: Structure and basic working principle of SRAM and
+DRAM, Scratchpads and cache memory, SOC memory systems, Board-based memory
+systems.
+Module- 6
+Design and operation of Field Programmable Gate Arrays (FPGA), CLB, Look up Table,
+routing architectures.
+Module- 7
+FPGA design flow based on HDL, FPGA system implementation, verification and testing.
+TEXT/REFERENCES:
+1. Verilog HDL, a Guide to Digital Design and Synthesis”, Samir Palnitkar, 2003
+2. HDL CHIP DESIGN”, Douglas J. Smith, 2002
+3. Verilog Designer’s Library”, Bob Zeidman, 2003
+4. Computer system design: system-on-chip”, M.J. Flynn & W. Luk, Wiley, 2011.
+5. Digital Design, an Embedded Systems Approach Using VHDL”, Peter J. Ashenden,
+Elsevier, 2008.
+
+--- Page 52 ---
+Radar & Navigation Systems
+Radar & Navigation Systems L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Introduction to Radar– concept, block diagram , operation , frequency ranges , applications ,
+range equation. Radar performance factors – minimum detectable signal , receiver noise ,
+Signal to Noise ratio ,Radar cross section of targets , transmitter power , pulse repetition
+frequency ,range ambiguities
+Module-2
+Types of Radar, Primary and secondary radar: SR/ASR/PSR/PAR/ARSR/ASMGCS.Doppler
+effect , FM - CW Radar , MTI Radar, MTI Signal Processor , Pulse Doppler Radar , Radar
+displays – A Scope – PPI Scope.
+Module-3
+Radio Navigation - methods of navigation , Radio direction finder , Radio Navigation systems
+- ADF / NDB , Radio compass ADF, VHF phase comparison using ADF , Hyperbolic
+navigation systems – basic principle , LORAN, Omega, DECCA , Radio ranges , VOR –
+ground equipment , VOR receiver , Doppler VOR /DME
+Module-4
+Approach and landing aids: Instrument Landing System (ILS) – elements, localizer, glide
+Path, marker beacons: OM, MM, IM, lighting systems, Co-located GP/DME, operation,
+limitation. Microwave Landing System (MLS) – operation, advantages & disadvantages.
+Navigation systems – INS and DNS.
+Satellite Navigation systems – Concept of L1, L2 and L5, GPS: Constellation, Signal format,
+GPS signal scintillation, GPS errors, GPS segment (User, Control, and Ground), group
+velocity. DGPS , GNSS , COMPASS ,DORIS , GALILEO ,IRNSS , QZSS (concept
+only),SBAS,GAGAN.
+TEXT/REFERENCES:
+1. Introduction to Radar Systems – Merrill I. Skolnik , McGraw Hill
+2. Radar Systems and Radio Aids to Navigation – Dr. A. K. Sen, Dr. A. B. Bhattacharya,
+Khanna Publishers
+3. Elements of Electronic Navigation – N. S. Nagaraja , Tata McGraw Hill
+
+--- Page 53 ---
+Advanced Control System
+Advanced Control System L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+State Variable Design: Effect of State Variable feedback on controllability and observability,
+Design of state feedback control through pole placement, Design of full order and reduced
+order observer.
+Module-2
+Non-linear System: Introduction, common physical nonlinearities, linearization of non-linear
+mathematical models.
+Module-3
+Describing function Analysis: Fundamentals, computation of Describing function, Describing
+function analysis of common nonlinearities, limit cycle ,Describing function method for
+stability analysis.
+Module-4
+Phase plane Analysis: Phase portraits, singular points, method of isoclines, delta method,
+phase portrait of second order non-linear systems, limit cycle.
+Module-5
+Lyapunov Stability method: Concept of asymptotic stability, Lyapunov functions, stability
+analysis by Lyapunov direct method, generation of Lyapunov function by Aizermen’s method,
+Krasovskii method and variable gradient method
+Module-6
+Optimal Control: Introduction, formulation of optimal control problem, minimum time,
+minimum energy, minimum fuel problem, state regulator problem, output regulator problem,
+tracking problem, continuous time linear regulator.
+TEXT/REFERENCES:
+1. Norman S. Nise, Control System Engineering , Wiley Publishing Co.
+2. Gopal: Modern Control System Theory, New Age International
+3. Anand and Zmood, Introduction to Control Systems, 3rd edition, Butterworth-Heinemann
+Ltd., 1995.
+4. John Doyle, Bruce Francis, and Allen Tannenbaum, Feedback Control Theory,Macmillan
+Publishing Co., 1990.
+5. Stanislaw h. Zak, Systems and Control.
+6. Hassan K. Khalil, Nonlinear systems, 3rd edition, Prentice Hall, 2002.
+7. J. E. Slotine& W. Li, Applied Nonlinear Control, PH International.
+8. Jean-Jacques E Slotine and Weiping Li, Applied Nonlinear Control, Prentice Hall,1991.
+9. Jean-Jacques E Slotine and Weiping Li, Applied Nonlinear Control, Prentice Hall,1991.
+10. Donald E. Kirk, Optimal Control theory – An Introduction.
+11. Brian D. O. Anderson and John B. Moore, Optimal Control: Linear Quadratic Methods,
+PH.
+
+--- Page 54 ---
+VLSI for Wireless Communication
+VLSI for Wireless Communication L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Introduction: Overview of wireless channels and impairments, multipath fading, signaling
+over fading channel, Wireless Channel Description, Path Loss, Multipath Fading, Channel
+Model and Envelope Fading, Frequency Selective and Fast Fading
+Module 2
+Receiver Architectures: Receiver Front End, Filter Design, NF, IIP3 of receiver Front End,
+Module 3
+Low Noise Amplifier and mixer: Narrow Band and Wideband LNA Design: Active mixture,
+Banancing, conversion gain, distortion- low and high frequency. Passive mixture-switching
+mixture, distortion, conversion gain and noise in unbalanced switching mixture. Sampling
+mixture.
+Module 4
+Analog-to-Digital Converters: Demodulators, A/D converters Used in a Receiver, Low-Pass
+Sigma-Delta Modulators, Implementation of Low-Pass Sigma-Delta Modulators, Bandpass
+Sigma-Delta Modulators, Implementation of Bandpass Sigma-Delta Modulators.
+TEXT/REFERENCES:
+1. Bosco Leung, "VLSI for Wireless Communication, Second Edition, Springer
+
+--- Page 55 ---
+Operating Systems
+Operating Systems L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module–1
+Introduction: Fundamentals of Operating System, The need for Operating System, Evolution
+of Operating System, Types of Operating System: batch, multi-programmed, time-sharing,
+real-time, distributed, parallel, Goals of an Operating System, Operating System Architecture.
+Module-2
+Processes management: Introduction of Process Management, Implicit/System and Non–
+implicit/User Process, Life cycle of a process, Process State and State Transitions, Suspended
+Process and Their State Transition, Process Control Block, Context Switching, Process
+Switching .Processes scheduling: Introduction, Scheduling types, Scheduling Levels, Pre-
+emptive & Non-preemptive Scheduling, Scheduling Algorithm-(FIFO, SJF, SRTN, SRRN,
+RR and Multilevel Queue).
+Module- 3
+Process communication and synchronization: Introduction, Concurrent Process, Critical
+section, Algorithm Approach to CS Implementation –Two Process Solution, Dekker’s
+Solution, Peterson’s Solution, Semaphore, Solution of Producer –Consumer, Solution of
+Reader –writer Problem, Monitor. Deadlocks: Introduction, Definition of Deadlock, Modelling
+Of Deadlock, Conditions for Deadlock, Dealing With Deadlock, Deadlock Prevention,
+Deadlock Avoidance- Dijkstra’s Bankers Algorithm, Deadlock detection, Recovery from
+Deadlock, Starvation. Thread: Introduction, Threading issues, Thread Control Block, Types of
+Threads-User Threads, Kernel Threads, Hybrid Threads, Linux Threads, Java Threads.
+Module-4
+Memory management: Introduction, logical vs. physical address space, Swapping, Contiguous
+memory allocation, Non - Contiguous memory allocation, Paging Concept, Page Table
+Structure, Segmentation. Virtual memory: Introduction, Need for Virtual Memory, Demand
+Paging, Page Replacement Algorithm-FIFO Page-replacement Algorithm, Optimal Page-
+replacement Algorithm, Least Recently Page-replacement Algorithm, Thrashing.
+Module-5
+I/O and file systems: File concept, Access methods, Directory structure , File Attributes, File
+Operation, file system hierarchy, Types Of I/O , Input-Output Software, Kernel I/O Sub-
+Syatem. Disk management: Disk Structure, Disk Scheduling (FCFS, SSTF, SCAN, C-SCAN),
+RAID Structure. Security: Security Problem,User Authentication , Security Levels, Computer-
+Security Classifications
+TEXT/REFERENCES:
+1. Operating System Principles by Silberschatz A. and Peterson J. L., Wiley
+2. Operating Systems by Dhamdhere, TMH
+3. Operating Systems by NareshChauhan ,Oxford
+4. Operating Systems by P.Balakrishna Prasad
+5. Operating Systems by Deitel, &Choffnes.
+6. Operating Systems by Stalling, Pearson
+
+--- Page 56 ---
+Object Oriented Programming
+Object Oriented Programming L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Object oriented programming concepts – objects – classes – methods and messages –
+abstraction and encapsulation – inheritance – abstract classes – polymorphism. Introduction to
+C++ – classes – access specifiers – function and data members – defaultarguments – function
+overloading – friend functions – const and volatile functions –staticmembers – Objects –
+pointers and objects – constant objects – nested classes – localclasses
+Module-2
+Constructors – default constructor – Parameterized constructors – Constructor with dynamic
+allocation – copy constructor – destructors – operator overloading – overloading through
+friend functions – overloading the assignment operator – type conversion – explicit
+constructor
+Module-3
+Function and class templates - Exception handling – try-catch-throw paradigm –exception
+specification – terminate and Unexpected functions – Uncaught exception.
+Module-4
+Inheritance – public, private, and protected derivations – multiple inheritance–virtualbase
+class – abstract class – composite objects Runtime polymorphism – virtualfunctions – pure
+virtual functions.
+Module-5
+Streams and formatted I/O – I/O manipulators - file handling – random access – object
+serialization – namespaces - std namespace – ANSI String Objects – standard template
+library.
+TEXT/REFERENCES:
+1. Object Oriented Programming with C++ by E Balaguruswamy
+2. The Complete Reference C++ by Herbert Schildt
+
+--- Page 57 ---
+Nano-Technology
+Nano-Technology L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Introduction: Introduction to nanomaterials, Properties of materials & nanomaterials, role of
+size in nanomaterials, nanoparticles, semiconducting nanoparticles, nanowires, nanoclusters.
+Zero-, One-, Two- and Three- dimensional structure, Size control of metal Nanoparticles and
+their properties: Optical, Electronic, Magnetic properties; Surface Plasmon, Resonance,
+Change of bandgap.
+Module 2
+Physics of material: Schrodinger equation, Solutions of the Schrodinger equation for free
+particle, particle in a box, particle in a finite well, Reflection and transmission by a potential
+step and by a rectangular barrier. Electronic Properties: Free electron theory, Band theory of
+solids, Bloch theorem, Kroning-Penne model, Metals and Insulators, Semiconductors:
+Classification, Transport properties, Size and Dimensionality effects, Band structures,
+Brillouin zones, Mobility, Resistivity, Relaxation time, Recombination centers, Hall effects.
+Module 3
+Synthesis process: top-down and bottom-up approach, Chemical process: Sol-gel synthesis;
+Microemulsions or reverse micelles, myle formation; Solvothermal synthesis; Thermolysis
+routes, Microwave heating synthesis; Sonochemical synthesis; Electrochemical synthesis.
+Physics process: RF plasma, MW plasma, Ion sputtering, Laser ablation, Laser pyrolysis, Ball
+Milling, Molecular beam epitaxy, Chemical vapour deposition method and Electro deposition.
+Module 4
+Characterization process structural characterization: X-Ray diffraction, scanning electron
+microscopy (SEM), scanning probe microscopy (SPM), TEM, EDAX analysis, scanning
+tunnelling microscopy (STM), atomic force microscopy (AFM).Spectroscopic
+characterization: operation and principle, UV-VIS-IR spectrophotometer, raman spectroscopy.
+Surface characterization: x-ray photoelectron spectroscopy (xps), Auger electron
+spectroscopy, Low Energy Ion Scattering Spectroscopy (LEISS), Secondary Ion Mass
+Spectroscopy (SIMS), and Rutherford Backscattering Spectroscopy (RBS).
+Module 5
+Nanodevices : spin gate transistor, electron wave transistor, quantum dot array, quantum
+computer, bit and qubit. Resonance tunnelling devices (RTD), single electron transistors
+(SET), Super conducting switching Devices: Cryotron, Josephson Tunneling Devices.
+Nanosensors: fundamental of sensors, sensor for aerospace and defence: Accelerometer,
+Pressure Sensor, Night Vision System, Nano tweezers. MEMS and NEMS.
+TEXT/REFERENCES:
+1. Quantum Mechanisc: theory and application. By AjoyGhatak and S. Lokanathan,
+Macmillan India.
+2. Chemistry of nanomaterials : Synthesis, properties and applications. By C.N.R. Rao.
+wiley
+3. Microfabrication and Nanomanufacturing. By Mark James Jackson, CRC press.
+4. Physical Principles of Electron Microscopy: An Introduction to TEM, SEM, and AEM, by
+Ray F. Egerton, springer.
+5. Thermal Analysis of Materials, by Robert F Speyer, New York.
+
+--- Page 58 ---
+Machine learning &Artificial Intelligence
+Machine learning &Artificial Intelligence L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Introduction: The foundations of AI. Importance of AI and related fields.
+Module 2
+Rules: Working memory, Rule base, Conflict set, Conflict resolution strategies, backward and
+forward chaining, meta rules.
+Module 3
+Logic: Propositional and Predicate logic, Representation atoms, connectives, literals, CNF,
+DNF and casual form, interpretation and model, satisfiability, resolution principle and
+unification.
+Module 4
+Structure Representation: Semantic networks, frames, conceptual dependency, scripts,
+inheritance, default values.
+Module 5
+Reasoning under Uncertainty: Basic probability notation, probabilistic reasoning, Bayesian
+networks, certainty factor methods.
+Module 6
+Introduction to fuzzy set: Introduction to fuzzy set, Fuzy membership functions, T-Norm, S-
+Norm, Complement in fuzzy sets, Fuzzy Relations, Linguistic Hedges
+Module 7
+Reasining with Fuzzy logic:Introduction to Fuzzy Implication rules and Fuzzy logic.
+Module 8
+General issues in knowledge representation and interference: logical agents, reasoning and
+resolution, adequacy, richness, granularity, ease of representation and use, modeling
+uncertainty, the fame problem, declarative and procedural representation.
+Module 9
+Problem solving by Searching: State space representation, heuristics, heuristic evolution
+function, and problem reduction. Searching for solutions. Informed and uninformed search
+strategies.
+Module 10
+Search Methods: generate and test, hill climbing, means ends analysis, depth first, breath-first,
+best -first, exploiting domain constraints, dependency directed back tracking, minimax, alpha-
+beta pruning, and iterative deepening.
+
+--- Page 59 ---
+Module 11
+Learning: Introduction to Supervised and Unsupervised Learning, Fuzzy C-means clustering,
+Linear Classification using neural net.
+Module 12
+Introduction to Evolutionary computing: Basic Introduction to genetic algorithm.
+TEXT/REFERENCES:
+1. S. Russell and P. Norvig, “Artificial Intelligence: a modern approach”, Prentice Hall,
+2. Amit Konar,“Artificial intelligence and soft computing: behavioral and cognitive
+modeling of the human brain.” CRC press
+
+--- Page 60 ---
+Laser and Nonlinear Optics
+Laser and Nonlinear Optics L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Introduction to Lasers, Properties of Lasers, Solid state lasers, Linear Optics in Homogeneous
+and Isotropic Media, Optical wave in anisotropic media.
+Module 2
+Optical Response of an Harmonic Oscillator, Nonlinear Susceptibility Tensors, Nonlinear
+Wave Propagation, Second Harmonic Generation, Three Wave Mixing, Phase Matching,
+Frequency Conversion Devices.
+Module 3
+Optical Response Of An Atomic System, Nonlinear Optical Susceptibilities, Nonlinear
+Optical Materials, Organic Nonlinear Optical Materials.
+Module 4
+General Theory Of Four-Ware-Mixing, Nonlinear Refraction And Absorption, Self Focusing,
+Saturation Of Absorption, Two-Photon Absorption, Kerr Lens Modelocking, Optical Phase
+Conjugation And Degenerate Four-Wave-Mixing, Inelastic Scattering Processes, Stimulated
+Raman Scattering(SRS), Stimulated Brillouin Scattering Consequences Of The Stimulated
+Scattering In Optical Communication
+Module 5
+Propagation In Fibers, Pulse Propagation In A Linear Dispersive Medium, Optical Pulse
+Propagation In Nonlinear Medium, Solitons In Optical Fibers, Long Distance Soliton
+Transmission System.
+TEXT/REFERENCES:
+1. Laser and Fundamentals by W.T. Silvast
+2. Laser: theory and Applications, K. Thyagarajan and A. K. Ghatak
+3. Laser and Nonlinear Optics, B.B. Laud
+4. Nonlinear Fiber Optics, Govind Agrawal(5thEdn)
+
+--- Page 61 ---
+Fuzzy Logic and Neural Network
+Fuzzy Logic and Neural Network L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Introduction to Neural Networks: Introduction, Humans and Computers, Organization of the
+Brain, Biological Neuron, Biological and Artificial Neuron Models, Characteristics of ANN,
+McCulloch‐Pitts Model, Historical Developments, Potential Applications of ANN.
+Module 2
+Essentials of Artificial Neural Networks: Artificial Neuron Model, Operations of Artificial
+Neuron, ANN Architectures, Classification Taxonomy of ANN – Connectivity, Learning
+Strategy (Supervised, Unsupervised, Reinforcement), Learning Rules.
+Module 3
+Single Layer Feed Forward Neural Networks: Introduction, Perceptron Models: Discrete,
+Continuous and Multi‐Category, Training Algorithms: Discrete and Continuous Perceptron
+Networks, Limitations of the Perceptron Model.
+Module 4
+Multilayer Feed forward Neural Networks : Credit Assignment Problem, Generalized Delta
+Rule, Derivation of Backpropagation (BP) Training, Summary of Back propagation
+Algorithm, Kolmogorov Theorem, Learning Difficulties and Improvements.
+Module 5
+Associative Memories: Paradigms of Associative Memory, Pattern Mathematics, Hebbian
+Learning, General Concepts of Associative Memory, Bidirectional Associative Memory
+(BAM) Architecture, BAM Training Algorithms: Storage and Recall Algorithm, BAM Energy
+Function. Architecture of Hopfield Network: Discrete and Continuous versions, Storage and
+Recall Algorithm, Stability Analysis.
+Module 6
+Fuzzy Set and Fuzzy Logic: Introduction to fuzzy set, System Components Fuzzification,
+Membership value assignment, development of rule base and decision making system,
+Defuzzification to crisp sets, Defuzzification methods.
+Module7
+RecentAdvances: Fundamentals Of Genetic Algorithms – Genetic Modeling – Hybrid
+Systems – Integration Of Fuzzy Logic, Neural Networks And Genetic Algorithms – Non
+Traditional Optimization Techniques Like Ant Colony Optimization – Particle Swarm
+Optimization And Artificial Immune Systems – Applications In Design And Manufacturing.
+TEXT/REFERENCES:
+1. Russell Eberhart and Yuhui Shi, “Computational Intelligence: Concepts to
+Implementations”, Elsevier
+2. Amit Konar, “Computational intelligence: principles, techniques and applications”,
+Springer Science & Business Media.
+3. John Fulcher, " Computational intelligence: a compendium”, Springer.
+
+--- Page 62 ---
+Digital Speech Processing
+Digital Speech Processing L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1
+Digital models for the speech signal - mechanism of speech production – acoustic theory –
+Portnoff’s equations-lossless tube models – complete speech production model- digital models
+Module 2
+Speech analysis:-linear prediction of speech - auto correlation - formulation of LPC equation -
+Solution of LPC equations - Levinson Durbin algorithm - Levinson recursion - Schur
+algorithm - lattice formulations and solutions – PARCOR coefficients
+Module 3
+Speech synthesis - pitch extraction algorithms - Gold Rabiner pitch trackers –autocorrelation
+pitch trackers - voice/unvoiced detection - homomorphic speech processing – homomorphic
+systems for convolution - complex Cepstrums – pitch extraction using homomorphic speech
+processing.Spectral analysis of speech - short time Fourier analysis – STFT interpretations-
+filter
+bank summation method of short time synthesis
+Module-4
+Automatic speech recognition systems - isolated word recognition - connected word
+recognition -large vocabulary word recognition systems - pattern classification - DTW,HMM -
+speaker recognition systems - speaker verification systems – speaker identification Systems.
+TEXTREFERENCES:
+1. Rabiner L.R. & Schafer R.W., “Digital Processing of Speech Signals”, Prentice Hall Inc.,
+1978.
+2. Thomas F. Quatieri, “Discrete-time Speech Signal Processing: Principles and Practice”
+Prentice Hall, Signal Processing Series, 1st Edn., 2001.
+3. O’Shaughnessy, D. “Speech Communication, Human and Machine”. John Wiley & Sons;
+2nd Edn,1999.
+4. Deller, J., J. Proakis, and J. Hansen. “Discrete-Time Processing of Speech Signals.”
+Wiley-IEEE Press, Reprint edition, 1999.
+5. Owens F.J., “Signal Processing of Speech”, Macmillan New Electronics, 1993.
+6. Saito S. & Nakata K., “Fundamentals of Speech Signal Processing”, Academic Press, Inc.,
+1985.
+7. Papamichalis P.E., “Practical Approaches to Speech Coding”, Texas Instruments, Prentice
+Hall,1987.
+8. Rabiner L.R. & Gold, “Theory and Applications of Digital Signal Processing”, Prentice
+Hall of
+1. India,1975.
+9. Jayant, N. S. and P. Noll. “Digital Coding of Waveforms: Principles and Applications to
+Speech and Video. Signal Processing Series”, Englewood Cliffs: Prentice-Hall, 2004.
+10. Thomas Parsons, “Voice and Speech Processing”, McGraw Hill Series, 1986.
+11. Chris Rowden, “Speech Processing”, McGraw-Hill International Limited, 1992.
+
+--- Page 63 ---
+Digital Image Processing
+Digital Image Processing L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1:
+Concept of analog and digital images and two dimensional signal processing. Processing
+levels of digital images. Utilization of radio frequency spectrum for DIP: basic idea about
+BioMedical, Seismic, Astronomical, Remote sensing, earth resource exploration related
+images. Fundamental processes of DIP such as enhancement, restoration, segmentation,
+compression, object classification, detection and recognition.
+Module 2:
+Basic mathematical transformations related to DIP : continuous and discrete Fourier
+transform, Matrix manipulation to achieve image processing, Slant, Hadamard, Haar
+transformation etc. Geometrical Spatial transform, concept of linearity in images, concept of
+image registration, fusion of more than one images, concept of optical flow between two
+images, application of fuzzy logic in image processing, Image interpolation, zooming,
+shrinking, replication and reduction, false contouring and chess boars appearance in images.
+Module 3:
+Fundamental concept of image formation and digitization, memory space required for image
+storage and transmission, gray level and colour images, gray level discrimination, Weber ratio,
+relative intensity.
+Module 4:
+Various neighborhood concept between image pixels, digital path and distance, image
+graphics fundamentals. Histogram of images, local and global histogram techniques,
+histogram specification and equalization, histogram of orientation gradient.
+Module 5:
+Image enhancement in space domain, gray level adjustment, various transformation of gray
+levels, Spatial domain filtering by spatial masks, two dimensional spatial convolution
+between imageand filtering mask, high pass and low pass spatial filtering of images, standard
+low pass filter masks. Unsharpmasking and high boost filter in space domain.
+Module 6:
+Image enhancement in frequency domain, basic process steps for frequency domain filtering,
+ideal, Butterworth and Gaussian low pass and high pass filters. Notch filters. Unsharpmasking
+and high boost filter in frequency domain, adaptive filters.
+Module 7:
+Image degradation and restoration, basic model, various types of additive and non-additive
+noises and their statistical nature, linear space domain filters, order statistic filters. Homo-
+morphic filters. Image reconstruction by parallel beam and fan beam back projection method,
+Filtered back projection method, Lucy Richardson algorithm.
+
+--- Page 64 ---
+Module 8:
+Fundamental of color image processing. Various color spaces and their significances and
+applications.
+Module 9:
+Discrete Wavelet transform and multi resolution theory. Implementation of image processing
+steps by wavelet transform.
+Module 10:
+Lossless and lossy Image compression techniques and different coding methods. Discrete
+cosine transform and Fractal compression of images.
+Module 11:
+Morphological image processing methods. Erosion, dilation, opening, closing formulas for
+binary and gray scale images. Filtering by morphological processing method.
+Module 12:
+Image segmentation : dis-similarity and similarity based segmentation, morphological based
+segmentation. Various edge detectors, thresholding, region growing, merge and split methods.
+Module 13:
+Image representation and description. Various coding and algorithms. Detection of image
+features.
+Module 14:
+Object detection and recognition. Principal component analysis, neural network,
+morphological based recognition process. Support vector machine and Laplacian Support
+vector machine as classifiers.
+TEXT/REFERENCES:
+1. Fundamental of Digital Image Processing- Gonzalez and Woods (Pearson)
+2. Digital image Processing using Matlab- Gonzalez, Woods and Eddins (TMH)
+3. Fundamental of Digital Image Processing- A.K. Jain (PHI)
+4. Digital Image Processing – Jay Raman (TMH)
+5. Digital Image processing – Sreedhar (Oxford University Press)Digital Image Processing –
+Madhuri Joshi (PHI)
+
+--- Page 65 ---
+Cryptography & network security
+Cryptography & network security L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Introduction: Security Policies, Model of network security, Security attacks, services and
+mechanisms, OSI security architecture, Classical encryption techniques.
+Module-2
+Symmetric Key Cryptography: Mathematics of symmetric key cryptography: Modular
+arithmetic, Euclid’s algorithm, Linear Congruence, Matrices, Block ciphers and Stream
+ciphers, Symmetric key ciphers: DES, Differential and linear cryptanalysis, AES, RC4.
+Module-3
+Public Key Cryptography: Mathematics of asymmetric key cryptography: Primes, Primality
+Testing, Factorization, Euler‘s totient function, Fermat‘s and Euler‘s Theorem, Chinese
+Remainder Theorem, Exponentiation and logarithm, Asymmetric Key Ciphers: RSA
+cryptosystem, Key distribution, Key management, Diffie- Hellman key exchange , ElGamal
+cryptosystem, Elliptic curve arithmetic, Elliptic curve cryptography.
+Module-4
+Message Authentication And Integrity: Authentication function, MAC, Hash function,
+Security of hash function and MAC, SHA, Digital signature and authentication protocols,
+DSS, Entity Authentication: Biometrics, Passwords, Challenge Response protocols-
+Authentication applications – Kerberos.
+Module-5
+Security Practice And System Security: PGP, S/MIME, IP security, Web Security, System
+Security: Intruders – Malicious software – viruses – Firewalls, SSL and TSL.
+TEXT/REFERENCE:
+1. William Stallings, Cryptography and Network Security: Principles and Practice, PHI
+2. Forouzan and Mukhopadhyay, , Cryptography and Network Security, Mc Graw Hill.
+
+--- Page 66 ---
+Biomedical signal Processing
+Biomedical signal Processing L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1:
+Introduction: Preliminaries, Different biomedical signals: ECG, EEG, EMG etc. necessity of
+special attention in biomedical signal processing.
+Module 2:
+Filtering: Statistical preliminaries, Time Domain Filtering: Synchronized Average, Moving
+Average, Moving Average Filter to Integration, Derivative-based operator. Frequency Domain
+Filtering: Notch Filter, the Weiner Filter. Adaptive Filtering
+Module 3:
+Event Detection: Example of events: P, QRS and T wave in ECG, Derivative based
+Approaches for QRS Detection, Pan Tompkins Algorithm for QRS Detection. Dicrotic Notch
+Detection, Correlation Analysis of EEG Signal
+Module 4:
+Waveform Analysis: Illustrations of problem with case studies Morphological Analysis of
+ECG Correlation coefficient The Minimum phase correspondent and Signal Length, Envelop
+Extraction Amplitude demodulation The Envelogram
+Module 5:
+Analysis of activity: Root Mean Square value Zero-crossing rate Turns Count, Form factor,
+Frequency-domain Analysis Periodogram
+TEXT/REFERENCE:
+1. Eugene N. Bruce, Biomedical Signal Processing and Signal Modeling, John Wiley & Sons
+2. Steven Kay, Fundamentals of Statistical Signal Processing, Prentice Hall
+
+--- Page 67 ---
+Robotics
+Robotics L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module 1:
+Introduction: Science and Technology of robots.
+Module 2:
+Fundamentals of Robotic System , Position and orientation of a rigid body, Homogeneous
+transformations, Representation of joints, link representation using D-H parameters, Examples
+of D-H parameters and link transforms, different kinds of actuators – stepper, DC servo and
+brushless motors, model of a DC servo motor, Types of transmissions, Purpose of sensors,
+internal and external sensors, common sensors – encoders, tachometers, strain gauge based
+force-torque sensors, proximity and distance measuring sensors.
+Module 3:
+Kinematics of serial robots:Fundamentals, Direct and inverse kinematics problems, Examples
+of kinematics of common serial manipulators, workspace of a serial robot, Inverse kinematics
+of constrained and redundant robots, Tractrix based approach for fixed and free robots and
+multi-body systems, simulations and experiments, Solution techniques using theory of
+elimination, Inverse kinematics solution for the general 6R serial manipulator.
+Module 4:
+Kinematics of parallel robots: Degrees-of-freedom of parallel mechanisms and manipulators,
+Active and passive joints, Constraint and loop-closure equations, Direct kinematics problem,
+Mobility of parallel manipulators, Closed-from and numerical solution, Inverse kinematics of
+parallel manipulators and mechanisms, Direct kinematics of Gough-Stewart platform.
+Module 5:
+Velocity and statics of robot manipulating systems: Linear and angular velocity of links,
+Velocity propagation, Manipulator Jacobians for serial and parallel manipulators, Velocity
+ellipse and ellipsoids, Singularity analysis for serial and parallel manipulators, Loss and gain
+of degrees of freedom, Statics of serial and parallel manipulators, Statics and force
+transformation matrix of a Gough-Stewart platform, Singularity analysis and statics.
+
+--- Page 68 ---
+Module 6:
+Dynamics of serial and parallel robots :Mass and inertia of links, Lagrangian formulation for
+equations of motion for serial and parallel manipulators, Generation of symbolic equations of
+motion using a computer, Simulation (direct and inverse) of dynamic equations of motion,
+Examples of a planar 2R and four-bar mechanism, Recursive dynamics, Commercially
+available multi-body simulation software (ADAMS) and Computer algebra software Maple.
+Module 7:
+Motion planning and control : Joint and Cartesian space trajectory planning and generation,
+Classical control concepts using the example of control of a single link, Independent joint PID
+control, Control of a multi-link manipulator, Non-linear model based control schemes,
+Simulation and experimental case studies on serial and parallel manipulators, Control of
+constrained manipulators, Cartesian control, force control and hybrid position and force
+control, Advanced topics in non-linear control of manipulators.
+Module 8:
+Modeling and control of flexible robots : Few Models of flexible links and joints, Kinematic
+modeling of multi-link flexible robots, Dynamics and control of flexible link manipulators,
+Numerical simulation results,
+TEXT/REFERENCE:
+1. Murray, R.M., Li, Z., and Sastry,S.S.,A Mathematical Introduction to Robotic
+Manipulator, CRC Press, 1994.
+2. Merlet, J.-P.,ParallelRobots,Kluwer Academic, Dordrecht, 2001.
+3. Featherstone, R.S., Robot Dynamics Algorithms,Kluwer Academic Publishers, 1987.
+4. Haug,E.J., Computer-Aided Kinematics and Dynamics of Mechanical Systems: Basic
+Methods,Vol. 1,Allyn and Bacon, 1989.
+5. Siciliano,B., and Khatib, O.(Editors), Handbook of Robotics, Springer, 2008.
+6. Craig, J. J., Introduction to Robotics: Mechanics and Control, 2nd Edition, Addison-
+Wesley, 1989.
+7. Robotics: Fundamental Concepts and Analysis, Oxford University Press, Second reprint,
+May 2008.
+
+--- Page 69 ---
+Smart Antenna
+Smart Antenna L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Introduction, Need of Smart Antenna Systems, Overview of smart antenna systems, The
+Vector Channel Impulse Response and the Spatial Signature, Spatial Processing Receivers,
+Fixed Beam forming Networks, Switched Beam Systems, Hybrid Beamformer, Overview of
+distributed beamforming, interference rejection using adaptive antennas.
+Module-2
+Adaptive Antenna Systems, Wideband Smart Antennas, Diversity Techniques, Multiple Input
+- Multiple Output (MIMO) Communications Systems, MIMO for frequency selective
+scenarios. SDMA using smart antennas.
+Module-3
+Sample matrix inversion algorithm, unconstrained LMS algorithm, normalized LMS
+algorithm, Constrained LMS algorithm, Perturbation algorithms, Neural network approach,
+Adaptive beam space processing, Implementation issues.
+Module-4
+Direction of Arrival (DOA) Estimation for smart antennas: Spectral estimation methods, linear
+prediction method, Maximum entropy method, Maximum likelihood method, Eigen structure
+methods, MUSIC algorithm – root music and cyclic music algorithm, the ESPRIT algorithm.
+TEXT/REFERENCE:
+1. R.A. Monzingo, R.A. Haupt, W.H. Miller, “Introduction to Adaptive Arrays”, SciTech
+Publishing Inc.
+2. Frank Gross, “Smart Antennas for Wireless Communications”, Mc Graw Hill.
+3. Ahmed El-Zooghby, “Smart Antenna Engineering”, Artech House Publishers.
+4. Constantine Balanis, “Introduction to Smart Antennas”, Morgan and Claypool Publishers.
+5. J. Liberti, T.S. Rappaport, “Smart Antennas for Wireless Communications-IS-95 and
+Third Generation CDMA Applications”, Prentice Hall
+
+--- Page 70 ---
+Wireless Network
+Wireless Network L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Wireless Networking: Primer on wireless communications and networking A. Physical
+layer, OFDM and 802.11 (WiFi) PH, Multi-antenna systems and MIMO, Overview of
+802.11n/ac PHY including beam forming MAC layer -CSMA/CA and WiFi MAC overview,
+Wide bandwidth channel access techniques (802.11n/ac), Energy efficiency and rate control.
+Module-2
+Multi-Gigabit Wireless Networks: Next generation (5G) wireless technologies Upper
+Gigahertz and Terahertz wireless communications A. Millimeter wave networking,
+Directionality and beamforming, Mobility and signal blockage, IEEE 802.11ad (60 GHz
+WLAN) MAC and PHY overview. B. Visible light communication, High-speed networking
+using LEDs, IEEE 802.15.7 PHY and MAC overview, C. Sensing through visible light,
+visible light indoor localization and positioning
+Module-3
+Indoor Localization and RF Sensing: A.Smartphone localization, WiFi fingerprinting,
+protocols and challenges, Non-WiFi localization, B.Device-free sensing with radio frequency,
+Mining wireless PHY channel state information, Device-free localization and indoor human
+tracking, Activity and gesture recognition through RF.
+Module-4
+Low-Power Networking: A.Backscatter communication, Radio Frequency Identification
+(RFID) technology overview, Energy harvesting tags and applications, B. Internet-of-Things
+(IoT), IoT protocol overview - CoAP and MQTT, IPv6 networking in low-power PANs
+(6LoWPAN).
+Module-5
+Quality of service, quality of user experience, Cross layer design concept.
+Module-6
+Future Mobile Networks: A.Drone networking - Multi-UAV networks, architectures and
+civilian applications -Communication challenges and protocols for micro UAVs B. Connected
+and autonomous cars -Wireless technologies for Vehicle-to-Infrastructure (V2I) and Vehicle-
+to-Vehicle (V2V) communications -Automotive surrounding sensing with GHz and THz
+signals
+TEXT/REFERENCE:
+1. Wireless Communications: Principles and Practice, by Theodore S. Rappaport, Prentice
+Hall.
+2. Stallings, Wireless Communications & Networks, 2nd edition.
+3. Molisch, Wireless Communications, 2005.
+4. Wireless Networking Complete, by Pei Zheng et al., Morgan Kaufmann.
+5. Wireless Communications, Andrea Goldsmith, Stanford University.
+
+--- Page 71 ---
+RF Circuits & Systems
+RF Circuits & Systems L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Introduction: Importance of RF and Microwave Concepts and Applications. Frequency
+Spectrum, RF and Microwave. Circuit Design, Dimensions - RF Behavior of Passive
+Components: High Frequency Resistors, High Frequency Capacitors, High Frequency
+Inductors, General Introduction, Types of Transmission ines-Equivalent Circuit
+representation.
+Module-2
+The Smith Chart: Introduction, Derivation of Smith Chart, Description of two types of smith
+chart, Z-Y Smith chart, Distributed Circuit Applications, Lumped Element Circuit
+Applications. SINGLE AND MULTIPORT NETWORKS: Basic Definitions, Interconnecting
+Networks.
+Module-3
+Network Parameters: ABCD, Z, Y and Scattering Parameters, Conversion between network
+parameters, Signal Flow Chart Modelling.
+Module-4
+Stability and Gain Considerations – RF Design RF Source, Transducer Power Gain,
+Additional Power Relations-Stability Considerations: Stability Circles, Unconditional
+Stability, and Stabilization Methods-Unilateral and Bilateral Design for Constant Gain- Noise
+Figure Circles- Constant VSWR Circles.
+Module-5
+Rf Filters, Amplifiers and Oscillators. Design Generalization-Basic Resonator and Filter
+Configurations: Low Pass, High Pass, Band Pass and Band Stop type Filters-Filter
+Implementation using Module- Element and Kuroda's Identities Transformations.
+Introduction, Types and Characteristics of Amplifiers, Small Signal Amplifiers, Design of
+different types of amplifiers (NBA, HGA, MGA, LNA, MNA, BBA), Design of Large Signal
+Amplifiers, Oscillator vs Amplifier design, Design procedure of Transistor oscillators.
+TEXT/REFERENCE:
+1. Mathew M. Radmanesh, “Radio Frequency & Microwave Electronics”, Pearson
+Education Asia, Second Edition,
+2. Reinhold Ludwig and Powel Bretchko,” RF Circuit Design – Theory and Applications”,
+Pearson Education Asia, First Edition.
+3. Ulrich L. Rohde and David P. New Kirk, “RF / Microwave Circuit Design”, John Wiley
+& Sons USA, 2000.
+4. DevendraK.Misra ,”Radio Frequency and Microwave Communication Circuits – Analysis
+and Design “John Wiley & Sons, Inc.
+
+--- Page 72 ---
+Low Power VLSI Circuits
+Low Power VLSI Circuits L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+MODULE- 1:
+Low-Power Design Methodologies: an Overview: Why Low-Power? Basics of MOS circuits:
+MOS Transistor structure and device modeling, MOS inverters characteristics, delay and
+power estimation. Static and Dynamic CMOS circuits, Pass-transistor circuits.
+MODULE- 2:
+Sources of power dissipation: Dynamic Power Dissipation, Static Power Dissipation and
+Degrees of Freedom, Parameters involved in power dissipation, switching activity and power
+estimation techniques.
+MODULE- 3:
+Supply Voltage Scaling Approaches: Device feature size scaling, Multi-VDD
+Circuits, Architectural level approaches, High-level transformations, Dynamic voltage scaling
+and Power Management, Switched Capacitance Minimization Approaches: Hw/ Sw Tradeoff,
+Bus Encoding, 2’s complement Vs Sign Magnitude Architectural optimization, Clock Gating,
+low power logic styles like adiabatic logic circuit, Low power BICMOS circuit design.
+MODULE- 4:
+Short Channel effects, Leakage Power minimization Approaches such as VTCMOS,
+MTCMOS, DTCMOS, Transistor stacking, Power Gating and others.
+MODULE- 5:
+Binary Decision Diagram representation of Boolean function, Low Power logic
+synthesis and optimization. Low power physical design, Low power gate level design
+and synthesis.
+MODULE- 6:
+Introduction of low power circuit testing and Battery-aware System design, Variation tolerant
+design.
+TEXT/REFERENCE:
+1. K.Roy and S.C. Prasad , LOW POWER CMOS VLSI circuit design, Wiley,2000
+2. DimitriosSoudris, ChirstianPignet, Costas Goutis, DESIGNING CMOS CIRCUITS FOR
+LOW POWER, Kluwer, 2002
+3. J.B. Kuo and J.H Lou, Low voltage CMOS VLSI Circuits,Wiley 1999.
+4. A.P.Chandrakasan and R.W. Broadersen, Low power digital CMOS design, Kluwer,
+1995.
+5. Gary Yeap, Practical low power digital VLSI design, Kluwer, 1998.
+6. Abdellatif Bellaouar, Mohamed.I. Elmasry, Low power digital VLSI design, S.Kluwer,
+1995.
+7. James B. Kuo, Shin – chia Lin, Low voltage SOI CMOS VLSI Devices and Circuits.
+JohnWiley and sons, inc 2001
+
+--- Page 73 ---
+Internet of Things
+Internet of Things L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1:
+Introduction: IoT-introduction, Characteristics. Design of IoT-Physical and logical,
+Building blocks of IoT, Communication models & APIs
+Module-2:
+Machine2Machine (M2M): Machine to Machine-Introduction, Difference between M2M and
+IoT, Software define Network.
+Module-3:
+Energy efficiency, sustainable communication techniques
+Module-4:
+Challenges in IoT: Challenges in IoT: Design, localisation techniques, Development and
+Security challenges.
+Module-5:
+Real life applications of IoT: Industry automation, Monitoring applications, Survelliance, and
+Other IoT applications, pollution monitoring, agricultural monitoring, smart city application.
+Module 6:
+Hands-on IoT: Introduction to various IoTtools,Application development using IoT tools,
+Introduction to different embedded system platform like rashberry pie, adrinoetc, sensor
+based application with embedded system platform.
+Module 7:
+IoT and Python: Introduction to Python, Implementing IoT concepts with python.
+TEXT/REFERENCE:
+1. Vijay Madisetti, ArshdeepBahga, “Internet of Things: A Hands-On Approach”
+2. WaltenegusDargie,ChristianPoellabauer, "Fundamentals of Wireless Sensor
+Networks: Theory and Practice".
+
+--- Page 74 ---
+Industrial Electronics
+Industrial Electronics L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module- 1
+Thyristors : Thyristor family, Two transistor analogy of SCR, construction, Turn on and Turn
+Off characteristics, specifications and parameters, Turn On methods, S.C.R. firing and
+synchronizing circuits, U.J.T. related firing circuits, SCR Protection, Commutation circuits.
+Module- 2
+Phase Controlled Rectifier: Principle of Phase Control, Single-Phase Mid-Point Converter,
+Bridge Converter, Full Converter, Semi converter, Dual converter.
+Module- 3
+DC to DC converters: Basic principle of chopper circuit, various chopper circuits and their
+working, step up chopper, Line Regulators.
+Module- 4
+Inverters: Pulse width modulated Inverters, Single Phase Series and Parallel inverter, Force
+Commutated Thyristor Inverters, Current Source Inverter, and Three Phase Bridge Inverter.
+Module- 5
+AC Voltage Controllers: Types, Single Phase Voltage Controller with RL Load, Sequence
+Control of AC Voltage Controllers, Cycloconverters.
+Module- 6
+Industrial application of ultrasonic and its basic principle, optical devices, S.M.P.S., U.P.S.,
+Advanced control of power electronic circuits using microprocessors, isolation and amplifier
+circuits, synchronization circuits.
+TEXT/REFERENCE:
+1. Rehg, James, A., Sartori, Glenn. Industrial Electronics. 5th ed. Upper Saddle River:
+Prentice Hall. 2006
+2. Dubey, G.K., Power Semiconductor Controlled Drives, Prentice Hall inc. (1989).
+3. Sen, P.C., Thyristor DC Drives, John Wiley and Sons (1981).
+4. J.M.D. Murphy, F.G. Turnbull, Power Electronic Control of Ac Motors, Pergamon
+(1990).
+5. Paul, B., Industrial Electronic and Control, Prentice Hall of India Private Limited (2004).
+
+--- Page 75 ---
+Embedded System Design
+Embedded System Design L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1:
+Introduction to Embedded Systems: Introduction to embedded systems with examples,
+classification, desirable features and history. General aspects of Embedded System hardware
+MCU internals - Reset types, Timers, Stacks, Interrupts, DMA, Serial Communication,
+interfacing ADC & DAC, keyboards, displays and touch screens, sensors and actuators with
+micro-controller. Memory: SRAM, DRAM and Flash. Buses and protocols: Bus Arbitration,
+On Board Buses- I2C and SPI, Off Board buses – USB,CAN, AMBA, Ethernet, Wi-Fi, Zigbee
+and Bluetooth,
+Module-2:
+The ARM Processor: ARM processor fundamentals: Introduction to microprocessors and
+microcontrollers, 8-bit and 16- bit, von Neumann and Harvard architectures, CISC and RISC
+architectures, ARM versions. Arithmetic and logic instructions and programs. Branch, call,
+and looping in ARM, Macros. ARM memory map, memory access, and stack. ARM pipeline
+and CPU evolution. ARM instruction set: programming model, assembly language, Thumb
+instruction set. Input/output mechanisms, isolated and memory mapped IO. interrupts and real
+time operations, ARM interrupts vectors, priorities and latency. supervisor modes, exceptions,
+traps, co-processors. Programming the peripherals of ARM using Assembly and C and
+KeilMicrovision IDE.
+Module-3:
+Embedded controllers design using verilog HDL and FPGA: Finite state machine concepts,
+Verilog HDL, design examples like – stepper motor controller, Traffic signal controller,
+Vending machine controller, Elevator and Seat belt controller etc, Design implementation in
+FPGA.
+TEXTS/REFERENCES:
+1. A. N. Sloss, D. Symes, and C. Wright, "ARM system developer's guide: Designing and
+optimizing system software", Elsevier, 2008.
+2. M.A. Mazidi, S.Naimi, J.Mazidi, “ARM Assembly Langusge Programming and
+Architecture”, Pearson.
+3. Michael Barr, “Programming Embedded Systems in C and C++”, O'Really, 1999.
+4. Kirk Zurell, “C Programming for Embedded Systems”, CMP Books, 2000.
+5. Samir Palnitkar“Verilog HDL: A Guide to Digital Design and Synthesis”, Pearson.
+
+--- Page 76 ---
+ELECTRONIC SYSTEM DESIGN
+Electronic System Design L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module-1
+Op amps: DC performance of op amps: Bias, offset and drift. AC Performance of operational
+amplifiers: band width, slew rate and noise. Signal conditioning, Instrumentation & Isolation
+amplifiers. A/D and D/A conversion: sampling and quantization, antialiasing and smoothening
+filters, Data converters, interfacing with DSP blocks. Power supplies: Characteristics and
+design of regulated power supply.
+Module-2
+Cabling of Electronic Systems: Capacitive coupling, effect of shield on capacitive coupling,
+inductive coupling, effect of shield on inductive coupling, effect of shield on magnetic
+coupling, magnetic coupling between shield and inner conductor, shielding to prevent
+magnetic radiation, shielding a receptor against magnetic fields, coaxial cable versus shielded
+twisted pair, ribbon cables.
+Grounding of Electronic Systems: Safety grounds, signal grounds, single-point ground
+systems, multipoint-point ground systems, hybrid grounds, functional ground layout, practical
+low frequency grounding, hardware grounds, grounding of cable shields, ground loops, shield
+grounding at high frequencies.
+Module-3
+Signal measurement in the presence of noise: synchronous detection, signal averaging. Noise
+in electronic systems, design of low noise circuits. Balancing & Filtering in Electronic
+Systems: Balancing, power line filtering, power supply decoupling, decoupling filters, high
+frequency filtering, and system bandwidth. Protection Against Electrostatic Discharges (ESD):
+Static generation, human body model, static discharge, ESD protection in equipment design,
+software and ESD protection, ESD versus EMC. Interfacing of analog and digital systems.
+PCB design and layout, System assembly considerations.
+TEXT/REFERENCES:
+1. Electronics of measuring systems - practical implementation by: T. T. Lang ; Wiley, 1987.
+2. Electronic Instrument Design, 1st edition; by: Kim R.Fowler ; Oxford University Press.
+3. Applications of analog integrated circuits by: S. Soclof ; Prentice Hall1990.
+4. Intuitive Analog circuit design by: Mark.TThompson ; Published by Elsevier.
+5. Noise Reduction Techniques in Electronic Systems, 2nd edition; by: Henry W.Ott
+;JohnWiley& Sons.
+6. Digital Design Principles& Practices, 3rd edition by: John F. Wakerly ; Prentice Hall
+International, Inc.
+7. Operational Amplifiers and linear integrated circuits, 3rd edition by: Robert F. Coughlin ;
+Prentice Hall International, Inc.
+8. Printed Circuit Boards: Design and Technology by: W.C. Bosshart ; Tata McGraw Hill,
+1983.
+
+--- Page 77 ---
+Computer Architecture
+Computer Architecture L-3 T-0 P-0 3 credits
+COURSE CONTENT:
+Module- 1
+Instruction Set Architecture (ISA): ISA Principles and Trade-offs, RISC and CISC, Instruction
+Classes, Semantic Gap, Translation, MIPS and X86 ISA.
+Module- 2
+Micro architecture: Single Cycle and Multi Cycle Micro architecture, Control and Data path.
+Module- 3
+Pipelining: Pipelining basics, Ideal Pipeline, Pipeline Stalls, Data and Control Dependencies,
+Resource Contention, Data Dependence and Control Dependence handling,
+Module- 4
+Branch Prediction: Misprediction penalty, BTB, Branch prediction techniques (Static and
+Dynamic).
+Module- 5
+Out of Order Execution: OoO Execution basics, Tomasulo’s Algorithm.
+Module- 6
+Vector and Array Processors.
+Module- 7
+The Memory Hierarchy: Memory System, DRAM and SRAM, Cache Memories, Direct
+mapped cache, Set associative cache, Fully associative cache, Cache replacement policies,
+Cache Write Handling.
+Module- 8
+Virtual Addressing: Basic Mechanism, Paging, Page Fault, Address translation, Page
+Replacement algorithms, Access Control, Privilege Levels.
+Module- 9
+Multiprocessors: Parallel Speed-up, Amdahl’s Law.
+Module- 10
+Interconnects: Topology, Routing, Flow Control.
+TEXT/REFERENCES:
+1. Hennessy and Patterson, Computer Architecture: A Quantitative Approach, Elsevier.
+2. Morris Mano, Computer System Architecture, Pearson.
+3. Dally and Towels, Principal and Practices of Interconnection Networks, Elsevier

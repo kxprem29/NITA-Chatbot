@@ -1,0 +1,638 @@
+
+--- Page 1 ---
+Information Brochure for
+Postgraduate Programs in
+Electrical Engineering
+National Institute of Technology Agartala
+May, 2022
+1
+
+--- Page 2 ---
+CONTENTS
+1. Message from the Director
+2. Message from the Dean (Academic)
+3. Message from the HOD
+4. Message from the PG Coordinator
+5. Introduction
+6. M.Tech programs Offered
+ M.Tech Power Electronics & Drives
+ M.Tech Power System Engineering
+ M.Tech Instrumentation Engineering
+ M.Tech Integrated Energy System
+7. M.Tech Program Offered
+2
+
+--- Page 3 ---
+MESSAGE FROM THE HOD
+Department of Electrical Engineering
+National Institute of Technology Agartala
+Prof. Priyanath Das
+It is a great pleasure to be a part of the Department of Electrical Engineering of the National Institute
+of Technology, Agartala. Electrical Engineering Programme at NIT Agartala commenced from the
+date of its inception formerly in Tripura Engineering College. We have four postgraduate
+specialization with specific objective to cater the needs of society. We have faculty rich with research
+expertise and state of art infrastructure to cater the needs of budding researches. The M.Tech scholars
+during their course of study will have comfortable stay and rich academic, research and industrial
+exposure.
+MESSAGE FROM PG COORDINATOR
+Department of Electrical Engineering
+National Institute of Technology Agartala
+Dr. Nabamita Goswami
+We welcome the budding researches to the Department of Electrical Engineering. We not only
+monitor their academic and research performance, but also focus on providing industrial internship
+linked with their placement during their second year course of time in reputed industries. I wish the
+budding researcher a comfortable stay at NIT Agartala.
+3
+
+--- Page 4 ---
+M. Tech Program Offered:
+The Electrical Engineering department offers 2 years full time M.Tech degree in the following
+four specializations:
+ M.Tech in Power Electronics & Drives
+ M.Tech in Power System Engineering
+ M.Tech in Instrumentation Engineering
+ M.Tech in Integrated Energy System
+The department also offers PhD program in all this areas of specialization.
+The details of each specializations are given below.
+Head of the Department: Dr. Priyanath Das [BE (TU); ME (Bengal Engg. College, Shibpur);
+Ph.D.(Jadavpur University)], e-mail: priyanathdas@yahoo.co.in M-9862472558.
+Post-graduate Programme Co-ordinator: Dr. Nabamita Goswami [B.Tech (NIT Agartala),
+M.Tech (NIT Agartala), Ph.D. (NIT Agartala)], Assistant. Professor, email:
+nabamita08@rediffmail.com.
+Post-graduate Programme Co-Coordinator: Dr. Arup Ratan Bhowmik [B.Tech (WBUT),
+M.E (TU), Ph.D (NIT Agartala], Assistant. Professor, email: arup.ee_nita@yahoo.com,
+arup.ee@nita.ac.in.
+M.Tech Course Structure
+FIRST SEMESTER
+SL. SUBJECT Credit Class hours Marks
+No. per week
+1 Subject – 1(Basic Core) 4 4 100
+2 Subject – 2 (Core Subject-I) 4 4 100
+3 Subject – 3(Core Subject-II) 4 4 100
+4 Subject -4 (Elective Paper – I) 4 4 100
+5 Subject-5 (Elective Paper – II) 4 4 100
+6 Laboratory I 2 3 100
+7 Laboratory II 2 3 100
+8 Seminar 1 2 100
+Total 25 28 800
+SECOND SEMESTER
+SL. SUBJECT Credit Class hours Marks
+No. per week
+1 Subject – 1(Basic Core) 4 4 100
+2 Subject – 2 (Core Subject-I) 4 4 100
+3 Subject – 3(Core Subject-II) 4 4 100
+4 Subject -4 (Elective Paper – I) 4 4 100
+5 Laboratory I 2 3 100
+6 Laboratory II 2 3 100
+7 Project Preliminary 3 6 100
+8 Comprehensive Viva 2 0 100
+25 28 800
+Total
+4
+
+--- Page 5 ---
+THIRDSEMESTER
+SL SUBJECT Credit Class hours per Marks
+week
+1 Project and Thesis -1 10 - 100
+FOURTH SEMESTER
+SL SUBJECT Credit Class hours per Marks
+week
+1 Project and Thesis -2 20 - 300
+Total Credit 80 Total marks 2000
+Basic Core Advanced Mathematics/ Digital Signal Processing/ Embedded Systems/
+I-Semester Optoelectronic Instrumentation
+Basic Core Artificial Intelligence and Expert Systems/ Optimization Technique/
+II-Semester Probability and Statistical Methods
+Power Electronics & Drives
+Subject Core Advanced Power Electronics
+- I Semester Modelling and Analysis of Electrical Machine and Drives
+Subject Core Switched Mode Power Supplies
+- II Semester Advanced Electrical Drives
+Instrumentation
+Subject Core Industrial Instrumentation
+- I Semester Analog Signal Processing
+Subject Core Optical Engineering and Laser Instrumentation
+- II Semester Process Control and Instrumentation
+Power System
+Subject Core Power System Operation & Economics
+- I Semester Power System stability & Control
+Subject Core Power System Protection
+- II Semester Distributed Generation Systems
+Integrated Energy System
+Subject Core Renewable Energy
+- I Semester Energy Conservation
+Subject Core Operation & Control of Electrical Energy Systems
+- II Semester Distributed Generation Systems
+Elective Subjects
+1. Biomedical Instrumentation 10. Advanced Power System
+2. Advanced Control System 11. Direct Energy Conversion
+3. Advanced Circuit Design 12. Energy, Ecology & Environment
+Fundamentals of Energy
+4. Renewable Energy 13.
+Economics
+5. Pulse Width Modulation Techniques 14. Power Plant Engineering
+6. HVDC Transmission 15. Heat Transfer
+5
+
+--- Page 6 ---
+Flexible AC Transmission Systems Power Generation Transmission &
+7. 16.
+(FACTS) Distribution
+8. Power System Planning 17. Smart Grid
+9. High Voltage Engineering 18. Digital Control
+Subject Core of any particular specialization may also be opted as an Elective subject
+by other specialization’s students.
+POWER ELECTRONICS &
+INSTRUMENTATION
+DRIVES
+Semester I Semester I
+Laboratory-I Power Electronics Lab Laboratory-I Instrumentation Lab-I
+Digital Signal Processing
+Laboratory-II Electrical Machine Lab Laboratory-II
+Lab
+Semester II Semester II
+Laboratory-I Power Electronics Lab II Laboratory-I Instrumentation Lab-II
+Optoelectronics and
+Laboratory-II Electrical Drives Lab Laboratory-II
+Instrumentation Lab
+POWER SYSTEM INTEGRATED ENERGY SYSTEM
+Semester I Semester I
+Power System
+Laboratory-I Laboratory-I Energy Lab-I
+Simulation Lab-I
+Power System Protection Power System Simulation
+Laboratory-II Laboratory-II
+Lab Lab
+Semester II Semester II
+Power System
+Laboratory-I Laboratory-I Energy Lab-II
+Simulation Lab-II
+Laboratory-II Power Electronics Lab Laboratory-II Power Electronics Lab
+Eligibility Criteria for Admission
+Admission is carried out through the central counseling like CCMT/CCMN being organized by
+NIT Jaipur. If seats are lying vacant, then institute admits the student through publication
+/advertisement by NIT Agartala.
+Scholarship: Students admitted through CCMT/CCMN are eligible to get the monthly scholarship
+of Rs.12,400/-- subject to fulfillment of other criteria and financial availability from Ministry of
+Education, Government of India.
+Course duration: Two years (Four Semester).
+Evaluation System
+ Continuous Evaluation system is followed. Credit based Cumulative Grade Point Average
+(CGPA) System along with SGPA (Semester Grade Point Average) system is adopted.
+ Theory subjects are evaluated as
+o Internal Assessment (30 marks)
+o Mid Term Examination (20 marks)
+o End Term Examination (50 marks).
+ Questions are prepared following the Blooms Taxonomy satisfying the NBA pattern.
+6
+
+--- Page 7 ---
+ Project and Thesis are evaluated by an Evaluation Committee where External Examiners from
+renowned institutions/organizations/industry like IITs, NITs, IIEST, CSIR, IISC etc. are
+invited.
+Library: Departmental Library along with Central Library is utilized for B.Tech, M.Tech and
+Ph.D Courses.
+Publications
+ Department has been persistently publishing significant number of publications in SCI journals
+or high quality pear reviewed journals/transactions with high impact factors and presenting
+research work in National and International conferences in the relevant domains.
+ Also, department has publication works such as patents filed/obtained, Books, Book chapters
+etc.
+ Some of the venerated journals wherein some of the contemporary research works of the
+department have been published are:
+o Energy Conservation and Management (ELSEVIER), Applied Energy (ELSIVIER),
+Optics Communication (ELSEVIER), Optik- International Journal for Light and
+Electron Optics (ELSIVIER), Applied Optics (OSA), Journal of Optical Society of
+America B (OSA), Journal of Optical Society of America A (OSA), Optics Express
+(OSA), International Journal of Power and Energy System (ELSEVIER), Energy
+(ELSEVIER), International Journal of Green Energy (Taylor & Francis), IEEE
+Transaction of Industrial Electronics, Energy Resources- Part A (Recovery and
+Utilization) (Taylor & Francis), IET Generation , Transmission and Distribution,
+Sustainable Energy Technology and Assessment (ELSIVIER), Applied Energy
+(ELSIVIER), Solar Energy (ELSIVIER), IEEE Transaction on Industrial Electronics,
+Applied Physics A (Springer), Applied Physics B (Springer), Frontier of Energy
+(Springer), Physica Solidi A (Wiley), Physica Solidi B (Wiley), Optical Engineering
+(SPIE) etc.
+Placement and Higher Studies Avenues
+The institute is having dedicated training and placement department named Career Counseling
+Department (CCD) though which students are being provided training, placements.
+Alumni
+ PG students, after obtaining their degrees are suitably placed in several reputed academic
+Institutions/Industries either through on-campus or off-campus recruitment process. Also, a
+considerable numbers of students get opportunities for higher studies in IITs and NITs or
+different Research Laboratories/Projects such as CSIR, BARC, DRDO, ISRO etc. Also students
+are successfully exceling their carriers in abroad also.
+ In this department Power Electronics and Drives specialization was started in 2008, Power
+System and Instrumentation specialization were started in 2010, and Integrated Energy System
+was started in 2013. Among the outgoing students, around 60% opt their carrier in Industrial
+Organizations or academia and about 40% join in PhD program in different reputed Institutions.
+7
+
+--- Page 8 ---
+A. Specialization : Power Electronics & Drives
+Intake: 15
+Objective of the course: The systems and machines of our world depend on power electronics for
+the ability to run efficiently and sustainably. Power electronics is the application of solid state
+electronics for the controlled and conversion of electrical power. The specialization aims to
+develop a depth of understanding on converting and controlling the flow of electrical energy. The
+course enables students to learn about power electronics converters and also conserving energy by
+making it possible to transport electricity over a long distance with minimal loss in transmission.
+Area of research: Electrical machines and drives, Power qualities, Multilevel inverter Topologies,
+Harmonic elimination techniques, Modular multilevel converter for HVDC application, Power
+electronics application to renewables, Electric vehicle, Power electronics and its converters, PWM
+and control, Solar PV inverters.
+Course Co-ordinator: Dr. R. N. Ray [BE (CU), ME (B.E. College), Ph.D (Engg) (JU), FIE,)
+Associate Professor], EE Department.
+Course Co-Coordinator: Dr. B. Das [B.E (TU), M. Tech (NIT Agartala), Ph.D (Jadavpur
+University)], Assistant Professor, EE Department.
+Faculty Members involved in the Program:
+Sl. Subjects taught/Projects
+Faculty Members Designation
+No. guiding
+Dr. Rup Narayan Ray Electrical Machine and
+Associate
+1 [BE CU), ME (B.E. College), Ph.D(Engg) Drives, Electrical Drives
+Professor
+(JU), FIE] Lab / Projects
+Dr. P. N. Das
+HVDC Transmission/
+2 [BE (TU); ME (Bengal Engg. College, Professor
+Projects
+Shibpur); Ph.D.(Jadavpur University)]
+Dr. Ardhendu Saha
+Opto-Electronics
+3 [BE (CU), M.Tech (CU), Ph.D (IIT, Professor
+Instrumentation
+Kharagpur)]
+Dr. Subhadeep Bhattacharjee
+Associate Renewable Energy/
+5 [B.E (EE), MEE (JU), Ph.D (Engg)(JU),
+Professor Projects
+FIETE, FIE, SMIEEE]
+Dr. A. K. Jain
+Associate Artificial Intelligence &
+6 [B.E (Jabalpur), ME (IIT Kanpur), Ph.D
+Professor Expert Systems/ Projects
+(IIT Kanpur)]
+Ms. Anindita Jamatia Switched Mode Power
+Assistant
+7 [M.E.E.(Bengal Engg. and Science Supplies, Power
+Professor
+University, Shibpur)] Electronics Lab/ Projects
+Mr. Abanishwar Chakraborti
+Assistant
+8 [B.Tech (NERIST), M.Tech (IIT Projects
+Professor
+Kharagpur), PhD (JU)]
+Dr. Sharmistha Sharma
+Assistant
+9 [B.E, M.Tech (TU) , Ph.D. (NIT Projects
+Professor
+Agartala)]
+Dr. Joyashree Das
+Assistant
+10 [B.Tech (NIT Agartala), ME (JU), Projects
+Professor
+Ph.D (NIT Agartala)]
+11 Mr. Prasenjit Debnath Assistant Projects
+8
+
+--- Page 9 ---
+[B.E (TU), MS (Montana Tech,) USA] Professor
+Mr. Prabir Ranjan Kansari Assistant
+12 FACTs/Projects
+[B.Tech (NERIST), M.Tech (TU)] Professor
+Dr. Bikram Das Advance Power
+Assistant
+13 [B.E (TU) , M.Tech (NIT Agartala), Ph.D Electronics, Power
+Professor
+(Jadavpur University)] Electronics Lab/Projects
+Dr. Nivedita Laskar
+Assistant
+14 [B.E(TU), M.Tech (TU), Ph.D. (NIT Projects
+Professor
+Agartala)]
+Dr. Nabamita Goswami
+Assistant Opto-Electronics
+15 [B.Tech (NIT Agartala), M.Tech (NIT
+Professor Instrumentation
+Agartala), Ph.D. (NIT Agartala)]
+Dr. A. R. Bhowmik
+Assistant
+16 [B.Tech (WBUT), M.E (TU), Ph.D (NIT DSP Lab/ Projects
+Professor
+Agartala]
+Laboratory Facilities:
+Power Electronics Lab Electrical Machine Lab
+Power Electronics Lab -II Electrical Drives Lab
+9
+
+--- Page 10 ---
+B. Specialization : Power System Engineering
+Intake: 15
+Objective of the course: The objective of the specialization is to make the students aware about
+the stable, secure and reliable power system operation under both normal and abnormal
+conditions. Thus, the specialization offers an in-depth understanding on power systems related
+subdomains. This specialization incorporates power quality studies, transient stability studies,
+load flow studies, optimization and application of power system software for different analysis.
+Area of Research: Deregulated power system, Application of soft computing technique,
+Optimization techniques, FACTs, Power system protection, Power system planning under smart
+grid, Demand response, Electric mobility, High voltage engineering, Energy efficient data center,
+Distribution network.
+Course Co-ordinator: Dr. A. K. Jain [B.E (Jabalpur), ME (IIT Kanpur), Ph.D (IIT Kanpur)],
+Associate Professor, EE Department.
+Course Co-Coordinator: Dr, J. Das [B.Tech (NIT Agartala), ME (JU), Ph.D (NIT Agartala)],
+Assistant Professor, EE Department.
+Faculty Members involved in the Program:
+Sl. Subjects taught/Projects
+Faculty Members Designation
+No. guiding
+Dr. P. N. Das
+[BE (TU); ME (Bengal Engg.
+1 Professor HVDC/ Projects
+College, Shibpur); Ph.D.(Jadavpur
+University)]
+Dr. Ardhendu Saha
+Opto-Electronics
+2 [BE (CU), M.Tech (CU), Ph.D (IIT, Professor
+Instrumentation/ Projects
+Kharagpur)]
+Operation & Control of
+Dr. A. K. Chakraborty
+Electrical Energy Systems,
+[B.E.E (Hons) , M.Tech (IIT
+3 Professor Power System Protection,
+Kharagpur), Ph.D(JU), MIET (UK),
+Power System Protection Lab/
+MISTE, FIE(I)]
+Projects
+Dr. Subhadeep Bhattacharjee
+Associate Renewable Energy, Distributed
+4 [B.E (EE), MEE (JU), Ph.D
+Professor Generation System / Projects
+(Engg)(JU), FIETE, FIE, SMIEEE]
+Artificial Intelligence & Expert
+Systems, Power System
+Dr. A. K. Jain
+Associate Operation and Economics,
+5 [B.E (Jabalpur), ME (IIT Kanpur),
+Professor Power System Stability and
+Ph.D (IIT Kanpur)]
+Control, Power System
+Simulation Lab / Projects
+Mr. Abanishwar Chakraborty
+Assistant Power Electronics Lab/
+6 [B.Tech (NERIST ) , M.Tech (IIT
+Professor Projects
+Kharagpur), PhD (JU)]
+Dr. Sharmistha Sharma
+Assistant
+7 [B.E, M.Tech (TU, Gold Medalist) , Projects
+Professor
+Ph.D. (NIT Agartala)]
+8 Dr. Joyashree Das Assistant Projects
+10
+
+--- Page 11 ---
+[B.Tech (NIT Agartala), ME (JU), Professor
+Ph.D (NIT Agartala)
+Mr. Prasenjit Debnath
+Assistant
+9 [B.E (TU), MS (Montana Tech,) Projects
+Professor
+USA]
+Dr. Nivedita Laskar
+Assistant
+10 [B.E(TU), M.Tech (TU), Ph.D. (NIT Projects
+Professor
+Agartala)]
+Dr. Nabamita Goswami
+Assistant
+11 [B.Tech (NIT Agartala), M.Tech (NIT Projects
+Professor
+Agartala), Ph.D. (NIT Agartala)]
+Dr. A. R. Bhowmik
+Assistant Digital Signal
+12 [B.Tech (WBUT), M.E (TU), Ph.D
+Professor Processing/Projects
+(NIT Agartala]
+Mr. Diptanu Dey
+[B.Tech in Electrical & Electronics
+Assistant
+13 Engg (Dr. MGR University), M.Tech Projects
+Professor
+in Solar & Alternative Energy Engg
+(Amity University)]
+Dr. Diptanu Das
+Assistant
+14 [B.Tech (NIT Agartala), M.Tech Projects
+Professor
+(NIT Agartala), PhD (NIT Agartala)]
+Laboratory Facilities:
+Power System Simulation Lab-I Power System Protection Lab
+Power System Simulation Lab-II Power Electronics Lab
+11
+
+--- Page 12 ---
+C. Specialization : Instrumentation Engineering
+Intake: 10
+Objective of the course: Instrumentation is the subfield of electrical engineering that focuses on
+measurements of process variables (such as temperature. pressure, volume, velocity etc.) in
+industrial facilities and equipment managements used for automated controls. The course
+encompasses the knowledge of Signal processing, Optical engineering and laser instrumentation
+etc. and aims to develop a conceptual and design basis introduction on various Opto-electronics
+devices.
+Area of Research: Optoelectronics instrumentation, Industrial instrumentation, Solid state lasers
+and Nonlinear-optics, Fiber optic sensors, Integrated photonic devices, Fiber optics
+communications, Micro-processor and its applications, Control system engineering, Industrial
+electronics, Bio-medical engineering.
+Course Co-ordinator: Dr. A. Saha [BE (CU), M.Tech (CU), Ph.D (IIT, Kharagpur)], Professor,
+EE Department.
+Course Co-Coordinator: Dr. N. Goswami [B.Tech (NIT Agartala), M.Tech (NIT Agartala),
+Ph.D. (NIT Agartala)], Assistant Professor, EE Department.
+Faculty Members involved in the Program:
+Sl. Subjects taught/Projects
+Faculty Members Designation
+No. guiding
+Dr. P. N. Das
+[BE (TU); ME (Bengal Engg.
+1 Professor HVDC/ Projects
+College, Shibpur);
+Ph.D.(Jadavpur University)]
+Opto-Electronics Instrumentation,
+Dr. Ardhendu Saha
+Optical Engineering and Laser
+2 [BE (CU), M.Tech (CU), Ph.D Professor
+Instrumentation, Analog Signal
+(IIT, Kharagpur)]
+Processing/ Projects
+Dr. Subhadeep Bhattacharjee
+[B.E (EE), MEE (JU), Ph.D Associate
+3 Renewable Energy
+(Engg)(JU), FIETE, FIE, Professor
+SMIEEE]
+Dr. A. K. Jain
+Associate Artificial Intelligence & Expert
+4 [B.E (Jabalpur), ME (IIT
+Professor Systems/ Projects
+Kanpur), Ph.D (IIT Kanpur)]
+Dr. Sumita Deb
+Assistant
+5 [B.E (TU), M.Tech.(TU), Ph.D Projects
+Professor
+(NIT Agartala)].
+Dr. Minakshi Deb Barma
+Assistant
+6 [B.E. (TU), M.Tech (NIT Projects
+Professor
+Agartala), Ph.D (NIT Agartala)]
+Dr. Sharmistha Sharma Process Control and
+Assistant
+7 [B.E, M.Tech (TU, Gold Instrumentation, Process Control
+Professor
+Medalist), Ph.D. (NIT Agartala)] and Instrumentation lab /Projects
+Dr. Nabamita Goswami Opto-Electronics Instrumentation,
+[B.Tech (NIT Agartala), M.Tech Assistant Optical Engineering and Laser
+8
+(NIT Agartala), Ph.D. (NIT Professor Instrumentation, Industrial
+Agartala)] Instrumentation/ Projects
+Dr. A. R. Bhowmik Assistant Digital Signal Processing, Digital
+9
+[B.Tech (WBUT), M.E (TU), Professor Signal Processing Lab/Projects
+12
+
+--- Page 13 ---
+Ph.D (NIT Agartala]
+Mr. Diptanu Dey
+Assistant
+10 [B.Tech (Dr. MGR University), Projects
+Professor
+M.Tech (Amity University)]
+Dr. Diptanu Das
+[B.Tech (NIT Agartala), M.Tech Assistant
+11 Projects
+(NIT Agartala), PhD (NIT Professor
+Agartala)]
+Dr. Jayanta Kumar Rakshit,
+[B.Tech (Calcutta University), Assistant
+12 Projects
+M.Tech (Calcutta University), Professor
+PhD (NIT Agartala)]
+Dr. Debasish Neogi
+[M.Sc (Economics), V.U., (Spl:
+Econometrics & Statistics), Ph.D
+13 Professor Energy Economics
+(JU), UGC-NET-JRF
+(Economics), PGDBM (Major:
+Marketing)]
+Laboratory Facilities:
+Instrumentation Lab -I Digital Signal Processing Lab
+Instrumentation Lab -II Opto-electronics and Instrumentation Lab
+13
+
+--- Page 14 ---
+D. Specialization : Integrated Energy System
+Intake: 5
+Objective of the course: Electrical energy is universally accepted as an essential commodities
+for human beings and the subject energy has a multifaceted dimension. Thus, this specialization
+integrates different facets of energy such as renewable energy, energy conservation, operation
+and control of electrical energy system, distributed generation, energy economics and planning,
+environmental aspects etc. to develop an insight in energy system.
+Area of Research: Energy and renewable power, Distributed power generation, Hybrid power
+system, Energy conservation, Organic and inorganic solar cell, Semiconductor fabrication,
+Energy auditing and management, Solar and other renewable power plant design and setup,
+Concentrated solar power system.
+Course Co-ordinator: Dr. S. Bhattacharjee [B.E (EE), MEE (JU), Ph.D (Engg)(JU), FIETE,
+FIE, SMIEEE], Associate Professor, EE Department.
+Course Co-Coordinator: D. Dey [B.Tech in Electrical & Electronics Engg (Dr. MGR
+University), M.Tech in Solar & Alternative Energy Engg (Amity University)], Assistant
+Professor, EE Department.
+Faculty Members involved in the Program:
+Sl. Subjects taught/Projects
+Faculty Members Designation
+No. guiding
+Dr. P. N. Das
+1 [BE (TU); ME (Bengal Engg. College, Professor HVDC/ Projects
+Shibpur); Ph.D.(Jadavpur University)]
+Dr. Ardhendu Saha
+Opto-Electronics
+2 [BE (CU), M.Tech (CU), Ph.D (IIT, Professor
+Instrumentation
+Kharagpur)]
+Dr. A. K. Chakraborty
+Operation & Control of
+[B.E.E (Hons) , M.Tech (IIT
+3 Professor Electrical Energy Systems/
+Kharagpur), Ph.D(JU), MIET (UK),
+Projects
+MISTE, FIE(I)]
+Dr. Debasish Neogi
+[M.Sc (Economics), V.U., (Spl:
+4 Econometrics & Statistics), Ph.D (JU), Professor Energy Economics
+UGC-NET-JRF (Economics), PGDBM
+(Major: Marketing)]
+Renewable Energy,
+Dr. Subhadeep Bhattacharjee Distributed Generation
+Associate
+5 [B.E (EE), MEE (JU), Ph.D System, Energy
+Professor
+(Engg)(JU), FIETE, FIE, SMIEEE] Conservation, Energy Lab /
+Projects
+Dr. A. K. Jain Artificial Intelligence &
+Associate
+6 [B.E (Jabalpur), ME (IIT Kanpur), Ph.D Expert Systems, Power
+Professor
+(IIT Kanpur)] System Simulation Lab
+Mr. Abanishwar Chakraborty
+Assistant
+7 [B.Tech (NERIST ) , M.Tech (IIT Power Electronics Lab
+Professor
+Kharagpur), PhD (JU)]
+Dr. Sharmistha Sharma
+Assistant
+8 [B.E, M.Tech (TU, Gold Medalist) , Projects
+Professor
+Ph.D. (NIT Agartala)]
+14
+
+--- Page 15 ---
+Dr. Joyashree Das
+Assistant
+9 [B.Tech (NIT Agartala), ME (JU), Projects
+Professor
+Ph.D (NIT Agartala)
+Dr. Nabamita Goswami
+Assistant Opto-electronics
+10 [B.Tech (NIT Agartala), M.Tech (NIT
+Professor Instrumentation
+Agartala), Ph.D. (NIT Agartala)]
+Dr. A. R. Bhowmik
+Assistant
+11 [B.Tech (WBUT), M.E (TU), Ph.D Digital Signal Processing
+Professor
+(NIT Agartala]
+Mr. Diptanu Dey
+[B.Tech in Electrical & Electronics Direct Energy Conversion,
+Assistant
+12 Engg (Dr. MGR University), M.Tech in Energy Conservation/
+Professor
+Solar & Alternative Energy Engg Projects
+(Amity University)]
+Laboratory Facilities:
+Energy Lab -I Power System Simulation Lab
+Energy Lab -II Power Electronics Lab
+15
+
+--- Page 16 ---
+Contacts:
+Head of the Department: Dr. Priyanath Das, email: priyanathdas@yahoo.co.in
+M-9862472558.
+Post-graduate Programme Co-ordinator: Dr. Nabamita Goswami, Assistant. Professor,
+email: nabamita08@rediffmail.com.
+Post-graduate Programme Co-Coordinator: Dr. Arup Ratan Bhowmik, Assistant. Professor,
+email: arup.ee_nita@yahoo.com, arup.ee@nita.ac.in.
+HOD, Course Coordinators along with all Faculty Members of Electrical Engineering
+Department would like to welcome the students to join in this Post Graduate Programs to excel
+his/her career in this prestigious Institution -- National Institute of Technology Agartala
+16

@@ -1,0 +1,342 @@
+
+--- Page 1 ---
+Page| 1
+Masters (M.Tech)
+Specialization in
+Artificial Intelligence
+National Institute of Technology Agartala
+Computer Science and Engineering Department
+http://www.nita.ac.in
+
+--- Page 2 ---
+Highlights of the Masters (M.Tech) Specialization in Arti昀椀ciPaagle | 2
+Intelligence at NIT Agartala
+100% placement
+
+Advance curriculum
+
+Excellent lab facility
+
+Strong research group support
+
+Major aspects of the programme,
+1) Theoretical foundations: This will include the mathematical background re-
+quired for the subjects.
+2) Application of Theory: This will include courses where the fundamentals and
+advanced concepts (subjects) could be implemented.
+3) Thesis/Project Work: Covering the application of the concepts learned or re-
+search, oriented work.
+The programme is able to:
+ Build mathematical foundations for studying AI. (Core subjects)
+ Once the foundations are built, give options to the students to choose their do-
+main of interest (Computer Vision, Speech, Text, Robotics etc.) so that they can
+apply the concepts learned. (Elective subjects).
+-
+Post graduate Programs are aimed at providing in depth understanding and knowledge
+to the students in technical, human, and conceptual skills necessary for the industries
+with specializa琀椀on in di昀昀erent func琀椀onal areas like Ar琀椀昀椀cial Intelligence. The teaching
+strategy for this program is oriented toward the applica琀椀on of structured knowledge
+with live case studies, research and teaching aids.
+
+--- Page 3 ---
+Page| 3
+Masters (M.Tech) in
+Arti昀椀cial Intelligence
+In the recent decades, arti昀椀cial intelligence, popularly
+known as AI, has received much attention for its wide
+- -
+spread applications in real world problems of di-
+verse domains. AI is a very broad 昀椀eld of study falling
+under the rubric of Computer Science that aims at
+solving computationally hard problems by mimicking
+-
+human like and biologically inspired approaches.
+Theoretical aspects of AI include logic and reasoning, machine learning (ML), intel-
+ligent search, intelligent planning, coordination and perception.
+AI specialization is receiving much popularity for its scope of
+About
+handshaking with emerging areas like Data Science, Cognitive
+Science and Robotics. This program would provide students an
+opportunity to learn both foundation and experimental components of AI and Ma-
+chine Learning. A student, on completion of this program, will be able to under-
+-
+take industry careers involving innovation and problem solving using Arti昀椀cial In-
+telligence (AI) and Machine Learning (ML) technologies and research careers in AI,
+ML, and Data Science, in general. Along with courses that provide specialization in
+AI, students will also have option to explore some applied domains such as com-
+puter vision, natural language processing, robotics, and software analysis etc.
+
+--- Page 4 ---
+Page| 4
+Program Outcome for the M Tech. AI
+PO1: To develop the ability to apply knowledge of mathematics, engineering sci-
+ences for conducting independent research/investigation for solving practical prob-
+lems.
+PO2: To develop the ability to identify, formulate, conduct experiments, interpret
+data, synthesise information, and analyse engineering problems by writing and
+presenting an effective technical report/document.
+PO3: To develop the ability to demonstrate mastery over the area as per the pro-
+gram's specialisation. The knowledge should be at a level higher than the require-
+ments in the appropriate bachelor's program.
+-
+PO4: To develop problem solving ability to design solutions for complex engineer-
+ing problems in the context of societal and environmental commitments.
+WHY
+PO5: To demonstrate the capability of functioning effectively as a member or team
+leader in software projects considering multidisciplinary environments, thus solving
+-
+real world multifaceted problems.
+Why masters in Artificial
+PO6: To develop design thinking capabilities for innovation and contribute to tech-
+Intelligence?
+nological knowledge and intellectual property development.
+AI is an emerging field of tech-
+nology that has brought impact
+in multiple spheres and domain
+of society.
+1. High demand for both indus-
+WHAT
+try and academia across the
+area of engineering and sci-
+ence.
+What is this Specializa-
+WHO tion ? 2. Effective placement and in-
+ternship opportunities with
+It is 2 years Masters program top firms, startups and re-
+Who can join this course ? highly focused to industrial and search organisation/ Indus-
+academic research domain for tries.
+Students with Bachelors degree
+better employability and futuris-
+in relevant fields of engineering 3. Higher studies in focused AI
+tic academic program.
+can join with valid GATE Score. domain has global ac-
+ceptance and strong partner-
+ship in between academia
+and Industry.
+
+--- Page 5 ---
+Page| 5
+Masters (M.Tech) in
+Arti昀椀cial Intelligence
+About NIT Agartala National Institute of Technology is a Centrally
+Funded Institute having recognition of Institute of
+National Importance being set up by Government
+of India. By the span of development, this institute o昀昀ers B.Tech/BS-MS/BT-MT in 13 branches,
+M.Tech/MSc in 24 specialization, Ph.D in all branches of Engineering, Science, Humanities and Manage-
+ment, MBA, MCA. This institute produced 9350 Undergraduates, 2420 Post-graduates and 207 Ph.Ds.
+Presently, 3409 undergraduate students, 838 Post graduate students and 275 Ph.D scholars are pur-
+suing their studies in this institute. This institute is having 92nd position in NIRF (National Institutional
+Ranking Framework) ranking with a remarkable placement records. It is situated 25km away from Agar-
+tala City- State capital of Tripura and 5 km away from National Highway. Agartala is connected by Air,
+Rail and Bus very e昀昀ectively.
+Synopsys What is Arti昀椀cial Intelligence specialization : A program that focuses on
+the symbolic inference, representation, and simulation by computers
+and software of human learning and reasoning processes and capabil-
+ities, and the computer modelling of human motor control and motion. Includes instruction
+in computing theory, cybernetics, human factors, natural language processing, and applica-
+-
+ble aspects of engineering, technology, and speci昀椀c end use applications.[1]
+It is also considered that , Arti昀椀cial intelligence (AI) systems are software (and possibly
+also hardware) systems designed by humans that, given a complex goal, act in the physical
+or digital dimension by perceiving their environment through data acquisition, interpreting
+the collected structured or unstructured data, reasoning on the knowledge, or processing
+the information, derived from this data, and deciding the best action(s) to take to achieve
+the given goal. AI systems can either use symbolic rules or learn a numeric model, and they
+can also adapt their behaviour by analysing how the environment is a昀昀ected by their previ-
+ous actions.[2]
+1 - National Center for Education Statistics (NCES), Classi昀椀cation of Instructional Programs
+2 - European Commission, AI Watch
+
+--- Page 6 ---
+Page| 6
+Core Faculty Group
+-
+Specialisa}on in Post graduate Programs are aimed at providing in depth understanding
+and knowledge to the students in technical, human, and conceptual skills necessary for
+the industries with specializa}on in di昀昀erent func}onal areas like Ar}昀椀cial Intelligence.
+The teaching strategy for this program is oriented toward the applica}on of structured
+knowledge with live case studies, research and teaching aids.
+Sl. No. Name of the faculty member Area
+1 Dr Diptendu Bha琀琀acharya So昀琀 Compu}ng, Time series, Computa}onal Intelli-
+gence
+2 Dr Swapan Debbarma NLP, High Performance Compu}ng
+3 Dr Kunal Chakma Machine Learning, Deep Learning, Data Science,
+NLP
+4 Dr Anupam Jama}a NLP, Social Media Analy}cs, Machine Learning
+5 Dr Dwijen Rudrapal NLP, Informa}on Retrieval, Text Analy}cs
+6 Dr Suman Deb Visual Inference, Ar}昀椀cial Intelligence, Computer
+Vision, Robo}cs, Context Based Reasoning
+7 Dr Ashim Saha DBMS, IOT, Image Processing
+8 Dr Nirmalya Kar Cyber Security
+For details on faculty Please click here
+Program Coordinator:
+Dr. Suman Deb
+Assistant Professor
+Computer Science and Engineering Department
+Associate Dean Academic,
+Chairman Institute Innovation and Startup
+National Institute of Technology Agartala
+Tripura , India-799046
+Phone: +91-9436459622 Email: sumandeb.cse@nita.ac.in
+h琀琀ps://sumandeb.com/
+
+--- Page 7 ---
+Page| 7
+Eligibility Criteria for Admission:
+Admission is carried out through the central counselling CCMT. If seats are lying vacant, then ins琀椀tute ad-
+mits the student through publica琀椀on /adver琀椀sement by NIT Agartala.
+Scholarship: Students admi琀琀ed through CCMT/CCMN are eligible to get the monthly scholarship of
+--
+Rs.12400/ subject to ful昀椀llment of other criteria and 昀椀nancial availability from Ministry of Educa}on, Gov-
+ernment of India.
+Program dura琀椀on: Two years (Four Semester)
+Program Structure: This program is having 80 credits where as 25 credits on 1st semester and 25 credits in
+2nd semester, 10 credits in 3rd semester, 20 credits in 4th semester. In First year i.e. First and 2nd semester,
+only theory and sessional classes are taking and in 2nd year (3rd and 4th semester), Project and thesis is being
+carried out in the Industrial organiza}on or in the ins}tute on the proposed Research Topic so that at least
+one Resource paper may be able to publish. The detailed credit, subject and syllabus of the program are
+available in the department website.
+Evalua琀椀on System: Con}nuous Evalua}on system is followed. Credit based Cumula}ve Grade Point Average
+(CGPA) System along with SGPA (Semester Grade Point Average) system is adopted. Theory subjects are eval-
+uated based on Internal Assessment (30 marks ), Mid Term Examina}on(20 marks ), and End Term Examina-
+}on (50 marks ). Ques}ons are prepared following the Blooms Taxonomy sa}sfying the NBA pa琀琀ern. Project
+and Thesis are being evaluated by an Evalua}on Commi琀琀ee where External Expert from renowned ins}tu-
+}ons/organiza}ons like IITs, NITs, ONGCs are present to evaluate the works being carried out by the scholar
+under the supervision of a faculty member.
+The detailed evalua}on system is available in M.Tech Rules and Regula}on, 2017, which are found in our
+website of NIT Agartala (www.nita.ac.in).
+Lab Facili琀椀es
+Exclusive Ar}昀椀cial Intelligence Lab dedicated for the specializa}on.
+Placements and Internships: The ins琀椀tute is having dedicated training and placement department named
+Career Counseling Department (CCD) though which students are being provided training, placements.
+Previous batches having 100% Placement and ongoing students having internship in companies like Intel,
+Google etc.
+
+--- Page 8 ---
+Page| 8
+Course structure for M.Tech in
+Artificial Intelligence
+Department of CSE, NIT Agartala
+Semester Subject L T P Cr. Class Marks
+Hours per
+week
+First Advanced Data Structures and Algorithms 3 1 0 4 4 100
+Ar}昀椀cial Intelligence 3 1 0 4 4 100
+Computa}onal Methods of Op}miza}on 3 1 0 4 4 100
+Elec}ve, I 4 0 0 4 4 100
+Stochas}c Models and Applica}ons
+Natural Language Processing
+So昀琀 compu}ng
+Data Mining
+Pa琀琀ern Recogni}on
+Elec}ve, II 4 0 0 4 4 100
+Expert Systems
+Computer Vision
+Wireless Communica}on Network
+Informa}on Retrieval
+AI for Cyber Security
+Laboratory I (Advanced Data Structures and Al- 0 0 2 2 3 100
+gorithms)
+Laboratory II (Ar}昀椀cial Intelligence) 0 0 2 2 3 100
+Seminar 0 0 1 1 2 100
+17 3 5 25 28 800
+Total
+Second Robo}cs and automa}on 3 1 0 4 4 100
+Machine Learning 3 1 0 4 4 100
+Computa}onal Linear Algebra 3 1 0 4 4 100
+Elec}ve, III 4 0 0 4 4 100
+Agent based intelligent system
+Deep learning
+Data Visualiza}on
+Human Computer Interac}on
+Embedded and Real}me System
+-
+Laboratory I (Robotics and Automation 0 0 2 2 3 100
+Lab)
+-
+Laboratory II(Machine Learning) 0 0 2 2 3 100
+Project Preliminaries 0 0 3 3 6 100
+Comprehensive Viva 0 0 2 2 0 100
+Total 13 3 9 25 28 800
+
+--- Page 9 ---
+Page| 9
+Course structure for M.Tech in
+Artificial Intelligence
+Department of CSE, NIT Agartala
+Se- Subject L T P Cr. Class Marks
+me Hours
+ster per
+week
+-
+3 Project and Thesis Work I 0 0 10 10 FULL 100
+*Students may go for industrial or inter in-
+stitute collaboration, based Project work for
+6 months to 1 year. The DPPC and con-
+cerned local guide may be empowered to
+recommend such provision.
+All existing academic rules of institute will
+prevail. The exact modalities may be recom-
+mended by DPPC.
+Total 0 0 10 10 100
+Semester Subject L T P Cr. Class Marks
+Hours
+per
+week
+-
+4 Project and Thesis Work II 0 0 20 20 FULL 300
+*Students may go for industrial or
+inter institute collaboration, based
+Project work for 6 months to 1 year.
+The DPPC and concerned local guide
+may be empowered to recommend
+such provision.
+All existing academic rules of insti-
+tute will prevail. The exact modalities
+may be recommended by DPPC.
+Total 0 0 20 20 300
+Cumulative credit of the course
+Semester-I 17 3 5 25 28 800
+Semester -II 13 3 9 25 28 800
+Semester -III 0 0 10 10 Full 100
+Semester -IV 0 0 20 20 Full 300
+Total 30 6 44 80 2000
+
+--- Page 10 ---
+Page| 10
+Testimonial of Students
+NIT Agartala is a place of great opportuni}es with an excellent learning environment. The master’s program in Com-
+puter Science and Engineering provides a wide range of research areas to explore, along with advanced knowledge of
+core subjects. The faculty members are very suppor}ve and always encourage the students to strive for excellence.
+The departmental workshops, seminars, conferences etc. present a plavorm for gaining prac}cal knowledge and col-
+-
+labora}ng with experts around the world. Along with the well structured academic curriculum, the various cultural
+and sports ac}vi}es provide a balanced environment for the students. I am thankful for the support and mentorship
+-
+from the faculty members and the research oriented program structure, which paved my way to pursue higher studies
+and achieve bigger goals.
+Dr. Mitali Sinha, 2016 Batch M.Tech Gold Medallist
+NITA is a great spot in terms of learning and polishing the skills of an individual. The facul}es put tre-
+mendous amount of e昀昀orts to make the courses more industrial oriented which help the students to
+survive in this compe}}ve world. As a part of m.tech program I had an opportunity to work as a teach-
+ing assistant under Prof Suman Deb who has been a mo}va}on throughout my journey.
+Suraksha, 2017 Batch M.Tech Gold Medallist
+Tutan Nama, presently I am a research scholar at IIT Kharagpur in the CSE Department. My area of reasearch in
+
+--- Page 11 ---
+Page| 11
+Looking towards future and beyond
+For admission related details please visit
+https://nita.ac.in/NITAmain/admission/mtechadmission.html
+For any query feel free to contact program Coordinator:
+Dr. Suman Deb
+Assistant Professor
+Computer Science and Engineering Department
+Associate Dean Academic,
+Chairman Institute Innovation and Startup
+National Institute of Technology Agartala
+Tripura , India-799046
+Phone: +91-9436459622 Email: sumandeb.cse@nita.ac.in
+h琀琀ps://sumandeb.com/
+Disclaimer: Any spelling mistake or content misplaced is to be considered uninten}onal human error. In few cases used openly availa-
+ble vector graphics from web source. No copyright on graphics design is claimed.

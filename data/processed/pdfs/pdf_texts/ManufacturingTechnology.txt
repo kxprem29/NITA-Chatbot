@@ -1,0 +1,1938 @@
+
+--- Page 1 ---
+M. TECH.
+MANUFACTURING TECHNOLOGY
+SYLLABUS
+FOR
+CREDIT BASED CURRICULUM
+DEPARTMENT OF MECHANICAL
+ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY
+AGARTALA – 799046, INDIA
+Page 1 of 65
+
+--- Page 2 ---
+M. Tech: Manufacturing Technology (Syllabus Structure)
+Program: M.Tech. Manufacturing Technology
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+First Semester
+1 Physics of Manufacturing Processes 4 3-1-0 100
+Numerical Analysis and Computer
+2 4 3-1-0 100
+Programming
+3 Advanced Material and Processing 4 3-1-0 100
+4 Elective I 4 3-1-0 100
+5 Elective II 4 3-1-0 100
+6 CAD/CAM Laboratory 2 0-0-3 100
+7 Welding Laboratory 2 0-0-3 100
+8 Technical Writing and Seminar 1 0-0-2 100
+Total 25 28 800
+Second Semester
+1 Machining Science 4 3-1-0 100
+2 Non-Conventional Machining Processes 4 3-1-0 100
+3 Elective III 4 3-1-0 100
+4 Elective IV 4 3-1-0 100
+5 Robotics and Mechatronics Laboratory 2 0-0-3 100
+6 Non Traditional Machining Laboratory 2 0-0-3 100
+7 Project Preliminary 3 0-0-6 100
+8 Comprehensive Viva Voce 2 0-0-0 100
+Total 25 28 800
+Third Semester
+1 Project and Thesis – 1 10 0-0-0 100
+Fourth Semester
+1 Project and Thesis – 2 20 0-0-0 300
+Total Credit 80 Total Marks 2000
+Page 2 of 65
+
+--- Page 3 ---
+Electives (M.Tech. Manufacturing Technology)
+Elective I
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Metal Casting 4 3-1-0 100
+2 Laser Technology 4 3-1-0 100
+Elective II
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Production Planning and Control 4 3-1-0 100
+2 Quality Systems Engineering 4 3-1-0 100
+3 Supply Chain Management 4 3-1-0 100
+4 Advanced Optimization Techniques 4 3-1-0 100
+Elective III
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Product Design & Development 4 3-1-0 100
+2 Additive Manufacturing Technology 4 3-1-0 100
+Modeling and Simulation of Manufacturing
+3 4 3-1-0 100
+Processes
+4 Welding Technology 4 3-1-0 100
+Elective IV
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Metal Cutting 4 3-1-0 100
+2 Machine Tool Design 4 3-1-0 100
+3 Ergonomics and Industrial Manufacturing 4 3-1-0 100
+4 Robotics 4 3-1-0 100
+PROGRAMME OUTCOMES (POs)
+Manufacturing Technology post graduate students will have
+PO1 :An ability to independently carry out research /investigation and development work to solve
+practical problems of Manufacturing Technology.
+PO2 :An ability to write and present a substantial technical report/document
+PO3 :Students should be able to demonstrate a degree of mastery in the area of Manufacturing
+Technology. The mastery should be at a level higher than the requirements in the bachelor program of
+Mechanical Engineering
+PO4: An ability to use research-based knowledge viz identification, analysis and interpretation for
+solution of problems related to manufacturing field.
+Page 3 of 65
+
+--- Page 4 ---
+PO5: An ability to apply the acquired knowledge to design / develop mechanical equipment and
+systems considering environmental, socio-economic and ethical issues.
+PO6: An ability to contribute significantly towards elucidation of industrial problems in the domain of
+manufacturing technology.
+PROGRAMS SPECIFIC OUTCOMES (PSOs)
+PSO1: Manufacturing Technology Post Graduate Students will have competency in conventional /
+advanced manufacturing domain.
+PSO2: Develop research attitude towards interdisciplinary and integrated approach to cater the need
+of manufacturing environment.
+Page 4 of 65
+
+--- Page 5 ---
+FIRST SEMESTER
+PHYSICS OF MANUFACTURING PROCESSES
+Semester: 1st Credit: 4
+Course code and Name: Physics of Manufacturing Processes L T P 3 1 0
+Course Objectives:
+1) The main objective of this course is to emphasize the importance of manufacturing sciences in
+day-to-day life, and to study the basic manufacturing processes from the point of view of
+underlying physics.
+2) The course is designed to help students understand traditional manufacturing processes such as
+rolling, wire drawing, extrusion, forging, and machining.
+Syllabus Content
+Module 1:
+Introduction of manufacturing processes from the point of view of underlying physics. Stresses and
+Strain: stress and strain behavior of materials, plastic and tangent modulus, work hardening, plastic
+instability in tensile test, empirical stress-strain equations, effect of pressure, strain-rate and
+temperature, analysis of stress tensor, eigen values, decomposition into deviatoric and hydrostatic
+components, octahedral stresses, analysis of strain and strain rates, stress equilibrium and virtual work,
+objective stress rates.
+Module 2:
+Plasticity: the criteria of yielding, isotropic and anisotropic hardening, rules of plastic flow,Levy-Mises
+and Prandtle-Reuss equations, anisotropic flow rule, Hill’s 1948 and 1979 yield
+criteria for anisotropic yielding.
+Module 3:
+Upper bound theorem and its application in processes like rolling, wire drawing, extrusion, forging and
+machining. Lower bound theorem with a few applications. Slab method and its application in process
+like asymmetric rolling, forging, wire drawing andextrusion.
+Module 4:
+Elastoplastic sheet bending and analysis of auto frettaging.
+Module 5:
+Theory of slipline field and its application in metal forming and machining. Heat transfer analysis in
+manufacturing. Workability and dynamic materials model.
+Page 5 of 65
+
+--- Page 6 ---
+Text Books:
+i) Mikell P. Groover, Fundamentals of Modern Manufacturing: Materials, Processes, and
+Systems.
+ii) Physical Metallurgy by Dieter.
+iii) Manufacturing Technology by P.N. Rao., MCGRAW HILL INDIA.
+iv) "Manufacturing Science" A. Ghosh, and A. K. Mallik, Affiliated East-West Press Pvt. Ltd.
+New Delhi.
+v) J. Chakrabarty, Theory of plasticity, Elsevier Butterworth-Heinemann Company,
+Singapore, 2006.
+Reference Books:
+i) "Materials and Processes in Manufacturing" (8th Edition), E. P. DeGarmo, J. T Black, R. A.
+Kohser, Prentice Hall of India, New Delhi.
+ii) SeropeKalpakjian, Manufacturing engineering and Technology, Edition III - Addision-
+Wesley Publishing Co., 1995.
+iii) Manufacturing Processes by Kaushish, PHI.
+iv) “Introduction to Manufacturing Processes” by Schey J
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 To understand the basic mechanisms of manufacturing processes &
+implement various material testing methods for detection of surface 1
+& subsurface defects and mechanical properties.
+2 To understand the plasticity phenomenon of materials & Levy-
+2
+Mises and Prandtle-Reuss equations.
+3 To Understand and analyze upper and lower bounds theorems, as
+well as their applications in rolling, wire drawing, extrusion, forging, 3
+and machining operations.
+4 To understand the method for increasing the fatigue strength of
+components for use at high and pulsating pressures & linear 1,4
+incremental stress strain relations for strain hardening.
+5 To understand and analyze the heat transfer characteristics in
+manufacturing processes & the physics of the slipline field and how 5
+it's used in metal forming and machining.
+Page 6 of 65
+
+--- Page 7 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 3 2 3 2 2 1 2
+CO-2 2 1 3 1 2 1 2 1
+CO-3 3 2 2 2 2 3 2 2
+CO-4 3 2 3 2 2 2 1 2
+CO-5 2 3 2 3 2 2 2 2
+Page 7 of 65
+
+--- Page 8 ---
+NUMERICAL ANALYSIS AND COMPUTER PROGRAMMING
+Semester: 1st Credit: 4
+Course Code and Name: Numerical Analysis and Computer L T P 3 1 0
+Programming
+Course Objectives:
+1) To be familiar with numerical solution of equations.
+2) To get exposed to finite differences and interpolation.
+3) To be through with the numerical Differentiation and integration.
+4) To find numerical solutions of ordinary differential equation.
+5) To find numerical solutions of partial differential equation.
+Syllabus Content
+Module 1:
+Approximation and round off errors; Truncation errors and Taylor series. Determination of roots of
+polynomials and transcendental equations by Newton- Raphson, Secant and Barstow’s method.
+Solution of linear simultaneous algebraic equations by Gauss elimination and Gauss-Siedel iteration
+methods.
+Module 2:
+Curve fitting; Linear and non-linear regression analysis. Finite Difference Method: Backward;
+Forward and central difference relations and their uses in numerical differentiation and integration;
+Application of different relations in the solution of partial differential equations, Introduction of
+Finite Element Method. Numerical solution of ordinary differential equations by Euler; modified
+Euler, Runge-Kutta and predictor-corrector method.
+Module 3:
+Introduction to computer programming in C and C++ languages: Arithmetic expressions; Simple
+programs Example of some C programs; Dissection of the program line by line; Concept of
+variables; Program statement and function calls from the library. C datatypes: int, char, float etc.
+C expressions, arithmetic operations, relational and logic operations.
+Module 4:
+C assignment statements, extension of assignment to the operation; C primitive input output using
+getchar and putchar; exposure to the scanf and printf function.C statements; conditional execution
+using if, else etc.( Optionally switch and break statements should be mentioned)
+Module 5:
+Concepts of loop; Example of loops in C using for-while and do-while( Optionally continue may be
+mentioned). One dimensional arrays and example of iterative programs using arrays; 2-d arrays; Use
+in matrix computations.
+Page 8 of 65
+
+--- Page 9 ---
+Module 6:
+Concept of sub-programming; Functions; Example of functions; Argument passing mainly for the
+simple variables. Pointers, relationship between arrays and pointers; Argument passing using
+pointers. Array of pointer; Passing arrays as arguments. Strings and C string library. Structure and
+unions; Defining C structure; Passing structure as arguments ( Programexamples) File I/O; Use of
+fopen, fsanf and fprintf routines.
+Text Books:
+i) C.Xavier: C Language and Numerical Methods.
+ii) Dutta& Jana: Introductory Numerical Analysis.
+iii) J.B.Scarborough: Numerical Mathematical Analysis.
+iv) Jain, Iyengar ,& Jain: Numerical Methods (Problems and Solution).
+Reference Books:
+i) Balagurusamy: Numerical Methods, Scitech.
+ii) Baburam: Numerical Methods, Pearson Education.
+iii) N. Dutta: Computer Programming & Numerical Analysis, Universities Press
+Course Outcomes
+CO- Course Outcome Module
+No. Covered
+1 An ability to apply knowledge of mathematics, science, and
+engineering. An ability to design and conduct experiments, as well as 1,2
+to analyze and interpret data.
+2 An ability to design a system, component, or process to meet desired
+needs within realistic constraints such as economic, environmental,
+2.3
+social, political, ethical, health and safety, manufacturability, and
+sustainability. An ability to function on multidisciplinary teams.
+3 An ability to identify, formulates, and solves engineering problems.
+3,4
+An understanding of professional and ethical responsibility
+4 An ability to communicate effectively. The broad education necessary
+to understand the impact of engineering solutions in global, 4,5
+economic, environmental, and societal context.
+5 Recognition of the need for, and an ability to engage in life-long
+learning. Knowledge of contemporary issues. An ability to use the
+techniques, skills, and modern engineering tools necessary for 5,6
+engineering practice.
+Page 9 of 65
+
+--- Page 10 ---
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 2 2 1 1 1 1 2
+CO-2 1 2 1 2 2 2 2 2
+CO-3 2 1 2 3 3 3 2 1
+CO-4 1 2 1 2 2 3 1 2
+CO-5 2 2 2 3 3 2 2 2
+Page 10 of 65
+
+--- Page 11 ---
+ADVANCED MATERIALS & PROCESSING
+Semester: 1st Credit: 4
+Course code and Name: Advanced Materials and Processing L T P 3 1 0
+Course Objectives:
+1) To familiarize with the knowledge of different advanced materials
+2) To study different manufacturing processes of advanced materials
+3) To study the importance of advanced materials and their applications in engineering field
+Syllabus Content
+Module1:
+Introduction of advanced materials and its manufacturing processes for engineering applications.
+Module2:
+Piezoelectric materials (PZT): piezoelectric effect, Di-electric hysterisis, piezoelectric constants,
+piezoelectric charge constants, dynamic behaviour of PZT transducers, piezoelectric materials and
+manufacturing techniques (stability, poling and depolarisation).
+Module3:
+Shape memory alloys (SMA): Shape memory effect and the metallurgical phenomenon of SMA,
+Temperature assisted shape memory effect, Visco-elastic behaviour, magnetic shape memory
+effect. Various shape memory alloys. Manufacturing technology of SMAs.
+Module4:
+Electro rheological (ER) and magneto-rheological (MR) materials: Characteristics of ER and EM
+fluids. ER and EM materials.
+Module5:
+Composite materials: Design and manufacturing of polymer matrix, metal matrix and ceramic matrix
+composites. Various forms and type of reinforcements, fillers and additives. Design of composites for
+structural, wear resistance and high temperature applications. Micro-electromechanical (MEMS)
+systems. Introduction, characteristics of silicon wafers and other materials for MEMS applications.
+Module6:
+Various manufacturing techniques of MEMS components Materials for high temperature
+applications: Ni-Cr alloys, ODS materials, Ni base and Co based super alloys, carbon-carbon
+composites. Diffusion bond coating of high temperature materials.
+Module7:
+Powder metallurgy: Introduction and feature of powder metallurgy processes. Advanced
+solidification techniques: directional solidification, single crystal growth and levitation melting.
+Page 11 of 65
+
+--- Page 12 ---
+TextBooks:
+i) Gandhi, M.V., Thompson, B.S., Smart Materials and Structures, Chapman and Hall
+ii) Ray, A.K. (ed), Advanced Materials, Allied publishers.
+iii) Rama Rao, P. (ed), Advances in Materials and their applications, Wiley Eastern Ltd.
+ReferenceBooks:
+i) R. E. Smallman, A. H.W. Ngan, Physical Metallurgy and Advanced Materials, Butterworth-
+Heinemann (Elsevier)
+ii) Milton Ohring, Engineering Materials Science, Academic Press
+iii) Smart Materials, Edited by Mel Schwartz, CRC Press
+iv) Shape Memory Alloys, Edited By Dimitris C. Lagoudas, Springer Publications
+v) James K. Wessel, Handbook of advanced materials, Wiley Online Library
+CourseOutcomes
+CO-No. Course Outcome Module
+Covered
+1 Provide and understanding about advanced materials and their 1
+applications in engineering field.
+2 Develop a knowledge about advanced materials such as 2, 3, 4, 5
+piezoelectric materials, shape memory alloys, ER, MR and
+composites and their manufacturing techniques and applications
+3 Design materials for different engineering applications 2, 5
+4 Develop a knowledge about materials and their manufacturing 5, 6
+techniques for MEMS applications
+5 Develop a knowledge on coating of high temperature materials, 6, 7
+powder metallurgy process and advanced solidification techniques
+CO-PO Mapping (Rate: scaleof1 to3)
+CourseOutcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO- PSO-
+1 2
+CO-1 2 2 3 1 1 2 2 2
+CO-2 1 2 3 2 2 2 2 3
+CO-3 2 2 3 2 2 2 2 3
+CO-4 2 2 3 1 2 2 3 2
+CO-5 2 2 3 1 2 2 1 2
+Page 12 of 65
+
+--- Page 13 ---
+CAD/CAM LABORATORY
+Semester: 1st Credit: 2
+Course Name: CAD/CAM Laboratory L T P 0 0 3
+Course Objectives:
+1) To create and manipulate geometric models using curves, surfaces and solids.
+2) To create CNC Program for machining automotive engineering and machine tool engineering
+components.
+List of Experiments
+Exp 1 : Construction of 3D models of Machine Tool Components.
+Exp 2 : Construction of 3D models of automotive engineering components.
+Construction of 3D assembly of machine tool and automotive engineering
+Exp 3 : components.
+Exp 4 : Preparation of drafting sheet for parts and assembly along with GD&T.
+Exp 5 : Import and Export of CAD data. (IGES, STEP, Parasolid, STL, etc.)
+Exp 6 : Preparation and Simulation of CAM program for CNC Milling Machine.
+Exp 7 : Machining of Complex Profile using CNC Milling Machine
+Exp 8 : Preparation and Simulation of CAM program for CNC Lathe Machine
+Exp 9 : Machining of Complex Profile using CNC Lathe Machine
+Exp
+10 : Export of ready-to-run CNC-programs with no need for manual editing.
+Course Outcomes:
+At the end of this course, students will be able to
+CO-No. Course Outcome Exp
+1 Create 3D geometric models using Solid Works graphical software 1,2,5
+2 Create 3D assembly drawing using Solid Works graphical software 3,5
+3 Preparation of drafting sheet for Parts and Assembly along with
+4
+GD&T.
+4 Create Programs, simulate and to machine complex profile using
+6,7,8,9
+CNC Machines
+5 Generate codes using CAM Softwares 10
+Page 13 of 65
+
+--- Page 14 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 - 2 3 -
+CO-2 3 - - 2 3 -
+CO-3 3 - - 2 3 -
+CO-4 3 - - 2 3 -
+CO-5 3 - - 2 3 -
+Page 14 of 65
+
+--- Page 15 ---
+WELDING LABORATORY
+Semester: 1st Credit: 2
+Course Name: Welding Laboratory L T P 0 0 3
+Course Objectives:
+1) This Laboratory course is designed to make the student understand and demonstrate the various
+types of welding processes and their variables, testing methods and correlation between micro
+structure and mechanical properties of the welded joints.
+2) To gain knowledge of practical aspects of different welding processes and be able to apply
+them for various engineering applications.
+List of Experiments
+Exp 1: Arc striking practice: Simple exercises to make butt, lap, fillet joints using SMAW, GMAW,
+FCAW and GTAW processes.
+Exp 2: Studying the effect of electrode polarity on weld bead formation.
+Exp 3: Effect of welding parameters on weld bead by
+ GTA welding
+ GMA welding
+ Submerged arc welding
+Exp 4: Studying the effect of heat input on temperature distribution.
+Exp 5: Studying the effect of shielding gases on weld quality
+Exp 6: Evaluating the performance of Power Source Characteristics.
+Exp 7: Studying the effect of welding parameters of various processes such as SMAW, GMAW,
+FCAW, GTAW on bead geometry
+Exp 8: Studying the effect of friction stir welding parameters on weld quality
+Exp 9: To evaluate the microstructure of welded joint and understand the structural difference in Weld
+zone, Heat Affected Zone and Base metal.
+Exp 10: Studying the effect of electrical resistance welding parameters on weld nugget formation.
+Course Outcomes
+CO-No. Course Outcome Exp
+1 Acquire practical knowledge on fusion and solid-state welding
+1,7,8
+processes.
+2 Select process parameters by weld bead on plate trial. 2,3
+3 Understand the effect of welding parameters on quality of welded
+3,4
+joint.
+Page 15 of 65
+
+--- Page 16 ---
+4 Gain knowledge in practical aspects of GTAW, GMAW SAW, FCAW 7
+5 To understand various methods of welding and joining of metals, the
+mechanical behavior of the joint with respect to microstructure and 9
+mechanical properties.
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 1 1 - 2 2 1
+CO-2 2 1 1 2 1 2 2 2
+CO-3 2 3 2 2 2 3 2 2
+CO-4 3 2 1 1 2 3 2 1
+CO-5 3 2 2 3 2 2 2 2
+Page 16 of 65
+
+--- Page 17 ---
+TECHNICAL WRITING AND SEMINAR
+Semester: 1st Credit: 1
+Course Name: Technical Writing and Seminar L T P 0 0 2
+Course Objectives:
+1) To inculcate the habit of performing extensive literature survey to the students.
+2) To make students capable of identifying the relevant topics on which research can be carried
+out
+3) To improve the presentation skills of the students.
+Syllabus Content
+Module 1: Literature survey on the topic given by teacher
+Module 2: Identification of the problem/gap
+Module 3: Presentation of the topic
+Module 4: Submission of technical report
+Course Outcomes
+At the end of this course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Perform extensive literature survey on the problem / topic assigned /
+1
+selected.
+2 Identify the research gap and propose topic for future research
+1,2
+analysis.
+3 Summarize and present their findings based on literature survey. 1,2,3
+4 Summarize and submit a technical report based on literature survey. 1,2,3,4
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 1 3 1 2 2 2 1
+CO-2 3 2 3 2 1 2 2 2
+CO-3 2 3 3 2 2 3 2 2
+CO-4 1 3 3 1 2 3 2 1
+Page 17 of 65
+
+--- Page 18 ---
+SECOND SEMESTER
+MACHINING SCIENCE
+Semester:2nd Credit:4
+Course Name: Machining Science L T P 3 1 0
+Course Objectives:
+1) To know about the Automation and types of Automations in the industries.
+2) To understand the different Automated flow lines in the industries.
+3) To perform one or more processing and /or assembly operations on a starting raw material,
+part, or set of parts.
+4) To perform a sequence of automated or mechanized assembly operations Flexible
+manufacturing system (FMS)
+5) To know about the robotics and its application in Automation.
+Syllabus Content
+Module 1:
+Fundamentals of manufacturing: Production System Facilities, Manufacturing support systems,
+Different types of manufacturing systems, Automation in Production systems,
+ManufacturingOperations,Product, Production Relationships.
+Module2:
+Automation Principles & Strategies, concept of automation; types of automation;
+flexibility,degree, level and yardstick of automation; Components of automation: Sensors,
+Actuators andinputoutput devices. Group Technology, Line Balancing
+Module 3:
+Industrial Control: Industrial Control Systems, Mechanical, Electrical, Hydraulic,
+Pneumatic,electronicandhybridsystems.Conceptsfeatures&parametersgoverningtheSelectionofvariousc
+omponentsNecessaryfor Building theelements.
+Module 4:
+Fundamentals of Production Lines, Types of Assembly Lines, Transfer Devices and
+machines,Feedersand its classification, Parts feeding Devices.Average production time and production
+rate; Line efficiency; Analysis of transfer lines; Design for automated assembly; Transfer systems;
+Vibratory bowl feeders – its analysis; Nonvibratory feeders and their analysis; Analysis and design of
+part orienting devices, feed tracks and part placing mechanisms.
+Module 5:
+PLC: Discrete Control using PLC & PLC network, Introduction, Micro PLC, Programming a PLC,
+Logic Functions, input & output Modules.
+Module 6:
+Robot I/O interfacing will be discussed including interfacing to sensors and end effectors.
+Robotprogramming using a teach pendant will be cover including applications for; pick and
+Page 18 of 65
+
+--- Page 19 ---
+place,dispensing,decision making, machine tending, andpalletizing of product.
+TextBooks:
+i) Automation, Production Systems and Computer Integrated Manufacturing, M.P.
+Groover, Pearson Education.
+ii) Industrial Automation: W.P. David, John Wiley and Sons.
+iii) Handbook of design, manufacturing & Automation: R.C. Dorf, JohnWileyand Sons.
+ReferenceBooks:
+i) NickDawkins-AutomationandControls
+ii) Peter G.Martin and Gregory Hale-Automation Made Easy
+iii) A.K. Gupta, S. K. Arora- Industrial Automation and Robotics
+CourseOutcomes
+CO-No. Course Outcome Module
+Covered
+1 Illustratethebasic conceptsofautomationinmachinetools. 1,2
+2 Analyze various automated flow lines, explain assembly systems and
+line balancing methods. 2,4
+3 Describetheimportance ofautomatedmaterialhandlingandstorage
+Systems. 3,4
+4 Knowledge about various components of automation like sensors,
+actuators, PLC. 2,5
+5 Interprettheimportance ofadaptivecontrolsystems,automatedin 6
+section systemsby using robots.
+CO-POMapping(Rate: scaleof1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 2 2 1 1 1 2 1
+CO-2 2 2 2 3 3 3 2 2
+CO-3 2 2 2 2 3 3 2 1
+CO-4 2 2 2 2 3 3 2 1
+CO-5 2 2 2 2 3 3 2 2
+Page 19 of 65
+
+--- Page 20 ---
+NON-CONVENTIONAL MACHINING PROCESSES
+Semester: 2nd Credit: 4
+Course Name: Non-Conventional Machining Processes L T P 3 1 0
+Course Objectives:
+1) The objective of this course is to provide the students the knowledge of modern manufacturing
+processes such as Ultrasonic machining, Abrasive machining processes, Electrochemical
+machining, Electro discharge machining etc.& their modifications into hybrid processes.
+2) To learn advanced topics such as Laser beam welding/machining, Electron beam
+welding/machining & state of art in various research areas.
+Syllabus Content
+Module 1:
+New Technology, Introduction, Mechanical Processes, Abrasive jet Technology, Ultrasonic
+machining, whirling jet machining. undamental principles, process parameters, characteristics, Tool
+design, Metal removal rate-analysis, important part design, Analysis of the Process.
+Module 2:
+Chemical and Electro-chemical machining –Introduction. Principles & scheme, Process parameters,
+metal removal rate, dynamic and hydro-dynamic & hydro-optimization,electrolytes.
+Module 3:
+EDM: Introduction-basic principles & scheme, circuitry controls, metal removal rate, machining
+accuracy, optimization, selection of tool material and tool design, Di-electric, Analysis.
+Module 4:
+Laser Beam Machining & Electron beam machining back ground, production of Laser, machining by
+Laser and other applications, Electron beam action, Dimensionless analysis to establish correlation,
+behavior EBM parameters. High Velocity forming of metals, explosive forming principles and
+applications, Electro-hydraulic and other applications, Analysis of the process.
+Text Books:
+i) Manufacturing science by Ghosh and Mallick.
+ii) “Advanced Machining Processes” V.K. Jain, Allied Publishers Pvt. Ltd.
+iii) Modern machining process Pandey and Shah TATA McGraw Hill 2000.
+iv) Unconventional Manufacturing process M K Singh New age publications ISBN 978-81- 224-
+2244-3.
+Page 20 of 65
+
+--- Page 21 ---
+Reference Books:
+i) Production Technology HMT TATA McGraw Hill – 2001
+ii) Thermal Metal cutting processes B G Ranganath I K International Publishing house Pvt. Ltd.
+iii) Non traditional machining by P.K Mishra.
+iv) Benedict. G.F. “Nontraditional Manufacturing Processes”, Marcel Dekker Inc., New
+York,1987.
+v) McGeough, “Advanced Methods of Machining”, Chapman and Hall, London, 1998.
+vi) Fundamentals of Machining and Machine Tools R.K.Singal I K International Publishing house
+Pvt. Ltd
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 To categorize different material removal and joining processes as per
+the requirements of the material being used to manufacture the end 1
+product.
+2 To select material processing techniques with the aim of cost
+reduction, reducing material wastage & machining time. 2
+3 To implement water energy, electro-magnetic, electro-discharge and
+explosive energy for the forming process and the high energy beam 3
+for the welding process.
+4 Identifying the process parameters influencing product quality in
+various advanced metals, nonmetals, ceramics, and composites 2,4
+machining.
+5 Different processes are hybridized in order to produce high-quality
+1,2,4
+products.Merits and demerits of different processes.
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 2 2 1 2 1 2
+CO-2 2 2 1 3 2 2 2 3
+CO-3 2 1 2 2 1 2 1 2
+CO-4 2 2 1 2 2 3 2 2
+CO-5 3 2 2 1 1 2 2 1
+Page 21 of 65
+
+--- Page 22 ---
+ROBOTICS AND MECHATRONICS LABORATORY
+Semester: 2nd Credit: 2
+Course Name: Robotics and Mechatronics Laboratory L T P 0 0 3
+Course Objectives:
+1) To impart basic knowledge and importance on Robotics and Mechatronics in Engineering
+Fields among the students.
+2) To create the awareness on Robotics and Mechatronics in Research and Application area.
+List of Experiments
+Exp 1: To Study Robot motion in Cartesian, cylindrical and spherical co-ordinate system.
+Exp 2: To study the pick and place motion on five axes robot.
+Exp 3: Study of making a program on Labview with Push Button and Round LED.
+Exp 4: Study of making a program on Labview with Loop and Logical function.
+Exp 5: Study of making a program on Labview for Sound Accusation and again play.
+Exp 6: Study of making a program on Labview for Comparison.
+Exp 7: Study of making a program on Labview for power control of a DC motor.
+Exp 8: Study of making a program on Labview for Temperature Acquisition.
+Exp 9: Study of making a program on Labview for Voltage Acquisition.
+Exp 10: Study of making a program on Labview for Current Acquisition.
+Course Outcomes
+CO-No. Course Outcome Exp
+1 Robot motion in cartesian, cylindrical and spherical co-ordinate system. 1
+2 Programming and control of five axis robots. 2
+3 Programming for sound, temperature, voltage and current acquisition. 5,8,9,10
+4 Programming for comparison and power control of DC motor. 6,7
+5 Following features in Lab view software: While Loops, Plotting,
+4
+SubVIs, Case Structures, Arrays, Clusters
+6 Knowledge will be gained on application and utility of Robotics and
+1-10
+Mechatronics used in various sectors and fields.
+Page 22 of 65
+
+--- Page 23 ---
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 2 2 3 3 3 3
+CO-2 2 2 2 3 3 2 3 3
+CO-3 3 2 3 2 3 3 3 3
+CO-4 2 2 2 3 3 2 3 3
+CO-5 2 2 2 2 3 3 3 3
+CO-6 2 2 3 3 3 2 3 3
+Page 23 of 65
+
+--- Page 24 ---
+NON-TRADITIONAL MACHINING LABORATORY
+Semester: 2nd Credit: 3
+Course Name: Non Traditional Machining Laboratory L T P 0 0 3
+Course Objectives:
+1) Acquire a functional understanding of non-traditional machining processes.
+2) Know about various process parameters and their influence on performance and their
+applications.
+3) Understand the terminology used in non-traditional manufacturing industries.
+List of Experiments
+Exp 1: To study die sinking EDM and wire cut EDM.
+Exp 2: To study Ultra-sonic machining process.
+Exp 3: To study Plasma arc machining process.
+Exp 4: To study of Electrochemical machining process.
+Exp 5: To study of Chemical Machining process.
+Exp 6: To study experiment onHigh-Energy-Beam Machining
+– Laser-beam machining (LBM)
+– Electron-beam machining (EBM)
+Exp 7:To study influence of process parameters in Water-Jet Machining.
+Exp 8: To study effect of process parameters in Abrasive-Jet Machining.
+Course Outcomes
+CO-No. Course Outcome Exp
+1 Broad understanding of machining using different energy sources. 1,6
+2 Understand the concept of machining the hard material using
+4,5
+chemical energy and electrochemical energy.
+3 Able to implement the mechanical energy, chemical, water and
+4,5,7
+electrochemical based unconventional machining process.
+4 To identify the process parameters affecting the product quality in
+6,7,8
+various advanced machining
+5 Able to think about the possibility of combining different processes to
+1,2,3,5,6,7
+develop a more efficient machining process.
+Page 24 of 65
+
+--- Page 25 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 1 2 1 2 1 1
+CO-2 3 2 1 1 2 2 2 -
+CO-3 2 3 2 2 1 3 2 2
+CO-4 3 2 2 2 1 2 2 2
+CO-5 3 2 1 2 1 2 2 2
+Page 25 of 65
+
+--- Page 26 ---
+COMPREHENSIVE VIVA
+Semester: 2nd Credit: 4
+Course Name: Comprehensive Viva L T P 0 0 0
+Course Objectives:
+1) To assess the overall knowledge of the student in the field of Manufacturing Technology
+acquired over one year of study in post graduate program.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+1 Comprehend any given problem / concept related to Manufacturing Technology
+domain.
+2 Recall, recognize, visualize, demonstrate, criticize and appraise the concepts related to
+Manufacturing Technology domain.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 1 3 1 2 2 2 1
+CO-2 3 2 3 2 1 2 2 2
+Page 26 of 65
+
+--- Page 27 ---
+PROJECT PRELIMINARY
+Semester: 2nd Credit: 6
+Course Name: Project Preliminary L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in the
+respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+1 Undergo literature survey in the chosen field of research
+2 Approach and identify a research problem and able to analyze the scope of research
+3 Develop a research methodology to proceed with the research
+4 Summarize and Present a technical presentation with proper reference
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 1 3 1 2 2 2 1
+CO-2 3 1 3 2 1 2 2 2
+CO-3 3 3 3 2 2 3 2 2
+CO-4 1 3 3 1 2 3 2 1
+Page 27 of 65
+
+--- Page 28 ---
+THIRD SEMESTER
+PROJECT AND THESIS-I
+Semester: 3rd Credit: 12
+Course Name: Project and Thesis – I L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in the
+respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Intensive literature survey and identify the research problems related to Material
+1
+Science and Engineering.
+2 Communicate and discuss research ideas
+3 Develop a systematic model/approach to analyze and solve the research problems.
+4 Outline the past, present and expected outcome based on systematic survey.
+5 Conduct preliminary experiments / theoretical evaluation to certain extent.
+Summarize their survey, research problem identification, approach, ,expected
+6 outcome and attained results with interpretation by means of oral presentation and
+written reports
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 - 3 1 2 1 2
+CO-2 3 2 3 1 2 1 1 1
+CO-3 3 3 2 3 2 2 2
+CO-4 3 3 3 2 3 3 2 1
+CO-5 3 3 1 2 1 1
+CO-6 3 3 3 2 3 1 2 2
+Page 28 of 65
+
+--- Page 29 ---
+FOURTH SEMESTER
+PROJECT AND THESIS-II
+Semester: 4th Credit: 20
+Course Name: Project and Thesis-II L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in the
+respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Survey, approach, identify and demonstrate the research / industrial problems using
+1
+various available modern tools and techniques
+Develop and validate a systematic model/processto analyze and solve the research
+2
+problems.
+Outline the past, present and expected performance / outcome of a material / product /
+3 process / model / system(s) in Engineering domain in confirmation to the standard of
+safety and environmental, economicand ethical yardstick.
+4 Conduct experiments and theoretical evaluation extensively
+Analyze, summarize, inferbased on extensive research and communicate their chosen
+5 domain problems and result optimistically by means of oral presentation and written
+dissertation reports
+Present and publish their findings as technical manuscript in technical conference/
+6
+indexed research journals ethically.
+Page 29 of 65
+
+--- Page 30 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 3 1 1 2 1 2
+CO-2 3 2 3 2 2 1 1 1
+CO-3 3 3 3 2 3 2 2 3
+CO-4 3 2 3 2 3 3 2 2
+CO-5 3 3 3 2 2 1 3 2
+CO-6 2 3 3 3 3 2 3 3
+Page 30 of 65
+
+--- Page 31 ---
+ELECTIVE- I
+METAL CASTING
+Semester: 1st Credit: 4
+Course Name: Metal Casting L T P 3 1 0
+Course Objectives:
+1) To learn about silica, clay and sand.
+2) To learn about metal solidification and super cooling.
+3) To learn freezing of alloys centerline and metals fluidity.
+4) To learn about riser design and effective feeding distances for simple and complex shapes.
+5) To learn about gas aspiration and metal penetration.
+6) To learn fabrication of casting process and non-ferrous die casting.
+Syllabus Content
+Module 1:
+Structure of silica and different types of clays, bonding mechanism of silica – water-
+claysystems. Swelling of clays, sintering adhesion and colloidal clay; silica grain shape and
+sizedistribution standard permeability A.F.S. clay.
+Module 2:
+Characteristics, Ingradients and additives of moulding sand, core sands .
+Module 3:
+Solidifications of Metals, nucleation, free energy concept, critical radius of nucleus.
+Nucleationand growth in metals and alloys.
+Module 4:
+Constitutional super cooling. Columnar equi acquiesced and dendritic structures.
+Module 5:
+Freezing of alloys centre line feeding resistance.
+Module 6:
+Rate of solidification, time of solidification, mould constant.
+Module 7:
+Fluidity of metals, volumes redistribution.
+Module 8:
+Analysis of the process. Riser design shape, size and placement. Effect of appendages on
+risering.
+Module 9:
+Effective feeding distances for simple and complex shapes. Use of chills, gating design,
+fillingtime.
+Page 31 of 65
+
+--- Page 32 ---
+Module 10:
+Aspiration of gases. Top, bottom and inside gating. Directional solidifications stresses
+incastings. Metal mould reactions.
+Module 11:
+Expansion scale and metal penetration.
+Module 12:
+Analysis of the process. Various moulding and casting processes, hot box, cold box process,
+investment, shell moulding, full mould process, die casting, ceramic shell mould, vacuum
+moulding etc.
+Module 13:
+Non-ferrous Die-casting of Aluminium and its alloys, brass and bronze.
+Text Books:
+i) Fundamentals of Metal casting, Flinn, Addison Wesley.
+ii) Principles of Metal casting, Heine, Loper& Rosenthal, McGraw Hill.
+iii) Procuct Design and Process Engineering Practice, Niebel & Draper, Salmon& Simons,
+McGraw Hill Foundry, Issac Pitaman.
+Course Outcomes:
+At the end of this course, students will be able to
+CO-No. Course Outcome Module
+Covered
+1 Silica structure, classification of clay and sand 1, 2
+2 Metal solidification phenomena and super cooling 3, 4, 6
+3 Freezing of alloys centreline and metals fluidity 5, 7
+4 Riser design and effective feeding distances for simple and 8, 9
+complex shapes
+5 Aspiration of gases and metal penetration 10, 11
+6 Fabrication of casting process and non-ferrous die casting 12, 13
+Page 32 of 65
+
+--- Page 33 ---
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 3 3 3 2 3 3
+CO-2 2 2 3 2 3 3 2 3
+CO-3 3 2 3 3 2 2 3 3
+CO-4 2 3 3 3 2 3 2 3
+CO-5 3 3 2 3 3 2 3 2
+CO-6 3 2 3 3 2 3 3 3
+Page 33 of 65
+
+--- Page 34 ---
+LASER TECHNOLOGY
+Semester: 2nd Credit: 4
+Course Name: Laser Technology L T P 3 1 0
+Course Objectives:
+1) To understand the fundamentals of lasers, laser systems, their characteristics and diversified
+applications, including in industry, medicine & defence.
+2) To provide key physical concepts underlying laser and nonlinear optics and their contemporary
+applications with sufficient knowledge to use and understand lasers and nonlinear optical
+processes for research or commercial purposes.
+Syllabus Content
+Module 1:
+Interactionof Lightwith Matter: Laser fundamentals: Spontaneous and stimulated emission,
+absorption,Einstein coefficients, Relation between these coefficients, Lifetime of excited state, Line
+Broadening mechanisms, Population inversion, Threshold condition for Laser, Laser-Rate equations
+for three-level and four-level systems, Conditions for CW and pulsed laser action.
+Module 2:
+Different Population Inversion Techniqueswith Examples: Optically pumped lasers, solid state
+lasers, dye lasers, electrical-discharge pumped lasers, gas lasers, chemical lasers, gas dynamic lasers,
+semiconductor lasers, free-electron lasers, gamma ray lasers, fiber lasers (only introductory description
+of these lasers).
+Module 3:
+Optical Resonators: General considerations, Laser resonators,General conditions of stability, Plane
+and spherical mirror cavities, Modes and optical resonators, Gaussian beam propagation,Theory of Q-
+switching and experimental methods - Theory of Mode locking and experimental methods, Frequency
+stabilization of laser beams, Multimode oscillation.
+Module 4:
+Characteristics of Laser Beams and Applications: Monochromaticity, Spatial & temporal
+coherence, temporal coherence &monochromaticity relation, connection between spatial coherence
+and directionality, rightness, Focus ability, ultra-short pulse generation. Peak Power, Average Power,
+Duty Cycle in Pulsed Lasers.
+Module 5:
+Typesof Lasers: Solid, Liquid and Gas Lasers. Brief description of Ruby, He-Ne, Nd: YAG, Nd:
+glass, Er:glass, Er: YAG, Carbon Dioxide Lasers, Nitrogen Lasers, Semiconductor Lasers. X-Ray
+Lasers, Free-electron Lasers, Fiber Lasers, Femto second Lasers, Raman Lasers.
+Page 34 of 65
+
+--- Page 35 ---
+Module 6:
+Applications of Lasers: General Applications of Lasers including Industry, Defence, Medicine,
+Entertainment, laser cutting, machining, drilling, forming, sintering, heat treatment, alloying, cladding,
+marking etc.
+Text Books:
+i) Laser Principles, Types and Application by KR Nambiar, New Age International.
+ii) Modern Spectroscopy by J Michael Hollas, Fourth Edition, John Wiley and Sons.
+iii) Lasers: Theory and Applications : A K Ghatak and K Thyagarajan, McMillan, 2003.
+Reference Books:
+i) Lasers Theory and Applications by K. Thyagarajan and A.K. Ghatak, Mcmillan (1981).
+ii) Laser Fundamentals, by William T. Silfvast, Cambridge University Press, 2008.
+iii) Principles of Lasers, by Orazio Svelto; Springer, 2009.
+iv) Laser Spectroscopy and Instrumentation by W. Demtroder.
+v) Industrial Applications of Lasers, by K. Koebner (ed.), Wiley (1984).
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 To describe and explain fundamental concepts in laser physics. 1
+2 To compare the functions and properties of a number of common
+2
+lasers.
+3 Have an understanding of phase matching, second order nonlinear
+3
+processes and the key physical concepts underlying nonlinear optics.
+4 Be able to match laser properties and laser systems to best fit
+4,5
+application needs.
+5 To know key laser applications and commercially important lasers. 6
+Page 35 of 65
+
+--- Page 36 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 1 2 1 2 2 1 2
+CO-2 1 2 1 2 1 2 1 2
+CO-3 3 2 2 2 1 2 2 1
+CO-4 2 3 1 2 2 3 2 2
+CO-5 3 2 1 3 2 3 1 2
+Page 36 of 65
+
+--- Page 37 ---
+ELECTIVE II
+PRODUCTION PLANNING & CONTROL
+Semester:1st Credit:4
+Course Name: Production Planning and Control L T P 3 1 0
+CourseObjectives:
+1) Understand the requirement of production planning and control for manufacturing
+organizations.
+2) Develop skills to estimate and use appropriate planning and control techniques.
+3) Ability to evaluate, analyze and make decisions for short term as well as long term
+organizational growth
+4) To develop an ability to apply PPC concepts in a various areas like marketing, accounting,
+finance, engineering, personnel management, logistics, etc.
+5) To understand the problems and opportunities faced by the operations manager in
+manufacturing and service organizations.
+Syllabus Content
+Module1:
+INTRODUCTION: Definition – Objectives of production Planning and Control – Functions of
+productionplanning and control – Elements of production control – Types of production –
+Organizationof production planning and control department – Internal organization of department.
+Module2:
+FORECASTING: Importance of forecasting –Types of forecasting, their uses –General principles
+ofForecasting –Forecasting techniques– qualitative methods- Jury/Expert Method, Survey ofExpert
+opinion method , Sales force composite method, Survey of buyers intention methodand quantitative
+methods-Simple average, moving average, smoothing coefficient, LeastSquare method.
+Module3:
+INVENTORY MANAGEMENT: Functions of inventories – relevant inventory costs – ABC analysis
+– VED analysis – EOQmodel – Inventory control systems – P–Systems and Q-SystemsIntroduction to
+MRP-I, MRP-II & ERP, JIT inventory, Kanban system
+Module4:
+SCHEDULING: Definition – Activities-Difference with loading, Scheduling types: Forward,
+Backwardscheduling, Job shop scheduling methods – Arrival pattern, processing pattern, number of
+workers available, machine varieties available, Priority rules for job sequencing FIFO, SPT,SOT,
+Page 37 of 65
+
+--- Page 38 ---
+EDD, STR, CR, LISO, Random Orders. Scheduling Techniques Gantt Charts, LOB,Johnson’s job
+sequencing rules- n jobs on 2machines, n jobs on 3 machines, n jobs on machines.
+ROUTING: Definition – Routing procedure –Route sheets – Bill of material – Factors affecting
+routingprocedure.
+Module5:
+DISPATCHING: Centralized and Decentralized Dispatching- Activities of dispatcher – Dispatching
+procedure– follow-up – definition – Reason for existence of functions – types of follow up,
+applicationsof computer in production planning and control.
+Module6:
+MATERIALS MANAGEMENT: Materials purchasing, quotations, Rate controls; Introduction to
+value analysis.
+TextBooks:
+i) Samuel Eilon, “Elements of Production Planning and Control”, Universal
+PublishingCorporation.
+ii) Baffa&RakeshSarin , “Modern Production & Operations management”, 8th edition, John
+Wiley.
+iii) Jain K.C &Aggarwal L.N, “Production Planning and Control & Industrial Management”,
+Khanna Publishers.
+ReferenceBooks:
+i) S.N. Chary, “Production & Operations Management”, (4th Edition), TMH.
+ii) Martin K. Starr and David W. Miller ,“Inventory Control Theory and Practice”, Prentice Hall.
+iii) Dr. C. Nadha Muni Reddy and Dr. K. VijayaKumarReddy “Reliability Engineering & Quality
+Engineering”, Galgotia Publications, Pvt., Limited.
+iv) S.k Sharma, savita Sharma, “A Course in Industrial Engineering and Operations Management”,
+Tata McGraw Hill publications.
+Page 38 of 65
+
+--- Page 39 ---
+CourseOutcomes
+CO-No. Course Outcome ModuleC
+overed
+1 Recognize the objectives, functions, applications of PPC and 1,2
+forecasting techniques.
+2 Explain different Inventory control techniques.
+3
+3 Discuss about scheduling and routing, solve routing and scheduling
+problems 4
+4 Explain different Dispatching procedure and their applications
+in production planning and control 5
+5 Describe way of different material purchasing techniques, 6
+rate controls.
+CO-POMapping(Rate: scaleof1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 2 2 1 3 2 2
+CO-2 2 2 2 2 1 3 2 2
+CO-3 2 2 2 2 2 3 2 2
+CO-4 2 2 2 2 1 3 1 1
+CO-5 1 2 1 2 2 3 1 1
+Page 39 of 65
+
+--- Page 40 ---
+SUPPLY CHAIN MANAGEMENT
+Semester: 1st Credit: 4
+Course Name: Supply Chain Management L T P 3 1 0
+Course Objectives:
+1. An understanding of the primary differences between logistics and supply chain management
+2. An understanding of the individual processes of supply chain management and their
+interrelationships within individual companies and across the supply chain
+3. An understanding of the management components of supply chain management
+4. An understanding of the tools and techniques useful in implementing supply chain management
+5. Knowledge about the professional opportunities in supply chain management.
+6. Integrate concepts and techniques learned through this course in order to design and efficient
+chain
+Syllabus Content
+Module1:
+Building blocks of a supply chain network. Business processes in supply chains. Types of supply
+chains and examples.Strategic, tactical, and operational decisions in supply chains. Supply chain
+performance measures.
+Module 2:
+Supply chain inventory management: Traditional inventory Management –Inventory Models-
+Inventory Terminology, Base-stock, and (Q, R) models, multi-echelon supply chains, bullwhip effect.
+Module 3:
+Performance modeling of supply chains using Markov chains and queuing networks. Mathematical
+programming models for supply chain planning, design, and optimization.
+Module 4:
+Procurement & Logistics Management in Supply Chain – Introduction to Purchasing cycle –Types of
+Purchases, Classification of Purchase Goods & Services, History & evolution of Logistics –Elements
+of Logistics Management, Distribution Management, Distribution Strategies, Transportation
+Management, Fleet management, Containerization Ware Housing, Packing for Logistics, Third party
+Logistics, 4PL, Technology Components
+Module 5:
+Operations and Demand management in Supply chain: Introduction of Basic Principals of
+manufacturing Management & its System, Role of Production in Business –Mass Production systems,
+Lean Manufacturing Agile Manufacturing, Quick Response Manufacturing (QRM)Key concepts in
+lean Manufacturing & SCM, Mass Customization, stages of manufacturing, Licensing- service
+operations management, Service Operations Optimizations, Types of Demand –Forecasting Approach
+Moving Averages, Customer Order Decoupling Points(CODP), Industries & their Classification,
+Supply Chain Strategy Collaborative planning Forecasting Replenishment Concepts(CPFR)
+Page 40 of 65
+
+--- Page 41 ---
+Module 6:
+Best practice supply chain solutions. Internet-enabled supply chains: e-marketplaces, e-procurement,
+e-logistics, e-fulfilment, customer relationship management, web services, Rosetta net, ERP and
+supply chains, supply chain automation, and supply chain integration.
+Text Books:
+i) Supply Chain Management - Rahul v.Alterkar
+ii) SCM - Sunil Chopra and Peter Meindl
+iii) Richard J. Schonberger, World Class Manufacturing: The Lessons of Simplicity Applied,
+Collier Macmillian, London
+iv) B S Sahay, K B C Saxena and Ashish Kumar, World-Class Manufacturing – A Strategic
+Perspective, Macmillan, Gunn, T.G., Manufacturing for Competitive Advantage: Becoming A
+world Class Manufacturer, Ballinger Publishing, 2007
+ReferenceBooks:
+i) Janat shah , Supply chain Management text & cases
+ii) SarikaKulkarni, Supply chain Management
+iii) Suzaki K, The New manufacturing Challenge: Techniques for Continuous Improvement, Free
+Press, New York.
+iv) Shigeo Shingo, A Revolution in Manufacturing: The SMED System, Stamford, Conn.
+Productivity Press
+Course Outcomes
+CO-No. Course Outcome ModuleC
+overed
+1 Provide a basic understanding about supply chain. 1
+2 Understand the decision phases and apply competitive and supply 3, 4, 5
+chain strategies
+3 Understand the role of aggregate planning, inventory, IT and 2, 4,5
+coordination in a supply chain
+4 Understand drivers of supply chain performance 3,4, 6
+5 Develop insights into Supply chain management concepts and its 2,3,4,5,6
+impact on Business
+Page 41 of 65
+
+--- Page 42 ---
+CO-PO Mapping (Rate: scale of 1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 1 3 1 1 2 1 2
+CO-2 3 3 2 2 3 1 2 3
+CO-3 2 2 3 3 2 2 3 3
+CO-4 3 1 3 3 3 2 3 3
+CO-5 3 2 3 3 2 3 2 3
+Page 42 of 65
+
+--- Page 43 ---
+ADVANCED OPTIMIZATION TECHNIQUES
+Semester: 1st Credit: 4
+CourseName:AdvancedOptimizationTechniques L T P 3 1 0
+CourseObjective:
+1) DescribetheTraditionaloptimizationtechniquesand applyit inengineeringfield.
+2) DistinguishbetweentheNonTraditionaloptimizationtechniquesandapplyitinengineeringf
+ield.
+Syllabus Content
+Module 1:
+IntroductionEngineering Applications of Optimization-Statement of an Optimization Problem-
+ClassificationofOptimization Problems-Optimization TechniquesPlanning of experiments –
+Steps – Need, Terminology: Factors, levels, variables, experimental error, replication,
+Randomization, Blocking, Confounding
+Module 2:
+Classical Optimization Techniques- Single-Variable Optimization, SingleFactorExperiments-
+ANOVA-Sumofsquares–Completelyrandomizeddesign,Randomized block design, Two and
+three Factor full factorial Designs,2k designs with Two andThreefactors , effect of coding -
+Multivariable Optimization with No Constraints
+MultivariableOptimizationwithEqualityConstraints-MultivariableOptimizationwith
+InequalityConstraints-Transportation
+Module 3:
+Nonlinear Programming I- 1D Minimization Methods-Unimodal Function, Elimination
+Methods-Unrestricted Search, Exhaustive, Dichotomous Search-Interval Halving Method-
+Fibonacci Method-Golden Section Method, Interpolation Methods-Quadratic, Cubic
+Interpolation Method –Direct Root Methods –Newton Method-Quasi-Newton, Secant Method
+Module 4:
+Nonlinear Programming II- Unconstrained Optimization Techniques -Direct Search Methods –
+Indirect Search (Descent) Methods
+Module 5:
+Non-linear Programming III –Constrained Optimization Techniques- Direct Methods- Indirect
+Methods, Geometric Programming, Dynamic Programming, Integer Programming- Integer
+Linear Programming-Stochastic Programming.
+Page 43 of 65
+
+--- Page 44 ---
+Module 6:
+Modern Methods of Optimization- Genetic Algorithms -Simulated Annealing -Particle
+SwarmOptimization -Ant Colony Optimization -Optimization of Fuzzy Systems - Neural-
+Network-BasedOptimization,Practical Aspects ofOptimization
+TextBooks:
+i) KalyanmoyDeb,“OptimizationforEngineeringdesign–algorithms&examples”,PHI, New
+Delhi, 1995.
+ii) Singiresu S.Rao, “Engineering optimization Theory and practices”, John Wiley
+andSons, 1998.
+iii) Garfinkel ,R.S.and Nemhauser,G.L.,“Integer programming”,JohnWiley&Sons,1972
+CourseOutcomes
+CO-No. CourseOutcome(4 to6) ModuleCo
+vered
+1 Todescribeandexplaintradition optimization techniques 1
+2 To ExplainthepracticalimplicationsofDesignof experiments 1
+3 To describe non traditional optimization techniques 3,4,5
+4 Beabletoknow about the modern methods of optimization 6
+5 To be able to perform optimization analysis in real engineering 6
+field.
+CO-POMapping(Rate: scaleof1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 1 2 2 1 1 2 3
+CO-2 1 1 1 2 1 2 1 1
+CO-3 2 1 2 2 3 1 2 2
+CO-4 1 2 1 3 2 1 2 3
+CO-5 3 2 2 2 3 2 3 3
+Page 44 of 65
+
+--- Page 45 ---
+QUALITY SYSTEMS ENGINEERING
+Semester: 1st Credit: 4
+Course Name: Quality Systems Engineering L T P 3 1 0
+Course Objectives:
+1) Study of Quality concepts and Quality controls tools.
+2) Study of TQM, QFD and FMEA for industrial applications.
+3) Study of Quality Improvement Tools.
+4) Understanding of implementation of TQM.
+5) Implementation of TPM.
+6) Study of New Quality concepts like SIX SIGMA, Agile and Lean Manufacturing.
+Syllabus Content
+Module 1:
+INTRODUCTION- Quality – Concept, Different Definitions and Dimensions, Inspection, Quality
+Control, Quality Assurance and Quality Management, Quality as Wining Strategy, Views of different
+Quality Gurus.
+Module 2:
+Total Quality Management TQM:Introduction, Definitions and Principles of Operation, Tools and
+Techniques, such as, Quality Circles, 5 S Practice, Total Quality Control (TQC), Total Employee
+Involvement (TEI), Problem Solving Process, Quality Function Deployment (QFD), Failure Mode and
+Effect analysis (FMEA), Fault Tree Analysis (FTA), Quality Improvement Tools, TQM
+Implementation and Limitations.
+Module 3:
+Introduction to Total Productive Maintenance (TPM): Introduction, Content, Methods and
+Advantages
+Module 4:
+Contemporary Trends:Concurrent Engineering, Lean Manufacturing, Agile Manufacturing, World
+Class Manufacturing, Six Sigma - Basic Concept, Principle, Methodology, Implementation, Scope,
+Advantages and Limitation of all as applicable.
+Text Books
+i) Quality Assurance and Total Quality Management (ISO 9000, QS 9000 ISO 14000) by K C Jain and
+A K Chitale, Khanna Publishers
+ii) Statistical Quality Control by M. Mahajan, DhanpatRai& Co. (P) Ltd.
+iii) Quality Control & Application by B. L. Hanson & P. M. Ghare, Prentice Hall of India
+Page 45 of 65
+
+--- Page 46 ---
+iv) Total Quality Management by Dale H. Besterfield, Carol Besterfield-Michna, Glen H.
+Besterfield and Mary Besterfield-Sacre, Pearson Educaiton
+v) Total Quality Management – Dr. S. Kumar, Laxmi Publication Pvt. Ltd.
+Reference Books:
+i) Total Quality Management: Poornima M. Charantimath, Pearson Education (Singapore) Pte.
+Ltd.
+ii) Managing for Total Quality: N. Logothetis, Prentice Hall of India Pvt. Ltd.
+iii) Competitive Manufacturing Management: John M. Nicholas, Mcgraw Hill
+iv) Managing Quality: Barrie G. Dole, Blackwell publishing
+v) TQM – an integrated approach – Samunel K Ho, Crest pubslishing House.
+vi) Statistical Quality Control by Eugene L. Grant and Richard S. Leavenworth, McGraw-Hill
+Publishing Company Ltd.
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Discuss various dimensions of product and service quality 1
+2 Apply the TQM principals for quality improvement 2
+3 Distinguish between TQM tools and techniques used in Manufacturing
+2
+and Service Sectors
+4 Use QFD tool to design and develop a new product as per customer
+2
+requirements
+5 Explain the concept of Total productive maintenance 3
+6 Summarize the basic concepts in Six sigma relevant to manufacturing
+4
+and service
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO4 PO5 PO6 PSO1 PSO2
+Outcome
+CO-1 1 3 2 1 1
+CO-2 1 2 3 1 2 1 1
+CO-3 1 2 2 1 2 1 1
+CO-4 1 2 2 2 1 1
+CO-5 1 2 2 1 3 1 1
+CO-6 1 2 2 1 3 1 1
+Page 46 of 65
+
+--- Page 47 ---
+ELECTIVE III
+PRODUCT DESIGN AND DEVELOPMENT
+Semester : 2nd Credit:4
+Course Name: Product Design and L T P 3 1 0
+Development
+Course objectives
+1) To impart basic concepts of product design and development processes
+2) To understand the integration of customer requirements in product design and develop ability
+to apply structural approach to concept generation, selection and testing.
+3) To understand various aspects of design such as product architecture industrial design, design
+for manufacturing and economic analysis.
+Syllabus Content
+Module 1:
+Introduction: Characteristics of successful product development, Challenges of product development,
+Structural approach to product development, Adapting generic product development process, Product
+development process flow.
+Module 2:
+Product planning and customer needs: Product planning process, identifying opportunities,
+evaluation and prioritizing projects, resources allocation and plan timing, Pre-project planning,
+Identifying customer needs, gathering of raw data from customers, Interpreting to customer needs and
+establishing of relative importance of needs.
+Module 3:
+Product specifications and concept generation: Processes for establishing target specifications,
+methods for setting the final specifications, concept generation, screening and evaluation methods.
+Module 4:
+Product architecture and industrial design: Methods of establishing product architecture,
+implications of product architecture, introduction to industrial design, study the impact of industrial
+design, Management of industrial design process and its quality assessment.
+Module 5:
+Design for manufacturing and product development economics: Definition, Estimation of
+Manufacturing cost, reducing the component costs and assembly costs, reducing system complexity -
+Prototype basics - Principles of prototyping, planning for prototypes, Economic Analysis of product
+Page 47 of 65
+
+--- Page 48 ---
+development.
+Text Books:
+i) Product Design and Development, Karl T.Ulrich and Steven D.Eppinger, Anita Goyal,
+McGraw –Hill (2008)4th edition (SIE)
+Reference Books:
+i) Kevin Otto & Kristin Wood Product Design: “Techniques in Reverse Engineering and new
+Product Development.” 1 / e 2004 , Pearson Education New Delhi
+ii) www.mhhe.com/sie-ulrich4e
+iii) Clive L.Dym, Patrick Little, “Engineering Design: A Project-based Introduction”, Wiley;
+Fourth edition (1 January 2015)
+Course outcomes
+CO Course outcome Module
+No. covered
+1 Having the understanding of the processes involved in the 1
+product design and development.
+2 Ability to evaluate customer needs and understand project 2
+planning
+3 Ability to formulate product specifications and generate 3
+feasible concepts
+4 Ability to apply industrial design principles in product 4
+development.
+5 Ability to understand the product development for 5
+manufacturability and undertake economic analysis
+CO-PO Mapping (Rate: scale of 1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+3 1 1
+CO-1 3 2 2 1 1
+2 3 1
+CO-2 1 1 2 2 2
+2 1 2
+CO-3 2 2 1 1 2
+2 1 2
+CO-4 2 1 1 1 1
+2 1 2
+CO-5 2 3 3 3 2
+Page 48 of 65
+
+--- Page 49 ---
+ADDITIVE MANUFACTURING
+Semester: 2nd Credit: 4
+Course Name: Additive Manufacturing L T P 3 1 0
+Course Objectives:
+1. Understand the fundamentals for additive manufacturing and how it is different and discuss
+about various types of liquid based, solid based and powder-based AM technologies.
+2. Understand the various types of Pre-processing, processing, post-processing errors in AM.
+Also, to know the various types of data formats and tools used in AM.
+3. Understand the Rapid tooling concepts in Additive Manufacturing
+4. Know the various applications of AM in design analysis, aerospace, automotive, biomedical
+and other fields.
+Syllabus Content
+Module 1:
+Introduction: Prototyping fundamentals: Need for time compression in product development,
+Need for Additive Manufacturing, Historical development, Fundamentals of Additive
+Manufacturing, AM Process Chain, Advantages and Limitations of AM, Commonly used Terms,
+Classification of AM process, Fundamental Automated Processes: Distinction between AM and
+CNC, other related technologies.
+Module 2:
+Liquid-based AM Systems: Stereo lithography Apparatus (SLA): Models and specifications,
+Process, working principle, photopolymers, photo polymerization, Layering technology, laser
+and laser scanning, Applications, Advantages and Disadvantages, Case studies. Solid ground
+curing (SGC): Models and specifications, Process, working principle, Applications, Advantages
+and Disadvantages, Case studies. Poly jet: Process, Principle, working principle, Applications,
+Advantages and Disadvantages, Case studies. Micro fabrication.
+Module 3:
+Solid-based AM Systems: Laminated Object Manufacturing (LOM): Models and specifications,
+Process, working principle, Applications, Advantages and Disadvantages, Case studies. Fused
+Deposition Modeling (FDM): Models and specifications, Process, working principle,
+Applications, Advantages and Disadvantages, Case studies. Multi-Jet Modelling (MJM): Models
+and specifications, Process, working principle, Applications, Advantages and Disadvantages,
+Case studies.
+Page 49 of 65
+
+--- Page 50 ---
+Module 4:
+Powder Based AM Systems: Selective laser sintering (SLS): Models and specifications,
+Process, working principle, Applications, Advantages and Disadvantages, Case studies. Three-
+dimensional Printing (3DP): Models and specifications, Process, working principle,
+Applications, Advantages and Disadvantages, Case studies.
+Module 5:
+Laser Engineered Net Shaping (LENS): Models and specifications, Process, working
+principle, Applications, Advantages and Disadvantages, Case studies. Electron Beam Melting
+(EBM): Models and specifications, Process, working principle, Applications, Advantages and
+Disadvantages, Case studies R19 M.Tech. Advanced Manufacturing Systems Rapid Tooling:
+Introduction to Rapid Tooling (RT), Conventional Tooling Vs RT, Need for RT. Rapid Tooling
+Classification: Indirect Rapid Tooling Methods: Arc Spray Metal Deposition, Investment
+Casting, Sand Casting, 3D Keltool process. Direct Rapid Tooling: Direct AIM, LOM Tools,
+DTM Rapid, Tool Process, EOS Direct Tool Process and Direct Metal Tooling using
+Module 6:
+AM Applications: Application – Material Relationship, Application in Design, Application in
+Engineering, Analysis and Planning, Aerospace Industry, Automotive Industry
+Text Books:
+i) By C. K. Chua, K. F. Leong, C. S. Lim: Rapid Prototyping: Principles and Applications
+ii) Additive manufacturing by C.P PAUL
+Reference
+i) Additive Manufacturing Technologies” by Ian Gibson and David Rosen
+ii) Design for Additive manufacturing by Dr. Tom
+iii) ADDITIVE MANUFACTURING by AmitBandyopadhyay ,Susmita Bose
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Basic of Additive manufacturing, Liquid based AM systems and
+it’s Applications, Solid based AM systems and it’s applications, 1,2,3,4
+Powder based AM systems and it’s Applications
+2 Various case studies on AM and Rapid tooling 5
+3. Study of Rapid Tooling 5
+4 AM industrial applications 6
+Page 50 of 65
+
+--- Page 51 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO4 PO5 PO6 PSO1 PSO2
+Outcome
+CO-1 1 2 2 3 1 3 3 2
+CO-2 1 2 3 3 2 3 3 2
+CO-3 1 1 3 2 3 3 2
+CO-4 1 1 3 3 2 3 3 2
+Page 51 of 65
+
+--- Page 52 ---
+ELECTIVE III
+MODELING AND SIMULATION OF MANUFACTURING PROCESSES
+Semester: 2nd Credit: 4
+Course Name: Modelling and simulation of manufacturing L T P 3 1 0
+processes
+Course Objectives:
+7) To provide knowledge on simulation, simulation steps, parameter estimation and hypothesis.
+8) To provide knowledge on building simulation model how to validation and verification is done.
+9) To provide knowledge on Generation of random variants, variable and some Simulation
+languages.
+Syllabus Content
+Module 1
+System – ways to analyze the system – Model - types of models – Simulation – Definition – Types of
+simulation models – steps involved in simulation – Advantages & Disadvantages. Parameter
+estimation – estimator – properties – estimate – point estimate – confidence interval estimates –
+independent – dependent – hypothesis – types of hypothesis- steps – types 1& 2 errors – Framing –
+strong law of large numbers.
+Module 2
+Building of Simulation model – validation – verification – credibility – their timing – principles of
+valid simulation Modeling – Techniques for verification – statistical procedures for developing
+credible model. Modeling of stochastic input elements – importance – various procedures – theoretical
+distribution – continuous – discrete – their suitability in modeling.
+Module 3
+Generation of random variates – factors for selection – methods – inverse transform – composition –
+convolution – acceptance – rejection – generation of random variables – exponential – uniform –
+weibull – normal Bernoullie – Binomial – uniform – poison. Simulation languages – comparison of
+simulation languages with general purpose languages – Simulation languages vs Simulators – software
+features – statistical capabilities – G P S S – SIMAN- SIMSCRIPT –Simulation of M/M/1 queue –
+comparison of simulation languages.
+Module 4
+Output data analysis – Types of Simulation with respect to output data analysis – warm up period-
+Welch algorithm – Approaches for Steady – State Analysis – replication – Batch means methods –
+Comparisons.
+Page 52 of 65
+
+--- Page 53 ---
+Module 5
+Applications of Simulation – flow shop system – job shop system – M/M/1 queues with infinite and
+finite capacities – Simple fixed period inventory system – New boy paper problem.
+Text Books:
+i) Simulation Modelling and Analysis by Law, A.M. &Kelton, McGraw Hill, 2nd Edition, New
+York, 1991.
+ii) Discrete Event System Simulation by Banks J. & Carson J.S., PH, Englewood Cliffs, NJ,
+1984.
+Reference Books:
+i) Simulation of Manufacturing Systems by Carrie A., Wiley, NY, 1990.
+ii) A Course in Simulation by Ross, S.M., McMillan, NY, 1990.
+iii) Simulation Modelling and SIMNET by Taha H.A., PH, Englewood Cliffs, NJ, 1987.
+iv) N. Viswanadham and Y. Narahari, "Performance Modeling of Automated Manufacturing
+Systems", PHI, New Delhi, 2007.
+Course Outcomes
+CO-No. Course Outcome Module
+At the end of course, student should able to Covered
+1 Define the state of system W.R.T specified performance measures. 1
+2 Identify Dynamic Discrete- event stochastic system. 2
+3 Develop simulation model for the said system 2, 3
+4 Analyze the model and present the results to specified confidence
+4, 5
+level.
+5 Interpret the model and apply the results to resolve critical issues in a
+real world environment. 4, 5
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 1 0 2 1 1 1 2
+CO-2 1 0 0 1 1 2 1 1
+CO-3 2 1 1 2 2 1 2 2
+CO-4 1 2 1 3 2 1 2 3
+CO-5 3 2 2 2 3 2 3 3
+Page 53 of 65
+
+--- Page 54 ---
+WELDINGTECHNOLOGY
+Semester: 1st Credit: 4
+Course Name: Welding Technology L T P 3 1 0
+Course Objectives:
+1) To impart a sound understanding of principles of different fusion welding processes.
+2) To understand the effect of welding parameters on weld quality.
+3) To study the importance of allied welding processes
+Syllabus Content
+Module1:
+Welding Processes: heat flow in welding Basic classification of welding processes, weldability, weld
+thermalcycle, metallurgy of fusion welds, solidification mechanism and microstructural products in
+weldmetal,epitaxial,vcellularanddendriticsolidification,metallurgicalchangesinweldmetal,phasetransf
+ormationduringcoolingofweldmetalincarbonandlowalloysteel,predictionofmicrostructuresandproperti
+esofweldmetal.Heataffectedzone,recrystallizationandgraingrowthofHAZ,gasmetalreaction,effectsofal
+loyingelementsonweldingofferrousmetals.
+Module2:
+The Welding ArcArc efficiency, temperature distribution in the arc; arc forces, arc blow,
+electricalcharacteristicsofanarc,mechanismofarcinitiationandmaintenance,roleofelectrodepolarityonar
+cbehaviour andarcstability,analysisofthearc.
+Module3:
+Arc welding consumables Electrode coatings, classification of coatings of electrodes for
+SMAW,SAWfluxes,roleoffluxingradientsandshieldinggases,classificationofsolidandfluxcodewires.
+Module4:
+Arc Welding power sources Arc welding power sources basic charterstics of power sources
+forvarious arc welding processes, duty cycles, AC, DC welding power source, DC rectifiers, thyristor
+controlled rectifiers, transistorised units, inverter systems. Arc length regulation in mechanized
+welding processes
+Module5:
+Metal Transfer in Arc Welding Mechanism and types of metal transfer, forces affecting
+metaltransfer,modesofmetaltransfer,metaltransferinvariousweldingprocesses,effectiveofpolarityonme
+taltransferandmeltingrate.
+Module6:
+Solid State welding and other Allied processes Theory and mechanism of solid state welding.
+Techniques and scope of friction welding, diffusion welding, coldpressure welding and ultrasonic
+welding. High energy rate welding. Analysis of the Process. Welding Techniques using Radiation
+energy: Technique, scope and application of the electron beam and laser welding processes.
+TextBooks:
+Page 54 of 65
+
+--- Page 55 ---
+i) Richard Little, Welding and Welding Technology, McGraw Hill, (2001), 1st edition.
+ii) H Cary, Welding Technology, Prentice Hall, 1988, 2nd edition.
+iii) S V Nadkarni, Modern Arc Welding Technology, Ador Welding Limited, 2010, New Delhi.
+ReferenceBooks:
+i) Welding handbook, American Welding Society, (1983), 7th edition, volume 1 & 2, USA
+ii) http://eagar.mit.edu/EagarPapers/Eagar138.pdf
+iii) http://www.techno4india.com/arc.pdf
+iv) http://www.millerwelds.com/pdf/Paralleling.pdf
+CourseOutcomes
+CO-No. Course Outcome Module
+Covered
+1 Todescribeandexplainfundamentalconceptsof welding and joining 1
+mechanism.
+2 Toknow the details about welding arc. 2
+3 Haveanunderstandingofarc welding consumables and power sources 3,4
+with basic calculations
+4 Beabletoknow about the phenomenon of metal transfer in welding 5
+5 Toknowabout other welding processes with different mode of 6
+joining.
+CO-POMapping(Rate: scaleof1 to3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+2 1 3
+CO-1 2 2 1 2 2
+1 2 1
+CO-2 2 3 2 3 2
+3 2 2
+CO-3 3 3 2 2 2
+2 3 1
+CO-4 2 2 3 3 2
+3 2 2
+CO-5 3 2 2 3 3
+Page 55 of 65
+
+--- Page 56 ---
+ELECTIVE IV
+METAL CUTTING
+Semester: 2nd Credit: 4
+Course Name: Metal Cutting L T P 3 1 0
+CourseObjectives:
+1) To have a clear understanding of tool geometry and cutting forces
+2) To study tool materials, tool wear and tool life
+3) To impart knowledge on the mechanics of metal cutting, machinability and dynamometry
+Syllabus Content
+Module1:
+Introduction, system of Tool nomenclature, Tool Geometry, Mechanism of Chip, formation and forces
+in orthogonal cutting, Merchant’s force diagram.
+Module2:
+Oblique Cutting: Normal chip reduction coefficient under oblique cutting, true shear angle, effective
+rake, influx region consideration for deformation, direction of maximum elongation, effect of cutting
+variables on chip reduction co-efficiient, forces system in oblique cutting, effect of wear land on force
+system, force system in milling, effect of helix angle.
+Module3:
+Fundamentals of Dynamometry, Theoretical determination of forces, angle relations, heat and
+temperature during metal cutting; distribution, measurement, analysis, theoretical estimation of work
+piece temperature, hot machining. Fundamental factors, which effect tool forces: Correlation of
+standard mechanised test. (Abuladze – relation), nature of contact and stagnant phenomenon, rates of
+strains, shear strain and normal strain distributions, cutting variables on cutting forces.
+Module4:
+Cutting Tools: Tools materials analysis of plastic failure (from stability criterion), Analysis failure by
+brittle fracture, wear of cutting tools, criterion, flank and crater wear analysis, optimum tool life, tool
+life equations, (Taylor’s woxenetc)
+Module5:
+Tool life test, machining optimisation, predominant types of wear; abrasive, adhesive, diffusion wear
+models, wear measurements and techniques, theory of tool wear oxidative mathematical modelling for
+wear, test of machinability and influence of metallurgy on machinability.
+Module6:
+Economics of Metal machining. Abrasive Machining: Mechanics of grinding, cutting action of grit,
+maximum grit chip thickness, energy and grit force temperature during grinding, wheel wear, grinding,
+process simulation, testing of grinding wheels, mechanics of lapping and honing, free body abrasion.
+TextBooks:
+i) Metal Cutting Theory and Practice, A. Bhattacharya, New Central Book Agency (P) Ltd.
+Page 56 of 65
+
+--- Page 57 ---
+ii) Machining and Machine Tools, A. B. Chattopadhyay, Wiley-India Publication.
+iii) Metal Cutting Principles, M. C. Shaw, Oxford University Press.
+ReferenceBooks:
+i) Boothroyd, Fundamentals of metal machining and machine tools, McGraw Kogakusha.
+ii) T. H. C. Childs, K. Maekawa, T. Obikawa and Y. Yamane, Metal Machining, Theory and
+applications, Butter worth Heinemann
+iii) Arshinov, Metal Cutting Theory and Design- MIR publishers.
+CourseOutcomes
+CO-No. CourseOutcome Module
+Covered
+1 Provide fundamental knowledge in tool geometry, conversion from one 1
+system to another and mechanism of chip formation.
+2 Develop the relations for chip reduction coefficient, shear angle, shear 2, 3
+strain, forces, power, specific energy and temperatures associated with
+orthogonal cutting and oblique cutting.
+3 Develop the relations for forces in multipoint machining and oblique 2,6
+cutting.
+4 Select suitable tools for different applications and identify methods to 4,5
+improve machinability
+5 Analyze tool wear mechanisms and equations to enhance tool life and 4,5,6
+minimize machining cost.
+CO-PO Mapping (Rate: scaleof1 to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 2 2 1 3 1
+CO-2 2 2 3 2 2 1 2 1
+CO-3 2 2 3 2 1 1 3 1
+CO-4 2 2 3 2 1 2 2 3
+CO-5 2 2 3 2 2 2 2 1
+Page 57 of 65
+
+--- Page 58 ---
+MACHINE TOOL DESIGN
+Semester: 2nd Credit: 4
+Course Name: Machine Tool Design L T P 3 1 0
+Course Objectives:
+1) To develop fundamental knowledge of tool materials, cutting fluids and tool wear mechanisms.
+2) To develop a solution-oriented approach to the knowledge of Machine Tool Design.
+3) To address the underlying concepts, methods and applications of Machine Tool Design.
+Syllabus Content
+Module 1:
+Introduction, Classification of machine tools, elements of machine tools, selection of speed and feed,
+gear box design various types of clutch systems, Sohopke and Report drives, doublebond gears
+analysis, Lohr criterion for optimising double bond gear,Steplessdrives,mechanicalstepless drive
+analysis, hydraulic step less drive & circuit analysis.
+Module 2:
+Strength and rigidity consideration, process capability and compliance, design of lathe bed, use of
+stiffness in bed, design of radial drill column and milling machine column. Analysis of spindle
+bearings, slides and guides, design of spindle/arbor, antifriction andjournal bearings, hydro-dynamic
+action in slides, analysis of hydrostatic bearings.
+Module 3:
+Vibrations of machine tools and dynamic rigidity: Effects of vibrations, source of vibrations,self-
+excited vibration, single degree of freedom chatter, velocity principle and related models,regenerative
+principles, chatter in lathe, drilling milling and grinding. Tlusty and palacemodel, Peters model.
+Module 4:
+Automation: Automation drives for machine tools, degree of automation, semi-automatics,analysis of
+collect action, design, of collet, bar feeding mechanism, tooling layout, singlespindle, multi-spindle
+automatic, transfer machine, indexing Geneva mechanism, analysis.
+Module 5:
+Control system of machine tools: Control: Mechanical, electrical, hydraulic, numerical,fluidic, basic
+principle of cam control, hydraulic controls, fluid controls, numerical controls,feedback systems,
+primary systems programming.
+Text Books:
+i) N.K. Mehta, Machine Tool Design and Numerical Control, TMH, New Delhi, 2010.
+Page 58 of 65
+
+--- Page 59 ---
+ii) G.C. Sen and A. Bhattacharya, Principles of Machine Tools, New Central Book Agency, 2009.
+iii) D. K Pal, S. K. Basu, “Design of Machine Tools”, 5th Edition. Oxford IBH, 2008.
+Reference Books:
+i) Machine tool design by Sen and Bhattacharya, CBS Publications.
+ii) Technology of machine tools, S.F. Krar, A.R. Gill, Peter SMID, TMH (I).
+iii) N. S. Acherkhan, “Machine Tool Design”, Vol. I, II, III and IV, MIR publications, 1968.
+iv) Design Principles of Metal-Cutting Machine Tools by F. Koenigsberger.
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Design and analyze kinematic motions in a machine tool. 1,2
+2 Design and examine the systems that are used to achieve the desired
+1,2
+speeds and feeds.
+3 Based on design principles, evaluate methods for significant
+2
+mechanical components of a machine tool.
+4 Explain the reasons for chatter in machining and analyze vibrations
+2,3
+so as to improve the machine tool performance.
+5 To reduce friction and achieve high product accuracy, choose the
+2,3,4
+right slide ways, spindles, and lead screws.
+6 As part of quality assurance during machining, select relevant quality
+2,5
+tests to be run on the machine tool.
+CO-PO Mapping(Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 1 2 3 2 2 2
+CO-2 1 3 1 3 2 2 1 2
+CO-3 2 2 2 1 2 2 2 2
+CO-4 2 3 1 3 1 2 1 2
+CO-5 3 2 2 2 2 3 2 1
+CO-6 2 2 2 1 2 2 1 2
+Page 59 of 65
+
+--- Page 60 ---
+ERGONOMICS & INDUSTRIAL MANUFACTURING
+Semester: 2nd Credit: 4
+Course Name: Ergonomics And Industrial Manufacturing L T P 3 1 0
+Course Objectives:
+i) To learn about introducing Ergonomics and discipline approach
+ii) To learn human physical dimension concern
+iii) To learn posture, movement, behaviour and perception.
+iv) To learn visual Issues and environmental factors
+v) To learn ergonomic design process and performance support
+vi) To learn design ergonomics in India
+Syllabus Content
+Module 1:
+Introducing Ergonomics: Design today-Human aid to lifestyle.
+Module 2:
+Discipline approach: Ergonomics/ Human factors: Journey, Fitting task to man their contractual
+structure, Domain, Philosophy and Objective, Mutual task comfort: two way dialogue, communication
+model, Ergonomics/ human Factors fundamentals, Physiology (work physiology) and stress.
+Module 3:
+Human physical dimension concern: Human body- structure and function, anthropometrics,
+Anthropometry: body growth and somatotypes, Static and dynamic anthropometry,Stand Posture-
+erect, Anthropometry landmark: Sitting postures, Anthropometry: squatting and cross-legged postures,
+Anthropometric measuring techniques , Statistical treatment of data and percentile calculations.
+Module 4:
+Posture and movement: Human body- structure and function, Posture and job relation Posture and
+body supportive devices, Chair characteristics, Vertical work surface, Horizontal work surface,
+Movement,Work Counter.
+Module 5:
+Behavior and perception: Communication and cognitive issues, Psycho-social behavior aspects,
+behavior and stereotype, Information processing and perception Cognitive aspects and mental
+workload, Human error and risk perception.
+Module 6:
+Visual Issues: Visual performance,Visual displays
+Module 7:
+Environments Factors: Environmental factors influencing human performance
+Module 8:
+Ergonomic design process: Ergonomics design methodology, Ergonomics criteria/check while
+designing, Design process involving ergonomics check, some checklists for task easiness.
+Page 60 of 65
+
+--- Page 61 ---
+Module 9:
+Performance support and design intervention: Occupational safety and stress at workplace in view
+to reduce the potential fatigue, errors, discomforts and unsafe acts, Workstation design, Furniture
+support, Vertical arm reach and design application possibility,Humanizing design: Design and human
+compatibility, comfort and adaptability aspects.
+Module 10:
+Design Ergonomics in India: Design Ergonomics in India: scope for exploration.
+Text Books:
+i) Bridger, RS: Introduction to Ergonomics, 2nd Edition, Taylor &Francis, 2003.
+ii) Dul, J. and Weerdmeester, B. Ergonomics for beginners, a quick reference guide, Taylor &
+Francis, 1993.
+iii) Green, W.S. and Jordan, P .W, Human Factors in Product Design, Taylor &rancis, 1999.
+References Books
+i) D. Chakrabarti, Indian Anthropometric Dimensions for ergonomic design practice, National
+Institute of Design, Ahmedabad, 1997
+ii) G. Salvendy (edit), Handbook of Human Factors and ergonomics, John Wiley & Sons, Inc.,
+1998
+iii) Singh, S (Edt), Ergonomics Interventions for Health and Productivity, Himanshu Publications,
+Udaipur, New Delhi, 2007
+Course Outcomes:
+CO-No. Course Outcome Module
+Covered
+1 Introducing Ergonomics and discipline approach 1, 2
+2 Human physical dimension concern 3
+3 Posture, movement, behaviour and perception 4, 5
+4 Visual Issues and environmental factors 6, 7
+5 Ergonomic design process and performance support 8, 9
+6 Design Ergonomics in India: scope for exploration 10
+Page 61 of 65
+
+--- Page 62 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 3 2 2 2 3 2
+CO-2 2 3 3 2 3 3 3 3
+CO-3 3 3 2 2 3 2 2 3
+CO-4 3 2 3 3 2 3 3 3
+CO-5 2 3 2 2 3 3 2 3
+CO-6 3 3 3 2 2 3 3 3
+Page 62 of 65
+
+--- Page 63 ---
+ROBOTICS
+Semester: 2ndSem Credit: 4
+Course Name: Robotics L T P 3 1 0
+Course Objectives
+1) Application of Robot and automation process in fabrication and production entangling
+design/selection process.
+Syllabus content
+Module 1:
+Introduction:Automation & robotics, Robotic System & Anatomy Classification, Future Prospects
+Module 2:
+RoboticApplication in Manufacturing:Material transfer, Machine loading & unloading, Processing
+operations, Assembly & Inspectors
+Module 3:
+Social Issues and Economics of robotics Drives:Control Loops, Basic Control System Concepts &
+Models, Control System Analysis, Robot Activation & Feedback Components, Position & Velocity
+Sensors, Actuators, Power Transmission Systems.
+Module 4:
+Robot &its Peripherals: End Effecters - types, Mechanical & other grippers, Tool as end effecter
+Module 5:
+Sensors: Sensors in Robotics, Tactile Sensors, Proximity & Range Sensors, Sensor Based Systems
+Module 6:
+Robotic Cell Design & Control, Robot Kinematics:Coordinate Frames, Rotations, Homogeneous
+Coordinates, Arm Equation of Planer Robot, Four axis SCARA Robot, TCV, Inverse Kinematics of
+Planer Robot, Four Axis SCARA Robot.
+Module 7:
+Trajectory Planning & Robot Dynamics: Manipulator Path Control- Linear, Quadratic and Cubic
+Interpolation, Work Space Analysis, Robot Dynamics –Langrangian Dynamics of one and two link
+robot arm
+Module 8:
+Programming for Robots: Methods, Robot programmed as a path in space, Motion interpolation,
+level & task level languages, Robot languages; Programming in suitable languages Characteristics of
+robot
+Text Book
+i) Mark Spong, “Robot Dynamics and Control”, Wiley India
+ii) John Craig, “Robotics”
+Page 63 of 65
+
+--- Page 64 ---
+iii) Paul R.P., “Robot Manipulators: Mathematics, Programming and Control”
+iv) Grover and Simmers,“Industrial Robotics”
+v) Ernest Deoblin,“Measurement systems”
+vi) Ramamurthy, “Computer Aided Design in Mechanical Engineering”
+References Books:
+i) YoremKoren, “Robotics for Engineers”
+ii) J. F. Engelberger, “Robotics in Practice”
+iii) Ulrich Rembolds, ChristialBlume, “Computer Integrated Manufacturing Technology and
+Systems”
+iv) Beckwith and Lewisbuck, “Mechanical Measurements”
+v) K. Ogata,“Modern Control Engineering”,PHI
+vi) Benjamin Kuo, “Automatic Control Systems”, Wiley India
+vii) Richard D. KIafter et al, “Robotic Engineering -an Integrated Approach”, PHI
+viii) Spyros G. Tzafestas, “Intelligent Robotic Systems”
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Learning about robots types and application in industry. 1, 2
+2 To study the economics and social issues in robot applications. 3
+3 To study the end effectors and sensors of robots, robot visions. 4, 5, 8
+4 To study the robot manipulator’s kinematics and dynamics. VI & VII
+5 To study the manufacturing cell, a step towards production. 6
+6 Designing of pathways and programing of robots. 7, 9
+Page 64 of 65
+
+--- Page 65 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 2 2 3 3 3 3
+CO-2 2 2 2 3 3 2 3 3
+CO-3 3 2 3 2 3 3 3 3
+CO-4 2 2 2 3 3 2 3 3
+CO-5 2 2 2 2 3 3 3 3
+CO-6 2 2 3 3 3 2 3 3
+Page 65 of 65

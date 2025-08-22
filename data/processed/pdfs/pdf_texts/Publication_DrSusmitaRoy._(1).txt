@@ -1,0 +1,108 @@
+
+--- Page 1 ---
+Information Regarding Research & Publications
+Number of publications:
+Sl. Name of the International National Books
+Conference Books
+No. faculty Journal Journal Chapter
+International: 01
+1 Dr. Susmita Roy 14 03 01 00
+National: 01
+Publication Details: Dr. Susmita Roy
+2022
+1. S. Sharma, A.K. Saha, S.Roy, S. Mirjalili, S. Nama, A mixed sine cosine butterfly
+optimization algorithm for global optimization and its application, Cluster Computing
+(Springer Nature), (SCI), pp. 1-28, August, 2022, DOI: 10.1007/s10586-022-03649-5
+2. S. Roy, B. Das, An appliance of adaptive Neuro-Fuzzy inference system for predicting the
+surface roughness of Al-4.5%Cu-TiC MMC in turning operation of CNC milling, Materials
+Today: Proceedings (Elsevier), (Scopus) vol. 62, part 6, pp. 3749-3755, 27th April, 2022,
+doi.org/10.1016/j.matpr.2022.04.449
+2018
+3. B.Das, S. Roy, R.N.Rai, S.C. Saha, “Multi-objective optimization of in-situ process
+parameters in preparation of Al-4.5%Cu/TiC MMC using a grey relation based
+teaching learning based optimization algorithm”, Proceedings of the Institution of
+Mechanical Engineers, Part E: Journal of Process Mechanical Engineering, SAGE
+Publication (SCI) (accepted on 18th April 2017, published on May 22, 2017), (IF:
+1.448). DOI: 10.1177/0954408917710555. ISSN: 0954-4089
+2016
+4. B.Das, Susmita Roy,R.N.Rai,S.C. Saha, Priyanka Majumder, “Effect of in-situ
+processing parameters on microstructure and mechanical properties of TiC
+particulate reinforced Al-4.5Cu alloy MMC fabricated by Stir-Casting Technique -
+Optimization using grey based differential evolution algorithm”, Measurement (IF:
+2.359), Elsevier (SCIE, Scopus indexed), vol. 93, pp. 397–408, 11th July, 2016,
+ISSN: 0263-2241.
+5. B.Das, Susmita Roy,R.N.Rai,S.C. Saha, “Application of fuzzy technique for order
+preference by similarity to ideal solution in computer numerical control end milling
+of in-situ Al-4.5%Cu-TiC metal matrix composite”, Proceedings of the Institution of
+
+--- Page 2 ---
+Mechanical Engineers, Part B: Journal of Engineering Manufacture (IF: 1.366),
+SAGE publications (SCI), vol. 230(9), pp. 1600–1613, 2nd August, 2016. ISSN:
+0954-4054.
+6. B.Das, S. Roy, R.N. Rai, S.C. Saha, “Study on the machinability behaviour of in situ
+Al-4.5%Cu-TiC metal matrix composite-it’s surface finish and cutting force
+prediction using ANN”, CIRP: Journal of Manufacturing Science and Technology
+(Elsevier), vol.12, January 2016, p. 67–78(ISSN: 1755-5817). (SCI ,Scopus indexed).
+7. B.Das, S. Roy, R.N. Rai, S.C. Saha, “Development of an in-situ synthesized
+multicomponent reinforced Al-4.5%Cu-TiC metal matrix composite by FAS
+technique – Optimization of process parameters”, Journal of Engineering Science and
+Technology: An International Journal (Elsevier), vol. 19 (Issue 1), March 2016, p.
+279-291, ISSN: 2215-0986. (Scopus indexed, SCIE).
+8. B.Das, S. Roy, R.N. Rai, S.C. Saha, “Application of grey fuzzy logic for the
+optimization of CNC milling parameters for Al–4.5%Cu–TiC MMCs with
+multiperformance characteristics”, Journal of Engineering Science and Technology:
+An International Journal (Elsevier), vol. 19(Issue 2), June 2016,p. 857-865, ISSN:
+2215-0986. (Scopus indexed, SCIE).
+9. S. Mandal, S. Roy, B. Das, “Numerical Solution of First Order Linear Differential
+Equations in Fuzzy Environment by Runge-Kutta-Fehlberg Method and its
+Application”, International Journal of Differential Equation, Vol. 2016, Article ID
+8150497, 14 pages. ISSN: 1687-9651 (Scopus indexed), DOI:
+http://dx.doi.org/10.1155/2016/8150497,
+2015
+10. Susmita Roy & S. Bhattacharya, “Application of Fuzzy-Rough Oscillation on the field
+of Data-mining (Special attention to the Crime Against women at Tripura)”, Procedia
+Computer Science (Elsevier), vol. 45,March, 2015,p. 790-799, ISSN: 1877- 0509.
+(Scopus indexed).
+11. B.Das, S. Roy, R.N. Rai, S.C. Saha, “Studies on effect of cutting parameters on surface
+roughness of Al-Cu-TiC MMCs: An Artificial Neural Network Approach”, Procedia
+Computer Science (Elsevier), vol. 45, March, 2015,p. 745-752, ISSN: 1877- 0509.
+(Scopus indexed).
+2014
+12. B.Das, S. Roy, R.N. Rai, S.C. Saha, “Surface Roughness of Al-5Cu Alloy using a
+Taguchi-Fuzzy Based Approach”, Journal of Engineering Science and Technology
+Review, Vol. 7 ,No.2 (2014), pp.217– 222(ISSN: 1791-2377), (Scopus indexed).
+13. S. Bhattacharya and S. Roy, “On fuzzy mX*-oscillatory region and it’s application in
+image processing”, Annals of Fuzzy Mathematics and Informatics (Korea), Vol. 7, No.
+2 , 2014, p. 319-326 (ISSN: 2093-9310).
+
+--- Page 3 ---
+2013
+14. S. Bhattacharya and S. Roy, “On IF-rough oscillatory region and it’s application in
+decision making”, Annals of Fuzzy Mathematics and Informatics (Korea), Vol. 5, No.
+1(January 2013), p. 241-267 (ISSN: 2093-9310)
+15. S. Bhattacharya and S. Roy, “Application of fuzzy-rough oscillatory region on data
+collected for HIV/AIDS”, Journal of the Kerala Mathematical Association, Vol. 10,
+No.1,June-2013, ISSN 0973- 2721,p. 19-26
+2011
+16. S. Bhattacharya and S. Roy, “On rough minimal structure”, Journal of the Tripura
+Mathematical Society, ISSN- 0972-1320, Special Vol.13(2011), p.107-113.
+17. S. Bhattacharya and S. Roy, “Some more results on fuzzy-rough oscillatory region,
+Proceedings of International conference On Rough Sets”, Fuzzy Sets and Soft
+Computing, Serial Publication, ISBN 978-81-8387-417-5,(2011), p.206-216.
+2008
+18. S. Bhattacharya and S. Roy, “Basic probability assignment in HIV/AIDS”, Acta
+Ciencia Indica, ISSN-0970-0455, Vol. XXXIV M, No.2 (2008), (Indexed by
+Zentralblatt MATH), p.717-722.
+19. S. Bhattacharya and S. Roy, “Some properties of fuzzy-rough oscillatory region and
+its application in data mining”, National Seminar On Recent Development of
+Mathematics and Its Applications, Nov 14-15,2008,organized by Tripura University,
+2008,p.10-18.
+Book Chapters:
+2013
+a. Susmita Roy, “On fuzzy-rough oscillatory region and it’s applications on data
+mining”, LAP Lambert Academic Publishing (Book Form), ISBN-13: 978-3-
+659- 33536-5,ISBN-10: 3659335363,EAN: 9783659335365, no. of page-
+232,Feb- 2013.
+
+--- Page 4 ---
+

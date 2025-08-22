@@ -1,0 +1,173 @@
+
+--- Page 1 ---
+National Institute of Technology, Agartala
+Department of Mathematics
+Details Of Lab Facilities
+1. Significant Lab Assets (2 no of Departmental Lab):--
+ The Departmental Lab possesses the following Significant Assets
+Sl.
+Assets Quantity
+No.
+27
+1. Computer
+02
+2. Projector
+(two normal)
+Document Camera
+3. 03
+Server
+4. 01
+Smart Table
+5. 02
+4
+6. UPS
+(four online UPS)
+7. Software Origin, Unscrumbler
+ Others Software :----
+ Computer Lab with 27 computers equipped with various softwares like
+Matlab -12a, Turbo C, Dev C++, Lingo -13.0, LaTex, Origin -15Professional,
+Mathematica, Unscrambler -10.2 etc.
+
+--- Page 2 ---
+2. Lab view
+In the Mathematics Department, there are 27 working computers in the Computer Lab where
+the programming of different branches is executed. C programming (M. Sc 1st, M. Sc 2nd,
+BS/MS 4th Semester, B. Tech 4th, and 5th Semester) and Matlab programming (M.Sc. 3rd
+semester) are done by the students in the Computer Lab. Also the computer Lab is used for
+various Seminars, Conference, Workshop, Project presentation, Online Activities, Mock test
+for the final year students and for research purpose it is also used.
+
+--- Page 3 ---
+Vivo V17
+
+Ee is as Al Dual Gamera
+
+ 
+
+
+--- Page 4 ---
+3. Experimental setup
+The Department conduct the following experiment (Matlab, C Programming and Data
+Structure, Numerical Methods)
+LIST OF MATLAB PROGRAM
+NUMERICAL METHODS (LAB-III), M.Sc-3rd Semester
+1. Newton’s forward and backward Interpolation Method.
+2. Lagrange’s and Newton’s divided difference interpolation method.
+3. Solution of system of simultaneous linear equations by Gauss-elimination method,
+Jacobi’s iteration method, Gauss-Seidel method, LU-decomposition method.
+4. Find root using Bisection method, Newton-Raphson, Regula-Falsi method and Muller
+method.
+5. Curve fitting using Least square method
+6. Numerical Differentiation using Newton’s forward and Backward formula.
+7. Numerical Integration using Trapezoidal, Simpson’s one third rule, Simpson’s three-
+eighth rule, weddle’s rule.
+8. Solution of differential equation using Runge-Kutta Method
+9. Milne’s Predictor-Corrector method, Adam’s Bash fourth Predictor-Corrector method
+10. Plotting and printing a simple graphs.
+
+--- Page 5 ---
+LIST OF C- PROGRAM
+ADVANCED NUMERICAL METHODS (LAB-II), M.Sc-2nd Semester
+1. Graffe’s root squaring method to find repeated and complex roots
+2. Bairstow’s Method to find quadratic factors.
+3. Steffenson method for finding root
+4. LU-decomposition method
+5. Power method for finding the largest eigen value of a matrix
+6. Euler’s simple, improved and modified methods for solving differential equations.
+7. Curve fitting using Least square approximation method(Straight line)
+8. Runge-Kutta method of Simultaneous linear differential equations
+9. Gauss-elimination/Gauss Seidel/Jacobi’s iteration method
+11. Romberg’s method (Trapezoidal/Simpson)
+12. Milne’s Predictor-Corrector method and Adam’s Bash fourth Predictor-Corrector method.
+LIST OF C- PROGRAM
+NUMERICAL METHODS (LAB-I), M.Sc-1st Semester
+1. Fibonacci numbers and summation
+2. To find greatest among n numbers
+3. To arrange the given numbers in ascending and descending order.
+4. To find the value of Sin(x)/Cos(x) using series
+5. To perform addition and multiplication of two matrices
+6. To find the transpose of a matrix
+7. To find the root of an equation using Bisection, Regula-Falsi and Newton-Raphson
+methods
+8. Numerical integration using Trapezoidal, Simpson’s 1/3rd rule
+9. Newton’s Forward and Backward interpolation method
+10. Numerical differentiation using Newton’s Forward and Backward interpolation formula
+11. Solution of first order differential equation by Runge - Kutta method of 4th order.
+12. Lagrange’s and Newton’s divided difference interpolation method.
+13. Milne’s Predictor-Corrector method
+
+--- Page 6 ---
+LIST OF C- PROGRAM
+Programming in C (LAB-I), BSMS 3rd Semester
+1. Write a C program to find the area of a triangle.
+2. Write a C program to find area and perimeter of a circle.
+3. Write a C program to find the largest number from given three numbers.
+4. Write a C program to find odd and even numbers from 1 to 100.
+5. Write a C program to find the average of first 10 natural numbers.
+6. Write a C program to find the sum of all odd number in between 100 to 200.
+7. Write a C program to find the factorial of any given number.
+8. Write a C program to find the multiplication table of the given number.
+9. Write a C program to find out root of quadratic equations.
+10. Write a C program to find the given number is prime or not.
+11. Write a C program to find all the prime numbers in between 100 to 300.
+NUMERICAL ANALYSIS (LAB-I), BSMS 4th Semester
+1. Write a C program for Bisection Method
+2. Write a C program for method of false position and secant method
+4. Write a C program for Improved Euler’s method
+5. Write a C program for Improved Euler’s method
+6. Write a C program for Euler’s method
+7. Write a C program for Newton-Raphson method
+8. Write a C program for Simpson’s three-eighth rule
+9. Write a C program for Trapezoidal rule of integration
+10. Write a C program for Simpson’s one-third rule
+11. Write a C program for Runge-Kutta second and fourth order methods
+12. Write a C program for Predictor-corrector methods
+13. Write a C program for Finite Element Problem
+14. Write a C program for Finite Difference Problem
+15. Write a C program for Numerical differentiation
+16. Write a C program for Everette’s formula
+17. Write a C program for Newton’s forward and backward interpolation
+18. Write a C program for Lagrange’s interpolation
+19. Write a C program for Eigen values and eigen vectors
+20. Write a C program for Method of successive approximation
+21. Write a C program for Gaussian elimination method
+22. Write a C program for Gauss-Seidel iterative method
+23. Write a C program for Inversion of a matrix
+3 .
+
+--- Page 7 ---
+4.
+LIST OF DATA STRUCTURE (Using C) PROGRAM
+Data Structure (LAB-I), BSMS 5th Semester
+1. Write a program for adjacency Matrix of a graph.
+2. Write a program for generating Fibonacci Series.
+3. Write a program for Tower Of Hanoi.
+4. Write a program for implementing linear queue for insertion, deletion, & Display.
+5. Write a program for Implementing Stack for Insertion, Deletion & Display.
+6. Write a program for implementing queue using linked list.
+7. Write a program for implementing Stack using Linked List.
+8. Write a program for implementing Doubly Linked List.
+9. Write a program for implementing Binary Tree.
+Numerical Lab (LAB-I), BSMS 6th Semester (New)
+1. Write a C program for Bisection Method
+2. Write a C program for method of false position and secant method
+3. Write a C program for Improved Euler’s method
+4. Write a C program for Euler’s method
+5. Write a C program for Newton-Raphson method
+6. Write a C program for Trapezoidal rule of integration
+7. Write a C program for Simpson’s one-third rule
+8. Write a C program for Simpson’s three-eighth rule
+9. Write a C program for Runge-Kutta second and fourth order methods
+10. Write a C program for Predictor-corrector methods
+11. Write a C program for Taylor series method
+12. Write a C program for Finite Element Problem
+13. Write a C program for Finite Difference Problem
+14. Write a C program for Newton’s forward and backward interpolation
+15. Write a C program for Everette’s formula
+16. Write a C program for Lagrange’s interpolation
+17. Write a C program for Numerical differentiation
+18. Write a C program for Eigen values and eigen vectors
+19. Write a C program for Method of successive approximation
+20. Write a C program for Gaussian elimination method
+21. Write a C program for Gauss-Seidel iterative method
+22. Write a C program for Inversion of a matrix

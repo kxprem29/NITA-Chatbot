@@ -1,0 +1,683 @@
+
+--- Page 1 ---
+TS Welhral AIA Ste
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+
+Barjala, Jirania, Agartala — 799046 (Tripura)
+
+    
+
+F.No.NITA.8(7-STIP)/PMD(GEN)/2022-23 // & sis
+
+   
+
+Dated: 6] /03/2023
+
+NOTICE
+Ref.: Previous Notification vide No.F.14(1-9) DHE/Stip/18(Vol-I), dated 01/12/2022.
+
+Based on the communication received from the Directorate of Higher Education,
+Govt. of Tripura, it is to inform to all concerned students of this Institute that students to
+apply through the BMS Portal for the Tripura Post Madhyamik Stipend scheme till
+11/03/2023.
+
+All applicants are instructed to apply through the BMS portal
+(http://bms.tripura.gov.in) only. The student manual is also enclosed herewith for
+applying in the portal. As per the instruction from DHE, after successful submission of
+the online application, applicants are required to submit the online generated
+acknowledgement slip and the supporting documents in hard copy format to the
+Directorate of Higher Education, Govt. of Tripura, Shiksha Bhavan, Agartala, Tripura
+West.
+
+This is issued with the approval of the Competent Authority.
+We \J Awe
+In-Charge Stipend and Sch la ee
+NIT Agartala.
+
+Copy to:
+
+1) P.S. to the Director, NITA for kind information of the Director.
+
+2) The Dean Academic, for kind information.
+
+3) The System Administrator, NITA with a request to upload the same on the
+Institute Website.
+
+Saw g
+\\
+(pal) a\o rm
+In-Charge Stipend and ch larship
+
+NIT Agartala.
+
+ 
+
+Barjala, Jirania, Agartala- 799046, India, website- www.nita.ac.in, Ph-0381-2346630, Fax: 0381-2346360
+
+
+--- Page 2 ---
+BMS Citizen Level Maker Manual
+User Manual for Beneficiary Management System
+BMS Citizen Level Maker Manual
+Live / Production URL: https://bms.tripura.gov.in
+1. User Registration & Login:
+There are 3 types of Login module in BMS portal, i.e., Citizen Login, Department
+Login & Admin Login which user finds after visiting the
+URL: https://bms.tripura.gov.in. Now Citizen has to click the Citizen Login option:
+
+--- Page 3 ---
+Now Citizen has to register by clicking Register here where new specific field of
+registration will have to be filled up by them. They are:
+1. Full Name 2. Email ID 3. Mobile Number
+
+--- Page 4 ---
+Now entering received OTP on registered Mobile Number the Citizen will register.
+And then in Home Page they will have to Login either through his Mobile Number
+or Email ID. They will have to enter the OTP received in registered Mobile No. or
+email ID.
+
+--- Page 5 ---
+2. Apply on Departmental Schemes:
+After Login Citizen will view the Beneficiary Schemes Page of BMS portal where all
+list of active Govt.DBT Schemes will appear. Citizen now from the list, have to
+select their particular scheme in which he/she wishes apply and have to click the
+Enroll button.
+N.B: Applicant can Click the “? View Group Rule” nearby Enroll button, which is
+provided to clarify the Group Rule of different Schemes of various Department
+where Citizen can apply maximum no. of schemes from a particular scheme group
+if Department has such provision.
+
+--- Page 6 ---
+Now, after enrolling in the particular Departmental Scheme, Citizen will view the
+Scheme Basic Info & Scheme Payment Info page& now citizen will click the
+proceed button.
+
+--- Page 7 ---
+3. Scheme Enrollment:
+Now in the next new page the Citizen will have to enroll in that Scheme by filling
+up some details like Basic Info, Address Area, Account Information, Scheme
+Specific Document Area (upload required documents as per Scheme requirement
+for particular Department), Scheme Specific Information & Payment Related
+Information. And press “Next” button to proceed for final submission of
+application in BMS portal.
+N.B.: Scheme Specific Details requirement will vary as per Scheme Guidelines of
+various Departments.
+
+--- Page 8 ---
+ria aU = a a ey
+
+Govt. of Tripura
+
+ 
+
+Scheme Enrollmen
+
+Basic Info
+Name :*
+Rinku Patary
+Mother's Name :*
+MANJU PATARY
+
+Social Category :*
+
+OTHERS
+
+Address Area
+District *
+Gomati
+
+MC/Block/ADC Block :* (GP/Ward/VC »*
+
+Matabari Holakhet
+
+Account Information
+Bank Name :*
+STATE BANK OF INDIA
+
+Bank / IFSC Not In The List
+ink Account Number :*
+
+ 
+
+Father/Guardian's Name :*
+
+RAKHAL PATARY
+
+Gender *
+
+Female
+
+Date of Birth :*
+
+25-09-1998
+
+Sub-Division :*
+Udaipur
+PIN Code *
+
+799013
+
+IFSC Code *
+
+* SBINO000216
+
+Name as per Bank Passbook :* G Same as Name
+
+13456789120 Rinku Patary
+Scheme Specific Document Area
+Scheme:* Scholarship and Stipend Office :* Photograph (Only Image File Allowed) :*
+Directorate of Animal Resource Development *| | Choose File |BMS __ Beneficiary Management (3).png
+
+Scheme Specific Document (Only PDF File Allowed):*
+
+Bank Passbook
+
+ 
+
+From
+
+ 
+
+‘Last Examination passing marksheet
+
+Bonafide certificate from institute
+
+Scheme Specific Information
+
+Institution Name :
+
+College of Veterinary Sciences & Animal Husbandry, R.K. Nagar. West Tripura
+
+Course Name :*
+
+BVSc & AH
+
+Year of Passing NEET / TBJEE :*
+
+2020
+Date of Admission :* 18-07-2020 a
+
+Expected date of completion of the Course :*/18-07-2025 ©
+
+Payment Related Information
+
+Attendence % >*
+
+380
+
+ 
+
+Choose File | DocScanner ... 8-25 pm.pdf
+
+Choose File | DocScanner ...0.14 pm.pdf
+
+ 
+
+cker | OR | Choose File | DocScanner ...2-48 pm.pdf
+
+File Attached : DocScanner 31-Mar-2022 8-25
+pm.pdf
+File Attached : DocScanner 30-Dec-2021 10.14
+pm.pdf
+
+Other Institution Name (if not listed) :
+
+Rank in NEET / TBJEE =*
+™) 123
+Studying in Year :
+
+Ist
+
+Date of commencement of the Course :* 01-08-2020 a
+
+
+--- Page 9 ---
+4. Final Submission Page: Now after clicking Next, a preview of the application
+will be visible to citizen where citizen will find all details which he/she filled up
+during enrollment on that particular scheme of the department. By clicking the
+“view more” button applicant can also view his/her uploaded documents.
+Now after clicking the declaration checkbox, citizen can go for Final Submit or
+Previous (if any changes required on previous page) button. Application
+submission will complete after clicking the Final Submit button.
+
+--- Page 10 ---
+5. View/Print Acknowledgement Slip:
+After Final Submission Applicant can view a Dashboard where he/she can view
+or print his/her Acknowledgement Slip.
+
+--- Page 11 ---
+Beneficiary Management Ecosystem
+
+Govt. of Tripura
+
+PS aS ald
+
+ 
+
+© print
+Acknowledgement Slip
+
+Application 1D
+Scheme Mame
+
+Full Name
+
+Name as per RC
+
+RE Member 1D
+
+Email 10
+
+Mobile No.
+Father/ouardian Name
+Mother Name
+Gender
+
+Social Category
+
+Date of Birth
+
+District
+
+Subdivision
+
+Block
+
+GPAWARD/VE
+Pincode
+
+Bank Name
+
+Bank Account Number
+IFSC Code
+
+Name as per Bank
+Eligible D&T Amount
+
+Office Name
+Scheme Specific Information
+
+Rank in TRJEE
+
+Year of P.
+
+ 
+
+ng TRIEE
+Date of Admission
+
+Date of commencement of the Internship Programme
+Expected date ef campletion of the internship Pragramme
+Institution Name
+
+Studying in Year
+
+Course Name
+
+Attendance Id
+
+Your Application is Under Process.
+
+90000000079523
+ARDD - Scholarship and Stipend
+RINKU PATARY
+
+RINKU PATARY
+
+16100019794402
+nikkancleygpoutlook.com
+7005324538
+
+RAKHAL PATARY
+
+mohuaykyuky
+
+F
+
+Others
+
+  
+
+5/09/71
+Gomati
+Udaipur
+Matabari
+
+Holakhet
+
+799013
+
+STATE BANK OF INDIA
+
+12345678912
+
+SBINGD00216
+
+RINKU PATARY
+
+24000 (Terms and conditions apply as per the scheme.)
+
+Directorate of Animal Resource Develapment
+
+123
+2019
+
+jayasy2021
+
+20/09/2021
+
+24/13/2023
+
+College of Veterinary Sciences & Animal Husbanelry, R.K, Magar, West Tripura
+4th
+
+BYSe & AH
+
+v2019035
+
+ploaded DearS
+
+Rotatery Internship training programme schedule
+
+Internship completion certificate
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— | + = Automatic Zoom ~ Il Z@\>» moa 1 of 2 — | + = Automatic Zoom - I 2@\>
+Ings: aver shoal pein showinatReponn views itingrporal:! ay Fists Imps server shonialsov in HnapamResinronopdreerv FAA.)
+A) UENO IHU
+CARDIOTHORACIC AND ORONO
+NEUROSCIENCES CENTER
+CONSULTING ROOALNO : Emergency Rod AUHATI MEDICAL COLLEGE
+SoS See ask CARDIOTHORACTS AND
+MeunScciescus CATER OAUHATI
+MEDICAL COLLEGE AND HOSPEIAL
+eas Cowatoe
+Pie WAU EME A
+(OUT PATIENT RECORD (EH HEY :2201028 7006578185
+Dapitia: 2 fi io
+Be Shaya beettatton ras mas
+tue
+Age 30¥ Fees :0.09
+Biting Trpe > Crkars Bos “hate
+‘Adtirece: sane te, Kamrap Matroptiten. AREA INDIA ‘2eteet ze, MOMS eeeeed my : De
+Sead Teton nat
+Feamination Findings
+Investigation
+- Diagnosis -
+na 1 oft + Automatic Zoom - I 2 >> na 1 of 7 + Automatic Zoom - I 2 >>
+ce Tea See nee oer ran PARSSTCZAIARAI EZ eS ee SSS na arr are NSE VOUS
+
+  
+
+UU UTA A CARDIOTHORACIC AND
+a NEUROSCIENCES CENTER GAUHATI
+MEDICAL COLLEGE AND HOSPITAL
+WUE 0 1 A Bhangagorh, Guwahatl 784092
+
+Bhangagars, Guwahati 751032
+
+   
+
+Service Wise Register
+porate Fitecee ty
+ta range of 0408/2022 to 24/0512022
+ap ay uM a Batient Type “ALL Head Of Account “All Account
+Pinayheamari: ¢ - tigen
+Preteens =.
+‘Akin SAAD, DADRA AMD YAQAR JEL IDEA Reet hey, MOMS rent
+
+eer ity
+
+
+--- Page 12 ---
+6. Resubmission Process:
+This process is the option to resubmit
+Documents/Details of Citizen requested by the Higher Authority Checker. If some
+cases Citizen upload wrong data or documents, Higher Authority Checker can
+raise query by marking Defected application. In that case a message will arrive at
+registered applicant Mobile Number to resubmit their application. When
+applicant Login into their account, they will find the option to resubmit the
+defected application with a proper reason/requirement from Checker. Then they
+have to click the Proceed button there.
+And then the form of Scheme Enrollment page will appear where applicant will do
+necessary corrections for which this application has been defected by the
+Checker. Finally click on Next Button to complete the Resubmission Process. If the
+application was defected due to bank account related issues, applicant needs to
+tick on both the checkboxes (one for declaration and another for resending
+details for bank account validation) before Final Submission.
+
+--- Page 13 ---
+oy
+ae Beneficiary Management Ecosystem
+yt
+
+(ereieme Male]
+
+RINKU PATARY ~
+
+Scheme Enrollment
+
+ 
+
+Basic Info
+Name :* Father/Guardian's Name :*
+RINKU PATARY RAKHAL PATARY
+Mother's Name :* Gender :*
+mnhugykyuky Female
+Social Category :* Date of Birth :*
+OTHERS 25 /09/ 1998
+
+Address Area
+
+District :* Sub- Division :*
+Gomati Udaipur
+
+MC/Block/ADC Block :* GP/Ward/VC »* PIN Code :*
+Matabari Holakhet 799013
+
+Account Information
+
+Bank Name :* IFSC Code :*
+STATE BANK OF INDIA. > SBINOO002 16
+Bank / IFSC Not In The List
+Bank Account Number :* Name as per Bank Passbook :* () Same as Name
+
+12345678912 RINKU PATARY
+
+Scheme Specific Document Area
+
+Scheme:* ARDD - Scholarship and Stipend Office :* Photograph (Only Image File Allowed) :*
+
+Directorate of Animal Resource Development { Browse... | No file selected.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Photograph
+Scheme Specific Document (Only PDF File Allowed):
+Rotatory Internship training programme OR [Browse...| No file selected
+schedule Rotatary Internship training programme schedule
+Internship completion certificate Fetch From DigiLocker | OR | Browse... | No file selected.
+Internship completion certificate
+Bank Passbook Fetch From DigiLocker | OR [| Browse...| No file selected,
+Bank Passbook
+Last Examination passing marksheet Fetch Fram Digilocker | OR | Browse... No file selected.
+Last Examination passing marksheet
+Scheme Specific Information
+Institution Name :* Other Institution Name (if not listed) :
+College of Veterinary Sciences & Animal Husbandry, RK, Nagar. West Tripura .
+Course Name :* Studying in Year :*
+BVSc & AH *| | 4th .
+Rank in TBJEE :* Year of Passing TBJEE :*
+123 2019
+Date of Admission * Date of commencement of the Internship Programm:
+10/03/2021 20/09/2024
+
+Expected date of completion of the Internship Programme :*
+24/12/2023
+Attendance ID :*
+
+V2019035,
+
+Last Updated on 19-NOV-2022
+
+ 
+
+
+--- Page 14 ---
+Government of Tripura
+Directorate of Higher Education
+Agartala, Tripura
+No.F.14(1-9)DHE/Stip/18(Vol-I) Dated,...7.!../..12./..2022
+
+NOTIFICATION
+
+Notification is hereby issued for information to all concerned and Students of Tripura
+pursuing Diploma/Degree/Post Graduate in any Government/Private College/ University during the
+academic year 2022-23 for availing State run stipend schemes through BMS. portal
+
+(https://bms.tripura.gov.in) within the following timelines.
+
+ 
+  
+  
+     
+  
+
+Opening timeline for Online
+Application & Verification
+Online Institute level
+Application for verification
+
+Student’s
+
+education of Girls at degree stage December,2022 January,2023
+
+Income Group student for Studies in India December,2022 January,2023
+
+3. | Tripura Govt. Merit Cum Means Scholarship Upto 30th
+S| Scheme 1977 December,2022 January,2023
+
+4. | Tripura Post Graduate Research Fellowship Rules Upto 30th
+
+courses outside the state of Tripura Rules December,2022 January,2023
+January,2023
+
+6. | Lakshay-Chief Minister's Special Scholarship Upto 30th
+Scheme for UPSC (CSE) aspirants. December,2022
+> Students applying for the scheme need to “Register” on the portal as fresh applicant,
+
+using the link “Citizen login” at BMS Portal URL https://bms.tripura.gov.in, by providing accurate
+and correct information as per their documents.
+
+   
+  
+
+   
+  
+  
+
+  
+
+Name of Scheme
+
+         
+     
+ 
+
+ 
+
+ 
+  
+ 
+ 
+
+ 
+    
+      
+   
+
+  
+
+      
+
+> Before initiating registration process, students are advised to go through the user
+manual of the BMS Portal.
+
+% The student shall login in the portal using their Mobile No./email ID. After
+successful login student can apply in any one State Scheme on-boarded on BMS portal by
+providing required information.
+
+> The students pursuing Degree/Master Degree/ Diploma in the Colleges/Institutions
+under the control of Higher Education, Government of Tripura should select their concerned
+Institution in the drop down box of the BMS portal and students studying beyond the Higher
+Education control institution shall select “Directorate of Higher Education” while applying
+
+application.
+
+> After successful submission of online application in BMS portal, the student shall
+submit the print copy of filled up online application with necessary documents to the concerned
+Institution/ Directorate of Higher Education, Shiksha Bhawan, Office lane, Agartala.
+
+nn’
+
+
+--- Page 15 ---
+> The College/Institute Nodal officers shall approve student’s application online in the
+portal after verifying the correctness of detail application submitted and uploaded documents
+required for availing the scheme. The Institute Nodal Officer must ensure that there are no pending
+applications, as on last date of verification, and all application submitted by students/applicants to
+the Institute are scrutinized (verified/rejected/defected along with appropriate reason, as the case
+may be) Physical copy of all verified and approved applications should be kept with the institute for
+record,
+
+> The Approver of Institute level shall verified the student’s data and forwarded to
+State level in online for final process payment through CTOS as a verifying officer.
+
+This Notification should be brought to the notice of the students by all the respective Head
+
+of the Institutions.
+ao An wy
+(N.C Sh z
+Director of Higtier Education,
+
+Tripura
+
+Copy to:
+1. PS to the Hon’ble Minister, Education Department, Govt. of Tripura for kind information of
+Hon’ble Minister.
+2. The Secretary, Education Department, Govt. of Tripura for kind information.
+3. The Director ,IT, Govt.of Tripura ,Indranagar, Agartala, for kind information.
+
+4. for kind
+
+I
+
+information.
+
+5. The Nodal Officer IT, Directorate of Higher Education for uploading the notification in the
+department website.
+
+Director of Higttér Education,
+Tripura
+

@@ -1,0 +1,4505 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+CIVIL ENGINEERING
+Specialization in
+STRUCTURAL ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+TRIPURA (WEST), INDIA
+PIN: 799046
+GE
+
+--- Page 2 ---
+Preface
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology (M. Tech)
+in seven different specializations viz, Environmental Engineering, Geotechnical Engineering, Hydro-
+Informatics Engineering, Structural Engineering, Seismic Science and Engineering, Transportation
+Engineering and Water Resources Engineering.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits and
+2000 marks. Semester wise distribution of course and credits are as follows: First semester: 25 credits
+and 800 marks for five theory subjects (comprises core, basic core and elective subjects), two labora-
+tory subjects and seminar; Second semester: 25 credits and 800 marks for four theory subject (com-
+prises core, basic core and elective subjects), two laboratory subjects, comprehensive viva-voce and
+project preliminaries; Third semester: 10 credits and 100 marks; and Fourth semester: 20 credits and
+300 marks. Third and fourth semester of PG courses will be fully devoted for project works. Minimum
+number of class hours for each theory course should be 40 hours.
+There will be continuous assessment of the performance of students throughout the semester. Each
+theory subject in a semester is evaluated for 100 marks, with the following weightages. Sub-
+component weightage: Continuous evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5 Marks, Class
+test: 10 Marks, Assignment: 10 Marks); Mid-semester Examination: 20 Marks; and End-semester Ex-
+amination: 50 Marks
+The course curriculum of all Post- graduate programmes are designed considering the following six
+Programme outcomes (Pos) as formulated by National Board of Accreditation (NBA) and two Pro-
+gramme specific outcomes (PSOs)
+PO1: An ability to independently carry out research /investigation and development work to solve
+practical problems.
+PO2: Ability to write and present a substantial technical report/document.
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the specializa-
+tion of the program. The mastery should be at a level higher than the requirements in the appropriate
+bachelor program.
+PO4: An ability to identify, formulate and solve Structural system related problems using advanced
+level computing techniques.
+PO5: An ability to understand the impact of Structural Engineering solutions in a global, economic,
+environmental and societal context.
+PO6: Able to demonstrate knowledge understanding of the engineering and management principles
+and apply these to multidisciplinary environments.
+PSO1: An ability to get exposed to advanced courses in Analysis, and Design of RC, PSC, Steel and
+composite structures as per the latest design codes and considering current national and international
+scenario on Structural Engineering.
+PSO2: Students should be industry ready / ready to pursue advanced research by getting hands on
+training on latest equipment / software.
+
+--- Page 3 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Expert opinions are being taken in regular basis in order to improve the quality of teaching learning
+process and to attain the programme outcomes efficiently.
+In the Final year of M. Tech. programmes (Third and Fourth Semesters) students may also opt for in-
+dustrial research. If any student desire to pursue his/her research in reputed industries, he/she may be
+allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such industry bod-
+ies.
+a. The selected industry is approved by the DPPC of the concerned Department.
+b. The student selects one supervisor from industry and another supervisor from the Institute.
+If any student opts for such industrial research he/she will not receive any scholarship from
+the institute in this tenure, even if he/she wants to return back. In such cases the student will
+be allowed to complete his/her project in the institute but without any scholarship.
+SE 1 | Pa ge
+
+--- Page 4 ---
+Spllabus: M.Tech., Structural Engineerin
+
+NIT Agartala
+
+ 
+
+CONTENT
+
+ 
+
+No.
+
+FIRST SEMESTER
+
+Page No.
+
+1 Basic Core SE7-SE10
+PCE11B01: Theory of Elasticity and Plasticity
+
+Core Subject-I
+PCE11C01: Structural Dynamics
+
+SE10-SE13
+
+ 
+
+Core Subject-I
+PCE11C02: Advanced Structural Analysis
+
+ 
+
+ 
+
+ 
+
+  
+
+Elective Paper-I (Any One)
+
+SE13-SE16 7
+
+ 
+
+ 
+
+PCEILEO1: Advanced Design of R. C. Structures
+
+SE16-SE18
+
+ 
+
+PCEI1E02: Advanced Design of Pre-stressed Concrete
+PCE11E03: Tall Structures
+
+SE18-SE21
+SE21-SE23
+
+ 
+
+PCE11E04: Structural Reliability
+
+SE 24-SE 26
+
+ 
+
+PCE11E05: Soil Structure Interaction
+PCEIIE06: Rock Mechanics
+
+SE26-SE29
+SE29-SE31
+
+ 
+
+ 
+
+ 
+
+Elective paper- IT (Any One)
+
+ 
+
+IPCE11E07: Advanced Mathematics
+
+SE31-SE35
+
+ 
+
+PCE11E08: Numerical Method in Structural Analysis
+PCE11E09: Construction Management and Quality Control
+
+ 
+
+SE35-SE37
+SE38-SE40
+
+ 
+
+ 
+
+PCE11E10: Structural Masonry
+
+SE41-SE43
+
+ 
+
+PCE1IE11: Advanced Concrete Technology
+PCE11E12: Optimization in Engineering (Open Elective)
+
+ 
+
+PCE11E13: Mechanics of Composite Structures (Open Elective)
+
+SE43-SE45
+SE45-SE48
+SE48-SE51
+
+ 
+
+ 
+
+Laboratory & Seminar
+
+| 6 PCEALPOL: Cement and Concrete Laboratory
+
+ 
+
+SES1-SE52
+
+ 
+
+ 
+
+7 |\PCE11P02: Stress Analysis Laboratory SE53-SE55
+8  |PCE11P03: Seminar SE56
+\)
+a coer =
+t os qo?
+penatt te oi Te 4039
+no ane
+
+ 
+
+ 
+
+ydi2e® "Gu
+
+ 
+
+ 
+
+  
+
+
+--- Page 5 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+  
+
+Basic Core
+PCE12B01: Theory of Elastic Stability
+
+SECOND SEMESTER
+
+ 
+
+ 
+
+ 
+
+————
+
+SE58-SE60
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Core Subject-I SE61-SE63
+
+PCE12C01: Theory of Plates and Shells
+Elective Paper-III (Any One)
+
+PCE12E01: Seismic Analysis and Design of Structures SE64-SE66
+PCE12E02: Random Vibration SE66-SE69
+
+CE12E03: Wind Engineering SE70-SE72
+PCE12E04: Advanced Design of Metal Structures SE72-SE75
+PCE12E05: Experimental Methods of Structural Analysis SE75-SE77
+PCE12E06: Bridge Engineering SE78-SE80
+
+CE12E07: Behaviour of Concrete Structures SE80-SE83
+PCE12E08: Repair and Rehabilitation of Structures SE83-SE85
+
+PCE12E09:
+PCE12E10:
+
+PCEI2E12:
+
+ 
+
+ 
+
+   
+  
+ 
+
+Elective Paper-IV (Open Elective) (Any One)
+
+ 
+
+: Nonlinear Analysis
+
+ 
+
+ 
+
+ 
+
+Finite Element Method
+
+ 
+
+ 
+
+SE86-SE89
+
+ 
+
+ 
+
+ 
+  
+
+Structural Health Monitoring
+
+ 
+  
+
+SE89-SE92
+SE92-SE94
+
+ 
+
+Advanced Solid Mechanics
+
+(Students can also opt for one open elective subject offered by any othe
+
+department)
+
+Project Preliminary, Laboratory & Comprehensive Viva-voce
+PCE12P01: Project Preliminaries
+
+| 6 | CE12P02: Structural Engineering Laboratory
+7 (PCEI2P03: Computer Aided Design Laboratory
+| 8 | PCE12P04: Comprehensive Viva-voce
+
+ 
+
+SE95-SE98
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+SE98-SE100
+SE100-SE102
+
+ 
+
+SE102-SE104
+
+ 
+
+ 
+
+ 
+
+THIRD SEMESTER
+
+SE104-SE105
+
+ 
+
+1
+
+1
+
+ 
+
+PCEI3P01
+
+: Project &Thesis— I SE-106
+FOURTH SEMESTER
+PCE14P01: Project & Thesis— II SE-106
+ofes> eer 9
+vo cv Ey cows
+- 39)
+i-7840 SE3|Page
+
+ 
+
+ 
+
+ 
+
+   
+
+
+--- Page 6 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+In the Final year of M. Tech. programmes (Third and Fourth Semesters) students may also opt
+for industrial research. If any student desire to pursue his/her research in reputed industries,
+he/she may be allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such indus-
+try bodies.
+a. The selected industry is approved by the DPPC of the concerned Department.
+b. The student selects one supervisor from industry and another supervisor from the Institute.
+If any student opts for such industrial research he/she will not receive any scholarship from the
+institute in this tenure, even if he/she wants to return back. In such cases the student will be allowed to
+complete his/her project in the institute but without any scholarship.
+SE 4 | Pa ge
+
+--- Page 7 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Syllabus: M. Tech. (Structural Engineering)
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+First Semester
+1 Basic Core 4 4 100
+PCE11B01: Theory of Elasticity and Plasticity
+2 Core Subject-I 4 4 100
+PCE11C01: Structural Dynamics
+3 Core Subject-II 4 4 100
+PCE11C02: Advanced Structural Analysis
+4 Elective Paper-I (Any One) 4 4 100
+PCE11E01: Advanced Design of R. C. Structures
+PCE11E02: Advanced Design of Pre-stressed
+Concrete
+PCE11E03: Tall Structures
+PCE11E04: Structural Reliability
+PCE11E05: Soil Structure Interaction
+PCE11E06: Rock Mechanics
+5 Elective Paper-II (Any One) 4 4 100
+PCE11E07: Advanced Mathematics
+PCE11E08: Numerical Method in Structural Analysis
+PCE11E09: Construction Management and Quality
+Control
+PCE11E10: Structural Masonry
+PCE11E11: Advanced Concrete Technology
+PCE11E12: Optimization in Engineering (Open
+Elective)
+PCE11E13: Mechanics of Composite Structures
+(Open Elective)
+6 PCE11P01: Cement and Concrete Laboratory 2 3 100
+7 PCE11P02: Stress Analysis Laboratory 2 3 100
+8 PCE11P03: Seminar 1 2 100
+Total 25 28 800
+SE 5 | P a ge
+
+--- Page 8 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Second Semester
+1 Basic Core 4 4 100
+PCE12B01: Theory of Elastic Stability
+2 Core Subject-I 4 4 100
+PCE12C01: Theory of Plates and Shells
+3 Elective Paper-III (Any One) 4 4 100
+PCE12E01: Seismic Analysis and Design of
+Structures
+PCE12E02: Random Vibration
+PCE12E03: Wind Engineering
+PCE12E04: Advanced Design of Metal Structures
+PCE12E05: Experimental Methods of Structural
+Analysis
+PCE12E06: Bridge Engineering
+PCE12E10: Behaviour of Concrete Structures
+PCE12E12: Repair and Rehabilitation of Structures
+4 Elective Paper-IV (Open Elective) (Any One) 4 4 100
+PCE12E07: Finite Element Method
+PCE12E08: Structural Health Monitoring
+PCE12E11: Nonlinear Analysis
+PCE12E12: Advanced Solid Mechanics
+( Students can also opt for one open elective subject
+offered by any other department or one course under
+MOOCs)
+5 PCE12P01: Project Preliminaries 3 6 100
+6 PCE12P02: Structural Engineering Laboratory 2 3 100
+7 PCE12P03: Computer Aided Design Laboratory 2 3 100
+8 PCE12P04: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+Third Semester
+1 PCE13P01: Project & Thesis – I 10 - 100
+Fourth Semester
+1 PCE14P01: Project & Thesis – II 20 - 300
+80 Total Marks 2000
+SE 6 | P a ge
+
+--- Page 9 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+THEORY OF ELASTICITY AND PLASTICITY
+(PCE11B01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+By the end of the course the student is expected:
+1. To have a complete knowledge of mechanics of deformable bodies.
+2. To establish basic equations to solve any isotropic and anisotropic indeterminate
+problem.
+3. To have a full understanding of mechanical properties and behaviour of materials
+and system.
+4. To have an understanding of material and geometric non-linearity of a problem
+5. To have a full understanding of the uncertainties involved in system and the
+resulting risk.
+6. To utilize different analytical, numerical and statistical methods for the
+mathematical modelling and analysis of any system under different type of loads
+and underlying assumption.
+7. To be able to evaluate unknown parameters of mathematical model of any
+deformable system and the safety in terms of the reliability of its components
+considering different failure modes.
+Course Content:
+Elasticity:
+Unit 1
+Base vectors and metric tensors- Analysis of Strain and equations of compatibility-
+Stresses and equations of equilibrium- Constitutive relations- Semi-inverse method-
+boundary conditions. Airy’s stress function in Cartesian coordinates and problems in
+polar coordinates, application to engineering problems.
+Unit 2
+Torsion of solid sections – Laplace- and Poisson’s equations – solution in complex
+variables. Solutions of bi-harmonic equations using complex-variables.
+Unit 3
+Three-dimension potential problems. Variational methods- Theorem of minimum
+potential energy- Theorem of minimum complementary energy. Approximate solutions-
+Error orthogonalization and Galerkin’s method- Ritz method.
+SE 7 | P a ge
+
+--- Page 10 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Plasticity:
+Unit 4
+Definitions and physical properties – Yield criteria of Von-Mises and Tresca – Drucker’s
+strain hardening and associative and non-associative flow rules.
+Unit 5
+Elasto-plastic deformation of beams. Elasto-plastic torsion. Non-uniqueness of load paths.
+Solution of rigid-perfectly plastic problems.
+Reference:
+Sl.No Name of Book Author Publisher
+1 Theory of Elasticity Timoshenko, S.P. and Chennai McGraw-
+Goodier Hill Education
+(India) Private
+Limited, 3rd Edition,
+2010
+2 Foundation of Solid Mechanics Y.C.Fung Prentice-Hall, 1965
+3 Mathematical Theory of Elasticity I.S. Sokolnikoff Mcgraw-Hill, 1956
+4 Theory of Elasticity and Plasticity H.M. WesterGard Harvard University
+Press, 2017
+5 Fundamentals of the Theory of L.M. Kachanov Dover Publications
+Plasticity Inc., 2004
+6 Theory of perfectly plastic Solids Prager and Hodge Dover Publication,
+Inc., Newyork,1968
+7 Theory of Elasticity H. Leipholz Noordhoff
+International
+Publishing, Layden,
+1974
+8 Applied Elasticity Z. Xu New Age
+International Private
+Limited, 1997
+9 Advanced Mechanics of Solids L.S. Srinath Tata McGraw Hill,
+India, 3rd Edition,
+2017
+10 Computational Elasticity—Theory M. Ameen Alpha Science
+of Elasticity, Finite and Boundary International Ltd,
+Element Methods Revised Edition,
+2014
+11 Plasticity: Fundamentals and Martin, J.B., MIT Press, London,
+General Results 1975
+12 Theory of Plasticity J. Chakrabarty Butterworth-
+Heinemann, 2006
+13 Mathematical Theory of Plasticity R. Hill Oxford University
+Press, 1998
+SE 8 | P a ge
+
+--- Page 11 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+14 Plasticity for Structural Engineers W.F. Chen and D.J. J Ross Publishing,
+Han 2007
+Course Outcomes:
+On successful completion of the course, students will be able:
+1. To formulate/establish the basic equations of elasticity and plasticity in Cartesian
+and polar coordinate system.
+2. To differentiate plain stress and plain strain problems of elasticity and plasticity in
+Cartesian and Polar coordinate system.
+3. To validate the elasticity and plasticity concepts for formulating real problems.
+4. Solve torsion problems in circular and non-circular cross-sections
+5. To comprehend failure mechanisms in materials.
+6. Solve analytically the simple boundary value problems with elasto-plastic and
+strain hardening properties.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Outcome Course Outcome
+(CO)
+PCE11B01.1 To formulate/establish the basic equations of elasticity and plasticity
+in Cartesian and polar coordinate system.
+PCE11B01.2 To differentiate plain stress and plain strain problems of elasticity
+and plasticity in Cartesian and Polar coordinate system.
+PCE11B01.3 To validate the elasticity and plasticity concepts for formulating real
+problems.
+PCE11B01.4 Solve torsion problems in circular and non-circular cross-sections
+PCE11B01.5 To comprehend failure mechanisms in materials.
+PCE11B01.6 Solve analytically the simple boundary value problems with elasto-
+plastic and strain hardening properties.
+SE 9 | P a ge
+
+--- Page 12 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11B01.1 3 2 3 1 1 1
+PCE11B01.2 3 2 3 1 1 1
+PCE11B01.3 3 1 2 1 1 1
+PCE11B01.4 3 1 2 1 1 1
+PCE11B01.5 3 2 3 1 1 1
+PCE11B01.6 3 2 3 1 1 1
+Total 18 10 16 6 6 6
+Average 3 1.66 2.66 1 1 1
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11B01.1 2 2
+PCE11B01.2 1 1
+PCE11B01.3 1 2
+PCE11B01.4 2 3
+PCE11B01.5 2 2
+PCE11B01.6 2 3
+Total 10 13
+Average 1.67 2.16
+Equivalent Avg. Attainment 2 2
+STRUCTURAL DYNAMICS
+(PCE11C01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives: By the end of the course the student is expected
+1. To have a fundamental understanding of dynamics of different oscillating systems
+and to establish mathematical model of any system under different type of loads
+and underlying assumption.
+2. To solve mathematical models by different analytical, numerical methods.
+3. To have the understanding of the structural dynamics and the problem-solving
+ability for dynamic response of structural system.
+4. To prepare the ground for research students to undertake research in this field.
+SE 10 | P a ge
+
+--- Page 13 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Content:
+Unit 1:
+Types of vibration- spring action- and damping- degrees of freedom-Application of
+Newton’s Law- Free body diagram-D’Alembert’s principle, single degree of freedom
+system- mathematical model of physical systems- Free vibrations of undamped and
+viscously damped system. Critically damped, overdamped and underdamped system,
+Logarithmic decrement.
+Unit 2:
+Response of viscously damped SDOF systems to harmonic excitations; vibration
+isolation- Force Transmissibility and base motion – principle of vibration measuring
+instruments.
+Unit 3:
+Response to general dynamic excitation; Response of an undamped SDOF system to short
+duration impulse; unit impulse response. Response of undamped system of constant force,
+rectangular, and triangular loading; Numerical evaluation of Duhamel’s integral –
+undamped and damped system.
+Frequency domain analysis; Fourier analysis; Response to a loading represented by
+Fourier series.
+Unit 4
+Multi Degree of Freedom Systems: Selection of the degrees of freedom-Evaluation of
+inertia and stiffness matrices, proportional damping. Formulation of the MDOF equations
+of motion- undamped free vibrations- Solutions of Eigen value problem for natural
+frequencies and mode shapes, forced vibration response – Normal coordinates-uncoupled
+equations of motion-Orthogonal properties of normal modes- Modal superposition
+method, response of a shear building to base motion.
+Unit 5
+Vibration of Continuous Systems: Free vibrations of Continuous Systems- axial and
+transverse vibration of bars / beams. Response of continuous systems to dynamic loads.
+Energy Principle, Rayleigh-Ritz method.
+References:
+Sl.No Name of Book Author Publisher
+1 Dynamics of Structures Chopra, A.K. Pearson Education,
+5th Edition, India,
+2020
+2 Dynamics of Structures Clough, R.W. & McGraw Hill, 2nd
+Penzin, J. Edition, 1993
+3 Dynamics of Structures Humar, J.L. CRC Press, 3rd
+Edition, 2012
+SE 11 | P a ge
+
+--- Page 14 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+4 Structural Dynamics Mario, Paz Springer (sie), 5th
+Edition, 2007
+5 Advanced Dynamics Timoshenko, S. Literary Licensing,
+LLC, 2012
+6 Elements of Vibration Analysis Meirovitch, L.
+McGraw Hill
+Education, 2nd
+Edition, 2014.
+7 Introduction of Structural Biggs, J.M. McGraw Hill, NY,
+Dynamics 1964
+8 Engineering Vibration Daniel Inman Pearson Prentice
+Hall, 2013
+Course Outcomes:
+At the end of the course, the student will be able to
+1. Convert structure into SDOF system.
+2. Find response of free and force vibration (harmonic, periodic and transient) of SDOF
+system.
+3. Find natural frequency and mode shapes of MDOF system.
+4. Carry out modal analysis of MDOF system.
+5. Perform experiments and computer simulation of vibrating system.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome
+(CO)
+PCE11C01.1 Convert structure into SDOF system.
+PCE11C01.2 Find response of free and force vibration (harmonic, periodic and
+transient) of SDOF system.
+PCE11C01.3 Find natural frequency and mode shapes of MDOF system.
+PCE11C01.4 Carry out modal analysis of MDOF system.
+PCE11C01.5 Perform experiments and computer simulation of vibrating system.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11C01.1 3 2 3 1 1 1
+PCE11C01.2 3 2 3 1 1 1
+PCE11C01.3 3 2 3 2 1 1
+SE 12 | P a ge
+
+--- Page 15 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11C01.4 1 1 1 1 1 2
+Total 10 7 10 5 4 5
+Average 2.5 1.75 2.5 1.25 1 1.25
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE11C01.1 2 2
+PCE11C01.2 3 3
+PCE11C01.3 2 2
+PCE11C01.4 2 2
+PCE11C01.5 2 3
+Total 11 12
+Average 2.2 2.4
+Equivalent 2 2
+Avg.
+Attainment
+ADVANCED STRUCTURAL ANALYSIS
+(PCE11C02)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To understand basic concepts of Matrix Methods of Structural Analysis.
+2. To learn fundamentals of Flexibility and Stiffness Methods of Structural Analysis.
+3. To analyse the behaviour of plane trusses, continuous beams, and portal frames using
+Stiffness Matrix Method.
+4. To analyse the behaviour of plane trusses, continuous beams, and portal frames using
+Flexibility Matrix Method.
+5. To analyse the behaviour of beams on elastic foundation.
+Course Content:
+Unit- 1
+Basic concepts of structural analysis and methods of solving simultaneous
+equations: Introduction, Types of framed structures, Static and Kinematic
+Indeterminacy, Equilibrium equations, Compatibility conditions, Principle of
+superposition, Energy principles, Equivalent joint loads, Methods of solving linear
+simultaneous equations- Gauss elimination method, Cholesky method and Gauss-Siedal
+method.
+SE 13 | P a ge
+
+--- Page 16 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Unit- 2
+Fundamentals of Flexibility and Stiffness Methods: Concepts of stiffness and
+flexibility, Local and Global coordinates, Development of element flexibility and element
+stiffness matrices for truss, beam and grid elements, Force-transformation matrix,
+Development of global flexibility matrix for continuous beams, plane trusses and rigid
+plane frames, Displacement-transformation matrix, Development of global stiffness
+matrix for continuous beams, plane trusses and rigid plane frames.
+Unit- 3
+Analysis using Stiffness Method (including secondary effects): Continuous beams,
+plane trusses and rigid plane frames.
+Unit- 4
+Analysis using Flexibility Method (including secondary effects): Continuous beams,
+plane trusses and rigid plane frames.
+Unit- 5
+Analysis of beams on elastic foundation: Introduction to infinite, semi-infinite and
+finite beams, analysis of infinite and semi-infinite beams resting on elastic foundation for
+different support conditions.
+References:
+Sl.
+Name of Book Author Publisher
+No.
+McGraw Hill
+Structural Analysis – A matrix Pandit, G. S. &
+1. Education, 2nd
+approach Gupta, S. P.
+Edition, 2008
+CBS Publishers &
+Matrix Analysis of Framed Weaver, W.
+2. Distributors, 2nd
+Structures & Gere, James M.
+Edition, 2004
+S. Rajasekaran, S. Prentice Hall India
+3. Computational Structural Mechanics &Sankarasubraman Learning Private
+ian, G. Limited, 2001
+Introduction to Matrix Methods of McGraw-Hill
+4. Martin, Harold C.
+Structural Analysis Inc.,US, 1966
+Matrix Computer Analysis of Rubinstein, Moshe
+5. Prentice-Hall, 1967
+Structures F.
+Beaufait, F. W.,
+Computer Methods of Structural Rowan, W. H., Jr.,
+6. Prentice-Hall, 1971
+Analysis Hoadely, P. G., and
+Hackett, R. M.
+Elementary Matrix Analysis of McGraw-Hill
+7. Kardestuncer, H.
+Structures Inc.,US, 1974
+Beams on elastic foundation: Theory The University of
+8 with applications in the Fields of Civil Miklos Hetenyi Michigan Press,
+and Mechanical Engineering 1946
+SE 14 | P a ge
+
+--- Page 17 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Outcomes:
+Upon completing this course, the students will be able to:
+1. Formulate force displacement relation by flexibility and stiffness method.
+2. Analyse the plane trusses, continuous beams and portal frames by transformation
+approach.
+3. Analyse the structures by direct stiffness method.
+4. Analyse beams on elastic foundation.
+To establish the correlation between COs & POs
+Table - 1
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will able to formulate force displacement relation by
+PCE11C02.1
+flexibility and stiffness method.
+Students will able to analyse the plane trusses, continuous beams
+PCE11C02.2
+and portal frames by transformation approach.
+Students will able to analyse the structures by direct stiffness
+PCE11C02.3
+method.
+PCE11C02.4 Students will able to analyse beams on elastic foundation.
+Table- 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11C02.1 3 3 3 1 1 1
+PCE11C02.2 3 3 3 1 1 1
+PCE11C02.3 3 3 3 1 1 1
+PCE11C02.4 3 3 3 1 1 1
+PCE11C02.5 3 3 3 1 1 1
+Total 15 15 15 5 5 5
+Average 3 3 3 1 1 1
+Equivalent 3 3 3 1 1 1
+Avg.
+Attainment
+Table - 3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11C02.1 3 2
+SE 15 | P a ge
+
+--- Page 18 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11C02.2 3 2
+PCE11C02.3 3 2
+PCE11C02.4 3 2
+Total 12 8
+Average 3 2
+Equivalent Avg.
+2 2
+Attainment
+Elective Paper-I
+ADVANCED DESIGN OF R. C. STRUCTURES
+(PCE11E01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+To be familiar with professional and existing issues in the design and construction of
+different structural members by using the appropriate relevant design parameter.
+Course Content:
+Unit- 1:
+Introduction: Design Philosophy, modelling of loads, material characteristics.
+Reinforced Concrete: M-φ relationship: IS code, ACI code, Behaviour of RC element
+under flexure, shear, torsion and combined axial load-bending moment, Provision of IS
+ACI code.
+Unit- 2:
+Design of Special RCC structures: Design of RC member in tension, Design of
+Chimney, Grid slab, Dome, Water tank, folded plate.
+Unit- 3:
+Pre-stressed concrete: Introduction, pre-stressed systems, Pre-tensioned and post
+tensioned members, Analysis, Losses in pre-stressed concrete, Pressure line, Load
+balancing concept, Factors influencing deflection, Analysis and design of statically
+determinate pre-stressed concrete structure for flexure and shear, statically indeterminate
+beams. Provision of IS codes.
+Unit- 4:
+Design of pre-stressed Concrete Structures: Design of flexural members, Design for
+Shear, bond and torsion. Design of end blocks and their importance.
+SE 16 | P a ge
+
+--- Page 19 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+References:
+Sl. No. Name of the Book Author Publisher
+Jaico Publishing
+1 Reliability analysis R. Ranganathan
+House, 2006
+McGraw Hill
+S.U. Pillai and
+2 Reinforced concrete design Education, 3rd
+Devdas Menon
+Edition, 2017
+McGraw Hill
+3 Pre-stressed concrete N. Krishna Raju Education, 6th
+Edition, 2018
+Structural Modelling and H.G. Harris and CRC Press, 2nd
+4
+Experimental Techniques G.M. Sabnis Edition, 1999
+E. Bray and R.K. CRC Press, Revised
+5 Non destructive Evaluation
+Stanley Edition, 1996
+Wiley India Private
+6 Design of Pre-stressed concrete T.Y. Lin Limited, 3rd Edition,
+2010
+Course Outcomes:
+At the end of the course, student will be able to
+1. Understand the different design philosophy and methods of structural design using
+IS and ACI codes.
+2. Analyze different parameter required to design of various structural elements.
+3. Compute the design parameters for different structural elements under different
+parameter.
+4. Implement the structural design parameters in structural drawing for site
+execution.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE11E01.1 Student will be able to understand the different design
+philosophy and methods of structural design using IS and ACI
+codes.
+PCE11E01.2 Student will be able to Analyze different parameter required to
+design of various structural elements.
+PCE11E01.3 Student will be able to Compute the design parameters for
+different structural elements under different parameter.
+PCE11E01.4 Student will be able to implement the structural design
+parameters in structural drawing for site execution.
+SE 17 | P a ge
+
+--- Page 20 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E01.1 2 - 2 1 1 1
+PCE11E01.2 2 1 2 1 1 1
+PCE11E01.3 2 1 2 1 1 1
+PCE11E01.4 2 2 - - 1 1
+Total 8 4 6 3 4 4
+Average 2 1 1.5 0.75 1 1
+Equivalent 2 2 2 1 1 1
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11E01.1 2 1
+PCE11E01.2 2 1
+PCE11E01.3 2 1
+PCE11E01.4 2 1
+Total 2 1
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+ADVANCED DESIGN OF PRE-STRESSED CONCRETE
+(PCE11E02)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To understand basic concepts of pre-stressed concrete structures.
+2. To understand the behaviour of pre-stressed concrete elements and sections.
+3. To learn design of pre-stressed concrete section for flexure and shear.
+4. To understand the transfer of pre-stress in pre-tensioned members.
+5. To understand the behaviour of statically indeterminate pre-stressed concrete structure.
+SE 18 | P a ge
+
+--- Page 21 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Content:
+Unit – 1
+Introduction to the Pre-stressed concrete: Pre-tensioned and post
+tensioned members, Analysis of section for flexure, Pressure line, Load
+balancing concept, Loss of prestress in pre-tensioned and post-tensioned members due to
+various causes like elastic shortening of concrete, shrinkage of concrete, creep of
+concrete, relaxation of steel, slip in anchorage, bending of member and frictional loss.
+Provision of IS codes.
+Unit – 2
+Design of Section for Flexure: Allowable stresses, Elastic design of simple beams
+having rectangular and I-section for flexure, kern lines, cable profile and cable layout.
+Design of Sections for Shear: Shear and Principal stresses, Improving shear resistance
+by different prestressing techniques- horizontal, sloping and vertical prestressing,
+Analysis of rectangular and I–beam, Design of shear reinforcement, Indian code
+provisions.
+Unit – 3
+Deflections of Prestressed Concrete Beams: Short term deflections of uncracked
+members, Prediction of long-term deflections, load–deflection curve for a PSC beam, IS
+code requirements for maximum deflections.
+Unit – 4
+Transfer of Prestress in Pretensioned Members: Transmission of prestressing force by
+bond, Transmission length, Flexural bond stresses, IS code provisions, Anchorage zone
+stresses in post tensioned members, stress distribution in End block, Anchorage zone
+reinforcements.
+Unit – 5
+Statically Indeterminate Structures: Advantages and disadvantages of continuous PSC
+beams, Primary and secondary moments, P and C lines, Linear transformation,
+concordant and non-concordant cable profiles, Analysis of continuous beams.
+References:
+Sl.
+Name of Book Author Publisher
+No.
+Tata McGraw Hill Education Pri-
+1. Advanced Mechanics of Solids Srinath L.S. vate Limited, 3rd Edition, 2010
+McGraw Hill Education, 6th
+2. Pre-stressed concrete N. Krishna Raju
+Edition, 2018
+Wiley India Private Limited, 3rd
+Design of Prestress Concrete
+3. Lin T.Y. and Burns N.H. Edition, 2010
+Structures
+SE 19 | P a ge
+
+--- Page 22 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Dhanpat Rai Publishing
+4. Prestressed Concrete Ramamrutham S.
+Company, 2013
+Wiley India Private Limited, 3rd
+5. Design of Pre-stressed concrete T.Y. Lin
+Edition, 2010
+Course Outcomes:
+Upon completing this course, the students will be able to:
+1. Analyse pre-stressed concrete elements.
+2. Design pre-stressed concrete section for flexure and shear.
+3. Analyse transfer of pre-stress in pre-tensioned members.
+4. Analyse behaviour of statically indeterminate pre-stressed concrete structure.
+Table 1
+To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE11E02.1 Students will able to analyse pre-stressed concrete elements.
+PCE11E02.2 Students will able to design pre-stressed concrete section for flexure and
+shear.
+PCE11E02.3 Students will able to analyse transfer of pre-stress in pre-tensioned
+members.
+PCE11E02.4 Students will able to analyse behaviour of statically indeterminate pre-
+stressed concrete structure.
+Table – 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E02.1 3 2 3 1 1 1
+PCE11E02.2 3 2 3 1 1 1
+PCE11E02.3 3 2 1 1 1 1
+PCE11E02.4 3 2 3 1 1 1
+Total 12 8 10 4 4 4
+Average 3 2 2.5 1 1 1
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+SE 20 | P a ge
+
+--- Page 23 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table – 3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E02.1 3 3
+PCE11E02.2 3 3
+PCE11E02.3 3 3
+PCE11E02.4 3 3
+PCE11E02.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg.
+3 3
+Attainment
+TALL STRUCTURES
+(PCE11E03)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Courses Objectives:
+1. To understand the different types of loads may act on tall structures as well the
+methodology to be chosen to analyze these.
+2. To understand about the behavior of various types of structural system.
+3. To carry out analysis and design of different tall structures.
+4. To check the stability of tall buildings.
+Course Content:
+Unit-1
+Design philosophy- materials- loading- Gravity loading- Wind loading- Earthquake
+loading-blast loading.
+Unit -2
+Behavior of various structural systems- factors affecting growth, height and structural
+form- High rise behavior, rigid frames, braced frames, infilled frames, shear walls,
+coupled shear walls, wall frames, tubular, cores, outrigger-braced and hybrid mega
+system.
+SE 21 | P a ge
+
+--- Page 24 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Unit -3
+Analysis and design: -modelling for approximate analysis, accurate analysis and
+reduction techniques. Analysis of building as total structural systems considering overall
+integrity and major subsystem interaction, Analysis for member forces, drift and twist,
+computerised general three-dimensional analysis- Shear wall frame interaction. Structural
+elements: - Sectional shapes, properties and resisting capacity, deflection, cracking.
+Prestressing, design for differential movement, creep, and shrinkage effects, temperature
+effects and fire resistance.
+Unit -4
+Stability of tall building. Overall buckling analysis of frames- P- Delta analysis-
+Translational, torsional instability, out of plumb effects, effect of foundation rotation.
+References:
+Sl Name Of Book Author Publisher
+No.
+1. Structural Analysis and Taranath , B.S. CRC Press, 2011
+design of Tall Building
+2. High Rise Building Wolf gang Schuller John Wiley and Sons,
+Structures 1977
+3. Advances in Tall Lynn S. Beedle Van Nostrand
+Buildings Reinhold, 1986
+4. Tall Building Structures: Brayan Stafford Smith Wiley India Pvt Ltd,
+Analysis and Design 2011
+5. Wind effects on structures Emil Simiu & Robert H. John Wiley & Sons,
+Scanlan 2nd Edition, 1986
+6. Earthquake resistant Pankaj Agarwal and Manish PHI, 2011
+design Shrikhande
+Course Outcomes: At the end of the course, student will be able to
+1. Apply the knowledge of engineering fundamentals to understand the design criteria
+and structural forms of tall buildings.
+2. Identify the effects of loading in high rise structures.
+3. Analysis and design the tall structures.
+4. Stability check of tall structures.
+5. Select the modern sophisticated software to analyze and design the tall structures.
+To establish the correlation between COs & Pos
+Table-1
+No. of Course Course Outcome
+Outcome
+(CO)
+PCE11E03.1 Students will be able to apply the knowledge of engineering
+SE 22 | P a ge
+
+--- Page 25 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+fundamentals to understand the design criteria and structural forms of
+tall buildings
+PCE11E03.2 Students will be able to identify the effects of loading in high rise
+structures.
+PCE11E03.3 Students will be able to analyze and design the tall structures.
+PCE11E03.4 Students will be able to do stability check of tall structures.
+PCE11E03.5 Student will be able to select the modern sophisticated software to
+analyze and design the tall structures.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E03.1 2 2 1 - 2 2
+PCE11E03.2 2 2 1 - 2 2
+PCE11E03.3 2 1 2 1 1 2
+PCE11E03.4 2 2 2 1 1 2
+PCE11E03.5 2 2 2 1 1 2
+Total 10 9 8 3 7 10
+Average 2 1.8 1.6 0.6 1.4 2
+Equivalent 2 2 2 1 1 2
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E03.1 3 2
+PCE11E03.2 3 3
+PCE11E03.3 3 3
+PCE11E03.4 3 3
+PCE11E03.5 3 3
+Total 15 14
+Average 3 2.8
+Equivalent Avg. Attainment 3 3
+SE 23 | P a ge
+
+--- Page 26 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Structural Reliability
+(PCE11E04)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+On successful completion of the course, students will be able:
+1. To understand different mathematical tools for quantifying uncertainties using
+theories of probability, random variables and random processes.
+2. To carry out statistical analysis of materials and loads.
+3. To develop the theory of methods of structural reliability based on concept of
+reliability indices. This includes discussions on FORM and SORM.
+4. To introduce methods of reliability analysis using Monte Carlo simulations that
+includes discussion of variance reduction techniques and RSM.
+5. To provide the necessary background to carry out reliability-based design. Code
+provisions for reliability-based design.
+6. To correlate fundamentals of probability theory to structural reliability.
+7. To prepare the ground for research students to undertake research in this field.
+Course Content:
+Unit 1:
+Basic Statistics: - Introduction, data reduction
+Probability theory: Introduction, random events, random variables, functions of random
+variables, moments and expectation, common probability distributions.
+Unit 2:
+Resistance distributions and parameters: - Introduction, Statistics of properties of
+concrete, steel and other building materials, statistics of dimensional variations,
+characterization of variables, allowable stresses based on specified reliability.
+Probabilistic analysis of loads: gravity loads, wind loads.
+Unit 3:
+Basic structural reliability: - Introduction, computation of structural reliability.
+Level 2 Reliability methods: Introduction, basic variables and failure surface, first order
+second moment methods (FOSM)
+Unit 4:
+Reliability based design: Introduction, determination of partial safety factors,
+development of reliability-based design criteria, optimal safety factors.
+Unit 5:
+Monte Carlo study of structural safety: - General, Monte Carlo method, applications
+Unit 6:
+Reliability of Structural system: Introduction, system reliability, modelling of structural
+systems, bounds of system reliability, reliability analysis of frames.
+SE 24 | P a ge
+
+--- Page 27 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Reference:
+Sl. Name of Book Author Publisher
+No
+1 Reliability Analysis and Design of R. Ranganathan Jaico Publishing
+Structures House, 2006
+2 Probability Concepts in Engineering A. H. S Ang and W. John Wiley & Sons,
+Planning and Design, Vol. I Basic H. Tang 1975
+Principles
+3 Probability Concepts in Engineering A. H. S Ang and W. John Wiley & Sons,
+Planning and Design, Vol. II H. Tang 1984
+Decision, Risks and Reliability
+4 Probability, Statistics and Decision Jack R. Benjamin & Dover Publications
+for Engineers C. Allin Cornell Inc., 2014
+Course Outcomes:
+On successful completion of the course, students will be able:
+1. To have a full understanding of the uncertainties involved in structural problems
+and the resulting risks.
+2. To utilize different statistical and probabilistic methods for the modelling and
+analysis of component capacities and different types of materials and loads.
+3. To be able to evaluate the safety of a structural system in terms of the reliability of
+its components considering different failure modes.
+4. To be able to understand the philosophy and underlying assumptions in the
+probabilistically based code specifications.
+5. To correlate fundamentals of probability theory to structural reliability.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Outcome
+Course
+Outcome
+(CO)
+PCE11E04.1 To have a full understanding of the uncertainties involved in structural
+problems and the resulting risks.
+PCE11E04.2 To utilize different statistical and probabilistic methods for the modelling
+and analysis of component capacities and different types of materials and
+loads.
+PCE11E04.3 To be able to evaluate the safety of a structural system in terms of the
+reliability of its components considering different failure modes.
+PCE11E04.4 To be able to understand the philosophy and underlying assumptions in
+the probabilistically based code specifications
+PCE11E04.5 To correlate fundamentals of probability theory to structural reliability.
+SE 25 | P a ge
+
+--- Page 28 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E04.1 3 2 3 1 1 1
+PCE11E04.2 3 2 3 1 1 1
+PCE11E04.3 3 2 3 1 2 2
+PCE11E04.4 3 2 3 1 1 1
+PCE11E04.5 3 2 2 1 1 1
+Total 15 10 14 5 6 6
+Average 3 2 2.8 1 1.2 1.2
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E04.1 2 2
+PCE11E04.2 3 3
+PCE11E04.3 3 3
+PCE11E04.4 3 3
+Total 11 11
+Average 2.75 2.75
+Equivalent Avg. Attainment 3 3
+SOIL STRUCTURE INTERACTION
+(PCE11E05)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. To understand about the importance of interaction mechanics.
+2. To understand the effect of soil-structure interaction on response of structural system.
+3. To know the SSI modeling techniques and analysis.
+4. To understand the design implications.
+SE 26 | P a ge
+
+--- Page 29 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Content:
+Unit-1
+General soil-structure interaction problems, Contact pressures and soil-structure
+interaction for shallow foundations, Concept of sub grade modulus, effects/parameters
+influencing subgrade modulus. Soil behaviour, Foundation behaviour, Interface behaviour
+Unit-2
+Scope of soil foundation interaction analysis, soil response models, Winkler, Elastic
+continuum, Two parameter elastic models, Elastic plastic behaviour, Time dependent
+behaviour. Isotropic elastic half space
+Unit-3
+Beam on Elastic Foundation-Soil Models: Infinite beam, Two parameters, Analysis of
+beams of finite length, Classification of finite beams in relation to their stiffness. Elastic
+Analysis of Pile: Elastic analysis of single pile, Theoretical solutions for settlement and
+load distributions. Analysis of pile group, Interaction analysis, Load distribution in groups
+with rigid cap. Laterally Loaded Pile: Load deflection prediction for laterally loaded piles,
+Subgrade reaction and elastic analysis, Interaction analysis, Pile-raft system, Solutions
+through influence charts. Uplift capacity of piles and anchors.
+Unit-4
+Plate on Elastic Medium: Thin and thick plates, Analysis of finite plates, Numerical
+analysis of finite plates, simple solutions.
+Unit- 5
+Dynamic Soil Structure interaction, Inertial and Kinematic Interaction, Direct and
+substructure approach of model analysis, Dynamic stiffness, Dynamic equilibrium
+equation.
+References:
+Sl No. Name Of Book Author Publisher
+1. Advanced Geotechnical Chandrakant S. Desai CRC Press Taylor and
+Engineering Soil–Structure Musharraf Zaman Francis Group 2014
+Interaction Using Computer and
+Material Models
+2. Elastic Analysis of Soil- SelvaDurai, A. P. S Elsevier, 1979.
+Foundation Interaction
+3. Pile Foundation Analysis and Poulos, H. G., and Prentice Hall, 1981
+Design Davis, E. H.
+4. Structure Soil Interaction State of Art Report,
+Institution of Structural
+Engineers, 1978
+5 Suggested Analysis and Design ACI 336. (1988) American Concrete
+Procedures for combined Institute,1988.
+SE 27 | P a ge
+
+--- Page 30 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+footings and Mats
+6 Foundation Analysis Scott, R. F. Prentice-Hall
+7 Dynamic Soil Structure John P Wolf Prentice Hall, 1985
+Interaction
+Course Outcomes:
+1. Students will be able to learn the behavior of whole system.
+2. Students will be able to learn linear and nonlinear behavior of soil-structure system.
+3. Students will be able to develop in depth idea about design of foundation.
+4. Students will be able to learn both static and dynamic SSI based design.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome
+(CO)
+PCE11E05.1 Students will be able to learn the behavior of whole system.
+PCE11E05.2 Students will be able to learn linear and nonlinear behavior of soil-structure
+system.
+PCE11E05.3 Students will be able to develop in depth idea about design of foundation.
+PCE11E05.4 Students will be able to learn both static and dynamic SSI based design.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E05.1 2 2 2 1 2 1
+PCE11E05.2 1 1 1 1 1 1
+PCE11E05.3 2 1 1 1 2 2
+PCE11E05.4 2 1 1 1 1 1
+Total 7 5 5 4 6 5
+Average 1.75 1.25 1.25 1 1.5 1.25
+Equivalent 2 1 1 1 2 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E05.1 2 2
+PCE11E05.2 3 3
+SE 28 | P a ge
+
+--- Page 31 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11E05.3 3 3
+PCE11E05.4 3 3
+Total 11 11
+Average 2.75 2.75
+Equivalent Avg. Attainment 3 3
+ROCK MECHANICS
+(PCE11E06)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. The course objective is to understand physical and mechanical properties as well
+as mechanical behaviours of fractured rock mass.
+2. To study the static and dynamic stability of blocky rock mass
+3. To understand the applications in the majority of infrastructure projects including
+dams, roads, tunnels, bridges, buildings on fractured rock mass and protection of
+unstable rock slopes.
+Course Content:
+Unit-1
+Classification and Index Properties of Rocks.
+Unit-2
+Rock Strength and Failure Criteria.
+Unit-3
+Initial Stresses in Rocks and Their Measurement, Planes of Weaknesses in Rocks.
+Unit-4
+Dynamic properties of Rocks: Types of waves, waves propagation, Factors influencing
+wave velocity, Static and dynamic moduli of elasticity.
+Unit-5
+Applications of rock mechanics in engineering for underground openings, Applications of
+rock mechanics to rock slope engineering, Applications of rock mechanics to foundation
+engineering.
+References:
+Sl No. Name Of Book Author Publisher
+1. Introduction to Rock Mechanics Richard E. Goodman Wiley, 2nd Edition,
+Rock Mechanics and Engineering
+SE 29 | P a ge
+
+--- Page 32 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+1989
+2. Engineering Rock Mass Bieniawski, Z. T John Wiley and Sons,
+Classification 1989
+3. Analytical and computational meth- E.T. Brown Allen and Unwin
+ods in engineering rock mechanics. Australia, 1987
+4. Rock Engineering Course note by Evert Hoek A.A. Balkema Pub-
+Evert Hoek lishers
+Course Outcomes:
+1. Students will be able to understand the principles of rock mechanics for effective
+strata stability.
+2. Students will be able to evaluate strength and failure of fractured rock mass.
+3. Students will be able to understand the concepts of lined and unlined tunnels.
+4. Students will be able to understand the control of rock deformation and fracture
+processes provides topic such as rock yielding criteria, numerical analysis proce-
+dures and behaviour of rock joints.
+5. Students will be able to evaluate the in situ and induced stresses using different
+numerical methods such as DDA and DEM.
+6. Students will able to learn how these govern rock slope stability and underground
+rock excavation methods in a given stress environment.
+To establish the correlation between COs & Pos
+Table-1
+No. of Course
+Outcome Course Outcome
+(CO)
+Students will be able to understand the principles of rock mechanics for effective
+PCE11E06.1
+strata stability.
+Students will be able to understand the analysis of stresses in case of rocks
+PCE11E06.2
+PCE11E06.3 Students will be able to understand the concepts of lined and unlined tunnels.
+Students will be able to understand the control of rock deformation and fracture
+processes provides topic such as rock yielding criteria, numerical analysis procedures
+PCE11E06.4
+and behaviour of rock joints.
+Students will be able to evaluate the in situ and induced stresses using different
+PCE11E06.5
+numerical methods such as DDA and DEM.
+Students will able to learn how these govern rock slope stability and underground
+PCE11E06.6
+rock excavation methods in a given stress environment
+Table-2
+SE 30 | P a ge
+
+--- Page 33 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E06.1 2 2 2 1 2 2
+PCE11E06.2 2 2 2 1 2 2
+PCE11E06.3 3 2 2 1 1 1
+PCE11E06.4 3 3 2 2 2 2
+PCE11E06.5 2 2 2 1 1 1
+PCE11E06.6 2 2 2 1 2 2
+Total 14 13 12 7 10 10
+Average 2.33 2.16 2 1.16 1.66 1.66
+Equivalent 2 2 2 1 2 2
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E06.1 3 3
+PCE11E06.2 3 3
+PCE11E06.3 3 3
+PCE11E06.4 3 3
+PCE11E06.5 3 3
+PCE11E06.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+ELECTIVE II
+ADVANCED MATHEMATICS
+(PCE11E07)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. Introduce students to ordinary differential equations and the methods for solving these
+equations Use differential equations as models for real world phenomena.
+SE 31 | P a ge
+
+--- Page 34 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+2. Integrate the knowledge accumulated in the calculus sequence to solve applied
+problems.
+3. Introduce the fundamentals of Linear Algebra and Complex Analysis.
+4. Provide a rigorous introduction to upper-level mathematics which is necessary for
+students of engineering, physical sciences and mathematics.
+Course Content:
+Unit-1
+Calculus of Variations – Variation and its properties – Euler’s equation – Conditional
+extreme – Isoperimetric problems – Functional dependent on first and higher order
+derivatives – Functional dependent on functions of several independent variables – some
+applications – Direct methods – Ritz and Kantorovich methods, Euler’s finite difference
+method.
+Unit-2
+Laplace Transforms and Fourier Transforms. Application of Fourier Transform in solving
+initial and boundary value problems. Laplace Equation, Heat equation and wave equation.
+Unit-3
+Hankel’s Transform, elementing properties of Hankel transforms, Hankel inversion and
+transform theorems. Hankel transforms of derivatives of functions. Parsevel’s theorem.
+Hankel transforms of + = f .
+Unit-4
+Simulation – Types, case studies in various fields using simulation techniques, simulation
+softwares used, use of mathematical models based on probabilistic and statistical
+methods.
+Partial Differential Equations – Formation of PDE, Solutions of PDE, Equations solvable
+by direct integration, Linear equations of the first order, Non-linear equations of the first
+order, Charpit’s Method, Homogeneous Linear equations with constant coefficient, Non-
+Homo geneous Linear equations, Non-Linear equations of the second order.
+Unit-5
+Solution of Parabolic and Hyperbolic equations – Implicit and Explicit Schemes, ADI
+methods, Non-Linear parabolic equations – Iteration method, Solution of elliplic equation
+– Jacobi method, Gauss - Seidel & SOR method. Richardson method, RKF4.
+Unit-6
+Introduction to finite element method and its scope.
+References:
+SE 32 | P a ge
+
+--- Page 35 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Sl. Name Of Book Author Publisher
+No.
+1. Advanced Engineering Mathematics Kreyszig Erwin John Wiley & Sons (Asia)
+Pvt. Ltd., 10th Edition,
+2015
+2. Numerical Algorithms Krishnamurthy Afiliated East-west press
+& Sen private Limited, New
+Delhi, 2008
+3. Higher Engineering Mathematics Ramana, B. V. M cGraw-Hill Companies,
+New-Delhi, 2017
+Course Outcomes:
+1. To utilize various methods for solving ODEs and solve initial value problems,
+understand the existence and uniqueness of such solutions and to Recognize ODEs of
+varying order and use these to solve problems involving population dynamics,
+oscillation of a spring and resistance in a circuit.
+2. Ability to Work with and solve homogeneous and non-homogeneous ODEs and
+systems of ODEs. Moreover, to learn additional methods for solving ODEs including
+Euler’s method, the power series method and Laplace transforms.
+3. Perform basic operations with matrices, find the inverse of a matrix, determinant of a
+square matrix, as well as eigen values and eigen vectors and investigate associated
+applications, and to use matrices to solve systems of equations.
+4. Express complex numbers in trigonometric and polar form, and to perform operations
+with complex numbers, including finding the roots of unity.
+5. Explore functions of a single complex variable and calculate derivatives of analytic
+functions.
+6. Calculate line integrals in the complex plane, and Study Cauchy-Riemann equations,
+Cauchy’s integral theorem and Cauchy’s integral formula.
+To establish the correlation between COs & POs
+Table-1
+No. of
+Course
+Course Outcome
+Outcome
+(CO)
+To utilize various methods for solving ODEs and solve initial value
+PCE11E07.1
+problems, understand the existence and uniqueness of such solutions and to
+SE 33 | P a ge
+
+--- Page 36 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Recognize ODEs of varying order and use these to solve problems
+involving population dynamics, oscillation of a spring and resistance in a
+circuit.
+Ability to Work with and solve homogeneous and non-homogeneous ODEs
+and systems of ODEs. Moreover, to learn additional methods for solving
+PCE11E07.2
+ODEs including Euler’s method, the power series method and Laplace
+transforms.
+Perform basic operations with matrices, find the inverse of a matrix,
+determinant of a square matrix, as well as eigen values and eigen vectors
+PCE11E07.3
+and investigate associated applications, and to use matrices to solve
+systems of equations.
+Express complex numbers in trigonometric and polar form, and to perform
+PCE11E07.4
+operations with complex numbers, including finding the roots of unity.
+Explore functions of a single complex variable and calculate derivatives of
+PCE11E07.5
+analytic functions.
+Calculate line integrals in the complex plane, and Study Cauchy-Riemann
+PCE11E07.6
+equations, Cauchy’s integral theorem and Cauchy’s integral formula.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E07.1 2 1 2 2 2 1
+PCE11E07.2 2 2 2 2 1 1
+PCE11E07.3 2 2 2 2 1 1
+PCE11E07.4 2 2 2 2 1 1
+PCE11E07.5 2 2 2 2 1 1
+PCE11E07.6 2 2 2 2 1 1
+Total 12 11 12 12 7 6
+Average 2 1.83 2 2 1.16 1
+Equivalent 2 2 2 2 1 1
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE11E07.1 3 1
+PCE11E07.2 3 1
+PCE11E07.3 3 1
+PCE11E07.4 3 1
+PCE11E07.5 3 1
+SE 34 | P a ge
+
+--- Page 37 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11E07.6 3 1
+Total 18 6
+Average 3 1
+Equivalent Avg. Attainment 3 1
+NUMERICAL METHOD OF STRUCTURAL ANALYSIS
+(PCE11E08)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Courses Objectives:
+1. Develop knowledge to formulate the mathematical model of the civil engineering
+problems to solve.
+2. Analyze and asses the accuracy of common numerical methods.
+3. Apply numerical methods to obtain approximate solutions to mathematical problems
+related to structures.
+4. To imbibe the applications of mathematical tools and statistical methods for the
+solution of the problems related to structures.
+Course Content:
+Unit-1
+Fundamentals of numerical methods: error analysis, differentiation, integration,
+interpolation and extrapolation. Empirical laws, Curve fitting
+Unit -2
+Solution of non-linear algebraic and transcendental equations.
+Unit -3
+Solutions of systems of linear and non-linear algebraic equations.
+Unit -4
+Eigen value problems initial and boundary value problems, use of finite difference,
+finite element and other numerical technique for solving problems of equilibrium,
+stability and vibration of structure.
+Unit -5
+Correlation and regression, Principles of least squares. Introduction to application of
+MATLAB in numerical methods.
+SE 35 | P a ge
+
+--- Page 38 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+References:
+Sl Name Of Book Author Publisher
+No.
+1. Numerical Mathematical J.B. Scarborough Oxford & IBH
+Analysis Publishing Co Pvt.,
+2000
+2. Numerical methods in Salvadori and Baron Prentice Hall; 2nd
+Engineering edition (1 December
+1961)
+3. Numerical Methods- K.K. Jain, S.R.K. Wiley Eastern
+problems and Solutions Iyengar and R.K. Jain Limited, 2001
+4. Numerical Methods for R.W. Hamming Mcgraw Hill, 1998
+Scientists and Engineers
+5. Numerical Methods using J.H. Mathews and K.D. Pearson Education,
+MATLAB Fink 2004
+6. Probability and Statistics A.J. Hayter Duxbury, 2002.
+Web Resources:
+1. www.scilab.org/
+2. http://nptel.ac.in/
+3. http://ocw.mit.edu
+Course Outcomes:
+At the end of the course, student will be able to
+1. Solve algebraic equations.
+2. Obtain numerical solution of ordinary and partial differential equations.
+3. Apply integration method/s for structural analysis.
+4. Carry out interpolations and curve fitting.
+5. Obtain solution of Eigen value problems and Fourier series for structural analysis.
+6. Apply iterative and transformation methods in structural engineering.
+To establish the correlation between COs & Pos
+Table-1
+No. of Course Outcome Course Outcome
+(CO)
+PCE11E08.1 Students will be able to solve algebraic equations.
+PCE11E08.2 Students will be able to obtain numerical solution of ordinary
+and partial differential equations..
+PCE11E08.3 Students will be able to apply integration method/s for
+SE 36 | P a ge
+
+--- Page 39 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+structural analysis.
+PCE11E08.4 Students will be able to carry out interpolations and curve
+fitting.
+PCE11E08.5 Students will be able to obtain solution of Eigen value
+problems and Fourier series for structural analysis.
+PCE11E08.6 Students will be able to apply iterative and transformation
+methods in structural engineering.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E08.1 3 2 3 1 1 1
+PCE11E08.2 3 2 3 1 1 1
+PCE11E08.3 3 2 3 1 1 1
+PCE11E08.4 3 2 3 1 1 1
+PCE11E08.5 3 2 3 1 1 1
+PCE11E08.6 3 2 3 1 1 1
+Total 15 10 15 6 6 6
+Average 2.5 1.66 2.5 1 1 1
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11E08.1 2 1
+PCE11E08.2 2 1
+PCE11E08.3 2 1
+PCE11E08.4 2 1
+PCE11E08.5 2 1
+PCE11E08.6 2 1
+Total 2 1
+Average 2 1
+Equivalent 2 1
+Avg.
+Attainment
+SE 37 | P a ge
+
+--- Page 40 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+CONSTRUCTION MANAGEMENT AND QUALITY CONTROL
+(PCE11E09)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. To acquire knowledge in modern trends in management.
+2. To understand Network techniques like bar charts, CPM and PERT and the use of
+Management software.
+3. To apply optimization techniques to materials management and work assignment
+problems.
+4. To perform budget estimation and the use of cost control techniques. Use computer
+aided cost estimation.
+5. To learn the technique of quality control and safety in construction project.
+Course Content:
+Unit-1
+Project Management - Trends in Modern Management - Strategic Planning and Project
+Programming - Effects of Project Risks on Organization - Organization of Project
+Participants - Traditional Designer Constructor Sequence - Professional Construction
+Management - Owner-Builder Operation - Turnkey Operation - Leadership and
+Motivation for the Project Team - Interpersonal Behavior in Project Organizations -
+Perceptions of Owners and Contractors.
+Unit-2
+Network techniques: – bar charts – Critical path method – Programme evaluation and
+review technique – Time estimates- uncertainties of time - time computations –
+monitoring of projects – updating - Crashing and time-cost trade off PERT and CPM-
+Software Development - Use of Management Software.
+Unit-3
+Optimization techniques: - Resource allocation – Heuristic approach - Linear
+programming – Graphical and Simplex methods – Optimality Analysis - Material
+transportation and Work assignment problems
+Materials management: - planning and budgeting – inventory control – management of
+surplus materials - equipment control Process control: - work study- crew size – job
+layout- process operation.
+Unit-4
+The Cost Control Problem - The Project Budget - Forecasting for Activity Cost Control -
+Financial Accounting Systems and Cost Accounts - Control of Project Cash Flows -
+Schedule Control - Schedule and Budget Updates - Relating Cost and Schedule
+SE 38 | P a ge
+
+--- Page 41 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Information. Costs Associated with Constructed Facilities - Approaches to Cost
+Estimation - Type of Construction Cost Estimates - Effects of Scale on Construction Cost
+- Unit Cost Method of Estimation - Methods for Allocation of Joint Costs - Historical
+Cost Data - Cost Indices - Applications of Cost Indices to Estimating - Estimate Based on
+Engineer's List of Quantities - Allocation of Construction Costs Over Time - Computer
+Aided Cost Estimation - Estimation of Operating Costs.
+Unit-5
+Quality and Safety Concerns in Construction - Organizing for Quality and Safety - Work
+and Material Specifications - Total Quality Control - Quality Control by Statistical
+Methods - Statistical Quality Control with Sampling by Attributes - Statistical Quality
+Control with Sampling by Variables – Safety.
+References:
+Sl No. Name Of Book Author Publisher
+1. Construction Project Management: Chitkara, K.K. Tata McGraw-Hill
+Planning, Scheduling and Control Publishing Company,
+New Delhi, 1998.
+2. Construction Scheduling with Feigenbaum., L. Prentice Hall Inc.,
+Primavera Project Planner 1999.
+3. Financial and Cost Concepts for Halpin, D. John Wiley & Sons,
+Construction Management New York, 1985.
+4. Project Management Choudhury, S. Tata McGraw-Hill
+Publishing Company,
+New Delhi, 1988.
+5. Materials Management A.K Datta Prentice Hall, India,
+1984.
+6. Introduction to Materials Arnold, J.R Tony Prentice Hall, India,
+2007
+Course Outcomes:
+1. To be familiar with the modern trends in construction management.
+2. To understand the networking technique and application of relevant software.
+3. To be conversant with the optimization techniques for materials management and work
+assignment problems.
+4. To become well acquainted to perform budget estimation and the use of cost control
+techniques.
+5. To be familiar with safety measures and quality control in construction project.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome
+(CO)
+SE 39 | P a ge
+
+--- Page 42 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11E09.1 Students will be able to learn the modern trends in construction
+management.
+PCE11E09.2 Students will be able to understand the networking technique and application
+of relevant software.
+PCE11E09.3 Students will be familiar with the optimization techniques for materials
+management and work assignment problems.
+PCE11E09.4 Students will be well acquainted to perform budget estimation and the use of
+cost control techniques.
+PCE11E09.5 Students will be familiar with safety measures and quality control in
+construction project.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E09.1 2 3 2 1 1 1
+PCE11E09.2 2 3 2 1 1 1
+PCE11E09.3 2 3 2 1 1 1
+PCE11E09.4 2 3 2 1 1 1
+PCE11E09.5 2 3 2 1 1 1
+Total 10 15 10 5 5 5
+Average 2 3 2 1 1 1
+Equivalent 2 3 2 1 1 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E01.1 3 3
+PCE11E09.2 3 3
+PCE11E09.3 3 3
+PCE11E09.4 3 3
+PCE11E09.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. Attainment 3 3
+SE 40 | P a ge
+
+--- Page 43 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+STRUCTURAL MASONRY
+(PCE11E10)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+To be familiar with different behaviour of masonry structures as per different parameter
+and will able to design the masonry structure in various condition.
+Course Content:
+Unit 1:
+Introduction: Masonry construction - National and International perspective - Historical
+development, Modern masonry, Principles of masonry design, Masonry standards: IS
+1905 and others.
+Unit 2:
+Material Properties: Masonry units: clay and concrete blocks, Mortar, grout and
+reinforcement, Bonding patterns, Shrinkage and differential movements.
+Unit 3:
+Masonry under Compression and lateral loads: Prism strength, Eccentric loading,
+Kern distance. In-plane and out-of-plane loads, Analysis of perforated shear walls, Lateral
+force distribution -flexible and rigid diaphragms.
+Unit 4:
+Behavior of Masonry: Shear and flexure - Combined bending and axial loads -
+Reinforced and unreinforced masonry - Cyclic loading and ductility of shear walls for
+seismic design – Infill masonry.
+Unit 5:
+Structural design of Masonry: Working and Ultimate strength design - In-plane and
+out-of-plane design criteria for load-bearing and infill’s, connecting elements and ties -
+Consideration of seismic loads - Code provisions.
+References:
+Sl. No. Name of the Book Author Publisher
+Oxford & IBH
+Brick and Reinforced Brick
+1 Dayaratnam, P Publishing Co,
+Structures
+1987.
+Masonry Structures:
+Masonry Structures: Behaviour Drysdale, R. G.
+Behaviour &
+2 & Hamid, A. H. and
+Design”, Prentice
+Design Baker, L. R
+Hall Hendry,1994.
+A.W. Hendry, B.P. E & FN
+3 Design of Masonry Structures
+Sinha and Davis, S. Spon, UK, 1997
+SE 41 | P a ge
+
+--- Page 44 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+R
+Prentice Hall,
+4 Structural Masonry Sahlin, S Englewood Cliffs,
+NJ, 1971.
+R.S. Schneider and Prentice Hall, 3rd
+5 Reinforced Masonry Design
+W.L. Dickey edition, 1994.
+Seismic Design of Reinforced
+Paulay, T. and
+6 Concrete and John Wiley, 1992.
+Priestley, M. J. N.
+Masonry Buildings
+2nd Edition,
+7 Structural Masonry A.W. Hendry Palgrave McMillan
+Press, 1998.
+Course Outcomes: At the end of the course, student will be able to
+1. Analyze the behaviour of masonry structures under gravity and lateral loads.
+2. Design masonry structures for gravity, wind and seismic loads.
+3. Design masonry infill as shear walls for lateral action.
+4. Apply strengthening techniques for repair and rehabilitation of masonry
+structures.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+Outcome (CO)
+Student will be able to analyze the behaviour of masonry
+PCE11E10.1
+structures under gravity and lateral loads.
+PCE11E10.2 Student will be able to design masonry structures for gravity,
+wind and seismic loads
+PCE11E10.3 Student will be able to design masonry infill as shear walls for
+lateral action
+PCE11E10.4 Student will be able to apply strengthening techniques for
+repair and rehabilitation of masonry structures.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E10.1 2 1 2 1 2 2
+PCE11E10.2 2 1 2 1 2 2
+PCE11E10.3 2 1 2 1 2 2
+PCE11E10.4 2 1 2 1 2 2
+Total 8 4 8 4 8 8
+Average 2 1 2 1 2 2
+SE 42 | P a ge
+
+--- Page 45 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Equivalent 2 1 2 1 2 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E10.1 3 3
+PCE11E10.2 3 3
+PCE11E10.3 3 3
+PCE11E10.4 3 3
+Total 12 12
+Average 3 3
+Equivalent Avg. Attainment 3 3
+ADVANCED CONCRETE TECHNOLOGY
+(PCE11E11)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Courses objectives:
+1. To learn the cement chemistry and its microstructure.
+2. To learn about various types of admixtures and their effect on strength, durability and
+rheology of concrete.
+3. To learn about various phenomenon responsible for volume instability and
+deterioration process of concrete.
+4. To get exposure to sustainable concrete, special concrete, characterization technique
+and modeling of concrete properties.
+Course Content:
+Unit-1
+Hydration of cements and microstructural development.
+Unit-2
+Mineral additives, Supplementary cementitious materials, Chemical admixtures,
+Rheology of concrete.
+Unit-3
+Creep and relaxation, Shrinkage, cracking and volume stability, deterioration processes.
+SE 43 | P a ge
+
+--- Page 46 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Unit-4
+Special concretes, advanced characterization techniques, Sustainability issues in
+concreting, modelling properties of concrete.
+Unit-5
+Special concrete-Light weight concrete-fibre reinforced concrete-foamed concrete-
+Geopolymer concrete- Polymer impregnated concrete.
+References
+Sl No. Name Of Book Author Publisher
+1. Concrete Technology M.S.Shetty S.Chand & Comp.Ltd, 2006
+2. Properties of concrete A.M.Neville Pearson Education India, 5th Edition,
+2012
+3. Concrete Structure, P.K.Mehta Prentice Hall.Inc.USA, 1986
+properties and materials
+4. Concrete technology M.L.Gambhir Tata McGraw Hill, New Delhi,
+2017
+5 Polymers in Civil Engg. J.H.Bungey Surrey University Press, New
+York, 2012
+Course Outcomes:
+1. Students will be able to learn the cement chemistry, its hydration mechanism and
+microstructure.
+2. Students will be able to learn about various additive materials and supplementary
+cementitious materials for modifying various properties of concrete.
+3. Students will be able to learn about various factors which are responsible for
+deterioration of concrete.
+4. Students will be able to learn about special types of concrete, characterization
+technique and modelling of concrete properties.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE11E11.1 Students will be able to learn the cement chemistry, its hydration
+mechanism and microstructure.
+PCE11E11.2 Students will be able to learn about various additive materials and
+supplementary cementitious materials for modifying various
+properties of concrete.
+PCE11E11.3 Students will be able to learn about various factors which are
+responsible for deterioration of concrete.
+PCE11E11.4 Students will be able to learn about special types of concrete,
+characterization technique and modelling of concrete properties.
+SE 44 | P a ge
+
+--- Page 47 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E11.1 2 1 2 2 2 2
+PCE11E11.2 2 1 2 2 2 2
+PCE11E11.3 2 1 2 2 2 2
+PCE11E11.4 2 1 2 2 2 2
+Total 8 4 8 8 8 8
+Average 2 1 2 2 2 2
+Equivalent 2 1 2 2 2 2
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11P01.1 2 1
+PCE11P01.2 2 1
+PCE11P01.3 2 1
+PCE11P01.4 2 1
+Total 2 1
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+OPTIMIZATION IN ENGINEERING
+(PCE11E12)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. This course will introduce the students to the basic fundamentals of optimization
+methods that can be used during a design process.
+2. To understand unified and exact mathematical basis as well as the general princi-
+ples of various soft computing techniques.
+3. To understand and apply detailed theoretical and practical aspects of intelligent
+modeling, optimization and control of linear and non-linear systems.
+4. To understand the concept of some advance topics of optimization and apply ac-
+cordingly.
+SE 45 | P a ge
+
+--- Page 48 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course content:
+Unit- 1
+Introduction. Problem formulation with examples.
+Single Variable Unconstrained Optimization Techniques Optimality Criteria. Bracketing
+methods: Unrestricted search, Exhaustive search.
+Unit- 2
+Region Elimination methods: Interval Halving methods, Dichotomous search, Fibonacci
+method, Golden section method.
+Interpolation methods: Quadratic Interpolation method, Cubic Interpolation method. Gra-
+dient Based methods: Newton-Raphson method, Secant method, Bisection method.
+Unit 3
+Multi Variable Unconstrained Optimization Techniques. Optimality Criteria. Unidirec-
+tional Search.
+Direct Search methods: Random search, Grid search, Univariate method, Hooke’s and
+Jeeves’ pattern search method, Powell’s conjugate direction method, Simplex method.
+Gradient based methods: Cauchy’s (Steepest descent) method, Conjugate gradient
+(Fletcher-Reeves) method, Newton’s method, Variable metric (DFP)method, BFGS
+method.
+Unit 4
+Constrained Optimization Techniques.
+Classical methods: Direct substitution method, Constrained variation method, method of
+Lagrange multipliers, Kuhn-Tucker conditions.
+Unit 5
+Linear programming problem: Standard form, Simplex method.
+Indirect methods: Elimination of constraints, Transformation techniques, and Penalty
+function method.
+Direct methods: Zoutendijk’s method of feasible direction, Rosen’s gradient Projection
+method.
+Unit – 6
+Specialized Optimization techniques, Dynamic programming, Geometric programming,
+Genetic Algorithms.
+References:
+Sl. Publisher
+Name of Book Author
+No.
+SE 46 | P a ge
+
+--- Page 49 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Engineering Optimization– John Wiley & Sons, 4th
+1 Rao, S. S.
+Theory and Practice Edition, 2009
+Optimization for Engineering Prentice Hall India
+Design – Algorithms and ex- Learning Private
+2 Deb, K.
+amples Limited, 2nd Edition,
+2012
+Kirsch U. McGraw Hill, 1981
+3 Optimum Structural Design
+Introduction to Optimum De- Arora, J. S. Academic Press, 3rd
+4
+sign Edition, 2011
+Discrete Optimization of Rajeev, S. and Journal of Structural En-
+5 Structures using Genetic Al- Krishnamoorthy, C. S gineering, Vol. 118, No.
+gorithms 5, 1992, 1223- 1250.
+Course outcomes:
+1. Students will be able to understand basic theoretical principles for formulation of
+optimization models and its solution.
+2. Students will be able to learn the unified and exact mathematical basis as well as
+the general principles of various soft computing techniques.
+3. Students should be able to apply detailed theoretical and practical aspects of intel-
+ligent modeling, optimization and control of linear and non-linear systems.
+4. Students will be able to understand some advance topic of optimization and apply
+accordingly.
+To establish the correlation between COs & POs
+Table-1
+No of course
+Course Outcome
+outcome
+Students will be able to understand basic theoretical principles for
+PCE11E12.1
+formulation of optimization models and its solution.
+Students will be able to learn the unified and exact mathematical
+PCE11E12.2
+basis as well as the general principles of various soft computing
+tSetcuhdneinqtus essh. ould be able to apply detailed theoretical and practical
+PCE11E12.3 aspects of intelligent modeling, optimization and control of linear
+and non-linear systems.
+Students will be able to understand some advance topic of optimi-
+PCE11E12.4
+zation and apply accordingly.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E12.1 2 1 2 3 2 2
+PCE11E12.2 2 1 2 3 2 2
+SE 47 | P a ge
+
+--- Page 50 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE11E12.3 2 1 2 3 2 2
+PCE11E12.4 2 1 2 3 2 2
+Total 8 4 8 12 8 8
+Average 2 1 2 3 2 2
+Equivalent 2 1 2 3 2 2
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11E12.1 3 2
+PCE11E12.2 3 2
+PCE11E12.3 3 2
+PCE11E12.4 3 2
+Total 12 8
+Average 3 2
+Equivalent 3 2
+Avg.
+Attainment
+MECHANICS OF COMPOSITE STRUCTURES
+(PCE11E013)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To explain the behaviour of constituents in the composite materials.
+2. To illuminate the knowledge and analysis skills in applying basic laws in
+mechanics to the composite materials.
+3. To enlighten the students in different types of reinforcement.
+Course Content:
+Unit- 1
+SE 48 | P a ge
+
+--- Page 51 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Introduction: Composite beams- Elastic behaviour of composite beams, No interaction
+case, Full interaction case, Shear connectors, Characteristics of shear connectors,
+Ultimate load behaviour, Serviceability limits, Basic design considerations-Design of
+composite beams.
+Unit- 2
+Composite floors: Structural Elements- Profiled sheet decking-Bending resistance,
+Serviceability criteria, Analysis for internal forces and moments.
+Unit- 3
+Composite columns: Materials, Structural steel, concrete-reinforced steel, composite
+column design, fire resistance, combined compression and uniaxial bending.
+Unit- 4
+Continuous beams and slab: Hogging moment regions of composite beams, Vertical
+shear and moment Shear Interaction-Global analysis of continuous beams-Design
+strategies, Beam-column connection.
+References:
+Sl. No. Name of the Book Author Publisher
+1 Mechanics of Laminated Composite Reddy, J.N. CRC Press, 2003
+Plates and Shells: Theory and
+Analysis, Second Edition
+2 Finite Element Analysis of Ochoa, O. O. and Springer,1992
+Composite Laminates Reddy, J.N.
+3 Mechanics of Composite Materials Mukhopadhyay, M. Universities Press
+and Structures
+4 Composite Structures of Steel Johnson, R. P. Wiley-Blackwell, 3rd Edition,
+Concrete, Vol. I, Beams, Slabs, 2004
+Columns and Frames in Buildings
+5 Mechanics of Composite Structures Vasiliev, V. V. CRC Press, 1993
+6 Engineering Mechanics of Isaac and Daniel, M. Oxford University Press, 2006
+Composite Materials, (2nd edition)
+7 Analysis and performance of fibre Agarwal, B. D. and John Wiley & sons, New York ,
+Composites, (Second Edition) Broutman, L. J. New York, 1990
+Course Outcomes:
+Upon completion of this course the student will be able to
+1. Explain the mechanical behaviour of layered composites compared to isotropic
+materials.
+2. Determine stresses and strains relation in composites materials.
+3. Determine composite mechanical properties from constituent fiber and matrix
+material properties including longitudinal and lateral moduli, Poisson's ratio, and
+shear modulus.
+SE 49 | P a ge
+
+--- Page 52 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+4. Determine the generalized stiffness and compliance matrix relating in-plane
+stresses to strains for a composite layer assuming plane stiffness.
+5. Apply classical laminated plate theory to determine extensional, coupling, and
+bending stiffness of a composite laminate.
+6. Perform calculations using MATLAB for a composite laminate with many layers.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome
+(CO)
+PCE11E13.1 Student will be able to explain the mechanical behaviour of layered
+composites compared to isotropic materials.
+PCE11E13.2 Student will be able to determine stresses and strains relation in
+composites materials.
+PCE11E13.3 Student will be able to determine composite mechanical properties from
+constituent fibre and matrix material properties including longitudinal
+PCE11E13.4 aSntudd leantet rawl millo dbuel i, aPbolies soton 's draettieor,m ainnde shtheea r mgeondeurlaulsiz. ed stiffness and
+compliance matrix relating in-plane stresses to strains for a composite
+layer assuming plane stiffness.
+PCE11E13.5 Student will be able to apply classical laminated plate theory to
+determine extensional, coupling, and bending stiffness of a composite
+laminate.
+PCE11E13.6 Student will be able to perform calculations using MATLAB for a
+composite laminate with many layers.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E13.1 3 2 3 1 1 1
+PCE11E13.2 3 2 3 1 1 1
+PCE11E13.3 3 2 3 1 1 1
+PCE11E13.4 3 2 3 1 1 1
+PCE11E13.5 3 2 3 1 1 1
+PCE11E13.6 3 2 3 1 1 1
+Total 18 12 18 6 6 6
+Average 3 2 3 1 1 1
+Equivalent 3 2 3 1 1 1
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+SE 50 | P a ge
+
+--- Page 53 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+CO PO1 PO2
+PCE11E12.1 3 2
+PCE11E12.2 3 2
+PCE11E12.3 3 2
+PCE11E12.4 3 2
+PCE11E12.5 3 2
+PCE11E12.6 3 2
+Total 18 12
+Average 3 2
+Equivalent 3 2
+Avg.
+Attainment
+CEMENT AND CONCRETE LABORATORY
+(PCE11P01)
+Total Credits 02 L – T – P 0 – 0 – 3 = 3
+Course Objectives:
+To understand the properties of concrete and cement ingredients and to study the
+compressive, flexural, split strengths etc. and other non-destructive tests.
+Course Content:
+Study of the effect of water/cement ratio on workability and strength of concrete - Effect
+of aggregate/cement ratio on strength of concrete - Effect of fine aggregate/coarse
+aggregate ratio on strength and permeability of concrete - Study of Mix design methods -
+study of stress-strain curve of concrete - correlation between cube strength, cylinder
+strength, split tensile strength and modulus of rupture - effect of cyclic loading on steel -
+Non-Destructive testing of concrete.
+References:
+Sl. No. Name of the Book Author Publisher
+5th Edition, Prentice
+1 Properties of Concrete A.M. Neville
+Hall, 2012
+Eighth edition, S
+2 Concrete Technology M.S. Shetty Chand Publishing;
+2018
+2nd Edition, Oxford
+University Press,
+3 Concrete Technology Santhakumar A.R.
+New
+Delhi, 2018.
+Course Outcomes:
+At the end of the course, student will be able to
+SE 51 | P a ge
+
+--- Page 54 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+1. Determine the influence of constituents on the properties of concrete and cement.
+2. Design the Concrete Mix based on IS and ACI methods for various grades.
+3. Analyze the stress strain behaviour of concrete
+4. Evaluate the properties of special concretes.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE11P01.1 Student will be able to determine the influence of constituents
+on the properties of concrete and cement.
+PCE11P01.2 Student will be able to design the Concrete Mix based on IS
+and ACI methods for various grades.
+PCE11P01.3 Student will be able to analyze the stress strain behaviour of
+concrete
+PCE11P01.4 Student will be able to Evaluate the properties of special
+concretes.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11P01.1 3 3 3 2 2 2
+PCE11P01.2 3 3 3 2 2 2
+PCE11P01.3 3 3 3 2 2 2
+PCE11P01.4 3 3 3 2 2 2
+Total 12 12 12 8 8 8
+Average 3 3 3 2 2 2
+Equivalent 3 3 3 2 2 2
+Avg.
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11P01.1 2 1
+PCE11P01.2 2 1
+PCE11P01.3 2 1
+PCE11P01.4 2 1
+Total 2 1
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+SE 52 | P a ge
+
+--- Page 55 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+STRESS ANALYSIS LABORATORY
+(PCE11P02)
+Total Credits 02 L – T – P 0 – 0 – 3 = 3
+Course Objectives:
+1. This course facilitates the student to implement the theoretical concepts of stress
+and strain in their measurement procedures.
+2. To know the concepts and uses of strain gauges and mounting approaches.
+Course Content:
+Unit- 1
+Measurement of Strain: Mechanical Strain Gauges, Electrical Strain Gauges,
+Extensometers and Compressometers.
+Unit- 2
+Measurement of Deflection: Dial gauges - Linear Variable Differential Transducers,
+Principles of operations of UTM, hydraulic loading systems and force measuring
+devices.
+Unit- 3
+Behaviour of structural materials and structural members: Casting and testing of
+simple compression, tension and flexural members. Introduction Non-Destructive Testing
+of RCC members.
+Unit- 4
+New Reinforced Cement Composites: Introduction to Steel fibre reinforced
+concrete, Ferrocement, Polymer concrete, Self Compacting Concrete, High
+Performance Concrete.
+Course Requirement:
+Number of suitable experiments will be designed involving the use of above
+instruments, so that a student on successful completion of the course shall be in a
+position to use any of these instruments for experiments and testing work. A student
+will be required to conduct specified number of experiments and submit a
+report/record of such work. The grades will be awarded based on the performance in
+the laboratory work, report/record of experiments and a viva-voce examination
+conducted at the end of the course.
+References:
+Sl. No. Name of the Book Author Publisher
+1 Experimental Stress Analysis, 3rd Shukla and Dally Mcgraw Hill, 2010
+SE 53 | P a ge
+
+--- Page 56 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+edition,
+2 Experimental Stress Analysis, Singh, S. Khanna Publishers, 1981
+Course Outcomes: At the end of the course, a student will be able to
+1. Demonstrate a basic understanding of experimental methods (e.g. strain gages,
+Extensometers, Compressometers etc.) commonly used in experimental solid
+mechanics.
+2. Demonstrate the ability to complete a detailed laboratory report and present their
+findings in a structured, logical manner.
+3. Demonstrate the ability to apply knowledge learned in the classes.
+4. Demonstrate the ability to analyze experimental data and develop appropriate,
+logical conclusions based on comparisons to theoretical results and other
+experimental evidence.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome
+(CO)
+PCE11P02.1 Student will be able to demonstrate a basic understanding of
+experimental methods (e.g. strain gages, Extensometers,
+Compressometers etc.) commonly used in experimental solid
+mechanics.
+PCE11P02.2 Student will be able to demonstrate the ability to complete a
+detailed laboratory report and present their findings in a
+structured, logical manner.
+PCE11P02.3 Student will be able to demonstrate the ability to apply
+knowledge learned in the classes.
+PCE11P02.4 Student will be able to demonstrate the ability to analyze
+experimental data and develop appropriate, logical conclusions
+based on comparisons to theoretical results and other
+experimental evidence.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11P02.1 2 1 2 1 1 1
+PCE11P02.2 2 1 2 1 1 1
+PCE11P02.3 2 1 2 1 1 1
+PCE11P02.4 2 1 2 1 1 1
+Total 8 4 8 4 4 4
+Average 2 1 2 1 1 1
+Equivalent 2 1 2 1 1 1
+Avg.
+SE 54 | P a ge
+
+--- Page 57 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PO1 PO2
+PCE11P01.1 2 1
+PCE11P01.2 2 1
+PCE11P01.3 2 1
+PCE11P01.4 2 1
+Total 2 1
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+SEMINAR
+(PCE11P03)
+Total Credits 01 L – T – P 0 – 0 – 2 = 2
+Course objectives:
+1. To understand the current research and field application in structural engineering.
+2. To address the structural engineering problems and convey the ideas efficiently.
+3. To acquire expertise in technical writing and report preparation.
+Course Content:
+Each Student shall prepare a Report and present a Seminar on any topic related to the
+branch of specialization under the guidance of a faculty member. The student shall submit
+typed copy of the report to the Department/Concerned faculty member. Grades will be
+awarded on the basis of contents of the report and its related presentation.
+Course Outcome:
+1. To be familiar with current research problems and application of modern
+structural engineering techniques.
+2. To be conversant with the elaboration of any one of the research topic or field
+application technique.
+3. To be well acquainted in literature review and report preparation on technical
+matter.
+SE 55 | P a ge
+
+--- Page 58 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE11P03.1 Students will be able to identify the current research problems and
+application of modern structural engineering techniques.
+PCE11P03.2 Students will be able to elaborate any one of the research topic or field
+application technique.
+PCE11P03.3 Students will be able to conduct literature review and report preparation on
+technical matter.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: ‘-‘
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11P03.1 2 2 2 1 1 1
+PCE11P03.2 2 2 2 1 1 1
+PCE11P03.3 2 2 2 1 1 1
+Total 6 6 6 3 3 3
+Average 2 2 2 1 1 1
+Equivalent 2 2 2 1 1 1
+Avg.
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11P03.1 3 3
+PCE11P03.2 3 3
+PCE11P03.3 3 3
+Total 9 9
+Average 3 3
+Equivalent Avg. Attainment 3 3
+SE 56 | P a ge
+
+--- Page 59 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Second Semester
+1 Basic Core 4 4 100
+PCE12B01: Theory of Elastic Stability
+2 Core Subject-I 4 4 100
+PCE12C01: Theory of Plates and Shells
+3 Elective Paper-III 4 4 100
+PCE12E01: Seismic Analysis and Design of
+Structures
+PCE12E02: Random Vibration
+PCE12E03: Wind Engineering
+PCE12E04: Advanced Design of Metal Structures
+PCE12E05: Experimental Methods of Structural
+Analysis
+PCE12E06: Bridge Engineering
+PCE12E07: Behaviour of Concrete Structures
+PCE12E08: Repair and Rehabilitation of Structures
+4 Elective Paper-IV (Open Elective) 4 4 100
+PCE12E09: Finite Element Method
+PCE12E10: Structural Health Monitoring
+PCE12E11: Nonlinear Analysis
+( Students can also opt for one open elective subject
+offered by any other department or one course under
+MOOCs)
+5 PCE12P01: Project Preliminaries 3 6 100
+6 PCE12P02: Structural Engineering Laboratory 2 3 100
+7 PCE12P03: Computer Aided Design Laboratory 2 3 100
+8 PCE12P04: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+SE 57 | P a ge
+
+--- Page 60 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+THEORY OF ELASTIC STABILITY
+(PCE12B01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+By the end of the course the student is expected
+1. To achieve fundamental understanding for mathematical aspects of stability;
+2. To have a complete knowledge for analytical formulation of different problems
+due to static and dynamic secondary effects;
+3. To evaluate stiffness and geometric stiffness of different problems through finite
+element approach;
+4. To understand the warping phenomena and its consequence in mathematical
+formulation;
+5. To have a knowledge for solving all analytical and numerical formulations.
+6. To have a knowledge for analysing and evaluating the critical load and elasto-
+plastic deformation path.
+Course Content:
+Unit 1
+Concepts and different models of stability – Mathematical aspects and Fredholm
+alternatives;
+Unit 2
+Deflection of beam-column—Derivation of stability matrix for matrix displacement
+method—Approximate stability matrix for determining critical load—Finite element
+approach for stability of trusses and frames -Effect of shear deformation, effect of
+imperfection in column.
+Unit 3
+Torsional buckling of thin-walled open sections – Lateral buckling of beams, Elasto-
+Plastic buckling of columns. Influence of locked stresses on buckling. Buckling of rings –
+asymmetric instability of arches
+Unit 4
+Buckling of rectangular plates – buckling of plates with holes – Post buckling
+deformation –
+Local buckling of thin cylinders in axial compression – growth of imperfections and its
+influence on local stability – imperfection sensitivity.
+Unit 5
+Path tracking in displacement-load space for locating critical point and post buckling
+continuation. Introduction to dynamic stability.
+Reference:
+Sl. Name of Book Author Publisher
+No
+SE 58 | P a ge
+
+--- Page 61 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+1 Theory of Elastic Stability Timoshenko, S.P. and Mc Graw Hill,
+Gere Singapore, 1 July
+2017
+2 Principles of Structural Stability A.Chajes Prentice Hall Inc.,
+Theory Englewood Cliffs,
+New
+Jersey, 1 August
+1974
+3 The Dynamic Stability of Elastic V. V. Bolotin Holden-Day, INC,
+Systems San Francisco,
+London,
+Amsterdam, 25
+December 2010
+4 Principles of Structural stability HansZiegler Blaisdell Publishing
+Company,
+Toronto,1977
+5 Buckling of Bars, Plates and Shells D.O. Brushand B.O. McGraw Hill,1978
+Almorth
+6 Stability of Structures A Kumar Allied Publishers
+Limited,
+7 Structural Stability of Columns and N.G.R. Iyengar East West Press, 1
+Plates July 1988
+8 Stress, Stability and Chaos in Naschie Mc Graw
+structural Engineering-An Energy Hill Book
+Approach Company, 1992
+Course Outcomes:
+On successful completion of the course, students will be able:
+1. To understand instability phenomenon of different problems due to secondary
+effects;
+2. To formulate the mathematical models of different problems by different
+approaches under action static and dynamic secondary effects;
+3. To find the critical loads for columns, beam-columns, plates, rings, thin cylinders,
+arches and their post buckling phenomenon;
+4. To analyse the torsional instability open thin sections;
+5. To formulate instability phenomenon through imperfection model;
+6. To evaluate post-buckling path.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Outcome
+Course
+Outcome
+(CO)
+PCE12B01.1 To understand instability phenomenon of different problems due to
+secondary effects;
+PCE12B01.2 To formulate the mathematical models of different problems by different
+approaches under action static and dynamic secondary effects;
+SE 59 | P a ge
+
+--- Page 62 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12B01.3 To find the critical loads for columns, beam-columns, plates, rings, thin
+cylinders, arches and their post buckling phenomenon;
+PCE12B01.4 To analyse the torsional instability open thin sections;
+PCE12B01.5 To formulate instability phenomenon through imperfection model;
+PCE12B01.6 To evaluate post-buckling path.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12B01.1 3 - 3 3 3 3
+PCE12B01.2 3 - 3 3 3 3
+PCE12B01.3 3 - 3 3 3 3
+PCE12B01.4 3 - 3 3 3 3
+PCE12B01.5 3 - 3 3 3 3
+PCE12B01.6 3 - 3 3 3 3
+Total 18 - 18 18 18 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE12B01.1 2 1
+PCE12B01.2 2 1
+PCE12B01.3 1 2
+PCE12B01.4 2 1
+PCE12B01.5 1 2
+PCE12B01.6 2 1
+Total 10 8
+Average 1.66 1.33
+Equivalent Avg. Attainment 2 1
+SE 60 | P a ge
+
+--- Page 63 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+THEORY OF PLATES AND SHELLS
+(PCE12C01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. Introduce different types of plate with deflection.
+2. To develop the differential equation for cylindrical bending of rectangular plates.
+3. To develop the differential equation for circular plates.
+4. Introduce Strain energy method in pure bending of plates.
+5. Introduce the Navier’s method and Levy’s method.
+6. Introduce the basic concept of shell theory.
+Course Content:
+Unit- 1
+Cylindrical Bending: Different kind of plates – Assumptions - Derivation of differential
+equation for cylindrical bending of long rectangular plates - Analysis of uniformly loaded
+rectangular plates with edges simply supported and fixed subjected to uniform load.
+Cylindrical bending of uniformly loaded rectangular plates with elastically built-in edges.
+Unit- 2
+Pure Bending of Plates: Slope and curvature of slightly bent plates – Relations between
+moments and curvature - Particular cases of pure bending - Strain energy in pure bending
+of plates. Navier’s and Levy’s solution for rectangular plate. Approximate methods of
+plate bending.
+Unit- 3
+Circular Plates: Symmetrical loading – Relations between slope, deflection, moments and
+curvature – Governing differential equation – Uniformly loaded plates with clamped and
+simply supported edges – Central hole – bending by moments and shearing forces
+uniformly distributed.
+Unit-4
+Small Deflection Equation of the deflection surface: Theory of Thin Rectangular Plates:
+Assumptions – Derivation of governing differential equation for thin plates –Boundary
+conditions –simply supported plate under sinusoidal load – Navier’s solution –
+Application to different cases – Levy’s solution for various boundary conditions
+subjected to different loadings like uniform and hydrostatic pressure.
+Unit- 5
+SE 61 | P a ge
+
+--- Page 64 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Geometry and classification of shells, membrane analysis of surface of revolution,
+membrane analysis of pressure vessel. Membrane theory of cylindrical shell roof,
+simplified bending analysis of cylindrical shell using beam and arch action.
+Sl. Name of the Book Author Publisher
+No.
+1 Theory of Plates and Shells Timoshenko, S.P. and McGraw Hill, 1 July 2017
+Krieger, S.W.
+2 Reinforced Concrete Shells and Folded Varghese, P. C. Prentice Hall India
+Plates Publications, January 2010
+3 Analysis of Thin Concrete Shells Chandrasekhara, K. New Age International (P)
+4 Theory and Analysis of Elastic Plates Reddy, J. N. LCtRdS. Press, 20 November
+and Shells 2006
+5 A Text Book of Shell Analysis Bairagi, K. Khanna Publisher, New
+Delhi, 1986
+6 Design and Construction of Concrete Ramaswamy, G.S. Mc Graw Hill, New York,
+Shell Roofs 2005
+7 Theory of plates and shells S. S. Bhavikatti Newage International
+Publication, 3rd. edition,
+2012
+Course Outcomes:
+At the end of the course, the student will be able to
+1. Have knowledge about various plate theories due to bending.
+2. Gain the knowledge of Navier’s solution, Levy’s solution and solve for the
+rectangular and square plates.
+3. Analyze circular plates with various boundary conditions.
+4. Analysis the cylindrical bending of rectangular plates on elastic foundation.
+5. Ability to realize the potential energy principle and find the solution of rectangular
+plates for various loadings.
+6. Understand the behaviour of shells.
+Table-1
+To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome
+(CO)
+PCE12C01.1 Have knowledge about various plate theories due to bending.
+PCE12C01.2 Gain the knowledge of Navier’s solution, Levy’s solution and solve for the
+rectangular and square plates.
+PCE12C01.3 Analyze circular plates with various boundary conditions.
+PCE12C01.4 Analysis the cylindrical bending of rectangular plates on elastic foundation.
+PCE12C01.5 Ability to realize the potential energy principle and find the solution of
+rectangular plates.
+PCE12C01.6 Understand the behavior of shells.
+SE 62 | P a ge
+
+--- Page 65 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12C01.1 3 - 3 3 3 3
+PCE12C01.2 3 - 3 3 3 3
+PCE12C01.3 3 - 3 3 3 3
+PCE12C01.4 3 - 3 3 3 3
+PCE12C01.5 3 - 3 3 3 3
+PCE12C01.6 3 - 3 3 3 3
+Total 18 - 18 18 18 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+Table 3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE12C01.1 2 2
+PCE12C01.2 2 2
+PCE12C01.3 2 2
+PCE12C01.4 3 3
+PCE12C01.5 3 3
+PCE12C01.6 2 2
+Total 14 14
+Average 2.33 2.33
+Equivalent Avg. 2 2
+Attainment
+SE 63 | P a ge
+
+--- Page 66 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Elective III
+SEISMIC ANALYSIS AND DESIGN OF STRUCTURES
+(PCE12E01)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To understand seismic parameter, movements of the plates, earthquakes.
+2. To Predict the Dynamic Behaviour of simple structural systems and soil structure
+interaction.
+3. To understand the structural design of simple systems subject to harmonic,
+impulse and/or arbitrary loading.
+Course Content:
+Unit- 1:
+Introduction to Earthquake: Interior of earth; Causes, strength and effects of
+earthquakes; seismic waves; Measurements of earthquakes.
+Unit- 2:
+Seismic response of soils and structures: Dynamic properties of soils, site response to
+earthquake, Seismic response of soil-structure system; seismic consideration for
+foundation; Elastic seismic response of structures; Non-linear seismic response of
+structures; level of damping in different structures; Interaction of frames and infill panels;
+Method of seismic analysis of structures.
+Unit- 3:
+Earthquake resistant Design Philosophy: Criteria for earthquake resistant design;
+Principles of reliable seismic behaviour- form, materials and failure modes; specific
+structural forms for earthquake resistance-moment-resisting frames, shear wall,
+concentrically braced frames, hybrid structural system. Energy isolating and dissipating
+devices.
+Unit- 4:
+Earthquake resistant design of structures: Seismic response of masonry, Design and
+construction details for reinforced masonry. Seismic response of reinforced concrete,
+Design and Detailing of Reinforced concrete Structures. Restoration and strengthening.
+References:
+Sl.
+Name of the Book Author Publisher
+No.
+SE 64 | P a ge
+
+--- Page 67 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Seismic design of RC and masonry Paulay, T & John Wiley & Sons,
+1
+buildings Priestley 1996
+Design of multi-storey RC
+Portland Cement
+2 buildings for earthquake motions Blume, J.A.
+Association, 1992
+Newmark and Corning
+John Wiley & Sons,
+3 Earthquake resistant design. Dowrick, D.J.
+November 1988
+Earthquake Resistant Design of Agarwal &
+4 PHI, July 2011
+Structures Shrikande
+Bureau
+Criteria for Earthquake Resistance
+5 I.S. 1893 - 2016 of Indian Standards,
+design of Structures
+New Delhi,
+Ductile detailing of Reinforced Bureau
+6 concrete structures subjected to IS.13920 - 2003 of Indian Standards,
+seismic forces New Delhi.
+Course Outcomes: At the end of the course, student will be able to
+1. Understand the concept and terminology related to earthquake.
+2. Analyze the different parameters as per zonal classification prescribe by code.
+3. Apply the concept of design for earthquake resisting structure.
+4. Implement the design parameters for ductile detailing as per codal provision.
+To establish the correlation between COs & POs
+Table 1
+No. of Course Outcome
+course
+outcome
+(CO)
+PCE12E01.1 Student will be able to understand the concept and terminology
+related to earthquake.
+PCE12E01.2 Student will be able to analyze the different parameters as per
+zonal classification prescribe by code.
+PCE12E01.3 Student will be able to apply the concept of design for earthquake
+resisting structure.
+PCE12E01.4 Student will be able to implement the design parameters for
+ductile detailing as per codal provision.
+SE 65 | P a ge
+
+--- Page 68 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E01.1 3 - 3 3 3 3
+PCE12E01.2 3 - 3 3 3 3
+PCE12E01.3 3 - 3 3 3 3
+PCE12E01.4 3 - 3 3 3 3
+Total 12 - 12 12 12 12
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12E01.1 2 1
+PCE12E01.2 2 1
+PCE12E01.3 2 1
+PCE12E01.4 2 1
+Total 2 1
+Average 2 1
+Equivalent Avg.
+2 1
+Attainment
+RANDOM VIBRATION
+PCE12E02
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. The primary objective in studying the random vibration is to analyse and under-
+stand the uncertainty of stationary and nonstationary dynamic loads and their ef-
+fects on the safety of the system.
+2. Implement fundamental concepts to characterize the random excitations in the
+most realistic manner by a statistical approach and determination of excitation re-
+sponses for the system.
+SE 66 | P a ge
+
+--- Page 69 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Content:
+Unit-1
+Basic Theory of Stochastic Processes: Introduction, statistics of stochasticprocesses,
+ergodic processes, some properties of the correlation functions, spectralanalysis, Wiener-
+Khintchine equation.
+Unit-2
+Stochastic Response of Linear SDOF Systems: Deterministic dynamics, evaluation
+ofimpulse response function and frequency response function, impulse response
+functionand frequency response function as Fourier Transform pairs, stochastic
+dynamics,response to stationary excitation, time domain analysis, frequency domain
+analysis, levelcrossing, peak, first passage time and other characteristics of the response
+of SDOFSystems
+Unit-3
+Linear systems with multiple inputs and outputs: Linear MDOF Systems,
+uncoupledmodes of MDOF systems, stochastic response of linear MDOF Systems – time
+domainand frequency analysis.
+Unit-4
+Stochastic response of linear continuous system.Response of non-linear systems to
+random excitation: Approach to problems, Fokker-Plank equation, statistical
+linearization, perturbation and Markov Vector Methods.Fatigue damage of structure due
+to random loads.
+Reference:
+Sl.No Name of Book Author Publisher
+1 An Introduction to Random Newland, D. E. Longman Scientific
+Vibrations, Spectral and Wavelet & Technical, July
+Analysis 2005
+2 Introduction to Random Nigam N. C Cambridge,
+Vibrations USA,1983
+3 Vibration of solids and structures Ladislav Fryba Noordhoff Int. Pub,
+under moving loads 3rd edition, 1999
+4 Stochastic Analysis of Structural Loren D Lutes Prentice Hall, NJ,
+and Mechanical Vibrations &ShahramSarkani., December 1996
+5 Stochastic Processes & Random J Solnes John Wiley,July
+Vibration, Theory and Practice 1997
+6 Probabilistic Theory in Structural Lin, Y. K. McGraw Hill, 1967
+Dynamics
+7 Random Data Analysis and Bendat&Piesol John Wiley, January
+Measurement Procedure 2010
+8 Elements of Vibration Analysis Meirovitch, L. McGraw Hill,
+March 1986
+SE 67 | P a ge
+
+--- Page 70 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+9 Probability, Random Variables Papoulis, A. McGraw Hill, July
+and Stochastic Processes 2017
+10 Dynamics of Structures Ray W Clough & McGraw Hill, 1993
+Joseph Penzien
+11 Random Vibration of Structures C. Y. Yang John Wiley
+&Sons,1986
+Course Outcomes:
+1. Students will able to understand on how to make an assessment of the risk associated
+with structures which are excited by random loads.
+2. Students will able to characterize the different random excitations by a statistical ap-
+proach.
+3. Students will able to modelling and evaluating the corresponding structural response
+by stochastic process and random vibration for earthquake, wind and ocean wave
+loads.
+4. Students will able to understand the concepts of random processes for modelling dy-
+namic structural behaviour under time-dependent excitations and finally a safety as-
+sessment based on various failure criteria.
+5. Students will able to presents excitation response solutions for single degree of free-
+dom systems, multi-degree of freedom systems, continuous systems and problem of
+nonlinear random vibrations.
+Table-1
+To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome (CO)
+PCE12E02.1 Students will able to understand on how to make an assessment of the
+risk associated with structures which are excited by random loads.
+PCE12E02.2 Students will able to characterize the different random excitations by a
+statistical approach.
+PCE12E02.3 Students will able to modelling and evaluating the corresponding
+structural response by stochastic process and random vibration for
+earthquake, wind and ocean wave loads.
+PCE12E02.4 Students will able to understand the concepts of random processes for
+modelling dynamic structural behaviour under time-dependent excitations
+and finally a safety assessment based on various failure criteria.
+PCE12E02.5 Students will able to presents excitation response solutions for single
+degree of freedom systems, multi-degree of freedom systems, continuous
+systems and problem of nonlinear random vibrations.
+SE 68 | P a ge
+
+--- Page 71 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E02.1 3 - 3 3 3 3
+PCE12E02.2 3 - 3 3 3 3
+PCE12E02.3 3 - 3 3 3 3
+PCE12E02.4 3 - 3 3 3 3
+PCE12E02.5 3 3 3 3 3 3
+Total 15 3 15 15 15 15
+Average 3 3 3 3 3 3
+Eq. Av 3 3 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12E02.1 2 1
+PCE12E02.2 2 1
+PCE12E02.3 2 2
+PCE12E02.4 2 2
+PCE12E02.5 2 2
+Total 10 8
+Average 2 1.6
+Equivalent Avg.
+2 2
+Attainment
+SE 69 | P a ge
+
+--- Page 72 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+WIND ENGINEERING
+(PCE12E03)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Courses Objectives:
+1. To understand Earth’s boundary layer and wind characteristics.
+2. To understand the bluff-body aerodynamics, wind and structure interaction.
+3. To understand effect of wind load on structures and to consider it in analysis and
+design.
+Course Content:
+Unit-1
+Climatology and meteorology of the Earth’s boundary layer. Wind characteristics.
+Unit -2
+Extreme wind analysis, bluff-body aerodynamics, wind flow around buildings and
+structures.
+Unit -3
+Wind loading codes.
+Unit -4
+Basic aerodynamics. Structural dynamics, and principles of stochastic loadings
+applicable to the wind engineering of structures.
+Unit -5
+Wind tunnel modelling of buildings and bridges. Aero elastic and other special
+problems.
+References:
+Sl Name of Book Author Publisher
+No.
+1. Wind Effects on Structures: E Simiu, R H. Scanlan John Wiley &
+Fundamentals and Application to Sons, 1996
+Design
+2. IS: 875(Part3) :2015 Design Loads (Other than Earthquake) for Buildings and
+Structures- Code of Practice, Part 3 Wind Loads, BIS, New Delhi
+SE 70 | P a ge
+
+--- Page 73 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Course Outcomes:
+At the end of the course, student will be able to
+1. Understand the concept and terminology related to the wind engineering.
+2. Evaluate the intensity of wind on different structures using different methods.
+3. Analyze and design of different structures subjected to wind load using IS 875
+(part 3):2015.
+4. Design of structures for cyclone.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE12E03.1 Students will be able to understand the concept and terminology
+related to the wind engineering.
+PCE12E03.2 Students will be able to evaluate the intensity of wind on different
+structures using different methods.
+PCE12E03.3 Students will be able to analyze and design of different structures
+subjected to wind load using IS 875 (part 3):2015.
+PCE12E03.4 Students will be able to design of structures for cyclone.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E03.1 3 - 3 3 3 3
+PCE12E03.2 3 - 3 3 3 3
+PCE12E03.3 3 - 3 3 3 3
+PCE12E03.4 3 - 3 3 3 3
+Total 12 - 12 12 12 12
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+SE 71 | P a ge
+
+--- Page 74 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE12E03.1 3 2
+PCE12E03.2 3 3
+PCE12E03.3 3 3
+PCE12E03.4 3 3
+Total 12 11
+Average 3 2.75
+Equivalent Avg. Attainment 3 3
+ADVANCED DESIGN OF METAL STRUCTURES
+(PCE11E04)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To learn the behaviour and design of laterally unrestrained beams.
+2. To understand the behaviour of beam and column in frames.
+3. To learn the behaviour and design of steel beams with web openings.
+4. To learn different elements of cold formed steel sections.
+5. To learn the design of structural sections for adequate fire resistance.
+6. To learn the use of metal as engineering material which have relatively high
+values of elastic constants and can be made strong by alloying and proper heat
+treatment.
+Course Content:
+Unit- 1
+Laterally Unrestrained Beams: Lateral Buckling of Beams, Factors affecting lateral
+stability, IS 800 code provisions, Design Approach. Lateral buckling strength of
+Cantilever beams, continuous beams, beams with continuous and discrete lateral
+restraints, Mono-symmetric and non-uniform beams – Design Examples. Concepts of
+Shear Center, Warping, Uniform and Non-Uniform torsion.
+Unit- 2
+Beam- Columns in Frames: Behaviour of Short and Long Beam - Columns, Effects of
+Slenderness Ratio and Axial Force on Modes of Failure, Biaxial bending, Strength of
+SE 72 | P a ge
+
+--- Page 75 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Beam Columns, Sway and Non-Sway Frames, Strength and Stability of rigid jointed
+frames, Effective Length of Columns, Methods in IS 800 – Examples.
+Unit- 3
+Steel Beams with Web Openings: Shape of the web openings, practical guide lines, and
+Force distribution and failure patterns, Analysis of beams with perforated thin and thick
+webs, Design of laterally restrained castellated beams for given sectional properties,
+Vierendeel girders (design for given analysis results).
+Unit- 4
+Cold formed steel sections: Techniques and properties, Advantages, Typical profiles,
+Stiffened and unstiffened elements, Local buckling effects, effective section properties, IS
+801& 811 code provisions- numerical examples, beam design, column design.
+Unit- 5
+Fire resistance: Fire resistance level, Period of Structural Adequacy, Properties of steel
+with temperature, Limiting Steel temperature, Protected and unprotected members,
+Methods of fire protection, Fire resistance ratings- Numerical Examples.
+Unit- 6
+Properties of metal: elastic constants, macro and microstructural features of metals, such
+as point defects, dislocations, grain boundaries, and second phase particles, control their
+yield, flow, and fracture stress.
+References:
+Sl.
+Name of Book Author Publisher
+No.
+Oxford University Press,
+1. Steel Structures: Design and Practice Subramanian N.
+August 2010
+Tata McGraw-Hill, July
+2. Design of Steel Structures Duggal S.K.
+2017
+3. IS 1641:2013 - Bureau of Indian Standards
+4. IS 1642:2013 - Bureau of Indian Standards
+5. IS 1643:2013 - Bureau of Indian Standards
+IS 800:2007, general construction in
+6. - Bureau of Indian Standards
+steel
+Course Outcomes:
+Upon completing this course, the students will be able to:
+1. Design laterally unrestrained beams.
+2. Analyse the behaviour and design of beam and column in frames.
+3. Analyse and design steel beams with web openings.
+4. Design elements of cold formed steel sections.
+SE 73 | P a ge
+
+--- Page 76 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+5. Design structural sections for adequate fire resistance.
+6. Use of metal as construction material as resistant to corrosion, ductile, and
+lightweight.
+Table- 1
+To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE11E04.1
+Students will able to Design laterally unrestrained beams.
+PCE11E04.2 Students will able to analyse the behaviour and design of beam and column
+in frames.
+PCE11E04.3
+Students will able to analyse and design steel beams with web openings.
+PCE11E04.4
+Students will able to design elements of cold formed steel sections.
+PCE11E04.5
+Students will able to design structural sections for adequate fire resistance.
+PCE11E04.6 Students will able to use of metal as construction material as resistant to
+corrosion, ductile, and lightweight.
+Table – 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE11E04.1 3 - 3 3 3 3
+PCE11E04.2 3 - 3 3 3 3
+PCE11E04.3 3 - 3 3 3 3
+PCE11E04.4 3 - 3 3 3 3
+PCE11E04.5 3 - 3 12 12 3
+PCE11E04.6 3 - 3 3 3 3
+Total 18 - 18 3 3 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+SE 74 | P a ge
+
+--- Page 77 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table – 3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE11E04.1 3 3
+PCE11E04.2 3 3
+PCE11E04.3 3 3
+PCE11E04.4 3 3
+PCE11E04.5 3 3
+PCE11E04.6 2 2
+Total 17 17
+Average 2.83 2.83
+Equivalent Avg.
+3 3
+Attainment
+EXPERIMENTAL METHODS OF STRUCTURAL ANALYSIS
+(PCE12E05)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. To learn the applications of dimensional analysis to check the accuracy of
+formulas and computations.
+2. Recognize the various techniques available to measure the stress and Strains using
+different sources.
+3. Realize the working of recording instruments and data logging methods.
+4. Distinguish the principles of photo elasticity in two dimensional stress analyses.
+Course Content:
+Unit-1
+Theories of similarities, Dimensional analysis,
+Unit-2
+Classification and Equivaience, Distorted models. Ultimate strength models.
+Unit-3
+Mechanical, Electrical, Optical and acoustic methods of measurement of static and
+dynamic quantities.
+Unit-4
+SE 75 | P a ge
+
+--- Page 78 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Transducers, Photoelasticity and photoelastic coating techniques. Brittle quoting and
+moiré method.
+Unit 5
+Nondestructive testing. In-situ tests. Short term and long term methods.
+References:
+Sl.
+Name of Book Author Publisher
+No.
+Experimental stress Analysis James W. Dally and Wil- McGraw-Hill Education,
+1.
+liam F Riley March 1991
+Experimental stress Analysis
+R. Dove & P. Adams C. E. Merrill Books, 1964
+and motion measurement:
+2.
+theory, instruments and cir-
+cuits , techniques
+Experimental Method in C. B. Kukreja Standard Publishers Dis-
+3.
+structural Mechanics tributors, January 2014
+Experimental Stress Analy- Luca Cristofolini Springer International Pub-
+4. sis for Materials and Struc- lishing, 2015
+tures
+Concrete, Microstructure, Mehta, P. K. and McGraw-Hill Education,
+5.
+Properties and Materials Monteiro, P. J. M. 2014
+Course Outcomes:
+1. Students will able to use dimension analysis as a tool to find or check relations
+among physical quantities by using their dimensions.
+2. Students will able to use NDT and analysis technique used by industry to evaluate
+the properties of a material, component, structure or system for characteristic dif-
+ferences or welding defects and discontinuities without causing damage to the
+original part.
+3. Students will able to understand the overall concepts of stress/strain analysis by
+experimental means.
+4. Students will able to familiar with the theory and practice of common experimen-
+tal stress analysis methods including moire methods, photo elasticity
+5. Students will able to acquire the knowledge on Brittle coatings and working of
+strain gauges.
+Table-1
+To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome (CO)
+SE 76 | P a ge
+
+--- Page 79 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12E05.1 Students will able to use dimension analysis as a tool to find or check re-
+lations among physical quantities by using their dimensions.
+PCE12E05.2 Students will able to use NDT and analysis technique used by industry to
+evaluate the properties of a material, component, structure or system for
+characteristic differences or welding defects and discontinuities without
+causing damage to the original part.
+PCE12E05.3 Students will able to understand the overall concepts of stress/strain
+analysis by experimental means.
+PCE12E05.4 Students will able to familiar with the theory and practice of common
+experimental stress analysis methods including moire methods, photo
+elasticity
+PCE12E05.5 Students will able to acquire the knowledge on Brittle coatings and
+working of strain gauges.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E05.1 3 - 3 3 3 3
+PCE12E05.2 3 - 3 3 3 3
+PCE12E05.3 3 - 3 3 3 3
+PCE12E05.4 3 - 3 3 3 3
+PCE12E05.5 3 - 3 3 3 3
+Total 15 - 15 15 15 15
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE12E05.1 3 3
+PCE12E05.2 2 2
+PCE12E05.3 2 2
+PCE12E05.4 2 2
+PCE12E05.5 3 3
+Total 12 12
+Average 2.4 2.4
+Equivalent Avg. Attainment 3 3
+SE 77 | P a ge
+
+--- Page 80 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+BRIDGE ENGINEERING
+(PCE12E06)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. To learn the components of bridges, classification of bridges, importance of
+bridges and to understand the investigation for bridges, subsoil exploration, choice
+of bridge type.
+2. To study the specification of road bridges, loads to be considered.
+3. To familiarize students with various types of bridges and their design procedure.
+4. To get exposure to evaluation of sub structures and foundations.
+5. To understand the importance of bearings, expansion joints and lessons from
+bridge failures.
+Course Content:
+Unit-1
+Introduction-Historical development of Bridge – Components of Bridges – Classification
+– Importance of Bridges – Investigation for Bridges – Selection of Bridge site –
+Economical span – Location of piers and abutments – Subsoil exploration – Scour depth –
+Traffic projection – Choice of bridge type.
+Unit-2
+Specification of road bridges – width of carriageway – loads to be considered - dead load
+– IRC standard live load – Impact effect.
+Unit-3
+General design considerations – Slab Bridge – Design of T-beam bridge – Box culvert-
+Overview on continuous bridge – balanced cantilever bridge- Arch Bridge – Box girder
+bridge decks.
+Unit-4
+Evaluation of sub structures – Pier and abutments caps – Design of pier – Abutments –
+Type of foundations.
+Unit-5
+Importance of Bearings – Bearings for slab bridges – Bearings for girder bridges –
+Elastomeric bearing – Joints – Expansion joints. Construction and Maintenance of bridges
+– Lessons from bridge failures.
+SE 78 | P a ge
+
+--- Page 81 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+References:
+Sl No. Name Of Book Author Publisher
+1. Bridge Engineering Ponnuswamy, S. Tata McGraw – Hill, New
+Delhi, 1997
+2. Essentials of Bridge Victor, D. J. Oxford and IBH Publishers
+Engineering Co., New Delhi, 1980.
+3. Bridge Superstructure N. Rajagopalan Narosa Publishing House,
+New Delhi, 2006
+4. Design of Bridge Structures Jagadeesh. T. R. and Prentice Hall of India Pvt.
+Jayaram. M. A. Ltd., 2004.
+5 Concrete Bridge Practice Raina. V. K. Tata McGraw Hill
+Publishing Company, New
+Delhi, 1991.
+Course Outcomes:
+1. To be familiar with the components of bridges, classification of bridges,
+importance of bridges and to understand the methods of investigation for bridges,
+subsoil exploration, choice of bridge type.
+2. To understand the specification of road bridges, loads to be considered.
+3. To be familiar with various types of bridges such as slab-bridge, T-beam bridge,
+continuous bridge, balanced cantilever bridge, arch bridge, box girder bridge.
+4. To get exposed to evaluation of sub structures and foundations.
+5. To be familiar with importance of bearings, expansion joints and lessons from
+bridge failures.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE12E06.1 Students will be able to learn components of bridges, classification of
+bridges, importance of bridges and understand the methods of investigation
+for bridges, subsoil exploration, choice of bridge type.
+PCE12E06.2 Students will be able to understand the specification of road bridges, loads
+to be considered.
+PCE12E06.3 Students will be familiar with various types of bridges such as slab-bridge,
+T-beam bridge, continuous bridge, balanced cantilever bridge, arch bridge-
+box girder bridge.
+PCE12E06.4 Students will be exposed to evaluation of sub structures and foundations
+PCE12E06.5 Students will be familiar with importance of bearings, expansion joints and
+lessons from bridge failures.
+SE 79 | P a ge
+
+--- Page 82 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E06.1 3 - 3 3 3 3
+PCE12E06.2 3 - 3 3 3 3
+PCE12E06.3 3 - 3 3 3 3
+PCE12E06.4 3 - 3 3 3 3
+PCE12E06.5 3 - 3 3 3 3
+Total 15 - 15 15 15 15
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table-3
+CO PSO1 PSO2
+PCE12E06.1 3 3
+PCE12E06.2 3 3
+PCE12E06.3 3 3
+PCE12E06.4 3 3
+PCE12E06.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. Attainment 3 3
+BEHAVIOUR OF CONCRETE STRUCTURE
+(PCE12E07)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. To learn the materials property and historical developments of RC design
+philosophy.
+SE 80 | P a ge
+
+--- Page 83 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+2. To study the behavior of beam under different types of stress combination and
+collapse mechanism.
+3. To learn the behavior of column under biaxial bending and yield line theory of
+slab, elastic and plastic analysis.
+4. To learn ductile detailing, advantage of confinement and other durability detailing
+methods.
+5. To understand the factors effecting serviceability of RC structure.
+Course Content:
+Unit-1
+Introduction – Historical developments – Material properties – Limit State Design
+Philosophy.
+Unit-2
+Cracked concrete members under flexural moment and axial force – Deformations and
+collapse – – Moment curvature diagrams – M-P interaction – Beams without stirrups
+under flexural and torsional shear – Beams with stirrups under flexural and torsional
+shear.
+Plane and space truss analogies – Modified compression field theory – Unified theory –P-
+M-V-T interaction – Strut and tie model.
+Unit-3
+Behavior of Columns – Biaxial bending – Interaction surfaces –Yield line theory of slabs,
+Elastic analysis– Redistribution of moments, Plastic analysis– Inelastic and hysteretic
+behaviour.
+Unit-4
+Ductility of R.C. members – Confined concrete – Durability detailing–Cracking – Bond
+slip– Development length – Tension stiffening.
+Unit-5
+Serviceability –Elastic, creep and shrinkage deformations.
+References:
+Sl No. Name Of Book Author Publisher
+1. Reinforced Concrete Park, R. and Paulay, T. John Wiley & Sons, New
+Structures York, 1975
+2. Design of Concrete Arthur. H. Nilson, David Tata McGraw Hill, 2004.
+Structures Darwin and Charles W Dolan
+3. Reinforced Concrete- James G MacGregor, James K Prentice Hall, Pearson
+Mechanics and Design Wight Education South Asia Pte
+Ltd, 2006.
+SE 81 | P a ge
+
+--- Page 84 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+4. Theory of Reinforced Thomas T. C. Hsu CRC Press, London, 1993.
+Concrete
+Course Outcomes:
+1. To be familiar with the materials property and historical developments of RC
+design philosophy.
+2. To understand the behavior of beam under different types of stress combination
+and collapse mechanism.
+3. To understand the behavior of column under biaxial bending and yield line theory
+of slab, elastic and plastic analysis.
+4. To get exposed to ductile detailing, advantage of confinement and other durability
+detailing methods.
+5. To understand the factors effecting serviceability of RC structure.
+To establish the correlation between COs & POs
+Table-1
+No. of Course Course Outcome
+Outcome (CO)
+PCE12E07.1 Students will be able to learn the materials property and historical
+developments of RC design philosophy.
+PCE12E07.2 Students will be able to understand the behavior of beam under different
+types of stress combination and collapse mechanism.
+PCE12E07.3 Students will be able to understand the behavior of column under biaxial
+bending and yield line theory of slab, elastic and plastic analysis.
+PCE12E07.4 Students will be able to know the ductile detailing, advantage of
+confinement and other durability detailing methods.
+PCE12E07.5 Students will able to learn the factors effecting serviceability of RC
+structure.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E07.1 3 - 3 3 3 3
+PCE12E07.2 3 - 3 3 3 3
+PCE12E07.3 3 - 3 3 3 3
+PCE12E07.4 3 - 3 3 3 3
+PCE12E07.5 3 - 3 3 3 3
+Total 15 - 15 15 15 15
+Average 3 - 3 3 3 3
+SE 82 | P a ge
+
+--- Page 85 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Eq. Av 3 - 3 3 3 3
+Attainment
+Table-3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE12E07.1 3 3
+PCE12E07.2 3 3
+PCE12E07.3 3 3
+PCE12E07.4 3 3
+PCE12E07.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. Attainment 3 3
+REPAIR AND REHABILITATION OF STRUCTURES
+(PCE12E08)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To investigate the cause of deterioration of concrete structures.
+2. To strategize different repair and rehabilitation of structures.
+3. To evaluate the performance of the materials for repair.
+4. To learn the different techniques of repair of structures.
+Course Content:
+Unit – 1
+General: Introduction, Cause of deterioration of concrete structures, Diagnostic methods
+& analysis, preliminary investigations, experimental investigations using NDT, load
+testing, corrosion mapping, core drilling and other instrumental methods, Quality
+assurance for concrete construction, as built concrete properties strength, permeability,
+thermal properties and cracking.
+Unit – 2
+Influence on Serviceability and Durability: Effects due to climate, temperature,
+chemicals, wear and erosion, Design and construction errors, corrosion mechanism,
+SE 83 | P a ge
+
+--- Page 86 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Effects of cover thickness and cracking, methods of corrosion protection, corrosion
+inhibitors, corrosion resistant steels, coatings, and cathodic protection.
+Unit – 3
+Maintenance and Repair Strategies: Definitions, Maintenance, repair and
+rehabilitation, Facets of Maintenance, importance of Maintenance, Preventive measures
+on various aspects. Inspection, Assessment procedure for evaluating a damaged structure,
+causes of deterioration, testing techniques
+Unit – 4
+Materials for Repair: Special concretes and mortars, concrete chemicals, special
+elements for accelerated strength gain, Expansive cement, polymer concrete, sulphur
+infiltrated concrete, Ferro cement, Fiber reinforced concrete.
+Techniques for Repair: Rust eliminators and polymers coating for rebar during repair
+foamed concrete, mortar and dry pack, vacuum concrete, Gunite and Shot Crete Epoxy
+injection, Mortar repair for cracks, shoring and underpinning.
+Unit – 5
+Examples of Repair to Structures: Repairs to overcome low member strength,
+Deflection, Cracking, Chemical disruption, weathering wear, fire, leakage, marine
+exposure, engineered demolition techniques for dilapidated structures - case studies
+Course Outcomes:
+Upon completing this course, the students will be able to:
+1. Understand the cause of deterioration of concrete structures.
+2. Understand the concept of Serviceability and Durability.
+3. Summarize the principles of repair and rehabilitation of structures.
+4. Provide solution for different techniques of repair of structures.
+References:
+Sl.
+Name of Book Author Publisher
+No.
+Deterioration, Maintenance and
+1. Johnson S.M. McGraw-Hill,
+Repair of Structures
+Longman Scientific &
+Concrete Structures: Materials, Campbell-Allen D. &
+2. Technical,
+Maintenance, and Repair Roper H.
+November1991
+Allen R.T.L., Edwards CRC Press, December
+3. Repair of Concrete Structures
+S.C. & Shaw J.D.N. 2019
+R&D Centre, Structwel
+Learning from Failures:
+Designers &
+4. Deficiencies in Design, Raikar R.N.
+Consultants Pvt. Ltd,
+Construction and Service
+1987
+SE 84 | P a ge
+
+--- Page 87 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Table- 1
+To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE12E08.1 Students will able to understand the cause of deterioration of concrete
+structures.
+PCE12E08.2 Students will able to understand the concept of Serviceability and
+Durability.
+PCE12E08.3 Students will able to summarize the principles of repair and rehabilitation
+of structures.
+PCE12E08.4 Students will able to provide solution for different techniques of repair of
+structures.
+Table – 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E08.1 3 - 3 3 3 3
+PCE12E08.2 3 - 3 3 3 3
+PCE12E08.3 3 - 3 3 3 3
+PCE12E08.4 3 - 3 3 3 3
+Total 12 - 12 12 12 12
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+Table – 3
+To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE12E08.1
+3 3
+PCE12E08.2
+3 3
+PCE12E08.3
+3 3
+PCE12E08.4
+3 3
+Total 12 12
+Average 3 3
+Equivalent Avg. Attainment 3 3
+SE 85 | P a ge
+
+--- Page 88 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+ELECTIVE IV (OPEN ELECTIVE)
+FINITE ELEMENT METHOD
+(PCE12E09)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. Understand the mathematical and physical principles underlying the Finite
+Element Method (FEM) focussed on stress analysis of common structural
+engineering problems.
+2. Demonstrate the ability to formulate and implement to solve structural
+engineering problems using Finite Element Analysis.
+3. Be able to evaluate accuracy of the Finite Element solutions using a range of
+techniques.
+4. Be able to create his/her own FEM computer programs, for simple problems.
+5. Understand the importance of analysis, using FEM, in the broader context of
+engineering practice.
+Course Content:
+Unit- 1
+Introduction: Boundary Value Problem, Approximate Solution, Variational and
+Weighted Residual Methods, Ritz and Galerkin Formulations, Concepts of Piecewise
+Approximation and Finite Elements, Displacement and Shape Functions, Weak
+Formulation, Minimum Potential Energy, Generation of Stiffness Matrix and Load
+Vector.
+Unit- 2
+Stress Analysis: Two Dimensional problems, Plane Stress, Plain Strain and
+Axisymmetric Problems, Triangular and Quadrilateral Elements, Natural Coordinates,
+Isoparametric Formulation, Numerical Integration, Plate Bending and Shell Elements,
+Brick Elements, Elements for Fracture Analysis.
+Unit- 3
+Meshing and Solution Problems: Higher Order Elements, p and h Methods of
+refinement, IIL conditioned Elements, Discretization Errors -Auto and Adaptive Mesh
+Generation Techniques, Error Evaluation.
+Unit- 4
+Nonlinear and Vibration Problems: Material and Geometric Nonlinearity, Methods of
+Treatment, Consistent System Matrices, Dynamic Condensation, Eigen Value Extraction.
+SE 86 | P a ge
+
+--- Page 89 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Unit- 5
+Thermal Analysis: Thermal analysis problems.
+References:
+Sl. No. Name of the Book Author Publisher
+1 Finite Element Method Zeinkiewicz, O. C. Tata Mcgraw Hill, 1988
+2 The Finite Element Method- Vol. I Zeinkiewicz & Taylor Mcgraw-Hill International
+Editions
+3 The Finite Element Method- Vol. II Zeinkiewicz & Taylor Mcgraw-Hill International
+Editions
+4 The Finite Element Method- Vol. III Zeinkiewicz & Taylor Mcgraw-Hill International
+Editions
+5 Vibrations, Dynamics and Structural Mukhopadhyay, M. Oxford and IBH
+System
+6 An Introduction to the Finite Reddy, J. N. Mcgraw-Hill International
+Element Method Editions
+7 The Finite Element Analysis Seshu, P. PHI
+8 Finite Element Procedures Bathe, K. J. Prentice Hall, 1996
+9 A First Course in Finite Elements Fish, J. and John Willey & Sons, 2007
+Belytschko, T.
+10 Concepts and Applications of Finite Cook, R. D. John Willey & Sons
+Element Analysis
+11 Finite Element Analysis- Theory Krishnamurthy, C. S. Tata Mcgraw Hill
+and Programming
+12 Introduction to Finite Element Petyt, M. Cambridge University
+Vibration Analysis Press
+Course Outcomes:
+At the end of the course, a student will be able to
+1. Analyze linear 1D problem such as bars, beams, 2D structural problems using
+CST element, 4 node quadrilateral element, axi-symmetric problems with
+triangular elements, 3 and 4 node plate elements.
+2. Write shape functions for 8 node quadrilateral, 6 node triangular (LST) elements,
+8 node brick element, shell element, and apply numerical integration to solve; 1D
+and 2D; stiffness integrations.
+3. Understand p and h Methods of refinement, discretization Errors and auto and
+adaptive mesh generation techniques.
+4. Apply suitable boundary conditions to a global equation for various structural
+engineering problems and solve them to determine displacements, stresses and
+strains.
+5. Understand the finite element method to solve problems with material and
+geometric nonlinearity and vibration problems.
+6. Critically assess a finite element analysis for correctness.
+SE 87 | P a ge
+
+--- Page 90 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+To establish the correlation between COs & POs
+Table 1
+No. of Course Outcome
+course
+outcome
+(CO)
+PCE12E09.1 Student will be able to analyze linear 1D problem such as bars, beams, 2D
+structural problems using CST element, 4 node quadrilateral element, axi-
+symmetric problems with triangular elements, 3 and 4 node plate
+elements.
+PCE12E09.2 Student will be able to write shape functions for 8 node quadrilateral, 6
+node triangular (LST) elements, 8 node brick element, shell element, and
+apply numerical integration to solve; 1D and 2D; stiffness integrations.
+PCE12E09.3 Student will be able to understand p and h Methods of refinement,
+discretization Errors and auto and adaptive mesh generation techniques.
+PCE12E09.4 Student will be able to apply suitable boundary conditions to a global
+equation for various structural engineering problems and solve them to
+determine displacements, stresses and strains.
+PCE12E09.5 Student will be able to understand the finite element method to solve
+problems with material and geometric nonlinearity and vibration
+problems.
+PCE12E09.6 Student will be able to critically assess a finite element analysis for
+correctness.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E09.1 3 - 3 3 3 3
+PCE12E09.2 3 - 3 3 3 3
+PCE12E09.3 3 - 3 3 3 3
+PCE12E09.4 3 - 3 3 3 3
+PCE12E09.5 3 - 3 3 3 3
+PCE12E09.6 3 - 3 3 3 3
+Total 18 - 18 18 18 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+SE 88 | P a ge
+
+--- Page 91 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12E09.1 2 1
+PCE12E09.2 2 1
+PCE12E09.3 2 1
+PCE12E09.4 2 1
+PCE12E09.5 2 1
+PCE12E09.6 2 1
+Total 12 6
+Average 2 1
+Equivalent 2 1
+Avg.
+Attainment
+STRUCTURAL HEALTH MONITORING
+(PCE12E10)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course objectives:
+1. Implement fundamental concepts the fundamentals of structural health
+monitoring.
+2. To study the various vibration-based techniques for structural health monitoring.
+3. To learn the structural health monitoring using fiber-optic and Piezoelectric
+sensors.
+4. To study the structural health monitoring using electrical resistance and
+electromagnetic techniques.
+Course Content:
+Unit-1
+Review of Structural Modelling and Finite Element Models: Modelling for damage and
+collapse behaviour of structures, finite element modelling, theoretical prediction of
+structural failures.
+Unit-2
+Review of Signals, Systems and Data Acquisition Systems: Frequency and time domain
+representation of systems, Fourier/Laplace transforms, modelling from frequency
+response measurements, D/A and A/D converters, programming methods for data
+acquisition systems.
+SE 89 | P a ge
+
+--- Page 92 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Unit-3
+Sensors for Health Monitoring Systems: Acoustic emission sensors, ultrasonic sensors,
+piezoceramic sensors and actuators, fibre optic sensors and laser shearography
+techniques, imaging techniques.
+Unit-4
+Health Monitoring/Diagnostic Techniques: Vibration signature analysis, modal analysis,
+neural network-based classification techniques.
+Unit 5
+Integrated Health Monitoring Systems: Intelligent Health Monitoring Techniques, Neural
+network classification techniques, extraction of features from measurements, training and
+simulation techniques, connectionist algorithms for anomaly detection, multiple damage
+detection, and case studies.
+Unit 6
+Information Technology for Health Monitoring: Information gathering, signal analysis,
+information storage, archival, retrieval, security; wireless communication, telemetry, real
+time remote monitoring, network protocols, data analysis and interpretation.
+Unit 7
+Project Based Health Monitoring Techniques: Health monitoring techniques based on
+case studies, practical aspects of testing large bridges for structural assessment, optimal
+placement of sensors, structural integrity of aging multi-storey buildings, condition
+monitoring of other types of structures.
+References:
+Sl. No. Name of the Book Author Publisher
+1 Industrial sensors and applications Philip, W. MEP, 1994
+for condition monitoring
+2 Monitoring and assessment of Armer, G.S.T (Editor) Spon, London, 2001
+structures
+3 Structured health monitoring and Wu, Z.S. (Editor) Volumes 1 and 2, Balkema,
+intelligent infrastructure 2003.
+4 Shock vibration handbook Harris, C.M. McGraw-Hill, 2000
+5 Vibratory condition monitoring of Rao, J.S. Narosa Publishing House,
+machines India, 2000
+Course Outcomes:
+1. Students will able understand the fundamentals of maintenance and repair
+strategies.
+2. Students will able diagnose for serviceability and durability aspects of concrete.
+3. Students will able to acquire the knowledge of the materials and techniques used
+for repair of structures.
+4. Decide the appropriate repair, strengthening, rehabilitation and retrofitting
+technique required for a case study building.
+5. Students will able familiar to use an appropriate health monitoring technique and
+demolition technique.
+SE 90 | P a ge
+
+--- Page 93 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+6. Demonstrate understanding of working principles of sensors and actuators made
+from smart materials.
+Table-1
+To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome (CO)
+PCE12E10.1 Students will able understand the fundamentals of maintenance
+and repair strategies.
+PCE12E10.2 Students will able diagnose for serviceability and durability
+aspects of concrete.
+PCE12E10.3 Students will able to acquire the knowledge of the materials
+and techniques used for repair of structures.
+PCE12E10.4 Decide the appropriate repair, strengthening, rehabilitation and
+retrofitting technique required for a case study building.
+PCE12E10.5 Students will able familiar to use an appropriate health
+monitoring technique and demolition technique.
+PCE12E10.6 Demonstrate understanding of working principles of sensors
+and actuators made from smart materials.
+Table-2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E10.1 3 - 3 3 3 3
+PCE12E10.2 3 - 3 3 3 3
+PCE12E10.3 3 - 3 3 3 3
+PCE12E10.4 3 - 3 3 3 3
+PCE12E10.5 3 - 3 3 3 3
+PCE12E10.6 3 - 3 3 3 3
+Total 18 - 18 18 18 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+SE 91 | P a ge
+
+--- Page 94 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+CO PSO1 PSO2
+PCE12E10.1 2 2
+PCE12E10.2 2 2
+PCE12E10.3 2 2
+PCE12E10.4 2 1
+PCE12E10.5 2 1
+PCE12E10.6 2 1
+Total 12 9
+Average 2 1.5
+Equivalent 2 2
+Avg.
+Attainment
+NONLINEAR ANALYSIS
+(PCE12E11)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+In this course, student will learn how to formulate the system considering material and
+geometrical non-linearity. Students will then learn about solving of mathematical model
+using analytical and numerical tools to know the behaviour of system subjected static and
+dynamic loads.
+Course Content:
+Unit-1
+Tensor analysis, deformation and velocity fields
+Unit-2
+Conservation laws, invariants, finite strain theories, nonlinear constitutive equations
+Unit-3
+Deformation and post buckling behaviour of elastic arches, beams, plates and columns.
+Unit-4
+Nonlinear oscillations and dynamic stability, critical points, elements of functional
+analysis
+Unit-5
+Linear spaces spectral theory, Eigen value problems bifurcation, applications.
+SE 92 | P a ge
+
+--- Page 95 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+REFERENCES:
+Sl.No Name of Book Author Publisher
+1 Non-linear Mechanics D.G. Fertis CRC Press,
+December 1998
+2 Non-linear Finite Element J.N. Reddy Oxford University
+Analysis Press, May 2008
+3 Nonlinear Analysis of Structures M. Sathyamoorthy CRC Press, October
+1997
+4 Nonlinear Finite Element M A Crisfield John Wiley,
+Analysis of Solids and Structures October 1996
+5 Variational Methods in Elasticity K Washizu Oxford-New York,
+and Plasticity Pergamon Press,
+May 1968
+6 Problems in Perturbation Ali Hasan Nayfeh John Wiley & Sons,
+1985
+7. Nonlinear Oscilations Nayfey and Mook Wiley, 1995
+Course Outcomes:
+On completion of the course, the student is expected to be able to
+1. Understand and apply nonlinear analysis concepts and methods to non-linear
+model of physical system.
+2. Select, understand and properly utilize appropriate nonlinear analysis and
+damping parameters.
+3. Perform inelastic analysis flexural members.
+4. Perform elastic and inelastic analysis of Plates.
+5. Perform nonlinear and instability analysis of elastically supported beams.
+6. Assess the behaviour of complex nonlinear structures subject to earthquake
+loadings using both pushover and time-history analysis methods.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Course Outcome
+Outcome (CO)
+PCE12E11.1 Understand and apply nonlinear analysis concepts and methods to
+non-linear model of physical system.
+PCE12E11.2 Select, understand and properly utilize appropriate nonlinear
+analysis and damping parameters.
+PCE12E11.3 Perform inelastic analysis flexural members.
+PCE12E11.4 Perform elastic and inelastic analysis of Plates.
+PCE12E11.5 Perform nonlinear and instability analysis of elastically supported
+beams.
+SE 93 | P a ge
+
+--- Page 96 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12E11.6 Assess the behaviour of complex nonlinear structures subject to
+earthquake loadings using both pushover and time-history analysis
+methods.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12E11.1 3 - 3 3 3 3
+PCE12E11.2 3 - 3 3 3 3
+PCE12E11.3 3 - 3 3 3 3
+PCE12E11.4 3 - 3 3 3 3
+PCE12E11.5 3 - 3 3 3 3
+PCE12E11.6 3 - 3 3 3 3
+Total 18 - 18 18 18 18
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12E11.1 2 2
+PCE12E11.2
+2 2
+PCE12E11.3
+3 3
+PCE12E11.4 3 3
+PCE12E11.5
+2 2
+PCE12E11.6
+2 2
+Total
+14 14
+Average 2.33 2.33
+Equivalent
+Avg. 2 2
+Attainment
+SE 94 | P a ge
+
+--- Page 97 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+ADVANCED SOLID MECHANICS
+(PCE12E12)
+Total Credits 04 L – T – P 3 – 1 – 0 = 4
+Course Objectives:
+1. To provide the students with a foundation in nonlinear solid mechanics.
+2. To learn the conservation principles and derive the equations governing the
+mechanics of solids within the continuum hypothesis.
+3. To learn the constitutive equations for solids.
+4. To develop practical skills in working with tensors.
+5. To develop problem solving skills, applying the conservation principles
+and the constitutive equations.
+Course Content:
+Unit- 1
+Introduction to Vectors and Tensors: Introduction to Vector space and Function Space,
+Algebra of Vectors and Tensors, Eigenvalues and Eigenvectors of Tensors, Transfor-
+mation Laws for Basis Vectors and Components, Scalar, Vector and Tensor Functions,
+Gradients and Related operators, Integral Theorems.
+Unit- 2
+Kinematics: Configurations and Motions of Continuum Bodies, Displacement, Velocity
+and Acceleration Fields, Material and Spatial Derivatives, Deformation Gradient, Strain
+Tensor, Rotation and Stretch Tensors, Rates of Deformation Tensors.
+Unit- 3
+Concepts of Stress: Traction Vectors and Stress Tensors, Examples of States of Stress,
+Alternative Stress Tensors.
+Unit- 4
+Balance Principles: Conservation of Mass, Reynolds’ Transport Theorem, Momentum
+Balance Principles, Balance of Mechanical Energy, Balance of Energy in Continuum
+Thermodynamics, Entropy Inequality Principle.
+Unit- 5
+Objectivity: Change of observer and Objective Tensor Fields, Superimposed Rigid-
+body Motions, Objective Rates, Invariance of Elastic Material Response.
+Unit- 6
+SE 95 | P a ge
+
+--- Page 98 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Constitutive Relations: Thermoelastic Materials, Linear Constitutive Relations for Fi-
+nite Deformations of a Thermoelastic Body, Isotropic Thermoelastic Materials, Trans-
+versely Isotropic Thermoelastic Materials, Orthotropic Thermoelastic Materials, Incom-
+pressible Elastic Materials, Thermoviscoelastic Materials.
+Unit- 7
+Torsion of a Circular Cylinder: Torsion of a Linear Elastic Circular Cylinder, Torsion
+of a Second-order Elastic Circular Cylinder, Finite Torsion of a Circular Cylinder,
+Uniqueness Theorem.
+Unit- 8
+Bending of Beams: Bending of a Rectangular Beam, Bending of a Nonlinear Elastic
+Rectangular Beam, Airy Stress Function for Bending of a Beam.
+References:
+Sl. Name of Book Author Publisher
+No.
+1 Elements of Continuum Mechanics Romesh C. Batra AIAA Education Se-
+ries, 2006
+2 Nonlinear Solid Mechanics- A Con- Gerhard A. Holzapfel John Wiley & Sons
+tinuum Approach for Engineering Ltd., 2000
+3 The Non-Linear Field Theries of C. Truesdell and W. Springer- Verlag
+Mechanics Noll Berlin Heidelberg
+GmbH, 1992
+4 The Classical Field Theories C. Truesdell and R. Springer- Verlag Ber-
+Toupin lin, 1960
+5 Continuum Mechanics D. S. Academic
+Chandrasekharaiah Press, Inc.,
+and Lokenath London,
+Debnath 1994
+6 An Introduction to Morton E. Gurtin Academic Press,
+Continum Mechanics Inc., New York,
+1981
+7. Continuum Mechanics A. J. M. Spencer Dover Publication,
+Inc, New York,
+1980.
+8 Mathematical Foundations J. E. Marsden and T. J. Dover Publication,
+of Elasticity R. Hughes Inc, New York,
+1983.
+9 Continuum Mechanics- Con- P. Chadwick Dover Publication,
+cise Theory and Problems Inc, New York,
+1999.
+10 Vector and Tensor Analysis A. I. Borisenko and Dover Publication,
+with Applications I. E. Tarapov Inc, New York,
+1968.
+SE 96 | P a ge
+
+--- Page 99 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+11 Continuum Mechanics and Plasticity Han-Chin Wu Chapman &
+Hall/CRC, New
+York, 2005.
+12 Classical and Computational Y. C. Fung & Pin Tong World Scientific
+Solid Mechanics Publishing Co. Pvt.
+Ltd., Singapore,
+2001.
+13 Nonlinear Elastic Deformation R. W. Ogden Dover Publication,
+Inc, New York,
+1997.
+Course Outcomes:
+On completion of the course, the student is expected to be able to
+1. work with tensors, both in indicial and in direct notation.
+2. understand the concepts of various deformation and stress tensors.
+3. derive the equations of conservation of mass, momenta, and energy.
+4. understand and apply the concepts of material symmetry and frame indifference.
+5. perform basic continuum modeling of solids.
+6. understand scientific articles with continuum mechanical formulations.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Course Outcome
+Outcome (CO)
+PCE12E12.1 The student is expected to be able to work with tensors, both in
+indicial and in direct notation.
+PCE12E12.2 The student is expected to be able to understand the concepts of
+various deformation and stress tensors.
+PCE12E12.3 The student is expected to be able to derive the equations of con-
+PCE12E12.4 sTehrev asttiuodne ontf ims aesxsp, emctoemd eton tbae, aanbdle e tnoe rugnyd. erstand and apply the
+concepts of material symmetry and frame indifference.
+PCE12E12.5 The student is expected to be able to perform basic continuum
+modeling of solids.
+PCE12E12.6 The student is expected to be able to understand scientific articles
+with continuum mechanical formulations.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+SE 97 | P a ge
+
+--- Page 100 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12E12.1 2 - 3 3 3 3
+PCE12E12.2 2 - 3 3 3 3
+PCE12E12.3 2 - 3 3 3 3
+PCE12E12.4 2 - 3 3 3 3
+PCE12E12.5 2 - 3 3 3 3
+PCE12E12.6 2 - 3 3 3 3
+Total 12 - 18 18 18 18
+Average 2 - 3 3 3 3
+Eq. Av 2 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12E12.1
+2 2
+PCE12E12.2
+2 2
+PCE12E12.3
+2 1
+PCE12E12.4
+2 1
+PCE12E12.5
+3 3
+PCE12E12.6
+2 2
+Total
+13 11
+Average 2.16 1.83
+Equivalent
+Avg. 2 2
+Attainment
+PROJECT PRELIMINERIES
+(PCE12P01)
+Total Credits 03 L – T – P 0 – 0 – 6 = 6
+Course objectives:
+1. To understand the current research trend and field application in structural engi-
+neering field.
+SE 98 | P a ge
+
+--- Page 101 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+2. To understand the structural engineering problems and apply the knowledge in a
+specific area.
+3. To acquire expertise in experimentation, modeling along with technical writing
+and report preparation.
+Course Content:
+Each student will be given a Thesis/Project problem at the beginning of Second Semester.
+He/ She will work on the literature survey, scope of work, equipment development etc.
+and submit a report/dissertation. The main Thesis/Project work will, however, is done in
+Third and Fourth Semester.
+Course Outcomes:
+1. To be familiar with current research trend and application of modern structural
+engineering techniques.
+2. To be conversant with the elaboration of any specific area of the research topic or
+field application technique.
+3. To be well acquainted in literature review, experimentation, modeling along with
+technical writing and report preparation.
+To establish the Correlation between COs and POs
+Table 1
+No of Course Course Outcome
+Outcome (CO)
+PCE12P01.1 To be familiar with current research trend and application of mod-
+ern structural engineering techniques.
+PCE12 P01.2 To be conversant with the elaboration of any specific area of the
+research topic or field application technique.
+PCE12 P01.3 To be well acquainted in literature review, experimentation, mod-
+eling along with technical writing and report preparation.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12P01.1 3 3 3 3 3 3
+PCE12P01.2 3 3 3 3 3 3
+PCE12P01.3 3 3 3 3 3 3
+Total 9 9 9 9 9 9
+Average 3 3 3 3 3 3
+SE 99 | P a ge
+
+--- Page 102 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Eq. Av 3 3 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE11P01.1 2 1
+PCE11P01.2 2 1
+PCE11P01.3 2 1
+Total 6 3
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+STRUCTURAL ENGINEERING LABORATORY
+(PCE12P02)
+Total Credits 02 L – T – P 0 – 0 – 3 = 3
+Course Objectives:
+To understand the different parameter of structural engineering and to study the different
+behaviour of beams.
+Course Content:
+Study of behaviour of Beams under flexure – Under Reinforced, Balanced and Over
+Reinforced Beams Study of Shear- Effect of Shear Span to Depth ratio- Torsion- Testing
+of Beams under Pure Torsion Testing of pre-stressed Concrete Beams.
+References:
+Sl. No. Name of the Book Author Publisher
+MISL-WILEY
+Reinforced Cement Concrete R. Park and T.
+1 Series, Wiley India
+Structures Paulay
+Pvt. Ltd, 2009.
+Eighth edition, S
+2 Concrete Technology M.S. Shetty Chand Publishing;
+2018.
+Course Outcomes:
+At the end of the course, student will be able to
+SE 100 | P a ge
+
+--- Page 103 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+1. Apply various testing techniques to structural members.
+2. Analyze the behaviour of beams under flexure.
+3. Perform the Non destructive testing of concrete structures.
+4. Analyze the behaviour of beams under shear and torsion.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE12P02.1 Student will be able to apply various testing techniques to structural
+members.
+PCE12P02.2 Student will be able to analyze the behavior of beams under flexure.
+PCE12P02.3 Student will be able to perform the Non destructive testing of
+concrete structures.
+PCE12P02.4 Student will be able to analyze the behaviour of beams under shear
+and torsion.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12P02.1 3 - 3 3 3 3
+PCE12P02.2 3 - 3 3 3 3
+PCE12P02.3 3 - 3 3 3 3
+PCE12P02.4 3 - 3 3 3 3
+Total 12 - 12 12 12 12
+Average 3 - 3 3 3 3
+Eq. Av 3 - 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE11P02.1 2 1
+PCE11P02.2 2 1
+PCE11P02.3 2 1
+PCE11P02.4 2 1
+SE 101 | P a ge
+
+--- Page 104 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Total 2 1
+Average 2 1
+Equivalent
+Avg. 2 1
+Attainment
+COMPUTER AIDED DESIGN LABORATORY
+(PCE12P03)
+Total Credits 02 L – T – P 0 – 0 – 3 = 3
+Course Objectives:
+1. To impart fundamental knowledge to students in the latest technological topics on
+Computer Aided Design and Computer Aided Engineering Analysis and to
+prepare them for taking up further research in the areas.
+2. To provide guidance to students for their choices in research and professional
+career outlook and to encourage students to take up research.
+Course Content:
+Unit- 1
+Developing computer codes in MATLAB, use of different in-built functions and
+toolboxes to solve different problems.
+Unit- 2
+Hands on experience on application softwares, STAAD, ANSYS, ABACUS, MIDAS
+- Development of software and application to Structural Engg Problems.
+References:
+Sl. No. Name of the Book Author Publisher
+1 Getting Started with MATLAB: A Rudra Pratap Oxford, 2010
+Quick Introduction for Scientists &
+Engineers
+Course Outcomes:
+At the end of the course, a student will be able to
+1. Apply/develop solutions or to do research in the areas of Design and simulation in
+Structural Engineering.
+2. Have abilities and capabilities in developing and applying computer software and
+hardware to structural analysis.
+SE 102 | P a ge
+
+--- Page 105 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+3. Formulate relevant research problems; conduct experimental and/or analytical
+study and analyzing results with modern mathematical / scientific methods and
+use of software tools.
+4. Design and validate technological solutions to defined problems and communicate
+clearly and effectively for the practical application of their work.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE12P03.1 Student will be able to apply/develop solutions or to do research in
+the areas of Design and simulation in Structural Engineering.
+PCE12P03.2 Student will be able to have abilities and capabilities in developing
+and applying computer software and hardware to structural analysis.
+PCE12P03.3 Student will be able to formulate relevant research problems; conduct
+experimental and/or analytical study and analyzing results with
+modern mathematical / scientific methods and use of software tools.
+PCE12P03.4 Student will be able to design and validate technological solutions to
+defined problems and communicate clearly and effectively for the
+practical application of their work.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12P03.1 3 - 3 3 3 3
+PCE12P03.2 3 - 3 3 3 3
+PCE12P03.3 3 2 3 3 3 3
+PCE12P03.4 3 2 3 3 3 3
+Total 12 4 12 12 12 12
+Average 3 2 3 3 3 3
+Eq. Av 3 2 3 3 3 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12P03.1 3 2
+SE 103 | P a ge
+
+--- Page 106 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12P03.2 3 2
+PCE12P03.3 3 2
+PCE12P03.4 3 2
+Total 12 8
+Average 3 2
+Equivalent 3 2
+Avg.
+Attainment
+COMPREHENSIVE VIVA-VOCE
+(PCE12P04)
+Total Credits 02 L – T – P 0 – 0 – 0
+Course objectives:
+1. To assess the candidate’s overall performances in subject matters related to Struc-
+tural Engineering and their ability.
+2. To understand the current research trend and field application in structural engi-
+neering field.
+3. To assess the candidate’s preparedness for facing any interview.
+Course Content:
+Viva-voce will be conducted for each of the post graduate students at the end of the Se-
+cond Semester in the department by the board of examiners constituted by the Structural
+Engineering Section of Civil Engineering Department.
+Course Outcomes:
+1. It is for assessing the candidate’s overall performances in subject matters related
+to Structural Engineering and their ability.
+2. To be familiar with current research trend and application of modern structural
+engineering techniques.
+3. To be able to prepare for facing any interview.
+To establish the correlation between COs & POs
+Table 1
+No. of course Course Outcome
+outcome (CO)
+PCE12P04.1 It is for assessing the candidate’s overall performances in subject
+matters related to Structural Engineering and their ability.
+SE 104 | P a ge
+
+--- Page 107 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+PCE12P04.2 To be familiar with current research trend and application of modern
+structural engineering techniques.
+PCE12P04.3 To be able to prepare for facing any interview.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation: - ‘-’
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE12P04.1 1 - 2 2 2 3
+PCE12P04.2 2 1 1 1 1 3
+PCE12P04.3 1 - 1 1 1 3
+Total 4 1 4 4 4 12
+Average 1.33 1 1.33 1.33 1.33 3
+Eq. Av 1 1 1 1 1 3
+Attainment
+To establish the correlation between COs & PSOs
+Table 3
+CO PSO1 PSO2
+PCE12P04.1 3 2
+PCE12P04.2 3 3
+PCE12P04.3 3 2
+Total 9 7
+Average 3 2.33
+Equivalent 3 2
+Avg.
+Attainment
+SE 105 | P a ge
+
+--- Page 108 ---
+Syllabus: M.Tech., Structural Engineering NIT Agartala
+Third & Fourth Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+Third Semester
+1 PCE13P01: Project & Thesis - I 10 ----- 100
+Fourth Semester
+1 PCE14P01: Project & Thesis - II 20 ----- 300
+Third Semester
+Project & Thesis- I
+(PCE13P01)
+Each student will devote full time in the Third Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a part of the Thesis/Project Report at the end of the
+Third Semester which will be evaluated by a Board of Examiners consisting of the
+Supervisor and External Examiner. The evaluation of the above said Thesis will be
+followed by a viva-voce in front of faculty members and other post-graduate students.
+Fourth Semester
+Project & Thesis- II
+(PCE14P01)
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an
+assigned research problem of Design/Development work under the supervision of a
+Faculty Member. They will present a Final Thesis/Project Report at the end of the Fourth
+Semester which will be evaluated by a Board of Examiners consisting of the Supervisor
+and External Examiner. The evaluation of the above said Thesis will be followed by a
+viva-voce in front of faculty members and other post-graduate students.
+* * * * *
+SE 106 | P a ge

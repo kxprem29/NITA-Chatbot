@@ -1,0 +1,1069 @@
+
+--- Page 1 ---
+List of Project Scholar Year Wise
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Optimal Lithium-Ion Battery Prof. Apu Kumar Saha
+Nikita Ghosh Recycling Technology Selection & BS
+1. Dr. Sayanta Chakraborty 2024
+under Triangular Fuzzy
+Environment
+Exploring Join Graphs of Finite Prof. Baby Bhattacharya
+Manjit Kumar
+Groups :
+2. 2024 BS
+Theory, Construction and
+Spectral Analysis
+A Fuzzy Mcdm Approach For Prof . Baby Bhattacharya
+Anirban Saha Efficiency &
+3. Analysis Of Surface Water Dr . Sudipa Choudhury 2024 BS
+Treatment
+Plants
+The Hierarchical Product of Dr. Supriyo Dutta
+Buddha Sen
+Graphs
+4 2024 BS
+An Integrated Fuzzy Mcdm Prof. Apu kumar Saha
+Arpita Nama Approach &
+5 In Sustainable Urban Drainage Dr. Sudipa choudhury 2024 BS
+System
+MSWO with leader based
+Gobinda Saha Prof. Apu Kumar Saha
+mutation, linear population
+6 2024 BS
+size reduction and sobol
+initialization
+7 Prof . Debashish Bhattacharya
+Image Classification
+Satyam Rijwani 2024 BS
+&
+Prof . Apu Kumar Saha
+Elliptic Curve
+8 Prof . Debashish Bhattacharya
+Anuj Kumar Sharma Digital Signatures 2024 BS
+A Study On Multi-Objective
+Linear/ Non-Linear
+9 Pranab Debnath Programming Problem And Its Prof . Debashish Bhattacharya 2024 BS
+Solution Using Genetic
+Algorithms
+10 Time Table Scheduling Dr. Supriyo Dutta
+Shivanshu Sharma 2024 BS
+11 Prediction of Carbon emission Prof . Uttam Kumar Bera
+Adidela Yashwanth due to Road 2024 BS
+Reddy Transport
+
+--- Page 2 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+12 Heart Disease Prediction: Using Prof . Paritosh Bhattacharya
+Dharmendra Raj Machine Learning 2024 BS
+13 A comparative study on Prof. Paritosh Bhattacharya
+&
+MCGDM methods for finding
+Naima Debbarma Dr. Susmita Roy 2024 BS
+the best domain for
+empowerment of women in India
+14 Integration Of Modified Swara Prof. Uttam Kumar Bera
+With Topsis And
+Suparna Das Vikor Method On Spherical & 2024 BS
+Fuzzy Environment
+With Its Real Life Applications Dr. Pinki Majumder
+15 Prof. Baby Bhattacharya
+Simulation And Simplification
+Of
+Mridulanka Nath and 2024 BS
+Quantum Circuits Using Zx-
+Calculus
+Dr. Supriyo Dutta
+16
+Sine And Cosine Algorithm For
+Gyan Singh Prof. Uttam Kumar Bera 2024 BS
+Optimization
+17 Optimization Of Total Reliability
+Of A Series-Parallel System By
+Sampili Debbarma Prof. Debasish Bhattacharya 2024 BS
+Minimizing The Total Failure
+Probability
+18 A Study On Selection Of Mobile
+Korbi Debbarma Phone Using Prof. Paritosh Bhattacharya 2024 BS
+Ahp-Topsis
+19 Hemant Shankar Image Captioner: A Deep Prof. Paritosh Bhattacharya
+& 2024 BS
+Learning Model Dr. Supriyo Dutta
+20 A Study on Fermatean Fuzzy
+Saima Debbarma Multi-Criteria Group Decision Prof. Apu Kumar Saha
+Making Approaches to Evaluate 2024 MS
+Waste Management and Dr. Sayanta Chakraborty
+Recycling Technologies
+21 Identification of Diseases using
+Apurba Debnath
+Artificial Intelligence Prof. Paritosh Bhattacharya 2024 MS
+and Soft Computing Approaches
+22 An Intuitionistic Fuzzy MEREC- Prof. Apu Kumar Saha MS
+CODAS Approach for Selection
+Snehashish Barman &
+of Sustainable
+2024
+Urban Drainage Dr. Sudipa Choudhury
+
+--- Page 3 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+23 L-JayaCoSine: A novel hybrid Prof. Paritosh Bhattacharya &
+Banya Das
+meta-heuristic optimization Dr. Susmita Roy
+2024 MS
+algorithm for engineering design
+problem and data classification
+24 T-Spherical Fuzzy MARCOS Prof. Uttam Kumar Bera & Dr.
+Dipayan Bhowmik
+MCDM method and its real life Pinki Majumder
+2024 MS
+applications
+25 A study of connectedness in ideal
+Subhrangshu Datta Prof. Debasish Bhattacharya
+topological spaces 2024 MS
+26 A Generalized Reliability
+Sagar Roy Analysis Of Series And Parallel Prof. Debasish Bhattacharya
+System Using 2024 MS
+Intuitionistic Fuzzy Set Theoretic
+Approach
+27 Intelligent Levenberg-Marquardt
+Predictive Networks for
+Santanu Sutradhar Analyzing Prof. Paritosh Bhattacharya
+Three-Stage Prey-Predator-Top 2024 MS
+Predator Dynamics with Shelter,
+Linear Harvesting, and
+Supplementary Food Effects
+28 “A Study on Multi-Criteria Prof. Baby Bhattacharya
+Group Decision Making
+Chayel Tripura &
+Approaches under
+2024 MS
+Picture Fuzzy and q-rung Picture
+Dr. Sayanta Chakraborty
+Fuzzy Environments for Solving
+Real-Life Problems”
+29 Role of Hyper connected ness Prof. Baby Bhattacharya
+Nilanjana Deb and Sub maximality in Different &
+kind Dr. Jayasree Chakraborty 2024 MS
+of M-topological Spaces
+30 Student Performance Analysis
+Brijesh Saini Prof. Uttam Kumar Bera
+2024 MS
+31 Supply Chain Management
+Shivam Verma Prof. Debasish Bhattacharya
+2024 MS
+32 Optimizing Vehicle Routing Prof. Paritosh Bhattacharya
+Problem Using Distributed
+Aditya Raj Genetic &
+Algorithm Approach and NSGA- 2024 MS
+Dr. Susmita Roy
+II Algorithm
+
+--- Page 4 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+33 Internship Report On Excitel
+Tarang Vats Portal Project For Mobile Prof. Baby Bhattacharya
+And Broadband 2024 MS
+34 Shreya Roy Machine Learning for Disease Prof. Paritosh Bhattacharya
+Classification Identifying 2024 M.Sc
+Optimal Models
+35
+Shovan Deb Dr. Supriyo Dutta
+Periodicity of the quantum walk
+2024 M.Sc
+on a Signed Graph
+36 A Study On The Unit Element Prof. Baby Bhattacharya
+Sampriti Dey
+Graph Associated To
+2024 M.Sc
+The Ring ℤ
+37 Dr. Abhijit Baidya
+Multi-objective medical Oxygen
+Suraj Kumar &
+Supply chain optimization in
+2024 M.Sc
+Multi-
+Prof. Uttam Kumar Bera
+Disaster Response Scenarios
+38 A Study On The Improvement Of
+Gaurav Singh Artificial Prof. Apu Kumar Saha
+Hummingbird Algorithm For 2024 M.Sc
+Solving Unimodal And
+Multimodal Functions
+39 Comparative Analysis of ARIMA Prof. Debasish Bhattacharya
+Anuruddh Singh and Machine Learning &
+Regression Models 2024 M.Sc
+for Multivariate Weather Dr. Suman Deb
+Forecasting
+40 Leveraging Machine learning for Dr. Abhijit Baidya
+Lokesh Kumar Disaster Management: A &
+Comprehensive Framework for 2024 M.Sc
+Prediction, Response and Prof. Uttam Kumar Bera
+Recovery
+41 Apurba Jana Online Book Store Prof. Apu Kumar Saha
+2024 M.Sc
+A Study On Health Care Waste
+42 Recycling Using Fermatean
+Dr. Apu Kumar Saha
+Saima Debbarma & 2023 BS
+Fuzzy Group Decision Making
+Dr. Sayanta Chakraborty
+Approach
+A Case Study On Malaria Fever
+43
+Apurba Debnath In Tripura Through Advanced Dr. Paritosh Bhattacharya 2023 BS
+Intelligent Techniques
+Dr. Apu Kumar Saha
+44 AStudy On MultiCriteria
+Snehashish Barman & 2023 BS
+Decision Making
+Dr. Sudipa Choudhury
+
+--- Page 5 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+A Parametric Study On Optimal
+45 Design Of Multilayer Neural Dr. Paritosh Bhattacharya &
+Banya Das Network Coupled With Genetic Dr. Susmita Roy 2023 BS
+Algorithm For Input-Output
+Modelling
+Ant Colony Optimization For
+46
+Traveling Salesman Problem
+Dipayan Bhowmik Dr. Uttam Kumar Bera 2023 BS
+Based On
+Parameters Optimization
+A Study On Different Special
+47
+Subsets Of
+Subhrangshu Datta Dr. Debasish Bhattacharya 2023 BS
+A Topological Space And Their
+Interconnections
+Reliability Analysis Of Series
+48
+Sagar Roy And Parallel System Using Dr. Debasish Bhattacharya 2023 BS
+Fuzzy Set Theoretic Approach
+Some Studies On The Two-
+49
+Santanu Sutradhar Species Competition Model And Dr. Paritosh Bhattacharya 2023 BS
+Its Stability Analysis
+50 Student Placement Prediction Dr. Uttam Kumar Bera
+Kailash Kumar 2023 BS
+Tata Elxsi Big Data Platform–
+51 Dr. Uttam Kumar Bera
+Harsh Singh Tedax 2023 BS
+(Internship Project)
+BS
+52
+Brijesh Saini InternshipProjectReport Dr. Uttam Kumar Bera 2023
+A Study On Picture Fuzzy
+53 AggregationOperatorBased Dr. Baby Bhattacharya
+Chayel Tripura Group Decision Making For & 2023 BS
+SelectionOfBestVideo Dr. Sayanta Chakraborty
+Conferencing Tool
+An Overview Of Fundamentals
+54 Of Multiset Topology And Its Dr. Baby Bhattacharya
+Nilanjana Deb & 2023 BS
+Basic Differences With General
+Dr. Jayasree Chakraborty
+Topology
+A Study On Similarity Measures
+55
+Dr. Baby Bhattacharya
+In Intuitionistic Fuzzy Set (IFS)
+Reddy Suresh & 2023 BS
+And Single Value dNeutrosophic
+Dr. Jayasree Chakraborty
+Fuzzy Set (NFS)
+Some Studies On Knot Theory
+56
+And
+Shivam Verma Dr. Debasish Bhattacharya 2023 BS
+Its Application To Study And
+Modeling DNA
+Fuzzy Technique For Order Of
+57 Dr. Apu Kumar Saha
+Dharanidhar Preference By Similarity To
+& 2023 BS
+Kaman Ideal Solution For Selection Of
+Dr. Sudipa Choudhury
+E-Scooter Charging Station
+
+--- Page 6 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+A Study On Handwritten Digit
+58 Dr. Paritosh Bhattacharya &
+Recognition Using Convolution
+Aditya Raj Dr. Susmita Roy 2023 BS
+Neural
+Network
+59 Junglee Games Internship
+Anukul Kumar Dr. Apu Kumar Saha 2023 BS
+Report
+Combating Misinformation:A
+60
+Study On The Effectiveness Of
+Tarang Vats Ensemble-Based Machine Dr. Baby Bhattacharya 2023 BS
+Learning Algorithms For Fake
+News Detection
+QFHO: A Quasi-Reflection-
+61 Based Fire Hawk Optimization
+Salpa Reang Dr. Apu Kumar Saha 2023 MS
+For Large Scale Optimization
+Problems
+Non-Structural Flood
+62 Dhrubajyoti Mitigation Under A Single-
+Dr. Baby Bhattacharya 2023 MS
+Bhattacharjee Valued Neutrosophic Fuzzy Soft
+Environment
+Weighted Averaging
+63 Aggregation Operator Based
+Topsis Method In Spherical Dr. Apu Kumar Saha&
+Rajdip Mahajan 2023 MS
+Fuzzy Environment For E- Dr. Sudipa Choudhury
+Scooter Charging Station
+Selection
+Study On Fermatean Fuzzy
+64 Aggregation Operator Based
+Dr. Debasish Bhattacharya
+Mampi Debnath & 2023 MS
+Decision Making For Green
+Dr. Sayanta Chakraborty
+Supplier Selection.
+Some Study On Comparison Of
+65 Rupa Majumder Two Functional Responses On
+Dr. Paritosh Bhattacharya 2023 MS
+Prey-Predator Models
+Incorporating Prey Refuge
+A Study And Analysis Of
+66 Debatosh Dr. Baby Bhattacharya
+Multimodal Sentiment Analysis
+Chakraborty & 2023 MS
+Exploring The Intermodal
+Dr. Dwijen Rudrapaul
+Semantic Relation Of Tweets
+Application Of Intelligence
+67 A Poojitha Reddy Based Control System In Real
+Dr. Uttam Kumar Bera 2023 MS
+Life Problems
+Some Analysis On Three
+68 Subhradeep Species Predator-Prey
+Datta Interactions Containing Holling Dr. Paritosh Bhattacharya 2023 MS
+TypeII &
+TyprIII Functional Response
+Sensitivity Analysis And Its
+Application To De Novo MS
+69 Jijita Debbarma Programming Dr. Debasish Bhattacharya 2023
+Problem
+69
+
+--- Page 7 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Dr.Baby Bhattacharya
+An Overview On Some
+&
+Important Concepts Of
+70 Ramraushan Dr. Jayasree 2023 MS
+Soft Topological
+Kumar
+Chakraborty
+Spaces
+Four Dimensional Supply Dr. Uttam Kumar Bera &
+Potharaju Chain Model Under
+71 Dr. Abhijit Baidya 2023 MS
+Mahesh Interval-Valued
+Pythagorean Fuzzy Set
+Dr. Debasish Bhattacharya 2023 MS
+Optimal Port folio
+72
+Selection
+Aman Kumar
+Two-Stage Multi-Item Supply 2023 MS
+Dr. Uttam Kumar Bera&
+Chain Modeling WithType-
+73 Omprakash Kumar 2Gaussian Fuzziness And Dr. Abhijit Baidya
+Randomness
+Institute Supervisor(s):Dr.
+Paritosh
+Cloud Based Corporate
+Bhattacharya &
+Project Development
+Dr. Susmita Roy Industrial
+74 Shivam Sharma Strategy Mentor: 2023 M.Sc
+Sanjay Shelar( Team Lead
+(Industrial Project) SSP Technology, Pune)
+A Study On Aggregation
+Operator Based Fuzzy Group Dr. Apu Kumar Saha &
+Decision Making for Building Dr. Sayanta Chakraborty 2023 M.Sc
+75 Ankita Pareek Material Selection by Recycling
+Waste Plastics and Agro-Waste
+A Mutation-Based Single
+Saurabh Pundlik
+76 Candidate Optimizer for Higher Dr. Apu Kumar Saha 2023 M.Sc
+Wanjari
+Dimensional Problems
+Dr. Baby Bhattacharya&
+A Study on Separation Axiomsin
+Dr. Jayasree
+77 Binayak Banik the Context of Multiset Mixed 2023 M.Sc
+Chakraborty
+Topological Spaces
+Mathematical Modeling of the Dr. Uttam Kumar Bera M.Sc
+Prasad Shankar Supply Chainin Multiple Industry
+78 & 2023
+Belamkar Domains Underan Uncertain
+Environment Dr. Abhijit Baidya
+
+--- Page 8 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Asset Portfolio Optimization
+Subarashmi
+79 Under Uncertain Dr. Debasish Bhattacharya 2023 M. Sc
+Priyadarshini
+Environment
+Institute Supervisor(s):
+Dr.Baby Bhattacharya &
+Scan Laundry: Optimizing
+Dr. Susmita Roy Industrial
+Production Processes In The
+Mentor:
+Clothing Industry With Scanning
+80 Nitish M Sharma Tushar Wakde 2023 M. Sc
+Technology
+(Team Lead
+(Industrial Project)
+Remote Data Solution Pvt Ltd,
+Pune)
+81 Kanika Portfolio Selection Problem Dr. Debasish Bhattacharya 2023 M. Sc
+Under Uncertain Environment
+82
+PSWARM Algorithm With
+Simulated Annealing For
+Salpa Reang Dr. Apu Kumar Saha 2022 BS
+Unimodal And Multimodal
+Benchmark Functions.
+An Introduction To The
+83
+Independent Topological Dr. Baby Bhattacharya & Dr.
+Dhrubajyoti 2022 BS
+Structure Generated By Fuzzy Soft
+Bhattacharjee Jayasree Chakraborty
+𝛾 Open Set
+Analytic Hierarchy Process On
+Dr. Apu Kumar Saha &
+Spherical Fuzzy Environment
+84
+Rajdip Mahajan 2022 BS
+And ItsApplication Dr.Sudipa Choudhury
+A Study On Aggregation
+Operator Based Multi Criteria
+Group Decision Making Under Prof.(Dr.) Debasish
+85 Mampi Debnath Fermatean Fuzzy Environment And Bhattacharya 2022 BS
+Its Application To Solve Real Life
+&
+Decision Making Problem.
+Dr. Sayanta Chakraborty
+Mathematical Analysis Of
+PREYPREDATOR
+86 Population Dynamics Using
+Rupa Majumder 2022 BS
+LOTKA VOLTERRA Functional Dr. Paritosh Bhattacharya
+Response.
+A Study On Link Prediction Of Dr. Baby Bhattacharya & BS
+Debatosh Biological Networks
+87 Chakraborty Using Fuzzy Graphs Dr. Jayasree Chakraborty 2022
+
+--- Page 9 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Change In Traffic Lights Using
+A Poojitha Reddy Dr. Uttam Kumar Bera 2022 BS
+88 Fuzzy Logic
+Evolutionary Mathematics:
+Mathematical Analysis Of
+89 Darwinian And Mendelian
+Subhradeep Datta Dr. Paritosh Bhattacharya 2022 BS
+Genetics
+90 Some Study On Extended Logistic
+Sudarshan Das Dr. Paritosh Bhattacharya 2022 BS
+Growth Model
+91 A Study On Optimal Solution Using
+Jijita Debbarma Prof.(Dr.) Debasish 2022 BS
+DeNovo Programming
+Bhattacharya
+92 Ramraushan Dr. Baby Bhattacharya & Dr.
+Fuzzy Topology 2022 BS
+Kumar Jayasree Chakraborty
+93 Fuzzy Logic Using MATLAB Dr. Uttam Kumar Bera BS
+Potharaju Mahesh 2022
+The Evaluation Of Optimality:
+94 Prof.(Dr.) Debasish
+Subhabrata Dutta DNOVO Programming 2022 BS
+Bhattacharya
+95 Optimal System Design Under Prof.(Dr.) Debasish
+Aman Kumar 2022 BS
+Uncertainty Bhattacharya
+96 Omprakash Artificial Intelligence In
+Dr. Uttam Kumar Bera 2022 BS
+Kumar Transportation System
+A Study On Δ-I-Compactness In A
+97 Mixed Fuzzy Ideal Topological Dr. Baby Bhattacharya & Dr.
+Hrituraj Pal 2022 MS
+Space Jayasree Chakraborty
+An Improved Chaotic
+Dynamic-Opposition Based
+98 Prasanjit Slime Mould Algorithm
+Chakraborty (COSMA) For Function Dr. Apu Kumar Saha 2022 MS
+Optimization
+99
+Andrew Mathematical Analysis Of Dr. Paritosh Bhattacharya 2022 MS
+Debbarma Dengue Dynamics Of Odisha
+Dr. Baby Bhattacharya &
+100 Joy Chandra Paul Some Application Of Fuzzy 2022 MS
+Dr.Jayasree Chakraborty
+Sof Set Theory
+
+--- Page 10 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+101 Analysis Of An Economic Order
+Anupam Sarkar Quantity And Reorder Point Prof.(Dr.) Debasish 2022 MS
+Inventory Control Model For Bhattacharya
+Company XYZ
+Application Of Quadri Dr. Apu Kumar Saha &
+102 Purnendu Rudra 2022 MS
+Partitioned Neutrosophic Set Dr.Kalyani Debnath
+Paul
+Using Aggregation Operators
+Application Of Pythagorean
+Dipankar Chandra Fuzzy Einstein Aggregation Dr. Apu Kumar Saha &
+103 Bhowmik Operator In The Selection Of Dr. Sudipa Choudhury 2022 MS
+Sustainable Urban Drainage
+System
+Analysis Of Predator Dependent
+Functional Responses In A
+104 Dridhiti Roy Predator-Prey Model Dr. Paritosh Bhattacharya 2022 MS
+Incorporating Prey
+Refuge
+105 Saptadeep Cancer Detection Using Dr. Uttam Kumar Bera 2022 MS
+Majumder Machine Learning
+A Comparative Study On
+Traditional Method, DeNovo Prof.(Dr.)Debasish
+106 Nayantara Gogoi Approach And Innovation Bhattacharya 2022 MS
+Matrix Technique In Production
+Planning Problem
+Solution Of Stochastic
+Transportation Problem
+107 Kamana Mishra Involving Multi-Choice Dr. Uttam Kumar Bera 2022 MS
+Constraints Of Different
+Distribution Using
+Lagrange's Interpolation
+108 S. Mounika Movie Recommendation Dr. Baby Bhattacharya 2022 MS
+System
+A Study On Statistical Almost
+109 Pooja Convergence Of Sequences For Dr. Baby Bhattacharya 2022 M.sc.
+Complex Uncertain Variables
+Application Of Game Theory On
+Dr. Uttam Kumar Bera &
+110 Suresh Ankur Inventory Control Problems In 2022 M.sc.
+Dr. Pinki Majumder
+Different Environments
+A Modified Sine Cosine
+111 Nirupam Nath Dr.Apu Kumar Saha 2022 M.sc.
+Algorithm For Composite
+Benchmark Functions
+112 Shezal Gangwar A Study On Separation Axiom In Dr. Baby Bhattacharya 2022 M.sc.
+Fuzzy Soft Closure Spaces
+
+--- Page 11 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Mathematical Modeling Of
+113 Devendra Singh Tumor Growth And Stability Dr. Paritosh Bhattacharya 2022 M.sc
+Analysis With Chemotherapy
+.
+Some Qrung Ortho pair Fuzzy
+Scaled Prioritized Weighted Dr. Apu Kumar Saha & Dr.
+114 Nilanjan Dey Aggregation Operators And Abhijit Saha 2022 M.sc.
+Their Application In Iot
+Platform Selection
+Application Of Game Theory On Dr. Uttam Kumar Bera & 2022 M.sc.
+115 Dipanjali Ghosh Inventory Control Dr. Pinki Majumder
+Problems In Different
+Environments
+A Study On Prime Ideals Of Prof.(Dr.) Debasish 2022 M.sc.
+116 Pinak Bhowmik The Rings Of Continuous Bhattacharya
+Functions
+117 L hamthupten A literature review Dr. Apu kumar saha 2021 Bs
+“butterfly
+optimization
+algorithm”
+Dr. Baby bhattacharya &
+118 Hrituraj pal Generalised closed setsin Dr. Jayasree chakraborty
+fuzzy soft ideal 2021 Bs
+topologicalspaces
+Prasanji A hybrid slimemould Dr. Apu kumar saha 2021 Bs
+119 chakraborty optimization algorithm
+Mathematical modeling of
+Andrew
+120 infectious disease: acase Dr.Paritosh
+debbarma
+study on dengue bhattacharya 2021 Bs
+dynamics
+A study on fuzzy
+Dr. Baby bhattacharya &
+121 Joychandra softest theory and
+Dr. Jayasree chakraborty Bs
+paul fuzzy soft topological 2021
+space
+Criteria selection in
+122 Purnendu
+covid cases using Dr. Apu kumar saha
+rudrapaul 2021 Bs
+hesitant fuzzy set
+Type – 2 fuzzy analytical
+Dipankar chandra Dr. Apu kumar saha & Mrs.
+123 hierarchy
+bhowmik Sudipa choudhury 2021 Bs
+process
+
+--- Page 12 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Some study on reaction Dr. Paritosh
+124 Dridhiti roy kinetics and quasi bhattacharya 2021 Bs
+steady state analysis
+125 Saptadeep Image classification
+majumder Usin gcnn Dr. Uttam kumar bera 2021 Bs
+Estimation of average time Prof.(dr.)Debasish
+spent and average waiting bhattacharya
+126 Nayantara gogoi time of apatientina small 2021 Bs
+walk-in-clinic using monte
+Carlo simulation
+An overview of block chain
+127 Mayank sharma technology: architecture, Dr. Uttam kumar bera 2021 Bs
+consensus,
+And future trends
+Multi-choice stochastic
+128 Kamana mishra transportation problem Dr. Uttam kumar bera 2021 Bs
+involving general form
+Of distributions
+Flow of herschel-bulk ley fluid
+129 Mounika sampangi through haninclined tube of Dr. Baby bhattacharya Bs
+non-uniform cross- 2021
+section
+Anupam sarkar Modeling and simulation of Prof. (dr.) Debasish
+130 highway traffic u singa bhattacharya 2021 Bs
+cellular
+Automation approch
+Mathematical modeling
+,analysis and simulation of
+131 Shirshendu datta tumor Dr. Paritosh bhattacharya 2021 Ms
+Dynamics with drug
+interventions
+The study of multi-criteria
+132 Abhirup deb based crowd selection using Dr. Baby bhattacharya 2021 Ms
+ant
+Colony optimization
+De-neutrosophication of
+triangular and trapezoidal Dr. Uttam kumar bera
+neutrosophic number and it’s
+133 Akash sarkar application in route selection 2021 Ms
+problem
+
+--- Page 13 ---
+Sl Name of the Topic Supervisor(s) Year Degree
+no project Fellow
+Some study on are relationship
+134 Bithika sinha between sir model and Dr. Paritosh bhattacharya 2021 Ms
+generalised logistic distribution
+with applicationstocovid-19
+Astudyonm /m/c queuing
+135 Sangita datta model in a hospital using Prof.(dr.)Debasish 2021 Ms
+monte- bhattacharya
+carlosimulation
+136 Gauravkumar A study on various method of Prof.(dr.)Debasish 2021 Ms
+capital budgeting And their bhattacharya
+application
+137 Galichaitanya Study on diabetes Dr.Paritosh 2021 MS
+mellitus bhattacharya
+138 Pravin kundan Dr. Baby bhattacharya 2021 MS
+Study on machine learning
+algorithms
+An model for deteriorating
+139 Suresh majhi inventory model under Dr. Uttam kumar bera& 2021 M.sc.
+neutrosophic environment Dr. Pinki majumder
+140 Sanjana singh On the generalizations of Dr. Baby bhattacharya 2021 M.sc.
+topological spaces and fuzzy
+topological spaces
+141 Simran Modified teaching learning Dr. Apu kumar saha 2021 M.sc.
+based
+optimization(m-tlbo)
+142 Sonali padhi A modified particle Dr.Apu kumar saha 2021 M.sc.
+swarm optimization
+143 Dharmendra kumar Coronavirus disease Dr.Paritosh bhattacharya 2021 M.sc.
+2019
+Some study on two species
+144 Deepraj nath interaction using rosenzweig- Dr.Paritoshbhattacharya 2021 M.sc.
+macarthur model
+145 Tamanna Study on countable Prof.(dr.) Debasish 2021 M.sc.
+saha tightness & bhattacharya
+Its properties
+
+--- Page 14 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+A study of anew particle
+146 Abhirup deb swarm optimisation Dr. Baby Bhattacharya
+algorithm for constrained & 2020 Bs
+problems Dr. Apu Kumar saha
+147 Akash sarkar Study of basic inventory
+control models Dr. Uttam kumar bera 2020 Bs
+Some study on symbiotic
+relationships and modelling
+148 Bithka sinha the interactions through Dr. Paritosh 2020 Bs
+species carrying bhattacharya
+capacities
+A survey on monte-carlo Prof.(dr.)Debasish
+149 Sangita datta simulation and its bhattacharya 2020 Bs
+application to operation
+research
+150 Pankaj Hybrid ization of boa Dr. Apu kumar saha 2020 Bs
+chauhan And bsa
+151 Haridarshan A study of genetic Dr. Uttam kumar bera 2020 Bs
+kumar algorithm and it’s
+application sin real life
+Simulationtechnique Prof.(dr.) Debasish 2020 Bs
+152 Gaurav kumar andit’sapplicationin bhattacharya
+operationresearch
+Dr. Paritosh
+153 Gali chaitanya Preypredator model 2020 Bs
+bhattacharya
+154 Study on initialization of k- Dr. Baby bhattacharya &
+Pravin kundan 2020 Bs
+means algorithm using pso Dr. Apu kumar saha
+Birajit paul Asurveyontherecent Prof.(dr.)Debasish 2020 Ms
+155 worksonqueuingtheory bhattacharya
+Gobinda A note on regular Prof.(dr.)Debasish 2020 Ms
+156 debnath topology onc (x,y) bhattacharya
+
+--- Page 15 ---
+Sl Name of the
+No project Fellow Topic Supervisor(s) Year Degree
+A survey on topological
+data analysis approach to
+157 Gourab
+theepidemiologyof Dr. Baby bhattacharya 2020 Ms
+Chakraborty
+influenza
+Some study on
+158 Dr.Paritosh
+Tandra deb compartmental 2020 Ms
+bhattacharya
+epidemicmodels
+159
+Subrata A study on fuzzy soft Dr. Baby bhattacharya &
+2020 Ms
+chowdhury hyper connected spaces Dr .Jayasree chakraborty
+160 The study of artificial
+Payel malakar Dr.Uttam kumar bera 2020 Ms
+intelligence
+161 Deterministic models inma the 2020 M.sc.
+Satadip das Dr. Paritosh bhattacharya
+matical epidemiology
+A study on generalize deigen
+162 Bhukyanagen values and eigen Dr.Baby bhattacharya 2020 M.sc.
+drasai kumar vectors in optimization
+problems
+A study of operation
+163 Durba approach on various open Dr. Baby bhattacharya 2020
+bhattacharjee sets in topological M.sc.
+spaces
+164 Jiban krishna Phase planean Dr.Paritosh 2020 M.sc.
+muhuri analysis of bhattacharya
+preypredator model
+A fuzzy goal
+165 Sudip sharma programming approach Prof.(dr.) Debasish 2020 M.sc.
+for vendor selection bhattacharya
+Problem in a supply chain
+166 Satarupa A data driven approach to Dr. Uttam kumar bera 2020 M.sc.
+bhaumik predict diabetes with
+machine learning
+167 Subrata A literature survey on Dr. Baby bhattacharya 2019 Bs
+chowdhury fuzzy soft topological
+spaces
+168 Gourab A literature survey onγ-
+chakraborty generalized closed setsin Dr. Baby bhattacharya 2019 Bs
+topological spaces
+
+--- Page 16 ---
+Sl Name of the
+Topic Supervisor(s) Year Degree
+no project Fellow
+Understanding the
+169 Birojit paul impact of butterfly Dr. Apu kumar saha 2019 Bs
+Optimization algorithm
+using chaoticmap
+An approach of
+170 Dimpal generalize deigen valus Dr. Baby bhattacharya 2019 M.sc
+repswal and eigen vectors in
+linearalgebra
+On some characterization sof
+171 Gayatri paul generalized fuzzy Dr. Baby bhattacharya 2019 Ms
+Closed sets
+and their
+application
+172 Jyotsna nath A study on soft topological Dr. Baby bhattacharya 2019 Ms
+spaces
+An model for
+deterioratingitems for
+173 Rohit kumar
+shortages with periodic time
+dependent demand, Dr. Baby bhattacharya 2019 Ms
+deteriorationan dunit
+production cost
+Fuzzy ahp and fuzzy topsis
+methods for selection no f best
+174 Shashank singh Dr. Baby bhattacharya 2019 Ms
+indian
+e-commerce company
+A study on fuzzy analytic
+hierarchy
+175 Mousami das Dr. Apu kumar saha 2019 M.sc/ms
+Process and its applications
+176 A hybrid de matel-vikor
+Abhays. multi-criteria decision
+making using interval Dr. Apu kumar saha 2019 M.sc/ms
+type-2fuzzysets
+177
+Jyoti jamatia A literature survey on Dr. Apu kumar saha 2019 M.sc/ms
+sinecosine algorithm
+Sudipta sukla Dr. Apu kumar saha 2019 M.sc/ms
+178
+A literature survey on
+machine learning
+A literature survey on an
+179 Gourab sinha optimization method Dr.Apu kumar saha 2019 M.sc/ms
+genetic algorithm
+
+--- Page 17 ---
+Sl Name of the
+Topic Supervisor(s) Year Degree
+no project Fellow
+Literature survey on
+180 preference relation on
+Gaurav bajpai Dr. Debasish bhattacharya 2019 M.sc/ms
+Fuzzy set
+Manvendra A study on hyperbolic
+181 singh geometry Dr. Debasish bhattacharya 2019 M.sc/ms
+A general study of
+lokavolter ramodeland
+182 Mr. Ramaram
+natural decomposition
+choudhury Dr. Paritosh bhattacharya 2018 Bs
+method
+Some elementary study
+183
+Mr.Anu on the oryo Dr. Paritosh bhattacharya 2018 Bs
+jkumar frelativity
+Monotomulti-
+184 Miss kakali scalemodelinginpopula
+debnath tiondynamics- Dr. Paritosh bhattacharya 2018 Bs
+anapproach
+185
+Mr. Sandip nath Study of solid tumor growth by
+Dr. Paritosh bhattacharya 2018
+using mathematical model Bs
+Literature survey of different
+inventory models with time
+186 Rohit kumar
+varying demand,
+Dr. Baby bhattacharya 2018 Bs
+deteriorating rate sand
+replenishment costs
+Fuzzy multi criteria
+decision making methods
+187 Shashank andits
+Dr. Baby bhattacharya 2018 Bs
+singh application: a
+literaturesurvey
+-open sets ingeneralized
+188 Jyotsna nath Dr. Baby bhattacharya 2018 Bs
+topological spaces
+189 Gayatri paul A literature survey on Dr. Baby bhattacharya 2018 Bs
+fuzzy topological space
+Integrated topsis-ahpin
+multi criteria decision
+190 Abhays. Markingusing interval Dr. Apu kumar saha 2018 Bs
+type-2fuzzysets
+
+--- Page 18 ---
+Sl Name of the
+Topic Supervisor(s) Year Degree
+no project Fellow
+191 Jyoti jamatia A literature survey on
+particle swarmoptimization Dr. Apu kumar saha 2018 Bs
+A literature survey on an
+192 optimization technique-
+Sudipta sukla Dr.Apukumarsaha 2018 Bs
+genetic algorithm
+Comparison of the logistic
+and the gompertzcurve
+193 Mr. Dr.Paritosh
+under different 2018 M.sc/ms
+Ranusingh constraints bhattacharya
+Unification of spacesviag
+194 eneralized closed sets and
+Pabita mahato Dr. Baby bhattacharya 2018 M.sc
+Submaximal spaces
+195 Vipin kumar Astudyonfuzzy
+M.sc
+pandey bitopologicalspace Dr. Baby bhattacharya 2018
+Anapplicationinl-
+fuzzytopologicalspacesint
+196 G. Sreeanusha helightoffuzzyγ^*- Dr. Baby bhattacharya 2018 Ms
+opensets
+Stability analysis of linear time
+197 Rajat saha delay system:anlmi approach Dr. Baby bhattacharya 2018 Ms
+Continuous review inventory
+system for intuitionistic fuzzy
+Mandeep kumar random demand and service
+198 Dr.Apu kumar saha 2018 M.sc/ms
+level constraint
+Component union of two
+199 Prasanjit baidya Dr.Apukumar saha 2018 M.sc/ms
+graphs
+Karri santhosh A new hybridde-pso-bsa
+200 kumar (dbp) Dr.Apukumar saha 2018 M.sc/ms
+Proposal for introduction of cfb
+201 Mitul boro Dr.Debasish bhattacharya 2018 M.sc/ms
+inmickey2.0
+A study on multi- attribute
+202 Rishabh sahu decision- making problem Dr.Debasish bhattacharya 2018 M.sc/ms
+under hesitant environment
+
+--- Page 19 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Lakmalia shiva Solution to the lotka- Dr. Paritosh
+203 kumar volter ramodelu sin bhattacharya 2017 Bs
+gpsa mand analysis of
+alee effect on the lotka-
+volterra model
+Solution of differential
+Sudipkanti das Dr. Paritosh 2017 Bs
+204 equation by taylor series
+bhattacharya
+and higher order
+arithmetic progression
+2017 Bs
+G. Sreeanusha A literature survey for l- Dr. Baby bhattacharya
+205
+fuzzy topological spaces
+Study ofline ar matrix in
+206 Rajat saha equalitie sin system and Dr. Baby bhattacharya 2017 Bs
+control throey
+Karri santhosh
+Particle swarm
+207 kumar Dr.Apu kumar saha 2017 Bs
+optimization
+Ashish katiyar Multicriteria decision Dr. Apu kumar saha 2017 Bs
+208
+making
+Ms.samashree Some studies on
+209 dey population model & its Dr.Paritosh bhattacharya 2017 M.sc/ms
+solution by differential
+transform method
+Subhasish Network the ory analysis by Dr. Baby bhattacharya 2017 M.sc
+210 banerjee forming spanning tree
+Solution of boundary value
+211 Anil kumar giri problem sin crisp and fuzzy
+environment by numerical Dr.Apu kumar saha 2017 M.sc/ms
+techniques
+Solution of boundary
+212 Mita debbarma value problem in Dr. Apu kumar saha 2017 M.sc/ms
+intervalenvironment
+Study on rough set, bayesi Dr.Debasish
+213 Hiralal dey an roughest and nave bhattacharya 2017 M.sc/ms
+bayesianrough set.
+Mrs. Population dynamics & its Dr.Paritosh M.sc/ms
+214 applications bhattacharya 2016
+Mayurija dhav
+215 Akash singh Study of carbone mission in
+transpotation problem Dr. Baby bhattacharya 2016 M.sc
+
+--- Page 20 ---
+Sl Name of the
+Topic Supervisor(s) Year Degree
+no project Fellow
+Solution of first order
+216 Dileep kumar linear differential equation in M.sc/ms
+vishwakarma imprecise environment and Dr. Apu kumar saha 2016
+its application
+Sumitra A study of different Dr. Debasish M.sc/ms
+217
+chakraborty generalization of set theory bhattacharya 2016
+and their applications.
+Mr. Ranjit Some study on Dr.Paritosh 2015 M.sc/ms
+218
+barman Helmholtzwave bhattacharya
+equation and its
+application
+On the
+219 Birojit das generalization soft Dr. Baby bhattacharya
+topological spaces
+2015 M.sc
+And fuzzy topological
+spaces
+Goal programming and
+Susanta banik its application for Dr.Debasis 2015 M.sc/ms
+221 solving general denovo hbhattachar
+Programming problem ya
+Application of wave equation
+in silencers/mufflers
+Mr.Tushar Dr. Paritosh bhattacharya 2014 M.sc/ms
+222
+debnath
+Hesitant fuzzy sets, its
+propertiesandapplications
+223 Jayanta acharjee Dr. Debasish bhattacharya 2014 M.sc/ms
+224 Jishan Decision making under Dr. Debasish 2013 M.sc/ms
+chowdhury fuzzy environment bhattacharya
+225 Miss Some study on fishery Dr.Paritos 2013 M.sc/ms
+kankarani management model bhattacharya
+sen
+Some study on
+Mr. Ankan das Dr.Paritosh 2013
+226 Population growth model M.sc/ms
+adhikari bhattacharya
+227 Sudip debnath On(1,2)*locally closed Dr. Baby bhattacharya 2013 M.sc
+Sets and their
+applications
+228 Sukanta nama Dr. Apu kumar saha 2013 M.sc/ms
+A study on intuitionistic
+fuzzy topological space
+
+--- Page 21 ---
+Sl Name of the
+no project Fellow Topic Supervisor(s) Year Degree
+Applications of linear
+Mr. Uttam pal 2012
+229 algebra in engineering Dr. Paritosh bhattacharya M.sc/ms
+systems.
+Ashish kumar
+230 On generalized closed sets Dr. Baby bhattacharya 2012 M.sc
+roy
+A study on stochastic
+Dr. Apu kumar saha 2012 M.sc/ms
+231 Suman debnath process and reliability
+Application of stochastic
+Priyanka
+232 process on queueing Dr. Debasish bhattacharya 2012 M.sc/ms
+majumder
+theory

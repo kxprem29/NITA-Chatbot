@@ -1,0 +1,292 @@
+
+--- Page 1 ---
+|
+
+   
+  
+    
+  
+
+ 
+
+National Informatics Centre Internet Services Internal Documents
+
+Government of India
+Ministry of Electronics and Information Technology,
+NATIONAL INFORMATICS CENTRE
+
+ion for B E-Mai ti r | ain/
+
+(Please read the instructions given in the reverse of this page. The completed application form, duly signed
+by the concerned Project Coordinator/HOD of the concerned NIC Cell, should be submitted to Support
+Center at “iNOC, NIC, A4B2 Bay, A-Block C.G.0. Complex”). Please use CAPITAL LETTERS.
+
+1. Name of the Applicant*:
+(Dr./Mr./Ms. First name Middle Name Surname)
+
+@ Designation’:
+ee
+3. Min./Dept./Org*:
+/ a
+4. Address for correspondence’:
+a eee ee
+
+City: Pin Code:
+5. Telephone Number: (O)* (R) Mobile*:
+6. NIC E-mail address of the applicant’:
+This is to declare that all the users listed along with this application form have been
+
+notified about the terms and conditions and they agree to abide by them. | shall be the
+single point of contact in case of any failure on their part. | have read the terms and
+
+conditions and | agree to abide by them.
+
+ 
+
+ 
+
+Signature of the Applicant
+
+Signature of ee :
+with date and seal
+
+Authority of the Department
+with date and seal
+
+Account Category:
+Free/ Paid If free, on What Basis:
+If paid, Project No. :
+Signature of NIC Coordinator/HOD/Delegated Admin
+with date and seal
+
+Name & Designation:
+
+E-mail and Tel.
+FOR OFFICE USE
+
+  
+
+ 
+
+ 
+
+Billing Division(RR Section):
+
+File Number:
+
+ 
+
+ 
+
+ 
+
+Payment Processed: Yes/ No Signature
+Assigned login ID: Domain: Remarks(BO/PO):
+
+ 
+
+Signature of iNOC incharge
+eS
+
+Signature of the Operator
+
+Name& Desig.:
+
+  
+
+“ Entries are mandatory and need to be filled.
+List* of user names and/or designations in the format given next page are to be provided along
+
+with application form.
+
+ 
+
+INIC-INOC-internet Services Version 7.1.4 Release Page 1of2 |
+
+  
+
+
+--- Page 2 ---
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Informatics Centre Internet Services Internal Documents
+
+Tick one category only*:
+a) Name based Email id(s)
+b) Designation/Official Position based Email id(s
+For Name based Email id(s), a list of user names in the following format is to be supplied along with the application
+form. To enable faster/error free data entry following table may be provided in the format of an Excel Sheet(.XLS Or
+_XLSX) along with the hardcopy.
+
+*Last *Designation * Ministry
+Name /Department
+to
+
+ntries are mandatory and need to be filled.
+*The login id(s) will be generated based on the existing e-mail address policy. A suffix may be
+added to make the e mail id unique across the domain. Please check the policy
+https://mail.nic.in/docs/NIC_Policy_on_format_of_e-mail Address.pdf
+
+ 
+
+   
+      
+    
+   
+
+ 
+ 
+
+  
+
+     
+
+     
+      
+  
+
+     
+    
+   
+ 
+ 
+   
+   
+ 
+  
+ 
+    
+
+  
+
+    
+     
+     
+  
+   
+ 
+
+   
+   
+  
+
+*Preferred
+Email
+Id/Login ID*
+
+*Mobile NO.
+(10 Digit
+Numerals)
+
+*Date of
+Retirement /
+Completion of
+Contract
+(Contractual
+employees/
+Consultants)
+(Format
+DD-MM-YYYY)
+
+Date of
+Birth
+(Format
+DD-MM-
+YYYY)
+Optional
+
+      
+   
+ 
+
+   
+
+  
+
+   
+
+    
+
+ 
+
+ 
+
+4. Users are requested to keep the given userid and password a secret.
+
+2. Please change your password at least once in every three months.
+
+3. By not doing so (point no. 1 & 2 above) the account may be compromised by hackers and the hacker can use the
+same account for sending spurious mails on the accounts behalf. NIC is neither responsible nor accountable for
+this type of misuse of the compromised mail accounts. Gross misuse might be detected by automated
+monitoring tools, which in turn will automatically deactivate the account.
+
+4. Do not open any attachments unless, it has come from a known source. In fact delete those mails which are not
+relevant to you and still you have received them. They might contain a virus that will corrupt your computer.
+
+5. Users are requested to install the personal firewall software to secure their machine and e-mail traffic.
+
+6. Users are requested to install the Antivirus software with latest pattern update periodically and OS patches in their
+system.
+
+7. \f using Outlook, Outlook Express, Mozilla Firefox on Microsoft WINDOWS, please apply the appropriate patches
+announced by the Microsoft/ Mozilla from time to time.
+
+8. NIC is not responsible for the contents that are being sent as part of the mail. The views expressed are solely that of
+the originator.
+
+9. NIC e-Mail Service is provided over secure channels only. WEB interface can be accessed over HTTPs(port 443),
+POP service is over POP3s(port 995),IMAP service is over IMAPs(port 993) and SMTP service is over SMTPs(port
+465). Users are required to suitably modify the client software settings to use the service. Please check the FAQ at:
+https://mail.nic.in/docs/POP.pdf
+
+10. By default accounts will be given access over WEB only(https://mail.qov.in). If user wants access over POP/IMAP,
+he/she has to send the request for the same to support@gov.in. For security reasons either POP or IMAP will be
+allowed. NIC recommends use of IMAP.
+
+41.NIC will take all possible measures to prevent data loss, however, due to unforeseen technical issues, if the same
+happens, NIC cannot be held responsible.
+
+42. User is responsible for his/her data. In case he/she accidentally deletes data, he/she will not ask NIC to restore it.
+
+43. Individuals are responsible for saving email messages as they deem appropriate. Messages will be automatically
+purged from folders as follows:
+
+Trash - 7 days
+ProbablySpam — 7 days
+
+44. NIC account will be deactivated, if not used for 90 days.
+
+45.Email id will be deleted after a period of 9 months from the date of deactivation if no request for activation is
+received.
+
+46. Contact our 24x7 support if you have any problems. Phone 1800-111-555 or you can send mail to support@gov.in
+
+17. Please note that advance payment is a must for paid users.
+
+48. NIC coordinator reserves the right to ask for supporting documents like copy of identify card or any other
+document deemed appropriate to confirm the credentials of the applicant.
+
+49.NIC will not share the details of Email Accounts and Email Addresses with anyone
+unless authorized by Competent Authority of the Department.
+
+This is to declare that | have read the terms and conditions and | agree to abide by them.
+
+Signature of the Applicant
+with date and seal
+
+NIC-INOC-Internet Services Version7.1.4 Release Page 2of2 _
+
+ 
+
+ 
+
+ 
+
