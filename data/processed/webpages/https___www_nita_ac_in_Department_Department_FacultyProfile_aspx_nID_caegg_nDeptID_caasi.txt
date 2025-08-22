@@ -1,0 +1,153 @@
+Mechanical Engineering
+
+Faculty/Staff Profile
+
+Dr. Pinku Debnath
+Dr. Pinku Debnath
+Assistant Professor
+Department:
+Mechanical Engineering
+Email ID :
+er.pinkunits@yahoo.com
+Research Area :
+Thermal Engineering, Computational Fluid Dynamics (CFD), Combustion, Heat Transfer, Wind Turbines, Fluid Mechanics
+Courses Taught
+UG Courses
+Theory: Thermal Power Engineering, Fluid Mechanics-I, Fluid Mechanics-II, Fluid Machinery, Basic Engineering Thermodynamics, Refrigeration and air conditioning, Compressible Flow and Jet Propulsion, Elective-V (Computational Fluid Dynamics) Practical: Thermal Power Lab, Heat and Mass Transfer Lab, Engineering Graphics, Fluid Machinery Lab, Fluid Mechanics & Fluid Machines Lab, Workshop Practice, ME lab.
+PG Courses
+Theory: Design of Thermal System, Applied Computational Methods, Principles of Combustion. Practical: Lab-IV (Computational Fluid Dynamics Laboratory), Engine Testing and Pollution Control.
+Student Register For PhD Enrolled Completed
+NA
+Address Information
+Address
+Mechanical Engineering Department, Room No. 142, National Institute of Technology Agartala, Tripura:799046, India.
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+er.pinkunits@yahoo.com
+Phone [Residence]
+-
+Phone [Mobile]
+07085802245
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+National Institute of Technology Silchar, Assam, India
+2016
+Mechanical Engineering Department
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+National Institute of Technology Agartala, Tripura, India
+0
+Mechanical Engineering Department
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+National Institute of Technology Silchar, Assam, India
+0
+Thermal Engineering (Under Mechanical Engineering Department)
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Pinku Debnath, Debanjali Chakraborty, Sumit Chakraborty, "Aerodynamics Performance Improvement of Savonius Wind Turbine by Wind Flow Control using CFD Analysis", ARIES 2024, DOI: 10.1109/AREIS62559.2024.10893628
+2024
+Pinku Debnath, K.M. Pandey, "Computational fluid dynamics simulation of detonation wave propagation in modified pulse detonation combustor", E3S Web of Conferences 430, 01243 (2023), pp. 1-14, https://doi.org/10.1051/e3sconf/202343001243
+2023
+Pinku Debnath, Ronald Debbarma, "Numerical study for the improvement of performance of Savonius wind turbine having elliptical blades", ICPES-2023, pp. 1-14, https://doi.org/10.1051/e3sconf/202454003002
+2023
+Pinku Debnath, Mrinal Pradhan, "Numerical simulation on heat transfer enhancement and design optimization of modified SCTHX using Taguchi method", 2nd International Conference & Exposition on Mechanical, Material and Manufacturing Technology (ICE3MT 2022), October 2022, pp. 1-17, https://doi.org/10.1063/5.0183130
+2022
+Pinku Debnath, V. Gandhirajan, "Numerical investigation on performance and wind flow simulation around the helical savonius wind turbine", International Conference on Thermo Fluids and System Design (ICTFSD 2022), pp. 1-14. https://doi.org/10.1063/5.0155318
+2022
+V. Gandhirajan, Pinku Debnath, "A Review Study on Savonius Wind Rotor", International Conference on recent Advancement of Mechanical Engineering, (ICRAME 2020), 7th to 9th Febuary, 2020.
+2020
+K. M. Pandey, Pinku Debnath, "Performance Studies on Pulse Detonation Engine: A Review", International Conference on Advance Trends in Engg. & Technology (ICATET 2014), 18th 19th April, Arya College of Engineering & I.T. SP-42, Kukas Industrial Arya (RIICO), Delhi Road, Jaipur (Rajasthan), 302028-INDIA, pp. 371-375, 2014.
+2014
+K. M. Pandey, Pinku Debnath, "CFD Simulation of Detonation Characteristics in U-Bend tube of Pulse Detonation Engine", Indian Technology Congress 2014, 21-22, August 2014, NIMHANS Convention Centre, Bangalore-Reg. INDIA, 2014.
+2014
+Pinku Debnath, K. M. Pandey, "Performance Investigation on Single Phase Pulse Detonation Engine Using Computational Fluid Dynamics," Proceeding of the ASME 2013 International Mechanical Engineering Congress & Exposition, IMECE 2013, November 15-21, 2013, SAN DIEGO, CA, USA, IMECE2013-66274, doi: 10.1115/IMECE2013-66274
+2013
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Pinku Debnath, Krishna Murari Pandey, "Numerical studies on detonation combustion of alkene and alkane fuel-air mixture in Pulse Detonation Combustor with shrouded ejector", Journal of Thermal Analysis and Calorimetric, ISSN: 1388-6150 (Print) 1572-8943 (Online), vol. 00, no. 00, pp. 1-13, 2025, https://doi.org/10.1007/s10973-025-14473-5
+JULY
+2025
+Pinku Debnath, Krishna Murari Pandey, "Exergetic and Thermal Performance Analysis of Liquid and Gaseous FuelAir Mixture in PDC Using Computational Fluid Dynamics" Arabian Journal for Science and Engineering, Electronic ISSN: 2191-4281, Print ISSN: 2193-567X, vol. 50, Issue 12, pp. 8887-8902, (2025), https://doi.org/10.1007/s13369-024-09319-5
+JULY
+2024
+Pinku Debnath, K. M. Pandey, "Numerical studies on detonation wave in hydrogen-fueled pulse detonation combustor with shrouded ejector", Journal of the Brazilian Society of Mechanical Sciences and Engineering, Electronic ISSN:1806-3691, Print ISSN:1678-5878, Vol. 45, 104 (2023), https://doi.org/10.1007/s40430-023-04036-w
+JAN
+2023
+Pinku Debnath, V. Gandhirajan, "A comprehensive review on design and development analysis and blade material selection of helical Savonius rotor", Wind Engineering, Vol. 47, Issue 4, pp. 883-894, (2023), https://doi.org/10.1177/0309524X231166852
+APRIL
+2023
+Pinku Debnath, Krishna Murari Pandey, "Numerical analysis on detonation wave and combustion efficiency of PDC with U-shape combustor", Journal of Thermal Science and Engineering Applications, ISSN: 1948-5085, eISSN: 1948-5093, pp. 1-10, October, Vol. 15, (2023), https://doi.org/10.1115/1.4062702
+JUN
+2023
+Pinku Debnath, K. M. Pandey, "Numerical Investigation on detonation combustion waves of hydrogen-air mixture in pulse detonation combustor with blockage", Advances in Aircraft and Spacecraft Science, An International Journal, ISSN: 2287-528X (Print), 2287-5271 (Online), Vol. 10, No. 3 (2023), pp. 203-222, https://doi.org/10.12989/aas.2023.10.3.203
+JUN
+2023
+Pinku Debnath, Krishna Murari Pandey, "Computational Analysis of Shrouded Ejector Effect on Starting Vortex and Combustion Efficiency in Pulse Detonation Combustor with Different Fuels", Combustion Science and Technology, Print ISSN: 0010-2202 Online ISSN: 1563-521X, Vol. 197, pp. 976-998, (2025), https://doi.org/10.1080/00102202.2023.2280585
+NOV
+2023
+Pinku Debnath, Mrinal Pradhan, "A recent state of art review on heat transfer enhanced characteristics and material selection of SCTHX", Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering, ISSN:0954-4089 (Print) ISSN:2041-3009 (Online), Vol. 237, Issue 3, (2023), pp. 1005-1013, https://doi.org/10.1177/09544089221124463
+SEPT
+2022
+Pinku Debnath, K. M. Pandey, "Numerical analysis of detonation combustion wave in pulse detonation combustor with modified ejector with gaseous and liquid fuel mixture", Journal of Thermal Analysis and Calorimetry, ISSN: 1388-6150 (Print) 1572-8943 (Online), Vol. 145, Issue 6 (2021), pp. 3243-3254. DOI: https://doi.org/10.1007/s10973-020-09842-1
+MAY
+2020
+Pinku Debnath, K. M. Pandey, "Numerical investigation of detonation combustion wave propagation in pulse detonation combustor with nozzle", Advances in Aircraft and Spacecraft Science, An International Journal, ISSN: 2287-528X (Print), 2287-5271 (Online), Vol. 7, No. 3 (2020), pp. 187-202, DOI: https://doi.org/10.12989/aas.2020.7.3.187
+MAY
+2020
+Pinku Debnath, K. M. Pandey, "Effect of operating parameters on application based performance analysis of PDC: A recent review" Materials Today: Proceedings, ISSN: 2214-7853, Vol: 45, Page: 6702-6707, 2021, DOI: 10.1016/j.matpr.2020.12.226.
+DEC
+2020
+Pinku Debnath, K. M. Pandey, "Numerical Investigation of Detonation Combustion Wave in Pulse Detonation Combustor with Ejector", Journal of Applied Fluid Mechanics, ISSN 1735-3572, Vol 2, No. 10, pp. 725-733, 2017, https://www.jafmonline.net/article471ee654124a09f530f0e8b63234eaa6a6b.pdf
+MAR
+2017
+Pinku Debnath, K. M. Pandey, "Exergetic Efficiency Analysis of Hydrogen-Air Detonation in Pulse Detonation Combustor Using Computational Fluid Dynamics", International Journal of Spray and Combustion Dynamics, ISSN 1756-8277, Vol. 9(1), pp. 44-54. Sage Publishing, DOI:10.1177/176827716653344
+MAR
+2017
+K. M. Pandey, Pinku Debnath, "Review on Recent Advances in Pulse Detonation Engines" Journal of Combustion, ISSN 2090-1968, Hindawi Publishing Corporation, DOI:http://dx.doi.org/10.1155/2016/4193034
+JAN
+2016
+Pinku Debnath, K. M. Pandey, "Computational Study of Deflagration to Detonation Transition in Pulse Detonation Engine Using Shchelkin Spiral", Applied Mechanics and Materials, ISSN: 1662-7482, Vol. 772(2015), pp. 136-140, (2015), Trans Tech Publications, Switzerland, doi:10.4028/www.scientific.net/AMM.772.136
+MAR
+2015
+Pinku Debnath & K M Pandey, "Effect of Blockage Ratio on Detonation Flame Acceleration in Pulse Detonation Combustor Using CFD", Applied Mechanics and Materials, ISSN: 1662-7482, Vol. 656(2014),pp.64-71, (2014), Trans Tech Publications, Switzerland, doi:10.4028/www.scientific.net/AMM.656.64
+MAR
+2014
+Pinku Debnath, Rajat Gupta & K. M. Pandey, "Performance Analysis of Helical Savonius Rotor Using Computational Fluid Dynamics", ISESCO Journal of Science and Technology, Volume 10, No. 18, pp. 17-28, November 2014.
+DEC
+2014
+Pinku Debnath, Rajat Gupta, "Flow Physics Analysis of Three Bucket Helical Savonius Rotor at 90 Degree Twist Angle using CFD", International Journal of Modern Engineering Research (IJMER), ISSN: 2249-6645, Vol. 3, Issue 2, pp. 739-746, March-April, 2013.
+APRIL
+2013
+Book Published
+No.
+Book Published
+Year
+Pinku Debnath, Krishna Murari Pandey, "A State of Art Review on Thermodynamics Performance Analysis in Pulse Detonation Combustor", 2022, IntechOpen Publisher, DOI: 10.5772/intechopen.103005
+2022
+Achievement Information
+No.
+Patent Information
+Year
+M. Tech Thermal Engineering Specialization Toper.
+2012

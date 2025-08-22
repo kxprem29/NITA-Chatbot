@@ -1,0 +1,448 @@
+Computer Science and Engineering
+
+Faculty/Staff Profile
+
+Dr. Diptendu Bhattacharya
+Dr. Diptendu Bhattacharya
+Associate Professor
+Department:
+Computer Science and Engineering
+Email ID :
+diptendu.nita@gmail.com
+URL:
+https://computationalintelligence.in/
+Research Area :
+Broad Domain:
+Artificial Intelligence  and Machine Learning.
+Specific Domain:
+IoT optimisation, precision agriculture, Computer Vision, Medical imaging, Biomedical imaging, neuro imaging eo processing intelligence systems, NLP: Various analysis using ML etc.
+CV :
+View
+Courses Taught
+UG Courses
+Digital Circuit and Logic Design
+Digital Circuit and Logic Design Lab
+Compiler Design
+Compiler Design Lab
+Soft Computing
+Computer Architecture and Organization
+Data Structures and Algorithms
+Operating Systems
+Theory of Computation and Automata
+Distributed Systems
+Database Management and System
+Microprocessor and Microcontrollers
+PG Courses
+Programming Language Semantic
+Programming Language Semantic Lab
+Machine Learning
+Soft Computing
+Compiler Design
+Time Series Analysis
+Computational Methods of Optimization
+Student Register For PhD Enrolled Completed
+Dr. Gouranga Mandal
+Dr. Parijata Majumdar
+Mrs. Tanusree Podder (Thesis Submitted)
+Mr. Partha Pratim Deb (Thesis Submitted)
+Mr. Tamal Biswas (Thesis Submitted)
+Student Register For PhD Enrolled OnGoing
+Mrs. Rajna Saha
+Address Information
+Address
+Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+diptendu.nita@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+9436125396
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+Jadavpur University
+2016
+Artificial Intellegence, Machine Learning
+M.E.
+(
+                                                            Master of Engineering                                                                               )
+Jadavpur University, Percentage: 85.30% (Gold Medalist)
+1999
+Computer Engineering
+B.E
+(
+                                                            Bachelor of Engineering                                                                             )
+Regional Engineering College, Jaipur, Percentage: 69.03% (First Class)
+1988
+Electronics
+H.S.C.
+(
+                                                            Higher Secondary School Certificate                                                                 )
+Tripura Board of Secondary Education, Percentage: 75.70%(Fisrt Division)
+1983
+Science
+S.S.C.
+(
+                                                            Secondary School Certificate                                                                        )
+Tripura Board of Secondary Education, Percentage: 70.00% (First Division)
+1981
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Biswas, T., Bhattacharya, D., Dutta K. Forecasting with fuzzy time series and variation. 2nd International Conference on Signal & Data Processing (ICSDP) (2022).
+OCT
+2022
+Podder, T., Bhattacharya, D., Majumdar, A. (2022). Dew Computing-Inspired Mental Health Monitoring System Framework Powered by a Lightweight CNN. In: Peter, J.D., Fernandes, S.L., Alavi, A.H. (eds) Disruptive Technologies for Big Data and Cloud Applications. Lecture Notes in Electrical Engineering, vol 905. Springer, Singapore. https://doi.org/10.1007/978-981-19-2177-3_31
+JUN
+2022
+Deb, P.P., Bhattacharya, D., Chatterjee, I. (2022). Fuzzy Time-Series Models Based on Intuitionistic Fuzzy, Rough Set Fuzzy, and Differential Evolution. In: Singh, P.K., Singh, Y., Chhabra, J.K., Illés, Z., Verma, C. (eds) Recent Innovations in Computing. Lecture Notes in Electrical Engineering, vol 855. Springer, Singapore. https://doi.org/10.1007/978-981-16-8892-8_10
+MAR
+2022
+Gouranga Mandal, Diptendu Bhattacharya, and Parthasarathi De. Real-time vision-based vehicle-to-vehicle distance estimation on two-lane single carriageway using a low-cost 2d camera at night. In International Conference on Computational Intelligence, Security and Internet of Things (Scopus Indexed) , 54–65. Springer, 2020. https://doi.org/10.1007/978-3-030-66763-4_5
+APRIL
+2020
+Anindita Bhattacharjee, Amar Sankar Chowdhuri, Anuradha Saha, Anirban Karmakar, and Diptendu Bhattacharya. Compact fractal shaped mimo antenna for portable uwb applications. In 2020 IEEE Region 10 Symposium (TENSYMP), pages 1600–1603. IEEE, 2020. https://doi.org/10.1109/TENSYMP50017.2020.9231040
+SEPT
+2020
+Tanusree Podder, Diptendu Bhattachya, and Srimantini Chakraborty. Adaptive differential evolution with intersect mutation and repaired crossover rate. International Journal of Computational Intelligence & IoT, volume2, 2019. https://ssrn.com/abstract=3355489
+FEB
+2019
+Gouranga Mandal, Parthasarathi De, and Diptendu Bhattachya. A novel approach of normalization for online handwritten characters using geometrical parameters on a 2d plane. International Journal of Computational Intelligence & IoT, volume 2, 2019. https://ssrn.com/abstract=3355535
+MAY
+2019
+Debarshita Biswas, Parthasarathi De, and Diptendu Bhattacharya. Fire disaster alert system using sobel edge detection. In Proceedings of the 2nd International Conference on Information Systems & Management Science (ISMS), 2019. http://dx.doi.org/10.2139/ssrn.3512026
+NOV
+2019
+Debarshita Biswas, Diptendu Bhattacharya, and Parthasarathi De. Algorithm to develop a smart system for detecting phishing attack based on image analysis through image quality parameter and threshold value. In Proceedings of the 2nd International Conference on Information Systems & Management Science (ISMS), 2019. http://dx.doi.org/10.2139/ssrn.3512024
+DEC
+2019
+Parthasarathi De, Diptendu Bhattacharya, and Debrshita Biswas. Pattem structure analysis and identification of cuttlefish iris by using various geometrical feature selection methods. In 2018 4th International Conference on Computing Communication and Automation (ICCCA), 1–4. IEEE, 2018. https://doi.org/10.1109/CCAA.2018.8777674
+MAY
+2018
+Parthasarathi De, Diptendu Bhattacharya, and Debarshita Biswas. A comparative study of different iris patterns of amphibians based on geometric & color features. International Conference on Materials, Applied Physics & Engineering (ICMAE), volume7, pages 1–4. SPC, 2018.
+JULY
+2018
+Pallabi Samanta, Diptendu Bhattacharya, Amiyangshu De, Lidia Ghosh, and Amit Konar. Music-induced emotion classification from the prefrontal hemodynamics. In International Conference on Pattern Recognition and Machine Intelligence, pages 289–295. Springer, 2017. https://doi.org/10.1007/978-3-319-69900-4_37
+JUN
+2017
+Jishnu Mukhoti, Pratyusha Rakshit, Diptendu Bhattacharya, Amit Konar, and Atulya K Nagar. Knowledge extraction from a time-series using segmentation, fuzzy matching and predictor graphs. In 2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), pages 1201–1208. IEEE, 2016. https://doi.org/10.1109/FUZZ-IEEE.2016.7737825
+SEPT
+2016
+Susmit Nanda, Sourav Manna, Arup Kumar Sadhu, Amit Konar, and Diptendu Bhattacharya. Real-time surface material identification using infrared sensor to control speed of an arduino based car like mobile robot. In Proceedings of the 2015 Third International Conference on Computer, Communication, Control and Information Technology (C3IT), pages 1–6. IEEE, 2015. https://doi.org/10.1109/C3IT.2015.7060171
+APRIL
+2015
+Pratyusha Das, Arup Kumar Sadhu, Rishi Raj Vyas, Amit Konar, and Diptendu Bhattacharyya. Arduino based multi-robot stick carrying by artificial bee colony optimization algorithm. In Proceedings of the 2015 Third International Conference on Computer, Communication, Control and Information Technology (C3IT), pages 1–6. IEEE, 2015. https://doi.org/10.1109/C3IT.2015.7060152
+JULY
+2015
+Sriparna Saha, Monalisa Pal, Amit Konar, and Diptendu Bhattacharya. Automatic gesture recognition for health care using relieff and fuzzy knn. In Information Systems Design and Intelligent Applications, pages 709–717. Springer, 2015. https://doi.org/10.1007/978-81-322-2247-7_72
+AUG
+2015
+Reshma Kar, Mandakranta Chakraborty, and Diptendu Bhattacharya. Statistical methods for reducing uncertainty and eliminating distortion in type2 fuzzy sets. Student Research Symposium 2012, 2012. https://doi.org/10.3850/978-981-07-3043-7_017
+JULY
+2012
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Deb, P.P., Bhattacharya, D., Chatterjee, I., Chatterjee, P. and Zavadskas, E.K., 2023. An Intuitionistic Fuzzy Consensus WASPAS Method for Assessment of Open-Source Software Learning Management Systems. Informatica (SCIE Indexed, IF: 3.429), (2023). https://doi.org/10.15388/23-INFOR523
+JAN
+2023
+Dey, D., Ghosh, L., Bhattacharya, D. and Konar, A. A 2-phase prediction of a non-stationary time-series by Taylor series and reinforcement learning. Applied Soft Computing (SCIE Indexed, IF: 8.7), (2023). https://doi.org/10.1016/j.asoc.2023.110565
+MAY
+2023
+Majumdar, P., Bhattacharya, D., Mitra, S. et al. Demand prediction of rice growth stage-wise irrigation Water requirement and fertilizer using Bayesian genetic algorithm and random forest for yield enhancement. Paddy &Water Environment (SCIE Indexed, IF: 2.2), (2023). https://doi.org/10.1007/s10333-023-00930-0
+JUN
+2023
+Majumdar, P., Bhattacharya, D., Mitra, S. et al. Prediction of Evapotranspiration and Soil Moisture in Different Rice growth stages through improved salp swarm based Feature Optimization and Ensembled Machine Learning algorithm. Theoretical and Applied Climatology (SCI Indexed, IF: 3.5), (2023). https://doi.org/10.1007/s00704-023-04414-3
+FEB
+2023
+Majumdar, P., Mitra, S. & Bhattacharya, D. Honey Badger algorithm using lens opposition based learning and local search algorithm. Evolving Systems (SCIE Indexed, IF: 2.347), (2023). https://doi.org/10.1007/s12530-023-09495-z
+FEB
+2023
+Biswas, T., Bhattacharya, D. and Mandal, G. Dynamic Method to Optimize Memory Space Requirement in Real-Time Video Surveillance using Convolution Neural Network. The Imaging Science (SCIE Indexed, IF: 1.5), (2023). https://doi.org/10.1080/13682199.2023.2216971
+JUN
+2023
+Biswas, T., Bhattacharya, D. and Mandal, G. Dynamic Strategy to Use Optimum Memory Space in Real-Time Video Surveillance. Journal of Ambient Intelligence and Humanized Computing, 2771–2784, (2023), https://doi.org/10.1007/s12652-023-04521-z
+MAR
+2023
+Gouranga Mandal, Diptendu Bhattacharya, and Parthasarathi De. Real-time automotive night-vision system for drivers to inhibit headlight glare of the oncoming vehicles and enhance road visibility. Journal of Real-Time Image Processing (SCIE Indexed, IF: 2.358) , pages 1–17. Springer, 2021. https://doi.org/10.1007/s11554-021-01104-z
+MAR
+2023
+Podder, T., Bhattacharya, D., Majumder, A. & Balas, V. E. A feature boosted deep learning method for automatic facial expression recognition. PeerJ Computer Science (SCIE Indexed, IF: 3.06), 9, e216. (2023). https://peerj.com/articles/cs-1216/
+MAY
+2023
+Parijata Majumdar, Sanjoy Mitra, Diptendu Bhattacharya et al. “An Improved Binary Grey Wolf Optimizer for Constrained Engineering Design Problems”. Expert Systems (SCIE Indexed, IF: 3.2)(2023)
+AUG
+2023
+Podder, T., Bhattacharya, D. & Majumdar, A. Time efficient real time facial expression recognition with CNN and transfer learning. Sadhana - Academy proceedings in engineering sciences (SCIE Indexed, IF: 1.188), 47, 177 (2022). https://doi.org/10.1007/s12046-022-01943-x
+MAY
+2022
+Deb, P. P. , Bhattacharya, D., Chatterjee, I., Saha, A., Mishra, A. R. and Ahammad, S. H. "A Decision-Making Model With Intuitionistic Fuzzy Information for Selection of Enterprise Resource Planning Systems," in IEEE Transactions on Engineering Management, (2022). https://doi.org/10.1109/TEM.2022.3215608
+JULY
+2022
+Podder, T., Bhattacharya, D. & Majumder, A. Real time facial expression and gender recognition with feature integrated CNN. The Imaging Science Journal (SCIE Indexed, IF: 0.871), 1-16. (2022). https://doi.org/10.1080/13682199.2022.2157956
+APRIL
+2022
+Sonal Jain, Dharavath Ramesh, and Diptendu Bhattacharya. A multi-objective algorithm for crop pattern optimization in agriculture. Applied Soft Computing (SCIE Indexed, IF: 6.725) , page 107772. Elsevier, 2021. https://doi.org/10.1016/j.asoc.2021.107772
+FEB
+2021
+Anindita Bhattacharjee, Anirban Karmakar, Anuradha Saha, and Diptendu Bhattacharya. Design of a compact uwb mimo-diversity antenna incorporating fractal inspired isolation structure with band notch characteristics. Microwave and Optical Technology Letters (SCIE Indexed, IF: 1.392), Wiley Online Library, 2021. https://doi.org/10.1002/mop.32927
+SEPT
+2021
+Majumdar, P.,Mitra, S.,Bhattacharya D. Data Aggregation Methods for IoT Routing Protocols: A Review with a Focus on Energy Optimization in Precision Agriculture- ECTI Transactions on Electrical Engineering, Electronics, and Communications (SCOPUS Indexed).46.440-461(2021). https://doi.org/10.37936/ecti-eec.2022203.247511
+JUN
+2021
+Majumdar, P., Mitra, S. & Bhattacharya, D. IoT for Promoting Agriculture 4.0: a Review from the Perspective of Weather Monitoring, Yield Prediction, Security of WSN Protocols, and Hardware Cost Analysis. Journal of Biosystems Engineering (SCOPUS Indexed). 46, 440–461 (2021). https://doi.org/10.1007/s42853-021-00118-6
+JUN
+2021
+Gouranga Mandal, Parthasarathi De, and Diptendu Bhattacharya. Real-time fast fog removal approach for assisting drivers during dense fog on hilly roads. Journal of Ambient Intelligence and Humanized Computing (SCIE Indexed, IF: 7.104) , pages 1–13. Springer, 2021. https://doi.org/10.1007/s12652-020-02734-0
+JULY
+2021
+Gouranga Mandal, Diptendu Bhattacharya, and Parthasarathi De. Real time vision based overtaking assistance system for drivers at night on two-lane single carriageway. Computación y Sistemas (SCOPUS Indexed, IF: 0.63), volume 25, 2021. https://doi.org/10.13053/CyS-25-2-3783
+DEC
+2021
+Gouranga Mandal, Diptendu Bhattacharya, and Parthasarathi De. Real-time fast low-light vision enhancement for driver during driving at night. Journal of Ambient Intelligence and Humanized Computing (SCIE Indexed, IF: 7.104) , pages 1–10. Springer, 2021. https://doi.org/10.1007/s12652-021-02930-6
+AUG
+2021
+Gouranga Mandal, Parthasarathi De, and Diptendu Bhattacharya. A real-time fast defogging system to clear the vision of driver in foggy highway using minimum filter and gamma correction. Sadhana – Academy proceedings in engineering sciences (SCIE Indexed, IF: 1.188) , volume 45, pages 1–11. Springer, 2020. https://doi.org/10.1007/s12046-020-1282-y
+MAR
+2020
+Anindita Bhattacharjee, Abhirup Bhawal, Anirban Karmakar, Anuradha Saha, and Diptendu Bhattacharya. Vivaldi antennas: A historical review and current state of art. International Journal of Microwave and Wireless Technologies (SCIE Indexed, IF: 1.064) , pages 1–18. Cambridge University Press, 2020. https://doi.org/10.1017/S1759078720001415
+OCT
+2020
+Diptendu Bhattacharya, Jishnu Mukhoti, and Amit Konar. Learning regularity in an economic time-series for structure prediction. Applied Soft Computing (SCIE Indexed, IF: 6.725) , volume 76, pages 31–44. Elsevier, 2019. https://doi.org/10.1016/j.asoc.2018.12.003
+MAY
+2019
+Diptendu Bhattacharya and Amit Konar. Self-adaptive type-1/type-2 hybrid fuzzy reasoning techniques for two-factored stock index time-series prediction. Soft Computing (SCIE Indexed, IF: 3.643) , volume 22, pages 6229–6246. Springer, 2018. https://doi.org/10.1007/s00500-017-2763-8
+NOV
+2018
+Diptendu Bhattacharya, Amit Konar, and Pratyusha Das. Secondary factor induced stock index time-series prediction using self-adaptive interval type-2 fuzzy sets. Neurocomputing (SCIE Indexed, IF: 5.719) , volume 171, pages 551–568. Elsevier, 2016. https://doi.org/10.1016/j.neucom.2015.06.073
+JUN
+2016
+Book Published
+No.
+Book Published
+Year
+Amit Konar and Diptendu Bhattacharya. Time-Series Prediction and Applications: A Machine Intelligence Approach. Intelligent Systems Reference Library Series, Springer-Verlag GmbH Germany, 2017. https://doi.org/10.1007/978-3-319-54597-4
+2017
+Patent
+No.
+Patent Information
+Year
+Diptendu Bhattacharya, Parijata Majumdar, Sanjoy Mitra, "CNN-Based Automated System for Early Detection and Classification of Tomato Leaf Diseases in Agriculture". Indian Patent, 11/12/2023, Patent Application Number- 202331084228(Published on 01/03/2024).
+2024
+Diptendu Bhattacharya, Parijata Majumdar, Sanjoy Mitra, Sauramita Das "Cognitive Sonic Manifestation: Futuristic NLP-Driven Text-to-
+Audio for Enhanced Accessibility in the Visually Impaired
+Community",  Indian Patent, 11/03/2024 , Patent Application Number-202431017275 (Published on 26/07/2024)
+2024
+Diptendu Bhattacharya, Parijata Majumdar, Sanjoy Mitra, " 	BLOCKCHAIN-ENABLED AGRICULTURAL SUPPLY CHAIN INTEGRITY SYSTEM. ", Indian Patent, 20/04/2024  , Patent Application Number-202431031568 (Published on 26/07/2024)
+2024
+Diptendu Bhattacharya, Tamal Biswas, Gouranga Mandal, " SMART
+SURVEILLANCE SYSTEM FOR ENABLING DYNAMIC MOTION DETECTION AND MEMORY OPTIMIZATION, AND METHOD THEREOF", Indian Patent, 11/06/2024 , Patent Application Number-202431045108 (To be published as per web site)
+2024
+Diptendu Bhattacharya, Parijata Majumdar, Sanjoy Mitra, " ACCELEROMETER BASED PHONE ACTIVITY RECOGNIZING DEVICE", Indian Design Patent, 19/06/2024 , Patent Application Number-420591-001 (Under Technical examination as per web site)
+2024
+Parijata Majumdar, Sanjoy Mitra, Diptendu Bhattacharya, Bharat Bhushan, Mithileysh Sathiyanarayanan, “AUTOMATED CROP IRRIGATION SYSTEM WITH PESTICIDE OPTIMIZER THROUGH BINARY ANT COLONY OPTIMIZATION AND ENSEMBLE APPROACH ”. Indian Patent, 05/09/2023 Patent Application Number- 202331059451(Published 19/01/2024).
+2023
+Achievement Information
+No.
+Patent Information
+Year
+Recipient of the WINNER MEDAL FOR WEEKLY NIFTY PREDICTION CONTEST, 2013 held at Book Fair, Kolkata.
+2013
+Recipient of Gold Medal for standing first class and first position in M.E.Tel.E. Computer Engineering Exam, Jadavpur University, Kolkata, 1999.
+1999
+Training Attended
+Month
+Training Attended Information
+Year
+DEC
+Pattern Recognition And Machine Intelligence
+2017
+SEPT
+Recent Advances in Computational Intelligence
+2017
+FEB
+Object Oriented  Programming With C++ And Java
+2013
+MAR
+Business Intelligence And Data Warehouse
+2013
+MAR
+Applications of CFD in Engineering Field
+2011
+APRIL
+DSP & Embedded System
+2011
+JAN
+Use of Alternative Fuels-- A Current Trends in Automobile Industry
+2011
+DEC
+Classroom Communication & Management
+2010
+MAR
+Teaching Methodology And Importance of Subjects in Details in Civil Engineering
+2010
+FEB
+Road Construction Techniques And Its Quality Control
+2010
+JAN
+Fundamentals of Software Engineering
+2010
+SEPT
+Exposure Engineering Applications of  Matlab Package
+2009
+JUN
+Exposure on Matlab
+2009
+NOV
+Web Applications with Database using PHP & MySQL
+2009
+MAR
+Joining Process: Scope & Applications
+2009
+MAY
+Programming in C++
+2009
+SEPT
+Exposure Engineering Applications of  Matlab Package
+2009
+SEPT
+Computer Networking
+2008
+JUN
+Pointer Dynamic Memory Allocation in C
+2008
+AUG
+Laboratory Induction Development
+2004
+AUG
+Induction Training
+2004
+SEPT
+Information Technology Emerging Research issues
+2003
+DEC
+Science and Technology of Engineering Materials
+1999
+JAN
+Microprocessor Application For Training Education and Research
+1998
+JUN
+Fuzzy Decision Making And Logic Programming
+1997
+JUN
+Recent Trends in Telecommunication Systems Planning Development And Modelling
+1997
+FEB
+Recent trends in Casting And Welding Technology
+1996
+NOV
+Science And Technology of advanced Materials
+1996
+JUN
+Multi-Criteria Decision Making
+1995
+JUN
+Multimedia & Broadband Communications And Networks
+1995
+JULY
+Intelligence Sensor Based Automation
+1995
+SEPT
+Induction Training Program
+1995
+Training Conducted
+Month
+Year
+Training Conductted Information
+JAN
+2022
+ATAL Online FDP on Computational Intelligence
+SEPT
+2009
+Exposure & Engineering Applications of  Matlab Package
+SEPT
+2008
+Computer Networking
+AUG
+2004
+• Induction Program
+• Laboratory Instruction Development
+• Office Management Using MS Office And Internet
+Subject Information
+Sr.No.
+Class
+Subject
+1
+UG
+Digital Circuit and Logic Design
+2
+UG
+Digital Circuit and Logic Design Lab
+3
+UG
+Compiler Design
+4
+UG
+Soft Computing
+5
+UG
+Computer Architecture and Organization
+6
+UG
+Data Structures and Algorithms
+7
+UG
+Operating Systems
+8
+UG
+Theory of Computation and Automata
+9
+UG
+Distributed Systems
+10
+UG
+Database Management and System
+11
+UG
+Microprocessor and Microcontrollers
+12
+PG
+Programming Language Semantic
+13
+PG
+Programming Language Semantic Lab
+14
+PG
+Machine Learning
+15
+PG
+Soft Computing
+16
+PG
+Compiler Design
+17
+PG
+Time Series Analysis
+18
+PG
+Computational Methods of Optimization
+19
+UG
+Compiler Design Lab

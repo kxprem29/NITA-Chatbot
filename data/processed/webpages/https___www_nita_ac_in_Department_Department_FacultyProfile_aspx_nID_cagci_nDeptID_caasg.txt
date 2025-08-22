@@ -1,0 +1,94 @@
+Electronics and Instrumentation Engineering
+
+Faculty/Staff Profile
+
+Dr. Rupam Gupta Roy
+Dr. Rupam Gupta Roy
+Assistant Professor (Contractual)
+Department:
+Electronics and Instrumentation Engineering
+Date of Joining :
+07/11/2014
+Email ID :
+rupamguptaroy05@gmail.com
+Address Information
+Address
+Electronics and Instrumentation Engineering, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+rupamguptaroy05@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+7005940657
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+ECE Department, NIT Agartala
+2021
+Robotics and Control domain.
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+Electrical Engineering, Specialization on Instrumentation Engineeringm, NIT agartala
+2013
+Instrumentation Engineering
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+M.B.E.S. College of Engineering, Ambajogai, Maharashtra
+2007
+Instrumentation Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Girish V Lakhekar and Rupam Gupta Roy “A fuzzy neuralapproach for dynamic spectrum allocation in cognitive radio networks”, iccpct 2014, ieee. (SCOPUS INDEXED).
+2014
+Girish V Lakhekar and Rupam Gupta Roy, “Heading control of an underwater vehicle using dynamic fuzzy sliding mode controller”, iccpct 2014, ieee. (SCOPUS INDEXED).
+2014
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Lakhekar V. Girish, Laxman M. Waghmare and Rupam Gupta Roy “Disturbance ObserverBased Fuzzy Adapted S-Surface Controller for Spatial Trajectory Tracking of Autonomous Underwater Vehicle”, IEEE Transactions on Intelligent Vehicles (2019). DOI: https://doi.org/10.1109/TIV.2019.2938082
+2020
+Lakhekar V. Girish, Laxman M. Waghmare, P. G. Jadhav and Rupam Gupta Roy “Robust diving motion control of an autonomous underwater vehicle using adaptive neuro-fuzzy sliding mode technique”, IEEE Access (2020). (SCIE indexed)
+2020
+Rupam Gupta Roy and Dibyendu Ghoshal (2019), “Adaptive second-order sliding-mode controller for shank-foot orthosis system”, International Journal of Control,92:7,1580-1589. DOI: https://doi.org/10.1080/00207179.2017.1400183 (SCI and SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “Grey Wolf Optimization-based Second order Sliding Mode Control for Inchworm Robot”, Robotica, Cambridge University Press (2019) DOI: https://doi.org/10.1017/S0263574719001620 (SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “A Novel Adaptive Second Order Sliding Mode Controller for Autonomous Underwater Vehicles”, Adaptive Behavior, SAGE Journals (2019). DOI: https://doi.org/10.1177/1059712319882105 (SCIE indexed)
+2019
+Rupam Gupta Roy and Dibyendu Ghoshal, “Advanced Heavy Water Reactor Control with the aid of Adaptive Second Order Sliding Mode Controller” Engineering Computations, Emerald (2019) DOI: https://doi.org/10.1108/EC-03-2019-0088 (SCIE indexed).
+2019
+Book Published
+No.
+Book Published
+Year
+Baidya D. and Rupam Gupta Roy, “Speed Control of DC Motor Using Fuzzy-Based Intelligent Model Reference Adaptive Control Scheme”. In: Bera R., Sarkar S., Chakraborty S. (eds) Advances in Communication, Devices and Networking. Lecture Notes in Electrical Engineering, vol 462. Springer, Singapore, 2018 (SCOPUS INDEXED). (Book Chapter)
+2018
+Subject Information
+Sr.No.
+Class
+Subject
+1
+3rd Year
+Instrumentation Devices-II , Industrial Instrumentation , Process Control – I , Biomedical instrumentation
+2
+4th Year
+Process Control – II, Elective-I , Elective 2

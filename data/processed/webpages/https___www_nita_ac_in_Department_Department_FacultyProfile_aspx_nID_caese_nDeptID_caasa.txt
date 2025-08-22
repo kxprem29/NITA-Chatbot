@@ -1,0 +1,91 @@
+Computer Science and Engineering
+
+Faculty/Staff Profile
+
+Dr. Awnish Kumar
+Dr. Awnish Kumar
+Assistant Professor
+Department:
+Computer Science and Engineering
+Email ID :
+awnish.cse@nita.ac.in
+Research Area :
+Machine Learning, Computer Networks
+Address Information
+Address
+Room no 231, CSE Department, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+awnish.cse@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+-
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+IIT Guwahati
+2021
+Computer Science and Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+IIT Guwahati
+2014
+Computer Science and Engineering
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+NIT Srinagar
+0
+Electronics and Communication Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Awnish Kumar, S. Vidyapu, V. V. Saradhi and V. Tamarapalli, ''A multi-view subspace learning approach to Internet traffic matrix estimation", IEEE Transactions on Network and Service Management, vol. 17, no. 2, pp. 1282-1293, Jun. 2020
+JUN
+2020
+Awnish Kumar, Vijaya.V. Saradhi and T. Venkatesh, ''Compressive Sensing of Internet Traffic Matrices using CUR Decomposition", in Proceedings of the ACM, 19th International Conference on Distributed Computing and Networking (ICDCN ’18), Varanasi, India, January 47, 2018,
+DOI: 10.1145/3154273.3154315
+JAN
+2018
+Awnish Kumar, Vijaya V. Saradhi, and T. Venkatesh. ''Network-wide volume anomaly detection using alternate matrix decomposition techniques", IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), 2017, pp. 1-6, DOI: 10.1109/ANTS.2017.8384134
+DEC
+2017
+A. Kumar, V. V. Saradhi, and T. Venkatesh, “Interpretable structural analysis of traffic matrix,” in Proceedings of the 34th International Conference on Machine Learning (ICML), Time Series Workshop, pp. 1–5, 2017
+2017
+Awnish Kumar, V. Vijaya Saradhi, and T. Venkatesh. ''Role of Correspondence Analysis in Network Traffic Flow Analysis", Proceedings of
+the 6th IBM Collaborative Academia Research Exchange Conference (ICARE). ACM, 2014.
+OCT
+2014
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Awnish Kumar, S. Vidyapu, V. V. Saradhi and V. Tamarapalli, ''A multi-view subspace learning approach to Internet traffic matrix estimation", IEEE Transactions on Network and Service Management, vol. 17, no. 2, pp. 1282-1293, Jun. 2020
+JUN
+2020
+Subject Information
+Sr.No.
+Class
+Subject
+1
+B.Tech. 2nd Year
+Data Communication
+2
+MCA 2nd Year
+Design and Analysis of Algorithm
