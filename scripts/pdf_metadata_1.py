@@ -21,7 +21,13 @@ ABBREVIATION_MAP = {
     "me": "Mechanical Engineering",
     "ce": "Civil Engineering",
     "be": "Biotechnology Engineering",
-    "crf": "central research facility"
+    "crf": "central research facility",
+    "jrf": "junior research fellowship",
+    "srf": "senior research fellowship",
+    "bsc": "bachelor of science",
+    "bs": "bachelor of science",
+    "msc": "master of science",
+    "ms": "master of science",
 }
 # --- Words to ignore in the final title ---
 IGNORE_WORDS = ['cpanel', 'uploads', 'sites', 'default', 'files', 'content']
@@ -79,7 +85,7 @@ def generate_metadata_from_url(url, doc_id):
         print(f"Could not process URL: {url.strip()}. Error: {e}")
         return None
 
-def process_url_file(input_file="pdf_links.txt", output_file="pdf_metadata4.json"):
+def process_url_file(input_file="clean_pdf_links.txt", output_file="pdf_metadata5.json"):
     """
 _    Reads a list of URLs from a file and writes generated metadata to an output file.
 _    """
