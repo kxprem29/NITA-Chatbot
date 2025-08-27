@@ -1,0 +1,129 @@
+Electronics and Communication Engineering
+
+Faculty/Staff Profile
+
+Dr. Partha Kumar Deb
+Dr. Partha Kumar Deb
+Assistant Professor (Contractual)
+Department:
+Electronics and Communication Engineering
+Email ID :
+parthadeb.nita.ec@gmail.com
+URL:
+https://orcid.org/0000-0001-6722-8737
+Research Area :
+Microwave Circuits and Antenna design, Metamaterials- Design and Optimization. Analog circuit design.
+CV :
+View
+Address Information
+Address
+Faculty quarter H4A/01/04
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+parthadeb.nita.ec@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+7005722990
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+PhD in Engineering from ECE Department, NIT Agartala, India
+2023
+Microwave Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+2015
+Communication Engineering
+B.E
+(
+                                                            Bachelor of Engineering                                                                             )
+Tripura Institute of Technology
+2011
+Electronics & Telecommunication Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Deb, Partha Kumar and Moyra, Tamasi, Miniaturization of Microstrip Patch Antenna using Fractal Antenna Design (2018). International Journal of Computational Intelligence & IoT, Vol. 1, No. 1, 2018, Available at SSRN: https://ssrn.com/abstract=3354428
+MAR
+2018
+D. Kumar, T. Moyra, P. K. Deb and T. Tarun, "Dual-band microstrip patch antenna using frequency selective surface," 2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), 2017, pp. 1692-1696, doi: 10.1109/WiSPNET.2017.8300050.
+MAR
+2017
+P. kumar Deb, T. Moyra and P. Bhowmik, "Return loss and bandwidth enhancement of microstrip antenna using Defected Ground Structure (DGS)," 2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN), 2015, pp. 25-29, doi: 10.1109/SPIN.2015.7095318.
+FEB
+2015
+P. kumar Deb, T. Moyra and P. Bhowmik, "Dual band multilayer E-shape microstrip patch antenna for C-band and X-band," 2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN), 2015, pp. 30-34, doi: 10.1109/SPIN.2015.7095320.
+FEB
+2015
+P. Bhowmik, T. Moyra and P. K. Deb, "Size miniaturization of 3 dB branch line coupler by using open stubs," 2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN), 2015, pp. 642-645, doi: 10.1109/SPIN.2015.7095279.
+FEB
+2015
+P. Bhowmik, T. Moyra and P. K. Deb, "Miniaturization and bandwidth enhancement of a loose coupler by DGS," 2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN), 2015, pp. 638-641, doi: 10.1109/SPIN.2015.7095278.
+FEB
+2015
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Ananda Babu Devarapalli, Tamasi Moyra & Partha Kumar Deb (2023) DNG Metamaterial-Based Superstrate for Performance Enhancement of Compact Size Wideband Patch Antenna, IETE Technical Review, DOI: 10.1080/02564602.2023.2220681
+JUN
+2023
+Deb, Partha Kumar, Tamasi Moyra, and Bidyut Kumar Bhattacharyya. "Design of High Gain and Improved Front-to-Back Ratio Multilayer Microstrip Patch Antenna using Modified Feed Line." ASEAN Journal on Science and Technology for Development 39.2 (2022): 53-60.
+AUG
+2022
+Deb, Partha Kumar, Tamasi Moyra, and Bidyut Kumar Bhattacharyya. "A 90-Degree Schiffman Phase Shifter and Study of Tunability Using Varactor Diode." Handbook of Intelligent Computing and Optimization for Sustainable Development (2022): 385-399.
+FEB
+2022
+Deb, P.K., Moyra, T. & Bhattacharyya, B.K. Designing of Miniaturized 4?×?4 Butler Matrix Using Coupled Line Coupler and Schiffman Phase Shifter. Iran J Sci Technol Trans Electr Eng 45, 259–268 (2021). https://doi.org/10.1007/s40998-020-00350-4
+MAY
+2021
+Deb, P.K., Moyra, T. and Bhattacharyya, B.K. (2021), Miniaturized and enhanced bandwidth Marchand balun using CSRR. IET Microw. Antennas Propag, 15: 788-796. https://doi.org/10.1049/mia2.12086
+MAR
+2021
+Partha Kumar Deb, Tamasi Moyra & Bidyut Kumar Bhattacharyya (2020) Design of compact wideband 90° Schiffman phase shifter incorporating CSRR, Electromagnetics, 40:3, 207-216, DOI: 10.1080/02726343.2020.1726072
+FEB
+2020
+Book Published
+No.
+Book Published
+Year
+Deb, P.K., Moyra, T. and Bhattacharyya, B.K. (2022). A 90-Degree Schiffman Phase Shifter and Study of Tunability Using Varactor Diode. In Handbook of Intelligent Computing and Optimization for Sustainable Development (eds M.S. Manshahia, V. Kharchenko, E. Munapo, J.J. Thomas and P. Vasant). https://doi.org/10.1002/9781119792642.ch20
+2022
+Subject Information
+Sr.No.
+Class
+Subject
+1
+UG
+Microwave Engineering
+2
+UG
+Antenna & Wave Propagation
+3
+UG
+Electromagnetic Theory & Transmission Line
+4
+UG
+Signals & Systems
+5
+UG
+Basic Electronics
+6
+UG
+Electronics Devices & Circuits

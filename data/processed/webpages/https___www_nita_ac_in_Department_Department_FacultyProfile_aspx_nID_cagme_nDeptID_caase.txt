@@ -1,0 +1,314 @@
+Electronics and Communication Engineering
+
+Faculty/Staff Profile
+
+Dr. Sambhu Nath Pradhan
+Dr. Sambhu Nath Pradhan
+Professor
+Department:
+Electronics and Communication Engineering
+Date of Joining :
+28/05/2010
+Email ID :
+sambhupradhan.ece@nita.ac.in
+Research Area :
+VLSI Design and Synthesis
+Courses Taught
+UG Courses
+Basic Electronics, Semiconductor Device Physics, Digital Circuit Design, Analog Electronics, VLSI Design and Microelectronics, Communication systems, Electronics and Electrical Measurement and Instrumentation, Data Communication and Networking, Low Power VLSI Circuit.
+PG Courses
+Low Power VLSI Circuit, Digital VLSI Circuit Design, VLSI CAD System
+Student Register For PhD Enrolled Completed
+No. of PhD students completed their PhD research work under my guidance: 15 (Sole guidance-13 and Joint guidance-02)
+Address Information
+Address
+Dept. of ECE, NIT Agartala
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+sambhupradhan.ece@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+03812548532
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+IIT Kharagpur
+2010
+VLSI Design and Synthesis
+M.E.
+(
+                                                            Master of Engineering                                                                               )
+Bengal Engineering and Science University (IIEST Shibpur)
+2004
+Digital Systems and Instrumentation
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+University of Kalyani (Kalyani Govt. Engineering College)
+2002
+Electronics and Communication Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+K. D. Purkayastha, P. Choudhury, S. R. Choudhury, B. Debbarma and S. N. Pradhan., "IoT Integrated Environment Monitoring System With Data Accuracy and Android Application Platform," 1st International Conference on Energy, Environment, and Green Technology (ICEEGT 2025), NITTR-Kolkata, 3rd - 4th April 2025.
+2025
+A. Nag, A. Chakraborty, V. K. Singh and S. N. Pradhan, "A new and adaptive power gating technique in full adder," International Conference on Cognitive & Cloud Computing (IC3Com), University. of Engineering and Management, Jaipur, Rajasthan, India, Aug. 01-02, 2024.
+2024
+A. Das, V. K. Singh and S. N. Pradhan, “Temperature Aware Bi-partitioning Multi-level Logic Synthesis” in 7th Soft Computing: Theories & Applications (SoCTA-22), 16-18 Dec 2022, Shimla, India. published in  Lecture Notes in Networks and Systems on 25th April 2023.
+2022
+S. Vishwas, S. Saha, M. N. Bhowmik, A. Nath, S. S. Kundu, S.N. Pradhan and M. B. Sarkar, “Design and Development of Arduino Based Portable Air Quality Monitoring System,” in 1st Odisha International Conference on Electrical Power Engineering, Communication and Computing Technology (ODICON-2021) held at Institute of Technical Education and Research, Siksha 'O' Anusandhan, Bhubaneswar during 17th to 18th January 2021. DOI:10.1109/ODICON50556.2021.9428954.
+2021
+K. Das and S. N. Pradhan, “An FPGA-Based Approach to Eliminate the End Effect of EMD Using Grey Prediction Model,” in International Conference on Computational Performance Evaluation (ComPE-2021)  held at North-Eastern Hill University (NEHU) during 1st -3rd December 2021.
+2021
+A. Bhattacharjee and S. N. Pradhan, “Impact of Transistor Aging on the Reliability of the Analog Circuit,” in International Conference on Computational Performance Evaluation (ComPE-2020) held at North-Eastern Hill University (NEHU) during 2nd -4th July 2020. DOI: 10.1109/ComPE49325.2020.9200055.
+2020
+K. D. Purkayastha, S. S. Patra and S. N. Pradhan, “Study on Correlation Among the Pollutant Gases and Strategy to Increase the Battery Lifetime of Sensor Network Based Monitoring System,” in International Conference on Computational Performance Evaluation (ComPE-2020) held at North-Eastern Hill University (NEHU) during 2nd -4th July 2020. DOI: 10.1109/ComPE49325.2020.9200084
+2020
+B. Debbarma, S. N. Pradhan and A. Ghosh, “LP-SLIDER: A low power deflection router for 2D NoC” in Proc. of International Conference in Recent Trends on Electronics & Computer Science (ICRTECS-2019), 18-19 March, 2019, NIT Silchar.
+2019
+A. Nag, K. R. Reddy, N. Majumder, E. Debbarma and S. N. Pradhan, “A Novel NOR Gate based dynamic Power gating Technique in SRAM”, in 4th International Conference on Microelectronics, Computing & Communication Systems(MCCS-2019), Vol. 673, Pp. 341-351, May  11-12, 2019, Ranchi. DOI: 10.1007/978-981-15-5546-6_28.
+2019
+S. R. Choudhury, P. S. Srinivas and S. N. Pradhan, “MMaSA – a Modified Matrix Synthesis Approach for Thermal Aware Gate Array Placement”, in 4th International Conference on Microelectronics, Computing & Communication Systems (MCCS-2019), Vol: 673, Pp. 309-316, May 11-12, 2019, Ranchi. DOI: 10.1007/978-981-15-5546-6_25.
+2019
+A. Nag., S. N. Pradhan, “An Autonomous Power and Clock Gating Technique in SRAM-Based FPGA”, Proceedings of the International Conference on Nano-electronics, Circuits & Communication Systems. Lecture Notes in Electrical Engineering, vol 403, pp 1-14, 2017, Ranchi, Springer, Singapore. https://doi.org/10.1007/978-981-10-2999-8_1.
+2017
+S. Chakraborty, T. Sarkar, S. N. Pradhan, “Leakage Reduction by Test Pattern Reordering”, Proceedings of the International Conference on Nano-electronics, Circuits & Communication Systems. Lecture Notes in Electrical Engineering, Vol 403, pp 55-68, 2017, Ranchi, Springer, Singapore. https://doi.org/10.1007/978-981-10-2999-8_5.
+2017
+A. Das, A. Debnath and S. N. Pradhan, "Area, power and temperature optimization during binary decision diagram based circuit synthesis," 2017 Devices for Integrated Circuit (DevIC), Kalyani, 2017, pp. 778-782, doi: 10.1109/DEVIC.2017.8074058.
+2017
+S. N. Pradhan, V. Rai and A. Chakraborty, “Design of High Speed and Low Power Full Adder in Sub-Threshold Region,” International Conference on Microelectronics, Computing and Communications (MicroCom) 2016, Jan 23-25, 2016, pp. 1-6,  NIT Durgapur. DOI: 10.1109/MicroCom.2016.7522411.
+2016
+N. Tripathi and S. N. Pradhan, “Design of Power Efficient All Digital Phase Locked Loop,” in International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET) 2016,  March 23-25, 2016, pp. 778-782, Chennai. DOI: 10.1109/WiSPNET.2016.7566239.
+2016
+A. Das and S. N. Pradhan, “Temperature Aware AIGs based Multi-Level Logic Synthesis using Shannon Expression “ in Proc. of National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016), 11th  –12th  June 2016, NIT Agartala, Pp -138. (Best Paper Award)
+2016
+S. Bhowmik and S. N. Pradhan, “Design and Analysis of Phase Locked Loop,” in Proc. of National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016), 11th –12th June 2016, NIT Agartala, Pp -134
+2016
+A. Nag and S. N. Pradhan, “An Autonomous power gated TILE Architecture Implementing FSMs, “in Proc. of National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016), 11th  –12th  June 2016, NIT Agartala, Pp: 130 .
+2016
+D. Nath, S. Majumder, A. Debnath and S. N. Pradhan, “A Low Drop-out Voltage Regulator with 88.79% Efficiency,” in Proc. of National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016), 11th –12th June 2016, NIT Agartala, Pp -128.
+2016
+A. Das and S. N. Pradhan, "Thermal aware output polarity selection of programmable logic arrays," 2015 International Conference on Electronic Design, Computer Networks & Automated Verification (EDCAV), Shillong, 2015, pp. 68-71, doi: 10.1109/EDCAV.2015.7060541.
+2015
+A. Chaudhuri, M. Saha, M. Bhowmik, S. N. Pradhan and S. Das, "Implementation of circuit in different adiabatic logic," 2015 2nd International Conference on Electronics and Communication Systems (ICECS), Coimbatore, 2015, pp. 353-359, doi: 10.1109/ECS.2015.7124923.
+2015
+A.  A. Purkayastha, S. Roy Choudhury and S. N. Pradhan, “A Genetic Algorithm Approach for Hybrid ALU Design,”  “ 2015 International Conference on Computing, Communication & Automation (ICCCA 2015)” Galgotias University, Greater Noida, May 15-16, 2015. DOI: 10.1109/CCAA.2015.7148576.
+2015
+T. Sarkar, S. Chakraborty and S. N. Pradhan, “Short Survey on Low Power Design and Scan Based VLSI Testing,” “2015 International Conference on Computing, Communication & Automation (ICCCA 2015)”, Galgotias University, Greater Noida, May 15-16, 2015.
+2015
+P. Choudhury, D. Nath, V. Rai and S. N. Pradhan, "Thermal aware AND-OR-XOR network synthesis," 2015 19th  International Symposium on VLSI Design and Test, Ahmedabad, 2015, pp. 1-6, doi: 10.1109/ISVDAT.2015.7208047.
+2015
+A. Das and S. N. Pradhan, “Thermal Aware FPRM based AND-XOR Network Synthesis of Logic Circuits,” 2015 IEEE 2nd International Conference on Recent Trends in Information Systems (ReTIS), July 9-11, 2015, Jadavpur University, Pp. 497-502. DOI: 10.1109/ReTIS.2015.7232930.
+2015
+S. N. Pradhan and P. Choudhury, “Low Power and High Testable Finite State Machine Synthesis”, IEMCOM-2015, Oct.15-17, 2015, Vancouver, BC, Pp. 1-5. DOI: 10.1109/IEMCON.2015.7344528.
+2015
+S. N. Pradhan, “Test Power Reduction by Filling Don’t Cares in Test Patterns”, International Conference on VLSI and Signal Processing (ICVSP) IIT Kharagpur, 10 – 12 January, 2014.
+2014
+A. Nag and S. N. Pradhan, “An Efficient Clock-Gating Approach based on Registers Splitting”, International Conference on VLSI and Signal Processing (ICVSP) IIT Kharagpur, 10 – 12 January, 2014.
+2014
+B. Debbarma and S. N. Pradhan, “Segmented Buffer for NOC Router”, 4th International Conference on Computer and Software Modeling (ICCSM), Bangkok, Thailand, Oct.10-12, 2014.
+2014
+D. Nath, P. Choudhury, S.N. Pradhan, “Power Reduction by Integrated Within_Clock_Power Gating and Power Gating (WCPG_in_PG)”,  “17th International Symposium on VLSI Design and Test (VDAT 2013- Springer)”  MNIT Jaipur, July. 27-30, Vol: 382,  PP. 160-168, 2013. Springer, Berlin, Heidelberg, DOI: 10.1007/978-3-642-42024-5_20.
+2013
+P. Choudhury and S.N. Pradhan, “Thermal Aware Power Gated Design,” Fifth International Conference on Advances in Recent Technologies in Communication and Computing (ARTCom 2013), Bangalore India, Sep 20-21, 2013. DOI: 10.1049/cp.2013.2214.
+2013
+A. Jamatia, B. Debbarma and S.N. Pradhan, “Energy Comparison of Different NOC Routers,” International Conference Advances in Computing, Electronics and Communication ACEC – 2013”, 2013, PP. 12 – 14,  Zurich, Switzerland, 12 – 13 October, 2013. DOI: 10.15224/978-981-07-7965-8-03.
+2013
+P. Choudhury and S. N. Pradhan, “Power Reduction by Clock Gating in Power Gated FSMs,” “17th International Symposium on VLSI Design and Test (VDAT 2013)” MNIT Jaipur, July. 27-30, 2013.
+2013
+P. Choudhury and S. N. Pradhan, “Power Aware Synthesis of Power Gated FSM”, International Conference on Global Engineering, Science and Technology, Dubai, UAE, 1 - 2 April 2013.
+2013
+S. Roychoudhury, A. Das and S. N. Pradhan, “A Genetic Algorithm Approach for Area and Wire Length Optimization in VLSI Floor Plan,” Proc. in National Conference on Recent Trends of Research in Physics, Tripura University, 13-14th January, 2012.
+2012
+A. Chakraborty and S. N. Pradhan, “CMOS NOR gate power reduction at 65nm scale,” Proc. in National Conference on Recent Trends of Research in Physics, Tripura University, 13-14th January, 2012.
+2012
+A. Chakraborty and S. N. Pradhan, “A Technique for Power Reduction of CMOS Circuit at 65nm Technology,”  Proc. In 1st International conference on Recent Advances in Information Technology (RAIT), 15-17 March, 2012, pp. 576 – 580, Dhanbad. DOI: 10.1109/RAIT.2012.6194592.
+2012
+P. Choudhury and S. N. Pradhan, “Power Modeling of Power Gated FSM and its Low Power Realization by Simultaneous Partitioning and State Encoding using Genetic Algorithm”, Proc. in Sixteenth International Symposium on VLSI Design and Test (VDAT 2012) published by Springer as a Lecture Notes in Computer Science volume (LNCS volume number 7373), Shipur, India, July 1-4, 2012, pp 19-29, DOI: 10.1007/978-3-642-31494-0_3.
+2012
+O. Chakraborty, P. Chakraborty and S. N. Pradhan, “Power Aware Testing by Proper Don’t Care Filling of Test Patterns”, in Proc. International Conference on Communication, Circuits and Systems (iC3S-2012), Bhubaneswar, India, October 5-7, 2012.
+2012
+P. Choudhury and S. N. Pradhan, “Switching Reduction in Power Gated Design”, International Conference on Communication, Circuits and Systems (iC3S-2012), Bhubaneswar, India, October 5-7, 2012.
+2012
+A. Das, S. R. Choudhury, B. K. Kumar and S. N. Pradhan, “An elitist area-power density trade-off in VLSI floorplan using genetic algorithm,” in Proc. 7th International Conference on Electrical and Computer Engineering (IEEE ICECE), Dhaka, Bangladesh, Dec 20-22, 2012, pp. 729-732, DOI: 10.1109/ICECE.2012.6471654.
+2012
+A. Chakraborty and S. N. Pradhan, "Two new techniques to reduce gate leakage at 65 nm technology," 2012 5th International Conference on Computers and Devices for Communication (CODEC), Kolkata, December 2012, pp. 1-4, doi: 10.1109/CODEC.2012.6509275.
+2012
+S. N. Pradhan, D. Nath, P. Choudhury and A. Nag, "Within-clock power gating architecture implimentation to reduce leakage," 2012 5th International Conference on Computers and Devices for Communication (CODEC), Kolkata, 2012, pp. 1-4, doi: 10.1109/CODEC.2012.6509269.
+2012
+S. N. Pradhan and Santanu Chattopadhyay, “Multiplexer Based Circuit Synthesis with Area-Power Trade-off,” Proc. in the First International Conference on Computer Science and Information Technology-2011, Bangalore, 2-4 January, 2011, Published in Springer,  Advanced Computing: Communications in Computer and Information Science, 2011, Volume 133, Part 5, pp. 410-420.
+2011
+S. N. Pradhan,  S. Kundu and  S.Chattopadhyay, “A Technology Specific Approach to Reduce Leakage,”  4th VLSI Design and Test Symposium (VDAT 2010), Chandigarh, July. 7-9, 2010.
+2010
+S. N. Pradhan, “Complete Recovery Quasi-Static Adiabatic Circuit,” International Conference on Systemic Cybernetics and Informatics (CSCI) , Hyderabad, Jan. 2-5, 2008.
+2008
+S. N. Pradhan and S. Chattopadhyay, “Three-level AND-OR-XOR Network Synthesis with Area-Power Trade-off,” International Conference on Systemic Cybernetics and Informatics (CSCI),  Hyderabad, Jan. 2-5, 2008.
+2008
+S. N. Pradhan and S. Chattopadhyay, “Subfunction Polarity Selection of PLAs with Area-Power Trade-off,” International Conference on Systemic Cybernetics and Informatics (CSCI) Hyderabad, Jan. 2-5, 2008.
+2008
+S. N. Pradhan and S. Chattopadhyay, "AND-XOR Network Synthesis with Area-Power Trade-off," 2008 IEEE Region 10 and the Third international Conference on Industrial and Information Systems, Kharagpur, 2008, pp. 1-6, doi: 10.1109/ICIINFS.2008.4798440.
+2008
+S. N. Pradhan, M. T. Kumar and S. Chattopadhyay, "Integrated Power-Gating and State Assignment for Low Power FSM Synthesis," 2008 IEEE Computer Society Annual Symposium on VLSI, Montpellier, 2008, pp. 269-274, doi: 10.1109/ISVLSI.2008.7.
+2008
+M. T. Kumar, S. N. Pradhan and S. Chattopadhyay, "Power-gated FSM synthesis integrating partitioning and state assignment," TENCON 2008 - 2008 IEEE Region 10 Conference, Hyderabad, 2008, pp. 1-6, doi: 10.1109/TENCON.2008.4766598.
+2008
+S. N. Pradhan, M. T. Kumar and S. Chattopadhyay, "Three-level AND-OR-XOR network synthesis: A GA based approach," APCCAS 2008 - 2008 IEEE Asia Pacific Conference on Circuits and Systems, Macao, China, 2008, pp. 574-577, doi: 10.1109/APCCAS.2008.4746088.
+2008
+S. N. Pradhan and S. Chattopadhyay, “Static and Dynamic Power Minimization with Area Trade-off in Multiplexer Based Circuit Synthesis,”  VLSI Design and Test Symposium (VDAT 2007) Kolkata, Aug. 8-11, 2007.
+2007
+G. Paul,  S. N. Pradhan,  Bhargab B. Bhattacharya, Ajit Pal and  Annapurna Das, “BDD-based Synthesis of Logic Functions using Adiabatic Multiplexers,” International Conference on Systemics Cybernetics and Informatics (CSCI), Hyderabad, Jan. 2-5, 2006.
+2006
+S. N. Pradhan, G. Paul, A. Pal and B. B. Bhattacharya, "Power Aware BDD-based Logic Synthesis Using Adiabatic Multiplexers," 2006 International Conference on Electrical and Computer Engineering, Dhaka, 2006, pp. 149-152, doi: 10.1109/ICECE.2006.355312.
+2006
+G. Paul, S. N. Pradhan, A. Pal and B. B. Bhattacharya, "Low Power BDD-based Synthesis Using Dual Rail Static DCVSPG Logic," APCCAS 2006 - 2006 IEEE Asia Pacific Conference on Circuits and Systems, Singapore, 2006, pp. 1504-1507, doi: 10.1109/APCCAS.2006.342508.
+2006
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+K. Das, E. H. Reddy, A. Mandal, S. N. Pradhan, A. Bhattacharjee, “Area-Time-Energy Efficient Architecture of CBNS-Based Fast Fourier Transform”, International Journal of Circuit Theory and Applications, Vol. 52, No. 12, Pp. 6448-6467, December 2024. (SCI)
+2024
+K. Das, S. N. Pradhan and A. Bhattacharjee, Efficient Hardware Architecture Design of Radix-22 Fast Fourier Transform Using Coordinate Rotation Digital Computer, Journal of Circuits, Systems, and Computers, Vol. 33, No. 18, 2550008 (2024). (SCI)
+2024
+K. D. Purkayastha, C. Nath and S. N. Pradhan, "Power aware air quality sensing system with efficient data storage capability," Journal of Air Pollution and Health, Vol. 8, No. 1, Pp. 23-42, March 2023, (SCOPUS)
+2023
+K. Das, and S. N. Pradhan,"Hardware Architecture Design for Complementary Ensemble Empirical Mode Decomposition Algorithm", Integration, the VLSI Journal, Elsevier, Vol. 91,  Pages 153-164, July 2023 (SCI)
+2023
+A. Bhattacharjee, A. Das, D. K. Sahu, S. N. Pradhan and K. Das, "A Meta-heuristic Search-Based Input Vector Control Approach to Co-optimize NBTI effect, PBTI effect, and Leakage Power Simultaneously ", in Journal of Microelectronics Reliability, Vol. 144, Pp. 114979, May 2023 (SCI)
+2023
+V. K. Singh, A. Nag, A. Das, A. and S. N. Pradhan, "Low Power Design of 16-Bit Synchronous Counter by Introducing Effective Clock Monitoring Circuits.", Songklanakarin Journal of Science and Technology, Vol. 45, No. 4, Pp. 464-469, Oct. 2023 (SCOPUS).
+2023
+A. Das, V. K. Singh and S. N. Pradhan, “Shared Reduced Ordered Binary Decision Diagram Based Thermal-Aware Network Synthesis," International Journal of Circuit Theory and Applications, Vol: 50, No. 6, Pp. 2271-2286, First online publication on 1st March 2022. (SCI).
+2022
+V. K. Singh, A. Nag and S. N. Pradhan, “Design and analysis of a Low Power strategy in Finite State Machines implemented in Configurable Logic Blocks," International Journal of Embedded Systems, Published online on 7th Sept. 2022,  Vol.15 No.4, pp.326 - 332. (SCOPUS)
+2022
+A. Bhattacharjee, A. Nag, K. Das and S. N. Pradhan, “Design of power gated SRAM cell for reducing the NBTI effect and leakage power dissipation during the hold operation," Journal of Electronic Testing: Theory and Applications (JETTA), Published online on 4th April 2022, Vol. 38, Pp. 91-105, (SCI). DOI: 10.1007/s10836-022-05990-4
+2022
+V. K. Singh, A. Bhattacharjee and S. N. Pradhan, “Design and lifetime estimation of low power 6-input look up table used in modern FPGA," Journal of Journal of Circuits, Systems, and Computers, Vol. 32, No. 07, Pp. 2350113, 2022. (SCI)
+2022
+A. Bhattacharjee and S. N. Pradhan, “NBTI-Aware Power Gating Design with Dynamically Varying Stress Probability Control on Sleep Transistor,” Journal of Circuits, Systems, and Computers (JCSC), World Scientific publication, Vol. 30, No. 11, 2021, Pp. 2120004-21200024, February 2021. (SCIE), Q3, IF: 1.363. DOI: 10.1142/S0218126621200048.
+2021
+K. D. Purkayastha, R. K. Mishra, A. Shil and S. N. Pradhan, “IoT Based Design of Air Quality Monitoring System Web Server for Android Platform,” published online on 9th February 2021 in International Journal of Wireless Personal Communications (Springer), Vol. 118, Pp. 2921–2940, February 2021. (SCI), Q3, IF: 1.17.
+2021
+K. Das and S. N. Pradhan, “Field-Programmable Gate Array Based Design for Real-Time Computation of Ensemble Empirical Mode Decomposition," International Journal of Circuit Theory and Applications, Vol: 49, No. 8, Pp. 2312-2328, August  2021. (SCI)
+2021
+A. Bhattacharjee, D. K. Sahu and S. N. Pradhan, “Lookup Table based NBTI Effect and Leakage Power Co-optimization using Genetic Algorithm Approach," International Journal of Circuit Theory and Applications, Vol: 49, No. 7, Pp. 1902-1915, July  2021. (SCI).
+2021
+V. K. Singh, T. Sarkar and S. N. Pradhan, “Power Aware Testing for Maximum Fault Coverage in Analog and Digital Circuits Simultaneously,” Published on-line on 5th December 2021 in IETE Technical Review. DOI: 10.1080/02564602.2021.2004934.  (SCI)
+2021
+A. Nag, S. Das and S. N. Pradhan, “Low power transistor level synthesis of finite state machines using a novel dual gating technique”, International Journal of Embedded Systems, Inderscience Publishers, Vol. 13, No. 4, pp.431–438, August 2020. (SCOPUS) DOI: 10.1504/IJES.2020.110657. Q2, IF: 0.75
+2020
+A. Das and S. N. Pradhan,“An elitist non-dominated multi-objective genetic algorithm based temperature aware circuit synthesis”, International Journal of Interactive Multimedia and Artificial Intelligence, Vol. 6, No. 4, Pp. 26-38, December 2020. (SCIE), DOI: 10.9781/ijimai.2020.07.003, IF:  2.561
+2020
+A. Das and S. N. Pradhan, “Design Time Temperature Reduction in Mixed Polarity Dual Reed-Muller Network: a NSGA-II Based Approach”, Advances in Electrical and Computer Engineering, Vol. 20, No. 1, Pp. 99-104, 28th Feb 2020. (SCIE), DOI: 10.4316/AECE.2020.01013, Q3, IF: 0.650
+2020
+K. Das, D. Nath and S. N. Pradhan, “FPGA and ASIC Realization of EMD Algorithm for Real-Time Signal Processing”, IET Circuits, Devices & Systems, Vol: 14, No: 6, Pp 741-749, Published on 9th September 2020. (SCI). DOI: 10.1049/iet-cds.2019.0322. Q3, IF: 1.290
+2020
+A. Das, Y. C. Hareesh, and S. N. Pradhan, “NSGA-II Based Thermal-Aware Mixed Polarity Dual Reed- Muller Network Synthesis Using Parallel Tabular Technique”, Journal of Circuits, Systems, and Computers (JCSC), World Scientific Publication, Vol. 29, No. 15, pp. 2020008-1 to 2020008-23, August 2020. (SCIE), DOI: 10.1142/S021812662020008X.Q3, IF: 1.363.
+2020
+K. Das and S. N. Pradhan, “An Efficient Hardware Realization of EMD for Real-Time Signal Processing Applications”, International Journal of Circuit Theory and Applications, Vol. 48, No. 12, December 2020, Pp. 2202-2218. (SCI). doi: 10.1002/cta.2860. Q2, IF: 1.581.
+2020
+S. R. Choudhury and S. N. Pradhan, "An Improved Matrix Generation Framework for Thermal Aware Placement in VLSI," in IEEE Access, Vol. 8, 2020, Pp. 216365- 216385, doi: 10.1109/ACCESS.2020.3041365. (SCI). Q1, IF: 3.745
+2020
+P. Choudhury, K. Manna, V. Rai and S. N. Pradhan, “Thermal Aware Partitioning and Encoding of Power Gated FSM”, Journal of Circuits, Systems, and Computers (JCSC), Vol. 28, No. 9, Pp. 1950144, August 2019. (SCI), DOI: 10.1142/S0218126619501445. Q3, IF: 1.363
+2019
+S. R. Choudhury and S. N. Pradhan, “DOTFloor-A Diffusion Oriented Time-Improved Floorplanner for Macrocells”, IEEE Access 7: Pp. 172074-172087, Published on November 2019. (SCI), Vol: 7, DOI: 10.1109/ACCESS.2019.2956595, Q1, IF: 3.745.
+2019
+A. Nag, S. Das and S. N. Pradhan, “Low Power FSM Synthesis Based on Automated Power and Clock Gating Technique”, Journal of Circuits, Systems, and Computers (JCSC), Vol 28, No. 5, Pp. 1920003, May 2019. (SCI),DOI:10.1142/S0218126619200032. Q3, IF: 1.363
+2019
+A. Das and S. N. Pradhan, “Thermal-aware Output Polarity Selection Based on And-Inverter Graph Manipulation”, Recent Advances in Electrical & Electronics Engineering (RAEEE), Vol. 12 , No. 1 , Pp. 30-39, January 2019. (SCOPUS)., DOI : 10.2174/2352096511666180320120016, Q4, IF: 0.17
+2019
+A. Das, A. Debnath and S. N. Pradhan, “Reduced ordered binary decision diagram-based combinational circuit synthesis for optimizing area, power and temperature”, International Journal of Nanoparticles, Vol. 11, No. 2, pp. 94-112, Published online 29 March 2019. (Scopus), DOI; 10.1504/IJNP.2019.099181, Q4, IF: 0.380
+2019
+A. Saha and S. N. Pradhan, “Facial Expression Recognition based on Eigenspaces and
+Principle Component Analysis,” International Journal of Computational
+Vision and Robotics, Inderscience Publishers, Vol. 8, No. 2, January 2018. Pp  190-200. (SCOPUS), DOI: 10.1504/IJCVR.2018.091980. Q4, IF: 0.50
+2018
+D. Nath and S. N. Pradhan, “Low Dropout Based Noise Minimization of Active Mode Power Gated Circuit,” International Journal of Engineering (IJE), IJE TRANSACTIONS C: Aspects Vol. 31, No. 9, Pp. 1546-1552, September 2018. (SCOPUS), DOI: 10.5829/ije.2018.31.04a.01. Q1, IF: 0.4
+2018
+A. Das and S. N. Pradhan, “Area-Power-Temperature Aware AND-XOR Network Synthesis Based on Shared Mixed Polarity Reed-Muller Expansion,” International Journal of Intelligent Systems and Applications, Vol. 10, NO. 12, Pp. 35-46, December 2018. (SCOPUS), DOI: 10.5815/ijisa.2018.12.04. Q3, IF: 0.24
+2018
+S. Bhowmik,  S. N. Pradhan,  and   B. K. Bhattacharyya, “Power Supply Noise Reduction of Multi Core CPU by Staggering Current and Variable Clock Frequency,” IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol. 8, No. 5, PP. 875-882, February. 2018. (SCI), DOI: 10.1109/TCPMT.2018.2803139. Q2, IF: 1.889
+2018
+T. Sarkar and S. N. Pradhan, “Test Power Reduction by Simultaneous Don’t Care Filling and Ordering of Test Patterns Considering Pattern Dependency,” International Journal of Engineering (IJE), TRANSACTIONSC: Aspects, Vol. 31, no. 5, Pp. 752 – 758,  May 2018. (SCOPUS), DOI: 10.5829/ije.2018.31.05b.10. Q1. IF: 0.4
+2018
+S. Bhowmik, S. N. Pradhan and B. K. Bhattacharyya, “Self-Correcting the Clock Jitter inside the PLL for prevention of Functional Failure inside the IC chip”, IEEE VLSI Circuits and Systems Letter, Vol. 4, No. 2, PP. 12-17, May. 2018
+2018
+A. Nag and S. N. Pradhan, “A CLB Priority based Power Gating Technique in Field Programmable Gate Arrays”, International Journal of Image, Graphics and Signal Processing, Vol. 10, No.5. Pp. 15-23, May 2018, DOI: 10.5815/ijigsp.2018.05.02. Q4, IF; 0.722
+2018
+A. Nag, D. Nath and S. N. Pradhan, “Leakage Reduction of SRAM Based Look Up Table Using Dynamic Power Gating,” Journal of Circuits, Systems, and Computers (JCSC), World Scientific Publishing, Vol. 26, No. 3, pp. 1750041-1 to 1750041-12, March 2017. (SCI), DOI:10.1142/S0218126617500414.Q3, IF: 1.363
+2017
+S. N. Pradhan, P. Choudhury and D. Nath, “Transistor Level Realization of Power Gated FSM”, “International Journal of Computer Aided Engineering and Technology”, Inderscience Publishers, Vol. 9, No. 3, Pp.351-371, March 2017. (SCOPUS), DOI: 10.1504/IJCAET.2017.084903. Q3, IF; 0.54.
+2017
+S. Bhowmik, S. N. Pradhan, and   B. K. Bhattacharyya, “Clock Jitter Reduction and Flat Frequency Generation in PLL Using Auto-Generated Control Feedback”, IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol.: 7, No. 14, Pp. 1832-1841, November, 2017. (SCI), DOI: 10.1109/TCPMT.2017.2751742. Q2, IF: 1.889
+2017
+P. Choudhury and S.N Pradhan, “Power-Area Trade-off in Power Gated FSM Synthesis”, “International Journal of Circuits and Architecture Design”, Inderscience Publishers, Vol. 2, No. 1, Pp. 13-29, 2016. (SCOPUS), DOI: 10.1504/IJCAD.2016.075891
+2016
+A. Nag and S. N. Pradhan, “An Autonomous Clock Gating Technique in Finite State Machines Based on Registers Partitioning,” in Journal of Circuits, Systems, and Computers (JCSC), World Scientific Publishing, Vol. 25, No. 5, January, 2016, pp. 1650033-1 to 1650033-21. (SCI), DOI: 10.1142/S021812661650033X. Q3, IF: 1.363
+2016
+D. Nath, P.Choudhury and S.N Pradhan, “Hybrid Approach of Within-Clock Power Gating (WCPG) and Normal Power Gating to Reduce Power,” Journal of Circuits, Systems, and Computers (JCSC), World Scientific Publishing, Vol. 25, No. 5, January, 2016, pp. 1650044-1 to 1650044-26. (SCI), DOI: 10.1142/S0218126616500444. Q3, IF: 1.363
+2016
+T. Sarkar, S. Chakraborty, B. Paul and S. N. Pradhan, “Thermal Aware SOC Testing by Introducing Cooling Period,”, IETE Technical Review, Taylor & Francis, Vol. 34, No. 2, Pp. 113-121, April 2016, online: http://dx.doi.org/10.1080/02564602.2016.1152914. (SCI), Q2, IF: 2.175
+2016
+A. Das and S. N. Pradhan, “Shared Reed-Muller Decision Diagram based Thermal-Aware AND-XOR Decomposition of Logic Circuits,” journal of VLSI Design, Hindawi publication (2016), Volume 2016, Article ID 3191286, Pp. 1 -14, http://dx.doi.org/10.1155/2016/3191286,  April 2016. (SCOPUS). Q4, IF; 0.560
+2016
+S. Bhowmik,  D.  Deb,  S. N. Pradhan,  and   B. K. Bhattacharyya, “Reduction of Noise Using Continuously Changing Variable Clock and Clock Gating For IC Chips,”  IEEE Transactions on Components, Packaging, and Manufacturing Technology, Vol. 6, No. 6, Pp. 886 – 896, June 2016. (SCI), DOI: 10.1109/TCPMT.2016.2562143. Q2, IF: 1.889
+2016
+L. Maharana, T. Sarkar and S. N. Pradhan, “Look up Table Based Low Power Analog Circuit Testing,” International Journal of Engineering (IJE), TRANSACTIONSC: Aspects Vol. 29, No. 9, Pp. 1247-1256, September 2016. (SCOPUS), DOI: 10.5829/idosi.ije.2016.29.09c.10. Q1, IF: 0.4
+2016
+S. N. Pradhan, A. Chakraborty, A. Nag and D. Nath, “Layout Oriented Look up Table Based Dual Threshold Approach to Reduce Leakage,” International Journal of Computer Aided Engineering and Technology, Inderscience Publication, Vol. 7, No. 4, January 2015, Pp-456-480. (SCOPUS), DOI: 10.1504/IJCAET.2015.072601. Q3, IF: 0.54
+2015
+D. Nath, P. Choudhury, A. Nag and S. N. Pradhan,“Power Gating Architecture Implementation inside Clock Period to Reduce Power”, International Journal of Computer Aided Engineering and Technology, Inderscience Publication, Vol. 6, No. 3, Pp.310-324, July 2014. (SCOPUS), DOI: 10.1504/IJCAET.2014.063118. Q3, IF: 0.54
+2014
+P. Choudhury and S. N. Pradhan, “Power Aware Synthesis of Power Gated FSM”, Journal of Modern Science and Technology, Vol.2 No.1, Pp.120-127, March 2014.
+2014
+A. Chakraborty and S. N. Pradhan, “A new design of adder circuit for low power and high speed in subthreshold region”, International Journal of Electronics Letters, Vol. 2, No. 1, Pp. 17-29, June 2014. (SCOPUS), DOI: 10.1080/21681724.2013.860575. Q3, IF: 0.45
+2014
+P. Choudhury, A. Nag, D. Nath and S. N. Pradhan, “CG-in-PG architecture implementation for power reduction in FSMs”, International Journal of Electronics Letters, Vol. 2, No.3, Pp.180-185, September 2014. (SCOPUS), DOI: 10.1080/21681724.2014.894136. Q3, IF: 0.45
+2014
+S. N. Pradhan, S. Bhowmik, P. Choudhury, D. Nath, A. Nag, D. Deb and B. Paul, “Design of new high-speed and low-energy dynamic PLA”, International Journal of Electronics Letters, Vol. 2, No. 3, Pp. 87-92, published on line: June 2014, DOI:    10.1080/21681724.2014.954633. (SCOPUS). Q3, IF: 0.45
+2014
+S. N. Pradhan, A. Chakraborty, A. Nag and D. Nath, “Layout Oriented Look up Table Based Dual Threshold Approach to Reduce Leakage,” International Journal of Computer Aided Engineering and Technology, Inderscience Publication, Vol. 7, No. 4, January 2015, Pp-456-480. (SCOPUS), DOI: 10.1504/IJCAET.2015.072601. Q3, IF: 0.54
+2014
+A. Chakraborty and S. N. Pradhan, “Gate Level Leakage Minimization at 90 nm Technology,” International Journal of Computer Aided Engineering and Technology, Inderscience Publication, Vol. 5, No. 4, pp. 375-386, January 2013. (SCOPUS), DOI: 10.1504/IJCAET.2013.056816. Q3, IF: 0.54
+2013
+S. N. Pradhan and S. Chattopadhya, “Multiplexer Based Multi-level Circuit Synthesis with Area-Power Trade-off”, Journal of circuit, Systems and Computers (IJCSC), World Scientific Publishing, Vol. 21, No. 5, pp. 1250037-1 - 1250037-16, 30 August 2012. (SCI), DOI: 10.1166/jolpe.2012.1206. Q3, IF: 1.363
+2012
+P. Choudhury and S. N. Pradhan, “An Approach for Low Power Design of Power Gated FSM Considering Partitioning and State Encoding Together”, Journal of Low Power Electronics, American Scientific Publishers, USA, Vol. 8, No. 4, pp. 452-463 August 2012. (SCOPUS), DOI: 10.1166/jolpe.2012.1206. Q3, IF: 0.43
+2012
+S. N. Pradhan, M. Tillak Kumar and S. Chattopadhya “AND-OR-XOR Network Synthesis with Area-Power trade-off”, Journal of circuit, Systems and Computers (IJCSC), World Scientific Publishing, Vol.20, No. 6, pp. 1019-1035. April, 2011. (SCI), DOI: 10.1142/S0218126611007736. Q3, IF: 1.363
+2011
+S. N. Pradhan, M. Tilak Kumar and S. Chattopadhyay, “ Low power FSM synthesis using Power-gating”, Integration, the VLSI Journal, Elsevier, Vol. 44, No. 3, pp. 175-184, June, 2011. (SCI), DOI: 10.1016/j.vlsi.2011.03.003. Q3, IF; 1.214.
+2011
+S. N. Pradhan and S. Chattopadhyay, “Two-level AND-XOR Network Synthesis with Area-Power Trade-off”, International Journal of Computer Science and Network Security (IJCSNS), Vol. 8 No.9, pp.365-374, 2008.
+2008
+S. N.Pradhan, G. Paul, Bhargab B. Bhattacharya, Ajit Pal and Annapurna Das “BDD-based Synthesis of Logic Functions Using Adiabatic Multiplexers”, International Journal of Systemics, Cybernetics and Informatics(IJSCI), Vol. 1, No. 8, pp.44-49, 2006.
+2006
+Patent
+No.
+Patent Information
+Year
+S. N. Pradhan, K. D. Purkayastha, D. Nath, V. K. Singh and B. Debbarma,  “PCB DESIGN OF PORTABLE AIR QUALITY MONITORING SYSTEM WITH ENHANCED BATTERY LIFE”, published on March 11, 2022. Application number:  202031038999.
+2022
+Subject Information
+Sr.No.
+Class
+Subject
+1
+UG and PG
+Basic Electronics, Analog Electronics, Digital Electronics, Semiconductor Device Physics, Data Communication and Networking, Microelectronics and VLSI Design, Digital VLSI Design, CAD for VLSI, Low Power VLSI Design

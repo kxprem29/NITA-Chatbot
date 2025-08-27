@@ -1,0 +1,121 @@
+Electronics and Communication Engineering
+
+Faculty/Staff Profile
+
+Dr. Shikha Maurya
+Dr. Shikha Maurya
+Assistant Professor
+Department:
+Electronics and Communication Engineering
+Email ID :
+drshikha.ece@nita.ac.in
+Research Area :
+Green Communication, Cognitive Radio, Optimization
+Address Information
+Address
+Department of Electronics and Communication Engineering, NIT Agartala, Barjala, Jirania, Agartala, Tripura 799046
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+drshikha.ece@nita.ac.in
+Phone [Residence]
+-
+Phone [Mobile]
+7007370723
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+PDPM-IIITDM Jabalpur
+2019
+Wireless Communication
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+ABV-IIITM Gwalior
+2014
+Digital Communication
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+Dr. APJ Abdul Kalam Technical University (formerly known as Uttar Pradesh Technical University)
+2012
+Electronics and Communication Engineering
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V., ``An Optimal Relay Selection and Precoder Designing in MIMO Multi-Relay Cognitive Networks," 2022 IEEE Conference on Information and Communication Technology (CICT), 2022. IEEE.
+NOV
+2022
+Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V., ``A Low Complexity Deep learning based precoder Designing for Enhanced Throughput in Underlay Network," 2022 IEEE Conference on Information and Communication Technology (CICT), 2022. IEEE.
+NOV
+2022
+Shikha Maurya and Matadeen Bansal, “Joint Relay Selection and Precoder Designing for Energy-Efficient MIMO-CRNs”, 2021 5th Conference on Information and Communication Technology (CICT), 2021, pp. 1-5. IEEE.
+DEC
+2021
+Shikha Maurya and Matadeen Bansal, ``On Robust Precoder Design for Energy-Efficient MIMO-Cognitive Relay Networks,” 2019 IEEE Conference on Information and Communication Technology (CICT), pp. 1-5, 2019. IEEE.
+DEC
+2019
+Shikha Maurya and Matadeen Bansal, ``Designing of a Relay Precoding Matrix using Singular Value Decomposition,” Conference on Information and Communication Technology (CICT), pp. 1-4, 2017. IEEE.
+NOV
+2017
+Shikha Maurya and Matadeen Bansal, ``Energy-efficient relay precoder design for MIMO-cognitive relay network,” 11th International Conference on Industrial and Information Systems (ICIIS), pp. 749-752, 2016. IEEE.
+DEC
+2016
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V., “Deep Learning Based Energy-Efficient Relay Precoder Design in MIMO-CRNs”, Elsevier Physical Communication, vol. 50, February 2022.
+FEB
+2022
+Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V., “Data-driven approach to design energy-efficient joint precoders at source and relay using deep learning in MIMO-CRNs”, Wiley Transaction on Emerging Telecommunication Technologies, February 2022.
+FEB
+2022
+Shikha Maurya and Matadeen Bansal, ``Design of energy-efficient precoders in MIMO cognitive two-way relay network,” Springer Wireless Network, vol. 26, no. 1, pp. 293-305, 2020.
+AUG
+2020
+Shikha Maurya, Matadeen Bansal, and Aditya Trivedi, ``Joint Source and Relay Precoder Design for Energy-Efficient MIMO-Cognitive Relay Networks,” IET Communication, vol. 13, no. 15, pp. 2226-2234, 2019.
+SEPT
+2019
+Shikha Maurya and Matadeen Bansal, ``Joint Source and Relay Precoder Design for MIMO-CRN,” Elsevier Physical Communication, Vol. 30, pp. 122-131, 2018.
+OCT
+2018
+Shikha Maurya and Matadeen Bansal, ``Energy Efficient Precoder Design for Non-Regenerative MIMO-CRN,” IEEE Wireless Communication Letters, Vol. 6, No. 5, pp. 646-649, 2017.
+JULY
+2017
+Achievement Information
+No.
+Patent Information
+Year
+Awarded ‘best paper' titled “On Robust Precoder Design for Energy-Efficient MIMO Cognitive Relay Networks” in the technical session “Wireless Communication and Internet of Things” in the 3rd IEEE Conference on Information and Communication Technology (IEEE CICT 2019) organized at IIIT Allahabad.
+2019
+Awarded ‘best poster’ for Women in Engineering (WiE) held by PDPM-IIITDM Jabalpur IEEE student branch in the year 2017.
+2017
+Qualified University Grant Commission-National Eligibility Test (UGC-NET) for the Assistant Professor held on June 2014 in the subject "Electronic Science".
+2014
+Subject Information
+Sr.No.
+Class
+Subject
+1
+5th Semester, B.Tech
+Analog and Digital Communication
+2
+3rd Semester, B.Tech
+Network Analysis and Synthesis
+3
+1st Semester, B.Tech
+Basic Electronics

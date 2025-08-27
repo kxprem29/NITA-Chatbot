@@ -1,0 +1,196 @@
+Computer Science and Engineering
+
+Faculty/Staff Profile
+
+Dr. Smita Das
+Dr. Smita Das
+Assistant Professor
+Department:
+Computer Science and Engineering
+Date of Joining :
+31/03/2006
+Email ID :
+smitadas.nita@gmail.com
+URL:
+https://scholar.google.com/citations?hl=en&user=mZtCllIAAAAJ
+Research Area :
+Energy-Efficient Security Protocols, VANET Security, ML/DL based medical image analysis, Trust Architectures in IoT Healthcare, Secure Localization and Positioning.
+Courses Taught
+UG Courses
+Introduction to Graph Theory, Computer Networks, Software Engineering, Object Oriented Programming, Design and Analysis of Algorithm, Introduction to Programming
+PG Courses
+Advanced Computer Networks, Wireless Network Security, Design and Analysis of Algorithms, Graph Theory and Combinatorics
+Student Register For PhD Enrolled OnGoing
+1. Jhalak Dutta (Path Planning in WSN), 2. Purba Pal (IoT Healthcare)
+Address Information
+Address
+Room No. 233, APJ Abdul Kalam Block, Department of Computer Science & Engineering, National Institute of Technology Agartala, Tripura (W).
+City
+AGARTALA
+State
+TRIPURA
+Country
+India
+Contact Information
+Email Address
+smitadas.nita@gmail.com
+Phone [Residence]
+-
+Phone [Mobile]
+9774715007
+Academic Information
+Degree/Diploma
+Description
+Year
+Subject
+Ph. D.
+(
+                                                            Philosophy of Doctorate                                                                             )
+Broad Area: Wireless Sensor Networks
+2022
+Computer Science & Engineering
+M.TECH
+(
+                                                            MASTER OF TECHNOLOGY                                                                                )
+CGPA - 8.68
+2012
+Computer Science & Engineering
+B. TECH.
+(
+                                                            BACHELOR OF TECHNOLOGY                                                                              )
+1st class with distinction (77.2%)
+2005
+Computer Science & Engineering
+H.S.C.
+(
+                                                            Higher Secondary School Certificate                                                                 )
+TBSE - 81.3% (1st Division)
+2001
+Science
+S.S.C.
+(
+                                                            Secondary School Certificate                                                                        )
+TBSE - 85.6% (1st Division)
+1999
+Science
+Publication Conference
+Sr. No.
+Publication Conference
+Month
+Year
+Bhowmik, P & Das, S. "Cheating detection in online exam: A comparative survey", 8th International conference on information and communication technology (ICTCS - 2023), Jaipur, India. [accepted]
+2023
+Pal, P, Debbarma, M.K. & Das, S. "Unveiling energy depletion attacks in wireless sensor networks and its defensive mechanisms", International Conference on Data Engineering and Machine Intelligence (ICDEMI 2023), Bengaluru, India. [accepted]
+2023
+Arsh, A., Kar, N., Das, S. & Deb, S., "Multiple Approaches towards Authentication using Keystroke Dynamics", International Conference on Machine Learning and Data Engineering (ICMLDE 2023) [accepted]
+2023
+Singh, A., & Das, S. "A Cheating Detection System in Online Examinations Based on the Analysis of Eye-Gaze and Head-Pose",  International Conference on Emerging Trends in Artificial Intelligence and Smart Systems, THEETAS 2022, 16-17 April 2022, Jabalpur, India (p. 55).
+JUN
+2022
+Debnath, A., & Das, S. "Identification of Image Forgery based on various Corner Detection methods", IEEE World Conference on Applied Intelligence and Computing (AIC) (pp. 314-319). IEEE.
+JUN
+2022
+Chakraverty, S. & Das, S. "YUVA (Your User-Authenticated Virtual Assistant): A Voice Recognition And Authentication Based Virtual Assistant For Daily Business Tasks On A PC", 7th International Conference on Microelectronics, Computing & Communication Systems(MCCS-2022) [accepted]
+2022
+Das, S., & Debbarma, M. K. "A comparative study on coverage-hole detection improvement with inner empty circle over delaunay triangulation method in wireless sensor networks", Communication Software and Networks: Proceedings of INDIA 2019 (pp. 553-561). Springer Singapore.
+APRIL
+2020
+Das, S., & DebBarma, M. K. "Hole detection in wireless sensor network: A review", Recent Findings in Intelligent Computing Techniques: Proceedings of the 5th ICACNI 2017, Volume 2, 87-96.
+NOV
+2018
+Das, S., & Debbarma, M. K. "A survey on coverage problems in wireless sensor network based on monitored region", Advances in Data and Information Sciences: Proceedings of ICDIS 2017, Volume 2 (pp. 349-359). Springer Singapore.
+JUN
+2018
+Rudrapal, D., Das, S., & Debbarma, S. "Improvisation of biometrics authentication and identification through keystrokes pattern analysis", Distributed Computing and Internet Technology: 10th International Conference, ICDCIT 2014, Bhubaneswar, India, February 6-9, 2014. Proceedings 10 (pp. 287-292). Springer International Publishing.
+FEB
+2014
+Rudrapal, D., & Das, S. "Analysis and evaluation of keystroke duration of user’s typing as a distinctive measure of recognition", Fourth International Conference on Signal and Image Processing 2012 (ICSIP 2012) Volume 1 (pp. 375-385). Springer India.
+AUG
+2013
+Das, S., & Rudrapal, D. "Analysis of color moment as a low level feature in improvement of content based image retrieval", Fourth International Conference on Signal and Image Processing 2012 (ICSIP 2012) Volume 1 (pp. 387-397). Springer India.
+AUG
+2013
+Sarkar, R., Das, S., & Roy, S. " SPARSHA: A low cost refreshable braille for deaf-blind people for communication with deaf-blind and non-disabled persons", Distributed Computing and Internet Technology: 9th International Conference, ICDCIT 2013, Bhubaneswar, India, February 5-8, 2013. Proceedings 9 (pp. 465-475). Springer Berlin Heidelberg.
+FEB
+2013
+Rudrapal, D., Das, S., Debbarma, N., & Debbarma, S. "Internal attacker detection by analyzing user keystroke credential", Lecture Notes on Software Engineering, 1(1), 49.
+FEB
+2013
+Sarkar, R., Das, S., & Rudrapal, D. "A low cost microelectromechanical Braille for blind people to communicate with blind or deaf blind people through SMS subsystem", 3rd IEEE International Advance Computing Conference (IACC) (pp. 1529-1532). IEEE.
+FEB
+2013
+Yadav, S., Das, S., & Rudrapal, D. "A system to filter unsolicited texts from social learning networks", Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT) (pp. 1-5). IEEE.
+APRIL
+2013
+Das, S., Rudrapal, D., Debbarma, S., Kar, N., & Debbarma, M. K. "Implementation of Gesture in scheming Mouse Events for camera and projector based Virtual Touch Screen", 
+INTERNATIONAL CONFERENCE ON ELECTRONICS COMPUTER TECHNOLOGY (ICECT 2012)
+APRIL
+2012
+Rudrapal, D., Das, S., Saha, A., Kumari, L., & Debbarma, N. (2012). "A Study And Analysis Of Keystroke Dynamics And Its Enhancement For Proficient User Authentication", INTERNATIONAL CONFERENCE ON ELECTRONICS COMPUTER TECHNOLOGY (ICECT 2012).
+APRIL
+2012
+Das, S., Rudrapal, D., Sarkar, R. "An Efficient Method For Content Based Image Retrieval Using Color Moment And Texture Descriptor", Springer International Conference on Computing, Communication and Information Technology, 2012 (ICCCIT-2012).
+JUN
+2012
+Rudrapal, D., Das, S., & Saha, A. "Analysis of user keystroke dynamics and its application for preventing automated form filling programmes" , International Conference on Computing Communication and Information Technology (Vol. 27, p. 176), 2012.
+JUN
+2012
+Das, S., Rudrapal, D., & Kar, N. "Security Enhancement of Steganography and Preserving Low Visual Distortion of Image by Modifying Data Embedding Techniques", International Conference on emerging trends in electrical, communication and information technologies (ICECIT 2012).
+DEC
+2012
+Publication Journal
+Sr. No.
+Publication Journal
+Month
+Year
+DAS, S. (2023). A Comparative Study of Various Coverage-Hole Patching Algorithms in Wireless Sensor Networks. Adhoc & Sensor Wireless Networks, 57.[SCIE]
+JUN
+2023
+Sharma, H., & Das, S. (2023). A brief study of generative adversarial networks and their applications in image synthesis. Multimedia Tools and Applications, 1-31. [SCIE]
+JULY
+2023
+Das, S., & Debbarma, M. K. (2022). A Coverage-Hole Boundary Detection Approach Based on Tree-Traversal in Wireless Sensor Networks. Adhoc & Sensor Wireless Networks, 52.[SCIE]
+MAY
+2022
+Das, S., & Debbarma, M. K. (2020). CHPT: an improved coverage-hole patching technique based on tree-center in wireless sensor networks. Journal of Ambient Intelligence and Humanized Computing, 1-12.[SCIE]
+MAY
+2020
+Das, S., & Debbarma, M. K. (2020). A review on coverage-hole boundary detection algorithms in wireless sensor networks. Computación y Sistemas, 24(1), 121-140. [SCUPUS]
+MAR
+2020
+Das, S., & Kanti DebBarma, M. (2019). Node position estimation for efficient coverage hole-detection in wireless sensor network. Computación y Sistemas, 23(1), 185-195. [SCOPUS]
+MAR
+2019
+Das, S., & Kanti DebBarma, M. (2018). Computational geometry based coverage hole-detection and hole-area estimation in wireless sensor network. Journal of High Speed Networks, 24(4), 281-296. [SCOPUS]
+JAN
+2018
+Jamatia, R., & Das, S. (2018). "Rwngmari: An Android Based Learning App for Kokborok Language", International Journal of Computational Intelligence & IoT, 1(1).
+APRIL
+2018
+Sarkar, R., & Das, S. (2012). Analysis of different braille devices for implementing a cost-effective and portable braille system for the visually impaired people. International Journal of Computer Applications, 60(9).
+JAN
+2012
+Rudrapal, D., Das, S., Debbarma, S., Kar, N., & Debbarma, N. (2012). Voice recognition and authentication as a proficient biometric tool and its application in online exam for PH people. International Journal of Computer Applications, 39(12), 6-12.
+FEB
+2012
+Das, S., Rudrapal, D., Jamatia, A., & Kumari, L. (2011). Preprocessing and Screen-Cursor Mapping for a Virtual TouchScreen on a Projected Area. International Journal on Computer Science and Engineering, 3(6), 2420-2429.
+JUN
+2011
+Patent
+No.
+Patent Information
+Year
+Title: IoT based wearable device for monitoring of vital information, 
+Ref. No. : 382360-001, 
+Awarded date: 27/03/2023
+2023
+Subject Information
+Sr.No.
+Class
+Subject
+1
+UG Courses
+Computer Networks, Introduction to Graph Theory, Object Oriented Programming, Introduction to Programming, Software Engineering
+2
+PG Courses
+Advanced Computer Networks, Wireless Network Security, Algorithms

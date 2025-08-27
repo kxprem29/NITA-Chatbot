@@ -1,0 +1,69 @@
+Computing & ICT Unit
+
+The Computing & ICT Unit of NIT Agartala manages the network services, website and other domain related activity in the Institute.
+Some major tasks being looked after by the Computing & ICT Unit are:
+Providing the internet services to the Institute.
+Providing the institute email services for employees and research students of the Institute.
+Hosting and managing the Institute website.
+Running all useful and essential services like naming services, DHCP services, firewall, web application services, etc to the institute for different purposes.
+Providing the facility of Net based installation of major operating systems and other software to the Institute.
+Providing the support to the technical team of the companies visiting for campus placement of students.
+List of People
+Name
+Designation
+Dr. Ashim Saha
+Chairman (
+Computing & ICT Unit)
+& Nodal Officer, NKN &
+Associate Professor of CSE Department
+E-Mail :
+ashim.cse@nita.ac.in
+Dr. Kunal Chakma
+Faculty In-Charge (Campus
+Network
+) &
+Assistant Professor of CSE
+Department
+E-Mail :
+kchakma.cse@nita.ac.in
+Dr. Sikha Maurya
+Faculty In-Charge (Internet Services
+) &
+Assistant Professor of ECE
+Department
+E-Mail :
+drshikha.ece@nita.ac.in
+Dr. Ranjita Das
+Faculty In-Charge (Computing Infrastructure
+) &
+Assistant Professor of CSE
+Department
+E-Mail :
+ranjita.nitm@gmail.com
+Dr. Partha Sarathi Bhattacharjee
+Scientific / Technical Officer
+E-Mail : network.admin@nita.ac.in
+Mobile : +91-9436181022
+Mr. Kamal Kanti Paul
+System Administrator (Contractual)
+E-Mail : kkpaul.agt@nita.ac.in
+Mobile : +91-9436463346
+Mr. Sourabh Roy
+Technical Assistant, Virtual Class Room (Contractual)
+E-Mail :
+sourabh1ry@gmail.com
+Mobile : +91-7005198869
+Mr. Pramatha Acharjee
+Technician (Contractual)
+Mobile: 9862999634
+Email: 417pramatha@gmail.com
+If there is any query related to website please email to "
+kkpaul.agt@nita.ac.in
+"
+, and
+any query related to
+network
+please email to
+"
+network.admin@nita.ac.in
+"
