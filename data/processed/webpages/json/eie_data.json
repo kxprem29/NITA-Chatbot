@@ -1,0 +1,15 @@
+{
+    "Department": "Electronics and Instrumentation Engineering",
+    "Programmes": {
+      "Undergraduate Programmes": {
+        "Courses": [
+          {
+            "Name": "B.Tech in Electronics and Instrumentation Engineering",
+            "Duration": "4 years"
+          }
+        ]
+      },
+      "Ph.D Programmes": "Available"
+    }
+  }
+  

@@ -1,0 +1,52 @@
+{
+    "Office": "Space Technology Incubation Centre (S-TIC)",
+    "Description": "The S-TIC at NIT Agartala was established on September 18, 2018, on the ground floor of the CSE building (Room No. G-14), covering an area of 1600 sq. ft. It is the first-ever Incubation Centre of ISRO in India, aiming to attract and nurture young academia with innovative ideas and research aptitude, and to develop the Academia-Industry ecosystem.",
+    "KeyAchievements": {
+      "TotalProjectsApproved": 10,
+      "ProjectsCompleted": 6,
+      "TechnologyTransfer": "One product handed over to ISRO, showcased at National Technology Week 2023",
+      "NationalTechnologyWeek": {
+        "Date": "11th to 14th May 2023",
+        "Location": "Pragati Maidan, New Delhi",
+        "InauguratedBy": "Prime Minister of India Sri Narendra Damodardas Modi"
+      }
+    },
+    "People": [
+      {
+        "Designation": "Chairman J.M.C",
+        "Name": "Director of the ISRO CBPO HQ",
+        "Phone": "08022172119"
+      },
+      {
+        "Designation": "Co-Chairman J.M.C",
+        "Name": "Director of the NIT Agartala",
+        "Phone": "0381-2546630"
+      },
+      {
+        "Designation": "Chairman S-TIC NITA",
+        "Name": "Dean (R&C) of the NIT Agartala",
+        "Phone": "9330352623"
+      },
+      {
+        "Designation": "Deputy Director HRD, ISRO HQ",
+        "Name": "Mr. Nishant Kumar",
+        "Phone": "08022172105"
+      },
+      {
+        "Designation": "Coordinator, S-TIC NIT Agartala",
+        "Name": "Dr. Mitra Barun Sarkar",
+        "Phone": "8794471865"
+      },
+      {
+        "Designation": "Co-coordinator, S-TIC NIT Agartala",
+        "Name": "Dr. Jayanta Kumar Rakshit",
+        "Phone": "7005032518"
+      },
+      {
+        "Designation": "Technical Staff",
+        "Name": "Mr. Sourabh Roy",
+        "Phone": "9612998318"
+      }
+    ]
+  }
+  

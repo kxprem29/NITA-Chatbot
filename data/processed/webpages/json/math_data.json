@@ -1,0 +1,123 @@
+{
+    "Department": "Mathematics",
+    "Programmes": {
+      "sponsorship": "DST FIST Sponsored Department (Sanctioned amount: 50 Lakhs)",
+      "academic_programmes": [
+        {
+          "course_name": "M.Sc (Mathematics and Computing)",
+          "duration": "2 Years",
+          "intake": 13,
+          "admission": "JAM / Through Institute Test",
+          "qualifying_degree": "B.Sc."
+        },
+        {
+          "course_name": "BS-MS Dual Degree (Mathematics)",
+          "duration": "5 Years",
+          "intake": 20,
+          "admission": "Through JEE Mains",
+          "qualifying_degree": "Higher Secondary (+2)"
+        },
+        {
+          "course_name": "BS-MS Dual Degree (Mathematics and Computing)",
+          "duration": "5 Years",
+          "intake": 25,
+          "admission": "Through JEE Mains",
+          "qualifying_degree": "Higher Secondary (+2)"
+        },
+        {
+          "course_name": "M.Sc (Mathematics) (2012–2021, Old Syllabus)",
+          "duration": "2 Years",
+          "intake": 10,
+          "admission": "JAM / Through Institute Test",
+          "qualifying_degree": "B.Sc."
+        },
+        {
+          "course_name": "BTMT in Computational Mathematics",
+          "duration": "5 Years",
+          "intake": 25,
+          "admission": "Through JEE Mains",
+          "qualifying_degree": "Higher Secondary (+2)"
+        },
+        {
+          "course_name": "Ph.D (Mathematics)",
+          "admission": "Twice a year through Institute Test",
+          "qualifying_degree": "M.Sc./M.Tech"
+        }
+      ]
+    },
+    "History": {
+      "established": 2006,
+      "origin": "Upgraded from Tripura Engineering College (TEC, est. 1965)",
+      "milestones": [
+        "2010: Started M.Sc. in Mathematics program",
+        "2014: Started BSMS 5-year dual degree course",
+        "2014: Completed 50 years (TEC + NIT Agartala)"
+      ]
+    },
+    "Faculty": {
+      "count": {
+        "professors": 1,
+        "associate_professors": 4,
+        "assistant_professors": 10,
+        "teaching_assistants": 1,
+        "lab_assistants": 1
+      },
+      "research_areas": [
+        "Topological Space",
+        "Nature-inspired Optimization Techniques",
+        "Inventory Management (Operations Research)",
+        "De-Novo Programming Problem",
+        "Multi-Criteria Decision-Making",
+        "Fuzzy Control System",
+        "Computational Fluid Dynamics",
+        "Biomathematics",
+        "Graph Theory",
+        "ODE & PDE",
+        "Super-symmetric Quantum Mechanics",
+        "Water Wave Mechanics",
+        "Heat Transfer, Convection",
+        "Numerical Methods",
+        "Neural Networks",
+        "Wireless Networks",
+        "Image Processing"
+      ]
+    },
+    "Highlights": {
+      "insight": [
+        "Energetic and academically sound young faculties and research scholars.",
+        "Dynamic involvement in academic and administrative tasks.",
+        "Research contributions in contemporary subject areas.",
+        "Authored books, book chapters and patents.",
+        "Frequent visits to reputed institutes in India and abroad for conferences, workshops, and collaborations.",
+        "2019–20: Published ~96 research papers in reputed national and international peer-reviewed journals."
+      ]
+    },
+    "Courses": {
+      "M.Sc": {
+        "duration": "2 Years (4 Semesters)",
+        "intake": 10,
+        "admission": "Merit basis",
+        "notes": "Syllabus revision workshops organized for UG and PG."
+      },
+      "M.Sc Mathematics and Computing": {
+        "duration": "2 Years (4 Semesters)",
+        "intake": 13,
+        "admission": "Merit basis",
+        "notes": "Revised syllabus to strengthen academia and R&D."
+      },
+      "BS-MS Dual Degree": {
+        "duration": "10 Semesters (5 Years)",
+        "intake": 25,
+        "notes": [
+          "Encourages in-depth knowledge and career opportunities.",
+          "Special coaching for NET, GATE, SET, TOEFL, GRE etc.",
+          "Many graduates pursue Ph.D. in reputed institutes in India and abroad."
+        ]
+      },
+      "Ph.D": {
+        "type": "Collaborative and interdisciplinary",
+        "mode": ["Full-time", "Part-time"]
+      }
+    }
+  }
+  

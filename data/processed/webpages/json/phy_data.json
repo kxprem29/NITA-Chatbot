@@ -1,0 +1,32 @@
+{
+    "Department": "Physics",
+    "Programmes": [
+      {
+        "Course Name": "M.Sc in Physics",
+        "Duration": "2 Years",
+        "Intake": 10,
+        "Admission": "JAM / Through Institute Test",
+        "Qualifying Degree": "B.Sc."
+      },
+      {
+        "Course Name": "B.Tech-M.Tech (Dual Degree) in Engineering Physics",
+        "Duration": "5 Years",
+        "Intake": 20,
+        "Admission": "Through JEE",
+        "Qualifying Degree": "Higher Secondary (+2)"
+      },
+      {
+        "Course Name": "B.S-M.S (Dual Degree) in Physics",
+        "Duration": "5 Years",
+        "Intake": 20,
+        "Admission": "Through JEE",
+        "Qualifying Degree": "Higher Secondary (+2)"
+      },
+      {
+        "Course Name": "Ph.D in Physics",
+        "Admission": "Twice a year through Institute Test",
+        "Qualifying Degree": "M.Sc./M.Tech"
+      }
+    ]
+  }
+  

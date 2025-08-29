@@ -1,0 +1,96 @@
+{
+    "Committee": "The Senate Committee",
+    "Members": [
+      {
+        "Name": "Prof. Sarat Kumar Patra",
+        "Designation": "Director, NIT Agartala",
+        "Role": "Chairman"
+      },
+      {
+        "Name": "Prof. Uday Shanker Dixit",
+        "Designation": "IIT Guwahati, Assam",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Seema Sharma",
+        "Designation": "IIT Delhi",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Snehashish Chakraverty",
+        "Designation": "NIT Rourkela",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Manish Pal",
+        "Designation": "Professor (CE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. R. P. Sharma",
+        "Designation": "Professor (CE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Ratul Das",
+        "Designation": "Professor (CE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Sujit Kumar Pal",
+        "Designation": "Professor (CE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Umesh Mishra",
+        "Designation": "Professor (CE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Ardhendu Saha",
+        "Designation": "Professor (EE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Priyanath Das",
+        "Designation": "Professor (EE), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Debasish Bhattacharya",
+        "Designation": "Professor (Math), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Ajoy Kumar Das",
+        "Designation": "Professor (ME), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Prasun Chakraborti",
+        "Designation": "Professor (ME), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Swapan Bhowmik",
+        "Designation": "Professor (ME), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Debasis Neogi",
+        "Designation": "Professor (MHSS), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Prof. Aparna Nath",
+        "Designation": "Professor (Physics), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Col.(Dr.) Asish Badola",
+        "Designation": "Registrar, NIT Agartala",
+        "Role": "Secretary"
+      }
+    ]
+  }
+  

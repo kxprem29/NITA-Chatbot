@@ -1,0 +1,31 @@
+{
+    "department": "Computer Science and Engineering",
+    "programmes": {
+      "under_graduate": [
+        {
+          "course_name": "B.Tech in Computer Science & Engineering",
+          "duration": "4 years"
+        }
+      ],
+      "post_graduate": [
+        {
+          "course_name": "M.Tech specialization in Artificial Intelligence, Computer Science & Engineering",
+          "duration": "2 years"
+        },
+        {
+          "course_name": "M.Tech specialization in Cyber Security, Computer Science & Engineering",
+          "duration": "2 years"
+        },
+        {
+          "course_name": "M.Tech specialization in Data Science and Engineering, Computer Science & Engineering",
+          "duration": "2 years"
+        },
+        {
+          "course_name": "Master of Computer Application Programme",
+          "duration": "3 years"
+        }
+      ],
+      "phd_programmes": true
+    }
+  }
+  

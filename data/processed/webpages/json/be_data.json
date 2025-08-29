@@ -1,0 +1,54 @@
+{
+    "Department": "Bio Engineering",
+    "Programmes": [
+      {
+        "name": "B.Tech in Biotechnology & Biochemical Engineering",
+        "duration": "4 Years",
+        "level": "Under Graduate"
+      },
+      {
+        "name": "M.Tech in Biotechnology & Biochemical Engineering",
+        "duration": "2 Years",
+        "level": "Post Graduate"
+      },
+      {
+        "name": "Ph.D. in Bio Engineering",
+        "duration": "Variable",
+        "level": "Doctoral"
+      }
+    ],
+    "ProgramOutcomes": {
+      "full_form": "POs - Program Outcomes",
+      "list": [
+        "Ability to apply knowledge of mathematics, science and engineering techniques in biological systems with an understanding of working mechanisms and recent advancements.",
+        "Ability to analyze problems involving biological systems using principles of science, engineering and mathematics.",
+        "Ability to design and conduct experiments, interpret and analyze data to provide solutions in bioengineering.",
+        "Knowledge and exposure to laboratory techniques, biomedical/process equipment, and computational tools for analyzing biological systems.",
+        "Expertise in handling modern equipment and computational tools for prediction and analysis of complex bioengineering problems.",
+        "Ability to assess health-related, legal and cultural issues and contribute to medical sectors in society.",
+        "Techniques to tackle pollution and contribute to sustainable development.",
+        "Understanding of ethical issues in biological sciences and bioengineering and ability to apply professional ethics.",
+        "Ability to function as both an individual and as part of a team in multi-disciplinary settings.",
+        "Ability to communicate efficiently with society through reports, documentation, and presentations.",
+        "Ability to apply engineering and management principles to manage projects in multi-disciplinary environments.",
+        "Impetus for lifelong learning in the context of technological changes."
+      ]
+    },
+    "ProgramEducationalObjectives": {
+      "full_form": "PEOs - Program Educational Objectives",
+      "list": [
+        "Impart knowledge about applications of engineering techniques in biological systems.",
+        "Attain knowledge and expertise to work efficiently in biotechnological, biochemical and biomedical industries.",
+        "Prepare students to pursue higher studies in bioengineering.",
+        "Develop capabilities to work in research and development organizations."
+      ]
+    },
+    "ProgramSpecificObjectives": {
+      "full_form": "PSOs - Program Specific Objectives",
+      "list": [
+        "Learn protocols and employ engineering principles to solve industry-relevant bioengineering problems.",
+        "Learn to design and develop equipment, experiments, and computational approaches in bioengineering."
+      ]
+    }
+  }
+  

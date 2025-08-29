@@ -1,0 +1,42 @@
+{
+    "AlumniDatabase": {
+      "Statistics": {
+        "YearRange": "1970-2024",
+        "Degrees": [
+          {
+            "Degree": "Bachelor of Technology",
+            "TotalAlumni": 12230
+          },
+          {
+            "Degree": "BS-MS",
+            "TotalAlumni": 307
+          },
+          {
+            "Degree": "BT-MT",
+            "TotalAlumni": 95
+          },
+          {
+            "Degree": "Master of Technology",
+            "TotalAlumni": 1979
+          },
+          {
+            "Degree": "M.Sc",
+            "TotalAlumni": 255
+          },
+          {
+            "Degree": "MBA",
+            "TotalAlumni": 229
+          },
+          {
+            "Degree": "MCA",
+            "TotalAlumni": 215
+          },
+          {
+            "Degree": "Ph.D",
+            "TotalAlumni": 345
+          }
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,47 @@
+{
+    "Office": "Library Section",
+    "People": [
+      {
+        "Name": "Prof. Umesh Mishra",
+        "Designation": "Chairman Library & Professor, Civil Engineering Department",
+        "Email": "umeshmishra2010@gmail.com"
+      },
+      {
+        "Name": "Dr. Neeraj Sharma",
+        "Designation": "Vice Chairman Library & Associate Professor, Production Engineering Department",
+        "Email": "nsharma.pe@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Praveen Shukla",
+        "Designation": "Deputy Librarian",
+        "Email": ["praveenshuklalibrarian@gmail.com", "praveenshukla@nita.ac.in"]
+      },
+      {
+        "Name": "Mr. Supriya Pradhan",
+        "Designation": "Assistant Librarian",
+        "Email": ["supriyapradhanlib@gmail.com", "supriyapradhan@nita.ac.in"]
+      },
+      {
+        "Name": "Mr. Anirban Sarma Roy",
+        "Designation": "Library Assistant (Contractual)",
+        "Email": "a_s_roy2002@rediffmail.com"
+      },
+      {
+        "Name": "Mrs. Purnima Singha",
+        "Designation": "Library Assistant (Contractual)",
+        "Email": "singhapurnima123@gmail.com"
+      },
+      {
+        "Name": "Mr. Bidyut Choudhuri",
+        "Designation": "Library Assistant (Contractual)",
+        "Email": "bidhyutchow12@gmail.com"
+      },
+      {
+        "Name": "Mrs. Rupa Debnath",
+        "Designation": "Library Assistant (Contractual)",
+        "Email": "rupad.nath29m@gmail.com"
+      }
+    ],
+    "QueriesEmail": "referencenitalibrary@gmail.com"
+  }
+  

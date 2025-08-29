@@ -1,0 +1,34 @@
+{
+    "Office": "Office of Director",
+    "People": [
+      {
+        "Name": "Prof. Sarat Kumar Patra",
+        "Designation": "Director",
+        "Email": ["nita.director@gmail.com", "director@nita.ac.in"],
+        "Phone": "0381-2546630",
+        "Fax": "0381-2546360"
+      },
+      {
+        "Name": "Mr. Jyotilal Debbarma",
+        "Designation": "PA to Director",
+        "Email": "patodirector@nita.ac.in",
+        "Phone": "0381-2546630",
+        "Fax": "0381-2546360",
+        "Mobile": "+91-9436126548"
+      },
+      {
+        "Name": "Shri Bidyut Kumar Ghosh",
+        "Designation": "Junior Assistant (Contractual)",
+        "Phone": "0381-2546630",
+        "Fax": "0381-2546360",
+        "Mobile": "+91-9436450809"
+      },
+      {
+        "Name": "Smt. Shampa Pal (Bhowmik)",
+        "Designation": "Junior Assistant (Contractual)",
+        "Phone": "0381-2546630",
+        "Fax": "0381-2546360"
+      }
+    ]
+  }
+  

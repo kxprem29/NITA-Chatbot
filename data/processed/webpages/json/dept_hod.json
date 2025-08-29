@@ -1,0 +1,87 @@
+[
+    {
+      "department_short": "BE",
+      "department_full": "BioTech Engineering",
+      "role": "HOD",
+      "name": "Dr. Tarun Kanti Bandyopadhyay"
+    },
+    {
+      "department_short": "ChE",
+      "department_full": "Chemical Engineering",
+      "role": "HOD",
+      "name": "Dr. Soma Nag"
+    },
+    {
+      "department_short": "CE",
+      "department_full": "Civil Engineering",
+      "role": "HOD",
+      "name": "Dr. Deb Dulal Tripura"
+    },
+    {
+      "department_short": "PE",
+      "department_full": "Production Engineering",
+      "role": "HOD",
+      "name": "Prof. Rabindra Narayan Mahapatra"
+    },
+    {
+      "department_short": "CSE",
+      "department_full": "Computer Science & Engineering",
+      "role": "HOD",
+      "name": "Prof. Mrinal Kanti Deb Barma"
+    },
+    {
+      "department_short": "MCA",
+      "department_full": "Master of Computer Applications",
+      "role": "HOD",
+      "name": "Prof. Mrinal Kanti Deb Barma"
+    },
+    {
+      "department_short": "EE",
+      "department_full": "Electrical Engineering",
+      "role": "HOD",
+      "name": "Dr. Sumita Deb"
+    },
+    {
+      "department_short": "ECE",
+      "department_full": "Electronics & Communication Engineering",
+      "role": "HOD",
+      "name": "Dr. Atanu Chowdhury"
+    },
+    {
+      "department_short": "EIE",
+      "department_full": "Electronics & Instrumentation Engineering",
+      "role": "HOD",
+      "name": "Dr. Jayanta Kumar Rakshit"
+    },
+    {
+      "department_short": "ME",
+      "department_full": "Mechanical Engineering",
+      "role": "HOD",
+      "name": "Dr. Rajsekhar Panua"
+    },
+    {
+      "department_short": "MHSS",
+      "department_full": "Management, Humanities & Social Sciences",
+      "role": "HOD",
+      "name": "Dr. Gyanabati Khuraijam"
+    },
+    {
+      "department_short": "PHY",
+      "department_full": "Physics",
+      "role": "HOD",
+      "name": "Dr. Biswajit Saha"
+    },
+    {
+      "department_short": "CHEM",
+      "department_full": "Chemistry",
+      "role": "HOD",
+      "name": "Dr. Mithun Roy"
+    },
+    {
+      "department_short": "MATH",
+      "department_full": "Mathematics",
+      "role": "HOD",
+      "name": "Dr. Uttam Kumar Bera"
+    }
+  ]
+  

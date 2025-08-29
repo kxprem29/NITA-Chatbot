@@ -1,0 +1,18 @@
+{
+    "Office": "International Guest House",
+    "Description": "Welcome to the International Guest House of NIT Agartala. The Guest House aims to provide a pleasant, comfortable, and memorable stay with personalized service.",
+    "ContactEmail": "ighnita@gmail.com",
+    "People": [
+      {
+        "Name": "Dr. Dipanakar Sarkar",
+        "Designation": "Chairman Guest House",
+        "Email": "dipankarnita@gmail.com"
+      },
+      {
+        "Name": "Sri Sanjoy Ghosh",
+        "Designation": "Caretaker Guest House",
+        "Mobile": "9436506949"
+      }
+    ]
+  }
+  

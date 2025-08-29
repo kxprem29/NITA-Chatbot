@@ -1,0 +1,101 @@
+{
+    "CSE_Department": {
+      "Total_Faculty": 22,
+      "HOD": {
+        "Name": "Prof. Mrinal Kanti Deb Barma",
+        "Email": "mkdb06@gmail.com"
+      },
+      "Associate_Professors": [
+        {
+          "Name": "Dr. Ashim Saha",
+          "Email": "ashim.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Diptendu Bhattacharya",
+          "Email": "diptendu.nita@gmail.com"
+        },
+        {
+          "Name": "Dr. SWAPAN DEBBARMA",
+          "Email": "swapanxavier@gmail.com"
+        },
+        {
+          "Name": "Dr. Munesh Chandra",
+          "Email": "drmunesh.nita@gmail.com",
+          "Status": "In Lien"
+        }
+      ],
+      "Assistant_Professors": [
+        {
+          "Name": "Dr. Anupam Jamatia",
+          "Email": "anupamjamatia@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Awnish Kumar",
+          "Email": "awnish.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Dwijen Rudrapal",
+          "Email": "dwijen.rudrapal@gmail.com"
+        },
+        {
+          "Name": "Dr. Jayakumar L",
+          "Email": "jayakumar@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Kunal Chakma",
+          "Email": "kchakma.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Nikhil Debbarma",
+          "Email": "nikhildb@rediffmail.com"
+        },
+        {
+          "Name": "Dr. Nirmalya Kar",
+          "Email": "nirmalya@ieee.org"
+        },
+        {
+          "Name": "Dr. Ranjita Das",
+          "Email": "ranjita.nitm@gmail.com"
+        },
+        {
+          "Name": "Dr. Smita Das",
+          "Email": "smitadas.nita@gmail.com"
+        },
+        {
+          "Name": "Dr. Suman Deb",
+          "Email": "sumandeb.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Suyel Namasudra",
+          "Email": "suyel.namasudra@nita.ac.in"
+        },
+        {
+          "Name": "Mr. Tribid Debbarma",
+          "Email": "tribid@nita.ac.in"
+        }
+      ],
+      "Contractual_Assistant_Professors": [
+        {
+          "Name": "Dr. Dhrubajyoti Bhowmik",
+          "Email": "babanbhowmik@gmail.com"
+        },
+        {
+          "Name": "Dr. Kishore Kumar Dhar",
+          "Email": "kkdhar82@gmail.com"
+        },
+        {
+          "Name": "Dr. Moumita Majumder",
+          "Email": "moumita2003@rediffmail.com"
+        },
+        {
+          "Name": "Dr. Prashant Bhardwaj",
+          "Email": "prashant.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Tannistha Pal",
+          "Email": "tannisthapaul@gmail.com"
+        }
+      ]
+    }
+  }
+  

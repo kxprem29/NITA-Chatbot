@@ -1,0 +1,19 @@
+{
+    "department": "Chemical Engineering",
+    "facilities": {
+      "laboratories": {
+        "undergraduate": [
+          {
+            "name": "Mechanical Operation Laboratory",
+            "description": "Provides chemical engineering students the opportunity to observe, analyze and apply their engineering knowledge and training to the operation of equipment and processes commonly found in many chemical industries."
+          }
+        ]
+      },
+      "library": {
+        "name": "Departmental Library",
+        "description": "In addition to the Central Library of the institute, the departmental library has a broad and eclectic collection of books and research articles covering different aspects of chemical engineering to assist students in enriching their knowledge and ideas.",
+        "collection": "Several textbooks, reference books, and research articles available in both hard and soft copies."
+      }
+    }
+  }
+  

@@ -1,0 +1,187 @@
+{
+    "CentralResearchFacility": {
+      "Institute": "NIT Agartala",
+      "About": "CRF provides access to high-end scientific instruments for research, testing, and academic purposes.",
+      "Instruments": [
+        {
+          "Name": "Scanning Electron Microscope (SEM)",
+          "Charges": {
+            "InstrumentTimePerSample": {
+              "Industry": 5000,
+              "NationalLaboratory": 2500,
+              "AcademicInstitutes": 2000,
+              "NITA": 450
+            },
+            "InstrumentTimePerSampleWithEDS": {
+              "Industry": 6000,
+              "NationalLaboratory": 2750,
+              "AcademicInstitutes": 2500,
+              "NITA": 550
+            },
+            "PerAdditionalEDSSpot": {
+              "Industry": 500,
+              "NationalLaboratory": 400,
+              "AcademicInstitutes": 300,
+              "NITA": 50
+            },
+            "GoldCoatingPerRunUpTo8Stubs": {
+              "Industry": 500,
+              "NationalLaboratory": 300,
+              "AcademicInstitutes": 200,
+              "NITA": 30
+            }
+          }
+        },
+        {
+          "Name": "Atomic Force Microscopy (AFM)",
+          "ChargesPerSample": {
+            "Industry": 4000,
+            "NationalLaboratory": 2000,
+            "AcademicInstitutes": 1500,
+            "NITA": 200
+          }
+        },
+        {
+          "Name": "Transmission Electron Microscope (TEM)",
+          "Charges": {
+            "InstrumentTimePerSamplePerHour": {
+              "Industry": 6000,
+              "NationalLaboratory": 2500,
+              "AcademicInstitutes": 1500,
+              "NITA": 300
+            },
+            "InstrumentTimeWithEDSFirstTwoSpots": {
+              "Industry": 7000,
+              "NationalLaboratory": 3000,
+              "AcademicInstitutes": 2000,
+              "NITA": 350
+            }
+          }
+        },
+        {
+          "Name": "Liquid Nitrogen",
+          "ChargesPerSample": {
+            "Industry": "125/Lit",
+            "NationalLaboratory": "60/Lit",
+            "AcademicInstitutes": "50/Lit",
+            "NITA": "Nil"
+          }
+        },
+        {
+          "Name": "X-ray Diffractometer (XRD)",
+          "ChargesPerSample": {
+            "Industry": 3000,
+            "NationalLaboratory": 1500,
+            "AcademicInstitutes": 1000,
+            "NITA": 250
+          }
+        },
+        {
+          "Name": "SonTek 16-MHz Micro ADV",
+          "ChargesPerSample": {
+            "Industry": 300,
+            "NationalLaboratory": 200,
+            "AcademicInstitutes": 200,
+            "NITA": "Nil"
+          }
+        },
+        {
+          "Name": "WaterLog Seven Sensor Weather Station",
+          "ChargesPerSample": {
+            "Industry": 300,
+            "NationalLaboratory": 200,
+            "AcademicInstitutes": 200,
+            "NITA": "Nil"
+          }
+        },
+        {
+          "Name": "YSI 6600 Sonde Multiparameter Water Quality Analyzer",
+          "ChargesPerSample": {
+            "Industry": 300,
+            "NationalLaboratory": 200,
+            "AcademicInstitutes": 200,
+            "NITA": "Nil"
+          }
+        },
+        {
+          "Name": "SonTek River Surveyor M9",
+          "ChargesPerSample": {
+            "Industry": 300,
+            "NationalLaboratory": 200,
+            "AcademicInstitutes": 200,
+            "NITA": 200
+          }
+        },
+        {
+          "Name": "Ellipsometer with Accessories",
+          "ChargesPerSample": {
+            "Industry": 500,
+            "NationalLaboratory": 400,
+            "AcademicInstitutes": 300,
+            "NITA": 150
+          }
+        },
+        {
+          "Name": "Optical Spectrum Analyzer",
+          "ChargesPerSample": {
+            "Industry": 500,
+            "NationalLaboratory": 400,
+            "AcademicInstitutes": 300,
+            "NITA": 150
+          }
+        },
+        {
+          "Name": "UV/Vis Spectrophotometer",
+          "ChargesPerSample": {
+            "Industry": 500,
+            "NationalLaboratory": 400,
+            "AcademicInstitutes": 300,
+            "NITA": 150
+          }
+        },
+        {
+          "Name": "Precision PCB Board Maker With 50 micron Line/Space",
+          "Charges": {
+            "PCBSizeLessThan4SqcmSingleSide": {
+              "Industry": 1200,
+              "NationalLaboratory": 600,
+              "AcademicInstitutes": 400,
+              "NITA": 150
+            },
+            "PCBSizeLessThan4SqcmDoubleSide": {
+              "Industry": 1500,
+              "NationalLaboratory": 800,
+              "AcademicInstitutes": 500,
+              "NITA": 200
+            },
+            "PCBSizeLessThan25SqcmSingleSide": {
+              "Industry": 2000,
+              "NationalLaboratory": 1000,
+              "AcademicInstitutes": 700,
+              "NITA": 300
+            },
+            "PCBSizeLessThan25SqcmDoubleSide": {
+              "Industry": 2500,
+              "NationalLaboratory": 1200,
+              "AcademicInstitutes": 800,
+              "NITA": 400
+            }
+          }
+        }
+      ],
+      "Notes": [
+        "Printed copy of analysis report & data CD through speed post; postal charges extra as actual cost.",
+        "Sample registration is subject to advance payment only.",
+        "GST @18% applicable extra.",
+        "For other relevant information, contact instrument-in-charge/operators."
+      ],
+      "PaymentDetails": {
+        "AccountName": "NITA NON-PLAN FUND",
+        "AccountNumber": "30369892838",
+        "Branch": "NIT Agartala (011491)",
+        "IFSCCode": "SBIN0011491",
+        "MICRCode": "799002525"
+      }
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "Office": "Alumni Affairs",
+    "People": [
+      {
+        "Name": "Prof. (Dr.) Richi Prasad Sharma",
+        "Designation": "Chairman, Alumni Affairs & Professor, Civil Engineering Department",
+        "Email": ["rps.civil@nita.ac.in", "alumniaffairs@nita.ac.in"]
+      },
+      {
+        "Name": "Dr. Kunal Chakma",
+        "Designation": "Vice Chairman, Alumni Affairs & Assistant Professor, CSE Department",
+        "Email": ["kchakma.cse@nita.ac.in", "alumniaffairs@nita.ac.in"]
+      }
+    ]
+  }
+  
