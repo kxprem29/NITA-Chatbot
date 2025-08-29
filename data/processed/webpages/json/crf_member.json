@@ -1,0 +1,97 @@
+{
+    "CentralResearchFacility": {
+      "Chairman": {
+        "Name": "Dr. Kalyan Gayen",
+        "Role": "Chairman CRF (Central Research Facility)",
+        "Email": "chairmancrfnitagartala@gmail.com"
+      },
+      "Instruments": [
+        {
+          "Name": "Scanning Electron Microscope (SEM)",
+          "FacultyInCharge": [
+            {"Name": "Dr. Tridib Kumar Bhowmick", "Email": "tbhowmick@gmail.com"},
+            {"Name": "Dr. Kalyan Gayen", "Role": "Associate Faculty-in-charge", "Email": "kgayen123@gmail.com"}
+          ],
+          "TechnicalOperator": {"Name": "Mr. Biswanath Karmakar", "Email": "bk20612@gmail.com"}
+        },
+        {
+          "Name": "Transmission Electron Microscope (TEM)",
+          "FacultyInCharge": [
+            {"Name": "Dr. Tarun Kumar Misra", "Email": "tkmisra70@yahoo.com"},
+            {"Name": "Dr. Kamalesh Debnath", "Role": "Associate Faculty-in-charge", "Email": "kamalesh79.nit@gmail.com"},
+            {"Name": "Dr. Debanjan Acharya", "Role": "Associate Faculty-in-charge", "Email": "iammdebanjan@gmail.com"}
+          ],
+          "TechnicalOperator": {"Name": "Mr. Sudip Paul", "Email": "tem.crf.nita18@gmail.com"}
+        },
+        {
+          "Name": "X-ray Diffractometer (X-RD)",
+          "FacultyInCharge": [
+            {"Name": "Dr. Biswajit Saha", "Email": "biswajit.physics@gmail.com"},
+            {"Name": "Dr. Sujoy Chakraborty", "Role": "Associate Faculty-in-charge", "Email": "ersujoymech05@gmail.com"},
+            {"Name": "Dr. Suresh Mamidi", "Role": "Associate Faculty-in-charge", "Email": "sureshm2k10@gmail.com"}
+          ]
+        },
+        {
+          "Name": "Atomic Force Microscopy (AFM)",
+          "FacultyInCharge": [
+            {"Name": "Dr. Suvra Prakash Mondal", "Email": "suvraphy@gmail.com"},
+            {"Name": "Dr. Debanjan Acharya", "Role": "Associate Faculty-in-charge", "Email": "iammdebanjan@gmail.com"}
+          ]
+        },
+        {
+          "Name": "Liquid Nitrogen",
+          "FacultyInCharge": [
+            {"Name": "Dr. Tridib Kumar Bhowmick", "Email": "tbhowmick@gmail.com"},
+            {"Name": "Dr. Jawahar Paulraj", "Role": "Associate Faculty-in-charge", "Email": "dr.p.jawahar@gmail.com"}
+          ]
+        },
+        {
+          "Name": "De-ionized Water Plant",
+          "FacultyInCharge": [
+            {"Name": "Dr. Ardhendu Saha", "Email": "arsagtwave@gmail.com"},
+            {"Name": "Dr. Nabamita Goswami", "Role": "Associate Faculty-in-charge", "Email": "nabamita08@rediffmail.com"}
+          ]
+        },
+        {
+          "Name": "Micro ADV",
+          "FacultyInCharge": [
+            {"Name": "Dr. Mrinmoy Majumder", "Email": "mmajumder15@gmail.com"},
+            {"Name": "Dr. Tilottama Chakraborty", "Role": "Associate Faculty-in-charge", "Email": "tilottama86@gmail.com"}
+          ]
+        },
+        {
+          "Name": "FTIR",
+          "FacultyInCharge": [
+            {"Name": "Dr. Srimanta Ray", "Email": "rays.nita@gmail.com"},
+            {"Name": "Dr. Suresh Mamidi", "Role": "Associate Faculty-in-charge", "Email": "sureshm2k10@gmail.com"}
+          ]
+        },
+        {
+          "Name": "PCB",
+          "FacultyInCharge": [
+            {"Name": "Dr. Sambhu Nath Pradhan", "Email": "sambhu.pradhan@gmail.com"},
+            {"Name": "Dr. Kamalesh Debnath", "Role": "Associate Faculty-in-charge", "Email": "kamalesh79.nit@gmail.com"}
+          ]
+        },
+        {
+          "Name": "Ellipsometer"
+        },
+        {
+          "Name": "Optical Spectrum Analyzer"
+        },
+        {
+          "Name": "UV/Vis Spectrophotometer"
+        },
+        {
+          "Name": "River Surveyor"
+        },
+        {
+          "Name": "Weather Station"
+        },
+        {
+          "Name": "Water Quality Analyzer"
+        }
+      ]
+    }
+  }
+  

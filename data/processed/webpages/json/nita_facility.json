@@ -1,0 +1,60 @@
+{
+    "Facilities": {
+      "Location": {
+        "Description": "The Institute is located amidst serene greenery with picturesque natural beauty.",
+        "DistanceFromHighway_km": 4,
+        "DistanceFromAgartala_km": 20,
+        "Connectivity": {
+          "Air": ["Kolkata", "Delhi", "Chennai", "Bangalore", "Hyderabad", "Guwahati", "Imphal"],
+          "Rail": "Nearest station: Jirania",
+          "Road": "Well-connected with the rest of the country"
+        }
+      },
+      "Academic_Infrastructure": {
+        "Library": "Centralized Library (Knowledge Centre)",
+        "ComputerLaboratories": "Available department-wise",
+        "Workshops": "Well-equipped with modern facilities",
+        "Laboratories": "Upgraded with latest instruments",
+        "Internet": "LAN & Wi-Fi across campus"
+      },
+      "Hostels": {
+        "BoysHostels": {
+          "Count": 5,
+          "Capacity": 3000
+        },
+        "GirlsHostels": {
+          "Capacity": 500
+        }
+      },
+      "MedicalCare": {
+        "OnCampus": "Medical Unit with doctors, pharmacists, and supporting staff",
+        "EmergencySupport": {
+          "JiraniaRuralHospital": "4 km away (Primary Health Centre)",
+          "StateHospitalAgartala": "For serious cases"
+        }
+      },
+      "Banking_PostOffice": {
+        "Banks": [
+          "State Bank of India (Branch + ATM)",
+          "Canara Bank (Branch + ATM)",
+          "Punjab & Sindh Bank (ATM only)",
+          "Tripura Gramin Bank (Branch)"
+        ],
+        "PostOffice": {
+          "Name": "NIT, Agartala Sub-Post Office",
+          "PIN": "799046"
+        }
+      },
+      "ExtraCurricular": {
+        "Activities": [
+          "Sports & Games",
+          "Techno-Cultural Festivals",
+          "Essay, Drama & Debate Competitions",
+          "Rallies and Awareness Drives",
+          "NSS Programmes"
+        ],
+        "CompulsoryForFirstYear": ["NSS", "NCC"]
+      }
+    }
+  }
+  

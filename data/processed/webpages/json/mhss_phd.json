@@ -1,0 +1,28 @@
+{
+    "department": "Management, Humanities & Social Sciences (MHSS)",
+    "programme": "Ph.D.",
+    "modes": ["Full-Time", "Part-Time", "Self-Sponsored"],
+    "admission_cycle": ["June", "December"],
+    "fields": {
+      "Humanities & Social Sciences": {
+        "eligibility": {
+          "qualification": "Master’s degree in relevant discipline",
+          "criteria": [
+            "Minimum 60% marks or 6.5 CGPA (10-point scale)",
+            "OR 55% marks (6.0 CGPA out of 10) with UGC/CSIR-NET/NBHM (valid for year of admission)"
+          ],
+          "preference": "NET qualified candidates"
+        }
+      },
+      "Management": {
+        "eligibility": {
+          "qualification": "MBA or 2-year Post Graduate Diploma in Management (PGDM)",
+          "criteria": [
+            "Minimum 60% marks or 6.5 CGPA (10-point scale)"
+          ],
+          "preference": "GATE or NET qualified candidates"
+        }
+      }
+    }
+  }
+  

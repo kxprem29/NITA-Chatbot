@@ -1,0 +1,44 @@
+{
+    "Office_of_Registrar": {
+      "List_of_People": [
+        {
+          "Name": "Col.(Dr.) Ashish Badola",
+          "Designation": "Registrar",
+          "Email": [
+            "registrarnita@rediffmail.com",
+            "registrar@nita.ac.in"
+          ],
+          "Phone": [
+            "0381 2546629",
+            "0381 2548512 (Fax)"
+          ]
+        },
+        {
+          "Name": "Mr. Tanmoy Ghosal",
+          "Designation": "Deputy Registrar (F&A)",
+          "Email": "tanmoyg@nita.ac.in",
+          "Phone": [
+            "0381 2546629",
+            "0381 2548512 (Fax)"
+          ]
+        },
+        {
+          "Name": "Mr. Manish Kumar",
+          "Designation": "Deputy Registrar (Admin)",
+          "Phone": [
+            "0381 2546629",
+            "0381 2548512 (Fax)"
+          ]
+        },
+        {
+          "Name": "Mrs. Kaninika Banik",
+          "Designation": "Office Assistant (Contractual)",
+          "Phone": [
+            "0381 2546629",
+            "0381 2548512 (Fax)"
+          ]
+        }
+      ]
+    }
+  }
+  

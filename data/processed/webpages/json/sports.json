@@ -1,0 +1,22 @@
+{
+    "Office": "Sports at NIT Agartala",
+    "Description": "NIT Agartala is renowned for its dynamic sports culture that emphasizes physical fitness, sportsmanship, and the holistic development of students. The institute provides top-notch sports facilities including the Atal Bihari Vajpayee Sports Complex, a state-of-the-art hub for athletic and recreational activities, promoting teamwork and all-round growth.",
+    "People": [
+      {
+        "Name": "Mr. Abhishek Kr. Yadav",
+        "Designation": "Student Activity & Sports Officer",
+        "Email": "sasofficer.nita@gmail.com"
+      },
+      {
+        "Name": "Mr. Sukanta Goswami",
+        "Designation": "Physical Education Officer (Contractual)",
+        "Email": "sukanta4sports@gmail.com"
+      },
+      {
+        "Name": "Mr. Anupam Pal",
+        "Designation": "Sports Officer (Contractual)",
+        "Email": "anupampal215@gmail.com"
+      }
+    ]
+  }
+  

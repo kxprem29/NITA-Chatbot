@@ -1,0 +1,22 @@
+{
+    "department": "Management, Humanities & Social Sciences",
+    "contact_information": {
+      "address": "Dept. of Management Humanities and Social Sciences (MHSS), Central Library Building, Golden Jubilee Knowledge Center (2nd Floor), NIT Agartala Campus, Jirania, West Tripura, Tripura, India, Pin: 799046",
+      "email": [
+        "nita.mhss@gmail.com",
+        "hod.mhss@nita.ac.in"
+      ],
+      "phone": "+91 381 2548534",
+      "mba_admission_queries": [
+        {
+          "name": "Dr. Kaju Nath",
+          "mobile": "7629914581"
+        },
+        {
+          "name": "Mr. Nabendu Debnath",
+          "mobile": "9856590795"
+        }
+      ]
+    }
+  }
+  

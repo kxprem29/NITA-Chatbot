@@ -1,0 +1,64 @@
+{
+    "Computing_ICT_Unit": {
+      "Description": "The Computing & ICT Unit of NIT Agartala manages the network services, website, and other domain related activity in the Institute.",
+      "Major_Tasks": [
+        "Providing the internet services to the Institute.",
+        "Providing the institute email services for employees and research students of the Institute.",
+        "Hosting and managing the Institute website.",
+        "Running all useful and essential services like naming services, DHCP services, firewall, web application services, etc.",
+        "Providing the facility of Net based installation of major operating systems and other software to the Institute.",
+        "Providing the support to the technical team of the companies visiting for campus placement of students."
+      ],
+      "People": [
+        {
+          "Name": "Dr. Ashim Saha",
+          "Designation": "Chairman (Computing & ICT Unit) & Nodal Officer, NKN & Associate Professor, CSE Department",
+          "Email": "ashim.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Kunal Chakma",
+          "Designation": "Faculty In-Charge (Campus Network) & Assistant Professor, CSE Department",
+          "Email": "kchakma.cse@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Sikha Maurya",
+          "Designation": "Faculty In-Charge (Internet Services) & Assistant Professor, ECE Department",
+          "Email": "drshikha.ece@nita.ac.in"
+        },
+        {
+          "Name": "Dr. Ranjita Das",
+          "Designation": "Faculty In-Charge (Computing Infrastructure) & Assistant Professor, CSE Department",
+          "Email": "ranjita.nitm@gmail.com"
+        },
+        {
+          "Name": "Dr. Partha Sarathi Bhattacharjee",
+          "Designation": "Scientific / Technical Officer",
+          "Email": "network.admin@nita.ac.in",
+          "Mobile": "+91-9436181022"
+        },
+        {
+          "Name": "Mr. Kamal Kanti Paul",
+          "Designation": "System Administrator (Contractual)",
+          "Email": "kkpaul.agt@nita.ac.in",
+          "Mobile": "+91-9436463346"
+        },
+        {
+          "Name": "Mr. Sourabh Roy",
+          "Designation": "Technical Assistant, Virtual Class Room (Contractual)",
+          "Email": "sourabh1ry@gmail.com",
+          "Mobile": "+91-7005198869"
+        },
+        {
+          "Name": "Mr. Pramatha Acharjee",
+          "Designation": "Technician (Contractual)",
+          "Email": "417pramatha@gmail.com",
+          "Mobile": "+91-9862999634"
+        }
+      ],
+      "Support": {
+        "Website_Query_Email": "kkpaul.agt@nita.ac.in",
+        "Network_Query_Email": "network.admin@nita.ac.in"
+      }
+    }
+  }
+  

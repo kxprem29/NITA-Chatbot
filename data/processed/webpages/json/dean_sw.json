@@ -1,0 +1,30 @@
+{
+    "Office": "Dean Student Welfare",
+    "People": [
+      {
+        "Name": "Prof. John Deb Barma",
+        "Designation": "Professor, M.E Department & Dean (Student Welfare -1) / Dean SW1 / Dean SW-1",
+        "Email": "debbarma_john@rediffmail.com",
+        "Mobile": "9436120189"
+      },
+      {
+        "Name": "Prof. Arvind Kumar Jain",
+        "Designation": "Professor, Electrical Department & Dean (Student Welfare -2) / Dean SW2 / Dean SW-2",
+        "Email": "arvindjmp@gmail.com"
+      },
+      {
+        "Name": "Mr. R.K. Bhogendro Meitei",
+        "Designation": "Assistant Professor, M.E Department & Chief Warden",
+        "Email": "chiefwardennita@gmail.com"
+      },
+      {
+        "Name": "Dr. Mitra Barun Sarkar",
+        "Designation": "Assistant Professor, E.C.E Department & Associate Dean (Student Welfare)"
+      },
+      {
+        "Name": "Dr. Subrata Kumar Ghosh",
+        "Designation": "Associate Professor, M.E Department & Associate Dean (Student Welfare)"
+      }
+    ]
+  }
+  

@@ -1,0 +1,99 @@
+{
+    "CRF_NIT_Agartala": {
+      "About": "The Central Research Facility (CRF) at NIT Agartala is an integrated center providing state-of-the-art analytical and high-end instruments to support UG, PG, PhD, project students, and researchers from other institutions and industries. The facility ensures technical support from qualified personnel and aims to strengthen research infrastructure and efficiency to international standards.",
+      "Significance": [
+        "Strengthens research infrastructure in Science and Technology.",
+        "Enhances efficiency and quality of research to international standards."
+      ],
+      "Objectives": [
+        "Carry out analysis of samples received from scientists/institutes.",
+        "Provide facilities of sophisticated analytical instruments for academic and industrial R&D.",
+        "Organize short-term courses/workshops on instruments and analytical techniques.",
+        "Train technicians for maintenance and operation of instruments.",
+        "Enable internationally competitive research in Science & Technology."
+      ],
+      "Users": [
+        "Researchers from academic institutions",
+        "Scientists from R&D laboratories",
+        "Industrial researchers requiring analytical services"
+      ],
+      "Instruments": [
+        {
+          "Name": "Scanning Electron Microscope (SEM)",
+          "Faculty_in_charge": "Dr. Tridib Kumar Bhowmick",
+          "Associate_Faculty_in_charge": "Dr. Kalyan Gayen",
+          "Technical_Operator": "Mr. Biswanath Karmakar",
+          "Email": ["tbhowmick@gmail.com", "kgayen123@gmail.com", "bk20612@gmail.com"],
+          "Charges_Rs": {
+            "Industry": 5000,
+            "National_Lab": 2500,
+            "Academic": 2000,
+            "NITA": 450
+          }
+        },
+        {
+          "Name": "Transmission Electron Microscope (TEM)",
+          "Faculty_in_charge": "Dr. Tarun Kumar Misra",
+          "Associate_Faculty_in_charge": ["Dr. Kamalesh Debnath", "Dr. Debanjan Acharya"],
+          "Technical_Operator": "Mr. Sudip Paul",
+          "Email": ["tkmisra70@yahoo.com", "kamalesh79.nit@gmail.com", "iammdebanjan@gmail.com", "tem.crf.nita18@gmail.com"],
+          "Charges_Rs": {
+            "Instrument_time_per_sample_hour": {
+              "Industry": 6000,
+              "National_Lab": 2500,
+              "Academic": 1500,
+              "NITA": 300
+            },
+            "Instrument_time_with_EDS_first_two_spots": {
+              "Industry": 7000,
+              "National_Lab": 3000,
+              "Academic": 2000,
+              "NITA": 350
+            }
+          }
+        },
+        {
+          "Name": "X-ray Diffractometer (XRD)",
+          "Faculty_in_charge": "Dr. Biswajit Saha",
+          "Associate_Faculty_in_charge": ["Dr. Sujoy Chakraborty", "Dr. Suresh Mamidi"],
+          "Email": ["biswajit.physics@gmail.com", "ersujoymech05@gmail.com", "sureshm2k10@gmail.com"],
+          "Charges_Rs": {
+            "Industry": 3000,
+            "National_Lab": 1500,
+            "Academic": 1000,
+            "NITA": 250
+          }
+        },
+        {
+          "Name": "Atomic Force Microscope (AFM)",
+          "Faculty_in_charge": "Dr. Suvra Prakash Mondal",
+          "Associate_Faculty_in_charge": "Dr. Debanjan Acharya",
+          "Email": ["suvraphy@gmail.com", "iammdebanjan@gmail.com"],
+          "Charges_per_sample": {
+            "Industry": 4000,
+            "National_Lab": 2000,
+            "Academic": 1500,
+            "NITA": 200
+          }
+        },
+        {
+          "Name": "Liquid Nitrogen Plant (LNP)",
+          "Faculty_in_charge": "Dr. Tridib Kumar Bhowmick",
+          "Associate_Faculty_in_charge": "Dr. Jawahar Paulraj",
+          "Email": ["tbhowmick@gmail.com", "dr.p.jawahar@gmail.com"],
+          "Charges_per_sample_Liter": {
+            "Industry": 125,
+            "National_Lab": 60,
+            "Academic": 50,
+            "NITA": 0
+          }
+        }
+      ],
+      "Chairman": {
+        "Name": "Dr. Kalyan Gayen",
+        "Role": "Chairman CRF",
+        "Email": "chairmancrfnitagartala@gmail.com"
+      }
+    }
+  }
+  

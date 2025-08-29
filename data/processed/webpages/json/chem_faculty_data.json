@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Dr. Mithun Roy",
+        "designation": "HOD & Associate Professor",
+        "department": "Chemistry",
+        "email": "mithunroy.iisc@gmail.com"
+    },
+    {
+        "name": "Prof. Mitali Saha",
+        "designation": "Professor",
+        "department": "Chemistry",
+        "email": "mitalisah@gmail.com"
+    },
+    {
+        "name": "Prof. TARUN KUMAR MISRA",
+        "designation": "Professor",
+        "department": "Chemistry",
+        "email": "tkmisra70@yahoo.com"
+    },
+    {
+        "name": "Dr. SAROJ KUMAR DAS",
+        "designation": "Associate Professor",
+        "department": "Chemistry",
+        "email": "sdatnit@gmail.com"
+    },
+    {
+        "name": "Dr. Abhishek Koner",
+        "designation": "Assistant Professor",
+        "department": "Chemistry",
+        "email": "abhirkmrc@gmail.com"
+    },
+    {
+        "name": "Dr. VENKATA BHARAT NISHTALA",
+        "designation": "Assistant Professor",
+        "department": "Chemistry",
+        "email": "nvbharatnv@gmail.com"
+    },
+    {
+        "name": "Dr. Chanchal Bhaumik",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "bhaumik.chanchal@gmail.com"
+    },
+    {
+        "name": "Dr. Chitraniva Datta",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "chitranivadatta@gmail.com"
+    },
+    {
+        "name": "Dr. Jhinuk De",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "jhinukde.chemistry@gmail.com"
+    },
+    {
+        "name": "Dr. Manas Roy",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "mroyiitk@gmail.com"
+    },
+    {
+        "name": "Dr. MANOJIT ROY",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "mroychem@gmail.com"
+    },
+    {
+        "name": "Dr. Sajal Kundu",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "kundu12@gmail.com"
+    },
+    {
+        "name": "Dr. Subhojit Das",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "subhojit.chem@gmail.com"
+    },
+    {
+        "name": "Dr. Susanta Ghanta",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemistry",
+        "email": "susanta.ghanta82@gmail.com"
+    }
+]

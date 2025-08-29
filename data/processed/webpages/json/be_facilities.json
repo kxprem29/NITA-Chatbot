@@ -1,0 +1,32 @@
+{
+    "department": "Bio Engineering",
+    "facilities": {
+      "undergraduate_laboratory_facility": [
+        "High speed table-top centrifuge (Sigma)",
+        "High speed refrigerated centrifuge (Sigma)",
+        "ELISA plate reader (Diatek)",
+        "Variable volume micropipettes (Tarson)",
+        "Bench top BOD incubator with shaker (Scigenics)",
+        "Hot water bath (OVFU)",
+        "-200°C refrigerator (Celfrost)",
+        "Vertical Type Laminar Flow Cabinet (ESCO)",
+        "Double beam UV-VIS spectrophotometer (Thermo fisher scientific)",
+        "Water purification system (Elga labwater)",
+        "Shaker",
+        "Fridge (40°C)",
+        "DNA gel electrophoresis",
+        "DNA gel visualizing unit",
+        "Optical microscope",
+        "Weighing machine",
+        "Basic pH meter",
+        "Oil free vacuum pump",
+        "Autoclave",
+        "Drying oven",
+        "Micro oven",
+        "Magnetic stirrer",
+        "Western blot",
+        "Protein gel electrophoresis"
+      ]
+    }
+  }
+  

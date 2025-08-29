@@ -1,0 +1,24 @@
+{
+    "Office": "Purchase Section",
+    "People": [
+      {
+        "Name": "Mr. N Venkatasivakumar Hari",
+        "Designation": "Assistant Registrar, Admin-2 & Asst. Registrar(Purchase)-cum-Sectional Head (Purchase)",
+        "Email": [
+          "arsiva.admin@nita.ac.in",
+          "arsivanita@gmail.com"
+        ]
+      },
+      {
+        "Name": "Mr. Nabin Chandra Kundu",
+        "Designation": "Section Officer, Purchase (Contractual) & Officer-In-Charge (Central Store)",
+        "Email": "nitapurchasesection2@gmail.com"
+      },
+      {
+        "Name": "Mr. Sujoy Dey",
+        "Designation": "Jr. Assistant-cum-Hostel Supervisor (Contractual)",
+        "Email": "nitapurchasesection2@gmail.com"
+      }
+    ]
+  }
+  

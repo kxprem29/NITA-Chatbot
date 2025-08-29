@@ -1,0 +1,155 @@
+{
+    "CRF_Instruments": [
+      {
+        "Sl_No": 1,
+        "Instrument": "Scanning Electron Microscope (SEM)",
+        "Specification": {
+          "Make": "FEI MICROSCOPE",
+          "Model": "Nova NanoSEM 450"
+        },
+        "Status": "Under Maintenance"
+      },
+      {
+        "Sl_No": 2,
+        "Instrument": "Transmission Electron Microscope (TEM)",
+        "Specification": {
+          "Capabilities": [
+            "Bright and dark field images",
+            "Selected area electron diffraction patterns",
+            "Energy Dispersive X-ray Spectroscopy"
+          ]
+        },
+        "Status": "Under Maintenance"
+      },
+      {
+        "Sl_No": 3,
+        "Instrument": "Atomic Force Microscopy (AFM)",
+        "Specification": {
+          "Make": "Bruker",
+          "Model": "Multimode 8"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 4,
+        "Instrument": "X-ray Diffractometer (XRD)",
+        "Specification": {
+          "X-ray_Source": "Cu-Kα radiation (λ=1.54Å)",
+          "Operating_Voltage": "40 kV",
+          "Operating_Current": "40 mA",
+          "Stage": "Equipment for powder materials and thin films",
+          "Chiller": "Dedicated chiller for X-ray tube temperature control"
+        },
+        "Status": "Under Maintenance"
+      },
+      {
+        "Sl_No": 5,
+        "Instrument": "De-ionized Water Plant",
+        "Specification": {
+          "Model": "Milli-Q® Direct 8 Water Purification System",
+          "Company": "Millipore S.A.S, France"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 6,
+        "Instrument": "SonTek 16-MHz Micro ADV",
+        "Specification": {
+          "Description": "Acoustic Doppler Velocimeter for 3-axis (3D) current measurement"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 7,
+        "Instrument": "SonTek River Surveyor M9",
+        "Specification": {
+          "Description": "River discharge measurement system without traditional limitations"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 8,
+        "Instrument": "WaterLog Seven Sensor Weather Station",
+        "Specification": {
+          "Description": "Weather sensors designed for extreme conditions worldwide"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 9,
+        "Instrument": "YSI 6600 Sonde Multiparameter Water Quality Analyzer",
+        "Specification": {
+          "Capabilities": [
+            "Conductivity (salinity)",
+            "Temperature",
+            "Depth or level",
+            "pH/ORP measurement"
+          ]
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 10,
+        "Instrument": "Liquid Nitrogen Generator",
+        "Specification": {
+          "Make": "Kelvin International INC., USA",
+          "Model": "M280x3T-13-0570"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 11,
+        "Instrument": "FTIR",
+        "Specification": {
+          "Make": "Thermo Fisher Scientific Inc.",
+          "Model": "Nicolet iS10 fitted with Smart Omni Transmission",
+          "Working_Range_cm-1": "400-4000"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 12,
+        "Instrument": "Precision PCB Board Maker (50 micron Line/Space)",
+        "Specification": {
+          "Model": "FP-21T Precision",
+          "Make": "MITs Electronics, Japan",
+          "Min_Pattern_Width_mm": 0.05,
+          "Min_Milling_Width_mm": 0.05,
+          "Use": "High-frequency RF/antenna circuits, interdigitated electrodes"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 13,
+        "Instrument": "Ellipsometer with Accessories",
+        "Specification": {
+          "Model": "SE400adv",
+          "Operating_Wavelength_nm": 632.8,
+          "Company": "SENTECH Instruments GmbH, Germany"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 14,
+        "Instrument": "Optical Spectrum Analyzer",
+        "Specification": {
+          "Model_No": "AQ6370C-20-H/FC/RFC/B5",
+          "Serial_No": "91N806362",
+          "Company": "YOKOGAWA"
+        },
+        "Status": "Working"
+      },
+      {
+        "Sl_No": 15,
+        "Instrument": "UV/Vis Spectrophotometer",
+        "Specification": {
+          "Model_No": "LAMBDA 950",
+          "Serial_No": "950N9112802",
+          "Company": "Perkin Elmer",
+          "Operating_Wavelength_Range_nm": "175 - 3300"
+        },
+        "Status": "Working"
+      }
+    ]
+  }
+  

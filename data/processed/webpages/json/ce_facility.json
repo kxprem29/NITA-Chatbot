@@ -1,0 +1,41 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "facilities": {
+      "laboratories": [
+        "Soil Mechanics Laboratory",
+        "Structural Engineering Laboratory",
+        "Transportation Engineering Laboratory",
+        "Environmental Engineering Laboratory",
+        "Solid Mechanics Laboratory",
+        "Surveying Laboratory",
+        "Engineering Geology Laboratory",
+        "Civil Engineering Computer Laboratory",
+        "Water Resources Engineering Laboratory",
+        "Hydro-Informatics Engineering Laboratory",
+        "Seismic Science and Engineering Laboratory"
+      ],
+      "instruments": [
+        "Non-destructive testing instruments",
+        "UTM (Universal Testing Machine)",
+        "UV Spectro Photometer",
+        "Tilting Channel",
+        "Benkelman Beam",
+        "Bump Integrator",
+        "Digital Marshal",
+        "Total Station",
+        "Hand GPS",
+        "Load pad"
+      ],
+      "software_tools": [
+        "GIS",
+        "MX Road",
+        "STAAD Pro",
+        "ANSYS",
+        "AutoCAD"
+      ],
+      "library": {
+        "description": "Departmental library with important books, journals, civil engineering codes (IRC codes, IS codes), and laboratory manuals accessible to students."
+      }
+    }
+  }
+  

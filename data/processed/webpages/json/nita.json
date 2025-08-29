@@ -1,0 +1,43 @@
+{
+    "about": {
+      "description": "The Government of India converted the Tripura Engineering College to National Institute of Technology Agartala on 1st April 2006 vide notification No. F. 20-20/2004/TS III/ dated 10.03.2006 of the Ministry of Human Resources Development (MHRD), Govt. of India. During the conversion, Tripura Engineering College was offering undergraduate degrees in Civil, Mechanical, Electrical, Computer Science Engineering, Electronics & Communication and Production Engineering."
+    },
+    "directors_message": {
+      "description": "The National Institute of Technology Agartala (NITA), an Institute of National Importance (INI) was instituted by Government of India with the mission to herald excellence in technical education and research in the North-East region. The institute was established by the Ministry of Education (MoE) in the era of renaissance in technical education in north east."
+    },
+    "students": {
+      "campus_location": "The Institute is located in the midst of serene greenery about 4 km away from the National Highway and about 20 km from Agartala, the capital city of Tripura.",
+      "connectivity": {
+        "air": "Direct air link with Kolkata, Delhi, Chennai, Bangalore, Hyderabad, Guwahati and Imphal.",
+        "rail": "Nearest railway station from the Institute campus is Jirania.",
+        "road": "Agartala is linked with the rest of the country by road."
+      }
+    },
+    "departments": {
+      "programs": {
+        "b_tech": "9 branches at B.Tech level",
+        "m_tech": "23 specializations in Engineering at Master’s level",
+        "dual_degree": "4 branches in Dual Degree level",
+        "others": ["MBA", "MCA", "M.Sc", "Doctoral Programs"]
+      },
+      "facilities": "High-end laboratories for independent student work."
+    },
+    "students_corner": {
+      "hostels": {
+        "boys": 4,
+        "girls": 1
+      },
+      "medical_unit": "Well equipped with adequate Medical Officers, pharmacists, and supporting staff.",
+      "ncc": "NCC unit for boys and girls.",
+      "gymkhana": "Active student body promoting extracurricular, co-curricular activities, and welfare of students.",
+      "activities": "Students participate in national-level Technical Fests organized by IITs and NITs and are engaged in technical and cultural clubs."
+    },
+    "training_and_placement": {
+      "centre": "Centre for Career Development (CCD)",
+      "objective": "Assist students in career exploration, job search, and placements.",
+      "guidance": "Provides regular guidance regarding career ambitions and motivates students to adopt career-oriented mindsets.",
+      "industry_interface": "Facilitates interaction between companies and students for mutual benefit.",
+      "goal": "Inspire and motivate young talent towards core engineering sectors to meet industry demands and contribute to national progress."
+    }
+  }
+  

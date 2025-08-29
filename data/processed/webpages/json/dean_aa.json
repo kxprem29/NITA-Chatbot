@@ -1,0 +1,96 @@
+{
+    "Office of Dean Academic": {
+      "People": [
+        {
+          "name": "Prof. (Dr.) Rajib Saha",
+          "designation": "Professor, C.E Department & Dean (Academic Affairs)",
+          "email": ["nitadeanacademic@gmail.com", "dean.academic@nita.ac.in"],
+          "phone": ["0381-2548537", "0381-2548510"],
+          "fax": ["0381-2548512", "0381-2546360"]
+        },
+        {
+          "name": "Dr. Srimanta Ray",
+          "designation": "Associate Professor, Chemical Eng. Department & Associate Dean (Exam)",
+          "email": ["asso.dean@nita.ac.in"]
+        },
+        {
+          "name": "Dr. Suyel Namasudra",
+          "designation": "Assistant Professor, C.S.E Department & Associate Dean (PG)",
+          "email": ["suyel.namasudra@nita.ac.in"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Dr. Tamasi Moyra",
+          "designation": "Associate Professor, E.C.E Department & Associate Dean (UG)",
+          "email": ["tamasi_moyra@yahoo.co.in"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Dr. Suman Deb",
+          "designation": "Assistant Professor, C.S.E Department & Associate Dean (System & Support)",
+          "email": ["sumandebcs@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Dr. Swapan Debbarma",
+          "designation": "Associate Professor, C.S.E Department & Deputy Registrar (Academic)",
+          "email": ["swapanxavier@gmil.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Dr. Krishanu Gupta",
+          "designation": "Assistant Registrar (Academic)",
+          "email": ["nitadeanacademic@gmail.com", "deanaa.phd.nita@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Mr. Gangula Shanmuk",
+          "designation": "Assistant Registrar (Academic)",
+          "email": ["deanaa.ug.nita@gmail.com", "deanaa.pg.nita@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Mr. Pradip Kumar Majumder",
+          "designation": "Senior Assistant (Contractual)",
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Ms. Payel Sarkar",
+          "designation": "Senior Assistant (Contractual)",
+          "email": ["exam@mail.nita.ac.in"]
+        },
+        {
+          "name": "Mr. Kabir Deb",
+          "designation": "Junior Assistant (Contractual)",
+          "email": ["nitadeanacademic@gmail.com", "deanaa.phd.nita@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Mr. Sourav Mahajan",
+          "designation": "Junior Assistant (Contractual)",
+          "email": ["exam@mail.nita.ac.in"]
+        },
+        {
+          "name": "Mrs. Krishna Rani Deb",
+          "designation": "Junior Assistant (Contractual)",
+          "email": ["deanaa.ug.nita@gmail.com", "deanaa.pg.nita@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Mrs. Trishita Choudhury",
+          "designation": "Public Relation Assistant (Contractual)",
+          "email": ["deanaa.ug.nita@gmail.com", "deanaa.pg.nita@gmail.com"],
+          "phone": ["0381-2548537"]
+        },
+        {
+          "name": "Mr. Nepal Debnath",
+          "designation": "Senior Attendant"
+        },
+        {
+          "name": "Mrs. Uma Saha",
+          "designation": "Senior Attendant"
+        }
+      ]
+    }
+  }
+  

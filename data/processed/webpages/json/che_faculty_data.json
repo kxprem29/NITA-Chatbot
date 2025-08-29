@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Dr. Soma Nag",
+        "designation": "HOD & Associate Professor",
+        "department": "Chemical Engineering",
+        "email": "somanag.nita@gmail.com"
+    },
+    {
+        "name": "Dr. Ajay Kumar Manna",
+        "designation": "Associate Professor",
+        "department": "Chemical Engineering",
+        "email": "akmchem@yahoo.co.in"
+    },
+    {
+        "name": "Dr. Kalyan Gayen",
+        "designation": "Associate Professor",
+        "department": "Chemical Engineering",
+        "email": "kgayen123@gmail.com"
+    },
+    {
+        "name": "Dr. SRIMANTA RAY",
+        "designation": "Associate Professor",
+        "department": "Chemical Engineering",
+        "email": "srimanta.chemical@nita.ac.in"
+    },
+    {
+        "name": "Dr. Tarun Kanti Bandyopadhyay",
+        "designation": "Associate Professor",
+        "department": "Chemical Engineering",
+        "email": "tarunkantibanerjee0@gmail.com"
+    },
+    {
+        "name": "Dr. Suresh Mamidi",
+        "designation": "Assistant Professor",
+        "department": "Chemical Engineering",
+        "email": "sureshmamidi@nita.ac.in"
+    },
+    {
+        "name": "Dr. Bibhab Kumar Lodh",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemical Engineering",
+        "email": "bibhab.chemical.nita@gmail.com"
+    },
+    {
+        "name": "Dr. Mriganka Sekhar Manna",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemical Engineering",
+        "email": "mrigankamanna602@gmail.com"
+    },
+    {
+        "name": "Dr. Swarup Biswas",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Chemical Engineering",
+        "email": "swarup.biswas85@gmail.com"
+    }
+]

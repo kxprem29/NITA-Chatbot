@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Dr. Tarun Kanti Bandyopadhyay",
+        "designation": "HOD & Associate Professor",
+        "department": "Bio Engineering",
+        "email": "tarunkantibanerjee0@gmail.com"
+    },
+    {
+        "name": "Dr. Biswanath Bhunia",
+        "designation": "Assistant Professor",
+        "department": "Bio Engineering",
+        "email": "bbhunia@gmail.com"
+    },
+    {
+        "name": "Dr. V C Padmanaban",
+        "designation": "Assistant Professor",
+        "department": "Bio Engineering",
+        "email": "padmanaban@nita.ac.in"
+    },
+    {
+        "name": "Dr. Abhijit Chatterjee",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Bio Engineering",
+        "email": "abhijitchatterjee1729@gmail.com"
+    },
+    {
+        "name": "Dr. Deeplina Das",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Bio Engineering",
+        "email": "dasdeeplina@gmail.com"
+    },
+    {
+        "name": "Mrs. HRIJUTA DATTA",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Bio Engineering",
+        "email": "hrijuta.ri8z@gmail.com"
+    },
+    {
+        "name": "Dr. Muthusivaramapandian M",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Bio Engineering",
+        "email": "msrpmsiva@gmail.com"
+    },
+    {
+        "name": "Dr. Tridib Kumar Bhowmick",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Bio Engineering",
+        "email": "tbhowmick@gmail.com"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "Department": "Chemistry",
+    "Programmes": [
+      {
+        "Course Name": "M.Sc in Chemistry",
+        "Duration": "2 Years",
+        "Intake": 13,
+        "Admission": "JAM / Through Institute Test",
+        "Qualifying Degree": "B.Sc"
+      },
+      {
+        "Course Name": "B.S-M.S (Dual Degree) in Chemistry",
+        "Duration": "5 Years",
+        "Intake": 25,
+        "Admission": "Through JoSAA / CSAB",
+        "Qualifying Degree": "Higher Secondary (+2)"
+      },
+      {
+        "Course Name": "Ph.D in Chemistry",
+        "Admission": "Twice a year through Institute Test",
+        "Qualifying Degree": "M.Sc"
+      },
+      {
+        "Course Name": "Post Doctoral Fellowship",
+        "Admission": "Through Interview",
+        "Qualifying Degree": "Ph.D"
+      }
+    ]
+  }
+  

@@ -1,0 +1,97 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "projects": {
+        "on_going": [
+            {
+                "title": "Development and assessment of seismic performance of affordable earthquake-resistant interlocking block for earthen masonry houses.",
+                "pi": "Dr. Rajib Saha",
+                "co_pi": "Dr. Manu S Nadesan",
+                "start_date": "24.05.2024",
+                "completion_date": "24.05.2027",
+                "project_cost": "Rs. 4028200/-",
+                "sponsoring_organisation": "DST CRG 2023, India"
+            },
+            {
+                "title": "Converting CO2 present in biogas to CH4 by biomethanation technique: A low-cost approach to purify biogas",
+                "pi": "Dr. Sagarika Panigrahi)",
+                "start_date": "02.09.2024",
+                "completion_date": "Ongoing",
+                "project_cost": "Rs. 25,00,000/-",
+                "sponsoring_organisation": "CSIR, India"
+            },
+            {
+                "title": "Seismic Vulnerability Assessment of RC Buildings Constructed on the Hill Slope of Northeastern Region of India,",
+                "co_pi": "Dr. Dhirendra Kumar Pandey",
+                "project_cost": "Rs. 20.21 lacs",
+                "sponsoring_organisation": "CSIR India"
+            },
+            {
+                "title": "Setting up Advance Testing and Research Facilities for the Center of Disaster Mitigation Using Sustainable Materials",
+                "co_pi": "Dr. Dhirendra Kumar Pandey",
+                "project_cost": "Rs. 88 lacs",
+                "sponsoring_organisation": "DST FIST"
+            },
+            {
+                "title": "A Low-Cost Seismic Vibration Control Mechanism for RC Buildings using Compliant Tuned Liquid Dampers",
+                "co_pi": "Dr. Dhirendra Kumar Pandey",
+                "project_cost": "Rs. 25.58 lacs",
+                "sponsoring_organisation": "SERB India"
+            },
+            {
+                "title": "Investigation on the Self-centering and Energy Dissipation Capacity of SMA Fiber-Based Concrete Structures",
+                "co_pi": "Dr. Dhirendra Kumar Pandey",
+                "project_cost": "Rs. 13 lacs",
+                "sponsoring_organisation": "VirginiaTech Institute of Critical Technology and Applied Science"
+            }
+        ],
+        "completed": [
+            {
+                "title": "Planned development of protocols for utilization of the tide land for brick manufacturer after analysis of geo-consequences of mining along with NEIST-Jorhat and Tripura State Council for Science and Technology.",
+                "pi": "Dr. R.P. Sharma, Mr. P. P. Sarkar & Mr. D. Sarkar)",
+                "start_date": "16.07.2010",
+                "completion_date": "15.01.2013",
+                "project_cost": "Rs. 1867360/-",
+                "sponsoring_organisation": "S & T, India"
+            },
+            {
+                "title": "Study of Retaining wall under seismic loading Condition.",
+                "pi": "Dr. R.P. Sharma & Mrs. Sima Ghosh)",
+                "start_date": "1.04.2009",
+                "completion_date": "31.03.2012",
+                "project_cost": "Rs. 13.50 lakhs",
+                "sponsoring_organisation": "AICTE"
+            },
+            {
+                "title": "Seismic Vulnerability study of Existing Structures in Agartala City.",
+                "pi": "Dr. R. P. Sharma & Mrs. Lipika Halder)",
+                "start_date": "1.04.2009",
+                "completion_date": "31.03.2012",
+                "project_cost": "Rs. 11.00 lakhs",
+                "sponsoring_organisation": "AICTE"
+            },
+            {
+                "title": "Modernisation of Civil Engineering Lab under Civil Engineering Department.",
+                "start_date": "31.03.2009",
+                "completion_date": "31.03.2011",
+                "project_cost": "Rs. 10.00 lakhs",
+                "sponsoring_organisation": "AICTE"
+            },
+            {
+                "title": "Manufacturing of bricks using Tilla soil",
+                "pi": "Mr. Manik Barman & Dr. R. P Sharma)",
+                "start_date": "2004",
+                "completion_date": "2006",
+                "project_cost": "Rs.40000.00",
+                "sponsoring_organisation": "Pollution Control Board, Govt. of Tripura"
+            },
+            {
+                "title": "MODROBS Laboratories under Civil Engineering Department.",
+                "pi": "(Prof S.K.Pal))",
+                "start_date": "2002",
+                "completion_date": "2004",
+                "project_cost": "Rs. 10 lakhs",
+                "sponsoring_organisation": "AICTE"
+            }
+        ]
+    }
+}

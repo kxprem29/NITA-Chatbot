@@ -1,0 +1,28 @@
+{
+    "Office": "SC/ST/OBC Cell",
+    "LiaisonOfficer": {
+      "Name": "Dr. Lipika Halder",
+      "Designation": "Liaison Officer & Assistant Professor, Civil Engineering Department"
+    },
+    "Members": [
+      {
+        "Name": "Dr. Partha Pratim Sarkar",
+        "Designation": "Associate Professor, Civil Engineering Department"
+      },
+      {
+        "Name": "Dr. Kunal Chakma",
+        "Designation": "Assistant Professor, Computer Science & Eng. Department"
+      },
+      {
+        "Name": "Dr. Minakshi Debbarma",
+        "Designation": "Assistant Professor, Electrical Engineering Department"
+      }
+    ],
+    "OfficeAddress": "1st Floor, Student Activity Centre, Prof. M. L. Dasgupta Block, NIT Agartala",
+    "Phone": "0381-254-8540",
+    "Email": [
+      "scstnita2016@gmail.com",
+      "scstcell@nita.ac.in"
+    ]
+  }
+  
