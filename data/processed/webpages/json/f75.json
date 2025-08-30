@@ -1,0 +1,155 @@
+{
+    "name": "Dr. Soma Nag",
+    "designation": "HOD & Associate Professor",
+    "department": "Chemical Engineering",
+    "date_of_joining": "14/06/2010",
+    "email": "somanag.nita@gmail.com",
+    "profile_url": "https://nita.ac.in/CPanel/CPProfile.aspx",
+    "address": {
+      "city": "-",
+      "state": "-",
+      "country": "-"
+    },
+    "contact": {
+      "email": "somanag.nita@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "9436457406"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2017,
+        "subject": "Chemical and Environmental Engineering"
+      },
+      {
+        "degree": "M.B.A.",
+        "year": 2017,
+        "subject": "Human Resource Development, IGNOU"
+      },
+      {
+        "degree": "M.TECH",
+        "year": 1988,
+        "subject": "Chemical Plant Design & Fabrication, IIT Kharagpur"
+      },
+      {
+        "degree": "B.E.",
+        "year": 1986,
+        "subject": "Chemical Engineering, Jadavpur University"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Microbial remediation of petroleum hydrocarbons in liquid wastes",
+        "authors": "Rahul Saha, Soma Nag",
+        "conference": "Development in Wastewater Treatment Research and Processes, Elsevier",
+        "month": "JAN",
+        "year": 2022
+      },
+      {
+        "title": "Removal of emerging contaminants through bionanotechnology",
+        "authors": "Soma Nag, Swarup Biswas",
+        "conference": "Development in Wastewater Treatment Research and Processes, Elsevier",
+        "month": "FEB",
+        "year": 2022
+      },
+      {
+        "title": "Use of microalgae for the removal of emerging contaminants from wastewater",
+        "authors": "Sunipa Deb, Soma Nag",
+        "conference": "Biodegradation and Detoxification of Micropollutants in Industrial Wastewater, Elsevier",
+        "month": "MAY",
+        "year": 2022
+      },
+      {
+        "title": "Biofilm: Design of experiments and relevant protocols (Chapter 1)",
+        "authors": "Susmita Datta, Soma Nag, Dijendra N. Roy",
+        "conference": "A complete Guide Book of Biofilm Study, Elsevier",
+        "month": "JULY",
+        "year": 2022
+      },
+      {
+        "title": "Role of Biofilm in waste management (Chapter 8)",
+        "authors": "Susmita Datta, Dijendra N. Roy, Soma Nag",
+        "conference": "A complete Guide Book of Biofilm Study, Elsevier",
+        "month": "JULY",
+        "year": 2022
+      },
+      {
+        "title": "Application of biosurfactants for the management of mycotoxins (Chapter 9)",
+        "authors": "Rahul Saha, Soma Nag",
+        "conference": "Applications of Biosurfactant in Agriculture, Elsevier",
+        "month": "AUG",
+        "year": 2022
+      },
+      {
+        "title": "Application of biosurfactant as antibiotics for the management of diseases affecting livestock (Chapter 8)",
+        "authors": "Susmita Datta, Soma Nag",
+        "conference": "Applications of Biosurfactant in Agriculture, Elsevier",
+        "month": "AUG",
+        "year": 2022
+      },
+      {
+        "title": "Water quality assessment of different samples collected from Tripura University campus",
+        "authors": "Rahul Das, Aritrika Saha, Harjeet Nath, Joydeep Das, Soma Nag",
+        "conference": "SARASWAT: The Tripura University Research Journal Vol.2, Issue 2",
+        "month": "FEB",
+        "year": 2022
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Environmental Science and Pollution Research",
+        "publisher": "Springer (SCI)",
+        "month": "JUN",
+        "year": 2022
+      },
+      {
+        "title": "Chemical Engineering Science",
+        "publisher": "Elsevier (SCI)",
+        "month": "MAY",
+        "year": 2020
+      },
+      {
+        "title": "Environmental Technology and Innovation",
+        "publisher": "Elsevier (SCI)",
+        "month": "SEPT",
+        "year": 2019
+      },
+      {
+        "title": "Environmental Technology and Innovation",
+        "publisher": "Elsevier (SCI)",
+        "month": "NOV",
+        "year": 2018
+      },
+      {
+        "title": "Environmental Science and Pollution Control",
+        "publisher": "Springer (SCI)",
+        "month": "JUN",
+        "year": 2017
+      },
+      {
+        "title": "Desalination and Water Treatment",
+        "publisher": "Taylor & Francis (SCI)",
+        "month": "AUG",
+        "year": 2016
+      },
+      {
+        "title": "Journal of the Indian Chemical Society",
+        "publisher": "Elsevier (SCI)",
+        "month": "NOV",
+        "year": 2016
+      },
+      {
+        "title": "Research Journal of Chemistry and Environment",
+        "publisher": "Scopus",
+        "month": "JULY",
+        "year": 2016
+      },
+      {
+        "title": "Indian Journal of Technology",
+        "publisher": "CSIR (Scopus)",
+        "month": "APRIL",
+        "year": 1989
+      }
+    ]
+  }
+  

@@ -1,0 +1,128 @@
+{
+    "name": "Prof. Paritosh Bhattacharya",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "email": "pari76@rediffmail.com",
+    "profile_url": "https://www.nita.ac.in/Department/Department_FacultyProfile",
+    "research_areas": [
+      "Mathematical Biology",
+      "Mathematical Modeling",
+      "Renewable Energy"
+    ],
+    "courses_taught": {
+      "UG": ["Engineering Mathematics"],
+      "PG": ["Mathematical Biology", "Discrete Mathematics", "Graph Theory"]
+    },
+    "phd_students": {
+      "enrolled_ongoing": 4,
+      "guided_completed": 10
+    },
+    "address": {
+      "department": "Dept. Of Mathematics, NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "pari76@rediffmail.com",
+      "mobile": "8974060361"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2010,
+        "institution": "Jadavpur University",
+        "subject": "Mathematical Modeling"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2001,
+        "institution": "Jadavpur University",
+        "subject": "Energy Science & Technology"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 1999,
+        "subject": "Applied Mathematics",
+        "special_papers": ["Dynamical Meteorology", "Dynamical Oceanography", "Biomathematics"]
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Impact of refuge to the heterogeneous interaction of species in food chain model: A holistic approach",
+        "authors": "S. Samaddar, M. Dhar, P. Bhattacharya",
+        "journal": "Iranian Journal of Science and Technology, Transactions A: Science",
+        "volume": 45,
+        "pages": "221–233",
+        "impact_factor": 0.875,
+        "year": 2021
+      },
+      {
+        "title": "Modeling the cell-to-cell transmission dynamics of viral infection under the exposure of non-cytolytic cure",
+        "authors": "M. Dhar, S. Samaddar, P. Bhattacharya",
+        "journal": "Journal of Applied Mathematics and Computing",
+        "impact_factor": 1.242,
+        "pages": "885–911",
+        "year": 2021
+      },
+      {
+        "title": "Effect of fear on prey predator dynamics: Exploring the role of prey refuge and additional food",
+        "authors": "S. Samaddar, M. Dhar, P. Bhattacharya",
+        "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+        "impact_factor": 2.643,
+        "volume": 30,
+        "article_id": "063129",
+        "year": 2020,
+        "doi": "https://doi.org/10.1063/5.0006968"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Modeling the effect of non-cytolytic immune response on viral infection dynamics in the presence of humoral immunity",
+        "authors": "M. Dhar, S. Samaddar, P. Bhattacharya",
+        "journal": "Nonlinear Dynamics",
+        "impact_factor": 4.604,
+        "doi": "https://doi.org/10.1007/s11071-019-05219-8",
+        "year": 2019
+      },
+      {
+        "title": "A Smart System of 3D Liver Tumor Segmentation",
+        "authors": "A. Biswas, P. Bhattacharya, S.P. Maity",
+        "journal": "International Journal of Product Development",
+        "publisher": "InderScience",
+        "volume": 23,
+        "issue": "2/3",
+        "year": 2019
+      }
+    ],
+    "patents": [
+      {
+        "title": "Waste Monitoring System",
+        "status": "Published",
+        "year": 2021
+      },
+      {
+        "title": "A Molecular QCA Based CT Scan System",
+        "status": "Published",
+        "year": 2018
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "INSA Visiting Scientist award",
+        "details": "1st June 2022 to 30th June 2022 at Jadavpur University",
+        "year": 2022
+      },
+      {
+        "achievement": "Coordinator, NBHM Ph.D Test at NIT Agartala, National Board for Higher Mathematics (DAE, Govt. of India)",
+        "year": 2021
+      }
+    ],
+    "subjects": [
+      {
+        "level": "UG/PG",
+        "subjects": ["Mathematical Modelling", "Biomathematics", "Discrete Mathematics"]
+      }
+    ]
+  }
+  

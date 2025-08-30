@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Tribid Debbarma",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "email": "tribid@nita.ac.in",
+    "research_area": ["NLP", "Cloud Computing"],
+    "courses_taught": {
+      "UG": ["Cloud Computing", "Mobile Computing", "Design & Analysis of Algorithms", "Digital Circuits & Logic Design"],
+      "PG": ["Digital Circuits & Logic Design"]
+    },
+    "address": {
+      "room": "Room No. 232, A.P.J. Abdul Kalam Block",
+      "department": "Department of Computer Science & Engineering",
+      "institute": "NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "tribid@nita.ac.in",
+      "phone_residence": null,
+      "phone_mobile": "9436581290"
+    }
+  }
+  

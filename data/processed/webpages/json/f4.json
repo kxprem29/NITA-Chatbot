@@ -1,0 +1,134 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Manas Rakshit",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "ECE",
+          "Full": "Electronics and Communication Engineering"
+        },
+        "Email": "manasece@nita.ac.in",
+        "Research_Areas": [
+          "Medical Signal and Image Processing",
+          "Digital Image Processing",
+          "Digital Signal Processing",
+          "Machine Learning",
+          "Deep Learning"
+        ],
+        "Address": {
+          "Address_Line": "Dept. of Electronics and Communication Engineering",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "7853951350"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Year": 2019,
+            "Institute": "National Institute of Technology Rourkela, Odisha, India",
+            "Subject": "Signal Processing and Communication"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2015,
+            "Institute": "National Institute of Technology Rourkela, Odisha, India",
+            "Subject": "Electronic Systems and Communication"
+          },
+          {
+            "Degree": "B.Tech",
+            "Year": 2013,
+            "Institute": "University of Kalyani, West Bengal, India",
+            "Subject": "Electronics and Instrumentation Engineering"
+          }
+        ],
+        "Publications_Journal": [
+          {
+            "Title": "Wavelet Sub-bands Features based ECG Signal Quality Assessment Scheme for Computer-aided Diagnosis Application",
+            "Authors": "M. Rakshit and S. Das",
+            "Journal": "IETE Journal of Research, Taylor & Francis",
+            "Month": "MAR",
+            "Year": 2021
+          },
+          {
+            "Title": "Electrocardiogram beat type dictionary based compressed sensing for telecardiology application",
+            "Authors": "M. Rakshit and S. Das",
+            "Journal": "Biomedical Signal Processing and Control (Elsevier), vol. 47, pp 207-218",
+            "Month": "JAN",
+            "Year": 2019,
+            "DOI": "https://doi.org/10.1016/j.bspc.2018.08.016"
+          },
+          {
+            "Title": "Hybrid Approach for ECG Signal Enhancement using Dictionary Learning based Sparse Representation",
+            "Authors": "M. Rakshit and S. Das",
+            "Journal": "IET Science, Measurement & Technology, vol. 13(3), pp 381-391",
+            "Month": "MAY",
+            "Year": 2019,
+            "DOI": "https://doi.org/10.1049/iet-smt.2018.5060"
+          },
+          {
+            "Title": "An efficient ECG denoising methodology using empirical mode decomposition and adaptive switching mean filter",
+            "Authors": "M. Rakshit and S. Das",
+            "Journal": "Biomedical Signal Processing and Control (Elsevier), vol. 40, pp 140-148",
+            "Month": "FEB",
+            "Year": 2018,
+            "DOI": "https://doi.org/10.1016/j.bspc.2017.09.020"
+          }
+        ],
+        "Publications_Conference": [
+          {
+            "Title": "An improved EMD based ECG denoising method using adaptive switching mean filter",
+            "Authors": "M. Rakshit and S. Das",
+            "Conference": "2017 4th International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, Noida, India",
+            "Month": "FEB",
+            "Year": 2017,
+            "DOI": "https://doi.org/10.1109/SPIN.2017.8049954"
+          },
+          {
+            "Title": "EKF with PSO technique for delineation of P and T wave in electrocardiogram (ECG) signal",
+            "Authors": "M. Rakshit, D. Panigrahy, PK Sahu",
+            "Conference": "2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN), IEEE, Noida, India",
+            "Month": "FEB",
+            "Year": 2015,
+            "DOI": "https://doi.org/10.1109/SPIN.2015.7095293"
+          }
+        ],
+        "Achievements": [
+          "3rd Position (Engineering Category) for poster presentation in Research Scholar Week (RSW-2019) at NIT Rourkela",
+          "Best Position (Dept. of Electrical Engineering) for poster presentation in Research Scholar Week (RSW-2019) at NIT Rourkela",
+          "Recipient of Ph.D fellowship under Visvesvaraya PhD Scheme (2015-19), MEITY, Government of India",
+          "Recipient of M.Tech (2013-15) fellowship from MHRD, Government of India",
+          "National Merit Scholarship for university and college students"
+        ],
+        "Trainings": [
+          {
+            "Title": "Faculty Development Programme on Deep Learning & Applications (Parallel Architectures)",
+            "Month": "AUG",
+            "Year": 2021
+          },
+          {
+            "Title": "Short term training programme by NITTTR Bhopal on 'Course Outcomes and Domains of Learning'",
+            "Month": "JULY",
+            "Year": 2020
+          },
+          {
+            "Title": "Webinar on 'Assessment of COs, POs and PSOs' by NITTTR, Bhopal",
+            "Month": "JULY",
+            "Year": 2020
+          }
+        ],
+        "Subjects_Taught": {
+          "UG": [
+            "Electronic Measurement and Instrumentation",
+            "Signals and Systems",
+            "Basic Electronics",
+            "Digital Electronics"
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Abhijit Baidya",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mathematics",
+    "email": "abhijitnita@yahoo.in",
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "abhijitnita@yahoo.in",
+      "residence_phone": null,
+      "mobile_phone": "08837204231"
+    },
+    "publications": {
+      "conference": [],
+      "journal": []
+    },
+    "books": [],
+    "conferences_attended": [],
+    "achievements": []
+  }
+  

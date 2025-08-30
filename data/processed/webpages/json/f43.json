@@ -1,0 +1,184 @@
+{
+    "name": "Dr. Smita Das",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "date_of_joining": "31/03/2006",
+    "email": "smitadas.nita@gmail.com",
+    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=mZtCllIAAAAJ",
+    "research_areas": [
+      "Energy-Efficient Security Protocols",
+      "VANET Security",
+      "ML/DL based medical image analysis",
+      "Trust Architectures in IoT Healthcare",
+      "Secure Localization and Positioning"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Introduction to Graph Theory",
+        "Computer Networks",
+        "Software Engineering",
+        "Object Oriented Programming",
+        "Design and Analysis of Algorithm",
+        "Introduction to Programming"
+      ],
+      "PG": [
+        "Advanced Computer Networks",
+        "Wireless Network Security",
+        "Design and Analysis of Algorithms",
+        "Graph Theory and Combinatorics"
+      ]
+    },
+    "phd_students": [
+      {
+        "name": "Jhalak Dutta",
+        "topic": "Path Planning in WSN"
+      },
+      {
+        "name": "Purba Pal",
+        "topic": "IoT Healthcare"
+      }
+    ],
+    "address": {
+      "room": "233",
+      "block": "APJ Abdul Kalam Block",
+      "department": "Computer Science & Engineering",
+      "institute": "National Institute of Technology Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "smitadas.nita@gmail.com",
+      "phone_residence": null,
+      "phone_mobile": "9774715007"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "broad_area": "Wireless Sensor Networks",
+        "year": 2022,
+        "field": "Computer Science & Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "cgpa": 8.68,
+        "year": 2012,
+        "field": "Computer Science & Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "percentage": 77.2,
+        "year": 2005,
+        "field": "Computer Science & Engineering"
+      },
+      {
+        "degree": "H.S.C.",
+        "percentage": 81.3,
+        "year": 2001,
+        "field": "Science"
+      },
+      {
+        "degree": "S.S.C.",
+        "percentage": 85.6,
+        "year": 1999,
+        "field": "Science"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "year": 2023,
+          "title": "Cheating detection in online exam: A comparative survey",
+          "co_authors": ["P Bhowmik"],
+          "conference": "8th International conference on information and communication technology (ICTCS - 2023), Jaipur, India",
+          "status": "accepted"
+        },
+        {
+          "year": 2023,
+          "title": "Unveiling energy depletion attacks in wireless sensor networks and its defensive mechanisms",
+          "co_authors": ["P Pal", "M.K. Debbarma"],
+          "conference": "International Conference on Data Engineering and Machine Intelligence (ICDEMI 2023), Bengaluru, India",
+          "status": "accepted"
+        },
+        {
+          "year": 2023,
+          "title": "Multiple Approaches towards Authentication using Keystroke Dynamics",
+          "co_authors": ["A Arsh", "N Kar", "S Deb"],
+          "conference": "International Conference on Machine Learning and Data Engineering (ICMLDE 2023)",
+          "status": "accepted"
+        },
+        {
+          "year": 2022,
+          "month": "JUN",
+          "title": "A Cheating Detection System in Online Examinations Based on the Analysis of Eye-Gaze and Head-Pose",
+          "co_authors": ["A Singh"],
+          "conference": "International Conference on Emerging Trends in Artificial Intelligence and Smart Systems, THEETAS 2022, Jabalpur, India",
+          "pages": "55"
+        },
+        {
+          "year": 2022,
+          "month": "JUN",
+          "title": "Identification of Image Forgery based on various Corner Detection methods",
+          "co_authors": ["A Debnath"],
+          "conference": "IEEE World Conference on Applied Intelligence and Computing (AIC)",
+          "pages": "314-319"
+        },
+        {
+          "year": 2022,
+          "title": "YUVA (Your User-Authenticated Virtual Assistant): A Voice Recognition And Authentication Based Virtual Assistant For Daily Business Tasks On A PC",
+          "co_authors": ["S Chakraverty"],
+          "conference": "7th International Conference on Microelectronics, Computing & Communication Systems(MCCS-2022)",
+          "status": "accepted"
+        },
+        {
+          "year": 2020,
+          "month": "APRIL",
+          "title": "A comparative study on coverage-hole detection improvement with inner empty circle over delaunay triangulation method in wireless sensor networks",
+          "co_authors": ["M.K. Debbarma"],
+          "conference": "Communication Software and Networks: Proceedings of INDIA 2019",
+          "pages": "553-561"
+        }
+      ],
+      "journal": [
+        {
+          "year": 2023,
+          "month": "JUN",
+          "title": "A Comparative Study of Various Coverage-Hole Patching Algorithms in Wireless Sensor Networks",
+          "journal": "Adhoc & Sensor Wireless Networks",
+          "index": "SCIE"
+        },
+        {
+          "year": 2023,
+          "month": "JULY",
+          "title": "A brief study of generative adversarial networks and their applications in image synthesis",
+          "journal": "Multimedia Tools and Applications",
+          "index": "SCIE"
+        },
+        {
+          "year": 2022,
+          "month": "MAY",
+          "title": "A Coverage-Hole Boundary Detection Approach Based on Tree-Traversal in Wireless Sensor Networks",
+          "co_authors": ["M.K. Debbarma"],
+          "journal": "Adhoc & Sensor Wireless Networks",
+          "index": "SCIE"
+        },
+        {
+          "year": 2020,
+          "month": "MAY",
+          "title": "CHPT: an improved coverage-hole patching technique based on tree-center in wireless sensor networks",
+          "co_authors": ["M.K. Debbarma"],
+          "journal": "Journal of Ambient Intelligence and Humanized Computing",
+          "index": "SCIE"
+        }
+      ]
+    },
+    "patents": [
+      {
+        "year": 2023,
+        "title": "IoT based wearable device for monitoring of vital information",
+        "ref_no": "382360-001",
+        "awarded_date": "27/03/2023"
+      }
+    ]
+  }
+  

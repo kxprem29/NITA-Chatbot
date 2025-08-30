@@ -1,0 +1,36 @@
+{
+    "name": "Dr. Sonit Dutta",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Management, Humanities & Social Sciences",
+    "email": "sonit_dutta@yahoo.co.in",
+    "research_area": [],
+    "courses_taught": {
+      "ug_courses": [],
+      "pg_courses": []
+    },
+    "address": {
+      "address": "Quarter No. H3A/06/03, Jirania, Tripura (W)",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sonit_dutta@yahoo.co.in",
+      "phone_residence": "-",
+      "phone_mobile": "985918648"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2013,
+        "subject": "Business Administration",
+        "institution": "MBA, Ph.D (Business Administration)"
+      }
+    ],
+    "publications": [],
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

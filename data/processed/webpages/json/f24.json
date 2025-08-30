@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+      "name": "Dr. Dwijen Rudrapal",
+      "designation": "Assistant Professor",
+      "department": "Computer Science and Engineering",
+      "email": "dwijen.rudrapal@gmail.com",
+      "phone_mobile": "9856027328",
+      "address": {
+        "department": "Department of CSE, NIT Agartala",
+        "city": "Agartala",
+        "state": "Tripura",
+        "country": "India"
+      }
+    },
+    "research_areas": [
+      "Explainable Artificial Intelligence",
+      "Natural Language Processing",
+      "Multimodal NLP",
+      "Machine Learning",
+      "Statistical Modeling",
+      "Information Retrieval"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Formal Language & Automata Theory",
+        "Object Oriented Programming",
+        "Cryptography and Network Security",
+        "Information Retrieval",
+        "Algorithm",
+        "Machine Learning"
+      ],
+      "PG": [
+        "Information Retrieval",
+        "Cryptography and Network Security",
+        "Theory of Computation"
+      ]
+    },
+    "phd_students": [
+      "Mr. Binnu Paul",
+      "Miss Kavita Sinha",
+      "Miss Shyamashri Das"
+    ],
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2021,
+        "subject": "Natural Language Processing"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2012,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "B.E",
+        "institution": "Tripura University",
+        "year": 2003,
+        "subject": "Computer Science and Engineering"
+      }
+    ],
+    "conference_publications": [
+      {
+        "title": "Comparative Study on Different Approaches for Understanding the Privacy Policies",
+        "authors": "Maitra, S., Rudrapal, D.",
+        "conference": "FICTA 2022",
+        "publisher": "Springer, Singapore",
+        "doi": "https://doi.org/10.1007/978-981-19-7513-4_2",
+        "month": "April",
+        "year": 2023
+      },
+      {
+        "title": "Personality Detection Using Signature Analysis",
+        "authors": "Koushik, G.J.S., Tirudeepak, K., Rudrapal, D.",
+        "conference": "Advances in Signal Processing, Embedded Systems and IoT",
+        "publisher": "Springer, Singapore",
+        "doi": "https://doi.org/10.1007/978-981-19-8865-3_48",
+        "month": "May",
+        "year": 2023
+      },
+      {
+        "title": "Name Entity Recognition for Transliterated Bengali Text Using Machine Learning Algorithm",
+        "authors": "Banik, A., Datta, A., Rudrapal, D.",
+        "conference": "ICDAI 2023",
+        "publisher": "Springer, Singapore",
+        "doi": "https://doi.org/10.1007/978-981-99-3878-0_19",
+        "month": "July",
+        "year": 2023
+      },
+      {
+        "title": "A Study on the Research Progress of Multimodal Sentiment Analysis in Indian Languages",
+        "authors": "Chakraborty, D., Rudrapal, D., Bhattacharya, B.",
+        "conference": "ICDAI 2023",
+        "publisher": "Springer, Singapore",
+        "doi": "https://doi.org/10.1007/978-981-99-3878-0_17",
+        "month": "July",
+        "year": 2023
+      },
+      {
+        "title": "Cross-Lingual Speaker Identification for Indian Languages",
+        "authors": "Amaan Rizvi, Anupam Jamatia, Dwijen Rudrapal, Kunal Chakma, Björn Gambäck",
+        "conference": "RANLP 2023",
+        "location": "Bulgaria",
+        "month": "September",
+        "year": 2023
+      }
+    ],
+    "journal_publications": [
+      {
+        "title": "Semantic Role Labelling: A Systematic Review of Approaches, Challenges, and Trends for English and Indian Languages",
+        "authors": "Chakma, K., Datta, S., Jamatia, A., Rudrapal, D.",
+        "journal": "Expert Systems",
+        "doi": "https://doi.org/10.1111/exsy.13838",
+        "month": "March",
+        "year": 2025
+      },
+      {
+        "title": "An innovative Telugu text summarization framework using the pointer network and optimized attention layer",
+        "authors": "M, V.R., Chakma, K., Jamatia, A., Rudrapal, D.",
+        "journal": "Multimed Tools Appl",
+        "doi": "https://doi.org/10.1007/s11042-024-19187-8",
+        "month": "April",
+        "year": 2024
+      }
+    ],
+    "conferences_attended": [
+      {
+        "conference": "19th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing-2018)",
+        "month": "March",
+        "year": 2018,
+        "location": "Hanoi, Vietnam"
+      },
+      {
+        "conference": "The Twelfth International Conference on Natural Language Processing (ICON-2015)",
+        "month": "December",
+        "year": 2015,
+        "location": "IIITM-Kerala, Trivandrum, India"
+      },
+      {
+        "conference": "The Eleventh International Conference on Natural Language Processing (ICON-2014)",
+        "month": "December",
+        "year": 2014,
+        "location": "Goa University, Goa, India"
+      }
+    ]
+  }
+  

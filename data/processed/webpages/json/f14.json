@@ -1,0 +1,142 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Nirmalya Kar",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "CSE",
+          "Full": "Computer Science and Engineering"
+        },
+        "Email": "nirmalya@ieee.org",
+        "URL": "https://orcid.org/0000-0002-7371-232X",
+        "Research_Areas": [
+          "Cryptography",
+          "Image Processing",
+          "Information Security",
+          "Cyber Analytics with Machine Learning",
+          "DNA Computing"
+        ],
+        "Courses_Taught": {
+          "UG": [
+            "Computer Network",
+            "Foundation to Cryptography",
+            "Data Communication"
+          ],
+          "PG": [
+            "Principles of Cryptography",
+            "Information Security",
+            "Data Hiding"
+          ]
+        },
+        "PhD_Students": {
+          "Ongoing": {
+            "FullTime": ["Priyanka Biswas"],
+            "PartTime": ["Bhaskar Biswas", "Poulomi Deb", "Gourab Bhattacharya"]
+          },
+          "Completed": []
+        },
+        "Address": {
+          "Address_Line": "Information Security Lab, #229, Dr. APJ Abdul Kalam Block, Department of Computer Science & Engineering",
+          "City": "AGARTALA",
+          "State": "TRIPURA",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": null
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Description": "Philosophy of Doctorate",
+            "Year": 0,
+            "Subject": "Information Security"
+          }
+        ],
+        "Publications": {
+          "Journal": [
+            {
+              "Title": "ML based assessment and prediction of air pollution from satellite images during COVID-19 pandemic",
+              "Authors": "Biswas, P., Kar, N. & Deb, S.",
+              "Year": 2024,
+              "Month": "JAN",
+              "DOI": "https://doi.org/10.1007/s11042-023-18102-x",
+              "IF": 3.6
+            },
+            {
+              "Title": "Multiple Approaches Towards Authentication Using Keystroke Dynamics",
+              "Authors": "Arsh, A., Kar, N., Das, S. and Deb, S.",
+              "Year": 2024,
+              "Month": "MAY",
+              "DOI": "https://doi.org/10.1016/j.procs.2024.04.246",
+              "IF": 0.883
+            }
+          ],
+          "Conference": [
+            {
+              "Title": "Moving Towards a Quantum Age: Recent Trends in Quantum and Post-Quantum Cryptography",
+              "Authors": "Das, S., Kar, N., & Deb, S.",
+              "Year": 2025,
+              "Publisher": "IGI Global Scientific Publishing",
+              "DOI": "https://doi.org/10.4018/979-8-3693-5961-7.ch002"
+            }
+          ]
+        },
+        "Books_Published": [
+          {
+            "Title": "Data Science and Network Engineering",
+            "Authors": "Suyel Namasudra, Nirmalya Kar, Sarat Kumar Patra, David Taniar",
+            "Publisher": "Springer Nature, Lecture Notes in Networks and Systems",
+            "Year": 2025,
+            "DOI": "https://doi.org/10.1007/978-981-97-8336-6",
+            "ISBN": "978-981-97-8336-6"
+          },
+          {
+            "Title": "Trends in Computational Intelligence, Security and Internet of Things",
+            "Authors": "Kar N, Saha A, Deb S",
+            "Publisher": "Springer Nature",
+            "Year": 2020,
+            "DOI": "10.1007/978-3-030-66763-4",
+            "ISBN": "978-3-030-66762-7"
+          }
+        ],
+        "Conferences_Attended": [
+          {
+            "Name": "International Conference on Software Engineering, Information System and Applications (ICSEISA 2017)",
+            "Month": "JULY",
+            "Year": 2017,
+            "Location": "Seoul, South Korea"
+          }
+        ],
+        "Conferences_Conducted": [
+          {
+            "Name": "Second International Conference on Data Science and Network Engineering (ICDSNE) 2024",
+            "Month": "JULY",
+            "Year": 2024,
+            "Location": "Agartala, India"
+          }
+        ],
+        "Patents": [
+          {
+            "Title": "Real-Time Face Recognition And Verification System",
+            "Inventors": ["Dr. Munesh Chandra Trivedi", "Dr. Nirmalya Kar", "Dr. Harivans Pratap Singh"],
+            "Country": "India",
+            "Year": 2023,
+            "Status": "Published"
+          },
+          {
+            "Title": "IoT Based Wearable Device for Monitoring of Vital Information",
+            "Inventors": ["N Kar", "S Das", "S Deb", "Udit M."],
+            "Country": "India",
+            "Year": 2023,
+            "Status": "Design Accepted and Published",
+            "Design_Number": "382360-001",
+            "Journal_No": "21/2023",
+            "Journal_Date": "26/05/2023",
+            "Design_Inforce_Upto": "27/03/2033"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,181 @@
+{
+    "name": "Dr. Susmita Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mathematics",
+    "email": "susmitaroy.nita@gmail.com",
+    "research_areas": [
+      "Artificial Neural Network",
+      "Hybrid Metaheuristic Algorithm",
+      "Multi Criteria Decision Making"
+    ],
+    "cv": "View",
+    "address": {
+      "care_of": "Dr. Biswajit Das",
+      "building": "Matanghinee Bhawan",
+      "street": "15/1 Krishnanagar-799001, Natun Palli, Opposite to Old Electric Office",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "susmitaroy.nita@gmail.com",
+      "mobile": "9436565145",
+      "residence": "-"
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "university": "Tripura University (A Central University)",
+        "year": 2012,
+        "subject": "Mathematics"
+      },
+      {
+        "degree": "M.Sc.",
+        "university": "Tripura University",
+        "year": 2006,
+        "subject": "Mathematics",
+        "special_papers": ["Operation Research", "Fuzzy Set theory and Application"]
+      },
+      {
+        "degree": "B.Sc.",
+        "college": "M.B.B College, Agartala, Tripura",
+        "year": 2004,
+        "subject": "Mathematics (Honours)"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "A Comparative Study on MCGDM Methods to Find the Best Domain for Women Empowerment in India",
+          "authors": ["Naima Debbarma", "Susmita Roy", "Paritosh Bhattacharya"],
+          "conference": "IEEE SILCON 2024",
+          "pages": "1-6",
+          "month": "March",
+          "year": 2025,
+          "doi": "10.1109/SILCON63976.2024.10910876"
+        },
+        {
+          "title": "A novel entropy based MADM framework under Fermatean fuzzy environment",
+          "authors": ["Naima Debbarma", "Susmita Roy", "Paritosh Bhattacharya"],
+          "conference": "International Conference on Theory and Applications of Mathematics (ICTAM-2024)",
+          "journal": "Journal of Tripura Mathematical Society",
+          "volume": 26,
+          "month": "September",
+          "year": 2024
+        },
+        {
+          "title": "An Interval Type 2 Fuzzy AHP Framework in mHealth Applications for Type 2 Diabetes Mellitus Management",
+          "authors": ["Korbi Debbarma", "Susmita Roy", "Paritosh Bhattacharya"],
+          "conference": "ICTAM-2024",
+          "journal": "Journal of Tripura Mathematical Society",
+          "volume": 26,
+          "month": "September",
+          "year": 2024
+        }
+      ],
+      "journals": [
+        {
+          "title": "A comparative study of hybrid neural network with meta heuristic algorithm for breast cancer data classification with TOPSIS MCDM approach",
+          "authors": ["Banya Das", "Susmita Roy", "Naima Debbarma", "Paritosh Bhattacharya"],
+          "journal": "Neural Computing and Applications, Springer",
+          "month": "May",
+          "year": 2025,
+          "doi": "10.1007/s00521-025-11281-8"
+        },
+        {
+          "title": "A multi attribute decision making framework based on partitioned dual Maclaurin symmetric mean operators under Fermatean fuzzy environment",
+          "authors": ["S. Roy"],
+          "journal": "Physica Scripta (SCIE, SCOPUS) (IOP Pub)",
+          "volume": 99,
+          "number": 10,
+          "pages": "105286",
+          "month": "September",
+          "year": 2024,
+          "doi": "10.1088/1402-4896/ad7bf8"
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "On fuzzy-rough oscillatory region and it’s applications on data mining",
+        "author": "Susmita Roy",
+        "publisher": "LAP Lambert Academic Publishing",
+        "isbn_10": "3659335363",
+        "isbn_13": "978-3-659-33536-5",
+        "pages": 232,
+        "year": 2013
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "A parametric study on optimal design of multilayer neural network coupled with real coded genetic algorithm for input-output modelling of MIG-CO2 welding process parameters with EN-3A grade mild steel",
+        "authors": ["Banya Das", "Susmita Roy", "Biswajit Das", "Paritosh Bhattacharya"],
+        "conference": "Implemathation 2023: A National Symposium on Implementation and Application of Mathematics in Real life",
+        "month": "May",
+        "year": 2023,
+        "location": "Vellore Institute of Technology, India",
+        "mode": "Online"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Qualified UGC - State Level Eligibility Test (SLET) (for North Eastern States)",
+        "year": 2015
+      },
+      {
+        "title": "Achieved University Scholarship for pursuing full time Ph.D, Tripura University (During 2008 to 2011)",
+        "year": 2008
+      }
+    ],
+    "training_attended": [
+      {
+        "title": "Advanced Engineering Optimization through Intelligent Techniques",
+        "topics": ["MADM", "AHP", "TOPSIS", "PROMETHEE", "MODM", "GA", "PSO", "TLBO", "JAYA", "ABC algorithms"],
+        "month": "March",
+        "year": 2016,
+        "duration": "21st March-25th March",
+        "organized_by": "Dept. of Mechanical Engg, SV NIT, Surat, Gujarat, India"
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "Fundamentals of Computational Mathematics",
+        "month": "June",
+        "year": 2022,
+        "duration": "20th to 26th June",
+        "organized_by": "Department of Mathematics, NIT Agartala under DST-STUTI project",
+        "topics": ["C/C++", "MATLAB", "Python", "ANN", "Machine Learning", "Deep Learning"]
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "M.Tech 1st semester (Communication Engineering)",
+        "subject": "Stochastic Processes"
+      },
+      {
+        "class": "M.Sc 1st Semester (Math and Computing)",
+        "subject": "Computer Programming with C++ and MATLAB"
+      },
+      {
+        "class": "BSMS 9th semester",
+        "subject": "Calculus of Variation"
+      },
+      {
+        "class": "BSMS/BTMT 3rd semester",
+        "subject": "Probability"
+      },
+      {
+        "class": "B.Tech 3rd semester (EE sec B)",
+        "subject": "Probability"
+      },
+      {
+        "class": "B.Tech 1st semester (All branches)",
+        "subject": "Engineering Mathematics"
+      },
+      {
+        "class": "BSMS 6th and MSc 4th sem",
+        "subject": "Soft Computing II"
+      }
+    ]
+  }
+  

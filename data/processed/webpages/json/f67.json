@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Deeplina Das",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Bio Engineering",
+    "email": "dasdeeplina@gmail.com",
+    "address": {
+      "address_line": "Room No. NB-313, Department of Bioengineering, NIT Agartala, Jirania, Agartala-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dasdeeplina@gmail.com",
+      "mobile_phone": "08119061106"
+    }
+  }
+  

@@ -1,0 +1,68 @@
+{
+    "name": "Dr. Srimanta Ray",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "email": "srimanta.chemical@nita.ac.in",
+    "profile_url": "https://nita.irins.org/profile/59582",
+    "research_area": [
+      "Renewable and Sustainable Energy",
+      "Biofuels",
+      "Energy and Fuel Technology",
+      "Materials Science and Technologies",
+      "Polymers",
+      "Nanotechnology",
+      "Environmental Engineering",
+      "Environmental Biotechnology",
+      "Environmental Catalysis",
+      "Sustainability and Life Cycle Assessment",
+      "Engineering for Sustainability",
+      "Waste Management",
+      "Waste Utilization and Waste Valorization",
+      "Pollution Management of Air, Water and Soil",
+      "Electrochemical Technologies for better environment",
+      "Biotechnology and Biochemical Engineering",
+      "Environmental Microbiology",
+      "Process Modelling and Optimization",
+      "All pressing and emerging research in related areas"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Chemical Engineering Thermodynamics I",
+        "Chemical Process Technology",
+        "Materials Science and Engineering",
+        "Environmental Engineering",
+        "Polymer Processing Engineering"
+      ],
+      "PG": [
+        "Ecology and Environmental Impact Assessment",
+        "Ecology, Energy and Environmental Audit",
+        "Industrial Pollution Control",
+        "Environmental Biotechnology",
+        "Environmental Microbiology",
+        "Environmental Chemical Analysis",
+        "Industrial Wastewater Treatment",
+        "Solid and Hazardous Waste Management and Engineering",
+        "Advanced Instrumental Analysis",
+        "Polymer Processing Engineering"
+      ]
+    },
+    "address": {
+      "city": null,
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "srimanta.chemical@nita.ac.in",
+      "phone_residence": null,
+      "phone_mobile": "8974867827"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2010,
+        "subject": null
+      }
+    ]
+  }
+  

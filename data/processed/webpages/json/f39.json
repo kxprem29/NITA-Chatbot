@@ -1,0 +1,157 @@
+{
+    "name": "Dr. Madhujit Deb",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "email": "madhujitme79@gmail.com",
+    "profile_url": "https://www.nita.ac.in/Department/Department_FacultyProfile",
+    "research_area": [
+      "IC Engine",
+      "Alternative fuels"
+    ],
+    "address": {
+      "street": "Associate Professor, Department of Mechanical Engineering, NIT Agartala, P.O: NIT Agartala, Jirania, Tripura-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "madhujitme79@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "8413011560"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2015,
+        "subject": "Thermal Science and Engineering (Mechanical Engineering), NIT Agartala"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2010,
+        "subject": "Thermal Science and Engineering (Mechanical Engineering), NIT Agartala"
+      },
+      {
+        "degree": "B.Tech",
+        "description": "Bachelor of Technology",
+        "year": 2002,
+        "subject": "Mechanical Engineering, NERIST"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "IC Engine",
+        "Automobile Engineering (Elective-II)",
+        "Numerical Analysis and Computer Programming"
+      ],
+      "PG": [
+        "Numerical Analysis and Computer Programming",
+        "Alternative fuels"
+      ],
+      "PhD": [
+        "Alternative fuels",
+        "IC Engines"
+      ]
+    },
+    "publications_conference": [
+      {
+        "title": "Performance Analysis of Split Circular and Drop-Form Fin Geometry for Enhanced Heat Transfer Rate",
+        "conference": "Recent Advancements in Mechanical Engineering, Lecture Notes in Mechanical Engineering, Springer",
+        "year": 2022,
+        "url": "https://doi.org/10.1007/978-981-19-3266-3_10"
+      },
+      {
+        "title": "A Fuzzy Based Multi-Responsive Optimization of Engine Performance and Exhaust Emission Parameters of a Direct Injection Diesel Engine Using Thumba and Neem Biodiesel with Ethanol as an Additive",
+        "conference": "ASME Power and Energy Conference, PowerEnergy2016",
+        "year": 2016
+      },
+      {
+        "title": "Effect of hydrogen-diesel dual fuel combustion on the performance and emission characteristics of a four stroke-single cylinder diesel engine",
+        "conference": "WASET, San Francisco, USA",
+        "year": 2015
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Performance and emission assessment of an indirect ignition diesel engine fuelled with waste plastic pyrolysis oil and ethanol blends",
+        "journal": "Front. Therm. Eng",
+        "year": 2025,
+        "url": "https://doi.org/10.3389/fther.2025.1548806"
+      },
+      {
+        "title": "A Chaotic Boost: The Chaotic Crayfish Optimization Algorithm for Superior Solution Quality",
+        "journal": "Optimal Control Applications and Methods",
+        "year": 2025
+      },
+      {
+        "title": "Synergistic enhancement of performance and emission profiles in a single cylinder CI-engine: A fuzzy-tuned multi-objective whale optimization algorithm for diesel-hydrogen dual fuel augmentation",
+        "journal": "Energy Conversion and Management",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.enconman.2024.118865"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Green Ammonia: An Alternative Sustainable Energy Source for Clean Combustion",
+        "year": 2024,
+        "url": "https://doi.org/10.1007/978-981-97-0507-8_2"
+      },
+      {
+        "title": "Performance Analysis of Split Circular and Drop-Form Fin Geometry for Enhanced Heat Transfer Rate (Book Chapter)",
+        "year": 2022,
+        "isbn": "978-981-19-3265-6",
+        "url": "https://doi.org/10.1007/978-981-19-3266-3_10"
+      },
+      {
+        "title": "Operation of diesel engine using waste cooking oil: Its combustion and performance studies",
+        "year": 2012,
+        "publisher": "Lambert Academic Publisher, Germany",
+        "isbn": "978-3659273353"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "name": "GRDS International Conference, Barcelona",
+        "month": "July",
+        "year": 2017
+      },
+      {
+        "name": "World Academy of Science, Engineering and Technology (WASET), San Francisco, USA",
+        "year": 2015
+      },
+      {
+        "name": "8th Asia Pacific Conference on Combustion (ASPACC-10)",
+        "year": 2010
+      }
+    ],
+    "achievements": [
+      {
+        "description": "Received funding from SERB, Govt of India under CRG scheme for project 'Predictive Control of RCCI Engine Performance and Emissions using Artificial Intelligence (AI)'",
+        "year": 2024
+      },
+      {
+        "description": "GATE Qualified",
+        "year": 2006
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "Five Days (Online) Faculty Development Program on 'Modeling and Application of AI/ML in Engineering'",
+        "month": "December",
+        "year": 2024,
+        "role": "Program Convener"
+      },
+      {
+        "title": "Five days webinar on 'Biomass and Bio-energy'",
+        "month": "March",
+        "year": 2021
+      },
+      {
+        "title": "Five days webinar on 'Engine Combustion and Emission Diagnostics'",
+        "month": "October",
+        "year": 2020
+      }
+    ]
+  }
+  

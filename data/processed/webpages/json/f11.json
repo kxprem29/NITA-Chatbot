@@ -1,0 +1,364 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Anupam Jamatia",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "CSE",
+          "Full": "Computer Science and Engineering"
+        },
+        "Email": "anupamjamatia@nita.ac.in",
+        "URL": "https://anupamjamatia.github.io",
+        "Research_Areas": [
+          "Artificial intelligence",
+          "Multimodal AI",
+          "Natural Language Processing",
+          "Computational Linguistics",
+          "Language Technology",
+          "Computational Social Sciences",
+          "Cognitive Science",
+          "Computer Vision"
+        ],
+        "Address": {
+          "Address_Line": "Computer Science and Engineering Department, Room No#234, Bharat Ratna APJ Abdul Kalam Block, NIT Agartala, Tripura -799046",
+          "City": "AGARTALA",
+          "State": "TRIPURA",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": null
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Year": 2021,
+            "Subject": "Computer Science and Engineering"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2013,
+            "Subject": "Computer Science and Engineering"
+          },
+          {
+            "Degree": "B.E",
+            "Institute": "VSSUT (Formerly, UCE), Burla, Odisha",
+            "Year": 2000,
+            "Subject": "Computer Science and Engineering"
+          }
+        ],
+        "PhD_Students": {
+          "Ongoing": [
+            "M Varaprasad Rao",
+            "Manju Verma",
+            "Kapil Kumar"
+          ],
+          "Completed": []
+        },
+        "Courses_Taught": {
+          "UG": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Computer Networks",
+            "Data Communication",
+            "Internet Technology",
+            "Computer Programming"
+          ],
+          "PG": [
+            "Natural Language Processing"
+          ]
+        },
+        "Publications": {
+          "Journal": [
+            {
+              "Title": "Semantic Role Labelling: A Systematic Review of Approaches, Challenges, and Trends for English and Indian Languages",
+              "Authors": "Chakma, K., Datta, S., Jamatia, A. and Rudrapal, D.",
+              "Journal": "Expert Systems",
+              "Volume": 42,
+              "Year": 2025,
+              "DOI": "https://doi.org/10.1111/exsy.13838"
+            },
+            {
+              "Title": "Multimodal Machine Translation Approaches for Indian Languages: A Comprehensive Survey",
+              "Authors": "Binnu Paul, Dwijen Rudrapal, Kunal Chakma, Anupam Jamatia",
+              "Journal": "Journal of Universal Computer Science (J.UCS)",
+              "Year": 2024
+            },
+            {
+              "Title": "An Innovative Telugu Text Summarization Framework using the Pointer Network and Optimized Attention Layer",
+              "Authors": "M Varaprasad Rao, Kunal Chakma, Anupam Jamatia, Dwijen Rudrapal",
+              "Journal": "Multimedia Tools and Applications",
+              "Year": 2024,
+              "DOI": "https://link.springer.com/article/10.1007/s11042-024-19187-8"
+            },
+            {
+              "Title": "Identification and summarisation of events from Twitter using clustering algorithms and deep neural network",
+              "Authors": "Chakma, K., Jamatia, A., & Rudrapal, D.",
+              "Journal": "Natural Language Processing",
+              "Year": 2024,
+              "DOI": "https://doi.org/10.1017/nlp.2024.47"
+            },
+            {
+              "Title": "Deep Learning Based Sentiment Analysis in a Code-Mixed English-Hindi and English-Bengali Social Media Corpus",
+              "Authors": "Jamatia, A., Swamy, S.D., Gambäck, B., Das, A., & Debbarma, S.",
+              "Journal": "International Journal on Artificial Intelligence Tools",
+              "Year": 2020
+            },
+            {
+              "Title": "Deep Learning-Based Language Identification in English-Hindi-Bengali Code-Mixed Social Media Corpora",
+              "Authors": "Jamatia, A., Das, A., & Gambäck, B.",
+              "Journal": "Journal of Intelligent Systems",
+              "Year": 2018
+            },
+            {
+              "Title": "Customer Feedback Analysis Using Machine Learning Techniques",
+              "Authors": "Jamatia, A., Joshi, K., Kumar, K., Kumar, S., & Haldar, S.",
+              "Journal": "Research in Computing Science",
+              "Year": 2018
+            },
+            {
+              "Title": "Performance analysis of hierarchical and flat network routing protocols in wireless sensor network using Ns-2",
+              "Authors": "A Jamatia, K Chakma, N Kar, D Rudrapal, S Debbarma",
+              "Journal": "International Journal of Modeling and Optimization",
+              "Volume": 5,
+              "Issue": 1,
+              "Pages": "40",
+              "Year": 2015
+            },
+            {
+              "Title": "A review and analysis of software complexity metrics in structural testing",
+              "Authors": "MK Debbarma, S Debbarma, N Debbarma, K Chakma, A Jamatia",
+              "Journal": "International Journal of Computer and Communication Engineering",
+              "Volume": 2,
+              "Issue": 2,
+              "Pages": "129-133",
+              "Year": 2013
+            }
+          ],
+          "Conference": [
+            {
+              "Title": "Mapping the Linguistic Landscape: Progress Towards a Bengali FrameNet",
+              "Authors": "Sima Datta, Kunal Chakma, Dwijen Rudrapal, Anupam Jamatia",
+              "Conference": "Procedia Computer Science, Volume 258",
+              "Pages": "3814-3825",
+              "Year": 2025,
+              "DOI": "https://doi.org/10.1016/j.procs.2025.04.636"
+            },
+            {
+              "Title": "A Dataset Development for Fake News Detection in Low-Resource Romanized Manipuri",
+              "Authors": "Takhellambam Babylon Devi, Anupam Jamatia, Dwijen Rudrapal, Kunal Chakma",
+              "Conference": "3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC)",
+              "Year": 2025
+            },
+            {
+              "Title": "Biomedical Lay Summarization: Research Progress and Challenges",
+              "Authors": "Souramita Bhowmik, Anupam Jamatia, Dwijen Rudrapal, Kunal Chakma",
+              "Conference": "3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC)",
+              "Year": 2025
+            },
+            {
+              "Title": "Team A at SemEval-2025 Task 11: Breaking Language Barriers in Emotion Detection with Multilingual Models",
+              "Authors": "P Sam Sahil, A. Jamatia",
+              "Conference": "The 19th International Workshop on Semantic Evaluation (SemEval-2025)",
+              "Pages": "73-82",
+              "Year": 2025
+            },
+            {
+              "Title": "Unveiling Human Values: The Heart of Arguments",
+              "Authors": "J. Joshi, R. Aasliya and A. Jamatia",
+              "Conference": "2024 Parul International Conference on Engineering and Technology (PICET)",
+              "Pages": "1-6",
+              "Year": 2024,
+              "DOI": "10.1109/PICET60765.2024.10716071"
+            },
+            {
+              "Title": "Prediction of Air Quality Using Machine Learning",
+              "Authors": "Kumar, A., Jamatia, A.",
+              "Conference": "10th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2022)",
+              "Year": 2023,
+              "DOI": "https://doi.org/10.1007/978-981-19-7513-4_18"
+            },
+            {
+              "Title": "An Approach of Hate Speech Identification on Twitter Corpus",
+              "Authors": "Kumari, K., Jamatia, A.",
+              "Conference": "10th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2022)",
+              "Year": 2023,
+              "DOI": "https://doi.org/10.1007/978-981-19-7513-4_11"
+            },
+            {
+              "Title": "Study of Language Models for Fine-Grained Socio-Political Event Classification",
+              "Authors": "Gupta, K., Jamatia, A.",
+              "Conference": "Machine Learning and Computational Intelligence Techniques for Data Engineering. MISP 2022",
+              "Year": 2023,
+              "DOI": "https://doi.org/10.1007/978-981-99-0047-3_42"
+            },
+            {
+              "Title": "Implementation of Legal Documents Text Summarization and Classification by Applying Neural Network Techniques",
+              "Authors": "Rusiya, S., Jamatia, A.",
+              "Conference": "Machine Intelligence Techniques for Data Analysis and Signal Processing. Lecture Notes in Electrical Engineering, vol 997",
+              "Year": 2023,
+              "DOI": "https://doi.org/10.1007/978-981-99-0085-5_27"
+            },
+            {
+              "Title": "Cross-Lingual Speaker Identification for Indian Languages",
+              "Authors": "Rizvi, A., Jamatia, A., Rudrapal, D., Chakma, K., & Gambäck, B.",
+              "Conference": "International Conference Recent Advances in Natural Language Processing (RANLP)",
+              "Pages": "975-983",
+              "Year": 2023
+            },
+            {
+              "Title": "NIT-Agartala-NLP-Team at EXIST 2022: Sexism Identification in Social Networks",
+              "Authors": "Rizvi, A, and Jamatia, A.",
+              "Conference": "Iberian Languages Evaluation Forum (IberLEF 2022)",
+              "Year": 2022
+            },
+            {
+              "Title": "NIT-Agartala-NLP-Team at SemEval-2020 Task 8: Building Multimodal Classifiers to tackle Internet Humor",
+              "Authors": "Swamy, S.D., Laddha, S., Abdussalam, B., Datta, D., and Jamatia, A.",
+              "Conference": "Fourteen International Workshop on Semantic Evaluation",
+              "Year": 2020
+            },
+            {
+              "Title": "Rating Prediction of Tourist Destinations Based on Supervised Machine Learning Algorithms",
+              "Authors": "Jamatia, A., Baidya, U., Paul, S., Swaraj, D., & Dey, S.",
+              "Conference": "International Conference on Computational Intelligence in Data Mining",
+              "Year": 2019
+            },
+            {
+              "Title": "An Ensemble Approach to Identifying and Categorizing Offensive Language in Twitter Social Media Corpora",
+              "Authors": "NIT_Agartala_NLP_Team at SemEval-2019 Task 6",
+              "Conference": "Thirteenth International Workshop on Semantic Evaluation",
+              "Pages": "692–699",
+              "Year": 2019
+            },
+            {
+              "Title": "Validation of Facts Against Textual Sources",
+              "Authors": "Pendyala, V. K., Sinha, S., Prakash, S., Reddy, S., & Jamatia, A.",
+              "Conference": "International Conference Recent Advances in Natural Language Processing (RANLP)",
+              "Pages": "896–904",
+              "Year": 2019
+            },
+            {
+              "Title": "Studying Generalisability across Abusive Language Detection Datasets",
+              "Authors": "Swamy, S.D., Jamatia, A., & Gambäck, B.",
+              "Conference": "23rd Conference on Computational Natural Language Learning (CoNLL), Hong Kong",
+              "Year": 2019
+            },
+            {
+              "Title": "A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content",
+              "Authors": "Maheshwari, T., Reganti, A. N., Gupta, S., Jamatia, A., Kumar, U., Gambäck, B., & Das, A.",
+              "Conference": "15th Conference of the European Chapter of the Association for Computational Linguistics",
+              "Pages": "731–741",
+              "Year": 2017
+            },
+            {
+              "Title": "Tool Contest on POS Tagging for Code-mixed Indian Social Media Text@ ICON 2016",
+              "Authors": "Jamatia, A., & Das, A.",
+              "Conference": "ICON 2016",
+              "Year": 2016
+            },
+            {
+              "Title": "Collecting and Annotating Indian Social Media Code-Mixed Corpora",
+              "Authors": "Jamatia, A., Gambäck, B., & Das, A.",
+              "Conference": "CICLing (2) (Vol. 9624, pp. 406–417), Springer",
+              "Year": 2016
+            },
+            {
+              "Title": "Sentence Boundary Detection for Social Media Text",
+              "Authors": "Rudrapal, D., Jamatia, A., Chakma, K., Das, A., & Gambäck, B.",
+              "Conference": "12th International Conference on Natural Language Processing",
+              "Pages": "254–260",
+              "Year": 2015
+            },
+            {
+              "Title": "Part-of-Speech Tagging for Code-Mixed English-Hindi Twitter and Facebook Chat Messages",
+              "Authors": "Jamatia, A., Gambäck, B., & Das, A.",
+              "Conference": "International Conference Recent Advances in Natural Language Processing (RANLP)",
+              "Pages": "239–248",
+              "Year": 2015
+            },
+            {
+              "Title": "An analysis and improvement of probe-based algorithm for distributed deadlock detection",
+              "Authors": "K Chakma, A Jamatia, T Debbarma",
+              "Conference": "Lecture Notes on Software Engineering 3 (4), 285-289",
+              "Year": 2015
+            },
+            {
+              "Title": "Part-of-Speech Tagging System for Indian Social Media Text on Twitter",
+              "Authors": "Jamatia, A., & Das, A.",
+              "Conference": "1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), ICON-2014",
+              "Pages": "21-28",
+              "Year": 2014
+            },
+            {
+              "Title": "An improved data security using DNA sequencing",
+              "Authors": "N Kar, A Majumder, A Saha, A Jamatia, K Chakma, MC Pal",
+              "Conference": "3rd ACM MobiHoc workshop on Pervasive wireless healthcare",
+              "Year": 2013
+            },
+            {
+              "Title": "Scenario Based Pause Time Analysis of AODV, DSDV and DSR over CBR Connections in MANET",
+              "Authors": "A Jamatia, T Debbarma, MK Debbarma, S Debbarma",
+              "Conference": "Lecture Notes on Software Engineering, IACSIT Press",
+              "Year": 2013
+            },
+            {
+              "Title": "MobileHealth’13",
+              "Authors": "N Kar, A Majumder, A Saha, A Jamatia, K Chakma, DMC Pal",
+              "Conference": "Bangalore, India, ACM",
+              "Year": 2013
+            },
+            {
+              "Title": "Energy Comparison of Different NOC Routers",
+              "Authors": "Biman Debbarma, Sambhu Nath Pradhan, Anupam Jamatia",
+              "Conference": "International Conference on Advances in Computing, Electronics and Communication - ACEC",
+              "Date": "12-13 October 2013",
+              "Location": "Zurich, Switzerland"
+            },
+            {
+              "Title": "A biometric based design pattern for implementation of a security conscious e-voting system using cryptographic protocols",
+              "Authors": "N Kar, S Roy, A Saha, K Chakma, A Jamatia",
+              "Conference": "International Conference on Advances in Information Technology and Mobile Communication",
+              "Pages": "78-85",
+              "Publisher": "Springer, Berlin, Heidelberg",
+              "Year": 2012
+            },
+            {
+              "Title": "Implementation of FPGA based Indirect Space Vector Pulse Width Modulation strategy for a three phase Matrix Converter",
+              "Authors": "Anindita Jamatia, Anupam Jamatia, Ravi Ramadugu, Prasid Syam",
+              "Conference": "The third National Power Electronics Conference NPEC 2007, IISc, Bangalore",
+              "Date": "December 17-19, 2007"
+            }
+          ]
+        },
+        "Patents": [
+          {
+            "Title": "An Approach For Classification Of Malicious Host In Cloud environment",
+            "Application_Number": "202231013211",
+            "Filing_Date": "11/03/2022",
+            "Publication_Date": "15/04/2022",
+            "Year": 2022
+          }
+        ],
+        "Subjects_Taught": [
+          {
+            "Class": "M.Tech-1st Semester-2022",
+            "Subjects": ["Natural Language Processing (PCS21E15, PCS01E14)"]
+          },
+          {
+            "Class": "B.Tech-7th Semester-2022",
+            "Subjects": ["Machine Learning (UCS06B17)"]
+          },
+          {
+            "Class": "B.Tech-8th Semester-2022",
+            "Subjects": ["Natural Language Processing (UCS08E11)"]
+          },
+          {
+            "Class": "B.Tech-6th Semester-2022",
+            "Subjects": ["Computer Network (UCS06B26)"]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,335 @@
+{
+    "department": "Production Engineering",
+    "faculty_profile": {
+      "name": "Dr. Nabarun Biswas",
+      "designation": "Assistant Professor",
+      "email": "nabarun.pe@faculty.nita.ac.in",
+      "research_area": [
+        "Tribology",
+        "Machine Design"
+      ],
+      "courses_taught": {
+        "UG": [
+          "Mechanics of Machine",
+          "Design of Machine Elements"
+        ],
+        "PG": [
+          "FEM"
+        ]
+      },
+      "phd_students": {
+        "enrolled_ongoing": 3
+      },
+      "address_information": {
+        "address": "Production Engineering Department, NIT Agartala",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email": "nabarun.pe@faculty.nita.ac.in",
+        "phone_residence": "-",
+        "phone_mobile": "6033348836"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "Ph. D. (Philosophy of Doctorate)",
+          "university": "",
+          "year": "2017",
+          "subject": "Mechanical Engineering"
+        },
+        {
+          "degree_diploma": "M.TECH (Master of Technology)",
+          "university": "NIT Silchar",
+          "year": "2011",
+          "subject": "Mechanical Engineering"
+        },
+        {
+          "degree_diploma": "B.E (Bachelor of Engineering)",
+          "university": "",
+          "year": "2009",
+          "subject": "Production Engineering"
+        }
+      ],
+      "publication_conferences": [
+        {
+          "title": "CFD Analysis of water-based slipper bearing",
+          "authors": "Choudhuri K, Equbal A, Biswas N, Pati N, Mandal SK, Biswas S",
+          "conference": "International Conference on Advance Earth Sciences & Foundation Engineering, Mohali, India",
+          "details": "IOP Conference Series: Earth and Environmental Science, Vol. 1110012073, doi-10.1088/1755-1315/1110/1/012073",
+          "month": "JUN",
+          "year": "2022-2023"
+        },
+        {
+          "title": "An Eclectic Decision for Selection of Aluminium Alloy for Aerospace and Automotive Industries",
+          "authors": "Bhattacharjee P., Mandal UK., Dey V., Chakraborty S., Biswas N.",
+          "conference": "ICRIET-International Conference on Recent Innovations in Engineering and Technology (ICRIET-2017)",
+          "pages": "Pg-5-9",
+          "year": "2017"
+        },
+        {
+          "title": "An Investigation to see the effects of air foil bearing on its load bearing capacity by varying its structural parameters",
+          "authors": "Chakarborty B, Saha A, Biswas N",
+          "conference": "National Conference on Engineering problems and application of mathematics, NIT Agartala",
+          "month": "JUN",
+          "year": "2016"
+        },
+        {
+          "title": "Thermodynamics and Economical analysis for the Feasibility Study of a Binary Geothermal Power Plant in India",
+          "authors": "Kumara A, Reanga M. N, Biswas N, Acharjeea A, Chakraborti P",
+          "conference": "National Conference on engineering problems and application of mathematics, NIT Agartala",
+          "month": "JUN",
+          "year": "2016"
+        },
+        {
+          "title": "Study of Social Change and Socio-Economical Assessment in power Sector of Tripura Persprctive and its socio Economical Measures",
+          "authors": "Kumara A, Reanga M. N, Ahmada S.Z.A, Biswas N, Acharjeea A, Chakraborti P",
+          "conference": "National Conference on engineering problems and application of mathematics, NIT Agartala",
+          "month": "JUN",
+          "year": "2016"
+        },
+        {
+          "title": "Performance & Stability Analysis of a Three Lobe Journal Bearing with Varying Parameters: Experiments and Analysis",
+          "authors": "Biswas N, Chakraborti P, Saha A, Biswas S",
+          "conference": "AIP International Conference on Mechanical Engineering ICME2015, BUET, Dhaka Bangladesh",
+          "pages": "pp-030002-1 to 030002-8",
+          "year": "2015"
+        },
+        {
+          "title": "An AHP approach for determining the weightage of the parameters effecting cavitations and overall performance of a Kaplan turbine",
+          "authors": "R, Saha. A, Biswas N",
+          "conference": "International Conference on Emerging trends of engineering, science, management and its application, JNU New Delhi",
+          "pages": "pp-363-371",
+          "year": "2015"
+        },
+        {
+          "title": "Oil Well Rig and Directional Drilling Technology: A Field Investigation",
+          "authors": "Dutta. P, Biswas N, Chakraborty S, Biswas S",
+          "conference": "International Conference On Emerging Trends in Science Technology Engineering and Management, Malla Reddy Engineering College, Telangana",
+          "pages": "pp-589-596",
+          "year": "2015"
+        },
+        {
+          "title": "Transient CFD Analysis of 3-Lobe Bearings considering surface roughness effect for A Gas Turbine",
+          "authors": "Biswas N, Chakraborti P",
+          "conference": "International Conference on BSME-ICTE, Bangladesh, Elsevier OpenConf system",
+          "pages": "105:225-231",
+          "month": "JUN",
+          "year": "2014"
+        },
+        {
+          "title": "Transient analysis of the effect of roughness parameters on the 3-lobe hydrodynamics bearings with rough surfaces",
+          "authors": "Biswas N, Chakraborti P",
+          "conference": "International Conference organised by The Institution of Engineers (India), Tripura State Centre & NIT Agartala",
+          "year": "2014"
+        },
+        {
+          "title": "A Review Paper Of Wind Energy",
+          "authors": "Chakraborty S., Dutta S., Sinha A., Biswas N",
+          "conference": "National Conference on AREST-11",
+          "year": "2011"
+        },
+        {
+          "title": "Experimental Investigation Of MRR & Surface Roughness in CNC End Milling Process For Alluminium",
+          "authors": "Chakraborty S, Biswas N, Bhattacharjee P, Biswas S, Kumar T",
+          "conference": "National Conference on engineering problems and application of mathematics, NIT Agartala",
+          "month": "JUN",
+          "year": "2016"
+        }
+      ],
+      "publication_journals": [
+        {
+          "title": "Sound absorption properties of natural Bari bamboo composite",
+          "authors": "Kumar R, Saha A, Biswas N, Singh G, Kumar N Beem, Kumar A Vijay, Bhowmik A, Bhattacharjee B",
+          "journal": "Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications (SAGE Journals)",
+          "month": "FEB",
+          "year": "2025"
+        },
+        {
+          "title": "Effect of nanoparticle-based lubricants on various performance characteristics of journal bearings: a review",
+          "authors": "Biswas N, Mandal SK, Bhagwatkar I, Kumar R, Kaur J, Bhowmik A, Choudhuri K, Bhattacharjee B",
+          "journal": "IOPscience (Engineering Research Express)",
+          "month": "JAN",
+          "year": "2025"
+        },
+        {
+          "title": "Evaluation of the Performance Characteristics of Aerostatic Bearing with Porous Alumina (Al2O3) Membrane Using Theoretical and Experimental Methods",
+          "authors": "Chakraborty B, Bhattacharjee B, Biswas N, Chakraborti P",
+          "journal": "Journal of Engineering Tribology",
+          "month": "MAR",
+          "year": "2024"
+        },
+        {
+          "title": "Prediction and Optimization of a Hydrodynamic Journal Bearing’s Energy Efficient Tribological Behaviours for Different Grades of Lube Oil: A Novel DoE-RSM Strategy",
+          "authors": "Biswas N, Biswas Srijit, K Bhattacharjee B, Mandal S.K, Choudhuri K, Chakraborti P",
+          "journal": "Arabian Journal for Science and Engineering",
+          "month": "JAN",
+          "year": "2024"
+        },
+        {
+          "title": "Enhancing Combustion Stability in Biodiesel Engines: The Plausibility of n-Butanol Injection Phasing and Reactivity-Controlled Compression Ignition-An Experimental Endeavour",
+          "authors": "Sengupta A, Biswas S, Banerjee R, Biswas N",
+          "journal": "Journal of Fuel",
+          "month": "MAY",
+          "year": "2024"
+        },
+        {
+          "title": "CFD Analysis of water-based slipper bearing",
+          "authors": "Choudhuri K, Equbal A, Biswas N, Pati A, Mandal S.K, Biswas S",
+          "journal": "Journal of IOPC series: Earth and environment science",
+          "month": "OCT",
+          "year": "2023"
+        },
+        {
+          "title": "Impact of Nano-lubrication on Single-Layered Porous Hydrodynamic Journal Bearing: A Hypothetical Approach",
+          "authors": "Bhattacharjee B, Biswas N, Chakraborti P, Choudhuri K",
+          "journal": "Journal of Porous Media",
+          "month": "MAY",
+          "year": "2023"
+        },
+        {
+          "title": "An Investigation to Find the Effects on Air Foil Bearing by the Variation of Foil’s Structural Parameters",
+          "authors": "Chakraborty B, Biswas N, Chakraborti P",
+          "journal": "Journal of Scientific and Industrial Research (JSIR), Vol.82(06)",
+          "month": "JUN",
+          "year": "2023"
+        },
+        {
+          "title": "Parametric Optimization on The Performance of the Journal Bearing using Taguchi Approach",
+          "authors": "Mandal S.K, Bhattacharjee B, Biswas N, Choudhuri K, Chakraborti P",
+          "journal": "Journal of Porous Media",
+          "month": "JULY",
+          "year": "2023"
+        },
+        {
+          "title": "Stir Cast Al–Cu–SiCp Metal Matrix Composites: Effect of SiC Particles on the Mechanical Properties and Optimization of EDM Process Parameters",
+          "authors": "Biswas N, Rai R. N, Choudhuri K, Saha A, Das A, Sinha A",
+          "journal": "Journal of The Institution of Engineers (India): Series D",
+          "year": "2022"
+        },
+        {
+          "title": "A numerical study of an external gear pump operating under different conditions",
+          "authors": "Choudhuri K, Biswas N, Mandal SK, Mitra C, Biswas S",
+          "journal": "Materials Today: Proceedings",
+          "year": "2022"
+        },
+        {
+          "title": "Application of nanofluids on various performance characteristics of hydrodynamic journal bearing—A review",
+          "authors": "Mandal SK, Bhattacharjee B, Biswas N, Choudhuri K, Chakraborti P",
+          "journal": "Journal of Process Mechanical Engineering",
+          "year": "2022"
+        },
+        {
+          "title": "A Comparative Analysis of the Performance of Micropolar Fluid Lubricated Single-Layered and Double-Layered Porous Journal Bearing",
+          "authors": "Bhattacharjee B, Biswas N, Chakraborti P, Choudhuri K",
+          "journal": "Journal of Porous Media, Vol.25, pp.35-45",
+          "year": "2022"
+        },
+        {
+          "title": "Optimisation of Pressure and Oil Film Thickness in Multilobe Bearing using Response Surface Methodology and Moga",
+          "authors": "Biswas N, Chakraborti P, Dhar P",
+          "journal": "Journal of Scientific and Industrial Research (JSIR) 75: 495-499",
+          "year": "2016"
+        },
+        {
+          "title": "An analytical and experimental approach for pressure distribution analysis of a particular lobe and plain bearing performance",
+          "authors": "Biswas N, Chakraborti P, Belkar S",
+          "journal": "Journal of Mechanical Science and Technology (JMST) Springer, 30(5):2187-2193",
+          "year": "2016"
+        },
+        {
+          "title": "Design of a hybrid solar and hydro power system for rural regions- A review from India perspectives",
+          "authors": "Biswas N, Acharjee A, Chakraborti P",
+          "journal": "Star research journal, Volume 4 Issue 4, PP 1-11",
+          "year": "2016"
+        },
+        {
+          "title": "CFDAnalysis of Multilobe Bearings at 70000 rpm",
+          "authors": "Biswas N, Chakraborty S",
+          "journal": "International Journal of Dynamics of Fluids (IJDF) 9.1:17-28",
+          "year": "2013"
+        },
+        {
+          "title": "CFD Analysis of Centrifugal Pumps with Variations of Blade Number at 3300 RPM",
+          "authors": "Biswas N, Chakraborty S",
+          "journal": "International Journal of Engineering Studies (IJES) 8.3:203-213",
+          "year": "2013"
+        },
+        {
+          "title": "Transient Analysis Of 3-Lobe Bearings at 80000 RPM for A Gas Turbine",
+          "authors": "Biswas N, Hikmat Sk, Tiwari Ratnesh",
+          "journal": "4th international congress of environmental research, ACER13. 2:15-20",
+          "year": "2013"
+        },
+        {
+          "title": "A Study on Concurrent Engineering-based Design and Product Development",
+          "authors": "Biswas N, Basu Sandip, Biswas Naha Supria",
+          "journal": "4th international congress of environmental research, ACER13. 2:21-32",
+          "year": "2013"
+        },
+        {
+          "title": "A Simple Case Study of Material Requirement Planning",
+          "authors": "Biswas N, Chakraborty S, Sarkar A, Das D",
+          "journal": "IOSR Journal of Mechanical and Civil Engineering (IOSR-JMCE) Volume 9, Issue 5, pp. 58-64",
+          "year": "2013"
+        },
+        {
+          "title": "Transient CFD Analysis of Multi-Lobe Bearings at 60000 RPM for A Gas Turbine",
+          "authors": "Pandey K.M., Paul A.C., Biswas N",
+          "journal": "International Journal of Engineering and Technology, IACSIT Singapore 3:512-517",
+          "year": "2011"
+        },
+        {
+          "title": "Transient CFD Analysis of Multi-Lobe Bearings at 20000 RPM for A Gas Turbine",
+          "authors": "Pandey K.M., Biswas N., Paul A.C., Singh A.P",
+          "journal": "International Journal of Applied Engineering Research 6:1247-1261",
+          "year": "2011"
+        }
+      ],
+      "patents": [
+        {
+          "title": "An ANN-based system for evaluating hydrodynamic bearing performance",
+          "year": "2025"
+        },
+        {
+          "title": "System for the design and evaluation of an aerostatic bearing with a porous aluminum oxide (Al2O3) membrane",
+          "year": "2024"
+        },
+        {
+          "title": "A system for modelling and performing a static structural analysis of the human knee joint",
+          "year": "2024"
+        },
+        {
+          "title": "Apparatus for collecting recyclable objects and dispensing rewards",
+          "year": "2022"
+        }
+      ],
+      "achievements": [
+        {
+          "title": "Advanced smart systems and sustainable solutions for Healthcare, Energy and Infrastructure through AI and Innovative Technologies",
+          "sponsoring_agency": "Anusandhan National Research Foundation (ANRF)",
+          "grant": "Rs. 1,50,00,000/-",
+          "status": "Sanction Letter Received",
+          "role": "Co-Principal Investigator",
+          "year": "2025"
+        },
+        {
+          "title": "Underwater image classification using ensemble learning methods",
+          "sponsoring_agency": "IITG TIDF",
+          "grant": "Rs. 7,00,000.00",
+          "status": "Sanction Letter Received",
+          "role": "Co-Principal Investigator",
+          "year": "2024"
+        },
+        {
+          "title": "Estimation of river runoff in Haora river basin with the help of multi criteria decision making (MCDM)",
+          "sponsoring_agency": "The Institution of Engineers (India)",
+          "grant": "Rs. 25,000",
+          "status": "Awarded",
+          "role": "Co-Principal Investigator",
+          "year": "2015"
+        }
+      ]
+    }
+  }
+  

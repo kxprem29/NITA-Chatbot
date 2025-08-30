@@ -1,0 +1,71 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Abhishek Nag",
+        "Designation": "Assistant Professor (Contractual)",
+        "Department": {
+          "Short": "ECE",
+          "Full": "Electronics and Communication Engineering"
+        },
+        "Email": "abhi14379@gmail.com",
+        "Research_Areas": [
+          "Low Power VLSI",
+          "VLSI Design and Testing",
+          "Semiconductor Memories"
+        ],
+        "Address": {
+          "Address_Line": "c/o- Dr. P. Nag, Ramnagar Road No. 5, Near Mukti Sangha Club",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9862139568"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Year": 2018,
+            "Institute": "NIT Agartala",
+            "Subject": "Electronics and Communication"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2013,
+            "Institute": null,
+            "Subject": "Microelectronics and VLSI Design"
+          },
+          {
+            "Degree": "B.Tech",
+            "Year": 2011,
+            "Institute": null,
+            "Subject": "Electronics and Communication"
+          }
+        ],
+        "Courses_Taught": {
+          "UG": [
+            "Basic Electronics",
+            "Digital Communication",
+            "Digital Electronics",
+            "VLSI Engineering",
+            "Advanced Digital Systems",
+            "Embedded Systems",
+            "Semiconductor Physics and Devices",
+            "Analog Electronics Circuits I"
+          ],
+          "PG": [
+            "Semiconductor Memories",
+            "Embedded Systems & IoT"
+          ]
+        },
+        "Achievements": [
+          {
+            "Achievement": "Qualified in GATE 2011",
+            "Year": 2011
+          }
+        ]
+      }
+    ]
+  }
+  

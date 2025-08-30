@@ -1,0 +1,300 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "faculty_profile": {
+      "name": "Dr. Mrinmoy Majumder",
+      "designation": "Associate Professor",
+      "email_id": "mmajumder15@gmail.com",
+      "address_information": {
+        "address": "National Institute of Technology, Agartala",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email_address": "mmajumder15@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "9830887194"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "Ph. D. (Philosophy of Doctorate)",
+          "year": "2010",
+          "subject": "Water Resources Engineering"
+        },
+        {
+          "degree_diploma": "M.E. (Master of Engineering)",
+          "year": "2006",
+          "subject": "Water Resources Engineering"
+        },
+        {
+          "degree_diploma": "B.E (Bachelor of Engineering)",
+          "year": "2003",
+          "subject": "Electrical"
+        }
+      ],
+      "publication_journal": [
+        {
+          "title": "Trapezoidal fuzzy BWM-TOPSIS approach and application on water resources",
+          "authors": "Priyanka Majumder, Arnab Paul, Pratik Saha, Mrinmoy Majumder, Dayarnab Baidya, Dhritiman Saha",
+          "journal": "Environment, Development and Sustainability 25 (3), 2648-2669",
+          "month": "MAR",
+          "year": "2023"
+        },
+        {
+          "title": "Estimation of failure probability of wave energy farms by group method of data handling: An indian scenario",
+          "authors": "S Ghosh, M Majumder, OH Mohammed, M Bajaj, AR Singh, S Kamel",
+          "journal": "FRONTIERS IN ENERGY RESEARCH 10",
+          "month": "OCT",
+          "year": "2022"
+        },
+        {
+          "title": "A Review on the Various Cost Effective Water Filtration Techniques",
+          "authors": "N Boraah, A Mondal, M Majumder",
+          "journal": "Groundwater and Water Quality: Hydraulics, Water Resources and Coastal Engineering, pp (347-352)",
+          "month": "OCT",
+          "year": "2022"
+        },
+        {
+          "title": "Estimation of Runoff Under Changed Climatic Scenario of a Meso Scale River by Neural Network Based Gridded Model Approach",
+          "authors": "Debajit Das, Tilottama Chakraborty, Mrinmoy Majumder, Tarun Kanti Bandyopadhyay",
+          "journal": "Water Resources Management",
+          "month": "JUN",
+          "year": "2022"
+        },
+        {
+          "title": "Assessment of water quality trends in Deepor Beel, Assam, India",
+          "authors": "Ritabrata Roy, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 24:14327–14347",
+          "month": "DEC",
+          "year": "2021"
+        },
+        {
+          "title": "Identification of the probability of the park effect in a wave-to-power system using the analytical hierarchical process and a polynomial neural network mode",
+          "authors": "Satyabrata Saha, Mrinmoy Majumder, Manish Pal",
+          "journal": "Environment, Development and Sustainability 23:17403–17422",
+          "month": "APRIL",
+          "year": "2021"
+        },
+        {
+          "title": "Polynomial neural network-based group method of data handling algorithm coupled with modified particle swarm optimization to predict permeate flux (%) of rectangular sheet-shaped membrane",
+          "authors": "Anirban Banik, Mrinmoy Majumder, Sushant Kumar Biswal, Tarun Kanti Bandyopadhyay",
+          "journal": "Chemical Papers 76:79-97",
+          "month": "AUG",
+          "year": "2021"
+        },
+        {
+          "title": "Application of novel intuitionistic fuzzy BWAHP process for analysing the efficiency of water treatment plant",
+          "authors": "Priyanka Majumder, Dayarnab Baidya, Mrinmoy Majumder",
+          "journal": "Neural Computing and Applications 33(24):17389-17405",
+          "month": "AUG",
+          "year": "2021"
+        },
+        {
+          "title": "Application of AHP-based water quality index for quality monitoring of peri-urban watershed",
+          "authors": "Koushani Sarkar, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 23:1780-1798",
+          "month": "MAR",
+          "year": "2020"
+        },
+        {
+          "title": "Optimal location selection for installation of surface water treatment plant by Gini coefficient-based analytical hierarchy process",
+          "authors": "Sudipa Choudhury, Apu Kumar Saha, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 22:4073-4099",
+          "year": "2020"
+        },
+        {
+          "title": "Real-time monitoring of power production in modular hydropower plant: most significant parameter approach",
+          "authors": "Priyanka Majumder, Mrinmoy Majumder, Apu Kumar Saha",
+          "journal": "Environment, Development and Sustainability 22:4025-4042",
+          "year": "2020"
+        },
+        {
+          "title": "Allocation of energy in surface water treatment plants for maximum energy conservation",
+          "authors": "Paulami De, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 22:3347-3370",
+          "year": "2020"
+        },
+        {
+          "title": "Selection of features for analysis of reliability of performance in hydropower plants: a multi-criteria decision making approach",
+          "authors": "Priyanka Majumder, Mrinmoy Majumder, Apu Kumar Saha, Soumitra Nath",
+          "journal": "Environment, Development and Sustainability 22:3239-3265",
+          "year": "2020"
+        },
+        {
+          "title": "Identification of Park Effect Probability in Wave Energy Conversion System using Multi Criteria Decision Making Method (AHP) and Neural Network Model (GMDH Shell)",
+          "authors": "Satyabrata Saha, Mrinmoy Majumder, Manish Pal",
+          "journal": "-",
+          "year": "2019"
+        },
+        {
+          "title": "Optimization of material removal rate in wire EDM by polynomial neural network models",
+          "authors": "Prasenjit Dutta, Mrinmoy Majumder, Subhash Chandra Panja",
+          "journal": "Computational Intelligence 36(2):613-636",
+          "year": "2019"
+        },
+        {
+          "title": "Suitability index for collection bin allocation using analytical hierarchy process (AHP) cascaded to artificial neural network (ANN)",
+          "authors": "Debasree Purkayastha, Mrinmoy Majumder, Sumanta Chakrabarti",
+          "journal": "Detritus 9:38",
+          "year": "2019"
+        },
+        {
+          "title": "Impact of extreme events on conversion efficiency of wave energy converter",
+          "authors": "Tilottama Chakraborty, Mrinmoy Majumder",
+          "journal": "Energy Science & Engineering 8(10):3441-3456",
+          "year": "2019"
+        },
+        {
+          "title": "Application of novel MCDM for location selection of surface water treatment plant",
+          "authors": "Sudipa Choudhury, Prasenjit Howladar, Mrinmoy Majumder, Apu Kumar Saha",
+          "journal": "IEEE Transactions on Engineering Management 69(5):1865-1877",
+          "year": "2019"
+        },
+        {
+          "title": "Economic optimization and energy analysis in shell and tube heat exchanger by meta-heuristic approach",
+          "authors": "Uttam Roy, Mrinmoy Majumder",
+          "journal": "Vacuum 166:413-418",
+          "year": "2019"
+        },
+        {
+          "title": "Assessment of water quality trends in Loktak Lake, Manipur, India",
+          "authors": "Ritabrata Roy, Mrinmoy Majumder",
+          "journal": "Environmental earth sciences 78:1-12",
+          "year": "2019"
+        },
+        {
+          "title": "Real-time monitoring of water requirement in protected farms by using polynomial neural networks and image processing",
+          "authors": "Amaresh Sarkar, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 21:1451-1483",
+          "year": "2019"
+        },
+        {
+          "title": "Economic of a six-story stacked protected farm structure",
+          "authors": "Amaresh Sarkar, Mrinmoy Majumder",
+          "journal": "Environment, Development and Sustainability 21:1075-1089",
+          "year": "2019"
+        },
+        {
+          "title": "Real time reliability monitoring of hydro-power plant by combined cognitive decision-making technique",
+          "authors": "Priyanka Majumder, Mrinmoy Majumder, Apu Kumar Saha, Koushani Sarkar, Soumitra Nath",
+          "journal": "International Journal of Energy Research 43(9):4912-4939",
+          "year": "2019"
+        },
+        {
+          "title": "Productivity yielding in shell and tube heat exchanger by MCDM-NBO approach",
+          "authors": "Uttam Roy, Mrinmoy Majumder",
+          "journal": "Measurement and Control 52(3-4):262-275",
+          "year": "2019"
+        },
+        {
+          "title": "Application of statistical charts, multi-criteria decision making and polynomial neural networks in monitoring energy utilization of wave energy converters",
+          "authors": "Tilottama Chakraborty, Mrinmoy Majumder",
+          "journal": "Environment, development and sustainability 21:199-219",
+          "year": "2019"
+        },
+        {
+          "title": "Estimation of pressure drop for non-Newtonian liquid flow through bends using adaptive non-parametric model",
+          "authors": "Suman Debnath, Anirban Banik, Tarun Kanti Bandyopadhyay, Mrinmoy Majumder, Apu Kumar Saha",
+          "journal": "International Journal of Fluid Mechanics Research 47(1)",
+          "year": "2019"
+        },
+        {
+          "title": "Application of AHP-VIKOR and GMDH framework to develop an indicator to identify utilisation potential of wave energy converter with respect to location",
+          "authors": "-",
+          "journal": "-",
+          "year": "2019"
+        }
+      ],
+      "book_published": [
+        {
+          "title": "A Review on the Various Cost Effective Water Filtration Techniques",
+          "authors": "Nekita Boraah, Abhijit Mondal, Mrinmoy Majumder",
+          "year": "2022"
+        },
+        {
+          "title": "Application of Group Method of Data Handling–Based Neural Network (GMDH-NN) for Forecasting Permeate Flux (%) of Disc-Shaped Membrane",
+          "authors": "Anirban Banik, Mrinmoy Majumder, Sushant Kumar Biswal, Tarun Kanti Bandyopadhyay",
+          "year": "2022"
+        },
+        {
+          "title": "Climate Change Impact on Virtual Water Availability: A Categorized Polynomial Neural Network Approach",
+          "authors": "Mrinmoy Majumder, Apu K. Saha, Prachi D. Khobragade, Deepjyoti Deb, Khakachang Tripura",
+          "year": "2022"
+        },
+        {
+          "title": "Development of Self-Organized Group Method of Data Handling (GMDH) Algorithm to Increase Permeate Flux (%) of Helical-Shaped Membrane",
+          "authors": "Anirban Banik, Mrinmoy Majumder, Sushant Kumar Biswal, Tarun Kanti Bandyopadhyay",
+          "year": "2021"
+        },
+        {
+          "title": "Water and Energy Management in India: Artificial Neural Networks and Multi-Criteria Decision Making Approaches",
+          "authors": "Mrinmoy Majumder, Ganesh D. Kale (Eds.)",
+          "year": "2021"
+        },
+        {
+          "title": "Prediction of Maximum Efficiency of Vertical Helical Coil Membrane Using Group Method of Data Handling (GMDH) Algorithm",
+          "authors": "Anirban Banik, Tarun Kanti Bandyopadhyay, Sushant Kumar Biswal, Mrinmoy Majumder",
+          "year": "2020"
+        },
+        {
+          "title": "Prediction of wave energy potential in India: a fuzzy-ANN approach",
+          "authors": "Soumya Ghosh, Mrinmoy Majumder",
+          "year": "2019"
+        },
+        {
+          "title": "Municipal solid waste collection time optimization using AHP, GMDH and ANN",
+          "authors": "Debasree Purkayastha, Mrinmoy Majumder, Sumanta Chakrabarti",
+          "year": "2019"
+        },
+        {
+          "title": "Application of Geographical Information Systems and Soft Computation Techniques in Water and Water Based Renewable Energy Problems",
+          "authors": "Mrinmoy Majumder (Ed.)",
+          "year": "2017"
+        },
+        {
+          "title": "Feasibility model of solar energy plants by ANN and MCDM techniques",
+          "authors": "Mrinmoy Majumder, Apu K. Saha",
+          "year": "2016"
+        },
+        {
+          "title": "Impact of climate change on hydro-energy potential: a MCDM and neural network approach",
+          "authors": "Mrinmoy Majumder, Apu K. Saha",
+          "year": "2016"
+        },
+        {
+          "title": "Minimization of climatic vulnerabilities on mini-hydro power plants: fuzzy AHP, fuzzy ANP techniques and neuro-genetic model approach",
+          "authors": "Mrinmoy Majumder",
+          "year": "2016"
+        },
+        {
+          "title": "Impact of urbanization on water shortage in face of climatic aberrations",
+          "authors": "Mrinmoy Majumder",
+          "year": "2015"
+        },
+        {
+          "title": "Vulnerability of watersheds to climate change assessed by neural network and analytical hierarchy process",
+          "authors": "Uttam Roy, Mrinmoy Majumder",
+          "year": "2015"
+        },
+        {
+          "title": "Application of Nature Based Algorithm in Natural Resource Management",
+          "authors": "Mrinmoy Majumder, Rabindra Nath Barman (Eds.)",
+          "year": "2013"
+        },
+        {
+          "title": "Decision making algorithms for hydro-power plant location",
+          "authors": "Mrinmoy Majumder, Soumya Ghosh",
+          "year": "2013"
+        }
+      ],
+      "patent": [
+        {
+          "title": "A Sensor-Based Optimal Water Selection System for Crop Cultivation",
+          "inventors": "Dr. Mrinmoy Majumder, Dr. Uttam K Bera, Dr. Tilottama Chakraborty, Tanmoy Ghoshal",
+          "publication_date": "20/05/2022",
+          "year": "2022"
+        }
+      ]
+    }
+  }
+  

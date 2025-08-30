@@ -1,0 +1,105 @@
+{
+    "name": "Prof. TARUN KUMAR MISRA",
+    "designation": "Professor",
+    "department": "Chemistry",
+    "email": "tkmisra70@yahoo.com",
+    "scholar_url": "https://scholar.google.com/citations?user=3ga2ndEAAAAJ&hl=en",
+    "address": {
+      "department": "Department of Chemistry",
+      "institute": "NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "pin": "799046"
+    },
+    "contact": {
+      "email": "tkmisra70@yahoo.com",
+      "phone_residence": "8974727776",
+      "phone_mobile": "8974727776"
+    },
+    "academic_info": [
+      {
+        "degree": "Post Doctoral Research",
+        "institution": "National Taiwan University",
+        "year": 2001
+      },
+      {
+        "degree": "Post Doctoral Research",
+        "institution": "National Tsing Hua University",
+        "year": 2000
+      },
+      {
+        "degree": "SLET",
+        "year": 1999
+      },
+      {
+        "degree": "Ph.D.",
+        "institution": "Burdwan University",
+        "year": 1999,
+        "subject": "Transition metal Chemistry of 2-(arylazo)imidazoles"
+      },
+      {
+        "degree": "NET",
+        "organization": "CSIR",
+        "year": 1999,
+        "subject": "Chemical Science"
+      },
+      {
+        "degree": "GATE",
+        "year": 1995
+      },
+      {
+        "degree": "M.Sc.",
+        "institution": "Visva Bharati University",
+        "year": 1995,
+        "subject": "Inorganic Chemistry"
+      },
+      {
+        "degree": "B.Sc.",
+        "institution": "Burdwan University",
+        "year": 1991,
+        "subject": "Chemistry"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Tetranuclear copper(II) 4+2 Cubane like Cu4O4 core framework Derived from Self-Assembled 1,3-Dimethyl-5-(o-phenolate-azo)-6-aminouracil: synthesis, structure, and magnetic Property",
+          "authors": "N. B. Nandi, T. K. Misra",
+          "conference": "Vertual International Conference on ‘Advances in Chemistry and Chemical Engineering (2021) 25 (ACCE2/1)",
+          "date": "April 16-17, 2021",
+          "location": "SVNIT, Surat, Gujarat, India"
+        },
+        {
+          "title": "Modification of Silver Nanoparticles to Spectrophotometric Sensor for Cysteine",
+          "authors": "S.A. Khan, T.K. Misra",
+          "conference": "International seminar on recent advances in chemistry & material sciences (2020) 72 (AO-24)",
+          "date": "02nd - 29th August, 2020",
+          "location": "Kolkata, India"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Development of dihydropyrimidine based chemosensor for Hg2 ions",
+          "authors": "S. Saha, J. De, R. Choudhury, S. J. Chaudhuri, H. Banik, S. A. Hussain, T. K. Misra",
+          "journal": "Inorganica Chimica Acta",
+          "volume": 577,
+          "article_id": 122480,
+          "publisher": "Elsevier",
+          "year": 2025,
+          "impact_factor": 2.8
+        },
+        {
+          "title": "Synthesis of Protium serratum fruit extract stabilized silver nanoparticles for the detection of iodine in solution and vapour phase",
+          "authors": "R. Saha, S. Das, S. C. Biswas, T. K. Misra",
+          "journal": "Journal of Molecular Liquids",
+          "volume": 426,
+          "article_id": 127348,
+          "publisher": "Elsevier",
+          "year": 2025,
+          "impact_factor": 5.3
+        }
+      ]
+    }
+  }
+  

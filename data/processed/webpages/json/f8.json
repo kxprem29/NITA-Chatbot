@@ -1,0 +1,38 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Subhadeep Bhattacharjee",
+        "Designation": "Associate Professor",
+        "Department": {
+          "Short": "EE",
+          "Full": "Electrical Engineering"
+        },
+        "Email": "subhadeep_bhattacharjee@yahoo.co.in",
+        "Research_Areas": [
+          "Energy and Renewable Power",
+          "Distributed Power Generation",
+          "Hybrid Power System",
+          "Energy Conservation"
+        ],
+        "Address": {
+          "Address_Line": null,
+          "City": null,
+          "State": null,
+          "Country": null
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9436582874"
+        },
+        "Academic_Information": [],
+        "Publications": {
+          "Conferences": [],
+          "Journals": [],
+          "Books": []
+        },
+        "Conferences_Conducted": [],
+        "Achievements": []
+      }
+    ]
+  }
+  

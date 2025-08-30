@@ -1,0 +1,145 @@
+{
+    "name": "Dr. Biswajit Paul",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Physics",
+    "email": "biswajit.thep@gmail.com",
+    "address": {
+      "address_line": "East Pratapgarh",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "biswajit.thep@gmail.com",
+      "phone_residence": "",
+      "phone_mobile": "8729865714"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2015,
+        "subject": "Quantum Field Theory",
+        "thesis": "Investigations in Higher Derivative Theories"
+      },
+      {
+        "degree": "CSIR-NET (JRF)",
+        "description": "CSIR-NET (JRF)",
+        "year": 2009,
+        "subject": "Physics"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2008,
+        "subject": "Physics"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science (Hons)",
+        "year": 2006,
+        "subject": "Physics"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Removal of instabilities of the higher derivative theories in the light of antilinearity",
+        "authors": ["B. Paul", "H. Dhar", "B. Saha"],
+        "journal": "Eur. Phys. J. C",
+        "volume": 81,
+        "pages": 770,
+        "year": 2021,
+        "month": "August"
+      },
+      {
+        "title": "Ghosts in higher derivative Maxwell-Chern-Simon’s theory and PT-symmetry",
+        "authors": ["B. Paul", "H. Dhar", "B. Saha"],
+        "journal": "Phys Lett B",
+        "volume": 808,
+        "pages": 135671,
+        "year": 2020,
+        "month": "September",
+        "arxiv": "2005.12552"
+      },
+      {
+        "title": "Treating Ostrogradski instability for Gallilean invariant Chern-Simon's model via PT symmetry",
+        "authors": ["B. Paul", "H. Dhar", "M. Chowdhury", "B. Saha"],
+        "journal": "Phys. Rev. D",
+        "volume": 99,
+        "pages": 65018,
+        "year": 2019,
+        "month": "March",
+        "arxiv": "1807.04433"
+      },
+      {
+        "title": "Removing the Ostrogradski ghost from degenerate gravity theories",
+        "authors": ["B. Paul"],
+        "journal": "Phys. Rev. D",
+        "volume": 96,
+        "pages": 44035,
+        "year": 2017,
+        "month": "August",
+        "arxiv": "1702.01269"
+      },
+      {
+        "title": "BRST symmetry for Regge-Teitelboim based minisuperspace models",
+        "authors": ["S. Upadhyay", "B. Paul"],
+        "journal": "Eur. Phys. J. C",
+        "volume": 76,
+        "pages": 394,
+        "year": 2016,
+        "month": "July",
+        "arxiv": "1506.5258"
+      },
+      {
+        "title": "New Hamiltonian analysis of Regge Teitelboim minisuperspace cosmology",
+        "authors": ["R. Banerjee", "P. Mukherjee", "B. Paul"],
+        "journal": "Phys. Rev. D",
+        "volume": 89,
+        "pages": 43508,
+        "year": 2014,
+        "month": "February",
+        "arxiv": "1307.4920"
+      },
+      {
+        "title": "Gauge symmetry and Virasoro algebra in quantum charged rigid membrane -- a first order formalism",
+        "authors": ["B. Paul"],
+        "journal": "Phys. Rev. D",
+        "volume": 87,
+        "pages": 45003,
+        "year": 2013,
+        "month": "February",
+        "arxiv": "1212.5902"
+      },
+      {
+        "title": "BRST symmetry and W-algebra in higher derivative models",
+        "authors": ["R. Banerjee", "B. Paul", "S. Upadhyay"],
+        "journal": "Phys. Rev. D",
+        "volume": 88,
+        "pages": 65019,
+        "year": 2013,
+        "month": "September",
+        "arxiv": "1306.0744"
+      },
+      {
+        "title": "Gauge invariances of higher derivative Maxwell-Chern-Simons field theory -- a new Hamiltonian approach",
+        "authors": ["P. Mukherjee", "B. Paul"],
+        "journal": "Phys. Rev. D",
+        "volume": 85,
+        "pages": 45028,
+        "year": 2012,
+        "month": "February",
+        "arxiv": "1111.0153"
+      },
+      {
+        "title": "Gauge symmetry and W-algebra in higher derivative systems",
+        "authors": ["R. Banerjee", "P. Mukherjee", "B. Paul"],
+        "journal": "JHEP",
+        "issue": "08",
+        "pages": 85,
+        "year": 2011,
+        "month": "August"
+      }
+    ]
+  }
+  

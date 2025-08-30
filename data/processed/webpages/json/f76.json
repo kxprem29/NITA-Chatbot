@@ -1,0 +1,94 @@
+{
+    "name": "Dr. Rahul Banerjee",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "iamrahul.ju@gmail.com",
+    "research_area": ["AI", "IC Engine", "Optimization", "Feature Engineering"],
+    "courses_taught": {
+      "UG": ["Applied Thermodynamics", "Fuel & Combustion (Elective II)", "Automobile Engineering (Elective II)"],
+      "PG": ["Engine Pollution and Control Systems", "Automotive Chassis and Transmission", "Automotive Engine Design"]
+    },
+    "phd_students": {
+      "completed": ["Dr. A. Chakraborty", "Dr. D. Kakati", "Dr. S. Biswas"],
+      "ongoing": ["Mrs. A. Sengupta"]
+    },
+    "address": {
+      "department": "Department of Mechanical Engineering, NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "iamrahul.ju@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "6009155151"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "institution": "National Institute of Technology, Agartala",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "institution": "Jadavpur University",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "B.E.",
+        "institution": "IEI",
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "In-cylinder pressure profiling for CNG/ethanol enriched biodiesel combustion",
+        "authors": "Srijit Biswas, Rahul Banerjee",
+        "journal": "Fuel",
+        "volume": 343,
+        "year": 2023,
+        "pages": "127970",
+        "doi": "https://doi.org/10.1016/j.fuel.2023.127970",
+        "month": "JULY"
+      },
+      {
+        "title": "Parametric optimization of the CNG/ethanol-induced RCCI profiles in biodiesel combustion",
+        "authors": "Srijit Biswas, Anindita Sengupta, Dipankar Kakati, Prasun Chakraborti, Rahul Banerjee",
+        "journal": "Fuel",
+        "volume": 332,
+        "year": 2023,
+        "pages": "126203",
+        "doi": "https://doi.org/10.1016/j.fuel.2022.126203",
+        "month": "JAN"
+      },
+      {
+        "title": "The transition from conventional biodiesel combustion to RCCI with CNG/ethanol induction in CI engine",
+        "authors": "Biswas S, Sengupta A, Kakati D, Banerjee R",
+        "journal": "International Journal of Engine Research",
+        "year": 2022,
+        "doi": "10.1177/14680874221123615",
+        "month": "SEPT"
+      },
+      {
+        "title": "Examining the significance of the ignition characteristics of hydrogen and liquefied-petroleum-gas on RCCI",
+        "authors": "Amitav Chakraborty, Srijit Biswas, Saratchandra Meitei, Anindita Sengupta, Dipankar Kakati, Rahul Banerjee",
+        "journal": "Energy Conversion and Management",
+        "volume": 268,
+        "year": 2022,
+        "pages": "115976",
+        "doi": "https://doi.org/10.1016/j.enconman.2022.115976",
+        "month": "SEPT"
+      },
+      {
+        "title": "Performance-emission-stability mapping of CI engine in RCCI-PCCI modes",
+        "authors": "Srijit Biswas, Dipankar Kakati, Prasun Chakraborti, Rahul Banerjee",
+        "journal": "Energy",
+        "volume": 254,
+        "year": 2022,
+        "pages": "124231",
+        "doi": "https://doi.org/10.1016/j.energy.2022.124231",
+        "month": "SEPT"
+      }
+    ]
+  }
+  

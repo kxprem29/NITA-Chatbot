@@ -1,0 +1,122 @@
+{
+    "name": "Dr. Biswajit Saha",
+    "designation": "HOD & Associate Professor",
+    "department": "Physics",
+    "email": "biswajit.physics@gmail.com",
+    "url": "https://sites.google.com/view/bsahaphysicsresearch/home",
+    "address": {
+      "address_line": "Department of Physics, Science Block",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "biswajit.physics@gmail.com",
+      "phone_residence": "",
+      "phone_mobile": ""
+    },
+    "academic": [
+      {
+        "degree": "Post Doctoral Research",
+        "description": "Other",
+        "year": 2021,
+        "subject": "Physics",
+        "institute": "Indian Institute of Technology Madras"
+      },
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2011,
+        "subject": "Physics",
+        "institute": "Jadavpur University"
+      },
+      {
+        "degree": "CSIR-NET (JRF)",
+        "description": "Joint CSIR-UGC",
+        "year": 2005,
+        "subject": "Physics"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2004,
+        "subject": "Physics",
+        "institute": "Tripura University"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science (Honours in Physics)",
+        "year": 2002,
+        "subject": "Physics"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Smartphone-based colorimetric determination of some physicochemical properties of polyaniline on flexible cellulose substrate",
+        "journal": "Polymer Engineering & Science",
+        "status": "in press",
+        "year": 2024,
+        "month": "January"
+      },
+      {
+        "title": "Polyaniline-graphite on cellulose substrate: a flexible, low-cost, use-and-throw sensor for glucose concentration detection",
+        "journal": "Cellulose",
+        "volume": 30,
+        "pages": "6423-6433",
+        "year": 2023,
+        "month": "July"
+      }
+    ],
+    "books": [
+      {
+        "title": "Polymer Technology in Dye-containing Wastewater",
+        "chapter_title": "Evaluation of Fe–Mn–Zr Trimetal Oxide/Polyaniline Nanocomposite as Potential Adsorbent for Abatement of Toxic Dye from Aqueous Solution",
+        "authors": ["Bibek Saha", "Animesh Debnath", "Biswajit Saha"],
+        "year": 2022
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Recognized as one of the 2% top scientists in the world",
+        "year": 2022,
+        "organization": "Stanford University, USA"
+      },
+      {
+        "title": "Recognized as one of the 2% top scientists in the world",
+        "year": 2021,
+        "organization": "Stanford University, USA"
+      },
+      {
+        "title": "Young Scientist Award (Fast Track)",
+        "year": 2013,
+        "organization": "Department of Science and Technology, Government of India"
+      },
+      {
+        "title": "Junior Research Fellowship through Joint CSIR-UGC NET Examination",
+        "year": 2005
+      },
+      {
+        "title": "University gold medal for standing first in order of merit in M.Sc. Examination",
+        "year": 2004
+      },
+      {
+        "title": "University gold medal for standing first in order of merit in B.Sc. Examination",
+        "year": 2002
+      },
+      {
+        "title": "Awarded lectureship eligibility in Universities and Colleges through North East State Level Eligibility Test (SLET)",
+        "year": 2004
+      }
+    ],
+    "subjects_taught": [
+      {"class": "M.Sc.", "subject": "Atomic Physics"},
+      {"class": "M.Sc.", "subject": "Nuclear Physics"},
+      {"class": "M.Sc.", "subject": "Physics of Semiconductor Devices"},
+      {"class": "BSMS and BTMT Dual Degree", "subject": "Atomic and Molecular Physics"},
+      {"class": "BSMS Dual Degree", "subject": "Nuclear Physics"},
+      {"class": "BSMS and BTMT Dual Degree", "subject": "Physics of Semiconductor Devices"},
+      {"class": "B. Tech", "subject": "Engineering Physics I"},
+      {"class": "B. Tech", "subject": "Engineering Physics II"}
+    ]
+  }
+  

@@ -1,0 +1,145 @@
+{
+    "name": "Dr. Suresh Mamidi",
+    "designation": "Assistant Professor",
+    "department": "Chemical Engineering",
+    "email": "sureshmamidi@nita.ac.in",
+    "profile_url": "https://nita.irins.org/profile/313439",
+    "research_area": [
+      "Photolithography",
+      "CMEMS",
+      "Carbon Materials",
+      "Solid electrolytes",
+      "Li-ion batteries",
+      "Na-ion batteries",
+      "Li-CO2 batteries"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Process Modeling and Simulation",
+        "Process Dynamics and Instrumentation",
+        "Material Science and Engineering",
+        "Polymer Processing Engineering"
+      ],
+      "PG": []
+    },
+    "address": {
+      "current": "Dr Suresh Mamidi, Department of Chemical Engineering, NIT Agartala, Jirania 799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sureshmamidi@nita.ac.in",
+      "mobile": "",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Post Doc",
+        "university": "Jeonbuk National University",
+        "year": 2021,
+        "subject": "Division of Advance Materials Engineering"
+      },
+      {
+        "degree": "Ph.D.",
+        "university": "Indian Institute of Technology Hyderabad",
+        "year": 2020,
+        "subject": "Hard Carbon as Anode for Li-ion batteries: Its Materials and Design Aspects"
+      },
+      {
+        "degree": "M.Tech",
+        "university": "Indian Institute of Technology Hyderabad",
+        "year": 2016,
+        "subject": "Hard Carbons as Anode for Li-ion batteries"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "Maharaj Vijayaram Gajapathi Raj College of Engineering (autonomous)",
+        "year": 2014,
+        "subject": "Chemical Engineering"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Safe and stable Li–CO2 battery with metal-organic framework derived cathode composite and solid electrolyte",
+        "authors": ["Suresh Mamidi", "Dan Na", "Baeksang Yoon", "Henu Sharma", "Anil D. Pathak", "Kisor Kumar Sahu", "Dae Young Lee", "Cheul-Ro Lee", "Inseok Seo"],
+        "journal": "Journal of Power Sources",
+        "year": 2024,
+        "volume": 591,
+        "article_no": 233867
+      },
+      {
+        "title": "Li1·5Al0·3Si0·2Ti1·7P2·8O12 inorganic solid electrolyte for high-performance all-solid-state Li-ion batteries",
+        "authors": ["Na, D.", "Jeong, H.", "Yoon, B.", "Kampara, R. K.", "Mamidi, S.", "Lee, C.", "Son, D. I.", "Seo, I."],
+        "journal": "Materials Today Advances",
+        "year": 2023,
+        "volume": 19,
+        "article_no": 100389,
+        "doi": "https://doi.org/10.1016/j.mtadv.2023.100389"
+      }
+    ],
+    "books_published": [
+      {
+        "chapter": "Chapter 4: Synthesis of Novel Nanostructured Materials Core-Shell and Hollow Metal",
+        "book_title": "Nanobiotechnology",
+        "year": 2024
+      }
+    ],
+    "conferences_attended": [
+      {
+        "event": "Poster presentation at 2nd KPIT Shodh Awards – IISER Pune",
+        "date": "30-31st January 2020",
+        "type": "Best Poster Award"
+      },
+      {
+        "event": "Oral presentation under the theme of energy storage in the online CMEMS Conference",
+        "date": "July 1-2, 2020",
+        "platform": "Online"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Method of Preparing Synthetic Anode Materials Using Demineralized Coal",
+        "application_ref_no": "202231004700",
+        "year": 2022
+      },
+      {
+        "title": "Methods of Production of Pencil Needle Powder Based Graphite-Silica Composite Electrode",
+        "application_ref_no": "202141012545",
+        "year": 2021
+      }
+    ],
+    "achievements": [
+      {
+        "description": "SERB -Startup Research Grant - 31,00,240 INR for Project titled 'Hierarchical Electrodes: Advanced Design Strategies and Engineering for Na-ion Battery'",
+        "year": 2023
+      },
+      {
+        "description": "Recipient of N-PDF (National Postdoctoral Fellowship, India) Ref. No. PDF/2021/002821",
+        "year": 2021
+      },
+      {
+        "description": "INYAS National Award 2020 for Research Excellence: Best PhD Thesis in the Area of Carbon Materials",
+        "year": 2020
+      }
+    ],
+    "subject_info": [
+      {
+        "class": "BTech 4th year (7th Semester)",
+        "subject": "Process Modelling, Simulation and Optimization"
+      },
+      {
+        "class": "BTech 2nd year (4th Semester)",
+        "subject": "Material Science and Engineering"
+      },
+      {
+        "class": "PG 1st Year",
+        "subject": "Polymer Processing Engineering"
+      },
+      {
+        "class": "BTech 3rd Year",
+        "subject": "Process Dynamics & Instrumentation"
+      }
+    ]
+  }
+  

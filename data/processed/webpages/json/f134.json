@@ -1,0 +1,129 @@
+{
+    "name": "Dr. R K Bhogendro Meitei",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "bhogenrk@gmail.com",
+    "cv": "",
+    "research_area": [],
+    "courses_taught": {
+      "ug_courses": [
+        "Engineering Materials",
+        "Engineering Mechanics",
+        "Manufacturing Technology-1"
+      ],
+      "pg_courses": [
+        "Production planning and control (Elective-II)"
+      ]
+    },
+    "address": {
+      "address": "Bramhaputra Quarter 3rd Floor room no 1, NIT Agartala Campus, Jirania 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bhogenrk@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "07005751639"
+    },
+    "academic_information": [
+      {
+        "degree_diploma": "M.TECH (MASTER OF TECHNOLOGY)",
+        "description": "NITTTR Kolkata (WBUT)",
+        "year": "2010",
+        "subject": "Manufacturing technology"
+      },
+      {
+        "degree_diploma": "OTHER",
+        "description": "BSc. Engineering DEI, Agra",
+        "year": "1989",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree_diploma": "Ph. D. (Philosophy of Doctorate)",
+        "description": "NIT Agartala, Pursuing",
+        "year": "0",
+        "subject": "Welding of dissimilar metal"
+      }
+    ],
+    "publications": {
+      "journals": [
+        {
+          "title": "Induction Welding of 304L Stainless Steel and Copper in Vacuum Environment",
+          "authors": "RK Bhogendro Meitei, P Maji, P Kumar, R Karmakar, P Paul, SK Ghosh, ...",
+          "journal": "Journal of Materials Engineering and Performance, 1-8",
+          "month": "MAR",
+          "year": "2022"
+        },
+        {
+          "title": "Characterization of novel molybdenum disulfide and cerium dioxide reinforced hybrid aluminum matrix composites fabricated by friction stir processing",
+          "authors": "P. Maji, S.K. Ghosh, R.K. Nath, P. Paul, R.K.B. Meitei",
+          "journal": "Materials Science & Engineering Technology (Accepted)",
+          "month": "JUN",
+          "year": "2022"
+        },
+        {
+          "title": "Wear and Corrosion Behavior of Al7075 Matrix Hybrid Composites Produced by Friction Stir Processing: Optimization of Process Parameters",
+          "authors": "Pabitra Maji, Rahul Kanti Nath, Ranit Karmakar, Dileep Madapana, R.K. Bhogendro Meitei, Subrata Kumar Ghosh",
+          "journal": "JOM",
+          "month": "OCT",
+          "year": "2021"
+        },
+        {
+          "title": "Analyzing the adhesion strength of Mo-WC-Cu-Si composite coated layer by using the scratch test",
+          "authors": "S.V.V.N. Siva Rao, Tharra Bhavani, Subrata Kumar Ghosh, John Deb Barma, Raj Kumar Bhogendro Meitei",
+          "journal": "Materials Today: Proceedings47 (2021) 3400-3406",
+          "month": "JULY",
+          "year": "2021"
+        },
+        {
+          "title": "Effect of processing speed on wear and corrosion behavior of novel MoS2 and CeO2 reinforced hybrid aluminum matrix composites fabricated by friction stir processing",
+          "authors": "Pabitra Maji, Rahul Kanti Nath, Pritam Paul, R.K. Bhogendro Meitei, Subrata Kumar Ghosh",
+          "journal": "Journal of Manufacturing Processes 69 (2021) 1–11",
+          "month": "SEPT",
+          "year": "2021"
+        },
+        {
+          "title": "Effect of post processing heat treatment on friction stir welded/processed aluminum-based alloys and composites",
+          "authors": "Pabitra Maji, Rahul Kanti Nath, Ranit Karmakar, Pritam Paul, R.K. Bhogendro Meitei, Subrata Kumar Ghosh",
+          "journal": "CIRP Journal of Manufacturing Science and Technology 35 (2021) 96-105",
+          "month": "NOV",
+          "year": "2021"
+        },
+        {
+          "title": "An experimental investigation on joining of copper and stainless steel by induction welding technique",
+          "authors": "RK Bhogendro Meitei, Pabitra Maji, Ashutosh Samadhiya, Ranit Karmakar, Subrata Kumar Ghosh, Subhash Chandra Saha",
+          "journal": "International Journal of Precision Engineering and Manufacturing 21 (2020) 613–621",
+          "month": "APRIL",
+          "year": "2020"
+        },
+        {
+          "title": "A study on induction welding of mild steel and copper with flux under applied load condition",
+          "authors": "RK Bhogendro Meitei, Pabitra Maji, Ashutosh Samadhiya, Subrata Kumar Ghosh, Barnik Saha Roy, Alok Kumar Das, Subhash Chandra Saha",
+          "journal": "Journal of Manufacturing Processes 34 (2018) 435-441",
+          "month": "AUG",
+          "year": "2018"
+        }
+      ],
+      "conferences": [
+        {
+          "title": "Analyzing the adhesion strength of Mo-WC-Cu-Si composite coated layer by using the scratch test",
+          "authors": "S.V.V.N. Siva Rao, Tharra Bhavani, Subrata Kumar Ghosh, John Deb Barma, Raj Kumar Bhogendro Meitei",
+          "conference": "3rd International Conference on Advances in Mechanical Engineering and Nanotechnology, Manipal University Jaipur",
+          "month": "MAR",
+          "year": "2021"
+        },
+        {
+          "title": "Effect of MoS2 and CeO2 powder addition by friction stir processing on wear and corrosion properties of Al7075 alloy",
+          "authors": "Pabitra Maji, Ranit Karmakar, Rahul Kanti Nath, RK Bhogendro Meitei, Subrata Kumar Ghosh",
+          "conference": "National Conference on Research and Developments in Material Processing, Modelling and Characterization 2020 (RDMPMC 2020), NIT Jamshedpur",
+          "month": "AUG",
+          "year": "2020"
+        }
+      ]
+    },
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

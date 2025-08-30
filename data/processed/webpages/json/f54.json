@@ -1,0 +1,131 @@
+{
+    "name": "Dr. Venkata Bharat Nishtala",
+    "designation": "Assistant Professor",
+    "department": "Chemistry",
+    "email": "nvbharatnv@gmail.com",
+    "research_area": "Organic Synthesis",
+    "cv": "View",
+    "address": {
+      "department": "Department of Chemistry, N. I. T. Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "nvbharatnv@gmail.com",
+      "mobile": "9014147433",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2019,
+        "subject": "Organic synthesis",
+        "institution": "N. I. T. Warangal, Telangana, India"
+      },
+      {
+        "degree": "CSIR-NET (LS)",
+        "year": 2010,
+        "subject": "Chemical Sciences"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2009,
+        "subject": "Organic Chemistry",
+        "institution": "Andhra University, Andhra Pradesh, India"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2006,
+        "subject": "M.P.C.",
+        "institution": "Andhra University, Andhra Pradesh, India"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Synthesis and spectral, electrochemical, protein-docking and biological studies of fluoxetine dithiocarbamate and its bivalent metal complexes.",
+        "authors": "T. Dhananjay, Venkata Bharat Nishtala, A. Ramachandraiah",
+        "journal": "Chemistry Africa",
+        "year": 2021,
+        "volume": 4,
+        "pages": "777-789"
+      },
+      {
+        "title": "Synthesis of spirooxindolocarbamates based on Betti reaction: Antibacterial, antifungal, and antioxidant studies.",
+        "authors": "Venkata Bharat Nishtala, C. Mahesh, G. Bhargavi, P. V. Kumar and B. Srinivas",
+        "journal": "Molecular Diversity",
+        "year": 2020,
+        "volume": 24,
+        "pages": "1139-1147"
+      },
+      {
+        "title": "ZnCl2+Urea, the deep eutectic solvent promoted synthesis of the spirooxindolopyrans and xanthenes via a pseudo three-component approach.",
+        "authors": "Venkata Bharat Nishtala and B. Srinivas",
+        "journal": "Synthetic Communications",
+        "year": 2019,
+        "volume": 49,
+        "pages": "2342-2349"
+      },
+      {
+        "title": "Deep eutectic solvent ZnCl2+Urea promoted synthesis of spirooxindoles via the pseudo four-component reaction: Anticancer, antioxidant and molecular docking studies.",
+        "authors": "Venkata Bharat Nishtala, G. Durgaiah, Y. N. Reddy and B. Srinivas",
+        "journal": "Synthetic Communications",
+        "year": 2019,
+        "volume": 49,
+        "pages": "2671-2682"
+      },
+      {
+        "title": "Crystal structure and Molecular docking studies of 1-ethyl-2'-(furan-2-carbonyl)-1'-(furan-2-yl)-1',2',5',6',7',7a'-hexahydrospiro[indoline-3,3'-pyrrolizin]-2-one",
+        "authors": "Venkata Bharat Nishtala and B. Srinivas",
+        "journal": "Journal of Chemical Crystallography",
+        "year": 2018,
+        "volume": 48,
+        "pages": "78-90"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Oral presentation in Telangana State Science Congress (TSSC-2018)",
+        "month": "DEC",
+        "year": 2018
+      },
+      {
+        "title": "International Workshop and Symposium on Green Chemistry & Technology (IWSGCT-18)",
+        "month": "OCT",
+        "year": 2018
+      },
+      {
+        "title": "International conference on Advanced Functional Materials (ICAFM-2017)",
+        "month": "DEC",
+        "year": 2017
+      },
+      {
+        "title": "Molecular docking approach to evaluate the antibacterial effect of pyridinyl-3-aminophenylmethane sulphonamides on 1fxv",
+        "month": "APRIL",
+        "year": 2017
+      },
+      {
+        "title": "Medicinal Chemistry Conference (MEDCHEM-2017) on Emerging Medicinal Chemistry Approaches against Neuropsychiatric and Neurodegenerative Diseases",
+        "month": "NOV",
+        "year": 2017
+      },
+      {
+        "title": "6th International Symposium on Current Trends in Drug Discovery and Research (CTDDR-2016)",
+        "month": "FEB",
+        "year": 2016
+      }
+    ],
+    "training_attended": [
+      {
+        "title": "Faculty Development Workshop on Teaching and Learning Chemical Spectroscopy through Hands-On Experience",
+        "month": "SEPT",
+        "year": 2017
+      },
+      {
+        "title": "10-Day Global Initiative of Academic Networks (GIAN) advanced course on Computer-Based Methods for Anti-Cancer and Anti-Viral Drug Discovery",
+        "month": "DEC",
+        "year": 2016
+      }
+    ]
+  }
+  

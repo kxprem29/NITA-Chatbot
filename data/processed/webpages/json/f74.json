@@ -1,0 +1,207 @@
+{
+    "name": "Dr. Ashis Acharjee",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "11/07/2014",
+    "email": "ashisacharjee76@gmail.com",
+    "profile_url": "https://nita.irins.org/myprofile",
+    "research_area": [
+      "CFD & Heat Transfer",
+      "Finite Element Analysis",
+      "Thermodynamics",
+      "Thermal Engineering",
+      "IC Engine",
+      "Renewable and Sustainable Energy"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Mechanics",
+        "Engineering Graphics",
+        "Workshop Practice",
+        "Engineering Materials",
+        "Instrumentation and Measurement (Theory & Lab)",
+        "Basic & Applied Thermodynamics",
+        "CFD (Elective-V)",
+        "Environmental Engineering"
+      ],
+      "PG": [
+        "Alternative Fuels & Energy System",
+        "Analysis and Synthesis of Mechanism",
+        "Finite Element Method",
+        "Applied Computational Method",
+        "Advanced Vehicle Dynamics",
+        "CFD-II",
+        "LAB-IV / CFD Lab",
+        "Convective Heat and Mass Transfer (Theory & Lab)"
+      ]
+    },
+    "address": {
+      "department": "Mechanical Engg. Deptt",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "ashisacharjee76@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "9862675697"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "subject": "Mechanical Engg (Thermal Energy Studies), NIT Agartala"
+      },
+      {
+        "degree": "M.TECH",
+        "year": 2010,
+        "subject": "Thermal Science and Engg, Mechanical Engg (NIT Agartala)"
+      },
+      {
+        "degree": "B.TECH",
+        "year": 2001,
+        "subject": "Mechanical Engg, NERIST, Arunachal Pradesh"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "CFD Analysis and Validation of Airflow Pattern in Typical Indian rooms",
+        "conference": "ICAFFTS-2021, 2nd National and 1st International Conference on Fluid Flow and Thermal Sciences",
+        "month": "SEPT",
+        "year": 2021
+      },
+      {
+        "title": "Mathematical model for analysis of heat transfer in friction stir welding",
+        "conference": "ICERME-2019, Deptt. of Mathematics, NIT Agartala",
+        "month": "JUN",
+        "year": 2019
+      },
+      {
+        "title": "Sustainable energy development under various uncertainty & irreversibility options for efficient electricity planning of India",
+        "conference": "ASME 2019 Gas Turbine India, IIT Madras, Chennai",
+        "month": "DEC",
+        "year": 2019
+      },
+      {
+        "title": "Study of isothermal heat addition in an experimental gas turbine",
+        "conference": "ASME 2019 Gas Turbine India, IIT Madras, Chennai",
+        "month": "DEC",
+        "year": 2019
+      },
+      {
+        "title": "Environmental and economic impacts evaluation of a gas thermal power plant using life cycle assessment approach",
+        "conference": "ASME 2019 Gas Turbine India, Bangalore",
+        "month": "DEC",
+        "year": 2019
+      },
+      {
+        "title": "Energy audit and subsequent identification of best alternative for thermal power plant using promethee MCDA approach",
+        "conference": "ASME 2018, POWER & ENERGY Conference & Exhibition, USA",
+        "month": "JUN",
+        "year": 2018
+      },
+      {
+        "title": "Study of social change and socio-economical assessment in power sector of Tripura",
+        "conference": "EPAM-2016, National Conference NIT Agartala",
+        "month": "JUN",
+        "year": 2016
+      },
+      {
+        "title": "Thermodynamic and economical analysis for the feasibility study of a binary geothermal power plant in India",
+        "conference": "EPAM-2016, National Conference NIT Agartala",
+        "month": "JUN",
+        "year": 2016
+      },
+      {
+        "title": "Design of experiment, optimization and stochastic analysis based on Moving Least Square Method",
+        "conference": "Hyperworks Technology Conference-2012, Bangalore",
+        "month": "JULY",
+        "year": 2012
+      },
+      {
+        "title": "A discrete continuous choice model of climate change impacts on Energy",
+        "conference": "Tripura Science Congress, Energy for Development Sector",
+        "month": "SEPT",
+        "year": 2011
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "CFD Analysis and Validation of Airflow Pattern in Typical Indian Rooms",
+        "journal": "Recent Advances in Fluid Dynamics",
+        "month": "JULY",
+        "year": 2022
+      },
+      {
+        "title": "Thermo-Economic Analysis for the Feasibility Study of a Binary Geothermal Power Plant in India",
+        "journal": "Modeling, Simulation and Optimization",
+        "month": "JUN",
+        "year": 2022
+      },
+      {
+        "title": "Life Cycle Analysis and Design for Sustainability of a Sustainable Renewable Energy System",
+        "journal": "Journal of Renewable Energy and Resources",
+        "month": "MAY",
+        "year": 2021
+      },
+      {
+        "title": "Experimental Investigation of Tribo-Corrosive Nature of Biodiesel and its Effect on Lubricating System",
+        "journal": "Journal of Bio-and Tribo-Corrosion",
+        "month": "SEPT",
+        "year": 2020
+      },
+      {
+        "title": "Design of a Hybrid Solar and Hydro Powered System for Rural Regions - A Review from India Perspectives",
+        "journal": "Star Research Journal",
+        "month": "FEB",
+        "year": 2016
+      },
+      {
+        "title": "Study of social impacts, technology transfer and related social factors on district heating system",
+        "journal": "World Research Journal of Sustainable Development",
+        "month": "JUN",
+        "year": 2014
+      },
+      {
+        "title": "Energy analysis of a coal based thermal power plant - multiple regression analysis for maximum thermal efficiency",
+        "journal": "International Journal of Advance Research",
+        "month": "AUG",
+        "year": 2014
+      },
+      {
+        "title": "Socio-economical upliftment of rural Tripura with geothermal energy resources",
+        "journal": "Journal of Sustainable Manufacturing and Renewable Energy",
+        "month": "SEPT",
+        "year": 2013
+      },
+      {
+        "title": "Diffusion of Technological Development and its Transfer on District Heating in a Social Environment: a Multi Agent Based Model",
+        "journal": "IJEEES, Research Science Press, India",
+        "month": "JUN",
+        "year": 2013
+      },
+      {
+        "title": "Perspectives of District Heating Biomass Energy Technology Transfer and its Social Factors",
+        "journal": "IJME",
+        "month": "JULY",
+        "year": 2013
+      },
+      {
+        "title": "Study and Modeling of Organic Rankine Cycle (ORC) Considering a District Heating System",
+        "journal": "Journal of Sustainable Manufacturing and Renewable Energy",
+        "month": "MAY",
+        "year": 2012
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "Best research paper presenter award, NIT Agartala",
+        "year": 2020
+      },
+      {
+        "achievement": "GATE-2001 Qualified",
+        "year": 2001
+      }
+    ]
+  }
+  

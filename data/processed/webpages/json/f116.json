@@ -1,0 +1,218 @@
+{
+    "name": "Dr. Animesh Debnath",
+    "designation": "Associate Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "debnathanimesh@gmail.com",
+    "url": "https://sites.google.com/view/animeshdebnathresearchpage/home?authuser=0&pli=1",
+    "cv": "View",
+    "address": {
+      "full_address": "Assistant Professor, Room No 206, Department of Civil Engineering, NIT Agartala Jirania-799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "debnathanimesh@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "918575015404"
+    },
+    "academic_info": [
+      {
+        "degree": "OTHER",
+        "description": "Faculty Post Doc from Indian Institute of Technology Madras, Tamil Nadu, India.",
+        "year": "2021",
+        "subject": "Environmental Engineering"
+      },
+      {
+        "degree": "Ph. D.",
+        "description": "National Institute of Technology Agartala, India;",
+        "year": "2016",
+        "subject": "Environmental Engineering"
+      },
+      {
+        "degree": "M.TECH",
+        "description": "Indian Institute of Technology Guwahati, India;",
+        "year": "2006",
+        "subject": "Water Resources Utilization and Environmental Management"
+      },
+      {
+        "degree": "B.E",
+        "description": "Tripura Engineering College (Presently National Institute of Technology Agartala), India",
+        "year": "2003",
+        "subject": "Civil Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Scale-up Design and Treatment Cost Analysis for Abatement of Hexavalent Chromium and Metanil Yellow Dye...",
+          "authors": "Bhowmik, M., Debnath, A., & Saha, B.",
+          "venue": "International Journal of Environmental Research, 16(5), 1-22",
+          "year": "2022"
+        },
+        {
+          "title": "A short review on landfill leachate treatment technologies.",
+          "authors": "Nath, A., & Debnath, A.",
+          "venue": "Materials Today: Proceedings (Article in Press)",
+          "year": "2022"
+        },
+        {
+          "title": "Fabrication of MgFe2O4/polyaniline nanocomposite for amputation of methyl red dye from water...",
+          "authors": "Das, P., & Debnath, A.",
+          "venue": "Journal of Dispersion Science and Technology, 2110110",
+          "year": "2022"
+        },
+        {
+          "title": "Fabrication of PANI@Fe–Mn–Zr hybrid material and assessments in sono-assisted adsorption...",
+          "authors": "Saha, B., Debnath, A., & Saha, B.",
+          "venue": "Journal of the Indian Chemical Society, 100635",
+          "year": "2022"
+        },
+        {
+          "title": "Quick and enhanced separation of Eosin yellow dye from aqueous solution...",
+          "authors": "Paul, S.R., Singh, N. H., & Debnath, A.",
+          "venue": "International Journal of Environmental Analytical Chemistry",
+          "year": "2022"
+        },
+        {
+          "title": "Evaluation of Fe-Mn-Zr Trimetal Oxide/Polyaniline Nanocomposite...",
+          "authors": "Saha, B., Debnath, A., & Saha, B.",
+          "venue": "Polymer Technology in Dye-Containing Wastewater (Book Chapter, Springer Nature)",
+          "year": "2022"
+        },
+        {
+          "title": "Application of magnetic nanocomposite in adsorptive remediation...",
+          "authors": "Bhowmik, M., Mawlong, J., & Debnath, A.",
+          "venue": "Fundamentals and Industrial Applications of Magnetic Nanoparticles (Book Chapter, Elsevier)",
+          "year": "2022"
+        },
+        {
+          "title": "Enhanced persulfate activated sono-catalytic degradation of Brilliant Green dye...",
+          "authors": "Mukhopadhyay, A., Tripathy, B.K., Debnath, A., & Kumar, M.",
+          "venue": "Surfaces and Interfaces, 101412",
+          "year": "2021"
+        },
+        {
+          "title": "Reactive orange 12 dye adsorption onto magnetically separable CaFe2O4 nanoparticles...",
+          "authors": "Das, P., & Debnath, A.",
+          "venue": "Water Practice and Technology",
+          "year": "2021"
+        },
+        {
+          "title": "A short review on different techniques used for site selection...",
+          "authors": "Kollati, H., & Debnath, A.",
+          "venue": "Journal of Industrial Engineering and Decision Making, 2(1), 27-30",
+          "year": "2021"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Enhanced adsorptive removal of toxic anionic dye by novel magnetic polymeric nanocomposite...",
+          "authors": "Das, P., Nisa, S., Debnath, A., & Saha, B.",
+          "venue": "Journal of Dispersion Science and Technology, 1845958",
+          "year": "2020"
+        },
+        {
+          "title": "Ultrasonically enhanced dye removal using conducting polymer functionalised ZnO nanocomposite...",
+          "authors": "Deb, A., Debnath, A., Bhattacharjee, N., & Saha, B.",
+          "venue": "International Journal of Environmental Analytical Chemistry, 1843649",
+          "year": "2020"
+        },
+        {
+          "title": "Microwave induced catalytic treatment of brilliant green dye...",
+          "authors": "Tripathy, B.K., Kumar, S., Kumar, M., & Debnath, A.",
+          "venue": "Environmental Nanotechnology, Monitoring & Management, 100361",
+          "year": "2020"
+        },
+        {
+          "title": "Ultrasound-aided rapid and enhanced adsorption of anionic dyes...",
+          "authors": "Deb, A., Debnath, A., & Saha, B.",
+          "venue": "Applied Organometallic Chemistry, e5353",
+          "year": "2020"
+        },
+        {
+          "title": "Effective Remediation of an Antibacterial Drug from Aqua Matrix...",
+          "authors": "Bhowmik, M., Debnath, A., & Saha, B.",
+          "venue": "Arabian Journal for Science and Engineering, S13369-020-04465-Y",
+          "year": "2020"
+        },
+        {
+          "title": "The effective adsorption of tetracycline onto zirconia nanoparticles...",
+          "authors": "Debnath, B., Majumdar, M., Bhowmik, M., Bhowmik, K.L., Debnath, A., & Roy, D.N.",
+          "venue": "Journal of Environmental Management, 110235",
+          "year": "2020"
+        },
+        {
+          "title": "Ultrasound-assisted enhanced and rapid uptake of anionic dyes...",
+          "authors": "Das, P., Debnath, A., & Saha, B.",
+          "venue": "Applied Organometallic Chemistry, e5711",
+          "year": "2020"
+        },
+        {
+          "title": "Sono-assisted enhanced adsorption of eriochrome Black-T dye...",
+          "authors": "Deb, A., Debnath, A., & Saha, B.",
+          "venue": "Journal of Dispersion Science and Technology, 1775093",
+          "year": "2020"
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Application of magnetic nanocomposite in adsorptive remediation...",
+        "authors": "Bhowmik, M., Mawlong, J., & Debnath, A.",
+        "publisher": "Fundamentals and Industrial Applications of Magnetic Nanoparticles, Elsevier",
+        "year": "2022"
+      },
+      {
+        "title": "Evaluation of Fe-Mn-Zr Trimetal Oxide/Polyaniline Nanocomposite...",
+        "authors": "Saha, B., Debnath, A., & Saha, B.",
+        "publisher": "Polymer Technology in Dye-Containing Wastewater, Springer Nature",
+        "year": "2022"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "TOP Peer Reviewer Award by Publons",
+        "year": "2019"
+      }
+    ],
+    "courses_taught": [
+      {
+        "class": "B Tech Civil Engg",
+        "subject": "Environmental Engineering-I"
+      },
+      {
+        "class": "B Tech Civil Engg",
+        "subject": "Environmental Engineering-II"
+      },
+      {
+        "class": "B Tech Civil Engg",
+        "subject": "Civil Engineering Drawing"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Water Chemistry and microbiology"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Air pollution and control"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Water Pollution Lab"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Computer Lab"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Seminar"
+      },
+      {
+        "class": "M Tech Environmental Engineering",
+        "subject": "Hydraulics and water Resources Engineering"
+      }
+    ]
+  }
+  

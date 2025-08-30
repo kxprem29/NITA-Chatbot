@@ -1,0 +1,226 @@
+{
+    "department": "Electronics and Instrumentation Engineering",
+    "faculty_profile": {
+      "name": "Dr. Aparupa Kar",
+      "designation": "Assistant Professor (Contractual)",
+      "department": "Electronics and Instrumentation Engineering",
+      "email": "goldylocks1990@gmail.com",
+      "address_information": {
+        "address": "Department of Electronics and Instrumentation Engineering, National Institute of Technology, Agartala, Jirania, Barjala, Tripura (West), Pin:799046",
+        "city": "Agartala",
+        "state": "Tripura",
+        "country": "India"
+      },
+      "contact_information": {
+        "email": "goldylocks1990@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "09612714645"
+      },
+      "academic_information": [
+        {
+          "degree": "Ph.D.",
+          "description": "Philosophy of Doctorate",
+          "year": 2019,
+          "subject": "Electrical Engineering"
+        },
+        {
+          "degree": "M.Tech",
+          "description": "Master of Technology",
+          "year": 2014,
+          "subject": "Instrumentation Engineering"
+        },
+        {
+          "degree": "B.Tech",
+          "description": "Bachelor of Technology",
+          "year": 2011,
+          "subject": "Electronics and Instrumentation Engineering"
+        }
+      ],
+      "publications": {
+        "conference": [
+          {
+            "title": "Evaluation of Radio over Fiber optical system supported by Fiber Bragg Grating and Dispersion Compensating Fiber for attenuating four wave mixing effect",
+            "authors": "Priyanka Dey, Priyanka Roy Goswami, Rituraj Bhattacharjee, Aparupa Kar and Ardhendu Saha",
+            "conference": "4th International Conference on Communication and Computational Technologies",
+            "location": "Rajasthan Institute of Engineering and Technology, Jaipur, India",
+            "date": "February 26-27, 2022",
+            "year": 2022
+          },
+          {
+            "title": "Graphene Surface Plasmon Resonance based All-Optical Modulator at Terahertz frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Priyanka Dey, Priyanka Roy Goswami, and Ardhendu Saha",
+            "conference": "4th International Conference on Communication and Computational Technologies",
+            "location": "Rajasthan Institute of Engineering and Technology, Jaipur, India",
+            "date": "February 26-27, 2022",
+            "year": 2022
+          },
+          {
+            "title": "Effect of Multilayer Graphene on Symmetric Mode Induced Optical Bistability at Terahertz Frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "Workshop on Recent Advances in Photonics (WRAP)",
+            "year": 2022,
+            "doi": "10.1109/WRAP54064.2022.9758181"
+          },
+          {
+            "title": "Tunable threshold bistable Lateral Beam displacement through Graphene Symmetric mode at Terahertz Frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "IEMPHYS-22 International Conference on Advanced Physics",
+            "location": "Institute of Engineering & Management, Kolkata, India",
+            "date": "September 22-24, 2022",
+            "year": 2022
+          },
+          {
+            "title": "Graphene Surface Plasmon Polariton based tunable Gas Sensor at Terahertz frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "IEMPHYS-22 International Conference on Advanced Physics",
+            "location": "Institute of Engineering & Management, Kolkata, India",
+            "date": "September 22-24, 2022",
+            "year": 2022
+          },
+          {
+            "title": "Graphene Surface Plasmon Resonance based Voltage tunable Terahertz Gas",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "5th International Conference on Optical and Wireless Technologies (OWT-2021)",
+            "location": "Jaipur, India",
+            "date": "October 09-10, 2021",
+            "year": 2021
+          },
+          {
+            "title": "Long Range Surface Plasmon Resonance induced Tunable Optical Bistability using Silver Nano-Layer at 1550 nm",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "International Conference on Optical and Wireless Technologies (OWT 2019)",
+            "location": "Malaviya National Institute of Technology, Jaipur",
+            "date": "March 16-17, 2019",
+            "year": 2019
+          },
+          {
+            "title": "Long-range Graphene Surface Plasmon Polariton induced Tunable Optical Bistability in Terahertz Range",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "International Conference on Condensed Matter Physics (IEMPHYS19)",
+            "location": "Institute of Engineering & Management, Kolkata, India",
+            "date": "November 14-16, 2019",
+            "year": 2019
+          },
+          {
+            "title": "Tunable low-threshold bistable Goos–Hänchen shift and Imbert–Fedorov shift using long-range graphene surface plasmons within the terahertz region",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics 58, 9376",
+            "year": 2019
+          },
+          {
+            "title": "Long-range surface-plasmon-enhanced all-optical switching and beam steering through nonlinear Kerr effect",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Physics B, Laser and Optics, Vol. 123, No. 1, pp. 1-9",
+            "year": 2017
+          },
+          {
+            "title": "Long-range surface plasmon-induced tunable ultralow threshold optical bistability using graphene sheets at terahertz frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics, Vol. 56, No. 8, pp. 2321-2329",
+            "year": 2017
+          },
+          {
+            "title": "Analysis of high-resolution electro-optical beam steering by long-range surface plasmon resonance using a ZnSe prism",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics, Vol. 56, No. 35, pp. 9656-9662",
+            "year": 2017
+          },
+          {
+            "title": "Long Range Surface Plasmon Polariton Induced Nonlinear Optical Bistability with Silver Nano Layer at 1550 nm",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "International Conference on Nanotechnology: Ideas, Innovations & Initiatives (ICN 2017)",
+            "location": "IIT Roorkee, India",
+            "date": "December 6-8, 2017",
+            "year": 2017
+          },
+          {
+            "title": "Graphene Symmetrical Mode Induced Tunable Optical Bistability Within the Terahertz Range",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "conference": "International Conference on Advances in Optics and Photonics (XLI OSI Conference)",
+            "location": "Guru Jambheshwar University of Science and Technology, Hisar, Haryana",
+            "date": "November 23-26, 2017",
+            "year": 2017
+          },
+          {
+            "title": "Polarization tunable spatial and angular Goos-Hänchen shift and Imbert-Fedorov shift using long range surface plasmon",
+            "authors": "Nabamita Goswami, Ardhendu Saha, Aparupa Kar",
+            "conference": "SPIE, Nonlinear Frequency Generation and Conversion (LASE 2015)",
+            "date": "February 7-12, 2015",
+            "year": 2015,
+            "doi": "10.1117/12.2079052"
+          },
+          {
+            "title": "Long range surface plasmon resonance enhanced electro-optically tunable Goos–Hänchen shift and Imbert–Fedorov shift in ZnSe prism",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "journal": "Optics Communication, Volume 330, pp 169–174",
+            "year": 2014
+          },
+          {
+            "title": "Long Range Surface Plasmon Resonance Enhanced Voltage Tunable Longitudinal and Transverse Displacement in ZnSe Prism",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "conference": "International Conference on Optics and Optoelectronics (ICOL-2014)",
+            "location": "IRDE, Dehradun, India",
+            "date": "March 5-8, 2014",
+            "year": 2014
+          },
+          {
+            "title": "Polarization Tunable Imbert-Fedorov Shift And Goos-Hanchen Shift with Surface Plasmon Resonance",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "conference": "International Conference on Optics and Optoelectronics (ICOL-2014)",
+            "location": "IRDE, Dehradun, India",
+            "date": "March 5-8, 2014",
+            "year": 2014
+          },
+          {
+            "title": "Surface Plasmon Resonance Enhanced Polarization Tunable Imbert-Fedorov Shift and Goos-Hanchen Shift",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "conference": "International Conference on Nanotechnology (ICNT 2013)",
+            "location": "Haldia Institute of Technology, West Bengal, India",
+            "date": "October 25-26, 2013",
+            "year": 2013
+          },
+          {
+            "title": "Electro-Optically Tunable Long Range Surface Plasmon Resonance Enhanced Longitudinal and Transverse Displacement in ZnSe Prism",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "conference": "International Conference on Nanotechnology (ICNT 2013)",
+            "location": "Haldia Institute of Technology, West Bengal, India",
+            "date": "October 25-26, 2013",
+            "year": 2013
+          }
+        ],
+        "journal": [
+          {
+            "title": "Tunable low-threshold bistable Goos–Hänchen shift and Imbert–Fedorov shift using long-range graphene surface plasmons within the terahertz region",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics 58, 9376",
+            "year": 2019
+          },
+          {
+            "title": "Long-range surface-plasmon-enhanced all-optical switching and beam steering through nonlinear Kerr effect",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Physics B, Laser and Optics, Vol. 123, No. 1, pp. 1-9",
+            "year": 2017
+          },
+          {
+            "title": "Long-range surface plasmon-induced tunable ultralow threshold optical bistability using graphene sheets at terahertz frequency",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics, Vol. 56, No. 8, pp. 2321-2329",
+            "year": 2017
+          },
+          {
+            "title": "Analysis of high-resolution electro-optical beam steering by long-range surface plasmon resonance using a ZnSe prism",
+            "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+            "journal": "Applied Optics, Vol. 56, No. 35, pp. 9656-9662",
+            "year": 2017
+          },
+          {
+            "title": "Long range surface plasmon resonance enhanced electro-optically tunable Goos–Hänchen shift and Imbert–Fedorov shift in ZnSe prism",
+            "authors": "Nabamita Goswami, Aparupa Kar, Ardhendu Saha",
+            "journal": "Optics Communication, Volume 330, pp 169–174",
+            "year": 2014
+          }
+        ]
+      }
+    }
+  }
+  

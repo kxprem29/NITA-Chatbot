@@ -1,0 +1,104 @@
+{
+    "name": "Dr. Sajal Kundu",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "email": "kundu12@gmail.com",
+    "url": "https://orcid.org/0000-0002-6",
+    "cv": "View",
+    "address": {
+      "address_line": "JIRANIA, WEST TRIPURA, AGARTALA",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "kundu12@gmail.com",
+      "residence": "8822094775",
+      "mobile": "09863141762"
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "subject": "Chemistry",
+        "year": 2015,
+        "thesis": "Synthesis, Structure and Characterization of Zinc, Cadmium and Mercury Complexes with Azodye and related ligands"
+      },
+      {
+        "degree": "M.Sc.",
+        "subject": "Chemistry",
+        "year": 2008
+      }
+    ],
+    "publications": {
+      "journals": [
+        {
+          "title": "Synthesis and Spectral Studies of Some Zn(II) Complexes with Substituted N,N-Donor Ligands Derived from Pyridine-2-carbaldehyde",
+          "authors": ["Shiva Lall Sunar", "Keisham Surjit Singh", "Sajal Kundu"],
+          "journal": "Asian Journal of Chemistry",
+          "volume": 32,
+          "number": 1,
+          "pages": "122-126",
+          "month": "July",
+          "year": 2020
+        },
+        {
+          "title": "Synthesis, Characterization and Antidiabetic Activity of Some Water Soluble Zn(II) Complexes with (E)-N-(Thiophen-2-ylmethylene)anilines",
+          "authors": ["Debabrata Paria", "Sajal Kundu", "Khaidem Kennedy Singh", "S. Sureshkumar Singh", "Keisham Surjit Singh"],
+          "journal": "Asian Journal of Chemistry",
+          "volume": 30,
+          "number": 5,
+          "pages": "1115-1119",
+          "month": "January",
+          "year": 2018
+        },
+        {
+          "title": "Synthesis, characterization and antibacterial activity of some water soluble Zn(II) azide complexes with (E)-N-(thiophen-2-ylmethylene)anilines",
+          "authors": ["Debabrata Paria", "Sajal Kundu", "N. Manglembi Devi", "C. Brajakishor Singh", "Keisham Surjit Singh"],
+          "journal": "Journal of Indian Chem. Soc.",
+          "volume": 94,
+          "month": "November",
+          "year": 2017
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "New Innovations in Chemistry and Biochemistry Vol. 8",
+        "details": "Study of Synthesis and Spectroscopic Characterization of Some Water Soluble Zn(II) Complexes with Substituted N, N-donor Ligands Derived from Pyridine-2-Carbaldehyde",
+        "year": 2022
+      },
+      {
+        "title": "Current Perspectives on Chemical Sciences",
+        "details": "Study of Synthesis, Spectroscopic Characterization and their Antidiabetic Activity of Some Water Soluble Zn(II) Complexes with N,S-donor ligands derived from (E)-N-(Thiophen-2-ylmethylene)aniline",
+        "year": 2020
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Two Days National Workshop on “Computational Study: Applications in Frontier Chemistry”",
+        "month": "September",
+        "year": 2018
+      },
+      {
+        "title": "National Conference on Recent Development & Applications in Chemical Sciences (RDACS-2016)",
+        "month": "May",
+        "year": 2016,
+        "location": "Department of Chemistry, NIT Agartala"
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "BSMS-Dual degree in Chemistry, MSc in Chemistry, B-Tech Engineering Chemistry",
+        "subjects": [
+          "Inorganic Chemistry",
+          "Organometallic Chemistry",
+          "Bio-inorganic Chemistry",
+          "Bio-Organic Chemistry",
+          "Industrial Chemistry",
+          "Eng-Chemistry I and II",
+          "Practical Classes of BSMS / MSc / B-Tech"
+        ]
+      }
+    ]
+  }
+  

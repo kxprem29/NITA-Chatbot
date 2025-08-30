@@ -1,0 +1,97 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "faculty_profile": {
+      "name": "Dr. Debashish Karmakar",
+      "designation": "Assistant Professor (Contractual)",
+      "email": "dkarmakarnita@gmail.com",
+      "research_area": [
+        "Pavement Engineering",
+        "Pavement Materials",
+        "Porous Pavement",
+        "Pavement Rehabilitation and Maintenance"
+      ],
+      "address_information": {
+        "address": "",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email": "dkarmakarnita@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "9774443482"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "Ph. D. (Philosophy of Doctorate)",
+          "university": "Jadavpur University",
+          "year": "2023",
+          "subject": "Civil Engineering"
+        },
+        {
+          "degree_diploma": "M.TECH (Master of Technology)",
+          "university": "",
+          "year": "2013",
+          "subject": "Transportation Engineering"
+        },
+        {
+          "degree_diploma": "B.E (Bachelor of Engineering)",
+          "university": "Tripura University",
+          "year": "2011",
+          "subject": "Civil Engineering"
+        }
+      ],
+      "publication_journals": [
+        {
+          "title": "Experimental Analysis on Engineering Properties of Pervious Concrete with GGBS as a Partial Replacement for Cement",
+          "authors": "Karmakar, D., Majumdar, K., Pal, M. and Roy, P.K.",
+          "journal": "International Journal on Emerging Technologies",
+          "volume_issue": "14(1): 52-58",
+          "month": "MAY",
+          "year": "2023"
+        },
+        {
+          "title": "Utilization of porous asphalt material in road construction for reducing the vehicular noise",
+          "authors": "Karmakar, D., Pal, M., Majumdar, K., Suresh, M. and Roy, P.K.",
+          "journal": "Materials Today: Proceedings",
+          "volume_issue": "65, pp.3602-3609",
+          "month": "JUN",
+          "year": "2022"
+        },
+        {
+          "title": "Energy harvesting from pedestrian movement using piezoelectric material",
+          "authors": "Karmakar, D., Majumdar, K., Pal, M., Roy, P.K. and Machavarapu, S.",
+          "journal": "Materials Today: Proceedings",
+          "volume_issue": "57, pp.391-397",
+          "month": "DEC",
+          "year": "2021"
+        }
+      ],
+      "books_published": [
+        {
+          "title": "A Study on Porous Bituminous Pavement as an Alternative Method for Ground Water Management",
+          "authors": "Karmakar, D., Das, B. and Pal, M.",
+          "publisher": "Springer, Singapore",
+          "book": "Advances in Water Resources Management for Sustainable Use (pp. 75-84)",
+          "year": "2021"
+        }
+      ],
+      "conferences_attended": [
+        {
+          "title": "An Experimental Study on Porous Asphalt Pavement for the Improvement of Strength under Medium Traffic Condition Maintaining Permeability",
+          "authors": "D. Karmakar, D. Debnath, M. Pal, P.K. Roy and K. Majumdar",
+          "conference": "Water Resources: Current and Future Challenges and Research Directions, Jadavpur University",
+          "pages": "119-126",
+          "month": "NOV",
+          "year": "2020"
+        }
+      ],
+      "patents": [
+        {
+          "title": "Intelligent road mock-up",
+          "year": "2023"
+        }
+      ]
+    }
+  }
+  

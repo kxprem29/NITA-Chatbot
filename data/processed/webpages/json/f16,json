@@ -1,0 +1,164 @@
+{
+  "personal_info": {
+    "name": "Dr. Baby Bhattacharya",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "email": "babybhatt75@gmail.com",
+    "address": {
+      "building": "KV building, 2nd floor",
+      "department": "Department of Mathematics",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "babybhatt75@gmail.com",
+      "phone_residence": null,
+      "phone_mobile": "09862213796"
+    }
+  },
+  "publications": {
+    "journals": [
+      {
+        "authors": "Das, Birojit, Jayasree Chakraborty, and Baby Bhattacharya",
+        "title": "On fuzzy µ-open sets in generalized fuzzy topological spaces",
+        "journal": "Proyecciones (Antofagasta, On line)",
+        "volume": "41",
+        "issue": "3",
+        "pages": "733-749",
+        "year": 2022
+      },
+      {
+        "authors": "Nath, Jagannath, et al.",
+        "title": "On strongly almost µ-convergence and statistically almost µ-convergence in the environment of uncertainty",
+        "journal": "International Journal of General Systems",
+        "volume": "51",
+        "issue": "3",
+        "pages": "262-276",
+        "year": 2022
+      },
+      {
+        "authors": "Datta, Rupak, et al.",
+        "title": "Further results on stability analysis of Takagi–Sugeno fuzzy time-delay systems via improved Lyapunov–Krasovskii functional",
+        "journal": "AIMS Mathematics",
+        "volume": "7",
+        "issue": "9",
+        "pages": "16464-16481",
+        "year": 2022
+      },
+      {
+        "authors": "Nath, Jagannath, Binod Chandra Tripathy, and Baby Bhattacharya",
+        "title": "On strongly almost convergence of double sequences via complex uncertain variable",
+        "journal": "11.1",
+        "pages": "102-121",
+        "year": 2022
+      },
+      {
+        "authors": "Birojit Das, Apu Kumar Saha, Baby Bhattacharya",
+        "title": "Some Remarks on Fuzzy Infi Topological Spaces",
+        "journal": "Proyecciones Journal of Mathematics",
+        "volume": "40",
+        "issue": "2",
+        "pages": "399-415",
+        "year": 2021
+      }
+    ],
+    "books": [
+      {
+        "title": "On g*-Closed Sets in Fuzzy Topological Spaces",
+        "authors": "Gayatri Paul, Birojit, Baby Bhattacharya",
+        "type": "Book Chapter",
+        "publisher": "Springer",
+        "doi": "10.1007/978-3-030-34152-7_57",
+        "year": 2020
+      },
+      {
+        "title": "A study on Fuzzy Hyperconnectedness",
+        "authors": "Baby Bhattacharya, Arnab Paul, Jayasree Chakraborty",
+        "type": "Book",
+        "publisher": "Lambert Academic Publishing",
+        "published_date": "2018-03-06",
+        "year": 2018
+      },
+      {
+        "title": "Quotology- Reading Between the Lines of Quotations",
+        "authors": "Dwijen Rudrapal, Amitava Das, Baby Bhattacharya",
+        "type": "Book Chapter",
+        "conference": "NLDB-2017, Liege, Belgium",
+        "year": 2017
+      },
+      {
+        "title": "L-Fuzzy Topological Space Induced by Scott –µ-Continuous Function",
+        "authors": "Baby Bhattacharya and Jayasree Chakraborty",
+        "type": "Book Chapter",
+        "publisher": "Narosa Publishing House, New Delhi",
+        "year": 2015
+      },
+      {
+        "title": "On µ-Induced L-Fuzzy Supra Topological Space",
+        "authors": "Baby Bhattacharya and Sunny Biswas",
+        "type": "Book Chapter",
+        "publisher": "Narosa Publishing House, New Delhi",
+        "year": 2015
+      }
+    ]
+  },
+  "conferences": {
+    "attended": [
+      {
+        "conference": "National Conference on Vedic Mathematics Including Ancient Indian Mathematics (Up-to 1200 AD)",
+        "venue": "Womans College, Agartala, Tripura",
+        "month": "DEC",
+        "year": 2019
+      },
+      {
+        "conference": "2nd International Conference on Rough sets, Fuzzy sets and Soft Computing (ICRFSC-12)",
+        "venue": "Department of Mathematics, Tripura University",
+        "month": "JAN",
+        "year": 2018
+      },
+      {
+        "conference": "International Conference on Mathematics, Engineering & Industrial Application",
+        "venue": "Institute of Engineering Mathematics, University Malaysia Perlis",
+        "month": "MAY",
+        "year": 2017
+      },
+      {
+        "conference": "18th International Mathematics Conference",
+        "venue": "Independent University, Bangladesh",
+        "month": "MAR",
+        "year": 2014
+      }
+    ],
+    "conducted": [
+      {
+        "conference": "2-days International Conference on Emergent Research in Mathematics and Engineering",
+        "month": "MAY",
+        "year": 2019
+      }
+    ]
+  },
+  "training_workshops": [
+    {
+      "title": "National Workshop on Advances in Multi-criteria decision Making (MCDM) Techniques",
+      "month": "JAN",
+      "year": 2014,
+      "duration": "13-14 Jan",
+      "organizer": "Department of Production Engineering, NIT Agartala"
+    },
+    {
+      "title": "National Workshop on Green Energy & Economy",
+      "month": "FEB",
+      "year": 2014,
+      "duration": "6-7 Feb",
+      "organizer": "Department of Mechanical Engineering & Humanities and Social Science, NIT Agartala"
+    },
+    {
+      "title": "QIP Short Term Course on Analytical and Numerical Solutions of Differential Equations",
+      "month": "DEC",
+      "year": 2010,
+      "duration": "6-10 Dec",
+      "organizer": "Department of Mathematics, IIT Guwahati"
+    }
+  ]
+}

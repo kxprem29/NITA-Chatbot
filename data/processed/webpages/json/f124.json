@@ -1,0 +1,117 @@
+{
+    "name": "Dr. Sambhu Nath Pradhan",
+    "designation": "Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "28/05/2010",
+    "email": "sambhupradhan.ece@nita.ac.in",
+    "research_area": [
+      "VLSI Design and Synthesis"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Basic Electronics",
+        "Semiconductor Device Physics",
+        "Digital Circuit Design",
+        "Analog Electronics",
+        "VLSI Design and Microelectronics",
+        "Communication Systems",
+        "Electronics and Electrical Measurement and Instrumentation",
+        "Data Communication and Networking",
+        "Low Power VLSI Circuit"
+      ],
+      "PG": [
+        "Low Power VLSI Circuit",
+        "Digital VLSI Circuit Design",
+        "VLSI CAD System"
+      ]
+    },
+    "phd_guidance": {
+      "completed": 15,
+      "sole_guidance": 13,
+      "joint_guidance": 2
+    },
+    "address": {
+      "address": "Dept. of ECE, NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sambhupradhan.ece@nita.ac.in",
+      "phone_residence": null,
+      "phone_mobile": "03812548532"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D.",
+        "institution": "IIT Kharagpur",
+        "year": 2010,
+        "subject": "VLSI Design and Synthesis"
+      },
+      {
+        "degree": "M.E.",
+        "institution": "Bengal Engineering and Science University (IIEST Shibpur)",
+        "year": 2004,
+        "subject": "Digital Systems and Instrumentation"
+      },
+      {
+        "degree": "B. Tech.",
+        "institution": "University of Kalyani (Kalyani Govt. Engineering College)",
+        "year": 2002,
+        "subject": "Electronics and Communication Engineering"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "IoT Integrated Environment Monitoring System With Data Accuracy and Android Application Platform",
+          "authors": ["K. D. Purkayastha", "P. Choudhury", "S. R. Choudhury", "B. Debbarma", "S. N. Pradhan"],
+          "conference": "1st International Conference on Energy, Environment, and Green Technology (ICEEGT 2025), NITTR-Kolkata",
+          "date": "April 2025"
+        },
+        {
+          "title": "A new and adaptive power gating technique in full adder",
+          "authors": ["A. Nag", "A. Chakraborty", "V. K. Singh", "S. N. Pradhan"],
+          "conference": "International Conference on Cognitive & Cloud Computing (IC3Com), Jaipur",
+          "date": "Aug 2024"
+        },
+        {
+          "title": "Temperature Aware Bi-partitioning Multi-level Logic Synthesis",
+          "authors": ["A. Das", "V. K. Singh", "S. N. Pradhan"],
+          "conference": "7th Soft Computing: Theories & Applications (SoCTA-22), Shimla",
+          "date": "Dec 2022"
+        }
+      ],
+      "journals": [
+        {
+          "title": "Area-Time-Energy Efficient Architecture of CBNS-Based Fast Fourier Transform",
+          "authors": ["K. Das", "E. H. Reddy", "A. Mandal", "S. N. Pradhan", "A. Bhattacharjee"],
+          "journal": "International Journal of Circuit Theory and Applications",
+          "volume": "52",
+          "issue": "12",
+          "pages": "6448-6467",
+          "month": "Dec",
+          "year": 2024
+        },
+        {
+          "title": "Efficient Hardware Architecture Design of Radix-22 Fast Fourier Transform Using Coordinate Rotation Digital Computer",
+          "authors": ["K. Das", "S. N. Pradhan", "A. Bhattacharjee"],
+          "journal": "Journal of Circuits, Systems, and Computers",
+          "volume": "33",
+          "issue": "18",
+          "year": 2024
+        },
+        {
+          "title": "Power aware air quality sensing system with efficient data storage capability",
+          "authors": ["K. D. Purkayastha", "C. Nath", "S. N. Pradhan"],
+          "journal": "Journal of Air Pollution and Health",
+          "volume": "8",
+          "issue": "1",
+          "pages": "23-42",
+          "month": "March",
+          "year": 2023
+        }
+      ]
+    }
+  }
+  

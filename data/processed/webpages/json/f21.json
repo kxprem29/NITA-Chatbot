@@ -1,0 +1,128 @@
+{
+    "Faculty": {
+      "Name": "Dr. Bikram Das",
+      "Designation": "Assistant Professor",
+      "Department": "Electrical Engineering",
+      "DateOfJoining": "31/03/2006",
+      "Email": "bikram.ee@nita.ac.in",
+      "Phone": {
+        "Residence": null,
+        "Mobile": "9436459126"
+      },
+      "Address": {
+        "Street": "Srinagar Road-01, Near TV Centre, PO-AD Nagar, Agartala West Tripura",
+        "City": "Agartala",
+        "State": "Tripura",
+        "Country": "India"
+      },
+      "ResearchAreas": [
+        "Multilevel Inverter Topologies",
+        "Harmonic Elimination techniques",
+        "Modular Multilevel Converter for HVDC application",
+        "Power Electrics Application to Renewables",
+        "Electric Vehicle"
+      ],
+      "CV": "View",
+      "CoursesTaught": {
+        "UG": [
+          "Power Electronics- EE",
+          "Industrial Electronics -ECE",
+          "Power Electronics-EIE",
+          "Electromagnetic Field Theory-EE",
+          "Generalized Theory of Electrical Machines-EE Elective",
+          "Advance Power Electronics -EE Elective",
+          "High Voltage Engineering-EE"
+        ],
+        "PG": [
+          "Advance Power Electronics"
+        ]
+      },
+      "PhDStudents": [
+        {"Name": "PARTHA PRATIM CHAKRABORTY", "ID": "21EDEEA001"},
+        {"Name": "DIPANKAR SUTRADHAR", "ID": "21EDEEA002"},
+        {"Name": "RAJESH KUMAR", "ID": "22ODEER001"},
+        {"Name": "SIDDHARTHA SANKAR DEB", "ID": "22ODEEA002"}
+      ],
+      "AcademicQualifications": [
+        {
+          "Degree": "Ph.D.",
+          "Year": 2021,
+          "Subject": "Electrical Engineering",
+          "Thesis": "Multilevel inverter topologies suitable for applications with renewable energy sources"
+        },
+        {
+          "Degree": "M.Tech",
+          "Year": 2010,
+          "Subject": "Electrical Engineering",
+          "Specialization": "Power Electronics and Drives"
+        },
+        {
+          "Degree": "B.Tech",
+          "Year": 2003,
+          "Subject": "Electrical Engineering"
+        }
+      ],
+      "Publications": {
+        "Conference": [
+          {
+            "Title": "Electric Vehicle Production: A Comprehensive study of Environmental and Water Resource Impacts",
+            "Authors": "K. Amitabh, S. Majumder, K. De and B. Das",
+            "Conference": "2024 IEEE Silchar Subsection Conference (SILCON 2024)",
+            "Location": "Agartala, India",
+            "Year": 2024,
+            "DOI": "10.1109/SILCON63976.2024.10910422",
+            "Month": "Mar",
+            "Published": 2025
+          }
+        ],
+        "Journal": [
+          {
+            "Title": "Negative Sequence Current Injection Based Active Islanding Detection Method",
+            "Authors": "Chiranjit Biswas, Soham Chakraborty, Kamakshi Patro, Jyotsna Nain, Abanishwar Chakrabarti, Rakesh Roy, BIkram Das, Prabir R Kasari, Swanirbar Majumder, Joyashree Das, Sujit K Biswas",
+            "Journal": "IEEE Transactions on Industry Applications",
+            "Volume": 61,
+            "Issue": 2,
+            "Pages": "2093-2102",
+            "DOI": "10.1109/TIA.2024.3523870",
+            "Month": "Mar",
+            "Year": 2025
+          }
+        ]
+      },
+      "Books": [
+        {
+          "Title": "A Comparative Analysis of Multicarrier PWM Techniques in a Seven-level Asymmetrical Multilevel Inverter",
+          "Authors": ["Sangita Das Biswas", "Bikram Das", "Champa Nandi"],
+          "Publisher": "River Publisher",
+          "Year": 2025,
+          "ISBN": "9788770041430",
+          "eISBN": "9788770041133"
+        }
+      ],
+      "WorkshopsAttended": [
+        {
+          "Title": "Workshop on Aakash for Education",
+          "Organizers": "IIT Bombay",
+          "Location": "NIT Agartala",
+          "Year": 2012,
+          "Duration": "2 days"
+        }
+      ],
+      "TrainingsConducted": [
+        {
+          "Title": "Microgrids design, control, applications and challenges",
+          "Date": "5-11th March 2024",
+          "Duration": "7 Days",
+          "FileNumber": "AV/KAR/2023/0262",
+          "Scheme": "Karyashala, Under Accelerate Vigyan Scheme"
+        }
+      ],
+      "Subjects": [
+        {"Class": "B.Tech, 5th Sem", "Subject": "Power Electronics"},
+        {"Class": "M.Tech, 1st Sem", "Subject": "Advanced Power Electronics"},
+        {"Class": "M.Tech", "Subject": "Power Electronics Lab-1"},
+        {"Class": "M.Tech", "Subject": "Power Electronics Lab-2"}
+      ]
+    }
+  }
+  

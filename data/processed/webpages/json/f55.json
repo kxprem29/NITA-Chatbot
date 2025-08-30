@@ -1,0 +1,132 @@
+{
+    "name": "Dr. Anirban Dutta",
+    "designation": "Associate Professor",
+    "department": "Management, Humanities & Social Sciences",
+    "email": "anirban.som@nita.ac.in",
+    "address": {
+      "department": "Dept. of MHSS",
+      "room": "ROOM NO. 205, GOLDEN JUBILEE KNOWLEDGE CENTER, 2ND FLOOR",
+      "institute": "NIT Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "postal_code": "799046"
+    },
+    "contact": {
+      "email": "anirban.som@nita.ac.in",
+      "mobile": "8415902777",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2011,
+        "subject": "Management",
+        "institution": "National Institute of Technology, Durgapur (NITD), W.B., India"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": null,
+        "subject": "Economics",
+        "institution": "University of Burdwan, W.B., India"
+      },
+      {
+        "degree": "MBA",
+        "year": null,
+        "subject": "Marketing Management",
+        "institution": "Bengal Engineering College (D.U.) Shibpur (Presently IIEST Shibpur), W.B., India"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Digital Marketing Adoption Among Startups in India: A Systematic Review and Bibliometric Analysis",
+        "authors": "Jayanta Chakraborti, Anirban Dutta, Bhaswati Jana",
+        "conference": "National Conference on Resilience Reinvention & Rebuilding towards the New Normal (R3TN2)",
+        "month": "May",
+        "year": 2022,
+        "location": "GIMS, Greater Noida, India",
+        "isbn": "978-93-5627-804-2"
+      },
+      {
+        "title": "Determining the Adoption of Digital Marketing among Start-up Companies in India: A PLS-SEM Approach Using TAM-TOE Model",
+        "authors": "Jayanta Chakraborti, Anirban Dutta, Biplab Bhattacharya",
+        "conference": "12th Conference on Excellence in Research and Education (CERE)",
+        "month": "June",
+        "year": 2022,
+        "location": "IIM Indore",
+        "isbn": "978-93-90951-43-7"
+      },
+      {
+        "title": "The Rise of Omnichannel Marketing – Are Indian Retailers Ready for the Challenge?",
+        "authors": "Jayanta Chakraborti, Anirban Dutta, Bhaswati Jana",
+        "conference": "International Marketing Conference-I on Innovations in Contemporary Marketing: Theory and Practice",
+        "month": "April",
+        "year": 2021,
+        "location": "IIM Shillong",
+        "isbn": "978-93-91355-27-2"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Multi-objective supply chain model with multiple levels of transit and vulnerable zone detection implementing hexagonal defuzzification: A case study of 2022 Assam flood",
+        "authors": "Alisha Roushan, Amrit Das, Anirban Dutta, Tapan Senapati, Uttam Kumar Bera",
+        "journal": "Engineering Applications of Artificial Intelligence",
+        "volume": 133,
+        "part": "Part B",
+        "year": 2024,
+        "publisher": "Elsevier",
+        "indexing": ["Scopus", "WoS"],
+        "issn": "0952-1976"
+      },
+      {
+        "title": "A Pentagonal Type-2 Fuzzy Variable Defuzzification Model with Application in Humanitarian Supply Chains",
+        "authors": "Alisha, Amrit Das, Anirban Dutta, Uttam Kumar Bera",
+        "journal": "Decision Analytics Journal",
+        "volume": 8,
+        "year": 2023,
+        "publisher": "Elsevier",
+        "indexing": ["Scopus"]
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Earnings Management – A Major Deterrent For Sustainable Corporate Growth And Governance: Some Indian Evidences",
+        "authors": "Satyajit Dhar, Somnath Banerjee, Anirban Dutta",
+        "year": 2021,
+        "publisher": "Serials Publications (P) Ltd.",
+        "isbn": "978-81-947932-1-2"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Session delivered as resource person in one day workshop on 'Skilling and Entrepreneurship'",
+        "year": 2022,
+        "organization": "Indian Institute of Entrepreneurship"
+      },
+      {
+        "title": "Session delivered as resource person in AICTE approved five days FDP on 'Social Entrepreneurship'",
+        "year": 2022,
+        "organization": "NIT Mizoram"
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "One day Capability Building Training Programme for LPG distributors in Tripura",
+        "month": "Nov",
+        "year": 2022,
+        "sponsor": "Indian Oil Corporation"
+      },
+      {
+        "title": "Five days workshop on 'Innovation and Startup Policy'",
+        "month": "Jan",
+        "year": 2021,
+        "sponsor": "AICTE ATAL Scheme"
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "MBA",
+        "subjects": ["Marketing Management", "Services Marketing", "Brand Management", "Business Research"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "name": "Dr. Barnik Saha Roy",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "31/03/2006",
+    "email": "barnik.me@nita.ac.in",
+    "profile_url": "https://scholar.google.co.in/citations?user=oJoQCzIAAAAJ&hl=en",
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "barnik.me@nita.ac.in",
+      "residence_phone": null,
+      "mobile_phone": "9612842102"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2016,
+        "subject": "Welding"
+      }
+    ]
+  }
+  

@@ -1,0 +1,125 @@
+{
+    "name": "Dr. Sagnik Pal",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "25/08/2022",
+    "email": "sagnikpal1987@gmail.com",
+    "research_areas": ["Heat transfer", "Boiling"],
+    "courses_taught": {
+      "UG": ["NACP", "Mechanical Measurement and Instrumentation", "Engineering Mechanics"],
+      "PG": ["Advance Heat and Mass Transfer", "NACP"]
+    },
+    "phd_students": {
+      "enrolled_completed": 2,
+      "enrolled_ongoing": 2
+    },
+    "address": {
+      "address_line": "Sukuntala Road Ext Palace Compound West",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sagnikpal1987@gmail.com",
+      "mobile": "7085915421"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2011,
+        "subject": "Mechanical Engineering",
+        "specialization": "Thermal Science and Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2008,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Development of theoretical correlation for prediction of boiling heat transfer using TiO2-water nanofluid",
+        "authors": "S. Pal, S. Bhaumik",
+        "conference": "Energy and Biotechnology 33",
+        "pages": "34-8",
+        "year": 2012
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Experimental investigation of different enhanced tubes on flow boiling heat transfer characteristics of R134a: A comparative study",
+        "journal": "Materials Today: Proceedings",
+        "month": "JAN",
+        "year": 2023
+      },
+      {
+        "title": "Numerical and Optimization based Study on Split Hemispherical Shaped Fins for Augmenting Heat Transfer Rate",
+        "journal": "Int. J. Energy Research",
+        "doi": "https://doi.org/10.1155/2023/8300877",
+        "month": "JAN",
+        "year": 2023
+      },
+      {
+        "title": "Performance Analysis of Porous Based Taper Shaped Fin for Enhanced Heat Transfer Rate Using Cuckoo Search Algorithm",
+        "journal": "Proc. Ins. Mech. Eng. Part E: J. Proc. Mech. Engg",
+        "month": "JAN",
+        "year": 2023
+      },
+      {
+        "title": "Effect of Ribs Configurations on Heat Transfer Enhancement for W-Shaped Ribs in a Square Duct",
+        "journal": "Arabian J. Sci.Engg.",
+        "doi": "https://doi.org/10.1007/s13369-023-07662-7",
+        "month": "JAN",
+        "year": 2023
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Performance Analysis of Split Circular and Drop-Form Fin Geometry for Enhanced Heat Transfer Rate",
+        "authors": "A. Ranjan, S. Pal, M. Deb",
+        "book": "Recent Advancements in Mechanical Engineering",
+        "pages": "115-126",
+        "year": 2022
+      },
+      {
+        "title": "Design, Fabrication and Experimentation of Aqua Silencer for Diesel Genset",
+        "authors": "N. Ghosh, S.S. Gajghate, S. Pal, S. Bhaumik",
+        "book": "Recent Advances in Mechanical Engineering",
+        "pages": "463-475",
+        "year": 2021
+      }
+    ],
+    "trainings_conducted": [
+      {
+        "month": "MAR",
+        "year": 2021,
+        "training": "BioMass and Bio Energy"
+      },
+      {
+        "month": "AUG",
+        "year": 2020,
+        "training": "Energy and Sustainability"
+      },
+      {
+        "month": "OCT",
+        "year": 2020,
+        "training": "Engine Combustion and Emission Diagnostics"
+      },
+      {
+        "month": "MAY",
+        "year": 2019,
+        "training": "Value Analysis – An Ethical View on Engineering Prospect"
+      },
+      {
+        "month": "SEPT",
+        "year": 2019,
+        "training": "Advance Materials, Manufacturing and Measurements"
+      }
+    ]
+  }
+  

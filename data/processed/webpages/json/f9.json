@@ -1,0 +1,137 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Debanjan Acharyya",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "EIE",
+          "Full": "Electronics and Instrumentation Engineering"
+        },
+        "Email": "iammdebanjan@gmail.com",
+        "URL": "https://www.debanjanacharyya.com/",
+        "Research_Areas": [
+          "Flexible and Wearable Electronics",
+          "IoT Sensor and Actuator",
+          "Gas and Bio Sensor",
+          "AI and ML for Device Modelling",
+          "Agriculture and Healthcare"
+        ],
+        "Address": {
+          "Address_Line": "Electronics and Instrumentation Department, NIT Agartala, Barjala, Jirania, Pin:799046",
+          "City": "AGARTALA",
+          "State": "TRIPURA",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": null
+        },
+        "Courses_Taught": {
+          "UG": [
+            "Electronic Devices",
+            "Electronic Instrumentation",
+            "Network Theory",
+            "Signals and Systems",
+            "Smart Sensors",
+            "Analog Electronics"
+          ],
+          "PG": [
+            "IoT Sensor and Actuators",
+            "Advance Microprocessor and Micro-controller"
+          ]
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Institute": "Indian Institute of Engineering Science and Technology Shibpur",
+            "Year": 2019,
+            "Subject": "Microelectronic Devices, Sensor Fabrication and Characterization"
+          },
+          {
+            "Degree": "M.E.",
+            "Institute": "Indian Institute of Engineering Science and Technology Shibpur",
+            "Year": 2013,
+            "Subject": "ETCE (Digital System and Instrumentation)"
+          },
+          {
+            "Degree": "B.Tech.",
+            "Institute": "West Bengal University of Technology Kolkata",
+            "Year": 2011,
+            "Subject": "Electronics and Instrumentation"
+          }
+        ],
+        "Publications": {
+          "Journal": [
+            {
+              "Title": "Impact of Device Configurations on Sensing Performance of WS2 based Gas Sensors: A Review",
+              "Authors": "Partha Bhattacharyya, Debanjan Acharyya",
+              "Journal": "IEEE Sensors Journal",
+              "Volume": 21,
+              "Issue": 20,
+              "Pages": "22414–22425",
+              "Year": 2021,
+              "DOI": "10.1109/JSEN.2021.3104615"
+            }
+          ],
+          "Conference": [
+            {
+              "Title": "Hierarchical MnO2 Nanoflowers Based Efficient Room Temperature Alcohol Sensor",
+              "Authors": "D. Acharyya, R. Roychaudhuri, S. Ghosal, P. Bhattacharyya",
+              "Conference": "IEEE Sensors-2018",
+              "Location": "New Delhi, India",
+              "Date": "28-31 Oct 2018",
+              "Year": 2018
+            }
+          ],
+          "Books": [
+            {
+              "Title": "Functionalization of graphene and its derivatives for developing efficient solid-state gas sensors: Trends and Challenges",
+              "Authors": "Debanjan Acharyya, Partha Bhattacharyya",
+              "Book": "Functional Nanomaterials: Advances in Gas Sensing Technologies",
+              "Publisher": "Springer Nature, Singapore",
+              "Chapter": 8,
+              "Pages": "245-284",
+              "Year": 2020
+            }
+          ]
+        },
+        "Conferences_Attended": [
+          {
+            "Conference": "IEEE Sensors-2018",
+            "Location": "New Delhi, India",
+            "Date": "28-31 Oct 2018"
+          }
+        ],
+        "Patents": [
+          {
+            "Title": "A process for fabrication of hybrid junction of reduced graphene oxide nanoribbon and TiO2 nanotube array (TNTA) based gas sensor system",
+            "Authors": "Partha Bhattacharyya, Debanjan Acharyya",
+            "Patent_Number": "407903",
+            "Year_Granted": 2022
+          }
+        ],
+        "Achievements": [
+          "ISSS-PhD Thesis Award-2020 from Institute for Smart Structures and Systems, India",
+          "The “Seal of Excellence” badge from the European Commission, for Research and Innovation 2014-2020",
+          "Best Oral Presentation Award in Research scholar Colloquium 2016 organized by IIEST, Shibpur",
+          "International Travel Grant from DST, SERB (GOI) for attending ANNIC- 2016, Spain",
+          "Best Poster Presentation Award at Young Scientist Colloquium-2015",
+          "Senior Research Fellowship (SRF-Direct) from CSIR, India, 2015",
+          "Young Scientist Award at Young Scientist Colloquium- 2014"
+        ],
+        "Training_Attended": [
+          {
+            "Training": "GIAN course on “Chemical Sensor” taught by Prof. Giovanni Neri, University of Messina, Italy",
+            "Location": "IIT Indore, India",
+            "Date": "01-09 July 2016"
+          },
+          {
+            "Training": "GIAN course on “Charge and Spin Based Electronics: From Devices to Circuits and Systems” taught by Prof. Koushik Roy, Pardue University, USA",
+            "Location": "IIEST, Shibpur, India",
+            "Date": "13-24 July 2016"
+          }
+        ]
+      }
+    ]
+  }
+  

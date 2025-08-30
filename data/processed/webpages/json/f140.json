@@ -1,0 +1,47 @@
+{
+    "name": "Prof. Ratul Das",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "ratulnitagartala@gmail.com",
+    "research_area": [
+      "Hydraulics of Sediment Transport",
+      "Turbulent Flows and Fluvial Hydraulics",
+      "Urban Flood and Flood Plain Modeling"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Hydrology"
+      ],
+      "PG": [
+        "Open Channel Flows",
+        "Hydraulics of Sediment Transport"
+      ]
+    },
+    "phd_students": {
+      "enrolled": [
+        "Dr. Pritam Malakar",
+        "Dr. Mithun Ghosh",
+        "Akash Datta (Submitted)"
+      ],
+      "completed": []
+    },
+    "address": {
+      "address": "Civil Engineering Department",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "ratulnitagartala@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9774315799"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D. (Philosophy of Doctorate)",
+        "year": "0",
+        "subject": "-"
+      }
+    ]
+  }
+  

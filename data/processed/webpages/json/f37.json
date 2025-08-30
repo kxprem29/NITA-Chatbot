@@ -1,0 +1,116 @@
+{
+    "name": "Dr. Tridib Kumar Bhowmick",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Bio Engineering",
+    "date_of_joining": "13/06/2013",
+    "email": "tbhowmick@gmail.com",
+    "profile_url": "https://nita.irins.org/profile/48410",
+    "research_area": [
+      "Particle mediated drug delivery",
+      "Microalgae and Cyanobacteria based Biofuels and Bioproducts",
+      "Bio-analytics",
+      "Electron Microscopy",
+      "Recombinant protein (upstream and downstream processing)",
+      "Biomaterial Characterization",
+      "Indian Traditional Medicine",
+      "Food processing and analysis"
+    ],
+    "address": {
+      "street": "Department of Bioengineering, National Institute of Technology, Agartala, Jirania, Tripura",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "tbhowmick@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "8413061175"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2009,
+        "subject": "Nanobiotechnology, Chemical Engineering, Indian Institute of Technology Bombay"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 1999,
+        "subject": "Molecular Biology, Microbiology, Immunology, Bioprocess Engineering, Department of Biotechnology, Jadavpur University"
+      },
+      {
+        "degree": "B.Pharm",
+        "description": "Bachelor of Pharmacy",
+        "year": 1996,
+        "subject": "Pharmaceutics, Medicinal Chemistry, Pharmacology, Pharmaceutical Engineering, Department of Pharmaceutical Technology, Jadavpur University"
+      }
+    ],
+    "phd_students": {
+      "completed": [
+        {"name": "Ashmita Ghosh", "enrollment_no": "13ODCHR001", "year": "2013-2018"},
+        {"name": "Sreya Sarkar", "enrollment_no": "19EDCHP001", "year": "2019-2024"}
+      ],
+      "ongoing": [
+        {"name": "Bhabatush Biswas", "year": "2019-Current"}
+      ]
+    },
+    "courses_taught": {
+      "UG": [
+        "Biochemistry (UBE03B02)",
+        "Fundamentals of Nanobiotechnology (UBE08E05)",
+        "Material Science & Engineering/Biomaterials (UBE05C22/UBE05C26)",
+        "Microbial Molecular Biology and Genetics (UBE04B05)",
+        "Microbiology (UBE04B08)",
+        "Introduction to Bioengineering (UBE04B07)",
+        "Molecular Biology and Genetics (UBE04B01/UBE04B09)",
+        "Drug Design and Development (UBE07E04)",
+        "Pharmaceutical Biotechnology (UBE06E02)"
+      ],
+      "UG_Lab": [
+        "Biochemistry Lab (UBE03P11)",
+        "Microbiology Lab (UBE03P13)",
+        "Mass Transfer Lab (UBE06P18)"
+      ],
+      "PG": [
+        "Molecular Cell Biology (PCH11E01)",
+        "Bioanalytical Techniques (PBE01C01)"
+      ],
+      "PG_Lab": [
+        "Analytical Techniques Lab (PBE01P01)"
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Nanobiotechnology: Applications of Nanomaterials in Biotechnology, Medicine and Healthcare",
+        "editors": ["Tridib Kumar Bhowmick", "Kalyan Gayen", "Sunil K. Maity"],
+        "publisher": "CRC Press, Taylor & Francis Group",
+        "year": 2024,
+        "pages": 356,
+        "ISBN": "9781003305583"
+      },
+      {
+        "title": "Hydrocarbon Biorefinery",
+        "editors": ["Sunil K. Maity", "Kalyan Gayen", "Tridib Kumar Bhowmick"],
+        "publisher": "Elsevier Publishing Services",
+        "year": 2021,
+        "pages": 450,
+        "ISBN": "9780128233061"
+      },
+      {
+        "title": "Sustainable Downstream Processing of Microalgae for Industrial Application",
+        "editors": ["Kalyan Gayen", "Tridib Kumar Bhowmick", "Sunil K. Maity"],
+        "publisher": "Taylor & Francis Group",
+        "year": 2019,
+        "ISBN": "978-0-367-13556-0"
+      }
+    ],
+    "trainings_conducted": [
+      {"title": "Two days national webinar on 'Innovations in Biotechnology: Virus, Vaccine and Public Health'", "month": "AUG", "year": 2021},
+      {"title": "Two days national seminar on 'Modern Trends in Biotechnology for Innovations in Food Biotechnology and Medical Biotechnology'", "month": "OCT", "year": 2019},
+      {"title": "Optimization in Engineering", "month": "MAR", "year": 2018},
+      {"title": "Three days national seminar on 'Sustainable Bio-resource Utilization – Prospect of North-East India'", "month": "APRIL", "year": 2018},
+      {"title": "'Nanomedicine: Applications, Challenges and perspectives'", "month": "MAR", "year": 2016}
+    ]
+  }
+  

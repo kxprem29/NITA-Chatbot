@@ -1,0 +1,115 @@
+{
+    "name": "Dr. KAJU NATH",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Management, Humanities & Social Sciences",
+    "date_of_joining": "",
+    "email": "kajunathrgu@gmail.com",
+    "address": "Room No 311, Department of MHSS, Golden Jubilee Knowledge Centre",
+    "city": "AGARTALA",
+    "state": "TRIPURA",
+    "country": "India",
+    "contact": {
+      "residence_phone": "-",
+      "mobile_phone": "7629914581"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": "2013",
+        "subject": "Economics",
+        "institution": "Rajiv Gandhi (Central) University, Itanagar Arunachal Pradesh"
+      }
+    ],
+    "publications": [],
+    "books_published": [
+      {
+        "title": "\"POST PANDEMIC PERSPECTIVES: Public Health, Management, and Socioeconomics\"",
+        "publisher": "AuthorsPress: Publishers of Scholarly & Creative Books & Journals, New Delhi",
+        "isbn": "978-93-5529-783-9",
+        "year": "2023"
+      },
+      {
+        "title": "‘Economics of Fisheries in North East India: Opportunities and Challenges’",
+        "publisher": "Concept Publishing Company (P) Ltd., New Delhi",
+        "isbn": "9789351251507",
+        "year": "2016"
+      }
+    ],
+    "conferences_conducted": [
+      {
+        "role": "Co-organizing Secretary",
+        "title": "One Day International Seminar on \"Digital Humanities\"",
+        "organizer": "Department of Management, Humanities & Social Sciences, NIT Agartala",
+        "month": "APRIL",
+        "year": "2023"
+      },
+      {
+        "role": "Organizing Secretary",
+        "title": "Three Day International Conference on Beyond the Postmodern: Unravelling Culture and Identity",
+        "organizer": "Department of Management, Humanities & Social Sciences, NIT Agartala",
+        "month": "DEC",
+        "year": "2023"
+      },
+      {
+        "role": "Organizing Secretary",
+        "title": "Two Day International Virtual Conference on Post Pandemic Perspectives: Reflections and Realities",
+        "organizer": "Department of Management, Humanities & Social Sciences, NIT Agartala",
+        "month": "AUG",
+        "year": "2022"
+      },
+      {
+        "role": "Organizing Secretary",
+        "title": "A Three Day International Virtual Conference on Gender Studies and Women Empowerment",
+        "organizer": "Department of Management, Humanities & Social Sciences, NIT Agartala",
+        "month": "APRIL",
+        "year": "2021"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "University Gold Medal for PG",
+        "year": "2008"
+      }
+    ],
+    "trainings_conducted": [
+      {
+        "month": "JUN",
+        "year": "2022",
+        "details": "Co-coordinator of the 6-day Workshop on Personality Development & Interview Skills, Organized by The Department of Management, Humanities & Social Sciences, NIT Agartala"
+      },
+      {
+        "month": "FEB",
+        "year": "2020",
+        "details": "1-day Workshop on Financial Awareness and Literacy Programme in collaboration with RBI"
+      },
+      {
+        "month": "MAY",
+        "year": "2019",
+        "details": "Interactive session with students of NIT Agartala and Industry Experts from EPIC Research Ltd."
+      }
+    ],
+    "courses_taught": [
+      {
+        "class": "B.Tech",
+        "subjects": [
+          "Engineering Economics",
+          "Managerial Economics"
+        ]
+      },
+      {
+        "class": "M.Tech",
+        "subjects": [
+          "Energy Economics"
+        ]
+      },
+      {
+        "class": "MBA",
+        "subjects": [
+          "Managerial Economics",
+          "Macro Economics"
+        ]
+      }
+    ]
+  }
+  

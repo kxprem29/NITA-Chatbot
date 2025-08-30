@@ -1,0 +1,20 @@
+{
+    "name": "Dr. Munesh Chandra",
+    "designation": "Associate Professor (In Lien)",
+    "department": "Computer Science and Engineering",
+    "date_of_joining": "01/04/2019",
+    "email": "drmunesh.nita@gmail.com",
+    "cv": "View",
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "drmunesh.nita@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "07982403109"
+    }
+  }
+  

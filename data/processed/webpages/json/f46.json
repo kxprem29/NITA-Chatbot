@@ -1,0 +1,110 @@
+{
+    "name": "Dr. Thingujam Kiranmala Devi",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Physics",
+    "email": "kiranmala.thingujam@gmail.com",
+    "research_area": [
+      "Liquid crystals",
+      "Optical and electrical characterization of liquid crystals",
+      "Preparation and characterization of binary liquid crystals"
+    ],
+    "cv": "View",
+    "courses_taught": {
+      "UG": [
+        "Engg. Physics I",
+        "Engg. Physics II",
+        "Wave Optics",
+        "Thermal Physics",
+        "Classical Mechanics",
+        "Mathematical Physics"
+      ],
+      "PG": [
+        "Classical Mechanics",
+        "Liquid Crystals"
+      ]
+    },
+    "phd_students": {
+      "enrolled": 1,
+      "completed": 0
+    },
+    "address": {
+      "street": "Yairipok Bamon Leikai",
+      "city": "",
+      "state": "Manipur",
+      "country": "India"
+    },
+    "contact": {
+      "email": "kiranmala.thingujam@gmail.com",
+      "mobile": "09863491539",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "university": "NIT Silchar",
+        "year": 2013,
+        "subject": "Optical and dielectric studies on some liquid crystals and liquid crystalline binary mixtures"
+      },
+      {
+        "degree": "M.Sc.",
+        "university": "Jiwaji University",
+        "year": 2007,
+        "subject": "Physics"
+      },
+      {
+        "degree": "B.Sc.",
+        "university": "DM College of Science, Manipur",
+        "year": 2005,
+        "subject": "Physics (Hons)"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {
+          "authors": ["Jwmwi Basumatary", "Aparna Nath", "Thingujam Kiranmala Devi"],
+          "title": "Temperature effects on optical parameters of liquid crystal binary mixtures exhibiting induced smectic phases",
+          "journal": "Journal of Molecular Liquids",
+          "volume": 311,
+          "pages": "113251",
+          "year": 2020,
+          "month": "May",
+          "impact_factor": 4.513
+        },
+        {
+          "authors": ["Jwmwi Basumatary", "Debraj Gangopadhyay", "Aparna Nath", "Thingujam Kiranmala Devi"],
+          "title": "Temperature dependent Raman spectroscopy of a nematic liquid crystal compound 6CHBT",
+          "journal": "Journal of Molecular Liquids",
+          "volume": 288,
+          "pages": "111065",
+          "year": 2019,
+          "month": "May"
+        }
+      ]
+    },
+    "conferences_attended": [
+      {
+        "title": "Density dependence of refractive indices and order parameters of a liquid crystal binary mixture",
+        "conference": "International conference on systems and processes in Physics, Chemistry and Biology",
+        "dates": "1-3 March 2018",
+        "location": "Department of Physics, Assam University, Silchar, India"
+      },
+      {
+        "title": "Nematic liquid crystals with high birefringence",
+        "conference": "National Seminar Advances in Research in Physical Sciences",
+        "dates": "25-26 March 2013",
+        "location": "Cachar College, Silchar, Assam, India"
+      }
+    ],
+    "subjects": [
+      {"class": "BTech 2nd sem", "subject": "Engg. Physics II"},
+      {"class": "BTech 1st sem", "subject": "Engg. Physics I"},
+      {"class": "BSMS 7th sem", "subject": "Liquid crystals"},
+      {"class": "BTMT 3rd sem", "subject": "Classical Mechanics"},
+      {"class": "BSMS-BTMT 4th sem", "subject": "Mathematical Physics II"},
+      {"class": "MSc 3rd sem", "subject": "Liquid crystals and its applications"},
+      {"class": "BSMS 2nd sem", "subject": "Physics Laboratory I"},
+      {"class": "BSMS-BTMT 3rd sem", "subject": "Physics Laboratory II"},
+      {"class": "BTech 1st & 2nd sem", "subject": "Engg. Physics Lab"}
+    ]
+  }
+  

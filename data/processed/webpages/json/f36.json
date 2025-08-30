@@ -1,0 +1,81 @@
+{
+    "name": "Mr. Subharaj Paul",
+    "designation": "Teaching Assistant (Contractual)",
+    "department": "Physics",
+    "date_of_joining": "01/08/2011",
+    "email": "subharaj100@gmail.com",
+    "research_area": "Transport studies of Multiferroic Nanocomposite materials",
+    "address": {
+      "permanent": "Teliamura, Khowai, Tripura, 799205",
+      "present": "Central Road Extn., Town Pratapgarh, Near Granduse Club, Agartala, 799001",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "subharaj100@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9863944519"
+    },
+    "academic": [
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2011,
+        "subject": "Physics",
+        "university": "Tripura University"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science",
+        "year": 2009,
+        "subject": "Physics (Honours)",
+        "university": "Tripura University"
+      },
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "status": "Pursuing",
+        "institute": "NIT Agartala"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Physics - I",
+        "Engineering Physics - II",
+        "Engineering Physics Lab",
+        "Mathematical Physics - I",
+        "Electronics - I",
+        "Electronics - II",
+        "Electronics Laboratory - I"
+      ],
+      "PG": [
+        "Mathematical Physics",
+        "Analog Electronics"
+      ]
+    },
+    "publications": {
+      "conference": [
+        {
+          "title": "Tuning of memory effect with magnetic field of Ni and Co - doped ferrite- PbZr0.58Ti0.42O3 nanocomposite",
+          "authors": ["Subharaj Paul", "Sarit Chakraborty", "S. K. Mandal", "A. Nath"],
+          "conference": "International Online Conference on Nano Materials, Mahatma Gandhi University, Kottayam, Kerala, India",
+          "date": "12th - 14th August 2022",
+          "month": "AUG",
+          "year": 2022
+        }
+      ],
+      "journal": [
+        {
+          "title": "Tuning of memory effect with magnetic field of Ni and Co-doped ferrite-PbZr0.58Ti0.42O3 nanocomposite",
+          "authors": ["Subharaj Paul", "Sarit Chakraborty", "S.K. Mandal", "A. Nath"],
+          "journal": "Nano-Structures & Nano-Objects",
+          "volume": 33,
+          "article_id": "100942",
+          "month": "JAN",
+          "year": 2023
+        }
+      ]
+    }
+  }
+  

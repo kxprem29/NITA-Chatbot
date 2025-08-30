@@ -1,0 +1,164 @@
+{
+    "department": "Electrical Engineering",
+    "faculty_profile": {
+      "name": "Dr. P. Padmagirisan",
+      "designation": "Assistant Professor",
+      "department": "Electrical Engineering",
+      "email": "padmagirisan@outlook.com",
+      "research_area": [
+        "Energy Management Control for Electric and Hybrid Electric Vehicles",
+        "Control Applications on Power Electronics and Drives"
+      ],
+      "cv": "View",
+      "address_information": {
+        "address": "Room No.: FC: 4D, Department of Electrical Engineering, National Institute of Technology, Agartala, P.O.: NIT Agartala, Barjala, Jirania, West Tripura District, Tripura. Pin: 799046",
+        "city": "Agartala",
+        "state": "Tripura",
+        "country": "India"
+      },
+      "contact_information": {
+        "email": "padmagirisan@outlook.com",
+        "phone_residence": "-",
+        "phone_mobile": "-"
+      },
+      "academic_information": [
+        {
+          "degree": "Post Doc",
+          "institution": "University of Surrey, United Kingdom",
+          "year": 2020,
+          "subject": "Energy Management Control of Electric and Hybrid Electric Vehicles"
+        },
+        {
+          "degree": "Ph.D.",
+          "institution": "NIT Tiruchirappalli",
+          "year": 2019,
+          "subject": "Control Techniques for Electric Vehicles"
+        },
+        {
+          "degree": "M.Tech",
+          "institution": "NIT Warangal",
+          "year": 2010,
+          "subject": "Power Electronics and Drives"
+        },
+        {
+          "degree": "B.E.",
+          "institution": "Annamalai University",
+          "year": 2007,
+          "subject": "Electrical and Electronics Engineering"
+        }
+      ],
+      "publications": {
+        "conference": [
+          {
+            "title": "Control of a solar powered single stage induction heating system",
+            "authors": "P. Padmagirisan, V. Sankaranarayanan, and A. Joseph Godfrey",
+            "conference": "National Conference on Hybrid AC/DC Power Systems for Effective Utilization of Renewable Energy",
+            "location": "National Institute of Technology, Tiruchirappalli",
+            "publisher": "The Institution of Engineers (India)",
+            "pages": "62–66",
+            "month": "Nov",
+            "year": 2017
+          },
+          {
+            "title": "Design of Solar Simulator using Programmable Power Supply",
+            "authors": "P. Padmagirisan, V. Sankaranarayanan, and A. Joseph Godfrey",
+            "conference": "National Conference on Hybrid AC/DC Power Systems for Effective Utilization of Renewable Energy",
+            "location": "National Institute of Technology, Tiruchirappalli",
+            "publisher": "The Institution of Engineers (India)",
+            "pages": "117–120",
+            "month": "Nov",
+            "year": 2017
+          }
+        ],
+        "journal": [
+          {
+            "title": "The effect of renewable energy consumption on ecological footprint in N-11 countries: Evidence from Panel Quantile Regression Approach",
+            "authors": "Chandrashekar Raghutla, P Padmagirisan, P Sakthivel, Krishna Reddy Chittedi, Smrutisikta Mishra",
+            "journal": "Renewable Energy",
+            "volume": "197",
+            "pages": "125-137",
+            "month": "Nov",
+            "year": 2022,
+            "doi": "10.1016/j.renene.2022.07.100"
+          },
+          {
+            "title": "Power-assist control of a human–electric hybrid bicycle with energy regeneration and cruise control",
+            "authors": "P. Padmagirisan, R. Sowmya, and V. Sankaranarayanan",
+            "journal": "Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering",
+            "volume": "233",
+            "issue": "2",
+            "pages": "179–191",
+            "month": "Feb",
+            "year": 2019,
+            "doi": "10.1177/0959651818788776"
+          },
+          {
+            "title": "Powertrain control of a solar photovoltaic-battery powered hybrid electric vehicle",
+            "authors": "P. Padmagirisan and V. Sankaranarayanan",
+            "journal": "Frontiers in Energy",
+            "volume": "13",
+            "issue": "2",
+            "pages": "296–306",
+            "month": "Jun",
+            "year": 2019,
+            "doi": "10.1007/s11708-018-0605-8"
+          }
+        ]
+      },
+      "books_published": [
+        {
+          "title": "The Control and Operation of Microgrids Powered by Hybrid Energy Sources",
+          "authors": "P Padmagirisan, M Suman, Priyanath Das",
+          "book": "Integrated Energy Systems: Design, Control and Operation",
+          "pages": "73-94",
+          "year": 2023
+        },
+        {
+          "title": "Microgrid protection",
+          "authors": "M. Suman, S. Srividhya, and P. Padmagirisan",
+          "book": "Integration of Renewable Energy Sources with Smart Grid",
+          "pages": "209–238",
+          "year": 2021,
+          "doi": "10.1002/9781119751908.ch10"
+        }
+      ],
+      "sponsored_research_projects": [
+        {
+          "title": "Design and development of an on-board charger for electric vehicle with bidirectional capability",
+          "sponsoring_agency": "SERB",
+          "amount_grant": "Rs. 31,79,427.00",
+          "date_commencement": "23 Feb 2024",
+          "role": "Principal Investigator",
+          "status": "Ongoing",
+          "year": 2024
+        },
+        {
+          "title": "Development of Wireless Charging System for Underwater Vehicles with Autonomous Docking Capability",
+          "sponsoring_agency": "DST, IITG TIDF",
+          "amount_grant": "Rs. 7,00,000.00",
+          "date_commencement": "21 March 2024",
+          "role": "Principal Investigator",
+          "status": "Ongoing",
+          "year": 2024
+        },
+        {
+          "title": "Development of Wave Energy Converter System for Harnessing Renewable Energy from Ocean Waves",
+          "sponsoring_agency": "DST, IITG TIDF",
+          "amount_grant": "Rs. 7,00,000.00",
+          "date_commencement": "08 November 2024",
+          "role": "Principal Investigator",
+          "status": "Ongoing",
+          "year": 2024
+        }
+      ],
+      "training_conducted": [
+        {
+          "title": "SERB Sponsored High-End Workshop (KARYASHALA) on Blockchain Technology Applications in Electrical Energy Systems",
+          "date": "13–19 March 2024",
+          "month": "Mar",
+          "year": 2024
+        }
+      ]
+    }
+  }
+  

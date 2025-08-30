@@ -1,0 +1,36 @@
+{
+    "personal_info": {
+      "name": "Dr. Tannistha Pal",
+      "designation": "Assistant Professor (Contractual)",
+      "department": "Computer Science and Engineering",
+      "email": "tannisthapaul@gmail.com",
+      "address": {
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      "phone_residence": null,
+      "phone_mobile": "9089473881"
+    },
+    "research_areas": [
+      "Image Processing",
+      "Artificial Intelligence",
+      "Computer Vision"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Design & Analysis of Algorithm",
+        "Image Processing",
+        "Digital Circuit & Logic Design",
+        "Introduction to Programming"
+      ],
+      "PG": [
+        "Algorithms & Algorithmic Complexity",
+        "Digital Image Processing",
+        "Computer Vision",
+        "Cyber Crime",
+        "Cyber laws & IPR"
+      ]
+    }
+  }
+  

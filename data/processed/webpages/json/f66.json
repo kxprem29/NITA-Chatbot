@@ -1,0 +1,150 @@
+{
+    "name": "Dr. Arindam Majumder",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "20/04/2010",
+    "email": "arindan.me@nita.ac.in",
+    "scholar_url": "https://scholar.google.com/citations?user=X_sISHMAAAAJ&hl=en",
+    "research_areas": [
+      "Advanced Manufacturing Systems",
+      "Scheduling",
+      "Soft Computing Techniques",
+      "Robotics",
+      "Non-traditional Machining"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Kinematics of Machine",
+        "Design of Machine Element I & II",
+        "Strength of Material",
+        "Theory of Machine-I",
+        "Composite Material"
+      ],
+      "PG": [
+        "Fracture Mechanics",
+        "Analysis and Synthesis of Mechanism"
+      ]
+    },
+    "phd_students": [
+      "MD Piyar Uddin (Co-guide)",
+      "Anit Kumar"
+    ],
+    "address": {
+      "address_line": "Room No. M-228, Department of Mechanical Engineering, National Institute of Technology, Agartala, Barjala, Jirania, Tripura West, Pin: 799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "arindan.me@nita.ac.in",
+      "mobile_phone": "9612089371"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "institution": "Jadavpur University",
+        "year": 2020,
+        "subject": "Mechanical Engineering (Industrial Engineering)"
+      },
+      {
+        "degree": "M.E.",
+        "institution": "Indian Institute of Engineering Science and Technology, Shibpur",
+        "year": 2009,
+        "subject": "Mechanical Engineering (Machine Design)"
+      },
+      {
+        "degree": "B.E.",
+        "institution": "North Maharashtra University, Jalgaon",
+        "year": 2007,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Bacterial foraging optimization in non-identical parallel batch processing machines",
+        "authors": ["Arindam Majumder", "Dipak Laha"],
+        "conference": "International Conference on Machine Intelligence and Signal Processing (MISP-2019), IIIT Allahabad",
+        "month": "September",
+        "year": 2019
+      },
+      {
+        "title": "Bacteria Foraging Optimization Algorithm for Robotic Cell Scheduling Problems",
+        "authors": ["Arindam Majumder", "Dipak Laha"],
+        "conference": "5th International Conference of Materials Processing and Characterization (ICMPC 2016)",
+        "month": "March",
+        "year": 2016
+      },
+      {
+        "title": "Cuckoo Search on Parallel Batch Processing Machines",
+        "authors": ["Arindam Majumder", "Dipak Laha"],
+        "conference": "International Conference on Advanced Computing and Intelligent Engineering (ICACIE-2016)",
+        "month": "December",
+        "year": 2016
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Termite alate optimization algorithm: a swarm-based nature inspired algorithm for optimization problems",
+        "journal": "Evolutionary Intelligence",
+        "volume": 16,
+        "issue": 3,
+        "pages": "997-1017",
+        "year": 2023
+      },
+      {
+        "title": "Numerical and Optimization-Based Study on Split Hemispherical Shaped Fins for Augmenting Heat Transfer Rate",
+        "journal": "International Journal of Energy Research",
+        "year": 2023
+      },
+      {
+        "title": "A*-VG algorithm: a hybrid algorithm for the path planning of inspection robots",
+        "journal": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+        "volume": 45,
+        "issue": 7,
+        "pages": "1-19",
+        "year": 2023
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Robotic Cell Scheduling Problems and Their Solution Procedures: A Survey and Future Research Directions",
+        "book_title": "Handbook of Research on AI and Knowledge Engineering for Real-Time Business Intelligence",
+        "pages": "271-295",
+        "publisher": "IGI Global",
+        "year": 2023
+      },
+      {
+        "title": "Task Allocation and Path Planning of a Multi-Robot System Using Heuristic Coupled Particle Swarm Optimization Algorithm",
+        "book_title": "Handbook of Research on Developments and Trends in Industrial and Materials Engineering",
+        "pages": "194-209",
+        "publisher": "IGI Global",
+        "year": 2020
+      }
+    ],
+    "patents": [
+      {
+        "title": "A Polishing System for Polishing of Surface of Subjects such as the Incense Sticks",
+        "application_no": "1370/KOL/2012",
+        "year": 2023,
+        "inventors": ["Shubhendu Debbarma", "John Deb Barma", "Arindam Majumder"]
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "One week Short Term Training Program in Hybrid mode on 'Optimum Design: Principles and Applications'",
+        "month": "May",
+        "year": 2023
+      },
+      {
+        "title": "Seven Days training Program on 'Optimization in Engineering Design and Applications' under DST-STUTI",
+        "month": "July",
+        "year": 2023
+      },
+      {
+        "title": "TEQIP-III sponsored five days Workshop on ‘Optimization Techniques in Multi-Disciplinary Research’",
+        "month": "November",
+        "year": 2019
+      }
+    ]
+  }
+  

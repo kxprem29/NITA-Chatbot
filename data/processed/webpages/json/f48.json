@@ -1,0 +1,140 @@
+{
+    "name": "Dr. Dipak Chandra Das",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "dchdas12@yahoo.com",
+    "profile_url": "https://nita.irins.org/profile/241089",
+    "research_area": [
+      "Multiphase Flow",
+      "Transport Phenomena",
+      "Heat and Mass Transfer",
+      "Boiling Heat Transfer",
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Basic Engineering Thermodynamics",
+        "Engineering Mechanics",
+        "Applied Thermodynamics",
+        "Refrigeration & Air-conditioning",
+        "Boundary Layer Theory",
+        "Heat and Mass Transfer Lab",
+        "Refrigeration & Air-conditioning Lab"
+      ],
+      "PG": [
+        "Viscous Fluid Mechanics",
+        "Two-phase Flow & Heat Transfer",
+        "Two-phase Flow & Heat Transfer Lab"
+      ]
+    },
+    "phd_students": [
+      {
+        "name": "Amit Kumar",
+        "status": "Submitted"
+      }
+    ],
+    "address": {
+      "current": "Room - 142, Ground Floor, Below HOD ME Chamber, Mechanical Engineering Department, NIT Agartala, Jirania, Tripura - 799046",
+      "permanent": "Village - Joy Chand Pur, PO - Kashari, Belonia, South Tripura, Tripura -799150",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dchdas12@yahoo.com",
+      "mobile": "8787504919",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "university": "Jadavpur University",
+        "year": 2017,
+        "subject": "Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "university": "Jadavpur University",
+        "year": 2010,
+        "subject": "Heat Power (Mechanical Engineering)"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "2008",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "H.S.C.",
+        "university": "Belonia Vidyapith Class XII School, TBSE, Tripura",
+        "year": 2003,
+        "subject": "Science"
+      },
+      {
+        "degree": "S.S.C.",
+        "university": "Barpathari Class XII School, TBSE, Tripura",
+        "year": 2001,
+        "subject": "General"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {
+          "title": "Parametric variation studies of experimental flow boiling heat transfer phenomena using R407c inside an enhanced tube",
+          "authors": ["Amit Kumar", "Dipak Chandra Das", "Pritam Das"],
+          "journal": "Heat and Mass Transfer",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/s00231-023-03343-1",
+          "type": "SCI"
+        }
+      ],
+      "conference": [
+        {
+          "title": "Film Condensation in a Vertical Tube with Pure Steam: A Numerical Investigation",
+          "authors": ["Amit Kumar", "Dipak Chandra Das", "Pritam Das"],
+          "conference": "Progressive Research in Industrial & Mechanical Engineering (PRIME - 2021)",
+          "year": 2021,
+          "date": "5th-7th August 2021",
+          "paper_no": 330
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Film Condensation in a Vertical Tube with Pure Steam: A Numerical Investigation",
+        "authors": ["Amit Kumar", "Dipak Chandra Das", "Pritam Das"],
+        "book_title": "Challenges and Opportunities in Industrial and Mechanical Engineering: A Progressive Research Outlook",
+        "year": 2024,
+        "doi": "https://doi.org/10.1201/9781032713229",
+        "eBook_ISBN": "9781032713229"
+      }
+    ],
+    "achievements": [
+      {
+        "description": "Project (Govt.) entitled “Introduction to redesigned Bamboo Slicing Machine and Homestead Round Stick-making Machine for Sustainable Agarbatti Production in Micro and small enterprises” is sanctioned.",
+        "year": 2024
+      },
+      {
+        "description": "CSIR Senior Research Fellow",
+        "year": 2012,
+        "duration": "April 2012 - July 2015"
+      },
+      {
+        "description": "GATE 2007 (Mechanical Engineering)",
+        "year": 2007
+      }
+    ],
+    "trainings_conducted": [
+      {
+        "title": "Optimization in Engineering Design and Applications",
+        "department": "Dept. of Mechanical Engineering, NIT Agartala",
+        "date": "July 31 - August 06, 2023"
+      },
+      {
+        "title": "Computational Techniques in Heating and Cooling Systems",
+        "department": "Dept. of Mechanical Engineering, NIT Agartala",
+        "date": "June 03-07, 2019"
+      }
+    ]
+  }
+  

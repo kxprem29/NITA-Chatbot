@@ -1,0 +1,377 @@
+{
+    "name": "Dr. Kishan Choudhuri",
+    "designation": "Assistant Professor",
+    "department": "Production Engineering",
+    "email": "kishanchoudhuri@gmail.com",
+    "url": "https://cyan-trudey-44.tiiny.site/?fbclid=IwZXh0bgNhZW0CMTEA",
+    "research_area": [
+      "Tribology",
+      "Robotics",
+      "Fluid Power",
+      "Vibratory Systems",
+      "Design of Machine Elements"
+    ],
+    "cv": "View",
+    "courses_taught": {
+      "ug": [
+        "Solid Mechanics",
+        "Design of Machine Elements",
+        "Automation CNC and Robotics",
+        "Mechatronics and Modern Control",
+        "Mechanics of Machines"
+      ],
+      "pg": [
+        "Advanced Robotics"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": 1,
+      "enrolled_ongoing": 1
+    },
+    "address": {
+      "full_address": "Kamarpukur (North side), PO: Dhaleswar, Agartala, Tripura, Pin: 799007",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "kishanchoudhuri@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9436767197"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": "2016",
+        "subject": "PERFORMANCE STUDY OF SLIPPER BEARING OF AXIAL PISTON PUMP (Mechanical Engineering)"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": "2000",
+        "subject": "Design and Production Engineering"
+      },
+      {
+        "degree": "B.E",
+        "description": "Bachelor of Engineering",
+        "year": "1998",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "H.S.C.",
+        "description": "Higher Secondary School Certificate",
+        "year": "1994",
+        "subject": "Science"
+      },
+      {
+        "degree": "S.S.C.",
+        "description": "Secondary School Certificate",
+        "year": "1992",
+        "subject": "General"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "The Influence of Cutting Parameters on the Surface Roughness of Hardened AISI 4140 Steel",
+          "venue": "International Conference on Advance Earth Sciences & Foundation Engineering-2022, Chandigarh",
+          "year": "2022",
+          "role": "First Author",
+          "total_authors": 6
+        },
+        {
+          "title": "CFD Analysis of water-based slipper bearing",
+          "venue": "International Conference on Advance Earth Sciences & Foundation Engineering-2022, Chandigarh",
+          "year": "2022",
+          "role": "First Author",
+          "total_authors": 6
+        },
+        {
+          "title": "Study of machining parameters on machining performance in turning of Aluminum 6061",
+          "venue": "27th International Conference of International Academy of Physical Sciences, NIT Agartala",
+          "month": "October",
+          "year": "2021",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Dynamic Analysis and Simulation of Physical Systems using Bond Graph",
+          "venue": "International Conference on Emergent Research in Mathematics and Engineering (ICERME-2019), NIT Agartala",
+          "month": "May",
+          "year": "2019",
+          "role": "Main Supervisor",
+          "total_authors": 2
+        },
+        {
+          "title": "Fabrication and Experimental Investigation of a three finger Robotic Gripper actuated by Micro Servos",
+          "venue": "International Conference on Precision, Meso, Micro and Nano Engineering (COPEN 2019), IIT Indore",
+          "month": "December",
+          "year": "2019",
+          "role": "Main Supervisor",
+          "total_authors": 2
+        },
+        {
+          "title": "Influence of the gas lubrication on double layered porous journal bearing",
+          "venue": "TRIBOINDIA 2018, VJIT, Mumbai, India",
+          "month": "December",
+          "year": "2018",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Radial Rolling Bearing Selection using AHP and COPRAS under Fuzzy Environment",
+          "venue": "Annual Conference of the International Journal of Arts & Sciences, Harvard Medical School, Boston, USA",
+          "month": "May",
+          "year": "2016",
+          "role": "Co-Author",
+          "total_authors": 2
+        },
+        {
+          "title": "Studies on the Dynamic Response of a Pressure Compensated Axial Piston Pump",
+          "venue": "National Conference on Engineering Problems and Application of Mathematics, NIT Agartala",
+          "month": "June",
+          "year": "2016",
+          "role": "First Author",
+          "total_authors": 2
+        },
+        {
+          "title": "A Material Selection for a Cryogenic Tank Using MCDM Environment",
+          "venue": "National Conference on Materials in Advanced Technology and Application, MIT Aurangabad, India",
+          "month": "September",
+          "year": "2016",
+          "role": "First Author",
+          "total_authors": 2
+        },
+        {
+          "title": "Selection of Best Blend of Fuel using Diesel Ethanol Butanol in A CI Engine by AHP-PROMETHE",
+          "venue": "IRF International Conference, Jaipur, India",
+          "month": "August",
+          "year": "2015",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Optimization of Multi-Objective Problem by Taguchi Approach and Utility Concept when Turning Aluminium 6061",
+          "venue": "Fifth IRF International Conference, Goa, India",
+          "month": "August",
+          "year": "2014",
+          "role": "First Author",
+          "total_authors": 3
+        },
+        {
+          "title": "Experimental Investigations on Viscous Drag, Film Thickness and Coefficient of Friction in a Slipper Bearing",
+          "venue": "International Conference on Operations Research for Data Analytics and Decision Analysis, Kashmir University, India",
+          "month": "October",
+          "year": "2013",
+          "role": "First Author",
+          "total_authors": 2
+        },
+        {
+          "title": "The Dynamic Mechanical Properties of a Resistance Welding Process",
+          "venue": "All India Seminar on Joining Processes, NIT Agartala, India",
+          "month": "March",
+          "year": "2010",
+          "role": "First Author",
+          "total_authors": 3
+        },
+        {
+          "title": "Experimental Investigation on Swash Plate - Piston Slipper Lubrication in Hydrostatic Units",
+          "venue": "3rd FPNI - PHD Symposium on Fluid Power, Terrassa, Spain",
+          "month": "July",
+          "year": "2004",
+          "role": "First Author",
+          "total_authors": 2
+        },
+        {
+          "title": "A Novel Torque Amplifier using Alternating Flow Hydraulics and Orbital Rotary Piston Hydraulic Motor Principles - Design and Performance",
+          "venue": "5th JFPS International Symposium on Fluid Power, Nara, Japan",
+          "month": "November",
+          "year": "2002",
+          "role": "First Author",
+          "total_authors": 3
+        }
+      ],
+      "journal": [
+        {
+          "title": "Prediction and Optimization of a Hydrodynamic Journal Bearing’s Energy Efficient Tribological Behaviours...",
+          "venue": "Arabian Journal for Science and Engineering",
+          "year": "2024",
+          "role": "Co-Author",
+          "total_authors": 5
+        },
+        {
+          "title": "Parametric optimisation on the performance of the journal bearing using Taguchi approach",
+          "venue": "Proc. IMechE Part E: Journal of Process Mechanical Engineering",
+          "year": "2023",
+          "role": "Main Supervisor",
+          "total_authors": 5
+        },
+        {
+          "title": "Impact of Nano-lubrication on Single-Layered Porous Hydrodynamic Journal Bearing",
+          "venue": "Journal of Porous Media",
+          "year": "2023",
+          "role": "Main Supervisor",
+          "total_authors": 5
+        },
+        {
+          "title": "Application of nanofluids on various performance characteristics of hydrodynamic journal bearing—A review",
+          "venue": "Proc. IMechE Part E: Journal of Process Mechanical Engineering",
+          "year": "2022",
+          "role": "Main Supervisor",
+          "total_authors": 5
+        },
+        {
+          "title": "A Comparative Analysis of Single-layered and Double-layered Porous Journal Bearings lubricated with Micropolar Fluid",
+          "venue": "Journal of Porous Media",
+          "year": "2022",
+          "role": "Main Supervisor",
+          "total_authors": 4
+        },
+        {
+          "title": "Stir Cast Al–Cu–SiCp Metal Matrix Composites...",
+          "venue": "Journal of The Institution of Engineers (India): Series D",
+          "year": "2022",
+          "role": "Main Supervisor",
+          "total_authors": 7
+        },
+        {
+          "title": "A numerical study of an external gear pump operating under different conditions",
+          "venue": "Materials Today: Proceedings",
+          "year": "2022",
+          "role": "First Author",
+          "total_authors": 5
+        },
+        {
+          "title": "Fabrication of Graphene Reinforced Alumina-Composites",
+          "venue": "Journal of The Institution of Engineers (India): Series D",
+          "year": "2021",
+          "role": "Co-Author",
+          "total_authors": 4
+        },
+        {
+          "title": "Theoretical investigation of porous hydrostatic journal bearing under micropolar fluid lubrication",
+          "venue": "Proc. IMechE Part N: Journal of Nanomaterials, Nanoengineering and Nanosystems",
+          "year": "2020",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Selection of Suitable Lubricant for Sliding Contact Bearing...",
+          "venue": "Tribologia-Finnish Journal of Tribology",
+          "year": "2020",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Nano-fluid lubrication of single-layered porous hydrostatic bearing",
+          "venue": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+          "year": "2020",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Evaluation of the performance characteristics of double-layered porous micropolar fluid lubricated journal bearing",
+          "venue": "Tribology International",
+          "year": "2019",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Theoretical analysis of single-layered porous short journal bearing under micropolar fluid lubrication",
+          "venue": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+          "year": "2019",
+          "role": "Main Supervisor",
+          "total_authors": 3
+        },
+        {
+          "title": "Flow analysis of air over a NACA 0012 airfoil",
+          "venue": "International Journal of Applied Engineering Research",
+          "year": "2015",
+          "role": "First Author",
+          "total_authors": 3
+        },
+        {
+          "title": "Maximum velocity that a vehicle can attain without skidding...",
+          "venue": "International Journal on Recent Technologies in Mechanical and Electrical Engineering",
+          "year": "2015",
+          "role": "Co-Author",
+          "total_authors": 4
+        },
+        {
+          "title": "Stress analysis and Design Optimization of Piston, Slipper assembly in an Axial Piston Pump",
+          "venue": "Journal of Scientific and Industrial Research",
+          "year": "2014",
+          "role": "First Author",
+          "total_authors": 4
+        },
+        {
+          "title": "CFD analysis of centrifugal pumps with variations of blade number at 3300 RPM",
+          "venue": "International Journal of Applied Engineering Research",
+          "year": "2013",
+          "role": "Co-Author",
+          "total_authors": 5
+        },
+        {
+          "title": "Performance prediction of Centrifugal Pumps with variations of blade number",
+          "venue": "Journal of Scientific & Industrial Research",
+          "year": "2013",
+          "role": "Co-Author",
+          "total_authors": 4
+        },
+        {
+          "title": "A Computational Approach on Load Carrying Capacity and Position of Load Centre of a Slipper Bearing",
+          "venue": "International Journal of Applied Engineering Research",
+          "year": "2012",
+          "role": "First Author",
+          "total_authors": 2
+        },
+        {
+          "title": "Multi-objective optimization in turning - Using a genetic algorithm",
+          "venue": "Journal of the Institution of Engineers (India), Production Engineering Division",
+          "year": "2002",
+          "role": "First Author",
+          "total_authors": 3
+        }
+      ]
+    },
+    "training_conducted": [
+      {
+        "month": "March",
+        "year": "2022",
+        "details": "Coordinator in Faculty Development Program Mentorship on 'Program and its benefits in Technical Institutions' sponsored by AICTE, NIT Agartala"
+      },
+      {
+        "month": "January",
+        "year": "2014",
+        "details": "Convener of Workshop on 'Advances in Multi-Criteria Decision Making (MCDM) Techniques' sponsored by TEQIP II, Govt. of India, NIT Agartala"
+      }
+    ],
+    "subjects": [
+      {
+        "class": "B.Tech",
+        "subject": "Solid Mechanics"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Mechanics of Machines"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Design of Machine Elements"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Automation CNC & Robotics"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Mechatronics and Modern Control"
+      },
+      {
+        "class": "M.Tech",
+        "subject": "Advanced Robotics"
+      }
+    ]
+  }
+  

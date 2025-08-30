@@ -1,0 +1,51 @@
+{
+    "name": "Mr. Bidyasagar Debnath",
+    "designation": "Teaching Assistant",
+    "department": "Management, Humanities & Social Sciences",
+    "email": "bidyasagardebnath@gmail.com",
+    "research_area": [
+      "Accounting & Finance"
+    ],
+    "courses_taught": {
+      "ug_courses": [
+        "Costing",
+        "Accountancy",
+        "Financial Management",
+        "General Management"
+      ],
+      "pg_courses": [
+        "Principles and Practices of Management"
+      ]
+    },
+    "address": {
+      "address": "Nagerjala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bidyasagardebnath@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9366160854"
+    },
+    "academic_information": [
+      {
+        "degree": "M.Com.",
+        "description": "Master of Commerce",
+        "year": 1989,
+        "subject": "Accounting & Finance"
+      }
+    ],
+    "subject_information": [
+      {
+        "sr_no": 1,
+        "class": "",
+        "subject": ""
+      }
+    ],
+    "publications": [],
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

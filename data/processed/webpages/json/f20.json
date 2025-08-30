@@ -1,0 +1,76 @@
+{
+    "name": "Dr. Supriyo Dutta",
+    "designation": "Assistant Professor",
+    "department": "Mathematics",
+    "email": "supriyoduttanita@gmail.com",
+    "url": "https://sites.google.com/view/supriyo-dutta/welcome",
+    "research_area": [
+      "Quantum information and computation",
+      "Graph theory"
+    ],
+    "address": {
+      "address_line": "Department of Mathematics",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "supriyoduttanita@gmail.com",
+      "residence": null,
+      "mobile": "8250440115"
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "subject": "Mathematics",
+        "year": 2019
+      }
+    ],
+    "publications": {
+      "journals": [
+        {
+          "title": "On log-sum inequalities",
+          "authors": ["Supriyo Dutta", "Shigeru Furuichi"],
+          "journal": "Linear and Multilinear Algebra",
+          "pages": "1-16",
+          "year": 2023
+        },
+        {
+          "title": "Constructing non-isomorphic signless laplacian cospectral graphs",
+          "authors": ["Supriyo Dutta"],
+          "journal": "Discrete Mathematics",
+          "volume": 343,
+          "issue": 4,
+          "article_number": 111783,
+          "year": 2020
+        },
+        {
+          "title": "Construction of cospectral graphs",
+          "authors": ["Supriyo Dutta", "Bibhas Adhikari"],
+          "journal": "Journal of Algebraic Combinatorics",
+          "volume": 52,
+          "pages": "215-235",
+          "year": 2019
+        },
+        {
+          "title": "Facets of quantum information under non-Markovian evolution",
+          "authors": ["Javid Naikoo", "Supriyo Dutta", "Subashish Banerjee"],
+          "journal": "Physical Review A",
+          "volume": 99,
+          "issue": 4,
+          "article_number": "042128",
+          "year": 2019
+        },
+        {
+          "title": "Bipartite separability and nonlocal quantum operations on graphs",
+          "authors": ["Supriyo Dutta", "Bibhas Adhikari", "Subhashish Banerjee", "R Srikanth"],
+          "journal": "Physical Review A",
+          "volume": 94,
+          "issue": 1,
+          "article_number": "012306",
+          "year": 2016
+        }
+      ]
+    }
+  }
+  

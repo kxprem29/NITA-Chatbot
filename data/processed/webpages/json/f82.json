@@ -1,0 +1,40 @@
+{
+    "name": "Dr. Subhojit Das",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "email": "subhojit.chem@gmail.com",
+    "url": "https://scholar.google.com/cit",
+    "research_area": [
+      "Nanomaterials chemistry",
+      "Green nanotechnology",
+      "Antimicrobial coatings",
+      "Sensors",
+      "Sustainable chemistry"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Chemistry-I (UCY11B10)",
+        "Engineering Chemistry-II (UCY12B08)",
+        "Chemistry-VII (DSCY24B12)",
+        "Electrochemistry (DSCY25B17)"
+      ],
+      "PG": [
+        "Physical Chemistry-I (PCY01B08)",
+        "Physical Chemistry-II (PCY02B11)",
+        "Physical Chemistry-III (PCY03B15)",
+        "Molecular Spectroscopy–Theory and Instrumentation (PCY04E08)"
+      ]
+    },
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "subhojit.chem@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "8974331422"
+    }
+  }
+  

@@ -1,0 +1,105 @@
+{
+    "name": "Prof. Mitali Saha",
+    "designation": "Professor",
+    "department": "Chemistry",
+    "email": "mitalisah@gmail.com",
+    "address": {
+      "department_address": "Department of Chemistry, National Institute of Technology Agartala, Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mitalisah@gmail.com",
+      "phone_residence": "08974006400",
+      "phone_mobile": "08974006400"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 1999,
+        "subject": "Organic Chemistry",
+        "institute": "Department of Chemistry, University of Rajasthan, Jaipur"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 1992,
+        "subject": "Chemistry",
+        "institute": "Raj Rishi College, University of Rajasthan, Alwar"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science",
+        "year": 1990,
+        "subject": "Chemistry (Honours)",
+        "institute": "Raj Rishi College, University of Rajasthan, Alwar"
+      }
+    ],
+    "publications": {
+      "journals": [
+        {
+          "title": "Graphene assisted photodegradation of pollutant dyes and its pragmatic effect on Lemna Minor and Eichhornia crassipes",
+          "authors": ["Peetam Mandal", "Jhuma Debbarma", "Mitali Saha*"],
+          "journal": "International Journal of Nanoscience and Nanotechnology",
+          "volume": 18,
+          "issue": 2,
+          "pages": "109-122",
+          "year": 2022,
+          "index": "Scopus"
+        },
+        {
+          "title": "Photodegradation Behaviour of Nitrogen-Containing Graphene Derivatives Towards Pollutant Dyes and Real-Time Assessment on Aquatic Weed",
+          "authors": ["P Mandal", "M Saha*"],
+          "journal": "Biointerface Research in Applied Chemistry",
+          "volume": 12,
+          "issue": 4,
+          "pages": "4357-4373",
+          "year": 2022,
+          "index": "SCI"
+        }
+      ],
+      "books": [
+        {
+          "title": "Two-dimensional graphene-based nanocomposites for electrochemical sensor",
+          "authors": ["J. Debbarma", "M. Saha*"],
+          "book": "Nanocomposite Materials for Sensors",
+          "publisher": "Bentham Science Publishers",
+          "pages": "47-60",
+          "year": 2022
+        }
+      ]
+    },
+    "conferences": [
+      {
+        "title": "Low-temperature synthesis of graphene and its derivatives from carbohydrates and organic acids",
+        "authors": ["Peetam Mandal", "Mitali Saha*"],
+        "conference": "International Conference on Recent Developments in Chemistry (RDC-2021), NIT Durgapur, W.B., India",
+        "month": "MAR",
+        "year": 2021
+      },
+      {
+        "title": "Low-temperature chemical synthesis of graphene and its derivatives",
+        "authors": ["Peetam Mandal", "Mitali Saha*"],
+        "conference": "International Virtual Conference on Frontiers in Chemical Sciences – 2021 (IVCFCS-2021), Mohanlal Sukhadia University, Udaipur",
+        "month": "JUN",
+        "year": 2021
+      }
+    ],
+    "achievements": {
+      "fellowships": [
+        {
+          "title": "Fellow of Indian Chemical Society",
+          "year": 2016
+        }
+      ],
+      "memberships": [
+        {
+          "title": "Life member of Indian Carbon Society",
+          "year": 2005
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,50 @@
+{
+    "name": "Mr. Nabendu Debnath",
+    "designation": "Teaching Assistant",
+    "department": "Management, Humanities & Social Sciences",
+    "email": "nabendu06@gmail.com",
+    "research_area": [
+      "Corporate Finance",
+      "Financial Markets & Institutions",
+      "Behavioral Finance"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Accountancy",
+        "Costing",
+        "Management Accounting",
+        "General Management"
+      ],
+      "PG": [
+        "Financial Management",
+        "Security Analysis and Portfolio Management",
+        "Principles and Practices of Management"
+      ]
+    },
+    "address": {
+      "address": "Department of MHSS, Golden Jubilee Knowledge Centre, 3rd Floor, Room No. 314",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "nabendu06@gmail.com",
+      "phone_residence": null,
+      "phone_mobile": "9856590795"
+    },
+    "academic_information": [
+      {
+        "degree": "M.Com.",
+        "description": "Master of Commerce",
+        "year": 2012,
+        "subject": "Accounting & Finance"
+      },
+      {
+        "degree": "UGC-NET",
+        "description": "UGC-NET",
+        "year": 2012,
+        "subject": "Commerce"
+      }
+    ]
+  }
+  

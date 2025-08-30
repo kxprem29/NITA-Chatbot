@@ -1,0 +1,144 @@
+{
+    "name": "Dr. Manas Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "email": "mroyiitk@gmail.com",
+    "profile_url": "https://nita.irins.org/profile/241398",
+    "research_area": [
+      "Chemistry of nanomaterials",
+      "Sustainable materials for energy harvesting and storage",
+      "Photochemical/photo electrochemical water splitting for green hydrogen production",
+      "Advanced materials for wastewater detoxification",
+      "Molecular System for CO/CO2 Reduction",
+      "E-Nose based on nanomaterials for environmental assessment"
+    ],
+    "cv": "View",
+    "courses_taught": {
+      "UG": [
+        "Engineering Chemistry-I",
+        "Engineering Chemistry-II",
+        "Instrumental Methods of Analysis",
+        "Chemistry of Nanomaterials",
+        "Engineering Chemistry Lab",
+        "Chemistry Lab-II",
+        "Advanced Organic Chemistry Lab"
+      ],
+      "PG": [
+        "Instrumental Method of Analysis of Chemical Compounds",
+        "Inorganic Chemistry-II",
+        "Organic Chemistry-III",
+        "Chemistry of Nanomaterials"
+      ]
+    },
+    "address": {
+      "address_line": "Dr. Manas Roy, Assistant Professor (contractual), Department of Chemistry, National Institute of Technology, Agartala, Jirania, Agartala 799046, Tripura, India",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mroyiitk@gmail.com",
+      "residence_phone": "-",
+      "mobile_phone": "-"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "year": 2013,
+        "subject": "Chemistry",
+        "institution": "IIT Kanpur"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2008,
+        "subject": "Chemistry",
+        "institution": "Banaras Hindu University"
+      },
+      {
+        "degree": "CSIR-NET (JRF)",
+        "year": 2008,
+        "subject": "Chemical Sciences"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2005,
+        "subject": "Chemistry (Hons)",
+        "institution": "St. Paul's Cathedral Mission College, Kolkata; University of Calcutta"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Benzoxanthones derivatives: insight into oxalic acid catalyzed synthesis, crystallographic analysis and potential application in dye-sensitized solar cell.",
+        "journal": "Journal of Chemical Sciences",
+        "volume": 135,
+        "issue": 2,
+        "year": 2023,
+        "month": "APRIL",
+        "doi": "10.1007/s12039-023-02151-8"
+      },
+      {
+        "title": "Design of insensitive high explosives based on FOX-7: a theoretical prospectives.",
+        "journal": "Journal of molecular modeling",
+        "volume": 29,
+        "issue": 11,
+        "year": 2023,
+        "month": "NOV",
+        "doi": "https://doi.org/10.1007/s00894-023-05769-0"
+      },
+      {
+        "title": "Ultrafast detection of ammonia at room temperature and subsequent electrochemical water splitting via the ionic liquid templated nano nickel oxide.",
+        "journal": "Materials Chemistry and Physics",
+        "volume": 290,
+        "year": 2022,
+        "month": "OCT",
+        "doi": "10.1016/j.matchemphys.2022.126537"
+      },
+      {
+        "title": "Review of Graphitic Carbon Nitride and Its Composite Catalysts for Selective Reduction of CO2.",
+        "journal": "ACS Applied Nano Materials",
+        "volume": 4,
+        "issue": 12,
+        "year": 2021,
+        "month": "DEC",
+        "doi": "10.1021/acsanm.1c02896"
+      }
+    ],
+    "book_published": [
+      {
+        "title": "Carbon nanostructures: Next-generation materials for water purification.",
+        "book_title": "Green Sustainable Process for Chemical and Environmental Engineering and Science",
+        "year": 2023,
+        "publisher": "Elsevier"
+      },
+      {
+        "title": "Multiscale Approach Towards the Modeling and Simulation of Carbon Nanotubes Networks.",
+        "book_title": "Mathematics Applied to Engineering in Action",
+        "year": 2021,
+        "publisher": "Apple Academic Press"
+      },
+      {
+        "title": "One-Dimensional Carbon Nanostructures for Supercapacitors.",
+        "book_title": "Morphology Design Paradigms for Supercapacitors",
+        "year": 2019,
+        "publisher": "CRC Press"
+      }
+    ],
+    "conference_attended": [
+      {
+        "info": "Invited Talk on 'Mimicking silk cocoon membranes carbon dioxide filter' and chaired a session in Fourth International Conference on Nanomedicine and Tissue Engineering (ICNT 2016)",
+        "month": "AUG",
+        "year": 2016
+      },
+      {
+        "info": "Workshop: Presented lecture on 'Graphene oxide membrane as filter for the purification of water' in INDO- UK workshop on 'Clean water through Advanced and Affordable materials'",
+        "month": "AUG",
+        "year": 2016
+      },
+      {
+        "info": "Oral Presentation on 'Green synthesis of nano domain cuprous oxide particles' and awarded best oral presentation in Exploring Basic and Applied Sciences for Next Generation Frontiers (EBAS 2014)",
+        "month": "NOV",
+        "year": 2014
+      }
+    ]
+  }
+  

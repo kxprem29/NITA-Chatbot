@@ -1,0 +1,143 @@
+{
+    "name": "Dr. Prakash Kumar Sahu",
+    "position": "Assistant Professor",
+    "department": "Production Engineering",
+    "date_of_joining": "05/09/2022",
+    "email": "pksahunita@gmail.com",
+    "scholar_url": "https://scholar.google.com/cit",
+    "research_areas": [
+      "Friction Stir Additive Manufacturing",
+      "FSW/FSP",
+      "Alloy and Composites Development",
+      "Tribology",
+      "Metal Additive Manufacturing and 3D Printing",
+      "Material processing and Characterization",
+      "Metallurgy"
+    ],
+    "address": {
+      "department": "Department of Production Engineering",
+      "institution": "NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "pksahunita@gmail.com",
+      "mobile": "9435391495"
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "year": 2017,
+        "institution": "Indian Institute of Technology Guwahati",
+        "specialization": "Manufacturing Engineering (Mechanical Department)"
+      },
+      {
+        "degree": "M.E.",
+        "year": 2011,
+        "institution": "IIEST Shibpur",
+        "specialization": "Production Engineering (Mechanical Department)"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2009,
+        "institution": "VSSUT (UCE) Burla, Odisha",
+        "specialization": "Manufacturing Engineering"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Additive Manufacturing",
+        "Basic Manufacturing Processes",
+        "Industrial Automation"
+      ],
+      "PG": [
+        "Non-Conventional Manufacturing"
+      ]
+    },
+    "selected_publications": {
+      "conferences": [
+        {
+          "title": "Fatigue life behaviour of single and double pass friction stir welded dissimilar thickness AA1050 joint",
+          "conference": "AIMTDR, College of Engineering, Pune",
+          "month": "DEC",
+          "year": 2016
+        },
+        {
+          "title": "Optimization of process parameters on influencing mechanical properties of friction stir welded AM20 magnesium alloy",
+          "conference": "IIW-IC-2014, New Delhi",
+          "month": "APRIL",
+          "year": 2014
+        }
+      ],
+      "journals": [
+        {
+          "title": "Influence of process parameters on mechanical and microstructural properties of friction stir welded AA5052",
+          "journal": "Advances in Materials and Processing Technologies (Taylor and Francis)",
+          "year": 2022,
+          "doi": "https://doi.org/10.1080/2374068X.2022.2085367"
+        },
+        {
+          "title": "Friction Stir Selective Alloying of Different Al% Particulate Reinforced to AZ31 Mg",
+          "journal": "Material Science and Engineering A (Elsevier)",
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.msea.2019.138889"
+        }
+      ]
+    },
+    "conferences_attended": [
+      {
+        "conference": "AIMTDR, College of Engineering, Pune",
+        "month": "DEC",
+        "year": 2016
+      },
+      {
+        "conference": "IIW-IC-2014, New Delhi",
+        "month": "APRIL",
+        "year": 2014
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Fellowship to pursue Post-Doctoral work at Tsinghua University",
+        "year": 2018
+      },
+      {
+        "title": "DST-SERB grant foreign travel to present research work at Manchester",
+        "year": 2017
+      },
+      {
+        "title": "MHRD Provided fellowship to pursue Doctoral work at IIT Guwahati",
+        "year": 2012
+      },
+      {
+        "title": "Qualified GATE",
+        "year": 2009
+      },
+      {
+        "title": "MHRD Provided fellowship to pursue M.E at IIEST Shibpur",
+        "year": 2009
+      }
+    ],
+    "trainings_workshops": [
+      {
+        "title": "Design & Manufacturing of a hand injection Mould",
+        "location": "CTTC Bhubaneswar, India",
+        "month": "MAY",
+        "year": 2009
+      },
+      {
+        "title": "Reverse Engineering",
+        "location": "Birla Tyres, Balasore, India",
+        "month": "MAY",
+        "year": 2008
+      },
+      {
+        "title": "Mobile Workshop",
+        "location": "ITR, Chandipur, Balasore, India",
+        "month": "MAY",
+        "year": 2007
+      }
+    ]
+  }
+  

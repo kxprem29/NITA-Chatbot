@@ -1,0 +1,58 @@
+{
+    "name": "Dr. Mantu Das",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mathematics",
+    "email": "mantukls86@gmail.com",
+    "address": {
+      "address_line": "Gobindapur, Kailashshar, Unakoti",
+      "city": null,
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mantukls86@gmail.com",
+      "residence_phone": "7629002777",
+      "mobile_phone": "9402356507"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2014,
+        "subject": "Assam University Silchar"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2009,
+        "subject": "Mathematics"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science",
+        "year": 2007,
+        "subject": "Mathematics"
+      },
+      {
+        "degree": "H.S.C.",
+        "description": "Higher Secondary School Certificate",
+        "year": 2004,
+        "subject": null
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "B. Tech 1st Semester",
+        "subject": "Engineering Mathematics - I"
+      },
+      {
+        "class": "B. Tech 2nd Semester",
+        "subject": "Engineering Mathematics - II"
+      },
+      {
+        "class": "B. Tech 3rd Semester",
+        "subject": "Engineering Mathematics - III"
+      }
+    ]
+  }
+  

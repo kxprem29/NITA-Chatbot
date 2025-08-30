@@ -1,0 +1,306 @@
+{
+    "name": "Dr. Dipankar Sarkar",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "31/03/2006",
+    "email": "dipankarnita@gmail.com",
+    "url": "https://scholar.google.com/cit",
+    "research_area": [
+      "Pavement Materials",
+      "Alternative Material",
+      "Geo synthetic in pavement"
+    ],
+    "address": {
+      "address_line": "BELABAR, NEAR BELABAR HS SCHOOL, 799003",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dipankarnita@gmail.com",
+      "residence_phone": "8119060968",
+      "mobile_phone": "7085392741"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2017,
+        "subject": "Transportation Engineering"
+      },
+      {
+        "degree": "M. TECH",
+        "description": "Master of Technology",
+        "year": 2011,
+        "subject": "Civil Engineering"
+      },
+      {
+        "degree": "B.E",
+        "description": "Bachelor of Engineering",
+        "year": 2004,
+        "subject": "Civil Engineering"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {
+          "title": "Intelligent Prediction Model on Soil Bamboo Fibre Mix for Road Construction",
+          "authors": "Debnath, C., Sarkar, D., Pal, M.",
+          "journal": "Advances in Engineering Software, Vol. 177, 103400",
+          "month": "MAR",
+          "year": 2023
+        },
+        {
+          "title": "Performance evaluation of natural fiber reinforced Laterite soil for road pavement construction",
+          "authors": "Paul, S., Sarkar, D.",
+          "journal": "Materials Today: Proceedings, Vol. 62 (2), pp. 1246-51",
+          "month": "APRIL",
+          "year": 2022
+        },
+        {
+          "title": "Application of nano-silica in rubber modified asphalt mix made with marginal aggregates",
+          "authors": "Rasheda, S.B., Debnath, B., Sarkar, D.",
+          "journal": "Materials Today: Proceedings, Vol. 65 (2), pp. 669-675",
+          "month": "JUN",
+          "year": 2022
+        },
+        {
+          "title": "Application of nano-silica in rubber modified asphalt mix made with marginal aggregates",
+          "authors": "Rasheda, S.B., Debnath, B., Sarkar, D.",
+          "journal": "Journal of Materials Today: Proceedings",
+          "month": "MAR",
+          "year": 2022
+        },
+        {
+          "title": "Generation of Electricity Using Piezoelectric Material: Study on Asphalt Pavement Structure on Rural Road",
+          "authors": "Suresh, M., Pal, M., Sarkar, D, Majumdar, K.",
+          "journal": "Journal of Materials in Civil Engineering, ASCE",
+          "month": "FEB",
+          "year": 2022
+        },
+        {
+          "title": "Performance of polymer-reinforced bituminous mixes using recycled coarse aggregate",
+          "authors": "Suresh, M., Pal, M., Sarkar, D.",
+          "journal": "Proceedings of the Institution of Civil Engineers-Transport",
+          "month": "APRIL",
+          "year": 2021
+        },
+        {
+          "title": "Study the behavior of asphalt mix and their properties in presence of nano materials",
+          "authors": "Patidar, A., Sarkar, D., Pal, M.",
+          "journal": "MATTER: Int. J. Sci. Technol, Vol. 4, Issue.1, pp 73-87",
+          "month": "MAR",
+          "year": 2018
+        },
+        {
+          "title": "Effect of cement on properties of over burnt brick bituminous concrete mixes",
+          "authors": "Sarkar, D., Pal, M.",
+          "journal": "Journal of Institution of Engineers India: Series A, Vol. 97(2), pp 163-170",
+          "month": "DEC",
+          "year": 2016
+        },
+        {
+          "title": "Evaluation of the Properties of Bituminous Concrete Prepared from Brick-Stone Mix Aggregate",
+          "authors": "Mishra, U., Sarkar, D., Pal, M., Sarkar, A.K.",
+          "journal": "Advances in Materials Science and Engineering, vol.2016, issue.2761038, pp 7",
+          "month": "DEC",
+          "year": 2016
+        },
+        {
+          "title": "Study on Plastic Coated Overburnt Brick Aggregate as an Alternative Material for Bituminous Road Construction",
+          "authors": "Sarkar, D., Pal, M., Sarkar, A.K.",
+          "journal": "Advances in Materials Science and Engineering, Vol.2016, issue.5352787, pp 8",
+          "month": "DEC",
+          "year": 2016
+        },
+        {
+          "title": "Laboratory evaluation of asphalt concrete prepared with over burnt brick aggregate treated by zycosoil",
+          "authors": "Sarkar, D., Pal, M., Sarkar, A.K.",
+          "journal": "Vol. 8, Issue.12, pp 1302-1306",
+          "month": "NOV",
+          "year": 2014
+        },
+        {
+          "title": "Study of noise pollution at different intersections at Agartala city",
+          "authors": "Pal, M., Sarkar, D.",
+          "journal": "Indian Highways, Vol. 41, pp. 53-62",
+          "month": "OCT",
+          "year": 2013
+        },
+        {
+          "title": "Delay, fuel loss and noise pollution during idling of vehicles at signalized intersection in Agartala city, India",
+          "authors": "Pal, M., Sarkar, D., Saha, P.",
+          "journal": "Civil and Environmental Research, vol.2, pp 8-14",
+          "month": "DEC",
+          "year": 2012
+        },
+        {
+          "title": "Study of vehicular delay and noise pollution at signalized intersection of Agartala City, India",
+          "authors": "Pal, M., Sarkar, D., Saha, P.",
+          "journal": "IJAER, Vol. 6, Number 2, pp. 161–170",
+          "month": "JAN",
+          "year": 2011
+        },
+        {
+          "title": "Study of Strength, CBR, Resistivity and Conductivity of Soil-Jute mixture",
+          "authors": "Pal, M., Majumdar, K., Barman, M., Sarkar, D.",
+          "journal": "Indian Highways, pp. 53-62",
+          "month": "AUG",
+          "year": 2010
+        }
+      ],
+      "conference": [
+        {
+          "title": "A Feasibility study of modifying conventional flexible pavement layers with locally available low cost materials",
+          "authors": "Roy, S., Patidar, A., Sarkar, D.",
+          "conference": "International Conference on Recent Advances in Transport Infrastructure, MANIT, Bhopal",
+          "month": "DEC",
+          "year": 2018
+        },
+        {
+          "title": "Performance Characteristics evaluation of asphalt mixes with plastic coated aggregates",
+          "authors": "Saha Chowdhury, P., Kumar, S., Sarkar, D.",
+          "conference": "CTRG",
+          "month": "DEC",
+          "year": 2017
+        },
+        {
+          "title": "Study the behavior of asphalt mix and their properties in presence of nano materials",
+          "authors": "Patidar, A., Sarkar, D., Pal, M.",
+          "conference": "27th International Conference on Researches in Science and Technology, AIT, Bangkok",
+          "month": "DEC",
+          "year": 2017
+        },
+        {
+          "title": "Open Graded Porous Asphalt Pavement",
+          "authors": "Pal, M., Majumder, P., Sarkar, D.",
+          "conference": "27th International Conference on Researches in Science and Technology, AIT, Bangkok",
+          "month": "DEC",
+          "year": 2017
+        },
+        {
+          "title": "Effect of Natural Rubber and ZycoTherm on Moisture Performance of Asphalt Mixtures",
+          "authors": "Saha Chowdhury, P., Kumar, S., Sarkar, D.",
+          "conference": "International Conference on Advances in Construction Materials and Systems, RILEM, Vol. 4, pp 421-428",
+          "month": "DEC",
+          "year": 2017
+        },
+        {
+          "title": "Laboratory evaluation of asphalt concrete prepared with over burnt brick aggregate treated by Zycosoil",
+          "authors": "Sarkar, D., Pal, M.",
+          "conference": "World academy of science, engineering and technology, Vol. 8(12), pp 1302-1306",
+          "month": "NOV",
+          "year": 2014
+        },
+        {
+          "title": "Maintenance Priority Index of Low volume roads",
+          "authors": "Sarkar, D., Pal, M.",
+          "conference": "Annual International Conference on Architecture and Civil Engineering, Singapore, pp. 450-454",
+          "month": "DEC",
+          "year": 2013
+        },
+        {
+          "title": "Study of Young’s Modulus of Laterite Soil-Bamboo Fibre mix",
+          "authors": "Pal, M., Sarkar, D.",
+          "conference": "Annual International Conference on Architecture and Civil Engineering, Singapore, pp. 455-457",
+          "month": "DEC",
+          "year": 2013
+        },
+        {
+          "title": "Study of Strength, Modulus of Elasticity, Electrical Resistivity and Conductivity of Soil-Cement mixture",
+          "authors": "Pal, M., Sarkar, P.P., Sarkar, D., Majumder, K.",
+          "conference": "3rd FIB International Congress, USA, pp 195-207",
+          "month": "DEC",
+          "year": 2010
+        },
+        {
+          "title": "Study of CBR and Electrical Conductivity of Soil-Jute mixture",
+          "authors": "Pal, M., Majumder, K., Barman, M., Sarkar, D.",
+          "conference": "International conference on pavement engineering, ICPE-09, pp 39-43",
+          "month": "DEC",
+          "year": 2009
+        }
+      ]
+    },
+    "conferences_conducted": [
+      {
+        "title": "One day National Conference on Emerging Techniques in Pavement Stabilization",
+        "organizers": "NIT Agartala and AVS Infra",
+        "month": "MAR",
+        "year": 2023
+      }
+    ],
+    "patents": [
+      {
+        "title": "Use of porous concrete in road construction for water management along with the use of piezo crystals on the footpath for energy harvesting",
+        "office": "The Patent Office UK",
+        "country": "UK",
+        "design_no": "6284505",
+        "year": 2023
+      },
+      {
+        "title": "Use of Vertical Water Treatment Plant in Cities to cope up with Land Shortage Problem",
+        "office": "Commissioner of Patents, IP Australia, Govt. of Australia",
+        "ref_no": "2021105549",
+        "year": 2021
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "5 days national workshop Green and Energy Efficient Buildings",
+        "funded_by": "Bureau of Energy Efficiency, Govt. of India",
+        "month": "DEC",
+        "year": 2023
+      },
+      {
+        "title": "5 days international workshop Recent Advancements & Emerging Economic Aspects of Transportation Geotechnology",
+        "funded_by": "NIT Agartala",
+        "month": "DEC",
+        "year": 2021
+      },
+      {
+        "title": "5 days national workshop Emerging Trends in Pavement and Traffic Engineering",
+        "funded_by": "TEQIP-III, NIT Agartala",
+        "month": "MAR",
+        "year": 2018
+      },
+      {
+        "title": "2 days national workshop Recent Trends in Transportation Engineering",
+        "funded_by": "TEQIP-II, NIT Agartala",
+        "month": "MAR",
+        "year": 2016
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Transportation Engineering I",
+        "Transportation Engineering II"
+      ],
+      "PG": [
+        "Pavement Material",
+        "Geometric Design of Transportation Facilities"
+      ],
+      "detailed_subjects": [
+        {
+          "class": "5th Semester",
+          "subject": "Transportation Engineering - I"
+        },
+        {
+          "class": "6th Semester",
+          "subject": "Transportation Engineering - II"
+        },
+        {
+          "class": "M.Tech 1st Sem (Transportation)",
+          "subject": "Pavement Materials"
+        },
+        {
+          "class": "M.Tech 2nd Sem (Transportation)",
+          "subject": "Geometric Design of Transportation Facilities"
+        }
+      ]
+    },
+    "students_registered_for_phd": {
+      "enrolled_ongoing": 6
+    }
+  }
+  

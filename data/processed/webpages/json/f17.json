@@ -1,0 +1,110 @@
+{
+    "name": "Prof. Ardhendu Saha",
+    "designation": "Professor",
+    "department": "Electrical Engineering",
+    "date_of_joining": "31/12/1997",
+    "email": "arsagtwave@gmail.com",
+    "mobile": "9436540988",
+    "research_areas": [
+      "Optoelectronics and Laser Instrumentation",
+      "Industrial Instrumentation",
+      "Solid-state Lasers and Nonlinear-optics",
+      "Integrated Photonic Devices",
+      "Fibre optics communications",
+      "Fiber Optic Sensors"
+    ],
+    "cv": "View",
+    "courses_taught": {
+      "ug": ["Electromagnetic Field Theory"],
+      "pg": [
+        "Optical Engineering and Laser Instrumentation",
+        "Optoelectronics Instrumentation",
+        "Instrumentation Lab"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": 11,
+      "ongoing": 3
+    },
+    "address": {
+      "permanent": {
+        "duplex_unit": "10/9 MOUCHAK COMPLEX",
+        "institute": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
+        "po": "NIT AGARTALA",
+        "city": "BARJALA, JIRANIA, TRIPURA WEST",
+        "pin": "799046",
+        "state": "TRIPURA",
+        "country": "India"
+      }
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "department": "Electrical Engineering Department, IIT Kharagpur",
+        "year": 2007,
+        "subject": "Solid State Laser & Nonlinear Optics"
+      },
+      {
+        "degree": "M.Tech",
+        "department": "Applied Physics, University of Calcutta",
+        "year": 1992,
+        "subject": "Applied Physics (Spl. Instrumentation Engineering)"
+      },
+      {
+        "degree": "B.E.",
+        "department": "Tripura Engineering College under University of Calcutta",
+        "year": 1988,
+        "subject": "Electrical Engineering"
+      },
+      {
+        "degree": "H.S.C.",
+        "board": "TBSE",
+        "year": 1984,
+        "subject": "Physics, Chemistry, Mathematics and Biology"
+      },
+      {
+        "degree": "S.S.C.",
+        "board": "TBSE",
+        "year": 1982,
+        "subject": "Math, Bengali, Life Science, Physical Science, English, History, Geography, Additional Mathematics"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "Tunable threshold bistable Lateral Beam displacement through Graphene Symmetric mode at Terahertz Frequency",
+          "authors": ["Aparupa Kar", "Nabamita Goswami", "Ardhendu Saha"],
+          "conference": "IEMPHYS-22 International Conference on Advanced Physics",
+          "location": "Institute of Engineering & Management, Kolkata, India",
+          "date": "September 22-24, 2022",
+          "pages": "65"
+        },
+        {
+          "title": "Graphene Surface Plasmon Polariton based tunable Gas Sensor at Terahertz frequency",
+          "authors": ["Aparupa Kar", "Nabamita Goswami", "Ardhendu Saha"],
+          "conference": "IEMPHYS-22 International Conference on Advanced Physics",
+          "location": "Institute of Engineering & Management, Kolkata, India",
+          "date": "September 22-24, 2022",
+          "pages": "64"
+        }
+      ],
+      "journals": [
+        {
+          "title": "Electro-Optically tunable cascaded second2 order non-linearity induced (2+1)Dspatial optical soliton using bulk ß-barium borate crystal: a theoretical approach",
+          "authors": ["Sharbari Deb", "Satadru Behera", "Ardhendu Saha"],
+          "journal": "JOSA B",
+          "year": 2022,
+          "status": "Accepted"
+        },
+        {
+          "title": "Implementation of an enhanced 32 channel 256Gbps DWDM based Radio over Fiber optical system for constricted channel spacing employing Fiber Bragg Grating",
+          "authors": ["R Bhattacharjee", "P Dey", "A Saha"],
+          "journal": "Optik",
+          "month": "March",
+          "year": 2022,
+          "volume": 253
+        }
+      ]
+    }
+  }
+  

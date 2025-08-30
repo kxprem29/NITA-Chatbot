@@ -1,0 +1,28 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "faculty_staff_profile": {
+      "name": "Dr. SANJAY PAUL",
+      "designation": "Assistant Professor",
+      "email_id": "sanjaypaul76@gmail.com",
+      "address_information": {
+        "address": "Chandrapur Agartala PIN-799008",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email_address": "sanjaypaul76@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "8731986285"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "Ph. D.",
+          "description": "Philosophy of Doctorate",
+          "year": 2010,
+          "subject": "PhD in Soil Dynamics & Earthquake Engineering (Soil Dynamics & Earthquake Engineering)"
+        }
+      ]
+    }
+  }
+  

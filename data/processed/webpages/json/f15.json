@@ -1,0 +1,292 @@
+{
+    "personal_info": {
+      "name": "Dr. Kunal Chakma",
+      "designation": "Assistant Professor",
+      "department": "Computer Science and Engineering",
+      "date_of_joining": "15/05/2004",
+      "email": "kchakma.cse@nita.ac.in",
+      "website": "https://kunalchakma.com/",
+      "address": {
+        "room": "227, Second Floor",
+        "department": "CSE Department",
+        "city": "Agartala",
+        "state": "Tripura",
+        "country": "India"
+      },
+      "contact": {
+        "email": "kchakma.cse@nita.ac.in",
+        "phone_residence": null,
+        "phone_mobile": null
+      }
+    },
+    "academic_info": [
+      {
+        "degree": "B. TECH.",
+        "description": "Bachelor of Technology",
+        "year": 0,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "M. TECH",
+        "description": "Master of Technology",
+        "year": 0,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": 0,
+        "subject": "Computer Science and Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "A Comparative Analysis of Machine Learning Based Sentiment Analysis",
+          "authors": "Sinha, A., Chakma, K.",
+          "conference": "ISAI 2022",
+          "journal_series": "Communications in Computer and Information Science, vol 1695. Springer, Cham",
+          "month": "JAN",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/978-3-031-22485-0_12"
+        },
+        {
+          "title": "A Comparative Analysis of Sentiment Analysis and Emotion Detection Problems on Texts",
+          "authors": "Sinha, A., Chakma, K.",
+          "conference": "FICTA 2022",
+          "journal_series": "Smart Innovation, Systems and Technologies, vol 327. Springer, Singapore",
+          "month": "FEB",
+          "year": 2023,
+          "doi": "https://doi.org/10.1007/978-981-19-7524-0_41"
+        },
+        {
+          "title": "Summarization of Twitter Events with Deep Neural Network Pre-trained Models",
+          "authors": "Kunal Chakma, Amitava Das, Swapan Debbarma",
+          "conference": "SIMBIG 2020: 7th International Conference on Information Management and Big Data",
+          "month": "OCT",
+          "year": 2020,
+          "doi": "https://doi.org/10.1007/978-3-030-76228-5_4"
+        },
+        {
+          "title": "5W1H-based Semantic Segmentation of Tweets for Event Detection using BERT",
+          "authors": "Kunal Chakma, Steve Durairaj Swamy, Amitava Das, Swapan Debbarma",
+          "conference": "2nd International Conference on Machine Learning, Image Processing, Network Security and Data sciences (MIND-2020)",
+          "month": "APR",
+          "year": 2020,
+          "doi": "https://doi.org/10.1007/978-981-15-6315-7_5"
+        },
+        {
+          "title": "Finding Correlation Between Twitter Influence Metrics and Centrality Measures for Detection of Influential Users",
+          "authors": "Kunal Chakma, Rohit Chakraborty, Shubhanshu Kumar Singh",
+          "conference": "5th International Conference on Computational Intelligence in Data Mining (ICCIDM - 2018)",
+          "month": "DEC",
+          "year": 2018,
+          "doi": "https://doi.org/10.1007/978-981-13-8676-3_5"
+        },
+        {
+          "title": "Overview of the Mixed Script Information Retrieval (MSIR) at FIRE-2016",
+          "authors": "Somnath Banerjee, Kunal Chakma, Sudip Kumar Naskar, Amitava Das, Paolo Rosso, Sivaji Bandyopadhyay, Monojit Choudhury",
+          "conference": "FIRE-2016",
+          "pages": "94-99",
+          "year": 2016
+        },
+        {
+          "title": "A Language Identification System for Code-Mixed English-Manipuri Social Media Text",
+          "authors": "Priyadarshini Lamabam, Kunal Chakma",
+          "conference": "2nd IEEE International Conference on Engineering and Technology (ICETECH)",
+          "pages": "79-83",
+          "month": "MAR",
+          "year": 2016,
+          "doi": "10.1109/ICETECH.2016.7569216"
+        },
+        {
+          "title": "A Density-Based Clustering Algorithm and Experiments on Student Dataset with Noises using Rough Set Theory",
+          "authors": "Bidipto Chakraborty, Kunal Chakma, Anjan Mukherjee",
+          "conference": "2nd IEEE International Conference on Engineering and Technology (ICETECH)",
+          "pages": "431-436",
+          "month": "MAR",
+          "year": 2016,
+          "doi": "10.1109/ICETECH.2016.7569290"
+        },
+        {
+          "title": "Sentence Boundary Detection for Social Media Text",
+          "authors": "Dwijen Rudrapal, Anupam Jamatia, Kunal Chakma, Amitava Das, Björn Gambäck",
+          "conference": "12th International Conference on Natural Language Processing (ICON-2015)",
+          "pages": "254-260",
+          "month": "DEC",
+          "year": 2015
+        },
+        {
+          "title": "Overview of FIRE-2015 Shared Task on Mixed Script Information Retrieval",
+          "authors": "Royal Sequiera, Monojit Choudhury, Parth Gupta, Paolo Rosso, Shubham Kumar, Somnath Banerjee, Sudip Kumar Naskar, Sivaji Bandyopadhyay, Gokul Chittaranjan, Amitava Das, Kunal Chakma",
+          "conference": "FIRE 2015",
+          "pages": "19-25",
+          "month": "DEC",
+          "year": 2015
+        },
+        {
+          "title": "Named Entity Detection from Tweets on Cricket",
+          "authors": "K. Chakma",
+          "conference": "1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), ICON-2014",
+          "pages": "9-15",
+          "month": "DEC",
+          "year": 2014
+        },
+        {
+          "title": "Revisiting Automatic Transliteration Problem for Code-Mixed Romanized Indian Social Media Text",
+          "authors": "K. Chakma, Amitava Das",
+          "conference": "1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), ICON-2014",
+          "pages": "42-48",
+          "month": "DEC",
+          "year": 2014
+        },
+        {
+          "title": "A Hybrid Approach to Synchronization in Real-Time Multiprocessor Systems",
+          "authors": "Muny Tamut, Kunal Chakma",
+          "conference": "2014 IEEE International Conference on Advanced Communication Control and Computing Technologies (ICACCCT)",
+          "pages": "1153-1157",
+          "month": "MAY",
+          "year": 2014,
+          "doi": "10.1109/ICACCCT.2014.7019278"
+        },
+        {
+          "title": "Extended Level Real-Time Scheduling Framework Using a Generalized Non-Real Time Platform",
+          "authors": "Pumima Singhal, Amit Kumar, Upendra Ghintala, Kunal Chakma",
+          "conference": "ICACCI 2014",
+          "pages": "1279-1284",
+          "month": "SEPT",
+          "year": 2014,
+          "doi": "10.1109/ICACCI.2014.6968278"
+        },
+        {
+          "title": "An improved data security using DNA sequencing",
+          "authors": "Nirmalya Kar, Atanu Majumder, Ashim Saha, Anupam Jamatia, Kunal Chakma, M.C. Pal",
+          "conference": "MobileHealth '13",
+          "pages": "13-18",
+          "month": "JUL",
+          "year": 2013
+        },
+        {
+          "title": "A Biometric Based Design Pattern for Implementation of a Security-Conscious E-Voting System using Cryptographic Protocols",
+          "authors": "Nirmalya Kar, Sharmistha Roy, Ashim Saha, Kunal Chakma, Anupam Jamatia",
+          "conference": "Second International Conference on Advances in Information Technology and Mobile Communication (AIM 2012)",
+          "pages": "78-85",
+          "year": 2013
+        },
+        {
+          "title": "Gait as a Biometric for Human Recognition by Histogram of Silhouette Image",
+          "authors": "D. Rudrapal, A. Pandey, S. Das, K. Chakma",
+          "conference": "International Conference on Sunrise Technologies",
+          "pages": null,
+          "month": "JAN",
+          "year": 2011
+        }
+      ],
+      "journal": [
+        {
+          "title": "MSIR@FIRE: A Comprehensive Report from 2013 to 2016",
+          "authors": "Somnath Benarjee, Monojit Choudhury, Kunal Chakma, Sudip Kumar Naskar, Amitava Das, Sivaji Bandyopadhyay, Paolo Rosso",
+          "journal": "SN Computer Science, Springer",
+          "volume": 23,
+          "issue": 3,
+          "pages": "751-763",
+          "month": null,
+          "year": 2020,
+          "doi": "10.13053/CyS-23-3-3253",
+          "issn": "2007-9737"
+        },
+        {
+          "title": "Deep Semantic Role Labeling for Tweets using 5W1H: Who, What, When, Where, Why and How",
+          "authors": "Kunal Chakma, Amitava Das, Swapan Debbarma",
+          "journal": "Computación y Sistemas",
+          "volume": 23,
+          "issue": 3,
+          "pages": "751-763",
+          "month": null,
+          "year": 2019,
+          "doi": "10.13053/CyS-23-3-3253",
+          "issn": "2007-9737"
+        },
+        {
+          "title": "A 5W1H Based Annotation Scheme for Semantic Role Labeling of English Tweets",
+          "authors": "Kunal Chakma, Amitava Das",
+          "journal": "Computación y Sistemas",
+          "volume": 22,
+          "issue": 3,
+          "pages": "747-755",
+          "month": null,
+          "year": 2018,
+          "doi": "10.13053/CyS-22-3-3016",
+          "issn": "2007-9737"
+        },
+        {
+          "title": "CMIR:A Corpus for Evaluation of Code Mixed Information Retrieval of Hindi-English Tweets",
+          "authors": "Kunal Chakma, Amitava Das",
+          "journal": "Computación y Sistemas",
+          "volume": 20,
+          "issue": 3,
+          "pages": "425-434",
+          "month": null,
+          "year": 2016,
+          "doi": "10.13053/CyS-20-3-2459",
+          "issn": "2007-9737"
+        },
+        {
+          "title": "A Comparison between Sentiment Analysis of Student Feedback at Sentence Level and at Token Level",
+          "authors": "Chandrika Chatterjee, Kunal Chakma",
+          "journal": "International Journal of Computer Science and Network (IJCSN)",
+          "volume": 4,
+          "issue": 3,
+          "pages": "482-486",
+          "month": "JUN",
+          "year": 2015,
+          "issn_online": "2277-5420"
+        }
+      ]
+    },
+    "conferences_attended": [
+      {
+        "conference": "SIMBIG 2020: 7th International Conference on Information Management and Big Data",
+        "month": "OCT",
+        "year": 2020,
+        "location": "Lima, Peru"
+      },
+      {
+        "conference": "2nd International Conference on Machine Learning, Image Processing, Network Security and Data sciences (MIND-2020)",
+        "month": "APR",
+        "year": 2020,
+        "location": "NIT Silchar, India"
+      },
+      {
+        "conference": "19th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)",
+        "month": "MAR",
+        "year": 2018,
+        "location": "Hanoi, Vietnam"
+      },
+      {
+        "conference": "1st Workshop on Language Technologies for Indian Social Media (SOCIAL-INDIA), ICON-2014",
+        "month": "DEC",
+        "year": 2014,
+        "location": "Goa, India"
+      },
+      {
+        "conference": "4th International Conference on Computer and Software Modelling (ICCSM)",
+        "month": "OCT",
+        "year": 2014,
+        "location": "Bangkok, Thailand"
+      },
+      {
+        "conference": "3rd International Conference on Software and Computing Technology ICSCT 2012",
+        "month": "DEC",
+        "year": 2012,
+        "location": "Kuala Lumpur, Malaysia"
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "M.Tech. Gold Medalist",
+        "year": 2013
+      }
+    ]
+  }
+  

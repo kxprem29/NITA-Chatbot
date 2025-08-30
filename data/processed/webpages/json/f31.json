@@ -1,0 +1,48 @@
+{
+    "name": "Dr. Arvind Kumar Jain",
+    "designation": "Professor",
+    "department": "Electrical Engineering",
+    "email": "arvindjmp@gmail.com",
+    "address": {
+      "address_line": "Silicon city, Near IPS Academy, Indore (MP)",
+      "city": "",
+      "state": "Madhya Pradesh",
+      "country": "India"
+    },
+    "contact": {
+      "email": "arvindjmp@gmail.com",
+      "phone_residence": "",
+      "phone_mobile": "9406576108"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2013,
+        "subject": "Electrical Engineering (Power System)",
+        "institute": "Indian Institute of Technology (IIT) Kanpur"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2007,
+        "subject": "Power and Control",
+        "institute": "Indian Institute of Technology (IIT) Kanpur"
+      },
+      {
+        "degree": "B.Tech",
+        "description": "Bachelor of Technology",
+        "year": 1993,
+        "subject": "Electrical Engineering",
+        "institute": "Government Engineering College Jabalpur (MP)"
+      }
+    ],
+    "patents": [
+      {
+        "no": "202331013372 A",
+        "title": "An apparatus for enforcing strict COVID protocols",
+        "date": "2023-03-10"
+      }
+    ]
+  }
+  
