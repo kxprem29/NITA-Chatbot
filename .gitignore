@@ -1,0 +1,4 @@
+**/*.env
+.venv*
+*.sqlite3
+vector_db

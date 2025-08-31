@@ -20,7 +20,7 @@ if not os.getenv("GOOGLE_API_KEY"):
     raise ValueError("GOOGLE_API_KEY not found in .env file. Please add it.")
 
 # Use a fast and efficient model from the Gemini family
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
 # Define the FastAPI application
 app = FastAPI(
@@ -35,6 +35,7 @@ class Query(BaseModel):
 # --- 2. Setup the rest of the RAG pipeline (Embeddings and VectorDB) ---
 # Use the same embedding model used during data processing
 embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+# embedding_model = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-001")
 
 # Set up ChromaDB client to connect to your existing collection
 PERSIST_DIRECTORY = "./vector_db"
@@ -64,7 +65,7 @@ def get_chatbot_response(query: Query):
     Receives a user query and returns a response from the RAG pipeline.
     """
     # 1. Retrieve the top 4 most relevant documents from the vector database.
-    retrieved_docs = vector_db.similarity_search(query.user_query, k=4)
+    retrieved_docs = vector_db.similarity_search(query.user_query, k=5)
     
     # 2. Extract the text content from the retrieved documents to form the context.
     context_text = "\n\n---\n\n".join([doc.page_content for doc in retrieved_docs])

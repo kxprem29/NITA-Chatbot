@@ -1,5 +1,5 @@
 import chromadb
-from langchain_community.embeddings import HuggingFaceEmbeddings
+# from langchain_community.embeddings import HuggingFaceEmbeddings
 
 # --- Configure these to match your project ---
 PERSIST_DIRECTORY = "./vector_db"
