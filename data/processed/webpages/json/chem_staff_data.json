@@ -1,23 +1,30 @@
 [
     {
         "name": "Mr. SUDIP PAUL",
-        "department": "Civil Engineering (NBA Accredited)",
+        "department": "Chemistry",
         "designation": "Technical Assistant (Contractual)",
         "email": "sudip.chem@staff.nita.ac.in",
-        "contact": "Mr. HIMADRI PAUL"
+        "contact": ""
     },
     {
-        "name": "Designation:",
-        "department": "Civil Engineering (NBA Accredited)",
-        "designation": "Email:",
-        "email": "Contact:",
-        "contact": "Mr. SATYAJIT GHOSH"
+        "name": "Mr. HIMADRI PAUL",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "himadripaul12@gmail.com",
+        "contact": "9863734822"
     },
     {
-        "name": "Designation:",
-        "department": "Civil Engineering (NBA Accredited)",
-        "designation": "Email:",
-        "email": "Contact:",
-        "contact": "Mr. NITISH RANJAN NATH"
+        "name": "Mr. SATYAJIT GHOSH",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "sgchmt@gmail.com",
+        "contact": "8414803010"
+    },
+    {
+        "name": "Mr. NITISH RANJAN NATH",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "nitishnath5@gmail.com",
+        "contact": "8132845976"
     }
 ]
