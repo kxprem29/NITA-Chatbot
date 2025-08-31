@@ -1,0 +1,66 @@
+{
+    "name": "Dr. Anuradha Nongmaithem",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Management, Humanities & Social Sciences",
+    "date_of_joining": "25/07/2014",
+    "email": "dranuradhanongmaithem@gmail.com",
+    "address": {
+      "address_line": "Soibu, Leikai Ayangpalli Road",
+      "city": null,
+      "state": "MANIPUR",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dranuradhanongmaithem@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "9774089163"
+    },
+    "academic_information": [
+      {
+        "degree": "M.Phil",
+        "description": "Master of philosophy",
+        "year": 2016,
+        "subject": "English Literature",
+        "specialization": "African American Literature"
+      },
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2013,
+        "subject": "English Literature",
+        "specialization": "African American Literature"
+      },
+      {
+        "degree": "B.A.",
+        "description": "Bachelor of Art",
+        "year": 2003,
+        "subject": "English Literature",
+        "specialization": "B.A English Honours"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Nongmaithem Tombi Singhagee Punshi Amasung Thabak: Ahanba Saruk",
+        "subtitle": "(Nongmaithem Tombi Singh’s Life and Work – Part One)",
+        "publisher": "Nongmaithem Foundation (on behalf of Yaibiren Communications, Uripok Khwai Brahmapur)",
+        "month_year": "March, 2020",
+        "language": "Manipuri",
+        "ISSN": "978-81-154269-3-8",
+        "year": 2020
+      },
+      {
+        "title": "Choreopoem: A Serenade To Ntozake Shange’s Fictional Universe",
+        "publisher": "LeimarolKhojeikol, Imphal",
+        "month_year": "October 2019",
+        "ISSN": "978-81-935908-1-2",
+        "year": 2019
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "B.Tech",
+        "subject": "Professional Communication in English"
+      }
+    ]
+  }
+  

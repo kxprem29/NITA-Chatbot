@@ -1,0 +1,48 @@
+{
+    "department": "Chemical Engineering",
+    "research": {
+      "domains": [
+        "Fluid dynamics",
+        "Numerical simulation",
+        "Catalysis and reaction engineering",
+        "Environmental engineering",
+        "Biofuel",
+        "Bioenergy",
+        "Renewable energy",
+        "Sustainable engineering",
+        "Energy and fuel technology",
+        "Materials engineering",
+        "Nanotechnology",
+        "Polymer technology",
+        "Other emerging areas of chemical engineering"
+      ],
+      "technologies_developed": [
+        "Natural colorant production from microalgae for pharmaceutical industry",
+        "Edible coating of foods from waste biomass",
+        "Specially designed wind deflectors for window panes that allow ventilation and airflow irrespective of direction",
+        "Design of bio-energy integrated off-grid hybrid power system",
+        "Alternative processing method of latex",
+        "Process for isolation of nutritional constituents from biomass",
+        "Method for stabilizing bio-based infrastructural materials against deterioration",
+        "Low-cost bio-based fuel for replacement of fossil fuel"
+      ],
+      "sponsored_projects": [
+        "Technology Status, Gap Analysis Study and remedial measures for Rubber Processing Units of Tripura – Both Rubber & Rubber Products manufacturing Units",
+        "Development of an alternate route for stabilizing and processing of Natural Rubber Latex",
+        "Knowledge Transfer Workshop on Value Addition of Rubber in Tripura",
+        "Developing an off-grid power system for remotely located communities in the NE region",
+        "Isolation and characterization of micro-organisms/micro-algae from North East region and eastern coal mines for bio-sequestration of CO2 and bio-fuel generation",
+        "Identification and characterization of cues for phase shifting from acidogenesis to solventogenesis in Clostridium acetobutylicum",
+        "A study on developing a sustainable bio-electrochemical system for conversion of waste electricity",
+        "On-field application of Foldscope for rapid collection of microalgae samples",
+        "Removal of methylene blue dye from aqueous medium using biochar adsorbent from bio-sludge of Indian Standard Natural Rubber plant in Tripura",
+        "Technology development for production of natural colorant (chlorophyll) from isolated microalgae",
+        "Synthesis and characterization of novel hybrid bio-sorbents from biomass abundant in North Eastern region",
+        "Removal of phenol from aqueous medium by adsorption onto char prepared from sludge of Indian Standard Natural Rubber industry in Tripura",
+        "Developing an efficient low-cost catalytic system for conversion of waste vegetable oil to biodiesel",
+        "Process development for enhanced extraction of Phycoerythrin (PE) from cyanobacteria for commercial application in food industries",
+        "Edible coating from waste biomass to increase shelf-life of fruits and vegetables (2022-2025)"
+      ]
+    }
+  }
+  

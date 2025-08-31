@@ -1,0 +1,110 @@
+{
+    "name": "Dr. Jayanta Kumar Rakshit",
+    "position": "HOD & Associate Professor",
+    "department": "Electronics and Instrumentation Engineering",
+    "email": "jayantarakshit.eie@nita.ac.in",
+    "research_areas": [
+      "Photonics",
+      "Optical Computing",
+      "Optical Communication",
+      "Optoelectronics Instrumentation"
+    ],
+    "address": {
+      "department": "Department of Electronics and Instrumentation Engineering",
+      "institution": "NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "postal_code": "799046"
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "specialization": "Optics and Photonics"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2004,
+        "specialization": "Optics and Optoelectronics"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2002,
+        "specialization": "Optics and Optoelectronics"
+      }
+    ],
+    "selected_publications": {
+      "conferences": [
+        {
+          "title": "Modeling of one-bit Arithmetic Logic Circuit using silicon micro-ring resonator",
+          "conference": "RAEEUCCI-2022",
+          "year": 2022
+        },
+        {
+          "title": "Photonic crystal race track ring resonator design for detection of cancer cells",
+          "conference": "RAEEUCCI-2022",
+          "year": 2022
+        },
+        {
+          "title": "Implementation of All-Optical Reversible New Gate Using Silicon Micro-Ring Resonator",
+          "conference": "CONIAPS XXVII",
+          "year": 2021
+        }
+      ],
+      "journals": [
+        {
+          "title": "Silver Nanoparticles Textured Oxide Thin Films for Surface Plasmon Enhanced Photovoltaic Properties",
+          "journal": "Plasmonics",
+          "year": 2022
+        },
+        {
+          "title": "Polarization rotation based all-optical ternary half-adder and full-adder using micro-ring resonator",
+          "journal": "Optical and Quantum Electronics",
+          "year": 2022
+        },
+        {
+          "title": "Design of Micro-ring Resonator Based 4 × 4 Optical Router",
+          "journal": "Brazilian Journal of Physics",
+          "year": 2020
+        }
+      ]
+    },
+    "achievements": [
+      {
+        "title": "Selected in the World's Top 2% Scientists list",
+        "years": [2021, 2022, 2023]
+      }
+    ],
+    "trainings_workshops": [
+      {
+        "title": "Innovation Ambassador training (Foundation Level)",
+        "organizer": "MoE & AICTE",
+        "year": 2021
+      },
+      {
+        "title": "Workshop on Active Learning, Autonomy, R&D",
+        "organizer": "IIT Roorkee",
+        "year": 2018
+      }
+    ],
+    "courses_taught": [
+      {
+        "semester": "3rd Sem EIE",
+        "subject": "Analog Electronics & Linear Integrated Circuits"
+      },
+      {
+        "semester": "4th Sem EIE",
+        "subject": "Electromagnetic Theory"
+      },
+      {
+        "semester": "6th Sem",
+        "subject": "Communication Theory and Telemetry"
+      },
+      {
+        "semester": "7th Sem",
+        "subject": "Optoelectronic Instrumentation"
+      }
+    ]
+  }
+  

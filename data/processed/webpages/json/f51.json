@@ -1,0 +1,133 @@
+{
+    "name": "Dr. Paramvir Singh",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "13/09/2022",
+    "email": "psingh.me@nita.ac.in",
+    "url": "https://sites.google.com/view/paramvirsingh/home",
+    "research_area": [
+      "Renewable Energy",
+      "Fuel",
+      "Combustion",
+      "Emissions",
+      "Waste to Energy"
+    ],
+    "address": {
+      "current": "Mechanical Engineering Department, National Institute of Technology Agartala, Jirania-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "psingh.me@nita.ac.in",
+      "mobile": "",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Post Doc",
+        "university": "National University of Ireland Galway",
+        "year": 2022,
+        "subject": "Combustion Chemistry"
+      },
+      {
+        "degree": "Post Doc",
+        "university": "Indian Institute of Technology Bombay",
+        "year": 2022,
+        "subject": "Fuels and Combustion"
+      },
+      {
+        "degree": "Post Doc",
+        "university": "University of Sheffield UK (Visiting Post Doc)",
+        "year": 2019,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "Ph.D.",
+        "university": "NIT Hamirpur",
+        "year": 2019,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "OTHER",
+        "university": "University of Maryland USA (B-ACER Intern)",
+        "year": 2018,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "university": "NIT Hamirpur",
+        "year": 2013,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "MM(DU) Mullana",
+        "year": 2011,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Impact of Ammonia Blended Fuels on NOx Emissions in Combustion Engine",
+        "authors": ["P. Singh", "P. Berwal", "V. Patil", "B. Khandelwal", "S. Kumar"],
+        "conference": "AIAA Scitech 2022",
+        "year": 2022,
+        "doi": "AIAA 2021-1808"
+      },
+      {
+        "title": "Impact of Fuel Formulation with Particular Selection of Aromatics on Compression Engine Performance and Emission Control",
+        "authors": ["P. Singh", "S. Sharma", "B. A. Almohammadi", "B. Khandelwal", "S. Kumar"],
+        "conference": "AIAA Scitech 2021 Virtual Event",
+        "year": 2021,
+        "doi": "https://doi.org/10.2514/6.2021-1808"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Experimental Investigation to Assess the Efficacy of Gasoline Surrogates with Engine Testing",
+        "authors": ["V. Patil", "P. Singh", "S. Sonage", "N. Kumbhakarna", "S. Kumar"],
+        "journal": "Fuel",
+        "year": 2022,
+        "volume": "324",
+        "pages": "124493"
+      },
+      {
+        "title": "Optimization of Aromatic Species in Formulated Fuel for Simultaneous Reduction of PM and NOx emissions from Combustion Engines",
+        "authors": ["J. Chapman", "P. Singh", "S. Kumar", "B. Khandelwal"],
+        "journal": "Journal of the Energy Institute",
+        "year": 2022,
+        "volume": "103",
+        "pages": "94-103"
+      }
+    ],
+    "achievements": [
+      {
+        "description": "Young Scientist Award by the International Society for Energy, Environment and Sustainability based on scientific contributions",
+        "year": 2022
+      },
+      {
+        "description": "Associate Editor of SAE International Journal of Engines (ESCI, Scopus Indexed)",
+        "year": 2022
+      },
+      {
+        "description": "Academic Editor of International Journal of Rotating Machinery, Hindawi Publishing (ESCI, Scopus Indexed)",
+        "year": 2020
+      },
+      {
+        "description": "Shastri Research Student Fellowship (SRSF) Award: Post-Doctoral Category by Indo-Canadian Shastri Institute (SICI)",
+        "year": 2020
+      },
+      {
+        "description": "Augmenting Writing Skills for Articulating Research (AWSAR) Award by DST",
+        "year": 2020
+      }
+    ],
+    "subject_info": [
+      {
+        "class": "B.Tech 1st Year",
+        "subject": "Engineering Mechanics"
+      }
+    ]
+  }
+  

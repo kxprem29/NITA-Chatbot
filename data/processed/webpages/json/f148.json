@@ -1,0 +1,98 @@
+{
+    "name": "Dr. Rajsekhar Panua",
+    "designation": "Professor & HOD",
+    "department": "Mechanical Engineering",
+    "email": "rajsekhar_panua@yahoo.co.in",
+    "address": {
+      "address_line": "Department of Mechanical Engineering",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "rajsekhar_panua@yahoo.co.in",
+      "residence_phone": "09436767169",
+      "mobile": "09436767169"
+    },
+    "academic_qualification": [
+      {
+        "degree": "Ph.D.",
+        "year": 2009,
+        "subject": "IC Engine"
+      },
+      {
+        "degree": "M.E.",
+        "year": 2002,
+        "subject": "Thermal Power Engineering"
+      },
+      {
+        "degree": "B.E.",
+        "year": 2000,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "AI-Based ANN Modeling of Performance–Emission Profiles of CRDI Engine under Diesel-Karanja Strategies",
+          "publisher": "Springer",
+          "month": "Sept",
+          "year": 2021
+        },
+        {
+          "title": "An experimental study of performance and emission parameters of a compression ignition engine fueled by different blends of Diesel-Ethanol-biodiesel",
+          "publisher": "IEEE",
+          "month": "Oct",
+          "year": 2013
+        },
+        {
+          "title": "Thermodynamic analysis and cogeneration of a cement plant in India-A case study",
+          "publisher": "IEEE",
+          "month": "Sept",
+          "year": 2013
+        }
+      ],
+      "journal": [
+        {
+          "title": "Investigation of performance, combustion and exhaust emission characteristics of a CI engine using waste cooking biodiesel-hydrogen strategies: A trade-off analysis",
+          "journal": "International Journal of Hydrogen Energy (Elsevier)",
+          "month": "July",
+          "year": 2025,
+          "type": "SCI"
+        },
+        {
+          "title": "Optimizing hydrogen-rich syngas production from sanitary waste via CO2 gasification and pyrolysis",
+          "journal": "Biomass Conversion and Biorefinery (Springer)",
+          "month": "Nov",
+          "year": 2024,
+          "type": "SCI"
+        },
+        {
+          "title": "Estimation of efficiency, emission and exergy of a compression ignition engine under biohol-hydrogen strategies using artificial neural network",
+          "journal": "International Journal of Hydrogen Energy",
+          "month": "Sept",
+          "year": 2024,
+          "type": "SCI"
+        }
+      ]
+    },
+    "subjects": [
+      {
+        "class": "B.Tech 6th Semester",
+        "subject": "Thermal Power Engineering"
+      },
+      {
+        "class": "B.Tech 7th Semester",
+        "subject": "Compressible Flow"
+      },
+      {
+        "class": "M.Tech 1st Semester",
+        "subject": "Advanced Thermodynamics"
+      },
+      {
+        "class": "M.Tech 2nd Semester",
+        "subject": "Alternative Fuel"
+      }
+    ]
+  }
+  

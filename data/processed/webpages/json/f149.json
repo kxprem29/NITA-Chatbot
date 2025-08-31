@@ -1,0 +1,54 @@
+{
+    "name": "Dr. Jayasree Chakraborty",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mathematics",
+    "email": "chakrabortyjayasree1@gmail.com",
+    "address": {
+      "address_line": "S D Mission, A.D. Nagar, Road no-19",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "chakrabortyjayasree1@gmail.com",
+      "residence_phone": null,
+      "mobile": "9774447925"
+    },
+    "academic_qualification": [
+      {
+        "degree": "Ph.D.",
+        "year": 2017,
+        "subject": "Mathematics"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2009,
+        "subject": "Mathematics"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2007,
+        "subject": "Mathematics"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {"journal": "Afrika Matematika", "year": 2022},
+        {"journal": "Proyecciones", "year": 2022},
+        {"journal": "Afrika Matematika", "year": 2021},
+        {"journal": "Computational and Applied Mathematics", "year": 2021},
+        {"journal": "The Journal of Analysis", "year": 2020},
+        {"journal": "Proyecciones (Antofagasta)", "year": 2019},
+        {"journal": "Proyecciones (Antofagasta)", "year": 2019},
+        {"journal": "Songklanakarin Journal of Science & Technology", "year": 2019},
+        {"journal": "Songklanakarin Journal of Science and Technology", "year": 2018},
+        {"journal": "Boletim da Sociedade Paranaense de Matemática", "year": 2017},
+        {"journal": "Journal of Intelligent & Fuzzy Systems", "year": 2017},
+        {"journal": "Songklanakarin Journal of Science and Technology", "year": 2017},
+        {"journal": "Songklanakarin Journal of Science & Technology", "year": 2017},
+        {"journal": "Annals of Fuzzy Mathematics and Informatics", "year": 2016},
+        {"journal": "The Journal of Fuzzy Mathematics", "year": 2015}
+      ]
+    }
+  }
+  

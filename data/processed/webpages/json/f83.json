@@ -1,0 +1,39 @@
+{
+    "name": "Dr. Chitraniva Datta",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "date_of_joining": "03/08/2015",
+    "email": "chitranivadatta@gmail.com",
+    "url": "https://scholar.google.com/cit",
+    "research_area": [
+      "Coordination Chemistry",
+      "Liquid Crystals",
+      "Nanomaterials",
+      "Green Chemistry"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Chemistry-I",
+        "Engineering Chemistry-II",
+        "Electrochemistry",
+        "Molecular Spectroscopy"
+      ],
+      "PG": [
+        "Inorganic Chemistry-III",
+        "Solid State Chemistry and Crystallography",
+        "Bioinorganic Chemistry"
+      ]
+    },
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "chitranivadatta@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "7630810106"
+    }
+  }
+  

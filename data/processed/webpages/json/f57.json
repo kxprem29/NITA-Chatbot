@@ -1,0 +1,101 @@
+{
+    "name": "Dr. Minakshi Deb Barma",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "minakshi_nita@rediffmail.com",
+    "research_areas": ["Nonlinear Optics"],
+    "address": {
+      "department": "Electrical Engineering Department, FC-3B, G+6 Building",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "minakshi_nita@rediffmail.com",
+      "mobile": "9436583066"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2019,
+        "subject": "Not Specified"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2010,
+        "subject": "Not Specified"
+      },
+      {
+        "degree": "B.E.",
+        "year": 2004,
+        "subject": "Not Specified"
+      }
+    ],
+    "phd_students": {
+      "ongoing": 2
+    },
+    "courses_taught": {
+      "UG": ["Electrical Machine", "Basic Electrical Engineering"],
+      "PG": []
+    },
+    "publications_conference": [
+      {
+        "title": "Broadband Second Harmonic Generation using Surface Roughness Induced Random Quasi Phase Matching in Zinc Telluride slab",
+        "authors": "Kritideepa Roy, Hemant Kumar, Minakshi Deb Barma, Sumita Deb, Rakesh Maharana",
+        "conference": "International Conference on Breakthrough in Heuristics And Reciprocation of Advanced Technologies (BHARAT)",
+        "doi": "10.1109/BHARAT53139.2022.00033",
+        "month": "April",
+        "year": 2022
+      },
+      {
+        "title": "Surface Roughness Driven Broadband Second Harmonic Generation in Zinc Selenide slab",
+        "authors": "Kritideepa Roy, Hemant Kumar, Minakshi Deb Barma, Sumita Deb, Rakesh Maharana",
+        "conference": "International Mobile and Embedded Technology Conference (MECON)",
+        "doi": "10.1109/MECON53876.2022.9752221",
+        "month": "March",
+        "year": 2022
+      },
+      {
+        "title": "Utilization of thin-film to control total phase shift during total-internal-reflection",
+        "authors": "M. Saha, S. Deb, B. Medhi, M. D. Barma",
+        "conference": "6th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE 2021)",
+        "month": "April",
+        "year": 2021
+      },
+      {
+        "title": "Total Internal Reflection Quasi Phase Matching based Broadband Second Harmonic Generation in Isotropic Semiconductor: A comparative analysis",
+        "authors": "Minakshi Deb Barma, Sumita Deb, Satyajit Paul",
+        "conference": "International Conference on Communications, Signal Processing and VLSI (IC2SV 2019)",
+        "month": "October",
+        "year": 2019
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Total internal reflection quasiphase matching-based broadband second harmonic generation in a plane-parallel uniaxial crystal of lithium niobate",
+        "authors": "Minakshi Deb Barma, Sumita Deb, Ardhendu Saha",
+        "journal": "Optical Engineering, SPIE",
+        "volume": "57(1)",
+        "page": "017106",
+        "doi": "10.1117/1.OE.57.1.017106",
+        "month": "2018"
+      },
+      {
+        "title": "A comparative analysis of total internal reflection based quasi phase matched broadband second harmonic generation in various configurations of double tapered isotropic semiconductor slab",
+        "authors": "Minakshi Deb Barma, Sumita Deb, Ardhendu Saha",
+        "journal": "Optoelectronics And Advanced Materials – Rapid Communications, National Institute of Optoelectronics, Romania",
+        "volume": "10",
+        "page": "624-633",
+        "year": 2016
+      },
+      {
+        "title": "Broadband fractional total internal reflection quasi phase matching based second harmonic generation in reverse tapered isotropic semiconductor considering the effect of nonlinear reflection",
+        "authors": "Minakshi Deb Barma, Sumita Deb, Ardhendu Saha",
+        "journal": "Journal of Nonlinear Optical Physics & Materials, National Institute of Optoelectronics, Romania",
+        "volume": "24(4)",
+        "page": "1550041",
+        "year": 2015
+      }
+    ]
+  }
+  

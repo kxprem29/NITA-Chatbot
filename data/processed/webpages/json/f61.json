@@ -1,0 +1,81 @@
+{
+    "name": "Dr. Joydeep Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "03/03/2016",
+    "email": "deeproymech@gmail.com",
+    "research_areas": ["Manufacturing Science", "Materials Science", "Welding"],
+    "courses_taught": {
+      "First_Year": ["Engineering Mechanics", "Workshop Practice Lab"],
+      "UG": ["Mechanical Measurement", "Powder Metallurgy"],
+      "PG": ["Thermodynamics of Materials", "Robotics and Mechatronics Lab"]
+    },
+    "phd_students": {
+      "enrolled_ongoing": 1
+    },
+    "address": {
+      "address_line": "Mhanpur, Majlishpur, PS- Ranirbazar, Jirania subdivision, West Tripura",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "deeproymech@gmail.com",
+      "mobile": "9862234866"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "subject": "Manufacturing Science"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2011,
+        "subject": "Thermal Science and Engineering"
+      },
+      {
+        "degree": "B.E",
+        "year": 2009,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Joydeep Roy, Ram Naresh Rai & Subhash Chandra Saha, Changes in weld metal microstructure and hardness due to addition of boron trioxide in flux during submerged arc welding on modified 9Cr-1Mo (P91) steel",
+        "conference": "10th Int. Conf. on Trends in Welding Research & 9th Int. Welding Symposium of Japan Welding Society (9WS), Tokyo, Japan, October 11-14, 2016",
+        "year": 2016
+      },
+      {
+        "title": "P. Gupta, J. Roy, R. N. Rai, A.K. Prasada Rao, S. C. Saha, Effect of B2O3 containing fluxes on the microstructure and mechanical properties in submerged arc welded mild steel plates",
+        "conference": "IOP Conf. Series: Materials Science and Engineering, 114 (2016) 012102",
+        "year": 2016
+      },
+      {
+        "title": "Roy Joydeep, Arindam Majumder, R. N. Rai, and S. C. Saha, Study the influence of heat input on the shape factors and HAZ width during submerged arc welding",
+        "conference": "Indian Welding Journal Vol 48 No. 1",
+        "year": 2015
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Choudhury S, Acharya U, Roy J, Roy BS. Recent progress in solid-state additive manufacturing technique: Friction stir additive manufacturing",
+        "journal": "Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering",
+        "year": 2022,
+        "doi": "09544089221107755"
+      },
+      {
+        "title": "Chakrabarti R, Roy J, Biswas P, Saha SC. Influence of microstructural changes on residual stress characteristics and macro-hardness of submerged arc welded P-91 steel plates",
+        "journal": "Soldagem & Inspeção",
+        "year": 2021,
+        "doi": "https://doi.org/10.1590/0104-9224/SI26.01"
+      },
+      {
+        "title": "Roy J., Chakraborti, R., Rai R. & Saha S. Studies on microstructure and mechanical properties of modified 9Cr–1Mo (P91) steel in submerged arc welding with TiO2-enriched fluxes",
+        "journal": "J Braz Soc of Mech Sci and Eng.",
+        "year": 2019,
+        "doi": "10.1007/s40430-019-1968-4"
+      }
+    ]
+  }
+  

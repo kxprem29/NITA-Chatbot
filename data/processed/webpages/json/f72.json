@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Swarup Paul",
+    "designation": "Associate Professor",
+    "department": "Production Engineering",
+    "email": "pswarup2008@gmail.com",
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "pswarup2008@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "09436927289"
+    },
+    "publications": {
+      "conference": [],
+      "journal": []
+    },
+    "books": [],
+    "conferences_attended": [],
+    "achievements": []
+  }
+  

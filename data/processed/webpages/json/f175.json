@@ -1,0 +1,55 @@
+{
+    "name": "Dr. Dhirendra Kumar Pandey",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "29/09/2022",
+    "email": "dkp.nita@gmail.com",
+    "research_area": [
+      "Vibration control",
+      "Earthquake Engineering"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Mechanics of solids",
+        "Earthquake-resistant design of structures"
+      ],
+      "PG": [
+        "Advance seismology"
+      ]
+    },
+    "phd_students": {
+      "ongoing": 0
+    },
+    "address": {
+      "street": "Department of Civil engineering, NIT Agartala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dkp.nita@gmail.com",
+      "residence_phone": "",
+      "mobile": "9557811191"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2020,
+        "subject": "Structural Engineering",
+        "institution": "Indian Institute of Technology Kanpur"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2013,
+        "subject": "Structural Engineering",
+        "institution": "Motilal Nehru National Institute of Technology, Allahabad"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2010,
+        "subject": "Civil Engineering",
+        "institution": "Uttar Pradesh Technical University, Lucknow"
+      }
+    ]
+  }
+  

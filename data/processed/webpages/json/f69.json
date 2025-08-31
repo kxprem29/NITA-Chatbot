@@ -1,0 +1,116 @@
+{
+    "name": "Dr. Sayanta Chakraborty",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mathematics",
+    "email": "sayantasmailbox@rediffmail.com",
+    "address": {
+      "address_line": "Ramnagar Road no. 2, 2nd crossing, C/O Krishna Dayal Bhattacharjee, P.O. Ramnagar, Agartala, West Tripura, Pin-799002",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sayantasmailbox@rediffmail.com",
+      "residence_phone": null,
+      "mobile_phone": "9436473746"
+    },
+    "publications": {
+      "conference": [
+        {
+          "title": "Healthcare waste treatment technology selection under Fermatean fuzzy environment",
+          "co_authors": ["R. Basu", "A.K. Saha"],
+          "conference": "IEMSC 2024",
+          "location": "Institute of Engineering and Management, Kolkata",
+          "dates": "February 2–4, 2024"
+        },
+        {
+          "title": "q-ROF SWARA-CoCoSo approach for optimal spent LiB recycling technology selection",
+          "co_authors": ["S. Debbarma", "A.K. Saha"],
+          "conference": "IEMSC 2024",
+          "location": "Institute of Engineering and Management, Kolkata",
+          "dates": "February 2–4, 2024"
+        },
+        {
+          "title": "Selection of third party logistics company under Picture fuzzy environment",
+          "co_authors": ["C. Tripura", "B. Bhattacharya"],
+          "conference": "IEMSC 2024",
+          "location": "Institute of Engineering and Management, Kolkata",
+          "dates": "February 2–4, 2024"
+        }
+      ],
+      "journal": [
+        {
+          "title": "PFAO based Integrated MEREC-WASPAS Technique for VCT Selection",
+          "co_authors": ["C. Tripura", "B. Bhattacharya"],
+          "journal": "JUS, SCOPUS",
+          "year": 2024,
+          "status": "Accepted"
+        },
+        {
+          "title": "Health Care Waste Recycling Concerning Circular Economy- A Fermatean Fuzzy Aggregation Operator Based SWARA-MABAC Approach",
+          "co_authors": ["S. Debbarma", "A.K. Saha"],
+          "journal": "Environment, Development and Sustainability. Springer",
+          "year": 2024,
+          "SCIE_IF": 4.900
+        },
+        {
+          "title": "Information Aggregation Based Group Decision Making under Fermatean Fuzzy Environment for Spent Lithium-ion Battery Recycling Techniques Evaluation",
+          "co_authors": ["S. Debbarma", "Elsevier"],
+          "journal": "International Journal of Hydrogen Energy",
+          "year": 2024,
+          "SCIE_IF": 7.200
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Optimal Plastic Waste Recycling Technology Selection using Picture Fuzzy SWARA – MARCOS Technique",
+        "co_authors": ["C. Tripura", "B. Bhattacharya"],
+        "series": "Studies in Systems, Decision and Control",
+        "publisher": "Springer Nature",
+        "year": 2024,
+        "status": "Accepted",
+        "SCOPUS": true
+      },
+      {
+        "title": "Health Care Waste Disposal Location Selection using q-Rung Orthopair Fuzzy MEREC - CoCoSo Technique – A Case Study",
+        "co_authors": ["S. Debbarma", "A.K. Saha"],
+        "series": "Studies in Systems, Decision and Control",
+        "publisher": "Springer Nature",
+        "year": 2024,
+        "status": "Accepted",
+        "SCOPUS": true
+      },
+      {
+        "title": "Fuzzy Approach to Solve General De-Novo Programming Problem",
+        "co_authors": ["D. Bhattacharya"],
+        "series": "Advances in Mathematical Modelling, Applied Analysis and Computation: Proceedings of ICMMAAC 2021",
+        "publisher": "Springer Verlag, Singapore",
+        "year": 2022
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Optimal Lithium-Ion Battery Recycling Technology Selection under Triangular Fuzzy Environment",
+        "co_authors": ["N. Ghosh", "A.K. Saha"],
+        "conference": "FEMIT-2024",
+        "location": "Lyallpur Khalsa College, Kapurthala",
+        "date": "6th April, 2024"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Best research paper in IEMSC - 2024",
+        "year": 2024
+      },
+      {
+        "title": "Best paper presenter in ICERME - 2019",
+        "year": 2019
+      },
+      {
+        "title": "First Class First (Gold Medalist) in M.Sc. (Mathematics)",
+        "year": 2008
+      }
+    ]
+  }
+  

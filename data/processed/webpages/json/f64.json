@@ -1,0 +1,60 @@
+{
+    "name": "Mrs. Moutoshi Singha Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "29/07/2015",
+    "email": "singharoymoutoshi1989@gmail.com",
+    "research_area": ["Manufacturing", "Composites", "Tribology", "Biodiesel"],
+    "courses_taught": {
+      "UG": [
+        "Theory of Elasticity Plasticity",
+        "Strength of Materials",
+        "Product Design for Manufacturability and Assembly",
+        "Product Design and Development",
+        "Engineering Mechanics",
+        "Engineering Graphics"
+      ],
+      "PG": ["CAD-CAM Lab"]
+    },
+    "address": {
+      "address_line": "East Shibnagar, P.N Deb Lane",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "singharoymoutoshi1989@gmail.com",
+      "residence_phone": "7005655431",
+      "mobile_phone": "7005655431"
+    },
+    "academic": [
+      {
+        "degree": "M.Tech",
+        "year": 2014,
+        "subject": "Production Engineering",
+        "institution": "NIT Agartala",
+        "description": "Completed master degree in Production Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2012,
+        "subject": "Mechanical Engineering",
+        "institution": "Tripura Institute of Technology (TIT)",
+        "description": "Passed Diploma in Mechanical Engineering from Polytechnic Institute under West Bengal State Council of Technical Education in 2009; Graduated from TIT in 2012"
+      }
+    ],
+    "subject_info": [
+      {
+        "class": "B.Tech 1st Yr. – 4th Yr.",
+        "subjects": [
+          "Theory of Elasticity Plasticity",
+          "Strength of Materials",
+          "Product Design for Manufacturability and Assembly",
+          "Product Design and Development",
+          "Engineering Mechanics",
+          "Engineering Graphics"
+        ]
+      }
+    ]
+  }
+  

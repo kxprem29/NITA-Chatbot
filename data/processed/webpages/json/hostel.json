@@ -1,0 +1,118 @@
+{
+    "Office": "Hostel - Office of the Chief Warden",
+    "People": [
+      {
+        "Name": "Mr. R.K. Bhogendro Meitei",
+        "Designation": "Chief Warden",
+        "Email": "chiefwardennita@gmail.com"
+      },
+      {
+        "Name": "Dr. Shailendra Singh",
+        "Designation": "Warden (Aryabhatta Blocks A, B, C, D)",
+        "Email": "shailendra.ee@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Dhirendra Kumar Pandey",
+        "Designation": "Warden (Aryabhatta Blocks E, F, G, H)",
+        "Email": "dkp.nita@gmail.com"
+      },
+      {
+        "Name": "Dr. Nabarun Biswas",
+        "Designation": "Warden (RNT Hostel 1st Year Blocks)",
+        "Email": "mechanical.biswas@gmail.com"
+      },
+      {
+        "Name": "Dr. Yogesh Kumar Sariya",
+        "Designation": "Warden (RNT Hostel UG Blocks)",
+        "Email": "yogesh.sariya1@gmail.com"
+      },
+      {
+        "Name": "Dr. Awnish Kumar",
+        "Designation": "Warden (RNT Hostel PG Blocks)",
+        "Email": "awnish.cse@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Manas Rakshit",
+        "Designation": "Warden (Howrah, Gomati and Dhalai)",
+        "Email": "manasece@nita.ac.in"
+      },
+      {
+        "Name": "Prof.(Dr.) Baby Bhattacharya",
+        "Designation": "Chairman (Gargi Hostel)",
+        "Email": "babybhatt75@gmail.com"
+      },
+      {
+        "Name": "Dr. Sagarika Panigrahi",
+        "Designation": "Warden-1 (Gargi Hostel)",
+        "Email": "panigrahisagarika1@gmail.com"
+      },
+      {
+        "Name": "Dr. Smita Das",
+        "Designation": "Warden-2 (Gargi Hostel)",
+        "Email": "smitadas.nita@gmail.com"
+      },
+      {
+        "Name": "Dr. Nabamita Goswami",
+        "Designation": "Warden-3 (Gargi Hostel)",
+        "Email": "nabamita08@rediffmail.com"
+      }
+    ],
+    "Supervisors": [
+      {
+        "Hostel": "Aryabhatta",
+        "Supervisors": [
+          {
+            "Name": "Mr. Prasanta Ranjan Deb",
+            "Email": "prasanta.deb@gmail.com",
+            "Mobile": "9774318336"
+          },
+          {
+            "Name": "Mr. Sujoy Dey",
+            "Email": "deysujoy.1976@gmail.com",
+            "Mobile": "8787777348"
+          }
+        ]
+      },
+      {
+        "Hostel": "RNT & Howrah",
+        "Supervisors": [
+          {
+            "Name": "Mr. Ajoy Bhowmik",
+            "Email": "ajoybhowmik1@gmail.com",
+            "Mobile": "9436481226"
+          },
+          {
+            "Name": "Mr. Satyajit Das",
+            "Email": "satyajitdas277@gmail.com",
+            "Mobile": "8132085431"
+          }
+        ]
+      },
+      {
+        "Hostel": "Dhalai & Gomati",
+        "Supervisors": [
+          {
+            "Name": "Mr. Rabindra Das",
+            "Email": "rabindra037@gmai.com",
+            "Mobile": "9436557455"
+          }
+        ]
+      },
+      {
+        "Hostel": "Gargi",
+        "Supervisors": [
+          {
+            "Name": "Mrs. Mahoya Biswas",
+            "Email": "mahoya2612@gmail.com",
+            "Mobile": "9774607090"
+          },
+          {
+            "Name": "Mrs. Rumita Saha",
+            "Email": "rumita_2009@yahoo.com",
+            "Mobile": "7308354700"
+          }
+        ]
+      }
+    ]
+  }
+  

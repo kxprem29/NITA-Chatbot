@@ -1,0 +1,101 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Goutam Kumar Gupta",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "ECE",
+          "Full": "Electronics and Communication Engineering"
+        },
+        "Email": "goutamece@nita.ac.in",
+        "Research_Areas": [
+          "Materials and Devices",
+          "Computational and Experimental",
+          "Sensors",
+          "Optoelectronics",
+          "Memory devices",
+          "Neuromorphic computing",
+          "DFT study of bulk and low dimensional structure",
+          "Machine learning"
+        ],
+        "Address": {
+          "Address_Line": "Electronics and Communication Engineering department, NIT Agartala, Barjala, Jirania, Agartala-799046",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9664133900"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Post Doc",
+            "Year": 2021,
+            "Institute": "Pohang University of Science and Technology (POSTECH), South Korea",
+            "Subject": "Memory Devices"
+          },
+          {
+            "Degree": "Ph.D.",
+            "Year": 2019,
+            "Institute": "IIT Jodhpur",
+            "Subject": "Nanotechnology"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2013,
+            "Institute": "IIT (ISM) Dhanbad",
+            "Subject": "Electronics and Communication"
+          },
+          {
+            "Degree": "B.Tech",
+            "Year": 2010,
+            "Institute": "West Bengal University of Technology",
+            "Subject": "Electronics and Communication"
+          }
+        ],
+        "Publications_Journal": [
+          {
+            "Title": "Theoretical DFT studies of Cu2HgSnS4 absorber material and Al: ZnO/ZnO/CdS/Cu2HgSnS4/Back contact heterojunction solar cell",
+            "Authors": "S Kukreti, GK Gupta, A Dixit",
+            "Journal": "Solar Energy 225, 802-813",
+            "Year": 2021
+          },
+          {
+            "Title": "Heterostructure AZO/WSeTe/W(S/Se)2 as an Efficient Single Junction Solar Cell with Ultrathin Janus WSeTe Buffer Layer",
+            "Authors": "R Chaurasiya, GK Gupta, A Dixit",
+            "Journal": "The Journal of Physical Chemistry C 125 (8), 4355-4362",
+            "Year": 2021
+          },
+          {
+            "Title": "Structural evolution of chemically deposited binary stacks of Sb2S3-CuS to phase-pure CuSbS2 thin films and evaluation of device parameters of CuSbS2/CdS heterojunction",
+            "Authors": "M Pal, CJ Diliegros-Godines, GK Gupta, NR Mathews, A Dixit",
+            "Journal": "International Journal of Energy Research 44 (7), 5881-5894",
+            "Year": 2020
+          }
+        ],
+        "Publications_Conference": [
+          {
+            "Title": "Room temperature electrical properties of solution derived p-type Cu2ZnSnS4 thin films",
+            "Authors": "GK Gupta, A Dixit",
+            "Conference": "AIP Conference Proceedings 1728 (1), 020678",
+            "Year": 2016
+          }
+        ],
+        "Subjects_Taught": {
+          "UG": [
+            {
+              "Semester": "3rd Semester",
+              "Subject": "Analog Electronic Circuit"
+            },
+            {
+              "Semester": "5th Semester",
+              "Subject": "Microprocessor and Microcontroller"
+            }
+          ]
+        }
+      }
+    ]
+  }
+
+  

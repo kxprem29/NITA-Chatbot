@@ -1,0 +1,290 @@
+{
+    "name": "Prof. Mrinal Kanti Deb Barma",
+    "designation": "Professor & HOD",
+    "department": "Computer Science and Engineering",
+    "email": "mkdb06@gmail.com",
+    "address": {
+      "address": "Room No. 120, Dr. A.P.J Abdul Kalam Block, Department of Computer Science and Engineering, National Institute of Technology Agartala, Barjala, Jirania, West Tripura, India-799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mkdb06@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "8974253353"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D. (Philosophy of Doctorate)",
+        "university": "Assam University, Silchar",
+        "year": "2016",
+        "subject": "Information Technology"
+      },
+      {
+        "degree": "M. Tech (Master of Technology)",
+        "university": "MNNIT Allahabad",
+        "year": "2011",
+        "subject": "Computer Science & Engineering"
+      },
+      {
+        "degree": "B. Tech (Bachelor of Technology)",
+        "university": "Institute of Engineering & Technology, Lucknow",
+        "year": "1994",
+        "subject": "Computer Science & Engineering"
+      }
+    ],
+    "publication_conferences": [
+      {
+        "title": "Leveraging towards the efficacy of Open Source Quantum Computing Frameworks for Recommended Systems",
+        "authors": "Archita Bhattacharyya, R. Barik, M.K. Deb Barma",
+        "conference": "3rd International Conference on the Networks and Cryptology (NetCrypt 2025), Jawaharlal Nehru University, New Delhi, India",
+        "month": "MAY",
+        "year": "2025"
+      },
+      {
+        "title": "FBCA-IoMT: A Federated Binary Contrastive Auto encoder Framework for Anomaly Detection",
+        "authors": "Archita Bhattacharyya, Hama Debbarma, M.K. Deb Barma",
+        "conference": "10th International Conference on ICT for Sustainable Development (ICT4SD 2025), Goa, India",
+        "month": "JULY",
+        "year": "2025"
+      },
+      {
+        "title": "A Review on Next-Generation Wireless Health Monitoring System: Privacy and Protection",
+        "authors": "Archita Bhattacharyya, Habila Basumatary, M.K. Deb Barma",
+        "conference": "International Conference on Machine Learning and Data Engineering (ICMLDE-2024), UPES, Dehradun, India",
+        "month": "NOV",
+        "year": "2024"
+      },
+      {
+        "title": "Unveiling Energy Depletion Attacks in Wireless Sensor Network and Defensive Mechanisms",
+        "authors": "Purba Pal, M.K. Debbarma, S. Das",
+        "conference": "International Conference on Data Engineering & Machine Intelligence (ICDEMI - 2023), GITAM University, Bengaluru",
+        "month": "NOV",
+        "year": "2023"
+      }
+    ],
+    "publication_journals": [
+      {
+        "title": "Enhancing Network Reliability: Exploring Effective Strategies for Coverage-Hole Analysis and Patching in Wireless Sensor Networks",
+        "authors": "R. Choudhuri, M. K Debbarma",
+        "journal": "Wireless Personal Communications (SCI, Accepted)",
+        "month": "FEB",
+        "year": "2024"
+      },
+      {
+        "title": "ARP spoofing detection using machine learning classifiers: an experimental study",
+        "authors": "Sharmistha Majumder, Mrinal Kanti Deb Barma, Ashim Saha",
+        "journal": "Knowledge and Information Systems",
+        "month": "AUG",
+        "year": "2024",
+        "doi": "https://doi.org/10.1007/s10115-024-02219-y"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Cloud GIS Model for Coastal Geospatial Big Data Analytics",
+        "publisher": "Springer, Studies in Big Data, Volume 114",
+        "year": "2022"
+      },
+      {
+        "title": "Silent Listening to Detect False Data Injection Attack and Recognizing the Attacker in Smart Car Platooning",
+        "publisher": "Studies in Computational Intelligence, Springer",
+        "year": "2022"
+      },
+      {
+        "title": "A Comparative Study on Coverage-Hole Detection Improvement with Inner Empty Circle over Delaunay Triangulation Method in Wireless Sensor Networks",
+        "publisher": "Lecture Notes in Networks and Systems (LNNS), Springer",
+        "year": "2020"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Presented a research paper titled 'Leveraging Towards The Efficacy of Open Source Quantum Computing Frameworks for Recommended Systems'",
+        "conference": "3rd International Conference on Networks and Cryptography (NETCRYPT 2025), JNU, New Delhi",
+        "month": "MAY",
+        "year": "2025"
+      },
+      {
+        "title": "Chaired the Session and delivered expert talk on 'Harnessing the Power of IoT: Trends & Technologies'",
+        "conference": "3rd International Conference on Networks and Cryptography (NETCRYPT 2025), JNU, New Delhi",
+        "month": "MAY",
+        "year": "2025"
+      },
+      {
+        "title": "Presented a research paper titled 'FBCA-IoMT: A Federated Binary Contrastive Autoencoder Framework for Anomaly Detection'",
+        "conference": "10th International Conference on ICT for Sustainable Development (ICT4SD 2025), Goa, India",
+        "month": "JULY",
+        "year": "2025"
+      }
+    ],
+    "achievements": [
+        {
+          "year": "2025",
+          "description": "Member of National Working Group (NWG)-11 corresponding to ITU-T Study Group-11 on 'Signalling requirements, protocols, test specifications and combating counterfeit products' for the period 2025-2028-reg, Dept. of Telecommunications, Telecommunication Engg. Centre, New Delhi."
+        },
+        {
+          "year": "2025",
+          "description": "External Examiner for evaluating Ph.D. thesis titled, 'Handling class imbalance problem using Ensemble learning, Hybrid and Neural Network approaches’ submitted by Ms. Pranita Baro, Department of Computer Science and Engineering, NIT Silchar."
+        },
+        {
+          "year": "2025",
+          "description": "External Examiner for evaluating Ph.D. thesis titled, 'Design and Evaluation of Intrusion Detection System for K Cyber Attacks Prevention’ submitted by Mr. Sudhir Kumar Pandey, Department of Computer Science and Engineering, NIT Patna."
+        },
+        {
+          "year": "2025",
+          "description": "External Examiner for evaluating Ph.D. thesis titled, 'Deep Learning based Algorithms for Robust fall Detection across Diverse Age Population', Department of Computational Intelligence, SRM IST, Chennai."
+        },
+        {
+          "year": "2025",
+          "description": "Acted as External Member of the Screening-cum-Evaluation Committee for Assistant Professor recruitment, Department of Information Technology, Tripura University (6-7 Feb 2025)."
+        },
+        {
+          "year": "2025",
+          "description": "Delivered invited Lecture as Expert Speaker on 'Advancements and applications of Artificial Intelligence (AI) and Machine Learning (ML) in scientific research and technology development' in National Science Day, Tripura State Council for Science & Technology, Agartala (28 Feb 2025)."
+        },
+        {
+          "year": "2025",
+          "description": "Chaired session and delivered expert talk on 'Harnessing the Power of IoT: Trends & Technologies' at the 3rd International Conference on Networks and Cryptography (NETCRYPT 2025), JNU, New Delhi (May 29-31, 2025)."
+        },
+        {
+          "year": "2025",
+          "description": "Session Chair at the Third International Conference on Data Science and Network Engineering (ICDSNE 2025), NIT Agartala (July 25-26, 2025)."
+        },
+        {
+          "year": "2024",
+          "description": "Delivered invited Lecture on 'Cyber Security Standards & Guidelines' in 2-day workshop organized by C-DAC, Pune and STQC New Delhi, Agartala (20 Dec 2024)."
+        },
+        {
+          "year": "2023",
+          "description": "Session Chair for paper presentations at ICDSNE 2023, Department of CSE, NIT Agartala, India (July 21-22, 2023)."
+        },
+        {
+          "year": "2022",
+          "description": "Fellow Member of The Institution of Engineers (India), FIE, Member No: F-1286613."
+        },
+        {
+          "year": "2020",
+          "description": "Session Chair at ICCCIOT 2020, Department of Information Technology, Tripura University (Feb 3-4, 2020)."
+        },
+        {
+          "year": "2019",
+          "description": "Delivered invited Lecture in 'National Seminar on Value Analysis' at Dept. of Mechanical Engg., NIT Agartala (May 28, 2019)."
+        },
+        {
+          "year": "2018",
+          "description": "Delivered invited Lecture in 'International Conference on Computational Intelligence and IoT (ICCIIoT 2018)', NIT Agartala (Dec 14-15, 2018)."
+        },
+        {
+          "year": "2016",
+          "description": "Session Chair at National Conference on 'Assistive Technology for Persons with Disabilities', NIT Agartala (Feb 20-21, 2016)."
+        },
+        {
+          "year": "2015",
+          "description": "Reviewer for research papers submitted in IEEE EDCAV 2015, NIT Shillong (Jan 29-30, 2015)."
+        },
+        {
+          "year": "2014",
+          "description": "Delivered invited lecture in TEQIP-II FDP on 'Advanced Software Engineering', Tripura Institute of Technology (Sept 26-30, 2014)."
+        },
+        {
+          "year": "2010",
+          "description": "Delivered invited Lecture on 'Computer Networking' at Narayana Engineering College, Kanpur (Sept 26, 2010)."
+        },
+        {
+          "year": "2009",
+          "description": "QIP fellowship, Ministry of HRD, Govt. of India (2009-2011)."
+        }
+      ],
+      "patents": [],
+      "trainings_attended": [
+        {
+          "year": "2025",
+          "month": "April",
+          "description": "Attended Innovation Conclave 'YUGM' co-hosted by Ministry of Education & Wadhwani Foundation, Bharat Mandapam, New Delhi (29 April 2025)."
+        },
+        {
+          "year": "2019",
+          "month": "January",
+          "description": "Workshop on Good Governance, GUIST, Guwahati."
+        },
+        {
+          "year": "2017",
+          "month": "June",
+          "description": "Presented paper 'Energy Efficient Weight Based Clustering in MANET' at ACM ICMBN 2017, NTU Singapore."
+        },
+        {
+          "year": "2016",
+          "month": "January",
+          "description": "TEQIP-II Management Capacity Enhancement Programme, IIM Tiruchirappalli."
+        },
+        {
+          "year": "2015",
+          "month": "August",
+          "description": "National Workshop on 'Intel HPC Code Modernization (Parallelization)', NIT Agartala."
+        },
+        {
+          "year": "2014",
+          "month": "November",
+          "description": "Workshop on 'Matlab and Its Application in Digital Image Processing', NIT Agartala."
+        },
+        {
+          "year": "2013",
+          "month": "June",
+          "description": "Presented research paper at ICCNIT 2013, Bangkok, Thailand."
+        },
+        {
+          "year": "2012",
+          "month": "December",
+          "description": "Two-Week ISTE Workshop on Solar Photovoltaics, IIT Bombay & NIT Agartala."
+        },
+        {
+          "year": "2010",
+          "month": "September",
+          "description": "Workshop on 'Security in WIMAX Networks', MNNIT Allahabad."
+        },
+        {
+          "year": "2008",
+          "month": "September",
+          "description": "Training on Computer Networking, NITTTR Kolkata."
+        },
+        {
+          "year": "2004",
+          "month": "August",
+          "description": "Induction Training, NITTTR Kolkata."
+        },
+        {
+          "year": "2003",
+          "month": "September",
+          "description": "Autumn School on IT: Emerging Research Issues, NERIST & ISI Kolkata."
+        }
+      ],
+      "trainings_conducted": [
+        {
+          "year": "2021",
+          "month": "February",
+          "description": "Five Day FDP on 'Data Science' under AICTE ATAL Program at NIT Agartala."
+        },
+        {
+          "year": "2021",
+          "month": "August",
+          "description": "Five Day FDP on 'Blockchain Technology and Cryptocurrency' under AICTE ATAL Program at NIT Agartala."
+        },
+        {
+          "year": "2018",
+          "month": "December",
+          "description": "Convener of 'International Conference on Computational Intelligence and IoT (ICCIIoT 2018)', NIT Agartala."
+        },
+        {
+          "year": "2015",
+          "month": "May",
+          "description": "Workshop on 'IPV6 and Emerging Technologies' in collaboration with DoT, Govt. of India, at NIT Agartala."
+        },
+        {
+          "year": "2014",
+          "month": "July",
+          "description": "Two-week ISTE Workshop on 'Computer Networking', IIT Bombay & NIT Agartala."
+        }
+      ]
+  }
+  

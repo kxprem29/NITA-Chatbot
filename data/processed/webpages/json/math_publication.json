@@ -1,0 +1,171 @@
+{
+    "department": "Mathematics",
+    "publications": [
+      {
+        "name": "Dr. (Prof) Debasish Bhattacharya",
+        "international_journal": 40,
+        "national_journal": 8,
+        "conference": {
+          "international": 8,
+          "national": 7
+        },
+        "books": 0,
+        "book_chapters": 1
+      },
+      {
+        "name": "Dr. Baby Bhattacharya",
+        "international_journal": 89,
+        "national_journal": 0,
+        "conference": {
+          "international": 22,
+          "national": 1
+        },
+        "books": 0,
+        "book_chapters": 4
+      },
+      {
+        "name": "Dr. Uttam Kumar Bera",
+        "international_journal": 81,
+        "national_journal": 0,
+        "conference": {
+          "international": 18,
+          "national": 2
+        },
+        "books": 0,
+        "book_chapters": 3
+      },
+      {
+        "name": "Dr. Apu Kumar Saha",
+        "international_journal": 134,
+        "national_journal": 0,
+        "conference": {
+          "international": 60,
+          "national": 13
+        },
+        "books": 2,
+        "book_chapters": 18
+      },
+      {
+        "name": "Dr. Paritosh Bhattacharya",
+        "international_journal": 75,
+        "national_journal": 0,
+        "conference": {
+          "international": 55,
+          "national": 12
+        },
+        "books": 0,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Supriyo Dutta",
+        "international_journal": 18,
+        "national_journal": 0,
+        "conference": {
+          "international": 1,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 1
+      },
+      {
+        "name": "Dr. Abhijit Baidya",
+        "international_journal": 20,
+        "national_journal": 0,
+        "conference": {
+          "international": 2,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Mantu Das",
+        "international_journal": 6,
+        "national_journal": 2,
+        "conference": {
+          "international": 1,
+          "national": 2
+        },
+        "books": 0,
+        "book_chapters": 2
+      },
+      {
+        "name": "Dr. Jayanta Debnath",
+        "international_journal": 10,
+        "national_journal": 2,
+        "conference": {
+          "international": 0,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Pinki Majumder",
+        "international_journal": 21,
+        "national_journal": 1,
+        "conference": {
+          "international": 3,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Sayanta Chakraborty",
+        "international_journal": 12,
+        "national_journal": 0,
+        "conference": {
+          "international": 22,
+          "national": 5
+        },
+        "books": 0,
+        "book_chapters": 3
+      },
+      {
+        "name": "Dr. Jayasree Chakraborty",
+        "international_journal": 18,
+        "national_journal": 0,
+        "conference": {
+          "international": 6,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 1
+      },
+      {
+        "name": "Dr. Susmita Roy",
+        "international_journal": 14,
+        "national_journal": 3,
+        "conference": {
+          "international": 1,
+          "national": 1
+        },
+        "books": 1,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Kalyani Debnath",
+        "international_journal": 10,
+        "national_journal": 0,
+        "conference": {
+          "international": 0,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 0
+      },
+      {
+        "name": "Dr. Sudipa Choudhury",
+        "international_journal": 14,
+        "national_journal": 0,
+        "conference": {
+          "international": 0,
+          "national": 0
+        },
+        "books": 0,
+        "book_chapters": 2
+      }
+    ]
+  }
+  

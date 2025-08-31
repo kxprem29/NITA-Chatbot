@@ -1,0 +1,174 @@
+{
+    "name": "Dr. Shikha Maurya",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "",
+    "email": "drshikha.ece@nita.ac.in",
+    "research_area": ["Green Communication", "Cognitive Radio", "Optimization"],
+    "address": {
+      "address": "Department of Electronics and Communication Engineering, NIT Agartala, Barjala, Jirania, Agartala, Tripura 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email_address": "drshikha.ece@nita.ac.in",
+      "phone_residence": "-",
+      "phone_mobile": "7007370723"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "institute": "PDPM-IIITDM Jabalpur",
+        "year": "2019",
+        "subject": "Wireless Communication"
+      },
+      {
+        "degree": "M.Tech",
+        "institute": "ABV-IIITM Gwalior",
+        "year": "2014",
+        "subject": "Digital Communication"
+      },
+      {
+        "degree": "B.Tech",
+        "institute": "Dr. APJ Abdul Kalam Technical University (formerly UPTU)",
+        "year": "2012",
+        "subject": "Electronics and Communication Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "An Optimal Relay Selection and Precoder Designing in MIMO Multi-Relay Cognitive Networks",
+          "authors": "Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V.",
+          "conference": "IEEE Conference on Information and Communication Technology (CICT)",
+          "year": "2022",
+          "month": "NOV"
+        },
+        {
+          "title": "A Low Complexity Deep learning based precoder Designing for Enhanced Throughput in Underlay Network",
+          "authors": "Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V.",
+          "conference": "IEEE Conference on Information and Communication Technology (CICT)",
+          "year": "2022",
+          "month": "NOV"
+        },
+        {
+          "title": "Joint Relay Selection and Precoder Designing for Energy-Efficient MIMO-CRNs",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "conference": "5th Conference on Information and Communication Technology (CICT)",
+          "year": "2021",
+          "month": "DEC"
+        },
+        {
+          "title": "On Robust Precoder Design for Energy-Efficient MIMO-Cognitive Relay Networks",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "conference": "IEEE Conference on Information and Communication Technology (CICT)",
+          "year": "2019",
+          "month": "DEC"
+        },
+        {
+          "title": "Designing of a Relay Precoding Matrix using Singular Value Decomposition",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "conference": "Conference on Information and Communication Technology (CICT)",
+          "year": "2017",
+          "month": "NOV"
+        },
+        {
+          "title": "Energy-efficient relay precoder design for MIMO-cognitive relay network",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "conference": "11th International Conference on Industrial and Information Systems (ICIIS)",
+          "year": "2016",
+          "month": "DEC"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Deep Learning Based Energy-Efficient Relay Precoder Design in MIMO-CRNs",
+          "authors": "Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V.",
+          "journal": "Elsevier Physical Communication",
+          "volume": "50",
+          "year": "2022",
+          "month": "FEB"
+        },
+        {
+          "title": "Data-driven approach to design energy-efficient joint precoders at source and relay using deep learning in MIMO-CRNs",
+          "authors": "Deepak Sahu, Shikha Maurya, Matadeen Bansal, Dinesh Kumar V.",
+          "journal": "Wiley Transaction on Emerging Telecommunication Technologies",
+          "year": "2022",
+          "month": "FEB"
+        },
+        {
+          "title": "Design of energy-efficient precoders in MIMO cognitive two-way relay network",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "journal": "Springer Wireless Network",
+          "volume": "26",
+          "issue": "1",
+          "pages": "293-305",
+          "year": "2020",
+          "month": "AUG"
+        },
+        {
+          "title": "Joint Source and Relay Precoder Design for Energy-Efficient MIMO-Cognitive Relay Networks",
+          "authors": "Shikha Maurya, Matadeen Bansal, and Aditya Trivedi",
+          "journal": "IET Communication",
+          "volume": "13",
+          "issue": "15",
+          "pages": "2226-2234",
+          "year": "2019",
+          "month": "SEPT"
+        },
+        {
+          "title": "Joint Source and Relay Precoder Design for MIMO-CRN",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "journal": "Elsevier Physical Communication",
+          "volume": "30",
+          "pages": "122-131",
+          "year": "2018",
+          "month": "OCT"
+        },
+        {
+          "title": "Energy Efficient Precoder Design for Non-Regenerative MIMO-CRN",
+          "authors": "Shikha Maurya and Matadeen Bansal",
+          "journal": "IEEE Wireless Communication Letters",
+          "volume": "6",
+          "issue": "5",
+          "pages": "646-649",
+          "year": "2017",
+          "month": "JULY"
+        }
+      ]
+    },
+    "books_published": [],
+    "achievements": [
+      {
+        "title": "Best Paper Award",
+        "details": "On Robust Precoder Design for Energy-Efficient MIMO Cognitive Relay Networks, IEEE CICT 2019",
+        "year": "2019"
+      },
+      {
+        "title": "Best Poster (WiE)",
+        "details": "Awarded at PDPM-IIITDM Jabalpur IEEE student branch",
+        "year": "2017"
+      },
+      {
+        "title": "UGC-NET Qualification",
+        "details": "Qualified UGC-NET for Assistant Professor in Electronic Science",
+        "year": "2014"
+      }
+    ],
+    "courses_taught": [
+      {
+        "class": "5th Semester, B.Tech",
+        "subject": "Analog and Digital Communication"
+      },
+      {
+        "class": "3rd Semester, B.Tech",
+        "subject": "Network Analysis and Synthesis"
+      },
+      {
+        "class": "1st Semester, B.Tech",
+        "subject": "Basic Electronics"
+      }
+    ]
+  }
+  

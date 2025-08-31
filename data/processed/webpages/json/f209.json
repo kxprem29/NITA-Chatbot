@@ -1,0 +1,100 @@
+{
+    "faculty": [
+      {
+        "name": "Dr. Vivek Kumar Anand",
+        "designation": "Associate Professor",
+        "department": "Physics",
+        "email": "vkanand.nita@gmail.com",
+        "profile_url": "https://vidwan.inflibnet.ac.in/profile/247865",
+        "research_area": "Low Temperature Physics: Magnetism, Superconductivity & Strongly Correlated Materials",
+        "courses_taught": {
+          "UG": [
+            "Quantum Mechanics I",
+            "Quantum Mechanics II",
+            "Statistical Mechanics",
+            "Engineering Physics I",
+            "Engineering Physics II"
+          ],
+          "PG": [
+            "Quantum Mechanics I",
+            "Statistical Mechanics",
+            "Condensed Matter Physics"
+          ]
+        },
+        "phd_students_enrolled": 1,
+        "address": {
+          "building": "Science Block",
+          "room": "NB-113",
+          "institution": "NIT Agartala",
+          "city": "Agartala",
+          "state": "Tripura",
+          "country": "India"
+        },
+        "contact": {
+          "email": "vkanand.nita@gmail.com",
+          "phone_residence": null,
+          "phone_mobile": "8229898724"
+        },
+        "academic_info": [
+          {
+            "degree": "Ph.D.",
+            "department": "Department of Physics, Indian Institute of Technology, Kanpur",
+            "year": 2008,
+            "subject": "Physics"
+          },
+          {
+            "degree": "M.Sc.",
+            "department": "Indian Institute of Technology, Kanpur",
+            "year": 2004,
+            "subject": "Physics"
+          }
+        ],
+        "publications_journal": [
+          {
+            "title": "Effect of Annealing on the Electrical Resistivity of Kondo lattice CeRh2Ga2",
+            "authors": "V. K. Anand, D. T. Adroja, Aarti, A. Bhattacharyya, and B. Lake",
+            "journal": "Physica Scripta 99, 055977",
+            "year": 2024,
+            "doi": "https://iopscience.iop.org/article/10.1088/1402-4896/ad3e40"
+          },
+          {
+            "title": "Magnetic structure and crystal field states of antiferromagnetic CeNiGe3: Neutron scattering and SR investigations",
+            "authors": "A. Kataria, R. Kumar, D. T. Adroja, C. Ritter, V. K. Anand, A. D. Hillier, B. M. Huddart, T. Lancaster, S. Rols, M. M. Koza, Sean Langridge, and A. Sundaresan",
+            "journal": "Phys. Rev B 110, 184412",
+            "month": "NOV",
+            "year": 2024,
+            "doi": "10.1103/PhysRevB.110.184412"
+          },
+          {
+            "title": "Time reversal symmetry breaking in s-wave superconductor CaPd2As2: probed by SR",
+            "authors": "Aarti, K. Panda, D. T. Adroja, A. Bhattacharyya, P. K. Biswas, A. D. Hillier, B. Lake, S. Layek, and V. K. Anand",
+            "journal": "Phys. Rev B 110, 144506",
+            "month": "OCT",
+            "year": 2024,
+            "note": "Editors Suggestion",
+            "doi": "https://doi.org/10.1103/PhysRevB.110.144506"
+          }
+        ],
+        "books_published": [
+          {
+            "title": "Applications of Nuclear Materials: An Industrial Prospective",
+            "editors": "D. P. Singh and V. K. Anand",
+            "publisher": "Cambridge Scholars Publishing, UK",
+            "year": 2024,
+            "isbn": ["1036413241", "9781036413248"]
+          }
+        ],
+        "subject_info": [
+          {"class": "B Tech", "subject": "Engineering Physics I"},
+          {"class": "B Tech", "subject": "Engineering Physics II"},
+          {"class": "MSc", "subject": "Condensed Matter Physics"},
+          {"class": "MSc", "subject": "Quantum Mechanics I"},
+          {"class": "MSc", "subject": "Statistical Mechanics"},
+          {"class": "BS-MS & BT-MT", "subject": "Statistical Mechanics"},
+          {"class": "BS-MS & BT-MT", "subject": "Quantum Mechanics I"},
+          {"class": "BS-MS & BT-MT", "subject": "Quantum Mechanics II"}
+        ]
+      }
+    ]
+  }
+  

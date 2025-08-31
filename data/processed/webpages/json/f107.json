@@ -1,0 +1,40 @@
+{
+    "department": "Management, Humanities & Social Sciences",
+    "faculty_staff_profile": {
+      "name": "Prof. Debasis Neogi",
+      "designation": "Professor",
+      "email_id": "dneogi.nita@gmail.com",
+      "url": "https://www.nita.ac.in/Department/Department_FacultyProfile.aspx?nID=cages&nDeptID=caask",
+      "research_area": [
+        "Global Business & International Markets",
+        "Development Issues",
+        "Macro Economics",
+        "Emerging Market Economies"
+      ],
+      "cv": "View",
+      "courses_taught": {
+        "ug_courses": [],
+        "pg_courses": [
+          "Macro Economics and Policy",
+          "Quantitaive Techniques",
+          "Research Methodology"
+        ]
+      },
+      "phd_students": {
+        "enrolled_completed": 5,
+        "enrolled_ongoing": 5
+      },
+      "address_information": {
+        "address": "ROOM NO. 206, GOLDEN JUBILEE KNOWLEDGE CENTER, 2ND FLOOR, NIT AGARTALA,  TRIPURA WEST – 799046, INDIA",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email_address": "dneogi.nita@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "-"
+      }
+    }
+  }
+  

@@ -1,0 +1,57 @@
+{
+    "department": "Chemistry",
+    "facilities": [
+      {
+        "instrument_name": "Differential Scanning Calorimetry (DSC) Facility",
+        "charges": {
+          "industrial_user_incl_gst": "Rs. 1200.00",
+          "national_rnd_lab_user_incl_gst": "Rs. 900.00",
+          "university_academic_user_incl_gst": "Rs. 600.00",
+          "internal_user": "Rs. 400.00"
+        },
+        "sample_requisition_form": "Download"
+      },
+      {
+        "instrument_name": "Infrared Spectrophotometer (FTIR)",
+        "charges": {
+          "industrial_user_incl_gst": "Rs. 850.00",
+          "national_rnd_lab_user_incl_gst": "Rs. 600.00",
+          "university_academic_user_incl_gst": "Rs. 400.00",
+          "internal_user": "Rs. 200.00"
+        },
+        "sample_requisition_form": "Download"
+      },
+      {
+        "instrument_name": "Partical Size Analyzer (DLS) Facility",
+        "charges": {
+          "industrial_user_incl_gst": "Rs. 1000.00",
+          "national_rnd_lab_user_incl_gst": "Rs. 800.00",
+          "university_academic_user_incl_gst": "Rs. 300.00",
+          "internal_user": "Rs. 150.00"
+        },
+        "sample_requisition_form": "Download"
+      },
+      {
+        "instrument_name": "Fluorescence Spectrophotometer Facility",
+        "charges": {
+          "industrial_user_incl_gst": "Rs. 800.00",
+          "national_rnd_lab_user_incl_gst": "Rs. 500.00",
+          "university_academic_user_incl_gst": "Rs. 250.00",
+          "internal_user": "Rs. 100.00"
+        },
+        "sample_requisition_form": "Download"
+      },
+      {
+        "instrument_name": "UV-Visible Spectrophotometer Facility",
+        "charges": {
+          "industrial_user_incl_gst": "Rs. 1200.00",
+          "national_rnd_lab_user_incl_gst": "Rs. 600.00",
+          "university_academic_user_incl_gst": "Rs. 200.00",
+          "internal_user": "Rs. 100.00"
+        },
+        "sample_requisition_form": "Download"
+      }
+    ],
+    "bank_account_details": "Click here to see the other Facilities"
+  }
+  

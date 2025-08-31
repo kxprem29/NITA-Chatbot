@@ -1,0 +1,72 @@
+{
+    "Office": "NITA Health Centre",
+    "People": [
+      {
+        "Name": "Dr. Supriti Tripura",
+        "Designation": "Medical Officer (I/C)",
+        "Email": "drsuprititripura@gmail.com",
+        "Office": "0381-2548526"
+      },
+      {
+        "Name": "Dr. Suryashish Chakraborty",
+        "Designation": "Medical Officer",
+        "Email": "suryashishchakraborty93@gmail.com",
+        "Office": "0381-2548526"
+      },
+      {
+        "Name": "Dr. Manish Debnath",
+        "Designation": "Medical Officer (Contractual)",
+        "Email": "mnshindian@gmail.com",
+        "Office": "0381-2548526"
+      },
+      {
+        "Name": "Mr. Rajesh Karmakar",
+        "Designation": "Pharmacist (Contractual)",
+        "Email": "rajeshkarmakar82@yahoo.com",
+        "Mobile": "9856876939"
+      },
+      {
+        "Name": "Mrs. Supriya Das",
+        "Designation": "Pharmacist (Contractual)",
+        "Email": "supriyadas.nit@gmail.com",
+        "Mobile": "9436524009"
+      },
+      {
+        "Name": "Mrs. Chayanika Das",
+        "Designation": "Medical Laboratory Technician (Contractual)",
+        "Email": "chayanika.nita@gmail.com",
+        "Mobile": "9774272651"
+      },
+      {
+        "Name": "Mrs. Mousami Das",
+        "Designation": "Staff Nurse (Contractual)",
+        "Email": "moujit1509@gmail.com",
+        "Mobile": "8258089458"
+      },
+      {
+        "Name": "Mr. Subrata Das",
+        "Designation": "Staff Nurse (Contractual)",
+        "Email": "subratadasnit7005@gmail.com",
+        "Mobile": "7005423803"
+      },
+      {
+        "Name": "Mr. Dipen Majumder",
+        "Designation": "Technician (Contractual)",
+        "Email": "simashil7@gmail.com",
+        "Mobile": "9863047698"
+      },
+      {
+        "Name": "Mr. Rajat Saha",
+        "Designation": "GDA Cum Dresser (Contractual)",
+        "Email": "rajatsaha944@gmail.com",
+        "Mobile": "8794558772"
+      },
+      {
+        "Name": "Mr. Litan Bhaumik",
+        "Designation": "Counselor (Contractual)",
+        "Email": "litan.bhaumik09@gmail.com",
+        "Mobile": "8974151099"
+      }
+    ]
+  }
+  

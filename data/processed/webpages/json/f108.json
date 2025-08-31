@@ -1,0 +1,179 @@
+{
+    "department": "Mechanical Engineering",
+    "faculty_staff_profile": {
+      "name": "Dr. Subrata Kumar Ghosh",
+      "designation": "Associate Professor",
+      "email_id": "drsubrata.me@nita.ac.in",
+      "cv": "View",
+      "address_information": {
+        "address": "Mechanical Engineering Department, NIT Agartala, Jirania, West Tripura, Pin- 799046",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email_address": "drsubrata.me@nita.ac.in",
+        "phone_residence": "-",
+        "phone_mobile": "8413039512"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "B. TECH.",
+          "description": "BACHELOR OF TECHNOLOGY",
+          "year": "0",
+          "subject": "Mechanical Engineering",
+          "institute": "Kalyani Govt. Engineering College, West Bengal"
+        },
+        {
+          "degree_diploma": "M.TECH",
+          "description": "MASTER OF TECHNOLOGY",
+          "year": "0",
+          "subject": "Production Engineering",
+          "institute": "Kalyani Govt. Engineering College, West Bengal"
+        },
+        {
+          "degree_diploma": "Ph. D.",
+          "description": "Philosophy of Doctorate",
+          "year": "0",
+          "subject": "Mechanical Engineering",
+          "institute": "IIT Kharagpur"
+        }
+      ],
+      "publications": {
+        "conference": [
+          {
+            "title": "Analyzing the adhesion strength of Mo-WC-Cu-Si composite coated layer by using the scratch test",
+            "authors": "S.V.V.N. Siva Rao, Tharra Bhavani, Subrata Kumar Ghosh, John Deb Barma, Raj Kumar Bhogendro Meitei",
+            "conference": "3rd International Conference on Advances in Mechanical Engineering and Nanotechnology",
+            "venue": "Manipal University Jaipur",
+            "date": "18th-19th March, 2021",
+            "year": 2021
+          },
+          {
+            "title": "Explosive Welding- The need of Industry 4.0 for Atmanirbhar Bharat",
+            "authors": "Prabhat Kumar, Subrata Kumar Ghosh, John Deb Barma, S. Saravanan",
+            "conference": "35th Indian Engineering Congress",
+            "venue": "The Institution of Engineers (India)",
+            "date": "18th-20th December, 2020",
+            "year": 2020
+          },
+          {
+            "title": "Effect of MoS2 and CeO2 powder addition by friction stir processing on wear and corrosion properties of Al7075 alloy",
+            "authors": "Pabitra Maji, Ranit Karmakar, Rahul Kanti Nath, RK Bhogendro Meitei, Subrata Kumar Ghosh",
+            "conference": "National Conference on Research and Developments in Material Processing, Modelling and Characterization 2020 (RDMPMC 2020)",
+            "venue": "NIT Jamshedpur",
+            "date": "26th-27th August, 2020",
+            "year": 2020
+          },
+          {
+            "title": "Effect of Composition and Process Parameter on Mechanical Properties of Composite Coating by Laser Cladding: An Overview",
+            "authors": "Ranit Karmakar, Subrata Kumar Ghosh",
+            "conference": "2nd International Conference on Innovations in Mechanical Engineering (ICIME-2019)",
+            "venue": "Guru Nanak Institutions, Hyderabad",
+            "date": "4th-5th January, 2019",
+            "year": 2019
+          },
+          {
+            "title": "Electric Discharge Coating on Aluminium-6351 Alloy with Green Compact Silicon Carbide and Copper Tool using EDM Oil as Dielectric",
+            "authors": "Sujoy Chakraborty, Vidyut Dey, Subrata Kumar Ghosh, Promod Paul",
+            "conference": "International Conference on Innovative Research in Engineering and Science (IRES-2017)",
+            "venue": "Asian Institute of Technology Conference Center, Thailand",
+            "date": "16th-17th June, 2017",
+            "year": 2017
+          },
+          {
+            "title": "Modelling of Surface Roughness and Tool Consumption of WEDM and Optimization of Process Parameters Based on Fuzzy-PSO",
+            "authors": "Bikash Chowdhuri, Ruma Sen, Subrata Kumar Ghosh, S C Saha",
+            "conference": "International Conference on Emerging Trends in Materials and Manufacturing Engineering (IMME17)",
+            "venue": "NIT Tiruchirappalli",
+            "date": "10th-12th March, 2017",
+            "year": 2017
+          },
+          {
+            "title": "Study of surface integrity and recast surface machined by Wire electrical discharge machining",
+            "authors": "Bikash Chowdhuri, Ruma Sen, Subrata Kumar Ghosh, S C Saha",
+            "conference": "International Conference on Emerging Trends in Materials and Manufacturing Engineering (IMME17)",
+            "venue": "NIT Tiruchirappalli",
+            "date": "10th-12th March, 2017",
+            "year": 2017
+          },
+          {
+            "title": "A Study on Material Removal Rate and Spark Energy of Die-steel Using Die-sink EDM",
+            "authors": "Satadip Ghosh, Subrata Kumar Ghosh, Meghanshu Vashista",
+            "conference": "2nd International conference on Advances in Mechanical Engineering and its interdisciplinary areas",
+            "venue": "College of Engineering and Management Kolaghat, West Bengal",
+            "date": "3rd-4th January, 2015",
+            "year": 2015
+          },
+          {
+            "title": "Porosity Reduction in Laser Sintered Specimen Made of Tungsten Carbide and Cobalt Powder",
+            "authors": "Subrata Kumar Ghosh, Alok kumar Das, Sojiram Meena, Partha Saha",
+            "conference": "5th International and 26th AIMTDR conference",
+            "venue": "IIT Guwahati",
+            "date": "12th-14th December, 2014",
+            "year": 2014
+          },
+          {
+            "title": "Direct laser sintering of W and Cu powder using pulsed Nd: YAG laser",
+            "authors": "Subrata Kumar Ghosh, S. Singh, A. Agarwal, P. Saha",
+            "conference": "3rd International and 24th AIMTDR conference",
+            "venue": "Andhra University",
+            "date": "13th-15th December, 2010",
+            "year": 2010
+          },
+          {
+            "title": "Selective laser sintering of tungsten carbide and cobalt powder mixture using pulsed Nd:YAG lasers",
+            "authors": "Subrata Kumar Ghosh, Alok kumar Das, Sojiram Meena, Partha Saha",
+            "conference": "2nd International and 23rd AIMTDR conference",
+            "venue": "IIT Madras",
+            "date": "15th-17th December, 2008",
+            "year": 2008
+          },
+          {
+            "title": "Investigation of micro welding of stainless steel with copper using a pulsed Nd: YAG laser",
+            "authors": "P. Raut, S. K. Ghosh, A. K. Das, P. Saha",
+            "conference": "5th International Conference on Precision, Meso, Micro and Nano Engineering",
+            "venue": "College of Engineering, Trivendrum",
+            "date": "13th-14th December, 2007",
+            "year": 2007
+          }
+        ],
+        "journal": [
+          {
+            "title": "Characterization of novel molybdenum disulfide and cerium dioxide reinforced hybrid aluminum matrix composites fabricated by friction stir processing",
+            "authors": "P. Maji, S.K. Ghosh, R.K. Nath, P. Paul, R.K.B. Meitei",
+            "journal": "Materials Science & Engineering Technology (Accepted)",
+            "month": "JUN",
+            "year": 2022
+          },
+          {
+            "title": "Effect of explosive loading ratio on microstructure and mechanical properties of Al 5052/AZ31B explosive weld composite",
+            "authors": "Prabhat Kumar, Subrata Kumar Ghosh, John Deb Barma, S. Saravanan",
+            "journal": "JOM",
+            "year": 2022
+          },
+          {
+            "title": "Wear and Corrosion Behavior of Al7075 Matrix Hybrid Composites Produced by Friction Stir Processing: Optimization of Process Parameters",
+            "authors": "Pabitra Maji, Rahul Kanti Nath, Ranit Karmakar, Dileep Madapana, R.K. Bhogendro Meitei, Subrata Kumar Ghosh",
+            "journal": "JOM",
+            "month": "OCT",
+            "year": 2021
+          },
+          {
+            "title": "Analyzing the adhesion strength of Mo-WC-Cu-Si composite coated layer by using the scratch test",
+            "authors": "S.V.V.N. Siva Rao, Tharra Bhavani, Subrata Kumar Ghosh, John Deb Barma, Raj Kumar Bhogendro Meitei",
+            "journal": "Materials Today: Proceedings 47",
+            "month": "JULY",
+            "year": 2021
+          }
+        ]
+      },
+      "achievements": [
+        {
+          "description": "GATE - 2005, All India Rank - 820, Percentile - 96.32",
+          "year": 2005
+        }
+      ]
+    }
+  }
+  

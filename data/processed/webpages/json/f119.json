@@ -1,0 +1,20 @@
+{
+    "department": "Bio Engineering",
+    "faculty_profile": {
+      "name": "Dr. Abhijit Chatterjee",
+      "designation": "Assistant Professor (Contractual)",
+      "email_id": "abhijitchatterjee1729@gmail.com",
+      "address_information": {
+        "address": "-",
+        "city": "-",
+        "state": "-",
+        "country": "-"
+      },
+      "contact_information": {
+        "email_address": "abhijitchatterjee1729@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "09774461727"
+      }
+    }
+  }
+  

@@ -1,0 +1,45 @@
+{
+    "department": "Management, Humanities & Social Sciences",
+    "programme": {
+      "name": "Master in Business Administration (MBA)",
+      "about": "This programme is aimed at providing in-depth understanding to students in technical, human and conceptual skills necessary for a successful manager with specialization in Financial Management, Marketing Management, Human Resource and System Management. The teaching strategy is oriented towards application of knowledge with live cases and teaching aids. A six weeks summer internship programme is included after completion of first year to develop business acumen. Students also interact regularly with industry/academia personalities and undergo industrial visits.",
+      "admission_process": {
+        "eligibility_criteria": {
+          "engineering_graduates": "60% marks or CGPA/CPI of 6.0 (10-point scale)",
+          "other_disciplines": "55% marks or CGPA/CPI of 5.5 (10-point scale)",
+          "relaxation": "5% or 0.5 CGPA/CPI relaxation for SC/ST candidates",
+          "tests": "Valid CAT/CMAT/GMAT/MAT/Institute level test score",
+          "foreign_students": "Valid GMAT score required",
+          "final_year_candidates": "Eligible to apply; provisional admission until degree completion"
+        },
+        "application_fee": {
+          "general_obc": "Rs. 1000",
+          "sc_st": "Rs. 500",
+          "non_refundable": true
+        },
+        "selection_process": [
+          "Screening of applications based on entrance exam scores (CAT/CMAT/GMAT/MAT/Institute Test)",
+          "Performance in Group Discussion (GD) and Personal Interview (PI)",
+          "Candidate profile evaluation"
+        ]
+      },
+      "programme_education_objectives": [
+        "Integrate functional areas of business knowledge across disciplines and synthesize functional business knowledge within strategic organizational framework.",
+        "Illustrate ability to apply critical thinking and ethical decision making to complex business problems and exhibit competence in applying interpersonal and managerial skills within an institutional context.",
+        "Demonstrate ability to motivate others to achieve strategic outcomes and create an orientation of personal responsibility, respect and professionalism."
+      ],
+      "programme_outcomes": [
+        "Use systems thinking to describe how core concepts in each functional area relate to and are integrated across disciplines.",
+        "Identify appropriate processes for making organizational decisions.",
+        "Demonstrate ability to bring disparate functional areas of business to bear on the formulation of organizational strategy.",
+        "Identify and describe core concepts in the key functional areas of business.",
+        "Recognize and explain appropriate analytical methods for solving discipline-specific business issues.",
+        "Construct a reasoned critique of an organizational decision.",
+        "Apply critical thinking skills in making an organizational decision.",
+        "Relate relevant ethical frameworks to the resolution of a business dilemma.",
+        "Display proficiency in building a persuasive case.",
+        "Show ability to manage organizational constituencies."
+      ]
+    }
+  }
+  

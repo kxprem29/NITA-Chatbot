@@ -1,0 +1,35 @@
+{
+  "name": "Dr. Rajib Saha",
+  "designation": "Professor",
+  "department": "Civil Engineering (NBA Accredited)",
+  "date_of_joining": "31/03/2006",
+  "email": "rajib.iitbbsr@gmail.com",
+  "research_area": [],
+  "courses_taught": {
+    "UG": [],
+    "PG": []
+  },
+  "phd_students": {
+    "ongoing": 0,
+    "completed": 0
+  },
+  "address": {
+    "street": "Civil Engineering Department",
+    "city": "Agartala",
+    "state": "Tripura",
+    "country": "India"
+  },
+  "contact": {
+    "email": "rajib.iitbbsr@gmail.com",
+    "residence_phone": "7005368810",
+    "mobile": "9436125024"
+  },
+  "academic_information": [
+    {
+      "degree": "Ph.D.",
+      "description": "Philosophy of Doctorate",
+      "year": 2014,
+      "subject": ""
+    }
+  ]
+}

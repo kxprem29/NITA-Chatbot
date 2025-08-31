@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mr. SUDIP PAUL",
+        "department": "Chemistry",
+        "designation": "Technical Assistant (Contractual)",
+        "email": "sudip.chem@staff.nita.ac.in",
+        "contact": ""
+    },
+    {
+        "name": "Mr. HIMADRI PAUL",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "himadripaul12@gmail.com",
+        "contact": "9863734822"
+    },
+    {
+        "name": "Mr. SATYAJIT GHOSH",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "sgchmt@gmail.com",
+        "contact": "8414803010"
+    },
+    {
+        "name": "Mr. NITISH RANJAN NATH",
+        "department": "Chemistry",
+        "designation": "Lab Assistant (Contractual)",
+        "email": "nitishnath5@gmail.com",
+        "contact": "8132845976"
+    }
+]

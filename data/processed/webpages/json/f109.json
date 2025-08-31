@@ -1,0 +1,176 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "faculty_staff_profile": {
+      "name": "Dr. Tilottama Chakraborty",
+      "designation": "Assistant Professor (Contractual)",
+      "email_id": "tilottama86@gmail.com",
+      "research_area": [
+        "Water Power Energy",
+        "Hydrology and Hydrological Modeling",
+        "Multicriteria Decision Making",
+        "Optimization Techniques"
+      ],
+      "address_information": {
+        "address": "Hydro-Informatics Engineering, 2nd Floor, Food Court Building, National Institute of Technology, Agartala",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      },
+      "contact_information": {
+        "email_address": "tilottama86@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "-"
+      },
+      "academic_information": [
+        {
+          "degree_diploma": "Ph.D.",
+          "description": "Philosophy of Doctorate",
+          "institute": "National Institute of Technology Agartala, Tripura",
+          "year": 2020,
+          "subject": "Hydro-Informatics Engineering"
+        },
+        {
+          "degree_diploma": "M.E.",
+          "description": "Master of Engineering",
+          "institute": "Jadavpur University, West Bengal",
+          "year": 2010,
+          "subject": "Water Resource and Hydraulic Engineering"
+        },
+        {
+          "degree_diploma": "B.Tech",
+          "description": "Bachelor of Technology",
+          "institute": "West Bengal University of Technology, West Bengal",
+          "year": 2008,
+          "subject": "Electrical Engineering"
+        }
+      ],
+      "publications": {
+        "conference": [
+          {
+            "title": "Application of MCDM in selection of Influential Water Quality Parameter",
+            "authors": "Pieusha Saha, Mrinmoy Majumdar, Tilottama Chakraborty",
+            "conference": "The Virtual Forum on Water and Environment and Water, Power, and Informatics 2024",
+            "month": "FEB",
+            "year": 2025
+          },
+          {
+            "title": "Determination of Water Quality Index of Surface Water Bodies around Rubber Industries",
+            "authors": "Ramprasad Ghosh, Tilottama Chakraborty, Mrinmoy Majumdar",
+            "conference": "The Virtual Forum on Water and Environment and Water, Power, and Informatics 2024",
+            "month": "FEB",
+            "year": 2025
+          },
+          {
+            "title": "Impact of Natural Gas Power Plant on The Water Quality of Surface and Groundwater",
+            "authors": "Pieusha Saha, Tilottama Chakraborty, Mrinmoy Majumder",
+            "conference": "The Virtual Forum on Water and Environment and Water, Power and Informatics 2024",
+            "month": "FEB",
+            "year": 2025
+          },
+          {
+            "title": "Optimal Resource Allocation within Peri-Urban Consumers with the help of Mine Burst and Glow Worm Optimization Technique",
+            "authors": "Amarjit Sau, Tilottama Chakrabarty, Mrinmoy Majumder",
+            "conference": "The Virtual Forum on Water and Environment and Water, Power and Informatics 2024",
+            "month": "FEB",
+            "year": 2025
+          },
+          {
+            "title": "Identification of Most influential Parameter for Designing a Low-Cost Water Filter",
+            "authors": "Riya Debbarma, Tilottama Chakraborty, Mrinmoy Majumder",
+            "conference": "Hinweis Second International Conference on Advanced Research in Engineering and Technology (ARET)",
+            "month": "FEB",
+            "year": 2024
+          },
+          {
+            "title": "Assessment of Surface Water Quality in terms of Water Quality Index - A case study of Jirania Sub Division, Tripura, India",
+            "authors": "Simon Debbarma, Tilottama Chakraborty, Mrinmoy Majumder",
+            "conference": "Hinweis Second International Conference on Advanced Research in Engineering and Technology (ARET)",
+            "month": "FEB",
+            "year": 2024
+          },
+          {
+            "title": "Application of MCDM in the Selection of Influential Water Quality Parameters in Location Selection of Hydropower Plant",
+            "authors": "Pieusha Saha, Mrinmoy Majumder, Tilottama Chakraborty",
+            "conference": "Hinweis Second International Conference on Advanced Research in Engineering and Technology (ARET)",
+            "month": "FEB",
+            "year": 2024
+          }
+        ],
+        "journal": [
+          {
+            "title": "Estimation of Runoff under changed climatic scenario of a Meso Scale River by Neural Network Based Gridded Model Approach",
+            "authors": "Das Debajit, Tilottama Chakraborty, Mrinmoy Majumder, Tarun Kanti Bandyopadhyay",
+            "journal": "Water Resources Management (SCIE)",
+            "month": "JUN",
+            "year": 2022
+          },
+          {
+            "title": "Impact of Extreme Events on Conversion Efficiency of Wave Energy Converter",
+            "authors": "Chakraborty, Tilottama, Mrinmoy Majumder",
+            "journal": "Energy Science and Engineering (SCIE)",
+            "month": "SEPT",
+            "year": 2019
+          },
+          {
+            "title": "Application of AHP-VIKOR and GMDH framework to develop an indicator to identify utilization potential of wave energy converter with respect to location",
+            "authors": "Chakraborty, Tilottama, Mrinmoy Majumder, Ankit Khare",
+            "journal": "International Journal of Spatio-Temporal Data Science, Vol. 1, No. 1",
+            "month": "SEPT",
+            "year": 2019
+          }
+        ]
+      },
+      "books": [
+        {
+          "title": "Impact of Climate Change on Water Quality of Rudrasagar Lake of Tripura",
+          "authors": "Diptanil Chakraborty, Tilottama Chakraborty, Mrinmoy Majumder",
+          "publisher": "Springer, Cham",
+          "year": 2025
+        },
+        {
+          "title": "Development of Spatial Cognitive Model for Estimation of Ungauged Runoff for Mesoscale Rivers",
+          "authors": "Tilottama Chakraborty",
+          "publisher": "Springer, Cham",
+          "year": 2021
+        },
+        {
+          "title": "Application of New Convergent Point Decision Making Method in Estimation of Vulnerability Index for Hydro Power Reservoirs",
+          "authors": "Tilottama Chakraborty",
+          "publisher": "Springer, Cham",
+          "year": 2021
+        }
+      ],
+      "patents": [
+        {
+          "title": "A Sensor-Based Optimal Water Selection System for Crop Cultivation",
+          "authors": "Mrinmoy Majumder, Uttam K Bera, Tilottama Chakraborty, Tanmoy Ghoshal",
+          "publication_date": "20/05/2022",
+          "year": 2022
+        }
+      ],
+      "achievements": [
+        {
+          "description": "Young Woman Researcher in Hydrology, Venus International Foundation",
+          "year": 2024
+        },
+        {
+          "description": "Received University Medal for standing 1st in M.E examination from Jadavpur University",
+          "year": 2010
+        }
+      ],
+      "subjects": [
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Principle of Water Resources Engineering" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Hydrology and Hydraulic Instruments" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Hydraulic Structure Engineering" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Design of Water Resources System" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Advanced Hydrology" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Application Software Laboratory" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Hydrology, Water Quality, and Hydraulic Instrument Laboratory" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Seminar" },
+        { "class": "M.Tech in Hydro-Informatics Engineering", "subject": "Minor Project I and Minor Project II" },
+        { "class": "B.Tech", "subject": "Disaster Management" },
+        { "class": "B.Tech in Civil Engineering", "subject": "Water Resources Engineering Laboratory" }
+      ]
+    }
+  }
+  

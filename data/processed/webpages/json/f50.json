@@ -1,0 +1,133 @@
+{
+    "name": "Dr. Pinku Debnath",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "er.pinkunits@yahoo.com",
+    "research_area": [
+      "Thermal Engineering",
+      "Computational Fluid Dynamics (CFD)",
+      "Combustion",
+      "Heat Transfer",
+      "Wind Turbines",
+      "Fluid Mechanics"
+    ],
+    "courses_taught": {
+      "UG": {
+        "Theory": [
+          "Thermal Power Engineering",
+          "Fluid Mechanics-I",
+          "Fluid Mechanics-II",
+          "Fluid Machinery",
+          "Basic Engineering Thermodynamics",
+          "Refrigeration and Air Conditioning",
+          "Compressible Flow and Jet Propulsion",
+          "Elective-V (Computational Fluid Dynamics)"
+        ],
+        "Practical": [
+          "Thermal Power Lab",
+          "Heat and Mass Transfer Lab",
+          "Engineering Graphics",
+          "Fluid Machinery Lab",
+          "Fluid Mechanics & Fluid Machines Lab",
+          "Workshop Practice",
+          "ME lab"
+        ]
+      },
+      "PG": {
+        "Theory": [
+          "Design of Thermal System",
+          "Applied Computational Methods",
+          "Principles of Combustion"
+        ],
+        "Practical": [
+          "Lab-IV (Computational Fluid Dynamics Laboratory)",
+          "Engine Testing and Pollution Control"
+        ]
+      }
+    },
+    "address": {
+      "current": "Mechanical Engineering Department, Room No. 142, National Institute of Technology Agartala, Tripura:799046, India",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "er.pinkunits@yahoo.com",
+      "mobile": "07085802245",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "university": "National Institute of Technology Silchar, Assam, India",
+        "year": 2016,
+        "subject": "Mechanical Engineering Department"
+      },
+      {
+        "degree": "M.Tech",
+        "university": "National Institute of Technology Silchar, Assam, India",
+        "year": 0,
+        "subject": "Thermal Engineering (Under Mechanical Engineering Department)"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "National Institute of Technology Agartala, Tripura, India",
+        "year": 0,
+        "subject": "Mechanical Engineering Department"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Aerodynamics Performance Improvement of Savonius Wind Turbine by Wind Flow Control using CFD Analysis",
+        "authors": ["Pinku Debnath", "Debanjali Chakraborty", "Sumit Chakraborty"],
+        "conference": "ARIES 2024",
+        "year": 2024,
+        "doi": "10.1109/AREIS62559.2024.10893628"
+      },
+      {
+        "title": "Computational fluid dynamics simulation of detonation wave propagation in modified pulse detonation combustor",
+        "authors": ["Pinku Debnath", "K.M. Pandey"],
+        "conference": "E3S Web of Conferences 430",
+        "year": 2023,
+        "pages": "1-14",
+        "doi": "https://doi.org/10.1051/e3sconf/202343001243"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Numerical studies on detonation combustion of alkene and alkane fuel-air mixture in Pulse Detonation Combustor with shrouded ejector",
+        "authors": ["Pinku Debnath", "Krishna Murari Pandey"],
+        "journal": "Journal of Thermal Analysis and Calorimetry",
+        "year": 2025,
+        "volume": "00",
+        "pages": "1-13",
+        "doi": "https://doi.org/10.1007/s10973-025-14473-5"
+      },
+      {
+        "title": "Exergetic and Thermal Performance Analysis of Liquid and Gaseous FuelAir Mixture in PDC Using Computational Fluid Dynamics",
+        "authors": ["Pinku Debnath", "Krishna Murari Pandey"],
+        "journal": "Arabian Journal for Science and Engineering",
+        "year": 2024,
+        "volume": "50",
+        "issue": "12",
+        "pages": "8887-8902",
+        "doi": "https://doi.org/10.1007/s13369-024-09319-5"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "A State of Art Review on Thermodynamics Performance Analysis in Pulse Detonation Combustor",
+        "authors": ["Pinku Debnath", "Krishna Murari Pandey"],
+        "publisher": "IntechOpen",
+        "year": 2022,
+        "doi": "10.5772/intechopen.103005"
+      }
+    ],
+    "achievements": [
+      {
+        "description": "M. Tech Thermal Engineering Specialization Topper",
+        "year": 2012
+      }
+    ]
+  }
+  

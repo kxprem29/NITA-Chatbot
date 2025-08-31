@@ -1,0 +1,71 @@
+{
+    "name": "Dr. Sushant Kumar Biswal",
+    "designation": "Associate Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "",
+    "email": "sushantb69@gmail.com",
+    "url": "",
+    "research_area": [
+      "River hydrodynamics",
+      "Sediment transport",
+      "River morphology",
+      "Vegetated flows",
+      "Shallow shear flows",
+      "Scour around hydraulic structures",
+      "Bank erosion",
+      "Flood inundation modelling"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Water Resources Engineering",
+        "River Engineering & Flood Control",
+        "Computational Hydraulics",
+        "Mechanics of Fluid"
+      ],
+      "PG": [
+        "Advanced Fluid Mechanics",
+        "Advanced Computational Hydraulics",
+        "Viscous Fluid Flows",
+        "GIS & its Application"
+      ]
+    },
+    "phd_students": {
+      "ongoing": [],
+      "completed": []
+    },
+    "address": {
+      "street": "B/01/01, Brahmaputra Residential, NIT Complex, Jirania, Agartala, Tripura",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "sushantb69@gmail.com",
+      "residence_phone": "",
+      "mobile": ["8794594481"]
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2012,
+        "subject": "Water Resources Engineering",
+        "institute": "Indian Institute of Technology Kanpur"
+      },
+      {
+        "degree": "M.E.",
+        "year": 1998,
+        "subject": "Hydraulics & Irrigation Engineering",
+        "institute": "University College of Engineering Burla (presently VSSUT), Odisha"
+      },
+      {
+        "degree": "B.E.",
+        "year": 1994,
+        "subject": "Civil Engineering",
+        "institute": "University College of Engineering Burla (presently VSSUT), Odisha"
+      }
+    ],
+    "publications_conference": [],
+    "publications_journal": [],
+    "achievements": []
+  }
+  

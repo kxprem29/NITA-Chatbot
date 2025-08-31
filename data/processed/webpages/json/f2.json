@@ -1,0 +1,146 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Subir Das",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "EIE",
+          "Full": "Electronics and Instrumentation Engineering"
+        },
+        "Email": "subir.mcet@gmail.com",
+        "Research_Areas": [
+          "Sensors & Transducers",
+          "Instrumentation Measurement",
+          "Robotics",
+          "Agricultural Electronics",
+          "IoT"
+        ],
+        "Address": {
+          "Department": "EIE Department, NIT Agartala, Jirania",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India",
+          "Pin": "799046"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "7003465689"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Year": 2020,
+            "Subject": "Electronics & Communication Engineering"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2010,
+            "Subject": "Instrumentation & Control Engineering"
+          },
+          {
+            "Degree": "B.Tech",
+            "Year": 2006,
+            "Subject": "Electronics & Instrumentation Engineering"
+          }
+        ],
+        "Publications": {
+          "Conference": [
+            {
+              "Title": "Cross-correlated Spectral Entropy Based Classification of EEG Motor Imagery Signal for Triggering Lower Limb Exoskeleton",
+              "Authors": "Ganesh Roy, Akash Kumar Bhoi, Subir Das, Subhasis Bhaumik",
+              "Conference": "Signal, Image and Video Processing, Springer, Vol-16, pp-1831-2481",
+              "Month": "FEB",
+              "Year": 2022
+            },
+            {
+              "Title": "A Pencil Drawn Capacitive Sensor Used for Liquid Drug Volume Measurement in Syringe Pump",
+              "Authors": "Subir Das, Badal Chakroborty",
+              "Conference": "IEEE Conference on Applied Signal Processing (ASPCON 2020), Kolkata, West Bengal, India",
+              "Month": "OCT",
+              "Year": 2020
+            }
+          ],
+          "Journal": [
+            {
+              "Title": "Cross-correlated Spectral Entropy Based Classification of EEG Motor Imagery Signal for Triggering Lower Limb Exoskeleton",
+              "Authors": "Ganesh Roy, Akash Kumar Bhoi, Subir Das, Subhasis Bhaumik",
+              "Journal": "Signal, Image and Video Processing, Springer, Vol-16, pp-1831-2481",
+              "Month": "FEB",
+              "Year": 2022
+            },
+            {
+              "Title": "Continuous radial growth rate monitoring of horticultural crops using an optical mouse",
+              "Authors": "Subir Das, Shikha Nayak, Badal Chakraborty, Sabyasachi Mitra",
+              "Journal": "Sensors & Actuator A: Physical, Elsevier, Vol-297, pp-1-7",
+              "Month": "JULY",
+              "Year": 2019
+            }
+          ]
+        },
+        "Books_Published": [
+          {
+            "Title": "Modeling and Control of Electric Linear Actuator for Driving Knee Joint of a Lower Body Exoskeleton",
+            "Authors": "Ganesh Roy, Hano Jacob Saji, Subir Das, Subhasis Bhaumik",
+            "Publisher": "IGI Global",
+            "Pages": "50-67",
+            "ISBN": "9781799825845",
+            "Year": 2020
+          }
+        ],
+        "Conferences_Attended": [
+          {
+            "Title": "A Pencil Drawn Capacitive Sensor Used for Liquid Drug Volume Measurement in Syringe Pump",
+            "Month": "OCT",
+            "Year": 2020
+          },
+          {
+            "Title": "A Smart-Band Operated Wrist Rehabilitation Robot",
+            "Month": "OCT",
+            "Year": 2020
+          }
+        ],
+        "Patents": [
+          {
+            "Inventors": "Badal Chakraborty, Subir Das",
+            "Title": "An Absolute Shaft Encoder",
+            "Country": "India",
+            "Application_Number": "201731003312",
+            "Date": "30-01-2017",
+            "Status": "Under examination, published on 29-03-2019",
+            "Year": 2019
+          }
+        ],
+        "Achievements": [
+          {
+            "Description": "Qualified for the final round of National level robotics competition (KSHITIJ-06), Organized by I.I.T-Kharagpur, India",
+            "Year": 2006
+          }
+        ],
+        "Training_Attended": [
+          {
+            "Course": "AICTE sponsored short term course on Hands on experience on LabVIEW",
+            "Month": "NOV",
+            "Year": 2013
+          }
+        ],
+        "Subjects_Taught": {
+          "UG": [
+            "Microprocessors & Microcontrollers",
+            "Embedded Systems",
+            "Industrial Instrumentation Engineering",
+            "Sensors & Transducers",
+            "Analog & Digital Electronics",
+            "Electrical & Electronics Measurement"
+          ],
+          "PG": [
+            "Embedded System Application",
+            "Sensors & Actuators",
+            "Industrial Instrumentation & Control",
+            "Industry 4.0",
+            "Bio-medical Instrumentation"
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "name": "Dr. Nilotpal Debbarma",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "dbnilotpal@gmail.com",
+    "research_area": [
+      "Hydrological Modelling",
+      "Regional Frequency Analysis",
+      "Soft Computing in Water Resources",
+      "GIS in watershed modelling"
+    ],
+    "courses_taught": {
+      "ug_courses": [
+        "Fluid Mechanics",
+        "Water Resource Engineering I & II",
+        "Design of Hydraulic Structures",
+        "Surveying",
+        "Estimation & Costing"
+      ],
+      "pg_courses": [
+        "Hydraulic Structures",
+        "Applied Hydrology",
+        "Water resources planning and management"
+      ]
+    },
+    "address": {
+      "address": "Civil Engineering Department, First floor, Room no 205",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dbnilotpal@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9436180332"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2023,
+        "subject": "Water Resources Engineering",
+        "institution": "NIT Silchar"
+      }
+    ],
+    "publications": [],
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

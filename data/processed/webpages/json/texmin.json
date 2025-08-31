@@ -1,0 +1,54 @@
+{
+    "CoE_Name": "TEXMiN–NIT Agartala Mining Cyber-Physical Systems (CPS) Centre of Excellence",
+    "Reference": "TEXMiN/NITA/COE/24-25/372",
+    "Budget": {
+      "Total": "₹120.00 Lakhs",
+      "Duration_Years": 4,
+      "Yearly_Budget": "₹30.0 Lakhs"
+    },
+    "Focus_Areas": [
+      "Technology Development (TD)",
+      "Innovation & Entrepreneurship (IE)"
+    ],
+    "Objectives": [
+      "Support development of CPS-based solutions aligned with TEXMiN mandate",
+      "Drive transformative technological advancements in the mining sector"
+    ],
+    "Activities": [
+      {
+        "Activity_Type": "Technology Development Projects",
+        "Target_Group": "UG/PG Students",
+        "Submission_Deadline": "31-08-2025",
+        "Documents": [
+          "Technology Development (Td) Project Proposal Format For Texmin-Mining CPS CoE",
+          "Technology Development (Td) Project Guidelines"
+        ]
+      },
+      {
+        "Activity_Type": "Pre-Incubation Support for Students",
+        "Target_Group": "UG/PG Students",
+        "Submission_Deadline": "31-08-2025",
+        "Documents": [
+          "Pre-Incubation Form for TEXMiN-NIT Agartala Mining CPS CoE"
+        ]
+      },
+      {
+        "Activity_Type": "Undergraduate Fellowships",
+        "Target_Group": "Undergraduate Students",
+        "Submission_Deadline": "31-08-2025",
+        "Documents": [
+          "UG CALL FOR PROPOSAL FELLOWSHIP PROGRAM 2025 Application For TEXMiN-NIT Agartala Mining CPS CoE"
+        ]
+      },
+      {
+        "Activity_Type": "Problem Statements",
+        "Target_Group": "Students/Researchers",
+        "Submission_Deadline": "31-08-2025",
+        "Documents": [
+          "Problem Statement for CFP 2024"
+        ]
+      }
+    ],
+    "Selection_Process": "At least one representative from TEXMiN will be included to ensure transparency and adherence to best practices"
+  }
+  

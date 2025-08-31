@@ -1,0 +1,174 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Partha Kumar Deb",
+        "Designation": "Assistant Professor (Contractual)",
+        "Department": {
+          "Short": "ECE",
+          "Full": "Electronics and Communication Engineering"
+        },
+        "Email": "parthadeb.nita.ec@gmail.com",
+        "URL": "https://orcid.org/0000-0001-6722-8737",
+        "Research_Areas": [
+          "Microwave Circuits and Antenna Design",
+          "Metamaterials - Design and Optimization",
+          "Analog Circuit Design"
+        ],
+        "Address": {
+          "Address_Line": "Faculty quarter H4A/01/04",
+          "City": "AGARTALA",
+          "State": "TRIPURA",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "7005722990"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Institute": "ECE Department, NIT Agartala, India",
+            "Year": 2023,
+            "Subject": "Microwave Engineering"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2015,
+            "Subject": "Communication Engineering"
+          },
+          {
+            "Degree": "B.E",
+            "Institute": "Tripura Institute of Technology",
+            "Year": 2011,
+            "Subject": "Electronics & Telecommunication Engineering"
+          }
+        ],
+        "Publications": {
+          "Journal": [
+            {
+              "Title": "DNG Metamaterial-Based Superstrate for Performance Enhancement of Compact Size Wideband Patch Antenna",
+              "Authors": "Ananda Babu Devarapalli, Tamasi Moyra & Partha Kumar Deb",
+              "Journal": "IETE Technical Review",
+              "Year": 2023,
+              "DOI": "10.1080/02564602.2023.2220681"
+            },
+            {
+              "Title": "Design of High Gain and Improved Front-to-Back Ratio Multilayer Microstrip Patch Antenna using Modified Feed Line",
+              "Authors": "Deb, Partha Kumar, Tamasi Moyra, and Bidyut Kumar Bhattacharyya",
+              "Journal": "ASEAN Journal on Science and Technology for Development",
+              "Volume": 39,
+              "Issue": 2,
+              "Pages": "53-60",
+              "Year": 2022
+            },
+            {
+              "Title": "A 90-Degree Schiffman Phase Shifter and Study of Tunability Using Varactor Diode",
+              "Authors": "Deb, Partha Kumar, Tamasi Moyra, and Bidyut Kumar Bhattacharyya",
+              "Journal": "Handbook of Intelligent Computing and Optimization for Sustainable Development",
+              "Year": 2022
+            },
+            {
+              "Title": "Designing of Miniaturized 4×4 Butler Matrix Using Coupled Line Coupler and Schiffman Phase Shifter",
+              "Authors": "Deb, P.K., Moyra, T. & Bhattacharyya, B.K.",
+              "Journal": "Iran J Sci Technol Trans Electr Eng",
+              "Volume": 45,
+              "Pages": "259–268",
+              "Year": 2021,
+              "DOI": "10.1007/s40998-020-00350-4"
+            },
+            {
+              "Title": "Miniaturized and enhanced bandwidth Marchand balun using CSRR",
+              "Authors": "Deb, P.K., Moyra, T. and Bhattacharyya, B.K.",
+              "Journal": "IET Microw. Antennas Propag",
+              "Volume": 15,
+              "Pages": "788-796",
+              "Year": 2021,
+              "DOI": "10.1049/mia2.12086"
+            },
+            {
+              "Title": "Design of compact wideband 90° Schiffman phase shifter incorporating CSRR",
+              "Authors": "Partha Kumar Deb, Tamasi Moyra & Bidyut Kumar Bhattacharyya",
+              "Journal": "Electromagnetics",
+              "Volume": 40,
+              "Issue": 3,
+              "Pages": "207-216",
+              "Year": 2020,
+              "DOI": "10.1080/02726343.2020.1726072"
+            }
+          ],
+          "Conference": [
+            {
+              "Title": "Miniaturization of Microstrip Patch Antenna using Fractal Antenna Design",
+              "Authors": "Deb, Partha Kumar and Moyra, Tamasi",
+              "Conference": "International Journal of Computational Intelligence & IoT, Vol. 1, No. 1",
+              "Year": 2018,
+              "URL": "https://ssrn.com/abstract=3354428"
+            },
+            {
+              "Title": "Dual-band microstrip patch antenna using frequency selective surface",
+              "Authors": "D. Kumar, T. Moyra, P. K. Deb and T. Tarun",
+              "Conference": "2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
+              "Pages": "1692-1696",
+              "Year": 2017,
+              "DOI": "10.1109/WiSPNET.2017.8300050"
+            },
+            {
+              "Title": "Return loss and bandwidth enhancement of microstrip antenna using Defected Ground Structure (DGS)",
+              "Authors": "P. kumar Deb, T. Moyra and P. Bhowmik",
+              "Conference": "2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN)",
+              "Pages": "25-29",
+              "Year": 2015,
+              "DOI": "10.1109/SPIN.2015.7095318"
+            },
+            {
+              "Title": "Dual band multilayer E-shape microstrip patch antenna for C-band and X-band",
+              "Authors": "P. kumar Deb, T. Moyra and P. Bhowmik",
+              "Conference": "2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN)",
+              "Pages": "30-34",
+              "Year": 2015,
+              "DOI": "10.1109/SPIN.2015.7095320"
+            },
+            {
+              "Title": "Size miniaturization of 3 dB branch line coupler by using open stubs",
+              "Authors": "P. Bhowmik, T. Moyra and P. K. Deb",
+              "Conference": "2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN)",
+              "Pages": "642-645",
+              "Year": 2015,
+              "DOI": "10.1109/SPIN.2015.7095279"
+            },
+            {
+              "Title": "Miniaturization and bandwidth enhancement of a loose coupler by DGS",
+              "Authors": "P. Bhowmik, T. Moyra and P. K. Deb",
+              "Conference": "2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN)",
+              "Pages": "638-641",
+              "Year": 2015,
+              "DOI": "10.1109/SPIN.2015.7095278"
+            }
+          ],
+          "Books": [
+            {
+              "Title": "A 90-Degree Schiffman Phase Shifter and Study of Tunability Using Varactor Diode",
+              "Authors": "Deb, P.K., Moyra, T. and Bhattacharyya, B.K.",
+              "Book": "Handbook of Intelligent Computing and Optimization for Sustainable Development",
+              "Year": 2022,
+              "DOI": "https://doi.org/10.1002/9781119792642.ch20"
+            }
+          ]
+        },
+        "Subjects_Taught": [
+          {
+            "Class": "UG",
+            "Subjects": [
+              "Microwave Engineering",
+              "Antenna & Wave Propagation",
+              "Electromagnetic Theory & Transmission Line",
+              "Signals & Systems",
+              "Basic Electronics",
+              "Electronics Devices & Circuits"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

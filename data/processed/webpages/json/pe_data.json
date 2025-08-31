@@ -1,0 +1,19 @@
+{
+    "department": "Production Engineering",
+    "programmes": {
+      "under_graduate": [
+        {
+          "course_name": "B.Tech in Production Engineering",
+          "duration": "4 years"
+        }
+      ],
+      "post_graduate": [
+        {
+          "course_name": "M.Tech in Computer Integrated Manufacturing",
+          "duration": "2 years"
+        }
+      ],
+      "phd_programmes": true
+    }
+  }
+  

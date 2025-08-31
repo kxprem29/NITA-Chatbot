@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Dr. Atanu  Chowdhury",
+        "designation": "HOD & Associate Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "atanunita@gmail.com"
+    },
+    {
+        "name": "Dr. Dibyendu Ghoshal",
+        "designation": "Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "tukumw@gmail.com"
+    },
+    {
+        "name": "Dr. Sambhu Nath Pradhan",
+        "designation": "Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "sambhupradhan.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Tamasi Moyra Panua",
+        "designation": "Associate Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "tamasi_moyra@yahoo.co.in"
+    },
+    {
+        "name": "Mr. ANIRBAN BHATTACHARJEE",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "anirbanb.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. BIMAN DEBBARMA",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "bimandebbarma.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Goutam Kumar Gupta",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "goutamece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Kamalesh Debnath",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "kamalesh79.nit@gmail.com"
+    },
+    {
+        "name": "Dr. Manas Rakshit",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "manasece@nita.ac.in"
+    },
+    {
+        "name": "Mr. MANIK BHOWMIK",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "manik_bh2004@yahoo.co.in"
+    },
+    {
+        "name": "Dr. Mitra Barun Sarkar",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "mbarun.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Shikha Maurya",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "drshikha.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Somnath Roy Choudhury",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Communication Engineering",
+        "email": "somnath.ece@nita.ac.in"
+    },
+    {
+        "name": "Dr. Abhishek Nag",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Communication Engineering",
+        "email": "abhi14379@gmail.com"
+    },
+    {
+        "name": "Dr. Apangshu Das",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Communication Engineering",
+        "email": "apangshu.ece@gmail.com"
+    },
+    {
+        "name": "Dr. Partha Kumar Deb",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Communication Engineering",
+        "email": "parthadeb.nita.ec@gmail.com"
+    },
+    {
+        "name": "Dr. Priyanka Choudhury",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Communication Engineering",
+        "email": "priyanka.choudhury22@gmail.com"
+    },
+    {
+        "name": "Dr. Smita Banik",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Communication Engineering",
+        "email": "smitabanik1@gmail.com"
+    }
+]

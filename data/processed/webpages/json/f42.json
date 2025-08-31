@@ -1,0 +1,134 @@
+{
+    "name": "Dr. V. C. Padmanaban",
+    "designation": "Assistant Professor",
+    "department": "Bioengineering",
+    "date_of_joining": "2022-08-29",
+    "email": "padmanaban@nita.ac.in",
+    "personal_url": "https://padmanaban.mozello.com/",
+    "office_address": {
+      "room": "BIOFF-5",
+      "floor": "First Floor",
+      "block": "Bioengineering Block",
+      "institute": "National Institute of Technology Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "pin": "799046"
+    },
+    "research_areas": [
+      "Bioprocess Engineering",
+      "Environmental Engineering",
+      "Industrial Wastewater Treatment",
+      "Process Intensification",
+      "Mathematical Modelling",
+      "Wastewater Surveillance for AMR and PPCPs"
+    ],
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2019,
+        "field": "Bioprocess & Environmental Engineering",
+        "details": "Young Scientist Research Grant on 'Process Development for the degradation of industrial azo dyes by microbial and gamma irradiation method' (BRNS, BARC, Govt. of India)"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2011,
+        "field": "Biotechnology",
+        "details": "Postgraduate dissertation on 'Studies on the degradation of textile dyes by halophilic marine organism Pseudoalteromonas sp. and Fenton's Method'"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2009,
+        "field": "Biotechnology"
+      }
+    ],
+    "selected_publications": [
+      {
+        "year": 2023,
+        "title": "Microplastics in terrestrial ecosystem: Sources and migration in soil environment",
+        "journal": "Chemosphere"
+      },
+      {
+        "year": 2022,
+        "title": "Thermal and Radiation Based Catalytic Activation of Persulfate Systems in the Removal of Micropollutants: A Review",
+        "journal": "Industrial & Engineering Chemistry Research"
+      },
+      {
+        "year": 2022,
+        "title": "Fe3O4-functionalised biochar for persulphate systems towards the removal of Remazol Brilliant Orange 3R: machine learning–based approach and toxicity analysis",
+        "journal": "Biomass Conversion and Biorefinery"
+      }
+    ],
+    "books_chapters": [
+      {
+        "year": 2022,
+        "title": "Sustainable bioactive nanomaterials for advanced water treatment",
+        "publisher": "Elsevier"
+      },
+      {
+        "year": 2022,
+        "title": "Metal-organic frameworks (MOFs) as catalysts for advanced oxidation processes—Micropollutant removal",
+        "publisher": "Elsevier"
+      },
+      {
+        "year": 2021,
+        "title": "Biopolymers as a Sustainable Approach for Wastewater Treatment",
+        "publisher": "CRC Press"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "year": 2016,
+        "conference": "International Conference on Current Trends in Biotechnology (ICCB16), VIT University, Vellore",
+        "topic": "Studies on Removal of Reactive Dyes by Adsorption onto Activated Carbon from Rice Husk"
+      },
+      {
+        "year": 2016,
+        "conference": "International Conference on Environment and Health in Changing Climate (ICEHCC 2016), Bharathidasan University",
+        "topic": "Statistical Modelling on Degradation of Direct Red 81 dye by Advanced Oxidation Process: Ozonation"
+      }
+    ],
+    "conferences_conducted": [
+      {
+        "year": 2018,
+        "conference": "Ora’18 – Enviroconclave – Green & Clean India, National Conference on Recent Advances in Green Chemistry & Sustainable Development",
+        "venue": "Kamaraj College of Engineering & Technology, Virudhunagar"
+      }
+    ],
+    "achievements": [
+      {
+        "year": 2022,
+        "award": "Young Engineer's Award",
+        "organization": "Institution of Engineers (India), Kolkata"
+      },
+      {
+        "year": 2013,
+        "award": "Young Scientist Research Award",
+        "organization": "Board of Nuclear Sciences (BRNS), Bhabha Atomic Research Centre (BARC), Mumbai, Govt. of India"
+      }
+    ],
+    "memberships": [
+      "American Chemical Society (ACS)",
+      "International Water Association (IWA)"
+    ],
+    "trainings_attended": [
+      {
+        "year": 2022,
+        "month": "FEB",
+        "training": "GIAN Course on Nanomaterials for Water Treatment, NIT Andhra Pradesh"
+      },
+      {
+        "year": 2021,
+        "month": "JUN",
+        "training": "FDP on Essential chemistry for wastewater treatment and basic statistics for sample analysis, VNIT Nagpur"
+      }
+    ],
+    "trainings_conducted": [
+      {
+        "year": 2023,
+        "month": "JAN",
+        "training": "DST STUTI - Challenges and opportunities in Water, Sanitation & Hygiene (WASH)"
+      }
+    ]
+  }
+  

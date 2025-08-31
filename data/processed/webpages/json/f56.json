@@ -1,0 +1,186 @@
+{
+    "name": "Dr. Manash Kumar Paul",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Physics",
+    "date_of_joining": "16/07/2010",
+    "email": "manashkr@gmail.com",
+    "research_profile": "https://www.researchgate.net/profile/Manash_Paul3",
+    "research_areas": [
+      "Experimental Study of Sheath Instability during Multiple Double Layer formations in Glow Discharge plasmas and RF generated Plasmas",
+      "Experimental study of Plasma-Surface interaction during Wall Conditioning operations in Tokamaks in Ion Cyclotron Resonance regime",
+      "Experimental study of Wave induced helicity Current Drive",
+      "Stability and Transport phenomena in Helicon plasma in a magnetized torus"
+    ],
+    "address": {
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "locality": "Joynagar"
+    },
+    "contact": {
+      "email": "manashkr@gmail.com",
+      "residence": "7005324345",
+      "mobile": "7005324345"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2008,
+        "subject": "Plasma Physics",
+        "institution": "Institute for Plasma Research (Dept. of Atomic Energy), Gandhinagar, Gujarat, India"
+      },
+      {
+        "degree": "Postdoctoral Researcher",
+        "year": 2008,
+        "subject": "Plasma Physics",
+        "institution": "Institute for Plasma Research, Gandhinagar, India"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2001,
+        "subject": "Physics - Nonlinear Optics and LASER Physics",
+        "institution": "University of Hyderabad (HCU)"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 1998,
+        "subject": "Physics Honours",
+        "institution": "M.B.B. College, Tripura University"
+      }
+    ],
+    "positions": [
+      {
+        "role": "Research Scientist",
+        "duration": "2008 - 2010",
+        "institution": "IPP-Forschungszentrum Juelich (IEK-4), Germany; Laboratory for Plasma Physics-Ecole Royale Militaire, Brussels, Belgium"
+      },
+      {
+        "role": "Visiting/Collaborative Scientist",
+        "duration": "2009 - 2010",
+        "institution": "Max-Planck-Institute for Plasmaphysics IPP-Garching, Munich, Germany; Culham Centre for Fusion Energy, UK"
+      }
+    ],
+    "phd_students": {
+      "completed": ["Dr. Shamik Chakraborty", "Dr. Subhojit Bose"],
+      "ongoing": ["Mr. Arpan Debnath"]
+    },
+    "courses_taught": {
+      "UG": ["Engineering Physics", "Wave & Oscillations", "Thermal Physics", "Electromagnetic Theory"],
+      "PG": ["Electrodynamics", "Basic Plasma Physics", "Plasma Production & Diagnostic Techniques", "General Physics Laboratory"]
+    },
+    "publications_conference": [
+      {
+        "title": "Sheath Oscillations during Fire Tube Formation in Expanding RF Plasma",
+        "authors": "S. Bose, S. Chakraborty, A. Upadhyaya, S. Sharma, A. Nath, Manash Kumar Paul",
+        "journal": "IOP Conf. Series: Journal of Physics: Conf. Series",
+        "volume": 1172,
+        "page": "012048",
+        "month": "Nov",
+        "year": 2019
+      },
+      {
+        "title": "Fire Tube Formation in Expanding RF Plasma",
+        "authors": "S. Chakraborty, S. Bose, Manash Kumar Paul, A. Nath",
+        "journal": "IOP Conf. Series: Journal of Physics: Conf. Series",
+        "volume": 1172,
+        "page": "012004",
+        "month": "Nov",
+        "year": 2019
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Study of nonlinear characteristics in hollow cathode discharge in unmagnetized plasmas",
+        "authors": "Manash Kumar Paul, A. Debnath, A. A. K. Kasturiya, S. Bhattacharjee, S. Bose",
+        "journal": "Contributions to Plasma Physics (Wiley)",
+        "volume": 63,
+        "issue": "x",
+        "article": "e202200144",
+        "month": "Mar",
+        "year": 2023,
+        "doi": "https://doi.org/10.1002/ctpp.202200144",
+        "impact_factor": 1.73
+      },
+      {
+        "title": "Formation of Multiple Anodic Fire Spots Inside an Electrostatic Cavity",
+        "authors": "S. Bose, A. Debnath, Manash Kumar Paul",
+        "journal": "Contributions to Plasma Physics (Wiley)",
+        "volume": 63,
+        "issue": 2,
+        "article": "e202200072",
+        "month": "Oct",
+        "year": 2022,
+        "doi": "https://doi.org/10.1002/ctpp.202200072",
+        "impact_factor": 1.73
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Multiple Double Layer formation in High Pressure Glow Discharge: Characterization & Dynamics",
+        "publisher": "Lambert Academic Publishing, AV Akademikverlag GmbH &Co. KG, Germany",
+        "year": 2014,
+        "isbn": "978-3-659-40426-9"
+      },
+      {
+        "title": "Applications of Inductive Sources of Discharge in Nuclear Fusion: Advances and Innovations",
+        "publisher": "Lambert Academic Publishing, AV Akademikverlag GmbH & Co. KG, Germany",
+        "year": 2012,
+        "isbn": "978-3-659-20576-7"
+      },
+      {
+        "title": "Current Drive by Helicon Waves: Wave-Induced Helicity",
+        "publisher": "VDM Verlag Dr. Müller GmbH & Co. KG, Germany",
+        "year": 2011,
+        "isbn": "978-3-639-32766-3"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Completed DST-EMR Sponsored Research Project: Investigation of Multiple Double Layer Dynamics and Physical Characterization of Double Layer Plasma in a Magnetic Mirror Device",
+        "funding": "Rs.27.45 Lakh",
+        "duration": "2016 - 2019",
+        "funding_agency": "SERB - Dept. of Science and Technology (DST), Govt. of India"
+      },
+      {
+        "title": "Joint Entrance Screening Test (JEST 2001) for Ph.D. in Premier Research Institutes in India",
+        "year": 2001
+      }
+    ],
+    "training_attended": [
+      {
+        "title": "Faculty Development Programme 'Recent Advances in Fluid Mechanics'",
+        "month": "Mar",
+        "year": 2011,
+        "location": "NIT Agartala, India"
+      },
+      {
+        "title": "9th Carolus Magnus Summer School on Plasma and Fusion Energy Physics",
+        "month": "Aug",
+        "year": 2009,
+        "location": "Herbeumont-sur-Semois, Belgium"
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "M.Sc. Physics",
+        "subjects": ["Electrodynamics", "Physics of Plasmas", "General Physics Laboratory"]
+      },
+      {
+        "class": "BTMT Engineering Physics",
+        "subjects": ["Waves & Oscillations", "Electromagnetic Theory", "Electrodynamics", "Physics of Plasmas"]
+      },
+      {
+        "class": "BSMS Chemistry",
+        "subjects": ["Waves & Oscillations"]
+      },
+      {
+        "class": "BSMS Physics",
+        "subjects": ["Waves & Oscillations", "Electromagnetic Theory", "Electrodynamics", "Physics of Plasmas"]
+      },
+      {
+        "class": "B.Tech. (All Engineering Branches of NIT & IIIT)",
+        "subjects": ["Engineering Physics - I & II"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,193 @@
+{
+    "Faculty": {
+      "Name": "Dr. Ranjita Das",
+      "Designation": "Assistant Professor",
+      "Department": "Computer Science and Engineering",
+      "DateOfJoining": "08/09/2022",
+      "Email": "ranjita.nitm@gmail.com",
+      "ResearchAreas": [
+        "Artificial Intelligence",
+        "Evolutionary Computation",
+        "Pattern Recognition",
+        "NLP",
+        "Computational Biology",
+        "Computer Vision and Image Processing",
+        "Image Captioning"
+      ],
+      "CV": "View",
+      "CoursesTaught": {
+        "UG": [
+          "Data Structures",
+          "Theory of Computation",
+          "Data Communication",
+          "Computer Networks",
+          "Data Mining",
+          "Introduction to Programming"
+        ],
+        "PG": [
+          "Machine Learning",
+          "Artificial Intelligence",
+          "Pattern Recognition",
+          "Soft Computing"
+        ]
+      },
+      "Address": {
+        "Street": "Room No 217, APJ Abdul Kalam Block, CSE Department, NIT Agartala",
+        "City": "Agartala",
+        "State": "Tripura",
+        "Country": "India",
+        "PIN": "799046"
+      },
+      "Phone": {
+        "Residence": null,
+        "Mobile": "8787779140"
+      },
+      "AcademicQualifications": [
+        {
+          "Degree": "Ph.D.",
+          "Institute": "NIT Mizoram",
+          "Year": 2018,
+          "Subject": "Computer Science & Engineering"
+        },
+        {
+          "Degree": "M.Tech",
+          "Institute": "Tezpur University",
+          "Year": 2011,
+          "Subject": "Information Technology"
+        },
+        {
+          "Degree": "B.Tech",
+          "Year": 2008,
+          "Subject": "Computer Science & Engineering"
+        }
+      ],
+      "Publications": {
+        "Conference": [
+          {
+            "Title": "An Abstractive Text Summarization Using Recurrent Neural Network",
+            "Authors": "Debnath, D., Pakray, P., Das, R., Gelbukh, A.",
+            "Conference": "CICLing 2018",
+            "Series": "Lecture Notes in Computer Science, vol 13397",
+            "Publisher": "Springer, Cham",
+            "Month": "FEB",
+            "Year": 2023,
+            "DOI": "https://doi.org/10.1007/978-3-031-23804-8_29"
+          },
+          {
+            "Title": "Transfer Learning-Based Advanced Deep Learning Architecture for the Identification of HIV-1 Integration Sites Using Imbalanced Dataset",
+            "Authors": "Boruah, M., Das, R.",
+            "Conference": "FICTA 2022",
+            "Series": "Smart Innovation, Systems and Technologies, vol 327",
+            "Publisher": "Springer, Singapore",
+            "Month": "FEB",
+            "Year": 2023,
+            "DOI": "https://doi.org/10.1007/978-981-19-7524-0_42"
+          },
+          {
+            "Title": "Ship Detection from Satellite Images with Advanced Deep Learning Model (Single Shot Detector (SSD))",
+            "Authors": "Kolluri, J., Das, R.",
+            "Conference": "FICTA 2022",
+            "Series": "Smart Innovation, Systems and Technologies, vol 327",
+            "Publisher": "Springer, Singapore",
+            "Month": "FEB",
+            "Year": 2023,
+            "DOI": "https://doi.org/10.1007/978-981-19-7524-0_30"
+          }
+        ],
+        "Journal": [
+          {
+            "Title": "SCT: Summary Caption Technique for Retrieving Relevant Images in Alignment with Multimodal Abstractive Summary",
+            "Authors": "S. Rafi and R. Das",
+            "Journal": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+            "Month": "FEB",
+            "Year": 2024,
+            "Rank": "Q1",
+            "Index": "SCI"
+          },
+          {
+            "Title": "Plant Disease Identification Based on Multimodal Learning",
+            "Authors": "Kolluri, J., Dash, S.K., Das, R.",
+            "Journal": "International Journal of Intelligent Systems and Applications in Engineering",
+            "Month": "FEB",
+            "Year": 2024,
+            "Index": "Scopus"
+          }
+        ]
+      },
+      "BooksPublished": [
+        {
+          "Title": "Intelligent Data Engineering and Analytics",
+          "Authors": "Vikrant Bhateja, Xin-She Yang, Jerry Chun-Wei Lin, Ranjita Das",
+          "Publisher": "Springer Singapore",
+          "Year": 2023,
+          "DOI": "https://doi.org/10.1007/978-981-19-7524-0",
+          "Format": "eBook",
+          "ISBN": "978-981-19-7524-0"
+        },
+        {
+          "Title": "Evolution in Computational Intelligence",
+          "Authors": "V Bhateja, Xin-She Yang, Jerry Chun-Wei Lin, Ranjita Das",
+          "Publisher": "Springer Nature Singapore",
+          "Year": 2022,
+          "ISBN": "9789811975127"
+        }
+      ],
+      "ConferencesConducted": [
+        {
+          "Title": "10th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA 2022)",
+          "Month": "JUN",
+          "Year": 2022
+        },
+        {
+          "Title": "9th International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA 2021)",
+          "Month": "JULY",
+          "Year": 2021
+        }
+      ],
+      "Achievements": [
+        {
+          "Achievement": "Best paper award in the conference FICTA2022",
+          "Year": 2022
+        },
+        {
+          "Achievement": "Best paper award in the conference FICTA2021",
+          "Year": 2021
+        },
+        {
+          "Achievement": "Best paper award in the conference IEEE-INDICON 2015",
+          "Year": 2020
+        },
+        {
+          "Achievement": "Sponsored Project: Identification and Characterization of glioblastoma tumour cell from the single cell RNA seq data using Machine learning technique",
+          "PrincipalInvestigator": "Dr. Ranjita Das",
+          "Funding": "DST-SERB",
+          "AmountInLac": 18.54,
+          "Duration": "2020-2023"
+        },
+        {
+          "Achievement": "Sponsored Project: Integrated Software for analyzing Single Cell RNA Sequencing data",
+          "PrincipalInvestigator": "Dr. Ranjita Das",
+          "CoInvestigator": "Dr. Asish Anand, IIT Ghy",
+          "Funding": "DBT",
+          "AmountInLac": 11.74,
+          "Duration": "2019-2021"
+        }
+      ],
+      "Subjects": {
+        "UG": [
+          "Theory of Computation",
+          "Data Structures",
+          "Computer Networks",
+          "Data Communications"
+        ],
+        "PG": [
+          "Pattern Recognition",
+          "Data Mining",
+          "Machine Learning",
+          "Artificial Intelligence",
+          "Soft Computing"
+        ]
+      }
+    }
+  }
+  

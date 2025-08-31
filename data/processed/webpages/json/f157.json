@@ -1,0 +1,18 @@
+{
+    "name": "Dr. Tarun Kanti Bandyopadhyay",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "email": "tarunkantibanerjee0@gmail.com",
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "tarunkantibanerjee0@gmail.com",
+      "residence_phone": null,
+      "mobile": "9612976529"
+    }
+  }
+  

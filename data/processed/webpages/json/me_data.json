@@ -1,0 +1,48 @@
+{
+    "Department": "Mechanical Engineering",
+    "Program Educational Objectives (PEOs)": [
+      "To empower students to identify, formulate and solve Mechanical Engineering problems by applying their knowledge in the field of Mathematics, Science, Communication and Computing skills and enabling them to understand specific problem areas and finding the optimum solutions for the same.",
+      "To widen the talents of the students to become effective collaborators and innovators, leading in efforts to tackle social, business, design and production challenges.",
+      "To develop industry focused skills and leadership qualities to become successful engineers and entrepreneurs.",
+      "To enable students to acquire skills to communicate effectively with the society and the constituents which enable them to collaborate as team members and team leaders.",
+      "To instill professional work ethics and social responsibilities.",
+      "To encourage the students for developing life-long learning attitude with moral ethics and values and professional development through higher study, continuing education and Independent research activities."
+    ],
+    "Program Specific Outcomes (PSOs)": [
+      "Specification, fabrication, testing, operation or documentation of basic mechanical systems/processes.",
+      "Analysis, design, development and implementation of more advanced mechanical systems or processes."
+    ],
+    "Undergraduate Programmes": {
+      "Courses": [
+        {
+          "Name": "B.Tech in Mechanical Engineering",
+          "Duration": "4 years"
+        }
+      ]
+    },
+    "Postgraduate Programmes": {
+      "Courses": [
+        {
+          "Name": "M.Tech in Material Science and Engineering",
+          "Duration": "2 years"
+        },
+        {
+          "Name": "M.Tech in Thermal Science and Engineering",
+          "Duration": "2 years"
+        },
+        {
+          "Name": "M.Tech in Manufacturing Technology",
+          "Duration": "2 years"
+        },
+        {
+          "Name": "M.Tech in Automotive Engineering",
+          "Duration": "2 years"
+        },
+        {
+          "Name": "M.Tech in Machine Design",
+          "Duration": "2 years"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Dr. Jayanta Kumar Rakshit",
+        "designation": "HOD & Associate Professor",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "jayantarakshit.eie@nita.ac.in"
+    },
+    {
+        "name": "Dr. Debanjan Acharyya",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "iammdebanjan@gmail.com"
+    },
+    {
+        "name": "Dr. SUBIR DAS",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "subir.mcet@gmail.com"
+    },
+    {
+        "name": "Dr. Yogesh Kumar Sariya",
+        "designation": "Assistant Professor",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "yogesh.sariya1@gmail.com"
+    },
+    {
+        "name": "Dr. APARUPA KAR",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "goldylocks1990@gmail.com"
+    },
+    {
+        "name": "Dr. PRIYANKA DEY",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "priyankadey.mtech@gmail.com"
+    },
+    {
+        "name": "Mrs. Priyanka Roy Goswami",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "priyankad198219@gmail.com"
+    },
+    {
+        "name": "Dr. Rupam Gupta Roy",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Electronics and Instrumentation Engineering",
+        "email": "rupamguptaroy05@gmail.com"
+    }
+]

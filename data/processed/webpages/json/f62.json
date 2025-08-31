@@ -1,0 +1,110 @@
+{
+    "name": "Prof. Aparna Nath",
+    "designation": "Professor",
+    "department": "Physics",
+    "email": "aparnanath1964@gmail.com",
+    "address": {
+      "address_line": "Ramnagar",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "aparnanath1964@gmail.com",
+      "mobile": "9436926536"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 1996,
+        "subject": "Studies of Structure and Properties of Liquid Crystals, Plasma Physics"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Polymer based LaFeO3-Poly (vinylidene fluoride) hybrid nanocomposites: Enhanced magneto-electric coupling, magnetoimpedance and dielectric response",
+        "authors": ["D Nath", "SK Mandal", "A Nath"],
+        "journal": "Journal of Alloys and Compounds",
+        "volume": 806,
+        "pages": "968-975",
+        "month": "October",
+        "year": 2019
+      },
+      {
+        "title": "Inorganic-organic hybrid nanocomposites: Magnetoelectric coupling, dielectric and AC electrical response",
+        "authors": ["R Debnath", "SK Mandal", "A Nath"],
+        "journal": "Materials Letters",
+        "volume": 237,
+        "pages": "80-82",
+        "month": "February",
+        "year": 2019
+      },
+      {
+        "title": "Magnetically tunable alternating current electrical properties of (100-x)% La0.7Sr0.3MnO3-x% paraffin wax (0.05 ≤ x ≤ 1.0) hybrid nanocomposites",
+        "authors": ["D Deb", "R Debnath", "SK Mandal", "A Nath", "P Dey"],
+        "journal": "Journal of Alloys and Compounds",
+        "volume": 776,
+        "pages": "71-82",
+        "month": "March",
+        "year": 2019
+      },
+      {
+        "title": "Ba doped Fe3O4 nanocrystals: Magnetic field and temperature tuning dielectric and electrical transport",
+        "authors": ["P Dutta", "SK Mandal", "A Nath"],
+        "journal": "Materials Research Express",
+        "volume": 5,
+        "issue": 5,
+        "pages": "055003",
+        "month": "March",
+        "year": 2018
+      },
+      {
+        "title": "Diagnostic study of multiple double layer formation in expanding RF plasma",
+        "authors": ["S Chakraborty", "MK Paul", "JN Roy", "A Nath"],
+        "journal": "Physics of Plasmas",
+        "volume": 25,
+        "issue": 3,
+        "pages": "033518",
+        "month": "March",
+        "year": 2018
+      },
+      {
+        "title": "Magnetoelectric coupling, dielectric and electrical properties of xLa0.7Sr0.3MnO3–(1-x) Pb(Zr0.58Ti0.42)O3 (x=0.05 and 0.1) multiferroic nanocomposites",
+        "authors": ["SK Mandal", "S Singh", "R Debnath", "A Nath", "P Dey"],
+        "journal": "Journal of Alloys and Compounds",
+        "volume": 720,
+        "pages": "550-561",
+        "month": "October",
+        "year": 2017
+      },
+      {
+        "title": "Signature of magnetoelectric coupling of xNiFe2O4–(1-x) HoMnO3 (x=0.1 and 0.3) multiferroic nanocomposites",
+        "authors": ["SK Mandal", "R Debnath", "S Singh", "A Nath", "P Dey", "TK Nath"],
+        "journal": "Journal of Magnetism and Magnetic Materials",
+        "volume": 443,
+        "pages": "222-232",
+        "month": "December",
+        "year": 2017
+      },
+      {
+        "title": "Studies of optical texture, birefringence, order parameter, normalized polarizability and validation of the four-parameter model of a thermotropic mesogen 7OAOB",
+        "authors": ["S Patari", "TK Devi", "A Nath"],
+        "journal": "Journal of Molecular Liquids",
+        "volume": 215,
+        "pages": "244-252",
+        "month": "March",
+        "year": 2016
+      },
+      {
+        "title": "The optical anisotropy and orientational order parameter of two mesogens having slightly different flexible side chain–a comparative study",
+        "authors": ["S Patari", "S Chakraborty", "A Nath"],
+        "journal": "Liquid Crystals",
+        "volume": 43,
+        "issue": 8,
+        "pages": "1017-1027",
+        "month": "June",
+        "year": 2016
+      }
+    ]
+  }
+  

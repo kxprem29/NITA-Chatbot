@@ -1,0 +1,73 @@
+{
+    "name": "Prof. Sujit Kumar Pal",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "skpal1963@gmail.com",
+    "research_area": [
+      "Soil Characterization",
+      "Soil-structure interaction",
+      "Ground Improvement",
+      "Environmental Geotechnique",
+      "Highway and Railway Geotechnology",
+      "Shallow and Deep Foundations",
+      "Geotextiles",
+      "Stability of Slopes",
+      "Soil Dynamics"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Foundation Design & Detailing",
+        "Ground Improvement Technique",
+        "Geotechnical Engg.-III",
+        "Soil Mechanics",
+        "Foundation Engg.",
+        "Theory of Structures",
+        "Structural Design (RCC & Steel)",
+        "Highway Engg.",
+        "Railway Engg.",
+        "Strength of Materials",
+        "Engg. Mechanics"
+      ],
+      "PG": [
+        "Advanced Foundation Design",
+        "Mechanics of Soils",
+        "Soil-Structure Interaction"
+      ]
+    },
+    "phd_students": {
+      "completed": 4,
+      "ongoing": 4
+    },
+    "address": {
+      "street": "UNIT-5, MOUCHAK RESIDENTIAL APPARTMENT, NIT AGARTALA, JIRANIA, PIN-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "skpal1963@gmail.com",
+      "residence_phone": "8287277823",
+      "mobile": "9436582750"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2010,
+        "subject": "Engineering",
+        "institution": "Bengal Engineering & Science University, Shibpur (Presently, Indian Institute of Engineering, Science and Technology, Shibpur)"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 1994,
+        "subject": "Soil Mechanics & Foundation Engineering",
+        "institution": "IIT Kharagpur"
+      },
+      {
+        "degree": "B.E.",
+        "year": 1986,
+        "subject": "Civil Engineering",
+        "institution": "KREC, Surathkal (Presently, NITK, Surathkal)"
+      }
+    ]
+  }
+  

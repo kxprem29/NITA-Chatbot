@@ -1,0 +1,129 @@
+{
+    "name": "Dr. Amlanbrata Chakraborty",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Management, Humanities & Social Sciences",
+    "date_of_joining": "21/07/2014",
+    "contact": {
+      "email": "chakrabortyamlanbrata606@gmail.com",
+      "phone_residence": "8416044806",
+      "phone_mobile": "9862519709"
+    },
+    "address": {
+      "street": "P.O A D Nagar, Bardowali",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "research_area": "White Collar Business Crime",
+    "courses_taught": {
+      "UG": [],
+      "PG": ["Finance", "Marketing", "Human Resources"]
+    },
+    "academic_qualifications": [
+      {
+        "degree": "Ph.D.",
+        "subject": "White Collar Business Crime",
+        "year": 2014,
+        "description": "A study of White Collar Business Crime with reference to some selected cases in Tripura"
+      },
+      {
+        "degree": "LL.M.",
+        "subject": "Intellectual Property Right",
+        "year": 2013
+      },
+      {
+        "degree": "LL.B.",
+        "subject": "Civil and Criminal Law",
+        "year": 2005
+      },
+      {
+        "degree": "M.B.A.",
+        "subject": "Marketing and Finance",
+        "year": 2000
+      },
+      {
+        "degree": "B.A.",
+        "subject": "History Honours",
+        "year": 1996
+      }
+    ],
+    "publications": [
+      {
+        "type": "Book Chapter",
+        "title": "Intellectual Property Rights: An overview, Types, Gender Issues and Management",
+        "book": "Emerging Trends in Human Resource Management",
+        "isbn": "978-81-19149-35-3",
+        "publisher": "Kripa Drishti Publications",
+        "month": "JUN",
+        "year": 2023
+      },
+      {
+        "type": "Book Chapter",
+        "title": "Paradoxes and Ambiguities in Statutory Provisions",
+        "book": "Sustainable Development Goals in SAARC countries: Key issues and Opportunities and Challenges, Volume 1",
+        "isbn": "978-93-94819-34-4",
+        "month": "JUN",
+        "year": 2015
+      },
+      {
+        "type": "Journal Article",
+        "title": "Regulation and Deregulation of Cooperatives in context of Legal Frame work",
+        "journal": "International Journal of Research in Commerce IT & Management",
+        "volume": 5,
+        "issue": 5,
+        "month": "MAY",
+        "year": 2015
+      },
+      {
+        "type": "Journal Article",
+        "title": "Contributing Aspects of Indo Bangladesh Bilateral Relation With Special Reference to Tripura",
+        "journal": "Paripex-Indian Journal of Research",
+        "volume": 2,
+        "issue": 9,
+        "month": "SEPT",
+        "year": 2013
+      },
+      {
+        "type": "Journal Article",
+        "journal": "Lingaya's Journal of Professional Studies",
+        "volume": 7,
+        "issue": 2,
+        "month": "JAN",
+        "year": 2012
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title_of_paper": "Influence of Literature on Corruption over Society",
+        "conference": "International Conference organised by Department of English of Holy Cross College and Tripura University",
+        "date": "02-03 February 2013",
+        "month": "FEB",
+        "year": 2013
+      },
+      {
+        "title_of_paper": "National Conference on Indian Regulatory Framework of Cooperatives",
+        "conference": "Organised by Department of Commerce Tripura University",
+        "date": "19th to 21st April 2013",
+        "month": "APRIL",
+        "year": 2013
+      }
+    ],
+    "subjects_handled": [
+      { "semester": "MBA 1st Semester", "subject": "Business and Environmental Law" },
+      { "semester": "MBA 1st Semester", "subject": "Principle and Practices of Management" },
+      { "semester": "MBA 3rd Semester", "subject": "E Business" },
+      { "semester": "MBA 3rd Semester", "subject": "Advertising and Sales Promotion" },
+      { "semester": "MBA 3rd Semester", "subject": "Entrepreneurial Management" },
+      { "semester": "MBA 3rd Semester", "subject": "Creativity, Innovation & Entrepreneurship" },
+      { "semester": "MBA 3rd Semester", "subject": "Consumer Behaviour" },
+      { "semester": "MBA 3rd Semester", "subject": "Business to Business Marketing" },
+      { "semester": "MBA 4th Semester", "subject": "Sales & Distribution Management" },
+      { "semester": "MBA 4th Semester", "subject": "International Marketing" },
+      { "semester": "MBA 4th Semester", "subject": "Financial Services and Financial Markets" },
+      { "semester": "MBA 1st Semester", "subject": "Business & Society" },
+      { "semester": "MBA 2nd Semester", "subject": "Intellectual Property Right" },
+      { "semester": "MBA 2nd Semester", "subject": "Business Law and Corporate Taxation" },
+      { "semester": "MBA 4th Semester", "subject": "International Finance" }
+    ]
+  }
+  

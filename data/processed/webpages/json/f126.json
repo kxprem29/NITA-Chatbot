@@ -1,0 +1,43 @@
+{
+    "name": "Dr. Manojit Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "date_of_joining": "07/08/2014",
+    "email": "mroychem@gmail.com",
+    "address": {
+      "address": "Kalyani Water Supply Road, Opposite lane of Sabyasachi Club, South Dhaleswar, P.O. College Tilla, Agartala, West Tripura-799004",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mroychem@gmail.com",
+      "phone_residence": "09612956108",
+      "phone_mobile": "9612956108"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2016,
+        "subject": "Chemistry",
+        "specialization": "Organotin(IV) Carboxylate and its Biological application"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2011,
+        "subject": "Chemistry",
+        "specialization": "Inorganic Chemistry Special"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science",
+        "year": 2009,
+        "subject": "Chemistry",
+        "specialization": "Chemistry Honours"
+      }
+    ],
+    "publications": []
+  }
+  

@@ -1,0 +1,193 @@
+{
+    "department": "Electrical Engineering",
+    "faculty_staff_profile": {
+      "name": "Prof. Priyanath Das",
+      "designation": "Professor",
+      "department": "Electrical Engineering",
+      "date_of_joining": "23/02/1996",
+      "email_id": "priyanathdas@yahoo.co.in",
+      "cv": "View",
+      "address_information": {
+        "address": "-",
+        "city": "-",
+        "state": "-",
+        "country": "-"
+      },
+      "contact_information": {
+        "email_address": "priyanathdas@yahoo.co.in",
+        "phone_residence": "-",
+        "phone_mobile": "9436541700"
+      },
+      "publication_journal": [
+        {
+          "title": "Instantaneous power theory based an improved LVRT strategy for PV-PEMFC based hybrid micro-grid system, Electrical Engineering, Springer.",
+          "year": 2024
+        },
+        {
+          "title": "Instantaneous power theory-fuzzy intelligent controller (IPT-FIC) based improved low voltage ride-through strategy for grid connected photovoltaic system, Microsystem Technologies, Springer.",
+          "year": 2024
+        },
+        {
+          "title": "A Modified Criss-Cross-Based T-Type MLI with Reduced Power Components, Technologies.",
+          "year": 2024
+        },
+        {
+          "title": "A New Symmetrical Source-Based DC/AC Converter with Experimental Verification, Electronics.",
+          "year": 2024
+        },
+        {
+          "title": "Design, implementation and validation of a new multi-level topology with fewer components, Microsystem Technologies, Springer.",
+          "year": 2024
+        },
+        {
+          "title": "Enrichment of voltage stability in power system through novel generalized approximate reasoning based intelligent control with african buffalo optimization approach, Soft Computing.",
+          "year": 2023
+        },
+        {
+          "title": "Impedance based directional relaying for smart power networks integrating with converter interfaced photovoltaic plants, Electric Power Systems Research, Elsevier.",
+          "year": 2022
+        },
+        {
+          "title": "A New Design of Multilevel Inverter Based on T-type Symmetrical and Asymmetrical DC Sources. Iranian Journal of Science and Technology, Transactions of Electrical Engineering.",
+          "year": 2022
+        },
+        {
+          "title": "Amplitude based directional relaying scheme for UPFC compensated line during single pole tripping, Electric Power Systems Research, Elsevier.",
+          "year": 2020
+        },
+        {
+          "title": "Optimization of Hybrid energy systems: An analysis of Soft computing approaches, IJSTR.",
+          "year": 2020
+        },
+        {
+          "title": "Wind power generation probabilistic modeling using ensemble learning techniques, Journal of Materials Today: Proc, Elsevier.",
+          "year": 2020
+        },
+        {
+          "title": "Design of a solar MPPT with improved Fuzzy logic, IJRTE, ELSEVIER.",
+          "year": 2019
+        },
+        {
+          "title": "Comparative study of the effects of SVC and TCSC on the small signal stability of a power system with renewables, Journal of Renewable and Sustainable Energy.",
+          "year": 2019
+        },
+        {
+          "title": "Tuned Power System Stabilizer for Enhancing Small Signal Stability of Large Interconnected Power System, Caribbean Journal of Sciences.",
+          "year": 2019
+        },
+        {
+          "title": "A novel approach towards uncertainty modeling in multi-objective optimal power flow with renewable integration, Int Trans ElectrEnerg Syst.",
+          "year": 2019
+        },
+        {
+          "title": "HSOS: A novel hybrid algorithm for solving the transient stability constrained OPF problem, Soft Computing.",
+          "year": 2019
+        },
+        {
+          "title": "An Adaptive protection coordination Technique for unbalanced 3-Phase Radial Distribution system, Journal of Engineering Research.",
+          "year": 2019
+        },
+        {
+          "title": "Quasi-reflection based symbiotic organisms search algorithm for solving static optimal power flow problem, Scientia Iranica.",
+          "year": 2018
+        },
+        {
+          "title": "A powerful metaheuristic algorithm to solve static optimal power flow problems: symbiotic organisms search, International Journal on Electrical Engineering and Informatics.",
+          "year": 2018
+        },
+        {
+          "title": "Online adaptive protection scheme for electrical distribution network with high penetration of renewable energy sources, Journal of Engineering Research.",
+          "year": 2018
+        },
+        {
+          "title": "Water evaporation algorithm: a new meta-haustic algorithm towards the solution of optimal power flow, Engineering science and technology.",
+          "year": 2017
+        },
+        {
+          "title": "Tuning of power system stabilizer for small signal stability improvement of interconnected power system, Applied Computing and Informatics.",
+          "year": 2017
+        },
+        {
+          "title": "Power improvement in PV panel under temperature variation fault using refrigeration mechanism and its implementation, Journal of Engineering Research.",
+          "year": 2017
+        },
+        {
+          "title": "Impact of Temperature on Performance of Photovoltaic System at NIT Agartala Campus-A Case Study, International journal of control theory and applications.",
+          "year": 2017
+        },
+        {
+          "title": "A Direct Method for Voltage Stability Prediction on Power Networks using Supervised Learning Algorithm in Smart Grid Scenario, International Journal of Engineering & Technology, IJET-IJENS.",
+          "year": 2017
+        },
+        {
+          "title": "Detection of Proximity to Voltage Collapse of Multi-Bus Power Network using Transmission Line Voltage Stability Indicator, ARPN Journal of Engineering and Applied Sciences.",
+          "year": 2016
+        },
+        {
+          "title": "Hybrid Solar Cell With TiO2 Film: BBOT Polymer And Copper Phthalocyanine As Sensitizer, Advances In Electrical And Electronic Engineering.",
+          "year": 2016
+        },
+        {
+          "title": "Improvement in Power Efficiency of Photovoltaic Array Under Shading Condition Using Bypass Diode, International Journal of Renewable Energy Research.",
+          "year": 2016
+        },
+        {
+          "title": "Fabrication of DSSC with Nano porous TiO2 Film and Kenaf Hibiscus Dye as Sensitizer, International Journal of Renewable Energy Research.",
+          "year": 2016
+        },
+        {
+          "title": "Fabrication of hybrid ultraviolet photodetector using organic polymer thin-film- coated TiO2 nanowires, Journal of Nanophotonics.",
+          "year": 2016
+        },
+        {
+          "title": "A comparative study on the computation of directional overcurrent relay coordination in power systems using PSO and TLBO based optimization, Engineering Computations.",
+          "year": 2016
+        },
+        {
+          "title": "Improvement of Power Efficiency in of Photo Voltaic Array under shading condition using bypass diode, International Journal of Renewable Energy Research (IJRER).",
+          "year": 2016
+        },
+        {
+          "title": "Detection of Fault Direction and Location in Compensated System using Sequence Component, IJST.",
+          "year": 2016
+        },
+        {
+          "title": "Optimal coordination of directional overcurrent relays in power systems using Symbiotic organism Search (SOS) optimization technique, IET Generation, Transmission & Distribution.",
+          "year": 2016
+        },
+        {
+          "title": "An Algorithm for Directional Relay during Voltage Inversion, International Journal of Control Theory and Application.",
+          "year": 2015
+        },
+        {
+          "title": "Development of Fault Location Algorithm by using PMU for Power System Protection, International Journal of Control Theory and Application.",
+          "year": 2015
+        },
+        {
+          "title": "Development & Implementation of Direct Torque Control for Three Phase Induction Motor Drives, International Journal of Advanced Scientific and Technical Research.",
+          "year": 2013
+        }
+      ],
+      "book_published": [
+        {
+          "title": "Control Of Temperature And Relative Humidity In A/C Coaches",
+          "year": "0"
+        },
+        {
+          "title": "Modeling and Simulation of various FACTS devices in Power System",
+          "year": "0"
+        }
+      ],
+      "patent": [
+        {
+          "title": "APPARATUS FOR COLLECTING RECYCLABLE OBJECTS AND DISPENSING REWARDS",
+          "year": 2022
+        },
+        {
+          "title": "A MULTIPLE POWER SOURCE BASED ELECTRICAL DRIVE",
+          "year": 2016
+        }
+      ]
+    }
+  }
+  

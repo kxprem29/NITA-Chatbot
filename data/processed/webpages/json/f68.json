@@ -1,0 +1,86 @@
+{
+    "name": "Dr. Uttam Kumar Mandal",
+    "designation": "Associate Professor",
+    "department": "Production Engineering",
+    "date_of_joining": "28/05/2012",
+    "email": "uttamkumar_mandal@yahoo.co.in",
+    "research_url": "https://www.researchgate.net/profile/Uttam-Mandal-5",
+    "research_areas": [
+      "Advanced Machining",
+      "Multi Criteria Decision Making (MCDM)",
+      "Case Based Reasoning (CBR)",
+      "Advanced Fluidics"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Fluid Mechanics and Machine",
+        "Machining Principle and Technology",
+        "Thermal Power Engineering",
+        "Machine Tool Design"
+      ],
+      "PG": [
+        "Advanced Optimization Techniques",
+        "Advanced Machining"
+      ]
+    },
+    "phd_students": {
+      "completed": [
+        "Binayak Sen",
+        "Syed Abou Iltaf Hossain",
+        "Rajesh Chakraborty",
+        "Pushparenu Bhattacharyya",
+        "Debashish Podder",
+        "Lokesh Kumar Ranjan"
+      ],
+      "ongoing": [
+        "Abhiman Debnath",
+        "Jewel Debnath"
+      ]
+    },
+    "address": {
+      "address_line": "NIT Agartala Campus, Qtr. No-4B/6/4, Barjala, Jirania, West Tripura, PIN-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "uttamkumar_mandal@yahoo.co.in",
+      "residence_phone": "8731986434",
+      "mobile_phone": "8787613453"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "department": "Production Engineering",
+        "university": "Jadavpur University, Kolkata, India",
+        "year": null
+      },
+      {
+        "degree": "M.E.",
+        "department": "Production Engineering",
+        "university": "Jadavpur University, Kolkata, India",
+        "year": null
+      },
+      {
+        "degree": "B.E.",
+        "department": "Mechanical Engineering",
+        "university": "Jadavpur University, Kolkata, India",
+        "year": null
+      }
+    ],
+    "patents": [
+      {
+        "title": "Device to Dispense Lubrication for Machining Operation",
+        "design_number": "419641-001",
+        "date": "16.07.2024",
+        "office": "The Patent Office, Government of India"
+      },
+      {
+        "title": "Lubrication Dispensing System for Machining Operation",
+        "design_number": "419354-001",
+        "date": "27.08.2024",
+        "office": "The Patent Office, Government of India"
+      }
+    ]
+  }
+  

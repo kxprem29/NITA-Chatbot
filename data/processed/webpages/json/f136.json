@@ -1,0 +1,71 @@
+{
+    "Name": "Dr. Surajit Das",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering (NBA Accredited)",
+    "Email": "surajit2006r@gmail.com",
+    "Address": "Flat No. 05/03, Brahmaputra Residential Block, NIT Agartala Campus",
+    "City": "AGARTALA",
+    "State": "TRIPURA",
+    "Country": "India",
+    "Phone": "08731986489",
+    "Academic Information": [
+      {
+        "Degree": "Ph. D.",
+        "Year": "2012",
+        "Subject": "Geometrically and Materially Nonlinear Finite Element Analysis of Shape Memory Alloy Smart Structure"
+      }
+    ],
+    "Publications": [
+      {
+        "Title": "Gupta, S.K., Das, S. Multiple Damage Identification in a Beam Using Artificial Neural Network-Based Modified Mode Shape Curvature. Arab J Sci Eng 47, 4849–4864 (2022).",
+        "Month": "APRIL",
+        "Year": "2022"
+      },
+      {
+        "Title": "Gupta, S.K., Das, S. Damage detection in a cantilever beam using noisy mode shapes with an application of artificial neural network-based improved mode shape curvature technique. Asian J Civ Eng 22, 1671–1693 (2021)",
+        "Month": "NOV",
+        "Year": "2021"
+      },
+      {
+        "Title": "Routh, B. Das, S. An Alternative Formulation for Determining Stiffness of Members with Bolted Connection. Int J of Engg Research & Tech (IJERT) 5, 442-445 (2016)",
+        "Month": "JAN",
+        "Year": "2016"
+      },
+      {
+        "Title": "Bajoria, K. M. Das, S. Finite Element Analysis of the Pseudo-elastic Behavior of Shape Memory Alloy Truss and Beam. Int J of Adv Strl Engg 2, 11-26 (2010)",
+        "Month": "JUN",
+        "Year": "2010"
+      }
+    ],
+    "Subjects": [
+      {
+        "Class": "B. Tech. Civil Engg",
+        "Subject": "Mechanics of Solids"
+      },
+      {
+        "Class": "B. Tech. Civil Engg",
+        "Subject": "Data Structures and Numerical Methods"
+      },
+      {
+        "Class": "B. Tech. Civil Engg",
+        "Subject": "Mechanics of Fluids"
+      },
+      {
+        "Class": "B. Tech. Civil Engg",
+        "Subject": "Structural Analysis I"
+      },
+      {
+        "Class": "M. Tech. Structural Engg",
+        "Subject": "Finite Element Method"
+      },
+      {
+        "Class": "M. Tech. Structural Engg",
+        "Subject": "Theory of Elasticity & Plasticity"
+      },
+      {
+        "Class": "M. Tech. Structural Engg",
+        "Subject": "Optimization in Engineering"
+      }
+    ]
+  }
+  

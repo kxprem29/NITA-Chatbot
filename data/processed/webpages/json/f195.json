@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Nikhil Debbarma",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "email": "nikhildb@rediffmail.com",
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "nikhildb@rediffmail.com",
+      "residence_phone": null,
+      "mobile": "+91 381 2348031"
+    }
+  }
+  

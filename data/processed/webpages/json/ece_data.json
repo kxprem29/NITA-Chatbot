@@ -1,0 +1,16 @@
+{
+    "Department": "Electronics and Communication Engineering",
+    "Programmes": {
+      "Under Graduate Programmes": [
+        "B.Tech in Electronics and Communication Engineering (4 years)"
+      ],
+      "Post Graduate Programmes": [
+        "M.Tech in Communication Systems & Signal Processing",
+        "M.Tech in VLSI Design"
+      ],
+      "Ph.D Programmes": [
+        "Ph.D in Electronics and Communication Engineering"
+      ]
+    }
+  }
+  

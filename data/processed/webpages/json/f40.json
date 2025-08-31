@@ -1,0 +1,116 @@
+{
+    "name": "Dr. Ankuran Saha",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "ankuransaha.me@nita.ac.in",
+    "research_area": [
+      "Vibration",
+      "Rotor Dynamics",
+      "Dynamic behavior of Composites"
+    ],
+    "address": {
+      "street": "Vill: North Champamura, PO: Old Agartala, Via: Khayerpur, West Tripura, PIN: 799008",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "ankuransaha.me@nita.ac.in",
+      "phone_residence": "03812548515",
+      "phone_mobile": "-"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2017,
+        "subject": "Mechanical Engineering, Jadavpur University"
+      },
+      {
+        "degree": "M.E.",
+        "description": "Master of Engineering",
+        "year": 2009,
+        "subject": "Applied Mechanics Specialization"
+      },
+      {
+        "degree": "B.E.",
+        "description": "Bachelor of Engineering",
+        "year": 2007,
+        "subject": "Tripura Engineering College (Presently NIT Agartala)"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Dynamics of Machines",
+        "Advanced Machine Design",
+        "Vibration",
+        "NMCP",
+        "Mechanics"
+      ],
+      "PG": [
+        "Advanced Vibration",
+        "Finite Element Method"
+      ]
+    },
+    "publications_conference": [
+      {
+        "title": "Stiffness Analysis of Delaminated Composite Beams Using Roller Clamps",
+        "conference": "GTINDIA2021-76042",
+        "year": 2021,
+        "url": "https://doi.org/10.1115/GTINDIA2021-76042"
+      },
+      {
+        "title": "STIFFNESS ANALYSIS OF COMPOSITE BEAM WITH ROLLER CLAMPS",
+        "conference": "International conference on Recent Trends in Mechanical and Materials Engineering (ICRTMME19)",
+        "year": 2019
+      },
+      {
+        "title": "Parametric Study on the First Ply Failure Load of Delaminated Shallow Pretwisted Conical Shells – A Finite Element Approach",
+        "conference": "2nd International Conference on Emerging Materials: Characterization and Application (EMCA-2017)",
+        "year": 2017
+      },
+      {
+        "title": "Performance & stability analysis of a three lobe journal bearing with varying parameters: Experiments and analysis",
+        "conference": "International Conference on Mechanical Engineering, BUET, Dhaka",
+        "year": 2015
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Fabrication of Graphene-Reinforced Alumina Composites: Morphology and Mechanical Property",
+        "journal": "Journal of The Institution of Engineers (India): Series D",
+        "year": 2021
+      },
+      {
+        "title": "First-ply failure analysis of delaminated rotating composite conical shells: a finite element approach",
+        "journal": "Journal of The Institution of Engineers (India): Series C",
+        "year": 2017
+      },
+      {
+        "title": "Analytical hierarchy process based supplier selection methodology: a framework and application",
+        "journal": "International Journal of Reliability and Safety",
+        "year": 2016
+      }
+    ],
+    "patents": [
+      {
+        "title": "WHEELCHAIR TO PATIENT BED: QUICK CONVERSION",
+        "application_no": "202331029112 A",
+        "publication_date": "28/04/2023",
+        "year": 2023
+      },
+      {
+        "title": "REGENERATIVE HORN",
+        "application_no": "202031041498 A",
+        "publication_date": "16/10/2020",
+        "year": 2020
+      }
+    ],
+    "achievements": [
+      {
+        "description": "9th in Mathematical Olympiad by Tripura Mathematical Society",
+        "year": 2000
+      }
+    ]
+  }
+  

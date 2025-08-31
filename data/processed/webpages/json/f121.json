@@ -1,0 +1,108 @@
+{
+    "name": "Dr. Pankaj Kumar Das",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "10/03/2006",
+    "email": "pankaj_642004@yahoo.co.in",
+    "address": {
+      "street": "Kalyani Water Supply Road",
+      "city": "Agartala",
+      "state": "Tripura",
+      "pin": "799004",
+      "country": "India"
+    },
+    "contact": {
+      "residence_phone": "9862087663",
+      "mobile_phone": "9862087663",
+      "email": "pankaj_642004@yahoo.co.in"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": "2018",
+        "subject": "Machine Design",
+        "description": "Tribology of Hard Nanocrystalline Diamond Film and Soft Turbostatic Graphite"
+      },
+      {
+        "degree": "M.E.",
+        "year": "2002",
+        "subject": "FEM, CAD, Engineering Tribology, Fracture Mechanics",
+        "description": "Machine Design"
+      },
+      {
+        "degree": "B.E.",
+        "year": "1998",
+        "subject": "Mechanical Engineering",
+        "description": "All subjects of Mechanical Engineering, Tripura Engineering College"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "Tribological characterizations and Numerical Simulations of thermoplastic composites in pin-on-disc configuration",
+          "authors": "Ashish Soni, Pankaj Kumar Das, Sanjay Kumar, Vivek Mishra, Ajay Pagare, Dipendra Kumar, Sanjeet Kumar",
+          "conference": "International Conference on Innovative advancement in Engineering and technology (IAET-2022), Jaipur National University",
+          "month": "MAR",
+          "year": "2022"
+        },
+        {
+          "title": "Development of reinforced sustainable floor tiles by recycling of waste plastics",
+          "authors": "Ashish Soni, Pankaj Kumar Das, Sanjay Kumar",
+          "conference": "4th Sustainability and Resilience Conference: Design and Innovation, University of Bahrain",
+          "month": "NOV",
+          "year": "2022"
+        }
+      ],
+      "journals": [
+        {
+          "title": "Comparative analysis of different multi-criteria decision-making techniques for materials selection of filler reinforced thermoplastic composite",
+          "authors": "Ashish Soni , Pankaj Kumar Das , Mrinal Jyoti Sarma",
+          "journal": "Int. J. Materials and Product Technology, Inderscience (SCI, IF: 0.743)",
+          "volume": "66",
+          "pages": "3/4",
+          "doi": "10.1504/IJMPT.2022.10050649",
+          "month": "MAR",
+          "year": "2023"
+        },
+        {
+          "title": "Selection recycled waste plastic for incorporation in agro-waste for sustainable building construction materials",
+          "authors": "Ashish Soni, Pankaj Kumar Das, Mohammad Yusuf, Syahrir Ridha, Hesam Kamyab, etc.",
+          "journal": "Waste and Biomass Valorization, Springer (Q1, SCI, IF: 3.499)",
+          "month": "MAR",
+          "year": "2023",
+          "doi": "https://doi.org/10.1007/s12649-023-02103-w"
+        }
+      ]
+    },
+    "patents": [
+      {
+        "title": "Compositions and methods for thermoplastics composites by the synergy of RHA, Silica sand and waste plastics",
+        "application_number": "202331008007",
+        "year": "2023"
+      },
+      {
+        "title": "A System for providing Development of Sustainable Composites for Tribological Application",
+        "application_number": "202231071656",
+        "year": "2022"
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "B.Tech 3rd Semester",
+        "subject": "Design of Machine Elements"
+      },
+      {
+        "class": "B.Tech 4th Semester",
+        "subject": "Design of Machine Elements"
+      },
+      {
+        "class": "B.Tech 5th Semester",
+        "subject": "Design of Machine Elements II"
+      },
+      {
+        "class": "M.Tech (Machine Design)",
+        "subject": "FEM, Analysis and Synthesis of Mechanism"
+      }
+    ]
+  }
+  

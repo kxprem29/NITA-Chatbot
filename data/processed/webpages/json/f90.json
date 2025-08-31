@@ -1,0 +1,162 @@
+{
+    "name": "Dr. Abhik Majumder",
+    "designation": "Assistant Professor",
+    "department": "Mechanical Engineering",
+    "email": "onlyabhik@gmail.com",
+    "research_area": "Heat Transfer; Numerical Simulation; Multiphase flow; Interfacial transport of species",
+    "cv": "View",
+    "courses_taught": {
+      "UG": [
+        "Thermodynamics",
+        "Heat and Mass Transfer",
+        "Computational Fluid Dynamics",
+        "Numerical analysis and programming"
+      ],
+      "PG": [
+        "Adv. Heat and mass transfer",
+        "Two Phase flow",
+        "Design of thermal systems",
+        "Numerical Fluid flow and Heat Transfer"
+      ]
+    },
+    "phd_students_ongoing": [
+      "Vishwajeet Kumar",
+      "Jyoti Kumar"
+    ],
+    "address": {
+      "address_line": "AbhikMajumder; S/O Lt. ManiklalMajumder, Ramnagar Road No 05, P.O: Ramnagar,Agartala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "onlyabhik@gmail.com",
+      "residence_phone": "03812346630",
+      "mobile_phone": "06291177474"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2020,
+        "subject": "Mechanical Engineering (IIT Kharagpur)"
+      },
+      {
+        "degree": "M.TECH",
+        "description": "MASTER OF TECHNOLOGY",
+        "year": 2011,
+        "subject": "Fluid and Thermal Science (IIT Kanpur)"
+      },
+      {
+        "degree": "B. TECH.",
+        "description": "BACHELOR OF TECHNOLOGY",
+        "year": 2003,
+        "subject": "Mechanical Engineering (NERIST)"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Numerical Investigation on the Thermal Management of 18650 Battery Module Using Phase Change Material",
+        "authors": "Priya Chaudhary, AbhikMajumder",
+        "conference": "Recent Advances in Manufacturing, Automation, Design and Energy Technologies",
+        "month": null,
+        "year": 2022,
+        "doi": "10.1007/978-981-16-4222-7_91"
+      },
+      {
+        "title": "Numerical and Experimental Analysis of Pool Boiling Heat Transfer Using Graphene Nanofluid",
+        "authors": "SoorajKunninMukalil, Sameer SheshraoGajghate, AbhikMajumder, BidyutBaran Saha2, SwapanBhaumik",
+        "conference": "Proceeding of International Exchange and Innovation Conference on Engineering & Sciences (IEICES) 6",
+        "month": null,
+        "year": 2020
+      },
+      {
+        "title": "Dynamic Evolution of Drop in Immiscible Liquid-Liquid Systems at Low Flow Rate",
+        "authors": "Nikhil Joshi, AbhikMajumder, Prasanta Kumar Das",
+        "conference": "American Institute of Chemical Engineers (AIChE) 2018; Annual Meeting, Pittsburgh, PA ; USA",
+        "month": "OCT",
+        "year": 2018
+      },
+      {
+        "title": "An Experimental Study of Local Nusselt Number for Gas-Liquid Taylor Bubble Flow in a Mini-Channel",
+        "authors": "AbhikMajumder, Mehta B. and Khandekar S.",
+        "conference": "16th International Heat Pipe Conference, Lyon, France",
+        "month": "MAY",
+        "year": 2012
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Fabrication of nano-copper surfaces by thermal evaporation technique to investigate nucleate pool boiling heat transfer performance of R-141b",
+        "authors": "NiloyLaskar, Anil S Katarkar, BiswajitMajumder, AbhikMajumder, SwapanBhaumik",
+        "journal": "Materials Today : Proceedings",
+        "month": null,
+        "year": 2022,
+        "doi": "https://doi.org/10.1016/j.matpr.2022.02.423"
+      },
+      {
+        "title": "Dynamics of drop formation, growth and pinching phenomena from a submerged nozzle",
+        "authors": "Abhik Majumder, Dibyendu Ghosh, Prasanta Kumar Das",
+        "journal": "Chemical Engineering Science",
+        "month": "NOV",
+        "year": 2021,
+        "doi": "https://doi.org/10.1016/j.ces.2021.116808"
+      },
+      {
+        "title": "Role of nanomaterials and surfactants for the preparation of graphene nanofluid: A review",
+        "authors": "Kevin Alexander, Sameer SheshraoGajghate, Anil Shankar Katarkar, AbhikMajumder, SwapanBhaumik",
+        "journal": "Materials Today : Proceedings",
+        "month": null,
+        "year": 2020,
+        "doi": "https://doi.org/10.1016/j.matpr.2020.11.231"
+      },
+      {
+        "title": "Numerical Study Of Fin-Tube Type Heat Exchanger With Delta Winglets",
+        "authors": "Divyprakash C. Pal, AbhikMajumder",
+        "journal": "Frontiers in Heat and Mass Transfer (FHMT)",
+        "month": null,
+        "year": 2016,
+        "doi": "10.5098/hmt.7.1"
+      },
+      {
+        "title": "Performance Study of Continuous Helical Baffle Shell and Tube Heat Exchanger With Central Low-Pressure Regions",
+        "authors": "ParthaPratimSaikia, AbhikMajumder",
+        "journal": "J. Thermal Sci. Eng. Appl.",
+        "month": "AUG",
+        "year": 2016,
+        "doi": "https://doi.org/10.1115/1.4033008"
+      },
+      {
+        "title": "3-Dimensional numerical study of cooling performance of a heat sink with air-water flow through mini-channel",
+        "authors": "SambitMajumder, AbhikMajumder, SwapanBhaumik",
+        "journal": "AIP Conference Proceedings",
+        "month": null,
+        "year": 2015,
+        "doi": "https://doi.org/10.1063/1.4958401"
+      },
+      {
+        "title": "Effect of Corner Radius of a T-Junction Mini-Square Channel on Fluid Flow and Heat Transfer in the Developing Region: A Three Dimensional Numerical Simulation",
+        "authors": "AbhikMajumder, SambhitMajumder",
+        "journal": "Procedia Engineering",
+        "month": null,
+        "year": 2015,
+        "doi": "10.1016/j.proeng.2015.05.011"
+      },
+      {
+        "title": "Do Extensive Rubber Plantation Influences Local Environment ? A Case Study from Tripura, Northeast India",
+        "authors": "AbhikMajumder, SadritaDatta, Bal Krishan Choudhury, KoushikMajumdar",
+        "journal": "Current World Environment",
+        "month": null,
+        "year": 2014
+      },
+      {
+        "title": "Local Nusselt Number Enhancement During Gas-Liquid Taylor Bubble Flow: An Experimental Study",
+        "authors": "AbhikMajumder, Mehta B. and Khandekar S.",
+        "journal": "International Journal of Thermal Sciences",
+        "month": "APRIL",
+        "year": 2013,
+        "doi": "https://doi.org/10.1016/j.ijthermalsci.2012.11.003"
+      }
+    ]
+  }
+  

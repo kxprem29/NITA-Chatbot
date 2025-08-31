@@ -1,0 +1,28 @@
+{
+    "MIS_Section": {
+      "People": [
+        {
+          "Name": "Dr. Neeraj Sharma",
+          "Designation": "Faculty In Charge MIS & Associate Professor, PE Department",
+          "Email": "neeraj.pe@faculty.nita.ac.in",
+          "Phone": "0381-2548527 (O)"
+        },
+        {
+          "Name": "Dr. Goutam Kumar Gupta",
+          "Designation": "Deputy Faculty In Charge MIS & Assistant Professor, ECE Department",
+          "Email": "goutamece@nita.ac.in",
+          "Phone": "0381-2548527 (O)"
+        },
+        {
+          "Name": "Mr. Pramathesh Banik",
+          "Designation": "Assistant Programmer, MIS",
+          "Email": "banik.pramathesh4u@gmail.com",
+          "Phone": "0381-2548527 (O)"
+        }
+      ],
+      "Technical_Support": {
+        "Email": "nitmisagt@mail.nita.ac.in"
+      }
+    }
+  }
+  

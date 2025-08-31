@@ -1,0 +1,77 @@
+{
+    "name": "Dr. Biswanath Bhunia",
+    "designation": "Assistant Professor",
+    "department": "Bio Engineering",
+    "email": "bbhunia@gmail.com",
+    "profile_url": "https://sites.google.com/view/bbhunia/home",
+    "research_area": [
+      "Biochemical Engineering",
+      "Pharmaceutical Technology",
+      "Computational Biology"
+    ],
+    "address": {
+      "street": "Department of Bio Engineering, NIT Agartala, Barjala, Jirania, West Tripura-799046, India",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bbhunia@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "09681154213"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2012,
+        "subject": "Biotechnology & Biochemical Engineering, Department of Biotechnology, NIT Durgapur"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2006,
+        "subject": "Biotechnology, Department of Life Science and Biotechnology, Jadavpur University"
+      },
+      {
+        "degree": "B.Pharm",
+        "description": "Bachelor of Pharmacy",
+        "year": 2002,
+        "subject": "Pharmacy, Department of Pharmaceutical Technology, Jadavpur University"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Bioprocess Engineering",
+        "Downstream Processing",
+        "Biochemical Reaction Engineering",
+        "Biochemistry",
+        "Process Biotechnology",
+        "Valorization of Biomass"
+      ],
+      "PG": []
+    },
+    "phd_students": {
+      "total_enrolled": 7,
+      "ongoing": 6
+    },
+    "subject_semester_mapping": [
+      {
+        "semester": "3rd",
+        "subjects": ["Biochemistry", "Biochemical Reaction Engineering"]
+      },
+      {
+        "semester": "4th",
+        "subjects": ["Bioprocess Engineering"]
+      },
+      {
+        "semester": "6th",
+        "subjects": ["Downstream Processing", "Valorization of Biomass"]
+      },
+      {
+        "semester": "5th",
+        "subjects": ["Process Biotechnology", "Animal Biotechnology"]
+      }
+    ]
+  }
+  

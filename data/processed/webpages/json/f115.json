@@ -1,0 +1,307 @@
+{
+    "name": "Dr. Sujoy Chakraborty",
+    "designation": "Assistant Professor",
+    "department": "Production Engineering",
+    "email": "ersujoymech05@gmail.com",
+    "url": "https://scholar.google.com/citations?user=1c6QNrQAAAAJ&hl=en",
+    "research_area": [
+      "Design & Manufacturing",
+      "Surface Coating",
+      "Tribology",
+      "Non Traditional Machining",
+      "CAD/CAM/CIM",
+      "CFD"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Materials Science",
+        "Solid Mechanics",
+        "CAD/CAM",
+        "Numerical Analysis & Computer Programming",
+        "Operation Research",
+        "Rapid Prototyping",
+        "Production Planning and Control",
+        "ERP"
+      ],
+      "PG": [
+        "Advanced Computer Aided Design & Manufacturing",
+        "Computer Aided Process Planning & Control"
+      ]
+    },
+    "phd_supervision": {
+      "enrolled_completed": 1,
+      "enrolled_ongoing": 2
+    },
+    "address": {
+      "full": "Production Engineering Department, NIT Agartala, Barjala, Jirania, Agartala, Tripura-799046, India",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "ersujoymech05@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9436158004"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2018,
+        "subject": "Manufacturing",
+        "institution": "Production Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2011,
+        "subject": "Design & Manufacturing",
+        "institution": "Mechanical Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "description": "Bachelor of Technology",
+        "year": 2009,
+        "subject": "Manufacturing",
+        "institution": "Production Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Selection of Best Alternative in Intelligent Manufacturing System by Hybrid AHP and Fuzzy-TOPSIS Environment",
+        "event": "56th Annual Convention of Operational Research Society of India (ORSI) & 10th International Conference on Business Analytics and Intelligence (ICBAI), IISC Bangalore",
+        "month": "DEC",
+        "year": 2023,
+        "authors": "Mandal UK, Chakraborty S, Podder D, Biswas N"
+      },
+      {
+        "title": "Study on Mechanical Properties of Aluminium-Copper Matrix Composites",
+        "event": "2nd International Conference on Industrial & Manufacturing Systems (CIMS-2021)",
+        "month": "NOV",
+        "year": 2021,
+        "authors": "Podder D., Chakraborty S., Mandal U.K."
+      },
+      {
+        "title": "Analysis of Surface Wear Behavior During Electrical Discharge Coating Process Using Powder Metallurgy Compacted Electrodes: A Review",
+        "event": "2nd International Conference on Advances in Material Science 2021 (ICAMS 2021)",
+        "month": "DEC",
+        "year": 2021,
+        "authors": "Goswami P., Chakraborty S., Dey V."
+      },
+      {
+        "title": "A Study on Surface Roughness and Micro-hardness Obtained by using Die Sinking EDM Machine: A Review",
+        "event": "2nd International Conference on Advances in Material Science 2021 (ICAMS 2021)",
+        "month": "DEC",
+        "year": 2021,
+        "authors": "Ranjan L.K., Chakraborty S., Mandal U.K."
+      },
+      {
+        "title": "Surface Modification of Al-7075 Alloy by Electro-Discharge Coating Process using SiC/Cu Green Compact Electrode",
+        "event": "8th International & 29th All India Manufacturing Technology, Design and Research Conference (AIMTDR 2021)",
+        "month": "DEC",
+        "year": 2021,
+        "authors": "Ranjan L.K., Chakraborty S., Mandal U.K., Dey V., Jha K."
+      },
+      {
+        "title": "Preparation of SiC and Al2O3 Reinforced AMC to Investigate the MRR",
+        "event": "International Conference on Advances in Mechanical Engineering (ICAME-2020)",
+        "month": "DEC",
+        "year": 2020,
+        "authors": "Mandal U.K., Podder D., Chakraborty S., Karmakar B."
+      },
+      {
+        "title": "Preparation of a New Hybrid Reinforced MMC by Using a Commercially Low Cost New Casting Process",
+        "event": "International Conference on Clean and Renewable Energy (ICCARE 2019), NIT Durgapur",
+        "month": "JULY",
+        "year": 2019,
+        "authors": "Podder D., Mandal U.K., Chakraborty S., Biswas N."
+      },
+      {
+        "title": "Experimental Investigation of CNC End Milling of Aluminium Using Taguchi Method",
+        "event": "International Conference on Recent Innovations in Engineering and Technology (ICRIET-2017), Jaipur",
+        "month": "FEB",
+        "year": 2017,
+        "authors": "Dutta P., Chakraborty S., Kumar M., Bhattacharjee P."
+      },
+      {
+        "title": "An Eclectic Decision for Selection of Aluminium Alloy for Aerospace and Automotive Industries",
+        "event": "International Conference on Recent Innovations in Engineering and Technology (ICRIET-2017), Jaipur",
+        "month": "FEB",
+        "year": 2017,
+        "authors": "Bhattacharjee P., Mandal U.K., Dey V., Chakraborty S., Biswas N."
+      },
+      {
+        "title": "Experimental Investigation of MRR and Surface Roughness in CNC End Milling Process for Aluminium",
+        "event": "National Conference on Engineering Problems and Application of Mathematics (EPAM-2016), NIT Agartala",
+        "month": "JUN",
+        "year": 2016,
+        "authors": "Chakraborty S., Biswas N., Bhattacharjee P., Biswas S., Kumar T."
+      },
+      {
+        "title": "Oil Well Rig and Directional Drilling Technology: A Field Investigation",
+        "event": "International Conference on Emerging Trends in Science Technology Engineering and Management",
+        "month": "OCT",
+        "year": 2015,
+        "authors": "Dutta P., Biswas N., Chakraborty S., Biswas S."
+      },
+      {
+        "title": "A Review Paper of Wind Energy",
+        "event": "National Conference on Advances and Research in Electrical System Technology, Jaipur",
+        "month": "APRIL",
+        "year": 2011,
+        "authors": "Chakraborty S., Sinha A., Dutta S., Biswas N."
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Experimental investigations and optimization of process variables of electro discharge coating process for Al-7075 alloy: a hybrid MCDM approach",
+        "journal": "Journal of Adhesion Science and Technology",
+        "volume": "38 (10)",
+        "month": "MAY",
+        "year": 2024,
+        "authors": "Lokesh Kr Ranjan, Sujoy Chakraborty, Uttam Kumar Mandal",
+        "publisher": "Taylor & Francis"
+      },
+      {
+        "title": "Surface Modification of Al-7075 Alloy by SiC-Cu Ceramic Electrode in Electrical Discharge Coating",
+        "journal": "Journal of Scientific and Industrial Research",
+        "volume": "83",
+        "month": "JAN",
+        "year": 2024,
+        "authors": "Lokesh Kumar Ranjan, Sujoy Chakraborty, Uttam Kumar Mandal, Siddhartha Kar",
+        "publisher": "NISCAIR"
+      },
+      {
+        "title": "Experimental Study of Surface Modification of Aluminum 7075 Alloy by Reverse EDM Process",
+        "journal": "International Journal of Machining and Machinability of Materials",
+        "volume": "25 (3-4)",
+        "year": 2023,
+        "authors": "Ranjan L.K., Chakraborty S., Mandal U.K.",
+        "publisher": "Inderscience"
+      },
+      {
+        "title": "Evaluation of Microstructure and Mechanical Properties of Al-Cu-TiO2-ZrO2 Composites",
+        "journal": "Journal of Scientific and Industrial Research",
+        "volume": "81",
+        "month": "JAN",
+        "year": 2022,
+        "authors": "Podder D., Chakraborty S., Mandal U.K.",
+        "publisher": "NISCAIR"
+      },
+      {
+        "title": "Experimental Investigation of Physical and Mechanical Properties of Al-Cu-ZrO2-TiO2 Composites",
+        "journal": "Journal of Scientific and Industrial Research",
+        "volume": "81",
+        "month": "JULY",
+        "year": 2022,
+        "authors": "Podder D., Chakraborty S., Mandal U.K.",
+        "publisher": "NISCAIR"
+      },
+      {
+        "title": "RSM Analysis of Impact Property of Al6063-Cu-TiO2-ZrO2 Composites",
+        "journal": "Sadhana",
+        "volume": "46",
+        "year": 2021,
+        "authors": "Podder D., Chakraborty S., Mandal U.K.",
+        "publisher": "Springer"
+      },
+      {
+        "title": "The phenomenon of surface modification by electro-discharge coating process: a review",
+        "journal": "Surface Review and Letters",
+        "volume": "25(01)",
+        "month": "JAN",
+        "year": 2018,
+        "authors": "Sujoy Chakraborty, Siddhartha Kar, Vidyut Dey, Subrata Kumar Ghosh",
+        "publisher": "World Scientific"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Analysis of surface wear behavior during electrical discharge coating process using powder metallurgy compacted electrodes: a review",
+        "type": "Book Chapter",
+        "publisher": "NOVA Science",
+        "year": 2024,
+        "authors": "Goswami P, Chakraborty S, Dey V"
+      },
+      {
+        "title": "Surface Modification of Al-7075 Alloy by Electro-Discharge Coating Process using SiC/Cu Green Compact Electrode",
+        "type": "Book Chapter",
+        "publisher": "Springer Nature",
+        "year": 2022,
+        "authors": "Ranjan LK, Chakraborty S, Mandal UK, Dey V, Jha K"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Academic Editor of Journal of Engineering Hindawi",
+        "year": 2023
+      }
+    ],
+    "training_attended": [
+      {
+        "month": "MAR",
+        "year": 2022,
+        "info": "One-week Training Programme on 'Mentorship Program and Its Benefits in Technical Institutions' at NIT Agartala"
+      },
+      {
+        "month": "AUG",
+        "year": 2016,
+        "info": "One-week Training Programme on 'Condition Monitoring of Industrial Machineries' at NIT Agartala"
+      },
+      {
+        "month": "APRIL",
+        "year": 2012,
+        "info": "Two-week Training Programme on 'Fluid Mechanics' at NIT Agartala (Collaboration with IITKGP)"
+      }
+    ],
+    "training_conducted": [
+      {
+        "month": "MAY",
+        "year": 2024,
+        "info": "\"The Science Behind Heat Power: From Fundamentals to Real-World Uses\" (20th-24th May 2024), sponsored by NIT Agartala"
+      },
+      {
+        "month": "JAN",
+        "year": 2020,
+        "info": "\"Sustainable Manufacturing and Advancement in Non-Traditional Machining Approaches\" (22nd-26th Jan 2020), sponsored by TEQIP-III"
+      },
+      {
+        "month": "AUG",
+        "year": 2018,
+        "info": "\"Technical Education: Role of Languages\" sponsored by NIT Agartala"
+      },
+      {
+        "month": "MAY",
+        "year": 2016,
+        "info": "\"Advances in Non-Conventional Machining Processes\" (09th-10th May 2016), sponsored by TEQIP-II"
+      },
+      {
+        "month": "MAR",
+        "year": 2015,
+        "info": "\"Advances in Manufacturing Technology and Mechatronic Systems\" (13th-14th March 2015), sponsored by TEQIP-II"
+      }
+    ],
+    "subjects": [
+      {
+        "class": "UG",
+        "subject": [
+          "Materials Science",
+          "Solid Mechanics",
+          "CAD/CAM",
+          "Numerical Analysis & Computer Programming",
+          "Operation Research",
+          "Rapid Prototyping",
+          "Production Planning and Control",
+          "ERP"
+        ]
+      },
+      {
+        "class": "PG",
+        "subject": [
+          "Advanced Computer Aided Design & Manufacturing",
+          "Computer Aided Process Planning & Control"
+        ]
+      }
+    ]
+  }
+  

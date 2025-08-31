@@ -1,0 +1,36 @@
+{
+    "name": "Mr. Manik Bhowmik",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "31/03/2006",
+    "email": "manik_bh2004@yahoo.co.in",
+    "research_area": [
+      "Antenna Optimization",
+      "Microwave Passive Circuits"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Analog Electronics",
+        "Electromagnetic Field Theory",
+        "Optical Fiber Communication",
+        "Basic Electronics"
+      ],
+      "PG": [
+        "Optical Communication Systems",
+        "Satellite Communication",
+        "Remote Sensing and Navigation Systems"
+      ]
+    },
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "manik_bh2004@yahoo.co.in",
+      "residence_phone": "",
+      "mobile": "09862217868"
+    }
+  }
+  

@@ -1,0 +1,82 @@
+{
+    "faculty_name": "Dr. Manish Bhargava",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "03/04/2019",
+    "email": "manishbhargava257@gmail.com",
+    "research_areas": [
+      "Additive Manufacturing",
+      "Manufacturing Systems",
+      "Quality Systems Engineering",
+      "Lean Six Sigma",
+      "CAD/CAM"
+    ],
+    "courses_taught": {
+      "UG": ["Theory of Machine", "Material Science", "CAD/CAM", "Quality Systems Engineering", "Industrial Automation"],
+      "PG": ["Additive Manufacturing", "Physical Metallurgy", "Metal Casting", "Production Planning and Control"]
+    },
+    "phd_students": {
+      "enrolled_completed": 2,
+      "ongoing": 1
+    },
+    "address": {
+      "street": "186, Vishveshwariya Nagar Extn., Behind Union Bank of India, Gopalpura Bypass, Jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "mobile": "9828199940"
+    },
+    "academic_info": [
+      {"degree": "Ph.D.", "year": 2012, "institution": "Malviya National Institute of Technology, Jaipur", "subject": "Quality Systems Engineering"},
+      {"degree": "M.Tech", "year": 2004, "institution": "Malviya National Institute of Technology, Jaipur", "subject": "Manufacturing Systems Engineering"},
+      {"degree": "B.E", "year": 1999, "institution": "MBM Engineering College, Jodhpur", "subject": "Production & Industrial Engineering"}
+    ],
+    "publications": {
+      "conferences": [
+        {"year": 2023, "title": "Application of Additive Manufacturing and 3D Printing Technology in the Environmental Sustainability: A Review", "co_authors": ["Subhankar Dey"], "conference": "International Conference on Advances in power generation, Renewable Energy and Sustainable Development 2023"},
+        {"year": 2023, "title": "Air Purification and Humidifier using water as a filter for improvement in air quality inside the house"},
+        {"year": 2023, "title": "Fabrication and Characterization of Banana Pseudostem Fibre Reinforced Epoxy Hybrid Composite Using Al2O3 as Filler"},
+        {"year": 2023, "title": "Technologies, Constraints and Challenges of Additive Manufacturing to manufacture the EDM tool electrode - A Review", "conference": "ICMDM, IIEST Shibpur"},
+        {"year": 2022, "title": "Surface Modification of Plant Fibres for the Purpose of Fabrication of Natural Fibre Reinforced Polymer Composites"},
+        {"year": 2022, "title": "Advancement in Additive Manufacturing in the fabrication of Removable Partial Dentures (RPDs) Framework: A Review", "co_authors": ["Subhankar Dey"], "conference": "20th ISME Conference, IIT Ropar"},
+        {"year": 2022, "title": "Effect of Tool Rotational Speed on Microstructure and Mechanical Properties of AA6061/SiC Surface Composites Using Friction Stir Processing"},
+        {"year": 2021, "title": "Improvement in Inner Bore Grinding Rejection of Ball Bearing by Using Six Sigma Methodology", "co_authors": ["Tushar Sharma", "Sharddha Arya", "Arindam Sinha"], "conference": "2nd International Conference on Industrial and Manufacturing Systems (CIMS-2021)"},
+        {"year": 2019, "title": "Relevance of Quality Control and Improvement Tools for Reduction in the Rejection of Deep Groove Ball Bearing"},
+        {"year": 2019, "title": "Development of mathematical model and process optimization of deep groove ball bearing"}
+      ],
+      "journals": [
+        {"year": 2023, "title": "Investigating the Effect of Multi-pass Friction Stir Processing of SiC Particles on Temperature Distribution, Microstructure and Mechanical Properties of AA6061-T6 Plate", "journal": "Silicon", "doi": "https://doi.org/10.1007/s12633-022-02108-5"},
+        {"year": 2023, "title": "A review on recent development in aluminium-copper friction stir welding", "journal": "Proceedings of the Institution of Mechanical Engineers, Part E", "doi": "https://doi.org/10.1177/09544089231158201"},
+        {"year": 2023, "title": "Fabrication and Characterization of Banana Pseudostem Fibre Reinforced Epoxy Hybrid Composite Using Al2O3 as Filler", "journal": "J Bionic Eng", "doi": "https://doi.org/10.1007/s42235-023-00331-3"},
+        {"year": 2022, "title": "Effect of tool rotational speed on microstructure and mechanical properties of AA6061/SiC surface composites using friction stir processing", "journal": "Materials Today: Proceedings", "doi": "https://doi.org/10.1016/j.matpr.2022.11.247"}
+      ]
+    },
+    "books": [
+      {"title": "Total Quality Management", "year": 2017},
+      {"title": "CAD/CAM for Beginners", "year": 2013},
+      {"title": "Advanced Manufacturing Technology", "year": 2013}
+    ],
+    "patents": [
+      {"title": "An IoT Based Real-Time Surveillance System", "year": 2022}
+    ],
+    "achievements": [
+      "Established Institution Innovation Council (IIC) under MHRD guidance",
+      "Established Research Centre for Mechanical Engineering of Rajasthan Technical University, Kota at MAIET, Jaipur & Registered as Research Supervisor",
+      "Awarded 'Shiksha Gaurav Puraskar-2015' by C.E.G.R., New Delhi",
+      "Rajasthan resource person for IIT Bombay (Spoken Tutorial Project Training)",
+      "Accredited Faculty member by International Accreditation Organization (IAO)-Texas, valid till 2030"
+    ],
+    "training_attended": [
+      {"year": 2020, "title": "One week Online short term Course on 'Additive Manufacturing With Interdisciplinary Applications', Dr. Ambedkar NIT, Jalandhar, TEQIP"},
+      {"year": 2020, "title": "One week online Short Term Course on 'Hybrid Manufacturing Processes: Opportunities and Challenges', Dr. Ambedkar NIT, Jalandhar, TEQIP-III"},
+      {"year": 2020, "title": "One week Online Short Term Course on 'Industry 4.0 and Smart Manufacturing: Opportunities and Challenges', Dr. B.R. Ambedkar NIT, Jalandhar, TEQIP-III"},
+      {"year": 2020, "title": "Webinar Series 'Machine Learning for Engineering Applications', Girijanand Chowdhury Institute of Management and Technology, Guwahati"}
+    ],
+    "faculty_development_programs": [
+      {"year": 2014, "title": "Two Week Faculty Development Program by ED Cell, MNIT, Jaipur"}
+    ],
+    "conferences_conducted": [
+      {"year": 2018, "title": "RTU (ATU) TEQIP-III Sponsored Faculty Development Programme on 'Problem Solving Tools'", "dates": "21-23 May 2018", "venue": "MAIET, Jaipur"}
+    ]
+  }
+  

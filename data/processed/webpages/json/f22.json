@@ -1,0 +1,127 @@
+{
+    "Faculty": {
+      "Name": "Dr. Anindita Jamatia",
+      "Designation": "Assistant Professor",
+      "Department": "Electrical Engineering",
+      "DateOfJoining": "22/03/2002",
+      "Email": "anindita.jamatia@gmail.com",
+      "ResearchAreas": [
+        "Power Electronics",
+        "Electrical Drives",
+        "Switched Mode Power Supply",
+        "High gain converters"
+      ],
+      "Address": {
+        "Street": "FC-4C, Electrical Engineering Department",
+        "City": "Agartala",
+        "State": "Tripura",
+        "Country": "India"
+      },
+      "Phone": {
+        "Residence": null,
+        "Mobile": "9436522452"
+      },
+      "AcademicQualifications": [
+        {
+          "Degree": "Ph.D.",
+          "Year": 2025,
+          "Subject": "Electrical Engineering",
+          "Thesis": "Grid tied PV inverter"
+        },
+        {
+          "Degree": "M.E.",
+          "Year": 2005,
+          "Subject": "Electrical Engineering",
+          "Specialization": "Power Electronics and Drives"
+        }
+      ],
+      "Publications": {
+        "Conference": [
+          {
+            "Title": "Flux-balance Equation based Topology Derivation of Single phase Single-stage Transformer-less Boost-Buck PV Micro-inverter Family",
+            "Authors": "A. Jamatia and P. Sensarma",
+            "Conference": "2023 IEEE 20th India Council International Conference (INDICON)",
+            "Location": "Hyderabad, India",
+            "Month": "DEC",
+            "Year": 2023,
+            "Pages": "521-526",
+            "DOI": "10.1109/INDICON59947.2023.10440880"
+          },
+          {
+            "Title": "A Single Stage Single Phase Micro-Inverter with Inherent Active Power Decoupling Mechanism for PV-Grid System Based EV Charging Station",
+            "Authors": "A. Jamatia and P. Sensarma",
+            "Conference": "2023 IEEE 3rd International Conference on Sustainable Energy and Future Electric Transportation (SEFET)",
+            "Location": "Bhubaneswar, India",
+            "Month": "AUG",
+            "Year": 2023,
+            "Pages": "1-6",
+            "DOI": "10.1109/SeFeT57834.2023.10245804"
+          },
+          {
+            "Title": "Optimal Placement of Electric Vehicle Charging Station in Distribution Network with SOS Algorithm",
+            "Authors": "D. Dey, R. Chakraborty, A. R. Bhowmik, D. Das and A. Jamatia",
+            "Conference": "2023 Fifth International Conference on Electrical, Computer and Communication Technologies (ICECCT)",
+            "Location": "Erode, India",
+            "Month": "FEB",
+            "Year": 2023,
+            "Pages": "01-05",
+            "DOI": "10.1109/ICECCT56650.2023.10179725"
+          },
+          {
+            "Title": "A New Grid connected Doubly Grounded PV Micro-inverter with Power Decoupling Capability",
+            "Authors": "A. Jamatia and P. Sensarma",
+            "Conference": "2023 IEEE IAS Global Conference on Renewable Energy and Hydrogen Technologies (GlobConHT)",
+            "Location": "Male, Maldives",
+            "Month": "MAR",
+            "Year": 2023,
+            "Pages": "1-6",
+            "DOI": "10.1109/GlobConHT56829.2023.10087372"
+          },
+          {
+            "Title": "Modeling of Dual Active Bridge with Extended Phase Shift and Dual Phase Shift Modulation Technique using Reduced Order Model Method",
+            "Authors": "V. K. Kaiwart, A. Jamatia, A. Chakrabarti, B. Das, P. R. Kasari and N. Laskar",
+            "Conference": "2023 Second International Conference on Electronics and Renewable Systems (ICEARS)",
+            "Location": "Tuticorin, India",
+            "Month": "MAR",
+            "Year": 2023,
+            "Pages": "13-20",
+            "DOI": "10.1109/ICEARS56392.2023.10085254"
+          },
+          {
+            "Title": "MMCC Based Decoupled Control of PMSG for Small Scale Hydro Power Plants",
+            "Authors": "R. Roy et al.",
+            "Conference": "IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society",
+            "Location": null,
+            "Month": "OCT",
+            "Year": 2021,
+            "Pages": "1-6",
+            "DOI": "10.1109/IECON48115.2021.9589944"
+          }
+        ],
+        "Journal": [
+          {
+            "Title": "Power Decoupling for Single-Phase PV System Using C´uk Derived Microinverter",
+            "Authors": "A. Jamatia, V. Gautam and P. Sensarma",
+            "Journal": "IEEE Transactions on Industry Applications",
+            "Volume": 54,
+            "Issue": 4,
+            "Pages": "3586-3595",
+            "Month": "MAR",
+            "Year": 2018,
+            "DOI": "10.1109/TIA.2018.2812140"
+          },
+          {
+            "Title": "New perturb and observe MPPT algorithm and its validation using data from PV module",
+            "Authors": "Bikram Das, Anindita Jamatia, Abanishwar Chakraborti, Prabir Rn Kasari, Manik Bhowmik",
+            "Journal": "International Journal of Advances in Engineering & Technology",
+            "Volume": 4,
+            "Issue": 1,
+            "Pages": "579",
+            "Month": "JULY",
+            "Year": 2012
+          }
+        ]
+      }
+    }
+  }
+  

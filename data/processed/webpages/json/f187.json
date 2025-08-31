@@ -1,0 +1,64 @@
+{
+    "name": "Prof. Richi Prasad Sharma",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "03/12/1996",
+    "email": "rps.civil@nita.ac.in",
+    "research_area": [
+      "Dynamic Stability",
+      "Building Materials",
+      "Health Monitoring",
+      "Dynamic response: Experimental and Numerical study",
+      "Mechanical Properties and Behaviour"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Mechanics of Solids",
+        "Structural Analysis",
+        "Finite Element Method",
+        "Dynamics of Structures"
+      ],
+      "PG": [
+        "Theory of Elasticity and Plasticity",
+        "Theory of Elastic Stability",
+        "Finite Element Method",
+        "Structural Dynamics",
+        "Theory of Plates and Shells"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": 5,
+      "enrolled_ongoing": 0
+    },
+    "address": {
+      "street": "Flat NO. A4/141, Tower No. 1, Shyamalima Apartments, New Capital Complex, P.O. Agartala Secretariat",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India",
+      "pin": "799010"
+    },
+    "contact": {
+      "email": "rps.civil@nita.ac.in",
+      "residence_phone": "03812957951",
+      "mobile": "919436463474"
+    },
+    "publications_journal": [
+      {
+        "journal": "Electronic Journal of Geotechnical Engineering",
+        "month": "JAN",
+        "year": 2010
+      },
+      {
+        "journal": "Geotechnical and Geological Engineering",
+        "month": "SEPT",
+        "year": 2010
+      }
+    ],
+    "books": [
+      {
+        "title": "Behavior of axially moving nano beams with transverse oscillation",
+        "year": 2012
+      }
+    ]
+  }
+  

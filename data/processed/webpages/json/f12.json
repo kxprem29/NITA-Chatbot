@@ -1,0 +1,40 @@
+{
+  "Faculty": [
+    {
+      "Name": "Dr. Ashim Saha",
+      "Designation": "Associate Professor",
+      "Department": {
+        "Short": "CSE",
+        "Full": "Computer Science and Engineering"
+      },
+      "Email": "ashim.cse@nita.ac.in",
+      "URL": "www.ashimsaha.com",
+      "Research_Areas": [],
+      "Address": {
+        "Address_Line": null,
+        "City": null,
+        "State": null,
+        "Country": null
+      },
+      "Contact": {
+        "Phone_Residence": null,
+        "Phone_Mobile": "9436556680"
+      },
+      "Academic_Information": [],
+      "PhD_Students": {
+        "Ongoing": [],
+        "Completed": []
+      },
+      "Courses_Taught": {
+        "UG": [],
+        "PG": []
+      },
+      "Publications": {
+        "Journal": [],
+        "Conference": []
+      },
+      "Patents": [],
+      "Subjects_Taught": []
+    }
+  ]
+}

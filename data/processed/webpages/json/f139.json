@@ -1,0 +1,39 @@
+{
+    "name": "Dr. Lipika Halder",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "22/03/2002",
+    "email": "erlhalder@yahoo.co.in",
+    "address": {
+      "address": "Department of Civil Engineering, National Institute of Technology Agartala, Barjala, Jirania , 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "erlhalder@yahoo.co.in",
+      "phone_residence": "9366288112",
+      "phone_mobile": "9436167076"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph. D. (Philosophy of Doctorate)",
+        "institution": "NITA",
+        "year": "2021",
+        "subject": "Seismic Vulnerability Assessment of Buildings in Northeast India"
+      },
+      {
+        "degree": "M.E. (Master of Engineering)",
+        "institution": "BESUS",
+        "year": "2008",
+        "subject": "Structural Engineering"
+      },
+      {
+        "degree": "B.E. (Bachelor of Engineering)",
+        "institution": "TU",
+        "year": "1998",
+        "subject": "Civil Engineering"
+      }
+    ]
+  }
+  

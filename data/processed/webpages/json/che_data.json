@@ -1,0 +1,59 @@
+{
+    "department": "Chemical Engineering",
+    "programmes": {
+      "undergraduate": [
+        {
+          "name": "B.Tech in Chemical Engineering",
+          "duration": "4 years",
+          "intake": 75,
+          "started": "2009-10",
+          "admission": "JEE Mains",
+          "curriculum": {
+            "total_credits": 160,
+            "year_wise": {
+              "1st_year": "43 credits (common engineering curriculum)",
+              "2nd_year": "41.5 credits",
+              "3rd_year": "45 credits",
+              "4th_year": "31.5 credits with option for 6-month industry project"
+            }
+          }
+        }
+      ],
+      "postgraduate": [
+        {
+          "name": "M.Tech in Chemical Engineering",
+          "duration": "2 years",
+          "intake": 10,
+          "started": "2012-13",
+          "admission": "GATE and Non-GATE",
+          "curriculum": {
+            "total_credits": 80,
+            "year_wise": {
+              "1st_year": "50 credits",
+              "2nd_year": "30 credits with option for 1-year research project"
+            }
+          }
+        }
+      ],
+      "phd": [
+        {
+          "name": "Ph.D in Engineering",
+          "started": "2012-13",
+          "admission": "Through advertisement and open competition, twice a year",
+          "eligibility": "Candidates from various Engineering and Science backgrounds/disciplines"
+        }
+      ]
+    },
+    "program_education_objectives": [
+      "To impart the adequate fundamental knowledge in the chemical engineering domain.",
+      "Application of chemical engineering knowledge in design, research, innovation, industrial practices and societal development.",
+      "To impart adequate knowledge for the product development utilizing the available resources in the North-east part of India.",
+      "To enhance the skill of problem solving and employability, time and trace management, engagement in team work."
+    ],
+    "program_specific_outcomes": [
+      "The graduated students will be employable to chemical and other allied industries by acquiring the knowledge to identify, analyze, control and solve the industrial, environmental and management problems.",
+      "The students will be able to carry forward higher studies and research on multi-disciplinary fields.",
+      "The students will be able to design chemical equipment, plants, development of products and also to carry out entrepreneurship."
+    ]
+  }
+  

@@ -1,0 +1,90 @@
+{
+    "name": "Dr. Yogesh Kumar Sariya",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Instrumentation Engineering",
+    "email": "yogesh.sariya1@gmail.com",
+    "research_area": "Medical Signal and Image Processing, AI in healthcare",
+    "address": {
+      "address_line": "Electronics and Instrumentation Department, NIT Agartala, Barjala, Jirania, (Pin - 799046)",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "yogesh.sariya1@gmail.com",
+      "residence_phone": "-",
+      "mobile_phone": "9897756808"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "year": 2019,
+        "subject": "Medical Signal & Image Processing",
+        "institute": "IIT Roorkee"
+      },
+      {
+        "degree": "M.TECH",
+        "year": 2010,
+        "subject": "Control & Automation",
+        "institute": "IIT Delhi"
+      },
+      {
+        "degree": "B.E",
+        "year": 2007,
+        "subject": "Biomedical Engineering",
+        "institute": "Shri G. S. Institute of Technology & Science, Indore"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {
+          "title": "Analysis of DiscreteWavelet Transforms variants for the fusion of CT & MRI images",
+          "authors": "Nishant Jain, Arvind R. Yadav, Yogesh Kumar Sariya, Arun Balodi",
+          "journal": "The Open Biomedical Engineering Journal",
+          "month": "JUN",
+          "year": 2021
+        },
+        {
+          "title": "Comparison of separation performance of independent component analysis algorithms for fMRI data",
+          "authors": "Yogesh Sariya, R. S. Anand",
+          "journal": "Journal of Integrative Neuroscience 16",
+          "month": "JUN",
+          "year": 2017
+        }
+      ],
+      "conference": [
+        {
+          "title": "Assessment of social and cognitive dysfunction of autism spectrum disorder through functional network connectivity",
+          "month": "JUN",
+          "year": 2018
+        }
+      ]
+    },
+    "patents": [
+      {
+        "title": "AUXILIARY FUNCTIONAL UNIT IN HOSPITAL BED FOR CHANGING PATIENT POSITION",
+        "year": 2022,
+        "status": "Published & under examination"
+      },
+      {
+        "title": "NOVEL COMPOSITION USING BIOLOGICAL PRODUCTS FOR THE SYNTHESIS OF ZINC OXIDE (ZNO) NANOPARTICLES HAVING MEDICINAL APPLICATIONS",
+        "year": 2022,
+        "status": "Published & under examination"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Signals & Systems",
+        "Digital Signal Processing",
+        "Digital Electronics",
+        "Modeling & Simulation of Physiological Systems",
+        "Network Theory",
+        "Linear Control Systems"
+      ],
+      "PG": [
+        "Neural Network and Fuzzy Logic",
+        "Advanced DSP"
+      ]
+    }
+  }
+  

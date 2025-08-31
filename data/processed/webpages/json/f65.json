@@ -1,0 +1,73 @@
+{
+    "name": "Dr. Tarun Kanti Bandyopadhyay",
+    "designation": "HOD & Associate Professor",
+    "department": "Bio Engineering",
+    "email": "tarunkantibanerjee0@gmail.com",
+    "address": {
+      "address_line": "Department of Bioengineering, NIT Agartala, Jirania",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "tarunkantibanerjee0@gmail.com",
+      "residence_phone": "9612976529",
+      "mobile_phone": "919612976529"
+    },
+    "publications": [
+      {
+        "title": "Downstream Process Development for Extraction of Prodigiosin: Statistical Optimization, Kinetics, and Biochemical Characterization",
+        "authors": ["Paul, Tania", "Abhijit Mondal", "Tarun Kanti Bandyopadhyay", "Nibedita Mahata", "Biswanath Bhunia"],
+        "journal": "Applied Biochemistry and Biotechnology",
+        "month": "July",
+        "year": 2022,
+        "pages": "1-16"
+      },
+      {
+        "title": "Estimation of runoff under changed climatic scenario of a Meso scale river by neural network based gridded model approach",
+        "authors": ["Das, Debajit", "Tilottama Chakraborty", "Mrinmoy Majumder", "Tarun Kanti Bandyopadhyay"],
+        "journal": "Water Resources Management",
+        "month": "June",
+        "year": 2022,
+        "pages": "1-17"
+      },
+      {
+        "title": "Optimization for the improvement of power in equal volume of single chamber microbial fuel cell using dairy wastewater",
+        "authors": ["Choudhury, Payel", "Biswanath Bhunia", "Nibedita Mahata", "Tarun Kanti Bandyopadhyay"],
+        "journal": "Journal of the Indian Chemical Society",
+        "month": "June",
+        "year": 2022,
+        "pages": "100489"
+      },
+      {
+        "title": "Production of Oscillatoria sp. BTA-170 biomass in photobioreactor: Analysis of composition, drying behavior, sorption isotherm, and powder flow characteristics",
+        "authors": ["Sharma, Ramesh", "Pinku Chandra Nath", "Sunil Pabbi", "Tarun Kanti Bandyopadhyay", "Kondi Vanitha", "Nibedita Mahata", "Biswanath Bhunia", "Onkar Nath Tiwari"],
+        "journal": "Journal of Food Process Engineering",
+        "month": "June",
+        "year": 2022,
+        "pages": "e14044"
+      },
+      {
+        "title": "Prodigiosin production and recovery from Serratia marcescens: process development and cost–benefit analysis",
+        "authors": ["Paul, Tania", "Abhijit Mondal", "Tarun Kanti Bandyopadhyay", "Biswanath Bhunia"],
+        "journal": "Biomass Conversion and Biorefinery",
+        "month": "April",
+        "year": 2022,
+        "pages": "1-20"
+      }
+    ],
+    "subjects": [
+      "Mass Transfer Operations I",
+      "Mass Transfer Operations II",
+      "Mechanical Operations",
+      "Fuel and Combustion",
+      "Petroleum Refining Engineering and Petrochemicals",
+      "Fluid Mechanics",
+      "Mass Transfer Operation Lab",
+      "Mechanical Operation Lab",
+      "Fuel and Combustion Lab",
+      "Heat Transfer Lab",
+      "Fluid Mechanics Lab"
+    ]
+  }
+  

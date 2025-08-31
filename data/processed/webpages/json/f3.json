@@ -1,0 +1,65 @@
+{
+    "Faculty": [
+      {
+        "Name": "Mr. Anirban Bhattacharjee",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "ECE",
+          "Full": "Electronics and Communication Engineering"
+        },
+        "Date_of_Joining": "21/05/2012",
+        "Email": "anirbanb.ece@nita.ac.in",
+        "Research_Areas": [
+          "Antenna Design & Optimization",
+          "Signal Processing",
+          "Wireless Communication"
+        ],
+        "Address": {
+          "Address_Line": "Quarter No 2/3, Brahmaputra Apartment, NIT Agartala",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9862393441"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "M.Tech",
+            "Year": 2007,
+            "Subject": "Communication Systems"
+          }
+        ],
+        "PhD_Student_Enrollment": "Yes",
+        "Subjects_Taught": {
+          "UG": [
+            "Signals & Systems",
+            "Probability & Random Process",
+            "Analog Communication",
+            "Digital Communication",
+            "Digital Signal Processing",
+            "Microwave Engineering",
+            "Antenna & Wave Propagation",
+            "Information Theory & Coding"
+          ],
+          "PG": [
+            "Satellite Communication",
+            "Advanced Digital Signal Processing",
+            "Wireless Communication"
+          ]
+        },
+        "Subject_Information": [
+          {
+            "Class": "5th Semester",
+            "Subject": "Digital Signal Processing"
+          },
+          {
+            "Class": "PG 1st Semester",
+            "Subject": "Advanced Digital Signal Processing"
+          }
+        ]
+      }
+    ]
+  }
+  

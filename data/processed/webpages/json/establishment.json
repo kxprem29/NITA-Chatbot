@@ -1,0 +1,52 @@
+{
+    "EstablishmentSection": {
+      "People": [
+        {
+          "Name": "Mr. Tanmoy Ghoshal",
+          "Designation": "Deputy Registrar (Admin)",
+          "Email": "tanmoyghoshal38@gmail.com"
+        },
+        {
+          "Name": "Mr. Dhrubamani Dey",
+          "Designation": "Section Officer (i/c)",
+          "Email": "dey.dhruba04@gmail.com",
+          "Mobile": "+91-7005421302"
+        },
+        {
+          "Name": "Smt. Bakul Debbarma",
+          "Designation": "Assistant (SG-I)",
+          "Email": "thinangdebbarma@gmail.com",
+          "Mobile": "+91-9378195379"
+        },
+        {
+          "Name": "Mr. Dilip Debbarma",
+          "Designation": "Sr. Office Attendant",
+          "Email": "dilipsukupati7@gmail.com",
+          "Mobile": "+91-9612829457"
+        },
+        {
+          "Name": "Smt. Sonalaxmi Debbarma",
+          "Designation": "Sr. Office Attendant",
+          "Email": "sonalaxmidebbarma2@gmail.com",
+          "Mobile": "+91-8730096227"
+        },
+        {
+          "Name": "Mr. Pradip Datta",
+          "Designation": "Office Assistant (Contractual)",
+          "Email": "pdatta2017@gmail.com",
+          "Mobile": "+91-9436457600"
+        },
+        {
+          "Name": "Mr. Kritisundar Saha",
+          "Designation": "Office Assistant (Contractual)",
+          "Email": "kritisundara24@gmail.com",
+          "Mobile": "+91-9612844458"
+        },
+        {
+          "Name": "Mr. Tanumay Pal",
+          "Designation": "Junior Assistant (Contractual)"
+        }
+      ]
+    }
+  }
+  

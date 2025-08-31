@@ -1,0 +1,37 @@
+{
+    "name": "Dr. Priyanka Choudhury",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electronics and Communication Engineering",
+    "email": "priyanka.choudhury22@gmail.com",
+    "cv": "View",
+    "research_area": [],
+    "courses_taught": {
+      "ug_courses": [],
+      "pg_courses": []
+    },
+    "address": {
+      "address": "17/2 old kali bari lane, Krishnanagar",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "priyanka.choudhury22@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "09774864547"
+    },
+    "academic_information": [
+      {
+        "degree_diploma": "Ph. D.",
+        "description": "Philosophy of Doctorate - PhD in Engineering",
+        "year": "2017",
+        "subject": "Electronics and Communication Engineering"
+      }
+    ],
+    "subject_information": [],
+    "publications": [],
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

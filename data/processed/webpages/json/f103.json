@@ -1,0 +1,28 @@
+{
+    "department": "Electronics and Instrumentation Engineering",
+    "faculty_profile": {
+      "name": "Mrs. Priyanka Roy Goswami",
+      "designation": "Assistant Professor (Contractual)",
+      "email": "priyankad198219@gmail.com",
+      "address_information": {
+        "address": "-",
+        "city": "-",
+        "state": "-",
+        "country": "-"
+      },
+      "contact_information": {
+        "email_address": "priyankad198219@gmail.com",
+        "phone_residence": "-",
+        "phone_mobile": "08416014185"
+      },
+      "academic_information": {
+        "degree_diploma": []
+      },
+      "publication_conference": [],
+      "publication_journal": [],
+      "book_published": [],
+      "patent": [],
+      "subject_information": []
+    }
+  }
+  

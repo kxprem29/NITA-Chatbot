@@ -1,0 +1,20 @@
+{
+    "ExaminationSection": {
+      "People": [
+        {
+          "Name": "Dr. Srimanta Ray",
+          "Designation": "Associate Dean (Examination)"
+        },
+        {
+          "Name": "Mrs. Payel Sarkar",
+          "Designation": "Senior Assistant (Contractual)"
+        },
+        {
+          "Name": "Mr. Sourav Mahajan",
+          "Designation": "Junior Assistant (Contractual)"
+        }
+      ],
+      "QueryEmail": "exam@mail.nita.ac.in"
+    }
+  }
+  

@@ -1,0 +1,41 @@
+{
+    "name": "Dr. PARTHA PRATIM SARKAR",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "ps_partha@yahoo.com",
+    "profile_url": "https://nita.irins.org/profile/294805",
+    "address": {
+      "institute": "National Institute Of Technology Agartala",
+      "department": "Civil Engineering Department",
+      "street": "Barjala, Jirania, Tripura West",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "ps_partha@yahoo.com",
+      "mobile": "9774051947",
+      "residence": ""
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "university": "IIT Guwahati",
+        "year": 2014,
+        "subject": "Transportation Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "university": "IIT Kharagpur",
+        "year": 2005,
+        "subject": "Transportation Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "NERIST",
+        "year": 2003,
+        "subject": "Civil Engineering"
+      }
+    ]
+  }
+  

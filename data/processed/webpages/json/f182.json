@@ -1,0 +1,52 @@
+{
+    "name": "Dr. Sharmistha Sharma",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electrical Engineering",
+    "date_of_joining": "12/08/2009",
+    "email": "sharmistha.sharma34@yahoo.com",
+    "url": "",
+    "research_area": [
+      "Distributed Generation",
+      "Microgrid",
+      "Electric vehicle",
+      "Soft computing techniques"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Basic Electrical Engineering",
+        "Power System-I",
+        "Process Control and Instrumentation",
+        "Microprocessor"
+      ],
+      "PG": [
+        "Process Control and Instrumentation"
+      ]
+    },
+    "phd_students": {
+      "ongoing": ["Siddhartha Sankar Deb"],
+      "completed": []
+    },
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "sharmistha.sharma34@yahoo.com",
+      "residence_phone": "",
+      "mobile": ["9402158783", "8837495284"]
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2017,
+        "subject": "Power System",
+        "description": "Ph.D in Electrical Engineering"
+      }
+    ],
+    "publications_conference": [],
+    "publications_journal": [],
+    "achievements": []
+  }
+  

@@ -1,0 +1,61 @@
+{
+    "department": "Civil Engineering (NBA Accredited)",
+    "programmes": {
+      "undergraduate": [
+        {
+          "programme": "B.Tech in Civil Engineering",
+          "duration": "4 years",
+          "syllabus": [
+            {
+              "title": "UG Syllabus (New) - 122 Credits (3rd–8th Semester)",
+              "effective_from": "2019 onwards"
+            },
+            {
+              "title": "UG Syllabus (New) - 132 Credits (3rd–8th Semester)",
+              "batch": "2018-19"
+            },
+            {
+              "title": "UG Syllabus (Old)"
+            }
+          ]
+        }
+      ],
+      "postgraduate": [
+        {
+          "programme": "M.Tech in Structural Engineering",
+          "duration": "2 years"
+        },
+        {
+          "programme": "M.Tech in Geo-Technical Engineering",
+          "duration": "2 years"
+        },
+        {
+          "programme": "M.Tech in Transportation Engineering",
+          "duration": "2 years"
+        },
+        {
+          "programme": "M.Tech in Environmental Engineering",
+          "duration": "2 years"
+        },
+        {
+          "programme": "M.Tech in Water Resources Engineering",
+          "duration": "2 years"
+        },
+        {
+          "programme": "M.Tech in Hydroinformatics Engineering",
+          "duration": "2 years",
+          "note": "Interdisciplinary Programme"
+        },
+        {
+          "programme": "M.Tech in Seismic Science and Engineering",
+          "duration": "2 years"
+        }
+      ],
+      "phd": [
+        {
+          "programme": "Ph.D. in Civil Engineering"
+        }
+      ]
+    }
+  }
+  

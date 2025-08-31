@@ -1,0 +1,48 @@
+{
+    "Department": "Electrical Engineering",
+    "Programmes": {
+      "Program Educational Objectives (PEOs)": [
+        "To provide conducive environment for the students, Faculty members and staff to develop the best teaching learning process.",
+        "To develop state of the art Laboratories and Research facilities to cater the challenges in Electrical Engineering to come.",
+        "To encourage innovation and professionalism so that social requirements of rural India may be fulfilled either by indigenous solution or through transfer of knowledge.",
+        "To start collaborative Research with Industries and to cater the future requirements.",
+        "To develop continuous improvement in teaching-learning process to develop state of the art laboratories to cater the present as well as future challenges in terms of local & global standard. Short term and long term goals are set for fulfillment of this mission.",
+        "To develop right attitude and high aptitude so that individual may excel in the Competitive world maintaining high values and ethics."
+      ],
+      "Program Specific Objectives (PSOs)": [
+        "Specification, fabrication, testing, operation or documentation of basic Electrical systems/processes.",
+        "Analysis, design, development and implementation of more advanced Electrical systems or processes."
+      ]
+    },
+    "Undergraduate Programmes": {
+      "B.Tech in Electrical Engineering (4 Years)": "This course aims at providing all the facilities for producing technocrats with sound knowledge in all the subjects such as electrical machines, power systems, instrumentation etc. including the elective papers with a strong background of practical knowledge relevant to the theory papers. Graduates coming out will be able to orient themselves to take up any challenging jobs in the industry and also will be able to carry out research and developmental activities with innovative ideas. The students are assigned with a major project during the end semesters where they carry out the developmental work under the guidance/supervision of the staffs."
+    },
+    "Postgraduate Programmes": {
+      "Description": "Electrical Engineering department provide M.Tech degree in following branches. It aims at providing all the facilities for training graduate engineers in the field of Power Electronics & Drives, Power System Engineering and Instrumentation Engineering; so that the students will be confident enough to undertake responsibility, research & consultancy work in their respective field. The students are assigned with a major project during the 3rd & 4th semesters where they carry out the developmental work under the guidance/supervision of the staffs to strengthen their knowledge in that respective field of work.",
+      "Courses": [
+        "M.Tech in Power Electronics & Drives",
+        "M.Tech in Power System Engineering",
+        "M.Tech in Instrumentation Engineering",
+        "M.Tech in Integrated Energy System"
+      ]
+    },
+    "Ph.D Programmes": {
+      "Description": "Facilities of research are provided by the department on different appropriate topics that leads to the completion of the degree of philosophy. On Going Ph.D works.",
+      "Research Areas": [
+        "Broad band frequency conversion using TIR-QPM",
+        "Non Linear Optics",
+        "Power System Reliability",
+        "Distributed Generation and its impact on Power Quality",
+        "Development of Space Vector Modulation Algorithm using α-β-γ Frame for four leg VSI",
+        "Surface Plasmon Enhanced Linear and Non-linear Optical Devices",
+        "Deregulated Power System",
+        "High Temperature Superconducting Hysteresis Motor",
+        "Cost Optimization of Hybrid Power Plant",
+        "Power System Control and Optimization with FACTs Devices",
+        "Renewable Energy",
+        "Non-contact Multi directional Vibration Sensor using 2-D Position Sensitive Detector",
+        "Power Quality Improvement using FACTs Controllers"
+      ]
+    }
+  }
+  

@@ -1,0 +1,87 @@
+{
+    "name": "Dr. Apu Kumar Saha",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "email": "apusaha_nita@yahoo.co.in",
+    "address": {
+      "address_line": "Department of Mathematics",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "apusaha_nita@yahoo.co.in",
+      "residence_phone": "-",
+      "mobile_phone": "9436122062"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2012,
+        "subject": "Science"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 1998,
+        "subject": "Mathematics",
+        "honor": "Gold Medalist"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "An integrated multi-criteria decision making approach for material selection by waste recycling",
+          "authors": "A. Pareek, S. Chakraborty, A.K. Saha",
+          "conference": "International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-23)",
+          "location": "Institute of Engineering & Management, Kolkata, India",
+          "date": "February 3–5, 2023",
+          "year": 2023
+        },
+        {
+          "title": "Healthcare waste recycling technology selection using Fermatean fuzzy Multi-Criteria Group Decision Making",
+          "authors": "S. Debbarma, S. Chakraborty, A.K. Saha",
+          "conference": "International Conference on Emerging Trends in Mathematical Sciences & Computing (IEMSC-23)",
+          "location": "Institute of Engineering & Management, Kolkata, India",
+          "date": "February 3–5, 2023",
+          "year": 2023
+        },
+        {
+          "title": "Whale optimization algorithm by quadratic interpolation and the Fibonacci search principle for function optimization",
+          "authors": "S. Reang, A.K. Saha, S.K. Sahoo, S. Wanjari",
+          "conference": "One Day National Seminar on Mathematics and Its Applications (NSMA-2023)",
+          "location": "Maharaja Bir Bikram University, Tripura, India",
+          "date": "7th January 2023",
+          "year": 2023
+        },
+        {
+          "title": "A modified sine cosine algorithm for composite benchmark functions",
+          "authors": "N. Nath, A.K. Saha, S.K. Sahoo",
+          "conference": "Fourth Two Day International Conference on New Trends in Mathematical Modeling with Applications (ICNTMMA-2022)",
+          "location": "Sri Vidya Mandir Arts and Science College, Katteri, Uthangarai, Tamil Nadu, India",
+          "date": "April 7–8, 2022",
+          "year": 2022
+        }
+      ]
+    },
+    "conferences_conducted": [
+      {
+        "title": "3rd International Conference on Intelligent Vision and Computing (ICIVC-2023)",
+        "location": "Department of Mathematics, National Institute of Technology Agartala",
+        "date": "25–26 November, 2023",
+        "year": 2023
+      },
+      {
+        "title": "International Conference on Intelligent Vision and Computing (ICIVC-2022)",
+        "location": "Department of Mathematics, National Institute of Technology Agartala",
+        "date": "26–27 November, 2022",
+        "year": 2022
+      },
+      {
+        "title": "International Conference of International Academy of Physical Sciences on Fuzzy & Computational Mathematics (CONIAPS-2021)",
+        "location": "Department of Mathematics, National Institute of Technology Agartala",
+        "date": "26–28 October, 2021",
+        "year": 2021
+      }
+    ]
+  }
+  

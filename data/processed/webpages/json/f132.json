@@ -1,0 +1,37 @@
+{
+    "name": "Dr. Smita Banik",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electronics and Communication Engineering",
+    "email": "smitabanik1@gmail.com",
+    "cv": "",
+    "research_area": [],
+    "courses_taught": {
+      "ug_courses": [],
+      "pg_courses": []
+    },
+    "address": {
+      "address": "Paritosh Villa, Dhaleswar Road No. 17, P.o Dhaleswar Agartala, Tripura (W)",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "smitabanik1@gmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9402169574"
+    },
+    "academic_information": [
+      {
+        "degree_diploma": "Ph. D.",
+        "description": "Philosophy of Doctorate",
+        "year": "2017",
+        "subject": "Nonlinear Optics"
+      }
+    ],
+    "subject_information": [],
+    "publications": [],
+    "books": [],
+    "conferences": [],
+    "patents": []
+  }
+  

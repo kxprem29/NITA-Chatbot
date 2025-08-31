@@ -1,0 +1,79 @@
+{
+    "Office": "Office of Vehicle Section",
+    "People": [
+      {
+        "Name": "Dr. Madhujit Deb",
+        "Designation": "Chairman - Vehicle Committee",
+        "Email": ["madhujitme79@gmail.com", "madhujit_deb@rediffmail.com"]
+      },
+      {
+        "Name": "Mr. Manojit Das",
+        "Designation": "Vehicle-In-Charge",
+        "Email": "manojit_nita@rediffmail.com",
+        "Mobile": "9774896124"
+      }
+    ],
+    "Vehicles": [
+      {
+        "Vehicle": "Toyota Atlas",
+        "RegistrationNumber": "TR01AG0666",
+        "Driver": "Sajal Saha",
+        "Mobile": "8731909676"
+      },
+      {
+        "Vehicle": "Tata Indigo",
+        "RegistrationNumber": "TR01P0321",
+        "Driver": "Babul Deb",
+        "Mobile": "8730855330"
+      },
+      {
+        "Vehicle": "Tata Sumo",
+        "RegistrationNumber": "TR01P0322",
+        "Driver": "Gopal Das",
+        "Mobile": "9612462098"
+      },
+      {
+        "Vehicle": "Tata Winger",
+        "RegistrationNumber": "TR01AK0695",
+        "Driver": "Delu Mia",
+        "Mobile": "7005872858"
+      },
+      {
+        "Vehicle": "Maruti Van",
+        "RegistrationNumber": "TR01T0660",
+        "Driver": "Bishnu Padha Das",
+        "Mobile": "8730996393"
+      },
+      {
+        "Vehicle": "Sml Bus",
+        "RegistrationNumber": "TR01E2068",
+        "Driver": "Gopal Das",
+        "Mobile": "9612462098"
+      },
+      {
+        "Vehicle": "Tractor",
+        "RegistrationNumber": "TR01DTC3275",
+        "Driver": "Gopal Das",
+        "Mobile": "9612462098"
+      },
+      {
+        "Vehicle": "Ambulance 1",
+        "RegistrationNumber": "TR01N0792",
+        "Driver": "Mithun Das",
+        "Mobile": "8837274038"
+      },
+      {
+        "Vehicle": "Ambulance 2",
+        "RegistrationNumber": "TR01AA0742",
+        "Driver": "Abhinsh Debbarma",
+        "Mobile": "8118999815"
+      },
+      {
+        "Vehicle": "Ambulance 3",
+        "RegistrationNumber": "TR01F0964",
+        "Driver": "Prakash Debbarma",
+        "Mobile": "9612097586"
+      }
+    ]
+  }
+  

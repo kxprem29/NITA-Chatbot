@@ -1,0 +1,111 @@
+{
+    "name": "Dr. Diptanu Das",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electrical Engineering",
+    "email": "diptanuonline@yahoo.co.in",
+    "research_area": [
+      "Economic Operation of Power System",
+      "Application of Soft Computing Techniques in Power System",
+      "Electric Vehicle"
+    ],
+    "address": {
+      "street": "Department of Electrical Engineering, NIT Agartala, P.O.-NIT Agartala, Pin: 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "diptanuonline@yahoo.co.in",
+      "residence_phone": "",
+      "mobile": "9436180674"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "institution": "NIT AGARTALA",
+        "year": 2021,
+        "subject": "POWER SYSTEM"
+      },
+      {
+        "degree": "M.TECH",
+        "institution": "NIT AGARTALA",
+        "year": 2011,
+        "subject": "POWER ELECTRONICS & DRIVES"
+      },
+      {
+        "degree": "B.E",
+        "institution": "NIT AGARTALA",
+        "year": 2009,
+        "subject": "ELECTRICAL ENGINEERING"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Optimal Placement of Electric Vehicle Charging Station with V2G Provision using Symbiotic Organisms Search Algorithm",
+          "conference": "2022 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS)",
+          "year": 2022,
+          "doi": "10.1109/SCEECS54111.2022.9740988"
+        },
+        {
+          "title": "Optimal Allocation of Electric Vehicle Charging Station using Symbiotic Organisms Search Algorithm and Reliability Index Approach",
+          "conference": "2022 International Conference on Breakthrough in Heuristics And Reciprocation of Advanced Technologies (BHARAT)",
+          "year": 2022,
+          "doi": "10.1109/BHARAT53139.2022.00046"
+        },
+        {
+          "title": "Solution of Probabilistic Economic Dispatch in Presence of Solar Power",
+          "conference": "2018 International Electrical Engineering Congress (iEECON)",
+          "year": 2018,
+          "doi": "10.1109/IEECON.2018.8712324"
+        },
+        {
+          "title": "Symbiotic organisms search algorithm for economic dispatch problems",
+          "conference": "2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT)",
+          "year": 2017,
+          "doi": "10.1109/ICECCT.2017.8118029"
+        },
+        {
+          "title": "Optimal tuning of PID controller using GWO algorithm for speed control in DC motor",
+          "conference": "2015 International Conference on Soft Computing Techniques and Implementations (ICSCTI)",
+          "year": 2015,
+          "doi": "10.1109/ICSCTI.2015.7489575"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Optimal Scheduling of Hydrothermal System Considering Variable Nature of Water Transportation Delay",
+          "journal": "Scientia Iranica (SCIE indexed)",
+          "volume": "29(2)",
+          "pages": "749-770",
+          "year": 2020,
+          "doi": "10.24200/SCI.2020.52887.2936"
+        },
+        {
+          "title": "Dragonfly Algorithm for Solving Probabilistic Economic Load Dispatch problems",
+          "journal": "Neural Computing & Applications (SCIE indexed; Impact factor-5.102), Springer",
+          "volume": "32",
+          "pages": "3029–3045",
+          "year": 2019,
+          "doi": "https://doi.org/10.1007/s00521-019-04268-9"
+        },
+        {
+          "title": "Quasi-Oppositional Symbiotic Organisms Search Algorithm for Different Economic Load Dispatch Problems",
+          "journal": "Scientia Iranica (SCIE indexed)",
+          "volume": "27",
+          "issue": 6,
+          "pages": "3096-3117",
+          "year": 2018,
+          "doi": "10.24200/SCI.2018.50766.1855"
+        },
+        {
+          "title": "Quasi-oppositional Grey Wolf Optimizer Algorithm for Economic Dispatch",
+          "journal": "Indian Journal of Science and Technology (Web of Science indexed)",
+          "volume": "11(41)",
+          "year": 2018,
+          "doi": "10.17485/ijst/2018/v11i41/108579"
+        }
+      ]
+    }
+  }
+  

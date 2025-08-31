@@ -1,0 +1,104 @@
+{
+    "name": "Dr. Dibyendu Ghoshal",
+    "designation": "Professor",
+    "department": "Electronics and Communication Engineering",
+    "email": "tukumw@gmail.com",
+    "address": {
+      "office": "-",
+      "city": "-",
+      "state": "-",
+      "country": "-"
+    },
+    "contact": {
+      "email": "tukumw@gmail.com",
+      "mobile": "09436767185",
+      "residence_phone": "-"
+    },
+    "publications_conference": [
+      {
+        "title": "An experimental study to have a higher generation efficiency in a brushless alternator",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "National Conference on Modeling and experimental Technique (NCMET 2011), Birbhum Institute of Engineering and Technology, Suri, West Bengal",
+        "month": "February",
+        "year": 2011
+      },
+      {
+        "title": "A Study on Large signal analysis of W-band silicon Impatt diode",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "3rd International conference on Recent Advances in Mathematics, Technology and Management, Bengal Institute of Technology and Management, Shantiniketan, West Bengal, India",
+        "month": "March",
+        "year": 2011
+      },
+      {
+        "title": "A qualitative explanation of the enhanced power and changing Frequency in an Impatt Oscillator using slotted resonant cap",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "3rd International conference held in Bengal Institute of Technology and Management, Shantiniketan, West Bengal, India",
+        "month": "March",
+        "year": 2011
+      },
+      {
+        "title": "A novel structure of silicon Impatt diode to be used in broadband millimeter wave communication",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "National Conference on Advance Communication (NCACOM 2010), Saranathan Engineering College, Trichy, India",
+        "month": "August",
+        "year": 2010
+      },
+      {
+        "title": "A Study on the electrical series resistance of a silicon SDR Impatt diode at X band",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "International Conference for Modeling, Control, Automation and Communication (ICMCAC2010), Velammal Engineering College, Chennai, India",
+        "month": "December",
+        "year": 2010
+      },
+      {
+        "title": "Some studies on Ka-band power combiner",
+        "authors": "Dibyendu Ghoshal",
+        "conference": "Seminar Industry, academia and students, Dumkal Institute of Engg. & Tech, Dumkal, Murshidabad, India",
+        "month": "March",
+        "year": 2009
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Study on the role of disc thickness to determine the fringing effect of electric field in a radial transmission line",
+        "authors": "Dibyendu Ghoshal",
+        "journal": "Indian Journal of Pure and Applied Physics",
+        "volume": "37",
+        "pages": "203-206",
+        "year": 1999
+      },
+      {
+        "title": "A computer study on resonant cap Impatt amplifiers using radial line approach",
+        "authors": "Dibyendu Ghoshal and S. K. Roy",
+        "journal": "IETE Journal of Research",
+        "volume": "44",
+        "pages": "303-309",
+        "year": 1998
+      },
+      {
+        "title": "A study on the impedance characterization of radial transmission line to explain the properties of millimeter wave 35-GHz resonant cap Impattoscillators",
+        "authors": "Dibyendu Ghoshal",
+        "journal": "IETE Journal of Research",
+        "volume": "44",
+        "pages": "95-98",
+        "year": 1998
+      },
+      {
+        "title": "Some experimental characteristics of microwave resonant cap Impatt oscillator to understand the properties of the diodes",
+        "authors": "Dibyendu Ghoshal",
+        "journal": "Indian Journal of Pure and Applied Physics",
+        "volume": "36",
+        "pages": "406-411",
+        "year": 1998
+      },
+      {
+        "title": "Experimental studies on the dependence of the tuning properties on the diameter of the post below the cap and the cap thickness of X-band resonant cap Impatt oscillator",
+        "authors": "Dibyendu Ghoshal",
+        "journal": "Int. Journal Electronics (U.K.)",
+        "volume": "83",
+        "pages": "859-862",
+        "year": 1997
+      }
+    ]
+  }
+  

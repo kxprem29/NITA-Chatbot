@@ -1,0 +1,80 @@
+{
+    "department": "Chemistry",
+    "research": {
+      "areas": [
+        "Natural Product Chemistry",
+        "Organic Synthesis",
+        "Organometallic Chemistry",
+        "Coordination Chemistry",
+        "Material Science",
+        "Nanotechnology"
+      ],
+      "sponsored_projects": [
+        {
+          "sl_no": 1,
+          "title": "Synthesis, Characterization--------amino acid and benzoic acid related systems",
+          "period": "2010-2013",
+          "funding_agency": "DST",
+          "amount_lacs": 19.06,
+          "coordinator": "Dr. K. S Singh"
+        },
+        {
+          "sl_no": 2,
+          "title": "Modernisation of Laboratories Under Chemistry Department",
+          "period": "2010-2011",
+          "funding_agency": "AICTE (MODROBS)",
+          "amount_lacs": 7.55,
+          "coordinator": "Dr. Saroj Kr. Das"
+        },
+        {
+          "sl_no": 3,
+          "title": "Development of carbon nanomaterials from starch materials",
+          "period": "2011-2014",
+          "funding_agency": "AICTE (RPS)",
+          "amount_lacs": 18.20,
+          "coordinator": "Dr. Mitali Saha"
+        },
+        {
+          "sl_no": 4,
+          "title": "Development of Nano structured material composition for next generation solar cells",
+          "period": "2012-2015",
+          "funding_agency": "CPRI",
+          "amount_lacs": 25.00,
+          "coordinator": "Dr. Mitali Saha"
+        },
+        {
+          "sl_no": 5,
+          "title": "Preparation of nanomaterials for Cholesterol biosensor",
+          "period": "2012-2014",
+          "funding_agency": "AICTE (RPS)",
+          "amount_lacs": 19.40,
+          "coordinator": "Dr. Mitali Saha"
+        },
+        {
+          "sl_no": 6,
+          "title": "Nucleophilic addition reaction of uracil ring for the synthesis of bio-active compounds.",
+          "period": "2012-2014",
+          "funding_agency": "AICTE (RPS)",
+          "amount_lacs": 16.00,
+          "coordinator": "Dr. Subrata Das"
+        },
+        {
+          "sl_no": 7,
+          "title": "Design of efficient method for the synthesis of RNA nucleobases.",
+          "period": "2013",
+          "funding_agency": "DBT",
+          "amount_lacs": 62.59,
+          "coordinator": "Dr. Subrata Das"
+        },
+        {
+          "sl_no": 8,
+          "title": "Nitroso-Diels-Alder (NDA) reaction for the synthesis of some Heterocyclic compounds.",
+          "period": "2013",
+          "funding_agency": "DST",
+          "amount_lacs": 26.00,
+          "coordinator": "Dr. Subrata Das"
+        }
+      ]
+    }
+  }
+  

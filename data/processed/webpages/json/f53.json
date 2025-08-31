@@ -1,0 +1,36 @@
+{
+    "name": "Mr. Arindam Sinha",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Mechanical Engineering",
+    "email": "arin.sinha619@gmail.com",
+    "research_area": "Advance Machining Process",
+    "courses_taught": {
+      "UG": [
+        "Engineering Mechanics",
+        "Engineering Drawing",
+        "Advance Manufacturing Process",
+        "Non Destructive Testing"
+      ],
+      "PG": [
+        "Production, Planning and Control",
+        "Manufacturing Automation"
+      ]
+    },
+    "address": {
+      "street": "Dhaleswar, kalyani, P.O-Dhaleswar",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "arin.sinha619@gmail.com",
+      "mobile": "7005682439",
+      "residence": ""
+    },
+    "academic": [],
+    "publications_conference": [],
+    "publications_journal": [],
+    "achievements": [],
+    "subject_info": []
+  }
+  

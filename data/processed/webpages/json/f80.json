@@ -1,0 +1,54 @@
+{
+    "name": "Prof. UMESH MISHRA",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "umeshmishra2010@gmail.com",
+    "research_area": "Quality & treatment of water and waste water, Solid waste management, fly ash and geopolymer application in cement, bio composite, Air pollution , GIS & remote sensing, Ground water, GIS & RS application in Env Engg, Modelling in environmental Engg, Bio fuel",
+    "cv_url": "View",
+    "courses_taught": {
+      "UG": ["Environmental Engg I", "Environmental Engg II"],
+      "PG": ["Water & Wastewater Treatment Processes-I & II", "Ecology & EIA", "GIS & RS Application in Env Engg"]
+    },
+    "phd_students": {
+      "completed": ["Swarup Biswas", "Soma Nag", "Santanu Mallick"],
+      "ongoing": ["Ria Mujumdar", "Saswati Soumya Pradhan", "Arun Shukla"]
+    },
+    "address": {
+      "address_line": "PROFESSOR, DEPT. OF CIVIL ENGG, NIT AGARTALA",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "umeshmishra2010@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "9436926569"
+    },
+    "academic_information": [
+      {
+        "degree": "Post Doc",
+        "institute": "Flemish Institute for Technological Research (Vlaamse Instelling voor Technologisch Onderzoek or VITO), Mol Belgium",
+        "year": 2015,
+        "subject": "Microbial Fuel Cell Research"
+      },
+      {
+        "degree": "Ph. D.",
+        "institute": "IIT Kharagpur",
+        "year": 2004,
+        "subject": "Civil Engineering Specialization Environmental Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "institute": "IIT Roorkee",
+        "year": 1994,
+        "subject": "Civil Engineering Specialization Environmental Engineering"
+      },
+      {
+        "degree": "B. TECH.",
+        "institute": "NIT Bhopal",
+        "year": 1984,
+        "subject": "Civil Engineering"
+      }
+    ]
+  }
+  

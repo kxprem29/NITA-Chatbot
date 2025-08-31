@@ -1,0 +1,117 @@
+{
+    "name": "Prof. John Deb Barma",
+    "position": "Professor",
+    "department": "Mechanical Engineering",
+    "email": "debbarma_john@rediffmail.com",
+    "address": {
+      "department": "Mechanical Engineering Department",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "debbarma_john@rediffmail.com",
+      "mobile": "9436120189"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2014,
+        "institution": "Jadavpur University",
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "year": 2007,
+        "institution": "Jadavpur University",
+        "subject": "Production Engineering"
+      },
+      {
+        "degree": "B.Tech.",
+        "year": null,
+        "institution": "NERIST",
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "Study of the performance of Cu-Gr composite tool during EDM of AISI 1020 mild steel",
+          "authors": "Md Piyar Uddin, Arindam Majumder, John Deb Barma, Pravin Kumar",
+          "venue": "Materials Today: Proceedings",
+          "month": "May",
+          "year": 2022
+        },
+        {
+          "title": "The joining of magnesium and aluminium alloys by inclined arrangement of explosive welding",
+          "authors": "Prabhat Kumar, Subrata Kumar Ghosh, John Deb Barma, S. Saravanan, Jitendra Kumar",
+          "venue": "Materials Today: Proceedings",
+          "doi": "https://doi.org/10.1016/j.matpr.2022.11.160",
+          "month": "Nov",
+          "year": 2022
+        },
+        {
+          "title": "Parametric observation of TIG welding on AISI 304 stainless steel of thickness 5 mm",
+          "authors": "Mamta Kumari, John Deb Barma, Subhash Singh",
+          "venue": "AIP Conference Proceedings",
+          "month": "May",
+          "year": 2021
+        }
+      ],
+      "journals": [
+        {
+          "title": "Effect of Square Pin Tool on Friction Stir Welded AA 6061-T6 from the Perspective of Revolution Pitch",
+          "authors": "Abhijit Banik, Tapas Debnath, John Deb Barma, Subhash Chandra Saha",
+          "journal": "Soldagem & Inspeção",
+          "year": 2022,
+          "month": "Mar"
+        },
+        {
+          "title": "Effect of tool rotational speed on friction stir welding of polymer using self-heated tool",
+          "authors": "Rahul Kanti Nath, Pabitra Maji, John Deb Barma",
+          "journal": "Production Engineering",
+          "year": 2022,
+          "month": "Feb"
+        },
+        {
+          "title": "Effect of Explosive Loading Ratio on Microstructure and Mechanical Properties of Al 5052/Az31b Explosive Weld Composite",
+          "authors": "Prabhat Kumar, Subrata Kumar Ghosh, S. Saravanan, John Deb Barma",
+          "journal": "The Journal of The Minerals, Metals & Materials Society",
+          "doi": "https://doi.org/10.1007/s11837-022-05579-4",
+          "year": 2022,
+          "month": "Nov"
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Attribute of SiC powder additive mixed EDM on machining performance and surface integrity aspects of inconel 625",
+        "authors": "Ankan Das, Bhavani Tharra, V. V. N. Siva Rao Sammeta, John Deb Barma",
+        "book": "Recent Advances in Mechanical Engineering",
+        "publisher": "Springer, Singapore",
+        "year": 2021
+      },
+      {
+        "title": "Development of Composites Using Bamboo Waste and Polymers for Industrial Application",
+        "authors": "Atosh Kumar Sinha, Rahul Kanti Nath, John Deb Barma, Mitali Saha",
+        "book": "Next Generation Materials and Processing Technologies",
+        "publisher": "Springer, Singapore",
+        "year": 2021
+      },
+      {
+        "title": "Effect of Process Parameters on Quality Characteristics of Al/Cu Dissimilar Friction Stir Welding Joint",
+        "authors": "A. Mandal, J. D. Barma, A. Bandyopadhyay",
+        "book": "Advances in Additive Manufacturing and Joining",
+        "publisher": "Springer, Singapore",
+        "year": 2020
+      },
+      {
+        "title": "A study on the effect of varying revolution pitch for different tool design: Friction stir welding of AA 6061-T6",
+        "authors": "Abhijit Banik, John Deb Barma, Ram Singh, S. C. Saha",
+        "book": "Advances in Industrial and Production Engineering",
+        "publisher": "Springer, Singapore",
+        "year": 2019
+      }
+    ]
+  }
+  

@@ -1,0 +1,223 @@
+{
+    "name": "Dr. Nabamita Goswami",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "nabamita08@rediffmail.com",
+    "research_area": [
+      "Opto-electronics Instrumentation",
+      "Fiber optic sensors",
+      "Fiber optic Bio-Sensors",
+      "Laser and Nonlinear-optics",
+      "Industrial Instrumentation"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Industrial Instrumentation",
+        "Basic Electrical Laboratory"
+      ],
+      "PG": [
+        "Optical Engineering and Laser Instrumentation",
+        "Opto Electronics Instrumentation"
+      ]
+    },
+    "phd_students": {
+      "enrolled": 1,
+      "ongoing": 2,
+      "completed": 0
+    },
+    "address": {
+      "address": "NIT AGARTALA, DEPARTMENT OF ELECTRICAL ENGINEERING, BARJALA, JIRANIA, Pin: 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "nabamita08@rediffmail.com",
+      "phone_residence": "-",
+      "phone_mobile": "9856757043"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D. (Philosophy of Doctorate)",
+        "year": "2015",
+        "subject": "Nonlinear optics"
+      },
+      {
+        "degree": "M.Tech (Master of Technology)",
+        "year": "2010",
+        "subject": "Power electronics and drives"
+      },
+      {
+        "degree": "B.E (Bachelor of Engineering)",
+        "year": "2008",
+        "subject": "Electrical Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "authors": "Aparupa Kar, Nabamita Goswami, Priyanka Dey, Priyanka Roy Goswami, Ardhendu Saha",
+          "title": "Graphene Surface Plasmon Resonance Based All-Optical Modulator at Terahertz Frequency",
+          "conference": "4th International Conference on Communication and Computational Technology (ICCCT-2022)",
+          "month": "FEB",
+          "year": "2022",
+          "venue": "Rajasthan Institute of Engineering and Technology, Jaipur"
+        },
+        {
+          "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+          "title": "Tunable Threshold Bistable Lateral Beam Displacement Through Graphene Symmetric Mode at Terahertz Frequency",
+          "conference": "International Conference on Advanced Physics, IEMPHYS 2022",
+          "month": "SEPT",
+          "year": "2022",
+          "venue": "Institute of Engineering and Management, Kolkata"
+        },
+        {
+          "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+          "title": "Graphene Surface Plasmon Plolariton Based Tunable Gas Sensor at Terahertz Frequency",
+          "conference": "International Conference on Advanced Physics, IEMPHYS 2022",
+          "month": "SEPT",
+          "year": "2022",
+          "venue": "Institute of Engineering and Management, Kolkata"
+        },
+        {
+          "authors": "Ardhendu Saha, Samhita Das, Nabamita Goswami",
+          "title": "Multiple Silver Nanorod Deposition on a Substrate using Oblique Angle Deposition Method: A Wave Theory-based Delineation using SPR Phenomenon",
+          "conference": "International Conference on Advanced Physics, IEMPHYS 2022",
+          "month": "SEPT",
+          "year": "2022",
+          "venue": "Institute of Engineering and Management, Kolkata"
+        }
+      ],
+      "journal": [
+        {
+          "authors": "Bijaya Saha, Nabamita Goswami, Ardhendu Saha",
+          "title": "Wave-theory-based analysis of a fiber optic bio-sensor illuminated by radially polarized Bessel–Gauss beam: an approach for early diagnosis of breast cancer",
+          "journal": "Applied Optics",
+          "volume_issue": "61",
+          "pages": "10408-10417",
+          "year": "2022"
+        },
+        {
+          "authors": "Bijaya Saha, Nabamita Goswami, Ardhendu Saha",
+          "title": "Analysis of highly sensitive surface-plasmon-resonance-based fiber optic breast cancer detection by shining a Bessel–Gauss beam",
+          "journal": "Applied Optics",
+          "volume_issue": "60, Issue 23",
+          "pages": "7027-7035",
+          "year": "2021"
+        },
+        {
+          "authors": "Nabamita Goswami, Deepak Chaurasia, Ardhendu Saha",
+          "title": "Highly sensitive long range surface plasmon based liquid sensor by shining the radially polarized light",
+          "journal": "Optik - International Journal for Light and Electron Optics",
+          "volume_issue": "193",
+          "pages": "163001",
+          "year": "2019"
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "authors": "Aparupa Kar, Nabamita Goswami, Ardhendu Saha",
+        "title": "Enhanced Goos-Hanchen Shift and Imbert-Fedorov Shift with Long Range Surface Plasmon: A Method of Optical Switching",
+        "book_title": "Surface Engineering: Methods and Applications",
+        "publisher": "CRC Press: Taylor & Francis",
+        "year": "2022"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Graphene Surface Plasmon Resonance Based All-Optical Modulator at Terahertz Frequency",
+        "month": "FEB",
+        "year": "2022",
+        "venue": "ICCCT-2022, Jaipur"
+      }
+    ],
+    "conferences_conducted": [
+      {
+        "title": "National Conference on Engineering Problems and Application of Mathematics",
+        "venue": "Visveswaraya Auditorium, NIT Agartala",
+        "month": "JUN",
+        "year": "2016"
+      },
+      {
+        "title": "Optics and Photonics",
+        "venue": "Visveswaraya Auditorium, NIT Agartala",
+        "month": "OCT",
+        "year": "2015"
+      },
+      {
+        "title": "Recent Trends on Power Electronics and Drives",
+        "venue": "Visveswaraya Auditorium, NIT Agartala",
+        "month": "NOV",
+        "year": "2015"
+      }
+    ],
+    "patents": [
+      {
+        "title": "A frequency based variable rate energy meter",
+        "application_no": "1008/KOL/2010A",
+        "publication_date": "17.12.2010",
+        "year": "2010"
+      }
+    ],
+    "achievements": [
+      {
+        "year": "2010",
+        "description": "Institute Gold Medal in M.Tech, Electrical Engineering, NIT Agartala"
+      },
+      {
+        "year": "2008",
+        "description": "Best student Pavilion award for project 'Frequency based variable rate energy meter' in ELECRAMA-2008"
+      }
+    ],
+    "trainings_attended": [
+      {
+        "month": "FEB",
+        "year": "2017",
+        "description": "GIAN Program on PT Symmetry and its realization in experimental systems"
+      },
+      {
+        "month": "DEC",
+        "year": "2015",
+        "description": "International Conference on Emerging Areas in Photonics and Future Applications, CSIR-CGCRI, Kolkata"
+      },
+      {
+        "month": "JAN",
+        "year": "2014",
+        "description": "Advanced Engineering Optimization through Intelligent Techniques, SVNIT"
+      },
+      {
+        "month": "MAY",
+        "year": "2013",
+        "description": "Field Instruments, PLC & DCS"
+      },
+      {
+        "month": "JULY",
+        "year": "2013",
+        "description": "Contemporary and Future Perspectives of Bio-Engineering in Medical Science and Technology"
+      }
+    ],
+    "subjects": [
+      {
+        "class": "M.Tech 1st Semester",
+        "subject": "Optical Engineering and Laser Instrumentation"
+      },
+      {
+        "class": "M.Tech",
+        "subject": "Optoelectronics Instrumentation"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Industrial Instrumentation"
+      },
+      {
+        "class": "B.Tech",
+        "subject": "Basic Electrical Laboratory"
+      },
+      {
+        "class": "M.Tech",
+        "subject": "Industrial Instrumentation"
+      }
+    ]
+  }
+  

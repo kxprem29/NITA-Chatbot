@@ -1,0 +1,106 @@
+{
+    "name": "Dr. Awnish Kumar",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "email": "awnish.cse@nita.ac.in",
+    "research_area": ["Machine Learning", "Computer Networks"],
+    "address": {
+      "room": "Room no 231, CSE Department, NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "awnish.cse@nita.ac.in",
+      "residence_phone": null,
+      "mobile_phone": null
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "institution": "IIT Guwahati",
+        "year": 2021,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "institution": "IIT Guwahati",
+        "year": 2014,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "institution": "NIT Srinagar",
+        "year": 0,
+        "subject": "Electronics and Communication Engineering"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "A multi-view subspace learning approach to Internet traffic matrix estimation",
+        "authors": "Awnish Kumar, S. Vidyapu, V. V. Saradhi, V. Tamarapalli",
+        "conference": "IEEE Transactions on Network and Service Management",
+        "volume": 17,
+        "issue": 2,
+        "pages": "1282-1293",
+        "month": "JUN",
+        "year": 2020
+      },
+      {
+        "title": "Compressive Sensing of Internet Traffic Matrices using CUR Decomposition",
+        "authors": "Awnish Kumar, Vijaya.V. Saradhi, T. Venkatesh",
+        "conference": "ACM, 19th International Conference on Distributed Computing and Networking (ICDCN ’18)",
+        "location": "Varanasi, India",
+        "month": "JAN",
+        "year": 2018,
+        "doi": "10.1145/3154273.3154315"
+      },
+      {
+        "title": "Network-wide volume anomaly detection using alternate matrix decomposition techniques",
+        "authors": "Awnish Kumar, Vijaya V. Saradhi, T. Venkatesh",
+        "conference": "IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)",
+        "pages": "1-6",
+        "month": "DEC",
+        "year": 2017,
+        "doi": "10.1109/ANTS.2017.8384134"
+      },
+      {
+        "title": "Interpretable structural analysis of traffic matrix",
+        "authors": "A. Kumar, V. V. Saradhi, T. Venkatesh",
+        "conference": "34th International Conference on Machine Learning (ICML), Time Series Workshop",
+        "pages": "1-5",
+        "year": 2017
+      },
+      {
+        "title": "Role of Correspondence Analysis in Network Traffic Flow Analysis",
+        "authors": "Awnish Kumar, V. Vijaya Saradhi, T. Venkatesh",
+        "conference": "6th IBM Collaborative Academia Research Exchange Conference (ICARE)",
+        "publisher": "ACM",
+        "month": "OCT",
+        "year": 2014
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "A multi-view subspace learning approach to Internet traffic matrix estimation",
+        "authors": "Awnish Kumar, S. Vidyapu, V. V. Saradhi, V. Tamarapalli",
+        "journal": "IEEE Transactions on Network and Service Management",
+        "volume": 17,
+        "issue": 2,
+        "pages": "1282-1293",
+        "month": "JUN",
+        "year": 2020
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "B.Tech. 2nd Year",
+        "subject": "Data Communication"
+      },
+      {
+        "class": "MCA 2nd Year",
+        "subject": "Design and Analysis of Algorithm"
+      }
+    ]
+  }
+  

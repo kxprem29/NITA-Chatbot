@@ -1,0 +1,109 @@
+{
+    "name": "Dr. Priyanka Dey",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electronics and Instrumentation Engineering",
+    "email": "priyankadey.mtech@gmail.com",
+    "address_information": {
+      "address": "Department of Electronics and Instrumentation Engineering, National Institute of Technology, Agartala, Jirania, Barjala, Tripura (West), Pin:799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact_information": {
+      "email_address": "priyankadey.mtech@gmail.com",
+      "phone_residence": "9774147921",
+      "phone_mobile": "09774147921"
+    },
+    "academic_information": [
+      {
+        "degree_diploma": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": "2018",
+        "subject": "Electrical Engineering"
+      },
+      {
+        "degree_diploma": "M.Tech",
+        "description": "Master of Technology",
+        "year": "2012",
+        "subject": "Instrumentation Engineering"
+      },
+      {
+        "degree_diploma": "B.Tech",
+        "description": "Bachelor of Technology",
+        "year": "2005",
+        "subject": "Electronics and Instrumentation Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Implementation of an enhanced 32 channel 256Gbps DWDM based Radio over Fiber optical system for constricted channel spacing employing Fiber Bragg Grating",
+          "journal": "Optik",
+          "volume": "253",
+          "month": "MAR",
+          "year": "2022"
+        },
+        {
+          "title": "An improved hybrid OTDM-WDM transmission system for effective nonlinearity mitigation utilizing Ti:PPLN waveguide based OPC module",
+          "journal": "Optik",
+          "volume": "219",
+          "month": "OCT",
+          "year": "2020"
+        },
+        {
+          "title": "An efficient DFG induced wavelength exchanged-OPC using only two Ti:PPLN waveguides with single pump configuration",
+          "journal": "Optik",
+          "volume": "202",
+          "month": "FEB",
+          "year": "2020"
+        },
+        {
+          "title": "Additive solc action in aperiodically poled MgBaF4 for deep UV applications",
+          "journal": "Optik",
+          "volume": "127",
+          "month": "DEC",
+          "year": "2016"
+        },
+        {
+          "title": "Tunable folded Solc filter in bulk anisotropic crystal",
+          "journal": "Optik",
+          "volume": "127",
+          "month": "NOV",
+          "year": "2016"
+        },
+        {
+          "title": "Dispersion compensated optical amplifier in Ti-diffused PPLN ridge waveguide",
+          "journal": "Applied Optics",
+          "volume": "55",
+          "month": "OCT",
+          "year": "2016"
+        },
+        {
+          "title": "Surface plasmon enhanced ultra-low threshold second harmonic generation in periodically poled whispering gallery resonator",
+          "journal": "Optik",
+          "volume": "125",
+          "month": "OCT",
+          "year": "2014"
+        },
+        {
+          "title": "Surface plasmon enhanced reflected second harmonic generation in periodically poled whispering gallery resonator",
+          "journal": "Proceedings Volume 8604, Nonlinear Frequency Generation and Conversion: Materials, Devices, and Applications XII",
+          "doi": "https://doi.org/10.1117/12.2000445",
+          "event": "SPIE LASE, San Francisco, California, United States",
+          "month": "MAR",
+          "year": "2013"
+        }
+      ]
+    },
+    "book_published": [
+      {
+        "title": "An Efficient DFG Induced Wavelength Exchanged-OPC Using Only Two Ti:PPLN Waveguides",
+        "authors": "Rituraj Bhattacharjee, Priyanka Dey, Ardhendu Saha",
+        "publisher": "Springer, Singapore",
+        "book": "ICOL-2019",
+        "pages": "215-218",
+        "publication_date": "2021"
+      }
+    ]
+  }
+  

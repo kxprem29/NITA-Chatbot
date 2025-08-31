@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Atanu Chowdhury",
+    "designation": "HOD & Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "email": "atanunita@gmail.com",
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "atanunita@gmail.com",
+      "residence_phone": null,
+      "mobile": "9436597799"
+    }
+  }
+  

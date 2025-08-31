@@ -1,0 +1,156 @@
+{
+    "Office": "Anti-Ragging",
+    "AntiRaggingCommittee": [
+      {
+        "Name": "Prof. John Deb Barma",
+        "Designation": "Dean (SW-1), Chairman",
+        "Mobile": "9436120189",
+        "Email": "johnneristian@gmail.com"
+      },
+      {
+        "Name": "Prof. Arvind Kumar Jain",
+        "Designation": "Dean (SW-2), Co-Chairman",
+        "Email": "arvindjmp@gmail.com"
+      },
+      {
+        "Name": "Prof. Rajib Saha",
+        "Designation": "Dean (Academic), Member",
+        "Mobile": "9436125024",
+        "Email": ["rajib.iitbbsr@gmail.com", "deanaa.ug.nita@gmail.com"]
+      },
+      {
+        "Name": "Dr. Subrata Kumar Ghosh",
+        "Designation": "Associate Dean (SW), Convener",
+        "Mobile": "8413039512",
+        "Email": "drsubrata.me@nita.ac.in"
+      },
+      {
+        "Name": "Dr. R.K Bhogendro Meitei",
+        "Designation": "Chief Warden, Member",
+        "Mobile": "7005751639",
+        "Email": "bhogenrk@gmail.com"
+      },
+      {
+        "Name": "Dr. Rajsekhar Panua",
+        "Designation": "HOD, ME, Member",
+        "Mobile": "9436767169",
+        "Email": "rajsekhar_panua@yahoo.co.in"
+      },
+      {
+        "Name": "Dr. Arvind Kumar Jain",
+        "Designation": "HOD, EE, Member",
+        "Mobile": "9406576108",
+        "Email": "arvindjmp@gmail.com"
+      },
+      {
+        "Name": "Dr. Deb Dulal Tripura",
+        "Designation": "HOD, CE, Member",
+        "Mobile": "9436134313",
+        "Email": "debdulaltripura@gmail.com"
+      },
+      {
+        "Name": "Prof. Mitali Saha",
+        "Designation": "HOD, Chemistry, Member",
+        "Mobile": "8974006400",
+        "Email": "mitalisah@gmail.com"
+      },
+      {
+        "Name": "Prof. Rabindra Narayan Mahapatra",
+        "Designation": "HOD, PE, Member",
+        "Email": "mahapatrarabindranarayan@gmail.com"
+      },
+      {
+        "Name": "Prof. Baby Bhattacharya",
+        "Designation": "Chairman Girls Hostel, Member",
+        "Mobile": "9862213796",
+        "Email": "babybhatt75@gmail.com"
+      }
+    ],
+    "AntiRaggingSquadCommittee": [
+      {
+        "Name": "Prof. Uttam Kumar Bera",
+        "Designation": "Dean (SW-2), Chairman",
+        "Mobile": "9436767279",
+        "Email": "bera_uttam@yahoo.co.in"
+      },
+      {
+        "Name": "Prof. John Deb Barma",
+        "Designation": "Dean (SW-1), Member",
+        "Mobile": "9436120189",
+        "Email": "johnneristian@gmail.com"
+      },
+      {
+        "Name": "Prof. Manish Pal",
+        "Designation": "Professor CE, Member",
+        "Mobile": "9856024665",
+        "Email": "mani_nita@yahoo.co.in"
+      },
+      {
+        "Name": "Dr. Mitra Barun Sarkar",
+        "Designation": "Associate Dean (SW), Convener",
+        "Mobile": "7629914575",
+        "Email": "mbarun.ece@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Supriyo Dutta",
+        "Designation": "Assistant Professor, Mathematics, Member",
+        "Mobile": "8250440115",
+        "Email": "drsupriyo@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Dipankar Sarkar",
+        "Designation": "Assistant Professor, CE, Member",
+        "Mobile": "7085392741",
+        "Email": "dipankarnita@gmail.com"
+      },
+      {
+        "Name": "Dr. Shailendra Singh",
+        "Designation": "Warden Aryabhatta Hostel, Member",
+        "Mobile": "9412482849",
+        "Email": "shailendra.ee@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Dhirendra Kumar Pandey",
+        "Designation": "Warden Aryabhatta Hostel, Member",
+        "Mobile": "9557811191",
+        "Email": "dkp.nita@gmail.com"
+      },
+      {
+        "Name": "Dr. Sadhan Gope",
+        "Designation": "Warden RNT Hostel, Member",
+        "Mobile": "9862670880",
+        "Email": "sadhan.nit@gmail.com"
+      },
+      {
+        "Name": "Dr. Yogesh Kumar Sariya",
+        "Designation": "Warden RNT Hostel, Member",
+        "Mobile": "9897756808",
+        "Email": "yogesh.sariya1@gmail.com"
+      },
+      {
+        "Name": "Dr. Awnish Kumar",
+        "Designation": "Warden RNT Hostel, Member",
+        "Mobile": "7992310101",
+        "Email": "awnish.cse@nita.ac.in"
+      },
+      {
+        "Name": "Dr. Ngangbam Herojit Singh",
+        "Designation": "Warden Howrah, Gomati and Dhalai, Member",
+        "Mobile": "8729832057",
+        "Email": "herojitng@gmail.com"
+      },
+      {
+        "Name": "Dr. Sagarika Panigrahi",
+        "Designation": "Warden Gargi Hostel, Member",
+        "Mobile": "8436363297",
+        "Email": "panigrahisagarika1@gmail.com"
+      },
+      {
+        "Name": "Dr. Smita Das",
+        "Designation": "Warden Gargi Hostel, Member",
+        "Mobile": "9774715007",
+        "Email": "smitadas.nita@gmail.com"
+      }
+    ]
+  }
+  

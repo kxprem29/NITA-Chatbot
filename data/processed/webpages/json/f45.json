@@ -1,0 +1,113 @@
+{
+    "name": "Dr. Kalyan Gayen",
+    "designation": "Associate Professor",
+    "department": "Chemical Engineering",
+    "email": ["kgayen123@gmail.com", "kalyan.chemical@nita.ac.in"],
+    "phone": "+91-8974727421",
+    "address": {
+      "department": "Department of Chemical Engineering, NIT Agartala",
+      "po": "PO-NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "pin": "799046"
+    },
+    "url": "https://sites.google.com/view/drkalyangayen/home",
+    "cv": "View",
+    "academic": [
+      {
+        "degree": "Post Doc",
+        "university": "University of California, Santa Barbara, USA",
+        "year": 2009,
+        "subject": ""
+      },
+      {
+        "degree": "Ph.D.",
+        "university": "IIT Bombay",
+        "year": 2007,
+        "subject": "Chemical Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "university": "IIT Kharagpur",
+        "year": 2003,
+        "subject": "Chemical Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "university": "University of Calcutta",
+        "year": 1999,
+        "subject": "Chemical Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Effect of Edible Coatings Derived from Waste Biomass on Preserving Oranges During Post-Harvest Storage",
+          "authors": ["Puspita Dey", "Kalyan Gayen", "Tridib Kumar Bhowmick"],
+          "conference": "Bioprocessing India 2024",
+          "date": "15-17 December 2024",
+          "location": "IIT Madras, Chennai, India"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Phycoremediation of As(III) and Cr(VI) by Desmodesmus subspicatus: Impact on growth and biomolecules (carbohydrate, protein, chlorophyll and lipid) A dual mode investigation",
+          "authors": ["Anisha Ganguly", "Soma Nag", "Tridib Kumar Bhowmick", "Kalyan Gayen"],
+          "journal": "Environmental Science and Pollution Research",
+          "year": 2024,
+          "pages": "1-16"
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Nanobiotechnology: Applications of Nanomaterials in Biotechnology, Medicine and Healthcare",
+        "editors": ["Tridib Kumar Bhowmick", "Kalyan Gayen", "Sunil Kumar Maity"],
+        "publisher": "CRC Press, Taylor and Francis, USA",
+        "isbn": "9781003305583",
+        "year": 2024,
+        "link": "https://doi.org/10.1201/9781003305583"
+      }
+    ],
+    "conferences_conducted": [
+      {
+        "title": "Thirteen national convention and national seminar on Recent trends in Research, Developments and Innovations in Chemical Industries",
+        "dates": "6-7 September 2014",
+        "location": "NIT Agartala, India"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Fast Track Young Scientist",
+        "year": 2010,
+        "awarded_by": "Department of Science and Technology (DST), India"
+      }
+    ],
+    "trainings": [
+      {
+        "title": "Professional Development Training",
+        "dates": "9-13 July 2018",
+        "location": "IIM Kozhikode, Kerala, India"
+      }
+
+    ],
+    "subjects": {
+      "UG": [
+        "Mass Transfer Operations I",
+        "Mass Transfer Operations II",
+        "Bioprocess Engineering",
+        "Chemical Reaction Engineering I",
+        "Chemical Reaction Engineering II",
+        "Chemical Engineering Thermodynamics I",
+        "Chemical Engineering Thermodynamics II",
+        "Heat Transfer",
+        "Fluid Dynamics"
+      ],
+      "PG": [
+        "Advanced Reactor Design and Analysis",
+        "Modeling and Simulation of Bioprocesses"
+      ]
+    }
+  }
+  

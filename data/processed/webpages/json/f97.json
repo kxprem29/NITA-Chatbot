@@ -1,0 +1,119 @@
+{
+    "name": "Dr. Rupam Gupta Roy",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electronics and Instrumentation Engineering",
+    "date_of_joining": "07/11/2014",
+    "email": "rupamguptaroy05@gmail.com",
+    "address": {
+      "address_line": "Electronics and Instrumentation Engineering, NIT Agartala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "rupamguptaroy05@gmail.com",
+      "residence_phone": "-",
+      "mobile_phone": "7005940657"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph. D.",
+        "year": 2021,
+        "subject": "Robotics and Control domain",
+        "institute": "ECE Department, NIT Agartala"
+      },
+      {
+        "degree": "M.TECH",
+        "year": 2013,
+        "subject": "Instrumentation Engineering",
+        "institute": "Electrical Engineering, Specialization on Instrumentation Engineering, NIT Agartala"
+      },
+      {
+        "degree": "B. TECH.",
+        "year": 2007,
+        "subject": "Instrumentation Engineering",
+        "institute": "M.B.E.S. College of Engineering, Ambajogai, Maharashtra"
+      }
+    ],
+    "publications": {
+      "journal": [
+        {
+          "title": "Disturbance Observer-Based Fuzzy Adapted S-Surface Controller for Spatial Trajectory Tracking of Autonomous Underwater Vehicle",
+          "authors": "Lakhekar V. Girish, Laxman M. Waghmare, Rupam Gupta Roy",
+          "journal": "IEEE Transactions on Intelligent Vehicles",
+          "month": "2020",
+          "doi": "https://doi.org/10.1109/TIV.2019.2938082"
+        },
+        {
+          "title": "Robust diving motion control of an autonomous underwater vehicle using adaptive neuro-fuzzy sliding mode technique",
+          "authors": "Lakhekar V. Girish, Laxman M. Waghmare, P. G. Jadhav, Rupam Gupta Roy",
+          "journal": "IEEE Access",
+          "month": "2020"
+        },
+        {
+          "title": "Adaptive second-order sliding-mode controller for shank-foot orthosis system",
+          "authors": "Rupam Gupta Roy, Dibyendu Ghoshal",
+          "journal": "International Journal of Control, 92:7, 1580-1589",
+          "month": "2019",
+          "doi": "https://doi.org/10.1080/00207179.2017.1400183"
+        },
+        {
+          "title": "Grey Wolf Optimization-based Second order Sliding Mode Control for Inchworm Robot",
+          "authors": "Rupam Gupta Roy, Dibyendu Ghoshal",
+          "journal": "Robotica, Cambridge University Press",
+          "month": "2019",
+          "doi": "https://doi.org/10.1017/S0263574719001620"
+        },
+        {
+          "title": "A Novel Adaptive Second Order Sliding Mode Controller for Autonomous Underwater Vehicles",
+          "authors": "Rupam Gupta Roy, Dibyendu Ghoshal",
+          "journal": "Adaptive Behavior, SAGE Journals",
+          "month": "2019",
+          "doi": "https://doi.org/10.1177/1059712319882105"
+        },
+        {
+          "title": "Advanced Heavy Water Reactor Control with the aid of Adaptive Second Order Sliding Mode Controller",
+          "authors": "Rupam Gupta Roy, Dibyendu Ghoshal",
+          "journal": "Engineering Computations, Emerald",
+          "month": "2019",
+          "doi": "https://doi.org/10.1108/EC-03-2019-0088"
+        }
+      ],
+      "conference": [
+        {
+          "title": "A fuzzy neural approach for dynamic spectrum allocation in cognitive radio networks",
+          "authors": "Girish V Lakhekar, Rupam Gupta Roy",
+          "conference": "ICCPCT 2014, IEEE (SCOPUS INDEXED)",
+          "year": 2014
+        },
+        {
+          "title": "Heading control of an underwater vehicle using dynamic fuzzy sliding mode controller",
+          "authors": "Girish V Lakhekar, Rupam Gupta Roy",
+          "conference": "ICCPCT 2014, IEEE (SCOPUS INDEXED)",
+          "year": 2014
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Speed Control of DC Motor Using Fuzzy-Based Intelligent Model Reference Adaptive Control Scheme",
+        "authors": "Baidya D., Rupam Gupta Roy",
+        "book_info": "In: Bera R., Sarkar S., Chakraborty S. (eds) Advances in Communication, Devices and Networking. Lecture Notes in Electrical Engineering, vol 462. Springer, Singapore, 2018 (SCOPUS INDEXED). (Book Chapter)",
+        "year": 2018
+      }
+    ],
+    "courses_taught": {
+      "3rd Year": [
+        "Instrumentation Devices-II",
+        "Industrial Instrumentation",
+        "Process Control – I",
+        "Biomedical instrumentation"
+      ],
+      "4th Year": [
+        "Process Control – II",
+        "Elective-I",
+        "Elective 2"
+      ]
+    }
+  }
+  

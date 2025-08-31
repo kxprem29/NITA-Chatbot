@@ -1,0 +1,65 @@
+{
+    "name": "Prof. Ram Naresh Rai",
+    "designation": "Professor",
+    "department": "Production Engineering",
+    "email": "nareshray@yahoo.co.in",
+    "research_area": [
+      "Foundry-Forge",
+      "Composite Materials",
+      "Grain refinement",
+      "Manufacturing",
+      "Welding"
+    ],
+    "address": {
+      "street": "10/10, Mauchak, Professor Quarter, NIT Campus, Jirania",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "nareshray@yahoo.co.in",
+      "phone_residence": "8974443620",
+      "phone_mobile": "8974443620"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2007,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2001,
+        "subject": "Foundry-Forge Technology"
+      },
+      {
+        "degree": "B.E.",
+        "description": "Bachelor of Engineering",
+        "year": 1998,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "courses_taught": {
+      "UG": [
+        "Manufacturing Process - I",
+        "Manufacturing Process - II",
+        "Entrepreneurship Development"
+      ],
+      "PG": [
+        "Advances in Metal Forming Technology"
+      ]
+    },
+    "phd_students": {
+      "enrolled": [
+        {
+          "name": "Anirban Mitra",
+          "thesis_title": null,
+          "status": "ongoing"
+        }
+      ],
+      "completed": []
+    }
+  }
+  

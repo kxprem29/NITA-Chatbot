@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Prof. Rabindra Narayan Mahapatra",
+        "designation": "Professor & HOD",
+        "department": "Production Engineering",
+        "email": "mahapatrarabindranarayan@gmail.com"
+    },
+    {
+        "name": "Prof. Ram Naresh Rai",
+        "designation": "Professor",
+        "department": "Production Engineering",
+        "email": "nareshray@yahoo.co.in"
+    },
+    {
+        "name": "Dr. Neeraj Sharma",
+        "designation": "Associate Professor",
+        "department": "Production Engineering",
+        "email": "neeraj.pe@faculty.nita.ac.in"
+    },
+    {
+        "name": "Dr. Swarup Paul",
+        "designation": "Associate Professor",
+        "department": "Production Engineering",
+        "email": "pswarup2008@gmail.com"
+    },
+    {
+        "name": "Dr. UTTAM KUMAR MANDAL",
+        "designation": "Associate Professor",
+        "department": "Production Engineering",
+        "email": "uttamkumar_mandal@yahoo.co.in"
+    },
+    {
+        "name": "Dr. VIDYUT DEY",
+        "designation": "Associate Professor",
+        "department": "Production Engineering",
+        "email": "vidyutdey@gmail.com"
+    },
+    {
+        "name": "Dr. Kishan Choudhuri",
+        "designation": "Assistant Professor",
+        "department": "Production Engineering",
+        "email": "kishanchoudhuri@gmail.com"
+    },
+    {
+        "name": "Dr. Nabarun Biswas",
+        "designation": "Assistant Professor",
+        "department": "Production Engineering",
+        "email": "nabarun.pe@faculty.nita.ac.in"
+    },
+    {
+        "name": "Dr. Prakash Kumar Sahu",
+        "designation": "Assistant Professor",
+        "department": "Production Engineering",
+        "email": "pksahunita@gmail.com"
+    },
+    {
+        "name": "Dr. Prasenjit Dutta",
+        "designation": "Assistant Professor",
+        "department": "Production Engineering",
+        "email": "dutaprasenjit@yahoo.com"
+    },
+    {
+        "name": "Dr. Sujoy Chakraborty",
+        "designation": "Assistant Professor",
+        "department": "Production Engineering",
+        "email": "ersujoymech05@gmail.com"
+    },
+    {
+        "name": "Dr. Debashis Podder",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Production Engineering",
+        "email": "debashis5645@gmail.com"
+    }
+]

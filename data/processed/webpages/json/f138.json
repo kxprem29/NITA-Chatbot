@@ -1,0 +1,157 @@
+{
+    "Name": "Dr. Gopinandan Dey",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering (NBA Accredited)",
+    "Email": "gopinita@ymail.com",
+    "Address": "Room No 204, Civil Engineering Department, NIT Agartala, PIN-799055",
+    "City": "AGARTALA",
+    "State": "TRIPURA",
+    "Country": "India",
+    "Phone": "7042059193",
+    "Research Areas": [
+      "Innovative supplementary cementitious materials (SCM)",
+      "Geopolymer concrete",
+      "Durability of concrete",
+      "Electrical and Electromagnetic method for material characterization",
+      "Non-destructive evaluation of concrete and other materials"
+    ],
+    "Courses Taught": {
+      "UG": [
+        "Structural Analysis-I",
+        "Structural Analysis-II",
+        "Structural Analysis-III",
+        "Design of RC Structure",
+        "Concrete Technology",
+        "Estimating, Costing and Valuation"
+      ],
+      "PG": [
+        "Advanced Design of Prestressed Concrete",
+        "Bridge Engineering",
+        "Behavior of Concrete Structure",
+        "Finite Element Method"
+      ]
+    },
+    "Academic Information": [
+      {
+        "Degree": "Ph. D.",
+        "Institute": "Indian Institute of Technology Delhi",
+        "Year": 2019,
+        "Subject": "Civil Engineering"
+      },
+      {
+        "Degree": "M. Tech",
+        "Institute": "-",
+        "Year": 2010,
+        "Subject": "Structural Engineering"
+      },
+      {
+        "Degree": "B. Tech",
+        "Institute": "Tripura University",
+        "Year": 1994,
+        "Subject": "Civil Engineering"
+      }
+    ],
+    "Publications Conference": [
+      {
+        "Title": "GEOPOLYMER BRICK AN ECO-FRIENDLY BUILDING MATERIAL",
+        "Authors": "Das A., Dey G.",
+        "Conference": "17th Annual General Conference of Indian Building Congress",
+        "Month": "SEPT",
+        "Year": 2023
+      },
+      {
+        "Title": "Geopolymer Concrete- A Solution for Future Generation Cement-less Concrete",
+        "Authors": "Dey G.",
+        "Conference": "16th Annual General Conference of Indian Building Congress",
+        "Month": "AUG",
+        "Year": 2022
+      },
+      {
+        "Title": "A Modified Mix Design Method of Concrete Made with Crushed Brick Aggregate",
+        "Authors": "Paul S., Dey G., Pal J.",
+        "Conference": "International RILEM Conference on Materials, Systems and Structures in Civil Engineering (2016), Denmark",
+        "Month": "AUG",
+        "Year": 2016
+      },
+      {
+        "Title": "Use of Rice Straw Ash as Pozzolanic Material in Cement Mortar",
+        "Authors": "Munshi S., Dey G., Sharma R.P.",
+        "Conference": "2nd International Conference of Civil Engineering Materials (2013), Hong Kong",
+        "Month": "OCT",
+        "Year": 2013
+      },
+      {
+        "Title": "Use of brick aggregate in standard concrete and its performance in elevated temperature",
+        "Authors": "Dey G., Pal J.",
+        "Conference": "2nd International Conference of Civil Engineering Materials (2013), Hong Kong",
+        "Month": "AUG",
+        "Year": 2013
+      },
+      {
+        "Title": "Pseudo static analysis of rigid retaining wall for dynamic active earth pressure",
+        "Authors": "Ghosh S., Dey G., Datta B.",
+        "Conference": "12th International conference of international association for computer methods and advances in geomechanics, Goa, India",
+        "Month": "SEPT",
+        "Year": 2008
+      }
+    ],
+    "Publications Journal": [
+      {
+        "Title": "Electrical Conductivity and Permittivity of Partially Saturated Concrete Under Drying and Wetting Cycles",
+        "Authors": "Dey G., Ganguli A., Bhattacharjee, B.",
+        "Journal": "Journal of Nondestructive Evaluation 43(4)",
+        "Month": "SEPT",
+        "Year": 2024
+      },
+      {
+        "Title": "Inversion Based Retrieval of the Profile of the Degree of Moisture Saturation in Concrete Using Electrical Impedance Measurements",
+        "Authors": "Dey G., Ganguli A., Bhattacharjee, B.",
+        "Journal": "Journal of Non-destructive Evaluation (2021) 40:74",
+        "Month": "AUG",
+        "Year": 2021
+      },
+      {
+        "Title": "Electrical Impedance Based Technique for Estimation of Moisture Saturation Conditions of Hardened Cement Paste at Low Radio Frequencies",
+        "Authors": "Dey G.",
+        "Journal": "Journal of Nondestructive Evaluation (2020) 39:64",
+        "Month": "AUG",
+        "Year": 2020
+      },
+      {
+        "Title": "Electrical response-based technique for estimation of degree of moisture saturation in cement concrete and mortar in drying and wetting cycle",
+        "Authors": "Dey G., Ganguli A., Bhattacharjee, B., Gandhi T. K.",
+        "Journal": "Construction and Building Materials 262 (2020) 120855",
+        "Month": "SEPT",
+        "Year": 2020
+      },
+      {
+        "Title": "Potential of Electrical Response at Low Radio Frequencies for Estimation of the Degree of Moisture Saturation in Cement Mortar",
+        "Authors": "Dey G., Ganguli A., Bhattacharjee, B., Gandhi T. K.",
+        "Journal": "Indian Concrete Journal",
+        "Month": "MAR",
+        "Year": 2019
+      },
+      {
+        "Title": "Electrical Conductivity, Dielectric Permittivity, and Degree of Saturation of Cement Mortar at Low Radio Frequencies",
+        "Authors": "Dey G., Ganguli A., Bhattacharjee, B.",
+        "Journal": "Journal of Testing and Evaluation (2019), 47:4",
+        "Month": "JULY",
+        "Year": 2018
+      }
+    ],
+    "Training Conducted": [
+      {
+        "Title": "4.0 (FOUR) DAYS TRAINING PROGRAMME ON DISASTER PREPAREDNESS & CAPACITY BUILDING FOR TRIPURA PWD ENGINEERS 1st BATCH",
+        "Month": "FEB",
+        "Year": 2025,
+        "Duration": "24-28 FEBRUARY, 2025"
+      },
+      {
+        "Title": "4.0 (FOUR) DAYS TRAINING PROGRAMME ON DISASTER PREPAREDNESS & CAPACITY BUILDING FOR TRIPURA PWD ENGINEERS 2nd BATCH",
+        "Month": "MAR",
+        "Year": 2025,
+        "Duration": "02-05 March, 2025"
+      }
+    ]
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "name": "Dr. Jayakumar L",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "email": "jayakumar@nita.ac.in",
+    "research_area": [
+      "IoT",
+      "Networks and Optimization",
+      "Operations Research"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Java Programming",
+        "Data Structures and Algorithm",
+        "Big Data Analytics"
+      ],
+      "PG": [
+        "Advanced Data Structures"
+      ]
+    },
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "jayakumar@nita.ac.in",
+      "residence_phone": null,
+      "mobile": "9791442705"
+    }
+  }
+  

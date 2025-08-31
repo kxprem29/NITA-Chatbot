@@ -1,0 +1,40 @@
+{
+    "name": "Dr. Somnath Roy Choudhury",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "21/05/2012",
+    "email": "somnath.ece@nita.ac.in",
+    "research_area": [
+      "VLSI Physical Design Automation",
+      "Thermal Aware VLSI Design"
+    ],
+    "courses_taught": {
+      "UG": [
+        "VLSI Technology",
+        "Digital Signal Processing",
+        "Embedded System Design",
+        "Basic Electronics"
+      ],
+      "PG": [
+        "CAD of VLSI System",
+        "Digital VLSI Design",
+        "Analog VLSI Design",
+        "Embedded Systems"
+      ]
+    },
+    "phd_students": {
+      "enrolled_ongoing": ["Akash Debnath"]
+    },
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "somnath.ece@nita.ac.in",
+      "residence_phone": "",
+      "mobile": "9436767171"
+    }
+  }
+  

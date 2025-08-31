@@ -1,0 +1,146 @@
+{
+    "name": "Dr. Tamasi Moyra Panua",
+    "designation": "Associate Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "13/06/2012",
+    "email": "tamasi_moyra@yahoo.co.in",
+    "cv": "View",
+    "address": {
+      "address_line": "Department of Electronics and Communication Engineering",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "tamasi_moyra@yahoo.co.in",
+      "residence_phone": "-",
+      "mobile": "0986284663"
+    },
+    "academic_qualification": [
+      {
+        "degree": "Ph.D.",
+        "year": 2014,
+        "subject": "Microwave circuits and Communication Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "year": 2007,
+        "subject": "Digital Systems and Instrumentations"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Dual-Band Microstrip Patch Antenna Using Frequency Selective Surface",
+          "co_authors": ["Dharmvir Kumar", "Partha Kumar Deb", "Tanay Tarun"],
+          "conference": "International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
+          "month": "July",
+          "year": 2017,
+          "publisher": "IEEE"
+        },
+        {
+          "title": "Design of a Coplanar Waveguide (CPW) Bandpass Filter with Wide Harmonic Suppression",
+          "co_authors": ["Pratibha Verma", "Dwipjoy Sarkar"],
+          "conference": "International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
+          "month": "July",
+          "year": 2017,
+          "publisher": "IEEE"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Design of unequal Wilkinson power divider using multi-section coupled-line for dual-band operation with high bandwidth performance",
+          "co_authors": ["Sarbani Sen", "Rajesh Sharma"],
+          "journal": "Electromagnetics (Taylor & Francis Publication)",
+          "doi": "https://doi.org/10.1080/02726343.2025.2490590",
+          "month": "April",
+          "year": 2025,
+          "type": "SCI"
+        },
+        {
+          "title": "Modeling and performance enhancement of compact FSS based low-profile broadband monopole antenna",
+          "co_authors": ["Devarapalli Ananda", "Arpita Mandal"],
+          "journal": "International Journal of Communication",
+          "doi": "10.1002/dac.5860",
+          "month": "June",
+          "year": 2024,
+          "type": "SCI"
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Design of High-Gain Antenna Incorporated with Left-Handed Material for Satellite Applications",
+        "co_authors": ["Sujit Barman", "Ajay Kumar Choudhary", "Anirban Bhattacharjee", "Anjan Debnath", "Arpita Mandal"],
+        "publisher": "Springer (LNNS, volume 426)",
+        "pages": "209–216",
+        "doi": "10.1007/978-981-19-0745-6_22",
+        "year": 2022
+      }
+    ],
+    "conference_attended": [
+      {
+        "title": "Design of 10 dB Branch line Coupler By Using DGS",
+        "co_authors": ["Arabinda Roy", "Susanta Kumar Parui", "Santanu Das"],
+        "conference": "International Conference on Communications, Devices and Intelligent Systems, Jadavpur University",
+        "month": "Dec",
+        "year": 2012,
+        "publisher": "IEEE"
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "Outstanding Reviewer awarded by Elsevier",
+        "year": 2017
+      },
+      {
+        "achievement": "Best Paper Award for the paper 'Design of a quasi-elliptic lowpass filter using a new defected ground structure and high-low microstrip line'",
+        "year": 2008
+      },
+      {
+        "achievement": "GATE Percentile: 93.16",
+        "year": 2006
+      },
+      {
+        "achievement": "National Scholarship",
+        "year": 1992
+      },
+      {
+        "achievement": "Intermediate (Middle) Scholarship",
+        "year": 1990
+      }
+    ],
+    "training_attended": [
+      {
+        "title": "Coordinators’ Workshop on Analog Electronics, IIT Kharagpur, ISTE Sponsored",
+        "month": "April",
+        "year": 2013
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "Workshop on Analog Electronics",
+        "month": "June",
+        "year": 2013
+      }
+    ],
+    "subjects": [
+      {
+        "class": "B.Tech 4th Semester",
+        "subject": "Analog Electronics Circuits-II"
+      },
+      {
+        "class": "B.Tech 5th Semester",
+        "subject": "Analog and Digital Communication"
+      },
+      {
+        "class": "B.Tech 6th Semester",
+        "subject": "Information Theory and Coding"
+      },
+      {
+        "class": "M.Tech 1st Semester",
+        "subject": "Advanced Digital Communication"
+      }
+    ]
+  }
+  

@@ -1,0 +1,73 @@
+{
+    "Office": "Center for Career Development (CCD)",
+    "Description": "Centre for Career Development (CCD) assists students in career exploration, job search, and placement. The centre provides guidance regarding career ambitions, motivates students to adopt a career-oriented mindset, and facilitates interaction between companies and students for mutual benefit.",
+    "Resources": [
+      "Notification regarding the Institute Placement Policy, Rules, and Regulations",
+      "Placement Brochure",
+      "Job Notification Form (JNF)"
+    ],
+    "People": [
+      {
+        "Name": "Prof. John Deb Barma",
+        "Designation": "Chairman, CCD",
+        "Email": ["johndeb.nita@gmail.com", "nita.tnp@gmail.com"],
+        "Phone": "+91-381-2348518",
+        "Fax": "+91-381-234-6360"
+      },
+      {
+        "Name": "Dr. Jawahar Paulraj",
+        "Designation": "Vice-Chairman & TPO, CCD",
+        "Email": "dr.p.jawahar@gmail.com",
+        "Mobile": "+91-8754849740"
+      },
+      {
+        "Name": "Dr. Sujoy Chakraborty",
+        "Designation": "Assistant TPO & Faculty In-Charge (Placements) (Edu-Tech and Research)",
+        "Email": "ersujoymech05@gmail.com",
+        "Mobile": "+91-9436158004"
+      },
+      {
+        "Name": "Dr. Bibhab Kumar Lodh",
+        "Designation": "Assistant TPO & Faculty In-Charge (Placements) (Consulting & Teaching Role)",
+        "Email": "bibhab123@rediffmail.com",
+        "Mobile": "+91-9436579254"
+      },
+      {
+        "Name": "Dr. Kaju Nath",
+        "Designation": "Assistant TPO & Faculty In-Charge (Placements) (Core, PSU & Government Organization)",
+        "Email": "kajunathnita@gmail.com",
+        "Mobile": "+91-7629914581"
+      },
+      {
+        "Name": "Dr. Apangshu Das",
+        "Designation": "Faculty In-Charge (Placements) (IT & Software), CCD",
+        "Email": "apangshu.ece@gmail.com",
+        "Mobile": "+91-8794223393"
+      },
+      {
+        "Name": "Dr. Muthusivaramapandian M",
+        "Designation": "Faculty In-Charge (Placements) (IT & Software)",
+        "Email": "msrpmsiva@gmail.com",
+        "Mobile": "+91-7896172343"
+      },
+      {
+        "Name": "Dr. Rajib Mallik",
+        "Designation": "Faculty In-Charge (Training and Internships)",
+        "Email": "mallik.rajib@rediffmail.com",
+        "Mobile": "+91-9774830492"
+      },
+      {
+        "Name": "Dr. Jayakumar L",
+        "Designation": "Faculty In-Charge (Training, Webinar)",
+        "Email": "jkaylogu@gmail.com",
+        "Mobile": "+91-9791442705"
+      },
+      {
+        "Name": "Dr. Mantu Das",
+        "Designation": "Faculty In-Charge (Internships, Seminar, Workshop)",
+        "Email": "mantukls86@gmail.com",
+        "Mobile": "+91-9402356507"
+      }
+    ]
+  }
+  

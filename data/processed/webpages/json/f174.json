@@ -1,0 +1,128 @@
+{
+    "name": "Dr. Manu S Nadesan",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "13/09/2022",
+    "email": "msn10@iitbbs.ac.in",
+    "research_area": [
+      "Sustainable concrete",
+      "Chemical and mineral admixtures in concrete",
+      "Optimization of mix designs and procedures",
+      "Self Compacting concrete",
+      "High performance concrete - production, quality assurance",
+      "Durability - corrosion and chemical attack on concrete",
+      "Non-destructive testing techniques",
+      "Development and performance evaluation of Construction materials"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Design of Structures II",
+        "Design of Structures III",
+        "Civil Engineering Estimation, Costing and Specifications",
+        "Disaster Management",
+        "Structural Engineering Laboratory"
+      ],
+      "PG": [
+        "Digital Image Processing and Seismic Signal Processing Lab"
+      ]
+    },
+    "phd_students": {
+      "ongoing": 0
+    },
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "contact": {
+      "email": "msn10@iitbbs.ac.in",
+      "residence_phone": "",
+      "mobile": "9439464855"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2018,
+        "subject": "Concrete Technology",
+        "institution": "IIT Bhubaneswar"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2014,
+        "subject": "Civil Engineering",
+        "institution": "IIT Bhubaneswar"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2008,
+        "subject": "Civil Engineering",
+        "institution": "Mahatma Gandhi University Kottayam"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Micro-structural behaviour of interfacial transition zone of the porous sintered fly ash aggregate",
+        "journal": "Journal of Building Engineering",
+        "year": 2018,
+        "volume_issue_pages": "16, 31-38"
+      },
+      {
+        "title": "Influence of type of binder on high-performance sintered fly ash lightweight aggregate concrete",
+        "journal": "Construction and Building Materials",
+        "year": 2018,
+        "volume_issue_pages": "176, 665-675"
+      },
+      {
+        "title": "Permeation properties of high strength self-compacting and vibrated concretes",
+        "journal": "Journal of Building Engineering",
+        "year": 2017,
+        "volume_issue_pages": "12, 275-281"
+      },
+      {
+        "title": "Structural concrete using sintered flyash lightweight aggregate: A review",
+        "journal": "Construction and Building Materials",
+        "year": 2017,
+        "volume_issue_pages": "154, 928-944"
+      },
+      {
+        "title": "Mix design and properties of fly ash waste lightweight aggregates in structural lightweight concrete",
+        "journal": "Case Studies in Construction Materials",
+        "year": 2017,
+        "volume_issue_pages": "7, 336-347"
+      },
+      {
+        "title": "Concrete mix design for high strength self-compacting concrete using metakaolin",
+        "journal": "Materials & Design",
+        "year": 2014,
+        "volume_issue_pages": "60, 661-668"
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Production of Lightweight Aggregates for Construction Industry from Industrial By-products: Advances in Sustainable Materials and Resilient Infrastructure",
+        "publisher": "Springer, Singapore",
+        "year": 2022,
+        "pages": "253-264",
+        "co_author": "Abin Joy"
+      }
+    ],
+    "patents": [
+      {
+        "design_no": "402167-002",
+        "year": 2023
+      },
+      {
+        "design_no": "402167-001",
+        "year": 2023
+      }
+    ],
+    "achievements": [
+      {
+        "title": "DST CRG Project worth 36 Lakhs (Ongoing) Development and assessment of seismic performance of affordable earthquake resistant interlocking block for earthen masonry houses",
+        "file_number": "CRG/2023/006819",
+        "year": 2024
+      }
+    ]
+  }
+  

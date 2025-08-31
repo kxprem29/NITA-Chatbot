@@ -1,0 +1,90 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Sadhan Gope",
+        "Designation": "Assistant Professor",
+        "Department": {
+          "Short": "EE",
+          "Full": "Electrical Engineering"
+        },
+        "Email": "sadhangope.ee@nita.ac.in",
+        "Google_Scholar_URL": "https://scholar.google.co.in/citations?user=Eo1tTgoAAAAJ&hl=",
+        "Research_Areas": [
+          "Application of Soft Computing Techniques in Power System",
+          "Restructured Electricity Market",
+          "Distributed and Renewable Energy Generation",
+          "Hybrid Energy Systems"
+        ],
+        "Address": {
+          "Address_Line": "Department of Electrical Engineering, NIT Agartala, P.O.: NIT Agartala, Pin: 799046",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": null
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Year": 2018,
+            "Institute": "NIT Silchar",
+            "Subject": "Power System"
+          },
+          {
+            "Degree": "M.Tech",
+            "Year": 2011,
+            "Institute": "NIT Silchar",
+            "Subject": "Power and Energy System Engineering"
+          },
+          {
+            "Degree": "B.E.",
+            "Year": 2009,
+            "Institute": null,
+            "Subject": "Electrical and Electronics Engineering"
+          }
+        ],
+        "Publications": {
+          "Conferences": "Extensive list from 2011–2024 (IEEE, Springer, Elsevier, MDPI, etc.)",
+          "Journals": "Extensive list from 2012–2024 (SCIE, SCI, Scopus, ESCI, MDPI, Springer, Elsevier, etc.)",
+          "Books": [
+            {
+              "Title": "Intelligent Techniques and Applications in Science and Technology",
+              "Year": 2020,
+              "Publisher": "Springer",
+              "ISBN": "978-030-42363-6",
+              "Authors": ["Subhojit Dawn", "Valentina Emilia Balas", "Anna Esposito", "Sadhan Gope"]
+            }
+          ]
+        },
+        "Conferences_Conducted": [
+          {
+            "Name": "International Conference on Smart and Intelligent Systems (SIS 2021)",
+            "Month": "FEB",
+            "Year": 2021
+          },
+          {
+            "Name": "International Conference on Innovation in Modern Science and Technology (ICIMSAT 2019)",
+            "Month": "SEPT",
+            "Year": 2019
+          }
+        ],
+        "Achievements": [
+          {
+            "Achievement": "Best paper award in the conference SSTEPS 2022",
+            "Year": 2022
+          },
+          {
+            "Achievement": "Best paper award in the conference CIS 2020",
+            "Year": 2020
+          },
+          {
+            "Achievement": "Best paper award in the conference ACCET 2016",
+            "Year": 2016
+          }
+        ]
+      }
+    ]
+  }
+  

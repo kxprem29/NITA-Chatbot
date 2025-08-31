@@ -1,0 +1,34 @@
+{
+    "department": "Production Engineering",
+    "research_projects": [
+      {
+        "title": "Study of Heat Transfer Micro Structure and Mechanical Properties in Friction and Friction Stir Welding",
+        "principal_investigator": "Dr. Subhash Chandra Saha",
+        "sponsoring_organisation": "AICTE, New Delhi",
+        "status": "Ongoing"
+      },
+      {
+        "title": "Studies of Turning Productivity Using Vegetable Oil Based Cutting Fluid: A Multidimensional Approach",
+        "principal_investigator": "Dr. Swarup Pal",
+        "sponsoring_organisation": "The Institute of Engineers (India), 8 Gokhale Road, Kolkata",
+        "status": "Ongoing"
+      },
+      {
+        "title": "Study of the Tribology of Sleeper Pad Bearing in an Axial Piston Pump: A Simulation & Experimental Approach",
+        "principal_investigator": "Dr. Kishan Chowdhuri",
+        "sponsoring_organisation": "AICTE, New Delhi",
+        "status": "Ongoing"
+      },
+      {
+        "title": "Sustainable machining of Carbon fiber-reinforced polymer composites in a hybrid lubri-cooling environment",
+        "principal_investigator": "Dr. Uttam Kumar Mandal",
+        "sponsoring_organisation": "Science & Engineering Research Board (SERB), Department of Science & Technology, Government of India",
+        "duration": "36 Months (April 2023 – March 2025)",
+        "scheme": "Empowerment and Equity Opportunities for Excellence in Science",
+        "research_area": "Mechanical & Manufacturing Engineering & Robotics (Engineering Sciences)",
+        "amount": "47,48,832.00 INR",
+        "status": "Ongoing"
+      }
+    ]
+  }
+  

@@ -1,0 +1,41 @@
+{
+    "Office_of_Dean_Research_&_Consultancy": {
+      "List_of_People": [
+        {
+          "Name": "Prof. (Dr.) Tarun Kumar Misra",
+          "Designation": "Dean Research & Consultancy",
+          "Email": "dean.rnc@nita.ac.in"
+        },
+        {
+          "Name": "Prof. (Dr.) Ranjan Das",
+          "Designation": "Associate Dean Research & Consultancy",
+          "Email": "ranjandas81@gmail.com",
+          "Mobile": "+91 9872735899"
+        },
+        {
+          "Name": "Dr. Kalyan Gayen",
+          "Designation": "Associate Dean Research & Consultancy",
+          "Email": "kgayen123@gmail.com",
+          "Mobile": "+91 8974727421"
+        },
+        {
+          "Name": "Dr. Baby Bhattacharya",
+          "Designation": "Faculty In-Charge (Intellectual Property) & Professor of Mathematics Department",
+          "Email": "babybhatt75@gmail.com",
+          "Mobile": "+91 9862213796"
+        },
+        {
+          "Name": "Dr. Suman Deb",
+          "Designation": "Faculty In-Charge (Institute Innovation Council) & Assistant Professor of CSE Department",
+          "Email": "sumandebcs@gmail.com",
+          "Mobile": "+91 9436459622"
+        },
+        {
+          "Name": "Mrs. Tulsi Singha",
+          "Designation": "Public Relation Assistant",
+          "Email": "tulsisuranjit@gmail.com"
+        }
+      ]
+    }
+  }
+  

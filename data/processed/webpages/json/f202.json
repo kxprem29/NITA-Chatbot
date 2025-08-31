@@ -1,0 +1,117 @@
+{
+    "FacultyProfile": {
+      "Name": "Dr. Ajay Biswas",
+      "Designation": "Associate Professor",
+      "Department": "Mechanical Engineering",
+      "EmailID": "ajaybiswas6719@gmail.com",
+      "URL": "https://nita.ac.in",
+      "ResearchArea": [
+        "Climate Change",
+        "Sustainable Energy",
+        "Manufacturing Technology",
+        "Materials Science",
+        "Advanced Battery",
+        "Fusion welding",
+        "Fusion welding at low temperature",
+        "Metal Matrix Composite materials from waste / scrap",
+        "Polymer Composite materials",
+        "Advanced Vehicle Technology"
+      ],
+      "CoursesTaught": {
+        "UG": [
+          "Manufacturing Technology - I",
+          "Manufacturing Technology - II",
+          "Mechanical Measurement & Instrumentation",
+          "Entrepreneurship Development",
+          "Primary Manufacturing Laboratory",
+          "Machining & Machine Tool Laboratory",
+          "Mechanical Measurement & Instrumentation Laboratory"
+        ],
+        "PG": [
+          "Non-Conventional Machining (PG Manufacturing Technology)",
+          "Welding Technology (PG Manufacturing Technology)",
+          "Polymer Engineering (PG Material Science & Engineering)"
+        ]
+      },
+      "ProjectGuiding": {
+        "UG": ["Minor project", "Major Project"]
+      },
+      "PhDStudents": {
+        "EnrolledCompleted": ["Abhijit Bhowmik (2022)", "Dipankar Dey (2022)"],
+        "Ongoing": ["Mahendra Singh (ongoing)", "Trinath Keerthipalli (Submitted, January 2024)"]
+      },
+      "Address": {
+        "Office": "Room no.: M224, Mechanical Engineering Department",
+        "City": "AGARTALA",
+        "State": "TRIPURA",
+        "Country": "India"
+      },
+      "ContactInformation": {
+        "Email": "ajaybiswas6719@gmail.com",
+        "PhoneResidence": null,
+        "PhoneMobile": "9436139422"
+      },
+      "AcademicInformation": [
+        {
+          "Degree": "Ph.D.",
+          "Field": "Engineering",
+          "Year": 2012
+        },
+        {
+          "Degree": "M.E.",
+          "Field": "Mechanical Engineering",
+          "Year": 1997
+        },
+        {
+          "Degree": "B.E.",
+          "Field": "Mechanical Engineering",
+          "Year": 1989
+        }
+      ],
+      "Publications": {
+        "Conferences": [
+          {
+            "Authors": "K Trinath, Radhamanohar Aepuru, Ajay Biswas, Mangalaraja Ramalinga Viswanathan, R Manu",
+            "Title": "Study of self lubrication property of Al/SiC/Graphite hybrid composite during Machining by using artificial neural networks (ANN)",
+            "Publisher": "ELSEVIER, Science Direct, Materials Today: Proceedings",
+            "Volume": 44,
+            "Part": 5,
+            "Pages": "3881-3887",
+            "Year": 2021,
+            "DOI": "https://doi.org/10.1016/j.matpr.2020.12.927"
+          },
+          {
+            "Authors": "Prasanta Majumder, Abhijit Bhowmik, Ajay Biswas",
+            "Title": "Effect of preheating techniques on bead geometry and microhardness of weldment developed through the submerged arc welding process",
+            "Publisher": "ELSEVIER, Science Direct, Materials Today: Proceedings",
+            "Volume": 46,
+            "Part": 10,
+            "Pages": "5001-5007",
+            "Year": 2021,
+            "DOI": "https://doi.org/10.1016/j.matpr.2020.10.393"
+          }
+        ],
+        "Journals": [
+          {
+            "Authors": "Keerthipalli, T., R Aepuru & Biswas. A.",
+            "Title": "Mechanical and Tribological behaviour of Ti2AlC reinforced Hypereutectic Aluminium Alloy Matrix Composite Fabricated by Vacuum assisted Induction Melting: Experimental and Theoretical Modelling",
+            "Journal": "International Journal of Metal casting",
+            "Date": "4-7-2023",
+            "ArticleID": "23-00148",
+            "DOI": "https://doi.org/10.1007/s40962-023-01115-5"
+          },
+          {
+            "Authors": "Bhowmik, A., Dey, D., & Biswas, A.",
+            "Title": "Microstructure, mechanical and wear behaviour of Al7075/SiC aluminium matrix composite fabricated by stir casting",
+            "Journal": "Indian Journal of Engineering and Materials Sciences",
+            "Volume": 28,
+            "Issue": 1,
+            "Pages": "46-54",
+            "Year": 2021,
+            "URL": "http://op.niscair.res.in/index.php/IJEMS/article/view/35558"
+          }
+        ]
+      }
+    }
+  }
+  

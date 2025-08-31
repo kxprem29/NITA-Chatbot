@@ -1,0 +1,112 @@
+{
+    "name": "Dr. Sumita Deb",
+    "designation": "HOD & Associate Professor",
+    "department": "Electrical Engineering",
+    "date_of_joining": "31/03/2006",
+    "email": "sumita_nita@rediffmail.com",
+    "address": {
+      "street": "Joynagar Middle Road",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India",
+      "postal_code": "799001"
+    },
+    "contact": {
+      "email": "sumita_nita@rediffmail.com",
+      "mobile": "9862029099"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "year": 2013,
+        "subject": "Not Specified"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2007,
+        "subject": "Not Specified",
+        "honors": "Gold Medalist"
+      },
+      {
+        "degree": "B.E.",
+        "year": 2004,
+        "subject": "Not Specified",
+        "honors": "Gold Medalist"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Broadband Second Harmonic Generation using Surface Roughness Induced Random Quasi Phase Matching in Zinc Telluride slab",
+        "authors": "Kritideepa Roy, Hemant Kumar, Minakshi Deb Barma, Sumita Deb, Rakesh Maharana",
+        "conference": "International Conference on Breakthrough in Heuristics And Reciprocation of Advanced Technologies (BHARAT)",
+        "doi": "10.1109/BHARAT53139.2022.00033",
+        "month": "April",
+        "year": 2022
+      },
+      {
+        "title": "Surface Roughness Driven Broadband Second Harmonic Generation in Zinc Selenide slab",
+        "authors": "Kritideepa Roy, Hemant Kumar, Minakshi Deb Barma, Sumita Deb, Rakesh Maharana",
+        "conference": "International Mobile and Embedded Technology Conference (MECON)",
+        "doi": "10.1109/MECON53876.2022.9752221",
+        "month": "March",
+        "year": 2022
+      },
+      {
+        "title": "Utilization of double-film to Control Total Reflected Amplitude of Polarized Light",
+        "authors": "Moumita Saha, Sumita Deb",
+        "conference": "International Conference on Applied Electromagnetics, Signal Processing and Communication (AESPC) 2021",
+        "doi": "10.1109/AESPC52704.2021.9708516",
+        "month": "September",
+        "year": 2021
+      },
+      {
+        "title": "Utilization of thin-film to control total phase shift during total-internal-reflection",
+        "authors": "M. Saha, S. Deb, B. Medhi, M. D. Barma",
+        "conference": "6th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE 2021)",
+        "month": "April",
+        "year": 2021
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Wave Theory based Fourth Harmonic Generation of Bessel-Gauss beam by Total Internal Reflection-Quasi phase matching in a rectangular slab of BBO",
+        "authors": "Jaya Saha, Sumita Deb",
+        "journal": "Optical Engineering, SPIE",
+        "volume": "61(12)",
+        "page": "125106-19",
+        "year": 2022
+      },
+      {
+        "title": "Fourth harmonic generation of Laguerre Gaussian beam in BBO crystal by total internal reflection-quasi phase matching technique",
+        "authors": "Jaya Saha, Sumita Deb",
+        "journal": "Optik, Elsevier",
+        "volume": "254",
+        "page": "168689(1-16)",
+        "doi": "10.1016/j.ijleo.2022.168689",
+        "month": "January",
+        "year": 2022
+      },
+      {
+        "title": "Study of optical rotation quasi-phase-matching technique based on total-internal-reflection for generating highly efficient second harmonic in an electro-optic chiral material using the concept of highly multimodal nonlinear guided wave approach",
+        "authors": "M. Saha, S. Deb",
+        "journal": "Optical Engineering, SPIE",
+        "volume": "61(2)",
+        "page": "026110",
+        "doi": "https://doi.org/10.1117/1.OE.61.2.026110",
+        "month": "February",
+        "year": 2022
+      }
+    ],
+    "books_published": [
+      {
+        "title": "TIR-ORQPM Technique for Generating Highly Efficient Second Harmonic",
+        "authors": "M. Saha, Sumita Deb",
+        "year": 2022,
+        "publisher": "Springer, Singapore",
+        "doi": "https://doi.org/10.1007/978-981-19-1645-8_7",
+        "book_series": "Lecture Notes in Electrical Engineering, vol 892",
+        "editors": "Tiwari, M., Ismail, Y., Verma, K., Garg, A.K."
+      }
+    ]
+  }
+  

@@ -1,0 +1,100 @@
+{
+    "name": "Dr. Debashis Podder",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Production Engineering",
+    "email": "debashis5645@gmail.com",
+    "url": "https://www.youtube.com/@debashispodder169",
+    "research_area": [
+      "Manufacturing",
+      "Metal Matrix Composite",
+      "Rapid Prototyping"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Thermodynamics",
+        "Engineering Materials",
+        "Machining Principle and Technology",
+        "Manufacturing Process 1",
+        "CNC",
+        "Automation and Robotics"
+      ],
+      "PG": []
+    },
+    "address": {
+      "street": "Vill+PO: West Laxmi Bill, Bishalgarh, Distt: Sepahijala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "debashis5645@gmail.com",
+      "residence_phone": "",
+      "mobile": "8131013634"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2023,
+        "subject": "Production Engineering",
+        "specialization": "Manufacturing and composite"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2014,
+        "subject": "Production Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2012,
+        "subject": "Production Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Study on Mechanical Properties of Aluminium-Copper Matrix Composites",
+          "coauthors": "Uttam Kumar Mandal, Debashis Podder",
+          "conference": "International Conference on Industrial and Manufacturing Systems (CIMS 2021)",
+          "month": "OCT",
+          "year": 2021
+        },
+        {
+          "title": "To investigate the Microstructure of Hybrid Abrasive reinforced Al-MMC prepared by sand mould casting with different types of binder",
+          "coauthors": "Uttam Kumar Mandal, Debashis Podder",
+          "conference": "National conference on Engineering problem and application of Mathematics",
+          "month": "JUN",
+          "year": 2016
+        },
+        {
+          "title": "Preparation of hybrid abrasive reinforced AMC prepared by sand mould casting with different types of binder",
+          "coauthors": "Uttam Kumar Mandal, Debashis Podder",
+          "conference": "National conference on Materials for Advanced Technology and Application- 2016",
+          "month": "SEPT",
+          "year": 2016
+        }
+      ],
+      "journal": [
+        {
+          "title": "Experimental Investigation of Physical and Mechanical Properties of Al-Cu-ZrO 2 - TiO 2 Composites",
+          "coauthors": "D. Podder, S. Chakraborty, U. K. Mandal",
+          "journal": "Journal of Scientific and Industrial Research",
+          "month": "JULY",
+          "year": 2022
+        },
+        {
+          "title": "Evaluation of Microstructure and Mechanical Properties of Al-Cu-TiO2-ZrO2 Composites",
+          "coauthors": "D. Podder, S. Chakraborty, U. K. Mandal",
+          "journal": "Journal of Scientific and Industrial Research",
+          "month": "JAN",
+          "year": 2022
+        }
+      ]
+    },
+    "subjects": [
+      {"semester": "Third Semester", "subject": "Engineering Thermodynamics"},
+      {"semester": "Fourth Semester", "subject": "Engineering Materials"},
+      {"semester": "Fifth Semester", "subject": "Machining Principle and Technology"},
+      {"semester": "Sixth Semester", "subject": "Machine Tool System"}
+    ]
+  }
+  

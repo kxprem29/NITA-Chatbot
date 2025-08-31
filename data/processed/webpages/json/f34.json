@@ -1,0 +1,200 @@
+{
+    "name": "Dr. Santanu Chakraborty",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Physics",
+    "email": "santanu.tu@gmail.com",
+    "scholar_url": "https://scholar.google.com/citations?user=vrxselgAAAAJ",
+    "research_area": [
+      "Materials Science (Thin films & Nanoscience)",
+      "Molecular aggregates/nanostructures: Development of nanoscale molecular aggregates (J-aggregates/H-aggregate/excimer) and nanostructures (nanowires/nanorods) onto ultrathin films using LB/LbL technique that have potential applications toward optoelectronic devices and possess non linear optical activity.",
+      "Organic electronics: Development of switching memory devices using organic molecules and sensors using conducting polymers.",
+      "Organo-clay hybrid film: Development of hybrid films to stabilize organic films and control over molecular organization on the ultrathin films at nanoscale.",
+      "FRET based sensor: To identify different FRET pairs and apply them for sensor applications."
+    ],
+    "address": {
+      "village": "Thakurmura",
+      "po": "Sonamura",
+      "district": "Sepahijala",
+      "pin": "799131",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "santanu.tu@gmail.com",
+      "phone_residence": "",
+      "phone_mobile": "9774802116"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2015,
+        "subject": "Physics",
+        "thesis": "Spectroscopic characterizations of some organic molecules in presence and absence of nano-dimensional clay sheets in restricted geometry of ultra-thin films"
+      },
+      {
+        "degree": "CSIR-NET (LS)",
+        "description": "OTHER",
+        "year": 2011,
+        "subject": "Physical Sciences"
+      },
+      {
+        "degree": "M.Sc.",
+        "description": "Master of Science",
+        "year": 2010,
+        "subject": "Physics"
+      },
+      {
+        "degree": "B.Sc.",
+        "description": "Bachelor of Science (Hons)",
+        "year": 2008,
+        "subject": "Physics"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "ZnO as photocatalyst: An approach to waste water treatment",
+          "authors": ["Roy N.", "Chakraborty S."],
+          "journal": "Materials Today: Proceedings",
+          "volume": 46,
+          "pages": "6399-6403",
+          "year": 2021
+        },
+        {
+          "title": "Fluorescence resonance energy transfer (FRET) between acriflavine and CdTe quantum dot",
+          "authors": ["Chakraborty S.", "Hussain S.A."],
+          "journal": "Materials Today: Proceedings",
+          "volume": 46,
+          "pages": "6087-6090",
+          "year": 2021
+        }
+      ],
+      "journal": [
+        {
+          "title": "A low-cost flexible material system made of PANI/graphite for resistive detection and quantitative determination of urea",
+          "authors": ["Das D.", "Das J.", "Deb K.", "Chakraborty S.", "Saha B."],
+          "journal": "Materials Chemistry and Physics",
+          "volume": 301,
+          "pages": "127573",
+          "year": 2023,
+          "month": "June"
+        },
+        {
+          "title": "Polyaniline-graphite on cellulose substrate: a flexible, low-cost, use-and-throw sensor for glucose concentration detection",
+          "authors": ["Das D.", "Das J.", "Debnath A.", "Chakraborty S.", "Saha B."],
+          "journal": "Cellulose",
+          "volume": 30,
+          "pages": "6423-6433",
+          "year": 2023
+        },
+        {
+          "title": "Resistive Switching Behavior Employing the Ipomoea carnea Plant for Biodegradable Rewritable Read-Only Memory Applications",
+          "authors": ["Rahman F Y.", "Deb R.", "Sarkar S.", "Banik H.", "Md Jashim Uddin.", "Chakraborty S.", "Bhattacharjee D.", "Hussain S. A."],
+          "journal": "ACS Applied Electronic Materials",
+          "volume": 5,
+          "pages": "3685-3697",
+          "year": 2023
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Book Chapter: Organoclay Hybrid Films With Improved Functionality (Chapter 8)",
+        "authors": ["Syed Arshad Hussain", "Santanu Chakraborty"],
+        "book_title": "Clay-Polymer Nanocomposites",
+        "year": 2017,
+        "pages": "273-305",
+        "publisher": "Elsevier",
+        "isbn": "978-0-323-46153-5"
+      },
+      {
+        "title": "Fabrication and Characterization of Polymer-clay Nanocomposites using Electrostatic layer-by-layer (LbL) Self Assembled Technique",
+        "authors": ["Syed Arshad Hussain", "Santanu Chakraborty", "Debajyoti Bhattacharjee"],
+        "conference": "Conference on Recent Trends of Research in Physics (CRTRP-2012)",
+        "publisher": "Research India Publications",
+        "year": 2012,
+        "pages": "147",
+        "isbn": "978-81-904362-9-8"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Third International Conference on Materials Science (ICMS2020) at Department of Physics Tripura University",
+        "presented_paper": "ZnO as photocatalyst: An approach to waste water treatment",
+        "month": "March",
+        "year": 2020
+      },
+      {
+        "title": "Third International Conference on Materials Science (ICMS2020) at Department of Physics Tripura University",
+        "presented_paper": "Fluorescence resonance energy transfer (FRET) between acriflavine and CdTe quantum dot",
+        "month": "March",
+        "year": 2020
+      }
+    ],
+    "patents": [
+      {
+        "title": "Resistive switching behavior system using the Ipomea Carnea plant to produce a biodegradable, rewritable, read-only memory",
+        "country": "Germany",
+        "application_number": "202023105125",
+        "year": 2023,
+        "status": "granted"
+      },
+      {
+        "title": "A process for preparation of a clay mineral-organic hybrid",
+        "country": "Australia",
+        "application_number": "2021104639",
+        "year": 2022,
+        "status": "granted"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "CSIR SRF fellowship",
+        "ack_number": "163006/2K13/1",
+        "date": "21/08/2014",
+        "year": 2014
+      },
+      {
+        "title": "Visited Yamaguchi University, Japan",
+        "description": "Visited Japan as part of Cooperative Science Program of Yamaguchi University",
+        "year": 2013
+      },
+      {
+        "title": "Visited Osaka University, Japan",
+        "description": "Visited Japan as part of Cooperative Science Program of Yamaguchi University",
+        "year": 2013
+      }
+    ],
+    "training": [
+      {
+        "title": "ATAL online FDP on 'Student Induction Programme'",
+        "organizer": "Chemical Engineering Department, NIT Agartala",
+        "month": "December",
+        "year": 2021
+      },
+      {
+        "title": "ATAL online advanced FDP on 'Fundamentals of Novel Materials'",
+        "organizer": "Tripura University",
+        "month": "October",
+        "year": 2021
+      }
+    ],
+    "subjects": {
+      "UG": [
+        "Engineering Physics-I",
+        "Engineering Physics-II",
+        "Waves and Oscillations",
+        "Electronics-I",
+        "Electronics-II",
+        "Molecular Spectroscopy"
+      ],
+      "PG": [
+        "Analog Electronics",
+        "Digital Electronics",
+        "Atomic and Molecular Physics"
+      ]
+    }
+  }
+  

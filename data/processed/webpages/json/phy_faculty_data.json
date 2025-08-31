@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Dr. Biswajit Saha",
+        "designation": "HOD & Associate Professor",
+        "department": "Physics",
+        "email": "biswajit.physics@gmail.com"
+    },
+    {
+        "name": "Prof. Aparna Nath",
+        "designation": "Professor",
+        "department": "Physics",
+        "email": "aparnanath1964@gmail.com"
+    },
+    {
+        "name": "Dr. Suvra Prakash Mondal",
+        "designation": "Associate Professor",
+        "department": "Physics",
+        "email": "suvraphy@gmail.com"
+    },
+    {
+        "name": "Dr. Vivek Kumar Anand",
+        "designation": "Associate Professor",
+        "department": "Physics",
+        "email": "vkanand.nita@gmail.com"
+    },
+    {
+        "name": "Dr. MAROJU SUMAN KALYAN",
+        "designation": "Assistant Professor",
+        "department": "Physics",
+        "email": "maroju.sk@gmail.com"
+    },
+    {
+        "name": "Dr. Biswajit Paul",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Physics",
+        "email": "biswajit.thep@gmail.com"
+    },
+    {
+        "name": "Dr. MANASH KUMAR PAUL",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Physics",
+        "email": "manashkr@gmail.com"
+    },
+    {
+        "name": "Dr. Santanu Chakraborty",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Physics",
+        "email": "santanu.tu@gmail.com"
+    },
+    {
+        "name": "Dr. Saswati Roy",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Physics",
+        "email": "roysaswati99@gmail.com"
+    },
+    {
+        "name": "Dr. Thingujam Kiranmala Devi",
+        "designation": "Assistant Professor (Contractual)",
+        "department": "Physics",
+        "email": "kiranmala.thingujam@gmail.com"
+    },
+    {
+        "name": "Mr. Subharaj Paul",
+        "designation": "Teaching Assistant (Contractual)",
+        "department": "Physics",
+        "email": "subharaj100@gmail.com"
+    }
+]

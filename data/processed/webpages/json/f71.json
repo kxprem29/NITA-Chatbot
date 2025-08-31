@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Sima Ghosh",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "simacvl@gmail.com",
+    "address": {
+      "address_line": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "simacvl@gmail.com",
+      "residence_phone": null,
+      "mobile_phone": "09862472558"
+    },
+    "publications": {
+      "conference": [],
+      "journal": []
+    },
+    "books": [],
+    "conferences_attended": [],
+    "achievements": []
+  }
+  

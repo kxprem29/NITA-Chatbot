@@ -1,0 +1,88 @@
+{
+    "name": "Dr. Bibhab Kumar Lodh",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemical Engineering",
+    "date_of_joining": "2011-08-05",
+    "email": "bibhab.chemical.nita@gmail.com",
+    "address": {
+      "address_line": "C/O-Biman Kumar Lodh, Vill. & Po: Jogendranagara, Agaartala, West Tripura, Pin-799004",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bibhab.chemical.nita@gmail.com",
+      "phone_residence": "03812999201",
+      "phone_mobile": "9856023657"
+    },
+    "academic": [
+      {
+        "degree": "Ph.D.",
+        "description": "Philosophy of Doctorate",
+        "year": 2017,
+        "subject": "Computational Fluid Dynamics",
+        "institute": "NIT Agartala"
+      },
+      {
+        "degree": "M.Tech",
+        "description": "Master of Technology",
+        "year": 2001,
+        "subject": "Chemical Engineering",
+        "institute": "IIT BHU (Formerly I.T. BHU)"
+      },
+      {
+        "degree": "B.E.",
+        "description": "Bachelor of Engineering",
+        "year": 1999,
+        "subject": "Chemical Engineering",
+        "institute": "Shivaji University"
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "Chemical Engineering (3rd Semester)",
+        "subject": "Fluid Mechanics"
+      },
+      {
+        "class": "Chemical Engineering (5th & 6th Semester)",
+        "subject": "Chemical Reaction Engineering I & II"
+      },
+      {
+        "class": "Chemical Engineering (5th & 6th Semester)",
+        "subject": "Process Dynamics & Control I & II"
+      },
+      {
+        "class": "Chemical Engineering (7th Semester)",
+        "subject": "CFD"
+      },
+      {
+        "class": "Chemical Engineering (6th Semester)",
+        "subject": "Plant Design & Economics"
+      },
+      {
+        "class": "Chemical Engineering (6th Semester)",
+        "subject": "Process Modeling & Simulation"
+      },
+      {
+        "class": "Chemical Engineering (6th Semester)",
+        "subject": "Chemical Process Technology"
+      },
+      {
+        "class": "Chemical Engineering (7th Semester)",
+        "subject": "Process Safety"
+      },
+      {
+        "class": "Chemical Engineering (6th Semester)",
+        "subject": "Chemical Equipment Design"
+      },
+      {
+        "class": "Chemical Engineering (PG)",
+        "subject": "CFD"
+      },
+      {
+        "class": "Chemical Engineering (PG)",
+        "subject": "Chemical Process Modeling & Simulation and Optimization"
+      }
+    ]
+  }
+  

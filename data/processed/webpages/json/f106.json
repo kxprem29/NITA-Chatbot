@@ -1,0 +1,20 @@
+{
+    "department": "Mechanical Engineering",
+    "faculty_staff_profile": {
+      "name": "Dr. PRITAM DAS",
+      "designation": "Associate Professor",
+      "email_id": "bhargav_2006@yahoo.co.in",
+      "address_information": {
+        "address": "-",
+        "city": "-",
+        "state": "-",
+        "country": "-"
+      },
+      "contact_information": {
+        "email_address": "bhargav_2006@yahoo.co.in",
+        "phone_residence": "-",
+        "phone_mobile": "6033197412"
+      }
+    }
+  }
+  

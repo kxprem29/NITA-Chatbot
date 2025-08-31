@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+      "name": "Dr. Suyel Namasudra",
+      "designation": "Assistant Professor",
+      "department": "Computer Science and Engineering",
+      "email": "suyel.namasudra@nita.ac.in",
+      "url": "https://bit.ly/3Tej4JQ",
+      "address": {
+        "room": "228, Dept. of Computer Science and Engineering, National Institute of Technology Agartala",
+        "city": "Agartala",
+        "state": "Tripura",
+        "country": "India"
+      },
+      "phone_residence": null,
+      "phone_mobile": null
+    },
+    "research_areas": [
+      "Cloud Computing",
+      "DNA Computing",
+      "Information Security",
+      "Blockchain",
+      "IoT"
+    ],
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2018,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2014,
+        "subject": "Computer Science and Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2012,
+        "subject": "Computer Science and Engineering"
+      }
+    ],
+    "journal_publications": [
+      {
+        "title": "Blockchain-based medical certificate generation and verification for IoT-based healthcare systems",
+        "authors": "S. Namasudra, P. Sharma, R. G. Crespo, S. Vimal",
+        "journal": "IEEE Consumer Electronics Magazine",
+        "year": 2022,
+        "doi": "10.1109/MCE.2021.3140048",
+        "indexing": "SCI, IEEE",
+        "impact_factor": 4.135
+      },
+      {
+        "title": "Early prediction of cognitive impairments using physiological signal for enhanced socioeconomic status",
+        "authors": "S. Swati, M. Kumar, S. Namasudra",
+        "journal": "Information Processing and Management",
+        "year": 2022,
+        "doi": "10.1016/j.ipm.2021.102845",
+        "indexing": "SCI, Elsevier",
+        "impact_factor": 7.466
+      },
+      {
+        "title": "A novel cryptosystem based on DNA cryptography, hyperchaotic systems and a randomly generated Moore machine for cyber physical systems",
+        "authors": "P. Pavithran, S. Mathew, S. Namasudra, G. Srivastava",
+        "journal": "Computer Communications",
+        "year": 2022,
+        "doi": "https://doi.org/10.1016/j.comcom.2022.02.008",
+        "indexing": "SCI, Elsevier",
+        "impact_factor": 5.047
+      },
+      {
+        "title": "A novel technique for accelerating live migration in cloud computing",
+        "authors": "A. Gupta, S. Namasudra",
+        "journal": "Automated Software Engineering",
+        "year": 2022,
+        "doi": "10.1007/s10515-022-00332-2",
+        "indexing": "SCI, Springer",
+        "impact_factor": 1.677
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Applications of blockchain in healthcare",
+        "authors": "S. Namasudra, G. C. Deka",
+        "year": 2021,
+        "publisher": "Springer",
+        "doi": "10.1007/978-981-15-9547-9",
+        "isbn": "978-981-15-9549-3"
+      },
+      {
+        "title": "Advances of DNA computing in cryptography",
+        "authors": "S. Namasudra, G. C. Deka",
+        "year": 2018,
+        "publisher": "Taylor & Francis",
+        "isbn": "9780815385325"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Ensemble algorithm using transfer learning for sheep breed classification",
+        "conference": "2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)",
+        "location": "Timisoara, Romania",
+        "month": "May",
+        "year": 2021,
+        "doi": "10.1109/SACI51354.2021.9465609"
+      },
+      {
+        "title": "Cloud computing: fundamentals and research issues",
+        "conference": "2nd International Conference on Recent Trends and Challenges in Computational Models",
+        "location": "Tindivanam, India",
+        "month": "February",
+        "year": 2017,
+        "doi": "10.1109/ICRTCCM.2017.49"
+      },
+      {
+        "title": "Data accessing based on the popularity value for cloud computing",
+        "conference": "International Conference on Innovations in Information, Embedded and Communications Systems (ICIIECS)",
+        "location": "Coimbatore, India",
+        "month": "March",
+        "year": 2017,
+        "doi": "10.1109/ICIIECS.2017.8275892"
+      }
+    ],
+    "patents": [
+      {
+        "title": "A system and method for COVID-19 diagnosis using detection results from chest X-ray images",
+        "authors": "A. Raina, S. Namasudra, S. Chandna, S. Mahajan, A. K. Pandit",
+        "year": 2022,
+        "type": "Australian Innovation Patent",
+        "status": "Granted"
+      },
+      {
+        "title": "A privacy-preserving cab sharing system and method",
+        "authors": "S. Namasudra, P. Sharma",
+        "year": 2022,
+        "type": "Indian Patent",
+        "status": "Under Examination"
+      },
+      {
+        "title": "A secured internet of things-based smart healthcare privacy preserving mutual authentication system and method",
+        "authors": "S. Namasudra, S. Das",
+        "year": 2022,
+        "type": "Indian Patent",
+        "status": "Published"
+      },
+      {
+        "title": "A method and system for improving the security and privacy of healthcare records using a proposed blockchain-based distributed application",
+        "authors": "S. Namasudra, P. Sharma, R. G. Crespo",
+        "year": 2021,
+        "type": "Australian Innovation Patent",
+        "status": "Granted"
+      }
+    ]
+  }
+  

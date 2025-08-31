@@ -1,0 +1,88 @@
+{
+    "name": "Dr. Uttam Kumar Bera",
+    "designation": "Professor & HOD",
+    "department": "Mathematics",
+    "email": "bera_uttam@yahoo.co.in",
+    "cv": "View",
+    "address": {
+      "address_line": "Associate Prof., Department of Mathematics, NIT Agartala, Tripura(W), PIN-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bera_uttam@yahoo.co.in",
+      "mobile": "09436767279"
+    },
+    "academic": [
+      {"degree": "Ph.D.", "year": 2008, "subject": "On Some Inventory Problems with Different Types of Demand"},
+      {"degree": "M.Sc.", "year": 2001, "subject": "Applied Mathematics, Spl Paper-Operations Research"},
+      {"degree": "B.Sc.", "year": 1999, "subject": "Math (Hons)"},
+      {"degree": "H.S.C.", "year": 1996, "subject": "Science (Math, Phy, Chem, Biology, etc.)"},
+      {"degree": "S.S.C.", "year": 1994, "subject": "Math, Phy, Chem, Biology, etc."}
+    ],
+    "publications_conference": [
+      {
+        "title": "EOQ model in uncertain environment by using generalized intuitionistic fuzzy Laplace transformation",
+        "authors": ["Bijoy Krishna Debnath", "Pinki Majumder", "Uttam Kumar Bera"],
+        "journal": "IJLSM",
+        "month": "January",
+        "year": 2022
+      },
+      {
+        "title": "Economic Order Quantity Model Of Deteriorating Items Under Trade Credit Policy: A Game Theoretical approach",
+        "authors": ["Deepanjali Ghosh", "Pinki Majumder", "Uttam Kumar Bera"],
+        "conference": "IEEE 7th I2CT 2022",
+        "month": "April",
+        "year": 2022
+      },
+      {
+        "title": "A Co-Operative Game Theoretical Strategy of Vendor and Buyer in an EPQ Model of Deteriorating Items Under Trade Credit Policy",
+        "authors": ["Suresh Ankur", "Pinki Majumder", "Uttam Kumar Bera"],
+        "conference": "TENSYMP 2022, IEEE CONFERENCE",
+        "month": "April",
+        "year": 2022
+      },
+      {
+        "title": "Prediction of polypropylene business strategy for a petrochemical plant using a technique for order preference by similarity to an ideal solution-based artificial neural network",
+        "authors": ["Akash Singh", "Pinki Majumder", "Uttam Kumar Bera"],
+        "journal": "Polymer Engineering and Science",
+        "month": "May",
+        "year": 2022,
+        "link": "https://doi.org/10.1002/pen.25909"
+      },
+      {
+        "title": "Prediction of transportation costs using trapezoidal neutrosophic fuzzy analytic hierarchy process and artificial neural networks",
+        "authors": ["Akash Singh", "Amrit Das", "Uttam Kumar Bera", "Gyu M. Lee"],
+        "journal": "IEEE Access",
+        "month": "June",
+        "year": 2021,
+        "IF": 3.367,
+        "DOI": "10.1109/ACCESS.2021.3098657"
+      }
+    ],
+    "conferences_conducted": [
+      {"name": "ICAMCI-2020", "month": "December", "year": 2020}
+    ],
+    "patents": [
+      {"title": "A SENSOR-BASED OPTIMAL WATER SELECTION SYSTEM FOR CROP CULTIVATION", "type": "National", "published_date": "29-04-2022"}
+    ],
+    "achievements": [
+      {"description": "International Travel Support from DST of an amount 1,65,000/-", "year": 2019},
+      {"description": "Conference Grant of amount 200000/- from SERB, DST", "year": 2019},
+      {"description": "Conference Grant of amount 50000/- from CSIR", "year": 2019},
+      {"description": "Visiting Professor at Tsinghua University, Beijing, China for 15 days", "year": 2013},
+      {"description": "Best teacher award at BITM, Santiniketan", "year": 2009},
+      {"description": "UGC Scholarship", "year": 2003}
+    ],
+    "training_attended": [
+      {"description": "5 days Capacity Building program at IIT Roorkee", "month": "September", "year": 2018},
+      {"description": "5 days Capacity Building program at IIM Udaipur", "month": "August", "year": 2015}
+    ],
+    "training_conducted": [
+      {"description": "3 days workshop on 'Recent advances of Fluid dynamics'", "month": "February", "year": 2016},
+      {"description": "Coordinator of a 3 days workshop on 'Recent advances of Soft Computing Technique'", "month": "January", "year": 2016},
+      {"description": "Co-coordinator of a national workshop on 'Recent advances in Bioinformatics'", "month": "August", "year": 2015}
+    ]
+  }
+  

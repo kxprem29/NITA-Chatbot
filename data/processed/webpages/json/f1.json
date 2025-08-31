@@ -1,0 +1,98 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Vidyut Dey",
+        "Designation": "Associate Professor",
+        "Department": {
+          "Short": "PE",
+          "Full": "Production Engineering"
+        },
+        "Date_of_Joining": "01/06/2012",
+        "Email": "vidyutdey@gmail.com",
+        "Address": {
+          "Department": "Department of Production Engineering, NIT Agartala",
+          "City": "Agartala",
+          "State": "Tripura",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9436715088"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Institute": "Indian Institute of Technology Kharagpur",
+            "Year": 2011,
+            "Subject": "Use of Genetic Algorithm, Clustering Techniques in Optimizing Weld Bead Profiles of Electron Beam W"
+          },
+          {
+            "Degree": "M.Tech",
+            "Institute": "Indian Institute of Technology Kharagpur",
+            "Year": 2005,
+            "Subject": "Manufacturing Process Engineering"
+          },
+          {
+            "Degree": "B.Tech",
+            "Institute": "National Institute of Foundry and Forge Technology (NIFFT), Ranchi University, Jharkhand",
+            "Year": 1996,
+            "Subject": "Manufacturing Engineering"
+          }
+        ],
+        "Publications": {
+          "Conference": [
+            {
+              "Title": "An experimental assiduity on the dominance of process parameters on mechanical properties for making a fire retardant bamboo fiber composite with the help of Taguchi experimental design",
+              "Authors": "Banik N.; Dey V.; Sastry G.R.K.",
+              "Journal": "Materials Today: Proceedings, Volume 5, Pages 5701-5708",
+              "Year": 2018
+            },
+            {
+              "Title": "A three-layer approach for overlay text extraction in video stream",
+              "Authors": "Lalita Kumari, Vidyut Dey, J. L. Raheja",
+              "Journal": "Advances in Intelligent Systems and Computing, Volume 584, Pages 79-87",
+              "Year": 2018
+            },
+            {
+              "Title": "Sujoy Chakraborty, Vidyut Dey, Subrata Kumar Ghosh, Promod Paul, Electric Discharge Coating on Aluminium-6351 Alloy with Green Compact Silicon Carbide and Copper Tool using EDM Oil as Dielectric",
+              "Journal": "International Conference on Innovative Research in Engineering and Science (IRES-2017), Asian Institute of Technology Conference Center, Thailand, 16th-17th June, 2017",
+              "Year": 2017
+            }
+          ],
+          "Journal": [
+            {
+              "Title": "Failure Mode and Effects Analysis (FMEA) using interval number based BWM—MCDM approach: Risk Expected Value (REV) method",
+              "Authors": "Bhattacharjee P.; Dey V.; Mandal U.K.",
+              "Journal": "Soft Computing",
+              "Year": 2022
+            },
+            {
+              "Title": "Modelling of Heat Flow When Thermal Conductivity, Specific Heat Capacity and Density All are a Function of Temperature",
+              "Authors": "Debtanay Das, Vidyut Dey, Bidyut Bhattacharyya",
+              "Journal": "Arabian Journal for Science and Engineering, Volume 46, Pages 7649-7659",
+              "Year": 2021
+            },
+            {
+              "Title": "Use of backing mediums increase penetration during TIG welding of P91 steel",
+              "Authors": "Akhilesh Kumar Singh, Vidyut Dey, Pramod Kumar",
+              "Journal": "Sadhana - Academy Proceedings in Engineering Sciences, Volume 46",
+              "Year": 2021
+            }
+          ]
+        },
+        "Subjects_Taught": {
+          "UG": [
+            "Management Information System",
+            "Manufacturing Processes-I",
+            "Engineering Materials",
+            "Computer Aided Design and Manufacturing"
+          ],
+          "M.Tech": [
+            "Advances in Machining Processes",
+            "Advances in Welding Technology"
+          ]
+        }
+      }
+    ]
+  }
+  

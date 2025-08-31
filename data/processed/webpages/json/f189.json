@@ -1,0 +1,35 @@
+{
+    "name": "Dr. Muthusivaramapandian M",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Bio Engineering",
+    "email": "msrpmsiva@gmail.com",
+    "research_area": [
+      "Bioprocess Engineering",
+      "Algae based biofuel production",
+      "Metabolic Engineering"
+    ],
+    "courses_taught": {
+      "UG": ["Metabolic Engineering", "Biochemical Engineering Process Calculations"],
+      "PG": ["Biotechnology & Biochemical Engg. Principles", "Bioreactor Design and Analysis"]
+    },
+    "address": {
+      "street": "Room no.: NB-402, Department of Bioengineering, NIT Agartala, Jirania",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "msrpmsiva@gmail.com",
+      "residence_phone": null,
+      "mobile": "7896172343"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "institution": "IIT Guwahati",
+        "subject": "Biosciences and Bioengineering",
+        "year": 2015
+      }
+    ]
+  }
+  

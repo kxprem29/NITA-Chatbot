@@ -1,0 +1,123 @@
+{
+    "name": "Dr. Sagarika Panigrahi",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "date_of_joining": "",
+    "email": "panigrahisagarika1@gmail.com",
+    "url": "https://scholar.google.com/citations?user=rOmDL2wAAAAJ&hl=en",
+    "research_area": [
+      "Anaerobic Digestion",
+      "Pretreatment technology",
+      "Life Cycle Analysis",
+      "In-Situ Biomethanation",
+      "Power-to-X"
+    ],
+    "courses_taught": {
+      "UG": ["Environmental Engineering", "Survey Lab"],
+      "PG": ["Solid Waste Management", "Air Pollution and Control"]
+    },
+    "phd_students": {
+      "ongoing": ["Satichananda Mishra"],
+      "completed": []
+    },
+    "address": {
+      "street": "Room Number: 204(f), Department of Civil Engineering",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "panigrahisagarika1@gmail.com",
+      "residence_phone": "",
+      "mobile": "8436363297"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2020,
+        "subject": "Environmental Engineering",
+        "institute": "Indian Institute of Technology Kharagpur"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2016,
+        "subject": "Environmental Engineering",
+        "institute": "Indian Institute of Technology Guwahati"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2013,
+        "subject": "Civil Engineering",
+        "institute": "Biju Patnaik University of Technology"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Gate-to-Gate Life Cycle Assessment of Hydrothermal Carbonization Process for Food and Yard Waste",
+        "authors": ["Venna, S.", "Panigrahi, S.", "Reddy, H. P.", "Dubey, B. K."],
+        "year": 2022,
+        "conference": "Effective Waste Management and Circular Economy",
+        "pages": "65-75",
+        "publisher": "CRC Press"
+      },
+      {
+        "title": "Optimization of F/M Ratio During Anaerobic Codigestion of Yard Waste with Food Waste: Biogas Production and System Stability",
+        "authors": ["Panigrahi, S.", "Sharma, H. B.", "Dubey, B. K."],
+        "year": 2022,
+        "conference": "Treatment and Disposal of Solid and Hazardous Wastes",
+        "pages": "185-192",
+        "publisher": "Springer, Cham"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Thermo-Chemo-Sonic pretreatment of lignocellulosic waste: Evaluating anaerobic biodegradability and environmental impacts",
+        "authors": ["Panigrahi, S.", "Tiwari, B. R.", "Brar, S. K.", "Dubey, B. K."],
+        "journal": "Bioresource Technology",
+        "year": 2022,
+        "doi": "https://doi.org/10.1016/j.biortech.2022.127675",
+        "impact_factor": 11.889
+      },
+      {
+        "title": "Study on the process wastewater reuse and valorisation during hydrothermal co-carbonization of food and yard waste",
+        "authors": ["Sharma, H. B.", "Panigrahi, S.", "Vanapalli, K. R.", "Cheela, V. S.", "Venna, S.", "Dubey, B."],
+        "journal": "Science of the Total Environment",
+        "year": 2022,
+        "volume": 806,
+        "pages": "150748",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2021.150748",
+        "impact_factor": 10.753
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Young women scientist award",
+        "organization": "Venus International Foundation",
+        "year": 2023
+      },
+      {
+        "title": "Best Paper Award for the paper titled 'Optimization of F/M ratio during anaerobic co-digestion of yard waste with food waste: biogas production and system stability'",
+        "organization": "ICACSE 2018, NIT Trichy, India",
+        "year": 2018
+      },
+      {
+        "title": "MHRD Scholarship during Ph.D.",
+        "organization": "Indian Institute of Technology Kharagpur, India",
+        "year": 2016
+      },
+      {
+        "title": "MHRD Scholarship during M.Tech",
+        "organization": "Indian Institute of Technology Guwahati, India",
+        "year": 2014
+      },
+      {
+        "title": "Departmental rank – 1st, B.Tech.",
+        "year": 2013
+      },
+      {
+        "title": "National Rural Talented Scholarship",
+        "year": 2005
+      }
+    ]
+  }
+  

@@ -1,0 +1,48 @@
+{
+    "Faculty": [
+      {
+        "Name": "Dr. Rup Narayan Ray",
+        "Designation": "Associate Professor",
+        "Department": {
+          "Short": "EE",
+          "Full": "Electrical Engineering"
+        },
+        "Email": "rupnarayan_r@yahoo.co.in",
+        "CV": "View",
+        "Research_Areas": [],
+        "Address": {
+          "Address_Line": "Palace Compound, Kali Bari Road, Near Sales Tax Office",
+          "City": "AGARTALA",
+          "State": "TRIPURA",
+          "Country": "India"
+        },
+        "Contact": {
+          "Phone_Residence": null,
+          "Phone_Mobile": "9436767176"
+        },
+        "Academic_Information": [
+          {
+            "Degree": "Ph.D.",
+            "Description": "BE, ME, PhD (Engg)",
+            "Year": 2010,
+            "Subject": "Performance Analysis of Grid connected Distributed Generations"
+          }
+        ],
+        "PhD_Students": {
+          "Ongoing": [],
+          "Completed": []
+        },
+        "Courses_Taught": {
+          "UG": [],
+          "PG": []
+        },
+        "Publications": {
+          "Journal": [],
+          "Conference": []
+        },
+        "Patents": [],
+        "Subjects_Taught": []
+      }
+    ]
+  }
+  

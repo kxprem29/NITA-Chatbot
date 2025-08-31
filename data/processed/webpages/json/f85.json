@@ -1,0 +1,27 @@
+{
+    "name": "Prof. DEBASISH BHATTACHARYA",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "date_of_joining": "29/04/2005",
+    "email": "bhattacharyad_nita2007@yahoo.co.in",
+    "research_area": ["Topology", "Operations Research"],
+    "courses_taught": {
+      "UG": ["Differential Geometry", "Statics", "Statistics", "Real Analysis-I", "Real Analysis-II"],
+      "PG": ["Topology", "Statistical Inference", "Riemannian Geometry", "Continuum Mechanics", "Classical Mechanics", "Statistical Games"]
+    },
+    "phd_students": {
+      "completed": ["Dr. Mousumi Sengupta", "Dr. Apu Kumar Saha", "3"],
+      "ongoing": ["Mr. Sanjoy Chhatri (Full Time Scholar)", "Ms."]
+    },
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "bhattacharyad_nita2007@yahoo.co.in",
+      "residence_phone": null,
+      "mobile_phone": "9436456222"
+    }
+  }
+  

@@ -1,0 +1,53 @@
+{
+    "department": "Chemical Engineering",
+    "publications": {
+      "overview": "The department has produced a plethora of quality publications in reputed national and international journals, books, book chapters, and patents. Several commercially viable technologies have also been developed.",
+      "faculty_contributions": [
+        "Delivered invited talks at national and international conferences",
+        "Received awards and honors in recognition of research contributions"
+      ]
+    },
+    "patents": [
+      {
+        "title": "A membrane independent off-grid hybrid power system",
+        "number": "201631000586",
+        "status": "Awarded"
+      },
+      {
+        "title": "A method for coagulation of rubber latex",
+        "number": "WO2016030908",
+        "status": "Published"
+      },
+      {
+        "title": "A method for coagulation of rubber latex",
+        "number": "892/KOL/2014",
+        "status": "Awarded"
+      },
+      {
+        "title": "Separation of heavy metals from wastewater by electro-deposition integrated supported liquid membrane",
+        "number": "733/KOL/2015",
+        "status": "Published"
+      },
+      {
+        "title": "Indian patent file on an acidophilic xylanases enzyme with broad pH activity from Aspergillus niger",
+        "number": "201631005766",
+        "status": "Awarded"
+      },
+      {
+        "title": "Stabilized lignocellulosic woody materials resistant to bio-degradation and process thereof",
+        "number": "201931026044",
+        "status": "Published"
+      },
+      {
+        "title": "A process for isolation of nutritional constituents from lignocellulosic biomass",
+        "number": "202031025861",
+        "status": "Published"
+      },
+      {
+        "title": "Method of valorization of liquid and solid waste materials to alternative sustainable fuel",
+        "number": "202131028330",
+        "status": "Published"
+      }
+    ]
+  }
+  
