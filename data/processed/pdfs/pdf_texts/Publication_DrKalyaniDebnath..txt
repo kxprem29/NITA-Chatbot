@@ -1,0 +1,43 @@
+
+--- Page 1 ---
+Information Regarding Research & Publications
+Number of publications:
+Sl. Name of the International National Books
+Conference Books
+No.
+faculty Journal Journal Chapter
+Dr. Kalyani International: 01
+1 06 00 00 00
+Debnath National: 00
+Publication Details: Dr. Kalyani Debnath
+2023
+1. Debnath, K., Debnath, P., Choudhury, S., Saha, A.K. and Majumdar, A., “A framework of Trapezoidal
+Fuzzy Best-Worst Method in Location Selection for Surface Water Treatment Plant”, Pollution, 9(3),
+pp.839-853, 2023.
+2022
+2. Choudhury, S., Bhowmik, D.C., Debnath, K., Saha, A.K. and Garg, H., Interval Type 2 Fuzzy Based AHP
+Approach: A Case Study. International Journal of Fuzzy System Applications (IJFSA), 11(1), pp.1-16,
+2022.
+2018
+3. U. Pal, S. Bhattacharya(Halder), K. Debnath, ”R Implementation of Bayesian Decision
+Theoretic Rough Set Model for Attribute Reduction” Industry Interactive Innovation in
+Science, Engineering and Technology, Springer, 11, 459-466, 2018.
+2016
+4. [1] [1] S. Bhattacharya (Halder), K. Debnath, “A Study on Lower Interval Probability
+Function Based Decision Theoretic Rough Set Models”, Annals of Fuzzy Mathematics
+and Informatics, 12(3), 373-386, 2016.
+
+--- Page 2 ---
+5. S. Bhattacharya(Halder), K. Debnath, “A Study on Attribute Reduction in Bayesian
+Decision Theoretic Rough Set Models”, Annals of Fuzzy Mathematics and Informatics,
+8(6), 913-920, December 2016.
+2014
+6. SB Halder, K Debnath, “Attribute reduction using bayesian decision theoretic rough set
+models”, in International Journal of Rough Sets and Data Analysis 2014, 1(1), 15-31
+(2014)
+Conference:
+2017
+1. U Pal, S Bhattacharya, K Debnath, “A Study on CART Based on Maximum Probabilistic-
+Based Rough Set”, in Mining Intelligence and Knowledge Exploration: 5th International
+Conference, MIKE 2017, Hyderabad, India, December 13–15, 2017, Proceedings 5,
+pages 412-423 (2017).

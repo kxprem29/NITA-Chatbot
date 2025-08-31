@@ -1,0 +1,481 @@
+
+--- Page 1 ---
+Verification Submitted Institute Data for Atal Ranking of Institutions on Innovation Achievements (ARIIA) - 2020-21
+Institute Name: National Institute of Technology Agartala [ARI-U-0493]
+List all the departments / centers / units are part of innovation and startup ecosystem of the institite
+Mention the Stream /
+Type of Department / Department / Center / Student / Benificiary Academic Staff Non-academic Staff
+Srno Department / Center / Unit Name Discipline / Sector of Program Type
+Center / Unit Unit Level Strength (2019-20) Strength (2019-20) Strength (2019-20)
+focus
+1 Electronics and Instrumentation Academic Electronics and UG / PG / PhD Technical 199 5 5
+Engineering Department with lab Instrumentation
+facility Engineering
+2 Civil Engineering Academic Civil Engineering UG / PG / PhD Technical 770 32 12
+Department with lab
+facility
+3 Mathematics Academic MSc, BSMS UG / PG / PhD Non-Technical 99 15 1
+Department with lab (Mathematics)
+facility
+4 Mechanical Engg Department Academic Mechanical Engg UG / PG / PhD Technical 486 29 13
+Department with lab
+facility
+5 Electronics and Communication Academic Electronics and UG / PG / PhD Technical 425 20 11
+Engineering Department with lab Communication
+facility Engineering
+6 Chemical Engineering Academic Chemical UG / PG / PhD Technical 222 9 7
+Department with lab Engineering
+facility
+7 Electrical engineering Academic Electrical engineering UG / PG / PhD Technical 424 20 14
+Department with lab
+facility
+8 Production Engineering Academic Production UG / PG / PhD Technical 293 12 6
+Department with lab Engineering
+facility
+9 Computer Science and engineering Academic Computer Science UG / PG / PhD Technical 504 20 11
+Department with lab and engineering
+facility
+10 Chemistry Academic MSc, BSMS UG / PG / PhD Non-Technical 90 12 4
+Department with lab (Chemistry)
+facility
+11 Bio Engineering Academic Bio Engineering UG / PG / PhD Technical 92 7 3
+Department with lab
+facility
+12 Management, Humanities and Social Academic Management, UG / PG / PhD Non-Technical 57 12 1
+Sciences Department with lab Humanities and
+facility Social Sciences
+
+--- Page 2 ---
+List all the departments / centers / units are part of innovation and startup ecosystem of the institite
+13 Physics Department Academic MSC, BSMS, BTMT UG / PG / PhD Non-Technical 162 15 4
+Department with lab (PHYSICS)
+facility
+14 Center for Innovation and Design Incubation Unit Startup and UG / PG / PhD Technical 10 11 0
+Innovation
+15 Center for Innovation and Design Pre-incubation unit Startup and UG / PG / PhD Technical 10 11 0
+innovation
+16 Industry Institute Interace Unit Industry Institute Industry Institute UG / PG / PhD Technical 0 10 2
+Interface Unit Interace Unit
+17 IPR Cell, NIT Agartala IPR Cell / Patent IPR Cell UG / PG / PhD Technical 0 27 0
+Facilitation Unit /
+Technology Transfer
+Centre
+18 Central Research Facility Centre of Excellence Research UG / PG / PhD Technical 70 7 2
+with Advance Tools &
+Equipment
+Participation of HEI in Innovation & Entrepreneurship Initiatives of Ministry of Education (Till Today)
+Programs/Initiatives Status Registration ID
+Adopted National Innovation and Start-up Policy at the HEI Yes Not Required
+Establishment of Institution's Innovation Council (IIC) at HEI YES IIC Registration ID : IC201912211
+Trained Innovation Ambassadors at HEI YES Not Required
+Participation in Smart India Hackathon (SIH) Yes Not Required
+Facilitated listing start-ups/ technologies in Young India combating COVID with Knowledge, Technology and Innovation (YUKTI 2.0) portal of MIC Yes Not Required
+Participation in National Education Alliance of Technology (NEAT) No Not Required
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+Organizin
+g
+Total Had institute spent expenses
+Name of Departm Internal Internal External External Did any of the participants
+Program Program Number either from own
+Program Program Program Program ent / Program Program Participa Participa Participa Participa received any awards/recognition
+Srno Start Duration(i of resource/received fund to
+(Full Theme Type Category Centre / End Date Location nts nts nts nts for startup / innovation ideas /
+Date n Days) Participa organise the
+Name) Student (Student) (Faculty) (Student) (Faculty) research?
+nts program/activity/event?
+Body
+Name
+1 Robotics Awarene Institute Compute 17-06-20 21-06-20 5 Within 12 20 4 17 53 No
+Worksho Innovatio ss Lead r Sc. and 19 19 Campus Total Expense 193600
+p n Activity Engg. 00:00:00 00:00:00 Amount
+Incurred by
+Institute to
+Organise the
+Program (In
+Rupees)
+
+--- Page 3 ---
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+2 Landslide Worksho Institute Civil 30-10-20 30-10-20 1 Within 45 4 0 1 50 No
+Hazards Innovatio p Lead Engineeri 19 19 Campus Total Expense 37680
+&Mitigati n Activity ng 00:00:00 00:00:00 Amount
+on in Departm Incurred by
+Atharamu ent Institute to
+ra region Organise the
+of Tripura Program (In
+State Rupees)
+3 Advance Worksho Institute Civil 12-12-20 17-12-20 6 Within 79 20 11 0 110 No
+d Innovatio p Lead Engineeri 19 19 Campus 860000
+Seismolo n Activity ng 00:00:00 00:00:00
+gy, Departm
+Seismic ent
+Total Expense
+Hazards
+Amount
+&
+Incurred by
+Earthqua
+Institute to
+ke
+Organise the
+Engineeri
+Program (In
+ng:
+Rupees)
+Theory,
+Simulatio
+n &
+Observati
+ons
+4 Disaster Worksho Institute Civil 13-05-20 17-05-20 5 Within 67 3 0 0 70 No
+manage Innovatio p Lead Engineeri 19 19 Campus Total Expense 155000
+ment and n Activity ng 00:00:00 00:00:00 Amount
+risk Departm Incurred by
+reduction ent Institute to
+Organise the
+Program (In
+Rupees)
+5 Dynamik Worksho Institute Civil 03-06-20 07-06-20 5 Within 30 1 0 0 31 No
+Foundati Innovatio p Lead Engineeri 19 19 Campus Total Expense 213302
+on n Activity ng 00:00:00 00:00:00 Amount
+Departm Incurred by
+ent Institute to
+Organise the
+Program (In
+Rupees)
+6 Recent Worksho Institute Civil 12-08-20 16-08-20 5 Within 51 6 0 0 57 No
+trends in Innovatio p Lead Engineeri 19 19 Campus Total Expense 234765
+water n Activity ng 00:00:00 00:00:00 Amount
+and Departm Incurred by
+wastewat ent Institute to
+er Organise the
+treatment Program (In
+Rupees)
+7 Employa Skill Institute Employa 06-11-20 09-11-20 4 Within 500 0 0 0 500 No
+bility Skill Entrepre developm Lead bility Skill 19 19 Campus Total Expense 521167
+Training neurship/ ent Activity Training 00:00:00 00:00:00 Amount
+Startup Committe Incurred by
+e Institute to
+Organise the
+Program (In
+Rupees)
+8 Employa Skill Institute Employa 29-01-20 01-02-20 4 Within 500 0 0 0 500 No
+bility Skill Entrepre developm Lead bility Skill 20 20 Campus Total Expense 521167
+Training neurship/ ent Activity Training 00:00:00 00:00:00 Amount
+Startup Committe Incurred by
+e Institute to
+Organise the
+Program (In
+Rupees)
+
+--- Page 4 ---
+Section 1 > i : Details of Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up Conducted by the HEI
+9 Employa Skill Institute Employa 12-03-20 16-03-20 5 Within 500 0 0 0 500 No
+bility Skill Entrepre developm Lead bility Skill 20 20 Campus Total Expense 521167
+Training neurship/ ent Activity Training 00:00:00 00:00:00 Amount
+Startup Committe Incurred by
+e Institute to
+Organise the
+Program (In
+Rupees)
+10 SOAR- Awarene Student Dean 26-08-20 26-08-20 1 Within 400 17 0 0 417 No No
+Student Innovatio ss Lead Student 19 19 Campus
+Orientatio n Activity Welfare 00:00:00 00:00:00
+n on
+ANARC
+Robotic
+Club
+Section 1 > ii : Details of Students, Faculties/Staff Participation/Representation in Co-curricular events/programs related to Innovation, IPR and Entrepreneurship/Start-up
+at the State, National and (or) International Level (Organized by External Organizations) sent by the HEI
+Title of
+Innovatio
+Total Award / n / Start- Had institute spent expenses
+Name of Organizin Participa Awards/R Did any of the participants
+Organizin Program Program Participa Number Position / up either from own resource/
+Program Program Program g Agency Program nts ecognitio received any awards/recognition
+Srno g Agency Start Duration(i nts of Recogniti Secured received fund towards sending
+(Full Theme Type / Institute End Date (Students ns/Achiev for startup / innovation ideas /
+Type Date n Days) (Faculty) Participa on the delegation to participate /
+Name) Name ) ements research
+nts Secured Award / represent the activity /event?
+Recogniti
+on
+1 Smart Hackatho NIT Govt. 01-02-20 02-02-20 2 3 0 3 Yes 1st Smart No
+India Innovatio n SILCHAR Agency 20 20 India Award / 1st
+Hackatho n (Central) 00:00:00 00:00:00 Hackatho Position /
+n 2020 n 2020 Recognition
+Secured
+Title of Smart India
+Innovation / Hackathon
+Start-up 2020
+Secured the
+Award /
+Recognition
+Award/Recog Idea/Innova
+nition/Achieve tion/Prototy
+ment pe
+Received for
+Section 2 > i : List the Academic Programs on Innovation, IPR and Entrepreneurship Development Offered During the Academic Period (2019-20)
+Total Numbers of
+Course Offering
+Title of Course/Subject Level of Program Program End Program Total Numbers of Contact Hours of Course
+Srno Program Theme Type of Course Department/Centr Mode of Delivery
+Offered Course Start Date Date Duration(in Days) Participants ( Minimum 30 Contact
+e/Unit Name
+hours)
+1 Enterpreneurship Entrepreneurship/Startup Elective/Core Bachelor Chemical 01-01-2019 31-05-2019 151 Offline 18 48
+Management in UG Credit Course Engineering
+2 Enterpreneurship Entrepreneurship/Startup Elective/Core Master Chemical 01-01-2019 31-05-2019 151 Offline 5 48
+Management in PG Credit Course Engineering
+3 Enterpreneurship Entrepreneurship/Startup Elective/Core PhD Chemical 01-02-2019 30-06-2019 150 Offline 2 48
+Management in PG Credit Course Engineering
+
+--- Page 5 ---
+4 Project Management and Entrepreneurship/Startup Elective/Core Credit Course Department 01-01-2020 30-06-2020 182 Offline 14 32
+Entrepreneurship Credit Course (Compulsory) of
+Management
+Humanities
+and Social
+Sciences
+5 Entreprenuership Entrepreneurship/Startup Elective/Core Bachelor Production 01-01-2020 31-05-2020 152 Online 47 40
+Development Credit Course Engineering
+Department
+Section 2 > ii : List the Employment Generation Skill Development Programs Organized by the HEI on Innovation, IPR and Entrepreneurship Development During the
+Academic Period (2019-20)
+Course Offering Program Total Numbers of Contact
+Program Start Program End Total Numbers of
+Srno Title of the Training Program Program Theme Type of Course Department/Centre/ Duration(in Mode of Delivery Hours of Course ( Minimum
+Date Date Participants
+Unit Name Days) 30 Contact hours)
+1 Employability Skill Training Entrepreneurship/Startup Employment Employability Skill 06-11-2019 09-11-2019 4 Offline 500 34
+Generation Training Training Committee
+Programs
+2 Employability Skill Training Entrepreneurship/Startup Employment Employability Skill 29-01-2020 01-02-2020 4 Offline 500 34
+Generation Training Training Committee
+Programs
+3 Employability Skill Training Entrepreneurship/Startup Employment Employability Skill 12-03-2020 16-03-2020 5 Offline 500 32
+Generation Training Training Committee
+Programs
+Section 2 > iii : List the Full Time Faculties had with a Degree (UG/PG/PhD) in Innovation/IPR/Entrepreneurship and (or) Received Specialized Training program of I&E, IPR
+(MDP, EDP, FDP, Short-term Certificate Course, of minimum 30 hours Duration) conducted by various State, Central Govt. agencies, and Knowledge Agencies in the
+Academic Period (2019-20)
+Had the faculty received training on I&E &
+Srno Faculty Name Department/Centre/Unit Name Designation Do you have a degree in I&E & IPR?
+IPR during AY 2019-20
+1 Dr. Amlanbrata Chakraborty Department of Management Humanities and Assistant Professor Yes No
+Social Sciences
+Section 3 > i : List Idea/Innovation Centric Student Clubs Are Functional at the HEI with Access to Co-working Space/Work-stations for Students with Facilities &
+Equipment Available to promote and Support Innovation, Entrepreneurship and IPR Activities in Campus
+No of
+Student Club
+Programs/Activiti
+with Access to Student Club
+Type of Facilities es Organized by Student Club Team Student Club Team
+Srno Name of Student Club Type of Club Year of Establishment Other I&E Team Lead
+Available at the Club the Student Club Lead Email Lead Phone
+Facilities at the Name
+During the AY
+HEI
+2019-20
+1 Robotics Innovation Club 2009 Co-working Space,3D Incubation Unit 2 Ayush Gupta aayu.gupta.96@gmail. 8299731752
+Printing com
+2 ANIMA - The Aero Club Innovation Club 2018 Co-working Incubation 3 Aryan Awasthi aryanaw0035@gmail.c 7456830168
+Space,Work Stations Unit,Centre of om
+Excellence with
+Advance Tools
+3 ANARC (Asimov NIT Agartala Innovation Club 2019 Co-working Space,3D Incubation Unit 3 Rishab Navaneet navaneetbahsir@gmail 9077700363
+Robotics Club) Printing .com
+Section 3 > ii > a : List the Pre-Incubation Facility (Tinkering Lab/Makers’ Space/Design Centre/New Gen IEDC/IEDC/EDC/Innovation Centre/Startup Cell) (>= 600 Sq. Ft.
+Floor Area)
+Srno Name of Pre- Type of Year of Type of Pre-Incubation Name of the Facility Details Total Nos of Dedicated Had the Pre-Incubation Had institute Had institute spent expenses either
+
+--- Page 6 ---
+Section 3 > ii > a : List the Pre-Incubation Facility (Tinkering Lab/Makers’ Space/Design Centre/New Gen IEDC/IEDC/EDC/Innovation Centre/Startup Cell) (>= 600 Sq. Ft.
+Floor Area)
+Funding Unit Provided any
+Schemes Funding Support for Generated Income
+with Access to
+Facilities Available Executive/Management Idea/Prototype/Innovati either from Services from own resource/received fund
+Establishme Other I&E
+Incubation Centre Facility Available at with Pre- team Strength Engaged at on Development and Offered by Pre- towards Establishment/Operation
+nt Facilities at the
+the Centre Incubation the Facility implementation during Incubation of Pre-Incubation Centre/Facilities?
+HEI
+Unit, if any the Financial Year Centre/Facilities?
+(Optional) 2019-20
+1 Innovation centre Innovation 2016 Co-working Incubation Incubation 5 No No No
+Centre Space Unit,Innovation Unit,Innovati Facility Dr.
+Labs,Student on Incharge Partha
+Clubs Labs,Studen Name Pratim
+t Clubs Sarkar
+ps_part
+Facility
+ha@ya
+Incharge
+hoo.co
+Email
+m
+Facility 700567
+Incharge 3476
+Phone
+2 Human Computer Tinkering 2015 3D Printing Incubation Incubation 2 No No No
+Interaction Lab Lab & Prototype Unit,Innovation Unit,Innovati Facility Dr.
+Equipment Labs,Student on Incharge Suman
+Clubs Labs,Studen Name Deb
+t Clubs
+suman
+Facility
+deb.cs
+Incharge
+e@nita
+Email
+.ac.in
+Facility 943645
+Incharge 9622
+Phone
+Section 3 > ii > b : List the Centre of Excellence (CoE) Facilities with Advance Tools and Equipment at the HEI (>= 1000 Sq. Ft. Floor Area)
+Total Nos of
+Name of the Had the CoE Provided any
+Dedicated Had institute spent expenses
+CoE with Access Funding Funding Support for
+Executive/Manag Had institute Generated Income either from own
+Year of to Other I&E Schemes Idea/Prototype/Innovation
+Srno Name of CoE Facility Facility Details ement team either from Services Offered by CoE resource/received fund towards
+Establishment Facilities at the Available with Development and
+Strength Centre/Facilities? Establishment/Operation of
+HEI CoE, if any implementation during the
+Engaged at the CoE Centre/Facilities?
+(Optional) Financial Year 2019-20?
+Facility
+1 High Performance 2016 Pre- 2 No No No
+Computing Center Incubation,Innova Facility Dr
+tion Labs Incharge Nirmal
+Name ya Kar
+Facility nirmaly
+Incharge a@nita
+Email .ac.in
+Facility 94367
+Incharge 67179
+Phone
+
+--- Page 7 ---
+Section 3 > ii > b : List the Centre of Excellence (CoE) Facilities with Advance Tools and Equipment at the HEI (>= 1000 Sq. Ft. Floor Area)
+2 Central Research 2015 Pre- 8 No No No
+Facility Incubation,Incuba Facility Dr.
+tion Incharge Tarun
+Unit,Innovation Name Kumar
+Labs Misra
+tkmisra
+Facility
+.chem
+Incharge
+@nita.
+Email
+ac.in
+Facility 89747
+Incharge 27776
+Phone
+Section 3 > ii > c : List the Incubation Facilities at the HEI (>= 1500 Sq. Ft. Floor Area)
+Total Nos of
+Name of the Had the Incubation Facility
+Dedicated Had institute spent expenses
+Incubation with Funding Provided any Funding Support
+Executive/Manag Had institute Generated Income either from own
+Name of Incubation Year of Access to Other Schemes for Idea/Prototype/Innovation
+Srno Facility Details ement team either from Services Offered by resource/received fund towards
+Facility Establishment I&E Facilities at Available with Development and
+Strength Incubation Centre/Facilities? Establishment/Operation of
+the HEI Incubation Unit, if implementation during the
+Engaged at the Incubation Centre/Facilities?
+any (Optional) Financial Year 2019-20?
+Facility
+1 Centre For Innovation 2016 Pre- 5 No No No
+and Design Incubation,Innova Facility Dr.
+tion Labs,Student Incharge Partha
+Clubs Name Pratim
+Sarkar
+ps_par
+Facility
+tha@y
+Incharge
+ahoo.c
+Email
+om
+Facility 70056
+Incharge 73476
+Phone
+Section 3 > ii > d : List the Innovation Park/Research Park Facilities at the HEI (>= 5000 Sq. Ft. Floor Area)
+Name of the Total Nos of Had the Research Had the Research
+Innovation Park /
+Funding Dedicated Park/Innovation Park Provided Park/Innovation Park Provided
+Research Park
+Name of Innovation Schemes Executive/Manag any Funding Support for Had institute Generated Income any Funding Support for
+Year of with Access to
+Srno Park/Research Park Available with Facility Details ement team Idea/Prototype/Innovation either from Services Offered by Idea/Prototype/Innovation/Start
+Establishment Other I & E
+Facility Research/Innovat Strength Development and Research Park/Innovation Park? up/Venture Development and
+Facilities at the
+ion Park, if any Engaged at the implementation during the implementation during the
+HEI
+(Optional) Facility Financial Year 2019-20? Financial Year 2019-20?
+1 Center of Innovation and 2015 Pre- 5 No No No
+Design Incubation,Incuba Facility Dr
+tion Incharge Partha
+Unit,Innovation Name Pratim
+Labs Sarkar
+ps_par
+Facility
+tha@y
+Incharge
+ahoo.c
+Email
+om
+Facility 97740
+Incharge 51947
+Phone
+
+--- Page 8 ---
+Section 3 > ii > e : List the IPR Cell/Technology Transfer Centre Facilities at the HEI
+No Data Flled!
+Section 3 > iii > a : Provide detail list of Faculties as Mentor to help Ideas/Innovations/Startups
+No Data Flled!
+Section 3 > iii > b : Provide detail list of External Experts/Agencies engaged as Mentor to help Ideas/Innovations/Startups
+Srno Name of the External Expert/Agency as Mentor Mentor Expert Area Type of Mentorship
+1 iBuild innovations India Pvt. Ltd. IPR Protection & Commercialization Unstructured Mentorship
+Section 4 : List all the Innovations Generated Developed, Completed and Implemented in Ground with Support of Pre-incubation & Incubation facilities at the HEI and
+Recognitions Received
+No Data Flled!
+Section 5 : List all the Ventures/Startups/SME Units Established with Support of Pre-incubation & Incubation facilities at the HEI
+No Data Flled!
+Section 7 > i : List all the Collaborations with External Agencies and Co-Creation of I&E Activities by the HEI
+No Data Flled!
+Section 8 > ii : List the IPs Filed/Published/Granted (Copyright & Designs Only) by the HEI as an Applicant / Co-applicant / Co-owner
+No Data Flled!
+Section 8 > iii : List the IP (Patents only) Filed by the HEI as Applicant / Co-applicant / Co-owner
+Copy of receipt / application
+Srno Title/Name of Patent IP Registration Number Date of Filed/Published (Year, Month) Application Level
+screenshot [PDF or Image]
+1 STABILIZED LIGNOCELLULOSIC WOODY 201931026044 National 2019 - 06 Uploaded
+MATERIALS RESISTANT TO BIO-
+DEGRADATION AND PROCESS THEREOF
+2 AN ELECTRONICS SYSTEM FOR WRITING 202031000360 National 2019 - 12 Uploaded
+USING CONVENTIONAL ACCESSORIES
+3 FOOD SPOULAGE DEVICE 201931 049330 National 2019 - 11 Uploaded
+4 THE SIX SENSE DEVICE 201931 048224 National 2019 - 11 Uploaded
+5 A DEVICE FOR REMOVING LACUNAS OF 201931 051249 National 2019 - 11 Uploaded
+EXISTING IMAGE USING INPAINTING
+TECHNIQUES
+6 INTELLIGENT ELECTRICITY SAVING 201931 048105 National 2019 - 11 Uploaded
+DEVICE
+7 WASTE MONITORING SYSTEM 201931 040157 National 2019 - 10 Uploaded
+
+--- Page 9 ---
+8 SYSTEM FOR AGRONOMY MONITORING 201931 029993 National 2019 - 07 Uploaded
+AND ENHANCING AN IRRIGATION
+EFFICIENCY
+9 NOVEL POLYMERIC BLEND FOR MAKING 201931042737 National 2019 - 10 Uploaded
+BIOLOGICAL JOINT PROSTHESIS AND
+METHOD OF MAKING THE SAME
+10 Microcontroller based automatic multi- 202031003455 National 2020 - 01 Uploaded
+frequency ultrasonic sound generated
+Mosquito repellent

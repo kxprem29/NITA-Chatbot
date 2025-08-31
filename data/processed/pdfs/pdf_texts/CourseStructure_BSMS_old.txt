@@ -1,0 +1,2085 @@
+
+--- Page 1 ---
+National Institute of Technology, Agartala
+Department of Mathematics
+Mathematics and computing Syllabus of
+Integrated BS-MS Dual Degree
+NATIONAL INSTITUTE OF TECHNOLOGY, AGARTALA
+TRIPURA
+
+--- Page 2 ---
+Proposed Integrated BS (4-year) / MS (5-year) programme for
+Mathematics and computing
+Semester-I
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Physics-I DSPH11B01 3 1 0 4
+2 Chemistry-I DSCY21B01 3 1 0 4
+3 Mathematics-I DSMA31B01 3 1 0 4
+Language and
+4 DSHU41B01 2 0 1 3
+Technical Writing
+5 Physics Lab-I DSPH11P01 0 0 3 2
+6 Chemistry Lab-I DSCY21P01 0 0 3 2
+Total Contact hrs per week = Total Credit = 19
+Semester-II
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Physics-II DSPH12B02 3 1 0 4
+2 Chemistry-II DSCY22B02 3 1 0 4
+3 Mathematics-II DSMA32B02 3 1 0 4
+Basic environmental
+4 and atmospheric DSCY22B03 3 0 0 3
+science
+5 Physics Lab-II DSPH12P02 0 0 3 2
+6 Chemistry Lab-II DSCY22P02 0 0 3 2
+Total Contact hrs per week = Total Credit = 19
+
+--- Page 3 ---
+Semester-III
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+Ordinary Differential
+1 DSMA33B03 3 1 0 4
+Equation
+2 Abstract Algebra-1 DSMA33B04 3 1 0 4
+3 Probality & Statistics DSMA33B05 3 1 0 4
+4 Programming DSMA33B06 3 1 0 4
+5 Programming Lab DSMA33P01 0 0 3 2
+6 Statistics Lab DSMA33P02 0 0 3 2
+Total Contact hrs per week Total Credit = 20
+Semester-IV
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Real Analysis DSMA34B07 3 1 0 4
+2 Linear Algebra DSMA34B08 3 1 0 4
+Partial Differential
+3 DSMA34B09 3 1 0 4
+Equation
+4 Numerical Analysis DSMA34B10 3 1 0 4
+Data Structure &
+5 DSMA34B11 3 1 0 4
+Algrithm
+Numerical Methods
+6 DSMA34P03 0 0 3 2
+lab
+Total Contact hrs per week Total Credit = 22
+
+--- Page 4 ---
+Semester-V
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+Linear Programing
+1 DSMA35B12 3 1 0 4
+and Game Theory
+2 Statics & Dynamics DSMA35B13 3 1 0 4
+Integral Transforms
+3 DSMA35B14 3 1 0 4
+& Applications
+Fuzzy Set, Rough Set
+4 DSMA35B15 3 1 0 4
+and Applications
+Lab Work on Data
+5 Structure & DSMA35P04 0 0 3 2
+Algorithm
+Total Contact hrs per week Total Credit = 18
+Semester-VI
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Complex Analysis DSMA36B16 3 1 0 4
+Discreate
+2 DSMA36B17 3 1 0 4
+Mathematics
+3 Stochastic Processes DSMA36B18 3 1 0 4
+Objective Oriented
+4 DSMA36B19 3 1 0 4
+Programming
+Number Theory &
+5 DSMA36B20 3 1 0 4
+Cryptology
+Total Contact hrs per week Total Credit = 20
+
+--- Page 5 ---
+Semester-VII
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Measure Theory DSMA37B21 3 1 0 4
+2 Topology DSMA37B22 3 1 0 4
+3 Abstract Algebra-II DSMA37B23 3 1 0 4
+Classical &
+4 Continuum DSMA37B24 3 1 0 4
+Mechanics
+Formal Language and
+5 DSMA37B25 3 1 0 4
+Automata Theory
+Total Contact hrs per week Total Credit = 20
+Semester-VIII
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+1 Functunal Analysis DSMA38B26 3 1 0 4
+Tensor Calculus &
+2 DSMA38B27 3 1 0 4
+Riemanian Geometry
+Differential
+3 DSMA38B28 3 1 0 4
+Geometry
+4 Soft Computing DSMA38B29 3 1 0 4
+Project Work /
+5 DSMA38S01 0 0 0 4
+Summer Internship
+Departmental
+6 DSMA38S02 0 0 0 2
+Semeinar-I
+Total Contact hrs per week Total Credit = 22
+
+--- Page 6 ---
+Semester-IX
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+Intregral Equations &
+1 DSMA39B30 3 1 0 4
+Calculas of Variation
+2 Elective-I DSMA39E01 3 1 0 4
+3 Elective-II DSMA39E02 3 1 0 4
+4 Research Project-I DSMA39S03 0 0 0 6
+Departmental
+5 DSMA39S04 0 0 0 2
+Semeinar-II
+Total Contact hrs per week = Total Credit = 20
+Semester-X
+Teaching Scheme
+Sr.
+Name of the Subject Code Hours per Week credit
+No.
+L Tu. Pr.
+Elective-III
+1 DSMA310E03 3 1 0 4
+2 Elective-IV DSMA310E04 3 1 0 4
+3 Research Project-II DSMA310S05 0 0 0 8
+Departmental
+4 DSMA310S06 0 0 0 2
+Seminar-III
+Comprehensive Viva-
+5 DSMA310S07 0 0 0 2
+Voce
+Total Contact hrs per week = Total Credit = 20
+
+--- Page 7 ---
+COURSE STRUCTURE
+ELECTIVE-I
+1) OPERATION REASEARCH-I
+2) BIOMATHEMATICS-I
+3) FLUID MECHANICS-I
+4) SOLID MECHANICS-I
+ELECTIVE-III
+1) OPERATION REASEARCH-II
+2) BIOMATHEMATICS-II
+3) FLUID MECHANICS-II
+4) SOLID MECHANICS-II
+ELECTIVE-II & IV
+1) STOCHASTICS PROCESS
+2) STATISTICAL INFERENCE
+3) COMPUTATIONAL FLUID DYNAMICS & MAGNATO FLUID DYNAMICS
+4) COMPUTER ORGANISATION AND ARCHITECTURE
+5) NUMBER THEORY & CRYPTOGRAPHY
+6) FINANCIAL MATHEMATICS
+7) OPERATING SYSTEMS
+8) COMPUTER NETWORKING
+9) ALGEBRAIC TOPOLOGY
+10) WAVELETS AND APPLICATION
+11) LIE ALGEBRA
+12) DATA MINING AND WARE HOUSING
+13) OPERATOR THEORY
+14) HISTORY OF MATHEMATICS
+15) ADVANCED TOPOLOGY
+16)DECISION THEORY & COMPUTATIONAL STATISTICS
+17)THEORY OF OPERATIONS AND BANACH ALGEBRA
+
+--- Page 8 ---
+SEMESTER -I
+PHYSICS-I
+Mathematical Preliminary:
+Vector Differentiation, Scalar and Vector Fields, Directional Derivatives, Vector Differential
+Operator, Gradient, Divergence, Curl, Line, Surface & Volume integrals and their
+applications, Green’s theorem.
+Mechanics:
+Newton’s laws of motion for a system of particles, Constraints, D’Alembert’s Principle,
+Generalized Coordinates, Generalized velocity and momentum, Lagrangian formulation,
+Hamiltonian formulation.
+Physics of Waves:
+Simple Harmonic Motion, superposition of two linear SHMs, Lissajous figures, Damped
+Vibration:-differential equation and solution, critical damping, logarithmic decrement,
+analogy with electrical circuit, Normal mode analysis (Matrix Inversion) Progressive waves,
+Forced Vibration, Amplitude and Velocity Resonance, sharpness of resonance and quality
+factor.
+Time Varying Field and Maxwell’s Equation:
+Laws of Electromagnetic Induction, Self and Mutual induction, Concept of Displacement
+Current, Difference between Conduction Current and Displacement Current, Eddy Current,
+Maxwell’s Equations, Derivation of Maxwell’s Equations, Propagation of Electromagnetic
+Waves in Free Space and Conductors, Solution of propagation of Plane Electromagnetic
+Wave in free space and conductors, Concept of Field Energy (Poynting Vector)
+Optics: Interference, Diffraction, Polarization
+Interference: Coherence (temporal and spatial), Fresnel’s Bi-prism, Interference of Light
+due to division of amplitude (Newton’s Ring), colour of thin film.
+Diffraction:
+Types of Diffraction, Difference between Interference and Diffraction, Fraunhofer
+Diffraction at a Single Slit and Double slit, Plane transmission diffraction grating spectra,
+Comparison between Prism and Grating Spectra, Resolving Power of Microscope, Telescope
+and other optical instruments and limit of resolution.
+Polarization:
+Plane of Vibration and Plane of Polarization, Classification of Polarized Light, Preferential
+direction in a wave; polarized light; natural light; production of linearly polarized light;
+Methods of Producing Plane polarized light: Brewster’s law and Malus Law, Nicol’s Prism:
+
+--- Page 9 ---
+polarizer and analyzer; Polaroid, Anisotropic crystal; calcite crystal; Huygens’ explanation of
+double refraction; Huygens’ construction of wave fronts; experimental determination of
+principal refractive indices; electromagnetic theory of double refraction; phase difference
+between o – ray and e – ray; superposition of waves linearly polarized at right angles; types
+of polarized light; effect of polarizer on transmission of polarized light; retarders or wave
+plates; Birefringes, Babinet Compensator;.
+Suggested Books
+1. H. Georgi, Physics of Waves
+2. Rana & Joag, Classical Mechanics, Tata McGraw-Hill Education, India.
+3. Waves - Pain
+4. D. J. Griffith, Introduction to Electrodynamics, PHI Pubs.
+5. Hecht, Optics
+6.A. Ghatak, Optics, Tata Mc Graw Hill
+7. Feynman Lectures on Physics
+8. Berkley Physics – Vol I & II
+Chemistry-I
+Atomic structure
+Rutherford’s model for atom, Bohr’s model, Bohr’s orbit, radii, energy, ionization potential,
+atomic spectra and atomic number. Hydrogen atom: Spectra, Balmer formula, Rydberg
+formula, Bohr’s interpretation of atomic spectra, Bohr’s correspondence principle, Moseley’s
+experiment, fine structure of spectra and Somerfield’s new energy states, Zemman effect:
+magnetic quantum number, vector model of atom, quantum numbers, Pauli exclusion
+principle, Hund’s rule for atomic spectra, Aufbau principle, coupling scheme and atomic
+states in the vector model, qualitative description of s-, p-, and d-orbitals, electronic
+configuration for many electron system. Nature of bonding: covalent and ionic bonds.
+Periodic Table and Properties of Elements
+Long periodic Table, extended Periodic Table: classification of elements: s-, p-, d-, and f-
+block elements, post actinides and super actinides, important properties of elements and their
+periodic trends: atomic and ionic radii, ionization potential, electron affinity and
+electronegativity, different electronegativity scales, screening effect, effective nuclear charge,
+Slater’s rules, inert pair effect, melting points; boiling points; diagonal relationship.
+
+--- Page 10 ---
+Basic organic chemistry
+Different classes of organic molecules and their mechanistic classification: Ionic, radical and
+pericyclic reactions; heterolytic bond cleavage and heterogenic bond formation, homolytic
+bond cleavage and homogenic bond formation. Nomenclature IUPAC. Physical Effects,
+Electronic Displacements: Inductive Effect, Electromeric Effect, Resonance and
+Hyperconjugation. Nucleophiles and electrophiles. Reactive Intermediates: Carbocations,
+Carbanions, free radicals, carbenes and arenes.
+Gaseous and liquid states
+Gaseous states: Gas laws, kinetic theory of gases, derivation of gas laws from kinetic theory.
+Maxwell theory of velocity distribution. Mean free path. viscosity of gases. Real gases, Van
+der waal’s equation of state, Virial coefficients and equation of state.
+Liquid state: Physical properties of liquids and their measurements. Surface tension and
+viscosity.
+References
+1. J. D. Lee, Concise Inorganic Chemistry, 4th Ed., ELBS, 1991.
+2. G. L. Miessler, D. A. Tarr, Inorganic Chemistry, 3rd Edition, Pearson,
+Delhi, india.
+3. R. L. Dutta, Elementary Inorganic Chemistry, 5th Ed. The New Book
+Stall, Calcutta.
+4. R. Sarkar, General Chemistry Part-I and Part-II, New Central Book
+Agency (P) Ltd.
+5. A. K. Das, Fundamental Concepts of Inorganic Chemistry Part-I and
+Part-II, CBS Publishers & Distributors, New Delhi.
+6. J. H. Huheey, E. A. Keiter, R. L. Keiter, O. K. Medhi, Inorganic
+Chemistry: Principle of structure and reactivity, 4th Ed., Pearson, New
+Delhi.
+7. Shriver & Atkins, Inorganic Chemistry, 4th Ed., Oxford University Press,
+Delhi
+8. T. W. Graham Solomon, C. B. Fryhle, Organic Chemistry, John-Wiley
+and Sons.
+9. J. March, Advanced Organic Chemistry: Reactions Mechanism and
+Structure John-Wiley and Sons
+10. R. T. Morrison and R. N Boyd, ‘Organic Chemistry’, Prentice Hall.
+11. Peter Sykes, ‘A guide Book to Mechanism in Organic Chemistry,’
+Longman.
+
+--- Page 11 ---
+12. D.A. McQuarrie and J.D. Simon, Physical Chemistry, Viva Books
+13. Elements of Physical Chemistry by Peter Atkins & Julio De Paula, 5/E,
+Oxford University Press, Indian Edition
+14. P.W. Atkins, Physical Chemistry, 7th ed. Oxford University press 2006
+MATHEMATICS-I
+Theory of Equations:
+Theory of equations: Polynomials with real coefficient, synthetic division,statement of
+fundamental theorem of classical algebra. Surds and complex roots occur in pairs.
+Statement of Descartes’ rule of sign and its applications. Relations between root and
+coefficient, symmetric functions of roots. Transformation of equations. Standard form of
+cubic and bi – quadratic equations. Cardan’s solution of cubic equations. Descartes’ and
+Ferrari’s method of solving bi – quadratic equations.
+Inequalities : Definitions and elementary properties, examples. Theorems on A. M., G.M and
+H.M. Their generalization theorem of weighted mean and m-th power theorem. Statement of
+Cauchy-Schwartz inequality, Weierstrass inequality and their applications.
+Determinants:
+Definition, properties, Minors, Co-factors, expansion of determinants: Laplace’s method,
+examples. product of two determinants, adjoint and reciprocal determinants, Jacobi’s
+theorem,symmetric and skew-symmetric determinants, their properties. Cramer’s rule,
+consistency of equations, examples.
+Matrix Theory:
+Adjoint , Reciprocal,Symmetric and skew symmetric matrices, Hermitian and Skew-
+Hermitian matrices, minor and cofactors, orthogonal and singular matrix, adjoint and inverse
+of matrix up to 33 matrices, application of matrices to a system linear equations ( both
+homogeneous and non-homogeneous ) with not more than three unknowns, theorem on
+consistency of a system of linear equations.Rank of a matrix. Elementary
+transformations.Linear independent of row and column matrices. Row rank and column rank
+of two matrices. Equality of row rank , column rank and rank of a matrix. Finding rank of a
+matrix by considering minor or sweep out process. Rank of sum and product of two matrices.
+Rank (A+B)<RankA + RankB, Rank(AB) Min(RankA, RankB).Trace of a matrix.
+Characteristics polynomial & characteristics equations, Eigen-values, eigen vectors and the
+characteristic equation of matrix, Caley-Hamilton theorem and its use in finding inverse of
+matrix, some basic theorems. Real quadratic forms, Index, Rank, Signature.Theorem of
+consistency of a system of linear equations, Linear equations. Consistency of a system of
+equations. Number of solutions of a non-homogeneous system. Homogeneous system of
+
+--- Page 12 ---
+equations, solution of linear equation with not more than three unknown by matrix method.
+Solution of matrix equation, examples.
+Theory of Complex Number
+Definitions, properties. Geometrical representation of a complex number: Argand diagram.
+Modulus and Amplitude. Properties of moduli and amplitudes of complex numbers.
+Examples.
+DeMoivre’s theorem and its applications. Examples.
+Exponential, sine, cosine and logarithm of complex number. Direct and inverse circular
+and hyperbolic functions. Expansion of trigonometry functions, Gregory’s series. Summation
+of series.
+Vector algebra:
+Revision of Vector, Scalar and vector product of two vectors. Scalar and vector triple product.
+Product of four vectors. Reciprocal vectors. Position vector, Simple applications to geometry.
+Vector equations of straight line, plane and circle. Volume of a tetrahedron. Shortest
+distance between skew lines. Applications to mechanics: work done, torque.
+Vector Calculus:
+Vector function, limit and continuity, derivative of vector, derivative of sums and product of
+vector functions. Tangent vector to a curve at a point, Scalar and vector point function.
+Gradient, Normal. Directional derivative. Examples. Divergence, Physical interpretation of
+Divergence. Curl, Physical interpretation of Curl, Properties of gradient, divergence and curl.
+Sum, difference, products, Second order differential operator. Laplacian operator.
+References:
+1. The theory of equations(Vol. I)- Burnside and Panton
+2. Higher Algebra- Barnard and Child
+3. Vector Analysis-Louis Brand
+4. Vector Analysis- Barry Apain
+5. S.Ponnusamy-Foundation of Complex Analysis;Narosa
+6. Vector Analysis-Maity and Ghosh, New Central Book Agency.
+7. Vector Analysis- Schaum’s series, Tata McGrawHill
+
+--- Page 13 ---
+PHYSICS LAB-I
+[At least seven experiments are to be performed]
+1. Determination of MH and M/H of a bar magnet.
+2. To determine the Young’s Modulus of the material of a beam by bending
+of beam method.
+3. Determination of unknown resistance of a given wire the help of Carey-
+Foster Bridge.
+4. To determine the Dispersive power of the material of the prism, angle of
+prism is supplied.
+5. Determination of Rigidity Modulus of a wire using dynamic method.
+6. Determination of surface tension of water by capillary tube.
+7. Determination of Wavelength of light by Newton’s ring.
+8. Study of polarization of light.
+9. To determine the wavelength of Laser by diffraction grating method.
+10. Verification of Stefan’s law.
+11. To determine the Numerical aperture & bending coupling losses of an
+Optical fiber by quick approximation method.
+CHEMISTRY LAB-I
+1. (a) Preparation of standard solution of oxalic acid and standardization of
+NaOH solution and KMnO solution.
+4
+(b) Preparation and standardization of Mohr’s salt solution by KMnO4
+solution.
+(c) Preparation of standard K Cr O solution and standardization of
+2 2 7
+Mohr’s salt solution and sodium thiosulphate solution.
+(d) Preparation and standardization of Na EDTA solution.
+2
+2. Analysis of water samples by BOD and COD.
+3. Estimation of Iron in water.
+4. Preparation of organic and inorganic compounds using green chemistry
+principle
+I. Benzilic acid, IV. Biodiesel.
+II. Dibenzalpropanone, V. [Cu(NH ) ]SO .H 0
+3 4 4 2
+III. Acetanilide, VI. [Mn(acac) ]
+3
+
+--- Page 14 ---
+References
+1. Vogel’s Textbook of Quantitative Chemical Analysis, 5th Ed., ELBS with
+Longman.
+2. R. A. Day, A. L. Undrwood, Quantitative analysis 6th Ed., Prentice-Hall
+of India (P.), Ltd., New Delhi
+3. W.G. Palmer,Experimental Inorganic chemistry, Cambridge University
+Press (1962
+SEMESTER -II
+PHYSICS-II
+Introduction to Quantum Mechanics:
+Particle properties of wave: Planck’s hypothesis, Wave properties of particle: De Broglie
+wave as mater waves, Davison-Germer experiment, Heisenberg’s uncertainty principle and
+its application, Interpretation of wave function, Schrödinger equation (time dependent and
+time independent), particle in a box, Eigen values and Eigen function.
+Concepts of Solids:
+Statistical distributions, M-B, B-E and F-D statistics (No Derivations) and their simple
+applications, Planck’s radiation law, Degenerate Fermi Gas.
+Crystalline and amorphous solids, crystal structure, Bravais Lattice, Packing Fraction,
+Crystallographic planes and miller indices, Inter-planer spacing (cubic system only), Bragg’s
+diffraction, Crystal structure analysis, Lattice Vibration, Electrons in a crystalline solid.
+Plasma Physics:
+Definition of plasma and collective behaviour, concept of temperature, quasineutrality and
+Debye shielding, criteria for plasmas, plasma oscillations, Single particle motions in -
+uniform and non-uniform electric and magnetic fields, time varying electric and magnetic
+fields, Applications of Plasma.
+Introduction to Laser and Optical Fiber:
+Spontaneous and stimulated emission, Einstein’s A-B coefficient, meta-stable state,
+population inversion, basic principle of laser (three and four level), optical cavity and
+resonator, Ruby and He-Ne laser.
+Propagation of light in fiber, step and graded index fiber, numerical aperture, attenuation in
+optical fiber, introduction of optical window, application of laser and optical fiber.
+Relativity:
+Reference Frames, Lorentz Transformation, Postulates of Relativity, Relativistic Mass &
+Mass-Energy Equivalence.
+
+--- Page 15 ---
+Suggested Books
+1. Plasma Physics and Controlled Fusion, Francis F. Chen, Springer Pub.
+2. Lasers, Fundamentals and Applications, K. Thyagrajan, A. Ghatak, Springer Pub.
+3. K. Huang, Statistical Mechanics
+4. D.C. Tayal, Nuclear Physics, 4th edition, Himalaya House, Bombay
+5. Kittel, Introduction solid State Physics, Willy Eastern Limited
+6. A.K.Ghatak and S.Lokanathan, Quantum Mechanics, Macmillan India Limited
+7. B.K. Agarwal, Elements of Statistical Mechanics
+8. Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles, R. Eisberg
+and Resnick, Wiley India Pvt. Ltd.
+Chemistry-II
+Chemical Bonding and Structure-I
+Introduction to chemical bonding , ionic compounds: lattice energy: calculation and
+implications, solvation energy, Born-Haber cycle and its applications, Fajan’s rules and its
+applications
+Covalent compounds: sigma and pi-bonds, hybridization, Bent’s rule of hybridization,
+resonance, dipole moment, Geometry: Qualitative description of VBT and MOT (diatomic
+homo and heteronuclear molecules), VSEPR theory, hydrogen bonding, hydrogen bridge
+bond, delta-bond, metal-metal bond.
+Basic stereochemistry
+Elements of symmetry: simple axis, plane of symmetry, center of symmetry, alternate axis of
+symmetry, chirality, optical activity, specific rotation, optical purity. Configuration: Types of
+isomerism. Geometrical and Optical isomerism; Enantiomerism, Diastereomerism and Meso
+compounds). D and L; cis - trans nomenclature; Concept of chirality.
+Chemical Kinetics and Chemical equilibrium:
+Order and molecularity of a reactions, rate laws and rate equation for first order, second
+order, and zeroth order reactions. Determination of order of reactions, Energy of activation .
+Catalytic reactions: homogeneous and heterogeneous catalytic reaction. Enzyme catalyzed
+and auto catalyzed reactions, Michelis-Menten equation. General Characteristics of catalytic
+reactions.
+The law of mass action, equilibrium constants, the reaction isotherms, the reaction isochore,
+Le chatelier’s principle.
+Coordination Chemistry-I
+Addition compounds: double salts and complex salts; Werner’s theory; ligands and denticity,
+classification of ligands, pi-acidic ligands, macrocyclic ligands, chelates, chelate effects,
+chelation therapy, supercomplex, geometry, coordination number; IUPAC nomenclatures;
+isomerism: structural and stereoisomerism: geometrical and optical, facial amd meridional
+isomers, chirality,
+
+--- Page 16 ---
+Thermodynamics - I
+Definitions of systems and surroundings: Thermodynamic systems: Open, Close, isolated,
+state of a system;, state function; Variables: Intensive, Extensive properties.
+Thermodynamic process: Cyclic, reversible, irreversible, isothermal, adiabatic, isochoric,
+isobaric. Concept of heat, work, energy, internal energy. Concept of thermal equilibrium and
+Zeroth law of thermodynamics, Graphical explanation of work done during expansion and
+compression of an ideal gas.
+First law of Thermodynamics. Concept of enthalpy and as a state function: Heat change at
+constant volume and constant pressure, relation between C &C using ideal gas and van der
+p v
+Waals equations.
+Second law of thermodynamics.Concept of entropy, Gibb’s free energy, Helmholtz’s free
+energy.Carnot’s cycle.
+References
+1. J. D. Lee, Concise Inorganic Chemistry, 4th Ed., ELBS, 1991
+2. G. L. Miessler, D. A. Tarr, Inorganic Chemistry, 3rd Edition, Pearson, Delhi, india.
+3. R. L. Dutta, Elementary Inorganic Chemistry, 5th Ed. The New Book Stall, Calcutta.
+4. R. Sarkar, General Chemistry Part-I and Part-II, New Central Book Agency (P) Ltd.
+5. A. K. Das, Fundamental Concepts of Inorganic Chemistry Part-I and Part-II, CBS
+Publishers & Distributors, New Delhi.
+6. J. H. Huheey, E. A. Keiter, R. L. Keiter, O. K. Medhi, Inorganic Chemistry: Principle
+of structure and reactivity, 4th Ed., Pearson, New Delhi.
+7. Shriver & Atkins, Inorganic Chemistry, 4th Ed., Oxford University Press, Delhi
+8. T. W. Graham Solomon, C. B. Fryhle, Organic Chemistry, John-Wiley and Sons
+9. J. March, Advanced Organic Chemistry: Reactions Mechanism and Structure John-
+Wiley and Sons.
+10. Finar I. L., ‘Organic Chemistry’ volume 1, Longman, London.
+11. E. L. Eliel, ‘Stereochemistry of carbon compounds,; Tata-McGraw Hill.
+12. Peter Sykes, ‘ A guide Book to Mechanism in Organic Chemistry,’ Longman.
+13. P.S.Kalsi, ‘Organic Reactions, Stereochemistry and Mechanism,’ New age International
+Ltd.
+14. D. Nasipuri, Stereochemistry of Organic Compounds, New age International
+15. G.M. Barrow, ‘Physical Chemistry’ 5th ed. Tata Mc.Grow Hill, New Delhi, 1992
+16. P.W Atkins, Physical Chemistry, 7th ed. Oxford University press 2006
+17. G.W Castellan, ‘Physical Chemistry’ 4th ed. McGrow Hill 1999
+
+--- Page 17 ---
+MATHEMATICS-II
+Calculus
+Differential Calculus:
+Revision of basic Calculus, Sequence and series: Limit of sequence. Convergent and non
+convergent Cauchy sequence, Convergence of infinite series. Statement and use of different
+tests for convergence of series of non-negative terms.
+Functions of several variables -1
+Limits and continuity (definition and examples only).
+Partial derivative. Composite function. Implicit function. Total differentials, Statement of
+Schwartz’s and Young’s theorem on commutative property of mixed derivative. Euler’s
+theorem of homogeneous functions of two variables. Statement of Taylor’s theorem for
+functions of two variables.
+Functions of several variables-2:
+Jacobian, maxima, minima, saddle points of functions of two points (examples only);
+Application of partial differenciation, Jacobians.
+Application :
+Tangent normal sub tangent and sub normal. Length of tangent and normal. Angle between
+radius vector and tangent. Length of arc and its derivative. Differential of are length in polar
+form. Curvature. Radius of curvature. Cartesian and polar curve. Newtonian method to find
+radius of curvature at the origin. Centre and circle of Curvature. Evolute, Envelopes. Curve
+tracing,Rectilinear asymptote for Cartesian and polar curve,Concavity, Convexity, Singular
+points. Nodes. Cusp, points of inflexion, simple problems on species of cusps of a curve
+(Cartesian curves only). Familiarity with the figure of the following curves: Periodic curves
+with suitable scaling, cycloid, catenary, lemniscape of Bernoulli, Astroid, Cardiode, Folium
+of Descartes, equiangular spiral. Area enclosed by a curve, determination of C.G., moments
+and products of inertia( Simple problems only).
+Integral Calculus:
+Definite integral as limit of the sum. Geometric interpretation of definite integral.
+Fundamental theorem of integral calculus. Properties of definite integral. Evaluation of
+definite integral.Definition of improper integrals, example. Definition and simple properties
+of beta & Gamma functions & their uses (convergence and important relations being
+assumed) Areas of Plane curves(Quadrature), Rectification of plane curves. Volume and
+surface area of solid formed by revolution of plane curves and areas about x-axis and y-axis,
+Working knowledge of double and triple integrals, change of order of integration,
+
+--- Page 18 ---
+Differentiability and integrability of an integral of a function of a parameter. Differentiability
+under the sign of integration, statements of necessary theorems. Centroid. Centroid of arc,
+plane area, volume and surface area of revolution.
+References:
+1. Advanced Calculus-David Widder(Prentice Hall)
+2. 2. Differential and Integral Calculus(Vol-I and II)-Courant and John
+Basic Environmental and Atmospheric Science
+Introduction To Environmental Sciences
+Introduction to the Environment. Acquisition, transformation and utilization of energy: the
+geochemical, biogeochemical and hydrological cycles. Concept of ecosystem.
+Biodiversity. Problems and issues in biodiversity and forestry. Conservation and utilization
+of biodiversity. Global warming and climate change. Recent records of climate change.
+Impact of climate change on Indian environment. Measures to cope with climate change.
+Mineral and energy resources. Impact of mining and other human activities on the
+environment.
+Environmental impact assessment and environmental audit: an introduction. Environmental
+policy matters and law.
+Suggested readings:
+1. Anjaneyulu. Y, 2004, Introduction to Environmental Science. B. S. Publications.
+th
+2. D. Daniel Chiras, 2001, Environmental Science, 6 Ed., Jones and Bartlett Publishers.
+3. De, A. K., Environmental chemistry, 5th Ed., 2005, New Age International (P) Ltd.,
+New Delhi.
+4. Subramanian. V, 2002, A text book in Environmental Science, Narosa Publishing
+House, New Delhi.
+th
+5. Wright. R.T, and Nebel. B. J, 2004, Environmental Science, 8 Ed. Prentice Hall
+India Ltd.
+Environmental Pollution And Health
+Air pollution: Composition of pollutants and sources. Disease associated with their
+Pollutants. Air quality monitoring, National and international standards for monitoring air
+quality. Quality of indoor air and its effect on health. Ventilation: standards, methods and
+health hazards. Analysis of gas effluents, SO , NO ,CO etc.
+2 x 2
+Water Pollution: Sources and types of water pollutants; Ground water and surface water
+pollution;
+
+--- Page 19 ---
+Sampling and analysis and measurement of water; Water quality standards; Effects on aquatic
+ecosystem, Heavy metal (Arsenic, Cadmium, Lead, Mercury, fluoride, nitrate) analysis with
+respect to health significance. Disease related to these pollutants. Measurement of DO, BOD
+and COD.
+Soil Pollution: Introduction, Major routes of soil pollution. Some important pollutants in
+soil. Diseases related to soil pollution.
+Noise pollution: Sound wave ants its characteristics: Hearing of sound. Measurement of
+noise level, Noise levels at different sources, Effects of noise on human health.
+Industrial Pollution: Introduction, characterization of industrial wastes present in Effluents,
+Types of industrial wastes in Effluents, Treatment and disposal of industrial Effluents.
+Radiation Pollution: Introduction, Nature of radioactive Emission, Units for measurement
+of radioactivity and radiation. Effects of radiation on Human Health. Radioactive Fallout.
+Pollution from Agriculture – Pesticides and Fertilisers: General aspects and
+classification. Major disasters from pesticides and herbicides, Fertilizers and environmental
+hazards from fertilizers.
+Pollution control in India: Government obligation, mechanism and legislation in the
+context of public health.
+Suggested readings:
+1. Asim K. Das, Environmental Chemistry with Green Chemistry, Books and allied (P) Ltd.
+2. Leslie collier, Balows Albert and Sussman Max, Topley and Wilson’s Microbiology and
+Microbial infections. Oxford University Press.
+rd
+3. Murray J.F. and Nadel. J.A., 2000, Text book of respiratory medicine, 3 Edn., W.B.
+Saunders & Co.
+4. Park. J.E. and Park. K., 1994, Text book of preventive and social medicine, Banarsi Das
+& Bhanot, Jabalpur.
+Green Chemistry:
+Introduction, Principle and Concepts of Green Chemistry [10 L]
+What is green Chemistry? Need for green chemistry; inception and evolution of green
+chemistry; twelve principles of green chemistry with their explanations and examples;
+designing a green synthesis using these principles; green chemistry in day to day life.
+Suggested Books and References:
+1. Green Chemistry, theory and practice. Paul T. Anastas and John C. Warner.
+2. Asim K. Das, Environmental Chemistry with Green Chemistry, Books and allied (P)
+Ltd.
+3. Organic Synthesis in Water, Paul A. Grieco Blackie.
+
+--- Page 20 ---
+PHYSICS LAB-II
+Experiment 1: Determination of damping constant of the Pohl’s pendulum for
+different eddy damping current. Estimation of the natural frequency of the Pohl’s
+pendulum.
+Experiment 2: Determination of the co-efficient of viscosity of a liquid from its
+rate of flow through a capillary tube.
+Experiment 3: To construct a one ohm coil.
+Experiment 4: Determination of the frequency of a tuning fork by Melde’s
+Apparatus.
+Experiment 5: Determination of Acceleration due to Gravity (g) by a Kater’s
+pendulum.
+Experiment 6: Determination of moment of inertia of a body about an axis
+passing through its centre of gravity and perpendicular to its length.
+Experiment 7: Measuring unknown wavelength of a laser with a diffraction
+grating.
+CHEMISTRY LAB-II
+1. To determine the viscosity of aqueous solution of ethanol/glycerol/amyl alcohol.
+2. To determine the surface tension of a given solution of aqueous solutions of
+NaCl/acetic acid.
+3. Verification of Lambert-Beer’s law
+4. To determine the specific reaction rate constant of the acid catalyzed hydrolysis of
+methyl acetate/ethyl acetate at room temperature.
+5. Determination of Fe(II), Fe(III), Cu(II), Ca( II), Mg(II),
+Zn(II) and Cl– in their respective compounds volumetrically through redox, precipitation
+and complexometric titrations.
+6. Determination of hardness of water.
+7. Determination of functional groups in organic conpounds.
+References
+1. Vogel’s Textbook of Qualitative Inorganic Analysis, 5th Ed., ELBS with
+Longman.
+2. W.G. Palmer, Experimental Inorganic chemistry, Cambridge University
+Press (1962)
+SEMESTER-III
+Ordinary Differential Equation
+Differential equation, Significance of ordinary differential equation. Geometrical and
+physical consideration. ODE of first order and first degree. Statement of existence theorem.
+
+--- Page 21 ---
+Variable separation method. Homogeneous and exact differential equations. Condition of
+exactness. Integrating factor. Rules of finding integrating factor.Non-exact differential
+equations reducible to exact form. Exactness in second order, Linear differential equation and
+equations reducible to the linear form. Bernoulli’s equation. First order higher degree
+equations solvable for x, y, p. Clairaut’s form and singular solutions, Linear differential
+equations with constant coefficients. Homogeneous and non-homogeneous linear ordinary
+differential equations. Linear differential equations of higher order. Complementary function.
+Method of Undetermined Coefficients. Symbolic operator D.
+Second order linear equations with variable co-efficients. Reduction of order when one
+solution of the homogeneous part is known. Complete solution, Method of variation of
+parameter. Reduction to normal form, Change of independent variable, Transformation of the
+equation by changing the dependent variables / the independent variable, Method of variation
+of parameters. Ordinary simultaneous differentia equations with constant coefficients, Higher
+order ordinary differential equations with variable coefficients reducible to known forms,
+Wronskian, Normal form of the equation of the second order. Simple eigen value problems,
+Application of ODE of first order and first degree. Orthogonal trajectories. Electric circuit.
+Mechanical system. Applications of higher order linear differential equations. Simple
+harmonic motion. Simple pendulum. Oscillation of Spring. Deflection of Beam, Ordinary and
+regular point. Series solution of ordinary differential equations, Series solution of differential
+equation
+References:
+1. Integral Calculus-Das and Mukherjee, U.N.Dhur and Sons
+2. Integral Calculus-Maity and Ghosh, New Central Book Agency
+Abstract Algebra-I
+Groups, Subgroups, Centralizers, Normalizers, Stabilizers, Kernels, Cyclic groups,
+Subgroups generated by a subset of a group, Quotient groups, Lagrange’s theorem,
+Homomorphisms, Isomorphism theorems, Composition series, Solvable groups, Nilpotent
+groups, Symmetric group, Alternating group, Group actions, Permutation representations,
+Automorphisms, p-groups, The Sylow theorems, Simplicity of the Alternating group, Direct
+products of groups, Fundamental theorem of finitely generated abelian groups, Groups of
+small orders, Rings, Ring homomorphisms, Ideals, Ring of fractions, The Chinese remainder
+theorem, Euclidean domains, Principal domains, Unique factorization domains, Matrix rings,
+Polynomial rings, Irreducible Criteria, Eisenstein’s criterion.
+Essential Reading:
+1. D. S. Dummit & R. M. Footee, Abstract Algebra, Wiley, 2008
+Supplementary Reading :
+1. N. Herstien, Topics in Algebra, Wiley, 2008
+2. J. J. Rotman, An Introduction to the Theory of Groups, Springer, 1999.
+Probability & Statistics
+Probability:
+Frequency and Axiomatic definition of probability, Random Variable, Probability
+distribution function, discrete and continuous random variable, probability mass function,
+probability density function, Binomial, Poisson, Beta, Gama, Uniform and normal
+distribution. Poisson process. Transformation of random variables, Transformation of one
+
+--- Page 22 ---
+dimensional random variable(simple applications), Two dimensional probability distributions,
+discrete and continuous distribution in two dimensions, Uniform distribution and two
+dimensional normal distribution. Conditional distribution. Transformation of random
+variables in two dimensions, Mathematical expectation, mean, variance(simple problems),
+moments, central moments, measures of location, dispersion, skewness and kurtosis, median,
+mode, quartiles,Moment generating function, characteristic function, statement of their
+uniqeness, Two dimensional expectation, covariance, correlation co-eficient, joint
+characteristic function, multiplication rule for expectation, conditional expectation.
+Regression curves, least squre regression lines and parabolas,Chi-squre and t-distribution and
+their important properties. Tchebychev’s inequality,Convergence in probability, Bernoulli’s
+limit theorem, Law of large numbers, Poisson’s approximation to binomial distribution and
+normal approximation to binomial distribution. Statement of central limit theorem in case of
+equal components.
+Statistics:
+Random sample, concept of sampling and various types of sampling, sample and population.
+Collection, tabulation and graghical representation, grouping of data, sample characteristic
+and their computation, sampling distribution of statistic, Estimates of population
+characteristic or parameter, point estimation and interval, estimation, criterion of a good point
+estimate, maximum likelihood estimate. Interval estimation of population proportion, interval
+estimation of a Normal population parameters, estimate of population parameters with large
+sample when distribution of
+the population is unknown, Testing of Hypothesis, null hypothesis and alternative hypothesis.
+Type one and type two error, testing of hypothesis for a population proportion and Normal
+population parameters and large sample test for population with unknown distribution, Chi-
+square test of goodness of fit.
+References:
+1. Ground Work of Mathematical Probability and Statistics-Amritabha Gupta, Academic Pub.
+2. Mathematical Statistics-Gupta and Kapur-Sultan Chand.
+3. Statistical Methods,Vill-I and II-N.G.Das
+4. Linear Programming Problem- Chakroborty and Ghosh-U.N.Dhur and Sons
+5. Operations Research-Kantiswarup et. al, Sultan Chand and Sons.
+6. An Introduction to Linear Programming and Game theory-S.Vajda
+7.B.R.Bhat – Modern Probability Theory
+8. K.L.Chug – Elementary Probability Theory & Stochastic Processes
+9. Hoel , Port and Stone – Introduction to Stochastic Processes
+10. J.Lamperti-Stochastic Processes
+11. S.K.Srinivasan and K.M.Mehta- Stochastic Processes
+Programming
+PROGRAMMING IN C : review of basic concepts of C-programming, Further Data Types,
+Structures, Defining New Data Types, Unions, Coercion or Type-Casting, types, static,
+pointers, pointer and functions, pointers and arrays, arrays of pointers, multidimensional,
+arrays and pointers, Static Initialization of Pointer Arrays, Pointers and Structures, Common
+Pointer Pitfalls, exercise,The C Preprocessor :#define, #undef, #include, #if -- Conditional
+inclusion, Preprocessor Compiler Control, Other Preprocessor Commands. Input and Output
+
+--- Page 23 ---
+(I/O): stdio.h, Reporting Errors, perror( ), errno, exit( ), Streams, Predefined Streams,
+Redirection, Basic I/O, Formatted I/O, Printf, scanf, Files, Reading and writing files, sprintf
+and sscanf, Stream, status Enquiries, Low Level I/O, Exercises.
+MATLAB 7 : Basic Features: Simple Math, The Matlab workspace about variables, complex
+number, floating point arithmetic, Mathematical functions. Script M files: Use, Block
+comments and code cells, startup and finish. Array and Array operations: Simple array, Array
+addressing or indexing, Array construction, Array orientation, Scalar Array Mathematics,
+array Manipulation, Array sorting, Sub array searching, Array size, Array and Memory
+utilization, Multidimensional Array construction & its manipulation. Numeric data type:
+Integer data type, floating point data types.
+Cell Arrays and structures: Cell array creation, its manipulation, Retrieving cell array content,
+comma separated list, cell functions, cell array of strings, structure creation, structure
+manipulation, structure functions. Character string: String construction, string evaluation,
+string functions, cell array of strings. Relational and logical operations: Relational and
+logical operators, Relational and logical functions, Nans and empty, operator precedence.
+Control flow: For loops, while loops, if else end construction, switch case construction, Try
+catch blocks.
+References:
+1. V.Rajaraman, Computer Progmamming in C, Prentice Hall, India,1994
+2. B.Kernighan and D.Ritchie: The C Programming Language Prentice Hall, India,1995
+Programming Lab
+Working with matrix: Generating matrix, Concatenation, Deleting rows and
+columns. Symmetric matrix, matrix multiplication, Test the matrix for singularity,
+magic matrix. Matrix analysis using function: norm, normest, rank, det, trace, null,
+orth ,rref, subspace, inv, expm, logm, sqrtm, funm.
+Array: Addition, Subtraction, Element-by-element multiplication, Element-by-
+element division, Element-by-element left division, Element-by-element power.
+Multidimensional Arrays, Cell Arrays, Characters and Text in array,
+Graph Plotting: Plotting Process, Creating a Graph, Graph Components, Figure
+Tools, Arranging Graphs Within a Figure, Choosing a Type of Graph to Plot, Editing
+Plots, Plotting Two Variables with Plotting Tools, Changing the Appearance of Lines
+and Markers, Adding More Data to the Graph, Changing the Type of Graph,
+Modifying the Graph Data Source, Annotating Graphs for Presentation, Exporting the
+Graph.
+Using Basic Plotting Functions: Creating a Plot, Plotting Multiple Data Sets in One
+Graph, Specifying Line Styles and Colors, Plotting Lines and Markers, Graphing
+Imaginary and Complex Data, Adding Plots to an Existing Graph, Figure Windows,
+Displaying Multiple Plots in One Figure, Controlling the Axes , Adding Axis Labels
+and Titles, Saving Figures.
+Programming: Conditional Control – if, else, switch, Loop Control – for, while,
+continue, break, Error Control – try, catch, Program Termination – return.
+
+--- Page 24 ---
+Scripts and Functions: Scripts, Functions, Types of Functions, Global Variables,
+Passing String Arguments to Functions, The eval Function, Function Handles,
+Function Functions, Vectorization, Preallocation.
+Data Analysis: (i) Preprocessing Data : Loading the Data, Missing Data, Outliers,
+Smoothing and Filtering, (ii)Summarizing Data: Measures of Location, Measures of
+Scale, Shape of a Distribution, (iii) Visualizing Data: 2-D Scatter Plots, 3-D Scatter
+Plots, Scatter Plot Arrays, Exploring Data in Graphs, (iv) Modeling Data: Polynomial
+Regression, General Linear Regression,
+Linear Algebra: Systems of Linear Equations, Inverses and Determinants,
+Factorizations, Powers and Exponentials, Eigenvalues, Singular Values.
+Polynomials: Polynomial functions in the MATLAB® environment, Representing
+Polynomials, Evaluating Polynomials, Roots , Derivatives, Convolution, Partial
+Fraction Expansions, Polynomial Curve Fitting, Characteristic Polynomials.
+Statistics Lab
+Computational works are to be done on the following topics.
+1. Calculation of A.M., G.M., H.M., median and mode
+2. Calculation of quartiles, deciles and percentiles
+3. Calculation of range, quartile deviation, mean deviation, standard deviation and root mean
+square deviations
+4. Calculation of central moments from raw moments, calculation of skewness and kurtosis
+5. Calculation of raw moments from central moments, calculation of moments about one
+point from moments about another point
+6. Flitting of binomial distribution
+7. Flitting of Poisson distribution
+8. Flitting of normal distribution
+9. Tasting of hypothesis based on normal distribution
+10. Tests based on chi-square distribution
+11. Tests based on t-distribution
+12. Tests based on F-distribution
+SEMESTER-IV
+Real Analysis
+The real number system : Elementary logic, The field axioms, the axiom of order,
+geometric representation of real numbers.
+Metric sets and limits : Metric sets, Interior points and boundary points of a set, open sets
+and closed sets, limit point of a set, sequences, monotonic sequences, Cauchy sequences,
+limit of a function.
+Continuity and Differentiability: Continuous functions, uniform continuity, mean value
+theorem for derivatives, the total differential, the directional derivative.
+Integration : Step functions, upper and lower integral of a bounded function, integral of a
+bounded function, interchange of limits, the fundamental theorem of differential and integral
+calculus.
+Essential Reading :
+1. J.M. Howie, A First Course in Real Analysis, Springer, 2001
+
+--- Page 25 ---
+Linear Algebra
+Vector spaces, Bases and dimensions, Change of bases and change of coordinates, Sums and
+direct sums, Spanning sums and independence, The dimension of a vector space, The
+complexification of a real vector space, Quotient spaces. Linear transformations, The kernel
+and image of a linear transformation, The rank and nullity theorem, Change of bases for
+linear transformations, Linear functionals, Representation of linear transformations by
+matrices, Dual spaces, Second dual, Reflexive spaces, Invariant subspaces, Direct-sum
+decomposition, Cyclic subspaces and Annihilators, The minimal polynomial, The rational
+and Jordan canonical forms, Inner product spaces, Orthonormal bases, Gram-Schmidt process.
+Adjoint operators, Normal, unitary, and self-adjoint operators, Spectral theorem for normal
+operators.
+Essential Reading:
+1. K. Hoffman and R. Kunze, Linear Algebra, PHI, 1971
+2. S. Roman, Advanced Linear Algebra, Springer, 2007
+Partial Differential Equation
+Origin of first order partial differential equations, Cauchy’s problem, Linear equations,
+Integral surfaces passing through a given curve, Surfaces orthogonal to a given system of
+surfaces, Nonlinear partial differential equations of the first-order, Cauchy’s method of
+characteristics, Compatible systems of first-order equations, Charpit’s method, Special types
+of first-order equations, Solutions satisfying given conditions, Jacobi’s method, Origin of
+second order partial differential equations , Second and higher order equations in physics,
+Linear partial differential equations with constant coefficients, Equations with variable
+coefficients, Characteristic curves of second-order equations, Characteristics of equations in
+three variables, Solution of linear hyperbolic equations, Separations of variables, Integral
+transforms method, Nonlinear equations of second-order. Laplace’s equation: The occurrence
+of Laplace’s equation in physics, Elementary solutions of Laplace’s equations, Family of
+equipotential surfaces, Boundary value problem, Problems with axial symmetry, Kelvin
+inversion theorems , theory of green's function for Laplace equation.
+Essential Reading:
+1. N. Sneddon: Elements of Partial Differential Equations, Dover, 2006
+Numerical Analysis
+Definition and sources of errors, Propagation of errors, Backward error analysis, Sensitivity
+and conditioning, Stability and accuracy, Floating-point arithmetic and rounding errors.
+Nonlinear equations, Bisection method, Newton's method and its variants, Fixed point
+iterations, Convergence analysis. Newton's method for non-linear systems. Finite differences,
+Polynomial interpolation, Hermite interpolation, Spline interpolation, B-splines. Numerical
+integration, Trapezoidal and Simpson's rules, Newton-Cotes formula, Gaussian quadrature,
+Richardson Extrapolation IVP: Taylor series method, Euler and modified Euler methods,
+Runge-Kutta methods, Multistep methods, Predictor-Corrector method Accuracy and
+stability, Finite Element method. Finite Difference Method
+
+--- Page 26 ---
+Essential Reading:
+1. S. D. Conte and Carl de Boor, Elementary Numerical Analysis - An Algorithmic Approach,
+3rd Edition, McGraw Hill, 1980.
+Supplementary Reading:
+1. K. E. Atkinson, Introduction to Numerical Analysis, 2nd Edition, John Wiley, 1989.
+Data Structure & Algorithm
+Data structure: Asymptotic notations- o, O, θ, Θ, ω, Ω and their properties. Arrays, stacks,
+queues. Linked list. Trees. Binary trees. Evaluation of expression. Addition of polynomial
+using linked list and other examples. M-way search tree. B-tree (concept only). Analysis of
+algorithms.
+Searching: Linear and binary and their analysis.
+Sorting: Quick, heap and merge sorts and their analysis.
+Algorithms design techniques: Divide-and-conquer method. Greedy method. Dynamics
+programming technique. Branch-and-bound method. Examples.Representation of graph in a
+computer. Graph searching. Binary tree traversals. Spanning tree. Shortest path problem. NP-
+Completeness.
+Numerical Methods Lab
+Experiments to be handled using computer
+1. Bisection Method
+2. Method of false position and secant method
+3. Newton-Raphson method
+4. Method of successive approximation
+5. Gaussian elimination method
+6. Gauss-Seidel iterative method
+7. Inversion of a matrix
+8. Eigen values and eigen vectors
+9. Lagrange’s interpolation
+10. Newton’s forward and backward interpolation
+11. Everette’s formula
+12. Numerical differentiation
+13. Trapezoidal rule of integration
+14. Simpson’s one-third rule
+15. Simpson’s three-eighth rule
+16. Euler’s method
+17. Improved Euler’s method
+18. Runge-Kutta second and fourth order methods
+19. Predictor-corrector methods
+20. Taylor series method
+21.Finite Element Problem
+22. Finite Difference Problem
+
+--- Page 27 ---
+SEMESTER-V
+Linear Programming and Game Theory
+Linear Programming :
+Lines and hyperplanes, convex sets, convex hull and their properties - Formulation of a
+Linear Programming Problem - Theorems dealing with vertices of feasible regions and
+optimality - Graphical solution - Simplex method ( including Big M method and two phase
+method); infeasible and unbounded LPP's, alternate optima - Dual problem and duality
+theorems - Dual simplex method and its application in post optimality analysis - Revised
+simplex method - Sensitivity analysis - parametric programming .
+Transportation problem: Introduction - existence of solution - degeneracy - MODI method
+(including the theory) - Assignment problem - Hungarian method for solving assignment
+problems - travelling salesman problem.
+Theory of Games:
+Introduction – Minimax (maximin) – Criterion and optimal strategy – Solution of games
+with saddle points – Rectangular games without saddle points – 2 X 2 games – dominance
+principle – m X 2 & 2 X n games –graphical method.
+Essential Reading :
+1. H.A.Taha, An Introduction to Operations Research , PHI
+Supplementary Reading:
+1. Kambo, Mathematical Progamming Techniques, East-West Publi., Delhi
+2. Kanti Swarup et. al., Operations Research, Sultan Chand and Co.,
+3. S.D.Sharma , Operations Research, Kedarnath.
+4. J.K.Sharma, Operation Research, MacMilan.
+5. Hiller and Libermann, Introduction to Operation Research, TMH.
+6. Wayne L.Winston, Operation Research, Thomson BrooCole.
+Statics and Dynamics
+Statics:
+Reduction of a system of coplanar forces. Stability of equilibrium, energy test of stability,
+Principle of Virtual Work, Deduction of conditions of equilibrium of a particle under
+coplanar forces from the principle of virtual work, converse of the principle of virtual work,
+Common catenary and catenary of uniform strength. Forces in three dimension, Poinsot’s
+central axis and its equation, wrenches.
+Dynamics-I:
+Simple Harmonic Motion, damped vibrations, forced vibration, damped forced oscillations,
+elastic string, Hook’s law, Tangent and normal acceleration. Velocity and acceleration along
+radial and transverse directions, Central orbits, central forces, motion of a particle under
+central force. Differential equation in polar and pedal coordinates, velocity under central
+force. Apse, apsidal distance and apsidal angle.
+Dynamics-II:
+Kepler’s laws of planetary motion, artificial satellites, Escape velocity, Geo stationary satelite
+Disturbed orbits, Motion in resisting medium. Motion of particle of varying mass, Motion of
+a particle in three dimensions. Accelerations in terms of different coordinates, Moment
+
+--- Page 28 ---
+Ellipsoid, equimomental system, principle axis. D’Alemberts principle, D’Alembert’s
+equation of motion, principles of conservation of linear and angular momentum.
+Independence of the motion of center of inertia and the motion relative to the center of inertia.
+Principle of conservation of energy, Equation of motion of a rigid body about a fixed axis,
+expression for kinetic energy and moment of momentum of a rigid body moving about a
+fixed axis. Compound pendulum, interchangeability of the point of suspension and the point
+of oscillation, simple equivalent pendulum, Equation of motion of a rigid body moving in two
+dimension, expression for kinetic energy and the angular momentum about the origin of a
+rigid body moving in two dimension. Equation of motion under impulsive forces.
+Refernces:
+1. Numerical Analysis-S.A.Mollah, New Central Book Agency.
+2. Dynamics of a Particle and of Rigid Bodies-S.L.Lony, Radha Publishing House.
+3. Dynamics of Particle and Rigid Bodies-Chakroborty and Ghosh-U.N.Dhur and Sons.
+4. A text book on statics-M.Ray-S.Chand
+5. Dynamics of a Particle and of Rigid Bodies-S.L.Lony,Radha Publishing House.
+6. Dynamics of Particle and Rigid Bodies-Chakroborty and Ghosh-U.N.Dhur and Sons
+Integral Transforms & Applications
+Fourier transforms, Fourier cosine transforms, Fourier sine transforms, Fourier transforms of
+derivative, Parseval’s theorem for cosine and sine transforms. Multiple Fourier transforms,
+inversion theorem for Fourier transform, inverse Fourier sine transform, inverse, Fourier
+cosine transform, Inverse Fourier complex transformation, Convolution theorem,
+relationship between Fourier and Laplace transforms.
+Applications of Fourier transforms, Complex inversion formula for Laplace transform,
+solution of boundary value problems by Laplace and Fourier transforms.
+Mellin transforms, elementary properties, Melline transforms of derivative and integral,
+Melline inversion theorem, convolution theorem. Applications of Mellin
+transforms,summation of series
+Hankel transforms, elementary properties of Hankel transforms, Hankel inversion theorem,
+Hankel transforms of derivatives of functions, Hankel ransformation of elementary functions,
+Parseval’s relation for Hankel transforms, relation between Fourier and Hankel transforms.
+Applications of Hankel transforms , solution of partial differential equation.
+References:
+1. I.N.Sneddon, The Use of Integral Transforms, Tata McGrawHill
+2. B.P.Parasar, Differential equation and integral equation, SBS Publications
+3. Petrovsky, Integral Equation, Mir Publication
+4. G.Yankovsky, Problems and exercise in Integral Equation, Mir Publication
+5. R.R.Goldberg, Fourier Transform, Cambridge Univ. Press.
+Fuzzy Set, Rough Sets & Application
+Fuzzy sets: Characteristics function and definition of fuzzy sets, fuzzy point,  - level
+sets, convex fuzzy sets, basic operations on fuzzy sets. Cartesian products, algebraic
+products, bounded sum and difference,
+t-norms and t-co norms, quasi-coincidence of two fuzzy subsets. Fuzzy numbers,
+triangular fuzzy numbers
+
+--- Page 29 ---
+Generalization and variants of fuzzy sets : L-fuzzy sets, interval-valued fuzzy sets,
+Type 2 fuzzy sets, intuitionistic fuzzy sets and set operation of intuitionistic fuzzy sets,
+The Zadeh’s extension principle.
+Fuzzy relations and functions: Fuzzy relations on fuzzy sets, composition of fuzzy
+relations, Max-Min and Min-Max compositions, basic properties of fuzzy relations,
+Fuzzy pre order and fuzzy order relations, fuzzy equivalence relation, fuzzy
+compatibility relations, fuzzy graphs, fuzzy similarity relations, examples of different
+fuzzy relations, fuzzy relation equations based on sup-i and inf- compositions.
+i
+Fuzzy functions on fuzzy sets, image and inverse image of fuzzy sets and some basic
+theorem on fuzzy functions.
+Fuzzy matrix: Sum, multiplication of two fuzzy matrices, Idempotent fuzzy matrix
+and their problems.
+Introduction to soft sets, rough sets and its application.
+Fuzzy Optimization :
+Linear Programming Problems with Fuzzy Recourses:
+(i) Vendegay’s approach
+(ii) Werner’s approach
+L.P.P. with fuzzy resources and objective :
+Zimmermann’s approach , L.P.P. with fuzzy parameters in the objective function .
+Fuzzy multi-objective Linear Programming Problem . Methodologies of solving fuzzy
+M.O.L.P .
+Lab Work on Data Structure & Algorithm
+Implementation of different abstract data structures in C, with implementations using
+different methods and performance comparisons among them wherever possible. Use of data
+structures for solving simple problems.
+SEMESTER-VI
+Complex Analysis
+Complex numbers: The complex Plane. Functions of a complex variable. Limit. Continuity.
+Differentiability. The definition of an analytic function. Cauchy-Riemann differential
+equation. Construction of analytic function.
+Complex integration: Jardan arc. Contour . Rectifiable arcs. The absoluate value of complex
+integral. Cauchy’s theorem. Cauch’s integral formula. The derivatives of an analytic function.
+Cauch’s inequality. Morer’s theorem. Liouville’s theorem. Taylor’s and Laurent’s series.
+Maximum modulus principle.
+Singularities: Zero of an analytic function. Different types of singularities. Poles, Isolated,
+Removal and Essential singularities.
+Residues: Residue at pole, Residue at infinity, Cauchys residue theorem, Number of poles
+and zeros of an analytic function, Rouche’s theorem.
+Contour integration: Evaluation of integrals using contour integration.
+Conformal representation: Conformal transformation, Mobius transformation or Bilinear
+transformation. Mapping properties of important functions.
+
+--- Page 30 ---
+Discrete Mathematics
+Functions and matrices: Special functions, Properties of functions, pigeonhole principle,
+Composition of functions.
+Induction and algorithms: The division algorithm, Divisibility properties, Mathematical
+induction, Algorithm correctness, The growth of functions, Complexities of algorithms.
+Recursion: Recursively defined functions, Solving recurrence relations, Generating
+functions, Recursive algorithms, Correctness of recursive algorithms, Complexities of
+recursive algorithms.
+Combinatorics and discrete probability: The fundamental counting principles,The
+generalized inclusion and exclusion principle, Discrete probability.
+Relations: Boolian matrices, Relations and digraphs, Computer representations of relations,
+Properties of relations, Operation on relations, The connectivity relations, Equivalence
+relations, Partial and total orderings.
+Graphs: Computer representation of graphs, Isomorphic graphs, Paths, cycles and circuits,
+Eulerian and Hamiltonian graphs, Planner graphs, graph colouring.
+Trees: Spanning trees, Minimal spanning trees, Rooted trees, Binary trees, Binary search
+trees.
+Boolean algebras and combinatorial circuits: Boolean algebras, Boolean functions, Logic
+gates, Combinatorial circuits, Minimization of combinatorial circuits, Recent developments.
+Essential Reading:
+1. T. Koshy, Discrete Mathematics with Applications, Academic Press (An Imprint of
+Elsevier) First Indian Reprint 2005.
+Supplementary Reading:
+1. R. Johnsonbaugh, Discrete Mathematics, Pearson Prentice Hall, 2008
+Stochastic Processes
+Stochastic Processes: Definition and examples of stochastic processes, Classifications of
+stochastic processes, Markov chains: Definition and examples, Transition Probability
+matrices, Classification of states of a Markov chain, Determination of higher order transition
+probabilities, Stability of a Markov chain, Graph theoretic approach, Markov chains with
+denumerable number of states, Reducible Markov chains, Markov Chains with continuous
+state spaces, Non-homogeneous Markov Chains, Markov chains in continuous time: General
+pure birth and death processes, Birth and death processes with absorbing states, Renewal
+processes: Renewal processes in continuous time, renewal equation, Renewal theorems,
+Residual and excess lifetime, Renewal reward processes, Regenerative renewal processes,
+Regenerative inventory systems, Generalization of the classical renewal theory, Stochastic
+processes in queuing and reliability: General concepts of queuing systems, Steady state and
+transient behavior, Birth and death process in queuing theory, Network of Markovian queuing
+systems, Reliability, Introduction to Brownian motion: Wiener processes, Differential
+equations for a Wiener process, Kalmogrov’s equations, The first passage time distribution
+for a Wiener process. Recent developments.
+Essential Reading :
+1. J. Medhi, Stochastic Processes, New Age Publishers, Second Edition, Reprint 2007.
+
+--- Page 31 ---
+Supplementary Reading :
+1. S. Karlin and H. M. Taylor, A First Course in Stochastic Processes, Academic Press, 1975.
+Object Oriented Programming
+PRINCIPLES OF OBJECT ORIENTED PROGRAMMING:
+A Look at Procedure-Oriented Programming, Object Oriented Programming Paradigm, Basic
+Concepts of Object Oriented Programming, Benefits of OOP, Object Oriented Languages
+TOKENS, EXPRESSIONS AND CONTROL STRUCTURES:
+Tokens, Keywords, Identifiers and Constants, Basic Data Types, User-Defined and
+Derived,Data Types, Type Compatibility, Reference, Variables, Scope Resolution Operator,
+Type Casting, Implicit Conversion, Operator Precedence, Control Structures, Structure,
+Function.
+CLASSES AND OBJECTS:
+Class specification, class objects, accessing class members, data hiding, empty classes,
+pointers within a class, passing objects as arguments, returning objects from functions, friend
+functions and friend classes, constant parameters and member functions, structures and
+classes, static members, objects and memory resource, class design steps.
+OBJECT INITIALIZATION AND CLEANUP:
+Constructors, destructor, constructor overloading, order of construction and destruction,
+constructors with default arguments, nameless objects, dynamic initialization through
+constructors, constructors with dynamic operations, constant objects and constructor, static
+data members with constructors and destructors, nested classes.
+OPERATOR OVERLOADING AND TYPE CONVERSION:
+Defining Operator Overloading, Overloading Unary Operators, Overloading Binary
+Operators, Overloading Binary Operators Using Friends, Manipulation of Strings Using
+Operators, Rules for Overloading Operators, Type Conversions
+INHERITANCE: EXTENDING CLASSES:
+Deriving Derived Classes, Single, Multilevel, Multiple, Hierarchical, Hybrid Inheritance,
+constructors & destructors in derived classes, constructors invocation and data members ,
+initialization, Virtual Base Classes, Abstract Classes, delegation.
+POINTERS, VIRTUAL FUNCTIONS AND POLYMORPHISM:
+Pointers to Objects, this Pointer, Pointers to Derived Classes, Virtual Functions,
+Implementation of run-time polymorphism, Pure Virtual Functions.
+WORKING WITH FILES:
+Classes for File Stream Operations, Opening and Closing a File, File Pointers and their
+Manipulations, Sequential Input and Output Operations, Error Handling During File
+Operations, Command Line Arguments
+GENERIC PROGRAMMING WITH TEMPLATES:
+Class Templates with multiple parameters, Function Templates, Overloading of Template
+Functions, Member Function Templates.
+OBJECT-ORIENTED ANALYSIS AND DESIGN:
+Object-Oriented analysis and design, procedure oriented development tools, prototyping ,
+paradigm
+BOOKS RECOMMENDED
+1. Object Oriented Programming By- Budd, Addison Wesley.
+
+--- Page 32 ---
+2. Mastering C++ By K.R Venugopal , Rajkumar, TMH.
+3. C++ Primer, By - Lip man and Lajole, Addison Wesley.
+4. The C++ Programming language by Bjarne Stroustrup, Addition-Wesley
+5. C++ programming By Robert Leffore
+6. Object Oriented Programming with C++ by Balaguruswamy, TMH
+7. An Introduction to Object Oriented Programming with C++ by Timthy Budd,
+Addition-Wesley
+8. C++ and Object-Oriented Programming By - Kip R. Irvine, Prentice Hall.
+Number theory & Cryptology
+Basis representation: Principles of mathematical induction, The basis representation theorem,
+The fundamental theorem of arithmetic: Euclid’s division lemma, Divisibility, The linear
+Diophantine equation, The fundamental theorem of arithmetic, Combinatorial and
+computational number theory: Fermat’s little theorem, Wilson’s theorem, Generating
+functions, The use of computers in number theory, Fundamentals of congruences: Basic
+properties of congruences, Residue systems, Riffling, Solving congruences: Linear
+congruences, The theorems of Fermat and Wilson revisited, The Chinese remainder theorem,
+Polynomial congruences, Arithmatic functions: Combinatorial study of (cid:0)(n), Formulae for
+d(n) and (cid:0)(n), Multiplicative arithmetic functions, The Mobius inversion formula, Primitive
+roots: Properties of reduced residue systems, Primitive root modulo p.
+Crypotology:
+Introduction : Basic objects of Cryptography, secret-key and public-key cryptography, one-
+way and trapdoor one-way functions, Cryptanalysis, attack models, Classical cryptography.
+Block ciphers : Modes of operation, DES and its variants, RCS, IDEA, SAFER, FEAL,
+BlowFish, AES, linear and differential cryptanalysis.
+Stream ciphers : Stream ciphers based on linear feedback shift registers, SEAL, unconditional
+security,Message digest : Properties of hash function, MD2, MD5 and SHA-1, keyed hash
+function, attack on hash function.
+Public Key Parameters : Modular arithmetic, GCD, Primality testing, Chinese remainder
+theory, Modular square root, finite fields.
+Intractable Problems : Integer fatorisation problem, RSA problem, Modular square root
+problem, discrete logarithm problem, Diffie-Hellman problem, known algorithm for solving
+the Intractable Problems. Public key encryption : RSA, Rabin and EIGamal scemes, side
+channel attacks,Key Exchange : Diffie-Hellman and MQV algorithms.
+Essential Reading
+1. G. E. Andrews, Number Theory, Courier Dover Publications, 1994.
+SEMESTER-VII
+Measure Theory
+Outer measure, Measurable sets and Lebesgue measure, Nonmeasurable sets, Measurable
+functions, Littlewood’s three principles, The Riemann integral, The Lebesgue integral of a
+bounded function over a set of finite measure, The integral of a nonnegative function, The
+general Lebesgue integral, Convergence in measure, Differentiation of monotone functions,
+Functions of bounded variation, Differentiation of an integral, Absolute continuity, Convex
+
+--- Page 33 ---
+functions, The Lp spaces, The Minkowski and Holder inequalities, Convergence and
+completeness, Approximation in Lp, Bounded linear functionals on the Lp spaces.
+Essential Reading
+1. E. D. Benedetto, Real Analysis: Foundations and Applications, Springer, 2002
+2. H. L. Royden, Real Analysis (Third Edition), Macmillan Publishing Company, 1988 3. G.
+De. Barra, Measure Theory and Integration, Horwood Publishing Corporation, 2003.
+Topology
+Topological spaces and continuous functions: Topological spaces, Basis for a topology,
+Order topology, Product topology, Subspace topology, Closed sets and limit points,
+Continuous functions, Homeomorphism, Metric topology, Quotient topology.
+Connectedness and compactness: Hausdorff spaces, Connected spaces, Connected
+subspaces of the real line, Compactness and local connectedness, Compact spaces, Compact
+subspaces of the real line, Limit point compactness, Local compactness.
+Countability and separation axioms: Countability axioms, Separation axioms, Normal
+spaces, Regular spaces, Completely regular spaces, Urysohn lemma, Urysohn metrization
+theorem, Tietze extension lemma.
+The Tychonoff theorem: Compactification, One-point compactification, The Stone-Cech
+compactification, Metrization theorems and paracompactness, Local finiteness.
+Complete metric spaces and function spaces: Compactness in metric spaces, Pointwise and
+compact convergence, Ascoli,s theorem, Baire’s spaces and dimension theory, A nowhere
+differentiable function, Applications of topology in engineering and sciences.
+Essential Reading:
+1. J. R. Munkres: Topology: (Pearson Prentice Hall), 2005.
+Abstract Algebra-II
+Groups, Subgroups, Centralizers, Normalizers, Stabilizers, Kernels, Cyclic groups,
+Subgroups generated by a subset of a group, Quotient groups, Lagrange’s theorem,
+Homomorphisms, Isomorphism theorems, Composition series, Solvable groups, Nilpotent
+groups, Symmetric group, Alternating group, Group actions, Permutation representations,
+Automorphisms, p-groups, The Sylow theorems, Simplicity of the Alternating group, Direct
+products of groups, Fundamental theorem of finitely generated abelian groups, Groups of
+small orders, Rings, Ring homomorphisms, Ideals, Ring of fractions, The Chinese remainder
+theorem, Euclidean domains, Principal domains, Unique factorization domains, Matrix rings,
+Polynomial rings, Irreducible Criteria, Eisenstein’s criterion.
+Essential Reading:
+1. D. S. Dummit & R. M. Footee, Abstract Algebra, Wiley, 2008
+Supplementary Reading :
+1. I. N. Herstien, Topics in Algebra, Wiley, 2008 2. J. J. Rotman, An Introduction to the
+Theory of Groups, Springer, 1999
+
+--- Page 34 ---
+Classical and Continuum Mechanics
+Classical Mechanics
+Generalized co-ordinates, holonomic and non holonomic systems, unilateral and bilateral
+constraints; principle of virtual work, D’Alemberts principle. Variational principle, problems
+of mechanics, moving problems of calculus of variations, shortest distance, minimum surface
+of revolution, Brachistochrone problem iso-perimetric problem, geodesic, fundamental
+lemma of calculus of variations.
+Lagranges equation of first kind and of second kind, uniqueness of solution, Energy equation
+of conservative fields, generalized momentum, problem of Liouville type, cyclic coordinates.
+Hamilton’s principle, principle of least action, Routh’s equation, Hamilton-canonical
+equation of motion, Poisson bracket, Poisson’s identity, Jacobi-Poisson theorem.
+Continuum Mechanics
+Stress : Body force, Surface force, Cauchy’s stress principle. Stress vector, State of stress at a
+point, Stress tensor, The stress vector-stress tensor relationship. Force and moment
+equilibrium, Stress tensor symmetry, Stress quadric of Cauchy, Stress transformation laws,
+Principal stress, Stress invariant, Stress ellipsoid.
+Strain : Deformation Gradients, Displacement Gradient, Deformation tensor, Finite strain
+tensors, Small deformation theory—infinitesimal strain tensor, Relative displacement,Linear
+rotation tensor, Interpretation of the Linear strain tensors, Strain ratio,Finite strain
+interpretation, principal strains, strain invariant, cubical dilatation, Compatibility equation for
+linear strain, Strain energy function. Hook’s Law. Saint Venant’s Principle, Airy’s strain
+function.
+Isotropic media, Elastic constraints, Moduli of elasticity of isotropic bodies and their relations,
+displacement equation of motion. Waves in isotropic elastic media.
+Perfect fluid, Kinematics of fluid, Lagrangian method, Eulerian method, Acceleration,
+Equation of continuity, The boundary surface,Stream lines and Path lines, Irrotational
+motions and its physical interpretation , Velocity potential , Euler’s equation of motion of an
+inviscous fluid, Cauchy integral , Bernouli’s equation , Integration of Euler’s equation.
+References:
+1. D.N.Berghese and A.M.Downs, Classical mechanics and Control, John Willey
+2. Goldstein, Classical Mechanics, Narosa Publications
+3. Rana and Jong, Classical Mechanics, Narosa Publications
+4. E.T.Whittecker, Treatise on the Analytical Dynamics and Rigid Bodies
+5. I.S.Sokolnikoff : Mathematical Theory of Elasticity , Tata Mc. Grawhill , 1997.
+6. S.Valliappan : Continuum Mechanics , Oxford & IBH Publishing C
+Formal Language and Automata Theory
+INTRODUCTION:
+Introduction to language theory, tokens. Alphabets, definition of grammar, Production rules,
+sentences, sentential forms, language definitions, derivations.
+REGULAR LANGUAGES:
+
+--- Page 35 ---
+Definition, Pumping Lemma of regular sets, Chomsky Hierarchy of languages.
+FINITE AUTOMATA:
+Finite automaton, Deterministic, Non-Deterministic and their equivalence, Equivalence of
+regular expressions and FA. Moore and Mealy machines.
+CONTEXT FREE LANGUAGE:
+Relations between classes of languages, Context Free Grammar, Derivation trees, ambiguity
+simplification, Normal forms, applications.
+PUSHDOWN AUTOMATA:
+Pushdown automata, definitions, context free languages, construction of PDA for simple
+CFLs, Linear bounded automata.
+TURING MACHINES:
+Turing machines, Introduction to computability, Universal Turing Machines, Types of Turing
+Machines, Techniques for construction of Turing machines, Undesirability and Halting
+Problem
+BOOKS RECOMMENDED
+1. Introduction To Automata Theory, Languages, And Computation by John E. Hopcroft,
+Rajeev Motwani , Jeffrey D. Ullman, Publisher: Pearson
+2. Z. Kohavi, Switching and Finite Automata Theory, Tata McGraw Hill, 1984.
+3. E.V. Krishnamoorthy , Introductory Theory of Computer Science, Affiliated East West
+SEMESTER-VIII
+Functional Analysis
+Normed spaces, Banach spaces, Further properties of normed spaces, Finite dimensional
+normed spaces and subspaces, Compactness and finite dimension, Bounded and continuous
+linear operators, Linear functionals, Linear operators and functionals on finite dimensional
+spaces, Normed spaces of operators, Dual spaces, Inner product spaces, Hilbert spaces,
+Further properties of inner product spaces, Representation of functionals on Hilbert spaces,
+Hilbert-adjoint operator, Self-adjoint, unitary and normed operators, Fundamental theorems
+for normed and Banach spaces: Zorn’s lemma, Hahn-Banach theorem, Hahn-Banach theorem
+for complex vector spaces and normed spaces, Adjoint operators, Reflexive spaces,
+Topological vector spaces.
+Essential Reading:
+1. Y. Eidelman, V.D. Milman, A. Tsolomitis, Functional Analysis: An Introduction, AMS
+Bookstore, 2004
+2. E. Kreyszig, Introductory Functional Analysis with Applications, Willey, 1978
+Tensor Calculus & Riemanian Geometry
+Tensor Analysis-I:
+Summation Convension, Kronecker symbol. n-dimensional space, transformation of
+coordinates in Sn. Invariants, covariant and contravariant vectors. Covariant, contravariant
+and mixed tensors. Algebra of tensors. Symmetric and skew-symmetric tensors, Contraction,
+outer and inner product of tensors. Quotient law, reciprocal tensor. Riemann space, the line
+element and metric tensor, raising and lowering of indices, associate tensor, magnitude of a
+vector, inclination of two vectors, orthogonal vectors. Christoffel symbols and their
+
+--- Page 36 ---
+properties, law of transformation law of Christoffel symbols,Covariant differentiation of
+tensors, covariant differentiation of sum, difference and product of tensors, Gradient,
+divergence, curl and Laplacian.
+Tensor Analysis-II:
+Curvilinear coordinate system in E3 : line element, lengthy of vector, angle between two
+vectors in E3 in a curvilinear coordinate system. Basis in a curvilinear coordinate system,
+reciprocal base, covariant and contravariant components of a vector in E3, partial derivative
+of a vector. Sperical and cylindrical coordinate system.
+Curves in E3 . Parallel vector fields along a curve in E3, parallel vector field in E3 , parallel
+vector space in a Riemannian space, parallel vector field in a surface of a Riemannian space.
+Serret-Frenet formulas.
+Riemann-Christoffel curvature tensor, Ricci tensor, flate space, Bianchi identities, intrinsic
+differentiation, conformal curvature tensor, space of constant curvature.
+Riemannian Manifold:
+Riemannian metric, existence of Riemannian metric, linear connection , existence of linear
+connection, torsion and curvature of a linear connection, symmetric connection, symmetric
+connection, metric connection, Riemannian connection, existence of Riemannian connection.
+Riemann curvature, sectional curvature, Ricci tensor, scalar curvature, tensors in Riemannian
+manifold, Schur’s theorem.
+Parallel vector field, Geodesics: Existence of geodesic, parallel translation, length
+minimizing property of geodesic. complete manifold, Hopf-Rinow theorem, Hadamard
+theorem. Parametrised surface, Gause lemma. Totally geogesic submanifold.
+Isometric immersion: Riemannian submanifold , second fundamental form of a Riemannian
+submanifold, Gauss equation, Ricci equation, Coddazi equation.
+References:
+1. A Text Book of Tensor Calculus-M.C.Chaki: Calcutta Publishers.
+2. Tensor Calculus-U.C.De, A.A.Shaikh and J. Sengupta-Narosa.
+3. Differentoa Geometry of Curves and Surfaces in E3(Tensor approach)-U.C.De:
+Anamaya Publishers.
+4. Vector Analysis-Maity and Ghosh, New Central Book Agency.
+5. Vector Analysis- Schaum’s series, Tata McGrawHill
+S.Kumeresan, A Course in Differential Geometry and Lie Groups,Hindusthan Book
+Agencies,New Delhi,2002
+6. U.C.De and A.A.Shaikh , Differential Geometry of Manifolds,Narosa Publishing
+House,2007
+7. S.Boothby, An Introduction to Differentiable Manifolds and Riemannian Geometry,
+Accademic Press,1975
+8. F.W.Warner, Foundations of Differentiable Manifolds and Lie Groups, Springer
+Verlag,1983
+Differential Geometry
+Vector Fields: height of the level set, level curves, Integral curve, smooth vector field, The
+tangent Space: tangent to the level set, gradient,
+Surfaces: Hyperplane, Lagrange multiplier, Vector Fields on Surfaces, maximal integral
+curve, orientation and its consistency, Osculating plane, Serret Frenet formula, Singular
+points and their classification Gauss, The Gauss map spherical image, one-sheeted
+hyperboloid,
+
+--- Page 37 ---
+Geodescis: maximal geodesic, great circle, Parallel Transport, covariant derivative and
+acceleration, Fermi derivative, The Weingarten Map: shape operator, geodesic flow,
+Curvature of plane curves: center of curvature, radius of curvature, Isometries, Intrinsic
+differentiation, Gauss-Kronecker curvature, translation, rotation, Funda-mental theorem on
+curves,
+Riemannin metrics: Hyperbolic metric, Stereographic projection, Poincare metric, affine
+and Riemannian connection and covariance derivation, Applications of differential geometry
+in engineering and sciences.
+Essential Reading
+1. J. A. Thorpe, Elementary Topics in Differential Geometry (Springer), 2004.
+Soft Computing
+Soft Computing Techniques
+Neural Networks: Overview of biological Neuro-system,Mathematical models of neurons,
+ANN architecture, Learning rules; Learning paradigms - Supervised, Unsupervised and
+Reinforcement learning; ANN training algorithms - perceptions, Training rules, Delta, Back
+propagation algorithm; Multilayer perceptron model; Applications of artificial neural
+networks; Competitive learning networks; Kohonen self organizing networks; Hebbian
+learning; Hopfield networks; Associative memories; Boltzman machine; Fuzzy Logic:
+Introduction to Fuzzy logic; Classical and Fuzzy sets: Overview of classical sets,
+Membership function, Fuzzy rule generation; Operations on Fuzzy sets: Compliment,
+Intersections, Unions, Combinations of operations, Aggregation operations; Fuzzy arithmetic:
+Fuzzy numbers, Linguistic variables, Arithmetic operations on intervals and numbers, Lattice
+of Fuzzy numbers, Fuzzy equations; Fuzzy logic: Classical logic; Genetic Algorithms;
+Evolution Strategies; Evolutionary Programming; Genetic Programming; Selecting,
+crossover, mutation, schema analysis, analysis of selection; Markov & other stochastic
+models; Simulated Annealing; Tabu Search; Ant Colony based optimization,Partical Swam
+Optimization.
+Project Work / Summer Internship
+Departmental Semenier-I
+SEMESTER-IX
+Integral Equations & Calculus of Variations
+Integral Equation
+Definition, different types of integral equations; kernels; eigen value and eigen function
+problem. Conversion of ordinary differential equations into integral equations, solution of
+integral equation, Green’s function and its applications, Fredholm integral equation of the
+second kind with separable kernels. Solution of Fredholm and Voltera integral equations by
+successive approximation, Classical Fredholm theory: Statements of Fredholm’s first, second
+and third fundamental theorems and their applications. Integral equations with symmetric
+kernels, Singular integral equations, Integral transform method of solution of integral
+equations.
+
+--- Page 38 ---
+Calculus of Variations
+Calculas of Variation: Euler-Lagrange equation, degenerate Euler equation, Natural boundary,
+transversality conditions, simple applications of variational principle, sufficient conditions for
+extremum, variational formulations of boundary value problem, minimum of quadratic
+boundary value problem, minimum of quadratic functional approximate methods-Galerkin’s
+method, variational methods for BVP in ordinary and partial equations.
+References
+2. I.N.Sneddon, The Use of Integral Transforms, Tata McGrawHill
+2. B.P.Parasar, Differential equation and integral equation, SBS Publications
+6. Petrovsky, Integral Equation, Mir Publication
+7. G.Yankovsky, Problems and exercise in Integral Equation, Mir Publication
+8. R.R.Goldberg, Fourier Transform, Cambridge Univ. Press
+9.
+Decision Theory & Computational Statistics
+Decision Theory :
+Games and statistical games , statistical decision problem , decision function , risk function ,
+prior and posterior distribution, Baye’s risk and Baye’s rules , least favorable prior,
+minimaxity ,admissibility and complete classes , admissibility of Baye’s rules , existence of
+minimal complete class and Baye’s rules,the supporting and separating hyperplane theorems ,
+essential completeness of the class of nonrandomized rules, minimax and complete class
+theorems , solving for minimax rules , essential completeness of class of rules based on
+sufficient statistics, continuity of risk function, invariant decision problems , admissible and
+minimax invariant decision rules .
+Computational Statistics
+Analysis of variance , one- way and two – way classification , Concept of design of
+experiment , Some standard design : completely randomized design , randomized block
+design , Latin Squares, Graeco Latin Squares and Factorial Design , Confounding and
+blocking in factorial design , fractional factorial design , Simple and multiple regression
+models . Classical techniques of time series analysis , smoothing and decomposition ,
+Analysis of covariance model
+Theory of operators & Banach Algebra
+Theory of Operators
+Bounded linear operators on Banach and Hilbert spaces , Self – adjoint and normal operators ,
+compact operators , Fredholm alternatives , Eigen – value and eigen – vectors , Spectrum,
+spectral theory , Banach Algebra of bounded linear operators , Unbounded operators ,
+Nonlinear operators, Monotone, Strictly monotone and strongly monotone operators .
+Banach Algebra
+Normed algebra, Banach Algebra , Gelfand – Mazur theorem , spectrum , spectral radius
+formula , commutative Banach algebra , Maximal ideal space , L , as Banach
+1
+algebras
+
+--- Page 39 ---
+Operation Research – I
+Goal Programming : Introduction, Difference between LP & GP approach , Concept of
+Goal Programming , Graphical solution- method of GP , Modified simplex method of GP .
+Dynamic Programming : Introduction , Nature of Dynamic Programming, Deterministic
+processes , Non- Sequential discrete optimization , Allocation problems , Assortment
+Problems , Sequential discrete optimization , Long-term planning problem , Multi-stage
+decision process, Application of Dynamic Programming in production scheduling and routine
+problems .
+Inventory Control : Inventory control – Deterministic including price breaks and Multi-item
+with constraints . Probabilistic ( with and without lead time). Fuzzy and Dynamic inventory
+models .
+Queuing Theory : Basic Structure of queuing models. Poisson queues , M/M/I , M/M/C or
+finite and infinite queue length , Non-Poisson queue- M/G/I , Machine-Maintenance (steady
+state ).
+Network : PERT and CPM : Introduction , Basic difference between PERT and CPM .
+Steps of PERT/CPM Techniques , PERT/ CPM Network Components and precedence
+relationships , Critical path analysis , Probability in PERT analysis , Project Time-Cost ,
+Trade-Off. Updating of the project , Resource allocation – resource smoothing and resource
+leveling .
+Replacement and Maintenance Models : Introduction. Failure Mechanism of items ,
+Replacement of items deteriorates with time , Replacement policy for equipment when value
+of money changes with constant rate during the period. Replacement of items that fail
+completely individual replacement policy and group replacement policy. Other replacement
+problems staffing problem . Equipment renewal problem .
+Simulation : Introduction. Steps of simulation process , Advantages and disadvantages of
+simulation. Stochastic simulation and random numbers . Monte – Carlo simulation . Random
+number . Generation . Simulation of inventory problems , Simulation of Queuing problems ,
+Role of computers in Simulation. Application of Simulations .
+Biomathematics- I
+Chapter : I.
+Qualitative Theory of Linear and non-linear differential equations : Stability of linear system ,
+Stability of linearized system , Stability of non- linear system , limit cycle , P-B theorem and
+its application
+Chapter : II.
+Models of biological oscillators : Goodwin’s model , its stability and oscillations .
+Chapter : III.
+Reaction – diffusion system : Chemotaxis , Developmental pattern formulation and stability
+theory , Belousov – Zhabctinskii reaction , Field – Noyes ( F. N. ) model , Stability and
+oscillation in F.N. model, relaxation oscillator approximation for the Belousov – Zhabotinskii
+reaction and analysis for limit cycle oscillations .
+Chapter : IV.
+Stability of spatially distributed ecosystem :
+Ecological introduction , Diffusion models of spatially distributed communities , occurrence
+of diffusive instability in predator-prey systems . Immigration and Emigrations .
+Chapter : V.
+Continuous population models for single species :
+
+--- Page 40 ---
+Ecological introduction , Simple models including Logistic model of uniform population –
+their stability analysis . Influences of random perturbations on population stability , delay
+models , Lag-factor and stability of population steady state .
+Chapter : VI.
+Continuous models for two interacting populations : Ecological introduction , Lotka –
+Volterra model of predator – prey system , Gausses model ,Kolmogorov model , Types of
+predator trophic function , analysis of predator – prey model with limit cycle periodic
+behavior – Parametric domains of stability .Relaxation type oscillations and ecological
+catastrophes . Completion models – exclusion principle , stability analysis , models of
+mutualism - stability analysis .
+Chapter : VII.
+Continuous models for three or more interacting populations : Food chain models – closed
+and open food chains , stability of food chains , persistence of three species food chain .
+Chapter : VIII.
+Discrete population models for single species :
+Ecological introduction , Simple models , A graphical procedure of solutions , discrete
+logistic models – their stability , Periodic solutions , Bifurcations and Chaos , Discrete-
+Delay models .
+Reference Books :
+1. Mathematical Biology – J.D. Murray(Springer – Verlag , 1980 )
+2. Modelling Dynamic Phenomenon in molecular and Cellular Biology – Lee.A.Segal (
+Cambridge University Press ) .
+Solid Mechanics- I
+Strain : Finite and infinitesimal deformations and strain tensor , Principle strains ,
+compatibility equations , Strain components in orthogonal curvilinear co-ordinates .
+Stress : State of stress in a body , Stress equations of equilibrium and motion , Surface
+conditions , Principal stresses , Stress equations of equilibrium motion in orthogonal
+curvilinear co-ordinates .
+Fundamental Equations : Equations of equilibrium motion in terms of displacements ,
+Beltrami – Michell compatibility equations , Fundamental boundary value problems of
+elastostatics and elastodynamics , Uniqueness of solutions , Simply and multiply connected
+region , Saint – Venant’s Principle , Semi inverse method .
+Plane Problem of Elasticity : Plane strain , Plane stress , Generalized Plane stress , Airy’s
+Stress function , Complex representation of biharmonic function, Compatibility equations,
+Kolosov-Muskhelisvili formulae for displacements and stresses , First and 2nd fundamental
+boundary value problems , Uniqueness of solutions , Solution of plane problems using
+conformal mapping, Applications .
+Torsion and flexture problem : Torsion of a circular shaft , Torsion of a cylindrical bar of
+arbitrary uniform cross-section , Reduction of torsion problem to internal Dirichlet
+problem,Stress function , Solution of torsion problem for circular & rectangular cross –
+section.
+Vibration : General theorem of vibration , Torsional , longitudinal , flexural vibration of a
+circular cylinder , Radial vibration of a hollo sphere .
+Wave : Wave of dilation and waves of distortion , Motion of a surface of discontinuity,
+Velocity of waves in isotropic and anisotropic solid media , Plane wave , Surface wave ,
+Rayleigh wave , Love wave .
+
+--- Page 41 ---
+Thermo elasticity : Stress-strain relations , Differential equation of heat conduction, Basic
+equation in dynamical thermo elasticity(uncoupled case),coupling of temperature and strain
+fields , Goodier’s thermo elastic potential , Method of biharmonic representations , Thermo
+elastic correspondence principles, Method of Green’s function , Method of complex
+variables , Some problems, Thermo elastic vibrations and waves , Elementary concepts of
+generalized thermo elasticity.
+Fluid Mechanics – I
+Fundamental Formulations : Viscous fluids , Viscosity strain tensor , State of cubical dilatation rate
+of rotation , Stress-strain relations for viscous fluids(using tensor ). Navier-Stokes equation of motion
+and their vector form . Navier-Stokes equations of motion of a viscous liquid in circular cylindrical
+and spherical polar co-ordinates .
+Extension of Helmholtz’s equations for diffusion of vorticity to a viscous liquid .
+Equation of energy in a viscous fluid flow . Rate of dissipation of energy in a viscous liquid flow .
+Principle of similitude . Renold’s numbers and Froude numbers in dynamically similar flows . Non-
+dimensional form of Navier-Stoke’s equations of steady motion under pressure only .
+One dimensional motion: Steady laminar motion of a viscous liquid through straight tubes of
+uniform cross section ( general case ), circular section(justifying no slipping at the wall), Elliptic
+section , Equilateral triangular section and rectangular section , Steady linear flow through the annular
+space between two co-axial circular cylinders and elliptic cylinders.
+Viscous flow between parallel planes , Rayleigh’s theory of lubrication .
+Two-dimensional motion : Equation satisfied by the stream function in two-dimensional motion of a
+viscous liquid under conservative field of external forces and particular cases , Hamel’s equation for
+the stream function , Exact solution of Hamel’s equation such that the stream lines are logarithmic
+spirals , and the curves of constant vorticity and concentric circles .
+Slow steady motion due to a sphere rotating uniformly about a diameter and due to a circular
+cylinder rotating uniformly about its axis particular cases .
+Diffusion of vorticity from a line vortex , and particular cases .
+Three-dimensional motion : Stokes solution for slow steady parallel flow past a sphere,Stokes
+formula for the resistance of the sphere, Stokes stream-function in flow past a sphere , Stokes stream-
+function in this flow past a sphere and flow pattern , Oseen’s criticism on Stokes solution . , Oseen’s
+solution for slow steady parallel flow past a sphere and the resistance of the sphere . Stokes stream-
+function in Oseen’s solutions and parallel flow past a circular cylinder . Resistance of the cylinder per
+unit length when the Renold’s number of the flow is small .
+Mechanics of Viscous Fluids : Fundamental concepts of boundary layer when the Renold’s number
+is moderately large . Prandtl’s Equation of the boundary layers , Expressions of displacement
+thickness and momentum thickness of the boundary layer . Vorticity and stress components within the
+boundary layer in two dimensional motion , Separation of boundary layer from an obstacle .
+Blasius equation for steady two – dimensional motion past a flat plate and its solution in
+the form of an infinite series . Boundary layer for two dimensional steady converging radial flow
+between two non-parallel walls. Boundary layer for steady two – dimensional jet . Flow symmetrical
+about a free stream line . Problem of steady three- dimensional jet . Karman’s integral equation of the
+boundary layer . Alternative form of the integral equation in terms of displacement thickness and
+momentum thickness . Application of Karman’s integral equation in the study of approximate
+solutions of steady two – dimensional flow past a flat plate and comparison with the corresponding
+exact solutions , calculations of frictional resistance on both sides of the plate and checking of errors .
+Application of this method by assuming linear , quadratic ,cubic and biquadratic distribution of
+velocity . Lamb’s trigonometric solution.
+Mises transformation of boundary layer equation into an equation of conduction of heat
+with variable coefficient of conduction .
+Nonsteady boundary layers . Method of successive approximations and its application in
+the case of a flat plate impulsively set in motion . Unsteady motion of oscillating cylinder and
+deduction of oscillatory motions of a piston .
+
+--- Page 42 ---
+Reference Books :
+1. Viscous fluid theory , Volume – 1 - S.I.Pai
+2. Hydrodynamics - H. Lamb
+3. New methods in laminar boundary later theory – D. Meksyn
+Research Project-I
+Departmental Seminar-II
+Advanced Topology
+Nets, Filters, ultra filters, convergence of nets and filters with special reference to
+zero-set filters and ultrafilters, compact sets, compact spaces, simple properties, Alexander’s
+theory, Tychonoff’s theory, Locally compact spaces, Tychonoff’s spaces, Topological
+embedding, Embedding Lemma, Embedding theory, Compactification, one point
+compactification.
+Alexanderoff one point compactification, Stone-Cech compactification, β(X),
+Ordering of compactification, minimality of X and maximality of β(X).
+Weak topology and completely regular topology, Topology generated by a family
+of pseudometrics. Uniform spaces, Bases,subbases, total boundedness, Cauchy nets and
+filters, Completeness, Uniformly continuous maps, Uniform isomorphism, Product uniform
+space, Quasiuniform spaces, Proximity spaces, Induced topology, Proximal neighbourhoods,
+Quasiproximity spaces.
+List of References:
+1) General Topology : J. L. Kelley
+2) General Topology : Willard
+3) Topology : Dugundji
+4) Topology : R. Engalking
+5) Topology : K. Kuratowski
+6) Proximity Spaces : S.A.Naimpally and Warrack
+7) Topology : N. Bourbaki
+Computational Fluid Dynamics & Magneto-Fluid dynamics
+Computational Fluid Dynamics:
+Governing equation of fluid dynamics, Conservation form, simple CFD techniques, Lax-
+Wendroff technique, Mac Cormack’s techniques, Finite volume methods, Application to
+Euler equation, Upwind difference scheme, viscous flow solutions, staggered grid, SIMPLE
+algorithm , SOLA algorithm, boundary element method and application to potential flows.
+Magneto-Fluid dynamics:
+Some preliminaries on Electricity and Magnetism—Electrostatics, Gauss Law, Dipoles,
+Dielectrics, Polarisation, Electric Displacement vector, Conduction Current, Magnetic effects
+of currents, Electromagnetic induction.
+
+--- Page 43 ---
+The MHD generalization of the theorems of Bernoulli and Kelvin. The Maxwell stress tensor,
+The Energy Principle, The MHD physics of MHD power generation.
+Fundamental equation of Electrodynamics, Maxwell’s equation, The equation of Magneto-
+Hydrodynamics. Study of Conducting fluid in motion. The Magnetic Reynold’s number.
+Alfven’s theorem. The law of isorotation of Ferraro. Magneto Hydrostatics, Force-free
+magnetic fields, Steady laminar motion, Toroidal and poloidel vector fields, Chandrasekhar’s
+equipartition of energy.
+SEMESTER-X
+Operations research—II
+Stochastic programming : Chance constraint programming techniques,
+Geometric programming : Geometric programming (both unconstrained and constrained),
+Fuzzy geometric programming.
+Games : Preliminaries concepts of continuous Game, Bimatrix Games, Nash equilibrium,
+solution of Bimatrix Games through quadratic programming (relation with non-linear
+programming)
+Multiobjective Linear & Non-linear programming,Complete optimal solution, Pareto &
+Weak Pareto optimal solution, Utility function method , Global criterion method, Fuzzy
+programming technique .
+Optimal Control : Performance indices, methods of calculus of variation, Transversally
+conditions, simple optimal problems of Mechanics, Pontryagin’s Principle (with proof
+assuming smooth condition), Linear regulator, application of dynamic programming in
+proving Pontryagin’s Principle, Bang-Bang controls.
+Sequencing : Problem with n jobs two machines, n jobs three machines and n jobs m
+machines.
+Reliability : Concepts, Reliability definition, system Reliability, system failure rate,
+Reliability of the systems connected in series or/ and parallel.
+Information Theory : Introduction, communication process-memory less channel, the
+channel matrix, probability relation in a channel, noiseless channel.
+Measure of information—Properties of Entropy function, measure of other information
+quantities—marginal and joint Entropies, conditional Entropies, expected mutual information,
+axiom for an Entropy function, properties of Entropy function. Channel capacity, Efficiency
+and Redundancy.
+Encoding: Objectives of encoding,Shannon-Fano Encoding Procedure,Necessary and
+sufficient condition for noiseless encoding.
+Biomathematics—II
+Elementary dynamics of exploited population, the logistic growth model constant rate of
+harvesting, fishing effort, generalized logistic models, depensation, Yield-effort curves,
+critical depensation.
+The open-access fishery, Gordons static model, opportunity cost, externality, economic over
+fishing, overfishing catastrophes,production function, Cob-Douglas production function,
+discounting, the Schaefer model,optimal harvest policy,effect of discounting.
+Elements of control theory,one dimensional control problem, linear variational problem-
+singular path,block interval,impulse control.
+
+--- Page 44 ---
+The maximum principle and its application in linear variational problems, transversality
+conditions, feedback control,economic interpretation of the maximum principle, structure of
+the multidimensional optimal control problem and the maximum principle.
+Growth and aging, Beverton-Holt fishery model, dynamic optimization.
+Multispecies models in fishery management, combined harvesting of two ecologically
+independent fish species following logistic growth, bionomic equilibrium, optimal harvest
+policy. Combined harvesting of two competing fish species following Logistic growth,
+Selective Harvesting. Diffusion model of inshore-offshore fisheries.
+Mathematical modeling in Epidemics, Deterministic models, simple epidemics, general
+epidemics, Kermack-Mckendric threshold theorem, Recurrent epidemics, Seasonal variation
+in infection rate, Allowance for incubation period, Models with undamped waves.
+Stochastic epidemic models, Yule-Furry Pure Birth Process, Expectation and variance of
+infectives, Calculation of expectation using moment generating functions, the Stochastic
+simple epidemic model.
+Mathematical models for the effect of toxicant in single species and the predator-prey
+systems, effect of toxicants on populations- first order kinetics, effect of toxicants on
+populations- environmental and food chain pathways, non-autonomous logistic models of
+polulations in deteriorating environment.
+Forestry management-the Faustmann model, Kilkki-Vaisanen model, Rorre’s matrix model
+for the management of a hight structured forest, modeling on degradation and subsequent
+regeneration of a forestry resource, models on acid precipitation and catastrophes in forest
+ecosystems.
+References
+1. C. W. Clark (1976) Mathematical Bioeconomics, The Optimal Management of
+Renewable Resources(John Wiley and Sons, New York)
+2. C. W. Clark (1985) Bioeconomic Modeling and Fisheries Management (John Wiley
+and Sons, New York)
+3. B.S.Goh (1980): Management and Analysis of Biological Populations(Elesevier,
+Amsterdam)
+Solid Mechanics - II
+Bending of Plates: Basic equations for bending of thin plates, boundary conditions, bending
+of plates of various shapes under different edge conditions, Plates on elastic foundations,
+general theory of bending and twisting of thin space-rods, Kirchoff’s kinetic analogue,
+stability of circular rod under normal pressure.
+Variational Method: Strain energy, Principal of virtual work , displacements and forces.
+Reciprocal theorem of Beti and Rayleigh, Theorem of minimum potential energy,variational
+problem and Euler’s equations, Rayleigh-Ritz method
+Three dimensional problem: stress function, biharmonic function,reduction of Lame and
+Beltrami equation to biharmonic equations, Kelvin, Boushinesq-Papkovich solutions,
+concentrated forces at an infinite body.
+Fracture mechanics: different types of cracks, criterion on cracks, initiation and
+direction,Griffith and Irwins theory ,nature of singularies near cracks tips, stress intensity
+factor(SIF)
+Solution of simple crack problem using intregral equations and intregral transform methods-
+line and penny shaped crack,determination of SIF ,crack propagation, Branching and arrest
+phenomena.
+Plasticity: stress tensor,octrahedral stress,spherical stress,deviatioic stress, stress invariants,
+spherical and deviatoric part of strain tensor, concept of strain energy. Yield criterion, yield
+
+--- Page 45 ---
+surface,strain hardening and work hardening, loading and unloading, Drukers postulates,
+general form of flow equations for strain hardening materials.
+Non-hardening materials, Theory of Plastic flow, bending by terminal couples, Torsion of
+Beam of circular section, Sokolovesky’s solution for oval section
+Fluid Mechanics – II
+Basic Thermodynamics of one compressible fluids :
+Six governing equations of fluid motion , Crocco-vazsonyi equation , propagation of small
+disturbances in a gas , mach number , Dynamical similarity of two flows . Circulation
+theorem . Permance of irrotational motion , Bernoulli’s integral for steady isentropic and / of
+irrotational motion. Polytropic gas , Critical speed . Equation satisfied velocity potential and
+stream functions . Prandtl-Mayer flow past a convex corner .
+Steady flow through a De Laval nozzle . Normal and oblique shock waves . Shock-
+polar diagram one – dimensional similarity flow .
+Steady linearized subsonic and supersonic flows . Prandtl- Glauert affine
+transformation . Flow along a wavy boundary flow past a slight corner. Janzen-Rayleigh
+method of approximation. Thin supersonic wings . Ackeret’s formula .
+Legendre and Molenbroek transformations Chaplygin’s equation for steady
+function . Solution of Chaplygin’s equations , Subsonic gas jet problem , Limiting line .
+Motion due to a two-dimensional source and a vortex , Kerman-Tsein approximation , Two –
+dimensional steady flow , Reimann invariants , Method of characteristic, Transonic flow ,
+Law of Transonic similarity , Euler-Tricomi equation and its fundamental solution ,
+Hyperbolic flow .
+Turbulent Flows : Introduction : Raynold’s equation of mean motion , Raynold’s stress
+tensor , Closure problems of Raynold’s equation., Co-efficients of turbulent exchange .
+Mixing length , Pranditl’s momentum transfer theory , Taylor’s vorticity transfer
+theory , Kerman’s similarity hypothesis , Velocity distribution in channel flow under constant
+pressure gradient , Plane Poiseuille flow through a channel boundary by two parallel plates .
+Mixing zone between two parallel flows . Turbulent flow in a thin layer , Two –
+dimensional jet , Axisymmetric jet .
+Two – dimensional turbulent wake behind ( i ) symmetric cylinder , (ii) a row of
+parallel rods , Turbulent flow through smooth circular pipes ; (1/7)th power velocity
+distribution law ; Turbulent boundary layer on a flat plate.
+Statistical approach ; Isotropic homogeneous turbulence , correlation between
+velocity components , longitudinal and lateral corrections , Eulerian correlation with respect
+to time , Taylor’s one – dimensional energy spectrum , Energy relations in Turbulent flows .
+Computational models.
+References:
+1. Theoretical Aerodynamics – I.M.Milney Thomson, Macmillan ,1958
+2. Fluid Mechanics – L.D. Landau and E.M.Linfashitz ; Pergamon , 1959
+
+--- Page 46 ---
+Research Project-II
+Departmental Semenier-III
+STATISTICAL INFERNECE (PARAMETRIC)
+Parametric models, parameters, random sample and its likelihood, statistic and its sampling
+distributions, problems of inference. Examples from standard discrete and continuous models
+such as Bernoulli, Binomial, Poisson, Negative Binomial, Normal, Exponential, Gamma,
+Weibull, Pareto etc. Concept of sufficiency, minimal sufficiency, Neyman factorization
+criterion, Fisher information, exponential families. Maximum likelihood estimators, method
+of moment estimators, percentile estimators, least squares estimators, minimum mean squares
+estimators, uniformly minimum variance unbiased estimators, Rao-Blackwell theorem,
+Cramer-Rao lower bond, different examples. Statistical Hyptheses-simple and composite,
+statistical tests, critical regions, Type-I and Type-II errors, size and power of a test, Neyman
+Pearson lemma and its different applications. Most powerful test, uniformly most powerful
+test, unbiased test and niformly most unbiased test. Likelihood ratio test. Interval estimation,
+confidence intervals, construction of confidence intervals, shortest expected length
+confidence interval, most accurate one sided confidence interval and its relation to UMP test.
+Essential Eeadings:
+1. R. L. Berger and G. Casella, Statistical Inference. 2. E. L. Lehmann, Theory of Point
+Estimation
+Supplementary Readings:
+1. T. S. Ferguson, Statistical Decision Theory. 2. E. L. Lehmann, Testing of Statistical
+Hypotheses. 3. P. J. Bickel and K. A. Doksum, Mathematical Statistics. 4. J. O. Berger,
+Statistical Decision Theory.
+Operating System
+INTRODUCTION:
+What is an Operating System, Function of Operating System, Operating System Structure:
+System Components, Operating System services, System Calls.
+PROCESSES:
+Process concept, Process State and State Transitions, Process Control Block, Suspend &
+Resume of Process, Interrupt Processing, Context Switching
+PROCESS SYNCHRONIZATION AND INTERPROCESS COMMUNICATION:
+The critical-section Problem, Dekker’s Algorithm, Semaphores, Synchronization Hardware:
+Test-and-Set, Compare-and-Swap, Solution of producer-consumer problem.
+DEADLOCKS:
+System Model, Deadlock Characterization, Methods for Handling Deadlocks, Deadlock
+Prevention, Deadlock Avoidance & Banker’s Algorithm, Deadlock Detection, Deadlock
+Recovery.
+
+--- Page 47 ---
+THREADS:
+Single & Multithreading Models, Threading issues, P threads, Solaris 2 Threads, Window 2000
+Threads, Linux Threads, Java Threads.
+CPU SCHEDULING:
+Basic concepts, Scheduling Levels, Scheduling Criteria, Pre-emptive & Non-preemptive
+Scheduling, Scheduling Algorithms, Multi-processor scheduling,
+MEMORY MANAGEMENT:
+Memory Organization, Storage Hierarchy, Storage Management Strategies, Swapping,
+Contiguous & Non Contiguous Memory Allocation, Virtual memory: Paging, Segmentation,
+Segmentation with Paging, Notion of Locality and working sets, thrashing, page replacement
+algorithms
+FILE-SYSTEM INTERFACE:
+File Concepts, File Organization, Access Methods, Directory Structure, File-system Mounting,
+File Sharing, Protection.
+FILE-SYSTEM IMPLEMENTATION:
+File-system Structure, File System Implementation, Directory Implementation, Allocation
+Methods, Free-Space Management, Efficiency and Performance, Recovery.
+DISK SCHEDULING:
+Disk Structure, Disk Caching, Disk Scheduling, Disk Management, Swap-Space Management,
+RAID Structure, Disk Attachment, Stable-storage implementation,
+PROTECTION:
+Goals of Protection, Domain of Protection, Implementation of Access Matrix, Revocation of
+Access Rights, Capability-Based Systems, Language-based Protection.
+SECURITY:
+The security Problem, User Authentication, Program Threats, System Threats, Securing Systems
+and Facilities, Intrusion Detection, Cryptography, Computer-Security Classifications.
+BOOKS RECOMMENDED:
+1. Operating System Concepts By: Abraham Silberschatz, Peter Baer Galvin & Greg
+Gagne. John Wiley & Sons, Inc.
+2. Operating System By: H M Deitel Pearson Education, LPE.
+3. An Introduction to Operating System Concepts & Practice By: Pramod Chandra P
+Bhatt; PHI Pvt Ltd.
+Computer Networking
+INTRODUCTION:
+Definition, goals, applications and classification of computer networks. Some well-known
+networks, Protocols and standards.
+NETWORK MODELS:
+Layered Tasks, Internet Models, Direct and indirect interconnection, need for addressing and
+routing. Concept of subnet-structure and topology of subnet, circuit, message and packet
+switching.
+NETWORK ARCHITECTURE:
+Layered architecture and protocol hierarchy. OSI Reference Model. Services and important
+functions of each layer. TCP/IP Model, Design issues of layers.
+BRIEF REVIEW OF PHYSICAL AND DATA LINK LAYERS :
+Guided and Unguided media, Line Discipline, Flow control, Capacity utilization, Sliding
+Window, Stop & wait protocols, Error detection mechanism, VRC,LRC,CRC, Automatic
+,Repeat Request(ARQ)- stop-and wait , go-back-n, selective repeat.
+MEDIUM ACCESS CONTROL:
+
+--- Page 48 ---
+ALOHA, Slotted ALOHA, CSMA, CSMA/CD, Ethernet, Token Ring, CSMA/CA
+NETWORK LAYER:
+Need for Network layer, Connection–oriented and connectionless services, Addressing:
+Internet address, classful address, subneting, superneting, Classless Addressing, Routing
+techniques –Static versus Dynamic Routing, flooding, Distance vector and link-state routing,
+Basics of IP
+TRANSPORT LAYER:
+Congestion control algorithms. Basics of TCP and UDP.
+APPLICATION LAYER PROTOCOLS: Basics of Telnet, FTP, SMTP, HTTP.
+WIRELESS AND MOBILE NETWORKING: IEEE 802.11, IEEE 802.16, BLUETOOTH
+and IEE 802.15. Ad-hoc networks. Cellular networks – GSM, CDMA
+ISDN, B-ISDN, FRAME RELAY AND ATM NETWORKS: Concept of ISDN and B-
+ISDN. Review of the digitization status of the telephone network. X.25, Frame Relay and
+ATM evolution, ATM layers, sub layers and their functions, ATM switch architecture.
+BOOKS RECOMMENDED:
+1. Data Communication and Networking, 4th Edition, McGraw-Hill, Behrouz Forouzan.
+2. A. S. Tanenbaum, “Computer Networks”, 4th Ed., Pearson Education Asia (LPE), 2003.
+3. L.L. Peterson and B.S. Davie, “Computer Networks: A Systems Approach”, 2nd Ed.,
+Morgan Kaufman, Harcourt Asia, 2000.
+4. W. Stallings, “Data and Computer Communications”, 6th Ed., Pearson Education
+Asia(LPE), 2000.
+5. F. Halsall, “Data Communications, Computer Networks and Open Systems”, 4th
+Ed.,Pearson Education Asia (LPE), 1996.
+6. L. Garcia and I. Widjaja, “Communication Networks: Fundamental Concepts and Key
+architectures”, Tata-McGraw-Hill Ed., 2000.
+7. J.F. Kurose and K.W. Ross, “Computer Networking: A Top-Down Approach Featuring the
+Internet”, Pearson Education Asia (LPE), 2001.
+8. L. Kleinrock, “Queuing Systems, Vol. 1: Theory”, John Wiley, 1975.
+9. Bertsekas and R. Gallagar, “Data Networks”, 2nd Ed., PHI (EEE), 1988.
+10. W. Stallings, “ISDN and Broadband ISDN with Frame Relay and ATM”, 4th Ed.
+Homotopy Theory:
+Brouwer Fixed point theorem, categories, Functors, Natural transformations, Natural
+equivalence, Homtopy, Convexity, Contrctibility, Mapping cylinder and cones, Paths and
+path connected spaces, Affine spaces, Affine maps, Homotopy as equivalence relation,
+Contractible Spaces, Homotopy of maps, Homotopy classes, Homotopically equivalent
+spaces with examples, Fundamental Groups, Induced maps and homomorphisms, Lifting
+property, Calculation of first homotopy groups, Function spaces, Group objects and cogroup
+objects, Loop space and suspension, Exact sequence of homotopy groups, Homotopy lifting
+propert, Homotopy extension property, Fibrations and cofibrations, CW-complexes and their
+examples, attaching of maps, Homotopy groups of CW-complexes, The effect on the
+homotopy groups of a cellular extension, Spaces with prescribed homotopy groups, Weak
+homotopy equivalences and CW-approximation Homotopy extension and classification
+theorems, Study of some cases where homotopy theory is applied in electrical engineering.
+Essential Reading:
+1. J. Rotman, Algebraic Topology, Springer-Verlag, 2004
+
+--- Page 49 ---
+Wavelets and Application
+Fourier transform on L1 (R) and L2 (R) and basic properties and examples; Motivation and
+definition of Windowed Fourier Transform and examples, Time frequency localization, the
+reconstruction formula; Motivation and Definition of the wavelet transform and examples,
+Basic properties, The reconstruction formula, Frequency localization, Scaling functions and
+wavelets, orthogonal bases of compactly supported wavelets, orthonormal Wavelets;
+Definition of Multiresolution Analysis and examples, Properties of scaling functions and
+orthonormal wavelets bases, Construction of orthonormal wavelets.
+Essential Reading:
+1. L. Debnath, Wavelet Transforms and Their Applications, Birkhäuser, 2002.
+Supplementary Reading:
+1. G. Bachman, L. Narici, and E. Beckensterin, Fourier and Wavelet Analysis, Springer-
+Verlage, 2000.
+2. C.K. Chui, An Introduction to Wavelets, Academic Press, 1992.
+Lie Algebra
+Definitions and example, Solvable and nilpotent Lie algebras, Simple and semi-simple Lie
+algebras, Levi’s theorem, Idealizer and centralizer, Derivation of a Lie algebra, Structure
+constant, Special linear algebra, Lie groups and Lie algebras, Classical groups and their Lie
+algebras, Cartan-Killing form, Root-space decomposition of a Semi-simple Lie algebra,
+Properties of root space, Simple root system and classification of finite dimensional complex
+Semi-simple Lie algebra, Cartan matrix, root diagrams, Dynkin diagrams, Weyl group of a
+root system, Weyl reflection, Real forms of Lie algebras and their classification through
+Satake and Vogan diagram, Applications of Lie groups and Lie algebras to robotics, Genetic
+coding, Control theory, Computer vision, Particle physics.
+Essential Reading:
+1. K. Erdmann, M. J. Wildon, Introduction to Lie Algebras, Springer 2006
+Data Mining and Warehousing
+OVERVIEW & CONCEPTS:
+Need for data warehousing, basic elements of data warehousing, Trends in data warehousing.
+PLANNING &REQUIREMENTS:
+Project planning and management, Collecting the requirements. Architecture &
+Infrastructure: Architectural components, Infrastructure and metadata.
+DATA DESIGN AND DATA REPRESENTATION:
+Principles of dimensional modeling, Dimensional modeling advanced topics, data extraction,
+transformation and loading, data quality. Information Access & Delivery: Matching
+information to classes of users, OLAP in data warehouse, Data warehousing and the web.
+Implementation And Maintenance: Physical design process, data warehouse.
+INTRODUCTION:
+Basics of data mining, related concepts, Data mining techniques.
+DATA MINING ALGORITHMS:
+Classification, Clustering, Association rules.
+
+--- Page 50 ---
+KNOWLEDGE DISCOVERY:
+KDD Process
+WEB MINING:
+Web Content Mining, Web Structure Mining, Web Usage mining.
+ADVANCED TOPICS:
+Spatial mining, temporal mining.
+VISUALIZATION:
+Data generalization and summarization-based characterization, Analytical characterization,
+analysis of attribute relevance, mining class comparisons: Discriminating between
+differentclasses, mining descriptive statistical measures in large databases Data Mining
+Primitives, Languages, and System Architectures: Data mining primitives, Query language,
+Designing GUI based on a data mining query language, Architectures ofdata mining systems
+, Application and Trends in Data Mining: Applications, Systems products and research
+prototypes, Additional themes in data mining, Trends in data mining
+BOOKS RECOMMENDED:-
+1. Adriaans, P. (1996), Data mining, Addison-Wesley
+2. Jiawei Han and Micheline Kamber, Data Mining: Concepts and Techniques, Morgan
+Kaufmann Publishers
+3. Paulraj Ponnian, “Data Warehousing Fundamentals”, John Wiley.
+4. M.H. Dunham, “Data Mining Introductory and Advanced Topics”, Pearson Education
+5. Margaret Dunham, “Data Mining: Introductory and Advanced Topics”, Prentice Hall
+6. Weiss, Sholom “M. - Predictive data mining: a practical guide” / Sholom M. Weiss, Nitin
+Indurkhy. - San Francisco, Calif. : Morgan Kaufmann Publishers, 1998. - 1558604030
+7. Advances in knowledge discovery and data mining / edited by Usama M. Fayyad. -
+Menlo Park, Calif. : AAAI Press; Cambridge, Mass.; London : MIT
+8. Thomsen, Erik, 1959, “OLAP solutions : building multidimensional information systems”
+/ Erik Thomse. - 2nd ed. - New York; Chichester : Wiley
+9. Mitchell, Tom M., Tom Michael, 1951-. - Machine learning / Tom M. Mitchell. - New
+York; London : McGraw-Hill
+10. Ralph Kimball, “The Data Warehouse Lifecycle toolkit”, John Wiley.
+11. M Berry and G. Linoff, “Mastering Data Mining”, John Wiley.
+12. W.H. Inmon, “Building the Data Warehouses”, Wiley Dreamtech.
+13. R. Kimpall, “The Data Warehouse Toolkit”, John Wiley
+14. Konar A., Artificial Intelligence and Soft Computing, CRC Press, 2000
+Operator Theory
+Banach Spaces: The Banach space of continuous functions, Abstract Banach spaces, The
+conjugate space of continuous linear functionals, Examples of Banach spaces: c0, l1 and l,
+Weak topologies on Banach spaces, The Alaoglu theorem, The Hahn-Banach theorem, The
+conjugate space of C([0,1]). The open mapping theorem, The Lebesgue spaces: L1 an L, The
+Hardy spaces: H1 and H, Banach algebras: The Banach algebra of continuous functions,
+Abstract of Banach algebras, Abstract index in a Banach algebra, The space of multiplicative
+linear functions, The Gelfand transform, The Gelfand-Mazur theorem, The Gelfand theorem
+for commutative Banach algebras, The spectral radius formula, The Stone-Weirstrass
+theorem, The generalized Stone-Weirstrass theorem, The disk algebra, The algebra of
+functions with absolutely convergent Fourier series, The algebra of bounded measurable
+functions, Geometry of Hilbert space: Inner product spaces, The Cauchy-Schwarz inequality,
+The Pythagorian theorem, Hilbert spaces, Examples of Hilbert Spaces: Cn, l2, L2, and H2.
+
+--- Page 51 ---
+The Riesz-Representation Theorem, The existence of orthogonal bases, The dimension of
+Hilbert spaces, Operators on Hilbert space and C*-algebras: The adjoint operators, Normal
+and self-adjoint operators, Projections and subspaces, Multiplication operators and maximal
+abelian algebras, The bilateral shift operators, C*-algebras.
+Essential Reading:
+1. R. G. Douglas: Banach Algebra Techniques in Operator Theory, Springer, 1998
+Computer Organization & Architecture
+COMPUTING & COMPUTERS:
+Evolution of computer:-mechanical era, electronic computers, integrated circuits, processor
+architecture, system architecture.
+DESIGN METHODOLOGY:-
+System design:-system representation, design process, gate level. Register level:- register
+level components, programmable logic devices, register level design. The processor level
+processor level components, processor level design.
+PROCESSOR BASIC:-
+Computer Organization:- Fundamentals, additional features, Data Representation:-basic
+formats, fixed point numbers, floating numbers. Instruction Sets:-instruction formats,
+instruction types, programming considerations
+CONTROL DESIGN:-
+Instruction sequencing & instruction interpretation, Hardwired Control:-design methods,
+multiplier control unit, CPU control unit, Micro programmed control:- micro instructions &
+their encoding.
+MEMORY:
+C.P.U memory interaction, memory array organization & technology, Memory hierarchies,
+main memory allocation, segment, pages & files .High speed memories, Interleaved
+memories, caches & associative memories, Cache coherence:-sequential and weak
+consistency, snoopy bus protocol and directory based.
+INPUT-OUTPUT ORGANIZATION:
+Addressing I\O devices, Data transfer synchronization, Interrupt handling I/O channels,
+Computer peripherals & interfacing., Direct Memory Access, Examples of I/O Buses:
+PCI,SCSI, USB
+BASICS OF PIPELINING:
+Instruction and data pipelining, speedup, Definitions of pipeline hazards: structural, data, and
+control and simple techniques for handling them.
+BOOKS RECOMMENDED:-
+1. H.M. Mann, Computer System Architecture”,P.H.I.
+2. J.P Hayes, Computer Architecture & Organisation, McGraw-Hill.
+3. Computer Organization 5th Ed.-Carl Hamacher Publisher: McGraw-Hill.
+4. Computer Organization And Architecture - Stallings Publisher: Pearson Education
+5. A.P. Malvino “Digital Computer Electronics”, McGraw-Hil
+**********

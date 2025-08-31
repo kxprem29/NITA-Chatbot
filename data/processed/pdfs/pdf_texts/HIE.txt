@@ -1,0 +1,3888 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+CIVIL ENGINEERING
+Specialization in
+Hydro-Informatics Engineering
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+TRIPURA (WEST), INDIA
+PIN-799046
+
+--- Page 2 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Preface
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology
+(M.Tech) in seven different specializations viz, Environmental Engineering, Geotechnical
+Engineering, Hydro-Informatics Engineering, Structural Engineering, Seismic Science and
+Engineering, Transportation Engineering and Water Resources Engineering.
+The course structures of all post graduate degree programmes are carrying a total of 80
+credits and 2000 marks. Semester wise distribution of course and credits are as follows: First
+semester: 25 credits and 800 marks for five theory subjects (comprises basic core, core, and
+elective subjects), two laboratory subjects and seminar; Second semester: 25 credits and 800
+marks for four theory subject (comprises basic core, core, and elective subjects), two
+laboratory subjects, comprehensive viva-voce and project preliminaries; Third semester: 10
+credits and 100 marks; and Fourth semester:20 credits and 300 marks. Third and fourth
+semester of PG courses will be fully devoted to project works. Minimum requirement of
+number of class hours for each theory course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester.
+Each theory subject in a semester is evaluated for 100 marks, with the following weightages.
+Sub-component weightage: Continuous evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5
+Marks, Class test: 10 Marks, Assignment: 10 Marks); Mid-semester Examination: 20 Marks;
+and End-semester Examination: 50 Marks
+The course curriculum of all Post-graduate programmes are designed considering the
+following three Programme outcomes as formulated by National Board of Accreditation
+(NBA)
+PO1: An ability to independently carry out research /investigation and development work to
+solve practical problems.
+PO2: ability to write and present a substantial technical report/document.
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements
+in the appropriate bachelor program.
+PO4: An ability to identify, formulate and solve Hydro-Informatics Engineering related
+problems using advanced soft computing techniques.
+PO5: An ability to understand the impact of Hydro-informatics Engineering solutions in a
+global, regional and local context which can convert into sustainable and contemporary
+solutions.
+PO6: Ability to demonstrate the knowledge of Hydro-informatics Engineering and
+Management techniques along with clear principles for application in multidisciplinary
+domains.
+Expert opinions are being taken in regular basis in order to improve the quality of teaching
+learning process and to attain the programme outcomes efficiently.
+In the Final year of M.Tech programmes (Third and Fourth Semesters) students may also opt
+for industrial research. If any student desire to pursue his/her research in reputed industries,
+he/she may be allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such
+industry bodies.
+b. The selected industry needs is approved by the DPPC of the concerned Department.
+c. The student selects one supervisor from industry and another supervisor from the
+Institute.
+1 | P ag e
+
+--- Page 3 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+d. If any student opts for such industrial research he/she will not receive any scholarship
+from the institute in this tenure, even if he/she wants to return back. In such cases the
+student will be allowed to complete his/her project in the institute but without any
+scholarship.
+2 | P ag e
+
+--- Page 4 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+
+Sl.
+No.
+
+ 
+
+ 
+
+3|P
+
+Basic Core
+
+Core Subject-I
+
+Elective Paper-I
+(Any one)
+
+Elective Paper-II
+(Any one)
+
+Elective Paper-III
+(Any one)
+
+Laboratory
+
+Basic Core
+Core Subject-I
+
+Elective Paper-IV
+(Any Two)
+
+Laboratory
+
+age
+
+INDEX
+Subject
+
+First Semester
+PCE61B01: Artificial Intelligence and Data Science in
+Water Resource Development
+PCE61CO1: Principle of Water Resources Engineering
+
+PCE61E01:One course from Elective Group
+
+PCE61E02: Another course from Elective Group
+(Excluding the course already selected as
+Elective I
+PCE61E03: Another course from Elective Group
+(Excluding the course already selected as
+Elective I and Elective IT )
+PCE61P01: Application Software Laboratory
+PCE61P02: Minor Project-I
+PCE61P03: Seminar
+
+Second Semester
+PCE62B01: Design of Water Resources System
+PCE62C01: Advanced Hydrology
+PCE61E04:One course from Elective Group
+(excluding the course already selected as Elective I, II
+and III )
+PCE62P04: Water Quality, Hydrology and Hydraulic
+Instruments Laborator
+PCE62P05: Minor Project-II
+PCE62P06: Project Preliminary
+PCE62P07: Comprehensive Viva-voce
+
+Third Semester
+
+ 
+
+PCE63P01: Project & Thesis — I
+Fourth Semester
+
+PCE64P02: Project & Thesis — IT
+
+Page No.
+
+7-9
+10-12
+28-94
+
+28-94
+
+28-94
+
+13-16
+
+17-20
+
+21-23
+
+28-94
+
+25-27
+
+95
+
+96
+
+ 
+
+
+--- Page 5 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+
+Syllabus of M.Tech Hydro-Informatics Engineering
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x Subject Credit Class our 5! Marks
+First Semester
+Basic Core
+1 |PCE61B01: Artificial Intelligence and Data Science] 4 4 100
+in Water Resource Development
+Core Subject-I
+2 |PCE61CO01: Principle of Water Resources| 4 4 100
+Engineering
+3 Elective Paper-I (Any one) 4 4 100
+PCE61E01:One course from Elective Group
+Elective Paper-II(Any one)
+4 PCE61E02: Another course from Elective Group 4 4 100
+(Excluding the course already selected as
+Elective I)
+Elective Paper-UI(Any one)
+5 PCE61E03: Another course from Elective Group 4 4 100
+(Excluding the course already selected as
+Elective I and Elective I]
+6 |PCE61P01: Application Software Laborator 2 3 100
+7 |PCE61P02: Minor Project-I 2 3 100
+8 |PCE61P03: Seminar 1 2 100
+Total 25 28 800
+Second Semester
+Basic Core
+l PCE62B01: Design of Water Resources System 4 4 100
+Core Subject-I
+2 PCE62C01: Advanced Hydrology 4 4 100
+3 Core Subject-I 4 4 100
+PCE62C02: Advance Hydropower Engineering
+Elective Paper-[V(Any one)
+4 PCE61E04:One course from Elective Group 4 4 100
+(excluding the course already selected as Elective I, IT
+and I)
+PCE62P04: Water Quality, Hydrology and Hydraulic
+5 2 3 100
+Instruments Laboratory
+6 |PCE62P05: Minor Project-I 2 3 100
+7 |PCE62P06: Project Preliminary 3 6 100
+8 |PCE62P07: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+Third Semester
+1 |PCE63P01: Project & Thesis - I 20 | --— 100
+Fourth Semester
+2 |PCE64P02: Project & Thesis - I 40 | --- 300
+| | |____|Total Marks 2000
+ome
+
+——
+
+4|Page
+
+
+--- Page 6 ---
+ 
+
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+
+Elective Subjects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SI. Class
+Subject Credit | Hours per| Marks
+No.
+Week
+Water
+1 Energy Management in Water Industry 4 4 100
+2 Climate Change and Water Resources 4 4 100
+3 Water Quality Modeling And Management 4 4 100
+4 Application of Geo-Informatics in Water Resource
+Management
+5 Systems Analysis in Water Resources 4 4 100
+6 Underwater Remote Sensing and Life Cycle 4 4 100
+Assessment
+7 GIS Applications in Monitoring and Management 4 4 100
+of Ground Water
+Electrical and Energy Engineering
+8 Power Plant Engineering 4 4 100
+9 Renewable Energy System 4 4 100
+10 Advance Hydropower Engineering 4 4 100
+11 Hydrology and Hydraulic Instruments 4 4 100
+Agriculture/ Soft Computing/
+Others
+12 Internet of things applications in Agriculture 4 4 100
+13 Optimization Technique 4 4 100
+Smart-Instrumentation in Water Resources 100
+14 oo 4 4
+Applications
+15 Image Processing 4 4 100
+16 Hydraulic Structure Engineering 4 4 100
+17 River Engineering 4 4 100
+Smart Monitoring and Management of Pipe 100
+18 4 4
+Network
+19 Free Surface Flow 4 4 100
+20 Computational Fluid Dynamics 4 4 100
+
+Mao wyad
+
+——
+
+6" September, 2021
+
+5|Page
+
+
+--- Page 7 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+First Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+First Semester
+Basic Core
+1 PCE61B01: Artificial Intelligence and Data 4 4 100
+Science in Water Resource Development
+Core Subject-I
+2 PCE61C01: Principle of Water Resources 4 4 100
+Engineering
+Elective Paper-I (Any one)
+3 PCE61E01:One course from Elective Group 4 4 100
+Elective Paper-II(Any one)
+PCE61E02: Another course from Elective Group
+4 4 4 100
+(Excluding the course already selected as
+Elective I)
+Elective Paper-III(Any one)
+PCE61E03: Another course from Elective Group
+5 4 4 100
+(Excluding the course already selected as
+Elective I and Elective II )
+6 PCE61P01: Application Software Laboratory 2 3 100
+7 PCE61P02: Minor Project-I 2 3 100
+8 PCE61P03: Seminar 1 2 100
+Total 25 28 800
+6 | P ag e
+
+--- Page 8 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Basic Core
+ARTIFICIAL INTELLIGENCE AND DATA SCIENCE IN WATER RESOURCE
+DEVELOPMENT (PCE61B01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course Objective
+1. To obtain fundamental understanding and application of multi criteria decision
+making.
+2. To be able to interpret the application procedure of artificial neural networks and
+complex topology.
+3. To obtain an understanding of distribution function and other statistical concepts.
+4. To understand the phenomenon of different conventional optimization techniques.
+5. To obtain an understanding of nature based optimization techniques.
+6. To understand the concept of Hydrological models.
+Course Content
+Unit- 1
+Introduction, Classification of MCDM Techniques, Basic Working Principle, Compensatory
+Techniques: Analytical Hierarchy Process, Analytical Networking Process, Weighted Sum
+Method, Weighted Product Method) MACBETH, Outranking Techniques: ELECTRE,
+PROMETHEE.
+Unit -2
+Introduction, Classification of Neural Networks, Training Algorithms, Quick Propagation,
+Conjugate Gradient Descent, Levenberg Marquadart, Quasi Newton, Newtons Method,
+Topology Optimization, Genetic Algorithm, Trial and Error, Polynomial Neural Network.
+Unit -3
+Outlier Detection, Auto Correlation, Cross Correlation, Auto and Cross Regression Model,
+Test of Homogenity: Runs Test, Moving Average, Distribution Function, Error Metrics and
+Fitness functions.
+Unit – 4
+Introduction to Optimization Technique, Region of Feasibility, Difference between
+Simulation, Prediction and Optimization, Classification of Optimization Techniques, Linear
+Programming, Dynamic Programming, Differential Evolution Techniques.
+Unit – 5
+Introduction to nature based optimization techniques, meta-heuristic and heuristic techniques,
+Particle Swarm Optimization, Ant Colony Optimization, Fire Fly Algorithm.
+7 | P ag e
+
+--- Page 9 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit – 6
+Hydrological Models, development steps, time dependent and space dependent models,
+deterministic and stochastic hydrologic model, Introduction to MATLAB.
+References:
+1. Multicriteria Decision Aid: Methods and software. A. Ishizaka, P. Nemery.
+2. Multicriteria Analysis: Applications to Water and Environment Managemen,M.
+Zarghami, F. Szidarovszky.
+3. Engineering Optimization: Theory and Practice,Singiresu S. Rao.
+4. A First Course in Optimization Theory,Rangarajan K. Sundaram.
+5. Modeling Hydrologic Change: Statistical Methods,Richard H. McCuen.
+6. Hydrologic Time Series Analysis: Theory and Practice,Deepesh Machiwal
+Madan Kumar Jha.
+Course Outcome
+1. Students will be able to apply MCDM techniques in different real life and time decision
+making problems.
+2. Students will be able to develop an idea and know the procedure of developing neural
+network based models for simulation and predictive objectives.
+3. Students will be able to analyze and synthesize different statistical derivations essential
+for numerical hydrology.
+4. Students will be able to minimize real life problems and optimize designs for maximum
+benefit or any new or old hydrologic structures.
+5. Students will be able to apply nature based optimization techniques to identify optimal
+solutions under difficult constraints.
+6. Students will be able to apply the different concepts and MATLAB programming
+language to analyze the efficacy of hydrologic models
+Table-1: To establish the correlation between COs & POs
+No of course outcome (CO) Course Outcome
+Students will be able to apply MCDM techniques in
+PCE61B01.1 different real life and time decision making
+problems.
+Students will be able to develop an idea and know
+PCE61B01.2 the procedure of developing neural network based
+models for simulation and predictive objectives.
+Students will be able to analyze and synthesize
+PCE61B01.3 different statistical derivations essential for
+numerical hydrology.
+Students will be able to minimize real life problems
+PCE61B01.4 and optimize designs for maximum benefit or any
+new or old hydrologic structures.
+Students will be able to apply nature based
+PCE61B01.5 optimization techniques to identify optimal
+solutions under difficult constraints.
+Students will be able to apply the different concepts
+PCE61B01.6 and MATLAB programming language to analyze
+the efficacy of hydrologic models
+8 | P ag e
+
+--- Page 10 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61B01.1 3 3 3 3 3 3
+PCE61B01.2 3 3 3 3 3 3
+PCE61B01.3 3 2 3 3 3 3
+PCE61B01.4 3 3 3 3 3 1
+PCE61B01.5 3 3 3 3 3 3
+PCE61B01.6 3 3 3 3 3 3
+Total 18 17 18 18 18 16
+Average 3 2.83 3 3 3 2.7
+Equivalent Avg.
+3 3 3 3 3 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61B01.1 3 3
+PCE61B01.2 3 3
+PCE61B01.3 3 3
+PCE61B01.4 3 3
+PCE61B01.5 3 3
+PCE61B01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+9 | P ag e
+
+--- Page 11 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Core Subject-I
+PRINCIPLE OF WATER RESOURCES ENGINEERING (PCE61C01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the global perspective of Hydrology and water resources.
+2. To understand the different natural phenomenon and their measurement techniques.
+3. To understand the techniques of forecasting flood.
+4. To gather the knowledge about Groundwater Hydrology.
+Course Content:
+Unit- 1
+Water resources – Global Perspective, Fields of Water Resources Engineering, Hydrological
+Cycle, Precipitation and its Measurement, Raingauge Networking, Precipitation Data
+Processing & Analysis, Probable Maximum Precipitation (PMP).
+Unit -2
+Abstractions from Precipitation- Hydrological Data and their Measurements such as
+Evaporimeter, Transpiration, Evapotranspiration, Interception, Depression Storage,
+Infiltration.
+Unit – 3
+Stream Flow Measurement- Measurement of stage and velocity, Area-Velocity method,
+Stage-Discharge relationship, Ration Curve, Hygrometry station.
+Unit – 4
+Runoff and Hydrograph – Flow duration Curve, Flow Mass Curve, concept of Hydrograph,
+UH, S-curve, IUH.
+Unit – 5
+Flood and flood routing- Determination of flood magnitude, Flood frequency analysis,
+storage routing & channel routing.
+Unit – 6
+Flood flows – Estimation and Control Measures, Flood Forecasting Techniques, Risk,
+Reliability and Safety Factor, Hydrologic Surface Water and Storage Reservoir, Conveyance
+of Surface Water through River Intakes and Dam Outlet.
+Unit – 7
+Groundwater Hydrology – well hydraulics, drainage and reclamation of water logged lands,
+water quality, desalination of brackish water, cost benefit considerations in water resources
+planning.
+10 | P ag e
+
+--- Page 12 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+References:
+1. Water Resources Engineering, Larry W. Mays.
+2. Water Resources Engineering, Linsley and Franzin.
+3. Principles of Water Resources Planning, Alvin, S. Goodman.
+4. Engineering Hydrology, R.S. Varshaney.
+5. Hand Book of Applied Hydrology, (Ed) Ven T. Chow.
+6. Remote Sensing in Hydrology, E.T. Engman& R.J. Gurney
+7. Engineering Hydrology,K. Subramanya.
+8. Water Resources Engineering, Linseley.
+9. Flow in open channels, K. Subramanya.
+10. Elementary Hydrology,V. P. Singh.
+Course Outcome:
+1. Students will be able to identify the types of losses due to the precipitation and its
+impact on runoff.
+2. Students will be able to describe the Stream Flow Measurement techniques.
+3. Students will be able to derive the amount of runoff or discharge for any given
+catchment which is very necessary in terms of hydrology and water resources.
+4. Students will be able to find the Flood value under meteorological condition.
+5. Students will be able to understand the concepts of flood routing and its application.
+6. Students will be able to analyze the Flood control measurement with various flood
+forecasting techniques.
+7. Students will be able to describe and analyze the Groundwater Hydrology.
+Table-1: To establish the correlation between COs & POs
+No of course
+outcome Course Outcome
+(CO)
+Students will be able to identify the types of losses due to the
+PCE61C01.1
+precipitation and its impact on runoff.
+Students will be able to describe the Stream Flow Measurement
+PCE61C01.2
+techniques.
+Students will be able to derive the amount of runoff or discharge for any
+PCE61C01.3 given catchment which is very necessary in terms of hydrology and
+water resources.
+Students will be able to find the Flood value under meteorological
+PCE61C01.4
+condition.
+Students will be able to understand the concepts of flood routing and its
+PCE61C01.5
+application.
+Students will be able to analyze the Flood control measurement with
+PCE61C01.6
+various flood forecasting techniques.
+Students will be able to describe and analyze the Groundwater
+PCE61C01.7
+Hydrology.
+11 | P ag e
+
+--- Page 13 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61C01.1 3 2 3 3 3 3
+PCE61C01.2 3 2 3 3 3 3
+PCE61C01.3 3 3 3 3 3 3
+PCE61C01.4 3 2 3 3 3 1
+PCE61C01.5 3 2 3 3 3 3
+PCE61C01.6 3 3 3 3 3 3
+PCE61C01.7 3 3 3 3 3 1
+Total 21 17 21 18 18 14
+Average 3 2.83 3 3 3 2.3
+Equivalent Avg. 3 3 3
+3 3 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61C01.1 3 2
+PCE61C01.2 3 3
+PCE61C01.3 3 3
+PCE61C01.4 3 3
+PCE61C01.5 3 3
+PCE61C01.6 3 3
+PCE61C01.7 3 2
+Total 21 19
+Average 3 2.71
+Equivalent Avg. Attainment 3 3
+12 | P ag e
+
+--- Page 14 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+LABORATORY
+APPLICATION SOFTWARE LABORATORY (PCE61P01)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To learn the application of different software in Hydro-informatics engineering.
+2. To learn how to operate the software.
+3. To learn where to apply the software.
+4. To able to analyze the different water related issues using soft computing techniques.
+Course Content:
+Unit- 1
+Watershed Development- Google Earth and G.I.S. Tool
+Unit -2
+Image processing-FreeView Image processing software
+Unit -3
+Hydrological modeling- HEC -HMS Software
+Unit -4
+Simulation model- Alyuda Neurointelligence (based on Artificial Neural Network), Group
+Method of Data Handling (GMDH).
+Unit -5
+Mapping -Surfer 3D mapping software.
+Unit -6
+Statistical Software- MaxStat Lite software.
+Unit-7
+Pipe Flow- CADRE Flow software.
+Course Outcome:
+1. Students will be able to apply the Google Earth and G.I.S tool.
+2. Students will be able to derive the information using image processing software.
+3. Students will be able simulate the hydrological response of watershed using hydrological
+modeling using the HEC-HMS software.
+4. Students will be able to develop various model based on real life problem using Alyuda
+Neurointelligence and Group Method of Data Handling.
+5. Students will be able to convert the data into outstanding color, surface, weir frame,
+vector, image, shaded relief and post maps using Surfer 3D mapping software.
+13 | P ag e
+
+--- Page 15 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+6. Students will be able to develop an autoregressive model that is representation of a type of
+random process, as such, it is used to describe certain time-varying process in nature,
+economics etc.
+7. Analysis of Hydraulic and pipe flow system-CADRE Flow software.
+Table-1: To establish the correlation between COs & POs
+No of course outcome
+Course Outcome
+(CO)
+PCE61P01.1 Students will be able to apply the Google Earth and G.I.S tool.
+Students will be able to derive the information using image
+PCE61P01.2
+processing software.
+Students will be able simulate the hydrological response of
+PCE61P01.3 watershed using hydrological modeling using the HEC-HMS
+software.
+Students will be able to develop various model based on real life
+PCE61P01.4 problem using Alyuda Neurointelligence and Group Method of
+Data Handling.
+Students will be able to convert the data into outstanding colour,
+PCE61P01.5 surface, weir frame, vector, image, shaded relief and post maps
+using Surfer 3D mapping software.
+Students will be able to develop an autoregressive model that is
+PCE61P01.6 representation of a type of random process, as such, it is used to
+describe certain time-varying process in nature, economics etc.
+Analysis of Hydraulic and pipe flow system-CADRE Flow
+PCE61P01.7
+software.
+Table-2 Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61P01.1 3 3 3 3 3 3
+PCE61P01.2 3 3 3 3 3 3
+PCE61P01.3 3 3 3 3 3 3
+PCE61P01.4 3 3 3 3 3 1
+PCE61P01.5 3 3 3 3 3 3
+PCE61P01.6 3 3 3 3 3 3
+PCE61P01.7 3 3 3 3 3 3
+Total 21 21 21 21 21 19
+Average 3 3 3 3.0 3.0 2.7
+Equivalent Average 3 3 3
+3 3 3
+Attainment
+14 | P ag e
+
+--- Page 16 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61P01.1 3 3
+PCE61P01.2 3 3
+PCE61P01.3 3 3
+PCE61P01.4 3 3
+PCE61P01.5 3 3
+PCE61P01.6 3 3
+PCE61P01.7 3 3
+Total 21 21
+Average 3 3
+Equivalent Average Attainment 3 3
+15 | P ag e
+
+--- Page 17 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+MINOR PROJECT-I (PCE61P02)
+Total Credit: 01
+Contact Periods: 02 (0L+0T+2P)
+Each student will be given a Project problem as per their interest and related to the
+specialization. They will work on the literature survey, scope of work, development of
+equipments/software etc. and submit a report. The student’s will present a seminar related to
+this project work at the end of the semester. In this semester, the weightage will be given for
+theoretical and applied concepts.
+SEMINAR (PCE21P03)
+Total Credit: 01
+Contact Periods: 02 (0L+0T+2P)
+Each Student shall prepare a Report and present a Seminar on topic related to the branch of
+specialization under the guidance of a Faculty member. Grades will be awarded on the basis
+of contents of the paper and the presentation.
+16 | P ag e
+
+--- Page 18 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Second Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+Second Semester
+Basic Core
+1 4 4 100
+PCE62B01: Design of Water Resources System
+Core Subject-I
+2 4 4 100
+PCE62C01: Advanced Hydrology
+Core Subject-II
+3 4 4 100
+PCE62C02: Advance Hydropower Engineering
+Elective Paper-IV(Any one)
+PCE61E04:One course from Elective Group
+4 4 4 100
+(excluding the course already selected as Elective
+I, II and II)
+PCE62P04: Water Quality, Hydrology and
+5 2 3 100
+Hydraulic Instruments Laboratory
+6 PCE62P05: Minor Project-II 2 3 100
+7 PCE62P06: Project Preliminary 3 6 100
+8 PCE62P07: Comprehensive Viva-voce 2 0 100
+Total 25 28 800
+17 | P ag e
+
+--- Page 19 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Basic Core
+DESIGN OF WATER RESOURCES SYSTEM (PCE62B01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course Objective:
+1. To understand the basic areas water resources planning and development.
+2. To understand the design criteria of storm water control structure.
+3. To understand the design of energy dissipater and water harvesting structure.
+4. To understand the design of water treatment plant.
+5. To understand the design of irrigation structure.
+Course Content:
+Unit- 1
+Overview- Development and feasibilities of water resources, planning alternatives.
+Unit -2
+Storm water management: Design of storm sewers and detention, Highway drainage and
+culverts.
+Design of Energy dissipater: Spillway Design, probability risk and uncertainty analysis.
+Unit – 3
+Design of Water Treatment Plant - Pipeline Distribution Network, Design of Water Intake
+Stations, Design of Aerator, Design of Settling Tank, Design of Sedimentation Tank, Design
+of Slow Sand Filter and Rapid Sand Filter, Chlorination and Softening.
+Unit – 4
+Design of Water Harvesting Structures - Types of Water Harvesting Structures, Design of
+Rain Water Harvesting Structure.
+Unit-5
+Design of Irrigation Systems- Canal Operation and Automation, Irrigation Water Demands,
+Canal Architecture, Canal Control Structures, Low-Pressure Pipelines, Canal Lining, Canal
+Hydraulic Design
+References:
+Sl. No. Name of Book Author
+1 Water Resources System Engineering Hall and Dracup
+2 Water Resources System Asit Kumar Biswas
+18 | P ag e
+
+--- Page 20 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+River Basin Planning Suranjit K. Saha and Christopher J.
+3
+(Theory & Practice) Barrow
+5 Developments in Water Science S. K. Jain and V. P. Singh
+6 Water Resources Engineering Larry W. Mays
+Course Outcome:
+1. Students will be able to do the feasibility analysis of different hydraulic structure.
+2. Students will be able to analyse and design storm water control structure.
+3. Students will be able to analyse and design of energy dissipater and water harvesting
+structure.
+4. Students will be able to analyse and design of water treatment plant.
+5. Students will be able to do analyse and design irrigation structure.
+Table 1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to do the feasibility analysis of different
+PCE62B01.1
+hydraulic structure.
+Students will be able to analyse and design storm water control
+PCE62B01.2
+structure.
+Students will be able to analyse and design of energy dissipater
+PCE62B01.3
+and water harvesting structure.
+Students will be able to analyse and design of water treatment
+PCE62B01.4
+plant.
+Students will be able to do analyse and design irrigation
+PCE62B01.5
+structure.
+Table-2: Correlation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62B01.1 3 2 3 3 3 3
+PCE62B01.2 3 3 3 3 3 3
+PCE62B01.3 3 3 3 3 3 3
+PCE62B01.4 3 3 3 3 3 1
+PCE62B01.5 3 3 3 3 3 3
+Total 15 14 15 15 15 13
+Average 3 2.8 2 3 3 2.6
+Equivalent Avg.
+3 3 3 3 3 3
+Attainment
+19 | P ag e
+
+--- Page 21 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62B01.1 3 3
+PCE62B01.2 3 3
+PCE62B01.3 3 3
+PCE62B01.4 3 3
+PCE62B01.5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. Attainment 3 3
+20 | P ag e
+
+--- Page 22 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Core Subject-I
+ADVANCED HYDROLOGY (PCE62C01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To obtain fundamental understanding the phenomenon and types of Hydrograph.
+2. To understand different analysis and procedure of routing and frequency analysis.
+3. To obtain an understanding of runoff and fluvial geomorphology.
+4. To understand the phenomenon of snow hydrology.
+5. To understand the concept of Hydrological models.
+Course Content:
+Unit- 1
+Hydrograph-Distribution graph for runoff generation, complex storm hydrograph, Synthetic
+UH generation techniques, IUH generation techniques and UH generation from IUH.
+Unit -2
+Routing Analysis- Lumped Flow Routing, Distributed Flow Routing, Dynamic Wave
+Routing
+Frequency Analysis- Extreme value distribution, Probability Plotting, Reliability of analysis.
+Unit -3
+Runoff-SCS runoff curve number method
+Fluvial Geomorphology- Stream Morphology, Stream morphology processes and
+Environmental Triggers.
+Unit – 4
+Snow Hydrology- Snow Formation and Accumulation, Melting of Snowpack, Snowmelt
+Indices, Effect of Snowpack Condition on Runoff, Snowmelt Hydrograph Synthesis.
+Unit – 5
+Hydrological Models- types of catchment model components and construction, analysis of
+time series data – generation of synthetic hydrologic data models for hydrologic abstraction
+processes.
+References:
+Sl.
+Name of Book Author
+No.
+1 Urban Hydrology T. L. Lazaro
+2 Applied Hydrology: R. K. Linsley Jr.
+3 Environmental Hydrology Andy D. Ward and Stanley W. Trimble
+4 Applied Hydrology Ven Te Chow
+21 | P ag e
+
+--- Page 23 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+5 Hydrology and Water Resources Engineering S. K. Garg
+6 Hydrology and Water Resources Engineering K. C. Patra
+7 Applied Hydrology K. N. Mutreja
+8 Facets of Hydrology J. C. Rodda
+9 Hydrology & Hydraulic Systems R. S. Gupta
+10 Introduction to Hydrology R. L. Brass
+11 Engineering & Hydrology Principles & Practices: V. M Ponce
+Course Outcome:
+1. Students will be able to describe and derivation of Hydrograph and able to apply this
+for any hydraulic structure analysis.
+2. Students will be able to derive the frequency analysis and able to apply the
+routing in any channel.
+3. Students will be able to identify the types of soil using SCS-CN method, which is
+important to analysis of runoff.
+4. Students will be able to discuss about the fluvial geomorphology.
+5. Students will be able to discuss about the snow hydrology and its impact on
+runoff.
+6. Students will be able to do the hydrological modelling to find the discharge or
+runoff for a given catchment area.
+Table-1: To establish the correlation between COs & POs
+No of course outcome
+Course Outcome
+(CO)
+Students will be able to describe and derivation of
+PCE62C01.1 Hydrograph and able to apply this for any hydraulic
+structure analysis.
+Students will be able to derive the frequency analysis and
+PCE62C01.2
+able to apply the routing in any channel.
+Students will be able to identify the types of soil using
+PCE62C01.3
+SCS-CN method, which is important to analysis of runoff.
+Students will be able to discuss about the fluvial
+PCE62C01.4
+geomorphology.
+Students will be able to discuss about the snow hydrology
+PCE62C01.5
+and its impact on runoff.
+Students will be able to do the hydrological modeling to
+PCE62C01.6
+find the discharge or runoff for a given catchment area.
+22 | P ag e
+
+--- Page 24 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2 : Co-relation Between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO2 PO4 PO5 PO6
+PCE62C01.1 3 3 3 3 3 3
+PCE62C01.2 3 2 3 3 3 3
+PCE62C01.3 3 2 3 3 3 3
+PCE62C01.4 3 2 3 3 3 1
+PCE62C01.5 3 2 3 3 3 3
+PCE62C01.6 3 3 3 3 3 3
+Total 18 14 18 18 18 16
+Average 3 2.33 3 3 3 2.7
+Equivalent Avg.
+3 2 3 3 3 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62C01.1 3 3
+PCE62C01.2 3 3
+PCE62C01.3 3 3
+PCE62C01.4 3 3
+PCE62C01.5 3 3
+PCE62C01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+23 | P ag e
+
+--- Page 25 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+LABORATORY
+WATER QUALITY, HYDROLOGY AND HYDRAULICS LABORATORY
+(PCE62P04)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses objective:
+1. To understand the relation between the various hydrological and meteorological
+parameters and their impact of water resources and hydrology.
+2. To learn to measure the different meteorological parameters
+3. To learn to use and application of Instrument used to measure the various parameters.
+4. To learn to handling the instruments used to determine the meteorological and
+hydrological parameters.
+5. To learn the operation of different instruments use in fluvial hydraulics.
+6. To learn how to use and operate the instruments in laboratory and field.
+To learn the applicability of the various instruments in real life problem
+Course content:
+Unit-1
+Determination of φ index- Double Ring type Infiltrometer, Single Ring Infiltrometer.
+Unit- 2
+Determination of rate of evaporation- PAN Evaporimeters.
+Unit-3
+Determination of different Water Quality parameter
+Unit-4
+Meteorological Parameter determination- Weather Station Instrument.
+Unit -5
+Velocity measurement- Micro ADV (Lab measurement)
+Unit -6
+Velocity & Discharge measurement - River Surveyor M9
+Unit -7
+Particle size distribution analysis-Sieve Analysis
+Course outcome:
+1. Students will be able to determine the φ index using double ring type Infiltrometer
+and single ring Infiltrometer.
+2. Students will be able to determine the Evaporation rate using Pan Evaporimeter.
+3. Students will be able to determine different Water Quality parameter
+4. Students will be able to use Weather Station Instrument.
+5. Students will be able to derive the velocity in laboratory using Micro ADV.
+24 | P ag e
+
+--- Page 26 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+6. Students will be able to measure the discharge using River Surveyor M9 in any
+flowing water body.
+7. Students will be able to find the soil particle size using sieve analysis.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to determine the φ index using double
+PCE62P04.1
+ring type Infiltrometer and single ring Infiltrometer.
+Students will be able to determine the Evaporation rate using
+PCE62P04.2
+Pan Evaporimeter.
+Students will be able to determine different Water Quality
+PCE62P04.3
+parameter
+PCE62P04.4 Students will be able to use Weather Station Instrument
+Students will be able to derive the velocity in laboratory using
+PCE62P04.5
+Micro ADV.
+Students will be able to measure the discharge using River
+PCE62P04.6
+Surveyor M9 in any flowing water body.
+Students will be able to find the soil particle size using sieve
+PCE62P04.7
+analysis.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62P04.1 3 3 3 3 3 3
+PCE62P04.2 3 3 3 3 3 3
+PCE62P04.3 3 3 3 3 3 3
+PCE62P04.4 3 3 3 3 3 2
+PCE62P04.5 3 3 3 3 3 2
+PCE62P04.6 3 3 3 3 3 2
+PCE62P04.7 3 3 3 3 3 2
+Total 21 21 21 21 21 14
+Average 3 3 3 3 3 2
+Equivalent Average 3 3 3
+3 3 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62P04.1 3 2
+PCE62P04.2 3 3
+PCE62P04.3 3 3
+25 | P ag e
+
+--- Page 27 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+PCE62P04.4 3 3
+Total 12 11
+Average 3 2.8
+Equivalent Average Attainment 3 3
+26 | P ag e
+
+--- Page 28 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+MINOR PROJECT-I (PCE62P05)
+Total Credit: 01
+Contact Periods: 02 (0L+0T+2P)
+Each student will be given a Project problem as per their interest and related to the
+specialization. They will work on the literature survey, scope of work, development of
+equipments/software etc. and submit a report. The student’s will give a presentation related to
+this project work at the end of the semester. In this semester the weightage will be given for
+design and socio-economical aspects.
+PROJECT PRELIMINARY (PCE62P06)
+Total Credit: 03
+Contact Periods: 06 (0L+0T+6P)
+Each student will be given a Thesis/Project problem at the beginning of Second Semester as
+per their interest and related to the specialization under the supervision of a Faculty Member.
+They will work on the literature survey, scope of work, development of equipments/software
+etc. and submit a report/dissertation. The student’s will present the progress of their work in
+the third semester which will be evaluated by a Board of Examiners consisting of the
+Supervisor and External Examiner.
+COMPREHENSIVE VIVA-VOCE (PCE62P07)
+Total Credit: 02
+Viva-voce will be conducted for all the students at the end of the Second Semester in the
+department by the board of examiners constituted by the Hydro-Informatics Engineering
+Section of Civil Engineering Department.
+27 | P ag e
+
+--- Page 29 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+ELECTIVE SUBJECTS
+WATER
+ENERGY MANAGEMENT IN WATER INDUSTRY
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To introduce the students to achieve and maintain optimum energy procurement and
+utilization, throughout the organization.
+2. The students will learn how to minimize energy costs / waste without affecting
+production & quality
+3. To minimize environmental effects.
+Course Content:
+Unit-1
+Introduction
+Present Scenario of Water Resources, Present Scenario of Energy Resources, Climate
+Change, Climate Change Effect on Water Resources, Impact of Climate Change on Energy
+Resources, Water-Energy Nexus.
+Unit-2
+Measuring Energy Consumptions
+Energy Units, Energy Sources, Energy Audits, Energy Efficiency, Electrical Energy
+Measurement, Thermal Energy Measurements, Mechanical and Utility System
+Measurements.
+Unit-3
+Thermal and Mechanical Energy Utility Systems
+Boilers- Types, Combustion in Boilers, Performance Evaluation, Analysis of Losses, Feed
+Water Treatment, Blow Down
+FBC Boilers: Introduction, Mechanism of Fludized Bed Combustion, Types of FBC Boilers,
+Retrofitting FBC System to Conventional Boilers.
+Unit-4
+Energy Monitoring, Targeting Review and Evaluation Definition, Monitoring and Targeting,
+Elements of Monitoring and Targeting, Data and Information Analysis, Techniques of Energy
+Consumption, Production, Cumulative Sum of Difference (CUSUM), Review and
+Evaluation.
+Unit-5
+Optimal Trade-Off Between the Energy-Economy of a Hydropower Plant for Better
+Management of the Renewable Energy Resources: Introduction, Detail Methodology,
+28 | P ag e
+
+--- Page 30 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Application of Optimization Techniques (OT) for Identification of Optimal Trade-Off,
+Results and Discussions.
+Unit-6
+Impact Analysis of Water, Energy, and Climatic Variables on performance of Surface Water
+Treatment Plants: Introduction, Objectives, Methods Used, Methodology, Applications and
+Case Study.
+Unit-7
+Energy Policy
+Need for Energy Policy for Industries, Formulation of Policy by any Industrial Unit,
+Implementation in Industries, National and State Level Policies, Global Energy Issues,
+Energy Pricing & Impact of Global Variations, Energy Security and Energy Vision.
+References:
+Sl.
+Name of Book Author
+No.
+1 Energy Management W.R. Murphy, G. Mckay
+2 Energy Management Handbook W.C Turner
+3 Industrial Energy Conservation, Manuals MIT Press,Mass,1982
+4 Industrial Energy Management and Utilization L.C. Witte
+5 Handbook of Energy Efficiency CRC Press
+6 Water and Energy Management in India Springer
+7 Industrial Energy Conservations D.A. Reay
+8 Energy Management of Water Utilities Laura Dufresne
+Course Outcome:
+1. Students will be able to understand the strategy of adjusting and optimizing energy.
+2. Students will be able to know systems and procedures to reduce energy requirements
+per unit of output.
+3. Students will be able to learn the benefits of lowering and eliminating energy use
+through energy efficiency improvements.
+4. Students will be able to learn energy efficiency advantages over renewable energy.
+5. Students will be able to understand approaches for achieving energy efficiency and
+renewable energy gains.
+6. Students will be able to understand that energy and water have mutual goals and can
+help each other reach them.
+Table-1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE61E03.1 Students will be able to understand the strategy of adjusting and
+29 | P ag e
+
+--- Page 31 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+optimizing energy.
+Students will be able to know systems and procedures to reduce
+PCE61E03.2
+energy requirements per unit of output.
+Students will be able to learn the benefits of lowering and eliminating
+PCE61E03.3
+energy use through energy efficiency improvements
+Students will be able to learn energy efficiency advantages over
+PCE61E03.4
+renewable energy.
+Students will be able to understand approaches for achieving energy
+PCE61E03.5
+efficiency and renewable energy gains.
+Students will be able to understand that energy and water have mutual
+PCE61E03.6
+goals and can help each other reach them.
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E03.1 3 2 3 2 2 2
+PCE61E03.2 3 2 3 2 2 2
+PCE61E03.3 3 2 3 2 2 2
+PCE61E03.4 3 2 3 2 2 2
+PCE61E03.5 3 2 3 2 2 2
+PCE61E03.6 3 2 3 2 2 2
+Total 18 12 18 12 12 12
+Average 3 2 3 2 2 2
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E03.1 3 2
+PCE61E03.2 3 2
+PCE61E03.3 3 2
+PCE61E03.4 3 3
+PCE61E03.5 3 3
+PCE61E03.6 3 3
+Total 18 15
+Average 3 2.5
+Equivalent Avg. Attainment 3 3
+30 | P ag e
+
+--- Page 32 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+CLIMATE CHANGE AND WATER RESOURCES
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the concept of climate system
+2. To comprehend the fundamental impacts of climate change and its effect on
+natural resources and socio-economic status of mankind.
+3. To analyze the extreme event and its impact and occurrence probability.
+4. To be acquainted with the different climate models and how to downscale and use
+the predicted data extracted from these simulation frameworks.
+5. To be familiar with the different assessment methodologies for analysis of climate
+change impacts.
+6. To be acquainted with different mitigation strategies to stop and reverse the
+climate change impacts.
+Course Content:
+Unit-1
+THE CLIMATE SYSTEM
+Introduction, weather and climate: Impact of climate on environment, earth, its atmospheric,
+cycle and its relationship with climate; Basic concepts of atmospheric dynamics, ocean
+dynamics, cloud physics, radiative heat transfer and climate, Drivers of Climate change,
+Characteristics of climate system components, Greenhouse effect, Carbon cycle, Wind
+systems, Trade Winds and the Hadley Cell, Ozone hole in the stratosphere, El Nino, La Nina
+ENSO, Teleconnections.
+Unit-2
+CLIMATE CHANGE AND IT’S IMPACTS
+Past, Present, and future climate changes., monsoon circulation, paleo-climatic approaches to
+the reconstruction of monsoon circulation, emphasis on Indian monsoon, El-Nino, LaLina,
+IOD (Indian Ocean Dipole), NAO (North Atlantic Oscillation), Arctic Oscillation, Indian
+Summer Monsoon. Precipitation and temperature change due to climate variations.
+NATCOM Report, Impacts on sectoral vulnerabilities, SRES, Different scenarios. Impact on
+water resources, Impact on agriculture, Impact on forest, Impact on Industry.
+Unit-3
+EXTREME EVENT ANALYSIS
+Analysis for climatic change assessment, statistical analysis of long-term meteorological and
+hydrological data; Trend analysis, Need for vulnerability assessment, Steps for assessment,
+Approaches for assessment, Flood, Drought, Desertification, Erosion, Predictive models for
+extreme event.
+31 | P ag e
+
+--- Page 33 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit-4
+CLIMATE MODEL
+Climate Models, types of models, Global Circulation Models, Regional Circulation Models,
+Quantitative models, Economic model, Impact matrix approach, Box models, Zero-
+dimensional models, Radioactive-convective models, Higher-dimension models, EMICs
+(Earth-system models of intermediate complexity), Downscaling Methods.
+Unit-5
+VULNERABILITY ASSESSMENT
+Climate Risk Assessment (CRA), Climate hazards, Floods, droughts, heat waves, cyclones,
+storm surge, climate impacts, susceptibility, climate risk, vulnerability, social vulnerability,
+adaptive capacity, Gender aspects, Participatory rural appraisal (PRA), focused group
+discussions, CRA for different sectors like Urban, Agriculture, Forest, Industry, Tools for
+carrying out CRA and ranking methods. Flood management strategies, Drought management
+strategies, Temporal and spatial assessment of water for Irrigation, Land use & cropping
+pattern, Coastal zone management strategies, Concept of Vulnerability Index.
+Unit-6
+ADAPTATION AND MITIGATION
+Mitigation- Policy, regulation, economics, benefits and costs of mitigating climate change,
+international cooperation, Water-related adaptation to climate change in the fields of
+Ecosystems and biodiversity, -Agriculture and food security, land use and forestry, Human
+health, water supply and sanitation, infrastructure and Economy (insurance, tourism, industry
+and transportation) - Adaptation, vulnerability and sustainable development Sector-specific
+mitigation - Carbon dioxide capture and storage (CCS) , Bio-energy crops, Biomass
+electricity, Hydropower, Geothermal energy, Energy use in buildings, Land-use change and
+management, Cropland management, Afforestation and Reforestation - Potential water
+resource conflicts between adaptation and mitigation - Implications for policy and sustainable
+development, Circular Economy, analysis of co-benefits of adaptation and mitigation, Food-
+water-energy nexus.
+References:
+Sl.
+Name of Book Author
+No.
+Climate Change and India: Vulnerability
+1 P. R. Shukla
+Assessment and Adaptation
+Climate Change Modeling, Mitigation, and Zhang, T. C., Ojha, C. S. P., & Kao, C.
+2
+Adaptation M
+Handbook of climate change mitigation and Chen, W. Y., Suzuki, T., & Lackner,
+3
+adaptation M.
+4 Climate Change and Climate Modeling J. David Neelin
+Demystifying Climate Models: A Users Guide Andrew Gettelman and Richard B.
+5
+to Earth System Models Rood
+Impact of Climate Change on Water
+D. Nagesh Kumar and K. Srinivasa
+6 Resources: With Modeling Techniques and
+Raju
+Case Studies
+32 | P ag e
+
+--- Page 34 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+India: Climate Change Impacts, Mitigation and Md. Nazrul Islam and André van
+7
+Adaptation in Developing Countries Amstel
+Food Security and Land Use Change under
+8 Conditions of Climatic Variability: A Victor R. Squires and Mahesh K. Gaur
+Multidimensional Perspective
+Trends and Changes in Hydroclimatic
+9 Variables: Links to Climate Variability and Ramesh Teegavarapu
+Change
+Understanding Climate Change Impacts on S. K. Jalota, B. B. Vashisht, Sandeep
+10
+Crop Productivity and Water Balance Sharma, Samanpreet Kaur
+Course Outcome:
+1. Students will be able to develop the basic knowledge of Climatic Systems.
+2. Students will be able to understand the intricacies of climate change and its impacts.
+3. Students will be able to comprehend the concepts and predictive methodologies of
+extreme events.
+4. Students will be able demonstrate their capability on development and assessment of
+Global and Regional Climate Models
+5. Students will be able to comprehend and apply the different methodology of vulnerability
+assessment with respect to the change in climate.
+6. Students will learn about the various mitigation strategies for sustainable development in
+face of climatic vulnerabilities.
+Table 1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to develop the basic knowledge of Climatic
+PCE61E06.1
+Systems.
+Students will be able to understand the intricacies of climate change
+PCE61E06.2
+and its impacts.
+Students will be able to comprehend the concepts and predictive
+PCE61E06.3
+methodologies of extreme events.
+Students will be able demonstrate their capability on development
+PCE61E06.4
+and assessment of Global and Regional Climate Models
+Students will be able to comprehend and apply the different
+PCE61E06.5 methodology of vulnerability assessment with respect to the change
+in climate.
+Students will learn about the various mitigation strategies for
+PCE61E06.6
+sustainable development in face of climatic vulnerabilities.
+33 | P ag e
+
+--- Page 35 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E05.1 3 2 3 2 2 2
+PCE61E05.2 3 2 3 2 2 2
+PCE61E05.3 3 3 3 2 2 2
+PCE61E05.4 3 3 3 2 2 2
+PCE61E05.5 3 3 3 2 2 2
+PCE61E05.6 3 2 3 2 2 2
+Total 18 15 18 12 12 8
+Average 3 2.5 3 2 2 2
+Equivalent
+Average 3 3 3 2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E05.1 3 2
+PCE61E05.2 3 3
+PCE61E05.3 3 3
+PCE61E05.4 3 3
+PCE61E05.5 3 3
+PCE61E05.6 3 3
+Total 18 17
+Average 3 2.83
+Equivalent Average 3 3
+Attainment
+34 | P ag e
+
+--- Page 36 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+WATER QUALITY MODELING AND MANAGEMENT
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To know about the introductory principles and concepts of water quality.
+2. To know about the monitoring and management of water quality in water-based
+systems like river, wetlands, and irrigation
+3. To know about modeling of pollutant transport, water quality variations and decay in
+different surface and ground water systems.
+4. To understand about the mechanism of monitoring instruments including IoT based
+EWS.
+5. To appreciate about water quality management vulnerabilities due to abruptness in
+water quality pattern of water bodies.
+6. To know about the application of GIS in water quality analysis.
+Course content:
+Unit-1
+INTRODUCTORY CONCEPTS
+Principles of water quality, Water quality classification, Water quality standards, Water
+quality indices, TMDL Concepts, Water quality models, Water quality description, various
+characteristics of water, water quality criteria and standards, elements of reaction kinetics,
+spatial and temporal aspects of contaminant transport, transport mechanism-advection,
+diffusion, dispersion.
+Unit -2
+WATER QUALITY OF WATER BODIES AND IRRIGATION SYSTEMS
+Water quality for irrigation, Salinity and permeability problem, Root zone salinity, Irrigation
+practices for poor quality water, Saline water irrigation, Future strategies, River and streams,
+convective diffusion equation and its application. Estuaries, Estuarine hydraulics, Estuarine
+water quality models; Lakes and reservoirs, eutrophication, spatial variation of water quality
+in wetlands.
+Unit -3
+WATER QUALITY MODELING
+Numerical/mathematical modeling, pollutant transport processes Contaminant transport in
+unsaturated flows, solute transport models for conservative species, solute transport in
+spatially variable soils, Contaminant transports in ground water advection, dispersion, one
+dimensional transport with linear adsorption, dual porosity models, numerical models, bio
+degradation reaction, kinematic modeling, spatial modeling of surface and ground water.
+Unit – 4
+REMOTE MONITORING OF WATER QUALITY
+Water quality investigation, Sampling design, Samplers and automatic samplers, Data
+collection platforms, Field kits, Water quality data storage, IOT and EWS, analysis and
+inference, Software, Sensors, Advanced Instruments, monitoring in water treatment plants,
+case studies.
+35 | P ag e
+
+--- Page 37 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit -5
+MANAGEMENT AND VULNERABILITY ASSESSMENT OF WATER QUALITY
+Surface and wastewater quality management, socio-economic aspects of water quality
+management, management alternatives for water quality control, waste load allocation
+process, lake quality management, and groundwater remediation. water quality indices,
+vulnerability index, water reuse and recycling, surface and waste water treatment plants and
+their vulnerability analysis..
+Unit-6
+SPATIAL ANALYSIS OF WATER QUALITY
+Thematic mapping, Measurement in GIS: length, perimeter and areas, Query analysis,
+Reclassification, Buffering, Neighborhood functions, Map overlay: vector and raster overlay,
+Interpolation, Network analysis, Digital elevation modelling. Analytical Hierarchy Process,
+Object oriented GIS, AM/FM/GIS, Web Based GIS, DCS, SCADA.
+References:
+Sl.
+Name of Book Author
+No.
+Basic Water Quality Parameters: ASC Dr. Ali Akshad M. et.al.
+George Tchobanoglous, Franklin
+Wastewater
+1 Louis Burton, Metcalf & Eddy, H.
+Engineering: Treatment and Reuse
+David Stense
+Water Quality: Diffuse pollution and watershed
+2 Vladimir Novonty
+Management,
+Mackenzie L Davis, David A
+3 Introduction to Environmental Engineering
+Cornwell
+4 Aquatic Chemistry Stum, M and Morgan, A.
+Integrated Environmental Modeling - Pollutant
+Ramaswami A., Milford J. B.,
+5 Transport,
+Small M. J
+Fate, and Risk in the Environment
+6 Principles of Geographical Information Systems Burrough P.A. and McDonnell R.A
+Marcello Benedini and George
+7 Water Quality Modelling for Rivers and Streams
+Tsakiris
+8 Handbook of Water Purity and Quality Satinder Ahuja
+9 Surface Water-Quality Modeling CanaleChapra
+Smart Sensors for Real-Time Water Quality
+10 Mukhopadhyay,S.C. and Mason,A.
+Monitoring
+Course outcome:
+1. Students will become familiar with standards, principles, classifications and
+parameters of water quality.
+2. Students will be aware of the characteristics and different phenomena of different
+water bodies and irrigation systems.
+36 | P ag e
+
+--- Page 38 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+3. Students will gain knowledge about different water quality models and procedures to
+develop accurate and reliable numerical frameworks for temporal as well as spatial
+approximation of water quality in different water bodies.
+4. Student will be acquainted about different monitoring devices used in discrete and
+real time monitoring of the vital water quality parameters.
+5. Students will acquire knowledge about water quality management, control including
+groundwater remediation and vulnerability analysis.
+6. Student will be able to apply the knowledge of spatial analysis to provide useful
+mitigation strategies for water pollution problems.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome(CO)
+Students will become familiar with standards, principles,
+PCE61E07.1
+classifications and parameters of water quality.
+Students will be aware of the characteristics and different
+PCE61E0.2
+phenomena of different water bodies and irrigation systems.
+Students will gain knowledge about different water quality
+models and procedures to develop accurate and reliable
+PCE61E07.3
+numerical frameworks for temporal as well as spatial
+approximation of water quality in different water bodies
+Student will be acquainted about different monitoring devices
+PCE61E07.4 used in discrete and real time monitoring of the vital water
+quality parameters.
+Students will acquire knowledge about water quality
+PCE61E07.5 management, control including groundwater remediation and
+vulnerability analysis.
+Student will be able to apply the knowledge of spatial analysis
+PCE61E07.6 to provide useful mitigation strategies for water pollution
+problems.
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E05.1 2 2 3 3 3 3
+PCE61E05.2 3 2 3 3 3 3
+PCE61E05.3 3 2 3 3 3 3
+PCE61E05.4 3 2 3 3 3 3
+PCE61E05.5 3 2 3 3 3 3
+PCE61E05.6 3 3 3 3 3 3
+Total 17 13 18 18 18 18
+Average 2.83 2.16 3 3 3 3
+Equivalent
+Average 3 2 3 3 3 3
+Attainment
+37 | P ag e
+
+--- Page 39 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E05.1 2 2
+PCE61E05.2 3 3
+PCE61E05.3 3 3
+PCE61E05.4 3 3
+PCE61E05.5 3 3
+PCE61E05.6 3 3
+Total 17 17
+Average 2.83 2.83
+Equivalent Average
+3 3
+Attainment
+38 | P ag e
+
+--- Page 40 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+APPLICATION OF GEO-INFORMATICS IN WATER RESOURCE
+MANAGEMENT
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To impart knowledge about the planning and management of water resources.
+2. To introduce the concepts of watershed management, integrated water resources
+management, environmental interaction of water resources and policies/framework
+related to water resources.
+3. To enable student to understand the different components of water resources and their
+management
+Course content:
+Unit- 1
+Management of hydrological data, Linear Programming and its application in water resources
+development, Inventory control.
+Unit -2
+Analysis of risk and uncertainties, Dynamics programming Statistical decision model, Water
+policies and institutional aspects of management of water resources.
+Unit -3
+Hierarchical modeling of water resources development, Management of watersheds and
+water quality.
+Unit -4
+Reservoir & stream flow routing, probability, risk and uncertainty analysis.
+Unit – 5
+Urban water supply planning/management, cost-benefit analysis in water resources planning,
+planning of watersheds
+Watershed behaviour and conservation practices, trans-boundary water resources.
+Unit – 6
+National water policy, water withdrawals & uses, trans-boundary water resources.
+References:
+Sl.
+Name of Book Author
+No.
+Warren Viessman Jr. and Claire
+1 Water Management
+Welty
+2 Developments in Water Science S. K. Jain and V. P. Singh
+3 Water Resources Engineering Larry W. Mays
+39 | P ag e
+
+--- Page 41 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Ralph A. Wurbs and Wesley P.
+4 Water Resources Engineering
+James
+5 Water Resources Systems, Planning & Management S. K. Jain & V. P. Singh
+6 Modeling Water qualities and Management Asit K. Biswas
+7 Hierarchical Analysis of Water Resources System Y.Y. Haimes
+8 Waste Water Engineering Treatment and Reuse Matfalf / Eddy
+Sustainable water Management Solutions for Large
+9 Dragar A, Savic, Mignel A.
+Cities
+Principle of Water Resources History, Development,
+10 Thomas V. Cech
+Management, Policy:
+Course outcome:
+1. Students will be able to identify different problems related to water resources planning,
+management and development.
+2. Students will be able to describe various concept and problems of water related issues.
+3. Students will be able to identify the risk and uncertainties of water related issues
+4. Students will be able to do the cost-benefit analysis in water resources planning
+5. Students will be able to do the urban water supply planning/management, cost-benefit
+analysis in water resources planning, planning of watersheds.
+6. Students will be able to gain knowledge about the national water policy.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to identify different problems related to
+PCE61E08.1
+water resources planning, management and development
+Students will be able to describe various concept and problems
+PCE61E08.2
+of water related issues
+Students will be able to identify the risk and uncertainties of
+PCE61E08.3
+water related issues
+Students will be able to do the cost-benefit analysis in water
+PCE61E08.4
+resources planning
+Students will be able to do the urban water supply
+PCE61E08.5 planning/management, cost-benefit analysis in water resources
+planning, planning of watersheds.
+Students will be able to gain knowledge about the national
+PCE61E08.6
+water policy.
+40 | P ag e
+
+--- Page 42 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E09.1 3 2 3 3 3 3
+PCE61E09.2 3 2 3 3 3 3
+PCE61E09.3 3 2 3 3 3 3
+PCE61E09.4 3 3 3 3 3 3
+PCE61E09.5 3 3 3 3 3 3
+PCE61E09.6 3 2 3 3 3 3
+Total 18 14 18 18 18 18
+Average 3 2.33 3 3 3 3
+Equivalent
+Average 3 2 3 3 3 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E09.1 3 3
+PCE61E09.2 3 3
+PCE61E09.3 3 2
+PCE61E09.4 3 2
+PCE61E09.5 3 2
+PCE61E09.6 3 2
+Total 18 14
+Average 3 2.33
+Equivalent Average
+3 2
+Attainment
+41 | P ag e
+
+--- Page 43 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+SYSTEMS ANALYSIS IN WATER RESOURCES
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To interpret the concept of system analysis and design with respect to water-based
+system.
+2. To understand the fundamental systems development life cycle and its four phases.
+3. To interpret the evolution of systems development methodologies.
+4. To be acquainted with the different roles played by and the skills of a systems
+analyst.
+5. To be familiar with the basic understanding and modeling of systems.
+6. To be comfortable with the basic role of system analyst and about the methods of
+optimization of the system operation.
+Course Content:
+Unit-1
+Introduction
+Definition, Systems, Roles, and Development Methodologies,Types of Systems,Integrating
+Technologies for Systems,The Systems Development Life Cycle (SDLC), Identifying
+Problems, Opportunities, and Objectives in SDLC, Analyzing, Evaluating and Implementing
+the System in SDLC.
+Unit-2
+The Systems Development Life Cycle
+Planning, Analysis, Design, Implementation, Introduction to operations research - Linear
+programming, problem formulation, graphical solution, solution by simplex method -
+Sensitivity analysis, application to design and operation of reservoir, single and multipurpose
+development plans - Case studies.
+Unit-3
+Systems Development Methodologies
+Structured Design, Rapid Application Development (RAD), Agile Development, Selecting
+the Appropriate Development Methodology.Using data flow diagram; Using data
+dictionaries,Describing process specifications and structured decisions; The system proposal.
+Unit-4
+Understanding and Modeling Organizational Systems
+Basic principles and concepts, Systems and the Entity-Relationship Model, Case Modeling,
+Case Relationships, Case Diagrams, Case Scenarios, Case Levels, Level of Management.
+Unit-5
+System Dynamics, Modeling and Optimization
+42 | P ag e
+
+--- Page 44 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Integer and parametric linear programming, Goal programming models with applications,
+Discrete differential dynamic programming and incremental dynamic programming, Linear
+decision rule models with application - Stochastic dynamic programming models,
+Optimization Techniques, Multi Criteria Decision Making Techniques, Case Studies of
+Multi-reservoir Optimization, Case Studies of Agro-based Water Intensive Industries.
+Unit-6
+Operation Research and role of System Analyst
+Business Analyst, Systems Analyst, Infrastructure Analyst, Change Management, Historical
+Background, Scope of Operations Research , Features of Operations Research, Phases of
+Operations Research, Types of Operations Research Models, Operations Research
+Methodology, Operations Research Techniques and Tools , Structure of the Mathematical
+Model, Limitations of Operations Research, Case Studies of Water Based Systems.
+References:
+Sl.
+Name of the Book Author
+No.
+Alan Dennis, Barbara Wixom, Roberta
+1 Systems Analysis and Design, 7th Edition
+M. Roth
+Systems Life Cycle Costing Economic
+2 John V. Farr
+Analysis, Estimation, and Management
+Modeling and Analysis of Dynamic Systems,
+3 Ramin S. Esfandiari, Bei Lu
+Second Edition
+4 Systems Analysis and Design Scott Tilley, Harry J. Rosenblatt
+Systems Analysis & Design Fundamentals: A
+5 Ned Kock
+Business Process Redesign Approach
+Operations Research (3 Edition) : Theory And
+6 J K Sharma
+Applications
+7 Business Statistics J. K. Sharma
+8 Production and Operations Management Kanishka Bedi
+Optimization Methods in Operations Research
+9 K.V. Mital
+and Systems Analysis
+10 Optimization in Operations Research Ronald L. Rardin
+Course Outcome:
+1. Students will be able to develop the basic knowledge of System Analysis and
+Design
+2. Students will be able to understand the intricacies of Systems Development Life
+Cycle
+3. Students will be able to grasp the concepts of System Development
+Methodologies.
+4. Students will be able to discuss about the organization systems and simulate the
+same for finding the optimal operation level.
+5. Students will be able to develop and model scenarios to find the optimal
+profitability under minimum loss in a system.
+6. Students will be able to understand the role of system analyst in operation research.
+43 | P ag e
+
+--- Page 45 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to develop the basic knowledge of System
+PCE61E04.1
+Analysis and Design.
+Students will be able to understand the intricacies of Systems
+PCE61E04.2
+Development Life Cycle.
+Students will be able to grasp the concepts of System Development
+PCE61E04.3
+Methodologies.
+Students will be able to discuss about the organization systems and
+PCE61E04.4
+simulate the same for finding the optimal operation level.
+Students will be able to develop and model scenarios to find the optimal
+PCE61E04.5
+profitability under minimum loss in a system.
+Students will be able to understand the role of system analyst in
+PCE61E04.6
+operation research.
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E04.1 3 3 3 2 2 2
+PCE61E04.2 3 2 3 2 2 2
+PCE61E04.3 3 2 3 2 2 2
+PCE61E04.4 3 2 3 2 2 2
+PCE61E04.5 3 3 3 2 2 2
+PCE61E04.6 3 2 3 2 2 2
+Total 18 14 18 12 12 12
+Average 3 2.33 3 2 2 2
+Equivalent Avgerage 3 2 3
+2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E04.1 3 2
+PCE61E04.2 3 2
+PCE61E04.3 3 3
+PCE61E04.4 3 3
+PCE61E04.5 3 3
+PCE61E04.6 3 3
+Total 18 16
+Average 3 2.66
+Equivalent Avg. Attainment 3 3
+44 | P ag e
+
+--- Page 46 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+UNDERWATER REMOTE SENSING AND LIFE CYCLE ASSESSMENT
+(PCE62E08)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To obtain fundamental understanding the phenomenon of aquatic ecology and
+environmental ecology.
+2. To understand the concept of climate change and extreme events.
+3. To obtain an understanding of water pollution and aquatic eco system.
+4. To understand the analysis of water and wastewater.
+5. To understand the importance and applicability of EIA and Environmental audit.
+Course content:
+Unit- 1
+Greenhouse effect, Climate change, extreme events, Global energy balance.
+Unit -2
+Cycle- Carbon cycle, oxygen cycle, nitrogen cycle, sulpher cycle, phosphorous and other
+nutrients
+Unit -3
+Lakes and reservoirs - dissolved oxygen balance and model
+Unit -4
+Water pollution and aquatic eco-system
+Unit – 5
+Water and wastewater analysis, municipal solid waste disposal techniques-leachate
+generation model
+Unit – 6
+Environmental impact assessment (EIA), environmental audit
+References:
+Sl.
+Name of Book Author
+No.
+Introduction to Environmental Engineering and Gilbert M. Masters
+1
+Science
+Noward S. Peavy and Donald R. Rowe
+2 Environmental Engineering
+3 Environmental Hydrology Andy D. Ward and Stanley W. Trimble
+Chemistry for Environmental Engineering and C. N. Sawyer, P. L. Mccarty and G. F.
+4
+Science Parkin
+5 Freshwater Ecology (Concepts and Walter K. Dodds
+45 | P ag e
+
+--- Page 47 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Environmental Applications):
+Mark J. Hammer
+6 Water and Wastewater Technology
+Course outcome:
+1. Students will be able to describe the phenomenon of aquatic ecology and
+environmental ecology.
+2. Students will be able to describe the concept of climate change and extreme events
+3. Students will be able to analyze the waste water quality and can be able to prepare a
+report regarding the same.
+4. Students will be able to describe the water pollution and aquatic eco system
+5. Students will be able to do the EIA and Environmental audit assessment of any real
+life problem.
+6.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to describe the phenomenon of aquatic
+PCE62E08.1
+ecology and environmental ecology.
+Students will be able to describe the concept of climate change
+PCE62E08.2
+and extreme events.
+Students will be able to analyze the waste water quality and
+PCE62E08.3 can be able to prepare a report regarding the same.
+Students will be able to describe the water pollution and
+PCE62E08.4
+aquatic eco system.
+Students will be able to do the EIA and Environmental audit
+PCE62E08.5
+assessment of any real life problem.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E08.1 3 2 3 3 3 3
+PCE62E08.2 3 2 3 3 3 3
+PCE62E08.3 3 3 3 3 3 3
+PCE62E08.4 3 2 3 3 3 3
+PCE62E08.5 3 3 3 3 3 3
+Total 15 12 15 15 15 15
+Average 3 2.4 3 3 3 3
+Equivalent Average
+3 2 2 3 3 3
+Attainment
+46 | P ag e
+
+--- Page 48 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E08.1 2 2
+PCE62E08.2 3 2
+PCE62E08.3 3 2
+PCE62E08.4 3 2
+PCE62E08.5 3 2
+Total 14 12
+Average 2.8 2
+Equivalent Average Attainment 3 2
+47 | P ag e
+
+--- Page 49 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+GIS APPLICATIONS IN MONITORING AND MANAGEMENT OF GROUND
+WATER
+Total Credit: 04
+Contact Periods: 04 (1L+3T+P)
+Courses Objective:
+1. To impart the fundamental concepts of ground water hydraulics.
+2. To provide the introduction of the basic principles of groundwater exploration.
+3. To enable the student to develop the required skill and intuition for management of
+ground water.
+4. To provide the introductory knowledge on the fundamentals of ground water pollution
+and ground water modeling.
+5. To teach the methodology of vulnerability assessment of ground water with the help
+of advanced soft computation methods
+6. To teach about the application of ground water in drainage engineering for sustainable
+management of both ground water and drainage.
+Course Content:
+Unit-1
+GROUND WATER HYDRAULICS
+Types of Aquifers, Vertical Distribution of Soil Water below the Ground, Porosity, Specific
+Yield, Hydraulic Conductivity and Storage Coefficient, their Practical Significance, Darcy’s
+Law and its Validity, Ground Water Flow Contours and their Applications, Tracer
+Techniques in Ground Water Flow Studies, Derivation of Basic Differential Equation and its
+Solutions, Steady and Unsteady Radial Flow of Ground Water towards a Well in Confined
+and Unconfined Aquifers, Analysis of Pumping Test Data, Thesis type Curve Method,
+Jacob’s Method for Time and Distance Draw Down Tests, Open Well Hydraulics,
+Recuperation Test.
+Unit-2
+GROUNDWATER EXPLORATION
+Remote sensing, hydrogeological methods, Electrical Methods, Expression for Apparent
+Resistivity in Four Electrode Arrangements viz. – Werner, Schlumberger Arrays, Field
+Surveys, Interpretation Techniques in Sounding, Profiling and Imaging for Ground Water
+Investigation, Seismic Refraction Method – Principle and Propagation of Refracted Energy in
+Two and ThreeMedia Earth, Field Procedure and Interpretation Techniques, Ground
+Penetrating Radar principle field procedure and Interpretation, well logging.
+Unit-3
+GROUND WATER MANAGEMENT
+Water Balance Studies, Perennial Yield, Concept of artificial recharge, Various types of
+artificial recharge techniques, Conjunctive use of surface and groundwater, Management of
+coastal aquifers – Ghyben Herzberg relation, upcoming of Saline Water, Methods of control
+of salt-water intrusion.
+48 | P ag e
+
+--- Page 50 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit-4
+GROUND WATER POLLUTION AND MODELLING
+Ground Water Quality, Ground Water Pollution, Elements and Source of Pollution, their
+Effects and Remedial Measures. Aquifer Modeling: Electrical Analog Models, RC Network
+Techniques, Principles of Digital Modeling of Aquifers, Flow Modeling Using Finite
+Difference Methods and Finite Element Methods, Advection Process, Diffusion and
+Dispersion Process, Solute Transport Modeling, Visual Groundwater, Case Studies.
+Unit-5
+GROUNDWATER VULNERABILITY ASSESSMENT
+Index-based vulnerability mapping models, Comparative study and discussion, Assessment
+of effectiveness of drastic model, Multi-criteria evaluation of hydrogeological and
+anthropogenic parameters, Implementation of modified drastic model and AHP-DRASTICL
+model,
+Unit-6
+DESIGN AND MANAGEMENT OF DRAINAGE SYSTEMS
+Drainage materials, Surface drainage systems, their components and applications in sloping
+areas, Subsurface drainage systems, Mole drainage, Tube well irrigation, Drainage
+application and design, Management, and maintenance of drainage systems.
+References:
+Sl.
+Name of Book Author
+No.
+1 Groundwater Science Charles R. Fitts
+2 Groundwater Hydraulics Kuniaki Sato
+3 Groundwater Hydrology David K. Todd and Larry W. Mays
+Groundwater Hydrology: Conceptual and
+4 K. R. Rushton
+Computational Models
+Geophysical Techniques for Groundwater
+5 Dr. K.R. Ramanuja Chary
+Exploration
+A Practical Guide to Groundwater and Solute
+6 Karlheinz Spitz and Joanna Moreno
+Transport Modeling
+Groundwater Hydrology: Engineering, Planning, Mohammad Karamouz, Azadeh
+7
+and Management Ahmadi
+8 Practical Problems in Groundwater Hydrology Scott Bair and Terry Lahm
+David B. McWhorter and Daniel K.
+9 Ground-Water Hydrology and Hydraulics
+Sunada
+Groundwater Vulnerability Assessment and
+10 Prashant Kumar, Praveen Thakur
+Mapping using DRASTIC Model
+Course Outcome:
+1. Student will learn the basic concepts of the design and management of ground water
+hydraulics.
+49 | P ag e
+
+--- Page 51 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+2. Students will be able to apply the knowledge of different ground water exploration
+techniques.
+3. Students will be familiar with the concept and practice of groundwater management.
+4. Students will be able to describe the cause and mitigation measure to prevent and
+model ground water pollution.
+5. Students will be acquainted with the different mechanism of vulnerability assessment
+of ground water.
+6. Students will be able to design and manage drainage network in connection to ground
+water.
+Table-1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE62E04.1 Student will learn the basic concepts of the design and management of ground
+water hydraulics.
+PCE62E04.2 Students will be able to apply the knowledge of different ground water
+exploration techniques.
+PCE62E04.3 Students will be familiar with the concept and practice of groundwater
+management.
+PCE62E04.4 Students will be able to describe the cause and mitigation measure to prevent
+and model ground water pollution
+PCE62E04.5 Students will be acquainted with the different mechanism of vulnerability
+assessment of ground water.
+PCE62E04.6 Students will be able to design and manage drainage network in connection to
+ground water
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E04.1 3 2 3 2 2 3
+PCE62E04.2 3 2 3 2 2 3
+PCE62E04.3 3 2 3 2 2 3
+PCE62E04.4 3 2 3 2 2 3
+PCE62E04.5 3 2 3 2 2 3
+PCE62E04.6 3 2 3 2 2 3
+Total 18 12 18 12 12 18
+Average 3 2 3 2 2 3
+Equivalent Avg. Attainment 3 2 3 2 2 3
+50 | P ag e
+
+--- Page 52 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E04.1 2 2
+PCE62E04.2 3 3
+PCE62E04.3 3 3
+PCE62E04.4 3 3
+PCE62E04.5 3 3
+PCE62E04.6 3 3
+Total 17 17
+Average 2.83 2.83
+Equivalent Avg. Attainment 3 3
+51 | P ag e
+
+--- Page 53 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+ELECTRICAL AND ENERGY ENGINEERING
+POWER PLANT ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To introduce students to different aspects of power plant engineering.
+2. To familiarize the students to the working of power plants based on different
+fuels.
+3. To expose the students to the principles of safety and environmental issues.
+Course Content
+Unit-1
+Fundamental of Power Plant
+Introduction, Concept of Power Plant, Classification Power Plant, Load-Duration Curve,
+Power Development in India, Resources for Power Generation, Indian Energy Scenario
+Future Planning for Power Generation.
+Unit-2
+Steam Cycles
+Steam Power Plant, Rankine Cycle, Carnot Cycle, Reheat Cycle, Regenerative Cycle, Binary
+Vapour Cycle, Reheat-Regenerative Cycle.
+Unit-3
+Steam Power Plant
+Introduction, Essentials of Steam Power Plant Equipment, Coal Handling, Fuel Burning
+Furnaces, Method of Fuel Firing, Automatic Boiler Control, Pulverized Coal, Pulverized
+Coal Firing, Pulverized Coal Burners, Water Walls, Ash Disposal, Soke and Dust Removal,
+Types of Dust Collector.
+Unit-4
+Steam Generator
+Introduction, Types of Boilers, Cochran Boilers, Lancashire Boiler, Locomotive Boiler,
+Babcock Wilcox Boiler, Industrial Boiler, Merits and Demerits of Water Tube Boilers over
+Fire Tube Boilers, High Pressure Boilers, Boiler Maintenance.
+Unit-5
+Steam Turbine
+Principle of Operation of Steam Turbine, Classification of Steam Turbine, Steam Turbine
+Governing, Steam Turbine Performance, Steam Turbine Testing, Choice of Steam Turbine,
+Steam Turbine Specification.
+52 | P ag e
+
+--- Page 54 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit-6
+Diesel Power Plant
+Introduction, Operating Principle, Basic Types of IC Engines, Advantage and Disadvantage
+of Diesel Power Plant, General Layout of Diesel Power Plant, Efficiency of Diesel Power
+Plant.
+Unit-7
+Nuclear Power Plant
+Nuclear Energy, Summary of Nuclear Energy Concepts and Terms, Chemical and Nuclear
+Equations, Nuclear Fusion and Fission, Energy from Fission and Fuel Burn Up, Nuclear
+Reactor, Classification of Reactors, Cost of Nuclear Power Plant, Nuclear Power Station in
+India, Reactor Power Control, Site Selection and Commissioning Procedure, Major Nuclear
+Power Disasters, Chernobyl Nuclear Power Plant, Safety Problems in Chernobyl Reactor
+Design.
+Unit-8
+Hydro Electric Power Plant
+Introduction, Site selection for Hydro Power Plant, Types of Hydro Power Plant, Powe Plant
+Accessories, Power House and Turbine Setting, Prime-Movers, Selection of Turbine.
+Unit-9
+Solar Energy
+The Sun as a Source of Energy, Measurement of Solar Radiation, Solar Cell Fundamentals,
+Solar Cell Characteristics, Solar Cell Classification, Maximizing the Solar PV output, Solar
+PV Systems, Solar PV Applications.
+Unit-10
+Wind Energy
+Origin of Wind, Wind Turbine Aerodynamics, Wind Turbine Types and Their Construction,
+Wind Energy Programme in India
+Unit-11
+Electrical Systems
+Generators and Motors their cooling, Transformers and their cooling.
+References:
+Sl.
+Name of Book Author
+No.
+Renewable Energy: Power for a Sustainable
+1 Stephen Peake
+Future
+Hydroelectric Energy: Renewable Energy and the
+2 Ajoy Karki and Bikash Pandey
+Environment
+3 Solar Energy S P Sukhatme and J K Nayak
+Solar Photovoltaics - Fundamentals, Technologies,
+4 Solanki C.S
+and Applications
+5 Wind Power Technology Joshua Earnest and Sthuthi' Rachel
+6 Wind Electrical Systems S. N. Bhadra
+R. Bhattacharyya, M.E.
+7 Wave Energy Conversion
+McCormick
+53 | P ag e
+
+--- Page 55 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+8 Handbook of Ocean Wave Energy Arthur Pecher, Jens Peter Kofoed
+9 Handbook of Energy Audit Sonal Desai
+10 Energy Management and Conservation P. Venkataseshaiah K.V. Sharma
+A.K. Raja, Amit Prakash Srivastav,
+11 Power Plant Engineering
+Manish Dwivedi
+B H Khan.
+12 Non-Conventional Energy Resources
+13 Power Plant Engineering P K Nag.
+Course Outcome:
+1. Students will able to describe and analyze different types of sources and
+mathematical expressions related to thermodynamics and various terms and
+factors involved with power plant operation.
+2. Students will able to analyze the working and layout of steam power plants and the
+different systems comprising the plant and discuss about its economic and safety
+impacts.
+3. Students will able to combine concepts of previously learnt courses to define the
+working principle of diesel power plant, its layout, safety principles and compare it
+with plants of other types.
+4. Students will able to describe the working principle and basic components of the
+nuclear power plant and the economic and safety principles involved with it.
+5. Students will able to discuss the working principle and basic components of
+the hydro electric plants and the economic principles and safety precautions
+involved with it.
+6. Students will able to discuss and analyze the mathematical and working principles
+of different electrical equipments involved in the generation of power.
+Table-1: To establish the correlation between COs & Pos
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to describe and analyze different types of sources
+PCE61E02.1 and mathematical expressions related to thermodynamics and various
+terms and factors involved with power plant operation.
+Students will be able to analyze the working and layout of steam power
+PCE61E02.2 plants and the different systems comprising the plant and discuss about
+its economic and safety impacts
+Students will be able to understand combine concepts of previously learnt
+PCE61E02.3 courses to define the working principle of diesel power plant, its layout,
+safety principles and compare it with plants of other types.
+Students will be able describe the working principle and basic
+PCE61E02.4 components of the nuclear power plant and the economic and safety
+principles involved with it.
+Students will be able to discuss the working principle and basic
+PCE61E02.5 components of the hydro electric plants and the economic principles and
+safety precautions involved with it.
+54 | P ag e
+
+--- Page 56 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Students will be able to understand and analyze the mathematical and
+PCE61E02.6 working principles of different electrical equipments involved in the
+generation of power.
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO1 PO4 PO5 PO6
+PCE21E02.1 3 3 3 3 2 1
+PCE21E02.2 3 3 3 3 2 1
+PCE21E02.3 3 2 3 3 2 1
+PCE21E02.4 3 2 3 3 2 1
+PCE21E02.5 3 2 3 3 2 1
+PCE21E02.6 3 3 3 3 2 1
+Total 18 15 18 18 12 6
+Average 3 2.5 3 3 2 1
+Equivalent Avg.
+3 3 3 3 2 1
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE21E02.1 3 2
+PCE21E02.2 3 3
+PCE21E02.3 3 3
+PCE21E02.4 3 3
+PCE21E02.5 3 3
+PCE21E02.6 3 2
+Total 18 16
+Average 3 2.22
+Equivalent Avg. Attainment 3 2
+55 | P ag e
+
+--- Page 57 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+RENEWABLE ENERGY SYSTEM
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To impart the fundamental concepts of new and renewable energy systems.
+2. To make quantitative judgments and perform computations of the different
+subsystems of solar energy systems.
+3. To learn about the different technologies available in location selection, resource
+assessment and conversion of wind energy.
+4. To provide the knowledge on the fundamentals of dams and hydropower generation
+5. To describe the principles and technical solutions for different wave power concepts
+and use this knowledge to evaluate different wave power systems from technical,
+environmental and societal aspects.
+6. To use numerical, analytical, and experimental tools to model and optimize the
+management of renewable energy system based on the concept of energy audit and
+economy of the same system.
+Course Content:
+Unit-1
+FUNDAMENTAL CONCEPTS
+Energy Scenario: Classification of Energy Sources, Energy resources (Conventional and
+nonconventional), Energy needs of India, and energy consumption patterns, Worldwide
+Potentials of these sources, Energy efficiency and energy security. Energy and its
+environmental impacts, Distributed generation, Energy storage and hybrid system
+configurations: Energy storage, Battery – types, equivalent, circuit, performance
+characteristics, battery design, charging and charge regulators, Battery management.
+Flywheel-energy relations, Location selection studies.
+Unit-2
+SOLAR ENERGY SYSTEMS
+Solar thermal Systems: Types of collectors, Collection systems, efficiency calculations,
+applications. Photo voltaic (PV) technology: Present status, solar cells, cell technologies,
+characteristics of PV systems, equivalent circuit, array design, building integrated PV system,
+its components, sizing, and economics, Peak power operation. Standalone and grid interactive
+systems.
+Unit-3
+WIND ENERGY CONVERTERS
+Wind resource assessment, Wind speed and power relation, power extracted from wind, wind
+distribution and wind speed predictions. Wind power systems: classification, system
+components, Types of Turbines, Turbine rating. Choice of generators, turbine rating,
+electrical load matching, Variable speed operation, maximum power operation, control
+systems, system design features, stand alone and grid connected operation.
+56 | P ag e
+
+--- Page 58 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit-4
+DAMS AND HYDROPOWER PLANT
+Dam break analysis, Runs Test, Classification of Dams, Gravity and Arch Dams, Design and
+Management, Factor of Safety Analysis of Dams, Risk and Reliability Analysis, Introduction
+to hydropower, types of hydropower, location selection studies, penstock, turbine and
+generator design and optimization, microturbines, scheduling concepts.
+Unit-5
+WAVE ENERGY CONVERTERS
+Ocean energy resources, Ocean energy routes, Classification, Ocean waves: formation,
+characterizations, wave climate, energy content, resources and measurement. Ocean thermal
+energy conversion, Wave energy conversion, Design of Power Takeoff, Mooring Structure,
+Hydraulic Circuits, Numerical Modelling of Wave Energy Converters. Tidal energy
+conversion.
+Unit-6
+AUDIT AND MANAGEMENT OF RENEWABLE ENERGY SYSTEMS
+Energy Audit, Types of Audit, Vulnerability Assessment of Renewable Energy Systems,
+Application of Multi Criteria Decision Making Tools on Renewable Energy Systems, GIS in
+Renewable Energy, Reliability and Risk Analysis, Levelized cost of electricity.
+References:
+Sl.
+Name of Book Author
+No.
+1 Renewable Energy System Design Ziyad Salameh
+2 Fundamentals of Renewable Energy Systems D. Mukherjee and S. Chakrabarti
+Solar Energy Fundamentals and Modeling
+3 Z.Sen
+Techniques
+Solar Energy for Beginners: The Complete Guide
+4 Catherine Gregory
+to Solar Power Systems, Panels & Cells
+5 Wind energy: Theory and Practice Siraj Ahmed
+A Practical Guide to Groundwater and Solute
+6 Transport ModelingA Practical Guide to Suchintya Kumar Sur
+Construction of Hydropower Facilities
+7 Wave Energy Conversion John Brooke
+8 Numerical Modelling of Wave Energy Converters Matt Folley
+Energy Audit Made Simple: Energy auditing
+9 Balasubramanian P
+Manual
+10 Energy Management, Audit and Conservation Barun Kumar De
+Course Outcome:
+1. Student will learn about the basics, types, conversion mechanisms of new and
+renewable energy systems.
+57 | P ag e
+
+--- Page 59 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+2. Student will be able to design solar based power farms for maximum conversion of
+available solar energy under minimum cost.
+3. Student will become familiar about the various technologies available in location
+selection, resource assessment and conversion of wind energy potential.
+4. Student will be acquainted about the fundamentals of dams and hydropower
+generation and related analytic tools and techniques.
+5. Student will be conversant with the principles and technical solutions for different
+wave power converters and it applications for maximum utilization of available wave
+energy potential.
+6. Student will be able to apply the numerical, analytical, and experimental tools to audit
+and manage any new and renewable energy systems for maximum utilization of the
+potential.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Student will learn about the basics, types, conversion
+PCE62E02.1
+mechanisms of new and renewable energy systems.
+Student will be able to design solar based power farms for
+PCE62E02.2 maximum conversion of available solar energy under
+minimum cost.
+Student will become familiar about the various technologies
+PCE62E02.3 available in location selection, resource assessment and
+conversion of wind energy potential.
+Student will be acquainted about the fundamentals of dams
+PCE62E02.4 and hydropower generation and related analytic tools and
+techniques.
+Student will be conversant with the principles and technical
+solutions for different wave power converters and it
+PCE62E02.5
+applications for maximum utilization of available wave energy
+potential.
+Student will be able to apply the numerical, analytical, and
+experimental tools to audit and manage any new and
+PCE62E02.6
+renewable energy systems for maximum utilization of the
+potential.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E02.1 3 2 3 2 2 2
+PCE62E02.2 3 2 3 2 2 2
+PCE62E02.3 3 2 3 2 2 2
+PCE62E02.4 3 2 3 2 2 2
+PCE62E02.5 3 2 3 2 2 2
+PCE62E02.6 3 2 3 2 2 2
+58 | P ag e
+
+--- Page 60 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Total 18 12 18 12 12 12
+Average 3 2 3 2 2 2
+Equivalent 2 2 2
+Average 3 2 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E02.1 3 3
+PCE62E02.2 3 3
+PCE62E02.3 3 3
+PCE62E02.4 3 3
+PCE62E02.5 3 3
+PCE62E02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Average
+3 3
+Attainment
+59 | P ag e
+
+--- Page 61 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+ADVANCE HYDROPOWER ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To discover principles of operation and design of specific types of hydropower
+plants and installation of the necessary accessories for a specific location.
+2. To impart basic hydraulic solutions and proposals for hydraulic structures
+corresponds to hydropower and design of technological devices.
+3. To enable student to develop independent problem-solving skill in the field of
+construction and design in hydroelectricity.
+Course Content:
+Unit- 1
+Electrical Load on Hydro-Turbines
+Overview. Load Curve. Load Factor. Capacity Factor. Utilization factor. Diversity Factor.
+Load Duration Curve. Firm Power. Secondary Power. Prediction of Load.
+Unit -2
+Low and High Head Plants
+Classification of Hydel Plants. Runoff River Plants. General Arrangement of Runoff River
+Plants. Valley Dam Plants. Diversion Canal Plants. High Head Diversion Plants. Storage and
+Pondage.
+Unit -3
+Pumped Storage Power Plant
+Basic features. Advantage and Types. Two unit and Three units arrangement. Reversible
+Pump-Turbines. Problems of operation. Topography. Reservoir and Water conveyance.
+Powerhouse. Efficiency of pumped storage plant.
+Unit -4
+Dams and Spillways
+Dam- Overview. Function of a Dam. Classification of Dams. Selection of site and choice of
+Dam. Gravity Dams. Embankment Dams: Arch dams. Buttress Dams. Safety of Dams
+Spillways- Types of spillways. Spillways Gate. Automatic and Non-automatic Gates. Dam
+sluices. Energy dissipation below spillways.
+Unit – 5
+Penstocks and Accessories
+General. Classification of Penstocks. Design Criteria for Penstokes. Economical Diameter of
+Penstock. Anchor Blocks, Conduit Valves. Types of Valves. Bends and Mainfolds.
+60 | P ag e
+
+--- Page 62 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit – 6
+Water Hammer, Surges, Intakes, Canals and Tunnels
+Introduction. Water Hammer, Resonance in Penstocks. Channel Surges. Surge Tanks.
+Intakes, Types of Intakes, Losses in Intakes, Air entrainment in Intakes. Inlet aeration.
+Canals. Forebay. Tunnels.
+Unit – 7
+Electrical and Mechanical Equipment
+Generators. Excitation. Ventilation. Cooling and Lubrication. Transformer, switch gear,
+Control Room equipment. Turbine. Mechanical Equipment. Transmission of Electric power.
+Unit – 8
+Power House Planning
+Surface Power Station. Underground Power Station
+Unit – 9
+Tidal Power
+Tidal Phenomenon. Tidal Power-Basic principle, location, difficulties in power generation,
+Components, modes of generation. Single basin arrangement. Double basin arrangement.
+Cooperating double basing system. Estimation of energy and power. Regulation of power
+output. Corrosion control and quality of concrete. Economic feasibility.
+References:
+Sl.
+Name of Book Author
+No.
+1 Hydro‐electrical Engineering Creager and Justin
+2 Water Power Engineering H. K. Barrows
+3 Water Power Development Mosony L., Emil, Budapest, Pub
+4 Water Power Engineering M.M. Dandekar and K.N. Sharma
+5 Hydro –Electric and Pump Storage Plants MG Jog
+Water Power Engineering-The theory,
+6 Daniel, W. Mead, Member ASCE
+investigation and development of water power
+7 A text Book of Water Power Engineering R.K.Sharma and T.K.Sharma
+Course Outcome:
+1. Students will be able to describe the phenomenon water flow through a power
+station.
+2. Students will be able to theoretical calculations on hydropower dams and spillway
+discharge.
+3. Students will be able to describe the concept of electrical components and perform
+calculations of the parameters of the electrical system
+4. Students will be able to describe the Electrical and Mechanical Equipment.
+5. Students will be able to understand the environmental effects of hydropower
+installations
+61 | P ag e
+
+--- Page 63 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+6. Students will be able to have the fundamental understanding about the Tidal
+Power.
+7. Students will be able to utilize the concepts in the course to analyse similar
+systems and be able to do the project related work.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to describe the phenomenon water
+PCE62C02.1
+flow through a power station
+Students will be able to theoretical calculations on
+PCE62C02.2
+hydropower dams and spillway discharge
+Students will be able to describe the concept of electrical
+PCE62C02.3 components and perform calculations of the parameters
+of the electrical system
+Students will be able to describe the Electrical and
+PCE62C02.4
+Mechanical Equipment
+Students will be able to understand the environmental
+PCE62C02.5
+effects of hydropower installations
+Students will be able to have the fundamental
+PCE62C02.6
+understanding about the Tidal Power.
+Students will be able to utilize the concepts in the course
+PCE62C02.7 to analyse similar systems and be able to do the project
+related work.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62C02.1 3 2 3 3 3 3
+PCE62C02.2 3 2 3 3 3 3
+PCE62C02.3 3 2 3 3 3 3
+PCE62C02.4 3 2 3 3 3 3
+PCE62C02.5 3 2 3 3 3 3
+PCE62C02.6 3 2 3 3 3 3
+PCE62C02.7 3 3 3 3 3 3
+Total 21 15 21 21 21 21
+Average 3 2.14 3 3 3 3
+Equivalent Average 3 2 3
+3 3 3
+Attainment
+62 | P ag e
+
+--- Page 64 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62C02.1 2 2
+PCE62C02.2 3 3
+PCE62C02.3 3 3
+PCE62C02.4 3 3
+PCE62C02.5 2 2
+PCE62C02.6 2 3
+PCE62C02.7 3 3
+Total 18 19
+Average 2.57 2.71
+Equivalent Average 3 3
+Attainment
+HYDROLOGY AND HYDRAULIC INSTRUMENTS
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+63 | P ag e
+
+--- Page 65 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+1. To introduce the students to know about importance of hydrology and
+measurement of hydrologic properties.
+2. The students will learn how to measure the hydrologic properties using hydraulic
+instruments.
+3. To enable student to find losses of water and help in better management of water
+resources
+Course Content:
+Unit-1
+Introduction: The hydrological cycle, Inventory of Earth's water, Water Budget Equation,
+Applications in Engineering, History of Hydrology.
+Unit-2
+Precipitation: Forms of precipitation other than rain, Measurement of Precipitation, Rain
+gauge network, Preparation and presentation of rainfall data, the extension and interpretation
+of data, various graphical relationships, Rainfall data in India.
+Unit-3
+Evaporation and Transpiration: Transpiration, Methods of estimating evaporation, Direct
+measurement of evaporation by pans, Consumptive use, Evapotranspiration, Measurements
+of evapotranspiration, Potential and Actual evapotranspiration, Evaporation from land
+surfaces using Penman's E value, Thornthwaite's formulae for evapotranspiration.
+0
+Unit-4
+Infiltration and Percolation: Infiltration capacity of the Soil, Factors influencing
+,
+Classification of Infiltration capacities, Methods of determining infiltration capacity,
+Infiltration Indices, Soil Moisture.
+Unit-5
+Surface Runoff: The engineering problem, Catchment characteristics and their effects on
+runoff, Flow rating curves: their determination, adjustment and extension, Hydrograph,
+Estimation of mean flow Q , Graphical curves.
+m
+Unit-6
+Floods and Flood Routing: Introduction, Rational method and empirical formulae, Unit
+Hydrograph method, Gumbel’s method, Frequency Studies
+The storage equation, Reservoir routing, Routing in a river channel, Graphical routing
+methods, Synthetic unit graphs from flood routing.
+Unit-7
+Hydrologic Instruments: Description and working of Water Level recorders (different types) ,
+Water Velocity meters (different types) , Water Current meters (different types), the silt
+analysis, TDS, PH Value, Dissolved Oxygen and Water temperature equipment, River flow
+64 | P ag e
+
+--- Page 66 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+simulator equipment
+References
+1. Advanced Hydrology, K.Subramanya.
+2. Engineering Hydrology, E.M.Wilson.
+3. Applied Hydrology,KN Mutreja.
+4. Applied Principles of Hydrology, John C. Manning.
+5. Hydraulics and Hydrology Equipment, Didac International.
+6. Hydrologic Equipment, R. K.Engineering.
+Course Outcome:
+1. Students will be able to understand about Hydrologic cycle.
+2. Students will be able to learn the methods of calculation and presentation of rainfall
+data.
+3. Students will be able to know about loss of surface water due to evaporation,
+Infiltration and runoff.
+4. Students will be able to understand about how crucial the infiltration losses are and how
+to calculate them using equations and indices.
+5. Students will be able to learn calculation and graphical representation of various water
+losses.
+6. Students will be able to understand about floods and flood routing and their
+calculation.
+7. Students will be able to understand and learn about various hydrologic instruments.
+Table 1: To establish the correlation between COs & POs
+No. of Course
+Outcome Course Outcome
+(CO)
+PCE61C02.1
+Students will be able to understand about Hydrologic cycle.
+Students will be able to learn the methods of calculation and
+PCE61C02.2
+presentation of rainfall data.
+Students will be able to know about loss of surface water due to
+PCE61C02.3
+evaporation, Infiltration and runoff.
+Students will be able to understand about how crucial the infiltration
+PCE61C02.4
+losses are and how to calculate them using equations and indices.
+Students will be able to learn calculation and graphical representation of
+PCE61C02.5
+various water losses.
+Students will be able to understand about floods and flood
+PCE61C02.6
+routing and their calculation.
+Students will be able to understand and learn about various hydrologic
+PCE61C02.7
+instruments.
+Table-2: Correlation between COs & POs
+65 | P ag e
+
+--- Page 67 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21C02.1 3 2 3 2 2 2
+PCE21C02.2 3 2 3 2 2 2
+PCE21C02.3 3 2 3 2 2 2
+PCE21C02.4 3 2 3 2 2 2
+PCE21C02.5 3 2 3 2 2 2
+PCE21C02.6 3 2 3 2 2 2
+PCE61C02.7 3 2 3 2 2 2
+Total 21 14 21 14 14 14
+Average 3 2 3 2 2 2
+Equivalent Avg.
+3 2 3 2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE21C02.1 3 2
+PCE21C02.2 3 2
+PCE21C02.3 3 3
+PCE21C02.4 3 2
+PCE21C02.5 3 3
+PCE21C02.6 3 3
+PCE61C02.7 3 2
+Total 21 17
+Average 3 2.42
+Equivalent Avg. Attainment 3 2
+66 | P ag e
+
+--- Page 68 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+AGRICULTURE/ SOFT COMPUTING/OTHERS
+INTERNET OF THINGS APPLICATIONS IN AGRICULTURE
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To obtain fundamental understanding and application of the principles of irrigation
+2. To be able to interpret the inherent mechanisms of irrigation systems with
+performance indicators.
+3. To learn about the main components of irrigation systems.
+4. To demonstrate the ability to apply management policies on participatory irrigation.
+5. To apply and perform land grading and functional analysis.
+6. To understand the concept of crop water requirement
+Course content:
+Unit-1
+PRINCIPLES OF IRRIGATION
+Principles of irrigation systems, evaluation of systems, selection of systems, basic irrigation
+scheduling, measurements of water flow, soil moisture, pump and system efficiencies.
+Importance of Irrigation in Agriculture, Historical evolution of irrigation in India, Irrigation
+development during pre-colonization, Colonization and post-colonization, Different types of
+Irrigation prevalent in India, Command area development approach and farmers‟
+participation.
+Unit-2
+IRRIGATION SYSTEMS AND PERFORMANCE INDICATORS
+Systems classification, Institutions for irrigation management, Diagnostic Analysis of
+Irrigation Systems, Rehabilitation and modernization, Performance indicators, Improving
+system performance, Conjunctive management, constraints faced.
+Unit-3
+SYSTEM MANAGEMENT
+Main system components, Reservoir allocation rule, Operating rule and optimization methods
+to improve main system performance, irrigation scheduling, Constraints.
+Unit-4
+COMMAND AREA DEVELOPMENT AND PARTICIPATORY IRRIGATION
+MANAGEMENT
+Command area development principles, Participatory Irrigation Management and Irrigation,
+management transfer, Case studies, Constraints.
+Unit-5
+LAND GRADING, FIELD LAYOUT AND DRAINAGE
+67 | P ag e
+
+--- Page 69 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Criteria for Land Leveling, Land Grading Survey and Design, Equipment of Land Grading,
+Field Layout suiting different crops. Conveyance of Irrigation Water, Field Channels,
+Different lining materials, Design of field channels, Drop structures, Conveyance of water
+through underground pipe lines, Drainage of Irrigated Lands: Salt problems in Soil and
+Water, Water logging in irrigated areas, Causes, Methods for Controlling water logging,
+Drainage, Surface and Subsurface Drainage Systems, Suitability of these methods, Design of
+Drainage Systems, Reclamation and Management of Salt Affected Soils.
+Unit-6
+WATER REQUIREMENT OF CROPS
+Meteorological Parameters needed in estimating water requirement of crops, Their
+measurements, Methods for estimating evapotranspiration of crops, Consumptive Use,
+Irrigation Requirement of Principal Crops, Duty, Delta and Base Period and
+Interrelationships, Factors Affecting the Duty, Cropping Patterns, Irrigation Efficiencies.
+References:
+Sl.
+Name of Book Author
+No.
+Irrigation system design - an engineering
+1 Cuenca, R.H.
+approach
+2 Sprinkle and Trickle Irrigation. Keller, J.
+3 Irrigation: Theory and Practice Michael. A.M
+4 Land and Water Management Engineering V.V.N. Murthy
+5 Irrigation Engineering N NBasak
+Crop Water Requirement Evapotranspiration
+6 Mehta Rashmi
+Estimation
+Course outcome:
+1. Students will be able to apply different concepts of principles of irrigation.
+2. Students will be able to develop an idea of performance indicators of irrigation
+systems.
+3. Students will familiarize with different allocation and scheduling mechanisms.
+4. Students will be able to generate designs and analyses the performance of irrigation
+systems.
+5. Students will be able to analyze the designs of land grading, field layout and drainage
+engineering.
+6. Students will be able to optimize and suggest the best variations for maximization of
+crop water requirement.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to apply different concepts of
+PCE61E08.1
+principles of irrigation
+Students will be able to develop an idea of performance
+PCE61E08.2
+indicators of irrigation systems.
+68 | P ag e
+
+--- Page 70 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Students will familiarize with different allocation and
+PCE61E08.3
+scheduling mechanisms
+Students will be able to generate designs and analyses
+PCE61E08.4
+the performance of irrigation systems.
+Students will be able to analyze the risk and reliability
+PCE61E08.5 of the designs of land grading, field layout and drainage
+engineering.
+Students will be able to optimize and suggest the best
+PCE61E08.6 variations for maximization of crop water production
+and minimization of cost from the system
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE61E08.1 23 2 3 3 3 3
+PCE61E08.2 3 3 3 3 3 3
+PCE61E08.3 3 2 3 3 3 3
+PCE61E08.4 3 3 3 3 3 1
+PCE61E08.5 3 2 3 3 3 3
+PCE61E08.6 3 3 3 3 3 3
+Total 18 15 18 18 18 16
+Average 3 2.5 3 3 3 2.7
+Equivalent
+Average 3 3 3 3 3 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE61E08.1 2 2
+PCE61E08.2 3 3
+PCE61E08.3 3 3
+PCE61E08.4 3 3
+PCE61E08.5 3 3
+PCE61E08.6 3 3
+Total 17 17
+Average 2.83 2.83
+Equivalent Average
+3 3
+Attainment
+69 | P ag e
+
+--- Page 71 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+OPTIMIZATION TECHNIQUE
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To obtain fundamental understanding and application of estimation theory and basic
+statistics.
+2. To be able to interpret the hypothesis testing and its related tests for identification of
+relationship.
+3. To obtain an understanding about different types of correlation coefficient.
+4. To demonstrate the ability to apply design of experiment in model formulation.
+5. To apply and perform multivariate analysis.
+6. To understand the concept of optimization and to learn about different optimization
+techniques.
+Course Content:
+Unit- 1
+OPERATION RESEARCH
+Introduction, Concept of OR, Decision Theory, Estimators: Unbiasedness, Consistency,
+Efficiency and Sufficiency, Maximum Likelihood Estimation, Method of moments, Outlier
+Detection, Model Development Steps.
+Unit-2
+STATISTICAL TESTS
+Null Hypothesis, Tests based on Normal, t and F distributions for testing of means, variance
+and proportions, Analysis of r x c tables, Goodness of fit, X-bar, R-Chart, P-Chart, Chi-
+Square Test.
+Unit-3
+CORRELATION AND REGRESSION
+Auto-Correlation, Cross Correlation, Auto-Regression and Cross Regression Models,
+Standard Error, Stochastic Error, Moving Average, Pearson Correlation, Covariance.
+Unit-4
+DESIGN OF EXPERIMENTS
+Analysis of variance, One-way and two-way classifications, Completely randomized design,
+Randomized block design, Latin square design.
+Unit-5
+RELAIBILITY AND RISK ANALYSIS
+Reliability analysis methods, Risk Engineering, Random vectors and Matrices, Mean vectors
+and Covariance matrices, Multivariate Normal density and its properties, Principal
+components, Components from standardized variables.
+70 | P ag e
+
+--- Page 72 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit- 6
+OPTIMIZATION TECHNIQUES
+Introduction to Optimization Technique, Region of Feasibility, Difference between
+Simulation, Prediction and Optimization, Classification of Optimization Techniques, Linear
+Programming, Dynamic Programming, Differential Evolution Techniques, Introduction to
+nature-based optimization techniques, meta-heuristic and heuristic techniques, Particle
+Swarm Optimization, Ant Colony Optimization, Fire Fly Algorithm,
+References:
+1. Handbook of Engineering Statistics. Hoang Pham.
+2. Engineering Optimization: Theory and Practice, Singiresu S. Rao.
+3. A First Course in Optimization Theory, Rangarajan K. Sundaram.
+4. Modeling Hydrologic Change: Statistical Methods, Richard H. McCuen.
+5. Statistics for Engineers: An Introduction, Jim Morrison.
+6. Introduction to Operations Research, Frederick S. Hillier, Gerald J. Lieberman,
+Bodhibrata Nag, Preetam Basu.
+Course Outcome:
+1. Students will be able to apply different concepts of operational research, estimators and
+detect outliers.
+2. Students will be able to develop an idea and know the procedure of developing statistical
+tests and hypothesis.
+3. Students will be able to apply correlations and regression coefficients for initial analysis
+of model development and feasibility.
+4. Students will be able to generate designs for experimental analysis followed by model
+development and testing.
+5. Students will be able to analyze the risk and reliability of a project.
+6. Students will be able to optimize and suggest the best variations for maximization of
+profit and minimization of cost from a system.
+Table-1: To establish the correlation between COs & POs
+No. of course
+Course Outcome
+outcome(CO)
+Students will be able to apply different concepts of operational
+PCE61E01.1
+research, estimators and detect outliers
+Students will be able to develop an idea and know the
+PCE61E01.2
+procedure of developing statistical tests and hypothesis.
+Students will be able to apply correlations and regression
+PCE61E01.3 coefficients for initial analysis of model development and
+feasibility.
+Students will be able to generate designs for experimental
+PCE61E01.4
+analysis followed by model development and testing.
+Students will be able to analyze the risk and reliability of a
+PCE61E01.5
+project.
+71 | P ag e
+
+--- Page 73 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Students will be able to optimize and suggest the best
+PCE61E01.6 variations for maximization of profit and minimization of cost
+from a system
+Table-2: Correlation between COs &POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATIO
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E02.1 3 2 3 3 3 3
+PCE21E02.2 3 3 3 3 3 3
+PCE21E02.3 3 2 3 3 3 3
+PCE21E02.4 3 3 3 3 3 1
+PCE21E02.5 3 3 3 3 3 3
+PCE21E02.6 3 3 3 3 3 3
+Total 18 16 18 18 18 16
+Average 3 2.66 3 3 3 2.7
+Equivalent Average 3 3 3
+3 3 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE21E02.1 2 2
+PCE21E02.2 3 3
+PCE21E02.3 3 3
+PCE21E02.4 3 3
+PCE21E02.5 3 3
+PCE21E02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Average Attainment 3 3
+72 | P ag e
+
+--- Page 74 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+SMART-INSTRUMENTATION IN WATER RESOURCES APPLICATIONS
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To make the students review the instruments used for measurement of basic process
+parameters like level, flow, pressure and temperature.
+2. To explore the various types of analyzers used in industrial applications.
+3. To make the students to understand the requirement of safety instrumented system,
+standards and risk analysis techniques
+4. To make students familiarize with Instrumentation standards such as BS1042, ISA 75,
+ISA 84 and ISA 88.
+5. To make students familiarize with Instrumentation Symbols, Abbreviations and
+Identification for Instruments, Process Flow diagrams, Instrument Loop diagrams,
+Instrument Hookup diagrams and Piping and Instrumentation Diagrams.
+Course Content:
+Unit- 1
+Instrumentation: Frequency meter, measurement of time and frequency (mains), tachometer,
+phase meter, capacitance meter, Automation in digital instrumentation.
+Unit -2
+Analyzer
+Wave analyzers and Harmonic distortion, Basic wave analyzer, Frequency selective wave
+analyzer, Harmonic distortion analyzer and Spectrum analyzer.
+Unit -3
+Measuring Instruments
+Output power meters, Field strength meter Vector impedance meter, Q meter applications-Z,
+Z 0 and Q. Basic LCR bridge, RX meters.
+Unit -4
+Recorders
+Strip chart recorder- applications of Strip chart recorder, Magnetic recorders, Frequency
+modulation (FM) recording, Digital data recording, Digital memory waveform recorder.
+Unit – 5
+Transducers
+Synchro’s, Capacitance Transducers, Load cells, Piezo electrical Transducers, IC type
+temperature sensors, Pyrometers, Ultrasonic temperature Transducer, Reluctance pulse pick-
+ups, Flow measurement-mechanical Transducers; Magnetic flow meters, turbine flow meters.
+β-gaug.
+Unit – 6
+Data acquisition and conversion
+Generalized data acquisition system (DAS), Signal conditioning of inputs, single channel
+DAS, multichannel DAS, data loggers, compact data logger.
+73 | P ag e
+
+--- Page 75 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit – 7
+Measurement of power
+Measurement of large amount of RF power (calorimetric method), measurement of power on
+a transmission line, standing wave ratio measurements, measurement of standing wave ratio
+using directional couplers.
+Unit – 8
+Data transmission
+Serial, asynchronous interfacing, data line monitors, RS-232 standard, universal serial
+bus,IEEE1394,Long distance data transmission(modems).IEEE 488 bus, Electrical interface.
+References:
+Sl.
+Name of Book Author
+No.
+Plant Hazard analysis and Safety Instrumentation
+1 SwapanBasu
+systems
+2 Industrial Instrumentation Al.Sutko,Jerry.D.Faulk
+3 Advances in Instrumentation WIEDEMANN
+Modern Electronic Instrumentation and Measurement
+4 Helfrick
+Techniques
+5 Measurement Techniques in Industrial Instrumentation S K Sen
+Geoscience: Instrumentation and Analytical
+6 Joe Carry
+Techniques
+Fundamentals of Bioanalytical Techniques and
+7 Ghoshal and Sabari
+Instrumentation
+Course Outcome:
+1. Students will be able to explain theoretical principles of, MASS and NMR
+spectroscopy.
+2. Students will be able to learn basic instrumentation of NMR and mass spectrometer.
+3. Students will be able to theoretical principles of x-rays, instrumentation and
+identification of organic compounds.
+4. Students will be able to learn basic principles and instrumentation of thermal
+analysis.
+5. Students will be able to describe general principles and procedures involved in
+extraction techniques.
+6. Students will be able to learn basic instrumentation and applications of hyphenated
+techniques.
+7. Students will be able to explain general principal and instrumentation of radioimmuno
+assay.
+74 | P ag e
+
+--- Page 76 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the concept of soil as a multiphase
+PCE62E01.1
+system
+Students will be able to understand the concept of soil- environment
+PCE62E01.2
+interaction
+PCE62E01.3
+Students will be able to understand the concept of soil mineralogy
+Students will be able to understand the concept of soil-water-contaminant
+PCE62E01.4
+interaction.
+Students will be able to understand the concept of unsaturated soil
+PCE62E01.5
+mechanics
+Students will be able to understand the concept of waste containment
+PCE62E01.6
+facilities
+Students will be able to understand the concept of advanced soil
+PCE62E01.7
+characterization techniques
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E01.1 3 2 3 2 2 2
+PCE62E01.2 3 2 3 2 2 2
+PCE62E01.3 3 2 3 2 2 2
+PCE62E01.4 3 2 3 2 2 2
+PCE62E01.5 3 2 3 2 2 2
+PCE62E01.6 3 2 3 2 2 2
+PCE62E01.7 3 3 3 2 2 2
+Total 21 15 21 14 14 14
+Average 3 2.14 3 2 2 2
+Equivalent Avg. 3 2 3 2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E01.1 2 2
+PCE62E01.2 3 3
+PCE62E01.3 3 3
+PCE62E01.4 3 3
+PCE62E01.5 2 2
+PCE62E01.6 2 3
+PCE62E01.7 3 3
+Total 18 19
+75 | P ag e
+
+--- Page 77 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Average 2.57 2.71
+Equivalent Avg. Attainment 3 3
+76 | P ag e
+
+--- Page 78 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+IMAGE PROCESSING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To introduce the students to the fundamental techniques and algorithms used for
+acquiring, processing and extracting useful information from digital images.
+2. The students will learn how to apply the methods to solve real-world problems in
+several areas including medical, remote sensing and surveillance and develop the
+insight necessary to use the tools of digital image processing (DIP) to solve any new
+problem.
+Course Content:
+Unit- 1
+Introduction and Digital Image Fundamentals: The origins of Digital Image Processing,
+Examples of Fields that Use Digital Image Processing, Fundamentals Steps in Image
+Processing, Elements of Digital Image Processing Systems, Image Sampling and
+Quantization, Relationships between pixels.
+Unit -2
+Image Enhancement in the Spatial Domain: Some basic Gray Level Transformations,
+Histogram Processing, Enhancement Using Arithmetic and Logic operations, Combining
+Spatial Enhancement Methods, Basics of Spatial Filters, Smoothening and Sharpening Spatial
+Filters.
+Unit -3
+Image Enhancement in the Frequency Domain: Introduction to Fourier Transform and the
+frequency Domain, Computing and Visualizing the 2D DFT (MATLAB), Smoothing
+Frequency Domain Filters, Sharpening Frequency Domain Filters, Homomorphic Filtering.
+Unit -4
+Image Restoration: A model of The Image Degradation / Restoration Process, Noise Models,
+Restoration in the presence of Noise Only Spatial Filtering, Periodic Noise Reduction by
+Frequency Domain Filtering, Linear Position-Invariant Degradations, Estimation of
+Degradation Function, Inverse filtering, Wiener filtering, Geometric Mean Filter, Geometric
+Transformations.
+Unit – 5
+Image Compression: Fundamentals, image compression models, error free compression,
+Compression standards, Inter-pixel and Psycho-visual Redundancy.
+Unit – 6
+Image Segmentation: Detection of Discontinuities, Edge linking and boundary detection,
+Thresholding, Region- based segmentation.
+77 | P ag e
+
+--- Page 79 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Unit – 7
+Morphological Image Processing: Dilation and Erosion, Opening and Closing, Some basic
+morphological algorithms, Extensions to gray level images.
+Unit – 8
+Object Recognition: Patterns and Pattern Classes, Decision-Theoretic Methods, Structural
+Methods.
+References
+Sl.
+Name of Book Author
+No.
+1 Fundamentals of Digital Image Processing Anil.K.Jain
+M. Petrou, P.
+2 Image Processing, The Fundamentals
+Bosdogiann
+3 Digital Image Processing P.Ramesh Babu
+Practical Handbook on Image Processing for Scientific
+4 B. Jähn
+Application
+5 The Image Processing Handbook J. C. Russ
+6 Digital image processing W. K. Pratt
+Milan sonka, Roger
+7 Image processing, analysis and machine vision
+Boyle
+8 Introduction to digital Image processing with MATLAB Alasdair McAndrew
+9 Computer vision and Image processing Adrian Low
+Course Outcome:
+1. Students will be able to understand the need for image transforms different types of
+image transforms and their properties.
+2. Students will be able to develop any image processing application.
+3. Students will be able to understand the rapid advances in Machine vision.
+4. Students will be able to learn different techniques employed for the enhancement of
+images.
+5. Students will be able to learn different causes for image degradation and overview of
+image restoration techniques.
+6. Students will be able to learn different feature extraction techniques for image
+analysis and recognition.
+7. Students will be able to understand need for image compression and to learn the
+spatial and frequency domain techniques of image compression.
+Table-1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+Students will be able to understand the need for image transforms different
+PCE62E03.1
+types of image transforms and their properties
+PCE62E03.2 Students will be able to develop any image processing application.
+78 | P ag e
+
+--- Page 80 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+PCE62E03.3 Students will be able to understand the rapid advances in Machine vision.
+Students will be able to learn different techniques employed for the
+PCE62E03.4
+enhancement of images.
+Students will be able to learn different causes for image degradation and
+PCE62E03.5
+overview of image restoration techniques.
+Students will be able to learn different feature extraction techniques for image
+PCE62E03.6
+analysis and recognition.
+Students will be able to understand need for image compression and to learn
+PCE62E03.7
+the spatial and frequency domain techniques of image compression.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E03.1 3 2 2 2 3 3
+PCE62E03.2 3 2 2 2 3 3
+PCE62E03.3 3 2 2 2 3 3
+PCE62E03.4 3 2 2 2 3 3
+PCE62E03.5 3 2 2 2 3 3
+PCE62E03.6 3 2 2 2 3 3
+PCE62E03.7 3 2 2 2 3 3
+Total 27 14 14 14 21 21
+Average 3.42 2 2 2 3 3
+Equivalent Avg. Attainment 3 2 2 2 3 3
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E03.1 3 2
+PCE62E03.2 3 2
+PCE62E03.3 3 2
+PCE62E03.4 3 2
+PCE62E03.5 3 2
+PCE62E03.6 3 2
+PCE62E03.7 3 2
+Total 27 14
+Average 3.42 2
+Equivalent Avg. Attainment 3 2
+79 | P ag e
+
+--- Page 81 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+HYDRAULIC STRUCTURE ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the state of art concerning Hydraulic structure engineering.
+2. To understand about the Dams and barrages and the necessity in real life.
+3. To understand the Design of various hydraulic structure.
+4. To understand the knowledge about water power generation techniques.
+5. To understand about the Hydraulic loading on structures.
+Course content:
+Unit- 1
+Overview- Dams in general – types and selection, Theories of seepage, Wave theory
+Unit -2
+Dams and barrages- Design of weirs and barrages, designing of reservoir capacity with
+capacity elevation & area elevation curves of a reservoir site.
+Unit -3
+Design & construction- Force acting on gravity dams, failure mode of gravity dams and
+Design of gravity dam
+Unit – 4
+Water Conveying Channels and Structures- Penstocks, Water Hammer and Surge Tanks,
+Gates in Hydraulic, Installations, Spillways, River Training and Control Works.
+Waves- Wind generated waves, shallow and deep water waves, storm surges, harbour
+resonance.
+Unit – 5
+Water Power Generation- Hydroelectric generation, Tidal power – principle, components,
+ebb-cycle, tide-cycle, estimate of energy & power.
+Unit – 6
+Hydraulic loading on structures – static and dynamic effects, codes of practice, design and
+construction of offshore structures.
+References:
+Sl.
+Name of Book Author
+No.
+Hydraulics in Civil and Environmental Andrew Chadwick, John Morfett and
+1
+Engineering Martin Borthwick
+2 Engineers for Dams Creezer, Justin and Hinds (Vol.I, II, III)
+3 Designing of Dam Percolation and Erosion S. Leliavsky
+4 Concrete Dams R.S. Varshaney
+80 | P ag e
+
+--- Page 82 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+5 Hydraulic Structure Vol. I & II M. M. Grishin
+6 Water Power Engineering Dandekar & Sharma
+Course outcome:
+1. Students will be able to identify the types and selection of dams and barrages.
+2. Students will be able to do the design of weirs and barrages.
+3. Students will be able to do the designing of reservoir capacity with capacity elevation
+& area elevation curves of a reservoir site.
+4. Students will be able to design and construction of the gravity dam.
+5. Students will be able to analyze the possible causes of failure of different Hydraulic
+Structure.
+6. Students will be able to describe the water conveying channels and structures.
+7. Students will be able to analyze the water power generation.
+8. Students will be able to describe the hydraulic loading on structures.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to identify the types and selection of
+PCE62E09.1
+dams and barrages.
+PCE62E09.2 Students will be able to do the design of weirs and barrages.
+Students will be able to do the designing of reservoir capacity
+PCE62E09.3 with capacity elevation & area elevation curves of a reservoir
+site.
+Students will be able to design and construction of the gravity
+PCE62E09.4
+dam.
+Students will be able to analyze the possible causes of failure
+PCE62E09.5
+of different Hydraulic Structure.
+Students will be able to describe the water conveying channels
+PCE62E09.6
+and structures.
+PCE62E09.7 Students will be able to analyze the water power generation.
+Students will be able to describe the hydraulic loading on
+PCE62E09.8
+structures.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E09.1 3 2 2 3 3 3
+PCE62E09.2 3 3 3 3 3 3
+PCE62E09.3 3 2 3 3 3 3
+PCE62E09.4 3 3 3 3 3 1
+PCE62E09.5 3 2 2 3 3 3
+PCE62E09.6 3 2 3 3 3 3
+PCE62E09.7 3 2 3 3 3 1
+81 | P ag e
+
+--- Page 83 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+PCE62E09.8 3 2 3 3 3 1
+Total 24 18 22 24 24 18
+Average 3 2.25 2.75 3 3 2.25
+Equivalent
+Average 3 2 3 3 3 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E09.1 3 2
+PCE62E09.2 3 3
+PCE62E09.3 3 3
+PCE62E09.4 3 3
+PCE62E09.5 3 3
+PCE62E09.6 3 3
+PCE62E09.7 3 3
+PCE62E09.8 3 3
+Total 24 23
+Average 3 2.87
+Equivalent Average Attainment 3 3
+82 | P ag e
+
+--- Page 84 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+RIVER ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To impart the knowledge of river engineering.
+2. To comprehend theoretical concepts of water and sediment movements in rivers.
+3. To indoctrinate the benefits of fluvial system to the society.
+Course content:
+Unit- 1
+River Functions
+Primary function of a river, River uses and measures, Water and Sediment loads of river,
+Rivers in India, Himalaya and Peninsular.
+Unit -2
+Open Channel Flow
+Open Channel Flow and Manning Equation, Energy, Specific Energy, and Gradually Varied
+Flow, Rapidly Varied Flow, Momentum (Hydraulic Jump), Computation: Direct Step
+Method and Channel Transitions, Application of HEC-RAS, Design of Stable Channels.
+Unit -3
+Water Surface Profiles
+Normal and Critical Depth, Classification of Water Surface Profiles, Classification based on
+slope, Classification according to the relative position of the actual flow depth, Classification
+based on Flow Profile, Super and Sub-Critical Flow.
+Unit -4
+Sediment Transport
+Introduction, Competence, capacity and sediment supply, Modes of Sediment Transport,
+Vertical Profiles of Suspended Sediments, Sediment Concentration Profile, Sediment
+Diffusivity, Suspended Sediment Concentration Profiles, Power-law (linear diffusivity),
+Power-law (parabolic diffusivity), Settling Velocity, Reference Concentration and Height,
+Suspended Load Transport. Shields Entrainment Function, Total Load Transport.
+Unit –5
+River Surveys and Modelling
+Mapping, Stage and Discharge Measurements, Water Quality and ecological model,
+Recursive Equation, KKT Condition, LaGrange Multiplier, Floyd Warsaw.
+Unit – 6
+GIS Application in River Basin Modelling and Management
+Location Selection Studies, Decision Support Systems, GIS Data Models, Projections and
+Coordinate Systems, Data Sources and Data Entry, Digitizing, GPS, Remote Sensing,
+Attribute Data: Queries and Analysis; Spatial Data: Spatial Queries and Basic Spatial
+Analysis.
+83 | P ag e
+
+--- Page 85 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+References:
+Sl.
+Name of Book Author
+No.
+1 River Engineering KD.Gupta
+2 Flow in Open Channels K Subramanya
+3 Flow through Open Channels K.G. Ranga Raju
+Hydraulics in Civil and Environmental Andrew Chadwick, John Morfett,
+4
+Engineering Martin Borthwick
+Water Flow: Effects Of Stream Erosion: Stream
+5 Danille Nattress
+Channel River
+6 Hydraulics of Sediment Transport Walter Hans Graf
+Sediment Transport: Monitoring, Modeling and
+7 Abdul A. Khan and Weiming Wu
+Management
+Breaking the HEC-RAS Code: A User's Guide to
+8 Christopher R Goodell
+Automating HEC-RAS
+9 Linear Programming: For Beginners Buhari Adejare
+GIS and Geocomputation for Water Resource Barnali Dixon, Venkatesh
+10
+Science and Engineering Uddameri
+Course outcome:
+1. Student will be able to inculcate the knowledge of river functions.
+2. Students will be able to describe about the Open Channel Flow and its application
+with the help of HEC RAS software
+3. Students will be able to classify water surface profiles based on slope and flow depth.
+4. Student will have the concept of sediment transport and how it affect on river basin
+erosion
+5. Students will be able to develop model based on the collected data and different linear
+programming technique..
+6. Students will be able to demonstrate the knowledge of GIS and Remote Sensing on
+different river basin management and fluid dynamic problems.
+Table-1 : To establish the correlation between COs & POs
+No of Course
+Course Outcome
+Outcome (CO)
+Student will be able to inculcate the knowledge of river
+PCE62E07.1
+functions.
+Students will be able to describe about the Open
+PCE62E07.2 Channel Flow and its application with the help of HEC
+RAS software.
+Students will be able to classify water surface profiles
+PCE62E07.3
+based on slope and flow depth
+Student will have the concept of sediment transport and
+PCE62E07.4
+how it affect on river basin erosion
+Students will be able to develop model based on the
+PCE62E07.5 collected data and different linear programming
+technique.
+84 | P ag e
+
+--- Page 86 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Students will be able to demonstrate the knowledge of
+PCE62E07.6 GIS and Remote Sensing on different river basin
+management and fluid dynamic problems.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E07.1 3 2 3 2 2 3
+PCE62E07.2 3 3 3 2 2 3
+PCE62E07.3 3 2 3 2 2 3
+PCE62E07.4 3 2 3 2 2 3
+PCE62E07.5 3 3 3 2 2 3
+PCE62E07.6 3 3 3 2 2 3
+Total 18 15 18 12 12 18
+Average 3 2.5 3 2 2 3
+Equivalent Average 3 3 3
+2 2 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E07.1 2 2
+PCE62E07.2 3 3
+PCE62E07.3 3 3
+PCE62E07.4 3 3
+PCE62E07.5 3 3
+PCE62E07.6 3 3
+Total 17 17
+Average 2.83 2.83
+Equivalent Average Attainment 3 3
+85 | P ag e
+
+--- Page 87 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+SMART MONITORING AND MANAGEMENT OF PIPE NETWORK
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand technology in transportation of fluids.
+2. To know various equipment and their operation in pipeline transportation.
+3. To understand standards and practices in piping design.
+4. Have a basic understanding of water, process and power piping systems.
+Course content:
+Unit- 1
+Introduction and Elements of pipeline design: Purpose of piping, Types of piping systems;
+transmission lines, In-plant piping systems, Distribution mains, Service lines. Types of Water
+distribution networks; serial networks, branched networks and looped networks. Network
+components and Network model. Basic hydraulic principles; continuity and Energy principle.
+Unit -2
+Frictional Head loss in Pipes: Major and Minor losses, Artificially roughened pipes, moody
+diagram. Friction coefficient relationships, Empirical formulae, Simple pipe flow: problems,
+Equivalent pipes, pipes in series, parallel, series-parallel: problems. Water Hammer and
+energy transmission through pipes: gradual and Instantaneous closure.
+Unit -3
+Reservoirs, Pumps and Valves:
+Types of Reservoirs, Pumps: introduction, system head-discharge, pump head and head-
+discharge relationships, characteristic curves, pump combination. Valves: check valves, flow
+control valves, Pressure reducing valves, both Flow control and Pressure Reducing Valves.
+Unit -4
+Network Parameters and Types of analysis:
+Network Parameters, Parameter Interrelationships, Necessity of Analysis, Common
+Assumptions, Types of Analysis, Rule for Solvability of Pipe networks.
+Network Formulation of Equations:
+States of parameters, Single-Source Networks with known pipe Resistances, Multisource
+Networks with known pipes resistances, Networks with unknown pipe resistances, Inclusion
+of Pumps, Check Valves, Flow Control Valves and Pressure Reducing Valves – Problems.
+Unit – 5
+Network analysis:
+Hardy Cross Method, Methods of balancing heads (Loop Method), Method of Balancing
+Flows (Node Method), Modified Hardy Cross Method, Convergence Problem, Different
+software for WDN analysis and design.
+Unit - 6
+Basics of Pipe Stress Analysis:
+86 | P ag e
+
+--- Page 88 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Objective of Stress Analysis, Stresses in Piping systems, Sustained, Expansion and
+Occasional Piping stresses, Reducing piping stresses, Basic allowable stress, Loads on piping
+systems, work flow diagram for piping stress analysis, Stress criticality and analysis methods.
+Unit- 7
+Piping Vibration: Causes, Limits & Remedies:
+Calculate the natural frequency of a pipe, VIV (Vortex Induced Vibration) affecting the pipe,
+effect of flow induced vibration as flow rates change, Determine the severity of the vibration:
+Is it acceptable or does it need modifications?
+Unit – 8
+Materials selection and quality management: Materials designation standards, Quality
+management.Pipeline construction: Construction – Commissioning.
+Pipeline protection, Instrumentation, pigging & Operations:
+Pipeline coating, Cathodic protection, Cathodic protection calculations for land pipelines,
+Internal corrosion, Flow meters and their calibration, Sensors, Pigs-Pipeline Operations and
+maintenance.
+References:
+Sr. No. Name of Book Author
+1 Analysis of Water Distribution Networks P.R. Bhave and R. Gupta
+2 Pipeline Engineering Henry Liu
+3 Piping and Pipeline Engineering: Design, George A. Antaki,
+Construction, Maintenance Integrity and Repair
+4 Piping Calculation Manual E. Shashi Menon
+5 Pipeline Rules of Thumb Handbook E. W. McAllister
+6 Liquid Pipeline Hydraulics E. Shashi Menon
+7 Piping Vibration: Causes, Limits & Remedies RON FREND
+8 Basics of Pipe Stress Analysis Anup Kumar Dey
+Course outcome:
+1. Students will be able to understand purpose of piping and its use, along with the
+classification of design consideration involved.
+2. Students will be able to understand different types of valves, tanks, pumps, pressure
+vessels and calculations involved.
+3. Students will be able to understand pipe networks work in series, parallel, and
+branching and will be able to calculate flow-rate, frictional and head losses.
+4. Students will be able to review the Hardy Cross Method and know pipe size criteria.
+5. Students will have the understanding of basic stress analysis in piping network
+system.
+6. Students will be able to understand pipe vibrations concepts and the calculations
+involved in it.
+7. Students will have the knowledge of pipeline material selection, its construction and
+protecting techniques.
+8. Students will be able to understand the pipe network parameters and various types of
+network analysis.
+87 | P ag e
+
+--- Page 89 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-1: To establish the correlation between COs & POs
+No. of Course
+Course Outcome
+Outcome (CO)
+PCE62E04.1 Student will learn the basic concepts of the design and management of ground
+water hydraulics.
+PCE62E04.2 Students will be able to apply the knowledge of different ground water
+exploration techniques.
+PCE62E04.3 Students will be familiar with the concept and practice of groundwater
+management.
+PCE62E04.4 Students will be able to describe the cause and mitigation measure to prevent
+and model ground water pollution
+PCE62E04.5 Students will be acquainted with the different mechanism of vulnerability
+assessment of ground water.
+PCE62E04.6 Students will be able to design and manage drainage network in connection to
+ground water
+Table-2: Co-relation between COs and Pos
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E04.1 3 2 3 2 2 3
+PCE62E04.2 3 2 3 2 2 3
+PCE62E04.3 3 2 3 2 2 3
+PCE62E04.4 3 2 3 2 2 3
+PCE62E04.5 3 2 3 2 2 3
+PCE62E04.6 3 2 3 2 2 3
+Total 18 12 18 12 12 18
+Average 3 2 3 2 2 3
+Equivalent Average
+3 2 3 2 2 3
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E04.1 2 2
+PCE62E04.2 3 3
+PCE62E04.3 3 3
+PCE62E04.4 3 3
+PCE62E04.5 3 3
+PCE62E04.6 3 3
+Total 17 17
+Average 2.83 2.83
+Equivalent Average Attainment 3 3
+88 | P ag e
+
+--- Page 90 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+FREE SURFACE FLOW
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To understand the basic areas of open channel flow.
+2. To understand phenomenon and types of flowing water in a natural and artificial
+structure.
+3. To understand the Concepts of boundary layer.
+4. To understand the knowledge about flow over small hydraulic structure.
+5. To understand about the wave propagation.
+Course content:
+Unit- 1
+Overview- Types of channel, classification of flow, velocity distribution, Flow analysis,
+Pressure Distribution, Energy Equation. Momentum Equation, Equation of Continuity.
+Unit -2
+Energy and momentum in free surface flow-Critical Flow, Uniform Flow, Design of Non-
+Erodible, Erodible Channels & Grassed Channels.
+Unit – 3
+Concepts of boundary layer- surface roughness, velocity distribution & instability of uniform
+flow, gradually varied flow, spatially varied flow, rapidly varied flow.
+Unit – 4
+Flow over spillways- Supercritical Flows and Oblique Flows, Hydraulic Jump, Gradually
+Varied & Rapidly Varied Unsteady Flow.
+Unit – 5
+Wave propagation- Wave propagation and surge in canals, discharge measuring methods,
+free surface flow in closed conduits.
+References:
+Sl.
+Name of Book Author
+No.
+1 Open-Channel Hydraulics Ven Te Chow
+Calvin Victor Davis and Kenneth
+2 Hand Book of Applied Hydraulics
+E. Sorensen
+3 Open-Channel Flow M. Hanif Choudhury
+4 Engineering Hydraulics Hunter Rouse
+5 Open-Channel Flow K.Subhramanya
+89 | P ag e
+
+--- Page 91 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Course outcome:
+1. Students will be able to identify the types of channel and velocity distribution in the
+natural or man-made structure.
+2. Students will be able to describe the energy and momentum in free surface flow.
+3. Students will be able to do describe the concepts of boundary layer in open channel
+flow.
+4. Students will be able to analyze and describe the flow over spillways.
+5. Students will be able to analyze the Wave propagation in open channel flow.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Students will be able to identify the types of channel and
+PCE61C03.1
+velocity distribution in the natural or man-made structure
+Students will be able to describe the energy and momentum in
+PCE61C03.2
+free surface flow.
+Students will be able to do describe the concepts of boundary
+PCE61C03.3
+layer in open channel flow.
+Students will be able to analyze and describe the flow over
+PCE61C03.4
+spillways.
+Students will be able to analyze the Wave propagation in open
+PCE61C03.5
+channel flow.
+Table-2: Co-relation between COs and POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE62E04.1 3 2 3 3 3 3
+PCE62E04.2 3 2 3 3 3 3
+PCE62E04.3 3 2 3 3 3 3
+PCE62E04.4 3 2 3 3 3 1
+PCE62E04.5 3 2 3 3 3 3
+Total 15 10 15 15 15 13
+Average 3 2 3 3 3 2.6
+Equivalent Average
+3 2 3 3 3 3
+Attainment
+90 | P ag e
+
+--- Page 92 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE62E04.1 2 2
+PCE62E04.2 3 3
+PCE62E04.3 3 3
+PCE62E04.4 3 3
+PCE62E04.5 3 3
+Total 14 14
+Average 2.8 2.8
+Equivalent Average Attainment 3 3
+91 | P ag e
+
+--- Page 93 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+COMPUTATIONAL FLUID DYNAMICS
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To provide the student with a significant level of experience in the use of modern
+CFD software for the analysis of complex fluid-flow systems.
+2. To improve the student’s understanding of the basic principles of fluid mechanics.
+3. To improve the student’s research and communication skills using a self-directed,
+detailed study of a complex fluid-flow problem and to communicate the results in
+written form
+Course Content:
+Unit- 1
+Introduction to Computational Fluid Dynamics (CFD)
+Introduction and application of CFD, Taylor Series Expansion, Discretization, Forward
+Difference, Backward Difference, Central Difference, Conservation of Mass and Momentum,
+Navier Stokes Equation,Condition of Convergence & Stability.
+Unit-2
+Finite Difference Equations
+Introduction. Solving Ordinary Differential Equation by Finite Difference Equation,
+Procedure, Exact Solution, Error Calculation.
+Unit -3
+Partial Differential Equation (PDE)
+Overview. Classification. Parabolic, Hyperbolic and Elliptic Equation, Classification
+Procedure, Wave Equation, Heat Transfer Equation, Laplace Equation.
+Unit -4
+Discretization of PDE
+Basic features. Discretization of Parabolic, Elliptic and Hyperbolic Equations, Direct Method,
+Explicit Method, Gauss Seidel Method, Lieberman Method. Numerical Algorithms for
+Solving PDEs, Calculation of Errors.
+Unit -5
+Numerically Solving PDE: Crank Nicolson Algorithm Boundary conditions, Interpretation,
+Simplified Solution: Rectangular Formula, Heat Equation.
+Unit –6
+Numerically Solving PDE: Richardson Extrapolation Initial and Boundary Condition,
+Significance of Error, True Value, Approximate Value,Differentiation by Richardson
+Extrapolation.
+92 | P ag e
+
+--- Page 94 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+References:
+Sl.
+Name of Book Author
+No.
+1 Dynamics of Fluids in Porous Media Bear, J., Dover Publications.
+Computational Fluid Dynamics: The Basics with
+2 Anderson, J.D.
+Applications
+Anderson, D. A., J. C. Tannehill,
+3 Computational Fluid Mechanics and Heat Transfer
+and R. H. Pletcher
+4 Computational Methods for Fluid Dynamics Ferziger, J. H. and M. Peric,
+5 Computational Techniques for Fluid Dynamics Fletcher, C. A. J.
+Course Outcome:
+1. Student will learn the introductory concepts of Computational Fluid Dynamics and
+learn about the essential definitions and laws of fluid dynamics.
+2. Students will be enlightened about the working principle for solving Ordinary
+Differential Equation with the help of Finite Difference Method.
+3. Students will be able to classify different PDEs into Parabolic, Elliptic and
+Hyperbolic Equations.
+4. Student will demonstrate an ability to solve PDEs with the help of discretization and
+different methods of solving the major PDEs.
+5. Students will be able to understand the concept of numerically solving PDEs with the
+help of Crank Nicolson Method.
+6. Students will be able to apply the knowledge of Richardson Extrapolation Method
+to solve various PDEs numerically and can calculate the Approximate Value of the
+solutions.
+Table-1: To establish the correlation between COs & POs
+No of course
+Course Outcome
+outcome (CO)
+Student will learn the introductory concepts of
+PCE61E05.1 Computational Fluid Dynamics and learn about the
+essential definitions and laws of fluid dynamics.
+Students will be enlightened about the working principle for
+PCE61E05.2 solving Ordinary Differential Equation with the help of
+Finite Difference Method
+Students will be able to classify different PDEs into
+PCE61E05.3
+Parabolic, Elliptic and Hyperbolic Equations.
+Student will demonstrate an ability to solve PDEs with the
+PCE61E05.4 help of discretization and different methods of solving the
+major PDEs
+Students will be able to understand the concept of
+PCE61E05.5 numerically solving PDEs with the help of Crank Nicolson
+Method
+Students will be able to apply the knowledge of Richardson
+PCE61E05.6 Extrapolation Method to solve various PDEs numerically
+and can calculate the Approximate Value of the solutions..
+93 | P ag e
+
+--- Page 95 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and ‘-’ for NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE21E05.1 3 2 3 2 2 2
+PCE21E05.2 3 3 3 2 3 2
+PCE21E05.3 3 2 3 2 3 2
+PCE21E05.4 3 3 3 2 2 2
+PCE21E05.5 3 2 3 2 2 2
+PCE21E05.6 3 3 3 2 2 2
+Total 18 15 18 12 14 12
+Average 3 2.5 3 2 2.33 2
+Equivalent Average
+3 3 3 2 2 2
+Attainment
+Table-3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE21E05.1 3 2
+PCE21E05.2 3 2
+PCE21E05.3 3 2
+PCE21E05.4 3 3
+PCE21E05.5 3 3
+PCE21E05.6 3 3
+Total 18 15
+Average 3 2.5
+Equivalent Average Attainment 3 3
+94 | P ag e
+
+--- Page 96 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Third Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+Third Semester
+1 PCE23P01: Project & Thesis - I 10 ----- 100
+Project & Thesis (PCE63P01)
+Total Credit: 10
+Contact Periods: Full Time
+Each student will devote full time in the Third Semester on a Thesis/Project on an assigned
+research problem of Design/Development work under the supervision of a Faculty Member.
+They will present a part of the Thesis/Project Report at the end of the Third Semester which
+will be evaluated by a Board of Examiners consisting of the Supervisor and External
+Examiner. The evaluation of the above said Thesis will be followed by a viva-voce in front of
+faculty members and other post-graduate students.
+95 | P ag e
+
+--- Page 97 ---
+Syllabus: M.Tech. , Hydro-Informatics Engineering NIT Agartala
+Fourth Semester
+Class
+Sl.
+Subject Credit Hours per Marks
+No.
+Week
+Fourth Semester
+1 PCE23P02: Project & Thesis - II 20 ----- 300
+Project & Thesis (PCE64P01)
+Total Credit: 10
+Contact Periods: Full Time
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an assigned
+research problem of Design/Development work under the supervision of a Faculty Member.
+They will present a Final Thesis/Project Report at the end of the Fourth Semester which will
+be evaluated by a Board of Examiners consisting of the Supervisor and External Examiner.
+The evaluation of the above said Thesis will be followed by a viva-voce in front of faculty
+members and other post-graduate students.
+96 | P ag e

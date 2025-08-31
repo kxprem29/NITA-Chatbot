@@ -1,0 +1,56 @@
+
+--- Page 1 ---
+Sl.No. PhoneNo InstalledRoomNo. InstalledOffice/SectionName
+1 0381-2546360 Room No. 301 PA Room, FAX Line
+2 0381-2546629 Room No. 312 Registrar Office
+3 0381-2546630 Room No. 301 PA Room
+4 0381-2548302 Ground Floor Librarian Room, Library Building
+5 0381-2548501 Room No. 301 PA Room
+6 0381-2548502 Room No. GF -07 Purchase Section
+7 0381-2548503 Room No. 210 Dean (P&D)
+8 0381-2548504 First Floor, EE Building HOD (EE)
+9 0381-2548505 Room No. 206 Dean (FW)
+10 0381-2548506 Room No. 104 Account & Finance Dept.
+11 0381-2548507 Room No. 116 Establishment Section
+12 0381-2548508 Room No. 202 Estate Section
+13 0381-2548509 Room No. GF -02 Security Officer
+14 0381-2548510 Room No. 205 Dean (Academic)
+15 0381-2548511 Room No. 300 Director Chamber/Office
+16 0381-2548512 Room No. 312 Registrar Chamber/Office
+17 0381-2548513 Room No. 302 Director Office (Faculty & Officers Waiting Room)
+18 0381-2548514
+19 0381-2548515 HOD (Mechanical)
+20 0381-2548516 Room No. 113 HOD (CSE)
+21 0381-2548517 Room No. MA-318 HOD (Mathematics)
+22 0381-2548518 1st Floor (SAC), R No. 113 Centre for Career Development Office 481
+23 0381-2548519 2st Floor (SAC) Sports
+24 0381-2548520 Room No. 107 Account & Finance Dept.(Cash)
+25 0381-2548521 Room No. M-214 HOD (Production)
+26 0381-2548522 Director's Banglow Director Residence
+27 0381-2548523 Warden Room Gargi Hostel
+28 0381-2548524 Warden Room Dhalai Hostel
+29 0381-2548525 Warden Room Gomati Hostel
+30 0381-2548526 Hospital Building Hospital
+31 0381-2548527 Ground Floor MIS Office
+32 0381-2548528 Workshop
+33 0381-2548529 Chairman Workshop
+34 0381-2548530 Room No. N-112 HOD (Physics)
+35 0381-2548531 Networking Section
+36 0381-2548532 First Floor, EE Building HOD (Electronics)
+37 0381-2548533 Director's Banglow Security Officer, Director Banglow
+38 0381-2548534 2nd F, Library Building HOD (Economics)
+39 0381-2548535 Room No. M-201 HOD (Chemistry)
+40 0381-2548536
+41 0381-2548537 Room No. GF -06 Academic Section
+42 0381-2548538 Warden Room Howrah Hostel
+43 0381-2548539 Room No. 207 Legal & RTI Cell
+44 0381-2548540 1st Floor (SAC) SC/ST Cell
+45 0381-2548541 1st Floor (SAC), R No. 114 Scholarship Section
+46 0381-2548542 Guest House
+
+--- Page 2 ---
+Sl.No. PhoneNo InstalledRoomNo. InstalledOffice/SectionName
+47 0381-2548543 Superintendent Office Superintendent RN Tagore Hostel
+48 0381-2548544 Room No. 208 Dean (R&C) 480
+49 0381-2548545 1st Floor, CE Building HOD (Civil)
+50 0381-2548546 1st Floor, CE Building Richi Prasad Sharma

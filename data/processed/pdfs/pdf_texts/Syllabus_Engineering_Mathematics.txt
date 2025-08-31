@@ -1,0 +1,116 @@
+
+--- Page 1 ---
+ENGINEERING MATHEMATICS-I
+CODE: UCE/ME/EE/CS/EC/PC/CH/EI 01C04
+1. Infinite series: Convergence of Sequence, Bounded Sequence, Monotonic Sequence,
+Convergent Divergent and Oscillatory Series, Geometric Series, Positive term series, p-
+series, Comparison Test, D’Alembert’s Ratio tests, Raabe’s Test, Gauss’s Test, Cauchy’s
+Integral Test, Cauchy’s Root test, Logarithmic Test.
+2. Calculus of function of one variable: Successive differentiation, Leibnitz’s theorem,
+Mean Value theorem and Taylor’s theorem, expansion of functions into Taylor’s and
+Maclaurin’s series, Indeterminate forms.
+3. Function of several Variables: Partial Derivatives, Chain Rule, Differentiation of
+Implicit functions, Exact Differentials, Euler’s theorem on homogeneous function and its
+converse. Maxima, Minima and Saddle points, Simple problems in extrema of functions
+with constraints. Method of Lagrangian Multipliers.
+4. Ordinary Differential Equation: Linear equations and Bernoulli’s equation,
+Ordinary linear differential equation of nth order, Solution of homogeneous and non-
+homogeneous equations, Variation of parameters, Solution of simple simultaneous
+ordinary differential equation.
+5. Laplace Transform: Transforms of elementary functions, Inverse transforms,
+properties of Laplace transform. Convolutions. Transforms of periodic functions, unit
+step functions, shifting theorems. Solutions of ODE’s using transforms.
+Texts/ References
+1. Ordinary Differential Equation: M.D. Raisinghania.
+2. Mathematical Analysis: Malik & Arora.
+3. Advanced Engineering Mathematics: H.K.Dass.
+4. Higher Engg. Mathematics: B.V.Ramana.
+5. Advanced Engg. Mathematics: E.Kreyszig.
+
+--- Page 2 ---
+Engineering Mathematics – II
+Paper: M-201
+1. Matrices : Algebra of matrices, Vector spaces- linear dependence of vectors, basis,
+Linear Transformations, Rank and inverse of a matrix, Solution of algebraic equations,
+consistency conditions, Hermitian, skew-Hermitian and Unitary matrices, by-linear form,
+eigen value and eigen vectors. Cayley-Hamilton theorem.
+2. Complex numbers : Exponential complex numbers and logarithm of a complex number,
+circular, hyperbolic and inverse circular functions of complex numbers.
+3. Function of a Complex Variable : Limit, continuity and differentiation, Analytic
+function, Cauchy-Riemann equations, Conjugate functions, Application to two dimensional
+problems, Taylor’s and Laurent’s expansions, Branch points, zeros, poles, residues, Cauchy’s
+Integral theorem, simple problems on Contour Integration.
+4. Integral Calculus : Improper Integrals, Beta and Gamma function. Double and Triple
+Integrals, Jacobians and transformation of co-ordinates.
+5. Vectors: Scalar and vector triple product, space curves, Seret-Frenet formula, velocity
+and acceleration-simple problems, moment of force, work done, angular velocity, relative
+velocity-simple applications.
+Vector function of one variable, vector differentiation and integration, gradient, divergence
+and curl --- Applications.
+Stoke’s theorem, Green’s theorem, Gauss divergence theorem - simple applications to areas,
+Volumes and centre of Pressure.
+Texts/References
+1. Mathematical Analysis: Malik & Arora.
+2. Advanced Engineering Mathematics: H.K.Dass.
+3. Higher Engg. Mathematics: B.V.Ramana.
+4. Advanced Engineering Mathematics: E. Kreyszig.
+5. Calculus and Analytic Geometry: G.B.Thomas and R.L.Finney.
+6. Vector Calculas: M.L.Khanna.
+
+--- Page 3 ---
+Engineering Mathematics – III
+Paper: M-301
+1. Probability and Statistics:
+1.1. Probability and Random Variable: Axioms of probability, Conditional probability,
+Independent events, Baye’s Theorem, Random variables, Probability mass function,
+Probability density function - properties, Moments, Moment generating functions and their
+properties.
+1.2. Standard Distributions: Binomial, Poisson Normal distribution and their properties,
+function of random variables.
+1.3. Two-dimensional random variables: Joint distribution, Marginal and conditional
+distribution, covariance, correlation and regression, Transformation of random variables,
+Central limit theorem.
+1.4. Testing of hypothesis: Sampling distribution, Testing of hypothesis of mean, variance,
+proportion and differences using Normal, t and Chi-square.
+2. Fourier Series: Periodic functions, Fourier series, Dirichlet’s conditions, function
+defined in two or more sub-ranges, discontinuous functions, even function, odd function, half
+range series, change of interval.
+3. Partial Differential Equations: Order, Method of forming Partial Differential
+Equations, Solution of Equation by Direct Integration, Lagrange’s Linear equation, Method
+of Multipliers, Partial Differential equations non-linear in p,q, Charpits Method, Linear
+Homogeneous Partial Differential equation, Non-Homogeneous Linear Equations, Method of
+Separation of variables, Equation of vibrating string, Solution of wave equation by
+D’Alembert’s method, One dimensional heat flow, Two dimensional Heat flow.
+Texts/References:
+1. Advanced Engineering Mathematics: E. Kreyszig.
+2. Advanced Engineering Mathematics: H.K.Dass.
+3. A Textbook of Engineering Mathematics: N.P.Bali & Manish Goyal.
+4. Advanced Engineering Mathematics: B.S.Grewal.
+5. Statistical Methods: Gupta & Kapoor/Kapoor & Sexena.
+6. Integral Calculas: Maity & Ghosh.
+
+--- Page 4 ---
+Mathematics-IV
+Code: M-401
+Operation Research: Recapitulation of n-tuples of real nos, addition and scalar
+multiplication of vectors, Convex combination, Linearly dependence and independence, basis
+and dimension.
+Linear programming, Simplex method, Duality, Two-phase method, Big-M method, Dual-
+simplex method, Transportation and Assignment models, Game theory and solution.
+Numerical Analysis: Solution of algebraic and transcendental equations by bisection
+method, iteration method, Regular-Falsi (False position) method, Newton-Raphson method,
+Solution of Simultaneous linear equations by Gauss Elimination and Gauss-Seidal method.
+Interpolation: Concept of interpolation, difference operators, divided difference
+interpolation, Newton’s forward, backward interpolation, Lagrange’s interpolation, Starling
+and Bessel’s interpolation, Numerical differentiation (1st and 2nd order), Numerical
+integration (Trapezoidal, Simpson’s one-third, Weddle’s rule).
+Numerical Solution of Ordinary differential equation: Taylor’s method, Picard’s
+method, Runge’s method, Runge-Kutta’s method, Euler’s method and Euler’s modified
+method, Predictor-corrector method.
+Texts/References
+1. Linear programming problem, Chakraborty & Ghosh.
+2. Advanced Engineering Mathematics: H.K.Dass.
+3. Advanced Engineering Mathematics: E. Kreyszig.
+4. Numerical Analysis, S.A.Molla.
+5. Numerical Analysis, Datta & Jana.
+***************

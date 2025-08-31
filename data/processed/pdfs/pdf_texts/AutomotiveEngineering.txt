@@ -1,0 +1,2155 @@
+
+--- Page 1 ---
+M. TECH. DEGREE IN
+AUTOMOTIVE ENGINEERING
+SYLLABUS
+FOR
+CREDIT BASED CURRICULUM
+DEPARTMENT OF MECHANICALENGINEERING
+NATIONAL INSTITUTE OFTECHNOLOGYAGARTALA
+TRIPURA – 799046, INDIA
+1
+
+--- Page 2 ---
+M.Tech. Automotive Engineering (Syllabus Structure)
+Program: M.Tech. Automotive Engineering
+Class
+Sl. Course
+Subject Credit hours Marks
+No. Code
+per week
+First Semester
+1 Advanced Mathematics for Engineers 4 3-1-0 100
+2 Engine Combustion and Emissions 4 3-1-0 100
+3 Automotive Transmission 4 3-1-0 100
+4 Elective – I 4 3-1-0 100
+5 Elective – II 4 3-1-0 100
+6 Automotive Systems Laboratory 2 0-0-3 100
+7 CAD/CAM Laboratory 2 0-0-3 100
+8 Technical Writing and Seminar 1 0-0-2 100
+Total 25 28 800
+Second Semester
+1 Vehicle Dynamics 4 3-1-0 100
+2 Automotive Chassis and Body Engineering 4 3-1-0 100
+3 Elective – III 4 3-1-0 100
+4 Elective – IV 4 3-1-0 100
+5 Project Preliminary 3 0-0-6 100
+Automotive Simulation and Analysis
+6 2 0-0-3 100
+Laboratory
+7 Robotics and Mechatronics Laboratory 2 0-0-3 100
+8 Comprehensive Viva Voce 2 0-0-0 100
+Total 25 28 800
+Third Semester
+1 Project and Thesis – 1 10 0-0-0 100
+Fourth Semester
+1 Project and Thesis – 2 20 0-0-0 300
+Total
+Total Credit 80 2000
+Marks
+2
+
+--- Page 3 ---
+Electives: M.Tech. Automotive Engineering
+Elective – I
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Elective I: Viscous Fluid 4 3-1-0 100
+Mechanics
+2 Elective I: Advance 4 3-1-0 100
+Thermodynamics
+Elective I: Advanced Materials
+3 4 3-1-0 100
+and Processing
+Elective - II
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+1 Elective II: Computational Fluid 4 3-1-0 100
+Dynamics
+2 Elective II: Finite Element Method 4 3-1-0 100
+Elective II: Numerical Analysis
+3 4 3-1-0 100
+and Computer Programming
+4 Elective II: Engine Management 4 3-1-0 100
+Systems
+Elective - III
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+Elective III: Alternative Fuels and
+1 4 3-1-0 100
+Energy Systems
+2 Elective III: Advanced Vibration 4 3-1-0 100
+Elective III: Computational
+3 4 3-1-0 100
+Methods in Fluid Flow and Heat
+Transfer
+Elective - IV
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+Elective IV: Automotive Materials
+1 4 3-1-0 100
+and Component Manufacturing
+2 Elective IV: Engine Design and 4 3-1-0 100
+Development
+3 Elective IV: Electric and Hybrid 4 3-1-0 100
+Vehicles
+4 Elective IV: Product Design and 4 3-1-0 100
+Development
+3
+
+--- Page 4 ---
+Program Outcomes (POs)
+Automotive Engineering Post Graduate students are deemed to acquire:
+PO1: An ability to independently carry out research and development work to solve practical
+problems in Automotive Engineering.
+PO2: An ability to write and present a substantial technical report/document
+PO3: Students should be able to demonstrate a degree of mastery in the area of Automotive
+Engineering. The mastery should be at a level higher than the requirements in the Bachelor
+program of Mechanical Engineering.
+PO4: An ability to inculcate a research knowledge base through literature study, problem
+identification, analysis and interpretation related to automotive technology.
+PO5: An ability to apply the acquired curriculum knowledge for participating and contributing to
+the design and development of components and processes in automotive systems meeting
+industrial needs, with due consideration to public health, safety along with social, cultural
+and environment considerations.
+PO6: An ability to adapt, adopt and exploit appropriate techniques in contemporary modelling
+and optimization resources to further the cause of automotive engineering paradigms.
+Programs Specific Outcomes (PSOs)
+PSO1: Automotive Engineering Post Graduate Students will acquire competency in conventional
+and advanced automotive technical domains.
+PSO2: Develop a research attitude with an interdisciplinary outlook through an integrated
+learning approach to cater to the contemporary and future needs of the automotive industry.
+4
+
+--- Page 5 ---
+FIRST SEMESTER
+ADVANCED MATHEMATICS FOR ENGINEERS
+Semester: 1st M.Tech. Credit: 4
+Course Name: Advanced Mathematics for Engineers L T P 3 1 0
+Course Objectives:
+1) Solving optimization problems, boundary value problems viz. Heat equation, Wave
+equation & mathematical modeling which are very useful in engineering field.
+2) Simulation modeling is used to solve mathematical models based on probabilistic and
+statistical methods related to real-world problems safely and efficiently
+3) To solve homogeneous, non-homogeneous linear equation & numerical solution of partial
+differential equation.
+Syllabus Content
+Module 1:
+Calculus of Variations: Variation and its properties, Euler‟s equation, Conditional extreme,
+Isoperimetric problems, Functional dependent on first and higher order derivatives, Functional
+dependent on functions of several independent variables, Some applications- Direct methods Ritz
+and Kantorovich methods, Eulers finite difference method.
+Module 2:
+Laplace Transform & Fourier Transform: Applications of fourier transform in solving initial &
+boundary value problems. Laplace equation, Heat equation & wave equation.
+Module 3:
+Hankel‟s Transform: Eliminating properties of Hankel transform, Hankel inversion, and transform
+theorem, Hankel transform of derivatives of functions, Parsevel‟s theorem.
+Module 4:
+Simulation: Types, case studies in various fields using simulation technique, simulation software‟s
+used, use of mathematical models based on probabilistic and statistical methods.
+Module 5:
+Partial Differential Equation: Formation of PDE, Solution of PDE, Equation solvable by direct
+integration, linear equation of first order, Non-linear equation of first order, Charpit‟s method,
+Homogeneous linear equations with constant co-efficient, Non-homogeneous linear equation, Non-
+linear equation of second order.
+Module 6:
+Solution of parabolic & Hyperbolic equations: Implicit & Explicit schemes, ADI methods,
+Nonlinear parabolic equations – iteration method, Solution of elliptic equation-Jaccobi method,
+Gauss Seidel & SOR method, Ricardson method, RKF4 method, Galarkin‟s method.
+5
+
+--- Page 6 ---
+Module 7:
+Introduction to finite element method & scope
+Text Books:
+i) Calculus of Variations with Applications, Gupta A.S, Prentice Hall India Learning
+Private Limited
+ii) Stochastic Modeling: Analysis & Simulation, Barry L Nelson, Dover Books on
+Mathematics
+iii) Advanced Differential Equations, M.D. Raisinghania, S Chand Publishing
+iv) Numerical Analysis, S.A.Mollah, Books & Allied Ltd
+Reference Books:
+i) Advanced Engineering Mathematics, E. Kreyszig, John Wiley & Sons
+ii) Numerical Methods in Engineering and Science, B. S. Grewal, Khanna Publishers
+iii) Advanced Engineering Mathematics, H. K. Dass, S. Chand Publishing
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+Students will be able to analyze and solve optimization problems in
+1 1
+Engineering using different techniques.
+Students will be able to solve the boundary value problems viz. Heat
+2 2, 3
+equation, wave equation
+Students will learn to analyze and compute mathematical models
+3 4, 7
+based on probabilistic and statistical methods
+Student can be able to solve homogeneous, non-homogeneous linear
+4 5
+equations arising in Engineering problems
+Student can be able to solve the problems of partial differential
+5 6, 7
+equation using numerical techniques
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 - 2 3 2 - - -
+CO-2 3 1 1 3 2 - - -
+CO-3 3 2 2 3 2 - - -
+CO-4 2 - 1 3 2 - - -
+CO-5 1 - 1 3 2 - - -
+6
+
+--- Page 7 ---
+ENGINE COMBUSTION AND EMISSIONS
+Semester: 1st Credit: 4
+Course Name: Engine Combustion and Emissions L T P 3 1 0
+Course Objectives:
+1. To introduce the concept of combustion phenomena in IC Engine
+2. To develop the knowledge of thermodynamic modelling of combustion
+3. To develop knowledge in formation of emission
+4. To understand recent trends in emission control devices.
+Syllabus Content:
+Module 1: Thermodynamics of Combustion:
+Premixed and diffusion combustion process in IC engines and gas turbines. First and Second Law
+of Thermodynamics applied to combustion- combustion Stoichiometry- chemical equilibrium,
+spray formation and droplet combustion. Chemical Kinetics of Combustion: Fundamentals of
+combustion kinetics, rate of reaction, equation of Arrhenius, activation energy. Chemical
+thermodynamic model for Normal Combustion. Flames: Laminar premixed – flame speed
+correlations- quenching, flammability, and ignition, flame stabilization, laminar diffusion flames,
+turbulent premixed flames-Damkohler number. Burning of Fuels: spray formation & droplet
+behavior, gas turbine spray combustion, direct injection engine combustion, detonation of liquid –
+gaseous mixture, combustion of solid fuels, Combustion principles: Combustion – Combustion
+equations, heat of combustion - Theoretical flame temperature – chemical equilibrium and
+Dissociation -Theories of Combustion - Flammability Limits - Reaction rates – Laminar and
+Turbulent Flame Propagation in Engines. Introduction to spray formation and characterization.
+Module2: Combustion in S.I engines:
+Stages of combustion, normal and abnormal combustion, knocking, Variables affecting Knock,
+Features and design consideration of combustion chambers. Flame structure and speed, Cyclic
+variations, Lean burn combustion, Stratified charge combustion systems. Heat release correlations.
+Module3: Combustion in C.I. Engines:
+Stages of combustion, vaporization of fuel droplets and spray formation, air motion, swirl
+measurement, knock and engine variables, Features and design considerations of combustion
+chambers, delay period correlations, heat release correlations, Influence of the injection system on
+combustion, Direct and indirect injection systems.
+Module 4: Pollutant emissions from IC engines:
+Introduction to clean air, Pollutants from SI and CI Engines: Carbon monoxide, UBHCs, Oxides
+of nitrogen (NO-NOX) and Particulate Matter, Mechanism of formation of pollutants, Factors
+affecting pollutant formation. Measurement of engine emissions-instrumentation, Pollution
+Control Strategies, Emission norms-EURO and Bharat stage norms. Emission control measures for
+SI and CI engines. Effect of emissions on environment and human beings. Noise Emission-
+sources, measurement, and regulation.Design of noise abatement frameworks.
+7
+
+--- Page 8 ---
+Module 5: Control techniques for reduction of emission:
+Design modifications – Optimization of operating factors – Fuel modification – Evaporative
+emission control - Exhaust gas recirculation – SCR – Fumigation – Secondary Air injection – PCV
+system – Particulate Trap – CCS – Exhaust treatment in SI engines –Thermal reactors – Catalytic
+converters – Catalysts – Use of unleaded petrol. Test procedure, instrumentation & emission
+measurement: Test procedures CVS1, CVS3 – Test cycles – IDC – ECE Test cycle – FTP Test
+cycle – NDIR analyzer – Flame ionization detectors – Chemiluminescent analyzer – Dilution
+tunnel – Gas chromatograph – Smoke meters –SHED test.
+Text Books:
+i) Sara McAllister, Jyh-Yuan, Chen A. and Carlos Fernandez-Pello “Fundamentals of
+Combustion Processes” Springer, Mechanical Engineering Series, 2011
+ii) Stiesch G., “Modelling Engine Spray and Combustion Process” Springer, Heat and Mass
+Transfer, 2003
+iii) Ferguson, C.R. & Kirkpatrick A.T., “Internal Combustion Engines Applied
+Thermosciences” Wiley, 2015
+Reference Books:
+i) Ramalingam, K.K., “Internal Combustion Engines”, SciTech Publications (India) Pvt.
+Ltd., 2004.
+ii) Ganesan, V, “Internal Combustion Engines”, Tata McGraw Hill Book Co., 2003.
+iii) John B. Heywood, “Internal Combustion Engine Fundamentals”, McGraw Hill Book,
+1998.
+iv) B.P. Pundir I.C. “Engines Combustion and Emission”, Narosa Publishing House, 2010.
+v) B.P. Pundir “Engine Combustion and Emission”, Narosa Publishing House, 2011.
+vi) Mathur, M.L., and Sharma, R.P., “A Course in Internal Combustion Engines”,
+DhanpatRai
+vii) Publications Pvt.New Delhi-2, 1993.
+viii) Obert, E.F., “Internal Combustion Engine and Air Pollution”, International Text Book
+Publishers, 1983.
+ix) Cohen, H, Rogers, G, E.C, and Saravanamuttoo, H.I.H., “Gas Turbine Theory”, Longman
+Group Ltd., 1980.
+x) Domkundwar V, “A course in Internal Combustion Engines”, DhanpatRai& Co. (P) Ltd,
+2002.
+xi) Rajput R.K. “Internal Combustion Engines”, Laxmi Publications (P) Ltd, 2006.
+xii) Willard W. Pulkrabek, “Engineering Fundamentals of the Internal Combustion Engines”,
+Second Edition, Pearson Prentice Hall, 2007.
+xiii) Stephen, R. “Turns., Combustion”, McGraw Hill, 2005.
+xiv) Mishra, D.P., “Introduction to Combustion”, Prentice Hall, 2009
+xv) Sharma, S. P., “Fuels and Combustion”, Tata McGraw Hill, New Delhi, 2001.
+xvi) Heywood, “Internal Combustion Engine Fundamentals”, McGraw Hill Co. 1988
+8
+
+--- Page 9 ---
+Course Outcomes:
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Understand the concepts of combustion phenomena in energy
+1 1,2,3
+conversion devices.
+Apply the knowledge of adiabatic flame temperature in the design of
+2 1,2,3
+combustion devices.
+Identify the phenomenon of flame stabilization in laminar and turbulent
+3 1,2,3
+flames.
+4 Apply control techniques for reduction of emission. 4
+Identify and understand possible harmful emissions and the legislation
+5 5
+standards
+CO-PO Mapping (Rate: scaleof 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2 1 2 1 2
+CO-2 1 1 1 1 2 2 1 2
+CO-3 1 1 1 2 1 1 2 1
+CO-4 1 2 1 2 1 1 1 1
+CO-5 1 2 1 1 1 2 2 1
+9
+
+--- Page 10 ---
+AUTOMOTIVE TRANSMISSION
+Semester: 1st Credit: 4
+Course Name: Automotive Transmission L T P 3 1 0
+Course Objectives:
+1. To introduce various types of Gear Box, its principle and applications
+2. To understand the construction, principle and concept of Fluid Coupling & Torque
+Convertor
+3. To understand the concept of epicyclic gear system and its types, overdrives
+4. To gain knowledge about the concepts of hydrostatic drive, its merits and demerits and the
+electric drive commonly used in buses
+5. To understand the construction and working of the most commonly used automatic
+transmission systems and its advantage over the conventional transmission
+Syllabus Content:
+Module 1: Clutch and Gear Box:
+Clutch: Different types of Clutches, Working Principle and Constructions, Torque Capacity and
+Design of Clutch Plate. Gear Box: Performance of vehicle, total resistance to motion, Traction and
+Tractive effort, acceleration, calculation of gear ratio, design of three speed Gear Box, design of
+four speed Gear Boxes.
+Module2: Automotive Transmission:
+Spur and internal gear type Planetary Gear Boxes, Ford T- Model, Cotal and Wilson Gear Box,
+determination of Gear Ratios, Automatic Overdrives.
+Module3: Hydrodynamic Drive:
+Advantages and Limitations, Construction details, Torque Capacity, Slip in Fluid Coupling,
+Performance Characteristics, means to reduce drag torque in Fluid Coupling. Principal of Torque
+conversion, single, multi-stage and polyphase Torque Converters, Performance Characteristics,
+Constructional and Operational details of typical hydraulic Transmission Drives.
+Module 4: Hydrostatic Drive and Electric Drive:
+Hydrostatic Drives: Advantages and Disadvantages, Principles of Hydrostatic Drive Systems,
+Construction and Working of typical Hydrostatic Drives, Janney Hydrostatic Drive. Electrical
+Drives: Advantages and Limitations, Principles of Ward Leonard System of modern Electric
+Drive Systems for buses and Performance Characteristics.
+Module 5: Automatic Transmission Applications:
+Relative merits and demerits when compared to conventional transmission, Automatic Control of
+Gears, study of typical Automatic Transmissions, Ford & Chevrolet Drive, Automatic Control of
+Gear Box, Electronically Controlled Transmission and CVT Case Studies: GM‟s tap-shift
+Technology, Porsche Tiptronic Technology
+10
+
+--- Page 11 ---
+Text Books:
+i) Heldt P. M., “Torque Converters”, Chilton Book Co., 1992
+ii) Newton and Steeds, “Motor Vehicle”, Illiffee Publishers, 2000.
+Reference Books:
+i) “Design Practices, Passenger Car Automotive Transmissions”, SAE Handbook, 1994
+ii) Challen Bernard, „Diesel Engine Reference Book‟, Oxford Butterworth, Heinemann, 1999.
+iii) T. K. Garrett, K. Newton and W. Steeds, „Motor Vehicle‟, Butterworth, Heinemann, 13th
+Edition, 2000.
+iv) J.B. Heywood, „Internal Combustion Engine Fundamentals‟, McGraw Hill Book Co.,
+2006.
+Course Outcomes:
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+To be able to differentiate various types of gear boxes, its working,
+advantages & limitations, gear ratios for real time applications of
+1 1, 2
+various gear boxes, epicyclic gear trains, its types, operations, merits
+and demerits
+To be able to understand and analyze the operation and performance of
+2 3
+Fluid Coupling & Torque Converter under various parameters.
+To understand the need, working, construction and the principle of
+3 overdrives, hydrostatic drive, Janny‟s hydrostatic drive and also their 4
+merit and demerits.
+To understand the concepts of electric drive & commonly used electric
+4 drive-in buses. To familiarize with the commonly used automatic 4
+transmission systems and to describe its construction and working.
+To understand the advantages of automatic transmission over the
+5 5
+conventional system
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 1 2 2 1 2 1 2
+CO-2 1 2 1 1 2 1 1 2
+CO-3 1 1 2 1 1 1 2 2
+CO-4 2 2 1 2 1 1 1 1
+CO-5 1 2 2 1 2 2 2 2
+11
+
+--- Page 12 ---
+AUTOMOTIVE SYSTEMS LABORATORY
+Semester: 1st Credit: 2
+Course Name: Automotive Systems Laboratory L T P 0 0 3
+Course Objectives:
+1) To gain an overall knowledge of various automotive system components and their
+functions.
+2) To develop a hands-on experience about dismantling and assembling of different
+automotive system components.
+List of Experiments
+Exp 1: Dismantle and study the detail parts of a single cylinder SI and CI engine.
+Exp 2: Study of gear box and clutch assembly with working principle.
+Exp 3: Dismantle and analyse different parts of differential with working principle.
+Exp 4: Analyze the in-detail operation of various steering mechanisms.
+Exp 5: Perform load test and analyze the fuel consumption of a single cylinder engine.
+Exp 6: Study of various emission measurement equipment with principle of operation.
+Exp 7: Conduct performance emission analysis of a single cylinder test engine.
+Exp 8: Study of automotive electrical and ignition system.
+Exp 9: Fault diagnosis with possible remedy.
+Course Outcomes:
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Identify any component of automotive system with working principle. 1
+Understand the correlation between clutch engagement and gear change
+2 2
+mechanism.
+3 Understand the role of differential in power transmission. 3
+4 Differentiate between various steering mechanisms. 4
+5 Correlate the effect of engine load with fuel consumption. 5
+6 Gain in-hand experience to operate any emission measuring equipment. 6
+Analyze the effect of load on performance emission characteristics of
+7 7
+an engine.
+8 Gain in depth knowledge about automotive lighting circuit. 8
+9 Understand the possible cause of fault with required remedy. 9
+12
+
+--- Page 13 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 2 2 1 2 1 2
+CO-2 1 2 1 1 2 1 1 2
+CO-3 1 1 2 1 1 1 2 2
+CO-4 2 2 1 2 1 1 1 1
+CO-5 1 2 2 1 2 2 2 2
+CO-6 2 1 2 2 1 2 1 2
+CO-7 1 2 1 1 2 1 1 2
+CO-8 1 1 2 1 1 1 2 2
+CO-9 2 2 1 2 1 1 1 1
+13
+
+--- Page 14 ---
+CAD/CAM LABORATORY
+Semester: 1st Credit: 2
+Course Name: CAD/CAM Laboratory L T P 0 0 3
+Course Objectives:
+1) To create and manipulate geometric models using curves, surfaces and solids.
+2) To create CNC Program for machining automotive engineering and machine tool
+engineering components.
+List of Experiments
+Exp 1 : Construction of 3D models of Machine Tool Components.
+Exp 2 : Construction of 3D models of automotive engineering components.
+Construction of 3D assembly of machine tool and automotive engineering
+Exp 3 : components.
+Exp 4 : Preparation of drafting sheet for parts and assembly along with GD&T.
+Exp 5 : Import and Export of CAD data. (IGES, STEP, Parasolid, STL, etc.)
+Exp 6 : Preparation and Simulation of CAM program for CNC Milling Machine.
+Exp 7 : Machining of Complex Profile using CNC Milling Machine
+Exp 8 : Preparation and Simulation of CAM program for CNC Lathe Machine
+Exp 9 : Machining of Complex Profile using CNC Lathe Machine
+Exp 10 : Export of ready-to-run CNC-programs with no need for manual editing.
+Course Outcomes:
+At the end of this course, students will be able to
+CO-No. Course Outcome Exp
+1 Create 3D geometric models using Solid Works graphical software 1,2,5
+2 Create 3D assembly drawing using Solid Works graphical software 3,5
+3 Preparation of drafting sheet for Parts and Assembly along with
+4
+GD&T.
+4 Create Programs, simulate and to machine complex profile using
+6,7,8,9
+CNC Machines
+5 Generate codes using CAM Softwares 10
+14
+
+--- Page 15 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 - 2 3 -
+CO-2 3 - - 2 3 -
+CO-3 3 - - 2 3 -
+CO-4 3 - - 2 3 -
+CO-5 3 - - 2 3 -
+15
+
+--- Page 16 ---
+TECHNICAL WRITING AND SEMINAR
+Semester: 1st Credit: 1
+Course Name: Technical Writing and Seminar L T P 0 0 2
+Course Objectives:
+1) To develop comprehensive technical communication skill.
+2) To develop competency for communicating technical projects.
+Syllabus Content:
+Module 1: Report writing and other business communications:
+Project writing, technical proposal, report Writing (Business and Technical Report), journal
+writing (Research Article), technical description.
+Module2: Miscellaneous correspondence:
+Process of communication, barriers in communication, written communication business letters
+(Quotations, Orders, Tenders, Complaint, Responding/reply to enquiry), email (email etiquettes),
+minutes, memorandum, circular, notice, agenda.
+Module3: Job based communication:
+Job application, resume writing, profile summary and employment interview, presentation skills.
+Module4: Seminar presentation:
+Preparation of PowerPoint slides and oral presentation for Seminar preparation on various
+technical innovations, recent developments in the field of automotive technology, topics of
+universal importance. Presentation of seminar on audio visual mode.
+Text Books:
+i) Sharma R C., Mohan Krishna, Business Correspondence and Report Writing. 5th
+ed. Chennai: Mc Graw Hill Education (India) Pvt. Ltd,2016.
+Reference Books:
+i) Padmaja T.V.S., Pfeiffer William Sanborn. Technical Communication. 6th ed. Noida:
+Pearson
+ii) India Education Services Pvt. Ltd, 2008.
+iii) Anderson V. Paul, Technical Communication.6th ed. New Delhi: Cengage
+Learning, 2010.
+16
+
+--- Page 17 ---
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Ability of narrating any technical concept, communicating research
+1 1
+article.
+Develop overall experience of handling any official, business
+2 2
+correspondence.
+3 Self-development to communicate for any job prospects. 3
+4 Ability to represent project report, thesis, technical viewpoint. 4
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 2 1 1 1 2 2
+CO-2 2 2 1 2 1 1 1 1
+CO-3 1 2 2 1 2 2 2 2
+CO-4 2 1 2 2 1 2 1 2
+17
+
+--- Page 18 ---
+SECOND SEMESTER
+VEHICLE DYNAMICS
+Semester: 2nd Credit: 4
+Course Name: Vehicle Dynamics L T P 3 1 0
+Course Objectives:
+1) To provide a wide variety of learning about the dynamics of ground vehicles.
+2) To apply the models established from basic theories for vehicle design and improvement
+3) Identify key components and their working principles of modern vehicles
+Syllabus Content:
+Module 1: Introduction:
+Hypothetical vehicle control loop, Fundamental Approach, Vehicle coordinates, motion variables.
+Forces – Dynamic axle loads, Static loads on level ground, hitch forces, Tire types, relative merits
+and demerits, tire dimensions and specifications, tire construction, size and load rating
+terminology,tread design , mechanics of force generation – problems.
+Module2: Road Loads:
+Aerodynamic, Mechanics of pressure distribution – Aerodynamic forces: lift & drag, Spoilers, Lift
+force, side force and roll, pitch and yaw moments, Crosswind sensitivity. Rolling Resistance,
+Factors affecting pressure, velocity, slip temperature, etc. Aerodynamic forces on body, Total road
+loads – Fuel Economy Effects.
+Module3: Acceleration & Braking Performance:
+Power limited acceleration, Static loads on level ground, aerodynamic forces on body,
+Fundamental Expressions, Constant retardation, Wind Resistance, Power, Braking forces, Brakes:
+disc and drum, front, rear and four wheel braking, Road friction rolling resistance, problems. effect
+of driving and braking torque on tier ,power consumed by a tire.
+Module 4: Vehicle Vibration and Ride Characteristics:
+Excitation sources – road roughness, wheel assembly, driveline excitation, engine transmission.
+Wheel Hop Resonance. Rigid body bounce, pitch motion. Effect of vibration on vehicle riding.
+Influence of pressure in tire, wheel wobble, wheel wander, wheel shimmy, alignment toe in and toe
+out, tire wear and tire life.Ride characteristics of tires,
+Module 5: Steady–State Cornering:
+Introduction, Low and high-speed turning –Tire cornering forces, governing expressions, under
+steer gradient, over steer and neutral conditions. Characteristic speed, critical speed, yaw velocity
+gain, sideslip angle, static margin. Suspension effects on cornering.
+Module 6: Suspension:
+Vehicle dynamics and suspension requirements, choice of suspension spring rate, chassis springs
+and theory of chassis springs, Gas & hydraulic dampers and choice of damper, damper
+18
+
+--- Page 19 ---
+characteristics, Solid axes – Independent suspension, Trail arm, Front – Trailing rear suspension –
+Anti-squat and anti- pitch suspension geometry, roll center analysis, Active suspension, suspension
+load – vehicle loading, load due to gyroscopic force on suspension, total load on suspension.
+Textbooks:
+i) Thomas D. Gillespie – Fundamentals of road vehicles - SAE, 1992
+ii) Rao V Dukkipati, Road Vehicle Dynamics, SAE International , 2008
+Reference Books:
+i) JY. Wong- Theory of ground vehicles, Fourth edition ,Johnwiley and sons Inc, New
+York,2008
+ii) Werner and Karl, Ground Vehicle Dynamics, Springer Berlin Heidelberg, 2008.
+iii) Wong H, Theory of Ground Vehicles, McGraw Hill, Second edition, 2006.
+iv) Amitosh De , Vehicle Dynamics, Galgotia Book Ltd., 2010.
+v) Hans B Pacejka, Tire and Vehicle Dynamics,3rd Edition, Elsevier Ltd., 2012.
+vi) J.G. Giles- steering, suspension and tyres, Wildlife books Ltd, London, 1968
+vii) W. Steeds- Mechanics of road vehicles- Wildlife book Ltd, London, 1990
+viii) Wolf- Heinrich Hucho – Aerodynamics of road vehicles, SAE
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Understand the principles underlying the development and design of
+1 1
+road vehicles under the influence of dynamic and static loads.
+Demonstrate the Aerodynamic forces : lift & drag, Spoilers, Lift
+2 force, side force and roll, pitch and yaw moments, effects on Fuel 2
+Economy.
+Analyze the performance and establish the design specifications for
+3 3
+the acceleration and braking conditions.
+Model, simulate and analyze the conventional road vehicles for
+4 4
+better ride comfort.
+Analyze the cornering forces and effects of tractive forces on
+5 5
+cornering
+6 Design suspension systems for better damping and comfort 5,6
+19
+
+--- Page 20 ---
+CO-PO Mapping (Rate: scale of 1 to 3):
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 1 2 2 2 2 1
+CO-2 2 2 1 1 1 1 1 1
+CO-3 2 1 2 2 2 2 2 2
+CO-4 2 2 2 2 1 2 2 2
+CO-5 2 1 2 1 2 1 1 1
+CO-6 2 2 2 2 2 2 2 2
+20
+
+--- Page 21 ---
+AUTOMOTIVE CHASSIS AND BODY ENGINEERING
+Semester: 2nd Credit: 4
+Course Name: Automobile chassis and body engineering L T P 3 1 0
+Course Objectives:
+1) To develop knowledge about various vehicle body types, materials and repair methods.
+2) To acquire knowledge on different types of chassis layout and frame designs.
+3) Gain in depth knowledge about steering, suspension, and braking system.
+4) To understand the basics of wheels and tire.
+Syllabus Content:
+Module 1: Car body, body materials and trim mechanisms:
+Classification of Car Body: Saloon-Convertibles-Limousine-Estate Car-Racing and Sports Car-
+Car Body Construction- Electric Car Body Construction-Steel Sheet-Timber-Plastic-GRP-
+Properties of Materials-Corrosion-Anticorrosion Methods-Selection of Paint and Painting Process-
+Body Trim Items- Body Mechanisms.
+Module2: Commercial vehicle body and body repair:
+Types of Bus Body: Based on Capacity-Distance Travelled and Construction-Layout for Various
+Types of Bus Body-Types of Metal Sections Used-Regulations-Constructional Details:
+Conventional and Integral-Driver Seat Design-Dimensions of Driver‟s Seat in Relation to
+Controls-Types of Commercial Vehicle Bodies-LCV-HCV - Electric Bus Body Construction-
+Panel Repair-Hand Tools-Power Tools-Repairing Sheet Metal and Repairing Plastics Body.
+Module3: Layout, frame, front axle and steering system:
+Basic Construction of Chassis, Types of Chassis Layout with Reference to Power Plant Location
+and Drive-Various Types of Frames-Loads Acting on Vehicle Frame-Materials for Frames-
+Types of Front Axles and Stub Axles-Front Wheel Geometry-Castor-Camber-King Pin
+Inclination and Toe In-Toe Out-Condition for True Rolling Motion-Ackerman‟s and Davis
+Steering Mechanisms- Reversible and Irreversible Steering-Over Steer and Under Steer- Different
+Types of Steering Gear Boxes- Power Assisted Steering.
+Module 4: Suspension system, Wheels and tyres:
+Requirements of Suspension System-Types of Suspension-Constructional Details and
+Characteristics of Single Leaf – Multi–Leaf Spring-Coil Spring and Torsion Bar-Rubber-
+Pneumatic and Hydro Elastic Suspension-Independent Suspension System-Shock Absorbers-Types
+of Wheels-Wheel Rims-Construction of Tyres and Tyre Specifications
+21
+
+--- Page 22 ---
+Module 5: Braking system:
+Need for Brake System-Stopping Distance-Leading and Trailing Shoes-Braking Torque-Types and
+Constructional Details-Drum Brakes and Disc Brakes-Hydraulic Braking System-
+Mechanical Braking System-Pneumatic Braking System-Power Assisted Braking System-Anti
+Lock Braking System.
+Text Books:
+i) Heinz Heisler, “Advanced Vehicle Technology”, Butterworth-Heinemann, Elsevier,
+Indian Edition, 2011.
+ii) Jack Erkavec “A System Approach to Automotive Technology”, Cengage Learning India
+Pvt Ltd., 2009
+iii) Kripal Singh, “Automobile Engineering (Volume-1)”, 12th Edition, Standard Publishers
+Distributors, 2011.
+Reference Books:
+i) Donald E. Malen, „Fundamentals of Automobile Body Structure Design‟SAE
+International, 2011.
+ii) Geoff Davies, „Materials for Automobile Bodies‟, Butterworth-Heinemann, 2012.
+iii) Powloski J, „Vehicle Body Engineering‟, Business Books Ltd., 1998.
+iv) James E Duffy, „Body Repair Technology for 4-Wheelers‟,Cengage Learning, 2009.
+v) Crouse and Anglin, „Automotive Mechanism‟, 9th Edition. Tata McGraw-Hill, 2003.
+vi) Jack Erjavec, „A Systems Approach to Automotive Technology‟, Cengage Learning
+Pub.,2009
+vii) T. K. Garrett, K. Newton and W. Steeds, „Motor Vehicle‟, Butterworth, Heinemann, 13th
+Edition, 2000.
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Enumerate and identify different car body and body materials. 1
+Describe the various commercial vehicle body, driver seat design and
+2 2
+body repair tools.
+3 Outline the design features of frame, front axle and steering system 3
+4 Understand the types of suspension system, wheels, and tyres. 4
+Illustrate the concepts, types, construction, and operation of different
+5 5
+braking system used in automobiles.
+22
+
+--- Page 23 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course PO- PO- PO- PO- PO- PO- PSO- PSO-
+Outcome 1 2 3 4 5 6 1 2
+CO-1 2 2 1 2 2 2 1 1
+CO-2 1 1 2 1 2 2 2 2
+CO-3 2 1 1 2 1 1 1 1
+CO-4 1 2 1 1 2 1 2 1
+CO-5 2 1 2 2 1 2 2 1
+23
+
+--- Page 24 ---
+AUTOMOTIVE SIMULATION AND ANALYSIS LABORATORY
+Semester: 2nd Credit: 2
+Course Name: Automotive Simulation and Analysis
+L T P 0 0 3
+Laboratory
+Course Objectives:
+1) To realize the importance of computational simulation of real time engine operation.
+2) To gain in depth knowledge of working with various commercial simulation package for
+modeling and analysis of different real time engine operation.
+List of Experiments
+Exp 1: Introduction to Modeling and simulation, code development, and miscellaneous primary
+functions.
+Exp 2: Familiarization with governing equations, initializing boundary function,model building
+and integration methods, gas exchange through valves, engine and porting geometry, exhaust gas
+recirculation, valve lift curves.
+Exp 3: Developing simple model of driveline system and simulation.
+Exp 4: Modeling and simulation of automotive suspension system.
+Exp 5: Developing basic single cylinder model with intake ports and analysing the performance.
+Exp 6: Developing multi cylinder engine model and investigating performance parameters.
+Exp 7: Performing combustion simulation for analysing the pressure profile, maximum pressure
+rise rate corresponding to particular engine operation.
+Exp 8: Analysing the rate of MFB, net heat release profile by simulation of real time engine
+operation.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome Expcovered
+1 Develop basic concepts of modeling and coding. 1
+Develop knowledge for handling governing equations, setting up
+2 1,2
+boundary conditions, engine and porting geometry.
+3 Gain experience of simulating basic driveline system. 1,2,3
+Gain hands on experience of modeling and simulation of suspension
+4 4
+system.
+Develop the skill to analyze the performance characteristics of a
+5 5,6
+developed engine model.
+Analyze the combustion simulation profile of a real time engine
+6 7,8
+operation.
+24
+
+--- Page 25 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 1 2 2 2 1 1
+CO-2 1 1 2 1 2 2 2 2
+CO-3 2 1 1 2 1 1 1 1
+CO-4 1 2 1 1 2 1 2 1
+CO-5 2 2 1 2 2 2 1 1
+CO-6 1 1 2 1 2 2 2 2
+25
+
+--- Page 26 ---
+ROBOTICS AND MECHATRONICS LABORATORY
+Semester: 2nd Credit: 2
+Course Name: Robotics and Mechatronics Laboratory L T P 0 0 3
+Course Objectives:
+1) To impart basic knowledge and importance on Robotics and Mechatronics in Engineering
+Fields among the students.
+2) To create the awareness on Robotics and Mechatronics in Research and Application area.
+List of Experiments
+Exp 1: To Study Robot motion in Cartesian, cylindrical and spherical co-ordinate system.
+Exp 2: To study the pick and place motion on five axes robot.
+Exp 3: Study of making a program on Labview with Push Button and Round LED.
+Exp 4: Study of making a program on Labview with Loop and Logical function.
+Exp 5: Study of making a program on Labview for Sound Accusation and again play.
+Exp 6: Study of making a program on Labview for Comparison.
+Exp 7: Study of making a program on Labview for power control of a DC motor.
+Exp 8: Study of making a program on Labview for Temperature Acquisition.
+Exp 9: Study of making a program on Labview for Voltage Acquisition.
+Exp 10: Study of making a program on Labview for Current Acquisition.
+Course Outcomes
+CO-No. Course Outcome Exp
+1 Robot motion in cartesian, cylindrical and spherical co-ordinate system. 1
+2 Programming and control of five axis robots. 2
+3 Programming for sound, temperature, voltage and current acquisition. 5,8,9,10
+4 Programming for comparison and power control of DC motor. 6,7
+5 Following features in Lab view software: While Loops, Plotting,
+4
+SubVIs, Case Structures, Arrays, Clusters
+6 Knowledge will be gained on application and utility of Robotics and
+1-10
+Mechatronics used in various sectors and fields.
+26
+
+--- Page 27 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 2 2 3 3 3 3
+CO-2 2 2 2 3 3 2 3 3
+CO-3 3 2 3 2 3 3 3 3
+CO-4 2 2 2 3 3 2 3 3
+CO-5 2 2 2 2 3 3 3 3
+CO-6 2 2 3 3 3 2 3 3
+27
+
+--- Page 28 ---
+COMPREHENSIVE VIVA
+Semester: 2nd Credit: 2
+Course Name: Comprehensive Viva L T P 0 0 0
+Course Objectives:
+1) To assess the overall knowledge of the student in the field of Manufacturing Technology
+acquired over one year of study in post graduate program.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+1 Comprehend any given problem / concept related to Automotive Engineering domain.
+2 Recall, recognize, visualize, demonstrate, criticize and appraise the concepts related to
+Automotive Engineering domain.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 1 3 1 2 2 2 1
+CO-2 3 2 3 2 1 2 2 2
+28
+
+--- Page 29 ---
+PROJECT PRELIMINARY
+Semester: 2nd Credit: 4
+Course Name: Project Preliminary L T P 0 0 6
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes:
+At the end of course, students will be able to
+CO-No. Course Outcome
+1 Undergo literature survey in the chosen field of research
+2 Approach and identify a research problem and able to analyze the scope of research
+3 Develop a research methodology to proceed with the research
+4 Summarize and present a technical presentation with proper reference
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2 1 1 1 2
+CO-2 2 2 2 2 2 1 2 2
+CO-3 2 2 2 2 2 2 1 2
+CO-4 1 2 2 2 2 1 1 1
+29
+
+--- Page 30 ---
+THIRD SEMESTER
+PROJECT AND THESIS - 1
+Semester: 3rd Credit: 10
+Course Name: Project and Thesis – 1 L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+At the end of course, students will be able to
+CO-No. Course Outcome
+Intensive literature survey and identify the research problems related to topic of
+1
+interest.
+2 Communicate and discuss research ideas
+3 Develop a systematic model/approach to analyze and solve the research problems.
+4 Outline the past, present and expected outcome based on systematic survey.
+5 Conduct preliminary experiments / theoretical evaluation to certain extent.
+Summarize their survey, research problem identification, approach, ,expected
+6 outcome and attained results with interpretation by means of oral presentation and
+written reports
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 2 2 3 2 2 2 2
+CO-2 2 2 2 3 2 2 2 2
+CO-3 2 2 2 2 2 2 2 2
+CO-4 2 2 2 2 2 2 2 2
+CO-5 2 2 2 2 2 2 1 1
+CO-6 2 3 2 3 2 2 2 2
+30
+
+--- Page 31 ---
+FOURTH SEMESTER
+PROJECT AND THESIS - 2
+Semester: 4th Credit: 20
+Course Name: Project and Thesis – 2 L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes:
+At the end of course, students will be able to :
+CO-No. Course Outcome
+Survey, approach, identify and demonstrate the research / industrial problems using
+1
+various available modern tools and techniques
+Develop and validate a systematic model/process to analyze and solve the research
+2
+problems.
+Outline the past, present and expected performance / outcome of a material / product /
+3 process / model / system(s) in Engineering domain in confirmation to the standard of
+safety and environmental, economic and ethical yardstick.
+4 Conduct experiments and theoretical evaluation extensively
+Analyze, summarize, infer based on extensive research and communicate their
+5 chosen domain problems and result optimistically by means of oral presentation and
+written dissertation reports
+Present and publish their findings as technical manuscript in technical conference/
+6
+indexed research journals ethically.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 2 3 2 3 3 2
+CO-2 2 2 2 3 2 3 2 2
+CO-3 2 2 2 2 3 2 2 2
+CO-4 2 2 2 3 2 2 2 2
+CO-5 2 3 2 2 2 2 3 2
+CO-6 3 3 2 3 2 2 2 3
+31
+
+--- Page 32 ---
+ELECTIVE –I
+Viscous Fluid Mechanics
+Semester: 1st Credit: 4
+Course Name: Viscous Fluid Mechanics L T P 3 1 0
+Course Objectives:
+The course is intended to
+1. Establish an understanding of the fundamental concepts of fluid mechanics.
+2. Understand and apply the potential flow equations to basic flows.
+3. Demonstrate and apply the differential equations of fluid mechanics including
+the impact of assumptions made in the analysis.
+4. Understand the boundary layer concepts with respect to fluid flow
+5. Understand and apply the compressible flow equations.
+Syllabus Content
+Module-1
+Review of Basic concepts- Reynolds‟s transport theorem, Fluid kinematics – Physical
+Conservation laws – Integral and differential formulations, stress-deformation relation, vector and
+tensor calculus, vorticity and circulation, Potential flow, derivation of Navier-Stokes equations.
+Module -2
+Flow analysis: Navier-Stokes and energy equations, Exact solutions: Couette flow, Hagen-
+Poiseuille flow, Stoke‟s problems; Dimensionless forms and dimensionless numbers – Solution of
+Navier-Stokes equations.
+Module-3
+Boundary layer theory, Boundary layer thickness, Prandtl‟s equations, solution-skin Friction
+coefficient, Two-dimensional boundary layer, Blassius solution, Kármán-Pohlhausen method,
+Module -4
+Flow over bluff bodies, effect of pressure gradient, Flow separation and control.
+Module-5
+Flow instability: concept of small-perturbations, linearized stability of parallel viscous flows,
+different flow instabilities.
+Module-6
+Turbulent flows, RANS model, Reynolds stress tensor, Reynolds equation – Prandtl and von
+Karman hypothesis, Universal velocity Profile near a wall- flow through pipes, fully developed
+Turbulent flow through pipes and channel.
+32
+
+--- Page 33 ---
+Text Books:
+1. Fluid Mechanics, Pijush Kundu and Ira Cohen, 2nd edition, Academic press, An imprint of
+Elsevier Science.
+2. Fluid Mechanics, Yunus A. CENGAL, 2nd edition. McGraw-Hill, 2010 .
+References:
+1. Currie, LG., Fundamental Mechanics of Fluids, 4th ed., CRC Press, 2012.
+2. White, P.M., Viscous Fluid Flow, 2nd ed., McGraw-Hill, 1991.
+3. Ockendon, H. and Ockendon, J., Viscous Flow, Cambridge Uni. Press, 1995.
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+1 Formulate and solve basic problems of fluid mechanics 1,2
+To identify, formulate and analyze specific fluid mechanics
+2 2, 3
+problems using the concepts of NS and exact solution.
+To solve and analyze practical problems suing appropriate
+3 3,4
+approximations.
+4 To understand and apply the concept of flow instabilities 5
+Apply the concepts of turbulent flow analysis in important
+5 5,6
+Engineering flow scenarios.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 3 2 2 - -
+CO-2 2 2 3 2 3 3 - -
+CO-3 2 3 3 3 2 2 - -
+CO-4 3 3 3 2 2 1 - -
+CO-5 3 2 3 3 3 1 - -
+33
+
+--- Page 34 ---
+Advance Thermodynamics
+Semester: 1st Credit: 4
+Course Name: Advance Thermodynamics L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to mechanical engineering students to
+understand, model and appreciate concept of dynamics involved in thermal energy
+transformation.
+2) To prepare them to carry out experimental investigation and analysis at later stages of
+graduation.
+Syllabus Content
+Module 1:
+Review of Thermodynamics: Introduction, Significance and limitations, System and Boundary,
+Simple System, Constraints and Restraints, Composite System, Phase, Homogeneous, Pure
+Substance, Amount of Matter and Avogadro Number, Mixture, Property, State, Equation of State,
+Standard Temperature and Pressure, Partial Pressure, Process, Vapor–Liquid Phase Equilibrium
+Mathematical Background: Explicit and Implicit Functions and Total Differentiation, Exact
+(Perfect) and Inexact (Imperfect) Differentials, Mathematical Criteria for an Exact
+Differential.Relevance to Thermodynamics, Work and Heat, Integral over a Closed Path
+(Thermodynamic Cycle),Homogeneous Functions, Relevance of Homogeneous Functions to
+Thermodynamics, LaGrange Multipliers, Composite Function
+Overview of Microscopic/Nano-thermodynamics: Matter, Intermolecular Forces and Potential
+Energy, Collision Number, Mean Free Path, and Molecular Velocity, Collision Number and Mean
+Free Path, Maxwellian Distribution of Molecular Velocity, Average, Root Mean Square (RMS),
+and Most Probable Speeds. Thermal and Internal Energy: Monatomic Gas, Diatomic Gas,
+Triatomic and Polyatomic Gases, Temperature, Pressure: Relation between Pressure and
+Temperature, Gas, Liquid, and Solid, Work, Heat Transfer and Thermal Equilibrium, Chemical
+Potential: Multi-component into Multi-component, Single Component into Multi-component,
+Boiling/Phase Equilibrium: Single Component Fluid, Multiple Components, Entropy: Overview,
+Energy Levels or Quantum Numbers, Macro- and Microstates and Entropy, Entropy of a Solid, a
+Liquid and a Gas, Relation between Entropy, Energy and Volume, Properties in Mixtures: Partial
+Molal Property, Stokes and Gauss Theorems: Gauss–Ostrogradskii Divergence Theorem, The
+Leibnitz Formula.
+Module 2:
+Laws of thermodynamics: Objectives.; First Law for a Closed System Energy Conservation
+Equation in Various Forms: Elemental Process, Integrated Form, Uncoupled (Conservative) and
+Coupled (Nonconservative) Systems Adiabatic Form and Caratheodary Axiom I, Cyclical Form
+and Poincare Theorem First Law in Rate Form, Quasi-Equilibrium (QE) and Nonquasi-
+Equilibrium (NQE) Processes, Enthalpy and First Law, Adiabatic Reversible Process for Ideal Gas
+with Constant Specific Heats. First Law for an Open System: Conservation of Mass, Conservation
+of Energy for a Simple Open System. Conservation of Energy for Complex Open System,
+Applications of First Law for an Open System, Integral and Differential Forms of Conservation
+34
+
+--- Page 35 ---
+Equations. Second Law of Thermodynamics and Entropy, Consequences of the Second Law,
+Entropy Balance Equation for a Closed System, Irreversibility Entropy Measurements and
+Evaluation. Local and Global Equilibrium Entropy: Energy Relation for Single Component
+Incompressible Fluids, Third Law
+Availability: Optimum Work and Irreversibility in a Closed System Availability or Exergy
+Analyses for a Closed System, Generalized Availability Analysis ,Availability/Exergetic
+Efficiency, Chemical Availability, Integral and Differential Forms of Availability Balance
+Module 3:
+Postulatory (Gibbsian) Thermodynamics: Introduction.. Classical Rationale for Postulatory
+Approach Simple Compressible Substance Legendre Transform Application of Legendre
+Transform.. Work Modes and Generalized State Relation Thermodynamic Postulates for Simple
+Systems
+State Relationships for Real Gases and Liquids: Introduction, Equations of State, Virial Equations,
+Clausius-I Equation of State, VW Equation of State, Redlich–Kwong Equation of State, Other
+Two-Parameter Equations of State.. Compressibility Charts (Principle of Corresponding States),
+Boyle Temperature and Boyle Curves, Deviation Function. Three Parameter Equations of State;
+Critical Compressibility Factor (Zc)-Based Equations, Pitzer Factor, One Parameter Approximate
+Virial Equation, Redlich–Kwong–Soave (RKS or SRK) Equation, Robinson (PR) Equation
+Empirical Equations of State: Benedict–Webb–Rubin Equation, Beatie–Bridgemann (BB)
+Equation of State, Modified BWR Equation, Lee–Kesler Equation of State, Martin–Hou. State
+Equations for Liquids/Solids ,Cubic Equation
+Module 4:
+Thermodynamic Properties of Pure Fluids: Introduction, James Clark Maxwell, 1831–1879
+Relations, Generalized Relations Evaluation of Thermodynamic Properties Pitzer Effect Kesler
+Equation of State (KES) and Kesler Tables Fugacity. Vapor/Liquid Equilibrium Curve Throttling
+Processes
+Thermodynamic Properties of Mixtures: Introduction, Generalized Relations and Partial and
+Mixture Molal Properties. Partial Molal Property and Characteristics Useful Relations for Partial
+Molal Properties Ideal Gas Mixture Molal Properties Using the Equations of State
+Module 5:
+Stability: Introduction, Mathematical Criterion for Stability Perturbation of Energy Perturbation
+with Energy and Volume System with Specified Values of S, V, and m System with Specified
+Values of T, V, and m System with Specified Values of T, P, and m Application to Boiling and
+Condensation Entropy Generation during Irreversible Transformation Spinodal Curves
+Chemically Reacting Systems: Introduction,Chemical Reactions and Combustion
+Thermochemistry First Law Analyses for Chemically Reacting Systems Combustion Analyses in
+the Case of Nonideal Behavior Second Law Analysis of Chemically Reacting Systems Mass
+Conservation and Mole Balance Equations
+Module 6:
+Thermodynamics and Biological Systems: Introduction,Biomass Processing Food and Nutrients:
+Thermo-chemical Properties of Nutrients, Metabolism of Nutrients Mixture of CH, F, and P,
+35
+
+--- Page 36 ---
+Human Body. Metabolism, BMR Estimation Thermo-chemistry of Metabolism in BS Heat
+Transfer Analysis from the Body Temperature and Warm and Cold Blooded Animals Second Law
+and Entropy Generation in BS Entropy Generation through Chemical Reactions Life Span and
+Entropy Allometry
+Text Books:
+i) Beattie, J. A., and Oppenheim, I., Principle of Thermodynamics, New York: John Wiley,
+1979.
+ii) Annamalai, K., Puri, I. K., and Jog, Advanced Thermodynamics Engineering Biological
+Thermodynamics, Taylor& Francis, Boca Raton, FL, Aug. 2009.
+Reference Books:
+i) Callen, H. B. Thermodynamics: An Introduction to the Physical Theories of Equilibrium
+Thermostatistics and Irreversible Thermodynamics, New York: John Wiley, 1960.
+ii) Cengel, Y. A., and M. A. Boles, Thermodynamics, an Engineering Approach, 3rd \ed.,
+New York: McGraw-Hill Book Co., 1998.
+iii) Gyftopoulos, E. P., and G. P. Beretta, Thermodynamics: Foundations and Applications,
+Mineola, NY: Dover,1991, 2005.
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+Formulate and manipulate the thermodynamic treatment of arbitrary
+1 1,2
+processes.
+To identify, formulate, manipulate and analyze specific Mechanical
+2 2.3
+Engineering problems using fundamental concepts.
+To instill upon to envisage appropriate approximations for practical
+3 3,4
+problem solving.
+To investigate the effectiveness of energy conversion process in
+4 4,5
+mechanical power generation for the benefit of mankind.
+Understand the implications of approximations on the efficiency and
+5 5,6
+accuracy of the solution.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 2 1 1 1 1 2 1
+CO-2 2 2 2 3 3 3 2 2
+CO-3 2 1 2 2 3 3 2 1
+CO-4 2 2 1 3 3 3 2 1
+CO-5 2 2 2 2 3 3 2 2
+36
+
+--- Page 37 ---
+ADVANCED MATERIALS AND PROCESSING
+Semester: 1st Credit: 4
+Course code and Name: Advanced Materials and Processing L T P 3 1 0
+Course Objectives:
+1) To familiarize with the knowledge of different advanced materials
+2) To study different manufacturing processes of advanced materials
+3) To study the importance of advanced materials and their applications in engineering field
+Syllabus Content
+Module 1:
+Introduction of advanced materials and its manufacturing processes for engineering applications.
+Module 2:
+Piezoelectric materials (PZT): piezoelectric effect, Di-electric hysterisis, piezoelectric constants,
+piezoelectric charge constants, dynamic behaviour of PZT transducers, piezoelectric materials and
+manufacturing techniques (stability, poling and depolarisation).
+Module 3:
+Shape memory alloys (SMA): Shape memory effect and the metallurgical phenomenon of SMA,
+Temperature assisted shape memory effect, Visco-elastic behaviour, magnetic shape memory
+effect. Various shape memory alloys. Manufacturing technology of SMAs.
+Module 4:
+Electro rheological (ER) and magneto-rheological (MR) materials: Characteristics of ER and EM
+fluids. ER and EM materials.
+Module 5:
+Composite materials: Design and manufacturing of polymer matrix, metal matrix and ceramic
+matrix composites. Various forms and type of reinforcements, fillers and additives.Design of
+composites for structural, wear resistance and high temperature applications.Micro-
+electromechanical (MEMS) systems.Introduction, characteristics of silicon wafers and other
+materials for MEMS applications.
+Module 6:
+Various manufacturing techniques of MEMS components Materials for high temperature
+applications: Ni-Cr alloys, ODS materials, Ni base and Co based super alloys, carbon-carbon
+composites. Diffusion bond coating of high temperature materials.
+37
+
+--- Page 38 ---
+Module 7:
+Powder metallurgy: Introduction and feature of powder metallurgy processes. Advanced
+solidification techniques: directional solidification, single crystal growth and levitation melting.
+Text Books:
+i) Gandhi, M.V., Thompson, B.S., Smart Materials and Structures, Chapman and Hall
+ii) Ray, A.K. (ed), Advanced Materials, Allied publishers.
+iii) Rama Rao, P. (ed), Advances in Materials and their applications, Wiley Eastern Ltd.
+Reference Books:
+i) R. E. Smallman, A. H.W. Ngan, Physical Metallurgy and Advanced Materials,
+Butterworth-Heinemann (Elsevier)
+ii) Milton Ohring, Engineering Materials Science, Academic Press
+iii) Smart Materials, Edited by Mel Schwartz, CRC Press
+iv) Shape Memory Alloys, Edited By Dimitris C. Lagoudas, Springer Publications
+v) James K. Wessel, Handbook of advanced materials, Wiley Online Library
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+Provide and understanding about advanced materials and their 1
+1
+applications in engineering field.
+Develop a knowledge about advanced materials such as 2, 3, 4, 5
+2 piezoelectric materials, shape memory alloys, ER, MR and
+composites and their manufacturing techniques and applications
+Design materials for different engineering applications 2, 5
+3
+Develop a knowledge about materials and their manufacturing 5, 6
+4
+techniques for MEMS applications
+Develop a knowledge on coating of high temperature materials, 6, 7
+5
+powder metallurgy process and advanced solidification techniques
+CO-PO Mapping (Rate: scale of 1 to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 1 1 2 2 2
+CO-2 1 2 3 2 2 2 2 3
+CO-3 2 2 3 2 2 2 2 3
+CO-4 2 2 3 1 2 2 3 2
+CO-5 2 2 3 1 2 2 1 2
+38
+
+--- Page 39 ---
+ELECTIVE - II
+COMPUTATIONAL FLUID DYNAMICS
+Semester: 2nd Credit: 4
+Subject Name: Computational Fluid Dynamics L T P 3 1 0
+Course Objectives:
+1) Place CFD in the context of a useful design tool for industry and a vital research tool for
+thermos-fluid research across many disciplines;
+2) Familiarize students with the basic steps and terminology associated with CFD. This includes
+developing students‟ understanding of the conservation laws applied to fluid motion and heat
+transfer and basic computational methods including explicit, implicit methods, discretization
+schemes and stability analysis;
+3) Develop practical expertise of solving CFD problems with a commercial CFD code
+4) Develop an awareness of the power and limitations of CFD.
+Syllabus Contents
+Module 1: Basic Thoughts
+Philosophy of Computational Fluid Dynamics, the impact of Computational Fluid Dynamics –
+some other examples- Automobile and Engineering applications, Industrial Manufacturing
+applications, Civil Engineering applications, Environmental Engineering applications. The
+governing equations of fluid dynamics: their derivation, a discussion of their physical meaning
+and presentation of forms particularly suitable to CFD: Introduction, finite control volume,
+infinitesimal fluid element, the substantial derivative, divergence of velocity-its physical
+meaning, physical boundary condition, Comments on the conservation form, shock fitting &
+shock capturing. Comparison of FDM, FVM and FEM technique.
+Module 2: Different Equations:
+Mathematical Behavior of Partial Differential Equation – The Impact on CFD: Classification of
+quasi-linear partial differential equation, a general method of determining the classification of
+partial differential equations: the eigen value method, general behavior of the different classes of
+partial differential equation: impact on physical & computational fluid dynamics.
+Module 3: Basics of the Numerical Discretization
+Basic aspect of Discretization methods; finite difference and finite volume formulations,
+difference equation, explicit and implicit approaches: definition and contrasts, Errors and
+ananalysis of stability.
+Module 4: Numerical Solutions
+Numerical solution of elliptical equations - Linear system of algebraic equations, Numerical
+39
+
+--- Page 40 ---
+solution of parabolic equations, Numerical solution of hyperbolic equations - Burgers equation.
+Module 5: Some Simple CFD Techniques
+The lax-Wendroff Technique, Mac Cormack‟s Technique, The Relaxation Technique & its use
+with Low-Speed Inviscid flow, Aspects of Numerical Dissipation and Dispersion; Artificial
+Viscosity, The Alternating Direction Implicit (ADI) Technique. Incompressible Navier-Stokes
+equations and algorithms - Basics of grid generation.
+Text Books:
+i) J.Andeson J.D., Computational Fluid Dynamics – The basics with applications, Mc Graw-
+Hill, 1995.
+ii) Tannehill, J.e., Anderson, D.A., and Pletcher, R.H., Computational Fluid Mechanics and
+Heat Transfer, 2nd ed., Taylor & Francis, 1997.
+ii) Hoffmann, K.A. and Chiang, S.T., Computational Fluid Dynamics for Engineers,
+Engineering Education Systems, 2000.
+Reference Books:
+i) Versteeg, H.K. and Malalasekera, W., An Introduction to Computational Fluid Dynamics –
+The finite volume method, Longman Scientific & Technical, 1995.
+ii) Patankar, S.V., Numerical Heat Transfer & Fluid Flow, Hemisphere, 1980.
+iii) 3.P.J. Roache, Fundamentals of Computational Fluid Dynamics.
+Course Outcomes:
+After going through careful explanations of concepts, numerous practical examples and figures, a
+student will be able to
+Module
+CO-No. Course Outcome
+Covered
+Comprehensive, theory-based understanding, fundamentals of
+computational fluid dynamics and its application, Conceptual
+CO-1 1,2
+understanding ofmathematical behavior of partial differential
+equation and its impact on CFD.
+In-depth understanding ofbasic aspect of discretization methods and
+CO-2 2,3
+its applications.
+Application of established engineering methods to Numerical
+CO-3 3.4
+solutions.
+CO-4 Understand Some Simple CFD Techniques. 4
+Understand and apply different algorithms, CFD technique and
+CO-5 1,4,5
+Basics of various grid generation.
+40
+
+--- Page 41 ---
+Mapping of Course Outcomes with Program Outcomes:
+CO PO1 PO2 PO3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+3 3 3 2 3 2 3 2
+CO1
+3 3 3 2 3 2 3 2
+CO2
+3 3 3 2 3 2 3 2
+CO3
+3 3 3 2 3 2 3 2
+CO4
+3 3 3 2 3 2 3 2
+CO5
+3 3 3 2 3 2 3 2
+CO6
+41
+
+--- Page 42 ---
+FINITE ELEMENT METHOD
+Semester: 1st Credit: 4
+Course Name: Finite Element Method L T P 3 1 0
+Course Objectives:
+1) Enable the student to analyze the engineering problems in the design process of solids and their
+structure.
+2) Make the students to apply the knowledge of mathematics, science and engineering to do the
+analysis of simple and complex elastic structures using the finite element analysis
+3) Derive the finite element equations for different mechanical elements.
+4) Learn and apply finite element solutions to structural, thermal, dynamic problem to develop the
+knowledge and skills needed to effectively evaluate finite element analysis.
+Syllabus Content
+Module1:
+Introduction to FEM, basic concepts, historical back ground, applications of FEM, general
+description, comparison of FEM with other methods, variational approach, Glerkin‟s Methods. Co-
+ordinates, basic element shapes, interpolation function, Virtual energy principle, Rayleigh – Ritz
+method, properties of stiffness matrix, treatment of boundary conditions, solution of system of
+equations, shape functions and characteristics, Basic equations of elasticity, strain- displacement
+relations.
+Module2:
+1-D Structural Problems: Axial bar element – stiffness matrix, load vector, temperature effects,
+Quadratic shape functions and problems. Analysis of Trusses: Plane Trusses and Space Truss
+elements and problems, Hermite shape functions – stiffness matrix – Load vector – Problems.
+Module3:
+Problems: CST, LST, force terms, Stiffness matrix and load vectors, boundary
+conditions, Isoparametric elements – quadrilateral element, shape functions – Numerical
+Integration. Finite element modeling of Axi-symmetric solids subjected to Axi-symmetric
+loading with triangular elements. 3-D Problems: Tetrahedran element – Jacobian matrix –
+Stiffness matrix.
+Module 4:
+Steady state heat transfer: One dimensional heat conduction, Boundary condition, One
+dimensional element, Functional approach for heat conduction, ,Galarkins approach for heat
+conduction, One dimensional heat transfer in thin Fins, Two dimensional steady state heat
+conduction.
+Module 5:
+Scalar Field Problems: 1-D Heat conduction-Slabs – fins – 2-D heat conduction problems –
+42
+
+--- Page 43 ---
+Introduction to Torsional problems.
+43
+
+--- Page 44 ---
+Dynamic considerations, Dynamic equations – consistent mass matrix – Eigen Values, Eigen
+vector, natural frequencies – mode shapes – modal analysis.
+Text Books:
+i) Finite Element Methods: Basic Concepts and applications, Alavala, PHI.
+ii) Introduction to Finite Elements in Engineering, Chandrupatla, Ashok and
+Belegundu, Prentice – Hall
+Reference Books:
+i) Concepts and Application of Finite Elements Analysis, Cook, Malkus and Plesha, Wiley.
+ii) Bathe K.J., “Finite Element Procedures in Engineering Analysis”, Prentice Hall of India
+iii) O.C.Zienkiewicz, R.L.Taylor & J.Z.Zhu, “The Finite Element Method its Basis and
+Fundamentals”, Butterworth-Heinemann, Elsevier
+iv) Finite Element Method, J N Reddy, McGraw Hill International Edition.
+Course Outcomes:
+Module
+CO-No. Course Outcome
+Covered
+1 Apply and understand the basic concepts of Finite element analysis 1, 2, 3 & 4
+procedure.
+2 Analyze and build FEA model for complex engineering problems. 5
+3 Knowledge of mathematics and engineering in solving the 4 & 5
+problems related to structural and heat transfer
+4 Develop element characteristic equation and generation of global 1, 2, 3 & 4
+equation
+5 Identify the application and characteristics of FEA elements such 2 & 3
+as bars, beams, plane and isoparametric elements
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 3 3 3 3 3 3 3
+CO-2 3 3 2 3 2 3 2 1
+CO-3 3 3 3 3 3 2 1 1
+CO-4 2 2 3 3 2 3 2 2
+CO-5 3 2 3 3 3 3 1 1
+44
+
+--- Page 45 ---
+NUMERICAL ANALYSIS AND COMPUTER PROGRAMMING
+Semester: 1st Credit: 4
+Course Name: Numerical Analysis and Computer Programming L T P 3 1 0
+Course Objectives:
+1) To be familiar with numerical solution of equations.
+2) To get exposed to finite differences and interpolation.
+3) To be through with the numerical Differentiation and integration.
+4) To find numerical solutions of ordinary differential equation.
+5) To find numerical solutions of partial differential equation.
+Syllabus Content
+Module 1:
+Approximation and round off errors; Truncation errors and Taylor series.Determination of roots of
+polynomials and transcendental equations by Newton- Raphson, Secant and Barstow‟s method.
+Solution of linear simultaneous algebraic equations by Gauss elimination and Gauss-Siedel iteration
+methods.
+Module 2:
+Curve fitting; Linear and non-linear regression analysis. Finite Difference Method: Backward;
+Forward and central difference relations and their uses in numerical differentiation and integration;
+Application of different relations in the solution of partial differential equations, Introduction of
+Finite Element Method. Numerical solution of ordinary differential equations by Euler; modified
+Euler, Runge-Kutta and predictor-corrector method.
+Module 3:
+Introduction to computer programming in C and C++ languages: Arithmetic expressions; Simple
+programs Example of some C programs; Dissection of the program line by line; Concept of
+variables; Program statement and function calls from the library. C datatypes: int, char, float etc.
+C expressions, arithmetic operations, relational and logic operations.
+Module 4:
+C assignment statements, extension of assignment to the operation; C primitive input output using
+getchar and putchar; exposure to the scanf and printffunction.C statements; conditional execution
+using if, else etc.( Optionally switch and break statements should be mentioned)
+Module 5:
+Concepts of loop; Example of loops in C using for-while and do-while( Optionally continue may be
+mentioned). One dimensional arrays and example of iterative programs using arrays; 2-d arrays; Use
+in matrix computations.
+45
+
+--- Page 46 ---
+Module 6:
+Concept of sub-programming; Functions; Example of functions; Argument passing mainly for the
+simple variables. Pointers, relationship between arrays and pointers; Argument passing using
+pointers. Array of pointer; Passing arrays as arguments. Strings and C string library. Structure and
+unions; Defining C structure; Passing structure as arguments ( Programexamples) File I/O; Use of
+fopen, fsanf and fprintf routines.
+Text Books:
+i) C.Xavier: C Language and Numerical Methods.
+ii) Dutta& Jana: Introductory Numerical Analysis.
+iii) J.B.Scarborough: Numerical Mathematical Analysis.
+iv) Jain, Iyengar ,& Jain: Numerical Methods (Problems and Solution).
+Reference Books:
+i) Balagurusamy: Numerical Methods, Scitech.
+ii) Baburam: Numerical Methods, Pearson Education.
+iii) N. Dutta: Computer Programming & Numerical Analysis, Universities Press
+Course Outcomes
+CO- Module
+Course Outcome
+No. Covered
+1 An ability to apply knowledge of mathematics, science, and
+engineering. An ability to design and conduct experiments, as well as 1,2
+to analyze and interpret data.
+2 An ability to design a system, component, or process to meet desired
+needs within realistic constraints such as economic, environmental,
+2.3
+social, political, ethical, health and safety, manufacturability, and
+sustainability. An ability to function on multidisciplinary teams.
+3 An ability to identify, formulates, and solves engineering problems.
+3,4
+An understanding of professional and ethical responsibility
+4 An ability to communicate effectively. The broad education necessary
+to understand the impact of engineering solutions in global, economic, 4,5
+environmental, and societal context.
+5 Recognition of the need for, and an ability to engage in life-long
+learning. Knowledge of contemporary issues. An ability to use the
+5,6
+techniques, skills, and modern engineering tools necessary for
+engineering practice.
+46
+
+--- Page 47 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 1 2 2 1 1 1 1 2
+CO-2 1 2 1 2 2 2 2 2
+CO-3 2 1 2 3 3 3 2 1
+CO-4 1 2 1 2 2 3 1 2
+CO-5 2 2 2 3 3 2 2 2
+47
+
+--- Page 48 ---
+ENGINE MANAGEMENT SYSTEMS
+Semester: 1st Credit: 4
+Course Name: Engine Management Systems L T P 3 1 0
+Course Objectives:
+1) To introduce the automotive instruments and sensors
+2) To develop the knowledge of measurement of engine parameter by using sensor
+3) To understand the working of Electronic Ignition System
+4) To develop the knowledge of Principles of Digital Control Systems
+5) To understand the application of on-board diagnosis
+Syllabus Content:
+Module 1:
+Sensors: Types- Air flow, pressure, temperature, speed, oxygen, detonation, position-principle of
+operation, arrangement, and material.
+Module 2:
+Gasoline Injection System: Open loop and closed loop systems, mono point, multi point and
+direct injection systems – principles and features, Bosch injection systems.
+Module 3:
+Diesel Injection System: Inline injection pump, Rotary pump and injector- Construction and
+principle of operation, common rail and unit injector system- Construction and principle of
+operation.
+Module 4:
+Ignition Systems: Ignition fundamentals, type of solid-state ignition systems, high energy ignition
+distributors, electronic spark timing and control.
+Module 5:
+Engine Mapping: Combined ignition and fuel management systems. Digital control techniques-
+dwell angle calculation, ignition timing calculations and injection duration calculations. Hybrid
+vehicles and fuel cells. Performance control of different types of engines in different vehicular
+frameworks including hybrid, electric and hydrogen vehicles.
+Text Books:
+i) Bosch Technical Instruction Booklets
+ii) Tom Denton, Automotive Electrical and Electronic Systems, Edward Amold 1995
+Reference Books:
+i) Robert N Brady, Automotive Computers and Digital Instrumentation, Prentice Hall, 1988
+ii) Duffy Smith, Auto Fuel Systems, The God Heart Willcox Company Inc., Publishers 1987
+iii) Heinz Heilser, Advanced Engine Technology. SAE Publications 1995
+48
+
+--- Page 49 ---
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+To understand the sensor classification and sensor product selection
+1 1, 2
+guide and measurements of automotive sensors
+To understand the working of pressure, position, flow, temperature,
+2 1, 2
+humidity, speed, acceleration, oxygen, torque, light, distance and level
+To differentiate the electronic fuel injection system in SI and CI
+3 engines and understand the advantages of using direct fuel injection 3, 4
+over indirect fuel injection
+To develop an understanding of the advantages of electronic ignition
+4 3, 4
+system over the conventional ignition system
+5 To understand the algorithms for digital controllers 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 2 1 2 2 2 2
+CO-2 2 1 1 2 1 1 1 1
+CO-3 1 1 2 1 2 2 2 2
+CO-4 2 1 1 2 1 1 1 1
+CO-5 1 2 1 1 2 1 2 1
+49
+
+--- Page 50 ---
+ELECTIVE - III
+ALTERNATIVE FUELS AND ENERGY SYSTEMS
+Semester: 2nd Credit: 4
+Course Name: Alternative fuels and energy systems L T P 3 1 0
+Course Objectives:
+1) To understand technological, environmental, and social impacts of alternative fuels and its
+production technologies.
+2) To develop and compare the various Alternative fuels from different sources.
+Syllabus Content
+Module 1:
+Introduction: Estimates of petroleum reserve, need for alternative fuel, Availability and
+comparative properties of alternate fuels, use of alcohols, LPG, Hydrogen, CNG and LNG,
+Vegetable oils and Biogas in automotive engines, Relative merits and demerits of various
+alternative fuels, Potential of Electronic vehicle, Solar car.
+Module 2:
+Alcohols: Manufacture of alcohols, Properties as engine fuels alcohols and gasoline blends,
+Performance in S.I engines: Methanol and gasoline blends, effects of compression ratio, alcohols
+in stratified charge engines, combustion characteristics in engines, reformed alcohols, Use in C.I
+Engines – Ignition accelerators, alcohols diesel emulsions, dual fuel systems, spark assisted diesel
+engines, surface ignition engines.
+Module 3:
+Natural Gas, LPG, Hydrogen: Availability of CNG, properties, Modification required to use in
+Engines, Performance and emission characteristics of CNG, Using LPG in SI and CI Engines,
+Performance and emission data for LPG, Hydrogen – production method, Storage and handling,
+Performance, Safety aspects.
+Module 4:
+Vegetable Oils and Biogas: Various vegetable oils for engines, Esterification performance in
+engines, Using biogas in engines, performance and emission characteristics, shale oil, coal liquid
+and Tars and fuel – Performance and Emission characteristics.
+Module 5:
+Electric Vehicle: Layout of an electric vehicle, Advantages and limitation specifications, System
+components, Electric control system, High energy and power density batteries, Hybrid vehicles.
+Module 6:
+Sterling Engine and its Systems: Constructional and Operational aspects.
+50
+
+--- Page 51 ---
+Text Books:
+i) Ganesan, V., ―Internal Combustion Engines”, 2nd ed., Tata McGraw-Hill, 2003.
+ii) Sharma, Mathur,. ―Internal Combustion Engines‖, Dhanpat Rai & Sons.
+iii) Michael F. Hordeski -Alternative Fuels: The Future of Hydrogen
+iv) M.K. Gajendra Babu, K.A. Subramanian--Alternative Transportation Fuels Utilisation
+in Combustion Engines
+Reference Books:
+i) Heywood J. Internal combustion engine Fundamentals. McGraw-Hill; 1988
+ii) Richard Stone. Introduction to Internal Combustion Engines, THE MACMIILLAN
+PRESS .
+iii) Arthur H. Lefebvre, Dilip R. Ballal---Gas Turbine Combustion: Alternative Fuels and
+Emissions, Third Edition
+iv) Handbook of Alternative Fuel Technologies Edited BySunggyu Lee, James G.
+Speight, Sudarshan K. Loyalka.
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 To investigates and compare different sources of alternative fuels. 1-4
+2 To develop and study the production technologies and use of 1-4
+alcohols, biofuel, biogas, LPG and hydrogen in CI and SI engines
+3 To compare the performance, combustion, and emission 1-4
+characteristics of different alternative fuels.
+4 To study and investigates different aspects of electric vehicle and
+5,6
+sterling engine.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2 1 2 1 2
+CO-2 1 1 1 1 2 2 1 2
+CO-3 1 1 1 2 1 1 2 1
+CO-4 1 2 1 2 1 1 1 1
+51
+
+--- Page 52 ---
+ADVANCED VIBRATION
+Semester: 2nd Credit: 4
+Course Name: Advanced Vibration L T P 3 1 0
+Course Objectives:
+1. Ability of perform harmonic analysis of systems with Fourier series expansions, frequency
+domain representations. Analysis of systems under hysteresis damping, coulomb damping
+and other different types of damping.
+2. The ability to analyze and solve two degree of freedom systems with or without damping
+using Transfer function approach, problems using Laplace transforms.
+3. To develop ability for analyzing response of systems under periodic force of irregular form,
+non periodic force. Understanding the convolution integral. Understanding the control of
+vibrations.
+4. Ability to use different approach, Eigen value problem approach to generate the equation of
+motion for systems undergoing multidegree of freedom vibration. Understanding and
+performing Modal Analysis.
+5. Understanding and analyzing vibration of continuous systems.
+6. Understanding and performing numerical integration methods in vibration analysis.
+Develop ability to analyze a vibrating system with Finite Element Methods.
+Syllabus Content
+Module 1:
+Free and forced vibration of systems. Rayleigh‟s energy methods. Characteristics Roots, root locus
+representations. Energy dissipated in viscous damping. Construction of dampers with linearization
+of non linear damper. Forced Vibration analysis of systems with hysteretic damping and coulomb
+damping. Harmonic analysis, Fourier series analysis, frequency spectrum, time and frequency
+domain representations.
+Module 2:
+Free and forced vibration analysis of two degree of freedom systems, coordinate coupling, semi
+definite systems. Self excitation and stability analysis of systems. Solutions of systems using
+Laplace transformations, frequency transfer functions. Related Numerical problems.
+Module 3:
+Response of first and second order systems under general periodic force. Response of systems
+under irregular periodic force, non periodic force. Response to an impulse, general forcing
+conditions, base excitations. Transient and steady state response. Vibration control, natural
+frequency control, vibration isolations, vibration absorbers. Solving related numerical problems.
+Module 4:
+Modeling of multi degree of freedom systems (free, forced, damped and undamped). Stiffness,
+flexibility and inertia influence coefficients. Lagrange‟s equations. Eigen value problem, solution
+of characteristics equations, orthogonality of normal modes. Modal analysis of undamped and
+damped systems undergoing forced vibrations. Standard Eigen value problems, Raleigh‟s Formula,
+Jacobi‟s method, Dunkerley‟s Formula. Solving related problems.
+52
+
+--- Page 53 ---
+Module 5:
+Transverse vibration of string and cable, Longitudinal vibration of rods, torsional vibration of
+shafts, Lateral Vibration of Beams (Timoshenko, Euler Bernoulli Beam), Membrane vibrations.
+Application of Rayleigh- Ritz method. Related problems.
+Module 6:
+Finite difference methods for simple systems. Central difference methods, Runge – Kutta method
+for single degree and multi degree of freedom systems. Response to irregular forcing conditions
+using numerical methods. Finite difference methods for continuous systems. Equation of motion of
+an element, mass, stiffness matrix and force vector formulations. Transformation of element
+matrices. Equation of motion of systems using finite elements, imposing boundary conditions.
+Problems solving with different systems.
+Text Books:
+i) “Mechanical Vibrations”, S.S Rao; Pearson Publication.
+Reference Books:
+1. Mechanical Vibrations; Dr. Debabrata Nag; WILLEY INDIA
+2. Mechanical Vibrations; J. S. Mehta & A.S. Kailey. S. Chand Publication
+3. Theory of Vibrations with Applications; William. T. Thomson. Pearson
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+1 Ability of perform harmonic analysis of systems with Fourier
+series expansions, frequency domain representations. Analysis of
+1
+systems under hysteresis damping, coulomb damping and other
+different types of damping.
+2 The ability to analyze and solve two degree of freedom systems
+with or without damping using Transfer function approach, 2
+problems using Laplace transforms.
+3 To develop ability for analyzing response of systems under
+periodic force of irregular form, non periodic force. Understanding 3
+the convolution integral. Understanding the control of vibrations.
+4 Ability to use different approach, Eigen value problem approach to
+generate the equation of motion for systems undergoing
+4
+multidegree of freedom vibration. Understanding and performing
+Modal Analysis.
+5 Understanding and analyzing vibration of continuous systems. 5
+6 Understanding and performing numerical integration methods in
+vibration analysis. Develop ability to analyze a vibrating system 6
+with Finite Element Methods.
+53
+
+--- Page 54 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 2 3 2
+CO-2 3 3 2
+CO-3 2 3 3 3
+CO-4 3 3 3 2
+CO-5 3 3 3 2
+CO-6 3 3 3 3 3
+54
+
+--- Page 55 ---
+COMPUTATIONAL METHODS IN FLUID FLOW AND HEAT TRANSFER
+Semester: 2nd Credit: 4
+Subject Name: Computational Methods in Fluid Flow and Heat Transfer L T P 3 1 0
+Course Objectives:
+1) Classification of the basic equations for fluid dynamics and heat transfer.
+2) Discretization of transport equations for compressible and incompressible flow.
+3) Finite volume methods for heat transfer and fluid flow in one and more dimensions:
+Diffusion, advection, convection-diffusion, Euler and Navier-Stokes equations.
+4) Numerical solution of inviscid flow with modern upwind methods.
+5) Numerical solution of the unsteady gas dynamical equations.
+6) The SIMPLE and SIMPLER algorithms for the coupling of pressure and velocity for
+incompressible flow.
+7) Steady state and unsteady problems.
+8) Solution of algebraic systems of equations.
+9) Basics of turbulence modeling and grid generation.
+10) Introduction to a computational fluid dynamics (CFD) tool and application to heat and fluid
+flow.
+Course Contents:
+Module 1: Preliminaries
+Review of Equations Governing Fluid Flow and Heat Transfer, Applied Numerical Methods,
+Numerical Solutions of Ordinary Differential Equations, Finite Differences, Discretization,
+Consistency, Stability and Fundamentals of Fluid Flow Modelling.
+Module 2: Incompressible Flow and Heat Transfer
+Finite Difference applications in heat conduction & convection, Solution of viscous
+incompressible flows by the stream function - vorticity formulation,
+Module 3: Solution of Incompressible Flow:
+Incompressible Navier-Stokes equations and algorithms - Basics of grid generation, Central
+Differencing of the Incompressible Navier-Stokes Equations, The need for a Staggered Grid, The
+Philosophy of the Pressure Correction Method, The Pressure Correction Formula, The numerical
+Procedure: The SIMPLE Algorithm, Boundary Conditions for the Pressure Correction Method
+Module 4: Finite Volume Method& Finite Element Method
+Governing Equations, Regular Finite Volumes, Approximations in the Discretization Technique,
+Discretization Procedure, Semi Explicit Method, Initial and Boundary Conditions,
+Implementation Issues, Solution Algorithm, Treatment of Complex Geometry, Application to
+Fluid Flow and Heat Transfer Problem. Weighted Residual and Variational Formulations,
+Rayleigh-Ritz Method, Interpolation, Numerical Integration
+55
+
+--- Page 56 ---
+Module 5: Turbulence and its modeling
+Introduction to turbulence, isotropic & anisotropic turbulence, The dynamics of turbulence,
+Classical idealization of turbulent flows, Structure of vortex dominated flows, Turbulence
+modeling, the k-€ model, the RNG k- € model and phase-averaged model, Modeling of near wall
+turbulent flows, Direct numerical simulation, Large eddy simulation of turbulence, turbulent
+modeling of compressible flows. Heat transfer for single-phase and for (multi-phase) phase
+change case.
+Text Books:
+i) Tannehill, J.E., Anderson, D.A., and Pletcher, R.H., Computational Fluid Mechanics and
+Heat Transfer, 2nd ed., Taylor & Francis, 1997.
+ii) Muralidhar, K and T. Sundararaja, Computational Fluid flow and Heat Transfer, Second
+Edition, Narosa publishing house.
+Reference Books:
+i) Patankar, S.V., Numerical Heat Transfer & Fluid Flow, Hemisphere, 1980.
+ii) Versteeg, H.K. and Malalasekera, W., An Introduction to Computational Fluid Dynamics –
+The finite volume method, Longman Scientific & Technical, 1995.
+Course Outcomes:
+After going through careful explanations of concepts, numerous practical examples and figures, a
+student will be able to
+Module
+CO-No. Course Outcome
+Covered
+Conceptual understanding of underpinning various mathematical
+1 models, consistency, stability and fundamentals of fluid flow 1,2
+modelling.
+Express numerical modeling and its role in the field of fluid flow and
+2 2,3
+heat transfer.
+In-depth understanding of governing equations of FVM and
+3 3,4
+application to fluid flow and heat transfer problem.
+Knowledge of various governing equations of FEM and application
+4 4,5
+to fluid flow and heat transfer problem.
+Apply the various discretization methods, solution procedures and
+5 1,2,5
+turbulence modeling to solve flow and heat transfer problems.
+56
+
+--- Page 57 ---
+Mapping of Course Outcomes with Program Outcomes:
+CO PO1 PO2 PO3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO1 3 3 3 2 3 2 3 2
+CO2 3 3 3 2 3 2 3 2
+CO3 3 3 3 2 3 2 3 2
+CO4 3 3 3 2 3 2 3 2
+CO5 3 3 3 2 3 2 3 2
+57
+
+--- Page 58 ---
+ELECTIVE - IV
+AUTOMOTIVE MATERIALS AND COMPONENT MANUFACTURING
+Semester: 2nd Credit: 4
+Course Name: Automotive Materials and Component
+L T P 3 1 0
+Manufacturing
+Course Objectives:
+1) To introduce the modern materials and alloys
+2) To develop the knowledge of the properties of materials and its alloys
+3) To develop knowledge in recent trends in manufacturing techniques of automobile
+components.
+Syllabus Content:
+Module 1: Engineering Materials:
+Ferrous alloys-Iron-Iron carbide phase diagram with all phases & critical temperatures-steel, Types
+of steels-Effect of alloying elements on physical and chemical properties-Automotive
+applications- cast iron-Types-properties-factors affecting structures of cast iron-Automotive
+application. Nonferrous alloys- Al, Cu, Tin based alloys, Light metal alloys
+Module 2: Modern materials and alloys:
+Super alloys-super plastic alloys for auto body panels-refractory metals-shape memory alloys-dual
+phase steels-micro alloyed steels-high strength low alloy steels-smart materials - shape memory
+alloys- MEMS materials, Composite materials-ceramic –plastics-introduction, overview of
+processing, their characteristic features, Types and automotive application-Nano materials-
+Introduction and automotive applications, P and N type semiconductors, superconductors , soft and
+hard magnets.
+Module 3: Surface modification of materials:
+Mechanical surface treatment and coating- case hardening and hard facing-thermal spraying-Vapor
+deposition-ion implantation-diffusion coating-Electroplating and Electro less plating-Conversion
+coating-Ceramic and Organic coating-Diamond coating-Laser surface treatment-Selection of
+coating for Automotive applications.
+Module 4: Engine materials and manufacturing:
+Cylinder block and head-cylinder head and gasket-valves, seats and guides-piston and pin-piston
+ring and liner-connecting rod-gudgeon pins-crankshaft and bearing
+Module 5: Transmission components Manufacturing:
+Manufacturing of friction plates, Wheels, Brake drum, Gear, gearhobbling, shaping, powder
+metallurgy, orbital forming of spur, helical, and bevel gears, hypoid gears, heat treatment and
+finishing. Casting of gear box casing , Propeller shaft manufacturing. Forging of Rear axles.
+58
+
+--- Page 59 ---
+Module 6: Recent Trends in manufacturing auto components:
+Special processing techniques-Hydroforming-stretch forming-Recent developments in auto body
+panel forming-squeeze casting of pistons,Aluminum composite brake rotors-sinter diffusion
+bonded idler sprocket-Gas injection molding of window channel.
+Text Books:
+i) Callister W.D. (2006) “Material Science and Engineering- An introduction”, Wiley
+–Eastern
+ii) Kalpakjian,“Manufacturing and Engineering and Technology”, Addison Wesloy,
+Publishing Company, 1995.
+Reference Books:
+i) Haslehurst.S.E., " Manufacturing Technology ", ELBS, London, 1990.
+ii) Guy A.G," Elements of Physical Metallurgy", Oxford & IBH Pub. Co., 1990
+iii) Flinn R. A. and Trojan P. K., (1999)”Engineering Materials and their Applications”, Jaico.
+iv) Sanjay K Mazumdar, “Composites Manufacturing”, CRC Press, NY, 2003.
+v) Kenneth Budinski – (1988) “Surface Engineering for wear resistance", Prentice Hall.
+vi) Rusinoff, " Forging and Forming of metals ", D.B. Taraporevala Son & Co. Pvt Ltd.,
+Mumbai,1995. . Sabroff.A.M. & Others, " Forging Materials & Processes ", Reinhold Book
+Corporation, New York,
+vii) Upton, " Pressure Die Casting ", pergamon Press, 1985. High Velocity " Forming of Metals
+", ASTME, prentice Hall of India (P) Ltd., New Delhi, 1990
+Course Outcomes:
+At the end of the course, students will be able to:
+Module
+CO-No. Course Outcome
+Covered
+Understand various materials and its alloys are formed and their
+1 1, 2
+classification based on atomic arrangement
+2 Understand the need for modern materials and its alloys 1,2
+Demonstrate understanding ofSurface modification of materials and
+3 3
+their techniques applications in automobile field.
+Identify key benefits suitable Engine materials andmanufacturing
+4 4
+process
+Describe the mechanical behavior of different automotive
+5 5
+Transmission Components, manufacturing process.
+6 Identify recent trends in manufacturing Auto components 4,5,6
+59
+
+--- Page 60 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 2 1 1 2 1 1 1 1
+CO-2 1 1 1 2 1 1 2 1
+CO-3 1 2 2 1 2 2 2 2
+CO-4 2 2 2 1 1 1 1 1
+CO-5 2 2 2 2 2 2 2 2
+CO-6 2 2 2 2 2 2 2 2
+60
+
+--- Page 61 ---
+ENGINE DESIGN AND DEVELOPMENT
+Semester: 2nd Credit: 4
+Course Name: Engine Design and Development L T P 3 1 0
+Course Objectives:
+1) To understand the basic concepts of S.I. and C. I. engine configuration and working
+principles.
+2) To develop the knowledge of modern-day fuel injection systems and cooling and lubricating
+systems.
+3) To understand the basic engine performance parameters and contemporary and pathways to
+improve the Thermal, Mechanical and Volumetric efficiency.
+Syllabus Content:
+Module 1: Parameters:
+Compression ratio, Pressure volume and pressure crank angle diagram, frictional mean effective
+pressure, engine capacity, calculation of bore and stroke length, velocity and acceleration, gas
+force, inertia and resultant force at various crank angles–Side thrust on cylinder walls,
+Optimization criteria for improving Thermal, Mechanical and Volumetric efficiency.
+Module 2: Design of Crank Train:
+Design of Piston, piston rings, piston pin, Design of connecting rod; big end, small end and
+shank,Material and failures related to Cylinder, piston, connecting rod, design of crankshaft for
+light and heavy vehicle; Crankshaft, frontend, rear end journals,rank pin, Crank web. Design of
+flywheel; Speed fluctuation and stress calculations, turning moment diagram, design of hub, rim
+and arms of the flywheel, Ring gear Material and failures related to Crankshaft and
+flywheel.Design of gear box assembly-influence of engine design objectives.
+Module 3: Design of Cylinder Head and Block:
+Functional requirement, Block material like Gray Iron, Aluminum, Compacted Graphite Iron and
+Magnesium, Cylinder head alloys, Design layout, Basic block, Bulkhead design, and Cylinder liner
+design approach and Thermal loads, Cylinder arrangement.
+Module 4: Design of Valve Train:
+Effect of valve timing on engine performance, Number of Valves, Design of valves, Valve seat,
+Valve guide and cotter, Time selection of valveCam profile construction, Design of valve
+spring,Design of camshaft, Single and Double Overhead camshaft design, Design of valve gear
+train for variable valve timing.
+Module 5: Design of Cooling, Lubrication, Intake, Exhaust and Fuel Injection System:
+Design of cooling system, radiator, water pump, thermostat and fan, Computation of air-cooling
+system Engine friction and wear, Selection of lubricant, lubricating system, pump and filters,
+Design of intake and exhaust system, Design of fuel injection system for CI engine, Governor
+Design, Design of carburetor- electronic carburetor, Design of MPFI, GDI, CRDI system.
+61
+
+--- Page 62 ---
+Text Books:
+i) I. C. Engine & Air Pollution – E. F. Obert, Harper & Row Publishers, New York
+ii) Engine Design – Giles J. G., Lliffe Book Ltd.
+iii) Engine Design – Crouse, Tata McGraw Publication, Delhi
+iv) I.C. Engine - Maleev V. L., McGraw Hill Book, Co.
+v) I. C. Engine – L. C. Litchy, International Student Edition
+vi) Design of Automotive Engine – A. Kolchin and V. Demidov
+vii) I. C. Engine – Heywood.
+Reference Books:
+i) KevinL. Hoag , „VehicularEngineDesign‟,SAE International,2005.
+ii) A. Kolchin and V. Demidov, „Design of Automotive Engines‟, MIR Publishers,
+Moscow,1984.
+iii) R.K. Jain, „Machine Design‟, Khanna Publishers, New Delhi,1997.
+iv) „Design Data Book‟, PSG College of Technology, Coimbatore,2000.
+v) GilesJ. G „Engine Design‟–., Life Book Ltd.2000
+vi) Crouse„EngineDesign‟TataMcGraw Publication, Delhi 2002.
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Describe the various engine performance parameters 1
+Construct crank train for the given specifications which includes the
+2 2
+design of piston, connecting rod, crankshaft and flywheel
+Calculate thermal loads and select a suitable material to design
+3 3
+cylinder head and block
+4 Select and design suitable valve train for the given specifications 4
+Describe the design procedure involved in Cooling, Lubrication,
+5 5
+Intake, Exhaust and Fuel Injection Systems
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course PO- PO- PO- PO- PO- PO- PSO- PSO-
+Outcome 1 2 3 4 5 6 1 2
+CO-1 1 2 2 1 2 2 2 2
+CO-2 2 1 1 2 1 1 1 1
+CO-3 1 2 2 1 2 2 2 2
+CO-4 1 1 2 1 2 2 2 2
+CO-5 2 2 1 2 1 1 1 1
+62
+
+--- Page 63 ---
+ELECTRIC AND HYBRID VEHICLES
+Semester: 2nd Credit: 4
+Course Name: Electric and Hybrid Vehicles L T P 3 1 0
+Course Objectives:
+1) To understand the hybrid vehicle architectures and their technologies.
+2) To understand the HEV and EV architectures, advantages and disadvantages
+3) To develop knowledge in recent trends in Electrical and mechanical energy storage
+technologies including battery management considerations.
+Syllabus Content:
+Module 1: Introduction to Electric Vehicles:
+Electric Vehicle – Need - Types – Cost and Emissions – End of life. Electric Vehicle Technology–
+layouts, cables, components, Controls, Batteries-overview and its types, Battery plug-in and life,
+Ultra-capacitor, Charging – Methods and Standards. Alternate charging sources –Wireless &
+Solar.
+Module2: Electric Vehicle Motors:
+Motors (DC, Induction, BLDC) – Types, Principle, Construction, Control. Electric Drive Trains
+(EDT) – Series HEDT (Electrical Coupling) – Power Rating Design, Peak Power Source (PPS);
+Parallel HEDT (Mechanical Coupling) – Torque Coupling and Speed Coupling, Switched
+Reluctance Motors (SRM) Drives – Basic structure, Drive Convertor, Design.
+Module3: Electronics and Sensor-less control in EV:
+Basic Electronics Devices – Diodes, Thyristors, BJTs, MOSFETs, IGBTs, Convertors, Inverters,
+Safety – Risks and Guidance, Precautions, High Voltage safety, Hazard management. Sensors -
+Autonomous EV cars, Self-Drive Cars, Hacking; Sensor less – Control methods- Phase Flux
+Linkage-Based Method, Phase Inductance- Based, Modulated Signal Injection, Mutually Induced
+Voltage-Based, Observer-Based.
+Module 4: Hybrid Vehicles:
+Hybrid Electric vehicles – Classification – Micro, Mild, Full, Plug-in, EV, Layout and
+Architecture – Series, Parallel and Series-Parallel Hybrid, Propulsion systems and components,
+Regenerative Braking, Economy, Vibration and Noise reduction, Hybrid Electric Vehicles System
+– Analysis and its Types, Controls.
+Module 5: Fuel Cells for Electric vehicles:
+Fuel cell – Introduction, Technologies & Types, Obstacles. Operation principles, Potential and I-V
+curve, Fuel and Oxidation Consumption, Fuel cell Characteristics – Efficiency, Durability,
+Specific power, Factors affecting, Power design of fuel Cell Vehicle and freeze capacity, Lifetime
+cost of Fuel cell Vehicle – System, Components, maintenance.
+63
+
+--- Page 64 ---
+TextBooks:
+i) Mehrdad Ehsani et al. (2005), “Modern Electric, Hybrid Electric, and Fuel Cell Vehicles:
+Fundamentals, Theory, and Design”, Power electronics and applications series, CRC press.
+ii) Gianfranco Pistoia (2010), Electric and Hybrid Vehicles, Power Sources, Models,
+Sustainability, Infrastructure and the Market, © Elsevier 2010
+Reference Books:
+iii) Hybrid Electric Vehicle System Modeling and Control - Wei Liu, General Motors,
+USA,John Wiley & Sons, Inc., 2017.
+iv) Hybrid Electric Vehicles – Teresa Donateo, Published by ExLi4EvA, 2017
+v) Electric and Hybrid Vehicles Power Sources, Models, Sustainability, Infrastructure and
+theMarket Gianfranco Pistoia Consultant, Rome, Italy, Elsevier Publications, 2017.
+vi) Modern Electric, Hybrid Electric, and Fuel Cell Vehicles,MehrdadEhsaniYiminGao
+StefanoLongo Kambiz M. Ebrahimi, Taylor & Francis Group, LLC, 2018.
+vii) Hybrid, Electric & Fuel-Cell Vehicles Jack Erjavec, Delmar, Cengage Learning.
+viii) Electric and Hybrid Vehicles, Tom Denton, Taylor & Francis, 2018.
+Course Outcomes:
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Describe about working principle of electric vehicles. 1, 2
+Understand the construction and working principle of various motors
+2 1,2
+used in electric vehicles.
+Understand about working principle of electronics and sensor less
+3 3
+control in electric vehicles
+Describe the different types and working principle of hybrid
+4 4
+vehicles.
+5 Illustrate the various types and working principle of fuel cells. 5
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course PO- PO- PO- PO- PO- PO- PSO- PSO-
+Outcome 1 2 3 4 5 6 1 2
+CO-1 2 1 1 2 1 1 1 1
+CO-2 1 2 2 1 2 2 2 2
+CO-3 1 1 2 1 2 2 2 2
+CO-4 2 2 1 2 1 1 1 1
+CO-5 2 1 1 2 1 1 1 1
+64
+
+--- Page 65 ---
+PRODUCT DESIGN AND DEVELOPMENT
+Semester 2nd Credit: 4
+Course Name: Product Design and Development L T P 3 1 0
+Course objectives: -
+1. To impart basic concepts of product design and development processes
+2. To understand the integration of customer requirements in product design.
+3. To develop ability to apply structural approach to concept generation, selection and testing.
+4. To understand various aspects of design such as product architecture industrial design,
+design for manufacturing and economic analysis.
+Syllabus Content
+Module 1: Introduction
+Characteristics of successful product development, Challenges of product development, Structural
+approach to product development, Adapting generic product development process, Product
+development process flow.
+Module 2: Product planning and customer needs
+Product planning process, identifying opportunities, evaluation and prioritizing projects, resources
+allocation and plan timing, Pre-project planning, identifying customer needs, gathering of raw data
+from customers, interpreting to customer needs and establishing of relative importance of needs.
+Module 3: Product specifications and concept generationProcesses for establishing target
+specifications, methods for setting the final specifications, concept generation, screening and
+evaluation methods.
+Module 4: Product architecture and industrial design
+Methods of establishing product architecture, implications of product architecture, introduction to
+industrial design, study the impact of industrial design, Management of industrial design process
+and its quality assessment.
+Module 5 : Design for manufacturing and product development economics
+Definition, Estimation of Manufacturing cost, reducing the component costs and assembly costs,
+reducing system complexity - Prototype basics - Principles of prototyping, planning for prototypes,
+Economic Analysis of product development.
+Text Books:
+i) Product Design and Development, Karl T.Ulrich and Steven D.Eppinger, Anita Goyal,
+McGraw –Hill (2008)4th edition (SIE)
+Reference Books:
+i) Kevin Otto & Kristin Wood Product Design: “Techniques in Reverse Engineering and new
+Product Development.” 1 / e 2004 , Pearson Education New Delhi
+ii) Clive L.Dym, Patrick Little, “Engineering Design: A Project-based Introduction”, Wiley;
+Fourth edition (1 January 2015)
+65
+
+--- Page 66 ---
+Course Outcomes:
+At the end of the course, students will be able to
+CO Course outcome Module
+No. covered
+Have the understanding of the processes involved in the 1
+1
+product design and development.
+Ability to evaluate customer needs and understand project 2
+2
+planning
+Ability to formulate product specifications and generate 3
+3
+feasible concepts
+Ability to apply industrial design principles in product 4
+4
+development.
+Ability to understand the product development for 5
+5
+manufacturability and undertake economic analysis
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO - 1 PSO - 2
+Outcome
+CO-1 3 1 1 3 2 2 1 1
+CO-2 2 3 1 1 1 2 2 2
+CO-3 2 1 2 2 2 1 1 2
+CO-4 2 1 2 2 1 1 1 1
+CO-5 2 1 2 2 3 3 3 2
+CO-6 3 1 1 3 2 2 1 1
+66

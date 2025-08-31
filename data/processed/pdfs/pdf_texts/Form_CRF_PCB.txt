@@ -1,0 +1,33 @@
+
+--- Page 1 ---
+National Institute of Technology, Agartala
+Agartala, Tripura, India, Pin –799046
+PRECISION PCB BOARD MAKER PCB Maker
+CENTRAL RESEARCH FACILITY, NIT AGARTALA
+User’s Name: ___________________________ Roll No. /Employee No (If Any): _________________
+Name of the Organization:
+(Clearly Indicate mention whether it is a National Laboratory/ Educational Institute/ Industry
+etc.)
+Contact Details: __________________________________________________________________________
+E-mail: ____________________________ Mob. No.: ____________________________
+Supervisor’s Name:______________________________ Deptt./Div/Sec: _________________________
+Requirement:
+Sl No Size of the PCB in cm No of PCB
+Note: 1) The intender should supply the copper clad board of minimum dimension 20cm x 20cm and 18 micron
+copper thickness.
+2) The maximum dimension of the PCB should not exceed 5cm X 5cm.
+3) The instrument specially caters to fabrication of High Frequency RF/ Antenna Circuit Board, Interdigitated
+electrodes etc.
+4) The Layout design is to be submitted by the intender in appropriate format.
+Undertaking by the user:
+I hereby declare that the PCB would be used solely for research/Projects and not for any
+commercial transaction.
+User’s Sign.
+Supervisor’s Sign.
+Sign of HOD/Section Head (with date & seal)
+For Office Use Only
+Job Order Number:
+Payment: Amount Rs: ………………... Transaction details: ……….....................
+Dated: …………..
+Job Assigned to ________________________________
+Signature of the Faculty Incharge _________________________________

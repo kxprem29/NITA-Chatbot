@@ -1,0 +1,1827 @@
+
+--- Page 1 ---
+M. TECH.
+THERMAL SCIENCE & ENGINEERING
+SYLLABUS
+FOR
+CREDIT BASED
+CURRICULUM
+DEPARTMENT OF MECHANICAL ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+Tripura (West), Pin – 799046
+INDIA
+Copy write © DEPARTMENT OF MECHANICAL ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+Page 1 of 53
+
+--- Page 2 ---
+M.Tech: Thermal Science and Engineering (Syllabus Structure)
+Program: M.Tech. Thermal Science and Engineering
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+First Semester
+1 Advanced Mathematics for Engineers 4 3-1-0 100
+2 Viscous Fluid Mechanics 4 3-1-0 100
+3 Advance Thermodynamics 4 3-1-0 100
+4 Conduction and Radiation 4 3-1-0 100
+5 Elective – I 4 3-1-0 100
+Experimental Methods in Thermal
+6 2 0-0-3 100
+Engineering.
+7 Computational Fluid Dynamics Laboratory 2 0-0-3 100
+8 Technical Writing and Seminar 1 0-0-2 100
+Total 25 28 800
+Second Semester
+1 Convective Heat and Mass Transfer 4 3-1-0 100
+2 Elective – II 4 3-1-0 100
+3 Elective – III 4 3-1-0 100
+4 Elective – IV 4 3-1-0 100
+Convective Heat and Mass Transfer
+5 2 0-0-3 100
+Laboratory
+Lab - Laboratory based on Elective
+6 2 0-0-3 100
+Subjects (E-II/E-III/E-IV)
+7 Project Preliminary 3 0-0-6 100
+8 Comprehensive Viva Voce 2 0-0-0 100
+Total 25 28 800
+Third Semester
+1 Project and Thesis – 1 10 0-0-0 100
+Fourth Semester
+1 Project and Thesis – 2 20 0-0-0 300
+Total Credit 80 Total Marks 2000
+Page 2 of 53
+
+--- Page 3 ---
+Electives (M.Tech. Thermal Science and Engineering)
+Sl. Course Class hours
+Subject Credit Marks
+No. Code per week
+Computational Methods in Fluid Flow
+1 4 3-1-0 100
+and Heat Transfer
+2 Design of Thermal System 4 3-1-0 100
+3 Two Phase Flow and Heat Transfer 4 3-1-0 100
+4 Design of Combustion Engine 4 3-1-0 100
+5 Finite Element Methods 4 3-1-0 100
+6 Computational Fluid Dynamics 4 3-1-0 100
+7 Alternative Fuels and Energy Systems 4 3-1-0 100
+8 Compressible flow 4 3-1-0 100
+9 Engine Combustion and Emissions 4 3-1-0 100
+FEM Modeling and Analysis
+10 2 0-0-3 100
+Laboratory
+Two Phase Flow and Heat
+11 2 0-0-3 100
+Transfer Laboratory
+Computation Methods in Fluid
+12 2 0-0-3 100
+Flow and heat Transfer Lab
+Program Outcomes for M.Tech (Thermal Science and Engineering) Program
+PO1: An ability to independently carry out research /investigation and development work to
+solve practical problems
+PO2: An ability to write and present a substantial technical report/document
+PO3: Student should be able to demonstrate a degree of mastery in the respective specialization
+of the program above than the requirements of a corresponding bachelor program
+PO4: An ability to identify, formulate and solve problems related to thermal science and
+engineering through analytical, numerical and experimental techniques.
+PO5: Student should be able to apprehend and understand the impact of a chosen thermal related
+problems and solutions in the context of scientific, social, environmental and economic
+progress
+PO6: An ability to demonstrate and practice sustainability, ethics and management principle in
+the related engineering field
+PSO Program specific outcomes
+PSO1 Specification, fabrication, testing, operation or documentation of basic mechanical
+systems/processes
+PSO 2 Analysis, design, development and implementation of more advanced mechanical
+systems or processes.
+Page 3 of 53
+
+--- Page 4 ---
+FIRST SEMESTER
+ADVANCED MATHEMATICS FOR ENGINEERS
+Semester: 1st M. Tech. Credit: 4
+Course Name: Advanced Mathematics for Engineers L T P 3 1 0
+Course Objectives:
+1) Solving optimization problems, boundary value problems viz. Heat equation, Wave
+equation & mathematical modeling which are very useful in engineering field.
+2) Simulation modeling is used to solve mathematical models based on probabilistic and
+statistical methods related to real-world problems safely and efficiently
+3) To solve homogeneous, non-homogeneous linear equation & numerical solution of partial
+differential equation.
+Syllabus Content
+Module 1:
+Calculus of Variations: Variation and its properties, Euler’s equation, Conditional extreme,
+Isoperimetric problems, Functional dependent on first and higher order derivatives, Functional
+dependent on functions of several independent variables, Some applications- Direct methods Ritz
+and Kantorovich methods, Eulers finite difference method.
+Module 2:
+Laplace Transform & Fourier Transform: Applications of fourier transform in solving initial &
+boundary value problems. Laplace equation, Heat equation & wave equation.
+Module 3:
+Hankel’s Transform: Eliminating properties of Hankel transform, Hankel inversion, and
+transform theorem, Hankel transform of derivatives of functions, Parsevel’s theorem.
+Module 4:
+Simulation: Types, case studies in various fields using simulation technique, simulation
+software’s used, use of mathematical models based on probabilistic and statistical methods.
+Module 5:
+Partial Differential Equation: Formation of PDE, Solution of PDE, Equation solvable by direct
+integration, linear equation of first order, Non-linear equation of first order, Charpit’s method,
+Homogeneous linear equations with constant co-efficient, Non-homogeneous linear equation,
+Non-linear equation of second order.
+Module 6:
+Solution of parabolic & Hyperbolic equations: Implicit & Explicit schemes, ADI methods,
+Nonlinear parabolic equations – iteration method, Solution of elliptic equation-Jaccobi method,
+Gauss Seidel & SOR method, Ricardson method, RKF4 method, Galarkin’s method.
+Page 4 of 53
+
+--- Page 5 ---
+Module 7:
+Introduction to finite element method & scope
+Text Books:
+i) Calculus of Variations with Applications, Gupta A.S, Prentice Hall India Learning
+Private Limited
+ii) Stochastic Modeling: Analysis & Simulation, Barry L Nelson, Dover Books on
+Mathematics
+iii) Advanced Differential Equations, M.D. Raisinghania, S Chand Publishing
+iv) Numerical Analysis, S.A.Mollah, Books & Allied Ltd
+Reference Books:
+i) Advanced Engineering Mathematics, E. Kreyszig, John Wiley & Sons
+ii) Numerical Methods in Engineering and Science, B. S. Grewal, Khanna Publishers
+iii) Advanced Engineering Mathematics, H. K. Dass, S. Chand Publishing
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+Students will be able to analyze and solve optimization problems in
+1 1
+Engineering using different techniques.
+Students will be able to solve the boundary value problems viz. Heat
+2 2, 3
+equation, wave equation
+Students will learn to analyze and compute mathematical models
+3 4, 7
+based on probabilistic and statistical methods
+Student can be able to solve homogeneous, non-homogeneous linear
+4 5
+equations arising in Engineering problems
+Student can be able to solve the problems of partial differential
+5 6, 7
+equation using numerical techniques
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 - 2 3 2 - - -
+CO-2 3 1 1 3 2 - - -
+CO-3 3 2 2 3 2 - - -
+CO-4 2 - 1 3 2 - - -
+CO-5 1 - 1 3 2 - - -
+Page 5 of 53
+
+--- Page 6 ---
+VISCOUS FLUID MECHANICS
+Semester: 1st Credit: 4
+Course Name: Viscous Fluid Mechanics L T P 3 1 0
+Course Objectives:
+The course is intended to
+1. Establish an understanding of the fundamental concepts of fluid mechanics.
+2. Understand and apply the potential flow equations to basic flows.
+3. Demonstrate and apply the differential equations of fluid mechanics including
+1. the impact of assumptions made in the analysis.
+4. Understand the boundary layer concepts with respect to fluid flow
+5. Understand and apply the compressible flow equations.
+Syllabus Content
+Module1:
+Review of Basic concepts- Reynolds’s transport theorem, Fluid kinematics – Physical
+Conservation laws – Integral and differential formulations, stress-deformation relation, vector and
+tensor calculus, vorticity and circulation, Potential flow, derivation of Navier-Stokes equations.
+Module2:
+Flow analysis: Navier-Stokes and energy equations, Exact solutions: Couette flow, Hagen-
+Poiseuille flow, Stoke’s problems; Dimensionless forms and dimensionless numbers – Solution of
+Navier-Stokes equations.
+Module3:
+Boundary layer theory, Boundary layer thickness, Prandtl’s equations, solution-skin Friction
+coefficient, Two-dimensional boundary layer, Blassius solution, Kármán-Pohlhausen method,
+Module4:
+Flow over bluff bodies, effect of pressure gradient, Flow separation and control.
+Module5:
+Flow instability: concept of small-perturbations, linearized stability of parallel viscous flows,
+different flow instabilities.
+Module6:
+Turbulent flows, RANS model, Reynolds stress tensor, Reynolds equation – Prandtl and von
+Karman hypothesis, Universal velocity Profile near a wall- flow through pipes, fully developed
+Turbulent flow through pipes and channel.
+Page 6 of 53
+
+--- Page 7 ---
+Text Books:
+i. Fluid Mechanics, Pijush Kundu and Ira Cohen, 2nd edition, Academic press, An imprint of
+Elsevier Science.
+ii. Fluid Mechanics, Yunus A. CENGAL, 2nd edition. McGraw-Hill, 2010
+References:
+i. Currie, LG., Fundamental Mechanics of Fluids, 4th ed., CRC Press, 2012.
+ii. White, P.M., Viscous Fluid Flow, 2nd ed., McGraw-Hill, 1991.
+iii. Ockendon, H. and Ockendon, J., Viscous Flow, Cambridge Uni. Press, 1995.
+Course Outcomes
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Formulate and solve basic problems of fluid mechanics 1,2
+2 To identify, formulate and analyze specific fluid mechanics
+2, 3
+problems using the concepts of NS and exact solution.
+3 To solve and analyze practical problems suing appropriate
+3,4
+approximations.
+4 To understand and apply the concept of flow instabilities 5
+5 Apply the concepts of Turbulent flow analysis in important
+5,6
+Engineering flow scenarios.
+6. Facilitate students to learn advanced principles of fluid mechanics
+for broader application to Mechanical Engineering especially 2 to 6
+Thermo-Fluid domain related projects
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 3 2 2 2 2
+CO-2 2 2 3 2 3 3 3 2
+CO-3 2 3 3 3 2 2 3 2
+CO-4 3 3 3 2 2 1 3 3
+CO-5 3 2 3 3 3 1 2 2
+CO-6 2 3 3 2 3 2 2 3
+Page 7 of 53
+
+--- Page 8 ---
+ADVANCE THERMODYNAMICS
+Semester: 1st Credit: 4
+Course Name: Advance Thermodynamics L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to mechanical engineering students to
+understand, model and appreciate concept of dynamics involved in thermal energy
+transformation.
+2) To prepare them to carry out experimental investigation and analysis at later stages of
+graduation.
+Syllabus Content
+Module 1:
+Review of Thermodynamics: Introduction, Significance and limitations, System and Boundary,
+Simple System, Constraints and Restraints, Composite System, Phase, Homogeneous, Pure
+Substance, Amount of Matter and Avogadro Number, Mixture, Property, State, Equation of State,
+Standard Temperature and Pressure, Partial Pressure, Process, Vapor–Liquid Phase Equilibrium
+Mathematical Background: Explicit and Implicit Functions and Total Differentiation, Exact
+(Perfect) and Inexact (Imperfect) Differentials, Mathematical Criteria for an Exact
+Differential.Relevance to Thermodynamics, Work and Heat, Integral over a Closed Path
+(Thermodynamic Cycle),Homogeneous Functions, Relevance of Homogeneous Functions to
+Thermodynamics, LaGrange Multipliers, Composite Function
+Overview of Microscopic/Nano-thermodynamics: Matter, Intermolecular Forces and Potential
+Energy, Collision Number, Mean Free Path, and Molecular Velocity, Collision Number and Mean
+Free Path, Maxwellian Distribution of Molecular Velocity, Average, Root Mean Square (RMS),
+and Most Probable Speeds. Thermal and Internal Energy: Monatomic Gas, Diatomic Gas,
+Triatomic and Polyatomic Gases, Temperature, Pressure: Relation between Pressure and
+Temperature, Gas, Liquid, and Solid, Work, Heat Transfer and Thermal Equilibrium, Chemical
+Potential: Multi-component into Multi-component, Single Component into Multi-component,
+Boiling/Phase Equilibrium: Single Component Fluid, Multiple Components, Entropy: Overview,
+Energy Levels or Quantum Numbers, Macro- and Microstates and Entropy, Entropy of a Solid, a
+Liquid and a Gas, Relation between Entropy, Energy and Volume, Properties in Mixtures: Partial
+Molal Property, Stokes and Gauss Theorems: Gauss–Ostrogradskii Divergence Theorem, The
+Leibnitz Formula.
+Module 2:
+Laws of thermodynamics: Objectives; First Law for a Closed System Energy Conservation
+Equation in Various Forms: Elemental Process, Integrated Form, Uncoupled (Conservative) and
+Coupled (Nonconservative) Systems Adiabatic Form and Caratheodary Axiom I, Cyclical Form
+and Poincare Theorem First Law in Rate Form, Quasi-Equilibrium (QE) and Nonquasi-
+Equilibrium (NQE) Processes, Enthalpy and First Law, Adiabatic Reversible Process for Ideal
+Gas with Constant Specific Heats. First Law for an Open System: Conservation of Mass,
+Conservation of Energy for a Simple Open System. Conservation of Energy for Complex Open
+System, Applications of First Law for an Open System, Integral and Differential Forms of
+Conservation Equations. Second Law of Thermodynamics and Entropy, Consequences of the
+Second Law,Entropy Balance Equation for a Closed System, Irreversibility Entropy
+Page 8 of 53
+
+--- Page 9 ---
+Measurements and Evaluation. Local and Global Equilibrium Entropy: Energy Relation for
+Single Component Incompressible Fluids, Third Law
+Availability: Optimum Work and Irreversibility in a Closed System Availability or Exergy
+Analyses for a Closed System, Generalized Availability Analysis ,Availability/Exergetic
+Efficiency, Chemical Availability, Integral and Differential Forms of Availability Balance;
+Transient system/Flow Analysis Exergy analysis and exergy balance equations for open systems
+and thermodynamic cycles
+Module: 3:
+Thermodynamic Properties of Pure Fluids: Introduction, James Clark Maxwell, 1831–1879
+Relations, Generalized Relations Evaluation of Thermodynamic Properties Pitzer Effect Kesler
+Equation of State (KES) and Kesler Tables Fugacity. Vapor/Liquid Equilibrium Curve Throttling
+Processes
+Thermodynamic Properties of Mixtures: Introduction, Generalized Relations and Partial and
+Mixture Molal Properties. Partial Molal Property and Characteristics Useful Relations for Partial
+Molal Properties Ideal Gas Mixture Molal Properties using the Equations of State
+Module 4:
+Stabilityand Equilibrium: Introduction, Mathematical Criterion for Stability Perturbation of
+Energy Perturbation with Energy and Volume System with Specified Values of S, V, and m
+System with Specified Values of T, V, and m System with Specified Values of T, P, and m
+Application to Boiling and Condensation Entropy Generation during Irreversible Transformation
+Spinodal Curves
+Chemically Reacting Systems: Introduction, Chemical Reactions and Combustion
+Thermochemistry First Law Analyses for Chemically Reacting Systems Combustion Analyses in
+the Case of Nonideal Behavior Second Law Analysis of Chemically Reacting Systems Mass
+Conservation and Mole Balance Equations
+Module 5:
+Thermodynamics and Biological Systems: Introduction,Biomass Processing Food and Nutrients:
+Thermo-chemical Properties of Nutrients, Metabolism of Nutrients Mixture of CH, F, and P,
+Human Body. Metabolism, BMR Estimation Thermo-chemistry of Metabolism in BS Heat
+Transfer Analysis from the Body Body Temperature and Warm and Cold Blooded Animals
+Second Law and Entropy Generation in BS Entropy Generation through Chemical Reactions Life
+Span and Entropy Allometry
+Text Books:
+i) Beattie, J. A., and Oppenheim, I., Principle of Thermodynamics, New York: John Wiley,
+1979.
+ii) Annamalai, K., Puri, I. K., and Jog, Advanced Thermodynamics Engineering Biological
+Thermodynamics, Taylor& Francis, Boca Raton, FL, Aug. 2009.
+Reference Books:
+i) Callen, H. B. Thermodynamics: An Introduction to the Physical Theories of Equilibrium
+Thermostatistics and Irreversible Thermodynamics, New York: John Wiley, 1960
+ii) Cengel, Y. A., and M. A. Boles, Thermodynamics, an Engineering Approach, 3rd \ed.,
+New York: McGraw-Hill Book Co., 1998.
+Page 9 of 53
+
+--- Page 10 ---
+iii) Gyftopoulos, E. P., and G. P. Beretta, Thermodynamics: Foundations and Applications,
+Mineola, NY: Dover,1991, 2005.
+iv) Bejan, A., “Advanced Engineering Thermodynamics”, 3rd Ed., John Wiley & Sons. 2006
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Formulate and manipulate the thermodynamic treatment of arbitrary
+1,2
+processes.
+2 To identify, formulate, manipulate and analyze specific Mechanical
+2.3
+Engineering problems using fundamental concepts.
+3 To instill upon to envisage appropriate approximations for practical
+3,4
+problem solving.
+4 To investigate the effectiveness of energy conversion process in
+4,5
+mechanical power generation for the benefit of mankind.
+5 Understand the implications of approximations on the efficiency and
+3,4,5
+accuracy of the solution.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 2 3 3 2 2 2 1
+CO-2 2 2 3 2 3 3 2 2
+CO-3 2 3 3 3 2 2 2 1
+CO-4 3 3 3 2 2 1 2 1
+CO-5 3 2 3 3 3 1 2 2
+Page 10 of 53
+
+--- Page 11 ---
+CONDUCTION AND RADIATION
+Semester: Credit: 4
+Course Name: Conduction and Radiation L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to the students to understand, model and
+design systems involving conduction and radiation energy transport.
+2) Student will be able to design and conduct experiments, as well as to organize, analyze and
+interpret data to produce meaningful conclusions and recommendations.
+Syllabus Content
+Module1:
+Introduction to conduction heat transfer;Derivation of heat conduction equation, analysis of basic
+1D and 2D conduction.
+Module2:
+Multi-dimensional steady and unsteady problems in Cartesian and Cylindrical coordinates.
+Module3:
+Semi-infinite solids. Duhamel’s Superposition Integral. Solidification and Melting. Inverse heat
+conduction.
+Module4:
+Physical mechanism. Laws of thermal radiation. Radiation properties of surfaces. View factors for
+diffuse radiation.
+Module5:
+Radiation exchange in black and diffuse gray enclosures. Radiation effects in temperature
+measurement. Enclosure theory for surfaces with wall temperatures that are continuous functions
+of space. Spectrally diffuse enclosure surfaces.
+Module6:
+Approximate solution methods for one-dimensional media, The optically thin and optically thick
+approximations. Radiation in participating media, Gas radiation. Combined Conduction and
+Radiation.
+Text and References:
+i) Fundamentals of Heat and Mass Transfer by Frank P. Incropera, David P. DeWitt,
+Theodore L. Bergman, Adrienne S. Lavine (John Wiley and Sons)
+ii) Heat and Mass Transfer byYunus Cengel, Afshin Ghajar(McGraw-Hill)
+iii) Heat Conduction byLatif M Jiji (Springer)
+iv) Radiative Heat Transfer by Michael F. Modest (Academic Press)
+Page 11 of 53
+
+--- Page 12 ---
+v) Kreith, F. and Bohn, M. S., “Principles of Heat Transfer”, 6th Ed., Thomson Learning.
+2007
+vi) Ozisik, M. N., “Heat Conduction”, 2nd Ed., John Wiley & Sons. 1993
+vii) Siegel, R., and Howell, J. K., “Thermal Radiation Heat Transfer”, Taylor & Francis. 2002.
+Course Outcomes
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Student will be able to demonstrate and apply in basic governing
+1 equations in design and operation of conduction and radiation 1,2,4
+thermal systems
+Student will be able to investigate and design conduction heat
+2 transfer systems or components or process of higher dimensional 2,3
+aspects and complexity
+Student will be able to design thermal systems or components or
+3 process considering the appropriate approximation and boundary 3,4
+conditions.
+Student will be able to analyze, approximate and apply the concept
+4 4,5
+of radiation in different surfaces and enclosures.
+Student will be able to work individually and test basic thermal
+5 5,6
+systems with Combined Conduction and Radiation problems.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 2 2 3 2
+CO-2 2 2 3 2 3 3 3 3
+CO-3 3 3 2 3 2 1 3 2
+CO-4 3 2 3 2 2 1 2 3
+CO-5 3 3 3 3 3 3 3 2
+Page 12 of 53
+
+--- Page 13 ---
+EXPERIMENTAL METHODS IN THERMAL ENGINEERING LABORATORY
+Semester: 1st Credit: 2
+Course Name: Experimental Methods in Thermal Engineering L T P 0 0 3
+Laboratory
+Course Objectives:
+1) To demonstrate and apply theory and experimentation in Thermal Sc Engineering.
+2) To inculcate and train about error and accuracy in measuring system, types of inputs,
+analog and digital signals, standards, calibration and uncertainty, measurement system.
+3) To orient students for analysis of experimental data, error analysis, uncertainty analysis,
+data reduction techniques, statistical analysis of data, probability distributions and curve
+fitting.
+4) To give practical exposure to students related to thermometry - heat flux measurement –
+thermos-physical properties.
+5) To give exposure related to safety and standards in a work place.
+List of Experiments
+Exp1: Introduction of different sensor and transducer in thermal science and engineering
+applications.
+Exp2: Error estimation and statistical applications in thermal measurements.
+Exp3: Study the heat transfer through composite walls
+Exp4: Study the heat transfer through pin-fin apparatus
+Exp5: Study the Stefan Boltzmann apparatus
+Exp6: Study shell and tube heat exchanger
+Exp7: Study the critical heat flux apparatus
+Exp8: Study the unsteady state heat transfer apparatus
+Exp9: Study the mini air conditioning tutor apparatus
+Exp10: Study of CI Engine System
+Exp11: Study of SI Engine System
+Exp12: Study of mini gas turbine
+Prerequisite knowledge required on:
+1) Basics concepts of measurement
+2) Analysis and synthesis of experimental data
+3) Basics of thermal measurements- such as pressure, temperature and flow
+4) Basics of mechanical measurements- such as force, torque and strain
+5) Basics of motion and vibration
+6) Air pollution sampling and design
+Page 13 of 53
+
+--- Page 14 ---
+Course Outcomes:
+At the end of the course, Students will be able to
+Experiment
+CO-No. Course Outcome
+Covered
+Gain confidence in executing experimental investigations & data
+1 1 to 11
+analysis
+Understand and apply knowledge on modern engineering
+2 experimentation, including experiment design, calibration, data 3, 5 & 6
+acquisition, analysis, and interpretation
+Able to conduct experiments using real-world transducers / data
+3 8 & 11
+acquisition system with specifications on resolution and accuracy.
+Analyze the data using signal processing technique and uncertainty
+4 9, 10 & 11
+analysis for scientific and meaningful representation.
+Able to develop experimental setup/Numerical codeduring final year
+5 1 to 11
+thesis work.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 2 3 2 3
+CO-2 3 3 3 2 1 3 2 3
+CO-3 3 3 3 3 2 1 3 2
+CO-4 3 3 3 2 2 1 2 3
+CO-5 3 3 3 3 1 1 3 3
+Page 14 of 53
+
+--- Page 15 ---
+COMPUTATIONAL FLUID DYNAMICS LABORATORY
+Semester: 1st Credit: 2
+Course Name: Computational Fluid Dynamics Laboratory L T P 0 0 3
+Course Objectives:
+1) To train and apply the fundamentals knowledge and concepts (learned from fluid courses)
+for a real life numerical simulation problems.
+2) To apply the CFD theory along with boundary conditions in a numerical simulation.
+3) Provide exposure of comparative study of different numerical modeling and scheme.
+4) To familiarize students with the necessary skills to use available open source and
+commercial CFD packages.
+5) To carry out term project in the area of Computational Fluid Dynamics.
+List of Experiments
+Exp1: Introduction to SCI-Lab
+Exp2: Matrices summations, multiplication and inverse matrices using SCI-Lab
+Exp 3: Determinant of Matrices using SCI-Lab
+Exp 4: Solution of linear set of equations by Gauss Jordan, Gauss Seidel and Gauss elimination.
+Exp 5: Lower and upper decomposition of Matrices
+Exp 6: One dimensional steady and unsteady state heat analysis of fin
+Exp 7: Two dimensional Laplace equation solution of a heat transfer
+Exp 8: Two dimensional unsteady heat analysis of a slab solution
+Exp9: To develop a code to find Solution of PCM heat exchanger
+Exp 10: Term paper submission
+Course Outcomes:
+At the end of the course, Students will be able to
+Experiment
+CO-No. Course Outcome
+Covered
+Able to gain better concept, more clear understanding and firm grasp
+1 of the basic principles in CFD with computational fluid flow 1 to 10
+engineering and sciences
+Able to get better understanding about the underlying physics behind
+2 1 to 5
+the phenomena related to fluid flow
+Developed creative thinking and a deeper understanding and intuitive
+3 6 to 9
+feel for fluid engineering and sciences
+Developed necessary skills to bridge the gap between knowledge and
+4 the confidence to properly apply knowledge on the broad application 6 to 9
+area of fluid flow engineering
+Build up the skills in the actual implementation of CFD methods (e.g.
+5 9
+boundary conditions, turbulence modelling etc.) with their own codes
+Page 15 of 53
+
+--- Page 16 ---
+CO-PO Mapping (Rate: scale of 1to3)
+Course PO-1 PO-2 PO-3
+PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 3 3 3 2 2 2 2
+CO-2 3 3 3 2 1 2 2 3
+CO-3 3 3 3 3 2 2 3 3
+CO-4 3 3 3 2 1 1 3 2
+CO-5 3 3 3 3 1 1 2 3
+Page 16 of 53
+
+--- Page 17 ---
+TECHNICAL WRITING AND SEMINAR
+Semester: 1st Credit: 1
+Course Name: Technical Writing and seminar L T P 0 0 2
+Course Objectives:
+1) To acquire the information from different sources for preparing seminar and research
+reports
+2) To develop the presentation and participation skills.
+Syllabus Content
+Module 1:
+Each student shall prepare a seminar presentation on any topic of his/her interest. However, the
+topic must be someway related to the core/elective courses being credited by him/her during the
+first semester. He/ She shall get the paper approved by the faculty advisor and present it in the
+class in the presence Faculty in charge. Every student shell participates in the seminar. Grade will
+be awarded on the basis of the quality of the paper, his/her presentation and participation in the
+seminar.
+Module 2:
+Finding problems and to be reported of any machine components. Finding out the solution of
+those problems.
+Module 3:
+Writing a report on performance of a machine component for a particular duration.
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+Summarizes information from different sources for preparation of
+1 1
+reports and PPT.
+Evaluate work in team and develop short term project
+2 2&3
+Solve various social problem taking various social relevant activity
+3 2
+using core knowledge.
+4 Investigate and formulate the research study article 1&2
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 1
+CO-2 2 3 2 1
+CO-3 3 2 3
+CO-4 3 3 2 1
+Page 17 of 53
+
+--- Page 18 ---
+SECOND SEMESTER
+CONVECTIVE HEAT AND MASS TRANSFER
+Semester: 2nd Credit: 4
+Course Name: Convective Heat and Mass Transfer L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to the students to understand, model and
+design systems involving convective energy and mass transport.
+2) Student will be able to model, design and conduct assessment, as well as to organize,
+analyze and interpret data to produce meaningful conclusions and recommendations on
+convective energy and mass transport.
+Syllabus Content
+Module 1:
+Convective heat transfers and its applications; Mass, momentum, energy equations, Forced, free
+and mixed convection; internal and external flow; heat transfer coefficient and its physical
+significance; dimensional analysis in convective heat transfer.
+Module 2:
+Boundary layer equations; energy equation for flow over flat plate; similarity solution for flow
+over a flat plate having various boundary conditions and Prandtl numbers; Scale analysis;
+Approximate method; Viscous dissipation effect of laminar boundary layer. Developing and
+developed flow and heat transfer in a duct and circular pipe having various boundary conditions.
+Module 3:
+Natural/Free convection, Boussinesq approximations; Similarity solution for flow over a flat plate;
+Scale analysis; Approximate method; Mixed convection and the corresponding governing
+equations.
+Module 4:
+Active and passive methods; State of flow and flow structure affecting heat transfer; Flow design
+of heat exchangers, Pool boiling regimes and the boiling curve; heat transfer correlations in pool
+boiling; flow boiling and its regimes, Condensation from vertical flat plate, multiple horizontal
+and vertical tubes.
+Module 5:
+Characteristics of turbulent flow and heat transfer; Reynolds stress N-S and energy equations,
+eddy viscosity based turbulence models, turbulent flow over flat plate (external), turbulent flow in
+pipe.
+Page 18 of 53
+
+--- Page 19 ---
+Module 6:
+Mass transfer, Various non-dimensional numbers and their analogy to those of heat transfer;
+Analogy friction, heat transfer and mass transfer coefficients; species equations; Examples of
+simultaneous heat and mass transfer.
+Text and Reference Books:
+i. Introduction to Convective Heat Transfer Analysis by Patrick H. Oosthuizen and David
+Laylor (McGraw-Hill)
+ii. Convective Heat and Mass Transfer by Kays, Crawford and Weigand (4th Edition,
+McGraw-Hill)
+iii. Convective Heat Transfer by L. C. Burmeister (John Wiley and Sons)
+iv. Convective Heat Transfer by M Favre-Marinet and S Tardu (John Wiley and Sons)
+v. Principles of Convective Heat Transfer by Massoud Kaviany (2nd Edition, Springer)
+vi. Convective Heat Transfer by I. Pop and D. B. Ingham (Pergamon)
+vii. Convective Heat Transfer by Adrian Bejan (John Wiley and Sons)
+viii. Heat Convection by Latif M Jiji (Springer)
+ix. Viscous Fluid Flow by Frank M White (McGraw-Hill)
+x. Boundary Layer Theory by H Sctllichting (McGraw-Hill)
+Course Outcomes
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Student will be able to demonstrate and apply in basic governing
+1 equations in design and operation of convective and mass transfer 1,2,4,6
+systems
+Student will be able to investigate and design convective heat transfer
+2 systems or components or process of higher dimensional aspects and 2,3,4
+complexity
+Student will be able to design thermal systems or components or process
+3 3,4
+considering the appropriate approximation and boundary conditions.
+Student will be able to analyze, approximate and apply the concept of
+4 5
+turbulent flow.
+Student will be able to work individually and test advanced thermal systems
+5 5,6
+with Combined effect of Convection and mass problems.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 2 2 2 3
+CO-2 2 2 3 2 3 3 1 3
+CO-3 2 3 2 3 2 2 2 3
+CO-4 3 2 3 2 2 2 3 2
+CO-5 3 3 3 3 2 2 2 3
+Page 19 of 53
+
+--- Page 20 ---
+CONVECTIVE HEAT AND MASS TRANSFER LAB
+Semester: Credit: 2
+Course Name: Convective Heat and Mass Transfer Lab L T P 0 0 3
+Course Objectives:
+1) To introduce students theory and experimentation in engineering - problem solving
+approaches, types of engineering experiments, computer simulation and physical
+experimentation.
+2) To introduce students generalized measuring system, types of inputs, analog and digital
+signals, standards, calibration and uncertainty, measurement system - performance
+characteristics;
+3) To orient students for analysis of experimental data, error analysis, uncertainty analysis,
+data reduction techniques, statistical analysis of data, probability distributions and curve
+fitting.
+4) To give students exposure to thermometry - heat transfer coefficient measurement –
+thermos-physical properties - measurement of derived quantities - torque, power, radiation
+and surface properties and experimentation.
+5) To give students exposure to measurement of pressure, flow velocity, measurement of
+temperature, optical methods of measurements, hot wire anemometry and theoretical
+aspects of wind tunnels and flow visualization, hot film anemometry, laser Doppler
+anemometer, instrumentation in two-phase flows, particle image velocimetry technique.
+List of Experiments
+Exp1: Study heat transfer in a flow boiling.
+Exp2: Study temperature measurement using Arduino card.
+Exp3: Study pressure drop measurement using Arduino card.
+Exp4: Study of Boiling heat transfer coefficient.
+Exp5: Study of Condensation heat transfer coefficient
+Exp6: Study of Meteorological data for various applications.
+Exp7: Study of heat transfer during air cooling in wind turbine.
+Exp8: TERM paper preparation and seminar work.
+Course Outcomes
+At the end of course, students will be able to
+Experiment
+CO-No. Course Outcome
+Covered
+Student will be able to demonstrate and apply in basic governing
+1 equations in design and operation of convective and mass transfer 1,2,4,6
+systems
+Student will be able to investigate and design convective heat transfer
+2 systems or components or process of higher dimensional aspects and 2,3,4
+complexity
+Student will be able to design thermal systems or components or process
+3 3,4
+considering the appropriate approximation and boundary conditions.
+Page 20 of 53
+
+--- Page 21 ---
+Student will be able to analyze, approximate and apply the concept of
+4 5
+turbulent flow.
+Student will be able to work individually and test advanced thermal
+5 5,6
+systems with Combined effect of Convection and mass problems.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 2 2 3 2
+CO-2 2 2 3 2 3 3 1 3
+CO-3 2 3 2 3 2 2 2 3
+CO-4 3 2 3 2 2 2 3 2
+CO-5 3 3 3 3 2 2 2 3
+Page 21 of 53
+
+--- Page 22 ---
+COMPREHENSIVE VIVA
+Semester: 2nd Credit: 2
+Course Name: Comprehensive Viva L T P 0 0 0
+Course Objectives:
+1) To assess the overall knowledge of the student in the field of Thermal Science and
+Engineering acquired over one year of study in post graduate program.
+Course Outcomes
+At the end of the course, students will be able to
+CO-No. Course Outcome
+1 Comprehend any given problem / concept related to thermal science and engineering
+domain.
+2 Recall, recognize, visualize, demonstrate, criticize and appraise the concepts related to
+thermal science and engineering domain.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 2
+CO-2 3 3 1 3
+Page 22 of 53
+
+--- Page 23 ---
+PROJECT PRELIMINARY
+Semester: 2nd Credit: 3
+Course Name: Project Preliminary L T P 0 0 6
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+1 Undergo literature survey in the chosen field of research
+2 Approach and identify a research problem and able to analyze the scope of research
+3 Develop a research methodology to proceed with the research
+4 Summarize and Present a technical presentation with proper reference
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 - - 3 3 1
+CO-2 3 - 3 3 2
+CO-3 3 3 3 2 3
+CO-4 - 3 3 3 2
+Page 23 of 53
+
+--- Page 24 ---
+THIRD SEMESTER
+PROJECT AND THESIS – I
+Semester: 3rd Credit: 10
+Course Name: Project and Thesis – I L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Intensive literature survey and identify the research problems related to Material
+1
+Science and Engineering.
+2 Communicate and discuss research ideas
+3 Develop a systematic model/approach to analyze and solve the research problems.
+4 Outline the past, present and expected outcome based on systematic survey.
+5 Conduct preliminary experiments / theoretical evaluation to certain extent.
+Summarize their survey, research problem identification, approach, ,expected
+6 outcome and attained results with interpretation by means of oral presentation and
+written reports
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 - 3 3 1
+CO-2 3 2 3 3 2
+CO-3 3 3 2 3
+CO-4 3 3 3 3 2
+CO-5 3 3 3 2
+CO-6 3 3 3 3 2
+Page 24 of 53
+
+--- Page 25 ---
+FOURTH SEMESTER
+PROJECT AND THESIS – II
+Semester: 4th Credit: 20
+Course Name: Project and Thesis – II L T P 0 0 0
+Course Objectives:
+1) To provide the opportunities to the student to demonstrate and develop concept/project in
+the respective Engineering Domain
+2) To enable a student to work in cutting edge research problems in harmony.
+3) To inculcate the practice of carrying research with ethics and safety.
+Course Outcomes
+CO-No. Course Outcome
+Survey, approach, identify and demonstrate the research / industrial problems using
+1
+various available modern tools and techniques
+Develop and validate a systematic model/processto analyze and solve the research
+2
+problems.
+Outline the past, present and expected performance / outcome of a material / product /
+3 process / model / system(s) in Engineering domain in confirmation to the standard of
+safety and environmental, economicand ethical yardstick.
+4 Conduct experiments and theoretical evaluation extensively
+Analyze, summarize, inferbased on extensive research and communicate their chosen
+5 domain problems and result optimistically by means of oral presentation and written
+dissertation reports
+Present and publish their findings as technical manuscript in technical conference/
+6
+indexed research journals ethically.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 1
+CO-2 3 2 3 3 2
+CO-3 3 3 3 2 3
+CO-4 3 2 3 3 2
+CO-5 3 3 3 3 2
+CO-6 2 3 3 3 2
+Page 25 of 53
+
+--- Page 26 ---
+LIST OF ELECTIVES
+COMPUTATIONAL METHODS IN FLUID FLOW AND HEAT TRANSFER
+Semester: Credit: 4
+Subject Name: Computational Methods in Fluid Flow and Heat Transfer L T P 3 1 0
+Course Objectives:
+1) Classification of the basic equations for fluid dynamics and heat transfer.
+2) Discretization of transport equations for compressible and incompressible flow.
+3) Finite volume methods for heat transfer and fluid flow in one and more dimensions:
+Diffusion, advection, convection-diffusion, Euler and Navier-Stokes equations.
+4) Numerical solution of inviscid flow with modern upwind methods.
+5) Numerical solution of the unsteady gas dynamical equations.
+6) The SIMPLE and SIMPLER algorithms for the coupling of pressure and velocity for
+incompressible flow.
+7) Steady state and unsteady problems.
+8) Solution of algebraic systems of equations.
+9) Basics of turbulence modeling and grid generation.
+10) Introduction to a computational fluid dynamics (CFD) tool and application to heat and
+fluid flow.
+Course Contents:
+Module 1: Preliminaries
+Review of Equations Governing Fluid Flow and Heat Transfer, Applied Numerical Methods,
+Numerical Solutions of Ordinary Differential Equations, Finite Differences, Discretization,
+Consistency, Stability and Fundamentals of Fluid Flow Modelling.
+Module 2: Incompressible Flow and Heat Transfer
+Finite Difference applications in heat conduction & convection, Solution of
+viscousincompressible flows by the stream function - vorticity formulation,
+Module 3: Solution of Incompressible Flow:
+Incompressible Navier-Stokes equations and algorithms - Basics of grid generation, Central
+Differencing of the Incompressible Navier-Stokes Equations, The need for a Staggered Grid, The
+Philosophy of the Pressure Correction Method, The Pressure Correction Formula, The numerical
+Procedure: The SIMPLE Algorithm, Boundary Conditions for the Pressure Correction Method
+Module 4: Finite Volume Method& Finite Element Method
+Governing Equations, Regular Finite Volumes, Approximations in the Discretization Technique,
+Discretization Procedure, Semi Explicit Method, Initial and Boundary Conditions,
+Implementation Issues, Solution Algorithm, Treatment of Complex Geometry, Application to
+Fluid Flow and Heat Transfer Problem. Weighted Residual and Variational Formulations,
+Rayleigh-Ritz Method, Interpolation, Numerical Integration
+Page 26 of 53
+
+--- Page 27 ---
+Module 5: Turbulence and its modeling
+Introduction to turbulence, isotropic & anisotropic turbulence, The dynamics of turbulence,
+Classical idealization of turbulent flows, Structure of vortex dominated flows, Turbulence
+modeling, the k-€ model, the RNG k- € model and phase-averaged model, Modeling of near wall
+turbulent flows, Direct numerical simulation, Large eddy simulation of turbulence, turbulent
+modeling of compressible flows. Heat transfer for single-phase and for (multi-phase) phase
+change case.
+Text Books:
+i) Tannehill, J.E., Anderson, D.A., and Pletcher, R.H., Computational Fluid Mechanics and
+Heat Transfer, 2nd ed., Taylor & Francis, 1997.
+ii) Muralidhar, K and T. Sundararaja, Computational Fluid flow and Heat Transfer,
+SecondEdition, Narosa publishing house.
+Reference Books:
+i) Patankar, S.V., Numerical Heat Transfer & Fluid Flow, Hemisphere, 1980.
+ii) Versteeg, H.K. and Malalasekera, W., An Introduction to Computational Fluid Dynamics –
+The finite volume method, Longman Scientific & Technical, 1995.
+Course Outcomes:
+After going through careful explanations of concepts, numerous practical examples and figures, a
+student will be able to
+Module
+CO-No. Course Outcome
+Covered
+Conceptual understanding of underpinning various mathematical
+1 models, consistency, stability and fundamentals of fluid flow 1,2
+modelling.
+Express numerical modeling and its role in the field of fluid flow and
+2 2,3
+heat transfer.
+In-depth understanding of governing equations of FVM and
+3 3,4
+application to fluid flow and heat transfer problem.
+Knowledge of various governing equations of FEM and application
+4 4,5
+to fluid flow and heat transfer problem.
+Apply the various discretization methods, solution procedures and
+5 1,2,5
+turbulence modeling to solve flow and heat transfer problems.
+Page 27 of 53
+
+--- Page 28 ---
+Mapping of Course Outcomes with Program Outcomes:
+CO PO1 PO2 PO3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO1 3 3 3 2 3 2 3 2
+CO2 3 3 3 2 3 2 3 2
+CO3 3 3 3 2 3 2 3 2
+CO4 3 3 3 2 3 2 3 2
+CO5 3 3 3 2 3 2 3 2
+Page 28 of 53
+
+--- Page 29 ---
+DESIGN OF THERMAL SYSTEMS
+Semester: Credit: 4
+Course Name: Design of Thermal Systems L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to thermal science and engineering students to
+understand, model and design systems involving thermal energy transport.
+2) Student will be able to design and conduct experiments, as well as to organize, analyze and
+interpret data to produce meaningful conclusions and recommendations.
+Syllabus Content
+Module1:
+Introduction to thermal System Design; Review of fluid properties and basic governing equations
+of fluid Mechanics and heat transfer; Introduction to basic instrumentation in thermal science.
+Module2:
+Design of Piping Systems; Head losses estimation, Design of Piping System- Series and parallel,
+Design of piping networks.
+Module3:
+Review of basics of Prime movers, dimensional analysis, pump characteristics, pump selection,
+Fan Characteristics, Fan selection.
+Module4:
+Heat Exchanger Design, Design of double pipe Heat exchanger, Design of Shell- and –tube heat
+exchanger, Design of cross flow heat exchanger, Heat exchanger design option.
+Module5:
+Basic optimization and soft computing methods- Hill climbing, Simulated annealing, Ant colony
+optimization, Swarm optimization, Genetic algorithms, Fuzzy optimization; application of
+optimization in thermal design.
+Module6:
+Exercise and Design of basic thermo-Fluid Systems.
+Text and References:
+i) Stoecker, W., Design of thermal Systems, McGraw-Hill.
+ii) Jaluria,Y., Design and Optimization of Thermal system , McGraw-Hill.,1998.
+iii) Burmeister, L.C.,Elements of thermal-Fluid System design, Printace Hall,1998
+Page 29 of 53
+
+--- Page 30 ---
+Course Outcomes
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Student will be able to demonstrate and apply in basic governing
+1 1
+equations in design and operation of various thermal systems
+Student will be able to design thermal systems or components or
+process to meet the desired conduit and piping systems within
+2 1,2
+realistic constraints such as economic, environmental, safety,
+manufacturability and sustainability.
+Student will be able to design thermal systems or components or
+3 process considering the appropriate and desired prime mover and 1,3,4
+heat exchanger within the realistic constraints.
+Student will be able to optimize the design of a thermal systems
+4 3,4,5
+considering the appropriate method of optimization technique.
+Student will be able to work individually or as a member with
+5 responsibility to formulate, design, develop and test basic thermal 5,6
+systems
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 3 3 2 2 2 3
+CO-2 2 2 3 2 3 3 3 3
+CO-3 2 3 3 3 3 2 3 2
+CO-4 2 2 2 2 3 3 3 2
+CO-5 3 2 3 2 2 2 2 3
+Page 30 of 53
+
+--- Page 31 ---
+TWO PHASE FLOW AND HEAT TRANSFER
+Semester: Credit: 4
+Course Name: Two Phase Flow and Heat Transfer L T P 3 1 0
+Course Objectives:
+1) This course aims to provide a good platform to the students to understand the phase
+change principles, different flow system, model and design systems involving two
+phase flow and associated heat transfer.
+2) Studentwillbeabletodesignandconductexperiments,aswellastoorganize,analyzeandinter
+pretdatato produce meaningful conclusions and recommendations in connection with
+two phase flow and heat transfer.
+Syllabus Content
+Module1:
+Introduction to Phase change principles, Introduction to multiphase flow, types and applications,
+Common terminologies, flow patterns and flow pattern maps.
+Module2:
+Modelling of two phase flow, Interface dynamics, microscopic view point of interfacial
+interactions, One dimensional steady homogeneous equilibrium flow, homogeneous friction
+factor, turbulent flow friction factor.
+Module3:
+The Separated Flow model for stratified and annular flow, Slip, Lockhart-Martinelli method for
+pressure drop calculation, pressure drop for flow with boiling, flow with phase change. General
+theory of drift flux model, gravity flows with no wall shear, correction to simple theory,
+Application of drift flux model to bubbly and slug flow
+Module4:
+Boiling & Condensation: Fundamentals of boiling, pool and flow boiling, bubble dynamics, heat
+transfer models, heat transfer correlations, critical heat flux, flow stability, factors affecting
+boiling, enhancement techniques, practical applications of boiling heat transfer; Condensation:
+Nusselt theory, boundary layer treatment of laminar film condensation, experimental results for
+vertical and horizontal tubes, condensation inside a horizontal tube, practical applications of
+condensation
+Module5:
+Hydrodynamics of solid-liquid and gas-solid flow, Principles of hydraulic and pneumatic
+transportation.
+Module6:
+Measurement techniques for two phase flow and heat transfer. Flow regime identification,
+pressure drop, void fraction and flow rate measurement. Modeling and Simulation of two-phase
+flow and heat transfer.
+Page 31 of 53
+
+--- Page 32 ---
+Text and References:
+i. Brennen, C.E.”Fundamentals of Multiphase Flow”, Cambridge University Press,
+NewYork, 2005.
+ii. Weber, M. E., Clift, R., Grace, J. R. “Bubbles, Drops, and Particles”, Dover Books,
+NewYork, NY. 2013.
+iii. V P Carey, “Liquid-Vapor Phase-Change Phenomena”, Hemisphere Pub. Corp. 1992.
+iv. L S Tong and Y S Tong,” Boiling Heat Transfer and Two Phase Flow”,2ndedn.Tailor&
+Francis,1997
+v. Graham B Wallis, “One dimensional two phase flow”, McGraw Hill, 1969.
+vi. R T Knapp, J W Daily, F G Hammit, “Cavitation”, McGraw Hill, 1970.
+vii. P de Gennes, F Brochard-Wyart , “Capillarity and wetting phenomena”, Springer, 2004.
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Student will be able to demonstrate and apply the basic
+1 principle of phase change in the practical two phase flow 1,2,3
+system
+Student will be able to investigate and design of different flow
+2 system along with pressure drop calculation associated with higher 2,3
+dimensional aspects and complexity
+Studentwillbeabletodesignthermalsystemsorcomponentsorprocessc
+4,5
+3 onsideringtheappropriateapproximationand boundary conditions
+related with boiling and condensation
+Studentwillbeabletoanalyze,approximateandapplytheconceptofsolid-
+4 5
+liquid and gas-solid flow and their pneumatic transportation
+Student will be able to identify and characterize different types of
+5 2,5,6
+two phase flow regime
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 2 2 3 2
+CO-2 2 2 3 2 3 3 3 2
+CO-3 3 3 2 3 2 3 2 3
+CO-4 3 2 3 2 2 3 3 3
+CO-5 3 3 3 3 2 2 2 3
+Page 32 of 53
+
+--- Page 33 ---
+DESIGN OF COMBUSTION ENGINE
+Semester: 1st Credit: 4
+Course Name: Design of Combustion Engine L T P 3 1 0
+Course Objectives:
+1) To design the different types of engine components
+2) To develop and analyze the various fuel supply systems in CI and SI engines.
+3) To relate and compare the combustion and ignition system designs in CI and SI engines
+4) To design of Engine cooling systems.
+Syllabus Content
+Module 1:
+Automotive Transmission, Newton Seed.
+Module 2:
+Analysis of Engine Cycle: analysis of fuel-air & actual cycle.
+Module 3:
+Power plant for automotive vehicles – details of engine contraction, Reciprocation & Rotary
+combustion engine, Stratified charged engine, starling engines.
+Module 4:
+Engine components: Materials, construction & design aspects of engine components, piston
+assembly, connecting rod, cylinder head, cylinder block, fly wheel, valve-ports, valve, valve
+actuating mechanism, cams, cam shaft drives, vibration dampers.
+Module 5:
+Fuel supply in C.I Engine: Carburetion & Mixture requirements, transfer pump, carburetors type,
+constructional & design aspects, Mixture distribution & inlet manifold, multipoint fuel
+injection system.
+Module 6:
+Fuel supply in S.I Engine: Injection system components, jerk & distributor pumps, max &min
+speed governors, Mech & pneumatic governors, injector & spray characteristics.
+Module 7:
+Combustion Chamber: Ignition & combustion in SI engine, Flame trouble, Review of
+detonation & diesel knock fuel, effects of various factors, combustion chamber for SI engine,
+combustion in CI engine, ignition delay & diesel knock, Excess air supply & air motion,
+combustion & performance aspect in combustion chamber.
+Page 33 of 53
+
+--- Page 34 ---
+Module 8:
+Scavenging & super charging: Scavenging process & efficiencies in 2-stroke engines, super
+charging power required & effects on engine performance, different types of turbo-charges.
+Module 9:
+Cooling System: necessity, air cooling system, water cooling system, construction of
+Radiator, water pump thermostat & cooling fan, antifrize solutions, engine release & cooling
+system design.
+Module 10:
+Engine Friction & Lubrication: Friction estimates & lubrication requirements.
+Module 11:
+Development of I.C Engine: Lean combustion engine, Adiabatic, Duel-fuel, crinkle engines,
+starling engines & 3-Piston engines.
+Text Books:
+i) Ganesan, V., ―Internal Combustion Engines”, 2nd ed., Tata McGraw-Hill, 2003.
+ii) Sharma, Mathur,. ―Internal Combustion Engines‖, Dhanpat Rai & Sons.
+iii) Crouse, Anglin., ―Automotive Mechanics‖ Tata McGraw-Hill
+iv) Kirpal Singh, Automotive Engineering, Vol. I & II, Standards Publishers, New Delhi,
+2002..
+Reference Books:
+i) Heywood J. Internal combustion engine Fundamentals. McGraw-Hill; 1988
+ii) Richard Stone. Introduction to Internal Combustion Engines, THE MACMIILLAN
+PRESS .
+iii) The industrial Combustion Engine in Theory & Practice, Vol. I – Charles Faille
+Taylor.
+iv) Internal Combustion Engines – L.C.Lichty.
+Course Outcomes
+Module
+CO-No. Course Outcome
+Covered
+1 Design and assemble the various engine components. 1-4
+2 Synthesize the fuel supply and metering systems in SI and CI engine 5,6
+3 Modify the combustion systems of SI and CI engines 7,8
+4 Formulates and reorganize the cooling, lubrication and advanced
+9-11
+systems
+Page 34 of 53
+
+--- Page 35 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 1 2 3 3 2 2 3
+CO-2 3 2 3 2 2 1 2 2
+CO-3 3 1 3 1 2 2 2 1
+CO-4 3 2 3 2 1 2 2 3
+Page 35 of 53
+
+--- Page 36 ---
+FINITE ELEMENT METHOD
+Semester: Credit: 4
+Course Name: Finite Element Method L T P 3 1 0
+Course Objectives:
+1) Enable the student to analyze the engineering problems in the design process of solids and
+their structure.
+2) Make the students to apply the knowledge of mathematics, science and engineering to do the
+analysis of simple and complex elastic structures using the finite element analysis
+3) Derive the finite element equations for different mechanical elements.
+4) Learn and apply finite element solutions to structural, thermal, dynamic problem to develop
+the knowledge and skills needed to effectively evaluate finite element analysis.
+Syllabus Content
+Module1:
+Introduction to FEM, basic concepts, historical back ground, applications of FEM, general
+description, comparison of FEM with other methods, variational approach, Glerkin’s Methods.
+Co-ordinates, basic element shapes, interpolation function, Virtual energy principle, Rayleigh –
+Ritz method, properties of stiffness matrix, treatment of boundary conditions, solution of system
+of equations, shape functions and characteristics, Basic equations of elasticity, strain-
+displacement relations, Merits and demerits of Fem over FDM and FVM.
+Module2:
+1-D Structural Problems: Axial bar element – stiffness matrix, load vector, temperature effects,
+Quadratic shape functions and problems.Analysis of Trusses: Plane Trusses and Space Truss
+elements and problems, Hermite shape functions – stiffness matrix – Load vector – Problems.
+Module3:
+Problems: CST, LST, force terms, Stiffness matrix and load vectors, boundary
+conditions, Isoparametric elements – quadrilateral element, shape functions – Numerical
+Integration. Finite element modeling of Axi-symmetric solids subjected to Axi-symmetric
+loading with triangular elements. 3-D Problems: Tetrahedran element – Jacobian matrix –
+Stiffness matrix.
+Module 4:
+Steady state heat transfer: One dimensional heat conduction, Boundary condition, One
+dimensional element, Functional approach for heat conduction, Galarkins approach for heat
+conduction, One dimensional heat transfer in thin Fins, Two dimensional steady state heat
+conduction.
+Module 5:
+Scalar Field Problems: 1-D Heat conduction-Slabs – fins – 2-D heat conduction problems –
+Introduction to Torsional problems. Dynamic considerations, Dynamic equations – consistent
+Page 36 of 53
+
+--- Page 37 ---
+mass matrix – Eigen Values, Eigen vector, natural frequencies – mode shapes – modal analysis.
+Page 37 of 53
+
+--- Page 38 ---
+Text Books:
+i) Finite Element Methods: Basic Concepts and applications, Alavala, PHI.
+ii) Introduction to Finite Elements in Engineering, Chandrupatla, Ashok and Belegundu,
+Prentice – Hall
+Reference Books:
+i) Concepts and Application of Finite Elements Analysis, Cook, Malkus and Plesha, Wiley.
+ii) Bathe K.J., “Finite Element Procedures in Engineering Analysis”, Prentice Hall of India
+iii) O.C.Zienkiewicz, R.L.Taylor & J.Z.Zhu, “The Finite Element Method its Basis and
+Fundamentals”, Butterworth-Heinemann,Elsevier
+iv) Finite Element Method, J N Reddy, McGraw Hill International Edition.
+Course Outcomes:
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Apply and understand the basic concepts of Finite element analysis
+1 1, 2, 3 & 4
+procedure.
+2 Analyze and build FEA model for complex engineering problems. 5
+Knowledge of mathematics and engineering in solving the
+3 4 & 5
+problems related to structural and heat transfer
+Develop element characteristic equation and generation of global
+4 1, 2, 3 & 4
+equation
+Identify the application and characteristics of FEA elements such
+5 1, to 5
+as bars, beams, plane and isoparametric elements
+CO-PO Mapping: (Rate: scale of1to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 3 3 2 3
+CO-2 3 2 3 2 1 2 3 3
+CO-3 3 3 2 1 1 1 2 2
+CO-4 3 2 3 2 2 1 2 2
+CO-5 3 3 3 1 1 1 2 2
+Page 38 of 53
+
+--- Page 39 ---
+FEM MODELING AND ANALYSIS LABORATORY
+Semester: Credit: 2
+Course Name: FEM Modeling and Analysis Lab L T P 0 0 3
+Course Objectives:
+1) To acquire basic understanding of Modeling and Analysis software
+2) To understand the different kinds of analysis and apply the basic principles to find out the
+stress and other related parameters of bars, beams loaded with loading conditions.
+3) To lean to apply the basic principles to carry out dynamic analysis to know the natural
+frequency of different kind of beams.
+4) To impart the fundamental knowledge on using various analytical tools like ANSYS,
+FLUENT, etc., for Engineering Simulation.
+5) To impart knowledge on how these tools are used in Industries by solving some real time
+problems using these tools.
+List of Experiment
+Exp1: Study of a FEA package and modeling and stress analysis of:
+a) Bars of constant cross section area, tapered cross section area and stepped bar
+b) Trusses – (Minimum 2 exercises of different types)
+c) Beams – Simply supported, cantilever, beams with point load, UDL, beams with varying load
+etc (Minimum 6 exercises different nature)
+d) Stress analysis of a rectangular plate with a circular hole
+Exp2: Thermal Analysis – 1D & 2D problem with conduction and convection boundary
+conditions (Minimum 4 exercises of different types)
+Exp 3: Dynamic Analysis to find
+a) Fixed – fixed beam for natural frequency determination
+b) Bar subjected to forcing function
+c) Fixed – fixed beam subjected to forcing function
+Exp 4: (only for demo and oral exam)
+1) Demonstrate the use of graphics standards to import the model from modeler to solver
+2) Demonstrate one example of contact analysis to learn the procedure to carry out contact
+analysis.
+3) Demonstrate at least two different type of example to model and analyze bars or plates made
+from composite material
+Page 39 of 53
+
+--- Page 40 ---
+Course Outcomes:
+At the end of the course, Students will be able to
+Experiment
+CO-No. Course Outcome
+Covered
+Use the modern tools to formulate the problem, and able to create
+geometry, descritize, apply boundary condition to solve problems
+1 1 to 4
+of bars, truss, beams, plate to find stress with different loading
+conditions.
+Demonstrate the deflection of beams subjected to point, uniformly
+2 distributed and varying loads further to use the available results to 1
+draw shear force and bending moment diagrams.
+Analyze the given problem by applying basic principle to solve
+3 and demonstrate 1D and 2D heat transfer with conduction and 2
+convection boundary conditions.
+Able to appreciate the utility of the tools like Solid works,
+4 ANSYS or FLUENT in solving real time problems and day to day 1 to 4
+problems
+5 Use of these tools for any engineering and real time applications. 4
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 3 3 2 3
+CO-2 3 2 3 1 1 1 3 3
+CO-3 3 2 2 1 1 1 3 3
+CO-4 3 2 3 1 1 1 2 2
+CO-5 3 2 3 1 1 1 3 3
+Page 40 of 53
+
+--- Page 41 ---
+COMPUTATIONAL FLUID DYNAMICS
+Semester: 2nd Credit: 4
+Subject Name: Computational Fluid Dynamics L T P 3 1 0
+Course Objectives:
+1) Place CFD in the context of a useful design tool for industry and a vital research tool for
+thermos-fluid research across many disciplines;
+2) Familiarize students with the basic steps and terminology associated with CFD. This
+includes developing students’ understanding of the conservation laws applied to fluid motion
+and heat transfer and basic computational methods including explicit, implicit methods,
+discretization schemes and stability analysis;
+3) Develop practical expertise of solving CFD problems with a commercial CFD code
+4) Develop an awareness of the power and limitations of CFD.
+Syllabus Contents
+Module 1: Basic Thoughts
+Philosophy of Computational Fluid Dynamics, the impact of Computational Fluid Dynamics –
+some other examples- Automobile and Engineering applications, Industrial Manufacturing
+applications, Civil Engineering applications, Environmental Engineering applications. The
+governing equations of fluid dynamics: their derivation, a discussion of their physical meaning
+and presentation of forms particularly suitable to CFD: Introduction, finite control volume,
+infinitesimal fluid element, the substantial derivative, divergence of velocity-its physical
+meaning, physical boundary condition, Comments on the conservation form, shock fitting &
+shock capturing. Comparison of FDM, FVM and FEM technique.
+Module 2: Different Equations:
+Mathematical Behavior of Partial Differential Equation – The Impact on CFD: Classification of
+quasi-linear partial differential equation, a general method of determining the classification of
+partial differential equations: the eigen value method, general behavior of the different classes of
+partial differential equation: impact on physical & computational fluid dynamics.
+Module 3: Basics of the Numerical Discretization
+Basic aspect of Discretization methods; finite difference and finite volume formulations,
+difference equation, explicit and implicit approaches: definition and contrasts, Errors and an
+analysis of stability.
+Module 4: Numerical Solutions
+Numerical solution of elliptical equations - Linear system of algebraic equations, Numerical
+solution of parabolic equations, Numerical solution of hyperbolic equations - Burgers equation.
+Module 5: Some Simple CFD Techniques
+The lax-Wendroff Technique, MacCormack’s Technique, The Relaxation Technique & its use
+with Low-Speed Inviscid flow, Aspects of Numerical Dissipation and Dispersion; Artificial
+Viscosity, The Alternating Direction Implicit (ADI)Technique. Incompressible Navier-Stokes
+equations and algorithms - Basics of grid generation.
+Page 41 of 53
+
+--- Page 42 ---
+Text Books:
+i) J.Andeson J.D., Computational Fluid Dynamics – The basics with applications, Mc Graw-
+Hill, 1995.
+ii) Tannehill, J.e., Anderson, D.A., and Pletcher, R.H., Computational Fluid Mechanics and
+HeatTransfer, 2nd ed., Taylor & Francis, 1997.
+ii) Hoffmann, K.A. and Chiang, S.T., Computational Fluid Dynamics for Engineers,
+Engineering Education Systems, 2000.
+Reference Books:
+i) Versteeg, H.K. and Malalasekera, W., An Introduction to Computational Fluid Dynamics –
+The finite volume method, Longman Scientific & Technical, 1995.
+ii) Patankar, S.V., Numerical Heat Transfer & Fluid Flow, Hemisphere, 1980.
+iii) 3.P.J. Roache, Fundamentals of Computational Fluid Dynamics.
+Course Outcomes:
+After going through careful explanations of concepts, numerous practical examples and figures, a
+student will be able to
+Module
+CO-No. Course Outcome
+Covered
+Comprehensive, theory-based understanding, fundamentals of
+computational fluid dynamics and its application, Conceptual
+CO-1 1,2
+understanding of mathematical behavior of partial differential
+equation and its impact on CFD.
+In-depth understanding of basic aspect of discretization methods and
+CO-2 2,3
+its applications.
+Application of established engineering methods to Numerical
+CO-3 3.4
+solutions.
+CO-4 Understand Some Simple CFD Techniques. 4
+Understand and apply different algorithms, CFD technique and
+CO-5 1,4,5
+Basics of various grid generation.
+Mapping of Course Outcomes with Program Outcomes:
+CO PO1 PO2 PO3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO1 3 3 3 2 3 2 3 2
+CO2 3 3 3 2 3 2 3 2
+CO3 3 3 3 2 3 2 3 2
+CO4 3 3 3 2 3 2 3 2
+CO5 3 3 3 2 3 2 3 2
+CO6 3 3 3 2 3 2 3 2
+Page 42 of 53
+
+--- Page 43 ---
+ALTERNATIVE FUELS AND ENERGY SYSTEMS
+Semester: Credit: 4
+Course Name: Alternative Fuels and Energy Systems L T P 3 1 0
+Course Objectives:
+1) To understand technological, environmental, and social impacts of alternative fuels and its
+production technologies.
+2) To develop and compare the various Alternative fuels from different sources.
+Syllabus Content
+Module 1:
+Introduction: Estimates of petroleum reserve, Need for alternative fuel, Availability and
+comparative properties of alternate fuels, use of alcohols, LPG, Hydrogen, CNG and LNG,
+Vegetable oils and Biogas in automotive engines, Relative merits and demerits of various
+alternative fuels, Potential of Electronic vehicle, Solar car.
+Module 2:
+Alcohols: Manufacture of alcohols, Properties as engine fuels alcohols and gasoline blends,
+Performance in S.I engines: Methanol and gasoline blends, effects of compression ratio, alcohols
+in stratified charge engines, combustion characteristics in engines, reformed alcohols, Use in C.I
+Engines – Ignition accelerators, alcohols diesel emulsions, duel fuel systems, spark assisted diesel
+engines, surface ignition engines.
+Module 3:
+Natural Gas, LPG, Hydrogen: Availability of CNG, properties, Modification required to use in
+Engines, Performance and emission characteristics of CNG, Using LPG in SI and CI Engines,
+Performance and emission data for LPG, Hydrogen – production method, Storage and handling,
+Performance, Safety aspects.
+Module 4:
+Vegetable Oils and Biogas: Various vegetable oils for engines, Esterification performance in
+engines, Using biogas in engines, performance and emission characteristics, shale oil, coal liquid
+and Tars and fuel – Performance and Emission characteristics.
+Module 5:
+Electric Vehicle: Layout of an electric vehicle, Advantages and limitation specifications, System
+components, Electric control system, High energy and power density batteries, Hybrid vehicles.
+Module 6:
+Sterling Engine and its Systems: Constructional and Operational aspects.
+Page 43 of 53
+
+--- Page 44 ---
+Text Books:
+i) Ganesan, V., ―Internal Combustion Engines”, 2nd ed., Tata McGraw-Hill, 2003.
+ii) Sharma, Mathur,. ―Internal Combustion Engines‖, Dhanpat Rai & Sons.
+iii) Michael F. Hordeski -Alternative Fuels: The Future of Hydrogen
+iv) M.K. Gajendra Babu, K.A. Subramanian--Alternative Transportation Fuels Utilisation
+in Combustion Engines
+Reference Books:
+i) Heywood J. Internal combustion engine Fundamentals. McGraw-Hill; 1988
+ii) Richard Stone. Introduction to Internal Combustion Engines, THE MACMIILLAN
+PRESS .
+iii) Arthur H. Lefebvre, Dilip R. Ballal---Gas Turbine Combustion: Alternative Fuels and
+Emissions, Third Edition
+iv) Handbook of Alternative Fuel Technologies Edited By Sunggyu Lee, James G.
+Speight, Sudarshan K. Loyalka
+Course Outcomes
+At the end of the course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 To investigates and compare different sources of alternative fuels. 1-4
+2 To develop and study the production technologies and use of 1-4
+alcohols, biofuel, biogas, LPG and hydrogen in CI and SI engines
+3 To compare the performance, combustion and emission 1-4
+characteristics of different alternative fuels.
+4 To study and investigates different aspects of electric vehicle and
+5,6
+sterling engine.
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 2 2 3 2 3 2
+CO-2 3 3 2 1 2 2 2 2
+CO-3 3 1 3 2 2 1 2 3
+CO-4 3 2 3 2 1 2 3 2
+Page 44 of 53
+
+--- Page 45 ---
+COMPRESSIBLE FLOW
+Semester: Credit: 4
+Course Name: Compressible Flow L T P 3 1 0
+Course Objectives:
+1) This course provides the basic and applied understanding of Thermodynamics and Fluid
+mechanics to mechanical engineering students and transforms the knowledge to industry.
+2) The treatment of compressible flow becomes the backbone of aerodynamic engineers towards
+research in the design of high-speed vehicles- NOT Cleat
+3) The contents of the course start with compressible fluid flow followed by governing equations.
+Many aerodynamic high-speed facilities and their measurement diagnostics governed by these
+theories are also covered in this course.- NOT Clear
+Syllabus Content
+Module1:
+Basic concepts of Fluid Mechanics, concepts of continuum, forces acting on moving fluid,
+kinematic properties of fluid, dynamics of fluid motion and fundamental review of
+Thermodynamics.
+Module2:
+Introduction to compressible flow, density change, differences between compressible and
+incompressible flow, governing equations for one dimensional compressible flow, Governing
+equations for inviscid-compressible flows-static and stagnation properties,
+Equations/conditions and methods for subsonic and supersonic flows, flow regimes, Mach
+waves, acoustic speed, pressure wave disturbances in compressible medium, development of
+compression and expansion waves.
+Module 3:
+Governing equations of quasi-one dimensional isentropic flow, area-velocity relation and
+isentropic flow through variable area passage ducts, adiabatic flow,chocking of flow, isentropic
+flow in a stream tube, concepts of nozzle, convergent-divergent nozzle and diffuser for
+compressible flow, flow through convergent-divergent nozzle.
+Module 4:
+One-dimensional equations for normal shock wave change of entropy across a normal shock,
+Crocco’s theorem, Rankine Huguenot equation and reflected shock waves. Expansion waves and
+oblique shocks, Prandtl-Meyer expansion wave, equation of motion for oblique shock wave, basic
+concepts of attached and detached shock waves, reflection and interaction of shocks and
+expansion wave.
+Module 5:
+Compressible flow with friction and heat transfer, flow in a constant area duct with friction, Fanno
+line and Rayleigh line flow, flow with heating and cooling in a constant area duct.
+Page 45 of 53
+
+--- Page 46 ---
+Module 6:
+Experimental facilitates and measurement diagnostics of compressible flow, pressure and
+temperature measurements, introduction to flow visualization and high speed wind tunnels, shock
+tunnels and shock tubes.
+Text Books:
+i) Yahya, S.M., Fundamentals of Compressible Flow with Aircraft and Rocket Propulsion,
+3rd ed., New Age International Publishers, 2003.
+ii) Oosthuizen, P.H. and Carscallen, W.E., Compressible Fluid Flow, McGraw-Hill, 1997.
+iii) Zucker, R.D. and Biblarz, Fundamentals of Gas Dynamics, 2nd ed., John Wiley.
+iv) Fundamentals of Compressible Fluid Dynamics- P. Balachandran-PHI.
+Reference Books:
+i) John D. Anderson Jr (1990), Modern Compressible Flow with Historical Perspective,
+McGraw-Hill, Singapore.
+ii) J. John and T. Keith (2010), Gas Dynamics. 3rd Edition, Pearson, New Delhi
+iii) Robert D. Zucker and Oscar Biblarz (2002) Fundamentals of Gas Dynamics, Hohn Wiley
+and Sons Inc, New Jersy, USA
+iv) E. Rathakrishnan (2012), Gas Dynamics, 4th Edition, PHI Learning Private Limited, New
+Delhi
+v) Bertin J J and Cummings R M, Aerodynamics for Engineers, 6th Edition, Pearson (2013).
+Course Outcomes:
+At the end of the course, Students will be able to
+Module
+CO-No. Course Outcome
+Covered
+1 Explain the basic concepts of gas dynamics. 2
+Describe the basic fundamental equations of one dimensional flow of
+2 1, 3
+compressible fluid and isentropic flow of an ideal gas.
+Analyze the steady one dimensional isentropic flow, frictional flow,
+3 2, 4
+isothermal flow and shock waves.
+Express the concepts of steady one dimensional flow with heat
+4 5
+transfer.
+5 Discuss the effect of heat transfer on flow parameters. 5, 6
+CO-PO Mapping: (Rate: scale of 1 to 3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 -- 1 1 - 1 1 --
+CO-2 -- -- 2 2 1 2 1 2
+CO-3 3 2 2 3 1 3 1 3
+CO-4 1 2 -- 3 1 1 1 -
+CO-5 2 1 1 3 -- 2 1 1
+Page 46 of 53
+
+--- Page 47 ---
+TWO PHASE FLOW AND HEAT TRANSFER LABORATORY
+Semester: 1st Credit: 2
+Course Name: Two Phase Flow and Heat Transfer
+L T P 0 0 3
+Laboratory
+Course Objectives:
+1) To demonstrate and apply theory and experimentation in Two Phase Flow Heat Transfer
+2) To inculcate and train about error and accuracy in measuring system, types of inputs,
+analog and digital signals, standards, calibration and uncertainty in measurement system.
+3) To orient students for analysis of experimental data, error analysis, uncertainty analysis,
+data reduction techniques, statistical analysis of data, probability distributions and curve
+fitting.
+4) To give practical exposure to students related to thermometry-heat flux measurement–
+thermos- physical properties. able to understand physical phenomena, basic concepts and
+principles of boiling heat transfer, able to identify the techniques to enhance the heat transfer in
+particular boiling applications and be able to understood different surface modified coating
+techniques
+5) To give exposure related to safety and standards in a workplace.
+List of Experiments
+Exp 1: Introduction of different instruments and equipments used in two phase flow heat
+transfer system and engineering applications.
+Exp 2: Introduction in measurement of Error estimation and statistical applications in two
+phase flow measurements.
+Exp 3: Introduction for understanding of morphology of enhanced boiling surfaces using
+different methodologies
+Exp4: Study of pool boiling heat transfer of saturated liquids at atmospheric pressure
+Exp5: Study of pool boiling heat transfer of saturated liquids at sub-atmospheric pressure
+Exp6: Study of pool boiling heat transfer of refrigerants at different pressures
+Exp7: Study of pool boiling heat transfer of nano-liquids
+Exp8: Study of preparation of different enhance surfaces using a) different Coating Techniques b)
+Chemical etching process c) nanofluid boiling nanoparticles deposition method and uses of surfaces
+in experiments
+Exp 9: Study of surface wettability of different enhanced surfaces using contact angle meter.
+Course Outcomes:
+At the end of Course, students will be able to
+Experiment
+CO-No. Course Outcome
+Covered
+Gain confidence in executing experimental investigations & data
+1 1 to 9
+Analysis
+Page 47 of 53
+
+--- Page 48 ---
+Understand and apply knowledge on modern engineering
+2 experimentation, including experiment design, calibration, 4,5,6,9
+data acquisition, analysis, and interpretation
+Conduct experiments using real-world methodology/data
+3 4,5,6,9
+acquisition system with specifications on resolution and accuracy.
+Analyze the data using output variables and uncertainty
+4 4,5,6,9
+Analysis for scientific and meaningful representation.
+Design and develop experimental setup for post graduate thesis
+5 4,5,6,9
+work.
+Apply practical knowledge for carrying out future thermal
+6 Engineering and heat transfer experimental and computational 1 to 9
+research
+CO-PO Mapping (Rate: scale of 1to3)
+Course Outcome PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 2 3 3 1 2
+CO-2 3 2 3 2 2 3 2 3
+CO-3 2 2 3 1 2 2 3 2
+CO-4 3 2 2 2 2 2 2 2
+CO-5 3 3 2 3 3 2 2 3
+CO-6 3 2 3 2 2 3 2 3
+Page 48 of 53
+
+--- Page 49 ---
+COMPUTATION METHODS IN FLUID FLOW AND HEAT TRANSFER LAB
+Semester: 2nd Credit: 2
+Course Name: Computation Methods in Fluid Flow and heat
+L T P 0 0 3
+Transfer Lab
+Course Objectives:
+1) To understand and gain knowledge the fundamentals concepts (learned from fluid courses)
+for the numerical simulation of real life problems
+2) To apply the CFD theory to numerically solve the real life fluid flow problem
+3) To know the basic approaches for numerical modeling
+4) to get a basic understanding about the boundary conditions used in flow problem and
+mathematical modeling of it.
+5) To provide students with the necessary skills to use commercial CFD packages.
+6) To carry out research in the area of Computational Fluid Dynamics.
+List of Experiments
+Exp1: Study of flow in a two dimensional Lid-driven cavity.
+Exp2: Study of heat transfer in a two dimensional Lid-driven cavity.
+Exp 3: Study of flow characteristic in a pipe bend.
+Exp 4: Study of Heat transfer characteristic in a pipe bend.
+Exp 5: Study of flow characteristic over an aero-foil
+Exp 6: Study of flow and heat transfer characteristic in a heat exchanger.
+Exp 7: TERM paper preparation and presentation
+Course Outcomes:
+Experiment
+CO-No. Course Outcome
+Covered
+Able to gain better concept, more clear understanding and firm grasp
+1 of the basic principles in CFD with computational fluid flow 1 to 7
+engineering and sciences
+Able to get better understanding about the underlying physics behind
+2 1 to 6
+the phenomena related to fluid flow
+Developed creative thinking and a deeper understanding and intuitive
+3 1 to 6
+feel for fluid engineering and sciences
+Developed necessary skills to bridge the gap between knowledge and
+4 the confidence to properly apply knowledge on the broad application 1 to 6
+area of fluid flow engineering
+Build up the skills in the actual implementation of CFD methods
+5 (e.g. boundary conditions, turbulence modelling etc.) with their own 6,7
+codes
+Gain experience in the application of CFD analysis to real
+6 1 to 6
+engineering designs.
+Page 49 of 53
+
+--- Page 50 ---
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 3 3 3 3 3 3 1 2
+CO-2 3 2 2 3 2 3 2 2
+CO-3 2 3 3 2 2 2 3 2
+CO-4 3 3 3 2 2 2 2 2
+CO-5 3 3 3 2 3 2 2 3
+CO-6 3 3 3 3 2 3 2 3
+Page 50 of 53
+
+--- Page 51 ---
+ENGINE COMBUSTION AND EMISSIONS
+Semester: 1st Credit: 4
+Course Name: Engine Combustion and Emissions L T P 3 1 0
+Course Objectives:
+1. To introduce the concept of combustion phenomena in IC Engine
+2. To develop the knowledge of thermodynamic modelling of combustion
+3. To develop knowledge in formation of emission
+4. To understand recent trends in emission control devices.
+Syllabus Content:
+Module 1: Thermodynamics of Combustion
+Premixed and diffusion combustion process in IC engines and gas turbines. First and Second Law
+of Thermodynamics applied to combustion- combustion Stoichiometry- chemical equilibrium,
+spray formation and droplet combustion. Chemical Kinetics of Combustion: Fundamentals of
+combustion kinetics, rate of reaction, equation of Arrhenius, activation energy. Chemical
+thermodynamic model for Normal Combustion. Flames: Laminar premixed – flame speed
+correlations- quenching, flammability, and ignition, flame stabilization, laminar diffusion flames,
+turbulent premixed flames-Damkohler number. Burning of Fuels: spray formation & droplet
+behavior, gas turbine spray combustion, direct injection engine combustion, detonation of liquid –
+gaseous mixture, combustion of solid fuels, Combustion principles: Combustion – Combustion
+equations, heat of combustion - Theoretical flame temperature – chemical equilibrium and
+Dissociation -Theories of Combustion - Flammability Limits - Reaction rates – Laminar and
+Turbulent Flame Propagation in Engines. Introduction to spray formation and characterization.
+Module2: Combustion in S.I engines
+Stages of combustion, normal and abnormal combustion, knocking, Variables affecting Knock,
+Features and design consideration of combustion chambers. Flame structure and speed, Cyclic
+variations, Lean burn combustion, Stratified charge combustion systems. Heat release
+correlations.
+Module3: Combustion in C.I. Engines
+Stages of combustion, vaporization of fuel droplets and spray formation, air motion, swirl
+measurement, knock and engine variables, Features and design considerations of combustion
+chambers, delay period correlations, heat release correlations, Influence of the injection system on
+combustion, Direct and indirect injection systems.
+Module 4: Pollutant emissions from IC engines
+Introduction to clean air, Pollutants from SI and CI Engines: Carbon monoxide, UBHCs, Oxides
+of nitrogen (NO-NOX) and Particulate Matter, Mechanism of formation of pollutants, Factors
+affecting pollutant formation. Measurement of engine emissions-instrumentation, Pollution
+Control Strategies, Emission norms-EURO and Bharat stage norms. Emission control measures
+for SI and CI engines. Effect of emissions on environment and human beings.
+Page 51 of 53
+
+--- Page 52 ---
+Module 5: Control techniques for reduction of emission
+Design modifications – Optimization of operating factors – Fuel modification – Evaporative
+emission control - Exhaust gas recirculation – SCR – Fumigation – Secondary Air injection –
+PCV system – Particulate Trap – CCS – Exhaust treatment in SI engines –Thermal reactors –
+Catalytic converters – Catalysts – Use of unleaded petrol. Test procedure, instrumentation &
+emission measurement: Test procedures CVS1, CVS3 – Test cycles – IDC – ECE Test cycle –
+FTP Test cycle – NDIR analyzer – Flame ionization detectors – Chemiluminescent analyzer –
+Dilution tunnel – Gas chromatograph – Smoke meters –SHED test.
+Text Books:
+i) Sara McAllister, Jyh-Yuan, Chen A. and Carlos Fernandez-Pello “Fundamentals of
+Combustion Processes” Springer, Mechanical Engineering Series, 2011
+ii) Stiesch G., “Modelling Engine Spray and Combustion Process” Springer, Heat and Mass
+Transfer, 2003
+iii) Ferguson, C.R. & Kirkpatrick A.T., “Internal Combustion Engines Applied
+Thermosciences” Wiley, 2015
+Reference Books:
+i) Ramalingam, K.K., “Internal Combustion Engines”, SciTech Publications (India) Pvt.
+Ltd., 2004.
+ii) Ganesan, V, “Internal Combustion Engines”, Tata McGraw Hill Book Co., 2003.
+iii) John B. Heywood, “Internal Combustion Engine Fundamentals”, McGraw Hill Book,
+1998.
+iv) B.P. Pundir I.C. “Engines Combustion and Emission”, Narosa Publishing House, 2010.
+v) B.P. Pundir “Engine Combustion and Emission”, Narosa Publishing House, 2011.
+vi) Mathur, M.L., and Sharma, R.P., “A Course in Internal Combustion Engines”,
+DhanpatRai
+vii) Publications Pvt.New Delhi-2, 1993.
+viii) Obert, E.F., “Internal Combustion Engine and Air Pollution”, International Text Book
+Publishers, 1983.
+ix) Cohen, H, Rogers, G, E.C, and Saravanamuttoo, H.I.H., “Gas Turbine Theory”,
+Longman Group Ltd., 1980.
+x) Domkundwar V, “A course in Internal Combustion Engines”, DhanpatRai& Co. (P) Ltd,
+2002.
+xi) Rajput R.K. “Internal Combustion Engines”, Laxmi Publications (P) Ltd, 2006.
+xii) Willard W. Pulkrabek, “Engineering Fundamentals of the Internal Combustion Engines”,
+Second Edition, Pearson Prentice Hall, 2007.
+xiii) Stephen, R. “Turns., Combustion”, McGraw Hill, 2005.
+xiv) Mishra, D.P., “Introduction to Combustion”, Prentice Hall, 2009
+xv) Sharma, S. P., “Fuels and Combustion”, Tata McGraw Hill, New Delhi, 2001.
+xvi) Heywood, “Internal Combustion Engine Fundamentals”, McGraw Hill Co. 1988
+Page 52 of 53
+
+--- Page 53 ---
+Course Outcomes:
+At the end of course, students will be able to
+Module
+CO-No. Course Outcome
+Covered
+Understand the concepts of combustion phenomena in energy
+1 1,2,3
+conversion devices.
+Apply the knowledge of adiabatic flame temperature in the design of
+2 1,2,3
+combustion devices.
+Identify the phenomenon of flame stabilization in laminar and turbulent
+3 1,2,3
+flames.
+4 Apply control techniques for reduction of emission. 4
+Identify and understand possible harmful emissions and the legislation
+5 5
+standards
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+Outcome
+CO-1 2 3 3 2 3 3 2 1
+CO-2 2 2 2 2 2 3 2 3
+CO-3 2 2 2 2 2 2 3 2
+CO-4 2 3 2 3 2 2 2 3
+CO-5 2 3 2 2 3 2 2 3
+Page 53 of 53

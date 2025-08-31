@@ -1,0 +1,1227 @@
+
+--- Page 1 ---
+3rd Semester:
+UPE03XXX: Engineering Thermodynamics.
+Introduction, Survey of units and dimensions, Zeroth Law, forms of energy and energy
+interaction, heat and work, phase rule, ideal and real gases, equations of state, First law of
+thermodynamics for closed loop system, internal energy and enthalpy, first law for control
+volumes, steady flow and unsteady flow applications.
+Second law of thermodynamics, statements and corollaries, entropy, concept, of reversibility
+and irreversibility. Second law analysis for control volumes, concept of entropy generation,
+reversible work, Availability and Irreversibility. Tds relations, Maxwell equations, clapeyron
+equation, clausiusclapeyron equation, Joule Thompson coefficient, compressibility and
+expansion coefficient. Air standard Engine cycle – Otto, Diesel, Dual combustion, Brayton
+and stirling cycles. Steam power cycle – Rankine cycle, P-V & T-S plots, Rankine efficiency.
+Vapour compression Refrigeration cycle. Third law of thermodynamics.
+Text Books:
+1. Nag. P.K, “Engineering Thermodynamics”, Tata McGraw Hills Co.Ltd.
+References:
+1. Mayhew, A and Rogers, B, “Engineering Thermodynamics”, Longman Green & Co.
+Ltd, London, E.L.B.S. Edition,1990.
+2. Van Wylen, G.J. and Sonntag, R.E., “Fundamentals of classical Thermodynamics
+(S.J. Version)”, Second Edition,1986.
+3. Bacon, D.H., “Thermodynamics”, Butter worth & Co., London,1989.
+4. Saad, M.A, “Thermodynamics for Engineers”, Prentice-Hall of India Pvt. Ltd.1989.
+5. Reynolds, “Thermodynamics”, Int. student Edn., McGraw Hill book co. Ltd.,1990.
+6. Wark Kenneth,“Thermodynamics”.
+7. Onkarsingh, “Applied Thermodynamics”, New Age InternationalPublishers.
+8. Arora C.P., “Refrigeration and Air conditioning”, Tata McGeawHill.
+
+--- Page 2 ---
+UPE03B02: Solid Mechanics
+1. Introduction: Internal forces – stresses and strains Elasticity – Hooke’s law –
+Poisson’s ratio – Elastic constants and their relationship – stress-strain diagram for
+ductile materials- Definition of Creep, fatigue and stress relaxation-statically
+determinate and indeterminateproblems.
+2. Bending of Beams: Beams- Loads-shear force and bending moment diagrams for
+simply supported and cantilever beams-Pure bending- Bending stresses in straight
+beams-shear stresses in bending of rectangular and I-section beams – Beams of
+uniformstrength.
+3. Torsion and Columns: Torsion of circular shafts stresses and twist in solid and
+hollow shafts – Definition of columns – Types of columns – Equivalent length –
+slenderness ratio – Rankin’s formula.
+4. Biaxial Stresses: Analysis of biaxial stresses – Mohr’s circle – Principle stresses and
+maximum shear stress – Deductions from Mohr’s circle – stresses in thin walled
+pressure vessels – combined bending andtorsion.
+5. Deflection of Beams: Differential equation of the elastic axis – Double integration
+and area moment methods – strain energy in tension, compression, shear, bending and
+torsion- Castigliano’stheorems.
+References
+1. Timoshenko; S and Young D.H., “ Elements of strength of materials,”, Vol. I and
+Vol. II, T. van Nostrand Co., Inc., Princeton, N.J.,1988.
+2. Malhotra, D.R. and Gupta, H.C, “The strength of Materials”, Satya Prakasan Tech.
+India Publications, New Delhi,1987.
+3. Kazimi S.M.A., “ Solid Mechanics”, Tata McGraw Hill,1976.
+4. Dym. C.L. and shames I.H., “Solid Mechanics”, McGraw Hill Kogakusha, Tokyo,
+1973.
+5. Khurmi R.S., “Strength of materials”, S.C. Chand and Co.,1998.
+
+--- Page 3 ---
+UPE03XXX: Fluid Mechanics
+Introduction: Definition of fluid, Concept of Continuum, Fluid Properties Fluid Static’s:
+Body and surface forces, stress at a point, state of stress in fluid at rest and in motion,
+pressure distribution in hydrostatics, manometers, forces on plane and curved surfaces,
+Buoyancy and the concept of stability of floating and submergedbodies.
+Fluids Kinematics: Scaler and vector fields, Eulerian and Lagrangian approaches, Material
+derivation, velocity and acceleration, streamline, streak line and path line, Deformation,
+rotation and velocity, Deformation rate and strain rate tensor, circulation.
+Fluid Flow: System and control volume approaches, Transport theorems, Continuity
+equation, Euler’s equation, Bernoulli’s equation, Momentum equations for stationary,
+moving and rotating control volumes, Application of Bernoulli’s equation, static and dynamic
+pressure.
+Fluid measurements: Pitot tube, Siphon, Venturimeter, Orificemeter, Mouth piece, Sudden
+expansion in a pipe, weirs and notches.
+Viscous Incompressible flow: Introduction to Navier stokes equation, Boundary layer flow,
+Drag and lift, Laminar and turbulent flow, Couette flow, Plane Poisuille and Hagen Poisuille
+flow.
+Internal Viscous flow: Reynold’s experiment, critical Reynold’s number, Darcy-Weisbach
+and fanning friction factor, Moody’s diagram, Minor losses and flow through simple network
+of pipes. Classification of Notches and Weirs; Discharge over a Rectangular Notches or
+Weir; Discharge over Triangular Notches or Weir; Advantages of Triangular Notches or
+Weirs over Rectangular Notches or Weirs; Discharge over a Trapezoidal Notches or Weir
+andproblems.
+Principle of Similarity: Physical similarity, Dimensional Analysis, Buckingham pi theorem,
+Model studies and dimension less parameters, Froude number, Euler number, Mach number,
+Weber number.
+Flow through Pipes: Loss of Energy in pipes, Loss of energy due to friction; Minor energy
+losses; Hydraulic gradient and total energy line and problems.
+References
+1. Shames, I.H., “Mechanics of fluids”, Kogakusha, Tokyo,1998.
+2. Ratha Krishna, E., “Introduction to fluid mechanics”, Prentice-Hall, India,1987.
+3. Yuan S.W., “Foundation of Fluid Mechanics”, Prentice-Hall,1987.
+4. Milne Thomson, L.M., “Theoretical Hydro-dynamics”, McMillan,1985.
+5. Kumar, K.l., “Fluid mechanics”, Eurasia Publishing House,1990.
+6. Introduction to Fluid Mechanics and Fluid machines by S.K. Som and G.Biswas.
+7. Fluid Mechanics by Victor L. Streeter.
+8. Fluid Mechanics by Frank M.White.
+9. Introduction to Fluid Mechanics by James A.Fay.
+10. Fluid Mechanics and Hydraulics by J.Lal.
+11. Fluid Mechanics by A.K.Jain.
+
+--- Page 4 ---
+UPE03B04: Manufacturing Processes I
+Types of Production and production processes, Product configuration and manufacturing
+requirements. Pattern making, allowances and core making.
+Casting processes of ferrous and non-ferrous metals including die casting, investing casting,
+centrifugal casting, loan moulding, transfer moulding. Solidification Principles, design of
+moulds, risering, sprues and gating system, casting defects.
+Metal joining processes: Soldering, brazing, fusion and non-fusion welding processes,
+various modern welding processes like TIG, MIG, Submerged Arc welding, friction welding.
+Weldingdefects.
+Fundamentals of hot and cold working processes- Forging, extrusion and rolling.
+1. Basic Joining Process
+Types of welding –gas welding –are welding –shielded Metal arc welding, GTAW, GMAW,
+SAW, ESW-Résistance welding (sport, seam , projection , percussion , flash type ) –Atomic
+hydrogen arc welding –thermit welding –shouldering , brazing and braze welding ,
+2. Design of Weldments
+Welding symbol – position of welding –joint and groove design –weld stress –calculation –
+design of weld size-estimation of weld dilution, heat input and preheat and post heat
+temperature – computer application in weld design .
+3. Special weldingprocess
+Electron Beam and Laser beam welding –plasma arc welding – stud welding- friction
+welding- explosive welding- ultra sonic welding h-under water welding -roll bonding –
+diffusion bonding – cold welding –welding of plastic, dissimilar metal.
+Text:
+1. Khanna O.P., “ A Welding Technology”, KhannaPublishers.
+References
+1. Parmer R.S., “Welding process and technology,” khanna publisher s,1994.
+2. Little, “welding technology,” Tata McGrawHill,1992.
+3. Lancaster J.F., “metallurgy of welding”, George Allen and Unwin,1991.
+4. Metals hand book, vol-6,8/e,ASM,1971.
+5. AWS welding and book, Vol 1to4,AWS,
+References
+1. Manufacturing Technology: Foundry, Forming and Welding by P.N. Rao,TMH.
+2. Principles of manufacturing Materials and processes, by James S. Campbell,TMH.
+3. Welding Metallurgy by G.E. Linnert,AWS.
+4. Production Engineering Sciences by P.C. Pandey and C.K. Singh, Standard Publishers
+Ltd.
+5. Manufacturing Science by A. Ghosh and A.K. Mallick, WileyEastern.
+
+--- Page 5 ---
+UPE03B05: Electrical machines
+D.C Generator and Motors: Principle, Construction and function of various parts, methods of
+excitation, armature reaction, characteristics of compound machines, motor torque equation,
+characteristics, starting and speed control application. Transformers: Principle, construction,
+emf equation, regulation andefficiency.
+Induction Motor: Single phase I.M construction, principles of operation of different kinds of
+single phase I.M., construction, principle and speed control of 3- phase I.M.
+Alternator: Principle and construction, excitation and voltage regulation. Synchronous motor:
+Principle, starting and speed control. Miscellaneous: Stepper Motor, Servo motor.
+References
+1. Electrical Machines by Nagrath I.J. and Kothari D.P.,TMH
+2. Electrical Machines by Fitzgerald, Kingsley, Kusko, Dumas, MGH, 4thEdition.
+3. Electrical Machinery and Transformers by J.L. Kosow, PHI, 4thEdition.
+4. Advanced Electrical by Cotton H., Wheeler & Co.,1995.
+
+--- Page 6 ---
+UPE03P11: Solid Mechanics Laboratory
+Tension Test: Stress-strain diagram, determination of yield strength, ultimate strength,
+modulus of elasticity, percentage elongation and percentage reduction in areas; Compression
+Test; Hardness Test; Brinel and Rockwell tests; Impact test: Charpy and Izod tests; Bending
+test: determination of bending stresses; Fatigue test.
+UPE03P 12: Fluid Mechanics Laboratory
+Fluid flow measurements: Coefficient of discharge for venturimeter, Orifice meter, nozzle
+meter, weirs. Flow through pipes: Determination of pipes friction in laminar and turbulent
+flow remedies, Pitot tube experiments on viscous flows and boundary layer theory.
+UPE03XXX: Workshop Process
+Pattern making, pattern material, pattern allowances and types of patterns.
+Mould making practice: uses of moulding tools: green sand moulding, gating system, risering
+system, core making, study of cupola, basic Forging processes like upsetting, drawing down.
+Gas welding, TIG, MIG, SAW
+UPE03P14: Electrical Machines Laboratory
+Constructional features of DC machines, open circuit and load test of DC shunt generators,
+speed control and characteristics of DC shunt motor, OC and SC test, load test, regulation and
+efficiency of transformers, study of different parts of a 3 phase induction motor, speed control
+and load test on 3 phase I.M. Alternator performance determination, single phase induction
+motor starting and speed control.
+
+--- Page 7 ---
+4th Semester
+UPE04B06: Thermal Power Engineering
+Water tube and Fire tube boilers, Circulating principles, Forced circulation, Critical Pressure,
+Super heaters, Reheaters, Attemperators, Induced draught, Forced draught and secondary air
+fans, Boiler Performance analysis and heat balance. Combustion systems, Environmental
+Protection-ESP, Cyclone Separator, Dust collector etc.
+Rotary Thermodynamic Devices- Steam turbines and their classification-Impulse and
+Reaction type turbines, Thermodynamics of compressible fluid flow, equation and continuity-
+Isentropic flow through nozzle, velocity diagram. Blade efficiency, Optimum velocity ratio,
+multistaging, velocity and pressure compounding, losses in turbines, erosion of turbine
+blades, turbine governing, performance analysis of turbine, condensing system, I C Engines-
+classification.-Regeneration- Reheating- Reheating, Isentrophic efficiency. Combustion
+efficiency.
+Introduction to Heat Transfer, Models of heat transfer, steady and un steady state heat
+Transfer, Fourier Law of Conduction, conduction of Heat through slab, Hollow Cylinder and
+sphere, convection and heat transfer co-efficient, Natural and Forced convection, Introduction
+to Radiation, concept of Black body, Monochromatic and Total emissive power, concept of
+gray body, Kirchhoff’s law of radiation, Heat transfer by radiation, Heat exchangers, overall
+heat Transfer coefficient.
+References:-
+1. Domkundwar, Kothandarman, Domkundwar, “A course in Thermal Engineering”(SI
+Units),Dhanpat Rai&co.
+2. V.P. Vasandani, D.S. Kumar,”Treastise on heat Engineering”, Metropolitan Book
+co.Pvt.Ltd.
+3. J. Selwinrajadurai,”Thermodynamics and Thermal engineering”, New Age International
+Publishers.
+4. P.L. Ballaney,”Thermal Engineering” (in S I units) Khanna PublishersDelhi.
+5. Shyam K.Agarwal, “International combustion Engines” New age International
+Publishers.
+6. V.Ganeshan, “ Internal combustion engines “,3rded; Tata Mc GrawHill.
+7. V.L. Maleev, “Internal combustion Engines”, International Studentedition.
+8. Sharma &Mathur
+9. R.Yadav, “Steam and Gas Turbines “(S.I. Units), Central Publishing House,Allahabad.
+10. Gas TurbineV.Ganeshan
+11. M. NecatiOzisik, “Heat Transfer –A Basic approach”, Mc Graw Hill International
+Editions.
+12. J. P. Holman, “Heat Transfer”- 8thed , Mc GrawHill
+13. Steam TurbineKearton
+14. Fundamentals of Heat and Mass Transfer by F.P. Incropera and D.P. Dewitt, 4th ed; John
+Wiley &Sons.
+15. Elements Of Heat Transfer by Vijay Gupta, 2nd; New Age internationalPublishers
+
+--- Page 8 ---
+UPE04XXX: Numerical methods for computing
+1. Solution of Equation and Eigen valueproblems
+Interactive methods , Newtons Raphson method for single variables and for simultaneous
+equations with two variables , solutes of a linear system by Gaussian, Gauss-Jordan , Jacobi
+and Gauss –Seidel methods . Inverse of matrix by Gauss –Jordan methods .Eigen value of a
+matrix by power and Jacobi methods.
+2. Interpolation
+Newton’s divided difference formulae, Lagrange’s and Hermites polynomials. Newton
+forward and back difference formulae. Stirlings and Bessel’s central difference formulae.
+3. Numerical Differentiation and Integration
+Numerical Differentiation with interpolation polynomial, Numerical integration by
+Trapezoidial and Simpson’s (both 1/3rd and 3/8th “) rules. Two and three point Gaussian
+quadrature formulae. Double integral using Trapezoidial and Simpon’s rule.
+4. Initial value problem for ordinary Differentialequation
+Single step methods –Taylor series , Euler and modified Eular , Runga –kutta method of
+order four first and second order differential equation. Multistep methods –Milne and Adam’s
+Bash forth predictor and correctormethods.
+5. Boundary value problems for ordinary and Partial DifferentialEquation
+Finite difference solution for the 2nd order ordinary differential equation . Finite difference
+solution for one dimensional heat equation (both implicit and explicit) one dimensional wave
+equation and two dimensional Laplace and Poisson’s equation.
+Text Books
+1. Sastry S.s; “Introductory Methods of Numericals Analysis” 3/e, Prentice Hall of India
+New Delhi1998
+References
+1. Kanda samy ; P. Thilakavthy , K. and Gunavathy . K, “Numerical Methods “, S.Chand&
+co. new Delhi1999.
+2. Grewal B.S , Grewal J.S , “Numerical methods in Engineering and science “. Khanna
+publisher , NewDelhi
+3. Jain M.K. Iyenger S.R K and Jain R. K. , “Numerical methods for Engineering and
+Scientific computation ,” 3/e , New Age International (P) Ltd; New Delhi ,1995.
+4. General C.F; Wheatley P.O.,”Applied Numerical Analysis “5/e ,Adittion –Wesley ,
+Singapore ,1998.
+5. Narayanan S, Manickavachakam Pillai K. and Ramananiah G. “Advanced Mathematics
+for Engineering Students Vol2 ,” S. Viswanathanan Pvt. Ltd. Chennai,1993.
+
+--- Page 9 ---
+UPE04B08: Plant Layout & Material Handling
+Introduction: Objectives and criteria for facilities planning and industrial plant design. Site
+selection Factors of plant layout, Types of production activities, job shop, batch and mass
+production. Similar products special products, Fixed, process, and product type layout and
+their combinations.
+Layout planning: Factors influencing plant layout, design considerations steps in planning.
+safety requirements.
+Quantitative evaluation plant layout: Application of assignment models, queuing theory,
+transportation problems, engineering economy, cross-chart technique to plant layout
+problems.
+Material Handling: Organization for material handling relation to plant layout, factors
+affecting material handling. Material handling analysis: Selection and replacement of
+material handling equipments, analysis of handling problems, application of quantitative
+tools.
+Handling systems: Transportation elevating conveying transferring, self loading and bulk
+handling equipments, their selection and characteristics, auxiliary equipments, safety in
+operation.
+References:
+1. Plant layout and material handling by AppleRonald.
+2. Practical plant layout by Muther MC GrawHill.
+
+--- Page 10 ---
+UPE04B09: Measurement and Instrumentation
+Basic Concepts: Definition of terms, calibration, standards, generalized measurement
+systems, static and dynamic performance characteristics ; analysis of experimentaldata
+;Instrumentation for measurement of position and displacement, force, pressure ,velocity ,
+temperature, proximity and range. Concept of feedback; Open and Closed loop control
+system, Transducers and devices and devices for engineering application and processing.
+Metrology: standards, slip gauges, Measurement of angles, tapers, threads, coordinates,
+inspection of straightness, flatness, alignment and surface finish, Gear measurements,
+measurements of various product feature using Mechanical, Pneumatic, Optical and
+Electronic instruments, interferometry and use of opticalflats.
+References:
+1. Experimental Methods for engineers by J. Holman, 6th Ed, Mc GrawHill.
+2. Mechanical Measurement by T.G.Backwith, N.L. Buck and R.d.Maragoni, 3rd.ed, Narosa
+publishinghouse.
+3. Measurement systems- application and design by E.O. Doeblin,4th.ed; MCGrawhill
+4. Instrumentation, measurement & analysis by B.C. Nakra& K.K. Chaudhury,TMH.
+5. Metrology for Engineers by J.W.F., Gallies and C.R. Shotbolt,Cassel.
+6. Metrology by R.K.Jain
+
+--- Page 11 ---
+UPE04B10: Mechanics of Machines
+1. Machinestructure
+Kinematic links, pairs and chain-constrain motion- Slider cranks and cranks rocker
+mechanisms –inversion –application –Kinematics analysis and synthesis of simple
+mechanisms-Determination of velocity and acceleration in Degree of freedom –Grueblers
+criteria.
+2. Friction
+Friction in screw and nut –Pivot and collar –Thrust bearing –plate and disc clutches-Bell (Flat
+and V) and rope drives –Ratio of tension –Effect of centrifugal and initial Tension –condition
+for Maximum power transmission- open and Cross bell Drive –Jockey pulley- creep in Belts
+3. Gearing andCAMS
+Gear profile and geometry-Nomenclature of spur and helical gears –Low of Gearing –
+Interference –Requirement of minimum Number of teeth in gear -Gears trains –Simple and
+compound gears trains- Determination of Speed and torque in Epicyclical gear trains – cam
+profile- Different type of followers
+4. Balancing
+Static and Dynamic balancing –single and several masses in different planes – Primary and
+secondary balancing of reciprocation masses- single and multi cylinder engine-Inline V and
+W arrangements ofengine.
+5. Governor:
+Introduction, Types of Governors, Centrifugal Governors, Terms used in Governors,
+Watt Governor, Porter Governor, Proell Governor, Hartnell Governor, Hartung Governor,
+Wilson-Hartnell Governor, Pickering Governor, Sensitiveness of Governors, Stability of
+Governors, Isochronous Governor, Hunting, Effort & power of Governors, Controlling force
+diagram, Coefficient of insensitiveness.
+6. Vibration
+Free, forced and damped vibration of single degree of freedom systems-Force transmitted to
+support – vibration isolation – vibration absorption-Torsional Vibration of shaft-Single and
+multi rotor system- Geared shafts- Critical speed of shafts.
+Text Book
+1.Ballancy.P.L., “Theory of machine” Khana publisher New Delhi 1998.
+2.Sings,V.P, “Theory of machine”, Khana publisher New Delhi 1998.
+References
+1. Rao , J.S., and Dukkipati ;R.V., ‘’Mechanism of Machine Theory’’, Second Edition ,
+Wiley Eastern Ltd.,1992.
+2. Malhotra, D.R. and Gupta, H.C,” The Theory of Machine Satya Prakashan, Tech India
+publication,1988.
+3. Ghosh, A. and Mallick, A.K,” Theory of Machines and Mechanism,” Affiliated East West
+Press,1989.
+4. Shingley, J.E and Uicker (K),J.J., “Theory of Machines and Mechanisms,” McGraw Hill,
+1980.
+5. Burton Paul, “Kinematic and Dynamic of Planer Machinery,’’ PrenticeHall.1979
+
+--- Page 12 ---
+UPE04B11: Engineering Materials
+Nature and properties of materials : crystal structures and lattices, crystal imperfection , slip
+and dislocations , plastic deformation , phase diagrams, solidification and structure of
+materials and alloys , Iron- carbon diagram, various types of bonds, mechanical, magnetic
+and electronic properties, binary phase equilibrium characteristics of alloy, ternary phase
+diagram.
+Metallography : study of microstructures. Powder metallurgy. Heat treatment processes –
+general classifications, various heat treatment of steels, properties and applications of alloy
+steels, tool steels, stainless steels, 7 cast iron, different heat treatment furnaces.
+Hot and cold working of metals, recovery, recrystallization and grain growth. Fracture,
+fatigue and creep phenomenon in metallic materials Non ferrous materials—copper and
+aluminium basedalloys.
+Mechanical, magnetic, electrical and electronics properties of metals, alloys, ceramics,
+semiconductors and composites.
+References:
+1. Marerial science and engineering by V. Raghavan, prenticeHall.
+2. Introduction to Engineering Metarialsby B.K. Agarwal,TMH.
+3. Mechanical Metallurgy by G.E. Dieter, Mc GrawHill.
+4. Physical Metallurgy principles by R.E. Reedhill, East- Westpublishers.
+5. Principles of metarials science by W.F. Smith, 3rd ed. , Mc GrawHill.
+6. Steel and its Heat Treatement by K.E. Theling, Butterworth.
+7. Material science by J.C. Anderson, K.D. Leaver, R.D. Rawlings and J.M. Alexander ,
+Chapman Hall, 4th Ed., 1992.
+
+--- Page 13 ---
+UPE04P15: Thermal power Engineering Laboratory
+1.a. Study of cut off models – Lancashire boiler, Babcock and Wilcox boiler, Vertical Tube
+boiler, Cochran Boiler, Locomotive Boiler.
+b. study of cut off models – four stroke diesel engines, four stroke petrol engines, two stroke
+petrol engine.
+2. load test on four stroke petrol and diesel engine by electric loadbox.
+3. Load test on four stroke diesel engine by rope brakedynamometer.
+4. Heat balance on four stroke diesel engine by rope brake dynamometer and electric load
+box.
+5. Valve timing diagram on four stroke diesel engine model and four stroke petrol engine
+model.
+6. Measurement of the quality of steam, enthalpy, and drynessfraction.
+7. To find out the boiler performance, boiler efficiency and steam evaporationrate.
+8. To visit a thermal power station and study thefollowing:
+1. Boiler, 2. Steampipe, 3. SteamTurbine, 4. Economizer, 5.Preheater, 6. Alternator, 7. Water
+treatmentplant, 8. ESP
+UPE04P16: Mechanics of Machines Laboratory
+List of Experiments
+1. Single degree of freedom vibratorysystem.
+2. Static & Dynamic balancing of rotatingmasses.
+3. Governors.
+4. Gyroscope.
+5. Cam Design andAnalysis.
+UPE04P17: Measurements and Instrumentation Laboratory
+Lab experiments involving :
+Measurements of position, displacement, velocity, force, temperature, proximity/range.
+Measurements of various product features using mechanical, pneumatic, optical and
+electronic instruments, interferometer, surface roughness measurements, measurements of
+threads and gears. Laboratory experiments and exercises involving hardware and software
+modular based off-line and on-line product gauging and inspection, information recording
+and processingetc.
+1. Estimation of accuracy of instruments -vernier andmicrometer.
+2. Calibration of dial gauge, micrometer andvernier.
+3. Measurement of angels using sine bar, bevel protractors, spiritlevel.
+4. Measurement of gear tooth thickness by various methods including profileprojector.
+5. Measurement of effective diameter, pitch and helix angle of screwthreads.
+6. Surface roughness measurement .
+7. Measurement of run out andconcentricity.
+8. Measurement of internal and external angles, bores, concavity, convexity using standard
+balls, rollers, height gauge and depthmicrometer.
+9. Measurement using visionsystem.
+10. Study of co-ordinate measuringmachine.
+11. study of digital measuringinstruments.
+12. Measurement of Straightness andFlatness.
+
+--- Page 14 ---
+5th Semester:
+UPE05B13: Machining principles and Technology
+1. ToolNomenclature
+Single Point tool- Signification of the various angle provided and nose radius- American,
+German CIRP and orthogonal system of tool nomenclature, conversion of rage angle from
+American to German and Vice- Versa, Nomenclature of drills, Milling cutters and broaches,
+Need for chip barker.
+2. Machine of MetalCutting
+Mechanism of Formation of chips-types of chips and the condition conducive for the
+formation of each type-built-up edge, its effects, orthogonal Vs oblique cutting, Merchant’s
+circle diagram-Force and velocity relationship, shear plane angle, Energy consideration in
+matching-Ernst Merchants theory of shear angle relationship-Original assumption and
+modification made.
+3. Forces in Machining
+Forces in turning, drilling, milling and grinding, Conventional Vs climb milling- mean and
+maximum cross sectional areas of chips in milling- Specific cutting pressure- specification
+horse power- requirement of tools dynamometer- construction and principle of operation of
+tools dynamometer for turning, drilling and milling,
+4. Thermal Aspect inMachining
+Sources of heat generation in machining- temperature in measurement technique in
+machining, Function of cutting fluid- Characteristic of cutting of fluid.
+5. Tool Materials , Tools Wear and toollife
+Requirement of tool materials- advances in tool materials-HSS,PM, HSS, coated HSS,
+carbides and coated carbides, ceramic, cold pressed, hot pressed, ceramic composites,
+CBN, Diamond properties, advantages and limitation- ISO specification for inserts and tools
+holders, Tool Wear, type, mechanism, tool life, machinability, and economics of machining,
+charter in machining.
+6. MachiningPrincipal
+Setting and machining operation on metal cutting machine- Lathe, Milling, shaping, slotting,
+planning, Drilling, Boring, Broaching, Grinding (cylindrical, surface, center less), Thread
+rolling and gear cutting machining.
+7. Tooling: Jigs and Fixtures, Principals of location andclamping,
+8. BatchProduction
+Machining on capstans and Turret lathe.
+9. Massproduction
+Machining on single/ multi spindle automats.
+10. Finishing
+Micro finishing operations like honing lapping, super finishing.
+
+--- Page 15 ---
+UPE05B14: Design of Machine Elements
+1. Product Development Concepts
+Fundamentals of Machine Design - - Selection of materials --- Factor of safety--- Code and
+standards--- economic of Design --- Reliability--- safety and product liability – Product
+Development – Stages --- Sequential and concurrent engineering.
+2. Static and Variable Stress Analysis
+Static Strength --- Failure theories --- Stress Concentration – Fatigue strength—S-N Diagram
+– Lowcycle—High cycle fatigue--- Endurance limit—modifying factors--- Fluctuating
+stresses – Stresses due to combined loading.
+3. Design of MechanicalElements
+Shafts—Design for static loads – Bending, torsion and axial loads—Reversed bending and
+steady torsion—Soderberg and Goodman approach—Design of couplings --- Muff flange,
+bushed pin types – Design of closely coiled helical springs.
+4. Design of Transmission Elements
+Design of Gears – Spur, helical, bevel and worm gears—Belt drives – Flat belts and V belts
+selection and specification – design of journal bearings – Selection and specification ---
+Design of journal bearings—Selection and specification of rolling contact Bearings.
+5. Recent Advances
+Synthesis design of multistage speed reducers—Design of typical special purposes machine –
+Design of Geneva Mechanism-- ratchet and pawl mechanism--- Soft ware Implementation in
+design--- CAD—product Modeling Concept.
+Text Book
+1. Joseph Edward Shigley, “Mechanical Engineering design,” McGrawHill.
+References
+2. Spotts M.F. “Design of Machine Elements”, 7/e, 1997, PrenticeHall.
+3. Robert L. Norton, “Machine Design” – an integrated approach”, 1997, PrenticeHall.
+4. Wilson, “Computer Integrated Machine Design”, 1996, PrenticeHall.
+5. Joseph. E. Shigley, “Standard Hand Book of Machine Design,” McGraw Hill, 1996.
+“Burr A.H and Cheathak. J.B.”Mechanical Analysis and Design,” 2/e, PrenticeHall.
+
+--- Page 16 ---
+UPE05B15: Ergonomics and Work System Design
+Defining Human Factors in a Production system; Characteristics feature of man-machine
+system; human performance and reliability; Human sensory-motor system; Stimulus
+dimension, Human information processing; Noise and theory of signal detection (TDS);
+Quantitative and qualitative visual display; Human factors associated with speech
+communication; Introduction to biomechanics and bioengineering aspects of human motor
+activity; Performance of body members in making different types of movements; Energy
+expenditure in physical activities; Spatial movements and conceptual relationships of stimuli
+and responses; Continuous control systems; Types of control function, tools and related
+control devices.
+Design of work place and work components; Applied anthropometry, activity analysis;
+Design of work place; Human Performance under heat, cold, Illumination, Vibration, Noise,
+Pollution, Static and dynamicconditions.
+Application of results from human factors data and analysis in work study; work design;
+Method study and work measurement Techniques.
+Reference:
+1. Sanders M.S and McCormick, “Human Factors Engineering”, Tata McGrawHill.
+2. Salvendy G, “Hand book of Human Factors and Ergonomics”, John Wiley &Sons.
+3. Kroemer KHE, “Ergonomics – How to Design for case and efficiency”, Prentice Hall
+EnglewoodCliffs.
+4. Indian Adaptation – introduction to work study. ILO, Geneva, Oxford &IBH Pub. Co.
+Pvt.Ltd.
+5. Murrell, “Ergonomics atwork”.
+
+--- Page 17 ---
+UPE05XXX: Production Planning and Control
+1. Introduction: introduction to material management and productivity, functions of
+material management, organization structures in material management, role ofmaterial
+management techniques in improved materialproductivity.
+2. Material planning: objectives, material requirement planning, manufacturing resource
+planning, JIT production planning, strategic material planning, material control:
+acceptance, sampling, inspection, make or buy decision, simple cost analysis, economic
+analysis, break even analysis, breakeven point theory, whether to add or drop a product
+line store management and warehousing, productexplosion.
+3. Purchasing: importance of good purchasing system, organization of purchasing
+functions, purchase policy and procedures, responsibility and limitations, purchasing
+decisions, purchasing role in new product development, role of purchasing in cost
+reduction, negotiations and purchase, purchasing research: identification of right sources
+of supply, vendor rating, standardization, vendor certification plans, vendor and supply
+reliability, developing new source ofsupply.
+4. Cost reduction: cost control v/s cost reduction, price analysis, material costreduction
+techniques, andanalysis.
+5. Inventory management: inventory v/s stores, types of inventory, inventory control,
+inventory build –up, EOQ, various inventory models, inventory models with quantity
+discount, exchange curve concept, coverage analysis, optimal stocking and issuing
+policies, inventory management of perishable commodities, ABC – VED analysis, design
+of inventory distribution systems, surplus management, information system for inventory
+management, casestudies.
+6. Demand forecasting: Long and short term demand forecasting methods, Regression analysis
+and Smoothing methods. Estimation of trend, cycle, seasonality components. Analysis of
+forecast error and computer control of forecasting systems. Plant location, capacity
+scheduling, Warehouse location and capacity scheduling; Multiple Plant Production Facility
+Design. Aggregate Planning and Master ProductionPlanning and Scheduling; Operations
+scheduling and Control: Basic Sequencing and scheduling techniques, Despatching rules;
+Chasing and updating of Production Schedules. Design of Production Planning and Control
+Systems: System Design for continuous and intermittent Production Systems; Integration of
+Master Production, Material Requirement and Shop Scheduling Systems. Diagonistic
+Analysis of Production Planning and Control Systems: Techniques of analysis and
+evaluation of systemperformance.
+Reference books:
+1. Material management :- W. R. Stelzer Jr.(PHI)
+2. Material management :- D. S. Ammer& Richard ErwinInc.
+3. Menon, K.S., “Purchasing and Inventory Control”, Wheeler Publication, NewDelhi
+4. Dobler and Lee, “Purchasing and Material Management”, Tata McGraw Hill, New
+Delhi
+5. Stevenson, J. William, Operations Management 7th Edition, McGraw-Hill Irwin,2002.
+6. Plossl, G.W. Production and Inventory Control: Principles and Techniques,
+Englewood Cliffs, NJ, Prentice-Hall, Inc.,1985.
+7. Monks, Joseph G., Operations Management, Theory and Problems, New York, NY,
+McGraw-Hill,1987.
+8. Production Systems Planning Analysis & Control by James L. Riggs, John Wiley &Sons
+9. Modern Production / Operations Management by Elwood S. Buffa, Rakesh K. Sarin,
+John Wiley &Sons
+10. Production / Operations Management : Concept, Structure & Analysis by Tersine R.J.,
+NorthHolland
+11. Operations Management, by Jay Heizer and Barry Render. Prentice Hall, 9th Edition.
+
+--- Page 18 ---
+UPE05B17: Computer Aided Design and Manufacturing
+Fundamentals of Design, Computers and controllers, Fundamentals of CAD, computer
+systems, use of computers in CAD/CAM system, CAD system Hardware, CAD system
+software, principles of interactive computer graphics, Transformation systems, wire frame
+modeling, surface modeling, Solid modeling, Finite Element Modeling and analysis.
+Numerical control in production systems, computer control of NC machines, NC part
+programming and computer aided part programming, Group technology, computer aided
+process planning, computer aided inspection and Quality control, Machine vision, computer
+integrated production planning systems, Industrial Robots and automated Guided Vehicle
+systems, Flexible Manufacturing systems, Computer Integrated Manufacturing, Artificial
+Intelligence and Expert system, communication system in Manufacturing.
+Text Book
+1. Lalit Narayan. K. MallikarjunaRao.K, Sarcar M.M.M, “Computer Aided Design and
+Manufacturing”, Prentice Hall of India (P) Ltd, 2008.
+References
+1. Radhakrishnan.P and Subramanyam, S, “ CAD, CAM, CIM” , New Age International
+Publishers.
+2. G. Rankey, Paul, “ Computer Integrated Manufacturing” , PrenticeHall.
+3. J.Jr. Harrington, “ Computer Integrated Manufacturing “ Industrial Press Inc, NewYork.
+4. Rathmill. K and Macconal. P, “ Computer Integrated Manufacturing”. IFSpublications.
+5. Deb, S.R, “ Robotics Technology and Flexible Automation” , Tata McGrawHill.
+
+--- Page 19 ---
+UPE05P19: Machining Principles and Technology Laboratory
+List of Experiment in Metal Cutting
+1. Study of influence of cutting parameters on surface roughness inturning
+2. Tool life study on a single point turningtool.
+3. Measurement of cutting forces in turning using lathe tooldynamometer.
+4. Measurement of shear plane angle using chip- thickness ratiocriteria.
+5. Acceptance test on RAM type milling machine as per ISI testchart.
+6. Measurement of single point to angle.
+UPE05P20: CAD/CAM Laboratory
+1. Two Dimensional Geometry creation and modification using standard draftingpackage.
+2. Detailing and documentation of a typical productiondrawing.
+3. Attributes and Data extraction from a drawing.
+4. Creation of simple solid models using CSG and B-Repapproach.
+5. Surface ModelingTypes.
+6. Interfering a programming language with a typical draftingpackage.
+7. Interfering database package with typical draftingpackage.
+8. Object Modeling and Mesh generation using simpleelements.
+9. Analysis of typical machineelements.
+10. Kinematic analysis of simplemechanisms.
+11. Software project consisting of development of algorithms and programs in the field of
+manufacturingapplications.
+UPE05P21: Ergonomic and Works system Design laboratory
+List of Experiment
+1. Work study
+2. Workmeasurement
+3. Anthropometry
+4. Kinesiology
+5. ComfortAnalysis
+6. Fatigue Bio Engineering
+UPE05P22: Design Practice
+Exercises on 2-D and 3- D Modelling of Mechanical components and assembly system using
+software packages like AUTOCAD, CATIA etc.
+Design Project
+1. Jigs and Fixturedesign
+2. Diedesign
+3. Automation using hydraulic, Pneumatic, electrical, Electronic and Mechanicaldevices.
+Text Book: Junija B.L and Sekhon, G.S. “Fundamentals of Metal cutting and Machine
+tools,” New Age International (P) Ltd.1995.
+References:
+1. Shaw M.C., “Metal Cutting Principles”, Oxford Clare dons Press,1984.
+2. Bhattacharya a. “Metal Cutting theory and practice”, New Central Book Agency (P) Ltd.
+Calcutta, 1984.
+
+--- Page 20 ---
+6th Semester
+UPE06B18: Manufacturing Process II
+1. Theory of Metal Forming
+Metallurgical aspect of metal forming- Slip –twining-Mechanics of plastic deformation-
+Effect of temperature, strain rate –microstructure and friction in metal forming-yield criteria
+and their significance-classification of metal forming processes.
+2. Forging and Rollingprocess
+Principal-Classification-equipment, tooling-processes, parameters and calculation of force
+during forging and rolling process-Ring compression tests-Post forming heat treatment-
+Defect (cause and remedy)-application
+3. Extrusion and Drawing Process
+Classification of extrusion process –tool, equipment principal of this process –influence of
+friction –Extrusion forces calculation –Defects and analysis –Rod /Wire drawing –tools,
+Equipment and principal of process –defects –Tube drawing and sinking processes –
+Mannesmann processes of seamless pipe manufacturing ,
+4. Sheet Metal Forming Processes
+Classification –Conventional and HERF processes –Presses –Type and selection of presses –
+formability of sheet metal –principal, Process, parameters, equipments and application of the
+following process –
+Deep Drawing, spinning, stretch forming, plate banding, press brake forming –Explosive
+forming, electro hydraulic forming, magnetic pulse forming
+5. ReccentAdvances
+Super plastic forming –electroforming –fine balancing, P/M forging –Isothermal forging –
+High Speed, hot forging –high velocity extrusion
+Text books
+1. Narayanasamy, R., “Metal working Technology”, Prentice Hall (1997).
+References
+1. Dieter, “Mechanical Metallurgy”, Revised Edition, 1992.
+3. George E,”Dieter –Engineering Design (A Materials and processing Approach)” McGraw
+Hill-Edition II- University ofMaryland-1991
+4. SEROPE KALPAKJJAN, “Manufacturing Engineering and Technology,” Edition –III –
+addision—Wesley Publishingco.1985,
+5. William F.Hosford and Robert M, Caddlel , “Metal forming ,” (Mechanics andMetallurgy
+), Prentice Hall Publishing co, 1990.
+6. Sinha and Prasad, “Theory of metal forming and metal cutting ,” Dhanpat Rai
+Pub,(P)Ltd,.1999
+7. Rao P.N,” Manufacturing Technology,” TMH Ltd 1998(ReviseEdition).
+
+--- Page 21 ---
+UPE06B19: Machine Tool System
+Principles of generations of various surfaces in machine tools; Conformable Kinematic
+Synthesis for tracing , Forming, Enveloping and Generation; Kinematic Structure of Gear and
+step less Drive for machines ; Designing Discrete step Drives for Machine Tools speed and
+feed ; Step less Drive ; Design Principles of Machines Tool Gear Boxes ; hydraulic and
+Electric drives and control; Machine tool structures; Principles of design of Machine tool
+elements like bearings spindles and slides; Automation and control features of Machine tools;
+special tools and attachment. Elements of unit build machines and Transfer lines; Selection
+and acceptance testing of Machine tools.
+References:-
+1. Principles of Machine tools by A. Bhattacharya and G.C. Sen., Central Book Agency,
+Kolkata.
+2. Machine Tools vol.-I, II, III, IV BY Acharkan, Mirpublishers.
+
+--- Page 22 ---
+UPE06B20: Operations Research
+1. LinearModels
+The phases of Operations research study- linear programming – Graphical methods –
+Simplex algorithm—Duality – Transportation Problems – Assignment problems---
+Applications to problems with discretevariables.
+2. NetworkModels
+NetworkModels---shortestroute---Minimalspanningtree---Maximumflowmodels----
+Project network---- CPM and PERT networks--- Critical path scheduling ------ Sequencing
+models.
+3. InventoryModels
+Inventory models----Economic order quality models---- Quantity discountmodels---
+Stochastic Inventorymodels ----- Inventory control models inpractice.
+Queuing Theory
+Queuing models--- Queuing system and structures ---Notation---Parameter ------ SingleServer
+and multi--- Notation --- Parameter --- Single Server and multiserver models --- Poisson input
+--- Exponential service --- Component rate service ---Infinitepopulation ------ Simulation.
+4. DecisionModels
+DecisionModels---GameTheory---TwopersonZerosumGame---Graphicalsolution---
+Algebraicsolution---Linearprogrammingsolution–ReplacementModels ----------- Modelsbased
+onservicelife---Economiclife---Singleormultivariablesearchtechniques ------------- Application
+orModels ----- Casestudies
+Text Books
+1. H.A.Taha “Operation Research” Prentice Hall of India 1999 6thEdition
+2. S.Bhaskar “Operation Research” Anuradha Publishers Tamil Nadu1999
+References
+1. Shennoy, Srivastava “Operation Research for Management” Willy Eastern-1994.
+2. N.J.Bazara, Jarvis, H. Sherali“ A linear programming and Network Flows” , Joha Wiley
+1990.
+3. Philip and Ravindran “Operational Research “ ,Joha Wiley ,1992.
+4. Hiller and Lieberman “Operation Research “ Holden Day1986.
+5. Frank, S. Budnick, Dennis Mcleavy :Principals of Operation Research for Management”
+Richad D Irwin -1990.
+6. Sharma J.K. “Operation Research’ ,Macmillan
+
+--- Page 23 ---
+UPE06XXX: Automation, CNC and Robotics
+Basic principles of automation; Extending the capabilities of conventional machines through
+improved devices and manipulators; Basic principles and constructure of numerical control;
+CNC, DNC and machining centre; Methods of coding and programming; APT programming;
+Adaptive control; Economics of numerical control.
+Introduction to Robotics: Synthesis of elements with movability constraints; Elements of
+robot anatomy; Hydraulic, pneumatic and electric manipulators; End-effectors and their
+design; controllers with microprocessors or fluidics; Robot sensors; Applications of industrial
+robotics.
+Reference:
+1.Craig J. J., “Introduction to Robotics”, Addison – Wesley.
+2.Koren Y. “Robotics for Engineers”, McGraw Hill.
+3.Del S. R.,”Robotics Technology and Flexible Automation”, Tata McGraw Hill.
+4.Tewari N K., Kundra and Rao P. N., “CNC Machine”.
+
+--- Page 24 ---
+UPE06B22: ELECTIVE I
+List of Electives
+1. Optoelectronics and laser materials processing
+Basic laser optics; Laser: electromagnetic radiation, reflection, refraction, laser beam
+characteristics, focusing with a single lens, optical components. Types of laser –CO2 laser, co
+laser, solid state, diode, excimer lasers, application of laser, laser cutting, laser welding, laser
+treatment. Theory of heat flow, laser automation and in-process sensing, laser safety.
+Theory of heat flow, laser automation and in-process sensing, laser safety.
+References
+1.A text book on light by K.G Majumdar, Modern book agency private Ltd.
+2.A text book on optics by Subramanyan and Brijlal.S.Chand&Company ltd.
+3.Laser material processing by William M.Steen, Springer –Verlag.
+2. Management Information System(MIS)
+Data Information and knowledge concepts, concepts of information representation: storage,
+dissemination, discrimination and transmission
+Data base management system, design and implementation of RDBMS for managerial
+applications, retrieval aspects, security and privacy aspects.
+Specification and configurations of computer based systems, manufacturing management
+information systems-its subsystems and outputs; Costing and performance audit applications
+MIS
+References
+1. Management information systems, organization and technology by London and London
+4th ED, PreticeHall
+2. Management information systems by JamesObien
+3. Total QualityManagement
+1. Introduction: definastion of quality, dimensions of quality, quality planning, quality
+costs – analusis techniques for quality costs, basic concepts of total quality management,
+historiacl review, principles of TQM, leadership – concepts, role of senior management,
+quality council, quality statements, strategic planning, deming philosophy, barriers to TQM
+implementation.
+2. TQM Principles: Customer satisfaction – customer perception of quality, customer
+complaints, service quality, customer retention, employee involvement – motivaiton,
+empowerment, teams, recognition and reward, performance appraisal, benefits, continuous
+process improvement – juran trilogy PDSA cycle, 5s, kaizen, supplier partnership –
+partnering, sourcing, supplier selection, supplier rating, relationship development,
+performance measures – basic concepts, strategy, performancemeasure.
+
+--- Page 25 ---
+3. Statistical process control (SPC): The seven tools of quality, statistical fundamentals –
+measures of central tendency and dispersion, population nad sample, normal curve, control
+charts for variables and attributes, process capability, concepts of six sigma, new seven
+managementtools.
+4. TQM Tools:-Bench marking – reasons to benchmarking, benchmarking process, quality
+function deployment (QFD) – house of quality, QFD process, benefits, taguchi quality loss
+function, total productive maintenance (TPM) – concepts, improvement needs, FMEA –
+stages ofFMEA.
+5. Quality systems:-Need for ISO 900 and other quality systems, ISO 9000: 2000 quality
+system – elements, implementation of quality system, documentation, quality auditing, QS
+9000, ISO 14000 – concept, requirements andbenefits.
+Text Book:
+1. Dale H. Besterfield,et al., Total Quality Management, Pearson Education Asia,
+1999.(Indian reprint 2002).
+Reference:
+1. James R.Evans& William M. Lidsay, The Management and Control of Quality (5th
+Edition), South-Western (Thomson Learning), 2002 (ISBNO-324-06680-5).
+2. Feigenbaum. A.V. “Total Quality Management”, McGraw Hill,1991.
+3. Oakland .J.S. “Total Quality Management”, Butterworth-Hcinemann Ltd.,Oxford,1989.
+4. Narayana V. and Sreenivasan, N.S. “Quality Management – Concepts and Tasks”, New
+Age International1996.
+5. Zeiri, “Total Quality Management for Engineers” Wood head Publishers,1991.
+6. Arora. K.C., “Total QualityManagement”,
+7. Paul James, “Total Quality Management – An Introductory Text”, PrenticeHall.
+8. Housen&Ghose, “Quality control andApplications”.
+9. Khanna, O.P., “Industrial engineeringManagement.”
+4. Fluid Machinery
+1. Dynamics of FluidFlow
+Introduction, Impulse Momentum Principle, Forces Exerted on Pressure Conduits, Force
+Exerted on a Stationary Vane or Blade. Absolute and Relative Velocity Relations, Force on a
+Moving Vane or Blade, Torque on Rotating Wheel, Forces Exerted by the Jet on a stationary
+vertical, Inclined Flat plate ,Curve plates, moving plates, hinged plates
+2. HydraulicTurbines
+Introduction, Hydraulic Power Plant, Classification of Turbines, Similitude and Model
+Testing, Model and Prototype, Unit Quantities, Turbine Efficiencies, Euler Turbine Equation,
+Components of Power Produced Pelton Turbine, Power Development, Torque and Power and
+Efficiency Variation with Speed Ratio, Reaction Turbines , Francis Turbines, Axial Flow
+Turbines, Cavitation in Hydraulic Machines, Governing of Hydraulic Turbines
+3. Rotodynamic Pumps
+Introduction, Centrifugal Pumps , Impeller, Classification, Pressure Developed by the
+Impeller , Manometric Head, Energy Transfer by Impeller, Slip and Slip Factor, Losses in
+Centrifugal Pumps, Effect of Outlet Blade Angle Pump Characteristics, Operation of Pumps
+in Series and Parallel, Specific Speed and Significance, Cavitation , Axial Flow Pump ,
+Power Transmitting Systems , Fluid Coupling, TorqueConverter
+4. ReciprocatingPumps
+Introduction, Comparison, Description and Working, Flow Rate and Power ,Slip ,Indicator
+Diagram , Acceleration Head , Minimum Speed of Rotation of Crank, Friction Head , Air
+
+--- Page 26 ---
+Vessels, Flow into and out of Air Vessel, Rotary Positive Displacement Pumps , Gear Pump,
+Lobe Pump , Vane Pump.
+Reference Books:
+1. Fluid Machinery by TerryWright
+2. Fluid Mechanics by Joseph H. Spurk and NuriAksel
+3. Fluid Mechanics by Frank M.White
+4. Jain, A.K., “Fluid Mechanics” KhannaPublishers.
+5. Rajput, R.K., “Fluid mechanics & Hydraulicmachines
+UPE06P23: MANUFACTURING PROCESS-II LAB
+Pneumatic Hamer, hydraulic Hamer, Sheet Metal Forming, Compaction through powder metallurgy
+route.
+UPE06P24: MACHINE TOOL SYSTEM LABORATORY
+Study of speed structure (Ray Diagram) of lathes, determination of apron constant,
+measurement of cutting forces and tool wear experiments are also to be done tostudy
+principles of metal cutting; Alignment tests of drilling machines, quick return motion
+mechanism on shaper are to be undertaken; Laboratory exercises involving machining of
+complex product configurations, machining of spur and helical gears, copying and
+contouring, finishing processes and grinding of tools and cutters are to bedone.
+UPE06XXX: Automation and Condition Monitoring Laboratory
+List of Experiments
+1.A study of different control system and I,S and FANUC codes,
+2. CNC Miller-Programming Exercise involving linear polation, circular interpolation and
+repeatcycle.
+3. CNC Miller -Programming Exercise involving mirror image, tools seating, job setting and
+editing oftools.
+4. CNC Miller -Programming Exercise involving cannedcycles.
+5. CNC –Lathe programming exercise for a simple component involving linear and circular –
+interpolation.
+6. CNC- Lathe Programing Making use of subroutine and Do Loop.
+7.CNC – Lathe Programming on hmt lathe in sinumeric system,
+8.CNC programming on a retrofiltedlathe.
+9. CAM Software in CNC tutor, MasterCAM,
+10. Gegenerative machining in IDEAS,
+11. Study of the geometry of the Robot Manipulations, grippers and exercises on Robot
+programming
+12. Ferrography and condition monitoring by OilAnalysis.
+13. Bearing Health Analysis to optimize its lifespan.
+14. Alignment and Balancing Test Rigs to provide Exposure to latest Alignment and
+BalancingTechniques.
+15. Wear Particle Analysis for Quantitative and Qualitativestudy.
+16. Lubricant contamination Analysis for Quantitative and Qualitativestudy.
+The following equipments can be monitored–
+i) Compressor, ii) Engine, iii) Exhauster, iv) Fan, v) Gear Box, vi) Generator, vii) Hydraulic,
+viii) Motor, ix) Paper Machine, x) Pump, xi) Turbine.
+17. Vibration conditionMonitoring.
+
+--- Page 27 ---
+UPE06P26: Seminar on Assigned Topics
+Each student will be required to give a seminar take along with a report on any current topic
+with audio visual aids, graphs, charts, and models as assigned to them on individual basis.
+
+--- Page 28 ---
+7th Semester
+UPE07B23: Reliability Engineering and Plant Maintenance.
+Reliability: Definition and basic concepts; Failure data, failure moods, and Reliability in
+terms of hazard rate and failure density functions; Hazards models and bath tub curve;
+applicability weibul distribution. Reliability calculations for series, parallel and parallel series
+systems; Reliability calculations for maintained and stand bysystems.
+Maintenance - - its rules and scope in total organizational context. Objectives and
+characteristics of maintenance; basic guidelines for design of organization structures for
+maintenance; Centralized Vs de centralized maintenance ; Types of maintenance – corrective
+planned, preventive and predictive maintenance; Factors affecting maintenance; opportunistic
+maintenance; measurement of maintenance work; rating and allowances. Maintenance cost
+budgets. Maintenance planning and scheduling;
+Noise and Vibration technology, Infra – Thermography, Laser alignment and in situ
+balancing, Ultrasonics, Acoustic Emissions, High end Corrosion Mapping System, Lube and
+Wear Analysis, Residual Life Assessment, Oil Analysis and indigenization
+References
+1. Carter, ADS, “Mechanical Reliability Engineering”,Macmillan.
+2. Belington Roy & Allen R.N, “Reliability Evaluations of Engineering Systems”
+Pitman.
+3. Dhilan& Singh, “Introduction to ReliabilityEngineering’.
+4. Doty, L.A, “Reliabilities for the Technologies”, Industrial PressInc.
+5. Basu S.K &Bhadury B, “ Terrotechnology – Reliability Engineering and
+MaintenanceManagement”.
+
+--- Page 29 ---
+UPE07B24: Non-Traditional Manufacturing
+Introduction to new methods of production; Need and capability analysis of various
+processes; Classification and selection of non-traditional machining technologies. Abrasive
+processes of machining including Abrasive Jet machining (AJM), Water Jet Mechining
+(WJM) and ultrasonic machining (USM). Chemical machining (CHM), Electrochemical
+machining (ECM): Electrochemical deburring and honing: Electrochemical Grinding (ECG);
+Electrochemical Arc Machining (ECAM). Electrical discharge machining (EDM); wire
+EDM, Electrochemical Discharge Machining (ECDM); Electron beam machining (EBM);
+Plasma arc machining (PAM); Laser beam machining (LBM); Ion beam machining (IBM),
+Netural particle etching. Cryogenic machining; Hot machining, stretched turning; Dynamic
+cutting; Magnetic cutting; Oscillating turning; Ballistic machining. Selecting the most
+suitable process for a product; Economic analysis of non-traditional machiningprocesses.
+Text:
+1. Misra P.K., “ Non Traditional Machining Process”, Narosa Publishing House.
+Reference:
+1. Gary F Benedict, Non traditionalmachining.
+2. Kalpakjian, “Non Traditional Machining”, PrenticeHall.
+3. Jain V.K., “Advanced Machining Process”, Allied Publishers(2005).
+4. Pandey P.C., “Modern Machining Process”, TataMcgrawHill.
+
+--- Page 30 ---
+UPE07B25: Production and Quality Management
+Management functions, Evolution of Management Theory, Management approach to
+planning, Analysis and control function involved in a production system; Production cycles,
+planning functions; types of industry: Job, Batch, Continuous, Mass and flow production ;
+Organization and policies in respect of production planning and control; Product design and
+development; Fore-casting techniques; Scheduling, Sequencing and plant loading for optimal
+utilization; Queuing models and line balancing; Materials planning and control, Inventory
+Management; Value analysis; productivity Analysis, Mechanics of production control.
+Quality Management: Introduction, Meaning, Quality Characteristics of Goods and
+Services, Juran‟s Quality Trilogy, Deming‟s 14 principles, Tools and Techniques for Quality
+Improvement, Statistical Process Control Chart, Quality Assurance, Total Quality
+Management (TQM) Model Concept of Six Sigma and itsApplication.
+Acceptance Sampling – Meaning, Objectives, Single Sample, Double Sample and Multiple
+Sample Plans with sated risk, Control charts for variables – Averages and Ranges, Control
+Charts for Defectives – Fraction Defective and Numbers Defective.
+References
+1. Production and operational Management by S.N.Chary,TMH.
+2. Essentials of Managementt by Koontz and Weihrich,TMH.
+3. Modern Production/ Operational Management by E.S.Buffa and R.K.Sarin, John Wiley
+and sons.
+4. Krajewski&Ritzman, Operations Management, 5th PearsonEducation
+5. Buffa & Sarin, Modern Production/Operations Management, 8th JohnWiley
+6. Chary, Production and Operations Management, TataMcGraw-Hill
+7. Johnston R et al – Cases in Operations Management,Pitman
+8. McGregor D – Operations Management,McGraw-Hill
+
+--- Page 31 ---
+UPE07B26: Financial Management and Costing
+1. Finance function and financialaccounting
+The finance function – Indian financial system – financial planning – cost of capital –
+operating and financial level rages – financial statements – income statement – balance sheet.
+2. Capital budgeting and working capitalmanagement
+Different techniques of capital budgeting and investmetn analysis – cocept of present value –
+sources of long term finance – cash management – recievables management – sources of
+short termfinance.
+3. Inventorymanagement
+Purpose of inventoreis – costs related to inventories – basic EOQ model – variation in EOQ
+model – Finite production – stockout – quantity discounts – lots size under constraints – MRP
+inventory accouting.
+4. Cost estimation and costaccounting
+Importance and aims of cost estimation and costing – determination of materials cost, labour
+cost, cost of a product – overhead expenses – depreciatoin – methods – profit planninng –
+anaysis – cost – volume relationship – breakeven analysis.
+5. Recentadvances
+Just in Time (JIT) system – MRP II – credit rating – leasing – Hire purchasing – venture
+capital – SEBI.
+Text Book
+1. Prasannachandra, “ Financial management Theory and pactice”, Tata Mc Graw Hill, 1998.
+References
+1. James C. Vanhorne, John M Wachowilz, “Fundamentals of FinancialManagement”,
+Prentice Hale of India,1996.
+2. T R Banga and S C Sharma , “ Mechanical Estimating and costing “, Khanna Publishers,
+1993.
+3. Monks J G – “Operation management theory and practice”, McGraw Hill,1992.
+4. I M Pandey, “Financial Management”,Vikas Publishing House,1995.
+
+--- Page 32 ---
+UPE07B27: Elective II
+List of Electives
+1. Enterprise Resource Planning
+Enterprise Resource Planning: Basic issues, approach and database implementation, ERP
+modules; Production planning, Sales and distribution, materials management, Plant
+maintenance, Quality management, Project management, Financial and costing and human
+concept of supply chain and its major components.
+References
+1. Enterprise Resource Planning by Ravisankar and S Jaiswal,Galgotia
+2. Nanotechnology
+1. General Introduction: Basics of Quantum Mechanics, Harmonic oscillator, magnetic
+Phenomena, band structure in solids, Mossbauer and Spectroscopy, optical phenomena
+bonding in solids,Anisotropy.
+2. Silicon Carbide: Application of Silicon carbide, nano materials preparation, Sintering of
+SiC, X-ray Diffraction data, electron microscopy sintering of nano particles,
+Nano particles of Alumina and Zirconia: Nano materials preparation, Characterization, Wear
+materials and nanocomposites.
+3. Mechanical properties: Strength of nano crystalline SiC, Preparation for strength
+measurements, Mechanical properties, Magneticproperties.
+4. Electrical properties: Switching glasses with nanoparticles,Electronic conduction with
+nano particles; Optical properties: Optical properties, special properties and the colored
+glasses
+5. Processofsynthesisofnanopowders,Electrodeposition,Importantnaonmaterials
+6. Investigaing and manipulating materials in the nanoscale: Electron microscopics, scanning
+probemicroscopics, optical microscopics for nano science and technology, X-ray diffraction.
+7. Nanobiology : Interaction between bimolecules and naoparticle surface, Different types of
+inorganic materials used for the synthesis of hybrid nano-bio assemblies, Application of nano
+in biology, naoprobes for Analytical Applications-A new Methodology in medical
+diagnostics and Biotechnology, Current status of nano Biotechnology, Future perspectives of
+Nanobiology,Nanosensors.
+8. Nano Medicines : Developing of Nano medicines Nano systems in use, Protocols for nano
+drug Administration, Nanotechnology in Diagnostics applications, materials for used in
+Diagnostics and Therapeutic applications, Molecular Nanomechanics, Molecular devices,
+Nano tribology, studying tribology at nanoscale, Nano Tribology applications.
+TEXTBOOKS:
+1. Nano Materials- A.K.Bandyopadhyay/ New Age Publishers.
+2. Nano Essentials- T.Pradeep/TMH
+3. Non Conventional Energy
+4. Rapid Prototyping
+1. Introduction: Basic concept – Overview f existing technologies of prototyping andtooling
+–Need for speedy design to market operations.
+2. Product Development: State of the Technology – conceptual design – development –
+Detail design – Prototype – Tooling –Engineering Pilot –Limitations.
+3. Accelerated Product Development: Application of CAD-Techniques – Procedures –
+Product slicing – software –Applications.
+4. Rapid Prototyping Systems: Selective laser sintering – Working Principles – Advantages
+and limitation – stereo lithography – working principle – Application advantages and
+limitations.
+5. Other systems: Laminated object modeling – Waving principles application – Advantages
+
+--- Page 33 ---
+and Limitations- fused deposition and modeling – direct shell production casting- application.
+Text:
+1. Ghosh Amitabha, “Rapid Prototyping-A Brief Introduction”, East-WestPublishers
+References:
+1. PAUL F. JACOBS , “Rapid Prototyping and Manufacture , Fundamentals of stereo
+lithography“,1995
+2. SOENEN,RandOILLING,“AdvancedCAD/CAMsystems“,NarosaPublishingHouse
+,1995.
+3. DURVENT , W.R, The lithographic Handbook, Narosa Publishinghouse,1995.
+4. Rapid News, University of Warwick,U.K.1995.
+UPE07P28: Non-Traditional Manufacturing Laboratory
+One experiment on each machine
+1. Abrasive Jet machining(AJM)
+2. Ultrasonic machining(USM).
+3. Electrochemical machining(ECM):
+4. Electrical discharge machining(EDM);
+5. WireEDM,
+6. Electron beam machining(EBM)
+7. Laser beam machining(LBM)
+UPE07XXX: Mini Project
+UPE07P30: Industrial Training
+Students undergoing industrial training at the end of the semester will be given credit in
+semester. Students shall have to submit a project report to be signed by the industry training
+manager or lab-in-charge of R&D organization.
+
+--- Page 34 ---
+8th Semester
+UPE08B30: Entrepreneurship Development
+1. Entrepreneurship
+Entrepreneur- Traits of Entrepreneurs- Types of Entrepreneurs- Intrepreneur Difference
+between Entrepreneurs and Intrapreneur- Entrepreneurial Growth.
+2. Motivation
+Major motives influencing Entrepreneur- Achievement Motivation Training, Self Rating,
+Business game, Thematic Apperception Test- Stress Management. Entrepreneurship
+Development programs-Need, Objectives.
+3. Business
+Small Enterprises-definition, classification-characteristics, ownership structure- Project
+Formulation-Steps involved in setting up a Business- Indentifying, Selecting a good business
+opportunitiy, Market survey and Research, Techno economic Feasibility Assessment-
+Preliminary Project Report- Project Appraisal- Sources of information- Classification of
+needs andAgencies.
+4. Financing andAccounting
+Need- Sources of Finance, Term Loans, Capital Structure, Financial Institutions,
+Management of working capital, Costing Break Even Analysis, Network Analysis techniques
+of PERT/CPM-Taxation-Income Tax, Excise Duty- SalesTax.
+5. Support toEntrepreneurs
+Industrial support to Entrepreneurs- Sickness in smallll business-concept, magnitude, causes
+and consequences, corrective measures- Government policy for small scale Enterprise-
+Growth strategies in small Industry- Expansion, Diversification, joint venture, Merger, Sub
+contracting.
+TextBook:
+1.Khanka S. S., “Entrepreneurial Development”, S. Chand and Co. Ltd., 1997.
+Reference:
+1.EDII- “Faculty and external experts- A Hand Book for new Entrepreneurs: Publishers:
+Entrepreneurship Development”, Institute of India, Ahmedabad, 1986.
+
+--- Page 35 ---
+UPE08XXX: Professional Ethics
+1. EngineeringEthics
+Senses of ‘Engineering Ethics’- variety of moral issues- types of inquiry- moral dilemmas-
+moral autonomy- Kohlberg’s theory-Giligan’s theory- consensus and controversy-
+professions and professionalism- professional ideas and virtues- theories about right action-
+self interest customs and religion-uses of ethical theories.
+2. Engineering as socialexperimentation
+Engineering as experimentation- engineers as responsible experimenters- codes of ethics- a
+balanced outlook on law- the challenger case study.
+3. Engineer’s Responsibility forsafety
+Safety and risk- assessment of safety and risk- risk benefit analysis- reducing risk- the Three
+Mile Island and Chernobyl case studies.
+4. Responsibilities and Rights Collegiality and loyalty- respect for authority- collective
+bargaining- confidentiality- conflicts of interest- occupational crime- professional rights-
+employee rights- intellectual property rights (IPR) -discrimination.
+5. GlobalIssues
+Multinational Corporation- environmental ethics-Computer ethics-Weapons Development-
+engineer as managers –consulting engineer –engineer as expert witnesses and advisors –
+moral leadership –sample code of conduct.
+Text Books:
+1. Miki Martin and Roland Schinzinger, “Ethics in Engineering,” Mc Graw Hill, New York
+1996,
+Reference:
+1. Ethics in Engineering Profession by prof S.K. Chakraborty ,IITM-Joka,
+2. Charles D. Fleddermann,”Engineering Ethics,” PranticeHall , New Maxico1999.
+3. Laura Schlesinger,” How could you do that: The Abdication of character, courage and
+conscience,”
+Harper Collins, New York, 1996,
+4. Stephen Carter,” Integrity.” Basic Books, Newyorks,1996,
+5. Tom Rush,” The Power of Ethical persuasion: From Conflict to partnership at works and in
+Private
+Life,” Viking, New York 1993,
+
+--- Page 36 ---
+UPE08B32: Elective
+List of Elective
+1. Project Planning and Appraisal
+Project Definition : Venture analysis, Project management Features; Project organisation
+design; Operation planning and resource allocation; Plant location analysis models; Project
+scheduling; Gantt charts; Analysis of project networks - PERT and CPM. Scheduling under
+Resources constraint, Cash scheduling to multi-projects situation Project monitoring and
+control aspects; Decision making theories in Management under certainty, risk, uncertainty
+and competitive situations; applications of the methodologies and formulations in such
+project decision making problem solutions; Project capital, cost estimation; Breakeven
+Analysis, Cost Benefit Analysis; Profitability Analysis, Commercial and notional
+profitability. Project Engineering, procurement, storage and construction functions and other
+related management problems; Project wind up and technological obsolescence; Computer
+aided ProjectManagement.
+References :
+1. Operations Research – An Introduction byTaha
+2. Principles of Operations Research with Applications to Managerial Decision byWagner
+2. Supply Chain Management
+Building blocks of a supply chain network. Business processes in supply chains. Types of
+supply chains and examples. Strategic, tactical, and operational decisions in supply chains.
+Supply chain performance measures. Supply chain inventory management: Newsboy, Base-
+stock, and (Q,R) models, multi-echelon supply chains, bullwhip effect. Performance
+modeling of supply chains using Markov chains and queuing networks. Mathematical
+programming models for supply chain planning, design, and optimization. Best practice
+supply chain solutions. Internet-enabled supply chains: e-marketplaces, e-procurement, e-
+logistics, e-fulfillment, customer relationship management, web services, Rosetta net, ERP
+and supply chains, supply chain automation, and supply chainintegration.
+Books
+1. W.J. Hopp and M.L. Spearman. Factory Physics: Foundations of Manufacturing
+Management. Irwin, McGraw-Hill,1996.
+2. N. Viswanadham. Analysis of Manufacturing Enterprises. Kluwer Academic Publishers,
+2000.
+3. Sridhar Tayur, Ram Ganeshan, Michael Magazine (editors). Quantitative Models for
+Supply Chain Management. Kluwer Academic Publishers,1999.
+4. R.B. Handfield and E.L. Nochols, Jr. Introduction to Supply Chain Management.Prentice
+Hall,1999.
+4. N. Viswanadham and Y. Narahari. Performance Modeling of Automated manufacturing
+Systems. Prentice Hall of India, 1998.
+6. Sunil Chopra and Peter Meindel. Supply Chain Management: Strategy, Planning,and
+Operation, Prentice Hall of India,2002.
+7. Jeremy F. Shapiro. Modeling the Supply Chain. Duxbury Thomson Learning,2001.
+8. David Simchi Levi, Philip kaminsky, and Edith Simchi Levi. Designing and Managing the
+Supply Chain: Concepts, Strategies, and Case Studies. Irwin McGrawHill,2000.
+4. Managerial Economics
+Interaction between economic theory and production and managerial decision making;
+
+--- Page 37 ---
+concept of firm, industry and economy. Consumer behaviour, utility, indifference curves and
+maps; consumer' supply, demand determinations, demand function. Production function,
+economy of scale, effect of technology, equilibrium condition, optimal expansion path. Short
+and long range cost functions. Perfect competition and monopoly, equilibrium of firm and
+industries, different models of firm. Determination of price, price discrimination, pricing of
+joint products.
+References :
+1. Modern Micro Ecomomics byKou.
+2. Managerial Economics by Peterson &Lewis
+5. Soft computing in Decision Technology
+Evolution of Decision Making Role of Cognitive Mind in Decision Technology. Decision
+Making under certain, uncertain and risk environments. Distributed Decision Making. Role of
+Fuzzy Sets and Systems in Decision Making. Multi Criteria Decision Making (MCDM).
+Fuzzy Multi Criteria Decision Making (FMCDM) Artificial Neural Network (ANN) and
+application of ANN in Decision Sciences. Genetic Algorithm (GA) and application of GA in
+Decision Sciences. Application of ELECTRE, AHP,Fuzzy AHP, TOPSIS ,Fuzzy TOPSIS in
+Decision Making in various engineering problems. Data Mining and Data Warehousing. Data
+Envelope Analysis (DEA). Particle Swarm Optimization (PSO) and Ant Bee Colony
+Optimization (ABC) Techniques.
+Reference:
+1. Amit Konar, Computational Intelligence-Princeples, Techniques and Applications-
+Springer.
+2. Kalyanmoy Deb, Optimization for Engineering Design-Algorithms andExamples-PHI.
+3. S.S.Rao, Engineering Optimization-theory and Practice-New Age International
+Publishers.
+4. Sankar K. Pal & Paul P. Wang, Genetic Algorithms for Pattern Recognition-CRC
+Press.
+5. D.E. Goldberg, Genetic Algorithms-AddisonWesley.
+6. K.V.Mitter,Optimization
+7. Liu & Lee, Introduction to SoftComputing-PHI.
+6. Mechatronics and Modern Control
+Introduction to Mechatronics: Definition, Mechatronics in manufacturing, products and
+design. Comparison between Traditional and Mechatronics approach.
+Electronics: review of fundamentals of electronics, logic gates and their operations, data
+conversion devices, sensors, micro-sensors, transducers, electrical contacts, actuators and
+switches, contactless input devices, signal processing devices; relays, output devices.
+Drives: Stepper motors, servo-drives.
+Mechanical: Ball screws, linear motion bearings, transfer systems.
+Hydraulic: Hydraulic elements, actuators and various other elements. Design of hydraulic
+circuits.
+Control systems: Open loop and closed loop control, block diagrams, transfer functions,
+Laplace transforms; Mathematical model of physical system; PI and PID controllers, 8085
+microprocessor, PLC controller and Ladder diagrams, hydraulic and pneumatic controllers;
+Time domain analysis, , transient response of first and second order systems; Introduction to
+
+--- Page 38 ---
+non-linear control; state space analysis, optimal design and fabrication of Mechatronics
+systems.
+References
+1.Raven F. H., “Automatic control Engineering”, 5/e McGraw Hill International.
+2.Ogata K, “Modern Control Engineering”, 3/e, Prentice Hall.
+3.Kuo B. C., “Automatic control system”, 6/e, Prentice Hall.
+4.HMT Ltd, “Mechatronics”, Tata McGraw Hill.
+5. Kurtz G. W., Schueller J. K., Claar P. W., “Machine Design for mobile and industrial
+applications”,SAE.
+6. Bolton W.,”Mechatonics”, AddisonWesley.
+UPE08XXX: Project
+UPE08P35: Comprehensive Viva voce:
+A student will have to appear at the comprehensive viva-voce examination on all the subjects
+covering the whole syllabus before a board of examiners including one external expert.

@@ -1,0 +1,39 @@
+
+--- Page 1 ---
+List of the Students Qualified in Different National/ State Level
+Examinations
+Sl Enrollment No Name of the
+Name of the Candidates Year
+no Examination
+10PMA002
+1 Ashis Kumar Roy
+Gate
+2013
+2 11PMA002 Jhulonesher Baidya NET 2014
+3 10PMA002 Ashis Kumar Roy SLET 2015
+CSIR- NET 2016
+4 13PMA002 Birojit Das Gate 2016
+SLET NE Region 2018
+5 13DSMA010 G. Anusha Gate 2018
+6 18PMA001 Satadip Das CSIR- NET 2019
+7 16DSMA008 Gourav Kumar Gate 2019
+16PMA001
+8 Pabita Mahato CSIR-NET 2019
+16PMA005
+9 Ranu Singh CSIR- NET 2019
+16PMA002
+10 Prakrati Kushwah CSIR- NET 2019
+CSIR-NET 2020
+18PMA001 Satadip Das
+11 Gate 2020
+Gate 2021
+12 17DSMA016 Kamna Mishra Gate 2021
+19PMA002 Sanjana Singh
+13 CSIR- NET (JRF) 2022
+19PMA002 Sanjana Singh
+14 Gate 2022
+15 18DSMA004 Mampi Debnath Gate 2022
+16 Prasenjit Chakraborty
+17DSMA003 Gate 2022
+17 20PMA010 Dipanjali Ghosh WB SLET 2022
+*******

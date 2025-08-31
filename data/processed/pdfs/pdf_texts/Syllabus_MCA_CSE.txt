@@ -1,0 +1,1338 @@
+
+--- Page 1 ---
+PROPOSED COURSE STRUCTURE &
+SYLLABUS
+for
+Master of Computer Application (MCA)
+(Six Semester Course)
+National Institute of Technology Agartala
+Department of Computer Science and Engineering
+Agartala, Jirania– 799046
+
+--- Page 2 ---
+Course Structure
+Subject Category Number Credits
+Total Departmental Core subjects including 29 98
+laboratories
+02 08
+Total Departmental Elective subjects
+Total Subjects from Basic Science 03 12
+Total Subjects from Humanities 02 6
+02 12
+Project
+Grand Viva 01 04
+Summer Training 02 ---
+Total 41 140
+Subject Codes:
+MCA SEMESTER TYPE=C/E/H/M/L/P/V SERIAL NUMBER
+C= Departmental Core, E=Departmental Elective, H=Humanities, M=Mathematics,
+L=Laboratory/Practical, P=Project, V=Viva
+Credit Composition:
+L T P/S
+where L=Lecture, T=Tutorial, P=Practical, S=Seminar
+
+--- Page 3 ---
+Course Structure for Master of Computer Application
+(MCA)
+(Effective for batches admitted from 2016-2017)
+MCA SEMESTER I
+COURSE COURSE NAME L T P Credits
+CODE
+MCA01C01 DATA AND FILE STRUCTURE 3 1 0 4
+MCA01C02 DIGITAL CIRCUIT AND LOGIC DESIGN 3 1 0 4
+MCA01C03 DISCRETE MATHEMATICAL 3 1 0 4
+STRUCTURE
+MCA01H01 PRINCIPLES OF MANAGEMENT AND 3 0 0 3
+PRACTICES
+MCA01C04 WEB TECHNOLOGY 3 1 0 4
+MCA01L01 DATA STRUCTURE LABORATORY 0 0 6 3
+MCA01L02 WEB TECHNOLOGY LABORATORY 0 0 6 3
+TOTAL 25
+Total: Lectures = 15; Tutorials = 4; Practical= 12
+Total Credits= 25
+MCA SEMESTER II
+COURSE COURSE NAME L T P Credits
+CODE
+MCA02C05 COMPUTER ORGANIZATION AND 4 0 0 4
+ARCHITECTURE
+MCA02C06 DATA BASE MANAGEMENT SYSTEM 3 1 0 4
+MCA02C07 GRAPH THEORY AND COMBINATORICS 3 1 0 4
+MCA02M01 MATHEMATICAL FOUNDATIONS 3 1 0 4
+MCA02C08 OBJECT ORIENTED PROGRAMMING 3 1 0 4
+MCA02L03 DATA BASE MANAGEMENT SYSTEM 0 0 6 3
+LABORATORY
+MCA02L04 OBJECT ORIENTED PROGRAMMING 0 0 6 3
+LABORATORY
+TOTAL 26
+Total: Lectures = 16; Tutorials = 4; Practical= 12
+Total Credits= 26
+
+--- Page 4 ---
+MCA SEMESTER III
+COURSE COURSE NAME L T P Credits
+CODE
+MCA03H02 COMMUNICATIVE ENGLISH AND 0 2 1 3
+TECHNICAL WRITING
+MCA03C10 DATA MINING AND DATA 4 0 0 4
+WAREHOUSING
+MCA03C11 DESIGN AND ANALYSIS OF 3 1 0 4
+ALGORITHM
+MCA03M02 NUMERICAL METHODS 3 1 0 4
+MCA03C12 SOFTWARE ENGINEERING 4 0 0 4
+MCA03L05 DESIGN AND ANALYSIS OF 0 0 6 3
+ALGORITHM LABORATORY
+MCA03L06 SOFTWARE ENGINEERING 0 0 6 3
+LABORATORY
+TOTAL 25
+Total: Lectures = 14; Tutorials = 4; Practical= 13
+Total Credits= 25
+MCA SEMESTER IV
+COURSE COURSE NAME L T P/S Credits
+CODE
+MCA04C13 COMPUTER NETWORK 3 1 0 4
+MCA04C14 FORMAL LANGUAGE AND 3 1 0 4
+AUTOMATA THEORY
+MCA04C15 MANAGEMENT INFORMATION 4 0 0 4
+SYSTEM
+MCA04C16 OPERATING SYSTEM 3 1 0 4
+MCA04M03 OPERATIONAL RESEARCH 3 1 0 4
+MCA04L07 COMPUTER NETWORK 0 0 6 3
+LABORATORY
+MCA04L08 OPERATING SYSTEM 0 0 6 3
+LABORATORY
+TOTAL 26
+Total: Lectures = 16; Tutorials = 4; Practical= 12
+Total Credits= 26
+
+--- Page 5 ---
+MCA SEMESTER V
+COURSE COURSE NAME L T P Credits
+CODE
+MCA05C17 ARTIFICIAL INTELLIGENCE 3 1 0 4
+MCA05C18 COMPILER DESIGN 3 1 0 4
+ELECTIVE – I 4 0 0 4
+ELECTIVE – II 4 0 0 4
+MCA05L09 ARTIFICIAL INTELLIGENCE 0 0 6 3
+LABORATORY
+MCA05L10 COMPILER DESIGN LABORATORY 0 0 6 3
+MCA05P01 MINI PROJECT 0 0 2 2
+TOTAL 24
+Total: Lectures = 14; Tutorials = 2; Practical= 12 , Project=02
+Total Credits= 24
+List of Elective Subjects for Semester V
+COURSE COURSE NAME L T P Credits
+CODE
+MCA05E01 DIGITAL IMAGE PROCESSING 4 0 0 4
+MCA05E02 E - COMMERCE 4 0 0 4
+MCA05E03 INTRODUCTION TO 4 0 0 4
+CRYPTOGRAPHY
+MCA05E04 MOBILE COMPUTING 4 0 0 4
+MCA05E05 MULTIMEDIA TECHNOLOGY 4 0 0 4
+MCA05E06 WIRELESS COMMUNICATION 4 0 0 4
+NETWORK
+MCA SEMESTER VI
+COURSE COURSE NAME L T P Credits
+CODE
+MCA06P02 MAJOR PROJECT 0 0 10 10
+MCA06V01 COMPREHENSIVE VIVA 0 0 0 4
+TOTAL 14
+Total: Lectures = 0; Tutorials = 0; Practical = 10
+Total Credits= 14
+
+--- Page 6 ---
+DETAIL SYLLABUS
+for
+Master of Computer Application
+(MCA)
+
+--- Page 7 ---
+FIRST SEMESTER
+MCA01C01
+DATA AND FILE STRUCTURES
+L T P
+Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Introduction to Data Structures and Algorithms: Basic Terminologies, Classification of Data
+Structures, Abstract Data Type, Algorithms, Different Approaches to Designing an Algorithm, Time and
+Space Complexity.
+Arrays: Introduction, Declaration of Arrays, Accessing Elements of An Array, Sorting Values in Array,
+Operations on Array, Passing Arrays to Functions, Pointers and Arrays, 1-D Array, 2-D Array, Multi-D
+Array, Sparse Matrices, Applications of Arrays.
+Strings: Introduction, Reading String, Writing String, Operations on Strings, Arrays of Strings, Pointers
+and Strings.
+Structures and Unions: Declaration of Structures, Initialization of Structures, Typedef, Nested
+Structures, Arrays of Structures, Structures and Functions, Self-referential Structures, Arrays of Union
+Variables, Union Inside Structures.
+UNIT II
+Linked Lists: Introduction, Singly Linked Lists, Circular Linked Lists, Doubly Linked Lists, Circular
+Doubly Linked Lists, Header Linked Lists, Multi-linked Lists, Operations of different Linked Lists,
+Application of Linked List, Polynomial Representation.
+Stacks: Introduction, Array Representation, Operations on a Stack, Linked List Representation of Stack,
+Operations on a Linked Stack, Multiple Stacks, Applications of Stacks.
+Queues: Introduction, Array Representation of Queues, Linked Representation of Queues, Types of
+Queues, Applications of Queues.
+UNIT III
+Trees: Introduction, Types of Trees, Creating a Binary Tree from a General Tree, Traversing a Binary
+Tree, Huffman’s Tree, Application of Trees.
+Efficient Binary Trees: Binary Search Trees, Operations on Binary Search Trees, Threaded Binary
+Trees, AVL Trees, Red-Black Trees, Splay Trees.
+Multi-way Search Trees: Introduction to M-way Search Trees, B Trees: Operations and Applications,
+B+ Trees: Operations and Applications, 2-3 Trees and Operations on it, Trie.
+UNIT IV
+Heaps: Binary Heaps: Operations and Applications, Binomial Heaps, Fibonacci Heaps, Application of
+Heaps.
+Graphs: Introduction, Graph Terminologies, Directed Graph, Bi-connected Components, Representation
+of Graphs, Graph Traversal Algorithms, Topological Sorting, Shortest Path Algorithms, Applications of
+Graphs.
+
+--- Page 8 ---
+UNIT V
+Searching and Sorting: Introduction to Searching, Linear Search, Binary Search, Interpolation Search,
+Jump Search, Introduction to Sorting, Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort,
+Radix Sort, Heap Sort, Shell Sort, Tree Sort, Comparison of Sorting Algorithms, Internal and External
+Sorting.
+Hashing and Collision: Introduction, Hash Tables, Hash Functions, Different Hash Functions,
+Collisions, Pros and Cons of Hashing, Applications of Hashing.
+Files and Their Organization: Introduction, Data Hierarchy, File Attributes, Text and Binary Files,
+Basic File Operations, File Organization, Indexing.
+RECOMMENDED BOOKS
+1. S. Lipschutz, ”Data Structure” , Schaum’s Outline Series, TataMcGraw-Hill.
+2. Tannenbaum, “Data Structures”, PHI.
+3. R.L. Kruse, B.P. Leary, C.L. Tondo, “Data structure and program design in C” , PHI.
+4. Horowitz and Sahani, “Fundamentals of Data structures”, Galgotia publications.
+5. R. Thareja, “Data Structures using C”, Oxford.
+6. T. Cormen, C. Leiserson, R. Rivest, C. Stein, ‘Introduction to Algorithms’, Prentice-Hall India.
+DIGITAL CIRCUIT AND LOGIC DESIGN MCA01C02
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Number System & Codes:
+Number Systems: Binary, Decimal, Octal and Hexadecimal, Number Base conversion Complements,
+Binary Codes, Binary Logic.
+Boolean Algebra & Logic Gates:
+Basic Definitions: Axiomatic definition of Boolean algebra, basic theorems and properties of Boolean
+algebra, Boolean functions, canonical & standard forms, Digital logic Families: Operation, characteristics
+of digital logic family.
+The Karnaugh map method, The tabulation method or Quine McCluskey Method, Determination of prime
+implicants, selection of prime-implicants.
+UNIT II
+Combinational Logic UNITs and their applications:
+Arithmetic UNITs- adders, Subtractors, Comparators and ALU, Design examples.
+Decoders, Three-State Buffers. Encoders, Multiplexer, Demultiplexer, Exclusive OR Gates and Parity
+Generator and Checker, Documentation Standards, Circuit Timing. Combinational PLDs; PLAs; PALs;
+GALs; Bipolar PLD Circuits.
+
+--- Page 9 ---
+UNIT III
+Synchronous Sequential Logic:
+Definition of state machines, state machine as a sequential controller; Basic sequential circuits- latches
+and flip-flops: SR-latch, D-latch, D flip-flop, JK flip-flop, T flip-flop;
+Timing hazards and races; Analysis of state machines using D flip-flops and JK flipflops; Design of state
+machines - state table, state assignment, transition/excitation table, excitation maps and equations, logic
+realization; Design examples.
+Asynchronous Sequential Logic:
+Analysis and Design of Asynchronous Sequential Circuits – Reduction of State and Flow Tables – Race-
+free State Assignment – Hazards, Counters, Shift Registers, Iterative versus Sequential Circuits,
+Synchronous Design Methodology.
+UNIT IV
+Memory and Programmable Logic:
+Memory: Read-Only Memory, Read/Write Memory, Static RAM, Dynamic RAM.
+Programmable Logic Devices: PLAs, PALs and their applications; Sequential PLDs and their
+applications; State machine design with sequential PLDs; Introduction to field programmable gate arrays
+(FPGAs).
+Digital Integrated Circuits:
+Introduction to digital logic families, RTL and DTL circuits, integrated injection –logic, transistor logic,
+and emitter coupled, Metal Oxide Semiconductor, complementary MOS.
+Study to different types of analog to digital & digital to analog converters and their resolution, conversion
+time, sensitivity, accuracy and other parameters.
+RECOMMENDED BOOKS
+1. Digital Logic and Computer Design by M. Morris Mano, Prentice Hall of India
+2. Digital Electronics Principles by D.P. Malvino and Leach, McGraw Hill Inc.
+3. Digital Electronic Circuits by T.C. Bartee, Mcgraw Hill Inc.
+4. Digital Design Principles and Practices by John F Wakerly, Pearson Education.
+5. Modern Digital Electronics by R. P. Jain, Mcgraw Hill Education.
+
+--- Page 10 ---
+MCA01C03
+DISCRETE MATHEMATICAL STRUCTURES
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Sets, relations, and functions: Basic operations on sets, Cartesian products, disjoint union (sum), and
+power sets. Different types of relations, their compositions and inverses. Different types of functions,
+their compositions and inverses. Arbitrary union, intersection and product. Propositional Logic: Syntax
+and semantics, proof systems, satisfiability, validity, soundness, completeness, deduction theorem, etc.
+Decision problems of propositional logic.
+UNIT II
+Introduction to first order logic and first order theory, set theory, axiom of choice. Size of a set : Finite
+and infinite sets, countable and uncountable, Cantor’s diagonal argument and power set theorem, non-
+computability of all number theoretic; functions. Partially ordered sets: Complete partial ordering, chain,
+lattice.Complete, distributive, modular, and complemented lattices.Boolean and pseudo Boolean lattices.
+Different sublattices, monotone map and morphisms, quotient structures, filters. Tarski’s fixed point’s
+theorem.
+UNIT III
+Algebraic Structures: Algebraic structures with one binary operation, semigroup, monoid and group.
+Congruence relation and quotient structures.Morphisms.Free and cyclic monoids and groups.Permutation
+group.Substructures, normal subgroup.Error correcting code. Algebraic structures with two binary
+operations- ring, integral domain, and field. Boolean algebra and Boolean ring.
+UNIT IV
+Introduction to Counting: Basic counting techniques, inclusion and exclusion, pigeon-hole principle,
+permutation, combination, summations. Introduction to recurrence relation and generating function.
+Introduction to Graph: Graphs and their basic properties, degree, path, cycle, subgraph, isomorphism,
+Eulerian and Hamiltonian walk, graph colouring, planar graph, trees.
+RECOMMENDED BOOKS
+1. C L Lieu, “Elements of Discrete Mathematics”
+2. B. Kolman, R. Busby, R. C. Ross, “Discrete Mathematics”, Pearson
+3. R. L. Graham, D. E. Knuth, and O. Patashnik, Concrete Mathematics, 2nd Ed, AddisonWesley,
+1994.
+4. Liptschutz, Seymour, “ Discrete Mathematics”, McGraw Hill.
+5. Tremblay and Sorenson, Discrete Mathematical Structures, McGraw-Hill.
+
+--- Page 11 ---
+MCA01H01
+PRINCIPLES OF MANAGEMENT AND PRACTICES
+L T P
+Prerequisites: None
+3 - 0 - 0 : 3 Credits
+UNIT I
+Concept of Management: Management as profession, Approaches to managerial Thought, Evaluation of
+Modern Management thought, Approaches to managerial analysis, Process of Management Coordination
+as Essence of management.
+UNIT II
+Planning – steps, long – term and short- term planning, objective setting, Management by objectives,
+Decision Making, Rationality in Decision Making , Effective Decisions, Creativity, Policy Sources and
+Formulation, Elements of Planning- Programming Policy, Strategy.
+UNIT III
+Organising- organization theory-Classical, Neoclassical and Modern Theories and Organisation Structure.
+Designing of Basic Structure, Departmentation , Span of Management. Delegation of Authority,
+Centralisation and Decentralisation of Authority, Relationships, Line and Staff Authority Conflict and
+Cooperation, Committees in Organisations, Modern Organisational Designs – Project Matrix and free –
+form, structures.
+UNIT IV
+Staffing-outlining the importance of staffing, Discussion on the steps of staffing, Directing and Control –
+Elements of directing – Communication process, Media, Barriers to Communication, Effective
+Communication, Human aspect in control, Management Audit, Social Audit.
+RECOMMENDED BOOKS
+1. Practices and principles of Management - Koontz and Weihrich.
+2. Management – Stephen Robbins.
+MCA01C04
+WEB TECHNOLOGY
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Internet Principles and Components:
+History of the Internet and World Wide Web, HTML, protocols - HTTP, SMTP, POP3, MIME, IMAP.
+Domain Name Server, Web Browsers and Web Servers, Dynamic HTML.,
+
+--- Page 12 ---
+UNIT II
+Client Side and Server Side Programming: Introduction to JAVA Scripts and VB Scripts, Object Based
+Scripting for the web Server Pages, Session and Application management, Session tracking and cookies,
+Access a database from web page, Developing N-tier web application.
+UNIT III
+XML and ActiveX: Anatomy of xml document - XML markup-working with elements and attributes
+creating valid documents-xml objects and DOM. ActiveX controls: OLE and ActiveX -ActiveX
+Documents, Server side Active-X Components, ActiveX DLL and ActiveX Exe.
+UNIT IV
+Multimedia and Web Application: Multimedia in web design, Audio and video speech synthesis and
+recognition, Electronic Commerce, E-Business Model – E-Marketing, Online Payments and Security –
+N-tier Architecture. Search and Design: Working of search engines -optimization-Search interface.
+UNIT V
+Web Services: Introduction to Web Services, UDDI, SOAP, WSDL, Web Service Architecture,
+Developing and deploying web services. Ajax – Improving web page performance using Ajax,
+Programming in Ajax.
+RECOMMENDED BOOKS
+1. Jeffrey C. Jackson: Web Technologies- A Computer Science Perspective, Pearson Education,
+Eleventh Impression, 2012.
+2. Deitel, Deitel& Nieto, Internet and Worldwide Web - How to Program, PHI.
+3. Bai and Ekedhi, The Web Warrior Guide to Web Programming.
+MCA01L01
+DATA AND FILE STRUCTURE LAB
+L T P Prerequisites: None
+0- 0 - 6 : 3 Credits
+Exercises to implement various data structure and algorithms using C or C ++.
+MCA01L02
+WEB TECHNOLOGY LAB
+L T P
+Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNIT I
+HTML:
+HTML Tags, Forms & Frames, Java Script, Cascading Style Sheets, DHTML Web Design Tools.
+
+--- Page 13 ---
+UNIT II
+Web Forms:
+Form Validation with Validation Control, Advanced Control Programming, List a table of content and
+navigate within the pages, Request and Response object using HTML Form.
+UNIT III
+Database connectivity:
+Database Connection, Data manipulation from front end, session management, query string, trigger,
+verification and validation.
+UNIT IV
+Web Services:
+Error Handling, Form-Based Authentication, Windows-Based Authentication, XML basics,development
+of live application.
+RECOMMENDED BOOKS
+1. Web Programming - Building Intranet applications by Chris Bates, Wiley Publications,
+2. Web Technology- Theory and Practice by Srinivasan , Pearson Publications,
+3. Web Technologies by Uttam K. Roy, Oxford University Press
+
+--- Page 14 ---
+SECOND SEMESTER
+MCA02C05
+COMPUTER ORGANIZATION AND ARCHITECTURE
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Evolution of computer:-mechanical era, electronic computers, integrated circuits; processor architecture,
+system architecture. Instruction Sets:-instruction formats, instruction types, programming considerations.
+UNIT II
+Control Design: Instruction sequencing & instruction interpretation, Hardwired Control:- design methods,
+multiplier control UNIT, CPU control UNIT, Microprogrammed control:- micro instructions & their
+encoding. Memory: C.P.U memory interaction, memory array organization & technology, Memory
+hierarchies, main memory allocation, segment, pages & files. High speed memories, Interleaved
+memories, caches & associative memories, Cache coherence:-sequential and weak consistency, snoopy
+bus protocol and directory based.
+UNIT III
+Input/Output Organization: Addressing I\O devices, Data transfer synchronization, Interrupt handling, I/O
+channels, Computer peripherals & interfacing., Direct Memory Access, Examples of I/O Buses: PCI,
+SCSI, USB Pipelining Basics: Instruction and data pipelining, speedup, Definitions of pipeline hazards:
+structural, data, and control.
+UNIT IV
+Introduction to assembly language programming for 8085 and 8086, coding of simple programs.
+RECOMMENDED BOOKS
+1. Carl Hamacher, ZvonkoVranesic ,SafwatZaky , Computer Organization, McGraw-Hill, 5th
+Edition
+2. J.P Hayes, Computer Architecture &Organisation, McGraw-Hill, 3rd Edition
+3. Raj Kamal , Nicholas Carter, Computer architecture and organization, McGraw-Hill, 2nd Edition
+William Stallings , Computer Organization and Architecture , Pearson Education, 9th Edition
+4. John L. Hennessy , David A. Patterson, Computer Architecture: A Quantitative Approach, The
+Morgan Kaufmann Series, 5th Edition.
+
+--- Page 15 ---
+MCA02C06
+DATA BASE MANAGEMENT SYSTEM
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+An Overview of Database: Database, Database System, BBMS Components, Data Independence, Data
+Abstraction, DDL, DML, Data Dictionary, Data Integration, Database Access Method, Characteristics of
+the Database Approach, Advantages of Using a DBMS, Implications of the Database Approach.
+UNIT II
+Database System Architecture: Data Models, Schemas, and Instances, DBMS Architecture, Data
+Independence, Database Languages and Interfaces, Database System Environment, Classification of
+Database Management Systems.
+UNIT III
+Data Model Using E-R Model & Object Model: High-Level Conceptual Data Models, Entity Types,
+Entity Sets, Attributes and Keys, Relationships, Relationship Types, Roles, and Structural Constraints,
+Weak Entity Types, Refining the E-R Design, ER Diagrams, Naming Conventions and Design Issues,
+Subclasses, Super Classes, Inheritance.
+UNIT IV
+Relational Data Model: Concept of relations, schema-instance distinction, keys, referential integrity and
+foreign keys, relational algebra operators: selection, projection, cross product, various types of joins,
+division, example queries, tuple relation calculus, domain relational calculus, converting the database
+specification in E/R notation to the relational schema.
+UNIT V
+Constraints, Views and SQL: Introduction, data definition in SQL, table, key and foreign key
+definitions, update behaviors. Querying in SQL - basic select-from-where block and its semantics, nested
+queries - correlated and uncorrelated, notion of aggregation, aggregation functions group by and having
+clauses, embedded SQL.
+UNIT VI
+Dependencies and Normalization: Functional Dependencies, Normal Forms based on Primary Keys:
+1NF, 2 NF, 3 NF…., Boycee - Codd Normal Form, Normalization through Synthesis, Normalization
+using Join Dependency and definition of 5NF.
+UNIT VII
+Transaction management and Database Recovery: Transactions, Recovery Concepts, Transaction
+Recovery, ACID properties, serializability and concurrency control, System Recovery, Recovery
+Technique, Recovery in Multi Database Systems, Database Security Issues, Access Control for Multilevel
+Security, Data Encryption.
+
+--- Page 16 ---
+RECOMMENDED BOOKS
+1. Fundamentals of Database Systems;By: RamezElmasri&Shamkant B. Navathe Pearson
+Education, LPE.
+2. An Introduction to Database Systems; By: C J Date Pearson Education, LPE.
+3. “Database System and Concepts”, By: A Silberschatz, H Korth, S Sudarshan, McGraw-Hill,
+GRAPH THEORY AND COMBINATORICS MCA02C07
+L T P Prerequisites: None
+3 - 1 – 0 : 4 Credits
+UNIT I
+Introduction: Graphs and their applications, graph theoretic terms: incidence, degree, vertex, null graph,
+path, walk, connected and disconnected graphs, various operations on graphs, isomorphism, Euler’s
+graphs, Hamiltonian graphs.
+UNIT II
+Tress and Fundamental circuits: Properties of trees, rooted trees, binary trees, counting trees, Cayley’s
+theorem, spanning trees, fundamental circuits.
+UNIT III
+Connectivity: Vertex and edge connectivity, Menger’s theorem, 1-Isomorphism and 2-isomorphism.
+UNIT IV
+Planer graphs: Planer graphs and their representation, dual graphs, detection of planarity, thickness and
+crossing.
+UNIT V
+Matrix representation:Different matrix and their representation in directed and undirected graphs.
+UNIT VI
+Coloring, matching and covering: Chromatic partitioning, Chromatic polynomial, bipartite graph,
+matching and Hall’s theorem, Covering, four-color and five-colourtheorem.
+UNIT VII
+Introduction to Counting: Basic counting techniques, principles of inclusion and exclusion, pigeon-hole
+principle, permutation, combination, summations. Introduction to recurrence relation and generating
+functions.
+
+--- Page 17 ---
+RECOMMENDED BOOKS
+1. Graphs, Networks and Algorithm: John Wiley and Sons.
+2. F. Harary, “Graph Theory", Addison-Wesley,
+3. Graph Theory with application to Computer Engineering and Computer Science; By-Deo.
+MCA02M01
+MATHEMATICAL FOUNDATION
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Linear Algebra: Vector algebra and calculus, Determinants, Matrices, Solution of linear algebraic
+equations, Cayley-Hamilton Theorem
+UNIT II
+Linear differential equations of second and higher order, partial differentiation and partial difference
+equations
+UNIT III
+Linear difference equations: The expected difference operator and solution using E-operator
+UNIT IV
+Statistics and Probability: Concept of mean, medial, and mode, moments about mean, variance, skewness,
+kurtosis, Classical definition of probability, probability density functions, conditional and marginal
+probabilities, expectation, Bayes’ theorem, Binaomial, Poisson and Gaussian distributions, Hypothesis
+testing
+RECOMMENDED BOOKS
+1. Engineering Mathematics: Kryzig
+
+--- Page 18 ---
+MCA02C08
+OBJECT ORIENTED PROGRAMMING
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Object oriented programming concepts – objects – classes – methods and messages –abstraction and
+encapsulation – inheritance – abstract classes – polymorphism.Introduction to C++ – classes – access
+specifiers – function and data members – defaultarguments – function overloading – friend functions –
+const and volatile functions – staticmembers – Objects – pointers and objects – constant objects – nested
+classes – localclasses.
+UNIT II
+Constructors – default constructor – Parameterized constructors – Constructor withdynamic allocation –
+copy constructor – destructors – operator overloading –overloading through friend functions –
+overloading the assignment operator – typeconversion – explicit constructor.
+UNIT III
+Function and class templates - Exception handling – try-catch-throw paradigm – exception specification –
+terminate and Unexpected functions – Uncaught exception.
+UNIT IV
+Inheritance – public, private, and protected derivations – multiple inheritance– virtualbase class – abstract
+class – composite objects Runtime polymorphism – virtualfunctions – pure virtual functions.
+UNIT V
+Streams and formatted I/O – I/O manipulators - file handling – random access – object serialization –
+namespaces - std namespace – ANSI String Objects – standard template library.
+RECOMMENDED BOOKS
+1. B. Trivedi, “Programming with ANSI C++”, Oxford University Press, 2007.
+2. Ira Pohl, “Object Oriented Programming using C++”, Pearson Education, SecondEdition Reprint
+2004..
+3. S. B. Lippman, JoseeLajoie, Barbara E. Moo, “C++ Primer”, Fourth Edition, Pearson Education,
+2005.
+4. B. Stroustrup, “The C++ Programming language”, Third edition, Pearson Education,2004.
+
+--- Page 19 ---
+MCA02L03
+DATA BASE MANAGEMENT SYSTEM LAB
+L T P Prerequisites: None
+3 - 0 - 0 : 6 Credits
+Implementation of various SQL queries programming for designing databases and accessing them for
+reasonably large applications.
+MCA02L04
+OBJECT ORIENTED PROGRAMMING LAB
+L T P Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNITI
+functions, functions with default arguments, Implementation of call by value, address, reference.
+UNIT II
+Simple classes for understanding objects, member functions & constructors, Classes with primitive data
+members, Classes with arrays as data members, Classes with pointers as data members, Classes with
+constant data members, Classes with static member functions.
+UNIT III
+Compile time polymorphism, Operator overloading, Function overloading ,Run time polymorphism ,
+Inheritance, Virtual functions, Virtual base classes, Templates, file handling, Sequential access,Random
+access
+UNIT IV
+Simple java applications, Handling strings in JAVA, Simple package creation, Developing user defined
+packages in java interfaces, Threading, Handling predefined exceptions.
+
+--- Page 20 ---
+THIRD SEMESTER
+MCA03H02
+COMMUNICATIVE ENGLISH AND TECHNICAL WRITING
+L T P
+Prerequisites: None
+0 - 1- 2: 3 Credits
+[Syllabus to be specified by Humanities Department]
+MCA03C10
+DATA MINING AND DATA WAREHOUSING
+L T P
+Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Introduction to Data Warehousing:
+Data Management; Benefits of Data Warehousing; Features of a Data Warehouse; Operational Databases
+vs Data Warehouses; The Information Flow Mechanism; Role of Metadata; Classification of Metadata;
+Data Warehouse Architecture; Different Types of Architecture; Data Marts, OLAP, OLTP;
+UNIT II
+Data Analysis:
+Data Pre-Processing, Data Integration, Data Cleaning, Data Reduction, Data Transforming and Modeling
+UNIT III
+Data Mining Techniques:
+Statistical Perspective on Data Mining; Similarity Measures, Decision Trees, Neural Networks, Genetic
+Algorithms.
+Classification:
+Statistical-Based Algorithms, Distance-Based Algorithms, Decision Tree-Based Algorithms, Neural
+Network-Based Algorithms, Rule-Based Algorithms, Combining Techniques.
+Clustering:
+Similarity and Distance Measures, Distance Based Clustering, Hierarchical Algorithms, Partitional
+Algorithms, Density Based Clustering.
+UNIT IV
+Advanced Techniques:
+Introduction to Web Mining, Spatial Mining and Temporal Mining.
+
+--- Page 21 ---
+RECOMMENDED BOOKS
+1. Paulraj Ponnian; Data Warehousing Fundamentals; John Wiley.
+2. Paulraj Ponniah; Data Warehousing: Fundamentals for IT Professionals; Wiley India
+3. J. Han and M. Kamber; Data Mining: Concepts and Techniques; Morgan Kaufman.
+4. M.H. Dunham; Data Mining Introductory and Advanced Topics; Pearson Education.
+MCA03C11
+DESIGN AND ANALYSIS OF ALGORITHM
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Foundation: Asymptotic Notation: Big-oh, Big-omega, Theta, Little-oh, Little-omega, Complexity
+Analysis (Best, Worst and Average Case).
+UNIT II
+Algorithm Design and Analysis Techniques:
+Divide and Conquer Method: Long Integer Multiplication, Strassen’s matrix multiplication,
+Recurrences, Master method.
+Greedy Method: Activity Selection Problem, Huffman Codes and Knapsack fractional.
+Dynamic Programming Method: Knapsack 0 – 1, Matrix Chain Multiplication, Optimal Binary Search
+Tree and Longest Common Subsequence.
+UNIT III
+Graph Algorithms: Graph Representation.
+Graph Traversal: Breadth First Search, Depth First Search.
+Growing of a minimum spanning tree:Kruskal and Prim’s algorithm.
+Single Source Shortest Paths: Bellman Ford and Dijkstra’s algorithm.
+All Pairs Shortest Paths: Floyd Warshall algorithm.
+Maximum Flow: Ford Fulkerson method.
+UNIT IV
+Miscellaneous Algorithms: Multithreaded algorithms, Polynomial Multiplication, Fast Fourier
+Transform, Extended Euclid Algorithm.
+String Matching: Naïve’s algorithm, Rabin Karp algorithm and string matching with finite
+automata.Finding the convex hull: Graham’s Scan and Jarvi’s March method, finding the closest pair of
+points.
+UNIT V
+Computational Complexity:
+Backtracking: N Queen Problem, Sum of Subset, Graph Coloring, Hamiltonian Cycle Problem.
+
+--- Page 22 ---
+Branch & Bound: 15 – Puzzle Game, Assignment Problem, Travelling Salesman and Knapsack
+Problem.
+NP Completeness: The classes P and NP, NP Hard and NP Complete Problems.
+Approximation Algorithms: vertex-cover, travelling-salesman, set-covering, subset-sum Problem.
+RECOMMENDED BOOKS
+1) Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and
+Clifford Stein, PHI.
+2) Computer Algorithms by E. Horowitz, S. Sahni& S. Rajsekaran, Galgotia Publications (P) Ltd.
+3) Fundamentals of Algorithmics by Brassard and Bratley, PHI
+4) The Design and Analysis of Computer Algorithms by Alfred V. Aho, John E. Hopcroft and J. D.
+Ullman, Addison Wesley Publishing Company.
+MCA03M02
+NUMERICAL METHODS
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Solution of equations and Eigen value problems: Iterative method, Newton – Raphson method for
+single variable and for simultaneous equations with two variables. Solutions of a linear system by
+Gaussian, Gauss-Jordan, Jacobi and Gauss – Seidel methods.Inverse of a matrix by Gauss – Jordan
+method.Eigen value of a matrix by Power and Jacobi methods.
+UNIT II
+Interpolation: Newton’s divided difference formulae, Lagrange’s and Hermite’s polynomials. Newton
+forward and backward difference formulae. Stirling’s and Bessel’s Central difference formulae.
+UNIT III
+Numerical Differentiation And Integration: Numerical differentiation with interpolation polynomials,
+Numerical integration by Trapezoidal and Simpson’s (both 1/3rd and 3/8th) rules. Two and Three point
+Gaussian quadrature formula. Double integrals using Trapezoidal and Simpson’s rule.
+UNIT IV
+Topic-1: Initial Value Problems For Ordinary Differential Equations:
+Single step Methods – Taylor Series, Euler and Modified Euler, Runge – Kutta method of order four for
+first and second order differential equations.Multistep Methods-Milne and Adam’s Bashforth predictor
+and corrector methods.
+Topic-2: Boundary Value Problems For Ordinary And Partial Differential Equations: Finite
+difference solution for the second order ordinary differential equations. Finite difference solution for one
+dimensional heat equation (both implicit and explicit), One-dimensional wave equation and two-
+dimensional Laplace and Poisson equations.
+
+--- Page 23 ---
+RECOMMENDED BOOKS
+1. Numerical Methods for Scientists and Engineers (Dover Books on Mathematics) by R. W.
+Hamming
+MCA03C12
+SOFTWARE ENGINEERING
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Introduction: Evolving role of software, classification and characteristics of software, software
+applications, software crisis and myths, software vs. system engineering, different lifecycle models, and
+comparative study of various development models.
+UNIT II
+Software development steps: Feasibility study, functional and non-functional requirements.
+Requirement engineering process: specification, validation and management. Software design process:
+design principles, coupling vs cohesion, software architecture design methodologies, function oriented vs
+object oriented design, structured design methodology. Coding: coding principles and methodology, code
+verification and documentation.
+UNIT III
+Software project management:Principles of SPM, team Structure & scheduling, project planning, Total
+Quality Management (TQM), various cost estimation methods, COCOMO Model, WBS, configuration
+management, risk management, different project management tools.
+UNIT IV
+Software testing and quality management:Different types of testing, verification vs validation, system
+testing, debugging, black-box testing & white-box testing, control flow graphs – cyclomatic complexity.
+Software quality factors, quality assurance, quality standards: CMM, ISO, software reliability, software
+maintenance and reengineering.
+UNIT V
+Object oriented approach:Conventional vs. OO approaches in design and coding, architectural patterns,
+UML and different diagrams to represent OO approach, object oriented testing.
+RECOMMENDED BOOKS:
+1. 1Software Engineering: a Practitioner’s Approach (3rd Edition) by Roger S Pressman, Tata
+McGraw Hill 1992.
+2. Software Engineering-Principles and Practice by Jawadekar ,TataMcGraw Hill.
+3. Fundamentals of Software Engineering, Ghezzi, P.H.I.
+4. Fundamentals of Software Engineering, Rajib Mall, P.H.I.
+5. Software Fundamentals, Daniel M. Hoffman & David M. Weiss, Addison Wesley.
+6. A Discipline for Software Engineering, Watts S. Humphrey, Addison Wesley.
+7. Software Engineering: Theory & Practice, Pfleeger, Addison Wesley.
+
+--- Page 24 ---
+MCA03L05
+DESIGN AND ANALYSIS OF ALGORITHM LAB
+L T P Prerequisites: None
+3 - 0 - 0 : 6 Credits
+UNIT I
+Traversing a graph using BFS and DFS,Growing a minimum spanning tree using Kruskal’s and Prims’s
+algorithm, Bellman Ford and Dijkstra’s algorithm.
+UNIT II
+Floyd Warshall algorithm, Ford Fulkerson method, Implement Activity Selection problem, Huffman
+Coding and Fractional Knapsack using Greedy Approach, Implement 0 – 1 Knapsack, Matrix – Chain,
+Optimal BST and Longest Common Subsequence using Dynamic Programming method.
+UNIT III
+Implement Activity Selection, 15 puzzle game, Travelling Salesperson Problem using Branch and Bound
+Technique, Implement 4 queen problem, sum – of – subset problem, graph coloring and Hamiltonian
+cycle problem using Backtracking method, Few programmes based on Approximation method.
+MCA03L06
+SOFTWARE ENGINEERING LAB
+L T P Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNIT I
+Generating SRS document from a given set of requirements for a software to be developed.,Make a
+comparative statement in between a number of Software Development Models with test scenarios.
+UNIT II
+Preparing SPMP document – Activity Network, Critical Path, Gantt chart,Preparing Decision Tree and
+Decision Table for a given set of requirements for a software to be developed.
+UNIT III
+Function Oriented Design – DFD, Structured chart representation of some sample software to be
+developed, Object Oriented Design – Studying UML with Rational Rose software and generating
+different types of UML diagrams and implement them with some programming language.
+UNIT IV
+Generating test report, Mini Project (group wise) to represent Software Engineering
+Methodologies.
+
+--- Page 25 ---
+FOURTH SEMESTER
+MCA04C13
+COMPUTER NETWORK
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+INTRODUCTION: Definition, History and development of computer networks, goals, applications and
+classification of computer networks. Some well-known networks, Protocols and standards.
+NETWORK MODELS AND ARCHITECTURE: OSI Reference Model, Services and important
+functions of each layer, TCP/IP Model, Basic concepts of hubs, switches, gateways and routers, circuit,
+message and packet switching.
+UNIT II
+BRIEF REVIEW OF PHYSICAL AND DATA LINK LAYERS: Guided and Unguided media, Line
+Discipline, Flow control, Capacity utilization, Sliding Window, Stop & wait protocols, Error detection
+mechanism, VRC,LRC,CRC, Automatic Repeat Request(ARQ)- stop-and wait , go-back-n, selective
+repeat.
+MEDIUM ACCESS CONTROL:ALOHA, Slotted ALOHA, CSMA, CSMA/CD, Ethernet, Token Ring,
+CSMA/CA
+UNIT III
+NETWORK LAYER: Need for Network layer, Connection–oriented and connectionless services,
+Addressing: Internet address, Internet Protocol, IPv6, ARP, DHCP, ICMP, Classful addressing,
+subnetting, supernetting, Classless Addressing, Routing techniques –Static versus Dynamic Routing,
+flooding, Routing algorithms: Distance vector and link-state routing, Inter-domain routing.
+TRANSPORT LAYER: Congestion control algorithm, Connection establishment and termination, Flow
+control and Buffering, Basics of TCP and UDP, (UDP/TCP) Layering, Introduction to quality of service.
+APPLICATION LAYER PROTOCOLS: Basics of Telnet, FTP, SMTP, POP, HTTP
+UNIT IV
+WIRELESS AND MOBILE NETWORKING: IEEE 802.11, BLUETOOTH, Overview of Ad-hoc
+networks, Cellular networks – GSM, CDMA.
+RECOMMENDED BOOKS:
+1. Data Communication and Networking, 4th Edition, McGraw-Hill, Behrouz Forouzan.
+2. A.S. Tanenbaum, “Computer Networks”, 4th Ed., Pearson Education Asia (LPE), 2003.
+
+--- Page 26 ---
+3. L.L. Peterson and B.S. Davie, “Computer Networks: A Systems Approach”, 2nd Ed., Morgan
+Kaufman, Harcourt Asia, 2000.
+4. W. Stallings, “Data and Computer Communications”, 6th Ed., Pearson Education Asia (LPE),
+2000.
+5. F. Halsall, “Data Communications, Computer Networks and Open Systems”, 4th Ed., Pearson
+Education Asia (LPE), 1996.
+6. L. Garcia and I. Widjaja, “Communication Networks: Fundamental Concepts and Key
+architectures”, Tata-McGraw-Hill Ed., 2000.
+7. J.F. Kurose and K.W. Ross, “Computer Networking: A Top-Down Approach Featuring the
+Internet”, Pearson Education Asia (LPE), 2001.
+8. L. Kleinrock, “Queuing Systems, Vol. 1: Theory”, John Wiley, 1975.
+9. Bertsekas and R. Gallagar, “Data Networks”, 2nd Ed., PHI (EEE), 1988.
+10. W. Stallings, “ISDN and Broadband ISDN with Frame Relay and ATM”, 4th Ed.
+MCA03C14
+FORMAL LANGUAGE AND AUTOMATA THEORY
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Finite Automata-Deterministic, non-deterministic and equivalence - Equivalence of regular expressions
+and FA - Moore and Mealy machines.
+UNIT II
+Regular Languages-Pumping lemma of regular sets - MyhillNerode theorem - Minimization of finite
+automata - Chomsky hierarchy of languages.
+UNIT III
+Text-Free Language- Context-free grammar - Derivation trees - Ambiguity simplification - Normal
+forms - Applications.
+UNIT IV
+Pushdown Automata- Definitions - Context free languages - Construction of PDA for simple CFLs -
+Linear bounded automata.
+UNIT V
+Turing Machines-The Turing machine, programming techniques for Turing machine, extensions to the
+basic Turing machine, restricted Turing Machines, Turing machines and Computers, Undecidable
+Problem about Turing Machine, Post’s Correspondence Problem.
+
+--- Page 27 ---
+RECOMMENDED BOOKS
+1. Introduction To Automata Theory, Languages, And Computation by John E. Hopcroft, Rajeev
+Motwani , Jeffrey D. Ullman, Publisher: Pearson
+2. Theory of Computer Science (Automata, Languages and Computation), K. L. P. Mishra and N.
+Chandrasekharan, PHI
+3. Theory of Computation, VivekKulkarni, Oxford.
+MCA04C15
+MANAGEMENT INFORMATION SYSTEMS
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+An overview of MIS – Structure of a MIS – Hardware, Software and Communication technology for
+information systems – concepts of information.
+UNIT II
+Storage and retrieval of data – transaction processing – office automation and information processing -
+control functions – Decision making process – phases in the decision making process – Intelligence and
+design phases – concepts of decision making – Behavioral models of the decision maker/decision making.
+UNIT III
+System concepts – system concepts applied to management information systems – concepts of planning
+and control – Organizational structure and management concepts
+UNIT IV
+Decision support systems – support systems for planning, control and decision making – support systems
+for management of knowledge work – Information systems requirements – strategies for the
+determination of Information requirements.
+UNIT V
+Data base requirements – user interface requirements – developing and implementing application systems
+– Quality assurance and evaluation of Information systems – future developments and their organizational
+and social implications.
+RECOMMENDED BOOKS
+1. Gordon B. Davis, Margrethe H. Olson , “Management Information Systems – Conceptual
+foundations, Structure and Development “, 2nd edition Mc-Graw Hill
+2. James A. Senn , “Analysis & Design of Information System “, Second edition, McGraw Hill.
+
+--- Page 28 ---
+MCA04C16
+OPERATING SYSTEM
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT–I
+Introduction: What is an Operating System, The need for Operating System, Evolution of Operating
+System ,Types of Operating System: batch, multi-programmed, time-sharing, real-time, distributed,
+parallel ,Goals of an Operating System, Operating System Architectures .
+UNIT-II
+PROCESSES MANAGEMENT:
+Fundamentals of Process Management, Implicit/System and Non–implicit/User Process, Life cycle of a
+process, Process State and State Transitions, Suspended Process and Their State Transition, Process
+Control Block, Context Switching, Process Switching .
+PROCESSES SCHEDULING:
+Introduction, Scheduling types, Scheduling Levels, Pre-emptive & Non-preemptive Scheduling,
+Scheduling Algorithm-(FIFO, SJF, SRTN, SRRN, RR and Multilevel Queue).
+UNIT- III
+PROCESS COMMUNICATION AND SYNCHRONIZATION :
+Introduction, Concurrent Process, Critical section, Algorithm Approach to CS Implementation –Two
+Process Solution, Dekker’s Solution , Peterson’s Solution ,Semaphore ,Solution of Producer –Consumer ,
+Solution of Reader –writer Problem, Monitor.
+DEADLOCKS:
+Introduction, Definition of Deadlock , Modelling Of Deadlock, Conditions for Deadlock , Dealing With
+Deadlock, Deadlock Prevention, Deadlock Avoidance- Dijkstra’s Bankers Algorithm , Deadlock
+detection , Recovery from Deadlock, Starvation.
+Thread:
+Introduction , Threading issues, Thread Control Block , Types of Threads-User Threads, Kernel Threads,
+Hybrid Threads , Linux Threads, Java Threads.
+UNIT-IV
+MEMORY MANAGEMENT:
+Introduction , logical vs. physical address space, Swapping, Contiguous memory allocation, Non -
+Contiguous memory allocation , Paging Concept , Page Table Structure , Segmentation.
+
+--- Page 29 ---
+VIRTUAL MEMORY:
+Introduction , Need for Virtual Memory , Demand Paging, Page Replacement Algorithm-FIFO Page-
+replacement Algorithm , Optimal Page-replacement Algorithm, Least Recently Page-replacement
+Algorithm, Thrashing .
+UNIT-V
+I/O AND FILE SYSTEMS:
+File concept, Access methods, Directory structure , File Attributes, File Operation, file system hierarchy,
+Types Of I/O , Input-Output Software, Kernel I/O Sub-Syatem
+DISK MANAGEMENT:
+Disk Structure, Disk Scheduling (FCFS, SSTF, SCAN, C-SCAN), RAID Structure.
+SECURITY:
+Security Problem, User Authentication , Security Levels, Computer-Security Classifications .
+RECOMMENDED BOOKS
+1. Operating System Principles by Silberschatz A. and Peterson J. L., Wiley
+2. Operating Systems by Dhamdhere, TMH
+3. Operating Systems by NareshChauhan ,Oxford
+4. Operating Systems by P.Balakrishna Prasad
+5. Operating Systems by Stalling, Pearson
+OPERATIONAL RESEARCH MCA04M03
+L T P Prerequisites: None
+3 - 1 – 0 : 4 Credits
+[Syllabus to be specified by Humanities Department]
+
+--- Page 30 ---
+MCA04L07
+COMPUTER NETWORK LAB
+L T P Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNIT I
+Study of TCP and UDP, Peer-to-Peer applications, Client-server programming, Looking up internet
+address, Implementation of ping programming, Socket program for UDP Echo Client and Echo Server.
+UNIT II
+Java multicast programming, Client server Communication using object stream, Client server
+Communication using byte stream, Implementation of CRC, Message passing using Message Window
+and Group Window.
+UNIT III
+Study and implementation of Stop & Wait protocol, Go Back N protocol, Selective Repeat
+protocol.
+UNIT IV
+Study and implementation of CSMA-CA protocol, CSMA-CD protocol, Pure Aloha protocol, Slotted
+Aloha protocol, Token Bus protocol, Token Ring protocol.
+UNIT V
+Study of network simulator NS2 and simulation using the NS2 package, Study the effect of different
+Routing protocols on network’s performance through simulation.
+RECOMMENDED BOOKS
+1. Data Communication and Networking, 4th Edition, McGraw-Hill, BehrouzForouzan.
+2. A.S. Tanenbaum, “Computer Networks”, 4th Ed., Pearson Education Asia (LPE), 2003.
+3. L.L. Peterson and B.S. Davie, “Computer Networks: A Systems Approach”, 2nd Ed., Morgan
+Kaufman, Harcourt Asia, 2000.
+4. W. Stallings, “Data and Computer Communications”, 6th Ed., Pearson Education Asia (LPE),
+2000.
+5. F. Halsall, “Data Communications, Computer Networks and Open Systems”, 4th Ed., Pearson
+Education Asia (LPE), 1996.
+
+--- Page 31 ---
+MCA04L08
+OPERATING SYSTEM LAB
+L T P Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNIT I
+(a)Study of hardware and software requirements of different operating systems (UNIX,
+LINUX, WINDOWS XP, WINDOWS 7/8). (1 Lab session)
+(b) Execute various UNIX system calls for (1 Lab session)
+1. Process management
+2. File management
+3. Input / Output System calls
+UNIT II
+Implement CPU scheduling policies : (2-5 Lab sessions)
+(a) SJF
+(b) Priority
+(c) FCFS
+(d) Multi-level queue
+IMPLEMENTATION DETAILS AND ASSUMPTIONS:
+INPUT/s:
+(i) The number of processes/jobs in the system (computed through random functions in C)
+(ii) The CPU Burst (based on past history), priority (initially, compute through random
+function), arrival time of process.
+UNIT III
+Developing Application using Inter Process communication (using shared memory, pipes or message queues)
+Implement the Producer – Consumer problem using semaphores (using UNIX system calls).
+Implement some memory management schemes – I
+Implement some memory management schemes – II
+UNIT IV
+Implement any file allocation technique (Linked, Indexed or Contiguous)
+
+--- Page 32 ---
+FIFTH SEMESTER
+MCA05C17
+ARTIFICIAL INTELLIGENCE
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Introduction: Definition of Artificial Intelligence, Example Systems, Approaches to AI, Brief History;
+Intelligent Agents, Different Agent Architectures, Stimulus Response Agents, State Based Agents, Goal-
+Directed Agents, Utility-based Agents; Case Study: Internet Shopping Agent and Mars Rover.
+UNIT II
+Problem Solving Using Search: State Space Search, N Queens Problem, 8-Puzzle;Uninformed Search,
+DFS, BFS, Iterative Deepening Search, Bidirectional Search; Informed Search, Heuristic Function, A*,
+Greedy, Uniform Cost Search, IDA*; Case Study: Water-Jug Problem; Two Players Games - Two
+Players Search, Game Trees, Minimax Search, HeuristicMinimax Search, Heuristic Evaluation Function,
+Behaviour of Heuristic Evaluation Function;Case Study: Tic-Tac-Toe; Alpha Beta Search, Alpha Beta
+Pruning.
+Constraint Satisfaction Problem: Different Types of Constraints, CSP, DSP, Forward Checking,
+Intelligent Backtracking.
+UNIT III
+Knowledge Representation and Logic: Propositional Logic, Interpret a Propositional Logic, Compound
+Proposition; Interface in Propositional Logic, First Order Logic; First Order Logic, Reasoning Using First
+Order Logic, Resolution in FOPL.
+Rule Based System and Semantic Net: Rule Based System, Semantic Net, Reasoning in Semantic Net,
+Frames.
+UNIT IV
+Planning: Introduction to Planning Problems, Formulate Planning Problem, Casting Planning Problem,
+Search in Plan Space, Forward Search, Backward Search, Strips Planning, Partial Order Planning, Graph
+Plan Algorithm;
+Probability and Fuzzy: Rule Based Expart System, Certainty Factor; Reasoning with Uncertainty,
+Bayes’ Rule; Fuzzy Reasoning, Its Application.
+UNIT V
+Neural Networks: Learning Using Neural Networks-Introduction, Linear threshold UNIT of perceptron,
+representation power of perceptron, how to train a perceptron, Single layer percptron network, multi-layer
+perceptron network, sigmoid UNIT; Probabilistic Learning.
+Robotics: Introduction to Robotics, Robot Hardware, Robot perception, Planning a move ,Robotic
+Software Architecture , Robot vision with Object Reconstruction .
+
+--- Page 33 ---
+RECOMMENDED BOOKS
+1. Artificial Intelligence by E Rich and K Knight, McGraw-Hill.
+2. Artificial Intelligence (3rd Ed) Russell Norvig, Pearson.
+3. Introduction of Artificial Intelligence and expert systems by DW Patterson, PHI.
+4. Artificial Intelligence a Modern Approach-Stuart Russell, Peter Norvig, PHI.
+5. Artificial Intelligence and Soft Computing by A. Konar, CRC Press 2000.
+MCA05C18
+COMPILER DESIGN
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Introduction:
+Introduction to Compiler, Single and Multi Pass Compilers, Translators, Phases of Compilers, Compiler
+writing tools, Bootstrapping.
+UNIT II
+Lexical Analysis:
+Role of Lexical Analyzer, Specification of tokens, Recognition of tokens, lexemes and patterns, Regular
+expression, Finite automata from regular expression to finite automata, transition diagrams,
+Implementation of lexical analyzer, Tool for lexical analyzer – LEX, Error reporting.
+UNIT III
+Syntax Analysis and Parsing Techniques:
+Context free grammars, ambiguity, precedence, Bottom-up parsing and top down parsing, Top down
+parsing: elimination of left recursion, recursive descent parsing, Predictive parsing; Bottom Up Parsing:
+Operator precedence parsing, LR parsers, Construction of SLR, canonical LR and LALR parsing tables,
+the parser generator – YACC, error recovery in top down and bottom up parsing.
+UNIT IV
+Syntax Directed Translation & Type Checking :
+Inherited attributes, dependency graph, Construction of syntax trees, bottom up and top
+down evaluation of attributes, S-attributed and L-attributed definitions.
+Type Checking: Static vs. Dynamic Checking, Type expression, Type Checking, Type Equivalence, Type
+Conversion.
+Symbol Tables: Structure of Symbol Table, Simple Symbol Table (Linear Table, Ordered List, Tree,
+Hash Table), Scoped Symbol Table (Nested Lexical Scoping, One Table per Scope, One Table for all
+Scopes).
+
+--- Page 34 ---
+UNIT V
+Intermediate Code Generation:
+Intermediate Language, Intermediate representation Technique, Three-address code, quadruples and
+triples, Translation of assignment statements, Boolean expressions, Control Flow, Case Statement, and
+Function Call.
+UNIT VI
+Runtime Environment:
+Storage organization, activation tree, activation record, allocation strategies, Parameter passing, dynamic
+storage allocation.
+UNIT VII
+Code Generation& Code Optimization :
+Factors affecting code generation, Basic Block, Code generation for tree, Register Allocation and
+assignment, DAG representation, Code generation using dynamic programming.
+Code Optimization: Need for optimization, Optimization of Basic Blocks, Loops in flow graph,
+Optimizing transformation ,Compile time evaluation, common sub-expression elimination, Dead code
+optimization, peep hole optimization, Local Optimization, Global Optimization, loops, global dataflow
+analysis, solution to iterative dataflow equations.
+RECOMMENDED BOOKS
+1. Compiler-Principles, Techniques and Tools by Alfred V.Aho, Ravi Sethi and J. D.Ullman,
+Addison Wesley.
+2. Compiler Design by Santanu Chattopadhyay, PHI
+MCA05E01
+DIGITAL IMAGE PROCESSING
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Digital Image Fundamentals: Image Formation and types – Basic geometric transformations – Digital
+Image representation—Digital Image Processing operation.
+UNIT II
+Digital Image Transforms: Introduction –Need for transforms-Fourier transforms-2D DFT-FFT –
+Properties-Inverse Transforms-walse transform-Hadamard Transform-Slant Transforms- Discrete Cosine
+Transform –KL Transform.
+
+--- Page 35 ---
+UNIT III
+Image Compression: Image Compression Model-Compression Algorithm- Types of Redundancy Lossy
+and Lossless compression algorithm.
+UNIT IV
+Image Enhancement and Restoration: Histogram Modification Techniques – Image Smoothening –
+Image Sharpening – Image Restoration – Degradation Model – Noise Models – Spatial Filtering –
+Frequency Domain Filtering.
+UNIT V
+Image Segmentation and Recognition: Detection of Discontinuities – Edge Linking and Boundary
+Detection – Thresholding – Region Based Segmentation – Morphology operations. Pattern classification -
+Clustering and Matching - Knowledge representation and use for scene analysis and image understanding
+(2D and 3D) - Object recognition and identification – Case study of various applications.
+RECOMMENDED BOOKS
+1. Digital Image Processing – Gonzalez R. C., Woods R. E. (Addison-Wesley).
+2. Fundamentals of Digital Image Processing – Jain A. K. (PHI).
+3. Digital Image Processing and Analysis – Chanda B., Majumder D. D. (PHI).
+4. Digital Image Processing- S.Sridhar (Oxford).
+MCA05E02
+E-COMMERCE
+L T P
+Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Introduction:
+Defining e-commerce, early business interchange efforts, effect of internet and web in business,
+advantage and disadvantage of e-commerce.
+UNIT II
+Business Models for e-commerce:
+Major key issues in business models, E-business models based on the relationship of transaction
+parties(B2C ,B2B, C2C, C2B), E-business models based on the relationship of transaction types,
+(brokerage, aggregator, advertising, subscription etc.)
+
+--- Page 36 ---
+UNIT III
+Data interchange and security in e-commerce:
+Electronic data interchange, EDI standard, e-mail based exchange of EDI, network and website security
+risks, security and e-mail, PEM, PGP, transaction security and data protection, Firewalls, encryption(
+secret key and public key cryptography), digital signatures, certificates, certifying authorities.
+UNIT IV
+e-Marketing :
+Traditional marketing, aggregate metrics for e-business sites, online marketing, how should buyers pay
+online, advantages of online marketing, e-advertising, various means of advertising, e-branding, elements
+of branding, marketing strategies,
+UNIT V
+e-Payment systems:
+Digital token-based e-payment systems, Secure electronic transaction protocol ,credit card as e-payment
+system, debit card as e-payment system, mobile payment system, smart card cash payment system,
+difference between credit card and smart card, electronic- cheque payment system, micropayment system,
+electronic cash(e-Cash), types of electronic money, digital wallet.
+UNIT VI:
+e- governance, IT act 2000, legal issues in e-Commerce, cyber law, cybercrime, e-Contracts, e-commerce
+patent, advertising regulation, e-commerce law of India.
+RECOMMENDED BOOKS
+1. E-commerce- an Indian Perspective- P.T. Joseph, S.J-5th Edition, PHI
+2. Analysis and design of information systems-V. Rajaraman, PHI
+MCA05E03
+INTRODUCTION TO CRYPTOGRAPHY
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Basic Cryptography: - Classification of attacks, Evolution of Cipher Techniques, Symmetric and
+asymmetric key cryptography, Confusion and Diffusion.
+Conventional Cryptography: - Substitution and Transposition ciphers. Cipher Implementation-P-Box, and
+Product Cipher, Fistal structure, Block Ciphers-DES, AES, Meet in the Middle Attack, Triple DES and
+IDEA, Classical Techniques, Modern Techniques, Algorithms, Confidentiality Using Conventional
+Encryption.
+
+--- Page 37 ---
+UNIT II
+Public-Key Encryption and Hash Functions:- Public-Key Cryptography ,Deffie -Hellman Cryptosystem ,
+Man in the Middle Attack ,Message Authentication and Hash functions; Hash and MAC
+Algorithms,SHA-1 Algorithm, RSA and the Knapsack algorithm.
+Authentication Protocols:-Authentication techniques based on Shared Secret Key, Key Distribution
+Centre, Kerberos, Public Key Encryption and Public Key certificates. Digital Signatures:-Secret Key
+Signatures. Public Key Signatures and DSS.
+UNIT III
+Network Security Practice: Authentication applications, Kerberos, X.509 Directory Authentication
+Service, Electronic Mail Security; S/MIME,IP Security Architecture, Combining Security Associations,
+Key Management, Web Security; Web Security Requirements, Secure Sockets Layer and Transport Layer
+Security, Secure Electronic Transaction(SET), System Security: Intruders, Viruses and Related Threats,
+Types of Viruses, Trusted Systems.
+UNIT IV
+E-mail and Internet Security: PGP and PEM, Firewalls, Types of Firewalls, Firewall Configuration,
+Firewall Design Principles, Classical attacks on the Internet, IP Sec, IP Spoofing attacks.
+RECOMMENDED BOOKS
+1. William Stallings, Cryptography and Network Security, LPE Press.
+2. A.Tanenbaum: Computer Networks, 3rd ed. Prentice Hall, 1996 (PHI 1997).
+3. B. Schneider: Applied Cryptography, 2nd ed. Wiley, 1996.
+4. C. Kaufman, R. Pearlman and M. Speciner: Network Security, Prentice Hall, 1995.
+5. D. R. Stinson: Cryptography: Theory and Practice, CRC Press, 1995.
+6. G. J. Simmons Ed.: Contemporary Cryptography, IEEE Press, 1991.
+7. Behrouz A. Forouzen, Data Communication and Networking, TMH Press.
+MOBILE COMPUTING MCA05E04
+L T P Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Introduction:
+Issues and Challenges in mobile computing, coping with uncertainties, resource poorness, bandwidth, etc.
+Cellular architecture, co-channel interference, frequency reuse, capacity increase by cell splitting.
+Evolution of mobile system: CDMA, FDMA, TDMA.
+Introduction to Personal Communications Services (PCS):
+PCS Architecture, Networks signalling.
+
+--- Page 38 ---
+UNIT II
+Mobility Management:
+Cellular architecture, Co-channel interference, Adjacent channel interference, Mobility-handoff, types of
+handoffs, Location management, HLR-VLR scheme, Hierarchical scheme, Predictive location
+management schemes, Mobile IP, Cellular IP, DHCP.
+Mobile Transport Layer:
+Indirect TCP, Snoop TCP, Mobile TCP
+Mobile Ad Hoc Network and Routing Protocols:
+Hidden and exposed terminal problems, Routing protocols: Destination sequenced distance vector
+algorithm, Cluster based gateway switch routing, Dynamic source routing, Ad hoc on-demand routing,
+Location aided routing, Zonal routing algorithm.
+UNIT III
+Global System for Mobile Communication (GSM) Overview:
+GSM Architecture, Mobility management, Network signaling.
+General Packet Radio Services (GPRS):
+GPRS Architecture, GPRS Network Nodes.
+UNIT IV
+Mobile Data Communication:
+WLANs (Wireless LANs), Bluetooth and IrDA technologies and standards.
+Wireless Application Protocol (WAP):
+The Mobile Internet standard, WAP Gateway and Protocols.
+UNIT V
+Third Generation (3G) Mobile Services:
+Introduction to International Mobile Telecommunications 2000 (IMT 2000) vision, Wideband Code
+Division Multiple Access (W-CDMA), and CDMA 2000, Quality of services in 3G.
+Wireless Local Loop (WLL):
+Introduction to WLL Architecture, wireless Local Loop Technologies.
+Global Mobile Satellite Systems:
+Case studies of the IRIDIUM and GLOBALSTAR systems.
+UNIT VI
+Building Mobile Application:
+J2ME Technology, CLDC, Communications in MIDP.
+
+--- Page 39 ---
+RECOMMENDED BOOKS
+1. J. Schiller, "Mobile Communications", Addison Wesley, 2000.
+2. Yi-Bing Lin &Imrich Chlamtac, “Wireless and Mobile Networks Architectures”, John Wiley &
+Sons, 2001.
+3. Raj Pandya, “Mobile and Personal Communication systems and services”, Prentice Hall of India,
+2001.
+4. U. Hansmann, “Principles of Mobile Computing”, Wiley Dreamtech, 2004.
+MCA05E05
+MULTIMEDIA TECHNOLOGY
+L T P Prerequisites: None
+3 - 1 - 0 : 4 Credits
+UNIT I
+Introduction
+[Definition, Evolution, Multimedia presentation and production, Characteristics of a multimedia
+presentation, Components and Structure, Hardware and Software Specifications, Digitization concepts,
+Application domains]; Visual Display Systems[Introduction, Cathode ray tube (CRT), Video adapter card
+and cable, Liquid crystal display (LCD), Plasma display panel (PDP), Comparison between CRT and
+LCD];
+UNIT II
+Text [Introduction, Types of text, ASCII codes, Unicode standards, Font, Insertion of text, OCR, File
+formats]; Image and Graphics[Introduction, Image types, Color and color models,Scanner, Digital
+camera, Interface standards, Specification of digital images, Color management systems, Device
+independent color models, Gamma and gamma correction, Image processing steps and software, File
+formats, Image output on monitor and printer];
+UNIT III
+Audio [Introduction, Nature of sound waves, Musical sound and noise, Tone and note, Psycho-acoustics
+and decibels, Microphone, Amplifier, Speakers, Digital audio specifications, Synthesizers, Musical
+Instrument Digital Interface (MIDI), Sound card, Audio processing steps and software, File formats];
+UNIT IV
+Video [Introduction, Video frames and frame rate, Analog video camera, Video signal formats,
+Television broadcasting standards, Digital video, Digital video standards, PC Video, Video processing
+steps and software, File formats]; Compression [Introduction, CODEC, Types of compression, Types of
+redundancies, Lossless compression techniques, Lossy compression techniques, Run length encoding,
+Huffman coding, Arithmetic coding, Lempel-Ziv-Welsh coding, Differential pulse code modulation, GIF
+standard, JPEG standard, H.261/H.263/ H.264, MPEG-1, MPEG-2, MPEG-4, MPEG-7, AMR, AAC];
+UNIT V
+CD-Technology [Working principles, CAV vs. CLV, Rated speed, Merits and Demerits, CD Formats,
+CD-DA, CD-ROM, CD-I, CD-ROM/XA, Photo-CD, Video-CD, CD-R, CD-RW, MO, DVD, CD vs.
+
+--- Page 40 ---
+DVD, DVD variants, UDF, DVD-Video, DVD-Audio, DVD-R, DVD-RW, DVD-RAM]; Multimedia
+Architecture and Transmission [Windows multimedia support, Windows API, Graphic libraries, DirectX,
+OpenGL, Distributed multimedia applications, Videoconference, Video on demand, Real time transport
+protocols, Streaming, Windows Media Framework, QuickTime Architecture, Ogg Framework, Temporal
+relationships, Synchronization];
+UNIT VI
+Multimedia Databases [Introduction, Limitations of textual descriptions of media, Content based storage
+and retrieval (CBSR), Image color, Image texture, Image shape, Audio speechand music discrimination,
+Video cut detection and shot identification, “low-level” vs. “high-level” features, Design and
+implementation of a prototype system]
+RECOMMENDED BOOKS
+1. Ranjan Parekh, “Principle of Multimedia", Tata McGraw Hill, New Delhi, 2006. ISBN: 0-07-
+058833-3
+2. FredHalsall, "Multimedia Communications : Applications, Networks, Protocols and Standards",
+Pearson Education Ltd., 2001.
+3. FrancoisFluckiger, "Understanding Networked Multimedia : Applications and Technology",
+Prentice Hall, 1995.
+4. Prabhat K Andleigh, KiranThakrar, "Multimedia System Design", Prentice Hall, 1996
+5. Ralf Steinmetz, KlaraNahrstedt, "Multimedia Computing, Communications and Applications",
+Prentice Hall, 1995
+6. NalinSharda, "Multimedia Information Networking", Prentice Hall, 1999, ISBN : 0132587734
+MCA05E06
+WIRELESS COMMUNICATION NETWORK
+L T P
+Prerequisites: None
+4 - 0 - 0 : 4 Credits
+UNIT I
+Introduction to Wireless Networks, Different Generations of Wireless Networks. Characteristics of the
+Wireless Medium: Radio Propagation Mechanisms, Path Loss Modelling and Signal Coverage, Effect of
+Multipath and Doppler, Channel Measurement and Modelling Techniques.
+UNIT II
+Multiple Access Techniques: FDMA, TDMA, CDMA, OFDM, SDMA and their comparisons,
+Modulation Techniques – AM, FM, FSK, PSK, QPSK, QAM, 16QAM Mobile Data Networks:
+Introduction, Data Oriented CDPD Network, GPRS, EDGE and High Data Rates, SMS in GSM, Mobile
+Application Protocols
+UNIT III
+Network Planning: Introduction, Wireless Network Topologies, Cellular Topology, Cell Fundamentals,
+Signal to Interferences Ratio Calculations, Network Planning for CDMA Systems. Wireless Network
+Operations: Mobility Management, Radio Resources and Power Management
+
+--- Page 41 ---
+UNIT IV
+Introduction to Wireless LAN, Overview of IEEE 802.11, Reference Architecture, PHY and MAC Layer,
+Wireless Home Networking, Technologies for Home Area Network (HAN), HIPERLAN.
+IEEE 802.15 WPAN, HomeRF, Bluetooth, Adhoc Networks, Introduction to 2.5 G and 3 G Networks.
+RECOMMENDED BOOKS
+1. Kaveh Pahlavan, Prashant Krishnamurthy “Principles of Wireless Networks”, PHI.
+2. Dharma Prakash Agrawal, Qing- AnZeng, “Introduction to Wireless and Mobile Systems”
+CENGAGE Learning.
+3. Sumit Kasera, Nishit Narang, A P Priyanka “2.5 G Mobile Networks: GPRS and EDGE”, TMH
+4. Kamilo Feher “Wireless Digital Communications” , PHI
+5. Jochen Schiller “ Mobile Communications”, PEARSON
+MCA04L07
+ARTIFICIAL INTELLIGENCE LAB
+L T P Prerequisites: None
+0- 0 - 6 :3 Credits
+Experiments based on the syllabus of the Subject ARTIFICIAL INTELLIGENCE With emphasis on
+problem solving by searching, Micro Mouse Exploration, Robot vision, Unmanned and Remotely
+Operated Vehicle, 3D reconstruction of objects
+RECOMMENDED BOOKS
+1. Artificial Intelligence by E Rich and K Knight, McGraw-Hill.
+2. Artificial Intelligence (3rd Ed) Russell Norvig, Pearson.
+3. Introduction of Artificial Intelligence and expert systems by DW Patterson, PHI.
+4. Artificial Intelligence a Modern Approach-Stuart Russell, Peter Norvig, PHI.
+5. Artificial Intelligence and Soft Computing by A. Konar, CRC Press 2000.
+MCA05L
+COMPILER DESIGN LAB
+L T P
+Prerequisites: None
+0 - 0 - 6 : 3 Credits
+UNIT I
+Programmes on handling files, Programs on language, grammer, regular expression, NFA, DFA, strings.
+UNIT II
+Programs for lexical analyzer,
+UNIT III
+
+--- Page 42 ---
+Programs on removing left recursion, finding FIRST, FOLLOW
+UNIT IV
+Programs on LL(1) parser, LALR Parser, canonical parser etc.

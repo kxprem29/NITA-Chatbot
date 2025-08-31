@@ -1,0 +1,2371 @@
+
+--- Page 1 ---
+Department of Chemistry
+National Institute of Technology Agartala
+Curricula and Syllabi
+for
+MSc Course in Chemistry
+July-2021
+
+--- Page 2 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+First Semester
+Teaching
+S.N. Course Name Code Marks hrs/week Credit
+L T P
+1 Inorganic Chemistry-I PCY01B01 100 3 1 0 4
+2 Organic Chemistry-I PCY01B02 100 3 1 0 4
+3 Physical Chemistry-I PCY01B03 100 3 1 0 4
+Analytical and
+4 PCY01B05 100 3 1 0 4
+Environmental Chemistry
+Organic Chemistry
+5 PCY01P02 100 0 0 6 4
+Laboratory
+Total 500 12 4 6 20
+Total contact hrs per week = 22 Total credit = 20
+Second Semester
+Teaching
+S.N. Course Name Code Marks hrs/week Credit
+L T P
+1 Inorganic Chemistry-II PCY02B05 100 3 1 0 4
+2 Organic Chemistry-II PCY02B06 100 3 1 0 4
+3 Physical Chemistry-II PCY02B07 100 3 1 0 4
+4 Biochemistry PCY02B08 100 3 1 0 4
+Physical Chemistry
+5 PCY02P03 100 0 0 6 4
+Laboratory
+Total 500 12 4 6 20
+Total contact hrs per week = 22 Total credit = 20
+Third Semester
+Teaching
+S.N. Course Name Code Marks hrs/week Credit
+L T P
+1 Inorganic Chemistry-III PCY03B09 100 3 1 0 4
+2 Organic Chemistry-III PCY03B10 100 3 1 0 4
+3 Physical Chemistry-III PCY03B11 100 3 1 0 4
+Instrumental Method of
+4 Analysis of Chemical PCY03B12 100 3 1 0 4
+Compounds
+Inorganic Chemistry
+5 PCY03P04 100 0 0 6 4
+Laboratory
+Total 500 12 4 6 20
+Total contact hrs per week = 22 Total credit = 20
+1
+
+--- Page 3 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Fourth Semester
+Students may opt for Option-I or Option-II from below
+Option-I
+Teaching hrs/week
+S.N. Course Name Marks Credit
+L T P
+1 Elective-I 100 3 1 0 4
+2 Dissertation 200 0 0 15 8
+3 Project Seminar 100 0 0 0 5
+4 Comprehensive Viva 100 0 0 0 3
+Total 500 3 1 15 20
+Total contact hrs per week = 19 Total credit = 20
+*
+Elective courses
+(To choose ANY ONE course)
+S.N. Course Name Code
+1 Inorganic Photochemistry and Supramolecular Chemistry PCY04E08
+2 Organic Named Reactions, Synthesis, Structure and Reactivity PCY04E10
+3 Molecular Spectroscopy–Theory and Instrumentation PCY04E12
+4 Chemistry of Nanomaterials PCY04E13
+Option-II
+Teaching hrs/week
+S.N. Course Name Marks Credit
+L T P
+1 Industrial Project 300 0 0 40 12
+2 Project Seminar 100 0 0 0 5
+3 Comprehensive Viva 100 0 0 0 3
+Total 500 40 20
+Total credit = 20
+Summary of Marks and Credit: Sem-I to Sem-IV
+S.N. Name of Semester Marks Credit
+1 First Semester 500 20
+2 Second Semester 500 20
+3 Third Semester 500 20
+4 Fourth Semester 500 20
+Total 2000 80
+2
+
+--- Page 4 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+First Semester
+3
+
+--- Page 5 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Inorganic Chemistry-I Code: PCY01B01
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Obtain the important knowledge on Coordination Chemistry with modern
+experimental along with theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the
+industrial applications.
+PEO-3 Improving their professional progress along with scientific knowledge through
+continuing which will be helpful for higher studies.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Understand the fundamental principles and theories that interpret the physico-
+chemical properties of coordination compounds.
+PSO-2 Impart complete knowledge of mechanisms of reactions taking place in transition
+metal complexes.
+PSO-3 To pursue higher education along with R&D accomplishments.
+Course Objective
+(i) Elucidate the bonding in coordination compounds in term of Crystal Field Theory and
+Molecular Orbital Theory
+(ii) To provide the knowledge about the magnetic properties of transition metal complexes and
+their significance
+(iii) To provide the concepts in mechanism of substitution reactions and redox reactions of
+inorganic complexes and concise description about acidic and basic hydrolysis with geometry
+of intermediate formed during reaction of octahedral complexes.
+(iv) To study inorganic reaction mechanisms presented in the literature to solve chemical
+problems.
+4
+
+--- Page 6 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+1) Coordination Compounds: structure, bonding, spectral and magnetic properties (24
+L):
+Structure and Bonding: Application crystal field theory in thermodynamic properties,
+variation of ionic radii, lattice energy and hydration energy of coordination compound. spectral
+properties, spectrochemical series, nephelauxtic series. Stereochemistry of complexes,
+Structural distortion and lowering of symmetry, electronic, steric and Jahn-Teller effects on
+energy levels, absolute configuration of complexes. experimental evidence for metal-ligand
+orbital overlap; ligand field theory, molecular orbital theory as applied to metal complexes,
+brief introduction to Angular Overlap Model.
+Electronic Spectra: Spectroscopic ground states, correlation diagrams, Orgel diagram for
+transition metal complexes (d1-d9) states, Tanabe-Sugano diagram for transition metal
+complexes (d1-d9) states. electronic spectra of octahedral and tetrahedral complexes and
+calculation of ligand-field parameters. Charge transfer spectra, spectroscopic methods of
+assignment of absolute configuration in optically active metal chelates, stereochemical
+information of optically active metal chelates.
+Magnetic Property: Diamagnetism, paramagnetism, ferromagnetism and antiferromagnetism,
+Pascasl’s corrections, Anomalous magnetic moments, orbital contribution, magnetic exchange
+coupling, spin crossover and spinel.
+2) Reaction mechanism of transition metal complexes (21 L):
+Substitution Reactions: Energy profile of a reaction, reactivity of metal complex, inert and
+labile complexes, Nature of substitution reactions; prediction of reactivity of octahedral,
+tetrahedral and square-planar complexes in terms of crystal field activation energy and
+structure preference energy; rates of reactions; Acid hydrolysis and factors affecting acid
+hydrolysis, base hydrolysis, Conjugate base mechanism, Direct and Indirect evidences in
+favour of conjugation mechanism.
+Electron Transfer Reactions: Mechanism and rate laws; various types of electron transfer
+reaction (Inner sphere, outer sphere, and one electron transfer) mechanism. Cross reaction and
+Marcus-Husch theory, correlation between thermal and optical electron transfer reactions;
+identification of intervalence transfer bands in solution and Anation reaction.
+Rearrangement Reactions: Racemisation,Twist mechanism, Ray-Dutt and Bailer mechanism.
+Course Outcome
+CO-1 Better understanding the theory of bonding behind coordination compounds.
+CO-2 Student will learn application of inorganic reaction mechanisms in the areas of
+industrial synthesis, preparation and biological catalytic processes.
+CO-3 Students will familiar with the comprehensive subject areas of coordination
+Chemistry and it will help them with their project/ research purpose
+CO-4 Students will be capable to explore innovation in research in both chemistry and
+allied fields of science and technology.
+5
+
+--- Page 7 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books: -
+1. F. Basalo and R. G. Pearson, Mechanism of Inorganic Reactions, 2nd Edn (1967), Wiley
+Eastern Ltd., New Delhi
+2. D. F. Shriver and P. W. Atkins, Inorganic Chemistry, 3rd Edn. (1999), ELBS, London.
+3. F. A. Cotton and G. Wilkinson, Advanced Inorganic Chemistry, 6th Edn. (1999), John Wiley
+& Sons, New York.
+4. Martin L. Tobe and John Burgess, Inorganic Reaction Mechanisms, Ist Edn. (1999)
+Longmans.
+5. J.E. Huheey, E.A. Keiter and R.L. Keiter, Inorganic Chemistry, 4th Edn. (1993), Addison-
+Wesley Pub. Co., New York.
+6. F.A. Cotton and G. Wilkinson Advanced Inorganic Chemistry, 6th Edn. (1999), John Wiley
+& Sons, New York.
+7. R. S. Drago, Physical Methods in Inorganic Chemistry, International Edn. (1971), Affiliated
+East-West Press, New Delhi
+8. A.K.Das and M.Das Fundamental Concepts of Inorganic Chemistry: Volume 5, 1st Edn
+(2014), CBS Publishers and distributors.
+9. G. L.Geoffrey and M. S. Wrighton, Organometallic Photochemistry, (1979), Academic Press.
+10. K. K. Rohatagi-Mukherjee, Fundamentals of Photochemistry, (1978) Wiley Eastern.
+11. M. S. Wrighton, Inorganic and Organometallic Photochemistry, ACS Pub.,1978.
+12. V. Balzani and V. Carasiti, Photochemistry of Co-ordination compounds, Academic Press,
+1970.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 1 2 2 2 3 - 3
+CO-2 3 2 2 2 2 - 3 - 3
+CO-3 3 - 2 2 2 2 2 2 -
+CO-4 3 3 2 2 3 - 2 - 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 4 2 3
+CO-2 4 - 2
+CO-3 3- 4 3
+CO-4 3 - 2
+6
+
+--- Page 8 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Organic Chemistry-I Code: PCY01B02
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 To focus on the reactive intermediates for designing the organic reactions
+applicable to the fields of medicinal, drug delivery and nanotechnology.
+PEO-2 Understanding the spatial distribution of the molecules helpful for structural-
+properties relationships of organic materials in the context of practical relevance
+of life.
+PEO-3 To analyze the professional needs in applied chemical industry technology
+through the knowledge of day-to-day organic polymers.
+PSOs (Program Specific Objectives):
+PSO-1 To apply the knowledge of reagents and reactions for the development of new
+drug candidates, drug delivery concepts and nano-molecular devices.
+PSO-2 To apply successfully the modern polymers in the high-tech organic materials as
+a part of this course.
+Course Objective
+1. To introduce the knowledge of reagents and reactive intermediates require to carry out wide
+range of organic reactions.
+2. To introduce the fundamentals of stereochemistry to understand the spatial distribution of
+organic molecules during the conversion of some reactant to a product via reactive
+intermediates.
+3. The students will learn about different types of polymers used in day to day life and
+understand their functions as well as see how they are related to things they come across in
+everyday life.
+7
+
+--- Page 9 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Reagents and methods (10 L)
+Classification of organic reaction-Oxidation reactions: Different oxidation processes.
+Reduction: Different reduction processes. Nucleophilic, electrophilic, dissolving metal
+reductions, catalytic reduction- homo- and heterogeneous catalysts. Fucntionalization of
+alkenes-hydroboration, epoxidation and aziridanation.
+(2) Stereochemistry (20 L)
+Molecular symmetry and chirality; stereoisomerism, Atropisomerism, classifications,
+configurational nomenclature, configuration and conformation. Projection formula: Fischer
+sawhorse, Newman and Flying wedge, threo and erythro. Relative and absolute configuration;
+determination of relative configuration: (i) chemical correlation not affecting the chiral atom,
+(ii) chemical correlation affecting bonds to the chiral atom in a ‘known way’ (iii) correlation
+by asymmetric synthesis: Horeaus rule, Prelog’s rule, Cram’s rule (Felkin modification), and
+sharpless rule, (iv) Physical methods: NMR, Mass, IR, dipole moment, ORD, CD, Effect of
+conformation on reactivity in acyclic compounds and cyclohexane derivatives, stereochemistry
+1-2 1-3
+of polycyclic compounds, allylic straqin (A , A ). Enantio- and diastereo-selective
+synthesis.
+(3) Natural products chemistry (15 L)
+Classification, occurrence, isolation and biosynthesis of terpenes, alkoliods, steroids and
+flavonoids. Structure elucidation of the following: Santonin, abetic acids, morphine,
+papavarine, cholesterol, bile acid, apigenin, quercetin.
+Course Outcome
+CO-1 Students will acquire the knowledge of methods of intermediates generation in
+organic chemistry and their importance for the generalization of numerous reactions.
+CO-2 Students will be able to understand the role of stereochemistry during designing the
+organic reactions.
+CO-3 Students will be able to understand the importance of plastics and polymers
+applicable in our everyday life.
+Reference Books:
+1. Smith, Michael B., March, Jerry. March's Advanced Organic Chemistry: Reactions,
+Mechanisms, and Structure, Sixth Edition. ISBN 13: 978-0-471-72091-1. ISBN 10: 0-
+471-72091-7.
+2. Organic Chemistry. Sixth edition (Morrison, Robert Thornton; Boyd, Robert Neilson).
+Mel Mosher. J. Chem. Educ., 1992, 69 (11), p A305.
+3. E.J. Eliel, Stereochemistry of carbon compounds, McGraw Hill.
+4. I. L Finar, Organic chemistry vol.2: Stereochemistry and the Chemistry of Natural
+Products, 5TH Edition, Pearson, 2011.
+8
+
+--- Page 10 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+S- Strong, M-Moderate and W-Weak
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 M M S S S S S
+CO-2 M M S S S S M
+CO-3 M M S S S S S
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2
+CO-1 4 2
+CO-2 4 -
+CO-3 3 4
+9
+
+--- Page 11 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Physical Chemistry-I Code: PCY01B03
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+Acquire the fundamental principles of chemistry with modern experimental and
+PEO-1
+theoretical skills.
+Ability to analyse the problems in the context of practical relevance to the
+PEO-2
+society while maintaining environmental safety and economic factors.
+Enhancing their professional growth along with scientific knowledge through
+PEO-3
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Acquire knowledge for determination of solution conductnace, reaction rate and
+colloidal properties, adsorption, etc.
+PSO-2 Successfully apply the principles which have been learned as a part of this
+course in problems in chemistry and allied discipline.
+PSO-3 Evaluate the energy scenario along with environment related issues in our
+society.
+Course Objective
+1. To introduce the concept of electrochemistry and thermodynamics of electrolytes in
+solution.
+2. To set off the fundamentals of electrolytic double layer and associated phenomena.
+3. Studying this subject the students will learn about the basic aspects of both experimental
+and theoretical reaction dynamics, chemical reactions, and applications
+4. Have accurate idea of adsorption, classifications; interfacial phenomenon and its
+significance and also able to understand the mechanism of different adsorption isotherms;
+5. Describe the preparation, properties and purification of colloids; classify emulsions and
+describe their preparation and properties.
+10
+
+--- Page 12 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+6. Students could develop their skills to correlate theoretical and experimental aspects
+covered in this subject.
+Course Content
+(1) Electrochemistry and Thermodynamics of Electrolytic Solution (15 L):
+Nernst equation; redox-system; electrochemical cells; ion-ion interaction, Kohlrausch’s law of
+independent migration of ions; ionic mobilities; hydration of ions; ionic atmosphere; ionic
+strength; ionic equilibria; Debye-Huckel theory of dilute ionic solution; limiting law and
+Debye-Huckel-Onsagar equation; conductometric and potentiometric titrations; free energy
+and activity; electrode-electrolyte interfaces; electrical double layer at interface-Helmholtz,
+Gouy-Chapman and Stern models; Butler-Volmer equation-derivation and applications, Tafel
+plot.
+(2) Reaction Dynamics (10 L):
+Molecular basis of chemical reaction, potential energy surfaces and reaction dynamics; kinetics
+of different complex reactions; theories of reaction rates-Arrhenius, collision and TS theory;
+general features of reactions of different orders and molecularity, unimolecular, diffusion
+controlled, photochemical reactions and enzyme kinetics; dynamics of electron transfer and
+proton transfer processes; influence of solvents, dielectric constant and ionic strength on
+reaction rates, primary and secondary salt effects, kinetic isotope effect.
+(3) Colloids and Surface Chemistry (20 L):
+Colloids: classification (lyophilic and lyophobic), characteristics, preparation, purification, and
+kinetics: Brownian motion and translation diffusion, osmotic pressure; rotary Brownian
+motion; light scattering and Tyndall effect; liquid-gas and liquid-liquid interfaces; surface and
+interfacial tensions; adsorption and orientation at interfaces; Langmuir adsorption isotherm;
+BET equation for multimolecular adsorption; association colloids-micelle formation,
+spreading; surface films and Langmuir-Blodgett films; solid gas interface; capillary
+condensation; contact angles and wetting; adsorption from solution charged interfaces:
+electrical double layer and electro-kinetic phenomena; colloid stability; lyophobic sols; van der
+Waals forces between colloidal particles; rheology: introduction, viscosity, non-Newtonian
+flow; viscoelasticity; emulsions and foams: oil-in-water and water-in-oil emulsion.
+Course Outcome
+Students will have a clear idea of electrolyte solutions and solution conductivity. Learn
+CO-1 about the thermodynamics of electrochemistry, the structure of the electrode/electrolyte
+interface and electrode processes.
+The students will be able to-
+• identify thermodynamics property of any system to apply it for various systems
+CO-2
+• acquire the knowledge of phase equilibria for various systems
+• get knowledge about various electrochemical phenomena
+Students will have the basic concepts on both experimental and theoretical reaction
+CO-3
+dynamics; potential energy surface.
+After studying these topic students will acquire knowledge of surface phenomena,
+CO-4
+adsorption.
+Students will have the basic concepts including adsorption, colloids, emulsions.
+CO-5
+CO-6 Comprehend idea about the synthesis and applications of surfactants and micelles.
+11
+
+--- Page 13 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. Modern Electrochemistry, Vol. I and Vol. II, J.O.M. Bockris and A. K. N. Reddy, Plenum.
+2. An Introduction to Electrochemistry, Samuel Glasstone, 2016, EWP.
+3. Chemical Kinetics, K. J. Laidler, McGraw Hill.
+4. Foundation of Chemical Kinetics S. W. Benson MGH, 1982.
+5. Micelles, Theoretical and Applied Aspects, Y. Moroi, Plenum.
+6. Colloid and Interface Science, Pallab Ghosh, PHI Learning Pvt. Ltd., 2009.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 1 1 1 2 2 - -
+CO-2 2 2 2 2 2 2 2 - -
+CO-3 2 1 2 2 3 2 2 - -
+CO-4 2 2 3 2 3 3 - - 3
+CO-5 1 2 2 2 3 3 - 2 -
+CO-6 3 3 3 - 2 3 - 2 -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 2 - -
+CO-6 - - -
+12
+
+--- Page 14 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Analytical and Environmental Chemistry Code: PCY01B04
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of Chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing the professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn basic principles of chromatography, TGA, DTA, polarography etc and be
+familiar with practical aspect of each technique
+PSO-2 Gain knowledge about the foremost Environmental problems and analysis of
+pollutant
+PSO-3 Evaluate the environment related issues in our society.
+Course Objective
+(i) To relate the conceptual understanding of the basic principles and application of some
+separation methods in Chemistry
+(ii) To understand about the phases of thermal degradation outlines of materials using various
+types of thermal systems like TGA, DTA, DSC, etc. and basic conception about different
+theoretical concept and their applications
+(iii) Comprehensive knowledge and broad understanding of environment.
+(iv) Diagnose diverse kinds of toxicity in the environment and their control.
+13
+
+--- Page 15 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Analytical Chemistry (15 L):
+(i) Chromatography: general principles, methods and applications of column (adsorption
+and partition), paper chromatography, paper electrophoresis, thin layer chromatography, gas
+chromatography (GC), high performance liquid chromatography (HPLC), supercritical fluid
+chromatography, size-exclusion chromatography, ion exchange chromatography and chiral
+chromatography.
+(ii) Thermal methods: Theory, methodology and applications of thermogravimetric analysis
+(TGA), Differential Thermal Analysis (DTA), and Differential scanning calorimetry (DSC).
+Principles, techniques and applications of thermometric titration methods.
+(iii) Polarography: Origin of polargraphy, Current-voltage relationship, Theory of
+polarographic waves Instrumentation, Ilkovic equation, Qualitative and quantitative
+applications.
+(2) Environmental Chemistry (30 L):
+(i) Chemistry of the Environment: Environmental terminology and nomenclatures,
+Environmental segments, The natural cycles of environment (Hydrological, Oxygen,
+Nitrogen). Ecological balance and planning of Industrial complexes. Reactions in living
+systems. Bioreactors. Biochemical process in industries.
+(ii) Chemical Toxicology: Toxic chemicals in the environments, Impact of toxic chemicals on
+enzymes. Biochemical effects of arsenic, cadmium, lead, mercury, carbon monoxide, nitrogen
+oxides, sulphur oxides.
+(iii) Air Pollution: Particulates, Aerosols, SOx, NOx, COx, hydrocarbon and halogens
+Photochemical smog, sulphurous smog, Suspended Particulate Matter (SPM) sampler,
+Chemistry of ozone layer and Air-quality standards.
+(iv) Water Pollution: Water-quality parameters and standards: physical and chemical
+parameters, Dissolved oxygen, BOD, COD, Total organic carbon, Total nitrogen, Total sulfur,
+Total phosphorus, Chlorine, Pesticides and heavy metals as water pollutants.
+(v) Soil pollution: Inorganic and organic components in soil, acid-base and ion-exchange
+reactions in soil, micro and macro nutrients, nitrogen pathways and NPK in soil and some
+important pollutants in soil.
+(vi) Social issues and Environment Law: Solid waste management, disaster management,
+Environment protection act, Wildlife protection act, Forest conservation act, Environmental
+issues in legislation.
+Course Outcome
+CO-1 Understand the basic principles associated with chromatography and discuss how
+these are applied to the various specific applications of chromatography
+CO-2 Resolve the problems established on numerous thermal concepts, design
+experiments with accurate data handling and analysis, and analyze several
+thermodynamic parameters.
+CO-3 Diagnose different types of toxicity in the environment and their control.
+CO-4 Able to recognize the Greenhouse effect, water and air pollution, etc. and to make
+conscious society about environmental pollution.
+14
+
+--- Page 16 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. G. D. Christian, Analytical Chemistry, 5th Edition (1994), John Wiley & Sons, New York.
+2. D.A. Skoog, Principles of Instrumental Analysis, 5th Edition (1998), Saunders College
+Publishing, Philadelphia, London.
+3. G.W. Ewing, Instrumental Methods of Chemical Analysis, 5th Edition (1978), McGraw Hill
+Books Co., New York.
+4. J.H. Kennedy, Analytical Chemistry: Principles, 2nd Edition (1990), Saunders Holt,
+London.
+5. R.L. Pecsok, L. D. Shields, T. Cairns and L.C. Mc William, Modern Methods of Chemical
+Analysis, 2nd Edition (1976), John Wiley, New York.
+6. F.W. Fifield and W.P.J. Hairens, Environmental Analytical Chemistry, 2nd Edition (2000),
+Black Well Science Ltd.
+7. A.K. Das and M.Das Environmental Chemistry with green Chemistry 1st Edition (2015),
+Books and allied(P) Ltd.
+8. S.K. Banerji, Environmental Chemistry, 1st Edition (1993), Prentice-Hall of India, New
+Delhi.
+9. S.M. Khopkar, Environmental Pollution Analysis, 1st Edition (1993), Wiley Estern Ltd.,
+New Delhi
+10. A.K. De, Environmental Chemistry, 4th Edition (2000), New Age International Private
+Ltd.,New Delhi.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO- PO- PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 1 O-2 -3
+CO-1 3 2 2 - - 2 2 2 -
+CO-2 2 2 3 2 2 2 - 2
+CO-3 2 - 2 - - - 2 - 2
+CO-4 2 - 2 - 3 2 2 2 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 3 4 2
+CO-2 3 2 3
+CO-3 4 2 2
+CO-4 4 2 2
+15
+
+--- Page 17 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Organic Chemistry Laboratory Code: PCY01P02
+L-T-P: 0-0-6 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-4 Apply reasoning informed by the contextual knowledge to assess societal, health,
+safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental knowledge for handling organic practical experiments.
+PEO-2 To train the students with modern practical skill for understanding the organic
+chemistry.
+PEO-3 Enhancing their professional growth along with scientific knowledge through practical
+skill and to innovate for further research.
+PSOs (Program Specific Objectives):
+PSO-1 Enhance their practical knowledge for carrying out organic experiments which are
+relevant and important to modern chemistry.
+PSO-2 To acquire the fundamental practical skills for the understanding of organic
+chemistry.
+PSO-3 Students can acquire the knowledge of organic chemistry through organic
+experiments keeping the environmental safety of hazards chemicals and to
+familiarize with the practical skills for conducting experiments relevant to the
+commercial important compounds.
+Course Objective
+(1) To familiarize with the practical knowledge of organic Chemistry
+(2) To develop practical skill for the identification of organic compounds, preparation of
+organic compounds which are useful to our daily life.
+(3) To train the students, the art for the estimation of organic common organic compounds.
+(4) Students will also learn techniques for the separation of organic compounds using TLC and
+column chromatography techniques.
+16
+
+--- Page 18 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+1. Systematic qualitative analysis of an organic compound and identification of the compound
+by preparing their suitable derivatives.
+a. Detection of the following functional groups in an unknown organic compound by
+systematic chemical test : –NH - CONH , –OH, –CHO , >C=O , –COOH
+2 2
+b. Preparation, purification and melting point determination of a crystalline derivative of the
+given compound.
+2. Organic Preparation:-
+i) p-Bromoaniline from p-bromoacetanilide.
+ii) Phenyl benzoate from Phenol.
+iii) β-Naphthyl benzoate from β-naphthol.
+iv) Preparation of Benzanilide from aniline.
+v) Benzoic acid from benzamide
+vi)Benzilic acid from benzoin
+vii)Benzil from benzoin
+viii) Methyl orange from sulphanilic acid
+ix) Picric acid from phenol
+3. Estimation of aniline, quantitative estimation of glucose from Fehling’s solution.
+4. Chromatographic methods of analysis:
+Separation techniques by TLC and column chromatography:
+a. Separation of aminoacides (dl-alanine, Tryptophan, Phenylalanine, leucine, Serine,
+Cystine, Aspartic acid etc.) by TLC.
+b. Column chromatography separation of leaf pigments from spinach leaves.
+c. Separation and identification of mixture of benzoin and benzil by column
+chromatography
+d. Separation of mixture of dyes (fluorescein and methylene blue) by TLC
+e. Separation of mixture of dyes (fluorescein and methylene blue) by column
+chromatography.
+17
+
+--- Page 19 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Outcome
+CO-1 To determine functional group and identify an unknown organic compound
+preparing suitable derivatives.
+CO-2 To prepare various important organic compounds through their practical skill
+and acquire the understanding for the mechanism of the reaction
+CO-3 To perform the estimation of some important common organic compounds which
+are relevant and important to daily use.
+CO-4 To acquire the fundamental knowledge for the separation of mixture of organic
+compounds by TLC and Column chromatography and apply the principles of
+chromatography for the separation of organic compound mixtures.
+Reference Books:
+1. An Advanced Course in Practical Chemistry
+2. Vogel's Textbook of Practical Organic Chemis,t rAy. 5Kth. NEaddit,i oBn., M20a0h5a,p Paetarras,o An.. Ghoshal, New
+3 . FC.eGn.t Mraal nBno,o Pkr Aacgteicnacly O Prvgta. nLitcd C., hKeomlkisattray, 42t0h1 E6d. ition, Pearson.
+4. Techniques and Experiments for Organic Chemistry, by Addison Ault, University Science
+book, 6th edition.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-”
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 1 2 1 2 3 2 2 2 2
+CO-2 2 3 2 2 3 2 2 - 3
+CO-3 2 2 2 2 3 3 2 2 2
+CO-4 2 3 3 2 3 3 2 - 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-”
+CO PSO-1 PSO-2 PSO-3
+CO-1 2 3 2
+CO-2 - 2 3
+CO-3 3 2 -
+CO-4 3 3 3
+18
+
+--- Page 20 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Second Semester
+19
+
+--- Page 21 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Inorganic Chemistry-II Code: PCY02B05
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Obtain the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyse the problems such as construction of artificial leaf, used of
+metal ion in drug in the context of practical relevance to the socio-economical and
+environmentally being system.
+PEO-3 Improving their professional progress along with scientific knowledge continuing
+through which will be helpful for higher studies.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 To acquire knowledge about the basic properties of organometallic compounds,
+their uses as catalyst in various industrial applications.
+PSO-2 Successfully apply the principles of chemistry of coordination complexes to
+understand functions of biological systems
+PSO-3 To pursue higher education along with R&D accomplishments.
+Course Objective
+(i) To deliver the basic understanding of organometallic chemistry along with mentioning the
+structures, bonding, reactivity and use of organometallic compounds.
+(ii) To provide the role of several organometallic catalysts and their mechanism and their
+potential application in Industry.
+(iii) To bring the role of metal complexes to empathetic functions of biological systems like
+recognize the active site structure along with functions of some metal ion containing
+metalloproteins and enzymes
+(iv) To providing a thorough knowledge of bioinorganic chemistry as the current areas of
+research interest.
+20
+
+--- Page 22 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Organometallic Chemistry (24 L):
+Metal Carbonyls and related compounds: Classification; 18 electron rule, 16-electron rule,
+π-complexes, heptacity, isolobal and isoelectronic relationship; Preparation, structure, and
+properties: bonding in metal carbonyl, nitrosyl, phosphine, alkyl, complexes; vibrational
+spectra, non-transition organometallics.
+Reactions of transition metal complexes: Reaction of organometallic compounds by
+oxidative addition, reductive elimination, insertion, hydrogenation, carbonylation,
+hydroformylation and polymerization.
+Complexes of unsaturated molecules: Preparation, bonding and structure of alkene, alkyne,
+allyl, dienyl, trienyl and aryl complexes; Fischer and Schrock carbene and carbyne complexes,
+fluxionally and dynamic equillibria, metallocenes.
+Applications in catalysis: Hydrogenation, Zeigler-Natta polymerization, hydrocarbonylation,
+hydroformylation of olefins using cobalt or rhodium catalysts (Oxo process). Fischer-Tropsch
+synthesis and Wacker Process catalyst.
+(2) Bio-inorganic Chemistry (21 L):
+Role of metal ions in biological processes: General introduction about essential and trace
+metal ions and their role in biological systems and Na+/K+ pump.
+Metalloproteins and metalloenzymes: Biochemistry of iron and copper: Dioxygen binding,
+transport and storage through Hemoglobin, Myoglobin, Hemerythrin, and Hemocyanin; Blue
+copper proteins: Type 1, Type 2, and Type 3 copper centers in O2 activating proteins; Metal-
+sulfide proteins: Ferredoxin and Nitrogenase; Nitrate and nitrite reduction (NO - and NO -
+3 2
+reductase Metalloporphyrins and respiration-Cytochromes; Metals at the center of
+photosynthesis: Magnesium and Manganese; Metalloenzymes: Carbonic anhydrase,
+carboxypeptidases, alcohol dehydrogenase and vitamin B12; Ion transport across membrane;
+Urease, hydrogenase, Anti-oxidative functions, Synthetic models of iron-sulfur proteins;
+molybdo-enzymes–molybdenum cofactors (molybdenum-pterin complexes); Ferritin,
+transferritin and hemosiderin; DNA probe and chemotherapeutic agents.
+Course Outcome
+CO-1 Students will understand the important and elementary features of organometallic
+chemistry.
+CO-2 Students will acquire the knowledge about the interdisciplinary character of
+organometallic chemistry and the industrial prospect of organometallic chemistry
+CO-3 Students will learn principles of chemistry of coordination complexes to understand
+functions of biological systems.
+CO-4 Students will aware with the broad subject areas of organometallic compound and
+bio-inorganic it will help them with their project as well as research purpose
+21
+
+--- Page 23 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. D. F. Shriver and P. W. Atkins, Inorganic Chemistry, 5th Edn. (1999), ELBS, London.
+2. F. A. Cotton and G. Wilkinson, Advanced Inorganic Chemistry, 6th Edn. (1999), John
+Wiley & Sons, New York.
+3. J. E. Huheey, E. A. Keiter and R. L. Keiter, Inorganic Chemistry, 4th Edn. (1993), Addison-
+Wesley Pub. Co., New York.
+4. R. H. Crabtree, The organometallic chemistry of the transition metals, 5th Edn. (2012),
+Wiley.
+5. B. D. Gupta and Anil J. Elias, Basic organometalli chemistry: concepts, syntheses, and
+applications of transition metals, 1st Edn. (2010) Crc Press.
+6. A. K. Das and M. Das Fundamental Concepts of Inorganic Chemistry: Volume 6, 1st Edn
+(2014), CBS Publishers and distributors.
+7. I. Bertini, H. B. Grey, S. J. Lippard and J. S. Valentine, Bioinorganic Chemistry, Viva
+Books Pvt. Ltd., New Delhi (1998)
+8. S. J. Lippard and J. M. Berg, Principles of Bioinorganic Chemistry, University Science
+Books, (1994).
+9. A. K. Das, Bioinorganic Chemistry Books & Allied, Kolkata, (2007).
+10. W. Kaim and B. Schwederski, Bioinorganic Chemistry: Inorganic Elements in the
+Chemistry of Life, An Introduction and Guide, Wiley, New York (1995)
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 2 1 2 2 3 - 3
+CO-2 2 2 2 - 3 - 3 - 3
+CO-3 3 - - 2 - 3 2 - -
+CO-4 2 3 2 - 3 3 2 - 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 4 2 3
+CO-2 4 - 2
+CO-3 3 4 3
+CO-4 3 - 2
+22
+
+--- Page 24 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Organic Chemistry-II Code: PCY02B06
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Apply reasoning informed by the contextual knowledge to assess societal, health,
+safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives)
+PEO-1 To focus on reaction design and methodology development in the fields of
+medicinal technology, molecular nanotechnology and energy related sciences.
+PEO-2 Understanding the structure, properties, and reactions of organic materials in the
+context of practical relevance all earthly life.
+PEO-3 Analyzing the professional needs in applied chemical industry technology through
+the knowledge of day-to-day organic molecules.
+PSOs (Program Specific Objectives)
+PSO-1 To apply the knowledge of new advanced chemicals, reagents, catalysts in the
+development of new drug candidates, drug delivery concepts and nano-molecular
+devices.
+PSO-2 Successfully apply many modern, high-tech organic materials as a part of this
+course.
+Course Objective
+1. To introduce the knowledge of Heterocyclic compunds which have a wide range of
+application as pharmaceuticals, agrochemicals and as veterinary products. Students will learn
+and find applications as sentizers, developers, antioxidants, as corrosion inhibitors, as
+copolymers, dyestuff , etc.
+2. To introduce the fundamentals of any chemical substance produced during the conversion of
+some reactant to a product via reactive intermediates.
+3. The students will learn how important enzymes are by functioning as a catalyst in most all
+biological processes. In learning about the functions of enzymes, they will also see how they
+are related to things they come across in everyday life.
+23
+
+--- Page 25 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Heterocyclic Chemistry (15 L):
+Nomenclature and classification of heterocyclic compounds. Synthesis, physical and chemical
+properties of pyrimidines, purines, oxazoles, iso-oxazoles, thiazoles and iso-thiazoles,
+pyrazoles, imidazoles and cumarines.
+(2) Chemistry of reactive intermediate (10 L):
+Classical and non classical carbocations and carbanions; radicals, radical cations, radical
+anions, carbenes, arenes and nitrenes, benzynes. General methods of generation, detection,
+stability, reactivity and structure of intermediate.
+(3) Enzyme Chemistry (20 L):
+Chemical and biological catalysts. Enzymes- nomenclature and classification, structure and
+theories of enzyme specificity. Michaelis Menten equation, Effects of pH and temperature on
+enzymatic activity, Types of enzyme inhibition, Factors influencing catalytic efficiency of
+enzymes. Different types of enzyme catalyzed reactions. Enzyme mechanisms of
+chymotripsin, ribonuclease, lysozyme and carboxypeptidase-A. Co-enzyme chemistry.
+Enzyme models: Host-guest chemistry, Molecular Interactions in Molecular Recognition,
+molecular asymmetry and prochirality, crown ether, cryptates, cyclodextrins and calixarin.
+Course Outcome
+CO-1 To predict the structure and properties of natural products in the pharmaceutical and
+related sciences with a background in the field of organic molecules.
+CO-2 Students will be able to identify the role of enzymes in the everyday life.
+CO-3 Students will acquire the knowledge of methods of intermediates generation in organic
+chemistry and their importance for the generalization of numerous reactions.
+Reference Books:
+1. Smith, Michael B., March, Jerry. March's Advanced Organic Chemistry: Reactions,
+Mechanisms, and Structure, Sixth Edition. ISBN 13: 978-0-471-72091-1. ISBN 10: 0-471
+72091-7.
+2. Carey F. A. and Sundberg R. J., Advanced Organic Chemistry, Parts A & B , Plenum, U.S.,
+2004.
+3. March J, Advanced Organic Chemistry, John Wiley , 1992.
+4. Colin Suckling, Enzyme Chemistry: Impact and Applications, Springer; 2nd ed. 1990.
+Softcover reprint of the original 2nd ed. 1990 edition (11 November 2011).
+24
+
+--- Page 26 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+S- Strong, M-Moderate and W-Weak
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 S M M M M M M - -
+CO-2 - M - M - M S - -
+CO-3 M - S - S S S - -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2
+CO-1 4 2
+CO-2 4 -
+CO-3 3 4
+25
+
+--- Page 27 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Physical Chemistry-II Code: PCY02B07
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):.
+PEO-1 Acquire the fundamental principles of Quantum Chemistry, Photo-Chemistry and
+Equilibrium Thermodynamics with modern experimental and theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Apply their knowledge to develop theoretical insight of engine, behaviour of tiny
+particle and photo-physical properties of molecules.
+PSO-2 Successfully apply the principles of quantum mechanics, photochemistry and
+equilibrium thermodynamics for various engineering materials which have been
+learned as a part of this course.
+PSO-3 Evaluate the energy scenario along with environment related issues in our society.
+Course Objective
+1. Connect the historical development of quantum mechanics with previous knowledge and
+learn the basic properties of quantum world.
+2. Understand and explain the differences between classical and quantum mechanics
+3. Solve Schrodinger equation for simple potentials.
+4. Describe and explain photochemical and photophysical processes and mechanisms with
+suitable theoretical models, and apply established experimental methods for the
+investigation of these processes.
+5. Describe the interaction of excited states with their surroundings and analyse photoinduced
+electron transfer and excitation energy transfer with quantitative models.
+26
+
+--- Page 28 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+6. Familiarity with basic concepts in solution thermodynamics, and an ability to relate the
+characteristics and relative energies of different liquid and solid solutions to the phase
+diagram of the system.
+Course Content
+1) Quantum Chemistry (10 L):
+Fundamentals of quantum mechanics: basic postulates, operators; time-independent and time-
+dependent Schrödinger equation; exactly solvable systems; particle in a box of various
+dimensions and tunnelling; harmonic oscillator; rigid rotator; hydrogen atom-wave functions
+including shapes of atomic orbitals; orbital and spin angular momenta; Pauli exclusion
+principle, Zeeman effect, spin-orbit coupling.
+2) Photochemistry (15 L):
+Interaction of electromagnetic radiation with matter; Jablönski diagram; absorption
+spectroscopy: Lambert-Beers law; fluorescence and phosphorescence: Stokes shift, mirror-
+image rule, lifetimes and quantum yields; fluorescence polarization and anisotropy; solvent
+relaxation; excited state acidity and basicity; fluorescence quenching: mechanism & dynamics;
+specific and non-specific interactions between fluorophor and solvent; excimer and exciplex;
+biochemical applications of environment sensitive fluorescent probes (photosynthesis, etc.).
+3) Group Theory and Spectroscopy (20 L):
+Symmetry and group theory: Properties of group, subgroup and class, symmetry elements and
+operations, point groups, matrix representation of groups, operators and basis functions,
+similarity transformation, reducible and irreducible representations, Great orthogonality
+theorem and its consequences, character table, Projection operators and its
+applications. Hybridization schemes for σ-orbital, hybridization schemes for π-bonding for
+AB type molecules. Molecular rotational and vibrational spectroscopy: Rotations and
+n
+vibrations of diatomic and polyatomic molecules, internal coordinates, normal modes and their
+symmetry, selection rules for fundamental vibrational transition.
+Course Outcome
+CO-1 Student will acquire the knowledge about the theoretical
+chemistry is important because it uses math and physics to predict events.
+CO-2 Students will obtain a proper idea about group theory which is the study of
+symmetry.
+CO-3 Student will easily dealing with an object that appears symmetric, group theory can
+help with the analysis which stays invariant under some transformations.
+CO-4 Students will have proper idea why and how the formation of laser light is only
+possible through photochemistry which contain monochromatic rays with coherent
+radiations and only for this property, LASER light is used for cutting hard material
+like metal, diamond etc, also there is some application of LASER light in medical
+field.
+CO-5 After studying this course they will able to find out how and why Fluorescence
+spectroscopy become an excellent diagnostic as well as excellent research tool in
+medical microbiology field, in food analysis, forensic science.
+CO-6 Medical diagnosis, medical science etc with high sensitivity and specificity.
+27
+
+--- Page 29 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. D.A. McQuarrie, Quantum Chemistry, OUP (1983).
+2. P.W. Atkins et al Molecular Quantum Mechanics, OUP, 1998.
+3. R. K. Prasad, Quantum Chemistry, New Age International, New Delhi, 19974.
+4. Fundamentals of Molecular Spectroscopy, C.N. Banwell, E.M. McCash, 4th Edn.,
+McGraw-Hill.
+5. Chemical Applications of Group Theory, F.A.Cotton, 3ed, Wiley.
+6. Group Theory and Quantum Mechanics, M. Tinkham, McGraw Hill, 1964.
+7. A. S. Kunju, G. Krishnan, Group Theory and its Applications in Chemistry, PHI
+Learning Pvt. Ltd., 2008.
+8. P. W. Atkins – Physical Chemistry, 7th Edn. Oxford (2000).
+9. I. N. Levine, Physical Chemistry, 5th Edn., McGraw Hill, New Delhi, 1995.
+10. Physical Chemistry, G.W. Castellan, 3rd Edn. Addison Wesley.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+3 2 - - - - 2 - -
+CO-1
+- 2 - 3 2 - 2 - -
+CO-2
+- - - - - 2 2 - -
+CO-3
+- - - 3 2 - - - 3
+CO-4
+- 2 2 - - - - 2 -
+CO-5
+- - - 3 3 3 - 2 -
+CO-6
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 2 - -
+CO-6 - - -
+28
+
+--- Page 30 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Biochemistry Code: PCY02B08
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 To embody a fundamental approach to the chemistry of life and convey the strongly
+unifying contribution of biochemistry and molecular biology to other scientific disciplines.
+PEO-2 To provide a significant input in clinical care and provide significant opportunities for
+research and development at both clinical and laboratory level, whether a student is
+scientifically or medically qualified.
+PEO-3 To enrich the students about the chemical processes within and relating to living
+organisms.
+PSOs (Program Specific Objectives):
+PSO-1 To teach how scientific reasoning can be applied to clinical decision making, and provides
+a framework for solving clinical problems that require molecular insights.
+PSO-2 To provide valuable knowledge with respect to the complex molecular relationship which
+allows to sustain life.
+Course Objective
+1. To allow the understanding of processes involved in cell aging and death.
+2. To confer the knowledge on the process of energy transformation in living beings and
+signaling mechanisms, as well as providing necessary knowledge to be able to understand
+scientific and technological research.
+3. To provide a good platform with solid knowledge in biochemistry for scientific and
+technological advances and its importance in pharmaceutical development
+29
+
+--- Page 31 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Amino acids and peptides (10 L)
+Amino acids: Introduction, isoelectric point, ninhydrin reaction. Peptides: peptide linkage,
+synthesis of peptides using N-protection and C-protection, solid phase peptide synthesis,
+determination of peptide sequence using Dansyl chloride, Edman’s reagent, Sanger’s reagent
+and carboxypeptidase. Primary, secondary, tertiary and quaternary structure of proteins.
+(2) Nucleic acids (10 L)
+Purine and pyrimidine bases of nucleic acids, base pairing via H-bonding. Structure of RNA
+and DNA, nucleoside and nucleotide, double helix model of DNA and forces responsible for
+holding it. Chemical and enzymatic hydrolysis of nucleic acids. Chemical synthesis of mono
+and trinucleoside. Denaturation and renaturation of DNA strands, cellular RNAs and their
+functions.
+(3) Lipids: (10 L)
+Classification of lipids, fatty acids- essential fatty acids, structure, properties and function of
+triacyl-glycerols, phosphoglycerides,sphingolipids,cholesterol, prostaglandins. Lipoproteins-
+composition and function, role in atherosclerosis. Properties of lipid aggregates – micelles,
+bilayers, liposomes and their possible biological functions. Biological membrane. Fluid mosaic
+model of membrane structure.
+(4) Carbohydrates (20 L)
+Conformation of monosaccharides, structure and functions of important monosaccharides like
+glycosides, deoxy sugars, myoinositol amino sugars. N-acetylmuramic acid, sialic acid,
+disaccharides and polysaccharides. Structural polysaccharides–cellulose and chitin.Storage
+polysaccharides - starch and glycogen. Acetonation reaction of D-glucose, Structure and
+biological functions of glucosaminoglycans or mucopolysaccharides. Carbohydrates of
+glycoproteins and glycolipids. Role of sugars in biological recognition. Blood group
+substances. Ascorbic acid.
+Course Outcome
+CO-1 Students will be able to know the fact of being acquainted and understanding each of
+the events which allow proper functioning of life and will understand the fact that any
+alteration of these processes result in the different disorders which afflict living things.
+CO-2 Understanding of disease and tissue and how biomedical sciences lead to therapeutic
+advances under different circumstances in any clinical discipline.
+CO-3 Students will dive into drug development and screening and learn about the various
+ways for drug screening such as top-down and bottom-up methods.
+Reference Books:
+1. Lehninger Principles of Biochemistry, by Albert L. Lehninger, David L. Nelson, Michael M.
+Cox. Fourth Edition, 1119 pages.
+2. Biochemistry, by Jeremy M. Berg, John L. Tymoczko, Lubert Stryer.
+3. Essentials of Chemical Biology, A. Miller and J. Tanner, Wiley and Sons, 2008.
+30
+
+--- Page 32 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+S- Strong, M-Moderate and W-Weak
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 S M - M M M M - -
+CO-2 - M - - - S M - -
+CO-3 - - M M M S M - -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2
+CO-1 4 2
+CO-2 4 -
+CO-3 3 4
+31
+
+--- Page 33 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Physical Chemistry Laboratory Code: PCY02P03
+L-T-P: 0-0-6 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-6 Function effectively as an individual, and as a member or leader in diverse teams, and
+in multidisciplinary settings.
+PEOs (Program Educational Objectives):
+PEO-1 Adapt to work with new experiments, assimilate updated information, and be able
+to solve complex problems based on practical physical chemistry.
+PEO-2 Learn the fundamental applications of physical chemistry through experimental
+techniques using modern state-of-the-art equipment.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Prepare themselves for their higher studies by learning good laboratory practices
+using the modern methods and techniques, while simultaneously develop
+professional skills to be able to work in chemical and other industries requiring
+knowledge/experience of practical physical chemistry.
+PSO-2 Successfully apply their practical experience to analytically determine/estimate
+amount of substances in water, their physical properties, among others.
+Course Objective
+1. Students will learn the ethics and acquire training required for physical chemistry
+laboratory.
+2. The practicals have been designed such that the students develop knack for learning physical
+chemistry in their theory courses. In addition, the concepts that they learn in theory could be
+augmented due to their laboratory experiments, data collection, and calculation.
+3. To introduce the students to the modern experiments that not just help to enhance their
+knowledge on the laws of physical chemistry but seek to solve problems at international,
+national and regional level based on practical physical chemistry.
+4. Eventually, the course should be able to make students think rationally in their encounter
+with problems requiring knowledge of physical chemistry laboratory experience and
+training.
+32
+
+--- Page 34 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+PART A: Experimental
+1) Determination of rate constant of alkaline hydrolysis of ethyl acetate, and determination of
+activation parameters, effect of ionic strength.
+2) Determination of partition coefficient of benzoic acid between water and benzene.
+3) Kinetics of acid hydrolysis of an ester.
+4) Determination of the order of saponification for the reaction of ethyl acetate with sodium
+hydroxide, conductometrically.
+5) Solvent effect and salt effect on the kinetics of alkaline hydrolysis of crystal violet.
+6) Determination of standard electrode potential of AgCl-Ag electrode and evaluation of mean
+activity coefficient of HCl.
+7) Determination of specific rotation of cane sugar and determination of composition of a
+sugar solution of unknown strength.
+8) Solvent and micellar effect on the fluorescence of 1-naphthol and determination of CMC of
+a surfactant.
+9) Potentiometric titration of ferrous ammonium sulphate using KMnO /K Cr O
+4 2 2 7
+as standard and determination of the redox potential of Fe3+/Fe2+ system on the hydrogen
+scale.
+10) Kinetics of reaction I- + S O 2- by colorimetric method.
+2 8
+11) Adsorption of acetic acid on charcoal and validity of Frendlich’s
+adsorption isotherm.
+12) Conductometric titration of triple mixture KCl, NH Cl, HCl by NaOH and AgNO .
+4 3
+13) Preparation of Ag, Cu nanoparticles and characterization using UV-Vis spectrophotometer.
+14) Determination of the formula of cuproammonium ion using UV-Vis spectrophotometer.
+15) Verification of Beer-Lambert’s law and determination of pKa of an indicator,
+spectrophotometrically in homogeneous and heterogeneous media.
+PART B: Computational
+1) Modelling of interactions involving macrobodies like planar surfaces, macrospheres, etc.
+2) Structure optimization and conformational analysis using ab initio molecular orbital theory.
+3) Thermochemistry in different QM model chemistries.
+4) Tautomeric preferences and solvent effects.
+5) Stereoselectivity in Diels-Alder reactions.
+6) Flexible models and calculation of force constants.
+7) Structural and dielectric properties of a polar medium: Continuum models versus molecular
+models.
+8) Calculation of structure, energy and free energy through simulations using molecular
+models.
+9) Molecular docking of biomolecules.
+10) Potential energy surfaces and optimization methods using Gaussian.
+Course Outcome
+CO-1 By the end of the course, the student should have acquired hands-on training on
+physical chemistry practicals which would go on to help them in their academic
+and research career.
+CO-2 They have acquired basic knowledge and mastered the art of handling modern
+equipments and developing computational skills for advanced practicals and
+research.
+CO-3 They should be able to apply their knowledge in other disciplines and for solving
+complex problems facing mankind in daily life.
+33
+
+--- Page 35 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. Experiments in Physical Chemistry J.C. Ghosh, Bharati Bhavan 1974,New Delhi
+2. Advanced experimental chemistry (Physical) J.N.Gurtu, & NR Kapoor, S.C. Company 1980
+3. Laboratory Manual in Physical Chemistry WJ Popiel, ELBS 1970
+4. Advanced Practical in Physical Chemstry JB Yadav, Pragati Prakasan Meerut
+5. Practical Physical Chemistry, A. M. James and F. E. Prichard, Longman.
+6. D. P. Shoemaker, C. W. Garland & J. W. Nibler. Experiments in Physical Chemistry (5th
+edn.), McGraw Hill (1989).
+7. A.R. Leach, Molecular Modelling : Principles and Applications, Longman (1996).
+8. T. Schlick, Molecular Modelling and Simulation, Springer (2006).
+9. P.W. Atkins, Molecular Quantum Mechanics, Oxford (1997).
+10. J. Israelachvili, Intermolecular and surface Forces, Academic (1991).
+11. C.L. Brooks III, M.Karplus, B.M. Pettitt, Proteins: A theoretical Perspective of Dynamics,
+Structure and Thermodynamics, John Wiley (1988).
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 2 2 3 2 3 2 2 - -
+CO-2 - 2 3 3 3 2 2 - -
+CO-3 - - - 3 3 3 2 - -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2
+CO-1 - 4
+CO-2 - -
+CO-3 4 -
+34
+
+--- Page 36 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Third Semester
+35
+
+--- Page 37 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Inorganic Chemistry-III Code: PCY03B09
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Obtain the elementary idea about essentials and application of existing chemical
+and scientific theories.
+PEO-2 Understand the essential role of Inorganic Chemistry in our society.
+PEO-3 Ability to explore innovative filed of research in both chemistry and allied fields
+of science and technology.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Ability to understand elementary knowledge and fundamentals application of
+Inorganic Chemistry to understand properties of late transition elements and cluster
+compounds.
+PSO-2 Impart the background knowledge on solid state chemistry and inorganic cluster
+for various applications
+PSO-3 Prospects to excel in academics, research or Industry.
+Course Objective
+(i) The course provides chemistry of main group elements and f-block elements and the
+separation method of lanthanides and actinides.
+(ii) Explain about preparation, properties and structure of Heteropoly and Isopoly acids
+(iii) Predict the structural stability of several metal clusters by polyhedral skeletal electron pair
+theory and applications of Metallaboranes/Metallacarboranes as catalysts for different type
+of chemical reactions.
+(iv) Understand the solid state chemistry, crystal structures of various ionic compound, defects
+and explain the electronic properties and band theory of insulator, conductors and
+semiconductors.
+36
+
+--- Page 38 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+1) Chemistry of transition elements (10 L):
+Comparative study of d- and f-block Elements: A general treatment of the d-block elements;
+A general treatment of the Chemistry of lanthanides, positioning the periodic table; electronic
+configuration, lanthanide contraction, extraction; oxidation states, spectral and magnetic
+properties.
+Electronic structure, ionic radii, oxidation state, spectra and paramagnetic properties of
+actinides elements, actinide hypothesis, a brief chemistry of uranium and thorium, isolation of
+neptunium, plutonium and americium and their aqueous chemistry.
+2) Cage and Cluster Compounds and Inorganic Polymer (20L):
+Boranes and Metal Clusters: Types and IUPAC nomenclature; Wade’s polyhedral skeleton
+electron pair theory (PSEPT); W. N. Lipscomb’s styx rules and semi-topological structures of
+boranes. Equivalent and resonance structures; Wade’s vs Lipscomb’s methods of studying
+higher boranes; heteroboranes, metallaboranes, metallacarboranes, applications of PSEPT over
+heteroboranes; Metal-metal bonds. Concept of quadrupolar bond and its comparison with a C-
+C bond; Types of metal clusters and multiplicity of M-M bonds. Simple and condensed metal
+carbonyl clusters. Applications of PSEPT and Wade’s-Mingo’s and Lauhr’s rule over metal
+carbonyl clusters. Metal halide and metal chalcogenide clusters: Bloomington schuffle in
+dinuclear tungsten clusters
+Inorganic Polymers: Classification, Types of Inorganic Polymerization, Comparison with
+organic polymers, Boron-oxygen and boron-nitrogen polymers, silicones, coordination
+polymers, sulphur-nitrogen, sulphur-nitrogen-fluorine compounds, phosphorous-nitrogen.
+3) Solid state chemistry (15 L):
+Introduction to single crystal, unit cell, Bravais lattice, crystal system and symmetry, crystal
+planes, Miller indices, reciprocal lattice, Lau-equation, Brag’s law, scattering of X-ray and X-
+ray diffraction, fourier series, electron density and structure factor. Various X-ray diffraction
+method. determination of space group, methods of solving the phase problem, patterson and
+direct methods for determination of crystal structure.Voids, radiostic, structures of AX, AX2,
+AX3 types and their derived species, sphalite, wurzite, fluorite, perovskite, ilmentite, rutile,
+silicate and layered structure; Refinement of simple band theory- k-space and Brillouin Zones,
+band structure of metals, insulators and semiconductors, intrinsic and extrinsic
+semiconductors, doped semiconductors, p-n junctions; superconductors, Meissner effects,
+basic concepts of BCH theory.
+Course Outcome
+CO-1 Understand the fundamental principles and theories that interpreted the
+physicochemical properties of late transition element.
+CO-2 Industrial use and medicinal significance of these late transition compounds
+CO-3 Comprehend the chemistry of clusture compounds and apply PSEPT for structural
+aspect of carboranes, metallo boranes, hetero boranes, etc.
+CO-4 Understanding of electronic properties & band theory of insulator, conductors and
+semiconductors.
+37
+
+--- Page 39 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. A. R. West, Solid State Chemistry and its Applications(1984), John Wiley and Sons
+Singapore.
+2. L.V. Azaroff, Introduction to Solids(1977)Tata McGraw-Hill, New Delhi
+3. L. Smart and E Moore, Solid State Chemistry(1992)Chapman & Hall, Madras
+4. H. V. Keer Principles of Solid State(1993), , Wiley Eastern
+5. N. N. Greenwood and A. Earnshaw, Chemistry of the Elements, 2nd Edn. (1997),
+Butterworth Heinemann, London
+6. J. E. Huheey, E. A. Keiter and R. L. Keiter, Inorganic Chemistry, 4th Edn. (1993), Addison-
+Wesley Pub. Co., New York.
+7. F. A. Cotton and G. Wilkinson Advanced Inorganic Chemistry, 6th Edn. (1999), John Wiley
+& Sons, New York.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 - - 2 - 2 2 -
+CO-2 3 2 - 2 - 3 2 - -
+CO-3 3 - 2 - 3 2 2 2 -
+CO-4 2 - - 2 3 3 2 - 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 3 4 3
+CO-2 3 3 3
+CO-3 3 - 4
+CO-4 3 3 2
+38
+
+--- Page 40 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Organic Chemistry-III Code: PCY03B10
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Apply reasoning informed by the contextual knowledge to assess societal, health,
+safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO-6 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PEOs (Program Educational Objectives):
+PEO-1 To provide research domain building a bridge between fundamental studies of
+organic photochemical reactions and their industrial application.
+PEO-2 To bridge the gap between classic laboratory chemistry and large-scale reactions.
+PEO-3 To addresses practical technological issues and challenges, giving the examples of
+applications of industrial organic chemistry in real life
+PSOs (Program Specific Objectives):
+PSO-1 The aim of the is to make students familiar with the concepts and applications in
+two important topics in advanced organic chemistry, namely concerted organic
+reactions and organic photochemistry.
+PSO-2 To provide knowledge of general application of photochemistry and the use of
+photochemical processes to impart function to photoactive molecules as sensors,
+switches and other devices.
+PSO-3 To impart the knowledge of industrially used materials for their applications as
+engineering materials.
+Course Objective
+1. To provide the knowledge of photochemical systems that use sunlight to drive important
+chemical reactions or to generate electricity for the development of sustainable sources of
+energy.
+2. Industrial Organic Chemistry examines all major industrial manufacturing technologies and
+reaction types with a focus on organic chemistry in general and petroleum refining in
+particular.
+3. To provide a good platform with solid knowledge in pericyclic reactions for scientific and
+technological advances.
+39
+
+--- Page 41 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Pericyclic Reaction (15 L):
+Molecular orbital symmetry. Frontier orbitals of ethylene, 1, 3- butadiene, 1,3,5- hexatriene
+and allyl system. Classification of pericyclic reactions. Correlation diagram, FMO and PMO
+approach. Elecctrocyclic reaction – conrotatory and disrotatory motions, 4n, 4n+2 and allyl
+systems. Cycloaddition – antarafacial and suprafacial additions, 4n and 4n+2 systems, 2+2
+addition of ketenes, 1,3 –dipolar cycloadditions and chelotropic reactions. Sigmatropic
+rearrangements - suprafcial and antarafacial shifts of H, sigmatropic shifts involving carbon
+moieties, 2,3-, 3,3- and 5,5- sigmatropic rearrangements. Claisen, Cope and aza-Cope
+rearrangements, Ene reaction, Group transfer reaction, Fluxional tautomerism, regioselectivity,
+periselectivity.
+(2) Organic Photochemistry (10 L):
+Photo-chemical energy, Jablonski-diagram, photo-sensitisation and quenching, Quantum
+yields, Norrish type-I, type-II processes, Paterno-Buchi reaction, photochemistry of
+unsaturated compounds and carbonyl compounds. Photochemistry of organic compounds:
+Isomerization, addition and substitution. Di- pi methane rearrangement, Photo Fries
+rearrangement.
+(3) Industrial Organic Chemistry (10 L):
+Basic products of industrial synthesis, chemicals from natural gases, petrochemicals and coal,
+chemicals of industrial importance: olefins, acetylenes, halo-compounds, alcohols, aromatics,
+amides, polyamides. Organic reactions of industrial importance (hydrogenation,
+dehydroformylation and polymerization) fermentation technology for the production of
+alcohols.
+(4) Paints, Pigments and Food Chemicals (10 L):
+Introduction, classification and applications of organic pigments. Paints- classification,
+constituents and applications. Food chemicals: Types of food additives, risks and benefits,
+function and applications of food flavours. Brief introduction of pheromones- Introduction,
+classification and structure.
+Course Outcome
+CO-1 Students will understand the utility of pericyclic and photochemical reactions and
+can apply them routinely for efficient synthesis of complex organic molecules.
+CO-2 The student will be able to meet the demand of engineering materials in the
+industries
+CO-3 The students will understand the impact of the professional engineering materials
+and develop the knowledge for sustainable development of the society.
+Reference Books:
+1. Pericyclic Reactions, Ian Fleming, John Wiley, 1976.
+2. Introduction to Organic Photochemistry, J. D. Coyle.
+3. Industrial Organic Chemistry, Prof. Dr. Klaus Weissermel, Prof. Dr. Hans Jürgen Arpe,
+4th Edn., WILEY VCH Verlag GmbH & Co. KgaA, 2003.
+‐
+‐
+40
+
+--- Page 42 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+S- Strong, M-Moderate and W-Weak
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 M M S S W M S - -
+CO-2 M M S M S S - M -
+CO-3 M M S S S S - - S
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 4 2 3
+CO-2 4 - 2
+CO-3 3 4 3
+41
+
+--- Page 43 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Physical Chemistry-III Code: PCY03B11
+L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO -4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of Chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Apply their knowledge to develop theoretical insight Statistical mechanics,
+behaviour of tiny particle and photo-physical properties of molecules.
+PSO-2 Successfully apply the principles of Statistical mechanics, catalysis for various
+engineering materials which have been learned as a part of this course.
+PSO-3 Evaluate the energy scenario along with environment related issues in our society.
+Course Objective
+1. Statistical mechanics provides a framework for relating the microscopic properties of
+individual atoms and molecules to the macroscopic bulk properties of materials that can be
+observed in everyday life, thereby explaining thermodynamics as a result of the classical and
+quantum mechanical descriptions of statistics.
+2. The students will revise how important are catalysts? As most of the fundamental and
+applied research is done by industrial companies and university research laboratories to find
+out how catalysts work and to improve their effectiveness. Not only that most of the
+chemical reactions that occur in the human body and in other living things provided by
+enzymes, a biocatalyst only.
+42
+
+--- Page 44 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+3. To introduce the knowledge of Polymers which are widely used advanced materials, which
+are found almost in every material used in our daily life. Polymers make up many of the
+materials in living organisms, including, for example, proteins, cellulose and nucleic acids.
+Course Content
+1) Statistical Thermodynamics (20 L):
+Probability and entropy; ensembles; Boltzmann statistics; molecular and molar partition
+functions; translational, rotational, vibrational, and electronic partition functions; reference
+state of zero energy; equilibrium constant and partition function; partition function and
+thermodynamic parameters, Sackur-Tetrode equation; equations of state for ideal gas;
+equipartition theorem; specific heat capacity of solids (Einstein’s model); ideal lattice gas
+(Langmuir adsorption isotherm); theory of absolute reaction rates; distribution laws : Fermi-
+Dirac and Bose-Einstein statistics. Numerical problems.
+2) Catalysis-Principles and Application (15 L):
+Basic principles of catalysis; homogeneous and heterogeneous catalysis; adsorption: surface
+area, pore size and acid strength measurements, enthalpy and entropy; selection, preparation
+and evaluation of catalysts: test reactions, promoters, carriers and stabilizers; mechanism of
+reactions: hydrogenation and dehydrogenation, dehydration of alcohols, olefin hydrogenation,
+decomposition of N O, oxidation of CO, ketonization of carboxylic acids, cracking of
+2
+hydrocarbons. Applications: petrochemical industry-reforming and refining, value added
+chemicals, environmental protection, auto exhaust catalysts, novel catalytic materials; fuel cell;
+photocatalysis; photocleavage of water and phase transfer catalysis.
+3) Macromolecules (10 L):
+Introductory concept, definition and classification of polymers; resin, rubber, plastics;
+characterization: number average, molecular weight average and viscosity average molecular
+weight; concept of segment and segment length; thermodynamics of dilute polymer solutions;
+molecular weight determination; structure of polymers in solution; kinetics of polymerization;
+mechanistic aspect: addition, ionic, coordination, condensation polymerization; crystal
+structure of polymers; effect of different parameters on T and T .
+m g
+Course Outcome
+Students will be able to identify the basic equations connecting the translational,
+CO-1 rotational, vibrational and electronic properties of isolated (i.e. gas-phase)
+molecules to their thermodynamics.
+They have acquired the knowledge of most basic descriptions of the vibrations of
+ions, atoms or molecules within crystals as well as the most elementary models for
+CO-2
+describing cooperative behaviour and phase transitions in gas-surface and liquid-
+liquid systems.
+Students will gain the information: Applications of Polymers; polymer testing and
+CO-3 consultancy for plastics, additives with applications including aerospace,
+electronics, packaging and medical devices.
+Knowledge of contemporary environmental issues and assess the effects of
+CO-4
+pollution.
+Students have the clear idea how catalysts speed up the rate of reaction, which
+saves money because the plant doesn't have to operate for as long to produce the
+CO-5
+same amount of product? How catalysts allow the reaction to work at a much
+lower temperature? Cracking, isomerisation and hydrocarbon synthesis.
+CO-6 Comprehend idea about the synthesis and applications of polymer science.
+43
+
+--- Page 45 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. T. L. Hill, Statistical Thermodynamics, Addision Wesley 1960.
+2. D.A. McQuarrie, Statistical Thermodynamics, Viva Books Pvt Ltd 2003.
+3. M. C. Gupta, Statistical Thermodynamics, WEL 1995.
+4. Modern Molecular Photochemistry, Nicholas J. Turro, University Science Books,
+1991.
+5. Introduction to Polymer Science, V.R. Gowarikar, N.V. Vishwanathan and J. Sridhar,
+Wiley Eastern.
+6. Physical Chemistry, P.W. Atkins,7thEdn. 2000, Oxford University Press.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 - - - 1 2 - -
+CO-2 - 2 2 - 2 3 3 - -
+CO-3 - - - 3 - - 2 - -
+CO-4 - - - - 3 3 - - 3
+CO-5 - 2 3 3 - 1 - 2 -
+CO-6 2 - - 3 3 3 - 2 -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 3 - -
+CO-6 - - -
+44
+
+--- Page 46 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Instrumental Method of Analysis of Chemical Compounds
+Code: PCY03B12 L-T-P: 3-1-0 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of spectroscopy with modern experimental
+and theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 This course provides an introduction to the knowledge of the spectroscopy
+methods about structure of the chemistry compounds, as well as experimental
+usage of chosen methods (ESR, UV- VIS, IR, NMR and MS).
+PSO-2 Understanding of these concepts is fundamental in understanding how molecules
+interact with light.
+PSO-3 Evaluate the energy scenario along with environment related issues in our society.
+Course Objective
+After the course, the student should be able to familiar with:
+1. Spectroscopy is used in analytical chemistry because atoms and molecules have unique
+spectra. As a result, these spectra can be used to detect, identify and quantify information
+about the atoms and molecules.
+2. UV/Vis spectroscopy is routinely used in analytical chemistry for the quantitative
+determination of different analytes, such as transition metal ions, highly conjugated organic
+compounds, and biological macromolecules.
+3. IR spectroscopy measures the vibrations of atoms and based on this it is possible to
+determine the functional groups. It is used by chemists to determine functional groups in
+molecules.
+45
+
+--- Page 47 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+4. Nuclear magnetic resonance spectroscopy is widely used to determine the structure of
+organic molecules in solution and study molecular physics, crystals as well as non-
+crystalline materials. NMR is also routinely used in advanced medical imaging techniques,
+such as in magnetic resonance imaging (MRI).
+5. Mass spectrometry represents a powerful technique to determine the molecular weight of
+compounds by separating molecular ions on the basis of their mass and charge.
+Course Content
+1) ESR Spectroscopy (20 marks):
+Basic principle of ESR spectroscopy, Hyperfine coupling, Spin polarization for atoms
+and transition metal ions, Spin-orbit coupling and significance of g-tensors,
+application to transition metal complexes, organic molecule including free radicals.
+2) NMR Spectroscopy (45 marks):
+1H NMR Spectroscopy: Introduction, theory, instrumentation, long range spin-spin
+interaction, shielding and deshielding effects, interpretation of non-first order NMR;
+double resonance, Lanthanide shift reagent, INDOR, NOE, effect of solvents
+(aliphatic and aromatic), preliminary idea on 19F, 31P, 14N, 15N, 17O. NMR of solids,
+NMR imaging. C13 NMR Spectroscopy: Introduction, theory, instrumentation,
+chemical shift, coupling constants, application in organic molecules, 2D NMR,
+multidimensional NMR- DEPT, COSY.
+3) Mass Spectrometry (35 marks):
+Generation of ions, fragmentations and detections; Mc Lafferty rearrangement.
+EI, CI, FD, FAB etc; different fragmentation pattern in EI. GC-MS and HR-MS.
+Application of UV, IR, NMR and MS in structure elucidation.
+Course Outcome
+CO-1 After studying this course student will know basic information on EPR, UV-VIS,
+IR, NMR, MS etc. methods.
+CO-2 Student will be able to select spectroscopy methods suitable for solving given
+scientific problem.
+CO-3 Student will be able to analyze results of measurements using spectroscopy
+methods.
+CO-4 Student have concern how Nuclear Magnetic Resonance (NMR) spectroscopy
+became as an analytical chemistry technique used in quality control and research
+for determining the content and purity of a sample as well as its molecular
+structure. Student can interpret a 2D spectrum.
+CO-5 Explain why Mass spectrometry (MS) is a powerful analytical tool with many
+applications in pharmaceutical and biomedical field.
+CO-6 Explain why like LC–MS, GC–MS and LC/MS/MS becomes sensitive detector for
+chromatographic techniques.
+Reference Books:
+1. Organic Spectroscopy by William Kemp.
+2. Introduction to Spectroscopy by Donald L. Pavia.
+3. Elementary Organic Spectroscopy by Y R Sharma.
+4. Structure Determination Using Spectroscopic Methods by Hans J. Reich.
+5. Problems in Organic Structure Determination: A Practical Approach to NMR
+Spectroscopy 1st Edn. by Roger G. Linington and Philip G. Williams.
+6. Organic Structures from Spectra 4th Edn. by L D Field.
+46
+
+--- Page 48 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 1 - 2 2 2 - -
+CO-2 - 2 2 3 2 2 2 - -
+CO-3 - - - - 3 3 2 - -
+CO-4 - - - 3 3 - - - 3
+CO-5 - 2 2 - 3 3 - 2 -
+CO-6 - - 2 - 3 3 - 2 -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 3 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - 3 3
+CO-5 2 - -
+CO-6 - - 3
+47
+
+--- Page 49 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Inorganic Chemistry Laboratory Code: PCY03P04
+L-T-P: 0-0-6 Credit: 4
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-6 Demonstrate knowledge and understanding of the engineering and management
+principles and apply these to one’s own work, as a member and leader in a team, to
+manage projects and in multidisciplinary environ-ments.
+PEOs (Program Educational Objectives):
+PEO-1 Achievement of confidence in handling chemicals, glassware and instruments
+professionally in chemical industries and develop the modern techniques.
+PEO-2 Successfully apply their practical experience to determine analytical estimation of
+materials applicable in our daily life.
+PSOs (Program Specific Objectives):
+PSO-1 Enable the students to learn various fundamental chemical concepts and
+processes.
+PSO-2 Acquisition of skills to pursue and explore the field of much current interest and
+activity in future research.
+Course Objective
+1. To understand the basic concepts in systematic methods of qualitative chemical analysis of
+inorganic salt mixtures.
+2. To have exposure to the underlying principle of the chosen analytical method for a particular
+assays.
+3. To know the fundamentals and conditions to obtain a desirable metal complexes and their
+preliminary characterization.
+48
+
+--- Page 50 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+I. Semimicro qualitative analysis
+Systematic analysis of inorganic salt mixtures containing six ions including one of the
+following rare elements: W, Mo, Au, Pt, Pd, Se, Te, V, Ti, Zr, U, Th and Ce and the interfering
+anion (/phosphate/borate/fluoride).
+II. Analytical Techniques (involving volumetric-redox and complexometric, gravimatric,
+spectrophotometric and chromatographic methods) of investigation in two and three
+component mixtures.
+1. Estimation of iron (II/III) and chromium (III) in a given binary mixture
+2. Estimation of iron (II/III) and calcium (II) in a given binary mixture
+3. Determination of calcium and magnesium in a given sample of water
+4. Separation and determination of Cu(II) and Ni(II) by gravimetric method
+5. Spectrophotometric determination of chromium and manganese in a given steel
+sample
+6. Determination of composition of iron(II)-phenanthroline, Fe(III)- sulfo salicylic acid
+complex by Job’s method
+7. Spectrophotometric determination of copper-ethylenediammine complex by slope
+ratio method
+8. Thin layer chromatographic separation of Ni, Mn, Co and Zn. Determination of their
+Rf values
+9. Separation of cations by paper/column chromatography
+10. Separation of anions by paper/column chromatography
+III. Preparation of inorganic compounds:
+Following the allied reactions and physical studies includes melting point, conductance
+measurements, UV-Visible spectroscopy Fluorescence spectroscopy, determination of yield
+percentage and CFSE value.
+i) Hexamminecobalt(III) chloride
+ii)Tris(ethylenediamine)cobalt(III) chloride
+iii) Dichlorobis(ethylenediamine)nickel(II)
+iv) Hexamminenickel(II) chloride
+v)Tris(acetylacetonato)iron(III)
+vi) Manganese(III)acetylacetonate
+vii) Azidopentamminecobalt(III) chloride
+Course Outcome
+CO-1 Students will have hands-on experience on basic principles in separation and
+identification of components in inorganic salt mixture.
+CO-2 Development of skills in analytical measurements aimed at obtaining qualitative and
+quantitative information about the composition and structure of various materials that
+have relevance to both fundamental understanding as well as applications towards
+improving the quality of life.
+CO-3 Training in synthesis of complexes and basic instrumental methods of analysis for
+their preliminary characterization will pave the way to future research work.
+49
+
+--- Page 51 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. A.I. Vogel, Macro and Semicro qualitative Inorganic Analysis, Orient Longman, 1969.
+2. J. Basset, R.C. Denney, G.H. Jeffery and J. Memdham, Vogel’s Text Book of quantitative
+Inorganic Analysis, ELBS, 4th Edn., 1978.
+3. H. H. Willard, L. L. Merrit and J.A. Dean, Instrumental methods of analysis, East-West
+Press, 4th Edn, 1974.
+4. G.W. Parshall (Ed. In chief), Inorganic Synthesis, Vol 15, McGraw Hill, P. 48, 1974.
+5. D. D. Sood, S. B. Mohaharand, A. V. R. Reddy, Experiments in Radiochemistry Theory and
+Practice, IANCAS Publications, 1994.
+6. W.L. Jolly : Synthesis and characterization of inorganic compounds Prentice Hall Inc.
+7. S. C. Das, Advanced Practical Chemistry for 3-Year Honours Course, 6th Edn., 2012
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+CO-1 2 2 1 - 3 2
+CO-2 - 2 - 2 - -
+CO-3 3 - 2 2 2 2
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2
+CO-1 4 -
+CO-2 3 -
+CO-3 - 4
+50
+
+--- Page 52 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Fourth Semester
+51
+
+--- Page 53 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Inorganic Photochemistry and Supramolecular Chemistry
+Code: PCY04E08
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Use research-based knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information to provide valid
+conclusions.
+PO-5 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-6 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PEOs (Program Educational Objectives):
+PEO-1 Get the fundamental awareness about basics and application of existing chemical
+and scientific theories.
+PEO-2 Understand the vital role of Inorganic Chemistry in our society.
+PEO-3 Capability to discover innovative filed of research in both chemistry and allied
+fields of science and technology.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn about different of inorganic photochemical reaction and with real life.
+PSO-2 Learn the about the application of photo chemically active inorganic complexes
+to construct solar light driven energy harvesting system.
+PSO-3 To pursue higher education along with industrial accomplishments.
+Course Objective
+(i) To impart knowledge of about the different of inorganic photochemical systems and their
+applications.
+(ii) To impart through knowledge of light driven water splitting using inorganic coordination
+complexes and to use inorganic reaction mechanisms presented in the literature to solve
+chemical problems.
+(iii) To convey information of vaarious types of supramolecules, structures and their
+applications as organic-inorganic materials, sensors, and devices.
+(iv) To focused on understanding the Chemistry of noncovalent bonding.
+52
+
+--- Page 54 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+Inorganic Photochemistry (20 L):
+Prompt and delayed reactions, d-d and charge-transfer reactions, transitions in metal-metal
+bonded systems. Photoreactions of complexes of Cr(III) and Co(III), photo-aquation, photo-
+substitution and photo-racemization. Photochemistry of Ru(bpy) 2+ and its application as
+3
+photocatalyst for photo-splitting of water, photooxidation of 2-propanol and photo-reduction of
+carbon dioxide, cyanide bridged triruthenium(II) bipy complexes as antenna. Photochemistry
+of diisocyanide bridged diimers of Rh(I). Applications of quenching and sensitization
+techniques in the identification of reactive state in coordination complexes. Photochemistry of
+Transition Metal Carbonyls and Europium complexes. Inorganic photochemistry in biological
+processes and their model studies; application of photochemical reactions of coordination
+compounds-synthesis and catalysis.
+Supramolecular Chemistry (25 L):
+Concepts and development, Nature of binding interactions in supramolecular structures: ion-
+ion, ion-dipole, dipole-dipole, H-bonding, cation-π, anion-π, π-π and vander waal interactions,
+Supramolecular Chemistry in Life, Ionophores, Porphyrin and other tetrapyrrollic macrocycles,
+Coenzymes, Neurotransmitters, DNA and biochemical self-assembly. Host–guest Chemistry:
+Synthesis and structures of crown ethers, Lariat ethers, Podands, Cryptands, Spherands,
+Calixarene, Cyclodextrins, Cyclophanes, Cryptophanes, Carcerands and hemicarcerands, Host-
+guest interactions, Preorganisation and complimentarity, Lock and key analogy, Binding of
+cationic, Anionic, Ion pair and neutral guest molecules.
+Self-assembly: Self assembly by H-bonding, Catenanes, Rotaxanes, Dendrimers and
+Supramolecular gels; Relevance of supramolecular chemistry to mimic biological system.
+Molecular Devices: Machine, electronic devices, wires, rectifiers, switches and logic gates;
+Examples of recent developments in supramolecular chemistry from current literature.
+53
+
+--- Page 55 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Outcome
+CO-1 Student will learn application of inorganic reaction mechanisms in the areas of
+industrial synthesis, preparation and biological catalytic processes.
+CO-2 Students can develop cost effective portable molecular system for water spiting to
+generate H as a source of sustainable energy by using the concept of inorganic
+2
+photochemistry.
+CO-3 Acquire the knowledge of specific synthesis of structure and reaction of
+supramolecules, and nature of bindings involved in biological systems
+CO-4 Structure of supramolecules of various types in solid state and applications of
+supramolecules to construct molecular devices
+Reference Books:
+1. Jean-Marie Lehn, Supramolecular Chemistry, VCH, Weinheim (1995).
+2. Beer, P.D., Gale, P. A., and Smith, D. K., Supramolecular Chemistry, Oxford University
+Press (1999).
+3. Steed, J. W., and Atwood, J. L., Supramolecular Chemistry, Wiley (2000).
+4. F. A. Cotton and G. Wilkinson, Advanced Inorganic Chemistry, 6th Edn. (1999), John
+Wiley & Sons, New York.
+5. A. K. Das and M.Das Fundamental Concepts of Inorganic Chemistry: Volume 5, 1st Edn
+(2014), CBS Publishers and Distributors.
+6. K. K. Rohatagi-Mukherjee, Fundamentals of Photochemistry, (1978) Wiley Eastern.
+7. M. S. Wrighton, Inorganic and Organometallic Photochemistry, ACS Pub.,1978.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 2 - - - 2 2 3
+CO-2 - 2 - 2 3 3 2 2 -
+CO-3 2 - 2 2 - - 2 - 2
+CO-4 3 - - - 3 2 - - 3
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+Table 2
+CO PSO-1 PSO-2 PSO-3
+CO-1 3 4 2
+CO-2 3 - 3
+CO-3 4 - -
+CO-4 4 2 2
+54
+
+--- Page 56 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Organic Named Reactions, Synthesis, Structure and Reactivity
+Code: PCY04E10
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO -5 Apply reasoning informed by the contextual knowledge to assess societal, health,
+safety, legal and cultural issues and the consequent responsibilities relevant to the
+professional engineering practice.
+PO-6 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PEOs (Program Educational Objectives):
+PEO-1 To provide the knowledge of structure-activity relationships for designing the
+synthesis of organic molecules
+PEO-2 To get the knowledge of planning, designing and execution of synthetic
+pathways for organic reactions.
+PEO-3 To impart the knowledge of Name Reactions and Re-arrangements for practical
+applications in industries.
+PSOs (Program Specific Objectives):
+PSO-1 The aim of is to make students familiar with the concepts of planning, designing and
+execution of synthetic pathways for organic reactions.
+PSO-2 The students will be able to apply the name reactions in industrial level synthesis.
+PSO-3 To impart the knowledge of industrially used materials for their applications as
+engineering materials.
+Course Objective
+1. To provide the knowledge of planning, designing and execution of synthetic pathways for
+organic reactions.
+2. Industrial Organic Chemistry examines all major industrial manufacturing technologies and
+reaction types with a focus on organic chemistry in general. tructure-activity relationships
+for designing the synthesis of organic molecules
+3. To provide a good platform for scientific and technological research towards synthetic
+organic chemistry.
+55
+
+--- Page 57 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Quantitative relationship between structure and reactivity (10 L):
+Structure and reactivity, types of mechanisms, types of reactions, thermodynamics and kinetic
+requirements, Linear free energy relations: Hammett equation; equilibrium and rates in organic
+reactions. The separation of polar, steric and resonance effects: Taft equation.
+(2) Design of organic synthesis (15 L)
+Planning a synthetic pathway; molecular characteristics: Retrosynthesis, Disconnection
+approach, synthons, linear and convergent synthesis, Umploung of reactivity and protecting
+groups.
+(3) Name Reactions and Re-arrangements (20 L)
+Name reaction in organic synthesis: Pinacol-pinacolone rearrangement, Favorski
+rearrangement, Fries rearrangement, Knoevenagel reaction, Mannich reaction, Michael
+reaction, Oppeananer oxidation, Wolf Kishner reaction, Wagner- Meerwein rearrangement,
+Benzil-Benzilic Acid rearrangement, Beckmann Rearrangement, Diels-alder reaction, Claisen
+rearrangement, Wittig rearrangement, Mc Murry reaction, Mitsunovo reaction ,Julia olifination
+Shapiro reaction, Swern oxidation, Baylis-Hilman reaction, Baeyer Villager reaction, Dienone-
+phenol rearrangement, Neber rearrangement and Stephen rearrangement. Phosphorous ylides
+and sulphur ylides.
+Course Outcome
+CO-1 Students will understand the utility of structure-activity relationships for designing
+the synthesis of organic molecules and can apply them routinely for efficient
+synthesis of complex organic molecules.
+CO-2 The student will be able to meet the demand of present organic materials in the
+industries
+CO-3 The students will understand the nature of organic synthesis and will be able to
+apply in drug and chemical industries.
+Reference Books:
+1. March J, Advanced Organic Chemistry, John Wiley, 1992.
+2. Thomas Laue, Andreas Plagens Named Organic Reactions, 2nd Edition, John Wiley, 2005.
+3. P.S Kalsi, Organic synthesis through disconnection approach, 2nd Edition, Medtech, 2017.
+56
+
+--- Page 58 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+S- Strong, M-Moderate and W-Weak
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 M S S M S S S - -
+CO-2 S M M S S S - S S
+CO-3 S M M M S S - - S
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 4 2 3
+CO-2 4 - 2
+CO-3 3 4 3
+57
+
+--- Page 59 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Molecular Spectroscopy-Theory and Instrumentation
+Code: PCY04E12
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Recognize the need for, and have the preparation and ability to engage in independent
+and life-long learning in the broadest context of technological change.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of molecular spectroscopy with modern
+experimental and theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Molecular Spectroscopy course provides an introduction to the knowledge of the
+spectroscopy methods about structure of the chemistry compounds, as well as
+experimental usage of chosen methods (IR, NMR, and UV- VIS).
+PSO-2 Understanding of these concepts is fundamental in understanding how molecules
+interact with light.
+PSO-3 Evaluate the energy scenario along with environment related issues in our society.
+Course Objective
+1. Understand quantum chemical principles
+2. Student will know the basic physical chemistry law that govern molecular spectroscopy
+3. The course provides an introduction to molecular spectroscopy.
+4. Some of the fundamental concepts used in understanding molecular spectroscopy will be
+discussed in detail.
+5. Understanding of these concepts is fundamental in understanding how molecules interact
+with light.
+6. Finally the course provides specific study of the application of molecular spectroscopy to
+different areas of science.
+58
+
+--- Page 60 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+(1) Atomic and Molecular Spectroscopy (25 L):
+Vector model of atom; Stern-Gerlach experiment; atomic term symbol; many electron system
+and antisymmetry principle; atomic spectra; pure rotational and vibrational spectra of diatomic
+and polyatomic molecules; vibrational-rotational coupling; Raman spectroscopy of molecules;
+electronic spectra of molecules; selection rules for vibrational, electronic and Raman spectra;
+introduction to resonance spectroscopy: NMR, ESR, hyperfine interaction, photoelectron
+spectroscopy, Auger spectroscopy, Mössbauer spectroscopy.
+(2) Spectroscopy and Instrumentation (20 L):
+Fundamentals of 2D- and FT-NMR; Auger spectroscopy; analytical techniques based on
+Auger spectroscopy; X-ray photoelectron spectroscopy; UV-photoelectron spectroscopy;
+SEM; TEM; surface enhanced Raman spectroscopy; single molecule spectroscopy; 3-photon
+echo spectroscopy; fluorescence spectroscopy; lasers: fundamentals, Q-switched and mode-
+locked; ultra fast lasers to determine excited state lifetime and dynamics.
+Course Outcome
+CO-1 Student will know basic information on molecular methods (IR, Raman, UV-VIS,
+NMR, EPR).
+CO-2 Student will be able to select molecular spectroscopy methods suitable for solving
+given scientific problem.
+CO-3 Student will be able to analyze results of measurements using molecular
+spectroscopy methods.
+CO-4 Student shows interest in the phenomenon of the interaction of light with matter in
+terms of the relationship with the molecular structure
+CO-5 Explain why atomic spectra consist of lines whereas molecular spectra at room
+temperature are broad and continuous.
+CO-6 Explain the difference between a 3- and 4-level laser and why it is not possible to
+have a 2-level laser.
+Reference Books:
+1. Fundamentals of Molecular Spectroscopy, C.N. Banwell, E.M. McCash, 4th Edn., McGraw-
+Hill.
+2. Modern Spectroscopy, J. Michael Hollas, 4th Edn., Wiley.
+3. Introduction to Spectroscopy, D. L. Pavia, G. M. Lampman, George S. Kriz, Cengage
+Learning India Pvt. Ltd.
+4. Introduction to Molecular Spectroscopy, G. M. Barrow, McGraw Hill.
+5. Molecular Spectroscopy, I. N. Levine, Wiley.
+6. Molecular Spectra and Molecular Structure I,II,III, G. Herzberg.
+59
+
+--- Page 61 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 3 2 2 - 2 - 2 - -
+CO-2 - 2 2 3 - 3 2 - -
+CO-3 - - - - 3 - 2 - -
+CO-4 2 - - 3 - 3 - - 3
+CO-5 - 2 2 - - - - 2 -
+CO-6 2 - 2 - 3 3 - 2 -
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 2 - -
+CO-6 - - -
+60
+
+--- Page 62 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course: Chemistry of Nanomaterials
+Code: PCY04E13
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO-1 Apply knowledge of mathematics, science, engineering fundamentals and an
+engineering specialization to the solution of complex engineering problems.
+PO-2 Identify, formulate, review research literature, and analyse complex engineering
+problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+PO-3 Design solutions for complex engineering problems and design system components or
+processes that meet the specified needs with appropriate consideration for the public
+health and safety, and the cultural, societal, and environmental considerations.
+PO-4 Create, select, and apply appropriate techniques, resources, and modern engineering
+and IT tools including prediction and modelling to complex engineering activities with
+an understanding of the limitations.
+PO-5 Understand the impact of the professional and engineering solutions in societal and
+environmental contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+PO-6 Communicate effectively on complex engineering activities with the engineering
+community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and
+receive clear instructions.
+PEOs (Program Educational Objectives):
+PEO-1 Obtain the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyse the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Familiar with all the different types of newly discovered carbon structures, known
+as fullerenes, nanotubes and graphene.
+PSO-2 Understanding the importance of basic chemistry behind the properties of
+materials at the nanometre range.
+PSO-3 Enhancing their professional growth along with the knowledge through
+continuing education the fundamental principles nanoscience and nanotechnology
+Course Objective
+1. Basic approaches to synthesize inorganic colloidal nanoparticles and their self-assembly in
+solution and surfaces
+2. Acquire knowledge about theproperties chemical reactions of fullerenes, especially C , and
+60
+idea about how carbon nano tubes is synthesized by different method and their properties.
+3.To deliver a broad knowledge of synthetic methodologies for the synthesis of graphene oxide
+and basic concepts about properties of graphene and oxidised product graphene oxide.
+4. To advance usage of chemistry for modern technology and to introduce students to inter-
+and multi-disciplinary science and engineering.
+61
+
+--- Page 63 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Course Content
+Introduction to Nanomaterials (15 L):
+Scientific revolution; atomic structures-molecular and atomic size; Bohr radius; emergence of
+nanomaterials; synthesis of zero, one, two, three dimensional nanostructured materials; size
+effects on properties; surface plasmon resonance, quantum confinement; synthesis and
+fabrication: top-down and bottom-up; solution based synthesis, vapour-phase synthesis, sol-gel
+method, lithography method, synthesis using frameworks, supports and substrates.
+Chemistry of Carbon Nanomaterials (20 L):
+(i) Fullerenes: discovery of fullerenes, synthesis of fullerenes, structural feature of fullerenes,
+properties of fullerenes, chemical reactivity of fullerenes, Osmylation reaction, addition
+reaction, substitution reaction, photo chemical reaction polymerisation reaction, classification
+of fullerenes: exohedral and endohedral fullerenes, application of fullerenes.
+(ii) Carbon nanotubes: synthesis of carbon nanotubes by arc discharge method, laser ablation
+method and chemical vapour disposition method, role of transition metal catalyst in the growth
+of CNTs Vapour-liquid-solid (VLS) growth and solution-liquid-solid (SLS) growth of the
+carbon nano tubes and its application in various field.
+(iii) Graphene and graphene oxide: discovery of graphene, preparation of graphene oxide by
+Hummer’s Method, formation mechanism of graphene oxide, top-down approach of synthesis
+of graphene oxide, bottom-up approach to synthesis of graphene oxide, comparison among
+graphene, graphene oxide and reduced graphene oxide, properties of graphene and graphene
+oxide, reaction of graphene oxide with acid and base, reduction reaction, non-covalent
+chemistry of graphene oxide, Raman spectra and optical properties of graphene oxide,
+photoluminescence property of graphene oxide, graphene oxide, quantum dots.
+Application of Nanomaterials (10 L):
+Waste water treatment by using nanoparticles, catalytic oxidation of CO to CO at lower
+2
+temperature by nanoparticles, nano composite materials for photochemical water splitting, for
+solar cell and lithium-ion batteries, drug delivery; bio-conjugation; sensing.
+Course Outcome
+CO-1 Student will learn about various techniques to synthesis of scalable nano domain
+materials and usage of chemistry for modern technology.
+CO-2 Students will learn about the importance of nano carbon materials like CNTs,
+graphene etc in modern science
+CO-3 Students should be able to recognise application of fullerenes, CNTs, graphene in
+energy harvesting system
+CO-4 Student can be able to join a research group in nanoscience nanotechnology as a
+student researcher having prior knowledge in chemistry of nanomaterials.
+62
+
+--- Page 64 ---
+NIT Agartala, Department of Chemistry, MSc Syllabus
+Reference Books:
+1. C. N. R. Rao, A. Müller and A. K. Cheetham, Nanomaterials Chemistry: Recent
+Developments and New Directions, John Wiley & Sons, 2007.
+2. A. M. Dimiev and S. Eigler, Graphene Oxide: Fundamentals and Applications, John Wiley
+& Sons, 2016.
+3. A. K. Das, An Introduction to Nanomaterials and Nanoscience, CBS Publishers &
+Distributors Pvt. Ltd., 2017.
+4. T. Pradeep, Nano: The Essentials, Tata McGraw-Hill Education, 2007.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No Correlation “-“
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PEO-1 PEO-2 PEO-3
+CO-1 M M - M M - M M -
+CO-2 M M M M - M M - M
+CO-3 - S S S M M M S -
+CO-4 M M S M S M - - S
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No
+Correlation “-“
+CO PSO-1 PSO-2 PSO-3
+CO-1 3 4 -
+CO-2 3 2 3
+CO-3 4 - 2
+CO-4 4 3 2
+63

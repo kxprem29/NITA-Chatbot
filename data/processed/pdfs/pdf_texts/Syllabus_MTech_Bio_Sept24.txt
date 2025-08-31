@@ -1,0 +1,2453 @@
+
+--- Page 1 ---
+M. Tech
+in
+Biotechnology
+&
+Biochemical
+Engineering
+OFFERED
+BY
+DEPARTMENT OF BIO ENGINEERING
+NIT-AGARTALA
+
+--- Page 2 ---
+VISION
+To Produce the Bright Young Professionals by Quality Education & Research in the Emerging
+Field of Biotechnology & Biochemical Engineering to Fulfill the Societal Commitments at par
+with Global Standards.
+MISSION
+ To produce highly motivated, competent young Professionals in the Biotechnology and
+Biochemical engineering field of national and international standards fulfilling professional
+ethics and social commitments.
+ Prepare graduates of the programme to meet the growing demands for continued
+development and entrepreneurship in the biochemical and biotechnological industry
+ Provide a mechanism for students to increase their competitiveness in attaining admission
+for further studies including Phd Programs.
+ Implementation of gained knowledge and technologies in the regions of North eastern state
+of India.
+PEOs (Programme Educational objectives)
+ To apply Basic Sciences, Mathematics, and Engineering to solve advanced biotechnological
+problems.
+ To proficiently design and evaluate experiments, systems, components, or processes to meet
+desired needs and expectations on global context.
+ To understand and establish professional ethics, with social responsibility to become
+successful graduate in the field of biotechnology and biochemical engineering.
+ To pursue higher studies in the respective field and develop as an entrepreneur.
+PSOs (Program Specific Outcomes)
+ To gain knowledge in several protocols and professional techniques for application in
+bio-industries and bio-entrepreneurship.
+ To acquire in-depth knowledge in various research and developmental activities for
+social welfare.
+1
+
+--- Page 3 ---
+PO (Program Outcomes)
+An ability to independently carry out research /investigation and development work
+PO-1
+to solve practical problems.
+An ability to write and present a substantial technical report/document.
+PO-2
+Students should be able to demonstrate a degree of mastery over the area as per the
+PO-3 specialization of the program. The mastery should be at a level higher than the
+requirements in the appropriate bachelor program.
+To gain knowledge in several protocols in biochemical engineering and professional
+PO-4
+techniques for application in biotechnological industries and bio-entrepreneurship.
+To acquire the skill and knowledge sets in the areas of biotechnological research,
+PO-5
+innovation and business to benefit the societal needs.
+To be able to apply knowledge of biotechnology and biochemical engineering for the
+PO-6
+advancement of science and technology.
+2
+
+--- Page 4 ---
+M. TECH in BIOTECHNOLOGY & BIOCHEMICAL ENGINEERING
+Proposed Course Structure
+SEMESTER-I
+Sl. No CODE SUBJECT L-T-P CREDIT
+1 Bioanalytical Techniques 3-1-0 4
+Biotechnology and Biochemical 3-1-0
+2 4
+engineering Principles
+3 Genomics and Proteomics 3-1-0 4
+4 Applied Bioinformatics 3-1-0 4
+5 Elective 1 3-1-0 4
+6 Bioanalytical Techniques Lab 0-0-3 2
+7 Applied Bioinformatics Lab 0-0-3 2
+8 Seminar 0-0-2 1
+Total 28 25
+SEMESTER-II
+Sl. No CODE SUBJECT L-T-P CREDIT
+1 Bioreactor Design and Analysis 3-1-0 4
+2 Bioseparation Technology 3-1-0 4
+3 Elective 2 3-1-0 4
+4 Elective 3 (Open) 3-1-0 4
+Biotechnology and Biochemical 0-0-3 2
+5
+engineering Lab
+Bioprocess and Bioseparation
+6 0-0-3 2
+Technology Lab
+7 Project Preliminary 0-0-6 3
+8 Comprehensive Viva Voce 0-0-0 2
+Total 28 25
+SEMESTER-III
+Sl. No CODE SUBJECT L-T-P CREDIT
+1 Project And Thesis-1 0-0-20 10
+Total 20 10
+SEMESTER-IV
+Sl. No CODE SUBJECT L-T-P CREDIT
+1 Project And Thesis-2 0-0-40 20
+Total 40 20
+ Distribution of credit semester wise
+SL No SEMESTER CREDIT
+1 I 25
+2 II 25
+3 III 10
+4 IV 20
+Total 80
+3
+
+--- Page 5 ---
+Theory Courses (Semester I and Semester II)
+Sl. No Code SUBJECT Credit Marks
+1 Bioanalytical Techniques 4 100
+Biotechnology and Biochemical engineering
+2 4 100
+Principles
+3 Genomics and Proteomics 4 100
+4 Applied Bioinformatics 4 100
+5 Bioreactor Design and Analysis 4 100
+6 Bioseparation Technology 4 100
+7 Elective 1 4 100
+8 Elective 2 4 100
+9 Elective 3 (open) 4 100
+Practical courses and Comprehensive Viva voce (Semester I and Semester II)
+Sl. No Code SUBJECT Credit Marks
+1 Bioanalytical Techniques Lab 2 100
+2 Applied Bioinformatics Lab 2 100
+Biotechnology and Biochemical engineering 100
+3 2
+Lab
+4 Bioprocess and Bioseparation Technology Lab 2 100
+5 Seminar 1 100
+6 Comprehensive viva voce 2 100
+7 Project Preliminary 3 100
+8 Project I 10 100
+9 Project II 20 300
+4
+
+--- Page 6 ---
+Elective Courses (Semester I and Semester II)
+Sl.No Code SUBJECT*
+1. Bioprocess Plant Design
+2. Biomedical signal and Image processing
+3. Animal Biotechnology
+4. Advanced Immunology and Immunotechnology
+5. Synthetic Biology
+6. Cancer Biology
+7. Protein Structure and Engineering
+8. Biological Waste Treatment
+9. Food Process Engineering
+10. Tissue Engineering
+11. Nanobiotechnology
+12. Biomaterials
+13. Advanced Molecular Biology
+14. Computational Fluid Dynamics in Biology
+15. IPR and Biosafety
+16. Advanced BioMEMS
+17. Advanced Biomechanics
+18. Advanced Biomedical Instrumentation
+19. Biosensors, Transducers and Measurement Devices
+20. Prosthetics and Orthotics
+21. Metabolic Process and Engineering
+22. Systems Biology
+23. Biostatistics
+24. Advanced Genetic Engineering
+25. Molecular Therapeutics
+26. Bioentrepreneurship
+27. Pharmaceutical Biotechnology
+28. Process Control & Instrumentation
+29. Environmental Biotechnology
+* Department will float any subject from the elective list as departmental electives or as open
+electives for a particular academic session.
+** Students may choose any course (at least 40 hours or 12 weeks) from open learning sources
+(MOOCS or any other) or from the PG courses of any other department as Open Elective.
+Those courses must be available during that particular session. Besides, the approval of
+competent authority of NITA is applicable for the online courses.
+5
+
+--- Page 7 ---
+Core Course 01: (1st Semester)
+1. Name of the Subject: BIOANALYTICAL TECHNIQUES
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioanalytical Techniques 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. To provide the students an ability to understand the principles of instrumentation used in biotechnology research
+ii. To impart the knowledge of different techniques and methods in biotechnology and biochemical engineering
+iii. To improve the understanding of applications of techniques in the field of biotechnology and biochemical
+engineering
+4. Course Content:
+Module I: Spectroscopy Techniques: UV-Visible, Fluorescence, FTIR, NMR, ESR, Raman Spectroscopy,
+Mass Spectrometry (MALDI-TOF), LS-MS, ICP-MS, AAS, Circular Dichroism, XRD.
+Module II: Biomedical Imaging techniques: MRI, X-ray, Scintigraphy, Angiography, Diagnostic instrument
+techniques, etc.
+Module III: Microscopy: Optical, bright field, dark field, phase contrast, Fluorescence, Confocal laser
+scanning microscope, SEM, TEM, Atomic force microscope
+Module IV: Flow cytometry, immunotechniques and radioactive techniques.
+*- Demonstration of available instruments.
+5. Text/Reference:
+a) I. D. Campbell, Biological spectroscopy (Benjamin/Cummings Pub. Co, Menlo Park, Calif, 1984), Biophysical techniques series.
+b) K. Wilson, J. M. Walker, Eds., Principles and techniques of biochemistry and molecular biology (Cambridge University Press,
+Cambridge, UK: New York, 7th ed., 2009).
+c) R. F. Boyer, Biochemistry laboratory: modern theory and techniques (Prentice Hall, Boston, 2nd ed., 2012).
+d) R. Katoch, Analytical techniques in biochemistry and molecular biology (Springer, New York, 2011).
+e) D. L. Spector, R. D. Goldman, Eds., Basic methods in microscopy: protocols and concepts from cells: a laboratory manual (Cold
+Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y, 2006).
+f) R. F. Boyer, Modern experimental biochemistry (Benjamin Cummings, San Francisco, 3rd ed., 2000).
+g) J. R. Lakowicz, Principles of fluorescence spectroscopy (Springer, New York, 2006; http://site.ebrary.com/id/10229235).
+h) D. B. Williams, C. B. Carter, Transmission electron microscopy a textbook for materials science (Springer, New York, 2009;
+http://dx.doi.org/10.1007/978-0-387-76501-3).
+i) R. M. Silverstein, Spectrometric identification of organic compounds (John Wiley & Sons, Hoboken, NJ, 7th ed., 2005). 12. D.
+Harvey, Modern analytical chemistry (McGraw-Hill, Boston, 2000).
+6. Course Outcomes:
+No. of Course Name of the course outcome
+Outcome
+CO-1 Understand the basic principle of the equipment available and identify the suitable and appropriate
+experiments for their research
+CO-2 Student would have gained sufficient knowledge about the assays and analyzing data
+CO-3 Understand the principle concepts in using microscopy and spectroscopy techniques
+CO-4 Overall, gaining an understanding of the biomolecules at molecular level that are used for their analysis.
+CO-5 Understand how to quantify and assay for different biomolecules
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 3 1 - - 3 2 - 3
+CO-2 3 - - 3 2 1 3 2
+CO-3 2 1 - 2 1 1 2 1
+CO-4 2 1 1 3 2 - 3 2
+CO-5 2 1 1 2 1 2 2 1
+Total 12 4 2 10 9 6 10 9
+Average 2 1 1 3 2 2 3 2
+6
+
+--- Page 8 ---
+Core Course 02: (1st Semester)
+1. Name of the Subject: BIOTECHNOLOGY AND BIOCHEMICAL ENGINEERING
+PRINCIPLES
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biotechnology and 3 1 0 4 4 20 50 30
+Biochemical engineering
+Principles
+3. Course Objectives:
+i. To review the basic microbiology, biochemistry and rDNA technology essential for analysis of a biological system.
+ii. To provide students an overview of heat and mass transfer operations, flow of fluid, unit operations and unit processes.
+iii. The course also contains a module covering fundamentals of several processes involved in biological systems.
+4. Course Content:
+Module I: Introduction to basic and applied microbiology, Kinetics of cell growth, Concept of microbial recombination
+and transformation, Restriction and DNA modifying enzymes, Cloning and expression vectors, Expression of
+recombinant in bacterial, yeast and mammalian systems; Biotransformations, Enzymes as biocatalysts; Enzyme
+kinetics.
+Module II: Principle of fluid flow: Elements of fluid dynamics (viscosity, fluid flow regimes, typical applications of
+Newtonian laminar flow), Flow properties of fluid, Transportation of fluids, flow of particulate solids; Application of
+fluid flow principles in Biotechnology
+Module III: Principle of heat and mass transfer: Mechanisms of heat and mass transfer, Conductive heat and mass
+transfer (Fourier and Fick laws, examples of steady state conductive heat and mass transfer process), Convective heat
+and mass transfer (Determination of heat and mass transfer coefficients in bioreactors, Application of dimensionless
+numbers in convective heat and mass transfer), Steady state interphase mass transfer, Unsteady state heat and mass
+transfer.
+Module IV: Modes of bioreactor operation; Material and Energy balances (steady and unsteady state) in Bioprocesses;
+Importance of rheological properties of fermentation broth; Design of heat exchanger for bioprocessing, Pasteurization;
+Agitation and aeration in Bioprocess; Biological treatment of Wastewater
+5. Texts/References:
+a) Steven C Chapra, Raymond P Canale. “Numerical Methods for Engineers”, McGraw Hill, 6th Edition, 2010.
+b) Pauline M. “Bioprocess Engineering Principles”, Elsevier, 2nd Edition, 2013
+c) DoranFox RW and McDonald AT, "Introduction to fluid mechanics", John Wiley & Sons. 6th edition, 2010.
+d) McCabe WL, Smith JM and Harriot P, "Unit Operations of Chemical Engineering", McGraw Hill, 7th edition, 2005
+e) Geankoplis, “Transport process and Unit Operations”, PHI, 4th Ed., 2007.
+6. Course Outcomes:
+No. of Course Outcome Name of the course outcome
+Ability to apply basic principles of microbiology, biochemistry, and r-DNA in the field of
+CO-1
+biotechnology and biochemical engineering
+CO-2 Ability to apply basic principles of heat and mass transfer in the field of biochemical engineering
+CO-3 Ability to apply basic principles of fluid flow in the field of biochemical engineering
+Ability to solve basic numerical problems based on material and energy balance involved in the
+CO-4
+field of biochemical engineering
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 2 2 2 3 -
+CO-2 2 1 3 2 3 2 3 -
+CO-3 1 2 2 2 2 2 3 -
+CO-4 2 2 3 2 3 3 3 3
+Total 7 7 11 8 10 9 12 3
+Average 1.75 1.75 2.75 2 2.5 2.25 3 3
+7
+
+--- Page 9 ---
+Core Course 03: (1st Semester)
+1. Name of the Subject: GENOMICS AND PROTEOMICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Genomics and Proteomics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. To provide an overview of genome organization, genome sequencing and their application in modern research.
+ii. To discuss the crucial concepts and techniques applied in gene regulation, gene transcription and translation of
+different organism.
+iii. The course will also discuss about the complexity of genome/ proteome organization, proteogenomics and
+transcriptomics.
+4. Course Content:
+Module I: Concept of structural genomics: Overview of Human genome organization, DNA sequencing
+strategies, DNA marker and mapping; RFLP, SNP, SSLP, STS mapping, Advance DNA sequencing techniques;
+Genome-wide association (GWA) analysis; Massively parallel Signature Sequencing (MPSS)
+Module II: Functional Genomics: Introduction to DNA microarray; Designing and producing microarrays;
+types of microarrays; cDNA microarray technology; oligonucleotide arrays; Gene Expression analysis by cDNA
+and oligonucleotide arrays; Subtractive DNA library screening, Differential display.
+Module III: Concept of transcriptomics: Concepts of forward and reverse genetics; Transcript Sequencing vs.
+Hybridization; Functional Genomics using RNAi; High throughput transcriptomic techniques – Comparative
+Genomic Hybridization (CGH); Serial Analysis of Gene Expression (SAGE)
+Module IV: Advanced Proteomics: Over-View of strategies used for the identification and analysis of proteins;
+1-D and 2-D Polyacrylamide Gel Electrophoresis (PAGE) of Proteins, Zymogram; western blotting, DIGE,
+iTRAQ, MRM techniques Mass-Spectrometry in Proteomics, analysis, functional and comparative Proteomics,
+protein microarray and applications.
+5. Text/Reference:
+a) Terence A Brown., Genomes, 2nd edition; Oxford: Wiley-Liss; 2002. ISBN-10: 0-471-25046-5
+b) Richard M. Twyman; ‘Principles of Proteomics’, Publisher: BIOS Scientific Publishers, ISBN: 978-0815344728
+c) Matthiesen R, ‘Mass Spectrometry Data Analysis in Proteomics’; Humana Press 2007; ISBN: 978-1-58829-563-7
+d) Introduction to Proteomics: Tools for the New Biology. Daniel C. Liebler, Humana Press Inc., 2002. ISBN-10: 0896039919
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To understand the basic concepts genomics, transcriptomics and proteomics and
+its importance in modern research
+CO-2 To learn and analyze the various techniques, tools and online resources used in
+genomics, transcriptomics and proteomics research.
+CO-3 To acquire the knowledge of gene expression and its application in clinical and
+health sciences.
+CO-4 To study the complex interaction between genomics and proteomics and their
+application in modern research.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 1 1 3 3 3 3 3 3
+CO-2 1 1 2 2 3 2 2 3
+CO-3 2 1 3 3 3 3 3 3
+CO-4 - 1 3 2 2 3 2 2
+Total 4 4 11 10 11 11 10 11
+Average 1.3 1 2.75 2.5 2.75 2.75 2.5 2.75
+8
+
+--- Page 10 ---
+Core Course 04: (1st Semester)
+1. Name of the Subject: APPLIED BIOINFORMATICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Applied Bioinformatics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. To integrate fundamental biological concepts with information technologies to learn about the molecular and
+cellular systems.
+ii. Analyze and evaluate biological data to predict evolutionary relationship between the microbes, plants and
+mammals.
+iii. Implement computational methodologies in order to solve complex biological problems.
+4. Course Content:
+Module I: Biological databases: Protein and Nucleotide databases, Pairwise Sequence Alignment:
+Dynamic Programming, Local and Global Alignment, Functional Annotation, Multiple sequence
+alignment, algorithms and applications
+Module II: Distance and Character based methods for phylogenetic tree
+construction: UPGMA, Neighbour joining, Ultrametric and Min-ultrametric trees, Parsimonous trees,
+Additive trees, statistical evaluation methods.
+Module III: Molecular Docking principles and applications, Molecular dynamics simulations, Protein
+structure: visualization & prediction, Homology Modeling.
+Module IV: Heuristic algorithms: Artificial Neural Networks and Hidden Markov Models and
+applications; Programming techniques in bioinformatics, Microarrays and Clustering techniques for
+microarray data analysis
+5. Text/Reference:
+a) Arthur Lesk; Introduction to Bioinformatics, Oxford University Press, Second edition, 2002
+b) David W. Mount; Bioinformatics: Sequence and Genome Analysis; CSHL Press; First edition, 2001
+c) Jin Xiong; Essential Bioinformatics. Cambridge University Press, 1st edition 2006
+d) Richard Durbin; Sean R. Eddy; Anders Krogh; Graeme Mitchison; Biological Sequence Analysis: Probabilistic Models
+of Proteins and Nucleic Acids, Cambridge University Press, 3rd edition, reprint 2008.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To comprehend the scope of Bioinformatics and the importance of biological
+database using online resources
+CO-2 To acquire the contextual knowledge of exhaustive and heuristic algorithms used
+for sequence alignment.
+CO-3 To study and evaluate the phylogenetic model for better interpretation of biological
+data for human welfare.
+CO-4 To analyze the structure of genome and proteome using probabilistic model, online
+resources and testing the accuracy of predicted model.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 1 2 3 3 2 3 2 3
+CO-2 1 3 3 3 3 2 2 3
+CO-3 1 3 3 3 3 3 2 2
+CO-4 1 2 2 3 3 2 2 2
+Total 4 10 11 12 11 10 8 10
+Average 1 2.5 2.75 3 2.75 2.5 2 2.5
+9
+
+--- Page 11 ---
+Practical Course#01: (1st Semester)
+1. Name of the Subject: BIOANALYTICAL TECHNIQUES LABORATORY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioanalytical Techniques 0 0 2 3 2 - 80 20
+Laboratory
+3. Course Objectives:
+i. To impart technical knowledge about the working principle and applications of different equipment related to
+biotechnology experiments.
+ii. To enable the students to understand the principles of instrumentation.
+iii. To impart the knowledge of different techniques and methods in biotechnology and biochemical engineering.
+4. Course Content:
+Exposure to the following instruments, sample preparation, data analysis and its interpretation
+A) Microscopy: optical microscope, atomic force microscope, SEM, TEM;
+B) Spectrophotometric techniques: UV-Visible, FTIR, Fluorescence; AAS
+C) PCR and RT-PCR;
+D) HPLC, GC;
+E) Homogenizer; Centrifuge;
+F) Sterilization units, Pumps and Bioreactor;
+G) Biomedical instrumentations;
+5. Text/Reference:
+a) Plummer Mu, David T. Plummer, Introduction to Practical Biochemistry, Tata McGraw-Hill Education, 1988
+b) J. Sambrook, E.F. Fritsch, T. Maniatis. Molecular Cloning: A Laboratory Manual (Volume I, II & III), Cold Spring Harbor Laboratory
+press.
+c) Skoog, D.A., Crouch, S.R., and Holler, F.J. “Principles of Instrumental Analysis”, 6th edition, Brooks/Cole, USA, 2006.
+d) Williams, D. and Fleming, I. “Spectroscopic Methods in Organic Chemistry”, 6th edition, McGraw-Hill Higher Education,
+Maidenhead,UK, 2008.
+e) Freifelder D., Willard and Merrit, Instrumental Methods and Analysis 5. Ewing GW, Instrumental Methods of Chemical analysis.
+f) D. L. Spector, R. D. Goldman, Eds., Basic methods in microscopy: protocols and concepts from cells: a laboratory manual (Cold Spring
+Harbor Laboratory Press, Cold Spring Harbor, N.Y, 2006).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to explain principles of the performed experiments.
+CO-2 Demonstrate proper operation of the equipment and instruments used in this course.
+CO-3 To acquire the knowledge of standard of practice for safe handling of equipments.
+CO-4 Able to solve their unknown problems and document the results in laboratory
+reports.
+CO-5 Complete exams that require problem solving and creative thinking.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 1 1 3 3 2 3 3
+CO-2 2 - - 3 3 3 3 3
+CO-3 2 1 2 2 2 2 2 2
+CO-4 2 - 2 3 2 3 3 2
+CO-5 1 1 3 3 2 3 3 2
+Total 10 3 8 14 12 13 14 12
+Average 2 1 2 3 2 2.6 3 2
+10
+
+--- Page 12 ---
+Practical Course 02: (1st Semester)
+1. Name of the Subject: APPLIED BIOINFORMATICS LAB
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Applied Bioinformatics lab 0 0 2 3 2 - 80 20
+3. Course Objectives:
+i. To give practical exposure about basic online resources, tools and databases employed in bioinformatics.
+ii. To develop bioinformatics programs for comparing & analyzing biological data to identify probable biological
+function.
+iii. Able to learn different computational methodologies to retrieve the suitable information from large datasets of
+biological origin.
+4. Course Content:
+1. Knowledge of different biological database: Protein and gene sequence databases, Structure
+databases, Pathway Databases, Bibliographic database (PUBMED, MEDLINE)
+2. Sequence retrieval from biological database,
+3. Sequence similarity searching of nucleotide and protein sequences, Finding homologous sequences,
+Multiple sequence alignment, Dynamic programming method- local and global alignment
+4. Gene prediction methods, Primer Design for PCR, restriction enzymes, resource for restriction
+enzyme (REBASE), similarity search, application of BioEdit,
+5. Tools and libraries for software development (Biopython), Visualization tools (PyMol), Analysis of
+protein sequence using Expasy.
+6. Predict the structure of protein Homology modelling, phylogentic tree construction.
+7. Drug Receptor interaction, Molecular docking, Energy minimization of a molecule, CADD
+8. Bioperl modules- Databases, sequence retrieval & alignment, restriction enzyme analysis, mutation
+studies.
+5. Text/Reference:
+a) Andreas D. Baxevanis and B. F. Francis Ouellette. BIOINFORMATICS: A Practical Guide to the Analysis of Genes and Proteins.
+A JOHN WILEY & SONS, INC., PUBLICATION, 2001
+b) Jin Xiong; Essential Bioinformatics. Cambridge University Press, 1st edition 2006.
+c) David W. Mount; Bioinformatics: Sequence and Genome Analysis; CSHL Press; First edition, 2001
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to demonstrate the basic knowledge of biological database and data mining
+though online resources
+CO-2 Able to interpret the biological data and implementation in diagnostics, research,
+drug discovery and other biotechnological industries.
+CO-3 Able to predict the evolutionary relationship using dynamic programming and
+machine learning algorithms
+CO-4 Able to visualize the protein structure and it its folding mechanism by various
+online resources
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 - - 3 2 3 3 2
+CO-2 2 2 3 3 3 3 3 3
+CO-3 3 - 2 3 3 3 3 3
+CO-4 3 - 2 3 3 3 3 3
+Total 9 2 7 12 11 12 12 11
+Average 2.25 2 2.3 3 2.7 3 3 2.7
+11
+
+--- Page 13 ---
+Sessional Course 01: (1st Semester)
+1. Name of the Subject: SEMINAR
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Seminar 0 0 1 2 1 - 100 -
+3. Course Objectives:
+i. Student will able to point out and discuss about the current, real word scientific problems and social welfares.
+ii. Student will able to improve their communication and presentation skill.
+4. Course Content:
+Oral presentation on contemporary topic related to Biotechnology and Biochemical engineering.
+5. Text/Reference:
+Journals, Articles and book chapters related to the topics. Students can also access various online portals and
+databases (like e-sodhsindhu, PUBMED).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to present the contemporary research in a brief meaningful way.
+CO-2 Able to improve the oral communication and presentation skills
+CO-3 Able to develop persuasive speech and proper argumentative skills in the
+presence of experts and panel members
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 3 2 3 2 2 3 2
+CO-2 3 3 1 3 2 1 3 2
+CO-3 2 3 2 3 - 3 3 -
+Total 7 9 5 9 4 6 9 4
+Average 2.3 3 1.6 3 2 2 3 2
+12
+
+--- Page 14 ---
+Theory (Core) Course 05: (2nd Semester)
+1. Name of the Subject: BIOREACTOR DESIGN AND ANALYSIS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioreactor Design and analysis 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. To provide students an in-depth knowledge of design, operation and optimization of bioreactors commonly used
+for preparation of biochemical products.
+ii. The course focuses on different online, offline analytical methodologies required for optimal reactor performance.
+iii. The course also includes advanced level design of different batch, continuous, and semi-batch reactors under ideal
+and non-ideal conditions along with an overview of scale-up.
+4. Course Content:
+Module I: On-line data analysis for measurement of important physico-chemical and biochemical parameters;
+Methods of on-line and off-line biomass estimation
+Module II: Gas-liquid mass transfer in cellular systems, determination of oxygen transfer rates, mass transfer for
+freely rising or falling bodies, forced convection mass transfer, Overall kla estimation and power requirements
+for sparged and agitated vessels, mass transfer across free surfaces, other factors affecting kla, non-Newtonian
+fluids, Heat transfer correlations, thermal death kinetics of microorganisms, batch and continuous heat,
+sterilisation of liquid media, filter sterilisation of liquid media, Air. Design of sterilisation equipment batch and
+continuous.
+Module III: Ideal bioreactors-batch, fed batch, continuous, cell recycle, plug flow reactor, two stage reactors,
+enzyme catalyzed reactions, other types of reactors- fluidized bed reactors, packed bed reactors, bubble column
+reactors, trickle bed reactors, non-ideality in bioreactors, Bioreactor strategies for maximising product formation;
+Case studies on high cell density cultivation and plasmid stabilization methods, Bioprocess design considerations
+for plant and animal cell cultures, Analysis of multiple interacting microbial populations
+Module IV: Scaleup by geometry similitude, oxygen transfer, power correlations, mixing time
+5. Text/Reference:
+a) Michael L. Shuler and Fikret Kargi, Bioprocess Engineering: Basic Concepts, Prentice Hall, 1992
+b) James M. Lee, Biochemical Engineering, Prentice Hall, 1992
+c) Pauline Doran, Bioprocess Engineering Principles, 2nd Edition, Academic Press 2012
+d) James E. Bailey and David F. Ollis, Biochemical Engineering Fundamentals, McGraw Hill 1986.
+e) S.Liu, Bioprocess Engineering: Kinetics, Biosystems, Sustainability, and Reactor Design, Elsevier, 2016
+f) Octave Levenspiel, Chemical Reaction Engineering, Wiley 2016.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+Understand different Online, offline analytical methodology required for optimal
+CO-1
+fermentation process and its importance.
+CO-2 Design of heat transfer equipment, mass transfer equipment, and sterilization process
+CO-3 Design of different batch, continuous, and semi-batch reactors under ideal conditions
+Design of different batch, continuous, and semi-batch reactors under non-ideal
+CO-4
+conditions and design of process
+CO-5 Understand the aspects of scale-up.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 2 3 1 1 3 -
+CO-2 2 1 2 3 1 1 3 -
+CO-3 2 1 2 3 1 1 3 -
+CO-4 2 1 2 3 1 1 3 3
+CO-5 2 1 2 3 1 1 2 1
+Total 10 5 10 15 5 5 14 4
+Average 2 1 2 3 1 1 2.8 2.0
+13
+
+--- Page 15 ---
+Theory (Core) Course 06: (2nd Semester)
+1. Name of the Subject: BIOSEPARATION TECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioseparation Technology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. The objective of this course is to describe scientific and engineering principles utilized for separation and
+purification techniques which are used for large scale purification of biochemical products.
+ii. The course also includes major unit operations involved in downstream processing in the field of biotechnology
+and biochemical engineering.
+iii. The course focuses on designing and execution of a treatment train for recovery and purification of various
+commercially available biochemical products.
+4. Course Content:
+Module I: Biomass harvesting: sedimentation, flocculation, centrifugation and filtration; Cell disruption:
+sonication, bead mills, homogenizers, chemical lysis and enzymatic lysis
+Module II: Precipitation (precipitation using organic solvent, salt, large scale precipitation, factors
+affecting precipitation), Extraction (chemistry of extraction, batch extraction, staged extraction, differential
+extraction, aqueous two-phase extraction, supercritical extraction) Electrophoresis, Crystallization,
+Drying, Lyophilization
+Module III: Adsorption (chemistry of adsorption, adsorption in batch, CSTR and fixed-bed);
+Chromatography: General HPLC theory and terminology (principle, theoretical plates, retention time,
+retention factor, band broadening, resolution, yield and purity), HPLC techniques (affinity, ion exchange,
+size exclusion, reverse phase, hydrophobic interaction)
+Module IV: Membrane based purification: microfiltration, ultrafiltration, diafiltration, reverse osmosis,
+dialysis, pervaporation. Product recovery trains for commercial enzymes, antibiotics, organic acids etc.
+5. Text/Reference:
+a) Roger G Harrison et al “Bioseparation Science and Engineering” Oxford University Press, 2003
+b) Belter PA and Cussler E, “ Bioseparations”, Wiley 1985
+c) Christie J Geankoplis, “Transport processes and unit operations” Allyn& Bacon, 1978
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+Understand principles of separation and purification techniques used in
+CO-1
+biotechnology and biochemical engineering
+Understand scientific and engineering principles utilized for large scale
+CO-2
+purification of biochemical products
+Understand the major unit operations involved in downstream processing in
+CO-3
+the field of biotechnology and biochemical engineering.
+Design and optimize downstream operations in the field of biotechnology and
+CO-4
+biochemical engineering
+Understand the downstream processing of various commercially available
+CO-5
+biochemical products.
+7. CO-PO Matrices:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 3 3 - 1 3 -
+CO-2 2 1 2 3 - 2 3 -
+CO-3 1 2 2 3 - 2 3 -
+CO-4 2 1 3 3 3 3 3 3
+CO-5 2 2 1 2 1 1 2 1
+Total 7 8 11 14 4 9 14 4
+Average 1.75 1.6 2.2 2.8 2.0 1.8 2.8 2.
+14
+
+--- Page 16 ---
+Practical Course#03: (2nd Semester)
+1. Name of the Subject: BIOTECHNOLOGY AND BIOCHEMICAL ENGINEERING LAB
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biotechnology and Biochemical 0 0 2 3 2 - 80 20
+Engineering Lab
+3. Course Objectives:
+i. Develop skills of the students on advanced molecular biology techniques.
+ii. To impart practical knowledge in cell culture techniques, growth of microbes, sterilization, on-line process monitoring.
+iii. To develop the understanding of reaction kinetics in biochemical reactions and mass transfer in bioreactors.
+4. Course Content:
+1. Determination of microbial cell biomass by spectrophotometric, microscopic, gravimetric methods.
+2. Estimation of various kinetic parameters (such as yield coefficient, specific growth rate, and maintenance)
+from bacterial growth curve.
+3. To study the sterilization kinetics and determine the holding time
+4. Determination of the Monod substrate saturation constant for microbial growth
+5. To determine the Michaelis-Menten kinetic constants - maximum velocity of reaction (Vm) and saturation
+constant (Km) values of an enzyme catalysed reaction
+6. Understanding of dissolved oxygen (DO) measurement system of a bioreactor and its calibration
+7. Estimation of overall mass transfer coefficient (kLa) by dynamic gassing out technique
+8. Estimation of mixing time in a batch reactor
+9. Understanding of pH measurement system of a bioreactor and its calibration
+10. Estimation of power input with gassing in a batch reactor
+11. Isolation of plasmid DNA, genomic DNA; construction of recombinant DNA
+12. Preparation of competent cells, transformation and expression of recombinants
+13. Solubilisation and refolding of inclusion body proteins.
+14. Study of Plasmid stability and competence in recombinant cell.
+5. Text/Reference:
+a) Debabrata Das, Debayan Das, Biochemical Engineering: A Laboratory Manual, CRC press, 2020.
+b) J. Sambrook, E.F. Fritsch, T. Maniatis. Molecular Cloning: A Laboratory Manual (Volume I, II & III), Cold Spring Harbor
+Laboratory press.
+c) P. Gunasekharan, “Laboratory Manual in Microbiology”, 1st ed., Newage International Publishers. 2005.
+d) Peter F. Stanbury, Stephen J. Hall & A. Whitaker, “Principles of Fermentation Technology”, Butterworth – Heinemann An Imprint
+of Elsevier India Pvt.Ltd., 2nd edition, 2005
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Obtain hands-on experience in state of art laboratory techniques and documentation
+CO-2 Understand to recent upstream developments in the fields of genetic engineering-gene cloning towards
+strain improvement
+CO-3 Comprehend the state of the arts in the field of biochemical engineering specifically techniques to
+measure, calibrate and control bioprocess controlling parameters
+CO-4 Understand the kinetic behaviour of microbial and enzymatic system through development of
+appropriate mathematical models
+CO-5 Obtain hands-on experience in state of art laboratory techniques and documentation
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 2 3 1 1 2 1 2 1
+CO-2 3 - 2 2 2 2 2 2
+CO-3 3 1 2 2 1 2 2 2
+CO-4 3 - 2 2 1 1 2 2
+CO-5 11 4 7 7 6 6 8 7
+Total 2.75 1 1.75 1.75 1.5 1.5 2 1.75
+Average 2 3 1 1 2 1 2 1
+15
+
+--- Page 17 ---
+Practical Course#04: (2nd Semester)
+1. Name of the Subject: BIOPROCESS AND BIOSEPARATION LAB
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioprocess and Bioseparation Lab 0 0 2 3 2 - 80 20
+3. Course Objectives:
+i. The course provides a “hands-on” laboratory-based reinforcement of concepts covered in the field of biotechnology and
+biochemical engineering.
+ii. The course is designed to provide practical training on various techniques involved in separation and purification of
+metabolites from microbial source.
+iii. The course aims at preparation and aseptic handling of culture medium along with operation and optimization of
+process parameters in a bioreactor.
+4. Course Content:
+1. Sterilization, disinfection, safety in microbiological laboratory
+2. Isolation of microorganisms, preparation of media for microbial growth
+3. Determination of thermal death point and thermal death time of microorganisms
+4. To study biotransformation using immobilized enzymes in a batch/ packed-bed/ fluidized bed reactor.
+5. To compare kinetic parameters between free and immobilized enzyme systems in a batch reactor
+6. Determination of intra-particle diffusion coefficient in adsorption operation
+7. Preparation and characterization of immobilized enzymes
+8. Extraction and purification of biomolecules from microbial sources to simulate industrial microbial processes.
+9. Separation of proteins through SDS-PAGE, isoelectric focusing
+10. Applications of membrane separation in large-scale purifications
+11. Application of chromatographic methods in bioseparations.
+5. Text/Reference:
+a) P. Gunasekharan, “Laboratory Manual in Microbiology”, 1st ed., Newage International Publishers. 2005.
+b) Peter F. Stanbury, Stephen J. Hall & A. Whitaker, “Principles of Fermentation Technology”, Butterworth – Heinemann An Imprint
+of Elsevier India Pvt.Ltd., 2nd edition, 2005
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Prepare independently proper culture medium for microbial growth and can handle them
+aseptically
+CO-2 Comprehend various process variables and types of bioreactors used in industry
+CO-3 Operate and optimize process parameters in a bioreactor for producing useful industrial
+products
+CO-4 Proficiency in designing and conducting experiments involving gene manipulation.
+CO-5 Understand various techniques involved in separation and purification of metabolites from
+microbial source.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 3 2 3 3 2 2 3 2
+CO-2 3 1 3 3 2 2 3 2
+CO-3 2 1 2 2 2 3 3 2
+CO-4 2 1 3 2 2 2 3 3
+CO-5 2 2 1 2 2 2 2 1
+Total 12 7 12 12 10 11 14 10
+Average 2.4 1.4 2.4 2.4 2 2.2 2.8 2.0
+16
+
+--- Page 18 ---
+Sessional Course#02: (2nd Semester)
+1. Name of the Subject: PROJECT PRELIMINARY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Project Preliminary 0 0 3 6 3 - 100 -
+3. Course Objectives:
+i. Student will able to develop the higher cognitive abilities about the modern research and development about the
+selected field.
+ii. Apply their theoretical framework in the qualitative research.
+4. Course Content:
+Familiarization with various techniques used in contemporary research in the field of biotechnology
+and biochemical engineering that will be useful in successful completion of their project work in the
+final year.
+5. Text/Reference:
+Journals, Articles and book chapters related to the topics. Students can also access various online
+portals and databases (like e-sodhsindhu, NCBI).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to conduct a systematic search of the relevant research literature from
+reputed journals.
+CO-2 Able to gain knowledge of contemporary research, current development and
+novel methodologies in the field of biotechnology and biochemical
+engineering.
+CO-3 Understand the significance of integrity and ethics in the field of research and
+publication.
+CO-4 Able to prepare state of art report in the broad area of their M. Tech project
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 3 2 3 2 2 3
+CO-2 1 - 3 1 - 2 1 -
+CO-3 1 1 3 - - 2 - -
+CO-4 3 3 3 - 3 2 - 3
+Total 7 5 12 3 6 8 3 6
+Average 1.75 1.66 3 1.5 3 2 1.5 3
+17
+
+--- Page 19 ---
+Sessional Course#03: (2nd Semester)
+15. Name of the Subject: COMPREHENSIVE VIVA VOCE
+16. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Comprehensive Viva Voce 0 0 2 0 2 - 100 -
+17. Course Objectives:
+The objective of this course is to evaluate the theoretical knowledge of the students in the relevant field of
+Biotechnology and Biochemical engineering.
+18. Course Content:
+1st semester and 2nd Semester M. Tech Course curriculum.
+5. Text/Reference
+All books of M. Tech Course Curriculum
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Demonstrate in depth knowledge in the current program domain in front of
+experts and panel members.
+CO-2 Demonstrate good communication skill and professional etiquettes
+CO-3 Provide a platform to express their thoughts precisely and persuasively for
+future endeavor
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 - 1 3 2 - 1 2 -
+CO-2 2 - 3 - - - - -
+CO-3 - 1 2 2 - 1 2 1
+Total 2 3 8 4 - 2 4 1
+Average 2 1 2.6 2 - 1 2 1
+18
+
+--- Page 20 ---
+Sessional Course #04: (3rd Semester)
+1. Name of the Subject: PROJECT AND THESIS-1
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Project and Thesis-1 0 0 10 - 10 - 100 -
+3. Course Objectives:
+i. To help the students to distinguish analogies between the theoretical concept and experimental work in a
+particular field.
+ii. To involve the students in integrated activities of reading, research and discussion around a selected field.
+iii. Create a collaborative environment that helps the student to establish healthy relationships among the
+colleagues.
+4. Course Content:
+Literature survey and project related work.
+5. Text/Reference:
+Journals, Articles and book chapters related to the topics. Students can also access various online
+portals and databases (like e-sodhsindhu, NCBI).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to design the appropriate working protocol and plan the experiments.
+CO-2 Capable of self-education and clearly understand the value of achieving
+perfection in the respective Project work.
+CO-3 Able to work in multidisciplinary environments as a member and leader in a
+Project team
+CO-4 Able to interpret, discuss and communicate scientific results in the oral and
+written form with clarity.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 2 3 3 2 3
+CO-2 3 3 3 1 - 1 1 -
+CO-3 3 3 3 - - 2 - -
+CO-4 3 3 2 - 3 2 - 3
+Total 12 12 11 3 3 8 3 3
+Average 3 2.75 3 3 3 2 3 3
+19
+
+--- Page 21 ---
+Practical Course#07: (3rd Semester)
+1. Name of the Subject: PROJECT AND THESIS-2
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Project and Thesis-2 0 0 20 - 20 - 300 -
+3. Course Objectives:
+i. Able to understand the relevance of the problem for the chosen filed and gain deeper knowledge of the
+contemporary research.
+ii. Learn to write the scientific notes, technical reports, research article and review papers.
+4. Course Content:
+Project related work, Preparation of M. Tech dissertation.
+5. Text/Reference:
+Journals, Articles and book chapters related to the topics. Students can also access various online
+portals and databases (like e-sodhsindhu, NCBI).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to acquire in depth knowledge and technical skills in their chosen field of
+research.
+CO-2 Able to write with project report independently with proper data interpretation
+and formulate it in terms of journal publications and conference proceedings.
+CO-3 Able to communicate and present their research work to the experts and panel
+members.
+CO-4 Able to develop proficient research aptitude and technical skills to secure a
+position in the relevant field of biotechnology and biochemical engineering
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 2 3 3 2 3
+CO-2 3 3 3 1 - 3 1 -
+CO-3 3 3 3 - - 3 - -
+CO-4 3 3 2 - 3 3 - 3
+Total 12 12 11 3 3 12 3 3
+Average 3 2.75 3 3 3 2.75 1.5 3
+20
+
+--- Page 22 ---
+Elective courses#01
+1. Name of the Subject: BIOPROCESS PLANT DESIGN
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioprocess Plant Design 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. To understand the fundamental concept of bioprocess plant design.
+ii. To learn the process flow diagram, material & energy balance calculation method of design.
+iii. Learn about the process of bioprocess plant design, such as, design, process design, plant design, design development stages.
+iv. Develop the design objectives: new process development, new production capacity to meet growing sales, modification and addition
+to existing plants, setting design basis, generation of possible design concepts, economic evaluation, optimization and selection.
+v. Apply it for process intensification. Use different softwares for process development, design purpose.
+4. Course Content:
+Module–1: Introduction; general design information, mass and energy, flow sheeting, piping and instrumentation, difference
+between Block Flow Diagrams (BFDs), Process Flow Diagrams (PFDs), Piping and Instruments (PIDs) or P & I Diagram, major
+factors necessary in the selection of plant site, advantage of plant layout.
+Module-2: Materials of construction for bioprocess plants, mechanical design of process equipment, vessels for biotechnology
+applications, design consideration for maintaining sterility of process streams and processing equipment.
+Module-3: Selection and specification of equipment for handling fluids and solids, selection specification and design of heat
+and mass transfer equipment used in bioprocess industries, utilities for biotechnology production plants.
+Module–4: Process economics, bioprocess validation, safety considerations, case studies. Learn to handle different types of
+modelling & simulation and optimization software to bioprocess plant design.
+5. Text/ References
+a) Peter MS, Timmerhaus KD, “Plant design and economics for chemical Engineering” McGraw Hill International edition, 4th edition,
+1991.
+b) Gavin Towler, Ray Sinnot, “Chemical Engineering Design, Principles, Practice & economics of Plant & Process Design”’ ELSEVIER
+BH Publication.
+c) Harry Silla, “Chemical Process Engineering, Design & Economics”, Marcel Dekker, INC.
+d) Demetri Petrides, “Bioprocess design”
+e) Frank Peter Helmus, “Process plant design” Wiley
+f) J. R. Backhurst, J. H. Harker, Process plant design” Heinemann Educational Books Ltd.
+g) Pauline M. Doran, “Bioprocess engineering principle” Elseiver, 2nd edition
+h) B.C. Bhattacharyya, “Introduction to chemical equipment design” CBS Publishers and Distributors.
+i) Sean Moran, “An applied guide to process and plant design” 2nd edition.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the fundamental concept of bioprocess plant design.
+CO-2 Learn the process flow diagram, material & energy balance, instrumentation & control,
+optimization, plant safety, calculation method of design.
+CO-3 Learn about the process of bioprocess plant design: equipment, process, product & entire plant
+design, design development stages.
+CO-4 Develop the design objectives: new process development, new production capacity to meet growing
+sales, modification and addition to existing plants, setting design basis, generation of possible
+design concepts, economic evaluation, optimization and selection.
+CO-5 Apply it for process intensification. Use different software’s, modeling, simulation and optimization
+technique for process development, design energy saving and cost minimization purpose.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 3 1 3 3
+CO-2 3 3 3 3 3 1 3 3
+CO-3 3 3 3 3 2 2 2 2
+CO-4 3 3 3 3 3 2 3 2
+CO-5 3 3 3 3 3 1 3 2
+Total 15 15 15 15 14 7 14 12
+Average 3 3 3 3 2.8 1.4 3 2.5
+21
+
+--- Page 23 ---
+Elective courses#02
+1. Name of the Subject: BIOMEDICAL SIGNAL AND IMAGE PROCESSING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biomedical Signal and Image 3 1 0 4 4 20 50 30
+Processing
+3. Course Objectives:
+I. This course presents the fundamentals of digital signal processing with particular emphasis on problems in biomedical
+research and clinical medicine
+II. To Understand the biomedical signal and image processing methods and skills for processing/analysis of biomedical
+data obtained from various modalities (EEG, ECG, MRS spectroscopy, MRI, CT, nuclear imaging).
+4. Course Content:
+Module I: Data Acquisition: Sampling in time, aliasing, interpolation, and quantization, time-
+averaging, ensemble averaging cross-correlation function. Discrete time systems and signals; Different
+transform and techniques for filter designs.
+Module II: Inverse filtering: Deconvolution and equalization techniques, Weiner, Linear prediction
+etc., Signal reconstruction; Time frequency Analysis - STFT, WT, DSP hardware - Design
+methodologies, and overview of programming application; Filter implementation: topology, scaling,
+coefficient quantization, signal quantization, sensitivity analysis.
+Module III: Digital image fundamentals; Matrix theory in image processing; Image transforms: 2D-
+DFT, FFT, Walsh, Hadamard, Haar, DCT and Wavelet transforms; Image enhancement techniques;
+colour image processing techniques; image compression
+Module IV: Image segmentation techniques and 3D image reconstruction methods
+5. Texts/References:
+a) Biosignal and Medical Image Processing By John L. Semmlow ,Benjamin Griffel.
+b) Biomedical Signal and Image Processing By Kayvan Najarian Robert Splinter
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+Students will get the clear domain knowledge about the various analysis of
+CO-1
+various bio-signals.
+Study the signal filtering techniques, signal restoration and different hardware
+CO-2
+designing procedures
+Students will get the clear domain knowledge the image fundamentals and image
+CO-3
+transforms
+Study the image enhancement techniques, Image restoration and compression,
+CO-4
+segmentation procedures
+Student will be able to understand the various diagnostic applications of the
+CO-5
+medical imaging techniques
+7. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 1 1 3 2 3 3 3 3
+CO-2 1 1 2 2 2 2 2 3
+CO-3 2 1 3 2 3 3 3 3
+CO-4 1 1 2 2 1 3 2 2
+CO-5 - 1 2 2 3 1 - 1
+Total 5 5 12 10 12 12 10 12
+Average 1 1 2.4 2 2.4 2.4 2 2.4
+22
+
+--- Page 24 ---
+Elective courses#03
+1. Name of the Subject: ANIMAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Animal Biotechnology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. Understanding the fundamental principles of biotechnology and its application in agriculture, veterinary sciences, medical
+sciences, industry and environment
+II. Pursuing research related to animal cell culture at national and international level.
+4. Course Content:
+Module I: Different tissue culture techniques; Types of primary culture; Chicken embryo fibroblast culture;
+Chicken liver and kidney culture; Secondary culture; Trypsinization; Cell separation; Continuous cell lines; Suspension
+culture; Organ culture etc.; Behavior of cells in culture conditions: division, growth pattern, metabolism of estimation of cell
+number; Development of cell lines; Characterization and maintenance of cell lines, stem cells; Cryopreservation; Common cell
+culture contaminants.
+Module II: Cell cloning and selection; Transfection and transformation of cells; Transfection methods - Ca phosphate
+precipitation, DEAE-Dextran mediated transfection, lipofection, fusion with bacterial protoplasts, electroporation; targeted
+gene transfer- gene disruption and gene replacement;
+Module III: Scale-up: Cell culture reactors; Scale-up in suspension; Scale and complexity; Mixing and aeration; Rotating
+chambers; Perfused suspension cultures; Fluidized bed reactors for suspension culture; Scale-up in monolayers; Multi-surface
+propagators; Multi-array disks, spirals and tubes; Roller culture; Microcarriers; Perfused monolayer cultures; Membrane
+perfusion; Hollow fiber perfusion; Matrix perfusion; Microencapsulation; Growth monitoring
+Module IV: Cell culture products: viral vaccines, interferons, recombinant proteins, hybrid antibodies; in-vitro fertilization
+in humans, embryo transfer in cattle, applications of embryo transfer technology; Production of transgenic animals with
+special reference to transgenic mice, cow and sheep; Application of animal cell culture for in vitro testing of drugs; Testing of
+toxicity of environmental pollutants in cell culture; identification and transfer of genes influencing milk quality and disease
+resistance; production of pharmaceuticals
+4. Text/Reference:
+a) Culture of animal Cells, A manual of Animal Cells, R.Ian Freshney
+b) Principles of Gene Manipulation; S. B. Primrose, R. Twyman, R.W. Old; Wiley-Blackwell; 6th Edition.
+5. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Describe the limitations and challenges facing the animal industries and disciplines
+CO-2 Describe the various biotechnologies available to the animal related fields
+CO-3 Evaluate and discuss public and ethical concerns over the use of animal biotechnology
+Locate and critically evaluate scientific literature and experimental studies relating to
+CO-4 animal biotechnology and be able to effectively communicate the findings in oral and
+written form.
+7. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO/PSO PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 2 1 1 2 1 1 3 2
+CO-2 1 1 1 1 1 1 2 2
+CO-3 1 1 1 2 1 1 3 2
+CO-4 2 1 2 1 2 2 2 2
+Total 4 4 5 6 5 5 10 8
+Average 1.5 1 1.25 1.5 1.25 1.25 2.5 2
+23
+
+--- Page 25 ---
+Elective courses#04
+1. Name of the Subject: ADVANCED IMMUNOLOGY AND IMMUNOTECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced Immunology and 3 1 0 4 4 20 50 30
+Immunotechnology
+3. Course Objectives:
+I. This course will teach the biology of the Immune system and apply this knowledge to an understanding of human disease and basic
+immunological research
+II. The course introduces students to a wide range of topics in immunology starting from cells of immune system, innate and adaptive
+immune systems, humoral immunity, antibody structure and function, basic immunological techniques, autoimmunity,
+hypersensitivity and vaccine production.
+4. Course Content:
+Module I: Immunology- fundamental concepts and anatomy of the immune system, Components of innate and acquired
+immunity; Phagocytosis; Complement and Inflammatory responses; Haematopoesis; Organs and cells of the immune system-
+primary and secondary lymphoid organs; Lymphatic system; Lymphocyte circulation; Lymphocyte homing; Mucosal and
+Cutaneous associated Lymphoid tissue.(MALT & CALT); Mucosal Immunity; Antigens - immunogens, haptens; Major
+Histocompatibility Complex - MHC genes, MHC and immune responsiveness and disease susceptibility, HLA typing.
+Module II: Immune responses generated by B and T lymphocytes, Immunoglobulins-basic structure, classes and subclasses of
+immunoglobulins, antigenic determinants; Multigene organization of immunoglobulin genes; B-cell receptor; Immunoglobulin
+superfamily; Principles of cell signaling; Immunological basis of self –non-self discrimination; Kinetics of immune response,
+memory; B cell maturation, activation and differentiation; Generation of antibody diversity; T-cell maturation, activation and
+differentiation and T-cell receptors; Functional T Cell Subsets; Cell-mediated immune responses, ADCC; Cytokines-properties,
+receptors and therapeutic uses; Antigen processing and presentation- endogenous antigens, exogenous antigens, non-peptide
+bacterial antigens and super-antigens; Cell-cell co-operation, Hapten-carrier system
+Module III: Antigen-antibody interactions: Precipitation, agglutination and complement mediated immune reactions;
+Advanced immunological techniques - RIA, ELISA, Western blotting, ELISPOT assay, immunofluorescence, flow cytometry
+and immunoelectron microscopy; Surface plasmon resonance, Biosenor assays for assessing ligand –receptor interaction, CMI
+techniques- lymphoproliferation assay, Mixed lymphocyte reaction,
+Module IV: Vaccinology: Active and passive immunization; Live, killed, attenuated, sub unit vaccines; Vaccine technology -
+Role and properties of adjuvants, recombinant DNA and protein based vaccines, plant-based vaccines, reverse vaccinology;
+Peptide vaccines, conjugate vaccines; Antibody genes and antibody engineering - chimeric and hybrid monoclonal antibodies;
+Catalytic antibodies and generation of immunoglobulin gene libraries.
+Module V: Clinical Immunology: Immunity to Infection : Bacteria, viral, fungal and parasitic infections (with examples from
+each group); Hypersensitivity – Type I-IV; Autoimmunity; Types of autoimmune diseases; Mechanism and role of CD4+ T cells;
+MHC and TCR in autoimmunity; Treatment of autoimmune diseases; Transplantation – Immunological basis of graft rejection;
+Clinical transplantation and immunosuppressive therapy; Tumor immunology – Tumor antigens; Immune response to tumors
+and tumor evasion of the immune system, Cancer immunotherapy; Immunodeficiency-Primary immune-deficiencies, Acquired
+or secondary immune-deficiencies.
+5. Text/Reference:
+a) Kuby Immunology, by Judy Owen, Jenni Punt, Sharon Stranford, Patricia Jones;
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Able to understand the various mechanisms that regulate immune responses and maintain the tolerance
+Able to understand the adverse effect of immune system including Allergy, hypersensitivity and
+CO-2
+autoimmunity
+CO-3 Able to apply basic techniques for identifying antigen and antibody interactions.
+CO-4 Able to explain the stages of transplantation of various transplant procedures
+CO-5 Able to elucidate the reasons for immunization and aware of different vaccination
+7. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 2 2 3 3 3 3
+CO-2 1 1 1 2 2 2 2 3
+CO-3 2 - 3 2 3 3 3 3
+CO-4 1 1 2 3 1 3 2 2
+CO-5 - - 2 2 3 1 3 1
+Total 5 3 10 11 12 12 13 12
+Average 1 0.6 2 2.2 2.4 2.4 2.6 2.4
+24
+
+--- Page 26 ---
+Elective courses#05
+1. Name of the Subject: SYNTHETIC BIOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Synthetic Biology 3 1 0 4 4 20 50 30
+3. Course Objective:
+i. To understand how synthetic biology alters the properties of the cell or the organism.
+ii. To apply a scientific approach to the planning, execution, reporting and interpretation of advanced projects
+with the aim at creating replicating systems with new properties that can be regulated, and to critically
+analyse the results and generate testable hypotheses from these experiments.
+4. Course Content:
+Module-I: History, definition, Concepts, standardization of biological parts and hierarchical
+abstraction, Sequencing and fabrication, multiple conditions for accurate modeling and computer-
+aided-design (CAD), laboratory highlighting BioBrick cloning and chromoprotein reporters as a
+methodology in synthetic biology.
+Module-II: Modeling: Modular protein assembly, modeling of all biomolecular interactions in
+transcription, translation, regulation and induction of gene regulatory networks; molecular motifs in a
+bigger network with upstream and downstream components in living cell.
+Module-III: Example of applications: Biological computers, Biosensors, Cell transformation, Designed
+proteins, Industrial enzymes, Information storage, Materials production, Reduced amino-acid libraries,
+Space exploration, Synthetic genetic pathways, Synthetic life, Synthetic amino acids, Synthetic
+nucleotides; Bioethics and security.
+4. Text/Reference:
+a) Liljeruhm, Josefine; Gullberg, Erik; Forster, Anthony C.Synthetic biology: a lab manual
+b) Journal: Synthetic biology, Nature Publisher
+5. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 The ability to understand the various definitions of synthetic biology
+An understanding of the context of synthetic biology with closely related field such
+CO-2
+as metabolic engineering and genetic engineering
+An understanding of the issues and relationships between ‘top down’ and ‘bottom
+CO-3
+up’ approach of synthetic biology
+An appreciation on how the synthetic biology might impact on aspects of interest
+CO-4
+to mankind internationally
+6. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO/PSO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 1 2 2 3 2 2 2 2
+CO-2 1 2 2 3 3 2 2 2
+CO-3 1 2 2 3 1 2 2 2
+CO-4 1 2 2 3 3 2 2 2
+Total 4 8 8 12 9 8 8 8
+Average 1 2 2 3 2.5 2 2 2
+25
+
+--- Page 27 ---
+Elective courses#06
+1. Name of the Subject: CANCER BIOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Cancer Biology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To understand the about the underlying principle of cell cycle n which alters the properties of the cell or the
+organism.
+II. To impart the knowledge of advance research in the field of cancer biology and their early diagnosis and
+treatment.
+4. Course Content:
+Module I: Cancer Biology Overview, Types of Cancer, Causes for cancer.
+Module II: Oncogenes and Tumor suppressors, Cell Cycle and Regulation, Cell Differentiation, Cell
+Death Pathways (Apoptosis, Autophagy), Necrosis, Cell Senescence, Cell Adhesion and Motility.
+Module III: Cancer Epigenetics and sRNAs, Cancer Genome instability, Tumor Immunity, Growth
+Signaling pathways, Tumor angiogenesis, Cancer Stem Cell, Diagnosis, prognosis and treatment of
+cancer
+Module IV: Very recent research updates on basic cancer research and drug development against
+cancer
+5. Text/Reference:
+a) Molecular Biology of the Cell by Bruce Alberts, Latest Version/Edition
+b) Various journals of international society
+6. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 The ability to understand the various definitions of cancer biology
+CO-2 An understanding of the importance of cancer biology in societal aspects.
+An understanding of the issues and relationships between ‘top down’ and ‘bottom
+CO-3
+up’ approach of cancer progression and its control
+CO-4 An overview of therapeutic aspect of cancer and its scope for future
+7. CO-PO Matrices & CO-PSO mapping of courses:
+CO & PO/PSO
+PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+mapping
+CO-1 3 3 3 3 3 2 2 2
+CO-2 3 3 3 3 3 2 2 2
+CO-3 3 3 3 3 3 1 2 2
+CO-4 - - 3 - 2 3 2 2
+Total 9 9 12 9 11 8 8 8
+Average 3 3 3 3 2.75 2 2 2
+26
+
+--- Page 28 ---
+Elective courses#07
+1. Name of the Subject: PROTEIN STRUCTURE AND ENGINEERING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Protein Structure and Engineering 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide knowledge of basic structure of protein and their folding.
+II. Inculcate the importance of protein structure and folding in modern research
+4. Course Content:
+Module-I: Introduction to protein structure: Protein structural families: Basic structural principles: amino acids
+and their conformational accessibilities, Ramachandran Plot; Motifs of protein structures and their packing;
+Schematic and topology diagrams; Families of protein structures: alpha, alpha/beta, beta, small etc.
+Module-II: Protein folding and assembly: Protein folding pathways in prokaryotes and eukaryotes; Single and
+multiple folding pathways; Protein folding of single domain and multi-domain proteins; Inclusion bodies and
+recovery of active proteins; Osmolyte assisted protein folding; Structure of chaperones and role of chaperones
+in protein folding.
+Module-III: Protein engineering Strategies: Random and site directed mutagenesis; Various PCR based
+strategies; Role of low-fidelity enzymes in protein engineering; Gene shuffling and Directed evolution of proteins;
+Protein backbone changes; Antibody engineering; All topics will deal with case studies.
+Module-IV: Prediction and design of protein structures Similar structure and function of homologous proteins;
+Role of multiple alignment; Homology and ab-initio method for protein structure prediction; Phage display
+systems; Structure based drug design and case studies, Rational protein design, Specific examples of enzyme
+engineering such as Tryesyl t RNAsynthetase, Dihydrofolate reductase, Subtilisin.
+5. Text/Reference Book
+1. Protein Structure and Protein Engineering, Winnacker Huber, Publisher: Springer, ISBN: 9783642741753,
+3642741754, Edition: 2013
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+To acquire the fundamental knowledge of protein structure,
+CO-1
+protein family. domain and their interaction at cellular level.
+To learn the advanced techniques and tools for protein analysis
+CO-2
+useful for modern research
+To understand the protein folding mechanism, protein-protein
+CO-3
+interaction and protein stability
+To design the bioactive lead molecule from given protein
+CO-4
+sequence beneficial for human health.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 1 - - 2 3 2
+CO-2 3 2 2 - 2 2 3 -
+CO-3 2 3 3 3 2 2 3 2
+CO-4 3 3 3 2 2 2 2 2
+Total 13 13 12 8 6 8 14 6
+Average
+2.6 2.6 2.4 1.6 2 2 2.8 2
+27
+
+--- Page 29 ---
+Elective courses#08
+1. Name of the Subject: BIOLOGICAL WASTE TREATMENT
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biological Waste Treatment 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide technical knowledge about biological wastewater treatment
+II. To provide students an ability to design effluent treatment plant
+III. To provide students an ability to understand application of biotechnology and biochemical engineering in the field of
+waste treatment
+4. Course Content:
+Module I: Characterization of waste, waste disposal norms and regulations, stoichiomentry and
+bacterial energetics of biological treatment, microbial kinetics, reactor types (suspended growth
+reactors, attached growth reactors)
+Module II: Introduction to aerobic suspended growth biological treatment, activated sludge treatment,
+characteristics of activated sludge, process configurations, aeration systems, bulking and other sludge
+settling problems, analysis and design of activated sludge, analysis and design of settlers
+Module III:
+Introduction to aerobic attached growth biological treatment systems, trickling filter, oxygen transfer
+and utilization, rotating biological contactors.
+Module IV:
+Biological nutrient removal: microbiology, process description and environmental factors for
+nitrification, denitrification and phosphorous removal
+Module V: Introduction to anaerobic process, anaerobic suspended growth processes, anaerobic
+sludge blanket process, upflow attached growth processes, downflow attached growth processes
+Module VI: Advanced wastewater treatment (depth filtration, surface filtration, adsorption, gas
+stripping, ion exchange), Treatment and disposal of sludge, biological means for stabilization and
+disposal of solid wastes, Treatment of hazardous and toxic wastes.
+5. Text/Reference:
+a) Wastewater Engineering: Treatment and Reuse by Metcalf and Eddy
+b) Environmental Biotechnology: Principles and applications by Bruce E Rittmann and Perry L McCarty
+6. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Ability to apply engineering skills for biological wastewater treatment
+CO-2 Ability to understand the various types of bioreactors used in wastewater treatment
+CO-3 Ability to understand unit operations related to biological wastewater treatment
+CO-4 Ability to understand the role of microbes in wastewater treatment
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 3 2 2 3 1 2 2
+CO-2 3 2 3 1 2 2 2 1
+CO-3 2 2 2 2 3 2 3 2
+CO-4 2 3 2 3 2 3 3 2
+Total 9 10 9 8 10 8 10 7
+Average 2.25 2.5 2.25 2 2.5 2 2.5 1.75
+28
+
+--- Page 30 ---
+Elective courses#09
+1. Name of the Subject: FOOD PROCESS ENGINEERING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Food Process Engineering 4 0 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide technical knowledge about food processing
+II. To provide students an ability to design processed food with increased shelf life.
+III. To provide students an ability to understand application of biotechnology and biochemical engineering in the field of
+food preservation and food processing
+4. Course Content:
+Module I: Chemical constituents of foods, their properties and functions; chemical/biochemical
+reactions in storage/spoilage/ handling of foods; food safety, quality control and certifications.
+Module II: Preservation of food by thermal processing (factors affecting thermal resistance of
+microorganisms, spores and enzymes, 12D concept and thermal process calculations, optimization of
+thermal process with respect to quality, thermal processing in hermetically sealed containers and in
+bulk before packaging)
+Module III: Other food preservation technologies (refrigeration/chilling/freezing, dehydration, food
+additives, CA-MA storage).
+Module IV: Non-thermal processing (irradiation, high pressure processing, pulsed electric field)
+Module V: Processing involved in following sectors: cereals, oil seeds, fruits and vegetables, fish, meat
+and poultry.
+Module VI: Processing involved in following sectors: dairy, beverages, spices and herbs,
+confectioneries
+5. Text/Reference:
+a) William C. Frazier, Dennis C. Westhoff, N.M. Vanitha, " Food Microbiology"
+b) Romeo T. Toledo, "Fundamentals of Food Process Engineering"
+c) H.K. Chopra, P.S. Panesar., "Food Chemistry"
+d) P.S. Panesar, H.K. Sharma, B.C. Sarkar, "Bio-processing of foods"
+e) R. L. Henricksons, "Meat, Poultry and Sea Food Technology"
+f) N. L. Kent, "Technology of Cereals"
+g) GiridhariLal, "Preservation of Fruits & Vegetables"
+h) Prescott & Dunn, "Industrial Microbiology"
+6. Course Outcomes:
+No. of course
+Name of the course outcome
+outcome
+CO-1 Ability to understand the component and nutritional value of food
+CO-2 Ability to understand the thermal and non-thermal food preservation technologies
+CO-3 Ability to understand the processing involved in various food sectors
+CO-4 Ability to understand the importance of food safety and regulations
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 3 2 2 3 1 2 3
+CO-2 2 2 3 1 2 2 2 1
+CO-3 3 3 2 2 2 2 2 2
+CO-4 2 3 3 2 2 3 3 2
+Total 9 11 10 7 9 8 9 8
+Average 2.25 2.75 2.5 1.75 2.25 2 2.25 2
+29
+
+--- Page 31 ---
+Elective courses#10
+1. Name of the Subject: TISSUE ENGINEERING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Tissue Engineering 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. Provide knowledge about cell culture, cell signaling and growth factors
+II. Inculcate the importance of characterization in cell culture for the identification
+III. Impart technical skills in tissue implants and tissue engineering
+4. Course Content:
+Module I: Introduction to tissue engineering, Cells as therapeutic Agents with examples, Cell numbers and growth
+rates, Tissue organization, Tissue Components, Tissue types, Functional subunits. Tissue Dynamics, Dynamic states of
+tissues, Homeostasis in highly prolific tissues and Tissue repair. Angiogenesis.
+Module II: Cellular fate processes, Cell differentiation, Cell migration - underlying biochemical process, Cell division
+- mitotic cell cycle, Cell death - biological description of apoptosis. Coordination of cellular fate processes - soluble
+signals, types of growth factors and chemokines, sending and receiving a signal, processing a signal, integrated
+responses, soluble growth factor receptors, Malfunctions in soluble signaling.
+Module III: Cell-extracellular matrix interactions - Binding to the ECM, Modifying the ECM, Malfunctions in ECM
+signaling. Direct Cell-Cell contact - Cell junctions in tissues, malfunctions in direct cell-cell contact signaling. Response
+to mechanical stimuli. Measurement of cell characteristics - cell morphology, cell number and viability, cell-fate
+processes, cell motility, cell function. Cell and tissue culture - types of tissue culture, media, culture environment and
+maintenance of cells in vitro, cryopreservation. Basis for Cell Separation, characterization of cell separation, methods
+of cell separation.
+Module IV: Biomaterials in tissue engineering - biodegradable polymers and polymer scaffold processing, Growth
+factor delivery, Stem cells, Gene therapy, Bioreactors for Tissue Engineering, In vivo cell & tissue engineering case
+studies: Artificial skin, Artificial blood vessels, In vivo cell & tissue engineering case studies: Artificial pancreas,
+Artificial liver, In vivo cell & tissue engineering case studies: Regeneration of bone, muscle, In vivo cell & tissue
+engineering case studies: Nerve regeneration.
+5. Text/Reference:
+a) "Tissue Engineering", Bernhard O. Palsson, Sangeeta N. Bhatia, Pearson Prentice Hall Bioengineering.
+b) "Nanotechnology and Tissue engineering - The Scaffold", Cato T. Laurencin, Lakshmi S. Nair, CRC Press.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the different types of biomaterials that can be used in tissue engineering
+applications.
+CO-2 Acquire knowledge on complex interaction between biomaterials, cells and signals in
+biological system.
+CO-3 Learn the principles techniques skills and modern engineering tools used in tissue
+culture and regeneration.
+CO-4 Develop student’s ability to identify, formulate and adopt engineering solution to
+unmet biological needs.
+CO-5 Able to understand broadly the key topics in tissue engineering.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 - 1 1 1 3 3
+CO-2 3 - 1 1 - 2 3 1
+CO-3 3 - 1 - 1 2 2 2
+CO-4 2 1 1 2 2 - 1 3
+CO-5 2 2 2 1 1 1 2 2
+Total 13 5 5 5 5 6 11 11
+Average 3 2 1 1 1 2 2 2
+30
+
+--- Page 32 ---
+Elective courses#11
+1. Name of the Subject: NANOBIOTECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Nanobiotechnology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To introduce the concepts and fundamentals of nanotechnology.
+II. To understand the synthesis and characterization of nanomaterials and their application in biotechnology fields.
+III. To identify the risk assessments involved nanomaterials in biological application and the impact on environment
+4. Course Content:
+Module I: Basics of biology - cell, organelles and nucleic acids as genetic material, Biomacromolecules - Self assembly
+of proteins, oligonucleotides, amphipathic lipids. Organic & inorganic templates in biological systems (Bone
+mineralization, silicate deposits). Nanomaterial in biotechnology - nanoparticles, quantum dots, nanotubes and
+nanowires etc.
+Module II: Development of nanobiotechnology - timelines and progress, overview, Biogenic nanoparticles, Stealth
+nanoparticles, Virosomes and virus-like nanoparticles for gene delivery, Stimuli responsive ‘smart’ nanosystems.
+Biosensors- different classes; molecular recognition elements, transducing elements, Applications of molecular
+recognition elements in nanosensing of different analytes.
+Module III: Application of various transducing elements as part of nanobiosensors, Miniaturized devices in
+nanobiotechnology - types and applications, lab on a chip concept, Biological nanoparticles production - plants and
+microbial. Targeted nano delivery systems – The Trojan horse concept (Passive targeting, Active targeting, External
+triggers, Internal triggers),
+Module IV: Nanobiotechnological applications in health and disease – infectious, genetic and chronic, Stem cells &
+Nanotechnology – Stimulating tissue regeneration (Importance of nanogeometry, nanochemistry & nanomechanics),
+Capture-based, Cell-based & Tissue based sensors, Nanoparticles for imaging, Nanobiotechnological applications in
+Environment and food - detection and mitigation.
+5. Text/Reference:
+a) Nanobiotechnology: Concepts, Applications and Perspectives (2004), Christof M.Niemeyer (Editor), Chad A. Mirkin (Editor), Wiley
+VCH.
+b) Nanobiotechnology - II more concepts and applications. (2007) - Chad A Mirkin and Christof M. Niemeyer (Eds), Wiley VCH.
+c) Nanotechnology in Biology and Medicine: Methods, Devices, and Applications by Tuan Vo-Dinh, CRC Press.
+d) An Introduction to Materials in Medicine. Edited by: Buddy D. Ratner, Allan S. Hoffman, Frederick J. Schoen and Jack E. Lemons,
+Academic Press, 2013.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+Able to correlate the impact of nanotechnology and nanoscience in a global, economic,
+CO-1
+environmental, and societal context.
+Accquire a working knowledge in nanotechnology techniques (synthesis, fabrication,
+CO-2 characterization) and acquire the ability to use them to solve problems in bioengineering,
+biomedicine and agricultural/environmental issues.
+Learn the principles governing the effect of size on material properties at the nanoscale, and
+CO-3
+perform quantitative analysis.
+CO-4 Learn the wide range of applications of nanotechnology and its interdisciplinary aspect.
+Able to identify career paths at the interface of nanotechnology, biology, environmental and
+CO-5
+agricultural engineering and medicine.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 2 2 1 1 1 3 3
+CO-2 3 1 1 1 - 1 2 1
+CO-3 3 - - 1 1 - 2 2
+CO-4 2 1 1 2 2 2 1 3
+CO-5 3 2 3 - 2 2 3 3
+Total 14 6 7 5 6 6 11 12
+Average 3 2 2 1 2 2 2 2
+31
+
+--- Page 33 ---
+Elective courses#12
+1. Name of the Subject: BIOMATERIALS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biomaterials 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To introduce the concepts of various classes of biomaterials on the basis of structure and function.
+II. To understand the basic principle of various analytical methods to characterize bulk and surface properties of biomaterials.
+III. To provide the concept of molecular and cellular events that follow exposure of materials to bodily fluids and to contact with various
+tissues of the human body
+4. Course Content:
+Module 1: Introduction to Biomaterials - Historical background and performance of biomaterials, The structure of
+solids - Atomic bonding and crystal structure of metals and ceramics, Long chain polymers and types of polymerization
+- Composite materials
+Module 2: Characterization of Materials - Basics on physical, chemical and mechanical properties of materials,
+Biological Materials and Their Properties - The extracellular matrix and composition of hard and soft tissues, proteins
+(collagen & elastin), polysaccharides, and minerals (hydroxyapatite) - Structure and properties of mineralized tissue
+(bone and teeth), cartilage, tendons, ligaments and cardiovascular tissues
+Module 3: Metallic Implant Materials: - Stainless steels, Co-based alloys, Ti & Ti alloys and dental metals - Corrosion
+of metallic implants, Ceramic Implant Materials- Aluminum oxides, calcium phosphates, glass-ceramics and carbons -
+Static and dynamic fatigues of ceramics. Polymeric Implant Materials - Effect of structure and temperature on
+properties - Deterioration of polymers 8. Composite Implant Materials - Structure and mechanics of composites -
+Application of composite biomaterials: dental filling composites, porous implants, fibrous and particulate composites
+in orthopaedic implants
+Module 4: Tissue Response to Implants- Normal wound healing process - Inflammation - Biocompatibility and
+hemocompatibility - Body response to implants – Carcinogenecity, Application of Biomaterials for Soft and Hard Tissue
+Replacement - Vascular and heart valve implants - Artificial organs: artificial hearts, cardiac pacemakers and artificial
+kidney dialysis membrane - Commercialization of Implants - Regulations and regulatory testing - The ethics of
+biomaterials and implants
+5. Text/Reference:
+a) Biomaterials Science: An introduction to materials in Medicine. Buddy D. Ratner et al. 3rd edition, 2012.
+b) Biomaterials: The Intersection of Biology and Materials Science - Temenoff and Mikos (Pearson Prentice Hall; ISBN 0-13-009710-1), 1st
+edition (January 12, 2008.
+c) Materials Science and Engineering: An Introduction - Callister (John Wiley and Sons; ISBN 0-471-13576-3), 6th edition, 2002.
+d) Science and Engineering of Materials - Askland and Phule (Thomson; ISBN 0-534-55396-6), 5th edition, 2005.
+e) An Introduction to Tissue-Biomaterial Interactions- Kay C. Dee et al. (Wiley-Liss, 1st edition, 2002).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the fundamental principals in biomedical engineering, material science and chemistry,
+and how they contribute to biomaterial development and performance.
+CO-2 Able to apply the math, science, and engineering knowledge gained in the course to biomaterial
+selection and design.
+CO-3 Able to classify materials into three main classes and describe their structure-property relationships
+for use in medical applications.
+CO-4 Acquire knowledge of what to consider when selecting a material for an implant and their
+implications.
+CO-5 Learn the mechanisms by which the human body reacts to a foreign material
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 - 1 3 3
+CO-2 3 1 1 - 3 - 3 1
+CO-3 3 - - - 2 1 3 3
+CO-4 - 2 1 - 1 3 1 -
+CO-5 3 2 3 - 1 1 3 -
+Total 12 8 8 0 8 5 13 7
+Average 3 2 2 0 2 2 3 2
+32
+
+--- Page 34 ---
+Elective courses#13
+1. Name of the Subject: ADVANCED MOLECULAR BIOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced Molecular Biology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To understand the basics of molecular biology and gene expression.
+II. To understand DNA damage and repair systems
+III. To impart an overview on the regulation of gene expression
+4. Course Content:
+Module I: Biochemical unity underlying biological diversity; DNA- interplay between form and function, flow of gene,
+molecular biology of DNA, RNA; Biosynthesis of purines and pyramidine nucleotides from ribose including regulation,
+salvage pathways Structure, types and function of nucleic acids (DNA & RNA) DNA Replication: Prokaryotic and
+eukaryotic DNA replication mechanism, enzymes and accessory proteins involved in DNA replication, gene expression
+(transcription and translation); Concept from chemistry to explain the properties of biological molecules.
+Module II: Protein Synthesis: Prokaryotic transcription, eukaryotic transcription, RNA polymerases, General and
+specific transcription factors, Regulatory elements and mechanisms of transcription regulation, 5’ Cap formation,
+Transcription termination, 3’end processing and polyadenylation, nuclear export of mRNA, mRNA stability RNA
+splicing: Nuclear splicing, spliceosome and small nuclear RNAs, group I and group II introns, Cis- and Trans- splicing
+reactions, tRNA splicing, alternate splicing. Genetic Code, Prokaryotic and eukaryotic translation - Synthesis of
+aminoacyl tRNA, aminoacyl synthetases, Mechanism of initiation, elongation and termination, Regulation of
+translation, co-and post-translational modifications of proteins.
+Module III: Regulation of gene expression: Induction and repression, operon theory, lac operon, trp operon, ara
+operon, attenuation, positive and negative control, catabolite repression, regulation of transcription by cAMP and CRP,
+and guanosine tetraphosphate, Run off transcription. Britten-Davidson and Mated models of gene regulation,
+regulation of gene expression in eukaryotes.
+Module IV: Enzymes- Basic concepts, catalytic strategies; Carbohydrates; Lipid membranes; Membrane channels and
+pumps; signal transduction pathways, G- proteins. Metabolism- Basic concepts and design; Glycolysis, TCA, oxidative
+phosphorylation, integration of metabolism; Basic chromatin structure; Basic cell cycle including basic cancer biology;
+genetic engineering.
+5. Text/Reference:
+a) Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter, Molecular Biology of the Cell, 6th edition, Garland
+Science publishing, 2007.
+b) Lodish, H., Berk, A., Kaiser, C.A., Krieger, M., Scott, M.P., Bretscher, A., Ploegh, H. and Matsudaira, P. (2007) Molecular Cell Biology (6th edn). W.
+H. Freeman, New York.
+c) Molecular Biology of the Gene - J. D. Watson, N. H. Hopkins, J. W, Robertis , A. Steitz & A.M. Weiner, Benjamin cummings Publ. California – 1988.
+d) Genes VII. - Benjamin Lewin, Oxford Univ. Press, Oxford (2000)
+e) Molecular Biology – Freifelder, D, Narosa Publishing house New York, Delhi, 1987.
+f) Advance Molecular Biology Twyman, R.M., Bios Scientific publishers Oxford 1998.
+g) Essentials of Molecular Biology. D. Freifelder, Panima publishing corporation.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the fundamental principles and apply the molecular biology techniques
+CO-2 Analyze the experimental data to select a suitable molecular biology technique for their research
+CO-3 Able to apply contextual and conditional knowledge of gene function for various applications
+CO-4 Exemplify different molecular techniques including polymerase chain reactions and their applications
+CO-5 Implement, organize and design different vectors for gene cloning and expression
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 - 1 3 3
+CO-2 3 1 1 - 3 - 3 1
+CO-3 3 - - - 2 1 3 3
+CO-4 - 2 1 - 1 3 1 -
+CO-5 3 2 3 - 1 1 3 -
+Total 12 8 8 0 8 5 13 7
+Average 3 2 2 0 2 2 3 2
+33
+
+--- Page 35 ---
+Elective courses#14
+1. Name of the Subject: COMPUTATIONAL FLUID DYANIMICS IN BIOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Computational Fluid Dynamics in 3 1 0 4 4 20 50 30
+Biology
+3. Course Objectives:
+i. To understand the fundamental concept of computational fluid dynamics (CFD).
+ii. To learn about different types of algorithm, governing equations apply in CFD.
+4. Course Content:
+Module I: Introduction to Computational Fluid Mechanics and Heat Transfer – Modeling of Transport Phenomena, Transport
+Equations – Conservation equation; mass; momentum and energy equations in dimensional and non – dimensional forms –
+Lagrangian and Eulerian forms; convective forms of the equations and general description. Overview of Numerical Methods;
+parabolic elliptic and hyperbolic equations; boundary and initial conditions; Approximate Solutions of Differential Equations;
+Variation Principles.
+Module II: Concept of discretization - Taylor series FDM and CV based FVM – one dimensional unsteady state, fluid, mass,
+heat diffusion equation – Numerical solution of PDE – Explicit method – Stability – Convergence – Consistency, Thomas (tri-
+diagonal Matrix) Algorithm – Implicit method, Finite difference methods (FDM); different means for formulating finite
+difference equation; treatment of boundary conditions; boundary layer treatment; variable property; interface and free surface
+treatment; accuracy of FDM; Application of the method in bioengineering.
+Module III: Finite volume methods (FVM); different types of finite volume grids; central, upwind and hybrid formulations
+and comparison for convection-diffusion problem; Properties of discretisation schemes; The quadratic upstream interpolation
+for convective kinetics (QUICK) scheme. Application of the method in bioengineering. Vorticity, stream function, upwind
+scheme – Central Difference scheme – Hybrid scheme – Power law scheme, Evaluation of pressure from equation of
+continuity, Pressure correction – Velocity correction, Simple Algorithm – Residues in solution – Relaxation, Iterative scheme
+– Over and under relaxation – quick updation, Discussion on SIMPLER, SIMPLE – C, Solution of coupled equations – Thermal
+buoyancy
+Module IV: Finite Element Methods (FEM): Finite element methods; Rayleigh-Ritz, Galerkin and Least square methods;
+applications in bioengineering. Turbulence modeling: Reynolds averaged Navier-Stokes equations, RANS modeling, DNS
+and LES; applications in bioengineering. Validation of code and results.
+5. Text/References:
+a) Numerical Heat Transfer and Fluid Flow: S V Patankar. Taylor & Francis (Paperback Ed)
+b) Computational Fluid Mechanics and Heat Transfer. J C Tannehill, D A Anderson and R H Pletcher Taylor & Francis (1997)
+c) Computational methods for Fluid Dynamics: J H Ferziger and M Peric. Springer – Verlag (1999)
+d) An introduction to computational fluid dynamics. The finite volume method: H. K. VERSTEEG and W. MALALASEKERA, Longman
+Group LTD., 1st edition, 1995.
+e) Anderson, “Application of CFD method”.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the fundamental concept of Computational Fluid Dynamics in Biology.
+CO-2 Learn about different types of algorithms, governing equations apply in CFD.
+CO-3 To Develop concepts of FEM, FDM & FVM and various others numerical schemes applicable to
+solve partial differential equations with respect to fluid flow and heat transfer, mass transfer and
+kinetics.
+CO-4 To underline the principles of specific algorithm such as SIMPLE, Vortices stream function etc for
+steady and unsteady fluid flow problem. Develop the numerical algorithm and generate CFD code.
+CO-5 Apply CFD code and software modeling, simulation, design purpose to solve the real-world
+problem.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 3 1 3 3
+CO-2 3 3 3 3 3 1 3 3
+CO-3 3 3 3 3 2 2 2 2
+CO-4 3 3 3 3 3 2 3 2
+CO-5 3 3 3 3 3 1 3 2
+Total 15 15 15 15 14 7 14 12
+Average 3 3 3 3 2.8 1.4 3 2.5
+34
+
+--- Page 36 ---
+Elective courses#15
+1. Name of the Subject: IPR AND BIOSAFETY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+IPR and Biosafety 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. This course is a potential introductory training for those entering research that involves potentially infectious material.
+It is our hope that it will become a staple in research training much like bioethics and biosafety.
+II. Students will understand different types IPR
+4. Course Content:
+Module I: Introduction to Intellectual Property and its types; IPs of relevance to Biotechnology; Important
+agreements and treaties in general and specific to the field of Bioengineering; handling important databases for
+IPs.
+Module II: Patent: definition and type; National & PCT filing procedure: Time frame, Cost, Precautions while
+patenting – disclosure/non-disclosure; Patent licensing and agreement Patent infringement meaning, scope,
+litigation.
+Module III: Safety in therapeutic and diagnostic devices like defibrillator, pacemaker, artificial ventilators,
+patient monitoring system etc; Safety in biomedical implants and prostheses; Precautions in measurements of
+different physiological parameters; Safety and protocols in proper storage and maintenance of medical records;
+computers in health care, responsibility, checklists; biomedical waste management.
+Module IV: Primary Containment for Biohazards; Biosafety Levels; Biosafety Levels of Specific Microorganisms;
+Recommended Biosafety Levels for Infectious Agents and Infected Animals; Safety in genetic and tissue
+engineering research; GMOs & LMOs; protocol of drug administration dosage and radiation dosage. Social and
+ethical implications of biological weapons.
+5. Text/References:
+a) Bertil Jacobson and Alan Murray, Medical Devices: Use and Safety, Publisher: Churchill Livingstone; 1 edition, ISBN-10:
+0443102597, ISBN-13: 978-0443102592.
+b) Shayne C. Gad and Marian G. McCord, Safety Evaluation in the Development of Medical Devices and Combination Products,
+Publisher: CRC; 3 edition, ISBN-10: 1420071645, ISBN-13: 978-1420071641
+c) Jose Justiniano and Venky Gopalaswamy, Practical Design Control Implementation for Medical Devices, Publisher: Informa
+Healthcare; 1 edition, ISBN-10: 1574911279, ISBN-13: 978-1574911275.
+d) Shayne C. Gad, Safety Evaluation of Medical Devices, Publisher: CRC; 2 edition, ISBN-10: 082470617X, ISBN-13: 978-
+0824706173.
+e) BAREACT, Indian Patent Act 1970 Acts & Rules, Universal Law Publishing Co. Pvt. Ltd., 2007
+f) Kankanala C., Genetic Patent Law & Strategy, 1st Edition, Manupatra Information Solution Pvt. Ltd., 2007
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the basic issues of biosafety, bioethics and IPR
+CO-2 Follow good laboratory procedures and practices
+CO-3 Justify the design of confinement facilities at different Biosafety levels
+CO-4 Understand the social and ethical issues related to plant, animal and modern
+biotechnology.
+CO-5 Review international agreements and protocols for Biosafety.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 3 2 3 3 3 3
+CO-2 1 1 2 2 2 2 3 3
+CO-3 1 1 3 2 2 3 3 3
+CO-4 1 1 2 2 1 3 2 2
+CO-5 - 1 2 2 2 1 3 1
+Total 4 5 12 10 10 12 14 12
+Average 0.8 1 2.4 2 2 2.4 2.8 2.4
+35
+
+--- Page 37 ---
+Elective courses#16
+1. Name of the Subject: ADVANCED BIOMEMS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced BioMEMS 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. The course focused on the basic principles and applications of BioMEMS and LOC technology to the areas of
+biomedicine, biology, and biotechnology
+II. Will help the students to understand the concept of micro scale,microdevices and different micro techniques.
+4. Course Content:
+Module I: Typical MEMs and Microsystems, materials for MEMS: active substrate materials;
+manufacturing techniques in MEMS.
+Module II: Mechanics for MEMs design- static bending of thin plates, mechanical vibration,
+thermomechanics, fracture and thin film mechanics. Mechanical sensors and actuators, pressure and
+flow measurements, Thermal sensors and actuators, Shape memory alloys: Inertia sensor, flow sensor.
+Module III: Parallel plate capacitor, pull in effect, Electrostatic sensors and actuators- Inertia sensor,
+Pressure sensor, flow sensor, tactile sensor, comb drive. Properties of piezoelectric materials,
+Piezoelectric sensor and actuator – inchworm motor, inertia sensor, flow sensor.
+Module IV: Recapitulation of fluid dynamics principles, fluid flow in microconduits, in submicrometer
+and nanoscale. Microscale fluid, fluid actuation methods, dielectrophoresis, microfluid dispenser,
+microneedle, micropumps-continuous flow system, micromixers. Application of BioMEMS.
+5. Text/References:
+a) Steven S. Saliterman, Fundamentals of BioMEMS and Medical Microdevices; SPIE Publications (1st ed.); 2006.
+b) Albert Folch, Introduction to BioMEMS; CRC Press (1st ed.); 2012.
+c) Chang Liu, ‟ Foundations of MEMS‟, Pearson Education International, New Jersey, USA, 2006
+d) Ellis Meng, Biomedical Microsystems, CRC Press,Boca Raton, FL, 2011.
+e) Tai Ran Hsu, MEMS and Microsystems design and manufacture, Tata McGraw Hill Publishing Company,
+New Delhi, 2002.
+f) Wanjun Wang, Steven A.Soper ― BioMEMS- Technologies and applications‖, CRC Press,BocaRaton,2007
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Have a concept on the scope and recent development of the science and technology
+of micro-and nano-systems
+CO-2 Ability to design the micro devices, micro systems using the MEMS fabrication
+process.
+CO-3 Gain a knowledge of basic approaches for various sensor design
+CO-4 Gain a knowledge of basic approaches for various actuator design
+CO-5 Will learn about the use of MEMS in biological field
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 3 3 3 3 3 2
+CO-2 - 1 2 2 2 2 3 3
+CO-3 1 1 3 1 3 3 3 1
+CO-4 1 2 2 2 1 3 2 2
+CO-5 1 2 2 2 3 1 3 1
+Total 4 7 12 10 12 12 14 9
+Average 0.8 1.4 2.4 2 2.4 2.4 2.8 1.4
+36
+
+--- Page 38 ---
+Elective courses#17
+1. Name of the Subject: ADVANCED BIOMECHANICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced Biomechanics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. The objective of this course is to provide you with an overview of the major challenges in movement
+biomechanics and experience with the engineering tools we use to address these challenges.
+II. Will learn about different types of fluid,different types of joints FEA and its analysis
+4. Course Content:
+Module I: Principle of continuum mechanics; State of stress and strain in three-dimension (3D); traction
+vector; Cauchy’s equation; Stress invariants; Green and Almansi strain; constitutive relations; elastic
+material models; constitutive relations; Viscoelasticity: definition and characteristics; different
+viscoelastic material models.
+Module II: Properties of Newtonian and non-Newtonian fluids; Governing equations of fluid
+mechanics; field approach; control volume; Rheological properties of biological fluids; Hemodynamics;
+blood flow and arterial diseases.
+Module III: Mechanical properties and types of human bone; elastic and dynamic model of bone;
+multi-body kinetic and dynamic analysis of limbs; Sports biomechanics. biomechanical response
+during impact. Injury risk assessment; Mechanics of soft tissues; constitutive models. Cardiovascular
+Mechanics; Mechanics of digestive systems; Stability of organs: zero-stress state.
+Module IV: Introduction to Finite Element Analysis (FEA); Discretization of the domain; Different
+types of elements; Derivation of element matrices and vectors; Nodal solution; Assembly of nodal
+matrices; Application of FEA in biomechanics.
+5. Text/References:
+a) Y C Fung, Biomechanics: Mechanical Properties of Living Tissues, springer, 2nd edition, 1993.
+b) Nihat Ozkaya and margarita Nordin, Fundamentals of biomechanics-equilibrium, motion and deformation, springer-
+verlag, 2nd edition 1999.
+c) D. Dowson & V. Wright, An introduction to Biomechanics of joints and joint replacements, Mechanical Engineering
+Publications, 1980.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Develop ability to analyze the kinetics and kinematic motions
+CO-2 Analyze the mechanics of different types of biological fluids, soft tissues and
+connective tissue.
+CO-3 Analyze the mechanics of different types of joints.
+CO-4 Develop ability to analyze the muscle activity in various postures
+CO-5 Identify and use engineering tools that are used to study movement and
+Apply biomechanics principles to “real-world” clinical and biomechanical
+research.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 2 3 3 2 3 3 3
+CO-2 1 2 2 3 2 2 2 3
+CO-3 2 1 3 2 2 3 3 3
+CO-4 1 2 2 3 2 3 2 2
+CO-5 2 2 2 2 2 1 - 1
+Total 7 9 12 13 10 12 10 12
+Average 1.4 1.8 2.4 2.6 2 2.4 2 2.4
+37
+
+--- Page 39 ---
+Elective courses#18
+1. Name of the Subject: ADVANCED BIOMEDICAL INSTRUMENTATION
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced Biomedical 3 1 0 4 4 20 50 30
+Instrumentation
+3. Course Objectives:
+I. Will learn about different types of Physiological signals, electrodes and recorders and devices
+II. Can be able to design and simulate different types of biomedical circuit.
+4. Course Content:
+Module I: Evolution of medical instrument, Explanation of generalized and biomedical
+instrumentation; Components of a medical instrumentation system, Transducers; Electrodes: types and
+applications; biopotential systems:lead system and recording methods, waveforms, frequency
+spectrum.
+Module II: Pace makers - different types, modes, circuitry and application. DC defibrillators: types,
+modes, circuitry;patient monitoring system, Heart lung machine; Oxygenators, Pumps, Hemodialyser;
+Wearable Artificial Kidney, Respiratory aids.
+Module III: Different diagnostic and therapeutic instruments; thermography: principles and
+applications; cryogenic techniques; fiber optic cables, endoscopy, laparoscopy; lithotripsy;
+biotelemetry.
+Module IV: Diathermy: principle, types and application; Stimulators, Interferential therapy, Electrical
+safety.
+5. Text/References:
+a) J. Bronzino, Biomedical Engineering & Instrumentation, PWS Engg. Boston.3rd Edn.
+b) J. Enderle, Bioinstrumentation, Morgan & Claypool Publisher 2006.
+c) R. S. Khandpur, Handbook of Bio-Medical Instrumentation, Tata McGraw Hill, 2003.
+d) Cromwell, Weibell& Pfeiffer, Biomedical Instrumentation & Measurement, Prentice Hall, India, 2nd Edn. 2003.
+e) J. Webster, Bioinstrumentation, Wiley & Sons.2004.
+6. Course Outcomes:
+No. of Course outcome Name of the Course outcome
+CO-1 Explain about measurements of parameters related to Biopotential recorders,
+electrodes, sensors and transducer.
+CO-2 Analyze the working of pacemaker, defibrillator, PMS, heart lung machine and
+different medical equipment’s.
+CO-3 Analyze the working of different diagnostic instruments.
+CO-4 Ability to understand different therapeutic instruments.
+CO-5 Outline the importance of patient safety against electrical hazard
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 3 2 3 3 3 3
+CO-2 1 1 2 2 2 2 2 3
+CO-3 2 - 3 2 3 3 3 3
+CO-4 - 1 3 2 1 3 2 2
+CO-5 - 1 2 2 3 1 - 1
+Total 4 4 13 10 12 12 10 12
+Average 0.8 0.8 2.6 2 2.4 2.4 2 2.4
+38
+
+--- Page 40 ---
+Elective courses#19
+1. Name of the Subject: BIOSENSORS, TRANSDUCERS AND MEASUREMENT DEVICES
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biosensors, Transducers and 3 1 0 4 4 20 50 30
+Measurement Devices
+3. Course Objectives:
+I. Will learn about different types of sensing elements and recording system.
+II. Will learn about different types of transducers.
+4. Course Content:
+Module I: Sensing elements: Temperature sensing elements, Pressure sensing elements, Elastic elements, Flow
+sensing elements; fiber optic sensors, Photo acoustic sensors, PPG sensors; smart sensors.
+Module II: Transducers: classification, performance, characteristics; Errors in the measurements using
+transducers.
+Module III: Recording system: types and principles; clinical laboratory instruments: types and
+application.
+Module IV: Blood-gas analyser: application and principle; pulmonary function analyzers: types and
+principles.
+5. Text/References:
+a) J. Bronzino, Biomedical Engineering & Instrumentation, PWS Engg. Boston.3rd Edn.
+b) J. Enderle, Bioinstrumentation, Morgan & Claypool Publisher 2006.
+c) R. S. Khandpur, Handbook of Bio-Medical Instrumentation, Tata McGraw Hill, 2003.
+d) Cromwell, Weibell& Pfeiffer, Biomedical Instrumentation & Measurement, Prentice Hall, India, 2nd Edn. 2003.
+e) J. Webster, Bioinstrumentation, Wiley & Sons.2004.
+f) Chandran Karunakaran, Kalpana Bhargava, Robson Benjamin; Biosensors and Bioelectronics; (1st Ed.); Elsevier;
+2015
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Describe the purpose and methods of measurements and know the different
+display and recording devices.
+CO-2 Explain different display and recording devices for various applications.
+CO-3 Know the principle of transduction, classifications and the characteristics of
+different transducers and study its biomedical applications
+CO-4 Remember and understand the concepts, types, working and practical
+applications of important biosensors.
+CO-5 Know some of the commonly used biomedical transducers
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 3 2 3 3 3 3
+CO-2 1 1 2 2 2 2 2 3
+CO-3 2 1 3 2 3 3 3 3
+CO-4 1 1 1 2 1 3 2 2
+CO-5 2 1 2 2 3 1 2 1
+Total 7 5 11 10 12 10 12 12
+Average 1.2 1 2.2 2 2.4 2 2.4 2.4
+39
+
+--- Page 41 ---
+Elective courses#20
+1. Name of the Subject: PROSTHETICS AND ORTHOTICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Prosthetics and Orthotics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. Will able to explain the important properties of various types of materials: metals, ceramics, polymers, and composites and the
+relationships that exist between the structural elements of these materials and their characteristics.
+ii. Will learn about the mechanical and failure behavior of these materials, along with techniques used to improve the mechanical and
+failure properties in terms of alteration of structural elements.
+4. Course Content:
+Module I: Definition, Concept of Rehabilitation: Types of Physical Impairments, Principles of Assistive
+Technology Assessment, Principles of Rehabilitation Engineering; Concepts in Sensory & Motor
+rehabilitation. Importance of medical Devices; Manufacturing techniques for medical devices.
+Module II: Types of orthoses and prostheses, Advance and automated prosthetics and orthosis,
+externally powered and controlled orthotics & prosthetics, FES system, Restoration of Hand function,
+Restoration of standing and walking. Mobility Aids; Electronic Travel Appliances (ETA).
+Module III: Types of deafness, hearing aids, application of DSP in hearing aids, Cochlear implants,
+Voice synthesizer, speech trainer.
+Module IV: Classification of Visual Impairments, Prevention and cure of visual impairments, Visual
+Augmentation, Tactile vision substitution, auditory substitution and augmentation, tactile auditory
+substitution, Assistive devices for the visual impaired
+5. Text/References:
+a) J Joseph D. Bronzino, The Biomedical Engineering Handbook, Third Edition: Three Volume Set, CRC
+Press,2006.
+b) MacLachlan M. and Gallagher P. Enabling Technologies – Body Image and Body Function, Churchill
+Livingstone, 2004.
+c) Mann W.C. (ed). Smart Technology for Aging, Disability, and Independence – The State of The Science, Wiley,
+New Jersey, 2005.
+d) Muzumdar A. Powered Upper Limb Prostheses – Control, Implementation and Clinical Application. Springer,
+2004.
+e) Rory A Cooper, An Introduction to Rehabilitation Engineering, Taylor & Francis, CRC press,2006.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Will able to understand basic concept of rehabilitation
+CO-2 Will able to understand different types of orthoses and prostheses
+CO-3 Analyze different types of disability
+CO-4 Learn about different types of aids for different disability
+CO-5 Cam design the aids to help overcome the different disability
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 1 1 3 3 3 1
+CO-2 1 - 1 1 2 3 1 -
+CO-3 2 1 3 3 2 3 2 1
+CO-4 1 1 3 3 2 3 1 3
+CO-5 - 2 2 2 3 1 1 2
+Total 5 5 10 10 12 13 8 7
+Average 1 1 2 2 2.4 1.4 1.6 1.4
+40
+
+--- Page 42 ---
+Elective courses#21
+1. Name of the Subject: METABOLIC PROCESS AND ENGINEERING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Metabolic Process and 3 1 0 4 4 20 50 30
+Engineering
+3. Course Objectives:
+i. Deep understanding on key metabolic processes that keeps the cells functional.
+ii. Comprehensive overview on advancements and applications in metabolic engineering, and bottlenecks involved
+4. Course Content:
+Module I: Introduction to metabolic engineering, Cellular metabolism: solute transport process,
+catabolism and metabolic fueling reactions, biosynthesis of cellular building blocks, polymerization of
+building blocks, assembly processes, rare metabolic conversions and regulation
+Module II: Comprehensive models of cellular reactions with stoichiometry and reaction rates for
+growth, nutrients, black box models, structured metabolic models, bioenergetics.
+Module III: Monitoring and measuring the metabolome, Methods for the experimental determination
+of metabolic fluxes by isotope labeling metabolic fluxes using various separation-analytical techniques.
+GC-MS for metabolic flux analysis, genome wide technologies: DNA /phenotypic microarrays and
+proteomics.
+Module IV: Network reconstruction, Genome scale metabolic models, Metabolic flux analysis of
+exactly/over/under determined systems, sensitivity analysis, Metabolic control analysis, Structure
+and flux analysis of metabolic networks, Validation; target prediction
+Module V: Tools and applications, case studies: Metabolic engineering examples for bio-fuel, bio-
+plastic and green chemical synthesis
+5. Text/References:
+a) Christinia D Smolke. The Metabolic Pathway Engineering Handbook. Fundamentals. CRC Press, Finland 2010.
+b) Christinia D Smolke. The Metabolic Pathway Engineering Handbook. Tools and applications. CRC Press, Finland
+2010.
+c) Greogory N Stephanopoulos. Metabolic Engineering: Principles and Methodologies. Academic Press, UK, 1998.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To understand the basics of various reaction, process and their interlinkages in a
+biological system
+CO-2 To understand and design the various mathematical cellular models
+CO-3 To understand the various methodologies utilized for improving cellular models.
+CO-4 To build up a genome scale metabolic model and further analysis with
+implementation
+CO-5 To understand the different modern tools developed for metabolic engineering and
+case studies
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 2 2 2 3 -
+CO-2 2 2 2 3 2 2 3 -
+CO-3 2 2 2 3 2 2 3 3
+CO-4 2 2 2 3 2 2 3 3
+CO-5 2 2 2 3 2 2 3 3
+Total 10 10 10 14 10 10 15 9
+Average 2 2 2 2.8 2 2 3 3
+41
+
+--- Page 43 ---
+Elective courses#22
+1. Name of the Subject: SYSTEMS BIOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Systems Biology 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. A deep understanding on the sources, recent methods, applications, different approaches involved in Systems Biology.
+II. Students will both acquire and apply the new knowledge in understanding the different case studies
+4. Course Content:
+Module I: Introduction to Systems Biology and fundamentals; Laboratory techniques used in systems
+biology studies; Panomic technologies; Systems biology markup language
+Module II: Kinetic modeling: enzyme kinetics, allosteric enzymes, transporters, models of biochemical
+pathways; case studies and demonstration;
+Module III: Gene expression networks, Genetic circuits, oscillators, switches, Lambda phage
+multistability, Chemotaxis, mechanistic models for different biochemical processes involved in the
+eukaryotic cells
+Module IV: Developmental Systems Biology: Introduction, Quorum sensing, Drosophila development
+5. Text/References:
+a) Uri Alon, An Introduction to Systems Biology: Design Principles of Biological Circuits, Chapman & Hall/CRC
+Press,Â Mathematical and Computational Biology, 2nd edition, 2007.
+b) Zoltan Szallasi, JörgStelling, and Vipul Periwal, System Modeling in Cellular Biology: From Concepts to nuts & bolts.
+The MIT Press, Massachusetts.
+c) Demin O, Goryanin I., Kinetic Modelling in Systems biology. CRC Press. 2009. ISBN 978‑1‑58488‑667‑9
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To understand pan omic technologies and their significance in Systems Biology
+CO-2 To design mathematical models for biological reactions dealt with enzymes, and
+proteins
+CO-3 To design mathematical models and simulation for gene expression and different
+biochemical processes
+CO-4 To employ different modelling and simulation tools, and SBML
+CO-5 To employ systems biology studies in simple organisms.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 2 2 3 3 3 3 3
+CO-2 3 2 2 3 - 3 3 -
+CO-3 3 2 2 3 - 3 3 -
+CO-4 2 2 2 3 - 3 3 -
+CO-5 2 3 2 3 3 3 3 3
+Total 12 11 10 15 6 15 15 6
+Average 2.4 2.2 2 3 1.2 3 3 3
+42
+
+--- Page 44 ---
+Elective courses#23
+1. Name of the Subject: BIOSTATICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Biostatics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+i. Introduce the students to basic statistical operations required in the field of biotechnology and biochemical
+engineering.
+ii. Application of gained knowledge in different statistical problems related to biotechnology.
+4. Course Content:
+Module I: Fundamentals of statistics in biology; Probability: Permutations; Combinations; Inclusion-exclusion
+rule; Sampling with and without replacement; Conditional probability: Bayes’ theorem; Independence;
+Descriptive statistics and Random variables; Measures of central tendency; Measures of spread; Higher moments:
+kurtosis, skewness, Statistical data representation; Discrete random variables: Bernoulli, Binomial, Poisson;
+Geometric distributions; Continuous random variables: Normal; Exponential distributions; Standard normal
+distribution.
+Module II: Samples and populations; Single- and Double-blind experiments; Point and interval estimates;
+Sampling distributions: t, chi-square, F distributions; Hypothesis testing: null and alternative hypotheses,
+decision criteria, critical values, type I and type II errors, Meaning of statistical significance; Power of a test; One
+sample hypothesis testing: Normally distributed data: z, t and chi-square tests; Binomial proportion testing. Two
+sample hypothesis testing; Nonparametric methods: signed rank test, rank sum test; Kruskal-Wallis test; Analysis
+of variance: One-way ANOVA.
+Module III: Regression and correlation; Analysis of enzyme kinetic data; Michaelis-Menten; Lineweaver-Burk
+and the direct linear plot; Logistic Regression; Polynomial curve fitting.
+Module IV: Single factor experiments; Randomized block design; Plackett-Burman Design; Comparison of k
+treatment means; Factorial designs; Blocking and confounding; Response surface methodology.
+5. Text/References:
+a) Hogg R.V. and Tanis E.A.(2001). Probability and Statistical Inference, Prentice Hall International Inc.
+b) Kale, B.K. (1999). A first Course on Parametric Inference, Narosa Publishing House.
+c) Manly, B. F. (2007). Randomization, Bootstrap and Monte Carlo methods in Biology, Chapman & Hall / CRC.
+d) Rohatgi, V.K. and Saleh, A.K.Md.(2001). An Introduction to Probability and Statistics, John Wiley & Sons.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Recognize the importance of data collection and its role in determining scope of
+inference.
+CO-2 Demonstrate a solid understanding of interval estimation and hypothesis testing.
+CO-3 Choose and apply appropriate statistical methods for analyzing one or multiple
+variables.
+CO-4 Use technology to perform descriptive and inferential data analysis to interpret
+statistical results correctly, effectively, and in context.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 1 2 2 2 1 2 1
+CO-2 3 1 2 2 2 1 2 1
+CO-3 3 1 2 2 2 1 2 1
+CO-4 3 1 2 2 2 1 2 1
+Total 12 4 8 8 8 4 8 4
+Average 3 1 2 2 2 1 2 1
+43
+
+--- Page 45 ---
+Elective courses#24
+1. Name of the Subject: ADVANCED GENETIC ENGINEERING
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Advanced Genetic Engineering 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide the basic and advanced concept of genetic engineering and their application in the field of Biotechnological
+and biomedical research.
+II. To familiarize the students with different cutting-edge techniques employed in genetic engineering.
+III. To provide the precise knowledge of ethical issues involved in the gene manipulation.
+4. Course Content:
+Module-I: Introduction to DNA modification enzymes, PCR and its Applications in molecular diagnostics,
+Chromatin Immunoprecipitation; DNA-Protein Interactions-Electromobility shift assay; DNaseI
+footprinting; Methyl interference assay
+Module-I: Cloning Vectors: Plasmids; Insertion and Replacement vectors; Yeast vectors, Cosmids; Artificial
+chromosome vectors (YACs; BACs); Animal Virus derived vectors, Plant virus derived vectors, Plant based
+vectors, Expression vectors and their application; Intein-based vectors.
+Module-III: Introduction to Cloning Methodologies: Insertion of foreign DNA into bacterial, yeast, plant
+and animal host Cells; Transformation and Transfection process; Construction of libraries; Isolation of
+mRNA and total RNA; cDNA and genomic libraries; cDNA and genomic cloning; Expression cloning;
+Jumping and hopping libraries; Southwestern and Far-western cloning; Protein-protein interactive cloning
+and Yeast two hybrid system; Phage display;
+Module IV: DNA Sequencing methods; Concept of site directed mutagenesis, PCR based mutagenesis,
+Mutation detection: SSCP, DGGE, RFLP, Oligo Ligation Assay (OLA), MCC (Mismatch Chemical Cleavage,
+ASA (Allele-Specific Amplification), PTT (Protein Truncation Test). Principle and application of gene
+silencing; Gene knockouts and Gene Therapy; Gene targeting; Transgenics; cDNA and intragenic arrays;
+Differential gene expression and protein array, CRISPR-Cas9 system for gene editing.
+5. Text/References:
+a) S.B. Primrose, R.M. Twyman and R.W.Old; Principles of Gene Manipulation. 6th Edition, S.B.University Press, 2001.
+b) J. Sambrook and D.W. Russel; Molecular Cloning: A Laboratory Manual, Vols 1-3, CSHL, 2001.
+c) Brown TA, Genomes, 3rd ed. Garland Science 2006
+d) Selected papers from scientific journals.
+e) Technical Literature from Stratagene, Promega, Novagen, New England Biolab etc.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Acquire the basic knowledge of genetic engineering including the techniques of gene
+manipulation, applications and limitations
+CO-2 Understand the principles of gene expression and regulation in prokaryotic and eukaryotic
+cells
+CO-3 Gain the knowledge of cutting-edge technologies like genome sequencing, silencing and
+editing
+CO-4 Apply genetic engineering principles for advanced gene therapy, biotechnological and
+biomedical applications
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 - - 3 2 1 2 3 3
+CO-2 1 1 2 3 - 2 2 2
+CO-3 2 2 2 2 3 2 3 2
+CO-4 3 2 3 3 3 2 2 3
+Total 6 5 10 10 7 8 10 10
+Average 2 1.6 2.5 2.5 2.3 2 2.5 2.5
+44
+
+--- Page 46 ---
+Elective courses#25
+1. Name of the Subject: MOLECULAR THERAPEUTICS
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Molecular Therapeutics 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide the students an ability to understand the application of biotechnological research in the field of molecular drug
+development.
+II. To provide in-depth knowledge of recent developments in molecular therapeutics specifically in the treatment of critical
+illness.
+III. To understand the recent advances of recombinant technology for the development of growth factors, hormones, vaccines
+and monoclonal antibodies.
+4. Course Content:
+Module-I: Gene therapy: Intracellular Barriers to gene delivery; Overview of inherited and acquired disease
+for gene therapy; retro and adenovirus mediated gene transfer; Liposome and nanoparticles mediated gene
+delivery; Gene silencing technology: antisense therapy: siRNA cellular therapy; Stem cells: definition properties
+and potency of stem cells; Sources: embryonic and adult stem cells; Concept of tissue engineering; Role of
+scaffolds; Role of growth factors; Role of adult and embryonic stem cells; Clinical applications; Ethical issues.
+Module-II: Recombinant Therapy: Clinical applications of recombinant technology; Erythropoietin; insulin
+analogs and its role in diabetes; Recombinant human growth hormone; Streptokinase and urokinase in
+thrombosis; Recombinant coagulation factors; Immunotherapy: Monoclonal antibodies and their role in cancer;
+Role of recombinant interferon’s; Immunostimulants: Immuno-suppressors in organ transplants; Role of
+cytokine therapy in cancers; Vaccines: types, recombinant vaccines and clinical applications; Tissue and organ
+transplantations: Transgenic and their uses; Cloning and ethical issues.
+Module-III: Example of Medicinal plants, different metabolites including microbial source and plants, mode of
+action against different human disease.
+5. Text/References:
+a) S.B. Primrose, R.M. Twyman and R.W.Old; Principles of Gene Manipulation. 6th Edition, S.B.University Press, 2001.
+b) J. Sambrook and D.W. Russel; Molecular Cloning: A Laboratory Manual, Vols 1-3, CSHL, 2001.
+c) Brown TA, Genomes, 3rd ed. Garland Science 2006
+d) Selected papers from scientific journals.
+e) Technical Literature from Stratagene, Promega, Novagen, New England Biolab etc.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand the underlying mechanism of wide range of disease therapies from
+protein supplementation to gene therapy.
+CO-2 Acquire the Knowledge on Biopharmaceutical products and new molecular
+medications (antisense therapy).
+CO-3 provide an ethical framework for the pursuit of clinical and laboratory research for
+stem cell therapy.
+CO-4 Understand molecular basis of therapeutics and common drug modalities useful for
+the treatment of genetic disorders and Cancer.
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 3 3 3 3 - 2 2 2
+CO-2 2 3 3 2 - 2 3 2
+CO-3 2 3 - 3 3 2 2 2
+CO-4 3 3 3 2 3 2 3 2
+Total 12 12 9 10 6 8 10 8
+Average 3 3 3 2.5 2 2 2.5 2
+45
+
+--- Page 47 ---
+Elective courses#26
+1. Name of the Subject: BIOENTREPRENEURSHIP
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Bioentrepreneurship 3 1 0 4 4 20 50 30
+3. Course Objectives:
+I. The students acquire necessary knowledge and skills required for organizing and carrying out entrepreneurial activities.
+II. The students will develop their ability towards analysing various aspects of entrepreneurship – especially of taking over
+the risk, and the specificities as well as the pattern of entrepreneurship development and, finally, to contribute to their
+entrepreneurial and managerial potentials.
+4. Course Content:
+Module-I: Introduction to Bioentrepreneurship, Principles of business management and concept of
+Bioentrepreneurship, SWOT analysis of Indian Biobusiness, Project formulation and selection based on size,
+technological assessment, technical report, feasibility and commercial viability of project, total product cost,
+capital investment and profitability, manufacturing cost estimation, capital investment estimation, Risk capital
+and working capital, manufacturing cost estimation for an intracellular protein, using cost analysis for R&D
+decision making.
+Module II: Introduction to IPR, types of IP (patent, copyrights, geographical indications, trademarks, trade secret,
+Industrial designs), treaties in IPR, Patent laws, Legislations covering IPR’s in India, IPR Protection, patent filing
+in biotechnology, provisional and complete specification, patentable and non-patentable items.
+Module III: General guidelines (GLP, GMP), containment facilities, types of containment, guidelines for
+recombinant DNA research, guidelines for cloning, Release of genetically modified organisms (GMOs), ISO
+Series, WHO Guidelines.
+Module IV: Introduction and need of bioethics, types of risk associated with genetically modified
+microorganisms, Statutory requirements of social responsibility and entrepreneurial discipline, Example of a few
+Bioentrepreneurship.
+5. Text/References:
+a) Biobusiness: A Strategic Perspective, Gurinder S. Shahi (Editor), 2005
+b) Patent Law, P. Narayan
+c) 3. Biological Safety: Principles and Practices, Diane O. Fleming (Editor), Debra L. Hunt (Editor), 2006.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Comprehend business management and concept of Bioentrepreneurship
+CO-2 Understand cost requirement for Bioentrepreneurship
+CO-3 To understand the comprehend benefits of GM technology and related issues
+CO-4 Identify the challenges faced on genetically modified organisms (GMOs)
+CO-5 Recognize importance of protection of new knowledge and innovations and its
+role in business
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 3 2 - 2 2 3 2
+CO-2 1 1 2 - 2 1 3 2
+CO-3 2 - 2 1 2 1 3 2
+CO-4 3 - 2 1 2 1 3 2
+CO-5 1 1 1 2 2 2 3 2
+Total 9 5 9 4 10 7 15 10
+Average 1.8 1 1.8 0.8 2 1.4 3 2
+46
+
+--- Page 48 ---
+Elective courses#27
+1. Name of the Subject: PHARMACEUTICAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Pharmaceutical Biotechnology 4 0 0 4 4 20 50 30
+3. Course Objectives:
+i. The knowledge gained in this course would be used to understand and evaluate the different pharmaceutical
+parameters of the current and future biotechnology related products on the market
+ii. The delivery of peptides and proteins by the parenteral, oral, transdermal and nasal routes of administration will
+also be discussed
+4. Course Content:
+Module I: Introduction, Industrial Applications- Biopharmaceuticals Role of r-DNA technology for the
+production of biopharmaceuticals - Engineering bacteria for industrial production of small valuable organics -
+Characterization and Bioanalytical Aspects of Recombinant Proteins as Pharmaceutical Drugs.
+Module II: Monoclonal antibodies - applications of monoclonal antibodies - generation of monoclonal antibodies,
+Quality control and Stability of immunological products. Manufacturing process validation, Characterization of
+rDNA-derived biotherapeutics (Physiochemical characterization, biological activity)
+Module III: Vaccines - Ideal Vaccine - types of modern vaccines - attenuated live vaccines - killed inactivated
+vaccines - conjugated vaccines - subunit vaccines - protein vaccines - DNA vaccines - lipid and carbohydrate
+antigen vaccines - recombinant live carriers - vaccine adjuvants - Scientific, Technical and Economic Aspects of
+Vaccine Research and Development, Basic approach to gene therapy
+Module IV. Understanding of various dosage forms: solid/Liquid Dosages Forms, Semisolid Dosage Forms,
+Blood Products and Plasma Substitutes, Pharmaceutical Aerosols, Ophthalmic Preparations, Cosmeticology and
+Cosmetic Preparations.
+5. Text/References:
+a) Groves, J.M., Pharmaceutical Biotechnology, Taylor and Francis, London, 2nd edition, 2006.
+b) Klefenz, H., Industrial Pharmaceutical Biotechnology, Wiley-Vch Verlag GmbH, Weinheim, 2nd edition, 2002. 2.
+Rodney, J.Y., Gibaldi, M, Biotechnology and Biopharmaceuticals, John Wiley, New Jersy, 2nd edition, 2003.
+c) Pharmaceutical Biotechnology, Drug Discovery and Clinical Applications. Edited by O.Kayser andR.H.M¨uller
+(2006) Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+d) Walsh, G., Biopharmaceuticals: Biochemistry and Biotechnology, John Wiley, New Jersy, 2nd edition, 2003.
+e) Rodney J Y Ho, MILO Gibaldi, Biotechnology & Biopharmaceuticals Transforming proteins and genes into drugs,
+1st Edition, Wiley Liss, 2003.
+f) Brahmankar D M, Jaiswal S B, Biopharmaceutics and Pharmacokinetics A Treatise, Vallabh Publisher, (1995,
+reprint 2008).
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Understand principles of biotechnology in pharmaceutical product development
+CO-2 Role of r-DNA technology for the production of biopharmaceuticals
+CO-3 Identify the challenges faced in development of biologicals and drugs
+CO-4 Apply advanced biotechnology methods in novel drug delivery
+CO-5 Review the production processes for various dosage forms
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 1 2 1 2 2 3 2
+CO-2 2 1 2 1 2 2 3 2
+CO-3 2 2 2 - 2 1 2 2
+CO-4 3 - 2 1 2 1 2 2
+CO-5 1 2 1 2 2 2 3 2
+Total 10 6 9 5 10 8 13 10
+Average 2 1.2 1.8 1 2 1.6 2.6 2
+47
+
+--- Page 49 ---
+Elective courses#28
+1. Name of the Subject: PROCESS CONTROL AND INSTRUMENTATION
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Process Control and 4 0 0 4 4 20 50 30
+Instrumentation
+3. Course Objectives:
+i. The students will have an appreciation of the fundamental importance of control systems for the safe and sustainable
+operation of process plants.
+ii. The student will apply the key concepts of automatic control and instrumentation to process plants
+4. Course Content:
+Module I: Representative process control problems in biotechnology and biomedical engineering; general
+modeling principles in control theory; classification of variables and design elements of a control system.
+Module II: Concept of ODE and Laplace Transform (LT) and its application in control systems; Transfer function
+for different types of processes; stability issues, unstable and non-minimum phase behaviour.
+Module III: Electronic controllers, operational amplifier, electronic controller input and output, PID and on-off
+control models, microprocessors, general architecture, algorithms, applications in biological system control;
+Feedback controller.
+Module IV: Design of feedback controller: performance evaluation, stability, sensitivity and robustness analysis;
+characteristics and performance of control computers, signals-types, signal transmission, analog feedback control
+systems. The direct digital control concept, advantages of DDC, computer process interface for data acquisition
+and control and analysis, computer control loops and software tools utilized.
+5. Text/References:
+a) George Stephanopolous; Chemical Process Control: An introduction to Theory and Practice; Prentice Hall
+of India; New Delhi, 1990.
+b) Emanule S. Savas; Computer control of industrial processes, McGraw Hill, London, 1965.
+c) Peter Harriot; Process Control, Tata McGraw Hill Publishing Co, New Delhi 1977.
+d) Jon B. Olansen, Eric Rosow; Virtual Bio-Instrumentation: Biomedical, Clinical, and Healthcare Application
+in LabVIEW; Prentice-Hall; 2001.
+e) George Buckbee, Joseph Alford; Automation Applications in Bio-pharmaceuticals; ISA; 2008.
+f) Denis Dochain; Automatic Control of Bioprocesses; Willey; 2013.
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 To understand the basic principles & importance of process control in industrial
+process plants;
+CO-2 To understand the use of block diagrams & the mathematical basis for the design of
+control systems;
+CO-3 Design of various process controllers
+CO-4 Appropriately select the instruments for a particular process
+CO-5 Design and implement a safety instrumentation system
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 1 1 2 1 1 1 3 2
+CO-2 1 1 1 2 2 1 2 3
+CO-3 2 1 1 2 1 1 2 2
+CO-4 3 1 1 1 1 2 2 3
+CO-5 1 1 1 2 1 1 3 2
+Total 10 6 9 5 10 8 12 12
+Average 2 1.2 1.8 1 2 1.6 2.4 2.4
+48
+
+--- Page 50 ---
+Elective courses#29
+1. Name of the Subject: ENVIRONMENTAL BIOTECHNOLOGY
+2. Credit Structure:
+Course Name Code L T P H Credit Marks (Weightage)
+Mid End Internal
+Environmental Biotechnology 4 0 0 4 4 20 50 30
+3. Course Objectives:
+I. To provide technical knowledge about biological waste treatment and pollution abatement in aquatic system
+II. To provide students an ability to design effluent treatment plant.
+III. To provide students an ability to understand application of biotechnology and biochemical engineering in the field of
+environmental remediation
+4. Course Content:
+Module I: Basics of environmental microbiology, stoichiometry and bacterial energetics, microbial
+kinetics and reactors
+Module II: Introduction to aerobic suspended growth biological treatment, activated sludge treatment,
+characteristics of activated sludge, process configurations, aeration systems, bulking and other sludge
+settling problems, analysis and design of activated sludge, analysis and design of settlers
+Module III:
+Introduction to aerobic attached growth biological treatment systems, trickling filter, oxygen transfer
+and utilization.
+Module IV:
+Biological nutrient removal: microbiology, process description and environmental factors for
+nitrification, denitrification and phosphorous removal
+Module V: Bioremediation: scope and characteristics of contaminants, biodegradability, contaminant
+availability for biodegradation, engineering strategies for bioremediation, biosorption.
+5. Text/References:
+a) Brock Biology of Microorganisms By Michael T Madigan, John M. Martinko, Paul V. Dunlap, David P. Clark
+b) Environmental Biotechnology: Principles and applications by Bruce E Rittmann and Perry L McCarty
+6. Course Outcomes:
+No. of course outcome Name of the course outcome
+CO-1 Ability to understand the role of biotechnology in an environmental context
+CO-2 Ability to apply engineering skills for solving environmental challenges
+CO-3 Ability to understand the principle of bioremediation
+CO-4 Ability to understand the principle of biological wastewater treatment
+7. CO-PO Matrices & CO-PSO Mapping of courses:
+CO & PO/PSO mapping PO-1 PO-2 PO-3 PO-4 PO-5 PO-6 PSO-1 PSO-2
+CO-1 2 3 2 2 3 2 2 2
+CO-2 3 2 2 2 2 2 2 1
+CO-3 3 2 2 2 2 2 2 2
+CO-4 2 3 3 2 3 3 2 2
+Total 10 10 9 8 10 9 8 7
+Average 2.5 2.5 2.25 2 2.5 2.25 2 1.75
+49

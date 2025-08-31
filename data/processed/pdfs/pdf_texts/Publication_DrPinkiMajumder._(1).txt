@@ -1,0 +1,111 @@
+
+--- Page 1 ---
+Information Regarding Research & Publications
+Number of publications:
+Sl. International National Books
+Name of the faculty Conference Books
+No.
+Journal Journal Chapter
+International: 03
+1 Dr. Pinki Majumder 18 00 00 00
+National: 00
+Publication Details: Dr. Pinki Majumder
+2023
+1. A Tarafdar, P Majumder, M Deb, UK Bera, “Application of a q-rung orthopair
+hesitant fuzzy aggregated Type-3 fuzzy logic in the characterization of
+performance-emission profile of a single cylinder CI-engine operating with
+hydrogen in dual fuel mode”, in Journal of Energy 2023, pages 126-751
+2022
+2. A Singh, P Majumder, UK Bera, “Prediction of polypropylene business strategy
+for a petrochemical plant using a technique for order preference by similarity to
+an ideal solution‐based artificial neural network” in Journal of Polymer
+Engineering & Science, volume 64 (4), pages 1096-1113 (2022)
+2021
+3. Bijoy Krishna Debnath, Pinki Majumder and Uttam Kumar Bera, A FEPQ
+model of sustainable model of sustainable items with time and stock dependent
+demand under trade credit policy, International Journal of Operation Research,
+vol. 41,27-52,2021.
+2020
+4. An EPQ model of substitutable products under trade credit policy with stock
+dependent and random substitution OPSEARCH , Vol-57, 1205-1243,2020.
+
+--- Page 2 ---
+2019
+5. Multi-objective Sustainable Fuzzy Economic Production Quantity (SFEPQ) Model
+with Demand as Type-2 Fuzzy Number: A Fuzzy Differential Equation Approach
+Hacettepe Journal of Mathematics and Statistics,SCIE, 48 (1), 112-139,2019.
+6. An EPQ Model Of Deteriorating Substitute Items Under Trade Credit
+Policy, International Journal Of Operational Research, Scopus, 34 (2),
+161-212 ,2019.
+2018
+7. Inventory Model With Demand As Type-2 Fuzzy Number: A Fuzzy Differential
+Equation Approach, Iranian Journal Of Fuzzy Systems, SCIE Journal, I.F 0.534, 15
+(1), 1-24,2018.
+8. Two Ware-House Inventory Models Of Breakable Items With Stock Dependent
+Demand Under Trade Credit Policy With Respect To Both Supplier And Retailer,
+International Journal Of Logistics Systems And Management, Scopus, 31 (2), 151-
+166,2018
+2017
+9. An Application Of Genetic Algorithms In Inventory Management, International
+Journal Of Science And Innovative Engineering & Technology, Vol 1, 1-4,2017.
+2016
+10. A Multi-Item EPQ Model With Imperfect Production Process For Time Varying
+Demand With Shortages, Hacettepe Journal Of Mathematics And Statistics, SCIE
+Journal, I.F0.433, Vol 45(3),929-955,2016.
+11. An EPQ Model For Two-Warehouse In Unremitting Release Pattern With Two-
+Level Trade Credit Period Concerning Both Supplier And Retailer, Applied
+Mathematics And Computation, SCI Journal,I.F-1.738,Vol 274,430-458,2016.
+12. Application Of Artificial Intelligence (AI) In Characterization Of The
+PerformanceEmission Profile Of A Single Cylinder CI Engine Operating With
+Hydrogen In Dual Fuel Mode: An ANN Approach With Fuzzy-Logic Based
+Topology Optimization, International Journal Of Hydrogen Energy, SCI Journal,
+I.F-3.582 ,Vol- 41(32),14330-14350,2016.
+
+--- Page 3 ---
+13. Application Of Generalized Hukuhara Derivative Approach In An Economic
+Production Quantity Model With Partial Trade Credit Policy Under Fuzzy
+Environment, Operations Research Perspectives, Scopus, Vol 3 ,77–91,2016
+2015
+14. A Deterministic Inventory Model With Weibull Deterioration Rate Under Trade
+Credit Period In Demand Declining Market And Allowable Shortage Using Fuzzy
+Logic, Scientific Bulletin-Series D, Scopus, Vol 77(2),279-292, 2015.
+15. An EPQ Model Of Deteriorating Items Under Partial Trade Credit Financing
+And Demand Declining Market In Crisp And Fuzzy Environment, Procedia
+Computer Science, Elsevier, Scopus, Vol-45, 780-789,2015.
+2014
+16. An EPQ Model For A Deteriorating Item With Inflation Reduced Selling Price
+And Demand With Immediate Part Payment, Hacettepe Journal Of
+Mathematics And Statistics, SCIE Journal, I.F-0.433, Vol 43(4),641-659,2014.
+2013
+17. A Deterministic Inventory Model For Deteriorating Items With Time Dependent
+Demand And Allowable Shortage Under Trade Credit, Published In International
+Journal On Current Science & Technology, Vol 1,197-206,2013.
+18. An EPQ-Based Inventory Model For Deteriorating Items Under Stock-Dependent
+Demand With Immediate Part Payment, Journal Of Applied Mathematics And
+Physics, Vol. 1,No. 4,25-30,2013
+International Conferences:
+1. D Ghosh, P Majumder, UK Bera, “Economic Order Quantity Model of Deteriorating
+Items Under Trade Credit Policy: A Game Theoretical Approach”, in 2022 IEEE 7th
+International conference for Convergence in Technology (I2CT), 1-6 (2022)
+2. S Ankur, P Majumder, UK Bera, S Biswas, “A co-operative game theoretical strategy
+of Vendor and Buyer in an EPQ model of deteriorating items under trade credit
+policy”, in 2022 IEEE Region 10 Symposium (TENSYMP), 1-6 (2022)
+3. An Inventory Model For Deteriorating Items With Two Credit Period In Fuzzy
+Environment, Rough Sets, Fuzzy Sets And Soft Computing,163-176,Narosa
+Publishers,2015.
+
+--- Page 4 ---
+List of PhD Awarded:
+Sl.
+Name Title of the Thesis Year Supervisor
+No.
+Dr. Uttam
+Some Inventory Models in Type-2
+Bijoy Krishna kumar Bera &
+1 fuzzy environment: A fuzzy 2019
+Debnath Dr Pinki
+Differential Equation Approach
+Majumder
+
+--- Page 5 ---
+
