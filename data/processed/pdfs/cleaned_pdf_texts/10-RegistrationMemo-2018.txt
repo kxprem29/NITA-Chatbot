@@ -1,0 +1,43 @@
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+Ph.D. PROGRAMME REGISTRATION
+Form NITA/ACAD/Ph.D./10 Dated: [Date]
+
+On the recommendation of the DOCTORAL COMMITTEE, the research scholar named below is provisionally registered for the Doctor of Philosophy (Ph.D.) degree of this Institute:
+
+DEPARTMENT OF: [Department Name]
+
+Scholar's Name: [Scholar's Name]
+Enrolment No.: [Enrolment Number]
+Category: [Category]
+Date of Enrollment: [Date of Enrollment]
+
+**COMMITTEE MEMBERS**
+| Sl. No. | Name | Department | Role in Doctoral Committee | Signature |
+|---|---|---|---|---|
+| 1. | [Name] | [Department] | Chairman | [Signature] |
+| 2. | [Name] | [Department] | Member | [Signature] |
+| 3. | [Name] | [Department] | Member | [Signature] |
+| 4. | [Name] | [Department] | Supervisor | [Signature] |
+| 5. | [Name] | [Department] | Supervisor | [Signature] |
+
+**Coursework Completed**
+| S. No. | Code No. | Subject | Credit | Semester | Grade |
+|---|---|---|---|---|---|
+| [1.] | [Code] | [Subject] | [Credit] | [Semester] | [Grade] |
+| [2.] | [Code] | [Subject] | [Credit] | [Semester] | [Grade] |
+| [Etc.] | | | | | |
+
+Date of completion of comprehensive examination: [Date]
+
+Research Problem: [Detailed Research Problem Description]
+
+Dean (Academic)
+
+To:
+[Name of Scholar], Ph.D. Scholar, Dept. of [Department Name]
+
+Copy to:
+1. Chairman, Senate
+2. Chairman, DPPC (for information to all DC members)
+
+Page 1 of 1

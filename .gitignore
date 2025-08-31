@@ -2,3 +2,6 @@
 .venv*
 *.sqlite3
 vector_db
+chroma_db
+vecto_db
+__pycache__

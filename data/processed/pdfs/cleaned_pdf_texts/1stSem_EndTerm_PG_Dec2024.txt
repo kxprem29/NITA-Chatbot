@@ -1,0 +1,239 @@
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+M.TECH 1ST SEMESTER
+
+Time: 11:00 AM - 1:00 PM
+Venue: NIT Agartala
+
+| Date           | Day       | Structural Engg., Geo Tech Engg., Transportation Engg., Environmental Engg., Water Resource Engg. | Hydro Seismics Science | Informatics and Engineering | AI and Data Engg. |
+|----------------|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|------------------------------|---------------------|
+| 13.12.2024     | Friday    | Theory of Elasticity & Plasticity (PCE11B03)                                                          |                           |                              |                     |
+| 16.12.2024     | Monday    | Advanced Concrete Technology/Structural Masonry                                                       | Mechanics of Soil (PCE21C05) | Advance Mathematics (PCE21B03) |                     |
+| 17.12.2024     | Tuesday   | Advanced Structural Analysis (PCE11C06)                                                              |                           |                              |                     |
+| 19.12.2024     | Thursday  | Advanced Design of Pre-stressed Concrete/Advanced Design of RC Structures (PCE11E21)/(PCE11E19)   | Soil Dynamics and Machine Foundation PCE21C06 | Ground Improvement Technique (PCE21E20) | Mechanics of Soil {PCES1E16) |
+| 21.12.2024     | Saturday  | Structural Dynamics (PCE11C05)                                                                       | Pavement Materials (PCE31B03) | Urban Transportation Planning and Management ENGINEERING OPERATION AND MANAGEMENT (PCE31C06) | SOIL INVESTIGATION AND EXPLORATION PCE21E25 |
+
+|        |  | Water and Wastewater Treatment Processes -I (PCE41B04)  | ENGINEERING GEOLOGY AND GEO HAZARD |
+|-----------|-----------------------------------------------------------------------------------|--------------------------|
+|  |  | ADVANCED MATHEMATICS (PCE41E18)  | NUMERICAL METHODS (PCE71C06) |
+|  |  | INDUSTRIAL POLLUTION CONTROL (PCE41E26)  | DYNAMICS OF SYSTEM (PCE71C05) |
+|  |  | AIR AND NOISE POLLUTION AND CONTROL (PCE41C06)  | GROUND IMPROVEMENT TECHNIQUE (PCE71E15} |
+|  |  | APPLIED ENVIRONMENTAL CHEMISTRY AND MICROBIOLOGY  | STRUCTURAL RELIABILITY (PCE71E14) |
+|  |  | Free Surface Flow (PCE51B03)  |  |
+|  |  | ADVANCED MATHEMATICS (PCE51C06)  |  |
+|  |  | APPLIED HYDROLOGY (PCES51C05)  |  |
+|  |  | ADVANCED FLUID MECHANICS (PCE51E13)  |  |
+|  |  | GEOGRAPHICAL INFORMATION SYSTEM & ITS APPLICATION SCIENCE IN WRD(PCE61B07)  |  |
+|  |  | PRINCIPLE OF WATER RESOURCES ENGINEERING PCE61C05  |  |
+|  |  | HYDRAULIC STRUCTURE ENGINEERING (PCE61E19)  |  |
+|  |  | APPLICATION OF GEO INFORMATICS IN WATER RESOURCE MANAGEMENT PCE61E23  |  |
+|  |  | HYDROLOGY AND HYDRAULIC INSTRUMENT (PCE61E21)  |  |
+
+Dean (Academic Affairs)
+
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+M.TECH 1ST SEMESTER
+Time: 11:00 AM - 1:00 PM
+Venue: NIT Agartala
+
+| Date       | Day       | Thermal Science & Tech. | Manufacturing Tech.       | Machine Design       | Material Science                      | Automotive Engg. |
+|------------|-----------|---------------------------|----------------------------|-----------------------|---------------------------------------|-------------------|
+| 13.12.2024 | Friday    | ELECTIVE - I  COMPUTATIONAL FLUID DYNAMICS (PME11E06)       | ELECTIVE - I STRUCTURE & COMPUTATIONAL FLUID DYNAMICS (PMES1E04) | ADVANCED MATERIAL PROCESSING(PME21C13) | ADVANCED MACHINE DESIGN(PME31C05) | CHARACTERIZATION OF MATERIALS(PMES1C16) |
+| 16.12.2024 | Monday    | ELECTIVE -1 NUMERICAL METHODS FOR ENGINEERS (PME11B03)      | ADVANCED MATHEMATICS AND PROGRAMMING(PME21B05) | ADVANCE MATHEMATICS AND STATISTICS(PMES1C19) | APPLIED MATHEMATICS FOR ENGINEERS(PME31E05) |                   |
+| 17.12.2024 | Tuesday   | ADVANCE THERMODYNAMICS (PME11C06) | ELECTIVE I METAL CASTING (PME21E07) | ANALYSIS AND SYNTHESIS MECHANISM (PME31C07) | THERMODYNAMICS OF MATERIALS(PMES1C15) | ELECTIVE - J ADVANCE THERMODYNAMICS (PMES1E02) |
+| 19.12.2024 | Thursday  | VISCOUS FLUID MECHANICS (PME11C05) | PHYSICS OF MANUFACTURING PROCESS (PME21C08) | PHYSICAL METALLURGY METHODS(PME31E08) |  | (PME51C20)  |
+| 21.12.2024 | Saturday  | CONDUCTION AND RADIATION PME11C07 | ELECTIVE - 11 PRODUCTION PLANNING AND CONTROL(PME21E10) | ENGINE COMBUSTION AND EMISSIONS PMES1C12 | DESIGN|             |
+| 23.12.2024 | Monday  |  |            |             | POLYMER ENGINEERING PMES1C17|             |
+
+Dean (Academic Affairs)
+
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+M.TECH 1ST SEMESTER
+Time: 11:00 AM - 1:00 PM
+Venue: NIT Agartala
+
+| Date           | Day       | Power Electronics & Drives             | Instrumentation Engg.                  | Power System                       | Integrated Energy System            | Artificial Intelligence | Cyber Security | Data Science & Engineering |
+|----------------|-----------|-----------------------------------------|----------------------------------------|------------------------------------|------------------------------------|--------------------------|----------------|-----------------------------|
+| 13.12.2024     | Friday    | MODELLING AND ANALYSIS OF ELECTRICAL MACHINES AND DRIVES(PEE11C04) | ELECTIVE PAPER-II DIGITAL SIGNAL PROCESSING (PEE21E04) | POWER SYSTEM AND STABILITY CONTROL (PEE31C04) | ELECTIVE PAPER-I (OPEN) DIRECT ENERGY CONVERSION(PEEO1E03) | ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B03) | ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B01) | ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B01) |
+| 16.12.2024     | Monday    | ADVANCE POWER ELECTRONICS (PEE11C03)   | INDUSTRIAL INSTRUMENTATION (PEE21C03) | POWER SYSTEM OPERATION AND ECONOMICS | ENERGY CONSERVATION (PEEO1C04)  | ARTIFICIAL INTELLIGENCE (PCS21B04) | PRINCIPLES OF CRYPTOGRAPHY (PCS21B02) | MATHEMATICAL FOUNDATIONS FOR DATA SCIENCE(PCS21C01 |
+| 17.12.2024     | Tuesday   | ELECTIVE PAPER-II HVDC TRANSMISSION   | PROCESS CONTROL AND INSTRUMENTATION (PEE21C04) | ELECTIVE PAPER-II HVDC TRANSMISSION (PEE31E06) | ELECTIVE PAPER-II HVDC TRANSMISSION (PEEO1E05) | COMPUTATIONAL METHODS OF OPTIMIZATION | MATHEMATICAL FOUNDATION OF | DATA MINING (PCS21B02) |
+| 19.12.2024     | Thursday  | ELECTIVE PAPER-I (OPEN) RENEWABLE  | ELECTIVE PAPER-I (OPEN)  | ELECTIVE PAPER-I (OPEN)   | RENEWABLE ENERGY (PEEO1C03)  | LANGUAGE PROCESSING  | ADVANCED COMPUTER NETWORKS | NATURAL LANGUAGE PROCESSING PCS21E01 |
+| 21.12.2024     | Saturday    | OPTOELECTRONICS AND INSTRUMENTATION PEE11B02  | OPTOELECTRONICS AND INSTRUMENTATION (PEE21B05) | OPTOELECTRONICS AND INSTRUMENTATION (PEE31B02) | OPTOELECTRONICS AND INSTRUMENTATION (PEEO1B02) | INFORMATION RETRIEVAL (PCS21E16) | DATA HIDING (PCS21E03) | INFORMATION RETRIEVAL (PCS21E02) |
+|     |RENEWABLE     |ENERGY (PEE21E10)| RENEWABLE ENERGY |         |              |      |     |     |
+
+Dean (Academic Affairs)
+
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+M.TECH 1ST SEMESTER
+Time: 11:00 AM - 1:00 PM
+Venue: NIT Agartala
+
+| Dates & Days | VLSI Design                                  | Communication Systems and Signal Processing | Chemical Engg.                        | BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING |
+|--------------|----------------------------------------------|---------------------------------------------|----------------------------------------|---------------------------------------------|
+| 13.12.2024   | SEMICONDUCTOR DEVICE MODELING (PEC31C06)     | ADVANCED DIGITAL COMMUNICATION (PEC21C02)  | ADVANCED THERMODYNAMICS PCH11B02    | BIOANALYTICAL TECHNIQUES (PBEO1C01) |
+| 16.12.2024   | DIGITAL VLSI CIRCUITS (PEC31C07)            | LINEAR ALGEBRA & STOCHASTIC PROCESSES(PEC21B01)   | ADVANCED TRANSPORT PHENOMENA(PCH11C03)    | BIOTECHNOLOGY AND BIOCHEMICAL ENGINEERING PRINCIPLES(PBE11C12 |
+| 17.12.2024   | ANALOG VLSI CIRCUITS (PEC31C08)             | ADVANCED DIGITAL SIGNAL PROCESSING (PEC21C01}          | ADVANCED NUMERICAL METHODS IN CHEMICAL ENGG(PCH11C05   | APPLIED BIOINFORMATICS (PBE11C11)  |
+| 19.12.2024   | ELECTIVE -I Advanced Computer Architecture and Processor Design (PEC31E16) | ELECTIVE - I: MICROWAVE CIRCUITS, SYSTEMS AND APPLICATION (PEC21E01)   | ADVANCED INSTRUMENT ANALYSIS IN CHEMICAL ENGG  | GENOMICS AND PROTEOMICS (PBE11C10) |
+| 21.12.2024   | Elective I SYNTHESIS AND CHARACTERIZATION OF NANOMATERIALS (PEC31E15)          | ELECTIVE I: DIGITAL CONTROL SYSTEM (PEC21E02)           | MODELING AND SIMULATION OF BIOPROCESS | ELECTIVE I-ENVIRONMENTAL BIOTECHNOLOGY (PBE11E07) |
+| 23.12.2024   |                  |  |  | IPR AND BIOSAFETY (PBE11801) |
+
+Dean (Academic Affairs)
+
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+M.Sc 1ST SEMESTER
+Venue: NIT Agartala Time: 11:00 AM - 1:00 PM
+
+| Dates & Days | Mathematics and Computing | Chemistry                  | Physics                       |
+|--------------|---------------------------|---------------------------|------------------------------|
+| 13.12.2024   | PMA21B06                  | PCYO1B06                  | PPHO1B10                     |
+| 16.12.2024   | PMA21B07                  | PCY01B07                  | PPHO1B11                     |
+| 17.12.2024   | REAL ANALYSIS (PMA21B09) | PCY01B08                  | CONDENSED MATTER PHYSICS - I PPHO1B14 |
+| 21.12.2024   | COMPUTER PROGRAMMING IN C++, MATLAB /MATHEMATICA (THEORY) | ANALYTICAL AND ENVIRONMENTAL CHEMISTRY (PCYO1B10) |    |
+
+Dean (Academic Affairs)
+
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+MCA 1ST SEMESTER
+Venue: NIT Agartala Time: 11:00 AM - 1:00 PM
+
+|  |  |  |
+|------------------------------|  |
+| 19.12.2024 (THURSDAY)  | WEB TECHNOLOGY (MCA01B08  |
+|   | PRINCIPLES AND PRACTICES OF MANAGEMENT (MCAO1C05  |
+
+Dean (Academic Affairs)
+Copy to: -
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+No. NITA.6/(5-EXAM)/EP/2012-13 Date: 05.12.2024
+
+ODD SEMESTER END-TERM EXAMINATION - 2024, STARTING FROM 13TH DECEMBER 2024
+MBA 1ST SEMESTER
+Venue: NIT Agartala Time: 11:00 AM - 1:00 PM
+
+| 1ST SEMESTER |
+|---------------------------------------|
+| PMHS11C05                           |
+| PMHS11C08                           |
+| 19.12.2024 (THURSDAY) | ORGANIZATIONAL BEHAVIOUR              |
+| 21.12.2024 (SATURDAY)  | BUSINESS & ENVIRONMENTAL LAW          |
+| ACCOUNTING FOR MANAGERIAL DECISIONS PMHS11C06 |
+| 23.12.2024 (MONDAY)    | MARKETING MANAGEMENT                    |
+
+Dean (Academic Affairs)
+
+Copy to:-
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
+
+National Institute of Technology, Agartala
+Office of the Dean Academic
+Barjala, Agartala, Tripura (West) 799046
+
+Date: 05.12.2024
+
+Ph.D Course work
+Venue: NIT Agartala TIME: 11:00 AM TO 1:00 PM
+
+| Dates & Days | Production Engg                        |
+|--------------|-----------------------------------------|
+| 13.12.2024   | (FRIDAY) ADVANCES IN MACHINING PROCESS (PPE11B02) |
+| 16.12.2024   | (MONDAY) ADVANCED FINITE ELEMENT METHODS (PPE11C03) |
+| 17.12.2024   | (TUESDAY)  |
+| 19.12.2024   | (THURSDAY |
+Dean (Academic Affairs)
+Copy to:-
+1. P.S to the Director for kind information of the Director.
+2. All HOD’s for kind information.
+3. System administrator for upload in the Institute Website.
+4. Notice Board.
+
+Dean (Academic Affairs)
