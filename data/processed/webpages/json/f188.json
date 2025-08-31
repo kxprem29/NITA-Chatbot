@@ -1,0 +1,98 @@
+{
+    "name": "Prof. Manish Pal",
+    "designation": "Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "mani_nita@yahoo.co.in",
+    "research_area": [
+      "Water & Waste Management",
+      "Water Transportation",
+      "Environmental issues related to transportation system",
+      "Highway and Traffic Engineering",
+      "Engineering Materials",
+      "Geotechnical issues related to road, railway etc.",
+      "Intelligent Transportation System"
+    ],
+    "courses_taught": {
+      "UG": ["Subjects related to Transportation Engineering"],
+      "PG": ["Subjects related to Transportation Engineering"]
+    },
+    "phd_students": {
+      "enrolled_completed": 15,
+      "enrolled_ongoing": 3
+    },
+    "address": {
+      "street": "Residential Address: East Shibnagar, Sukanta Palli, PO: Agartala College, West Tripura",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India",
+      "pin": "799004"
+    },
+    "contact": {
+      "email": "mani_nita@yahoo.co.in",
+      "residence_phone": null,
+      "mobile": "9856024665"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "institution": "Jadavpur University",
+        "subject": "Engineering",
+        "year": 0
+      },
+      {
+        "degree": "M.E.",
+        "institution": "BESU, presently IIEST Shibpur",
+        "subject": "Transportation Engineering",
+        "year": 0
+      },
+      {
+        "degree": "B.E.",
+        "institution": "Tripura Engineering College",
+        "subject": "Civil Engineering",
+        "year": 0
+      }
+    ],
+    "publications_conference": [
+      {
+        "authors": "J.Pal, P.K.Roy, M.Pal and R.N.Bhowmik",
+        "title": "Storage Level Prediction of Rudrasagar Lake Using ANN",
+        "conference": "International Conference on Sustainable Water Resources Management Under Changed Climate, Jadavpur University",
+        "month": "MAR",
+        "year": 2020
+      },
+      {
+        "authors": "M. Pal, P. Majumder and D. Sarkar",
+        "title": "Open Graded Porous Asphalt Pavement",
+        "conference": "27th International Conference on Science and Technology, Bangkok, Thailand",
+        "month": "DEC",
+        "year": 2017
+      }
+    ],
+    "publications_journal": [
+      {
+        "authors": "Karmakar, D., Majumdar, K., Pal, M. and Roy, P.K.",
+        "title": "Experimental Analysis on Engineering Properties of Pervious Concrete with GGBS as a Partial Replacement for Cement",
+        "journal": "International Journal on Emerging Technologies, 14(1): 52-58",
+        "month": "MAY",
+        "year": 2023
+      },
+      {
+        "authors": "Debnath, C., Pal, M., & Sarkar, D.",
+        "title": "Intelligent Prediction Model on Soil Bamboo Fibre Mix for Road Construction",
+        "journal": "Advances in Engineering Software, 177, 103400",
+        "month": "MAR",
+        "year": 2023
+      }
+    ],
+    "patents": [
+      {
+        "title": "Intelligent Road Mock-up",
+        "year": 2023
+      },
+      {
+        "title": "Use of Vertical Water Treatment Plant in Cities to cope up with land shortage problem",
+        "year": 2021
+      }
+    ]
+  }
+  

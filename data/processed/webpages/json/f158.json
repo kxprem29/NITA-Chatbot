@@ -1,0 +1,116 @@
+{
+  "name": "Dr. Biman Debbarma",
+  "designation": "Assistant Professor",
+  "department": "Electronics and Communication Engineering",
+  "email": "bimandebbarma.ece@nita.ac.in",
+  "research_areas": [
+    "Hardware Security",
+    "Network on Chip"
+  ],
+  "courses_taught": {
+    "UG": [
+      "Microprocessor and Microcontroller",
+      "Computer Architecture",
+      "Cryptography and Network Security",
+      "Data Communication Networks"
+    ],
+    "PG": [
+      "Advanced Computer Architecture"
+    ]
+  },
+  "phd_students": {
+    "enrolled_ongoing": ["Mr. Akash Das"]
+  },
+  "address": {
+    "street": "ECE Department, NIT Agartala, West Tripura, 799046",
+    "city": "Agartala",
+    "state": "Tripura",
+    "country": "India"
+  },
+  "contact": {
+    "email": "bimandebbarma.ece@nita.ac.in",
+    "residence_phone": null,
+    "mobile": null
+  },
+  "academic_info": {
+    "degrees": [
+      {
+        "degree": "Ph.D.",
+        "year": null,
+        "subject": null
+      }
+    ]
+  },
+  "publications": {
+    "conference": [
+      {
+        "title": "Clock Gated Round Robin Arbiter for NoC Router",
+        "conference": "19th International Conference on Researches in Science & Technology (ICRST), Barcelona, Spain",
+        "month": "July",
+        "year": 2017
+      },
+      {
+        "title": "Segmented Buffer for NoC Router",
+        "conference": "4th International Conference on Computer and Software Modeling (ICCSM 2014), Bangkok, Thailand",
+        "month": "October",
+        "year": 2014
+      },
+      {
+        "title": "Energy Comparison of Different NoC Routers",
+        "conference": "International Conference on Advances in Computing, Electronics and Communication – ACEC 2013, Zurich, Switzerland",
+        "month": "October",
+        "year": 2013
+      }
+    ],
+    "journal": [
+      {
+        "title": "Clock Gated Round Robin Arbiter for NoC Router",
+        "journal": "MATTER: International Journal of Science and Technology, Volume 3, Issue 3",
+        "month": "November",
+        "year": 2018
+      },
+      {
+        "title": "Segmented Buffer for NoC Router",
+        "journal": "International Journal of Modeling and Optimization, Volume 5, Issue 1",
+        "month": "February",
+        "year": 2015
+      },
+      {
+        "title": "A modified canny edge detection algorithm with variable sigma",
+        "journal": "International Journal of Emerging Trends in Electrical and Electronics, Volume 1, Issue 2",
+        "year": 2013
+      }
+    ]
+  },
+  "conferences_attended": [
+    {
+      "conference": "19th International Conference on Researches in Science & Technology (ICRST), Barcelona, Spain",
+      "month": "July",
+      "year": 2017
+    },
+    {
+      "conference": "4th International Conference on Computer and Software Modeling (ICCSM 2014), Bangkok, Thailand",
+      "month": "October",
+      "year": 2014
+    },
+    {
+      "conference": "International Conference on Advances in Computing, Electronics and Communication – ACEC 2013, Zurich, Switzerland",
+      "month": "October",
+      "year": 2013
+    }
+  ],
+  "training_conducted": [
+    {
+      "training": "TEQIP-III sponsored National Workshop on 'Challenges in Processor Design'",
+      "month": "June",
+      "year": 2018,
+      "dates": "18-22 June 2018"
+    },
+    {
+      "training": "AICTE sponsored Staff Development program on 'DSP and Embedded Systems'",
+      "month": "April",
+      "year": 2011,
+      "dates": "05-16 April 2011"
+    }
+  ]
+}

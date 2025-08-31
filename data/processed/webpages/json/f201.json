@@ -1,0 +1,101 @@
+{
+    "FacultyProfile": {
+      "Name": "Prof. Ajoy Kumar Das",
+      "Designation": "Professor",
+      "Department": "Mechanical Engineering",
+      "EmailID": "akdas_72@yahoo.com",
+      "ResearchArea": [
+        "CFD",
+        "Fluid flow and heat transfer in microchannels",
+        "Boiling heat transfer",
+        "Air conditioning and refrigeration"
+      ],
+      "CoursesTaught": {
+        "UG": ["Thermal Power Engg.", "Heat Transfer"],
+        "PG": ["Computational Fluid Dynamics", "Computational Method in Fluid Flow & Heat Transfer"]
+      },
+      "Address": {
+        "Department": "Mechanical Engineering Department, NIT Agartala",
+        "City": "AGARTALA",
+        "State": "TRIPURA",
+        "Country": "India"
+      },
+      "ContactInformation": {
+        "Email": "akdas_72@yahoo.com",
+        "PhoneResidence": null,
+        "PhoneMobile": "9402168090"
+      },
+      "AcademicInformation": [
+        {
+          "Degree": "Ph.D.",
+          "Institution": "IIT Kharagpur",
+          "Year": 2010,
+          "Subject": "Mechanical Engineering"
+        },
+        {
+          "Degree": "M.Tech",
+          "Institution": "IIT Madras",
+          "Year": 1996,
+          "Subject": "Mechanical Engineering"
+        },
+        {
+          "Degree": "B.E.",
+          "Institution": "R.E.C Surathkal (Presently NITK Surathkal)",
+          "Year": 1994,
+          "Subject": "Mechanical Engineering"
+        }
+      ],
+      "Publications": {
+        "Conferences": [
+          {
+            "Authors": "P. Dey, and A. K. Das",
+            "Title": "Numerical analysis of characteristic of flow and heat transfer due to natural convection in an enclosure (square) using nano-fluid",
+            "Conference": "Int. Conf. Adv. Energy Conv. Tech. (ICAECT)",
+            "Pages": "92-98",
+            "Publisher": "IEEE",
+            "Year": 2014
+          },
+          {
+            "Authors": "D. K. Singh, A. K. Das, and A. Datta",
+            "Title": "Fluid Flow and Heat Transfer Analysis In Microtube Using Nano Fluid",
+            "Conference": "Int. Conf. Recent Adv. Mech.Engg. Interdisciplinary Developments (ICRAMID-2014)",
+            "Year": 2014
+          }
+        ],
+        "Journals": [
+          {
+            "Authors": "Neeraj Kumar Vidhyarthi, Sandipan Deb, Sagnik Pal, Ajoy Kumar Das",
+            "Title": "Significance of enhanced Cu-tube over flow boiling heat transfer characteristics using R134a: An experimental investigation",
+            "Journal": "Materials Today: Proceedings",
+            "Year": 2023,
+            "DOI": "https://doi.org/10.1016/j.matpr.2023.06.369"
+          },
+          {
+            "Authors": "Sandipan Deb, Neeraj Kumar Vidhyarthi, Sagnik Pal, Ajoy Kumar Das, Debabrata Barik",
+            "Title": "Parametric Evaluation of the Flow Boiling Heat Transfer Properties of R22 and R407c inside Horizontal Microfin Tube",
+            "Journal": "International Journal of Energy Research",
+            "Year": 2023,
+            "DOI": "https://doi.org/10.1155/2023/8882662"
+          }
+        ]
+      },
+      "BooksPublished": [
+        {
+          "Authors": "S. Roy, A. K. Das, and P. K. Bose",
+          "Title": "Performance-emission Optimization of a CRDI Engine Using PSO",
+          "Year": 2015
+        },
+        {
+          "Authors": "S. Roy, A. K. Das, and P. K. Bose",
+          "Title": "Application of Artificial Intelligence on a CRDI Diesel Engine",
+          "Year": 2015
+        },
+        {
+          "Authors": "S. Roy, A. K. Das, and P. K. Bose",
+          "Title": "Potential of EGR & CNG on Performance & Emissions of a CRDI Engine",
+          "Year": 2015
+        }
+      ]
+    }
+  }
+  

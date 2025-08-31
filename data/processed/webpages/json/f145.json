@@ -1,0 +1,125 @@
+{
+    "name": "Dr. Maroju Suman Kalyan",
+    "designation": "Assistant Professor",
+    "department": "Physics",
+    "date_of_joining": "05/09/2022",
+    "email": "maroju.sk@gmail.com",
+    "research_area": "Study of thermodynamic properties of polymers and bio-polymers using Monte Carlo simulations",
+    "address": {
+      "office": "Department of Physics, NIT Agartala, Jirania, Agartala - 799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "maroju.sk@gmail.com",
+      "mobile": "-",
+      "residence_phone": "-"
+    },
+    "academic_qualification": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "subject": "Physics",
+        "institution": "University of Hyderabad"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2005,
+        "subject": "Physics",
+        "institution": "Osmania University"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2003,
+        "subject": "Maths, Physics and Chemistry",
+        "institution": "Kakatiya University"
+      },
+      {
+        "degree": "H.S.C.",
+        "year": 2000,
+        "subject": "Maths, Physics and Chemistry",
+        "institution": "Board of Intermediate Education, Andhra Pradesh"
+      },
+      {
+        "degree": "S.S.C.",
+        "year": 0,
+        "subject": "Secondary School Certificate",
+        "institution": "Board of Secondary Education, Andhra Pradesh"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Dynamical order parameter and its correlations in periodically driven DNA",
+        "authors": "M. Suman Kalyan",
+        "conference": "AIP Conference Proceedings 2265, 030034",
+        "month": "December",
+        "year": 2020
+      },
+      {
+        "title": "Non-Boltzmann Ensembles and Landau Free Energy",
+        "authors": "M. Suman Kalyan and K. P. N. Murthy",
+        "conference": "Indian Academy of Sciences Conference series, 2019 2:1",
+        "month": "January",
+        "year": 2019
+      },
+      {
+        "title": "Free Energy Computations Employing Jarzynski Identity And Wang – Landau Algorithm",
+        "authors": "M. Suman Kalyan, K. P. N. Murthy and V. S. S. Sastry",
+        "conference": "AIP Conference Proceedings 1731, 040009",
+        "month": "December",
+        "year": 2016
+      },
+      {
+        "title": "Force induced melting of DNA hairpin: A Monte Carlo study",
+        "authors": "M. Suman Kalyan and K. P. N. Murthy",
+        "conference": "AIP Conference Proceedings 1512, 144",
+        "month": "December",
+        "year": 2013
+      },
+      {
+        "title": "Nonequilibrium work fluctuations and equilibrium free energies",
+        "authors": "M. Suman Kalyan, G. Anjan Prasad, V. S. S. Sastry and K. P. N. Murthy",
+        "conference": "Proceedings of Solid State Physics Symposium 54, 525",
+        "month": "December",
+        "year": 2009
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Unzipping DNA by a periodic force: Hysteresis loops, Dynamical order parameter, Correlations and Equilibrium curves",
+        "authors": "M. Suman Kalyan and Rajeev Kapri",
+        "journal": "J. Chem. Phys, 150, 224903",
+        "month": "June",
+        "year": 2019
+      },
+      {
+        "title": "Joint density of states calculation employing Wang - Landau algorithm",
+        "authors": "M. Suman Kalyan, R. Bharath, V. S. S. Sastry and K. P. N. Murthy",
+        "journal": "J. Stat. Phys, 163, 197-209",
+        "month": "February",
+        "year": 2016
+      },
+      {
+        "title": "Monte Carlo study of force induced melting of DNA hairpin",
+        "authors": "M. Suman Kalyan and K. P. N. Murthy",
+        "journal": "Physica A, 428, 38-45",
+        "month": "February",
+        "year": 2015
+      },
+      {
+        "title": "A note on non-equilibrium work fluctuations and equilibrium free energies",
+        "authors": "M. Suman Kalyan, G. Anjan Prasad, V. S. S. Sastry and K. P. N. Murthy",
+        "journal": "Physica A, 390, 1240",
+        "month": "December",
+        "year": 2011
+      }
+    ],
+    "achievements": [
+      {
+        "title": "CSIR - Research Associate fellowship",
+        "year": 2019
+      }
+    ]
+  }
+  

@@ -1,0 +1,34 @@
+{
+    "name": "Dr. JOYASHREE DAS",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "joyashree_007@rediffmail.com",
+    "research_area": [
+      "Electrical Machines",
+      "Superconducting Materials"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Basic Electrical Engineering",
+        "Electrical Machines"
+      ],
+      "PG": []
+    },
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "joyashree_007@rediffmail.com",
+      "residence_phone": null,
+      "mobile": "9612547859"
+    },
+    "academic_info": [],
+    "publications": {
+      "conference": [],
+      "journal": []
+    }
+  }
+  

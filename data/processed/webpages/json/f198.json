@@ -1,0 +1,18 @@
+{
+    "name": "Dr. Saroj Kumar Das",
+    "designation": "Associate Professor",
+    "department": "Chemistry",
+    "email": "sdatnit@gmail.com",
+    "address": {
+      "full_address": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "sdatnit@gmail.com",
+      "residence_phone": null,
+      "mobile": "9436463430"
+    }
+  }
+  

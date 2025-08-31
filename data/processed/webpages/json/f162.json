@@ -1,0 +1,70 @@
+{
+    "name": "Dr. SWAPAN DEBBARMA",
+    "designation": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "date_of_joining": "23/03/2002",
+    "email": "swapanxavier@gmail.com",
+    "address": {
+      "street": "NIT Campus, Qtr. 3/2 H4B",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "swapanxavier@gmail.com",
+      "residence_phone": null,
+      "mobile": "9612103175"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2016,
+        "subject": "Computation in Nano Technology",
+        "description": "Computational Aspects of Few Electronic Properties of Semiconductor Nano-structures and related Phenomena"
+      },
+      {
+        "degree": "M.TECH",
+        "year": 2010,
+        "subject": "CSE"
+      },
+      {
+        "degree": "B.TECH",
+        "year": 2000,
+        "subject": "CSE"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "5W1H-Based Semantic Segmentation of Tweets for Event Detection Using BERT",
+          "conference": "International Conference on Machine Learning, Image Processing, Network Security and Data Sciences, Springer, Singapore",
+          "year": 2020,
+          "pages": "57-72"
+        },
+        {
+          "title": "Different Controlling Method of Closed Loop DC-DC Buck Converter: A review",
+          "conference": "International Conference on Smart Systems and Inventive Technology (ICSSIT), IEEE",
+          "year": 2018,
+          "pages": "29-33",
+          "scopus_indexed": true
+        },
+        {
+          "title": "Particle Swarm Optimization with varying Inertia Weight for solving nonlinear optimization problem",
+          "conference": "International Conference on Electrical, Electronics, Signals, Communication and Optimization, EESCO",
+          "year": 2015
+        },
+        {
+          "title": "A light weight stemmer in Kokborok",
+          "conference": "Proceedings of the 24th Conference on Computational Linguistics and Speech Processing, ROCLING",
+          "year": 2012
+        },
+        {
+          "title": "Morphological analysis of Kokborok for universal networking language dictionary",
+          "conference": "International Conference on Recent Advances in Information Technology, RAIT-2012",
+          "year": 2012
+        }
+      ],
+      "journal": []
+    }
+  }
+  

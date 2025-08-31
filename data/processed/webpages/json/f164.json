@@ -1,0 +1,113 @@
+{
+    "name": "Dr. Mriganka Sekhar Manna",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemical Engineering",
+    "email": "mrigankamanna602@gmail.com",
+    "url": "https://scholar.google.com/citations?user=nnG4XuoAAAAJ&hl=en",
+    "research_area": [
+      "Advanced Separation Processes",
+      "Membrane Separation",
+      "Liquid Membrane Based Separation of Pharmaceuticals",
+      "Extraction of Pharmaceuticals from Plants",
+      "Metal Complexation of Pharmaceuticals",
+      "Bioprocess and Biochemical Engineering",
+      "Wastewater Treatment",
+      "Adsorption"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Numerical Methods for Chemical Engineering",
+        "Bioprocess and Biochemical Engineering",
+        "Process Dynamics and Instrumentation",
+        "Process Control",
+        "Equipment Design and Drawing"
+      ],
+      "PG": [
+        "Numerical Methods for Chemical Engineering",
+        "Advanced Numerical Methods for Chemical Engineering",
+        "Numerical Methods Laboratory (Practical)"
+      ]
+    },
+    "phd_students": {
+      "completed": ["Sambit Sarkar"],
+      "ongoing": ["Dipanjan Roy"]
+    },
+    "address": {
+      "street": "Department of Chemical Engineering, NIT Agartala, PO-NIT Agartala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India",
+      "phone": "+91-9089596361"
+    },
+    "contact": {
+      "email": "mrigankamanna602@gmail.com",
+      "residence_phone": "9089596361",
+      "mobile": "919089596361"
+    },
+    "academic_info": [
+      {"degree": "Ph.D.", "year": 2014, "subject": "Chemical Engineering", "institution": "IIT Guwahati"},
+      {"degree": "M.E.", "year": 2010, "subject": "Chemical Engineering", "institution": "Jadavpur University, Kolkata"},
+      {"degree": "B.E.", "year": 1999, "subject": "Chemical Engineering", "institution": "Jadavpur University, Kolkata"},
+      {"degree": "GATE", "year": 2008, "subject": "Chemical Engineering"}
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Strategic enhancement of the growth and carbohydrate productivity of isolated microalgae",
+          "authors": ["Sambit Sarkar", "Mriganka Shekhar Manna", "Kalyan Gayen"],
+          "conference": "Chemcon 2021, Indian Institute of Chemical Engineers & CSIR-IMMT",
+          "month": "DEC",
+          "year": 2021
+        },
+        {
+          "title": "Optimization and modelling of the pigment separation process from microalgae biomass",
+          "authors": ["Sambit Sarkar", "Mriganka Shekhar Manna", "Kalyan Gayen"],
+          "conference": "Advances in Chemistry and Chemical Engineering (ACCE-2021), SVNIT Surat",
+          "month": "APRIL",
+          "year": 2021
+        }
+      ],
+      "journal": [
+        {
+          "title": "A critical review on green synthesis and modification techniques of biochar",
+          "authors": ["Puspendu Chuodhury", "Mriganka Sekhar Manna", "Soma Nag"],
+          "journal": "Biomass and Bioenergy",
+          "volume": 198,
+          "year": 2025,
+          "pages": "107859"
+        },
+        {
+          "title": "Adsorption of malachite green by Aegle marmelos-derived activated biochar",
+          "authors": ["Teeyasha Das", "Animesh Debnath", "Mriganka Sekhar Manna"],
+          "journal": "Journal of the Indian Chemical Society",
+          "volume": 101,
+          "year": 2024,
+          "pages": "101219"
+        }
+      ]
+    },
+    "books": [
+      {"title": "Why Chemical Engineering", "year": 2023, "type": "Text Book", "isbn": "9789355453839"},
+      {"title": "Kaolinite-Cellulose based Nano-composites and applications", "year": 2022, "type": "Book Chapter"}
+    ],
+    "patents": [
+      {
+        "title": "Separation of heavy metals from wastewater by electrodeposition integrated supported liquid membrane",
+        "patent_no": "306106",
+        "year": 2019
+      }
+    ],
+    "achievements": [
+      {"description": "Institute Fellowship for pursuing PhD by IIT Guwahati", "year": 2010},
+      {"description": "MHRD Scholarship after qualifying GATE", "year": 2008}
+    ],
+    "training": [
+      {"title": "Novel Catalyst for industrial use, TEQIP, IIT Guwahati", "month": "AUG", "year": 2016},
+      {"title": "Two days national workshop on Advances in Two-phase flow and Heat transfer, NIT Agartala", "month": "MAR", "year": 2016}
+    ],
+    "training_conducted": [
+      {"title": "Optimization in Engineering, NIT Agartala", "month": "MAR", "year": 2018},
+      {"title": "Industry-Academia Interaction for Sustainable Development, NIT Agartala", "month": "SEPT", "year": 2018}
+    ]
+  }
+  

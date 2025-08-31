@@ -1,0 +1,135 @@
+{
+    "name": "Dr. Kishore Kumar Dhar",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Computer Science and Engineering",
+    "email": "kkdhar82@gmail.com",
+    "address": {
+      "street": "Room No.125, Dr. APJ Abdul Kalam Block, Department of Computer Science & Engineering, National Institute of Technology Agartala",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "kkdhar82@gmail.com",
+      "residence_phone": null,
+      "mobile": null
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2022,
+        "subject": "Image Processing and Computational Fluids Dynamics"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Performance Analysis of a Session to Mobility Ratio Based Mobility Management Scheme in Wireless Mesh Network",
+          "authors": ["Kishore Kumar Dhar*", "Asish Mitra", "Paritosh Bhattacharya"],
+          "conference": "International Conference on Statistics and Mathematical Physics (ICSMP 2022)",
+          "month": "April",
+          "year": 2022,
+          "pages": "23"
+        },
+        {
+          "title": "Experimental study on the effect of temperature gradient on bubble rise velocity",
+          "authors": ["K.K Dhar*", "A. Mitra", "P. Bhattacharya", "D. Debnath"],
+          "conference": "National Conference on Engineering Problems and Application of Mathematics (EPAM-2016)",
+          "month": "June",
+          "year": 2016,
+          "pages": "1-4"
+        },
+        {
+          "title": "Experimental study on shape and path of small bubbles using video-image analysis",
+          "authors": ["Asish Mitra", "Paritosh Bhattacharya", "Sabyasachi Mukhopadhyay", "Kishore Kumar Dhar*"],
+          "conference": "3rd IEEE International Conference on Computer, Communication, Control and Information Technology (C3IT’15)",
+          "month": "February",
+          "year": 2015,
+          "pages": "1–4"
+        },
+        {
+          "title": "Diagnosing heterogeneous dynamics for wind particle trajectory in wavelet domain",
+          "authors": ["Sabyasachi Mukhopadhyay", "Ritwik Barman", "Subhadip Dey", "Asish Mitra", "Prasanta K. Panigrahi", "Paritosh Bhattacharya", "K.K Dhar*"],
+          "conference": "3rd IEEE International Conference on Computer, Communication, Control and Information Technology (C3IT’15)",
+          "month": "February",
+          "year": 2015,
+          "pages": "1–3"
+        },
+        {
+          "title": "Design and analysis of an adaptive mobility management scheme for handling traffic in wireless mesh network",
+          "authors": ["A. Majumder", "S. Roy", "K.K Dhar*"],
+          "conference": "IEEE International Conference on Microelectronics, Communications and Renewable Energy (ICMiCR '13)",
+          "month": "June",
+          "year": 2013,
+          "pages": "1–6"
+        }
+      ],
+      "journal": [
+        {
+          "title": "Thermal effect on bubble rise-An experimental study",
+          "authors": ["K.K. Dhar*", "A. Mitra", "P. Bhattacharya"],
+          "journal": "Journal of Mechanics of Continua and Mathematical Sciences",
+          "month": "March",
+          "year": 2022,
+          "volume": 17,
+          "issue": 3,
+          "pages": "12-17",
+          "doi": "https://doi.org/10.26782/jmcms.2022.03.00002"
+        },
+        {
+          "title": "Edge Detection of Image Using Image Divergence and Down Sampling Method",
+          "authors": ["Kishore Kumar Dhar*", "Asish Mitra", "Paritosh Bhattacharya"],
+          "journal": "I. J. Engineering and Manufacturing",
+          "month": "June",
+          "year": 2022,
+          "volume": 3,
+          "pages": "14-24",
+          "doi": "10.5815/ijem.2022.03.02.Published Online June 2022 in MECS"
+        },
+        {
+          "title": "Abnormality Detection in Chest Diseases Using a Convolutional Neural Network",
+          "authors": ["Kishore Kumar Dhar*", "Asish Mitra", "Paritosh Bhattacharya", "Nitendra Kumar"],
+          "journal": "Journal of Information and Optimization Sciences",
+          "month": "September",
+          "year": 2022,
+          "ref_no": "JIOS-T-1298"
+        },
+        {
+          "title": "Two phase simulation on natural convection of a nanofluid along an isothermal vertical plate",
+          "authors": ["K.K. Dhar", "A. Mitra", "P. Bhattacharya"],
+          "journal": "Journal of Mechanics of Continua and Mathematical Sciences",
+          "month": "September",
+          "year": 2020,
+          "volume": 15,
+          "issue": 9,
+          "pages": "96-111",
+          "doi": "https://doi.org/10.26782/jmcms.2020.09.00008"
+        },
+        {
+          "title": "Experimental study on shape and rise velocity of small bubbles in stagnant water",
+          "authors": ["A. Mitra", "P. Bhattacharya", "S. Mukhopadhyay", "K.K Dhar*"],
+          "journal": "Journal of Mechanics of Continua and Mathematical Sciences",
+          "month": "January",
+          "year": 2015,
+          "volume": 9,
+          "issue": 2,
+          "pages": "1397-1403"
+        }
+      ]
+    },
+    "workshops_attended": [
+      {"title": "Two days’ workshop on Human-Computer Interaction", "month": "February", "year": 2016},
+      {"title": "National Workshop on Android Application Development", "month": "March", "year": 2016},
+      {"title": "National Workshop on Human-Computer Interaction", "month": "February", "year": 2015},
+      {"title": "ISTE STTP on Introduction to Design of Algorithms", "month": "May", "year": 2015},
+      {"title": "Workshop on Intel HPC code Modernization", "month": "August", "year": 2015},
+      {"title": "Workshop on Algorithms for Mobile and Pervasive Computing", "month": "February", "year": 2014},
+      {"title": "National Workshop on Recent Advances of Applied Mathematics", "month": "September", "year": 2014},
+      {"title": "National Workshop on MATLAB and Its Application in Digital Image Processing and Pattern Recognition", "month": "November", "year": 2013}
+    ],
+    "workshops_conducted": [
+      {"title": "Workshop on IPv6", "month": "May", "year": 2015},
+      {"title": "National Workshop on Cloud Computing", "month": "October", "year": 2014}
+    ]
+  }
+  

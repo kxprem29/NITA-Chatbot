@@ -1,0 +1,78 @@
+{
+    "name": "Prof. Swapan Bhaumik",
+    "designation": "Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "30/09/1991",
+    "email": "drsbhaumik@gmail.com",
+    "research_area": [
+      "Heat and Mass transfer",
+      "Multi-phase heat transfer",
+      "Two-phase flow heat transfer"
+    ],
+    "courses_taught": {
+      "UG": ["Applied Mechanics", "Refrigeration & Air Conditioning", "Heat and Mass transfer"],
+      "PG": ["Advanced Heat and Mass Transfer", "Two Phase flow & Heat Transfer", "Design of Thermal systems"]
+    },
+    "phd_students": {
+      "enrolled_completed": 5,
+      "ongoing": ["Biswajit Majumder", "Subhadeep Pal", "Ranjan Kumar"]
+    },
+    "address": {
+      "full_address": "Department of Mechanical Engineering, NIT Agartala, Jirania, West Tripura, Tripura-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "drsbhaumik@gmail.com",
+      "residence_phone": null,
+      "mobile": "7005032903"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "institution": "IIT Roorkee",
+        "year": 2003,
+        "subject": "Chemical Engineering"
+      },
+      {
+        "degree": "M.E.",
+        "institution": "Jadavpur University",
+        "year": 1991,
+        "subject": "Mechanical Engineering"
+      },
+      {
+        "degree": "B.E.",
+        "institution": "Tripura Engineering College (TEC-Presently NIT Agartala)",
+        "year": 1987,
+        "subject": "Mechanical Engineering"
+      }
+    ],
+    "publications": [
+      {"title": "Enhancement of Pool Boiling Heat Transfer Performance of R-134a on Microporous Al@ GNPs Composite Coatings", "journal": "International Journal of Thermophysics 43 (4), 1-19", "year": 2022},
+      {"title": "Developing Al@ GNPs composite coating for pool boiling applications by combining mechanical milling, screen printing and sintering methods", "journal": "Advances in Materials and Processing Technologies", "year": 2022},
+      {"title": "Fabrication of Cu@ G composite coatings and their pool boiling performance with R-134a and R-1234yf", "journal": "Advances in Materials and Processing Technologies", "year": 2022},
+      {"title": "A review on the effects of porous coating surfaces on boiling heat transfer", "journal": "Mater. Today Proc. 44", "year": 2021}
+    ],
+    "books_published": [
+      {"title": "Design, Fabrication and Experimentation of Aqua Silencer for Diesel Genset", "year": 2021, "publisher": "Springer"},
+      {"title": "Experimental studies on energy conservation in Pool Boiling heat transfer using Eco-friendly Additive", "year": 2020, "publisher": "Springer"}
+    ],
+    "conferences_attended": [
+      {"title": "Numerical and Experimental Analysis of Pool Boiling Heat Transfer Using Graphene Nanofluid", "location": "Kyushu University Fukuoka, Japan", "month": "July", "year": 2020},
+      {"title": "Experimental study of different expansion devices in domestic refrigerator with spiral tube heat exchanger", "month": "July", "year": 2018}
+    ],
+    "patents": [
+      {"title": "A formation of Cu-GNPs nanocomposite coatings for enhancement of pool boiling performance of R-134a", "application_no": "2022/01417", "year": 2022},
+      {"title": "Scrap crushing apparatus with dual-sided crushing mechanism", "application_no": "2021105724", "year": 2021}
+    ],
+    "achievements": [
+      {"title": "SIR GANGA RAM MEMORIAL AWARD for Best Research Paper", "year": 2017},
+      {"title": "CHEMICAL WEEKLY AWARD for Best Technical Paper Published", "year": 2006}
+    ],
+    "training_attended": [
+      {"title": "One Day training Programme on Interactive session for Newly elected Chairman & Honorary Secretaries of IEI State & Local Centres, at Hyderabad as Chairman", "month": "Feb", "year": 2014},
+      {"title": "Training Program on Pedagogy- Enhancing Teacher effectiveness for Faculty of centrally funded Institutions including NITs, EQUATE, New Delhi", "month": "Mar", "year": 2014}
+    ]
+  }
+  

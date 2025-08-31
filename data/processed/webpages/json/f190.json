@@ -1,0 +1,129 @@
+{
+    "name": "Dr. Abhishek Koner",
+    "designation": "Assistant Professor",
+    "department": "Chemistry",
+    "email": "abhirkmrc@gmail.com",
+    "research_area": [
+      "Inorganic Chemistry",
+      "Main Group Chemistry",
+      "Boron Chemistry",
+      "Phosphorus Chemistry",
+      "Polymer Chemistry"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Chemical Bonding",
+        "Polymer Chemistry",
+        "Fuels",
+        "Water Chemistry",
+        "Lubricants",
+        "Corrosion",
+        "Pollution Chemistry",
+        "Bioinorganic Chemistry",
+        "Organic Spectroscopy"
+      ],
+      "PG": [
+        "Organometallic Chemistry",
+        "NMR Spectroscopy",
+        "Inorganic Clusters and Polymers",
+        "Inorganic Molecular Spectroscopy"
+      ]
+    },
+    "address": {
+      "street": "NIT Faculty Quarters H4B/03/03",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "abhirkmrc@gmail.com",
+      "residence_phone": null,
+      "mobile": null
+    },
+    "academic_information": [
+      {
+        "degree": "Post Doc",
+        "institution": "University of Saarland, Germany",
+        "year": 2022,
+        "subject": "Main group chemistry of B and P",
+        "notes": "With Dr. Diego Marcelo Andrada (ERC funded work group), 7/2020-8/2022"
+      },
+      {
+        "degree": "Post Doc",
+        "institution": "RWTH Aachen University & University of Wuerzburg, Germany",
+        "year": 2020,
+        "subject": "Boron Chemistry",
+        "notes": "RWTH Aachen (6/2018-5/2019), University of Wuerzburg (5/2019-5/2020), with Prof. Dr. Holger Helten"
+      },
+      {
+        "degree": "Ph.D.",
+        "institution": "University of Bonn, Germany",
+        "year": 2017,
+        "subject": "Phosphainorganic Chemistry",
+        "notes": "Ph.D. Guide: Prof. Dr. Rainer Streubel"
+      },
+      {
+        "degree": "M.Sc.",
+        "institution": "IIT Kanpur",
+        "year": 2013,
+        "subject": "Chemistry",
+        "notes": "CGPA: 9.7/10, First in 2-year MSc"
+      },
+      {
+        "degree": "B.Sc.",
+        "institution": "RKMRC Narendrapur, under University of Calcutta",
+        "year": 2011,
+        "subject": "Chemistry Honors",
+        "notes": "First Class First, Gold Medalist, 673/800 marks"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Metathesis Reactions of a NHC-Stabilized Phosphaborene",
+        "journal": "Angew. Chem. Int. Ed.",
+        "year": 2022
+      },
+      {
+        "title": "Electrophilic activation of difunctional aminoboranes: B–N coupling versus intramolecular Cl/Me exchange",
+        "journal": "Chem. Commun.",
+        "year": 2022
+      },
+      {
+        "title": "A Cyclic Iminoborane-NHC Adduct: Synthesis, Reactivity, and Bonding Analysis",
+        "journal": "Inorg. Chem.",
+        "year": 2021
+      }
+    ],
+    "conferences_attended": [
+      {
+        "conference": "29th International Conference on Organometallic Chemistry",
+        "location": "Prague, Czech Republic",
+        "month": "JULY",
+        "year": 2022,
+        "notes": "Poster Contribution: A PHOSPHABORENE TRANSFER REAGENT"
+      },
+      {
+        "conference": "European workshop on Phosphorus Chemistry",
+        "location": "Cluj-Napoca, Romania",
+        "month": "MAR",
+        "year": 2017,
+        "notes": "Oral contribution: Imidazole-2-thione based electron rich 1,4-diphosphinines"
+      }
+    ],
+    "achievements": [
+      "All India Rank-1 in GATE Exam in Chemical Science, 2013",
+      "General Proficiency Medal in IIT Kanpur, 2013",
+      "All India Rank-1 in CSIR NET Exam in Chemical Science, 2012",
+      "Shyama Prasad Mukherjee Fellowship for All India Rank 1 in NET, 2012",
+      "First Class First in Chemistry Honors, University of Calcutta, 2011",
+      "INSPIRE Scholarship for Bachelor and Masters, 2010"
+    ],
+    "training_attended": [
+      {
+        "training": "1st SIPs summer school in Graz (Austria) and Trieste (Italy)",
+        "month": "SEPT",
+        "year": 2014
+      }
+    ]
+  }
+  

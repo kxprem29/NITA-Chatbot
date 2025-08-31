@@ -1,0 +1,28 @@
+{
+    "name": "Prof. Prasun Chakraborti",
+    "designation": "Professor",
+    "department": "Mechanical Engineering",
+    "date_of_joining": "16/11/1984",
+    "email": "pchakraborti@rediffmail.com",
+    "research_area": "Tribology, Bio-tribology, surface engineering, and energy transfer",
+    "courses_taught": {
+      "UG": ["Machine Design", "Industrial Tribology", "Advance Machine Design (Elective)"],
+      "PG": ["Advance Machine Design", "Robotics", "Machine Tool Design"]
+    },
+    "phd_students": {
+      "completed": ["Dr. Ashi"],
+      "ongoing": ["Krishanu Gupta : Study of elasto-plastic behavi"]
+    },
+    "address": {
+      "full_address": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "pchakraborti@rediffmail.com",
+      "residence_phone": null,
+      "mobile": "09436120191"
+    }
+  }
+  

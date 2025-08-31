@@ -1,0 +1,17 @@
+{
+    "name": "Dr. Tara Sen",
+    "designation": "Assistant Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "contact": {
+      "email": "tarasen20@gmail.com",
+      "phone_residence": null,
+      "phone_mobile": "9436541206"
+    },
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null
+    }
+  }
+  

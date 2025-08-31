@@ -1,0 +1,102 @@
+{
+    "name": "Dr. Apangshu Das",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electronics and Communication Engineering",
+    "email": "apangshu.ece@gmail.com",
+    "orcid_url": "https://orcid.org/0000-0002-2990-1051",
+    "address": {
+      "street": "H3A/02/02, NIT Agartala Quarter Complex-3, West Tripura",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India",
+      "postal_code": "799046"
+    },
+    "contact": {
+      "email": "apangshu.ece@gmail.com",
+      "mobile": "8794223393"
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2021,
+        "subject": "VLSI Design",
+        "institution": "ECE Department, National Institute of Technology Agartala, India"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2012,
+        "subject": "Microelectronics & VLSI Design",
+        "institution": "ECE Department, National Institute of Technology Agartala, India"
+      },
+      {
+        "degree": "B.E.",
+        "year": 2009,
+        "subject": "Electronics and Telecommunication Engineering",
+        "institution": "Rashtrasant Tukadoji Maharaj Nagpur University, India"
+      }
+    ],
+    "conference_publications": [
+      {
+        "title": "Temperature Aware Bi-partitioning Multi-level Logic Synthesis",
+        "conference": "7th Soft Computing: Theories & Applications (SoCTA)",
+        "month": "DEC",
+        "year": 2022
+      },
+      {
+        "title": "Area, power and temperature optimization during binary decision diagram-based circuit synthesis",
+        "conference": "IEEE International Conferences on Devices for Integrated Circuit (DevIC)",
+        "month": "MAR",
+        "year": 2017,
+        "doi": "10.1109/DEVIC.2017.8074058"
+      },
+      {
+        "title": "Temperature Aware AIGs based Multi-Level Logic Synthesis using Shannon Expression",
+        "conference": "National Conference on Engineering problems and applications of mathematics (EPAM-2016)",
+        "month": "JUN",
+        "year": 2016
+      },
+      {
+        "title": "Thermal aware FPRM based AND-XOR network synthesis of logic circuits",
+        "conference": "International Conference on Recent Trends in Information Systems (ReTIS)",
+        "month": "JULY",
+        "year": 2015,
+        "doi": "10.1109/ReTIS.2015.7232930"
+      }
+    ],
+    "journal_publications": [
+      {
+        "title": "Shared Reduced Ordered Binary Decision Diagram Based Thermal-Aware Network Synthesis",
+        "journal": "International Journal of Circuit Theory and Applications",
+        "month": "FEB",
+        "year": 2022,
+        "doi": "10.1002/cta.3255"
+      },
+      {
+        "title": "NSGA-II based Thermal-aware mixed polarity dual reed-muller network synthesis using parallel tabular technique",
+        "journal": "Journal of Circuits, Systems, and Computers",
+        "month": "MAR",
+        "year": 2020,
+        "doi": "https://doi.org/10.1142/S021812662020008X"
+      },
+      {
+        "title": "An elitist non-dominated multi-objective genetic algorithm-based temperature aware circuit synthesis",
+        "journal": "International Journal of Interactive Multimedia and Artificial Intelligence",
+        "month": "JULY",
+        "year": 2020,
+        "url": "https://ijimai.org/journal/bibcite/reference/2796"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Best Paper presentation in National Conference on Engineering problems and applications of mathematics",
+        "year": 2016,
+        "details": "Paper Title: Temperature Aware AIGs based Multi-Level Logic Synthesis using Shannon Expression."
+      },
+      {
+        "title": "3rd Prize in National Level Project Competition “PRATIKRUTI”",
+        "year": 2009,
+        "details": "Project Title: Ultrasonic Blind Walking Stick."
+      }
+    ]
+  }
+  

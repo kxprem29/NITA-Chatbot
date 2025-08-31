@@ -1,0 +1,80 @@
+{
+    "name": "Mr. Prabir Ranjan Kasari",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "prkasari_s@yahoo.co.in",
+    "research_area": "Power Electronics converter, power quality, integration of renewable energy, energy storage, multilevel converters, PWM and control",
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "prkasari_s@yahoo.co.in",
+      "residence_phone": null,
+      "mobile": "9863186418"
+    },
+    "courses_taught": {
+      "UG": [
+        "Network Analysis",
+        "Network Analysis Lab",
+        "Electrical Machine-I",
+        "Electrical Machine-II",
+        "Power Electronics Lab",
+        "Flexible AC Transmission System",
+        "Modelling of Conventional & Renewable Power Generation"
+      ],
+      "PG": [
+        "Flexible AC Transmission System",
+        "Modelling of Conventional & Renewable Power Generation"
+      ]
+    },
+    "publications": {
+      "conference": [
+        {
+          "title": "Modeling Of Dual Active Bridge With Extended Phase Shift and Dual Phase Shift Modulation Technique Using Reduced Order Model Method",
+          "authors": "Vinay Kumar Kaiwart, Anindita Jamatia, Abanishwar Chakrabarti, Bikram Das, Prabir Ranjan Kasari, Nivedita Laskar",
+          "conference": "Second International Conference on Electronics and Renewable Systems (ICEARS)",
+          "year": 2023
+        },
+        {
+          "title": "MMCC Based Decoupled Control of PMSG for Small Scale Hydro Power Plants",
+          "authors": "R Roy, A Kumar, A Kumar, A Jamatia, P R Kasari, B Das, A Chakrabarti",
+          "conference": "47th Annual",
+          "year": 2022
+        }
+      ],
+      "journal": [
+        {
+          "title": "An HESS based on a modified MMCC-TSBC converter integrating energy storages",
+          "authors": "P R Kasari, S Bhattacharjee",
+          "journal": "CSEE Journal of Power and Energy",
+          "year": 2022
+        },
+        {
+          "title": "An improved grid integration technique for SPV-based CHB-MLI in distribution network",
+          "authors": "P R Kasari, S Bhattacharjee",
+          "journal": "International Journal of Power Electronics, vol.16, No.03",
+          "year": 2022
+        },
+        {
+          "title": "A New Grid Interactive 11-Level Hybrid Inverter Topology for Medium-Voltage",
+          "authors": "N. Panda, B Das, A. Chakrabarti, P. R. Kasari, A. Bhattacharya, D. Chatterjee",
+          "year": 2022
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Maximum Power Point Tracking for Solar Panels",
+        "authors": "Bikram Das, Prabir Ranjan Kasari, Abanishwar Chakrabarti",
+        "publisher": "LAP - Lambert Academic Publishing",
+        "isbn_13": "978-3-659-43563-8",
+        "isbn_10": "3659435635",
+        "ean": "9783659435638",
+        "year": 2013
+      }
+    ]
+  }
+  

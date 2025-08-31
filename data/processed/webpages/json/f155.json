@@ -1,0 +1,18 @@
+{
+    "name": "Dr. Kamalesh Debnath",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "date_of_joining": "12/04/2010",
+    "email": "kamalesh79.nit@gmail.com",
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "kamalesh79.nit@gmail.com",
+      "residence_phone": null,
+      "mobile": "9436767187"
+    }
+  }
+  

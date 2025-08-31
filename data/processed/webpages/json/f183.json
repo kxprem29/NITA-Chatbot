@@ -1,0 +1,33 @@
+{
+    "name": "Dr. Prashant Bhardwaj",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Computer Science and Engineering",
+    "date_of_joining": "",
+    "email": "prashant.cse@nita.ac.in",
+    "url": "",
+    "research_area": [],
+    "courses_taught": {
+      "UG": [],
+      "PG": []
+    },
+    "phd_students": {
+      "ongoing": [],
+      "completed": []
+    },
+    "address": {
+      "street": "H3B, 5/1, NIT AGARTALA",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "prashant.cse@nita.ac.in",
+      "residence_phone": "",
+      "mobile": ["9774272101"]
+    },
+    "academic_information": [],
+    "publications_conference": [],
+    "publications_journal": [],
+    "achievements": []
+  }
+  

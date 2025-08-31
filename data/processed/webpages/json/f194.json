@@ -1,0 +1,196 @@
+{
+    "name": "Dr. Diptendu Bhattacharya",
+    "designation": "Associate Professor",
+    "department": "Computer Science and Engineering",
+    "email": "diptendu.nita@gmail.com",
+    "url": "https://computationalintelligence.in/",
+    "research_area": {
+      "broad_domain": "Artificial Intelligence and Machine Learning",
+      "specific_domain": [
+        "IoT optimisation",
+        "Precision agriculture",
+        "Computer Vision",
+        "Medical imaging",
+        "Biomedical imaging",
+        "Neuro imaging processing intelligence systems",
+        "NLP: Various analysis using ML"
+      ]
+    },
+    "courses_taught": {
+      "UG": [
+        "Digital Circuit and Logic Design",
+        "Digital Circuit and Logic Design Lab",
+        "Compiler Design",
+        "Compiler Design Lab",
+        "Soft Computing",
+        "Computer Architecture and Organization",
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Theory of Computation and Automata",
+        "Distributed Systems",
+        "Database Management and System",
+        "Microprocessor and Microcontrollers"
+      ],
+      "PG": [
+        "Programming Language Semantic",
+        "Programming Language Semantic Lab",
+        "Machine Learning",
+        "Soft Computing",
+        "Compiler Design",
+        "Time Series Analysis",
+        "Computational Methods of Optimization"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": [
+        "Dr. Gouranga Mandal",
+        "Dr. Parijata Majumdar",
+        "Mrs. Tanusree Podder (Thesis Submitted)",
+        "Mr. Partha Pratim Deb (Thesis Submitted)",
+        "Mr. Tamal Biswas (Thesis Submitted)"
+      ],
+      "enrolled_ongoing": [
+        "Mrs. Rajna Saha"
+      ]
+    },
+    "address": {
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "diptendu.nita@gmail.com",
+      "residence_phone": null,
+      "mobile": "9436125396"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "institution": "Jadavpur University",
+        "year": 2016,
+        "subject": "Artificial Intelligence, Machine Learning"
+      },
+      {
+        "degree": "M.E.",
+        "institution": "Jadavpur University",
+        "year": 1999,
+        "subject": "Computer Engineering",
+        "percentage": "85.30%",
+        "honor": "Gold Medalist"
+      },
+      {
+        "degree": "B.E.",
+        "institution": "Regional Engineering College, Jaipur",
+        "year": 1988,
+        "subject": "Electronics",
+        "percentage": "69.03%",
+        "honor": "First Class"
+      },
+      {
+        "degree": "H.S.C.",
+        "institution": "Tripura Board of Secondary Education",
+        "year": 1983,
+        "subject": "Science",
+        "percentage": "75.70%",
+        "honor": "First Division"
+      },
+      {
+        "degree": "S.S.C.",
+        "institution": "Tripura Board of Secondary Education",
+        "year": 1981,
+        "subject": "General",
+        "percentage": "70.00%",
+        "honor": "First Division"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Forecasting with fuzzy time series and variation",
+          "authors": ["Biswas, T.", "Bhattacharya, D.", "Dutta K."],
+          "conference": "2nd International Conference on Signal & Data Processing (ICSDP)",
+          "year": 2022,
+          "month": "OCT"
+        },
+        {
+          "title": "Dew Computing-Inspired Mental Health Monitoring System Framework Powered by a Lightweight CNN",
+          "authors": ["Podder, T.", "Bhattacharya, D.", "Majumdar, A."],
+          "conference": "Disruptive Technologies for Big Data and Cloud Applications",
+          "year": 2022,
+          "month": "JUN",
+          "publisher": "Springer, Singapore",
+          "doi": "https://doi.org/10.1007/978-981-19-2177-3_31"
+        }
+      ],
+      "journal": [
+        {
+          "title": "An Intuitionistic Fuzzy Consensus WASPAS Method for Assessment of Open-Source Software Learning Management Systems",
+          "authors": ["Deb, P.P.", "Bhattacharya, D.", "Chatterjee, I.", "Chatterjee, P.", "Zavadskas, E.K."],
+          "journal": "Informatica",
+          "year": 2023,
+          "month": "JAN",
+          "indexed": "SCIE",
+          "impact_factor": 3.429,
+          "doi": "https://doi.org/10.15388/23-INFOR523"
+        }
+      ]
+    },
+    "books_published": [
+      {
+        "title": "Time-Series Prediction and Applications: A Machine Intelligence Approach",
+        "authors": ["Amit Konar", "Diptendu Bhattacharya"],
+        "series": "Intelligent Systems Reference Library Series",
+        "publisher": "Springer-Verlag GmbH Germany",
+        "year": 2017,
+        "doi": "https://doi.org/10.1007/978-3-319-54597-4"
+      }
+    ],
+    "patents": [
+      {
+        "title": "CNN-Based Automated System for Early Detection and Classification of Tomato Leaf Diseases in Agriculture",
+        "inventors": ["Diptendu Bhattacharya", "Parijata Majumdar", "Sanjoy Mitra"],
+        "type": "Indian Patent",
+        "application_number": "202331084228",
+        "date": "11/12/2023",
+        "published_date": "01/03/2024"
+      },
+      {
+        "title": "Cognitive Sonic Manifestation: Futuristic NLP-Driven Text-to-Audio for Enhanced Accessibility in the Visually Impaired Community",
+        "inventors": ["Diptendu Bhattacharya", "Parijata Majumdar", "Sanjoy Mitra"],
+        "type": "Indian Patent",
+        "application_number": "202431017275",
+        "date": "11/03/2024",
+        "published_date": "26/07/2024"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Winner Medal for Weekly Nifty Prediction Contest, 2013",
+        "year": 2013
+      },
+      {
+        "title": "Gold Medal for standing first class and first position in M.E. Computer Engineering Exam, Jadavpur University, Kolkata",
+        "year": 1999
+      }
+    ],
+    "training_attended": [
+      {
+        "title": "Pattern Recognition And Machine Intelligence",
+        "month": "DEC",
+        "year": 2017
+      },
+      {
+        "title": "Recent Advances in Computational Intelligence",
+        "month": "SEPT",
+        "year": 2017
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "ATAL Online FDP on Computational Intelligence",
+        "month": "JAN",
+        "year": 2022
+      }
+    ]
+  }
+  

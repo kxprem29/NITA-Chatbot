@@ -1,0 +1,22 @@
+{
+    "faculty": [
+      {
+        "name": "Prof. Rabindra Narayan Mahapatra",
+        "designation": "Professor & HOD",
+        "department": "Production Engineering",
+        "email": "mahapatrarabindranarayan@gmail.com",
+        "date_of_joining": "01/05/2024",
+        "address": {
+          "city": null,
+          "state": null,
+          "country": null
+        },
+        "contact": {
+          "email": "mahapatrarabindranarayan@gmail.com",
+          "phone_residence": null,
+          "phone_mobile": "9861014982"
+        }
+      }
+    ]
+  }
+  

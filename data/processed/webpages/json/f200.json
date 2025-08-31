@@ -1,0 +1,127 @@
+{
+    "name": "Dr. Gyanabati Khuraijam",
+    "designation": "HOD & Associate Professor",
+    "department": "Management, Humanities & Social Sciences",
+    "date_of_joining": "07/05/2010",
+    "contact": {
+      "email": "khgyan79@yahoo.com",
+      "phone_residence": "9436767184",
+      "phone_mobile": "9856272746",
+      "address": {
+        "department": "Dept. of Management, Humanities & Social Sciences, National Institute of Technology Agartala (NITA), Jirania, Tripura West – 799046",
+        "city": "AGARTALA",
+        "state": "TRIPURA",
+        "country": "India"
+      }
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "field": "Indian Writings in English",
+        "year": 2008
+      },
+      {
+        "degree": "M.A.",
+        "field": "English Literature",
+        "university": "Manipur University",
+        "year": 2004
+      },
+      {
+        "degree": "B.A.",
+        "field": "English",
+        "college": "St. Anthony's College, Shillong",
+        "year": 2001
+      },
+      {
+        "qualification": "Class XII",
+        "school": "Vidya Devi Jindal School Hisar",
+        "year": 1997,
+        "stream": "Science"
+      },
+      {
+        "qualification": "Class X",
+        "school": "Nirmalabas High School Imphal",
+        "year": 1995
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Postmodern Feminism - A Journey from Naivety Towards Self Attainment: A Study of Fictional Oeuvre of Manju Kapur",
+          "co_authors": ["Adwitiya Gope"],
+          "journal": "The Journal of New Zealand Studies NS35",
+          "year": 2023,
+          "doi": "10.5281/zenodo.7805468",
+          "pages": "496-510",
+          "ISSN": "2324-3740"
+        },
+        {
+          "title": "Accentuating Environmental Migration, And Resisting Essentialism In Amitav Ghosh’s Gun Island And Salman Rushdie’s Quichotte",
+          "co_authors": ["Jayashree Tripura", "Atri Majumder"],
+          "journal": "Journal of Positive School Psychology",
+          "volume": 6,
+          "number": 6,
+          "pages": "9040-9046",
+          "year": 2022,
+          "ISSN": "5713-5718",
+          "scopus_indexed": true
+        }
+      ],
+      "journal": [
+        {
+          "title": "Postmodern Feminism - A Journey from Naivety Towards Self Attainment: A Study of Fictional Oeuvre of Manju Kapur",
+          "co_authors": ["Adwitiya Gope"],
+          "journal": "The Journal of New Zealand Studies NS35",
+          "year": 2023,
+          "doi": "10.5281/zenodo.7805468",
+          "ISSN": "2324-3740",
+          "scopus_indexed": true
+        },
+        {
+          "title": "Accentuating Environmental Migration, And Resisting Essentialism In Amitav Ghosh’s Gun Island And Salman Rushdie’s Quichotte",
+          "co_authors": ["Jayashree Tripura", "Atri Majumder"],
+          "journal": "Journal of Positive School Psychology",
+          "volume": 6,
+          "number": 6,
+          "year": 2022,
+          "ISSN": "5713-5718",
+          "scopus_indexed": true
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "A Handbook on Comprehension & Communication Skills",
+        "co_authors": ["Yumnam Oken Singh"],
+        "publisher": "Edsol Informatics, Noida",
+        "isbn": "978-81-980402-6-8",
+        "year": 2025
+      },
+      {
+        "title": "Memories of Partition: Identity Crisis and Trauma in Saadat Hasan Manto's Toba Tek Singh",
+        "co_authors": ["Anneshwa Dutta"],
+        "editor": ["Gyanabati Khuraijam", "Yumnam Oken Singh"],
+        "publisher": "Adhyayan Publishers and Distributors, New Delhi",
+        "isbn": "978-93-6506-191-8",
+        "year": 2024,
+        "pages": "56-83"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "title": "Deconstructing the Archetypal Representation of Gender in Manipuri Folktales: A Critical Study of Select Meitei Folktales",
+        "co_authors": ["Archana Akham"],
+        "conference": "Three Day Online International Conference on 'Margins as Centre: Examining Trajectories, Moorings, and Identities in Writings from the Northeast', Jamia Millia Islamia, New Delhi",
+        "month": "NOV",
+        "year": 2024
+      },
+      {
+        "title": "Gastro-Nostalgia and Quest for Self in Little Forest (2018): A Healing Visual Narrative",
+        "co_authors": ["Archana Akham"],
+        "conference": "Two Day National Conference on Rethinking Humanism: Interdisciplinary Approaches in Humanities and Social Sciences (COIN 2024), NIT Meghalaya",
+        "month": "NOV",
+        "year": 2024
+      }
+    ]
+  }
+  

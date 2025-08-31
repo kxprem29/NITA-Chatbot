@@ -1,0 +1,35 @@
+{
+    "name": "Dr. Deb Dulal Tripura",
+    "designation": "Professor & HOD",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "debdulaltripura@gmail.com",
+    "url": "https://debdulaltripura.wordpress.com/about/",
+    "address": {
+      "city": "-",
+      "state": "-",
+      "country": "-"
+    },
+    "contact": {
+      "email": "debdulaltripura@gmail.com",
+      "mobile": "9436134313",
+      "residence_phone": "-"
+    },
+    "academic_qualification": [
+      {
+        "degree": "Ph.D.",
+        "year": 2015,
+        "subject": "Structural Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2011,
+        "subject": "Structural Engineering"
+      },
+      {
+        "degree": "B.E.",
+        "year": 2003,
+        "subject": "Civil Engineering"
+      }
+    ]
+  }
+  

@@ -1,0 +1,123 @@
+{
+    "name": "Dr. Suvra Prakash Mondal",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "email": "suvraphy@gmail.com",
+    "profile_url": "https://sites.google.com/view/spmondalresearchgroup",
+    "address": {
+      "department": "Department of Physics, Science Block",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "suvraphy@gmail.com",
+      "residence_phone": null,
+      "mobile": "8414894171"
+    },
+    "academic_info": [
+      {
+        "degree": "Post Doc",
+        "year": 2012,
+        "subject": "Hybrid Solar Cell",
+        "institution": "Department of Physics & Meteorology, Indian Institute of Technology Kharagpur, India"
+      },
+      {
+        "degree": "Post Doc",
+        "year": 2011,
+        "subject": "Gas Sensor",
+        "institution": "Department of Chemistry & Biochemistry, The Ohio State University, Ohio, USA"
+      },
+      {
+        "degree": "Ph. D.",
+        "year": 2009,
+        "subject": "Semiconductor Nanotechnology, Physics",
+        "institution": "Department of Physics & Meteorology, Indian Institute of Technology Kharagpur, India"
+      },
+      {
+        "degree": "CSIR-NET (JRF)",
+        "year": 2004,
+        "subject": "Physics",
+        "institution": "Govt of India"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2003,
+        "subject": "Physics",
+        "institution": "Vidyasagar University, West Bengal, India"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "S, N co-doped graphene quantum dots decorated ZnO nanorods for 'Green' quantum dot sensitized solar cells",
+          "conference": "AIP Conference Proceedings, International Conference on Advanced Materials, Nirmalagiri College, Kerala",
+          "year": 2019
+        },
+        {
+          "title": "Nonenzymetic glucose sensing using carbon functionalized carbon doped ZnO nanorod arrays",
+          "conference": "DAE Solid State Physics Symposium, BARC Mumbai, India 2017; AIP Conference Proceedings 1942, 050074",
+          "year": 2017
+        }
+      ],
+      "journal": [
+        {
+          "title": "Hydrothermally Grown Porous Cobalt Oxide Nanostructures for Enzyme-Less Glucose Detection",
+          "journal": "Journal of Electronic Materials",
+          "volume": 50,
+          "pages": "3699-3705",
+          "year": 2021
+        },
+        {
+          "title": "Salivary glucose sensing using highly sensitive and selective non-enzymatic porous NiO nanostructured electrodes",
+          "journal": "Surfaces and Interfaces",
+          "volume": 26,
+          "pages": "101324",
+          "year": 2021
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Carbon Quantum Dots for Sustainable Energy and Optoelectronics",
+        "chapter": "Chapter-6: Photodetector applications of carbon and graphene quantum dots",
+        "year": 2023,
+        "publisher": "Woodhead Publishing, Elsevier",
+        "isbn": "978-0-323-90895-5"
+      },
+      {
+        "title": "Physical Chemistry for Chemists and Chemical Engineers: Multidisciplinary Research Perspectives",
+        "chapter": "Chapter 5: ZnO Nanostructure/Polymer Dielectric Films for Electronic and Optoelectronic Device Applications",
+        "year": 2018,
+        "publisher": "Apple Academic Press, CRC Press Taylor & Francis Group",
+        "isbn": "9781771886550"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Miniaturized gas sensor device and method",
+        "patent_no": "US 9,927,395 B1",
+        "year": 2018
+      },
+      {
+        "title": "Obtaining selectivity in gas sensors via a sensor array system composed of p and n type material",
+        "patent_no": "US 9,170,225 B2",
+        "year": 2015
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Fast Track Young Scientist Award, DST, New Delhi, India",
+        "year": 2012
+      },
+      {
+        "title": "Institute Postdoctoral Fellowship, IIT Kharagpur, India",
+        "year": 2011
+      },
+      {
+        "title": "Visiting Scholar Fellowship, The Ohio State University, Columbus, USA",
+        "year": 2009
+      }
+    ]
+  }
+  

@@ -1,0 +1,138 @@
+{
+    "name": "Dr. Neeraj Sharma",
+    "designation": "Associate Professor",
+    "department": "Production Engineering",
+    "email": "neeraj.pe@faculty.nita.ac.in",
+    "url": "https://sites.google.com/view/nsharma",
+    "research_areas": [
+      "Biomaterials",
+      "Composites",
+      "Smart materials",
+      "Non-Traditional Machining Processes",
+      "Additive Manufacturing"
+    ],
+    "address": {
+      "street": "Production Engineering Department, National Institute of Technology Agartala, Jirania-799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "neeraj.pe@faculty.nita.ac.in",
+      "phone_residence": null,
+      "phone_mobile": null
+    },
+    "academic_info": [
+      {
+        "degree": "Post Doc",
+        "year": 2019,
+        "subject": "Advanced and Sustainable Machining",
+        "university": "University of Johannesburg (Republic of South Africa)"
+      },
+      {
+        "degree": "Ph.D.",
+        "year": 2017,
+        "subject": "Porous Alloy (Biomaterials)",
+        "university": "YMCA University of Science and Technology (An Indo-German Project)"
+      }
+    ],
+    "publications": {
+      "conferences": [
+        {
+          "title": "Investigations of tool wear of coated carbide tool while machining X-750 nickel alloy",
+          "authors": "Bohat, M., & Sharma, N.",
+          "journal": "Materials Today: Proceedings",
+          "year": 2023
+        },
+        {
+          "title": "A Study of Process Optimization of Carburetor Die casting Process",
+          "authors": "Rahul Dev Gupta, Neeraj Sharma, Rajesh Khanna, Sameer Sharma, Sunny Dayal",
+          "journal": "Materials Today: Proceedings",
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.matpr.2022.01.153"
+        }
+      ],
+      "journals": [
+        {
+          "title": "Investigation of the dynamic behavior of hybrid composites using finite element and experimental method",
+          "authors": "Sharma, R. C., Gopala Rao, L. V. V., Srikar, B., Palli, S., Appala Naidu, Y., Sharma, N., & Sharma, S. K.",
+          "journal": "Journal of the Chinese Institute of Engineers",
+          "year": 2025
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Green Composites Manufacturing: A Sustainable Approach",
+        "authors": "Gupta, Shaman, Sharma, Neeraj and Guru Prakash",
+        "year": 2024,
+        "publisher": "Berlin, Boston: De Gruyter",
+        "doi": "https://doi.org/10.1515/9783111067346-002"
+      }
+    ],
+    "conferences_attended": [
+      {
+        "name": "MISE-2020 at Swinburne University, Melbourne (Australia)",
+        "month": "FEB",
+        "year": 2020
+      },
+      {
+        "name": "ICNMS-2017 at San Diego (USA)",
+        "month": "JAN",
+        "year": 2017
+      }
+    ],
+    "patents": [
+      {
+        "title": "Trolley for Movement of Batteries",
+        "year": 2023,
+        "type": "Indian Patent"
+      },
+      {
+        "title": "Orthopedic Plate with different fillet Radius",
+        "year": 2022,
+        "type": "Indian Patent"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "CCSTDS Travel Fellowship",
+        "year": 2020,
+        "description": "For attending a conference at Swinburne University (Melbourne), Australia"
+      },
+      {
+        "title": "Global Excellence Stature (GES) Fellowship",
+        "year": 2018,
+        "description": "For Post-doctoral research at University of Johannesburg (Republic of South Africa)"
+      },
+      {
+        "title": "SERB- Department of Science and Technology Travel grant",
+        "year": 2016,
+        "description": "For Young Scientist for attending International Conference in USA"
+      }
+    ],
+    "trainings_attended": [
+      {
+        "title": "Sustainable Composites: Processing, Characterization & Applications",
+        "month": "FEB",
+        "year": 2021,
+        "location": "NIT, UK (India)"
+      },
+      {
+        "title": "Computer Integrated Manufacturing & CNC (CIM/CNC)",
+        "month": "MAY",
+        "year": 2020,
+        "location": "NITTTR, Chandigarh (India)"
+      }
+    ],
+    "trainings_conducted": [
+      {
+        "title": "Emerging Trends in Mechanical Engineering (Phase-II)",
+        "month": "APRIL",
+        "year": 2021,
+        "mode": "online",
+        "funding": "AICTE-ISTE funded"
+      }
+    ]
+  }
+  

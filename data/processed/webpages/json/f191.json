@@ -1,0 +1,69 @@
+{
+    "name": "Dr. Suman Deb",
+    "designation": "Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "email": "sumandeb.cse@nita.ac.in",
+    "url": "http://www.sumandeb.com",
+    "research_area": [
+      "Artificial Intelligence",
+      "Visual Inference with Machine Learning",
+      "Robot Vision",
+      "Human Computer Interaction",
+      "Data Analytics"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Artificial Intelligence",
+        "Data Structure",
+        "Human Computer Interaction"
+      ],
+      "PG": [
+        "Artificial Intelligence",
+        "Robotics"
+      ]
+    },
+    "phd_students_ongoing": [
+      "Rapti Chaudhuri",
+      "Sandipan Bhowmik",
+      "Partha Pratim Das",
+      "Hillol Das",
+      "Soma Saha"
+    ],
+    "address": {
+      "street": "Room 216, Department of Computer Science and Engineering, National Institute of Technology Agartala, Barjala, Jirania, West Tripura",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India",
+      "pin": "799046"
+    },
+    "contact": {
+      "email": "sumandeb.cse@nita.ac.in",
+      "residence_phone": "9436459622",
+      "mobile": "9436459622"
+    },
+    "books_published": [
+      {
+        "title": "That is ROS: an exclusive guide for ROS application",
+        "year": 2025,
+        "publisher": "EBH Eastern Publishers",
+        "isbn": "9789348106605"
+      },
+      {
+        "title": "Trends in Computational Intelligence, Security and Internet of Things",
+        "year": 2020,
+        "publisher": "Springer Nature",
+        "authors": ["Kar N", "Saha A", "Deb S"],
+        "doi": "10.1007/978-3-030-66763-4",
+        "isbn": "978-3-030-66762-7"
+      },
+      {
+        "title": "Advances in Computational Intelligence, Security and Internet of Things",
+        "year": 2019,
+        "publisher": "Springer Nature",
+        "authors": ["Saha A", "Kar N", "Deb S"],
+        "doi": "10.1007/978-981-15-3666-3",
+        "isbn": "978-981-15-3665-6"
+      }
+    ]
+  }
+  

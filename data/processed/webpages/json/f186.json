@@ -1,0 +1,159 @@
+{
+    "name": "Dr. Shailendra Singh",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "shailendra.ee@nita.ac.in",
+    "url": "https://scholar.google.co.in/citations?hl=en&user=UIZaoYYAAAAJ",
+    "research_area": [
+      "Smart Energy Distribution Systems",
+      "Grid Automation and Control",
+      "Micro-Grid Control",
+      "Electric Vehicles Grid Integration",
+      "Distributed Energy Resources Management",
+      "Application of Blockchain, Artificial Intelligence & Machine Learning in Energy Systems",
+      "IOT Applications in Distribution/Micro-grids",
+      "Electricity Energy Market"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Basic Electrical Engineering",
+        "Artificial Intelligence and Expert System"
+      ],
+      "PG": [
+        "Operation and Control of Electrical Energy System",
+        "Energy Management Planning and Audit"
+      ]
+    },
+    "phd_students": {
+      "ongoing": [
+        {"name": "Mr. Naren Das", "role": "Supervisor"},
+        {"name": "Mr. Rajesh Kumar", "role": "Co-Supervisor"}
+      ],
+      "completed": []
+    },
+    "address": {
+      "street": "6th Floor, FC-7D, Electrical Engineering Department",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "shailendra.ee@nita.ac.in",
+      "residence_phone": "",
+      "mobile": ["9412482849"]
+    },
+    "academic_information": [
+      {
+        "degree": "Post Doc",
+        "year": 2022,
+        "subject": "Blockchain based Decentralized Peer to Peer Energy Trading; Mitigating Solar Intermittency",
+        "institute": "Nanyang Technological University (NTU), Singapore"
+      },
+      {
+        "degree": "Ph.D.",
+        "year": 2020,
+        "subject": "Energy Conservation in Active Distribution Network via Smart Volt/VAR Control",
+        "institute": "Indian Institute of Technology (Banaras Hindu University), Varanasi, India"
+      },
+      {
+        "degree": "OTHER",
+        "year": 2018,
+        "subject": "Grid Integration of Photovoltaics and Operational Issues in Smart Grid",
+        "institute": "National Renewable Energy Laboratory (NREL), Golden, USA (Visiting Scholar)"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2012,
+        "subject": "Electrical Engineering (Power Systems)",
+        "institute": "National Institute of Technology (NIT) Kurukshetra, Haryana, India"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2010,
+        "subject": "Electrical and Electronics Engineering",
+        "institute": "Dr. A P J Abdul Kalam Technical University (Formerly UPTU), Lucknow, India"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "An adaptive Zhang Neural Network controller for Frequency Control of Renewable Energy Integrated System",
+        "co_authors": "Irudayaraj, Raj; Veerapandiyan Veerasamy; Shailendra Singh; Hoay Beng Gooi et al.",
+        "conference": "IEEE PIICON 2022, NIT Delhi",
+        "year": 2022,
+        "month": "NOV"
+      },
+      {
+        "title": "Blockchain-Based Microgrid Frequency Control and Energy Trading to Incentivize EV Aggregator",
+        "co_authors": "Veerapandiyan Veerasamy, Shailendra Singh, Shadab Murshid, Hoay Beng Gooi et al.",
+        "conference": "IEEE SeFeT 2023, 3rd International Conference on Sustainable Energy and Future Electric Transportation",
+        "year": 2023,
+        "month": "AUG"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Second-order Network for Decentralized Frequency Control of Multi-Microgrid Systems",
+        "co_authors": "Veerapandiyan V., A. Raj Irudayaraj, Zhijian Hu, Shailendra Singh, Qiu Haifeng, H. D. Nguyen, H. B. Gooi",
+        "journal": "IEEE CSEE Journal of Power and Energy Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "month": "APRIL",
+        "year": 2024
+      },
+      {
+        "title": "Assessment of Protection Issues in Active Distribution Networks with Cyber Attack-Induced OLTC Operations",
+        "co_authors": "Udit Prasad, Soumya R. Mohanty, Shailendra Singh, S. P. Singh",
+        "journal": "IEEE Transactions on Industry Applications",
+        "month": "JULY",
+        "year": 2024
+      }
+    ],
+    "books": [
+      {
+        "title": "Assessment of Protection Issues in Active Distribution Networks with Cyber Attack-Induced OLTC Operations",
+        "co_authors": "Udit Prasad, Soumya R. Mohanty, Shailendra Singh, S. P. Singh",
+        "year": 2024,
+        "type": "Book Chapter"
+      }
+    ],
+    "patents": [
+      {
+        "title": "System and method for energy management and voltage control through grid-connected community energy resources",
+        "co_authors": "Shailendra Singh, S. P. Singh",
+        "year": 2021,
+        "status": "Published (Application No.: 202111033576)"
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "Awarded Prestigious Young Professional Research Award at 3rd International Symposium on Sustainable Energy and Technological Advancements (ISSETA-2024)",
+        "year": 2024
+      },
+      {
+        "achievement": "Guest Editor in Energies Journal for Special Issue on 'Application of Intelligent Techniques in Power System Stability, Control, and Protection', MDPI Publication (SCI, IF:3.04)",
+        "year": 2022
+      },
+      {
+        "achievement": "POSOCO Power System Award (PPSA-2020) under Doctoral Category for research on Energy Conservation in Active Distribution Network via Smart Volt/VAR Control",
+        "year": 2020
+      },
+      {
+        "achievement": "Part of Ph.D. thesis recognized by RTDS Technologies Inc, Canada for webinar presentations under User Spotlight Series",
+        "year": 2020
+      },
+      {
+        "achievement": "Bhaskara Advanced Solar Energy (BASE) Fellowship/Internship-2018 for six months at National Renewable Energy Laboratory (NREL), USA",
+        "year": 2018
+      }
+    ],
+    "training_conducted": [
+      {
+        "title": "One-week DST-SERB sponsored High-end workshop on Blockchain Technology Applications in Electrical Energy systems",
+        "month": "MAR",
+        "year": 2024,
+        "fund": "5 Lakhs"
+      }
+    ]
+  }
+  

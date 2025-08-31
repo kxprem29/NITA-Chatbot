@@ -1,0 +1,116 @@
+{
+    "name": "Dr. Mitra Barun Sarkar",
+    "designation": "Assistant Professor",
+    "department": "Electronics and Communication Engineering",
+    "email": "mbarun.ece@nita.ac.in",
+    "research_area": [
+      "Nanoelectronics",
+      "Optoelectronics",
+      "Gas Sensors"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Wireless and Mobile Communication"
+      ],
+      "PG": [
+        "Semiconductor Device Modeling",
+        "Antenna Engineering",
+        "Switching and Communication Networks",
+        "Wireless and Mobile Communication"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": ["Dr. Amitabha Nath (Presently in IIT Bombay)"],
+      "ongoing": 4
+    },
+    "address": {
+      "department": "Department of ECE",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "mbarun.ece@nita.ac.in",
+      "residence_phone": null,
+      "mobile": null
+    },
+    "academic_info": [
+      {
+        "degree": "Ph.D.",
+        "year": 2018,
+        "subject": "Electronics and Communication Engineering"
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2006,
+        "subject": "Electronics and Communication Engineering"
+      },
+      {
+        "degree": "B.Tech",
+        "year": 2004,
+        "subject": "Electronics and Tele-Communication Engineering"
+      }
+    ],
+    "publications": {
+      "conference": [
+        {
+          "title": "Design and Development of Arduino Based Portable Air Quality Monitoring System",
+          "authors": "Shubhajit Vishwas, Sayantan Saha, Monali Nath Bhowmik, Amitabha Nath, Shyam S Kundu, Sambhu Nath Pradhan, Mitra Barun Sarkar",
+          "conference": "ODICON-2021, Siksha ‘O’ Anusandhan",
+          "year": 2021
+        },
+        {
+          "title": "Effect on photo-absorbance and optical energy-gap of Al2O3 after deposition of Ag thin film on it",
+          "authors": "Abhijit Das, Vaishali Bora, Mitra Barun Sarkar, Shuvam Pawar",
+          "conference": "XXI International Workshop on Physics of Semiconductor Devices (IWPSD 2021)",
+          "year": 2021
+        }
+      ],
+      "journal": [
+        {
+          "title": "An In-Depth Analysis on the Switching Response and Impedance Curves of n-Si/In2O3 NW/Ag NPs/In based Devices by a Double-Step Glancing Angle Deposition Technique",
+          "authors": "Amitabha Nath, Mitra Barun Sarkar",
+          "journal": "Physica B: Condensed Matter",
+          "year": 2023,
+          "volume": "660(17)",
+          "art_no": "414886",
+          "doi": "10.1016/j.physb.2023.414886"
+        },
+        {
+          "title": "Superior Photosensing Performance by Ag Nanoparticles Textured Al2O3 Thin Film based Device",
+          "authors": "Abhijit Das, Amitabha Nath, Shuvam Pawar, Naorem Khelchand Singh, Mitra Barun Sarkar",
+          "journal": "Journal of Nanoparticle Research",
+          "year": 2023,
+          "volume": "25(5)",
+          "art_no": "88",
+          "doi": "10.1007/s11051-023-05740-3"
+        }
+      ]
+    },
+    "books": [
+      {
+        "title": "Synthesis & Characterization of Nanodot Embedded MOS-C for the NVM",
+        "authors": ["Mitra Barun Sarkar", "Sabyasachi Mukhopadhyay"],
+        "publisher": "LAP LAMBERT Academic Publishing",
+        "year": 2015
+      }
+    ],
+    "patents": [
+      {
+        "title": "System for agronomy monitoring and Enhancing an irrigation efficiency",
+        "inventors": ["Dr. Mitra Barun Sarkar", "Ankita Rupam", "Abriti Roy"],
+        "year": 2019
+      },
+      {
+        "title": "Waste Monitoring System",
+        "inventors": ["Dr. Mitra Barun Sarkar", "Sabyasachi Mukhopadhyay", "Dr. Paritosh Bhattacharya"],
+        "year": 2019
+      },
+      {
+        "title": "A Touch­Pad Based Device With Integrated Electronic Tool Providing Authentication For User",
+        "inventors": ["S. Pratiher", "S. Mukhopadhyay", "Dr. Mitra Barun Sarkar", "P. K. Panigrahi", "M. Bhowmik"],
+        "year": 2015
+      }
+    ]
+  }
+  

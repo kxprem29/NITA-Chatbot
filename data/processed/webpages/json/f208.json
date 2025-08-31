@@ -1,0 +1,25 @@
+{
+    "faculty": [
+      {
+        "name": "Dr. Ranjan Das",
+        "designation": "Professor",
+        "department": "Mechanical Engineering",
+        "date_of_joining": "29/05/2024",
+        "email": "ranjandas@nita.ac.in",
+        "address": {
+          "room": "Room No. 208",
+          "building": "Department of Mechanical Engineering, Prof. A.K. Misra Block, NIT Agartala",
+          "location": "Jirania, Tripura (West), Pin - 799046",
+          "city": "Agartala",
+          "state": "Tripura",
+          "country": "India"
+        },
+        "contact": {
+          "email": "ranjandas@nita.ac.in",
+          "phone_residence": null,
+          "phone_mobile": null
+        }
+      }
+    ]
+  }
+  

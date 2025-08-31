@@ -1,0 +1,28 @@
+{
+    "name": "Dr. Abanishwar Chakrabarti",
+    "designation": "Assistant Professor",
+    "department": "Electrical Engineering",
+    "email": "abanishwar@yahoo.com",
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "abanishwar@yahoo.com",
+      "residence_phone": null,
+      "mobile": "9436454824"
+    },
+    "research_area": null,
+    "courses_taught": {
+      "UG": [],
+      "PG": []
+    },
+    "publications": {
+      "conference": [],
+      "journal": []
+    },
+    "books_published": []
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "name": "Dr. Joyanta Pal",
+    "designation": "Associate Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "joyantanita@yahoo.com",
+    "address": {
+      "street": "Civil Engineering Deptt, NIT Agartala",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "joyantanita@yahoo.com",
+      "residence_phone": null,
+      "mobile": null
+    },
+    "academic_info": {
+      "degrees": [
+        {
+          "degree": "B.Tech.",
+          "year": null,
+          "subject": "Civil Engineering",
+          "institution": "NIT Hamirpur"
+        },
+        {
+          "degree": "M.Tech.",
+          "year": null,
+          "subject": "Structural Engineering",
+          "institution": "NIT Agartala"
+        },
+        {
+          "degree": "Ph.D.",
+          "year": null,
+          "subject": "Civil Engineering",
+          "institution": "Jadavpur University"
+        }
+      ]
+    },
+    "subjects_taught": [
+      {
+        "class": "BTech, MTech",
+        "subjects": [
+          "RCC Design",
+          "Advanced RCC Design",
+          "Numerical Analysis",
+          "FEM"
+        ]
+      }
+    ]
+  }
+  

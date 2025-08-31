@@ -1,0 +1,44 @@
+{
+    "name": "Dr. RAMA DEBBARMA",
+    "designation": "Associate Professor",
+    "department": "Civil Engineering (NBA Accredited)",
+    "email": "ramadebbarma@gmail.com",
+    "research_area": [
+      "Structural Dynamics and Earthquake Engineering",
+      "Seismic Vibration Control using Passive Control Devices, like Tuned Liquid Column Damper, Tuned Liquid Dampers, Tuned Mass Dampers, Tuned Mass Damper Inerter",
+      "Base Isolation System",
+      "Seismic Fragility Analysis of Structures",
+      "Probabilistic Seismic Analysis using Dampers",
+      "Soil-Structure Interaction",
+      "Properties of Concrete and Geopolymer Concrete"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Structural Analysis-II",
+        "Design of Structures-III",
+        "Design of RC Structures-II (Old Syllabus)",
+        "Design of Steel Structures (Old Syllabus)"
+      ],
+      "PG": [
+        "Dynamics of Structures",
+        "Theory of Plate and Shells",
+        "Dynamics of System",
+        "Seismic Analysis and Design of Structures"
+      ]
+    },
+    "phd_students": {
+      "enrolled": 1,
+      "completed": 0
+    },
+    "address": {
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "contact": {
+      "email": "ramadebbarma@gmail.com",
+      "residence_phone": null,
+      "mobile": "8794950965"
+    }
+  }
+  

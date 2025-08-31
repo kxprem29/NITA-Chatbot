@@ -1,0 +1,167 @@
+{
+    "faculty": [
+      {
+        "name": "Dr. Mithun Roy",
+        "designation": "HOD & Associate Professor",
+        "department": "Chemistry",
+        "date_of_joining": "25/04/2024",
+        "email": "mithunroy.iisc@gmail.com",
+        "website": "https://undefinedmithunroy.wixsite.com/mithunroy-nitm-site",
+        "address": {
+          "department": "Department of Chemistry, NIT Agartala",
+          "location": "Jirania, West Tripura, Pin - 799046",
+          "city": "Agartala",
+          "state": "Tripura",
+          "country": "India"
+        },
+        "contact": {
+          "email": "mithunroy.iisc@gmail.com",
+          "phone_residence": null,
+          "phone_mobile": "8415045823"
+        },
+        "academic_qualifications": [
+          {
+            "degree": "Ph.D.",
+            "field": "Chemical Sciences",
+            "year": 2009
+          },
+          {
+            "degree": "M.Sc.",
+            "field": "Chemistry (Inorganic Chemistry)",
+            "year": 2003
+          },
+          {
+            "degree": "B.Sc.",
+            "field": "BSc (Chemistry) (H)",
+            "year": 2001
+          }
+        ],
+        "publications": {
+          "conferences": [
+            {
+              "title": "In Silico Analysis of Ferrocenyl-Analogs as the Potential Drugs Against Aggressive UK-Based Strain of SARS-CoV-2 Novel Coronavirus",
+              "authors": "Maynak Pal, Abhishek Panwar, Sharmila Wahengbam, Dulal Musib & Mithun Roy",
+              "conference": "Recent Advances in Materials, ICSTE 2023",
+              "editor": "Swain, B.P.",
+              "publisher": "Springer, Singapore",
+              "volume": 25,
+              "doi": "https://doi.org/10.1007/978-981-99-3844-5_25",
+              "month": "August",
+              "year": 2023
+            }
+          ],
+          "journals": [
+            {
+              "title": "Recent advances on the development of NO-releasing molecules (NORMs) for biomedical applications",
+              "authors": "Rintu Bhowmik, Mithun Roy",
+              "journal": "Eur. J. Med. Chem.",
+              "volume": 268,
+              "article_id": 116217,
+              "month": "March",
+              "year": 2024
+            },
+            {
+              "title": "A new iron(III) complex-functionalized selenium nanowires (Fe@SeNWs) for probable phototherapeutic applications with red light",
+              "authors": "Rintu Bhowmik, Aarti Upadhyay, Maynak Pal, Arpan Bera and Mithun Roy",
+              "journal": "New J. Chem.",
+              "volume": 48,
+              "pages": "5465-5474",
+              "month": "February",
+              "year": 2024
+            },
+            {
+              "title": "Recent Advances on the Development of Early Transition Metal Complexes for Photo-Assisted Cytotoxicity Applications",
+              "authors": "Sharmila Wahengbam, Dulal Musib, Mithun Roy",
+              "journal": "ChemistrySelect",
+              "volume": 9,
+              "article_id": "e202302969",
+              "month": "January",
+              "year": 2024
+            },
+            {
+              "title": "Recent advances on the photo-chemotherapeutic potential of manganese carbonyl complexes",
+              "authors": "Gobinda Bag, Dulal Musib, Md Kausar Raza, Annie Castonguay, Mithun Roy",
+              "journal": "Polyhedron",
+              "volume": 249,
+              "article_id": 116778,
+              "month": "February",
+              "year": 2024
+            },
+            {
+              "title": "Overview of Hydroxychloroquine and Remdesivir on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+              "authors": "Arup K. Kabi, Maynak Pal, Raghuram Gujjarappa, Chandi C. Malakar, Mithun Roy",
+              "journal": "Journal of Hetero Cyclic Chemistry",
+              "volume": 60,
+              "pages": "165-182",
+              "month": "February",
+              "year": 2023
+            },
+            {
+              "title": "Emerging trends of La(III)-based compounds as the strategic tools for photodynamic therapy",
+              "authors": "Dulal Musib, Moubani Mukherjee, Mithun Roy",
+              "journal": null,
+              "volume": 558,
+              "article_id": 121751,
+              "month": "December",
+              "year": 2023
+            },
+            {
+              "title": "Red light-activable biotinylated copper(II) complex-functionalized gold nanocomposite (Biotin-Cu@AuNP) towards targeted photodynamic therapy",
+              "authors": "Dulal Musib, Aarti Upadhyay, Maynak Pal, Md Kausar Raza, Indranil Saha, Amit Kunwar, Mithun Roy",
+              "journal": "J. Inorg. Biochem.",
+              "volume": 243,
+              "article_id": 112183,
+              "month": "June",
+              "year": 2023
+            },
+            {
+              "title": "Photo-chemical aspects of iron complexes exhibiting photo-activated chemotherapy (PACT)",
+              "authors": "Abhishek Panwar, Maynak Pal, Mithun Roy",
+              "journal": "J. Inorg. Biochem.",
+              "volume": 238,
+              "article_id": 112055,
+              "month": "January",
+              "year": 2023
+            },
+            {
+              "title": "Folate-assisted targeted photocytotoxicity of red-light-activable iron(iii) complex co-functionalized gold nanoconjugates (Fe@FA-AuNPs) against HeLa and triple-negative MDA-MB-231 cancer cells",
+              "authors": "Maynak Pal, Aarti Upadhyay, Neha Masarkar, Arpan Bera, Sukhes Mukherjee, Mithun Roy",
+              "journal": "Dalton Trans.",
+              "volume": 53,
+              "pages": "2108-2119",
+              "month": "December",
+              "year": 2023
+            },
+            {
+              "title": "SAR-based approach to explore in silico ferrocene analogues as the potential inhibitors of major viral proteins of SARS-CoV-2 virus and human Ca2+-channel blocker",
+              "authors": "Maynak Pal, Dulal Musib, Mithun Roy",
+              "journal": null,
+              "volume": 61,
+              "pages": "370-384",
+              "month": "April",
+              "year": 2022
+            },
+            {
+              "title": "La(iii)–curcumin-functionalized gold nanocomposite as a red light-activatable mitochondria-targeting PDT agent",
+              "authors": "Dulal Musib, Vanitha Ramu, Md Kausar Raza, Aarti Upadhyay, Maynak Pal, Amit Kunwar, Mithun Roy",
+              "journal": "Inorg. Chem. Front.",
+              "volume": 9,
+              "pages": "686-701",
+              "month": "August",
+              "year": 2021
+            },
+            {
+              "title": "Transition metal complexes as potential tools against SARS-CoV-2: an in silico approach",
+              "authors": "Maynak Pal, Dulal Musib, Mithun Roy",
+              "journal": "New J. Chem.",
+              "volume": 45,
+              "pages": "1924-1933",
+              "month": "November",
+              "year": 2020
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

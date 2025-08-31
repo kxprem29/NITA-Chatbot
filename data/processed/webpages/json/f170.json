@@ -1,0 +1,88 @@
+{
+    "name": "Dr. Susanta Ghanta",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "date_of_joining": "22/08/2016",
+    "email": "susanta.ghanta82@gmail.com",
+    "scholar_url": "https://scholar.google.com/citations?user=KrEoldUAAAAJ&hl=en",
+    "research_area": [
+      "Nonadiabatic Quantum Dynamics",
+      "Photo-ionization and Photo-excitation Spectroscopy",
+      "Jahn-Teller and pseudo-Jahn-Teller effects",
+      "Molecular Modeling",
+      "QM/MM and MD study of biomolecular processes",
+      "Computational study of reaction pathway, energetics, stability, molecular properties",
+      "Design new High Energy Density Materials theoretically"
+    ],
+    "courses_taught": {
+      "UG": [
+        "Engineering Chemistry - I",
+        "Engineering Chemistry - II",
+        "General Chemistry-II",
+        "General Chemistry-VIII",
+        "General Chemistry-X",
+        "General Chemistry-XI",
+        "General Chemistry-XV"
+      ],
+      "PG": [
+        "Physical Chemistry - I",
+        "Physical Chemistry - II",
+        "Physical Chemistry - III",
+        "Instrumentation and Molecular Spectroscopy"
+      ]
+    },
+    "phd_students": {
+      "enrolled_completed": 0,
+      "enrolled_ongoing": 2
+    },
+    "address": {
+      "street": "Department of Chemistry, NIT Agartala, 799046",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "susanta.ghanta82@gmail.com",
+      "residence_phone": "8837329069",
+      "mobile": "08001862824"
+    },
+    "academic_info": [
+      {
+        "degree": "Post Doc",
+        "year": 2014,
+        "subject": "Theoretical and Computational Chemistry",
+        "institution": "IIT Kharagpur"
+      },
+      {
+        "degree": "Post Doc",
+        "year": 2012,
+        "subject": "Theoretical and Computational Chemistry",
+        "institution": "University of South Carolina, USA"
+      },
+      {
+        "degree": "Ph.D.",
+        "year": 2011,
+        "subject": "Theoretical and Computational Chemistry",
+        "institution": "University of Hyderabad"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2005,
+        "subject": "Physical Chemistry (Special)",
+        "institution": "Visva-Bharati University"
+      },
+      {
+        "degree": "UGC-NET",
+        "year": 2005,
+        "subject": "Chemical Science",
+        "institution": "CSIR UGC JRF"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2003,
+        "subject": "Chemistry (H), Physics, Mathematics",
+        "institution": "Panskura Banamali College, Vidyasagar University"
+      }
+    ]
+  }
+  

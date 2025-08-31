@@ -1,0 +1,144 @@
+{
+    "name": "Dr. Jawahar Paulraj",
+    "designation": "Associate Professor",
+    "department": "Mechanical Engineering",
+    "email": "dr.p.jawahar@gmail.com",
+    "cv": "View",
+    "address": {
+      "office": "Assistant Professor, Department of Mechanical Engineering, NIT Agartala, Jirania",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "dr.p.jawahar@gmail.com",
+      "mobile": "8754849740",
+      "residence_phone": "-"
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2007,
+        "subject": "Composite Materials",
+        "institution": "Indian Institute of Technology Madras"
+      },
+      {
+        "degree": "M.E.",
+        "year": 2001,
+        "subject": "Production Engineering",
+        "institution": "Annamalai University"
+      },
+      {
+        "degree": "B.E.",
+        "year": 1999,
+        "subject": "Mechanical Engineering",
+        "institution": "Dr. Sivanti Aditanar College of Engineering, Manonmaniam Sundaranar University"
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Lithium-Ion Batteries: Review",
+        "authors": "Himanshu Shukla, P.Jawahar, E.Ganapathy Sundaram",
+        "conference": "International Conference on Advances in Chemical & Materials Sciences",
+        "month": "April",
+        "year": 2022
+      },
+      {
+        "title": "Additive Manufactured PEEK based Composites for Orthopaedic Implants: A Review",
+        "authors": "S.Sathishkumar, P. Jawahar, P. Chakraborti",
+        "conference": "International Conference On Additive Manufacturing And Allied Technologies",
+        "month": "June",
+        "year": 2022
+      },
+      {
+        "title": "Engineering, Self Reliance and Sustainable Goals",
+        "authors": "Geetha Rajamani, Jawahar Paulraj",
+        "conference": "35th Indian Engineering Congress",
+        "month": "December",
+        "year": 2020
+      },
+      {
+        "title": "CFD Studies on Multi Cavity Solar Receiver with Two Heat Transfer Fluids",
+        "authors": "D.R.Rajendran*, E. Ganapathy Sundaram, P. Jawahar, A.E.Kabeel, A. Muthumanokar , Ravishankar Sathyamurthy, V. Sivakumar",
+        "conference": "5th International conference on scientific (Research renewable energy & water sustainability)",
+        "month": "March",
+        "year": 2019
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Fused Filament Fabricated PEEK based Polymer Composites for Orthopaedic Implants: A Review",
+        "authors": "S. Sathishkumar, P. Jawahar, Prasun Chakraborti",
+        "journal": "International Journal of Material Research",
+        "year": 2023
+      },
+      {
+        "title": "A Review on Recent Development in Al-Cu Friction Stir Welding",
+        "authors": "Viresh Payak, P. Jawahar, Barnik Saha Roy, Manish Bhargava and Pritam Das",
+        "journal": "Journal of Process Mechanical Engineering",
+        "year": 2023
+      },
+      {
+        "title": "Influence of carbonaceous reinforcements on mechanical and tribological properties of PEEK composites – a review",
+        "authors": "S.Sathishkumar, P. Jawahar, P. Chakraborti",
+        "journal": "Polymer-Plastics Technology and Materials",
+        "volume": "61",
+        "issue": "12",
+        "pages": "1367-1384",
+        "year": 2022
+      }
+    ],
+    "book_chapters": [
+      {
+        "title": "Synthesis, properties, and applications of PEEK-based biomaterials",
+        "authors": "S Sathishkumar, P Jawahar, P Chakraborti",
+        "book": "Advanced Materials for Biomedical Applications",
+        "publisher": "CRC Press (Taylor and Francis Group)",
+        "pages": "81-107",
+        "month": "December",
+        "year": 2022,
+        "isbn": "978-1-003-34481-0"
+      },
+      {
+        "title": "Rubber - CNT Nanocomposites",
+        "authors": "M. Balasubramanian and P. Jawahar",
+        "book": "Advances in Nanostructured Composites: Volume 1: Carbon Nanotube and Graphene Composites",
+        "publisher": "CRC Press (Taylor and Francis Group)",
+        "pages": "295-314",
+        "month": "April",
+        "year": 2019,
+        "isbn": "978-1-482-23663-7"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Brake Pad for Racing Car",
+        "design_no": "340458-001",
+        "year": 2023
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Friction Stir Welding of Aluminum Alloy (Al 6101) and Copper Alloy (C11000) for Busbar Application by Novel Hybrid Interlayer Approach",
+        "scheme": "SERB - CRG",
+        "funds": "Rs.4213220/-",
+        "duration": "2023 to 2027",
+        "year": 2023
+      },
+      {
+        "title": "Development of high wear resistive natural rubber composites for aircraft and automotive applications",
+        "scheme": "DST – Young Scientist Fast Track Scheme",
+        "funding_agency": "DST",
+        "funds": "Rs. 20,85,000/-",
+        "duration": "2014 to 2018",
+        "year": 2014
+      },
+      {
+        "title": "Post Doctoral Fellowship",
+        "description": "Worked as a Post Doctoral Research Fellow in Department of Mechanical Engineering, Durban University of Technology, Durban, South Africa",
+        "duration": "October 2nd 2006 – December 2nd 2007",
+        "year": 2006
+      }
+    ]
+  }
+  

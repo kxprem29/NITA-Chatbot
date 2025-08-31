@@ -1,0 +1,122 @@
+{
+    "name": "Dr. Chanchal Bhaumik",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Chemistry",
+    "email": "bhaumik.chanchal@gmail.com",
+    "research_area": [
+      "Coordination Chemistry",
+      "Organometallic Chemistry",
+      "Catalysis"
+    ],
+    "address": {
+      "street": "H4A/03/01, NIT Agartala, Agartala, West Tripura - 799046",
+      "city": "Agartala",
+      "state": "Tripura",
+      "country": "India"
+    },
+    "contact": {
+      "email": "bhaumik.chanchal@gmail.com",
+      "residence_phone": null,
+      "mobile": "9831944406"
+    },
+    "academic_info": [
+      {
+        "degree": "Post Doc",
+        "year": 2014,
+        "institution": "IIT Kharagpur",
+        "subject": "Organometallic Chemistry and Catalysis"
+      },
+      {
+        "degree": "Post Doc",
+        "year": 2013,
+        "institution": "LCC France",
+        "subject": "Organometallic Chemistry and Catalysis"
+      },
+      {
+        "degree": "Ph.D.",
+        "year": 2013,
+        "institution": "Jadavpur University",
+        "subject": "Chemistry"
+      },
+      {
+        "degree": "CSIR-NET (JRF)",
+        "year": 2007,
+        "institution": "CSIR",
+        "subject": "Chemical Science"
+      },
+      {
+        "degree": "M.Sc.",
+        "year": 2006,
+        "institution": "Vidyasagar University",
+        "subject": "Chemistry"
+      },
+      {
+        "degree": "B.Sc.",
+        "year": 2004,
+        "institution": "Vidyasagar University",
+        "subject": "Chemistry"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "Oxidation of alcohols by TBHP in the presence of sub-stoichiometric amounts of MnO2",
+        "journal": "Comptes Rendus Chimie",
+        "month": "MAR",
+        "year": 2016,
+        "IF": 2.5
+      },
+      {
+        "title": "Photoinduced Intramolecular Energy Transfer and Anion Sensing Studies of Isomeric RuIIOsII Complexes Derived from an Asymmetric Phenanthroline-Terpyridine Bridge",
+        "journal": "Dalton Transactions",
+        "month": "JAN",
+        "year": 2014,
+        "IF": 4.0
+      }
+    ],
+    "books_published": [
+      {
+        "title": "Opportunities and Challenges in Heavy Metal Removal from Water",
+        "authors": ["Mriganka Sekhar Manna", "Chanchal Bhaumik"],
+        "year": 2021
+      }
+    ],
+    "subjects_taught": [
+      {
+        "class": "B.Tech",
+        "subjects": [
+          "Chemical Bonding",
+          "Polymer Chemistry",
+          "Electrochemistry",
+          "Water, Corrosion and Control",
+          "Refractories and Cement"
+        ]
+      },
+      {
+        "class": "BS-MS Dual: Sem I",
+        "subjects": [
+          "General Chemistry-I (DSCY21B01): Coordination Chemistry-I, Basic Organic Chemistry",
+          "Basic Environmental and Atmospheric Science (DSCY22B03): Green Chemistry"
+        ]
+      },
+      {
+        "class": "BS-MS Dual: Sem V",
+        "subjects": ["General Chemistry VIII (DSCY25B10): Solid State Chemistry"]
+      },
+      {
+        "class": "BS-MS Dual: Sem VI",
+        "subjects": ["NMR Spectroscopy"]
+      },
+      {
+        "class": "BS-MS Dual: Sem VIII",
+        "subjects": [
+          "Solid State and Industrial Chemistry (DSCY28E07): Solid State Chemistry",
+          "Advanced Organometallics and Supramolecular Chemistry (DSCY28E08): Advanced Organometallics"
+        ]
+      },
+      {
+        "class": "M.Sc",
+        "subjects": ["Inorganic Chemistry-I (PCY01B01): Reaction mechanism of transition metal complexes"]
+      }
+    ]
+  }
+  

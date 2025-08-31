@@ -1,0 +1,139 @@
+{
+    "name": "Dr. Nivedita Laskar",
+    "designation": "Assistant Professor (Contractual)",
+    "department": "Electrical Engineering",
+    "date_of_joining": "",
+    "email": "niveditalasakar00@yahoo.co.in",
+    "url": "",
+    "research_area": [],
+    "courses_taught": {
+      "UG": [
+        "Analog Electronics",
+        "Digital Electronics",
+        "Applied Electrical and Electronics",
+        "Basic Electrical Engineering",
+        "Basic Electronics Engineering",
+        "Electrical Machines",
+        "Microprocessor"
+      ],
+      "PG": []
+    },
+    "phd_students": {
+      "ongoing": [],
+      "completed": []
+    },
+    "address": {
+      "street": "Electrical Engineering Department, FC-3G, G+6 Building",
+      "city": "AGARTALA",
+      "state": "TRIPURA",
+      "country": "India"
+    },
+    "contact": {
+      "email": "niveditalasakar00@yahoo.co.in",
+      "residence_phone": "",
+      "mobile": ["7005298636"]
+    },
+    "academic_information": [
+      {
+        "degree": "Ph.D.",
+        "year": 2018,
+        "subject": "",
+        "institute": ""
+      },
+      {
+        "degree": "M.Tech",
+        "year": 2008,
+        "subject": "",
+        "institute": ""
+      },
+      {
+        "degree": "B.E.",
+        "year": 2003,
+        "subject": "",
+        "institute": ""
+      }
+    ],
+    "publications_conference": [
+      {
+        "title": "Determination of Rate of Change of Current Inside the 3 Ghz Silicon Chip for Any Given Noise at 100amp Maximum Saturation Current.",
+        "co_authors": "Nivedita Laskar et. al.",
+        "conference": "5th International Conference on Electronics Computer Technology, ICECT",
+        "year": 2013,
+        "volume": 5,
+        "month": ""
+      },
+      {
+        "title": "A Voltage Stability assessment of a Multi Bus Power Network using Determinant of Jacobian as an indicator",
+        "co_authors": "Nivedita Laskar et. al.",
+        "conference": "National Conferences On Advances In Power System And Energy Management (APSEM)",
+        "year": 2008,
+        "volume": "",
+        "month": "MAR",
+        "pages": "11"
+      },
+      {
+        "title": "A Voltage stability based contingency analysis of a multibus power network using P-Q boundary",
+        "co_authors": "Nivedita Laskar et. al.",
+        "conference": "National Conferences On Emerging Trends and Advances In Electrical Engineering And Renewable Energy (NCEEERE 2008)",
+        "year": 2008,
+        "volume": "Vol-1",
+        "month": "DEC",
+        "pages": "1-4"
+      }
+    ],
+    "publications_journal": [
+      {
+        "title": "A dynamic current mode design approach of 2/3 prescaler for phase locked loop application",
+        "co_authors": "Nivedita Laskar et. al.",
+        "journal": "Analog Integrated Circuits and Signal Processing, Springer",
+        "volume": "",
+        "issue": "",
+        "pages": "251-258",
+        "month": "FEB",
+        "year": 2022,
+        "doi": "10.1007/s10470-021-01966-0"
+      },
+      {
+        "title": "A New Current Profile Determination Methodology Incorporating Gating Logic to Minimize the Noise of CPU Chip by 40%",
+        "co_authors": "Nivedita Laskar et. al.",
+        "journal": "World Scientific Journal of Circuits, Systems and Computers",
+        "volume": 27,
+        "issue": 3,
+        "pages": "1-20",
+        "month": "",
+        "year": 2018
+      },
+      {
+        "title": "Innovative Scaling Method to Minimize Cost of Integrated Circuit Packages and Devices",
+        "co_authors": "Nivedita Laskar et. al.",
+        "journal": "IEEE Transaction on Components, Packaging and Manufacturing Technology",
+        "volume": 4,
+        "issue": 9,
+        "pages": "1489-1494",
+        "month": "SEPTEMBER",
+        "year": 2014
+      },
+      {
+        "title": "System Design for Freon Driven Solar Thermal Pump",
+        "co_authors": "Nivedita Laskar et. al.",
+        "journal": "International Journal of Science and Research (IJSR)",
+        "volume": 3,
+        "issue": 9,
+        "pages": "",
+        "month": "SEPTEMBER",
+        "year": 2014
+      },
+      {
+        "title": "Determination of Rate of Change of Current Inside the 3 Ghz Silicon Chip for Any Given Noise at 100amp Maximum Saturation Current.",
+        "co_authors": "Nivedita Laskar et. al.",
+        "journal": "International Journals of Electrical Energy",
+        "volume": 1,
+        "issue": 2,
+        "pages": "67-71",
+        "month": "JUNE",
+        "year": 2013
+      }
+    ],
+    "achievements": []
+  }
+  
