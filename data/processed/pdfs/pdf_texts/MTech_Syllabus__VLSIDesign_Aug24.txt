@@ -1,0 +1,1466 @@
+
+--- Page 1 ---
+POST GRADUATE SYLLABUS
+FOR
+VLSI DESIGN
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+BARJALA, AGARTALA - 799046
+DEPARTMENT OF ELECTRONICS & COMMUNICATION
+ENGINEERING
+
+--- Page 2 ---
+FOREWORD
+Electronics & Communication Engineering Department of NIT Agartala awards the degree of
+Master of Technology (M. Tech) in two different specializations, i.e., i)VLSI Design and
+ii)Communication Systems & Signal Processing.
+The course structures of all post graduate degree programmes are carrying a total of 80 credits
+and 2000 marks. Semester wise distribution of course and credits are as follows. First semester
+25 credits and 800 marks for five theory subjects, two laboratory subjects and seminar, second
+semester 25 credits and 800 marks for four theory subjects, two laboratory subjects,
+comprehensive viva-voce and project preliminaries; Third Semester 10 credits and 100 marks,
+fourth semester 20 credits and 300 marks. Third and fourth semester of PG courses will be fully
+devoted to project works. Minimum requirement of number of class hours for each theory
+course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester.
+Each theory subject in a semester is evaluated for 100 marks, with the following weightage
+sub-component weightage. Continuous evaluation 30 marks (Attendance: 5 marks, Quiz: 5
+marks, Class test: 10 marks, Assignment: 10 marks); Mid-Semester Examination 20 marks;
+and End-Semester Examination 50 marks.
+The course curriculum of all post-graduate programmes are designed considering the
+Programme Outcomes as formulated by National Board of Accreditation (NBA)
+Expert opinions are being taken on a regular basis in order to improve the quality of teaching
+learning process and to attain the programme outcomes efficiently.
+In the final year of M. Tech Programmes (third and fourth semesters) students may also opt
+industrial research. If any student desire to pursue his/her research in reputed industries, he/she
+may be allowed to do so, provided:
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such
+industry bodied.
+b. The selected industry needs is approved by the DPPC of the concerned department.
+c. The student selects one supervisor from industry and another supervisor form the Institute.
+d. If any students opt for such industrial research he/she will not receive any scholarship from
+the institute in this tenure, even if he/she wants to return back. In such cases the student
+will be allowed to complete his/her project in the institute but without any scholarship.
+ii
+
+--- Page 3 ---
+Vision and Mission of ECE Department
+Vision
+Department is committed to impart high level of Teaching, Conducting up to date research along with
+technical skill so that the department can excel in the fields of teaching and research at national and
+international level and to cope with the latest demand of industry, academia and research in Electronics
+& Communication Engineering.
+Mission
+I. To provide high quality undergraduate and graduate education in the field of Electronics and
+Communication Engineering.
+II. To promote research and development.
+III. To collect the knowledge and expertise and to cater the people and to work for the development of the
+society at large.
+IV. To develop and promote a smooth and friendly academic industry relationship.
+V. To make the department more conductive for professional and personal development so as to
+attract good professionals and academicians from all over the country and abroad.
+iii
+
+--- Page 4 ---
+Program Outcomes (POs)
+PO1: Ability to independently carry out research/investigation and development to solve
+practical problems.
+PO2: Ability to write and present substantial technical report/document
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements in
+the appropriate bachelor program.
+PO4: Ability to identify, formulate, and solve VLSI Design and Nano Technology related
+problems using advanced level computing techniques.
+PO5: Ability to understand the impact of VLSI Design and Nano Technology solutions in a
+global, economic, environmental and societal context.
+PO6: Ability to demonstrate knowledge and understanding of the engineering and management
+principles and apply these to multidisciplinary environment.
+Program Educational Objectives (PEOs)
+1. To develop a sound knowledge in the field related to VLSI Design and Nanotechnology to
+serve as a competent engineer.
+2. To develop a sound knowledge in theory and practical related to VLSI Design and
+Nanotechnology to prove the ability to work in any interdisciplinary areas.
+3. To acquire the proper skill and techniques to apply in the industrial fields.
+4. To be acquainted with the latest technology so as to be placed in the best industries in the
+country and abroad.
+5. To acquire a strong sound knowledge in the mathematical theory and related computation
+using recent software.
+Program Specific Objectives (PSOs)
+1. To create powerful competent engineers acceptable to any relevant industry all over the
+world.
+2. To acquire sound knowledge in more than one sub-areas of VLSI Design and
+Nanotechnology to pursue research.
+iv
+
+--- Page 5 ---
+Course structure for M.Tech.in VLSI Design
+Semester-1
+Sl. no. Subject L T P Hours/week credit
+1. Digital VLSI Circuits 3 1 0 4 4
+2. Analog VLSI Circuits 3 1 0 4 4
+3. Semiconductor Device 3 1 0 4 4
+Modeling
+4. Elective – I 3 1 0 4 4
+5. Elective – II 3 1 0 4 4
+6. Laboratory-I 0 0 3 3 2
+7. Laboratory-II 0 0 3 3 2
+8. Seminar 0 0 2 2 1
+Total 28 25
+Semester-2
+Sl. no. Subject L T P Hours/week credit
+1. VLSI Fabrication 3 1 0 4 4
+Technology
+2. CAD of VLSI System 3 1 0 4 4
+3. Low Power VLSI Design 3 1 0 4 4
+4. Elective – III 3 1 0 4 4
+5. Laboratory-III 0 0 3 3 2
+6. Laboratory-IV 0 0 3 3 2
+7. Project Preliminary 0 0 3 6 3
+8. Comprehensive Viva- - - - - 2
+voce
+Total 28 25
+Semester-3
+Sl. no. Subject L T P Hours/week credit
+1. Project & Thesis-I - - - - 10
+Semester-4
+Sl. no. Subject L T P Hours/week credit
+1 Project & Thesis-II - - - - 20
+Total Credit (Semester-1 to Semester-4) 80
+LABORATORIES
+Laboratories Name of the laboratory
+Laboratory-I Microelectronics Lab
+Laboratory-II FPGA Design and Simulation Lab (using Xilinx VIVADO and other CAD
+tools)
+Laboratory-III ASIC Design and Simulation Lab (Cadence and other CAD tools)
+Laboratory-IV Signal Processing and Embedded Systems Lab
+1
+
+--- Page 6 ---
+LIST OF ELECTIVES
+Sl.No. Name of the subject
+1 VLSI Testing and Testability
+2 Embedded Systems and IOT
+3 VLSI Signal Processing
+4 Optoelectronics Device and Circuits
+5 Semiconductor Memories
+6 VLSI interconnects
+7 Laser Science and Technology
+8 VLSI Based Chip design for Signal and Image Processing
+9 Technology CAD
+10 Nanoelectronics Devices
+11 Synthesis and characterization of Nanomaterials
+12 An Introduction to Electronic Systems Packaging
+13 Advanced Computer Architecture and Processor Design
+14 Hardware Security
+15 MEMS and Microsystems
+16 Logic Synthesis and Verification
+17 Mixed Mode VLSI Circuit Design
+18 Metaheuristic Algorithms and their applications
+2
+
+--- Page 7 ---
+SEMESTER-1
+DIGITAL VLSI CIRCUITS L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To introduce the students to the design principles of Digital VLSI Circuits.
+ To enable the students to solve theoretical and practical problems related to Digital VLSI Circuits.
+ To enable the students to efficiently analyze and design circuits for Digital VLSI Domain.
+ To equip the students with domain specific industry standard CAD tools.
+COURSE CONTENT:
+Module-1
+Introduction to VLSI Design, Levels of abstraction and the complexity of design, Challenges of VLSI
+design: power, timing, area, noise, testability, reliability and yield; CAD tools: simulation, layout,
+synthesis and test.
+Module-2
+MOS modeling, MOS device models, Short‐channel effects and velocity saturation, Scaling of MOS
+circuits; The CMOS inverter, VTC, Switching behavior, Noise margins and power dissipation; Static
+and dynamic CMOS combinational logic gate, Transistor sizing in static CMOS, logical effort , Pass-
+transistor logic, sizing issues , Domino logic gates , estimating load capacitance , Simple delay models
+(RC) for CMOS gates , Power consumption;
+Module-3
+Layout design, Design rules, Stick diagrams; Standard‐cell layout, Chip layout and floor planning,
+Array layout; Data path units, Adders, Shifters, Multipliers; Control logic strategies, PLAs , Multi-
+level logic, Synthesis and place and route; Latches and clocking, Flip-flops, Set-up and hold tests, Static
+and dynamic latch and flip-flop, clock distribution, clock synthesis and synchronization using PLLs.
+Module-4
+MOS memories, Register, SRAM , DRAM; Global interconnect modeling, Capacitance, resistance and
+inductance of interconnect; Signal and power-supply integrity issues, Electromigration, RC
+interconnect modeling Driving large capacitive load, reducing RC delays; Verilog HDL.
+COURSE OUTCOME:
+After taking this course
+CO1: Students gain the knowledge about MOSFET / CMOS operation and CMOS process flow.
+CO2: Students gain the knowledge of transistor sizing, logical effort and combinational logic.
+CO3: Students learn the design concepts with sequential logic
+CO4: Students learn the issues related with the static timing analysis and clock distribution.
+CO5: Students become aware of concepts of memory design and interconnect delay.
+CO6: Students gain the knowledge about Layout design.
+3
+
+--- Page 8 ---
+CO7: Students learn to realize Digital VLSI circuits using Verilog HDL in FPGA and ASIC based EDA
+tools.
+TEXTS/REFERENCES:
+1. J. M. Rabaey, A. Chandrakasan and B. Nikolic, Digital Integrated Circuits: A Design Perspective,
+Second Edition, Pearson/PH, 2003.
+2. J. P. Uyemura, Introduction to VLSI Circuits and Systems, Wiley, 2001.
+3. W.Wolf, Modern VLSI Design: Systems on Chip Design, Third Edition, Pearson/PH, 2002.
+4. R. L. Geiger, P. E. Allen and N. R. Strader, VLSI Design Techniques for Analog and Digital
+Circuits, McGraw-Hill, 1990.
+4
+
+--- Page 9 ---
+ANALOG VLSI CIRCUITS L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ To introduce the students to the design principles and performance measures of analog
+COMS integrated circuits.
+ To enable the students to solve theoretical and practical problems related to analog CMOS
+integrated circuits.
+ To enable the students to efficiently analyze and design circuits for analog CMOS IC
+domain.
+COURSE CONTENT:
+Module 1:
+Introduction to Analog VLSI Circuits Design, Design Flow of Analog VLSI Circuits. Basic MOS
+Device Physics – General Considerations, MOS I/V Characteristics, Second Order effects, MOS Device
+models. Short Channel Effects and Device Models. Single Stage Amplifiers – Basic Concepts, Common
+Source Stage, Source Follower, Common Gate Stage, Cascode Stage.
+Module 2:
+Differential Amplifiers – Single Ended and Differential Operation, Basic Differential Pair, Common
+Mode Response, Differential Pair with MOS loads, Gilbert Cell. Passive and Active Current Mirrors –
+Basic Current Mirrors, Cascode Current Mirrors, Active Current Mirrors.
+Module 3:
+Frequency Response of Amplifiers – General Considerations, Common Source Stage, Source
+Followers, Common Gate Stage, Cascode Stage, Differential Pair. Noise – Types of Noise,
+Representation of Noise in circuits, Noise in single stage amplifiers, Noise in Differential Pairs.
+Module 4:
+Feedback Amplifiers – General Considerations, Feedback Topologies, Effect of Loading. Operational
+Amplifiers – General Considerations, One Stage Op Amps, Two Stage Op Amps, Gain Boosting,
+Common – Mode Feedback, Input Range limitations, Slew Rate, Power Supply Rejection, Noise in Op
+Amps. Stability and Frequency Compensation.
+Module 5:
+Band gap references, Constant–Gm biasing; Introduction to switched capacitor circuits, switched
+capacitor amplifiers, noise analysis, Distortion, current and voltage references, Oscillators and PLL.
+COURSE OUTCOME:
+CO1: Students get the insight of the importance of Analog IC design and also the VLSI analog process
+flow.
+CO2: Students gain the knowledge about MOS device physics and MOS models.
+CO3: Students achieve the capability to analyze and design current mirrors, voltage and current
+reference circuits.
+5
+
+--- Page 10 ---
+CO4: Students learn the design principles of different kinds of amplifiers like the single stage MOS
+amplifiers, MOS differential amplifier, CMOS OPAMP and switched capacitor amplifiers.
+CO5: Students gain the concept of designing band gap reference circuits providing constant dc voltage
+and immune to temperature variations, noise, supply voltage fluctuations.
+CO6: Students learn to design circuits like the oscillators and PLL.
+TEXTS/REFERENCES:
+1. Behzad Razavi, Design of Analog CMOS Integrated Circuits McGraw-Hill International Edition
+2016.
+2. Sedra and Smith, Microelectronics Circuits, Oxford University Press, 2004
+3. P.R.Gray, P.J.Hurst, S.H.Lewis and R.G.Meye; Analysis and Design of Analog Integrated Circuits,
+John Wiley & Sons, Fourth Edition, 2003.
+4. D.A. Johns and K. Martin; Analog Integrated Circuit Design; John Wiley and Sons, 2004.
+5. P.E. Allen and D.R.Holberg; CMOS Analog Circuit Design; Oxford University Press, 2004.
+6. M. Ismail and Terri Fiez; Analog VLSI; McGraw Hill, 1994.
+6
+
+--- Page 11 ---
+SEMICONDUCTOR DEVICE MODELING L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ The course will provide adequate understanding of the physics behind the semiconductor
+device modeling.
+ To make students familiar with different types and procedure of semiconductor device
+modeling.
+ To discuss relevant semiconductor device theories require to learn semiconductor device
+modeling.
+ Analytical and Numerical modeling of few most common semiconductor device structures.
+COURSE CONTENT:
+Module-1
+Review of semiconductor physics: Quantum foundation, Carrier scattering, Carrier transport
+phenomena, non-equilibrium excess carriers in semiconductors, high field effects; P-N junction diode
+modeling: Static model, Large signal model and SPICE models.
+Module-2
+BJT modeling: Ebers–Moll, Static, large-signal, small- signal models. Gummel - Poon model.
+Temperature and area effects. Power BJT model, SPICE models.
+Advanced Bipolar models: VBIC, HICUM and MEXTARM; Models for metal-semiconductor contacts
+and heterojunctions. MOS Structure, MOSFET – quantum theory of 2DEG.
+Module-3
+MIS Junction/capacitor: Ideal C-V characteristics and deviations due to interface states/charges and
+work function differences, threshold voltage.
+MOS Transistors: LEVEL 1, LEVEL 2,LEVEL 3, BSIM, HISIMVEKV Models,Threshold voltage
+modeling. Punch through. Carrier velocity modeling. Short channel effects. Channel length modulation.
+Barrier lowering, Hot carrier effects. Mobility modeling, Model parameters.
+Module-4
+Analytical and Numerical modeling of BJT and MOS structures: Introduction to various simulation
+techniques, Noise modeling; Modeling of heterostructure devices. MESFET -Shockley, velocity
+saturation and universal models. HEFT - Basic and universal models.
+TEXT/REFERENCES:
+1. Solid State Electronics Device, Ben G. Streetman, Sanjay Banerjee, Pearson Prentice Hall, 2009.
+2. Semiconductor physics and devices, Donald A. Neamen,McGraw-Hill
+3. MOSFET Modeling and & BSIM3 User’s Guide, Y. Chang and C.Hu (Available in internet),
+Kluwer Academic Publisher.
+4. Semiconductor Device Modeling with SPICE G. Massobrio and P. Antognetti, McGraw-Hill,
+1998.
+5. Operation and Modeling of the MOS Transistor, Y. P. Tsividis, McGraw-Hill.
+6. Semiconductor Devices Physics and Technology, Author: Sze, S.M.; Notes: Wiley
+7
+
+--- Page 12 ---
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Explain the equations, approximations and techniques available for deriving a model with specified
+properties, for a general device characteristic with known qualitative theory.
+CO2: Apply suitable approximations and techniques to derive the model referred to above starting from
+drift-diffusion transport equations.
+CO3: Offer clues to qualitative understanding of the physics of a new device and conversion of this
+understanding into equations.
+CO4: Simulate characteristics of a simple device using SPICE.
+8
+
+--- Page 13 ---
+SEMESTER-2
+VLSI FABRICATION TECHNOLOGY L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+This course intends to impart the following knowledge to the students
+ Process flow in VLSI chip fabrication technology.
+ Silicon crystal growth and wafer preparation techniques.
+ Silicon Oxidation, doping via diffusion and Ion implantation, photolithography and etching.
+ Epitaxial, metallic and dielectric thin film deposition techniques.
+COURSE CONTENT:
+Module – 1
+Introduction to the basic steps of BJT and MOSFET based IC Fabrication technologies; Clean room
+concept and requirements, wafer cleaning and gettering; Silicon Crystal structure, defects in crystals,
+Crystal growth and wafer manufacturing techniques; Epitaxy: Vapor phase Epitaxy, auto-doping,
+Molecular Beam Epitaxy.
+Module – 2
+Oxidation: Wet and Dry oxidation, Growth kinetics and models, defects, measurement methods and
+characterization; Diffusion: Fick’s equation, atomic diffusion mechanism, measurement techniques,
+Segregation, Interfacial dopant pileup, oxidation enhanced diffusion, dopant-defect interaction; Ion-
+implantation: Basic concepts, High energy and ultralow energy implantation, shallow junction
+formation &modeling, Electronic stopping, Damage production and annealing, RTA Process & dopant
+activation.
+Module-3
+Photolithography: Light sources, Wafer exposure systems, Photoresists, Baking and development,
+Mask making, Measurement of mask features and defects, resist patterns and etched features; Etching
+Technologies: Wet etching, Plasma etching, RIE, Etching of materials used in VLSI.
+Module–4
+Thin film Deposition: Chemical and physical vapor deposition, deposition of dielectrics and metals
+commonly used in VLSI; Device Isolation: Junction and oxide isolation, LOCOS & trench isolation;
+Fabrication of Monolithic components: Resistor, Capacitor, NMOS, CMOS & BICMOS technology;
+Prototype fabrication of a CMOS inverter; Assembling techniques and packaging of VLSI chip.
+TEXTS/REFERENCES:
+1. 1.James Plummer, M. Deal and P.Griffin, Silicon VLSI Technology, Prentice Hall Electronics and
+VLSI series, 2000.
+2. SorabGhandhi, VLSI Fabrication Principles, John Wiley and Sons, 1983.
+3. S.M.Sze, VLSI Technology, McGraw-Hill, 1983.
+4. Stephen Campbell, The Science and Engineering of Microelectronics,Oxford University Press,
+1996.
+9
+
+--- Page 14 ---
+COURSE OUTCOME:
+Upon completion of the course the student will familiarize with the
+CO1: Different major steps of varied complexity involved in the process flow of fabrication of various
+components in the VLSI chip
+CO2: Detailed theoretical understanding and analysis of the each of the fabrication step
+CO3: Identify the design limit in the material used for fabrication.
+CO4: Knowledge of the thin film deposition techniques for epitaxial crystal, metals and dielectric films
+used in the VLSI fabrication process.
+10
+
+--- Page 15 ---
+CAD OF VLSI SYSTEM L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ Different VLSI design styles and flow will be introduced to the students.
+ Students will be introduced to know the alternate way of reducing complexity and delay of a complex
+circuit by logical effort
+ Students will be able to know and develop their own algorithms to solve the problems related to
+High Level Synthesis, VLSI physical design automation and testing.
+COURSE CONTENT:
+Module-1
+Different types of VLSI design styles: Full custom, standard cell based, gate array based, programmable
+logic, field programmable gate arrays etc. VLSI Design flow. High level design (scheduling, allocation
+and binding), CAD tools for VLSI design.
+Module-2
+Logical effort, path effort, logical effort calculation for different gates and circuits, logical effort to
+estimate minimum path delay, Logical effort of optimum transistor sizing.
+Module-3
+VLSI Design automation-partitioning (problem formulation, cost function, different partitioning
+approach, Kernighan-Lin, Fiduccia-Mattheyses and simulated annealing heuristic for partition), Floor
+planning (problem definition, cost function, modeling floor planning problem, approach to solve floor
+planning), Placement (problem definition, cost function, approach to solve floor planning), Global
+routing, Detailed Routing-Maze routing, Channel routing.
+Module-4
+Combinational & sequential logic synthesis issues and algorithms are discussed.Importance of VLSI
+testing,Faultmodeling, Design for testability, Fault simulation, Test generation.
+TEXTS/REFERENCES:
+1. R.H. Katz, “Contemporary logic design”, Addison-Wesley Pub. Co., 1993.
+2. M.J.S. Smith, “Application-specific integrated circuits”, Addison-Wesley Pub. Co., 1997.
+3. S. Ramachandran, “Digital VLSI systems design”, Springer, 2007.
+4. M.L. Bushnell and V.D. Agrawal, “Essentials of Electronic Testing”, Kluwer Academic Publishers,
+2000.
+5. M. Abramovici, M.A. Breuer and A.D. Friedman, “Digital Systems Testing and Testable Design”,
+Wiley-IEEE Press, 1993.
+6. J. Bhasker, “Verilog VHDL synthesis: a practical primer”, B S Publications, 1998.
+7. D.D. Gajski, N.D. Dutt, A.C. Wu and A.Y. Yin, “High-level synthesis: introduction to chip and
+system design”, Kluwer Academic Publishers, 1992.
+8. High-Level Synthesis: from Algorithm to Digital Circuit,P.Coussy and A. Morawiec, Springer,
+2008.
+9. I. Sutherland, B. Sproull and D. Harris, Logical Effort: Designing Fast CMOS Circuits, Elsevier
+10. M. Sarrafzadeh and C.K. Wong, “An introduction to physical design”, McGraw Hill, 1996.
+11
+
+--- Page 16 ---
+11. N.A. Sherwani, “Algorithms for VLSI physical design automation”, Kluwer Academic Publishers,
+1999.
+12. S.M. Sait and H. Youssef, “VLSI physical design automation: theory and practice”, World
+Scientific Pub. Co., 1999.
+COURSE OUTCOME:
+CO1: Students will get the concept of total VLSI design style, starting from basic one-time
+programmable logic to Application Specific Integrated Circuit.
+CO2: Students will be exposed to know and explore different Algorithmic Approaches to solve complex
+problem related to High Level Synthesis of circuit behavior to get efficient Register Transfer level
+realization using Computer Aided Software/Tools.
+CO3: Students will be able to know how efficiently delay of a big digital circuit will be estimated using
+logical effort and what will be the optimum stages to get the least delay.
+CO4: Students will be able to know the importance of Computer Aided (CAD) Automation for solving
+VLSI physical design problems and they will be able to develop their own CAD algorithms to solve
+physical design and Synthesis problems.
+CO5: Students will understand the importance of VLSI circuit testing and different approaches of
+VLSI testing.
+12
+
+--- Page 17 ---
+LOW POWER VLSI DESIGN L-3 T-1 P-0 4 credits
+COURSE OBJECTIVE:
+ In recent years, enormous growth has occurred in terms portability of the computation. Computing
+demands from battery operated devices are increasing rapidly.
+ This course is targeted to capture all the information regarding the existing techniques and future
+challenges for CMOS VLSI design that consumes low power.
+ It is focused on issues that are dominant in low power design under nano domain.
+ To study power components, power estimation methodologies and analysis at various levels of
+abstraction, starting from system level to behavioural, logic, circuit, gate and software level.
+ Low power design style with increasing emphasis on leakage power is explained.
+ Low power design, synthesis and optimization techniques are covered.
+ Review of Battery-aware Synthesis and Variation tolerant design are explained as a conclusion of
+the course.
+COURSE CONTENT:
+Module-1
+Low-Power Design Methodologies: an Overview: Why Low-Power? Basics of MOS circuits: MOS
+Transistor structure and device modelling, MOS inverters characteristics, delay and power estimation.
+Module-2
+Sources of power dissipation: Dynamic Power Dissipation, Static Power Dissipation and Degrees of
+Freedom, Parameters involved in power dissipation, switching activity and power estimation
+techniques. Dynamic CMOS circuits, Pass-transistor circuits.
+Module-3
+Supply Voltage Scaling Approaches: Device feature size scaling, Multi-VDD Circuits, Architectural
+level approaches, High-level transformations, Dynamic voltage scaling and Power Management,
+Switched Capacitance Minimization Approaches: Hw/Sw Trade off, Bus Encoding, 2’s complement
+Vs. Sign Magnitude Architectural optimization, Clock Gating, low power logic styles like adiabatic
+logic circuit, Low power BICMOS circuit design.
+Module-4
+Leakage Power minimization Approaches such as VTCMOS, MTCMOS, DTCMOS, Transistor
+stacking, Power Gating and others.
+Module-5
+Binary Decision Diagram representation of Boolean function, Low Power logic synthesis and
+optimization. Low power physical design, Low power gate level design, Battery-aware Synthesis and
+Variation tolerant design.
+TEXTS/REFERENCES:
+1. K.Roy and S.C. Prasad, LOW POWER CMOS VLSI circuit design, Wiley, 2000.
+2. DimitriosSoudris, ChirstianPignet, Costas Goutis, DESIGNING CMOS CIRCUITS FOR LOW
+POWER, Kluwer, 2002.
+13
+
+--- Page 18 ---
+3. J.B. Kuo and J.H. Lou, Low voltage CMOS VLSI Circuits,Wiley 1999.
+4. A.P.Chandrakasan and R.W. Broadersen, Low power digital CMOS design, Kluwer, 1995.
+5. Gary Yeap, Practical low power digital VLSI design, Kluwer,1998.
+6. AbdellatifBellaouar, Mohamed I.Elmasry, Low power digital VLSI design,S Kluwer, 1995.
+7. James B. Kuo, Shin – chia Lin, Low voltage SOI CMOS VLSI Devices and Circuits. John Wiley
+and sons, inc 2001.
+8. J. M. Rabaey and MassoudPedram, Low Power Design Methodologies, Kluwer ACADEMIC
+publishers. 1996.
+COURSE OUTCOME:
+CO1: Knowing the need for reducing power consumption of the circuit and developing low powered
+devices.
+CO2: Get to know the different components of power consumption and their estimation method.
+CO3: Capability to recognize advanced issues in VLSI systems, specific to the deep-submicron silicon
+technologies, such as Short-Channel-Effect, leakage problem etc.
+CO4: Knowing the concept of power reduction strategies and reviewing the existing Low-Power Design
+Approaches.
+CO5: Design and analysis of Low-Power Circuits, low power circuit synthesis and extending the low
+power design to different Applications.
+CO6: Understanding the need for battery management in designing low power and high-performance
+battery-powered systems.
+14
+
+--- Page 19 ---
+ELECTIVES
+VLSI TESTING AND TESTABILITY L-3 T-1 P-0 4 credits
+OBJECTIVES:
+ Students are introduced to the variety of problems encountered in semiconductor testing and that
+they are made aware of the new methods being developed to solve these problems at earlier stages
+of design.
+ Students will get the idea of how test modelling and test pattern generation are done.
+ This course is a fundamental yet comprehensive guide to new DFT methods that will show readers
+how to design a testable and quality product, drive down test cost, improve product quality and
+yield, and speed up time-to-market and time-to-volume.
+ It focuses more on basic VLSI test concepts, principles, and DFT architectures and includes the
+latest advances that are in practice today, including at-speed scan testing, test compression, at-speed
+built-in self-test (BIST), memory built-in self-repair (BISR), and test technology trends.
+ This course also focuses on memory testing and low power testing techniques.
+COURSE CONTENT:
+Module-1
+Introduction to semiconductor testing. Importance of testing as a requisite for achieving manufacturing
+quality of semiconductor devices and then identifies difficulties in VLSI testing, Defects and their
+modeling as faults at gate level and transistor level. Various types of faults. Functional vs. Structural
+approach to testing, Complexity of the testing problem, Controllability and Observability,
+Module-2
+Generating test for a single stuck at fault in combinational logic, D-algorithm, FAN and PODEM
+algorithms, Test optimization and fault coverage.
+Module-3
+The problem of testing of sequential circuits, ADHOC and structured approaches of DFT – Various
+kinds of scan design.
+Module-4
+Fault models for PLAs, Bridging and delay faults and their tests,
+Module-5
+Memory testing, testing with random patterns. The LFSRs and their use in random test generation and
+response compression (including MISRs), Built – in self-test (BIST).
+Module-6
+Basic of analog and mixed signal testing and recent advances in low power testing methodologies.
+15
+
+--- Page 20 ---
+TEXTS/REFERENCE:
+1. M.Abramoviei, M.A.Breuer and A.D.Friedman, “Digital Systems Testing and Testable Design”,
+IEEE Press, 1995 (Revised).
+2. Laung-Terng Wang Cheng-Wen Wu Xiaoqing Wen, VLSI Test Principles and Architectures
+Design for Testability, Morgan Kaufmann Publishers is an imprint of Elsevier. 500 Sansome Street,
+Suite 400, San Francisco, CA 94111-2006.
+3. V.Agrawal and S.C.Seth, “Test Generation for VLSI Chips”, IEEE CS Press, 1989.
+COURSE OUTCOME:
+CO1: Students and researchers are introduced to know the importance of testing for better quality
+product development.
+CO2: Students are able to model the defects as faults sites and understand the complexity of testing
+methodologies for different fault model.
+CO3: Students are introduced with the existing test pattern generation algorithms including LFSR based
+test generation.
+CO4: Students are exposed to the field of design for testability (DFT) architectures in an effort to help
+them design better quality products now and in the future that can be reliably manufactured in quantity.
+CO5: Students are exposed with the importance of low power testing and are encouraged to develop
+new low power testing methodologies.
+16
+
+--- Page 21 ---
+EMBEDDED SYSTEMS & IoT L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ This course is directed towards the understanding of Embedded Systems and its various
+components, as well as the concept of embedding Software into a system.
+ To equip the Engineering students with the architecture and operation of standard
+Microcontrollers like 8051, AVR and PIC.
+ To equip the Engineering students with the knowledge of Internet of Things (IoT) and the basic
+components associated with it.
+ To make the students knowledgeable about various programming technologies required for
+implementation of IoT.
+ To make the Engineering students know about the basic concepts of processes, tasks and
+threads in an Embedded system operation, as well as the concept of Real time operating
+systems.
+COURSE CONTENT:
+Module-1
+Introduction to Embedded Systems: Characteristics of Embedded systems, Software embedded into a
+system. General ideas of Processor and Memory organization - Processor and memory selection,
+interfacing to Memory and I/O devices- Devices and Buses-Device Drivers and Interrupt Servicing
+mechanisms, Hardware – software partitioning of tasks.
+Module-2
+AVR & PIC Microcontrollers:
+Microcontrollers: Brief review of the 8 bit and 32 bit microcontroller AVR, Microchip PIC, ARM
+processors-Programming, CPU Block diagram, Memory Organization, SFR s, Ports and Interfacing.
+High Speed Input, High Speed Output, Interrupts, ADC, PWM, Timers, Watch Dog Timer, Serial Port,
+I/O Port. Embedded C.
+Module-3
+Digital Signal Processors: DSP/16bit processor based embedded controllers; FPGA based embedded
+controllers.
+Module-4
+Introduction to IoT, Sensing, Actuation, Basics of Networking, Communication Protocols, Sensor
+Networks, Machine-to-Machine Communications.
+Module-5
+Introduction to Arduino Programming, Python programming, Raspberry Pi, Implementation of IoT with
+Raspberry
+Module-6
+Inter-process Communication and Synchronization of Processes, Tasks and Threads: Multiple
+Processes in an Application - Data sharing by multiple tasks and routines- Inter Process
+Communication. Introduction to Operating Systems and Real Time Operating Systems.
+17
+
+--- Page 22 ---
+COURSE OUTCOME:
+CO1: Students will be able to understand and explain the basic concept of Embedded systems and its
+various components.
+CO2: Students will be able to explain the operational characteristics of standard Microcontrollers like
+8051, AVR and PIC.
+CO3: Students will be able to understand basic components and building blocks of Internet of Things
+CO4: Students will be able to understand IoT design considerations, constraints and interfacing between
+the physical world and devices.
+CO5: Students will gain insight into the real time operating systems used in Embedded Systems.
+TEXT/REFERENCE:
+1. Santanu Chattopadhyay, ‘Embedded System Design’, PHI.
+2. Peter Marwedel, Embedded System Design, Springer, Indian Ed.
+3. Andrew N. Sloss, Dominic Symes, Chris Wright. “ARM System Developers Guide: Designing
+and Optimizing System Software”, Elsevier.
+4. Richard Barnett, Larry O’Cull, Sarah Cox, “Embedded C Programming and the Microchip PIC”,
+Delmar Cengage Learning.
+5. Prof. Satish Jain and Shashi Singh, ‘Internet of Things and its Applications’, BPB Publications.
+6. Arsheep Bahga and Vijay Madisetti, ‘Internet of Things: A Hands-On Approach’, Orient
+Blackswan Private Limited.
+18
+
+--- Page 23 ---
+VLSI SIGNAL PROCESSING L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ Introduce students to the basics of VLSI signal processing and the designing of VLSI architectures.
+ This course is directed towards the understanding of important techniques for designing efficient
+VLSI architectures for DSP.
+ What are the challenges in the implementation of DSP systems and how to overcome these
+challenges?
+ How to design a system with high throughput demanded by the real-time applications and also with
+less power and less chip area.
+COURSE CONTENT:
+Module-1
+Overview of VLSI Architectures, Typical Signal Processing Algorithms, representation of DSP
+algorithms; Iterative bound: data-flow graph representation, loop bound and iterative bound.
+Module-2
+Pipelining and parallel processing: pipelining of FIR filters, pipelining and parallel processing for low-
+power; Retiming: definition and properties, retiming techniques; Unfolding: properties of unfolding,
+critical path, unfolding and retiming; Folding: folding transformations, register minimization
+techniques.
+Module-3
+Systolic architecture design methodology, FIR systolic arrays; Fast convolution: Cook-Toom algorithm,
+Winograd algorithm, cyclic convolution; Algorithm strength reduction in filters and transforms: parallel
+FIR filters, DCT and IDCT, rank-order filters.
+Module-4
+Pipelined and parallel recursive and adaptive filters: pipeline inverting in digital filters, pipelining in
+first-order IIR filter, parallel processing for IIR filter; DSP Processors for Mobile and Wireless
+Communications, Processors for Multidimensional Signal Processing.
+TEXT/REFERENCE:
+1. K. K. Parhi, “VLSI Digital Signal Processing Systems, Design and Implementation”, John Wiley,
+1999.
+2. S.Y.Kung, “VLSI Array Processors”, Prentice-Hall, 1988
+19
+
+--- Page 24 ---
+COURSE OUTCOME:
+CO1: Students will be able to understand and explain the basic concept of VLSI signal processing and
+its various components.
+CO2: Students will be able to design hardware architecture for various DSP techniques and algorithms.
+CO3: Students will be able to understand how to reduce the area, power and delay of a DSP-based
+circuit and also able to understand how to increase the throughput and operating frequency of a DSP-
+circuit.
+CO4: Students will gain insight into the real-time operating systems used in DSP Systems.
+20
+
+--- Page 25 ---
+OPTOELECTRONICS DEVICE AND L-3 T-1 P-0 4 credits
+CIRCUITS
+COURSE OBJECTIVE:
+ To learn about the basic principles of optical fiber based circuits.
+ To have some knowledge about optical source and detector devices.
+ To be familiar with various optical amplifiers.
+ To collect some knowledge about optical guiding structures.
+ To learn the concept regarding silicon photonics.
+COURSE CONTENT:
+Module-1:
+Introduction: Generic Optical Systems and Fundamental Building Blocks.
+Module-2:
+Basics of Semi-conductor Optoelectronics: Elemental and Compound Semiconductors.
+Module-3:
+Electronic Properties and Optical Processes in Semiconductors, P-N Junction Theory, LEDs and
+Photodetectors.
+Module-4:
+Heterostructures, Confinement of Electron Waves, Optical Waveguides and Guided Modes.
+Module-5:
+Semiconductor Optical Amplifiers and Fabry-Perot Lasers, Coupled Mode Theory, DBR and DFB
+Lasers.
+Module-6:
+Silicon Photonics: Integrated Optical Passive and Active Components. Tunable Filters, Delay-Lines
+and Switching Circuits in SOI Platform. CMOS Technology: Electrical vs. Optical Interconnects.
+TEXTS/REFERENCE:
+1. Pallab Bhattacharya “Semiconductor Opto-Electronic Devices”, Prentice Hall of India.
+2. Yariv and P. Yeh “Photonics - Optical Electronics in Modern Communications”, Oxford University
+Press.
+3. M. Jamal Deen and P.K. Basu “Silicon Photonics - Fundamentals and Devices”, John Wiley & Sons
+Ltd.
+21
+
+--- Page 26 ---
+COURSE OUTCOME:
+At the end of this course the students should be able to
+CO1: Develop a basic understanding on the key concepts in quantum and statistical mechanics relevant
+to physical, electrical and optoelectronic properties of materials and their applications to optoelectronic
+devices and photonic integrated circuits that emit, modulate, switch, and detect photons.
+CO2: Become proficient with the fundamental and applied optoelectronic device physics and its
+applications.
+CO3: Learn to analyse optoelectronic device characteristics in detail and brainstorm ways towards
+improving them or adapting them to new applications.
+22
+
+--- Page 27 ---
+SEMICONDUCTOR MEMORIES L-3 T-1 P-0 4 credits
+COURSES OBJECTIVE:
+ This graduate course is focused on the comprehensive discussion of semiconductor memory design
+from transistor level architecture to complex Memory Design in Programmable Devices as well as
+ASIC.
+ To equip the Engineering students with the knowledge of volatile memory technologies such as
+Static Random Access Memory (SRAM), Dynamic RAMs (DRAM), Multi-ported RAMs, and
+Content Addressable memories (CAMs).
+ To equip the Engineering students with the knowledge of non-volatile semiconductor memories
+such as Read-Only-Memories, Resistive RAM, Magnetic RAM, FLASH and 3D memories.
+ To make the Engineering student know about the basic concepts of Memory Fault modeling and
+testing as well as general reliability and design issues of semiconductor memories.
+COURSE CONTENT:
+Module-1
+Static Random Access Memory Technologies:
+SRAM Cell Structures, MOS SRAM Architecture and Peripheral Circuit Operation, Bipolar SRAM
+Technologies, Silicon On Insulator (SOI) Technology, Advanced SRAM Architectures and
+Technologies, Application Specific SRAMs.
+Module-2
+Dynamic Random-Access Memories (DRAMs):
+DRAM Technology Development, CMOS DRAMs, DRAMs Cell Theory and Advanced Cell
+Strucutures, BiCMOS DRAMs, Soft Error Failures in DRAMs, Advanced DRAM Designs and
+Architecture, Application Specific DRAMs.
+Module-3
+Non-Volatile Memories:
+Masked Read-Only Memories (ROMs), High Density ROMs, Programmable Read-Only
+Memories(PROMs), CMOS PROMs, Erasable (UV) Programmable Read-Only Memories(EPROMs),
+Floating Gate EPROM Cell,OneTime Programmable (OTP) EPROMs,ElectricallyErasablePROMs
+(EEPROMs), EEPROM Technology and Architecture,Non-Volatile SRAM, Flash Memories(EPROMs
+or EEPROM), Advanced Flash Memory Architecture.
+Module- 4
+Memory Fault Modeling and Testing:
+RAM Fault Modeling, Electrical Testing, Peusdo Random Testing, Megabit DRAM Testing, Non-
+volatileMemoryModeling and Testing, IDDQ Fault Modeling and Testing, Application Specific
+Memory Testing.
+Module-5
+Semiconductor Memory Reliability and Radiation Effects:
+General Reliability Issues, RAM Failure Modes and Mechanism, Non-volatile Memory Reliability,
+Modeling and Failure Rate Prediction, Design for Reliability, Reliability Test Structures, Reliability
+Screening and Qualification, Radiation Effects, Single Event Phenomenon (SEP), Radiation Hardening
+Techniques and Design Issues.
+23
+
+--- Page 28 ---
+COURSE OUTCOME:
+CO1: Students will be able to identify and explain the concept and working principle of volatile memory
+technologies such as Static Random Access Memory (SRAM), Dynamic RAMs (DRAM), Multi-ported
+RAMs, and Content Addressable memories (CAMs).
+CO2: Students will be able to identify and explain the concept of various non-volatile semiconductor
+memories such as Read-Only-Memories, Resistive RAM, Magnetic RAM, FLASH and 3D memories.
+CO3: Students will be able to understand the various Memory Faults models and testing techniques of
+the semiconductor memories.
+CO4: Students will be able to understand about the reliability and design issues arising in the
+manufacturing of semiconductor memories.
+TEXT/REFERENCES:
+1. AndreiPavlov, ManojSachdev, “CMOS SRAM Circuit Design and Parametric Test in Nano-Scaled
+Technologies”, Springer Germany, 2008.
+2. Ashok K. Sharma, “Semiconductor Memories Technology, Testing and Reliability”, Prentice-Hall
+of India Private Limited, New Delhi, 1997.
+3. Fernanda Lima Kastensmidt, Ricardo Reis“Fault-Tolerance Techniques for SRAM-Based FPGAs”,
+Springer US, 2006.
+24
+
+--- Page 29 ---
+VLSI INTERCONNECTS L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+ To impart knowledge about the importance of electrical on-chip interconnects in modern VLSI
+circuits.
+ To introduce the various equivalent circuit models of interconnects and their comparison.
+ To understand the Crosstalk effects in the circuits and its analysis
+ To enable the students to understand the advanced techniques to reduce interconnect noise.
+COURSE CONTENT
+Module 1:
+Introduction to VLSI interconnects classification, Cu Interconnect, Technological trends, Interconnect
+scaling, Typical interconnect structure, Electromigration phenomenon, Signal transmission on
+interconnects, On‐chip Interconnects, Package level interconnections.
+Module 2:
+Extraction of interconnect parameters, Physics of interconnects in VLSI, physical foundations for circuit
+models of VLSI interconnects, Interconnect resistance, capacitance, inductance modelling, Extended
+Miller effect, Alternatives for extraction. Modelling interconnect drivers. Loss and Lossless
+transmission line model, Switch‐level RC model. T and π network inter connect model. Effective
+capacitance modelling. Modelling interconnect wires. General interconnect network. An RC tree. The
+transfer function. Convolution of input and impulse response. Moments of the transfer function. Impulse
+and step response of RC tree. Elmore delay. Response of single RC. Elmore delay of 2‐stage RC. RC‐
+tree. Step response of lumped vs. distributed RC line. Sample RLC network. Modified node analysis
+equations.
+Module 3:
+Active and Passive interconnections, multi-level and multi-layer interconnections, Propagation delays,
+Crosstalk effects in digital circuits, spurious signals, crosstalk induced delay, energy dissipation due to
+cross talk, crosstalk effects in VLSI circuits.
+Module 4:
+Techniques for avoiding interconnection noise, noise detection problem, brief introduction to the testing
+of logic circuits, Crosstalk configuration, DC noise margins, Crosstalk‐induced spurious signal
+detection, Reasons for high delay uncertainty, switch factor modelling of delay uncertainty, Buffer
+insertion for noise; Routing topology generation for speed optimization, Width optimization based on
+separability/monotonicity properties. Introduction to emerging interconnects (CNT, Graphene, optical
+interconnects and soon).
+TEXTS/REFERENCES
+1. Grabinski, Hartmut, Interconnects in VLSI Design, 1st Edition, Springer, 2000.
+2. C‐K.Cheng, J. Lillis, S.Lin, N. H. Chang. Interconnect Analysis and Synthesis J. Wiley, 2000.
+3. M.Celik, L.Pillegi, A.Odabasioglu. IC Interconnect Analysis. Kluwer, 2002.
+4. A.B.Kahng, G.Robins. On Optimal Interconnections for VLSI. Kluwer, 1995.
+5. Moll, Francesc, Roca, Miquel, Interconnection Noise in VLSI Circuits, 1st Edition, Springer,
+2004.
+25
+
+--- Page 30 ---
+6. J. A.Davis, J.D. Meindl. Interconnect Technology and Design for Gigascale Integration.
+Kluwer, 2003.
+7. F.Moll, M.Roca.Interconnection Noise in VLSI Circuits. Kluwer, 2004.
+COURSE OUTCOMES
+Upon successful completion of the course, the students will be able to-
+CO1: Develop the ability to analyse and design electrical interconnect using equivalent circuit models.
+CO2: Know the crosstalk effects in VLSI circuits and able to develop the ability to analyse the crosstalk
+effects.
+CO3: Know the different techniques to reduce interconnect noise related issues in the circuit.
+CO4: Know different emerging interconnects which would exhibit very low interconnect noise.
+26
+
+--- Page 31 ---
+LASER SCIENCE AND TECHNOLOGY L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+ To prepare the students understand fundamental physics behind laser light radiation.
+ To enable students familiar with Solid state, gas and semiconductor lasers.
+ How to generate ultra-short laser pulses.
+COURSE CONTENT:
+Module-1
+Laser fundamentals: Spontaneous and stimulated emission, absorption, Einstein’s coefficients,
+active medium, population inversion, laser-pumping, laser gain, metastable state, condition for
+light amplification, Optical resonator, Solid state laser: Ruby laser, Nd:YAG laser.
+Module-2
+Liquid lasers: Principle and main components of laser, levels of laser action, continuous wave
+lasers, construction and working of dye laser.
+Gas Laser: Principle, working and usefulness of gas laser, He-Ne laser, lasing action in Ion
+lasers.
+Module-3
+Semiconductor laser: Characteristics of semiconductor lasers, semiconductor diode lasers
+construction and operation of ion lasers.
+Laser fabrication, Laser in optical communication: Optical source for fiber optical
+communication, essential characteristics of laser in fibre optic communication.
+Module-4
+Fundamentals of Nonlinear Optics: Nonlinear Wave Propagation, Second Harmonic
+Generation, Phase Matching, Q-switching, mode locking.
+TEXTS/REFERENCES:
+1. Laser Fundamentals, 2nd Edition, William T. Silfvast.
+2. Lasers- Fundamentals & Applications, 2nd Edition, K. Thyagarayan and Ajay Ghatak.
+3. G.P.Agarwal, Nonlinear Fiber Optics, 4th edition, Academic
+COURSE OUTCOMES:
+Students are able to
+CO1: understand the special characteristics of laser light and optical resonator function.
+CO2: understand constructional features of different types of Lasers.
+CO3: compare different ultra-short laser pulse generation.
+CO4: Explore laser fabrication and its various applications.
+27
+
+--- Page 32 ---
+28
+
+--- Page 33 ---
+VLSI BASED CHIP DESIGN FOR L-3 T-1 P-0 4 credits
+SIGNAL AND IMAGE PROCESSING
+COURSES OBJECTIVE:
+ Discussions about the concept of non-linear signal processing and non-linear filters
+ Analysis of non-Gaussian models for signal and image processing.
+ Design of various filters in space and frequency domain for enhancement, restoration and
+segmentation of digital images.
+ To impart some knowledge about VLSI based non-linear signal and image processing.
+COURSE CONTENT:
+Module 1:
+Non-linear signal processing; non-linear filters; Non-Gaussian models, Generalized Gaussian and
+Stable distributions, robust estimation.
+Module 2:
+Medium smoothers, Rank-order filters, Weighted Median Smoother. Introduction to order statistics,
+joint densities, moments. Weighted median filtering; Link between linear and non-linear smoothers and
+filters.
+Module 3:
+Mallows Theorem. Generalized median filtering: L-estimator; tefilter, optimality, Zero-crossing (ZC)
+based spectral analysis, dominant frequency principle; ZC and level-crossing based signal
+decomposition.
+Module 4:
+Auditory models.Representation of two dimensional signals; Sampling, quantization and
+reconstruction; Digital images.
+Module 5:
+Human visual perception; Various Transforms: DFT, DCT, KLT.
+Module 6:
+Wavelet; Filtering; Edge detection; Image restoration; Compression; Segmentation; Applications.
+TEXTS/REFERENCES:
+1. Meyer-Baese, Digital Signal Processing with Field Programmable Arrays, Uwe, Springer.
+2. Parhi, Keshab K, VLSI Digital Signal Processing Systems Design Implementation, JohnWiley.
+3. G. R. Arce, Non-linear signal processing: A statistical approach, Wiley.
+4. J. Astola and P. Kuosmanen, Fundamentals of non-linear digital filtering, CRC Press.
+5. B. Kedem, Time series analysis by higher order crossings, IEEE Press.
+6. F. Maravasti, A unified approach to zero-crossings and non-uniform sampling.
+7. Anil K Jain, Fundamentals of Digital Image Processing, Prentice-Hall.
+8. Gonzales R. C., and Woods R.E., Digital Image Processing, Addison-Wesley
+29
+
+--- Page 34 ---
+COURSE OUTCOME:
+CO1: To have some knowledge of various concepts of non-linear signal and image processing.
+CO2: To be able to evaluate the performance of spatial and frequency domain filters for signal
+processing.
+CO3: To develop understanding about various non -linear filters for image processing.
+CO4: To learn about detail methodologies of image restoration, compression and image segmentation.
+CO5:To have some idea about VLSI based signal and image processing.
+30
+
+--- Page 35 ---
+TECHNOLOGY CAD L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+ To relate theory on semiconductor processing and device physics to practical technology
+development and device design considerations.
+ To get familiarized with the use of TCAD tools as a design aid in process and device simulation.
+ To visualize physical quantities and parameters at various stages of the design.
+ To study the influence of process variables on the device performance.
+ To provide a general framework that should allow students to understand the working methodology
+of TCAD and, more generally, of CAD. Another goal of the course is provide an intuitive feeling
+of the physics of the semiconductor devices, which are at the heart of each electronic system.
+COURSE CONTENT:
+Module-1
+Introduction and overview; History and structures; the role of TCAD for Semiconductor technology
+development.
+Module-2
+TCAD principles; Tool integration; Structure editing and mesh generation.
+Module-3
+Process technology Si, Si-Ge, III-V semiconductors; Process simulation – general; Simulation of device
+characteristics; Device level simulation challenges.
+Module-4
+Introducing new device models; Hetero junction device modeling; Simulation of silicon germanium
+HBTs; Simulation of hetero structure FETs; Simulation of AlGaAs/GaAs devices.
+Module-5
+VWF automation tools; Example of VWF methodology; Extraction of DC and AC SPICE model
+parameters; Small signal AC analysis for CMOS and bipolar transistors.
+Module-6
+Application of mixed-mode simulation; TCAD calibration procedure; Integration into the CADENCE
+design framework.
+TEXTS/REFERENCES:
+1. C.Snowden,“Introduction to Semiconductor Device Modeling”, World Scientific, 1986.
+2. “Technology Computer Aided Design” by Chandan Kumar Sarkar Released September
+2018Publisher(s): CRC Press ISBN: 9781466512665
+3. Y. Tsividis and C. McAndrew,“MOSFETmodeling for Circuit Simulation”, Oxford University
+Press, 2011.
+COURSE OUTCOME:
+31
+
+--- Page 36 ---
+CO1: Develop Device structure, do the structure editing and also generate mesh using the TCAD tools.
+CO2: Simulate characteristics of a simple device using MATLAB, SPICE and ATLAS /SYNOPSYS
+CO3: Derive Hetero junction device model and simulate the characteristics.
+CO4: Create device structures and impurity distributions through process-dependent numerical
+simulation using VWF automation tools.
+CO5: Apply mixed-mode simulation and also understand the TCAD calibration procedure.
+32
+
+--- Page 37 ---
+NANOELECTRONIC DEVICES L-3 T-1 P-0 4 credits
+COURSE OBJECTIVES:
+The course intends to impart the following knowledge to the students
+ Explain the fundamental science behind nanoelectronics and review the electronic properties of low
+dimensional structures.
+ To introduce the students to nanoelectronics, nanoscale devices, spintronics.
+ To introduce the students to non-classical and advanced MOSFET configurations.
+ To introduce optical and sensor device based on nanostructured materials.
+COURSE CONTENT:
+Module-1
+Review of the fundamentals of quantum Mechanics – From classical electronics to nanoelectronics;
+Electronic properties of low dimensional structures – quantum wells, quantum wires, quantum dots.
+Module-2
+Charge and spin in single quantum dots, Coulomb blockage, Electron in mesoscopic structure, single
+electron transfer devices (SETs), Electron spin transistor, Resonant tunnel diodes, Tunnel FETS,
+Quantum Interference transistors (QUITs), Quantum dot cellular automata (QCAs), Quantum dot array,
+Quantum computer, Quantum bits (qubits)
+Module-3
+Fundamentals of Silicon MOSFET Devices, scaling rules, Gate oxide tunneling and hot electron effects
+in nano MOSFET, Advanced MOSFETS- Tirigate FETs, FinFETs-CMOS, Nanowire FET, CNT FET,
+Graphene Transistors, Molecular electronics and Molecular SETs.
+Module-4
+Quantum well lasers, Quantum dot lasers, Quantum wire lasers, LEDs based on nanostructures (wires,
+tubes, rods and dots), Sensors devices using nanostructured materials.
+TEXTS/REFERENCES:
+1. Griffiths D J, “Introduction to quantum mechanics”, 2nd Edition, Pearson Education (2015).
+2. Hanson G W, “Fundamentals of Nanoelectronics”, 1stEditition, Pearson Education (2009).
+3. Nanoelectronics and Information Technology: Advanced Electronic Materials and Novel Devices”,
+Edited by Rainer Waser, 3rd Edition, Wiley-VCH, 2012.
+4. SadamichiMaekawa, “Concepts in Spin Electronics”, Oxford Unversity Press, 2006.
+5. Banyai. L and Koch. S.W “Semiconductor Quantum Dots”, World Scientific, 1993.
+6. K.Goser, P. Glosekotter and J. Dienstuhl, “Nanoelectronics and Nanosystems-From transistors to
+molecular quantum Devices”, Springer, 2004.
+7. Ping Sheng,Zikang Tang, “Nanoscience and Technology: Novel stricture and phenomena”, CRC
+Press; 1st edition (2003).
+33
+
+--- Page 38 ---
+COURSE OUTCOMES:
+Upon completion of the course the students will familiarize with
+CO1. The fundamental concepts of quantum mechanics behind this nanoscale technology.
+CO2. Concepts and operation of different types of non-classical and novel nanoelectronic devices.
+CO3. Advanced MOSFET and FET based on nanomaterials.
+CO4. The application of the technology in optoelectronics and sensor devices
+34
+
+--- Page 39 ---
+SYNTHESIS AND CHARACTERIZATION L-3 T-1 P-0 4 credits
+OF NANOMATERIALS
+COURSE OBJECTIVE:
+The course intends to impart the following knowledge to the students
+ General introduction to the nanomaterials and their synthesis strategies.
+ Physical and chemical synthesis methods of nanomaterials following Top down and Bottom up
+approach and investigation of the different factors influencing the properties and structure of the
+synthesized material.
+ Advanced physical nanofabrication technique for the preparation of 1D and 2D nanostructure
+including nano devices.
+ Microscopic, structural and spectroscopic characterization techniques of nanomaterials.
+COURSE CONTENT:
+Module-1
+Nanomaterials: Introduction, classification, properties, Applications, challenges and risk assessment;
+Top down synthesis approach: Mechanical milling, Laser ablation, Arc discharge, Optical lithography,
+Electron beam lithography, Ion beam lithography, Soft lithography, Nanoimprint lithography, Scanning
+probe lithography, Dip pen lithography, Templated etching, Electrochemical etching, Selective
+dealloying, Anisotropic dissolution, Thermal decomposition.
+Module-2
+Bottom up synthesis approach: Inert gas condensation technique, Vapor deposition and different types
+of epitaxial growth techniques (CVD, MOCVD, MBE, ALD), Pulse laser deposition, Magnetron
+sputtering, Vapour liquid solid growth, Spray pyrolysis, Electrospraying and spin coating routes. Sol-
+gel method, solvo-thermal and hydrothermal, Precipitation, Self-assembled monolayers (SAMs),
+Langmuir Blodgett (LB) films, Micro emulsion polymerization, Template based synthesis of
+nanomaterials, Electrochemical and electrophoretic deposition.
+Module-3
+Surface Imaging and Structural characterization: X-Ray diffraction, Transmission Electron Microscopy
+(TEM), Scanning Electron Microscopy (SEM), Selected Area Diffraction (SAED), Scanning tunneling
+microscope (STM), Atomic force microscopy (AFM).
+Module-4
+Spectroscopic Technique: Infrared (IR) spectroscopy, UV-Visible-NIR spectroscopy, Raman
+Spectroscopy, Photoluminescence (PL), Cathodeluminescence (CL), X-Ray Photoelectron
+Spectroscopy (XPS), Auger Electron Spectroscopy (AES), Energy dispersive X-ray spectroscopy
+(EDAX)
+TEXTS/ REFERENCES:
+1. Guozhong Cao, “Nanostructures and Nanomaterials: Synthesis: Properties and Application”,
+Imperial College press, London, 2004.
+2. T. Pradeep, “Nano: The Essential Understanding nanoscience and nanotechnology”, Tata
+McGrawHill Publishing Company Limited, New Delhi, 2007
+35
+
+--- Page 40 ---
+3. A. S Edelstein and R C Cammarata, “Nanomaterials Synthesis, Properties and Applications”, IOP
+Publishing Ltd 1996.
+4. D.K Schroder, “Semiconductor Material and Device Characterization”, John Wiley & Sons, New
+York, 1998.
+5. Yang Leng, “Material Characterization: Introduction to Microscopic and Spectroscopic Methods”
+2nd Edition, Wiley-VCH, 2nd edition (2013).
+6. Charles Evans, Richard Brundle, Wilson“Encyclopedia of materials Characterization: Surfaces,
+Interfaces, Thin Films” Butterworth-Heinemann; Braille edition (1992).
+COURSE OUTCOME:
+Upon completion of the course the students would familiarize with-
+CO1: Identification of different class of nanostructured materials based on their dimension and
+associated risk assessment.
+CO2: Some of the applications of nanomaterials and their societal and environmental application.
+CO3: Different strategies for synthesis of nanomaterials and fabrication of nanodevices.
+CO4: Techniques for characterization of the nanomaterials.
+36
+
+--- Page 41 ---
+AN INTRODUCTION TO ELECTRONIC L-3 T-1 P-0 4 credits
+SYSTEMS PACKAGING
+COURSE OBJECTIVES:
+This course intends to impart the following knowledge to the students
+ Packaging hierarchy and aspects of handheld products, process flowchart, wafer preparation and
+testing.
+ Single-chip and multi-chip modules, system in package and hybrid circuit packaging aspects.
+ Electrical parasitic issue consideration, printed wiring board technologies.
+ To discuss various aspects of interconnection CAD for printed wiring boards.
+ It is focused on the issues of thermal design considerations in systems packaging.
+ To discuss various aspects of embedded passives technology.
+COURSE CONTENT:
+Module- 1
+Overview of electronic systems packaging: Introduction and Objectives of the course; Definition of
+a system and history of semiconductors; Products and levels of packaging; Packaging aspects of
+handheld products; Case studies in applications; Definition of PWB. Single chip packages or modules
+(SCM); Commonly used packages and advanced packages-Materials in packages; Thermal mismatch
+in packages- Current trends in packaging; Multichip modules (MCM)-types; System-in-package (SIP);
+Packaging roadmaps, Hybrid circuits.
+Module- 2
+Semiconductor Packaging Overview and Electrical Design considerations in systems packaging:
+Basics of Semiconductor and Process flowchart; Wafer fabrication; inspection and testing; Wafer
+packaging; Packaging evolution; Chip connection choices; Wire bonding. Electrical Issues-Resistive
+Parasitic, Electrical Issues – II; Capacitive and Inductive Parasitic, Layout guidelines and the Reflection
+problem.
+Module- 3
+Interconnection CAD for Printed Wiring Boards: Quick Tutorial on packages, Benefits from CAD,
+Introduction to DFM, DFR & DFT; Components of a CAD package and its highlights, Design Flow
+considerations – Beginning a circuit design with schematic work and component layout, Demo and
+examples of layout and routing, Technology file generation from CAD, DFM check list and design
+rules, Design for Reliability.
+Module- 4
+Printed Wiring Board Technologies- Board-level packaging aspects: Review of CAD output files
+for PCB fabrication; Photo plotting and mask generation; Process flow-chart; Vias; PWB substrates;
+Substrates continued; Video highlights; Surface preparation; Photoresist and application methods; UV
+exposure and developing; Printing technologies for PWBs; PWB etching, Resist stripping, Screen-
+printing technology Through-hole manufacture process steps, Panel and pattern plating methods, Solder
+mask for PWBs; Multilayer PWBs; Introduction to microvias, Microvia technology and Sequential
+build-up technology process flow for high-density interconnects Conventional Vs HDI technologies;
+Flexible circuits.
+37
+
+--- Page 42 ---
+Module- 5
+Surface Mount Technology: SMD benefits; Design issues; Introduction to soldering; Reflow and
+Wave Soldering methods to attach SMDs; Solders-Wetting of solders, Flux and its properties, Defects
+in wave soldering; Vapour phase soldering, BGA soldering and Desoldering/Repair; SMT failures;
+SMT failure library and Tin Whiskers; Tin-lead and lead-free solders; Phase diagrams; Thermal profiles
+for reflow soldering; Lead-free alloys, Lead-free solder considerations; Green electronics; RoHS
+compliance and e-waste recycling issues.
+Module- 6
+Thermal Design considerations in systems packaging.
+Module- 7
+Embedded Passives Technology: Introduction to embedded passives; Need for embedded passives;
+Design Library; Embedded resistor processes; Embedded capacitors; Processes for embedding
+capacitors; Case study examples.
+TEXTS/REFERENCES:
+1. Integrated Circuit Packaging, Assembly and Interconnections, William J. Greig, Springer.
+2. An Introduction to Electronics Systems Packaging, G. V. Mahesh.
+3. Introduction to System-on-Package, Rao R Tummala&MadhavanSwaminathan, McGraw Hill.
+4. Fundamentals of Microsystems Packaging, Rao R. Tummala, McGraw Hill.
+5. Essentials of electronic packaging: a multidisciplinary approach, PuligandlaViswanadham,
+DerejeAgonafer, ASME Press.
+COURSE OUTCOME:
+Upon completion of the course students are expected to demonstrate knowledge, skill and abilities in
+the following areas:
+CO1: Student masters the essential knowledge of electronics packaging including package types or
+forms, hierarchy and methods of packaging necessary for various environments.
+CO2: Students will be able to understand about the semiconductor packaging, system packaging and
+printed circuit board technologies.
+CO3: Students will be able to understand the various thermal aspects of system packaging.
+CO4: Ability to distinguish between engineering performance and economic considerations to develop
+cost-efficient and high performance packaging approaches.
+CO5: Students should be able to predict the reliability of electronic components and structures.
+38
+
+--- Page 43 ---
+ADVANCED COMPUTER ARCHITECTURE L-3 T-1 P-0 4 credits
+AND PROCESSOR DESIGN
+COURSE OBJECTIVES:
+ To discuss basic computer architecture with both control flow and data flow designs.
+ To discuss the ISAs of some processors.
+ To discuss concepts of pipelining and the design problems associated with it.
+ To discuss various aspects of single cycle vs. multi cycle design.
+ To discuss in order and out of order execution and their benefits and drawbacks.
+ To discuss data transfer methods within the processor.
+COURSE CONTENT:
+Module-1
+Instruction Set Architecture (ISA) and Microarchitecture: ISA Principles and Trade-offs, RISC and
+CISC, Instruction Classes, Semantic Gap, Translation, MIPS and X86 ISA.Single Cycle and Multi
+Cycle Microarchitecture, Control and Data path.
+Module-2
+Pipelining: Pipelining basics, Ideal Pipeline, Pipeline Stalls, Data and Control Dependencies, Resource
+Contention, Data Dependence and Control Dependence handling.
+Module-3
+Branch Prediction: Misprediction penalty, BTB, Branch prediction techniques (Static and Dynamic),
+Out of Order Execution.
+Module-4
+SIMD Processing: Vector and Array Processors.
+Module-5
+The Memory Hierarchy: Memory System, DRAM and SRAM, Cache Memories, Direct mapped
+cache, Set-associative cache, Fully associative cache, Cache replacement policies, Cache Write
+Handling.
+Module-6
+Virtual Addressing: Basic Mechanism, Paging, Page Fault, Address translation, Page Replacement
+algorithms, Access Control, Privilege Levels.
+Module-7
+Multiprocessors: Parallel Speed-up, Amdahl’s Law, Interconnects.
+39
+
+--- Page 44 ---
+TEXTS/REFERENCES:
+1. Hennessy and Patterson, Computer Architecture: A Quantitative Approach, Elsevier.
+2. Morris Mano, Computer System Architecture, Pearson.
+3. Dally and Towels, Principal and Practices of Interconnection Networks, Elsevier
+COURSE OUTCOME:
+After the completion of the course, students:
+CO1: Will have an idea of current challenges being faced in microprocessor design and the research
+trends to solve those problems.
+CO2: Will have a basic idea about ISA.
+CO3: Will have an understanding of memory design issues.
+CO4: Will learn about multicore processor design issues.
+CO5: Will have a knowledge of on chip networking.
+40
+
+--- Page 45 ---
+HARDWARE SECURITY L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ To have an understanding of the fundamentals of Cryptography.
+ To know thegoalsofHardware Security.
+ To have a knowledge of Private Key Encryption and Public Key Encryption and their hardware
+implementations.
+ To understand side channel attacks.
+ To have a knowledge of Physically Unclonable Function (PUF).
+ To know the importance of IP protection.
+COURSE CONTENT:
+Module-1
+Introduction to Modern Symmetric Key Cryptography and Public Key Cryptography:
+Mathematical background for cryptography and introduction to hardware security. Symmetric key
+ciphers: AES. Asymmetric Key Ciphers: RSA cryptosystem, Elliptic curve cryptography. Hardware
+design of AES.
+Module-2
+Design of Finite Field Arithmetic on FPGAs: Finite Field Multiplier, Karatsuba Multipliers for
+Elliptic Curves, Analyzing Karatsuba Multipliers on FPGA Platforms, Finite Field Inversion
+Architecture for FPGAs, Itoh-Tsujii Inversion Algorithm, the Quad ITA Algorithm.
+Module-3
+Implementation of Elliptic Curve Scalar Multiplication on FPGAs: The Elliptic Curve Crypto-
+processor, Acceleration Techniques of the ECC Processor, Pipelining Strategies for Scalar Multiplier.
+Module-4
+Side Channel Attacks: Types of Side Channel Attacks, Power Attacks, Fault Attacks, Cache Attacks,
+Scan Chain-Based Attacks.
+Module-5
+Physically Unclonable Functions (PUF): Classification of PUFs, PUF implementations, PUF Quality
+Evaluation, Applications of PUF, Attacks Model.
+Module-6
+Intellectual Property Protection: Modern IC Design and Manufacturing Practices and Their
+Implications: Hardware Intellectual Property (IP) Piracy and IC Piracy, Design Techniques to Prevent
+IP and IC Piracy.
+Module-7
+Hardware Trojans: Hardware Trojan Taxonomy, HT Detection Methods, HT Prevention.
+41
+
+--- Page 46 ---
+TEXT/REFERENCES:
+1. Debdeep Mukhopadhyay and Rajat Subhra Chakraborty, "Hardware Security: Design, Threats, and
+Safeguards", CRC Press.
+2. Forouzan and Mukhopadhyay, “Cryptography and Network Security”, McGraw Hill.
+COURSE OUTCOME:
+After the completion of the course, students will:
+CO1: Have an idea about the basics of cryptography.
+CO2: Have knowledge of designing finite field arithmetic on FPGA.
+CO3: Have knowledge of different types of attacks.
+CO4: Learn to implement encryption algorithms on hardware.
+CO5: Have knowledge of IP protection.
+42
+
+--- Page 47 ---
+MEMS AND MICROSYSTEM L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+ The course will provide adequate understanding of the physics behind the MEMS and
+Microsystems
+ To make students familiar with different types microsystems useful in Industries.
+ To discuss MEMS device fabrication technique.
+ To discuss different MEMS Device theories and their Characterization.
+COURSE CONTENT:
+Module 1. Introduction to MEMS
+Brief overview of: MEMS, Microsystems & Microelectronics Introduction to Micro fabrication,
+Micro sensors, Micro actuation, Micro accelerometers, Micro fluidics. MEMS & microsystem
+application in Electrical, Electronics, Mechanical and Bio-Medical fields.
+Module 2: MEMS Materials and Their Properties
+Most popular Materials used in MEMS & Microsystems, and theirs properties: Young modulus,
+Poisson’s ratio, density, Piezo-resistive coefficients, Temperature Coefficient of Resistance,
+Thermal Conductivity. Selection criterion of MEMS materials based on filed applications.
+Module 3: MEMS Fabrication Processes
+Understanding MEMS Fabrication Processes & parameters for: Cleaning, Growth & Deposition, Ion
+Implantation & Diffusion, Annealing, Lithography, Etching, Bulk & Surface Micromachining, Surface
+Micromachining, The LIGA Process. Selection of MEMS Fabrication processes based on Applications.
+Module 4: MEMS Devices
+Understanding the Architecture, working and basic principle of: Micro-heaters, Accelerometers,
+Pressure Sensors, Digital Micrometer Device. Understanding steps involved in Design and
+fabrication of the above devices.
+Module 5: MEMS Device Characterization
+Piezo-resistance, TCR, Stiffness, Adhesion, Vibration, Resonant frequency, & importance of
+these measurements in studying device behavior, MEMS Reliability.
+TEXT/REFERENCES:
+1. Analysis and Design Principles of MEMS Devices - Minhang Bao; Publisher:
+Elsevier Science
+2. An Introduction to Microelectromechanical Systems Engineering; 2nd Ed - by N.
+Maluf, K Williams; Publisher: Artech House Inc
+43
+
+--- Page 48 ---
+3. Microsystem Design - by S. Senturia; Publisher: Springer
+4. Micro Electro Mechanical System Design - by J. Allen; Publisher: CRC Press
+5. Fundamentals of Microfabrication - by M. Madou; Publisher: CRC Press; 2nd Ed
+6. Analysis and Design Principles of MEMS Devices - Minhang Bao; Publisher:
+Elsevier Science.
+COURSE OUTCOME:
+After successful completion of the course the students will be able to:
+CO1: Understand the underlying fundamental principles of different MEMS and
+Microsystem.
+CO2: Develop the concept of MEMS device oper Develop the concept of MEMS device operation,
+fabrication and characterization.
+CO3: Know the MEMS materials and their physical properties which makes them useful for MEMS.
+CO4: Understand different concepts of micro system sensors and actuators for real-world
+applications.
+44
+
+--- Page 49 ---
+LOGIC SYNTHESIS AND VERIFICATION L-3 T-0 P-0 3 credits
+COURSE OBJECTIVE:
+This course intends to impart the following knowledge to the students
+ To provide an introduction to the fundamentals of Computer-Aided Design for the modelling,
+design, analysis, test, and verification of digital Very Large-Scale Integration (VLSI) systems.
+ To optimize the Digital Logic Circuits using the two-level, multi-level and multi-valued logic.
+ To impart the knowledge of functional verification and equivalence checking.
+ Infer the knowledge of Static Timing Analysis in VLSI logic design and verification
+methodologies.
+ To develop HDL code and test benches to simulate combinational and sequential circuits for
+design and verification.
+COURSE CONTENT:
+Module- 1
+Introduction: Introduction to VLSI Logic Synthesis, Opportunities and Challenges in VLSI,
+VLSI Design Process, Logic circuit decomposition techniques, Optimal Logic Synthesis,
+Trade-off nature, Graph Algorithms and complexity, Asymptotic Complexity.
+Module- 2
+Two-Level, Multi-Level and Multi-Valued Logic Optimization: Two level: exact logic
+minimization, heuristic logic minimization. Multi-level: Algebraic method, Boolean methods,
+functional decomposition. Multi-Valued: Functions, Functional completeness, Chain-based
+post algebra, function representation and optimization, Concept of Don’t care conditions.
+Binary Decision Diagram, AND-Inverter Graph based Decomposition, Finite State Machine
+Minimization.
+Module- 3
+Technology Mapping & Transformation: Introduction, Graph covering and technology
+mapping, Choice of base functions, DAG covering problem, Tree covering by dynamic
+programming, Pattern matching, Gate Delay models, Logic Transformations and Trends.
+Module- 4
+Verification Techniques & Equivalence Checking: Introduction to Hardware verification
+and methodologies, SAT and ATPG, problem formulation, Combinational Deterministic
+ATPG, SAT Algorithms, Search acceleration techniques, Implementation Issues, Temporal
+Logic: Introduction and Basic Operations on Temporal Logic, Syntax and Semantics of Computation
+Tree Logic (CTL), Equivalence between CTL Formulas.
+Module- 5
+Static Timing Analysis: Introduction, Basic principle, STA with ideal clocks, flip-flop
+behavior analysis using state diagrams, STA using clock jitters, Incremental Timing Analysis,
+Statistical Timing Analysis, Interconnects and delay calculation, On-chip variations, Timing
+Arc, Setup and Hold time, Setup and Hold violation.
+45
+
+--- Page 50 ---
+Module- 6
+Introduction of Logic Synthesis using Verilog HDL: Structural models of combination logic,
+logic simulation, design verification, test methodology, propagation delay, truth table models
+of combinational and sequential logic with Verilog modules, ports, gate types, gate delays,
+dataflow modelling, continuous assignments delays, expressions, operators, operands, operator
+types.
+TEXT/REFERENCES:
+1. Logic Synthesis and Verification, Soha Hassoun, Tsutomu Sasao, Kluwer Academic
+Publisher, 2002.
+2. Logic Synthesis and Verification Algorithm, G.D. Hachtel, F. Somenzi, Kluwer
+Academic Publisher, 1996.
+3. Logic Synthesis, Srinivas Devadas, Kurt Keutzer, Abhijit Ghosh, McGraw-Hill
+Professional Publishing.
+4. Computer Aided Design and VLSI Device development, Kit Man Cham, SooYoung Oh,
+Daeji Chin, John L. Moll, Springer, 2012.
+5. M. Huth and M. Ryan, Logic in Computer Science modeling and reasoning about systems,
+Cambridge University Press, 2nd Edition, 2004.
+6. S. Palnitkar, Verilog HDL: A Guide to Digital Design and Synthesis, Prentice Hall, 2nd
+edition, 2003.
+COURSE OUTCOME:
+After successful completion of the course students are expected to demonstrate knowledge,
+skill and abilities in the following areas.
+CO1: Student masters the essential knowledge of digital logic design and different methods of
+decomposition techniques.
+CO2: Students are able to illustrate the technology mapping using two-level, multi-level and
+multi-valued logic.
+CO3: Students can design algorithms to perform hardware verification and equivalence checking.
+CO4: Students can demonstrate the different aspects of static timing analysis.
+CO5: Students are able to write the Verilog HDL for digital logic design and verification
+purposes.
+46
+
+--- Page 51 ---
+Mixed Mode VLSI Circuit Design L-3 T-0 P-0 3 credits
+Courses objective:
+ To introduce the students to the design principles and performance measures of mixed mode
+VLSI circuits.
+ To enable the students to solve theoretical and practical problems related to mixed mode VLSI
+circuits.
+ To enable the students to efficiently analyze and design circuits for mixed mode VLSI Domain.
+Course content:
+Module1: Mixed-Signal design concepts and performance measures. Switched capacitor
+circuit- principles and applications in filter design- design of frequency and Q tunable
+continuous time filters. Comparators- Characterization - Two stage comparators - open loop
+comparators.
+Module 2: Sample and hold and trans-linear circuits: Performance of sample-and-hold
+circuits - testing sample and holds, MOS sample-and-hold basics, examples of CMOS S/H
+Circuits, bipolar and BiCMOS sample-and-hold, trans-linear gain cell, trans-linear multiplier.
+Module 3: Data converter fundamentals - DC and dynamic specifications - quantization
+noise - Nyquist rate D/A converters - decoder based converters - binary scaled converters -
+thermometer code converters - hybrid converters - Nyquist rate A/D converters - Successive
+approximation, Flash, interpolating, Folding, Pipelined, Time-interleaved converters.
+Module 4: Phase-locked loop basics; PLL dynamics; frequency synthesis; all-digital PLLs.
+Mismatch Issues in Analog Layouts, Introduction to RF IC Design.
+Course outcome:
+After taking this course
+CO1: Students learn the design concepts and performance measures of mixed-mode VLSI design.
+CO2: Students gain the concept of circuit design like the filters and comparators.
+CO3: Students learn the design concepts of Sample and hold and trans-linear circuits.
+CO4: Students learn the design principles related with data converters like the D/A converters and
+A/D converters.
+CO5: Students learn to analyze and design circuits like the Phase-locked loop.
+Essential Reading:
+1. R. Jacob Baker, “CMOS Mixed-Signal Circuit Design”, Wiley Inter-Science, 2003.
+2. Tony Chan Carusone, David A. Johns, Kenneth W. Martin, “Analog Integrated Circuit Design”,
+Wiley, 2011.
+47
+
+--- Page 52 ---
+Supplementary Reading:
+1. R.Gregorian and G.C.Temes, “Analog MOS Integrated Circuits for Signal Processing”, John Wiley
+and
+Sons, 2004.
+2. Rudy van de Plassche, “CMOS integrated Analog- to Digital and Digital to- Analog converters”,
+Kluwer academic publishers, 2003.
+3. P.E. Allen and D.R.Holberg, “CMOS Analog Circuit Design”, Oxford University Press, 2004.
+4. Behzad Razavi, Design of Analog CMOS Integrated Circuits McGraw-Hill International Edition
+2016
+48
+
+--- Page 53 ---
+METAHEURISTIC ALGORITHMS AND L-3 T-0 P-0 3 credits
+THEIR APPLICATIONS
+COURSE OBJECTIVE:
+ Understanding computational intelligence techniques and methods, particularly metaheuristic
+algorithms for optimization problem
+ Learning the use of software tools which are specific for computational intelligence.
+ Ability to conduct research activity and to prepare reports on a given topic.
+COURSE CONTENT:
+Module-1
+Introduction: Classes of difficult problems (planning, assignment, selection, adaptation, prediction)
+and corresponding search spaces, classes of metaheuristics, overall structure of a metaheuristic
+algorithm.
+Module-2
+Overview of Heuristic and Meta-Heuristic Search: Deterministic local search (Pattern Search,
+Nelder Mead), Random local search (Matyas and Solis-Wets algorithms), Global search (restarted local
+search, iterated local search, simulated annealing, tabu search, variable neighbourhood search etc).
+Module-3
+Population-based metaheuristics: Overall structure, Main components (exploration and exploitation
+operators), Operators for evolutionary algorithms: mutation, crossover, selection, Encoding types,
+Genetic algorithms, evolution strategies, evolutionary programming, genetic programming. Swarm
+Intelligence: Ant colony optimization, Particle swarm optimization, Artificial bee colony. Difference-
+based and Probabilistic Algorithms: Differential Evolution, Population Based Incremental Learning,
+Estimation of Distribution Algorithms, Bayesian Optimization Algorithms.
+Module-4
+Scalability of Metaheuristic Algorithms: Cooperative coevolution, Parallel models for population-
+based metaheuristics
+Multi-objective/ multi-modal/ dynamic optimization: Particularities of multi-objective optimization
+(non-domination, Pareto front etc), Apriori and aposteriori techniques, Quality metrics, Multi-modal
+optimization and specific approaches (niching, sharing etc), Techniques for dynamic optimization
+(hyper-mutation, random immigrants, ageing mechanisms).
+Applications of metaheuristic algorithms in engineering problem solving.
+TEXTS/ REFERENCES:
+1. Mohammad Solgi, Hugo A. Loáiciga, Omid Bozorg-Haddad, Meta-heuristic and Evolutionary
+Algorithms for Engineering Optimization, Wiley
+2 Ke-Lin Du, M. N. S. Swamy, Search and Optimization by Metaheuristics: Techniques and
+Algorithms Inspired by Nature, Birkhauser
+3. Xin-She Yang, Nature-Inspired Optimization Algorithms, Elsevier
+49
+
+--- Page 54 ---
+COURSE OUTCOME:
+CO1: Present basic principles of metaheuristic techniques.
+CO2: Identify & apply the appropriate technique to a given problem.
+CO3: Implement and validate a computational model based on metaheuristic algorithms
+CO4: Present examples of metaheuristics for global, multi-modal, multi-criteria and dynamic
+optimization.
+CO5: Solve a real-world problem using computational intelligence tools.
+50

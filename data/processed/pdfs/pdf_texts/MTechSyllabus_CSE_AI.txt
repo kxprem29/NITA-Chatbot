@@ -1,0 +1,2125 @@
+
+--- Page 1 ---
+Detail Syllabus
+M.Tech in Computer Science and Engineering
+With specialization in
+Artificial Intelligence
+Under Computer Science and Engineering Department, NIT Agartala
+Major Area / Department: Computer Science and Engineering
+Specialization: Artificial Intelligence
+Updated on: 6th September 2021
+Department
+Institute
+National Institute of
+Computer Science and Engineering Department
+Technology Agartala
+APJ Abdul kalam Block
+NIT Agartala, Agartala,Tripura(West), India,799046
+P.O: NIT Agartala,Tripura(West), India,799046
+Tel.: (0381) 234 6630 / 234 8511
+Fax : (0381) 234 6360
+Email: nita.director@gmail.com
+http://www.nita.ac.in
+1
+
+--- Page 2 ---
+Title of Curriculum
+M.Tech in Artificial Intelligence as specialization
+Under Computer Science and Engineering Department, NIT Agartala
+Objectives of the AI Specialization
+In the recent decades, artificial intelligence, popularly known as AI, has received much attention for
+its wide-spread applications in real-world problems of diverse domains. AI is a very broad field of
+study falling under the rubric of Computer Science that aims at solving computationally hard
+problems by mimicking human-like and biologically inspired approaches. Theoretical aspects of AI
+include logic and reasoning, machine learning (ML), intelligent search, intelligent planning,
+coordination and perception. In recent times, ML is receiving much popularity for its scope of
+handshaking with emerging areas like Data Science, Cognitive Science and Robotics.
+This program would provide students an opportModuley to learn both foundation and experimental
+components of AI and Machine Learning. A student, on completion of this program, will be able to
+undertake industry careers involving innovation and problem-solving using Artificial Intelligence (AI)
+and Machine Learning (ML) technologies and research careers in AI, ML, and Data Science, in
+general. Along with courses that provide specialization in AI, students will also have option to explore
+some applied domains such as computer vision, natural language processing, robotics, and software
+analysis.
+Major aspects of the programme,
+1) Theoretical foundations: This will include the mathematical background required for the
+subjects.
+2) Application of Theory: This will include courses where the fundamentals and advanced
+concepts (subjects) could be implemented.
+3) Thesis/Project Work: Covering the application of the concepts learned or research,
+oriented work.
+The programme is able to:
+1. Build mathematical foundations for studying AI. (Core subjects)
+2. Once the foundations are built, give options to the students to choose their domain of
+interest (Computer Vision, Speech, Text, Robotics etc.) so that they can apply the concepts
+learned. (Elective subjects).
+• Annexure ,I
+Detail Syllabus
+Class room available YES
+Labs available YES
+Number of existing Faculty in the areas of Artificial Intelligence and 8
+allied fields in NITA CSE Department
+Duration of Program 2 year (4 Semester)
+10
+Total Number of Intake
+Existing institute rules
+Academic eligibility
+for MTech Program
+2
+
+--- Page 3 ---
+Vision
+To be an academic leader in the areas of Computer Science and Engineering, Information
+Technology and other potential of Computer Science with worldwide recognition.
+Mission
+1) Provide high quality graduate educational programs in Computer Science and
+Engineering.
+2) Contribute significantly to the research and the discovery of new knowledge and
+methods in computing.
+3) Offer expertise, resource and service to the community.
+4) To retain the present faculty members by providing opportunities for professional
+development.
+Program Educational Objectives (PEO’s)
+PEO-1: To impart advance theoretical and practical Knowledge, enhance skills to design, test
+and adapt new computing technologies for attaining professional excellence and leading
+successful career in industries and academia.
+PEO-2: To develop the ability to critically think, analyze and offer techno-commercially feasible
+and socially acceptable solutions to computational problems, attaining professional excellence
+and carrying research. & Development (R&D) effectively.
+PEO-3: To work collaboratively on development of innovative systems and optimized solutions
+on multidisciplinary domains, and exhibit high levels of professional and ethical values within
+organization and society globally.
+PEO-4: To develop design thinking capabilities for innovation and entrepreneurship
+development.
+Program Specific Objectives (PSO’s)
+PSO-1: To understand the evolutionary changes in computing, apply standard practices and
+strategies to promote research and development for innovative career paths and meet future
+challenges.
+PSO-2: The ability to incorporate contemporary and evolving computational problem-solving
+techniques for lifelong learning support leading to higher studies and entrepreneurship
+development.
+PSO-3: To inculcate knowledge with moral values and professional ethics, to act as a
+responsible citizen.
+3
+
+--- Page 4 ---
+Program Outcomes (PO’s)
+PO1: To develop the ability to apply knowledge of mathematics, engineering sciences for
+conducting independent research/investigation for solving practical problems.
+PO2: To develop the ability to identify, formulate, conduct experiments, interpret data,
+synthesize information, and analyse engineering problems by writing and presenting an
+effective technical report/document.
+PO3: To develop the ability to demonstrate mastery over the area as per the program's
+specialisation. The knowledge should be at a level higher than the requirements in the
+appropriate bachelor's program.
+PO4: To develop problem-solving ability to design solutions for complex engineering problems
+in the context of societal and environmental commitments.
+PO5: To demonstrate the capability of functioning effectively as a member or team leader in
+software projects considering multidisciplinary environments, thus solving real-world
+multifaceted problems.
+PO6: To develop design thinking capabilities for innovation and contribute to technological
+knowledge and intellectual property development.
+4
+
+--- Page 5 ---
+Detail Syllabus
+M.Tech in Computer Science and Engineering
+With specialization in
+Artificial Intelligence
+Under Computer Science and Engineering Department, NIT Agartala
+Major Area / Department: Computer Science and Engineering
+Specialization: Artificial Intelligence
+Department
+Institute
+National Institute of
+Computer Science and Engineering Department
+Technology Agartala
+APJ Abdul kalam Block
+NIT Agartala, Agartala,Tripura(West), India,799046
+P.O: NIT Agartala,Tripura(West), India,799046
+Tel.: (0381) 234 6630 / 234 8511 Fax : (0381) 234 6360
+Email: nita.director@gmail.com
+http://www.nita.ac.in 5
+
+--- Page 6 ---
+Course structure for M.Tech in
+Artificial Intelligence
+Department of CSE, NIT Agartala
+Semester Subject L T P Cr. Class Marks
+Hours
+per
+week
+1 1. Advanced Data Structures and Algorithms 3 1 0 4 4 100
+2. Artificial Intelligence 3 1 0 4 4 100
+3. Computational Methods of Optimization 3 1 0 4 4 100
+4. Elective, I 4 0 0 4 4 100
+i) Stochastic Models and Applications
+ii) Natural Language Processing
+iii) Soft computing
+iv) Data Mining
+v) Pattern Recognition
+5. Elective, II 4 0 0 4 4 100
+i) Expert Systems
+ii) Computer Vision
+iii) Wireless Communication Network
+iv) Information Retrieval
+v) AI for Cyber Security
+6. Laboratory I (Advanced Data Structures and 0 0 2 2 3 100
+Algorithms)
+7. Laboratory II (Artificial Intelligence) 0 0 2 2 3 100
+8. Seminar 0 0 1 1 2 100
+17 3 5 25 28 800
+Total
+2 1. Robotics and automation 3 1 0 4 4 100
+2. Machine Learning 3 1 0 4 4 100
+3. Computational Linear Algebra 3 1 0 4 4 100
+4. Elective, III 4 0 0 4 4 100
+i) Agent based intelligent system
+ii) Deep learning
+iii) Data Visualization
+iv) Human Computer Interaction
+v) Embedded and Realtime System
+5. Laboratory- I (Robotics and Automation Lab) 0 0 2 2 3 100
+6. Laboratory-II(Machine Learning) 0 0 2 2 3 100
+7. Project Preliminaries 0 0 3 3 6 100
+8. Comprehensive Viva 0 0 2 2 0 100
+13 3 9 25 28 800
+Total
+6
+
+--- Page 7 ---
+Semester Subject L T P Cr. Class Marks
+Hours
+per
+week
+3 Project and Thesis Work- I 0 0 10 10 FULL 100
+*Students may go for industrial or inter institute
+collaboration, based Project work for 6 months to 1
+year. The DPPC and concerned local guide may be
+empowered to recommend such provision.
+All existing academic rules of institute will prevail.
+The exact modalities may be recommended by
+DPPC.
+Total 0 0 10 10 100
+Semester Subject L T P Cr. Class Marks
+Hours
+per
+week
+4 Project and Thesis Work- II 0 0 20 20 FULL 300
+*Students may go for industrial or inter institute
+collaboration, based Project work for 6 months
+to 1 year. The DPPC and concerned local guide
+may be empowered to recommend such
+provision.
+All existing academic rules of institute will
+prevail. The exact modalities may be
+recommended by DPPC.
+Total 0 0 20 20
+Cumulative credit of the course
+Semester-I 17 3 5 25 28 800
+Semester -II 13 3 9 25 28 800
+Semester - 0 0 10 10 Full 100
+III
+Semester -IV 0 0 20 20 Full 300
+Total 30 6 44 80 2000
+7
+
+--- Page 8 ---
+Program Outcome for the M Tech. AI
+PO1: To develop the ability to apply knowledge of mathematics, engineering sciences for conducting
+independent research/investigation for solving practical problems.
+PO2: To develop the ability to identify, formulate, conduct experiments, interpret data, synthesise information,
+and analyse engineering problems by writing and presenting an effective technical report/document.
+PO3: To develop the ability to demonstrate mastery over the area as per the program's specialisation. The
+knowledge should be at a level higher than the requirements in the appropriate bachelor's program.
+PO4: To develop problem-solving ability to design solutions for complex engineering problems in the context of
+societal and environmental commitments.
+PO5: To demonstrate the capability of functioning effectively as a member or team leader in software projects
+considering multidisciplinary environments, thus solving real-world multifaceted problems.
+PO6: To develop design thinking capabilities for innovation and contribute to technological knowledge and
+intellectual property development.
+8
+
+--- Page 9 ---
+Annexure, I
+Detail Syllabus
+Course structure for M.Tech in Artificial Intelligence
+Department of CSE, NIT Agartala
+Semester I
+1.1 Advanced Data Structures and Algorithms
+L T P
+3 ,1, 0 : 4 Credits Prerequisites: None
+Course Objective:
+1. The course is intended to provide the foundations of the practical implementation and usage of Algorithms
+and Data Structures.
+2. One objective is to ensure that the student evolves into a competent programmer capable of designing and
+analyzing implementations of algorithms and data structures for different kinds of problems.
+3. Another objective is to expose the student to the algorithm analysis techniques, to the theory of reductions,
+and to the classification of problems into complexity classes.
+Detailed syllabus:
+MODULE I
+Introduction to advanced data structures, Fundamentals of the analysis of algorithms, Algorithms,
+Performance analysis- time complexity and space complexity, Asymptotic Notation-Big Oh, Omega and
+Theta notations, Complexity Analysis Examples. Data structures-Linear and non linear data structures,
+ADT concept, Linear List ADT, Recurrences: The substitution method, Recursive tree method, Masters
+Method, Probabilistic analysis, Amortized analysis, Randomized algorithms, Mathematical aspects and
+analysis of algorithms.
+MODULE II
+Divide and Conquertechnique, Binary search tree ,AVL-trees, red-black trees, B and B+-trees, Finding
+the minimum and maximum, Merge sort, Quick sort, Strassen’s matrix multiplication.Splay
+Trees,Binomial Heaps,Fibonacci Heaps, Application of k-d tree (k-dimensional tree) in range searches
+and nearest neighbor searches.
+MODULE III
+Greedy algorithms: Introduction, Knapsack problem, Job sequencing with deadlines, Minimum cost
+spanning trees, Kruskal’s algorithm, Prim’s algorithm, Optimal storage on tapes, Optimal merge pattern,
+Subset cover problem, Container loading or Bin packing problem.
+MODULE IV
+Dynamic algorithms: Introduction Dynamic algorithms, All pair shortest path, 0/1 knapsack, Travelling
+salesman problem, Coin Changing Problem, Matrix Chain Multiplication, Flow shop scheduling,
+Optimal binary search tree (OBST), Analysis of All problems, Introduction to NP-Hard And NP-
+Complete Problems
+More algorithms: Dynamic programming, graph algorithms: DFS, BFS, topological sorting, shortest path
+algorithms, network flow problems.
+MODULE IV
+String Matching: The naïve string matching algorithm, Rabin Karp algorithm, KnuthMorrisPratt
+algorithm (KMP), longest common subsequence (LCS), Fractional cascading, suffix trees, geometric
+algorithms.
+9
+
+--- Page 10 ---
+References:
+1. Introduction to algorithms: Cormen, Leiserson, Rivest and Stein (Main textbook)
+2. Algorithm Design: Kleinberg and Tardos
+5. Data structures and algorithm analysis in C++(Java): Mark Weiss
+6. Data structures and algorithms: Aho, Hopcroft and Ullman
+7. S. Sahni, Data Structures, Algorithms, and Applications in C++, Silicon Press
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course
+Course Outcome
+Outcome (CO)
+Basic ability to analyze algorithms and to determine algorithm correctness and time
+CO1
+Efficiency class.
+Master a variety of advanced abstract data type (ADT) and data structures and their
+CO2
+implementations.
+Master different algorithm design techniques (brute‐force, divide and conquer,
+CO3
+greedy, etc
+Ability to apply and implement learned algorithm design techniques and data
+CO4
+structures to solve problem.
+CO5 Ability to crawl information and explain different types of search algorithms.
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 3 1 3
+CO2 2 3 3 1 2 3
+CO3 2 2 2 2 3 2
+CO4 3 3 1 3 3 2
+Total 8 9 7 9 9 10
+Average 2 2.25 1.75 2.25 2.25 2.5
+EqAvg
+Attainment 2 2 1 2 2 2
+10
+
+--- Page 11 ---
+1.2 Artificial Intelligence
+L T P
+3 , 1 , 0 : 4 Credits Prerequisites: None
+Course Objectives
+1. To impart knowledge about Artificial Intelligence.
+2. To give understanding of the main abstractions and reasoning for intelligent systems.
+3. To enable the students to understand the basic principles of Artificial Intelligence in various
+applications.
+Detailed syllabus:
+MODULE I
+Introduction to AI and intelligent agents, Problem Solving: Solving Problems by Searching, heuristic
+search techniques, constraint satisfaction problems, stochastic search methods, Game playing: min max,
+alpha beta pruning, Knowledge and Reasoning: Building a Knowledge Base: Propositional logic, first
+order Logic, situation calculus, Theorem Proving in First Order Logic.
+MODULE II
+Uncertain Knowledge and Reasoning, Overview of Probability Theory, Bayes Networks, Undirected
+Graphical Models, Template Based Representations, Exact Inference: Variable Elimination, Clique
+Trees, Belief Propagation, Tree Construction, Baye’s Theorem, Dempster-Shafer theory of evidence.
+MODULE III
+Introduction to Optimization, Approximate Inference: Sampling, Markov Chains, Maximum A posteriori
+Probability (MAP) Inference, Inference in Temporal Models, Introduction to learning graphical models,
+Parameter Estimation, Bayesian Networks and Shared Parameters.
+MODULE IV
+Learning: Overview of different forms of learning, Learning Decision Trees, Statistical learning methods,
+k-nearest neighbor algorithm, Naïve Bayes classifier, Decision Problems
+MODULE V
+Neural Networks, ANN, McCulloch Pitts Model, Perceptron Network. Foundations of Convolutional
+Neural Networks. Implement the foundational layers of CNNs (pooling, convolutions). Introduction to
+Deep Reinforcement Learning, Generative Adversarial Nets, Conditional GAN, Super-Resolution GAN,
+CycleGAN.
+MODULE VI
+Fuzzy Logic: operations of Fuzzy sets, Variables inference techniques, defuzzification techniques, basic
+Fuzzy interference algorithm, application of fuzzy logic , Fuzzy system design implementation.
+Text book:
+Artificial Intelligence and Soft Computing by Amit Konar, CRC Press, Taylor and Francis
+Artificial Intelligence: A Modern Approach by S.Russell and P. Norvig.
+Reference Books
+Nils J. Nilsson, Artificial Intelligence: A New Sythesis, Morgan,Kaufmann.
+Probabilistic Graphical Models, by Daphne Koller and Nir Friedman, MIT Press.
+References:
+Neural Network Design, Hagan, Demuth and Beale, Vikas PublishingHouse
+11
+
+--- Page 12 ---
+Fundamentals of Artificial Neural Networks, Mohamad H Hassoum.PHI
+Fuzzy Set Theory & its Applica tion, H.J. Zimmerman Allied PublishedLtd.
+Course Outcomes
+CO-No. Course Outcome Module
+Covered
+1 Solve basic AI based problems and construct logical building blocks for
+problem formulation. I,II
+2 Acquaint with Knowledge Representation and decision under
+uncordiality. II, III
+3 Apply Optimization and inferencing with available knowledge.
+III
+4 Pragmatic approach of Machine learning and fuzzy knowledge
+representation. III,IV,VI
+5 Apply AI techniques to real-world problems to develop intelligent systems.
+IV,V
+6 Select appropriately from a range of techniques when implementing
+intelligent system V
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+Outcome
+CO-1 1 1 1 2 1 2
+CO-2 2 2 1 2 2 2
+CO-3 2 2 2 1 2 3
+CO-4 2 3 2 3 2 3
+CO-5 3 3 3 3 3 3
+CO-6 3 3 3 3 3 3
+Total 13 14 12 14 13 16
+Average 2.16 2.33 2 2.33 2.16 2.66
+Attainment 2 2 2 2 2 2
+Where Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO
+CORELATION “--”
+12
+
+--- Page 13 ---
+1.3 Computational Methods of Optimization
+L T P
+3 , 1 , 0 : 4 Credits Prerequisites: None
+Course Objectives
+During the course, students will:
+1. learn how to pose optimization problems.
+2. learn how to transform those problems into hopefully simpler-to-solve problems.
+3. learn how to solve problems by using different algorithms.
+4. learn how much time such algorithms would need.
+5. we will also cover some recent techniques in optimization with broad applicability.
+Detailed syllabus:
+MODULE I
+Classification and general theory of optimization. Linear Programming (LP): Introduction to LP and
+formulation of Linear Programming problems, geometric ideas, simplex and revised simplex methods,
+duality and sensitivity, interior-point methods for LP problems.
+MODULE II
+Graphical solution method, alternative or multiple optimal solutions, Unbounded solutions, Infeasible
+solutions, Maximization , Simplex Algorithm, Minimization , Two phase method, Duality in linear
+programming, Integer linear programming.
+MODULE III
+Transportation & Assignment Problems: Introduction to Transportation problems, various methods of
+Transportation problem, Variations in Transportation problem, introduction to Assignment problems,
+variations in Assignment problems.
+MODULE IV
+Nonlinear optimization, method of Lagrange multipliers, Karush-Kuhn-Tucker theory, numerical
+methods for nonlinear optimization, convex optimization, quadratic optimization; Dynamic
+programming.
+MODULE V
+Queuing Models: Concepts relating to queuing systems, basic elements of queuing model, role of Poison
+& exponential distribution, concepts of birth and death process.
+Replacement & Maintenance Models: Replacement of items, subject to deterioration of items subject to
+random failure group vs. individual replacement policies.
+Simulation: Introduction & steps of simulation method, distribution functions and random number
+generation.
+Text Books:
+1. Jasbir. Arora , Introduction to optimum Design, Elsevier
+2. Singeresu S. Rao, "Engineering Optimization , Theory and Practice" New Age Intl. Ltd., Publishers.
+References:
+Handy A Taha, Operations Research , An Introduction, Prentice Hall of India, New Delhi.
+13
+
+--- Page 14 ---
+Hillier F S and Lieberman G J, Operations Research, Holden Day Inc., San Francisco.
+Payne T A, Quantitative Techniques for Management: A Practical Approach, Reston Publishing Co.
+Inc., Virginia.
+Course Outcomes
+CO-No. Course Outcome
+1 Solve basic Linear programming problems and construct simplex method
+solutions.
+2 Acquaint with Knowledge Representation and decision under
+uncordiality.
+3 Apply Optimization and inferencing with available knowledge.
+4 Pragmatic approach of Machine learning and fuzzy knowledge
+representation.
+5 Apply AI techniques to real-world problems to develop intelligent systems.
+6 Select appropriately from a range of techniques when implementing
+intelligent system
+CO-PO Mapping (Rate: scale of 1 to 3)
+Course PO-1 PO-2 PO-3 PO-4 PO-5 PO-6
+Outcome
+CO-1 1 1 1 2 1 2
+CO-2 2 2 1 2 2 2
+CO-3 2 2 2 1 2 3
+CO-4 2 3 2 3 2 3
+CO-5 3 3 3 3 3 3
+CO-6 3 3 3 3 3 3
+Total 13 14 12 14 13 16
+Average 2.16 2.33 2 2.33 2.16 2.66
+Attainment 2 2 2 2 2 2
+Where Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO
+CORELATION “--”
+14
+
+--- Page 15 ---
+Semester I- Elective
+1.4.i) Stochastic Models and Applications
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objectives
+1. Understand the need for system models that capture random behavior to assess the risk of
+undesirable outcomes.
+2. Be able to model a number of important industrial and service systems and analyze those models to
+improve system performance.
+3. Be able to construct algorithmic solution strategies to explore system models that have been
+developed.
+MODULE I
+Introductory Probability: Defining Random Variables (RVs) Events, Measurability, Independence
+Sample Spaces, Events, Measures, Probability, Independence, Conditional probability, Bayes’ theorem
+Random Variables. RVs: Bernoulli, Binomial, Geometric, Poisson, Uniform, Exponential, Normal,
+Lognormal, Expectations, Moments and Moment generating functions Random Vectors. Random
+Vectors: Joint and Marginal distributions, Dependence, Covariance, Copulas, Transformations of random
+vectors, Order statistics.
+MODULE II
+Intermediate Probability: Manipulating RVs Conditioning RVs. Conditional Distribution of a RV,
+Computing probabilities and expectations by conditioning, RVs Distributions.
+Inequalities: Markov, Chebyshev, Jensen, Holder, Convergence of RVs: Weak and Strong laws, Central
+limit theorem, Distributions of extreme.
+MODULE III
+Stochastic Processes: Indexing RVs Markov Chains, Markovian property and Transition probabilities,
+Irreducibility and Steady, State probabilities.
+Generic Applications: Hidden Markov Chains Exponential Distribution and Poisson Process,
+Construction of Poisson Process from Exponential Distribution, Thinning and Conditional Arrival Times,
+Service Applications: Waiting Times Normal Distribution and Brownian Process, Construction of
+Brownian Process from Normal Distribution, Hitting Times and Maximum Values, Finance
+Applications: Option Pricing and Arbitrage Theorem
+References:
+Introduction to Stochastic Processes. S.M. Ross.
+Adventures in Stochastic Processes. S. Resnick. Birkhauser
+Comparison Methods for Stochastic Models and Risks. A. Muller and D. Stoyan. John Wiley & Sons
+Mathematical Theoy of Reliability. R.E. Barlow and F. Proschan.
+15
+
+--- Page 16 ---
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+Students would acquire a rigorous understanding of basic concepts in
+CO1
+probability theory.
+Learn some important concepts concerning multiple random
+CO2
+variables such as Bayes rule for random variables,
+conditional expectation and its uses etc.
+CO3 Explain and work on stochastic processes, including Markov Chains
+and Poisson Processes.
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 3 1 3 1
+CO2 2 3 3 2 3 2
+CO3 3 3 2 2 2 2
+Total 6 7 8 5 8 5
+Average 2 2.33 2.67 1.67 2.67 1.67
+EqAvg
+Attainment 2 2 2 1 2 1
+16
+
+--- Page 17 ---
+1.4.ii) Natural Language Processing
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objective:
+1. Teach students the leading trends and systems in natural language processing.
+2. Make them understand the concepts of morphology, syntax, semantics and pragmatics of the
+language and that they are able to give the appropriate examples that will illustrate the
+mentioned concepts in the syllabus.
+3. Teach them to recognize the significance of pragmatics for natural language understanding.
+4. Enable students to be capable to describe the application based on natural language processing
+and to show the points of syntactic, semantic and pragmatic processing.
+Detailed syllabus:
+MODULE I
+Sound: Biology of Speech Processing; Place and Manner of Articulation; Word Boundary Detection;
+Argmax based computations; HMM and Speech Recognition.
+MODULE II
+Words and Word Forms : Morphology fundamentals; Morphological Diversity of Indian Languages;
+Morphology Paradigms; Finite State Machine Based Morphology; Automatic Morphology Learning;
+Shallow Parsing; Named Entities; Maximum Entropy Models; Random Fields.
+MODULE III
+Structures : Theories of Parsing, Parsing Algorithms; Robust and Scalable Parsing on Noisy Text as in
+Web documents; Hybrid of Rule Based and Probabilistic Parsing; Scope Ambiguity and Attachment
+Ambiguity resolution.
+MODULE IV
+Meaning and pragmatics: Lexical Knowledge Networks, Wordnet Theory; Indian Language Wordnets
+and Multilingual Dictionaries; Semantic Roles; Word Sense Disambiguation; WSD and
+Multilinguality; Metaphors; Coreferences. Discourse, Dialogue and Conversational agents, Natural
+Language Generation, Machine Translation.
+MODULE V
+Web 2.0 Applications: Sentiment Analysis; Text Entailment; Robust and Scalable Machine Translation;
+Question Answering in Multilingual Setting; Cross Lingual Information Retrieval (CLIR).
+References:
+1. Speech and Language Processing by Daniel Jurafsky, James H. Martin, Second Edition, Prentice
+Hall
+2. James Allen, "Natural Language Understanding", 2/E, Addison-Wesley, 1994
+3. Foundations of Statistical Natural Language Processing by Christopher D. Manning, Hinrich
+Schutze, MIT Press.
+4. Statistical Language Learning by Charniack, Eugene, MIT Press, 1993.
+5. The Handbook of Computational Linguistics and Natural Language Processing, Alexander Clark,
+Chris Fox, Shalom Lappin.
+6. Steven Bird, Natural Language Processing with Python, 1st Edition, O'Reilly, 2009.
+17
+
+--- Page 18 ---
+Table-1
+Course Course Outcome
+Outcome No
+CO1 Understand the fundamental concept of NLP, Regular Expression, Finite State
+Automata along with the concept and application of word tokenization,
+normalization, sentence segmentation, word extraction, spell checking in the context
+of NLP.
+CO2 Understand the concept of Morphology such as Inflectional and Derivational
+Morphology and different morphological parsing techniques and scope of ambiguity
+and it’s resolution.
+CO3 Understand the concepts of pragmatics, lexical semantics, lexical dictionary such as
+WordNet, lexical computational semantics, distributional word similarity and
+concepts related to the field of Information Retrieval in the context of NLP.
+CO4 Understand the concepts of Semantic Roles; Word Sense Disambiguation;
+Multilinguality; Metaphors; Coreferences. Discourse, Dialogue and Conversational
+agents, Natural Language Generation, Machine Translation.
+CO5 Understand the concepts related to language modeling with introduction to N-grams,
+chain rule, smoothing, spelling and word prediction and their evaluation along with
+the concept of Markov chain, HMM, Forward and Viterbi algorithm, POS tagging.
+CO6 Describe and apply concepts of discourse machine translation, summarization and
+question answering to solve problems in NLP.
+Table2
+CO-PO Matrices; CO-PSO Mapping of course
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “--”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 1 1 1
+CO2 2 2 2 2 1 2
+CO3 2 2 3 2 1 3
+CO4 2 3 3 3 3 3
+CO5 3 3 3 3 3 3
+CO6 3 3 3 3 3 3
+Total 13 14 15 14 12 15
+Average 2.16 2.3 2.5 2.3 2 2.5
+Eq. Average Attainment 2 2 3 2 2 3
+18
+
+--- Page 19 ---
+1.4.iii) Soft Computing
+L T P
+Prerequisites: None
+4 , 0 , 0 : 4 Credits
+Course Outcomes:
+CO1: Develops students' skill in neuro-fuzzy engines to handle machine learning in presence of
+uncertainty.
+CO2: Provides solution to real world problems with approximate reasoning using fuzzy logic.
+CO3: Instills the scope of optimization in engineering design using evolutionary computation.
+CO4: Demonstrates the scope of the subject in all aspects of science, humanities and engineering.
+CO5: Emphasizes the necessity of soft techniques in engineering industry, where mathematically hard
+techniques are difficult to realize in absence of sufficient data.
+MODULE I
+Introduction to Fuzzy sets, Fuzzy t- and s- norms, projection, cylindrical extension, Fuzzy relations,
+Implication relations, Fuzzy relational equations, Possibilistic reasoning, Fuzzy pattern recognition,
+Introduction to Fuzzy control and Fuzzy databases.
+MODULE II
+Boltzmann machine and Mean field learning-Combinational optimization problems using recurrent
+Neural network. Competitive Learning, Self organizing maps, Growing cell structure Principal
+component analysis.
+MODULE III
+Biological vs. artificial neurons, McCulloch and Pitts Model, Perceptron as linear classifier, Supervised
+learning: Perceptron learning algorithm, Steepest descent learning and backpropagation algorithm,
+Radial basis function neural net. Unsupervised learning: Hopfield neural net, Self-organizing feature map
+neural net, Competitive neural learning, Reinforcement learning: Q-learning and temporal difference Q-
+learning, Support vector machine (SVM), Kernelized SVM, Learning vector quantization.
+MODULE IV
+Genetic Algorithm: Binary and real codes, Genetic programming, Particle swarm optimization,
+Differential Evolution, Bacterial Foraging
+MODULE V
+Hybridization of neuro-fuzzy, neuro-GA, neuro-swarm, neuro-evolution algorithms. Applications in
+Pattern Recognition, Robotics, and Image Processing.
+MODULE VI
+Reinforcement Learning: Q-Learning and Learning Automata, Deterministic Q-Learning, Stochastic Q-
+Learning, Multi-agent Reinforcement Learning and Planning, Nash and Other equilibrium based multi-
+agent Learning and Planning.
+19
+
+--- Page 20 ---
+MODULE VII
+Belief Networks: Pearl's Model for Distributed Approach of Belief Propagation and Revision in a causal
+network, Concepts of D-separation, Bayesian Belief Networks, Dempster-Shafer theory for Orthogonal
+summation of Beliefs, Data Fusion techniques, Uncertainty management using Belief Networks.
+MODULE VIII
+Visual Perception: Marr's 2 and 1/2 Dimensional Vision, 3-D Vision, Camera Model, Perspective
+Projection Geometry, Inverse Perspective Projection Geometry, 3D Reconstruction from 2D Images by
+Kalman Filter and other Prediction Algorithms.
+MODULE IX
+Linguistic Perception: Parse Tree and Automata Based syntactic prediction of Natural Languages, Syntax
+and Semantics based Language understanding Models, Language Learning Models.
+MODULE X
+Deep Learning: Convolution Neural Networks, Long-Short Term Memory (LSTM) Models, Deep
+Recurrent Neural Networks. Applications in automated feature extraction in images and high dimensional
+data.
+MODULE XI
+Advanced Models of Reasoning: Soundness and Completeness issues of Resolution based Proof
+procedures in propositional and predicate logic, Herbrand's theorem and Lifting Lemma, Herbrand
+interpretation, Temporal Logic, Reasoning with Space and Time, Distributed Models of Reasoning using
+Petri Nets, and other graph theoretic approaches.
+Text Books:
+1. Computational Intelligence: Principles, Techniques, and Applications by A. Konar, Springer 2005
+2. Computational Intelligence by A. P. Engelbrecht
+References:
+1. Artificial Intelligence and Soft Computing: Behavioral and Cognitive Modeling of the Human
+Brain by A. Konar, CRC Press, 2018.
+2. Multi-Agent Coordination: A Reinforcement Learning Approach by A. K. Sadhu and A. Konar, Wiley-
+IEEE Press, 2021.
+3. D. E. Goldberg, Genetic Algorithms in Search Optimization and Machine Learning, Addison
+Wesley,3rd edition.
+4. S. Haykin, Neural Networks: A comprehensive foundation, Pearson, 1999.
+Course Outcomes
+CO 1: Develops students' skill in neuro-fuzzy engines to handle machine learning in presence of
+uncertainty.
+CO 2: Provides solution to real world problems with approximate reasoning using fuzzy logic.
+CO 3: Instills the scope of optimization in engineering design using evolutionary computation.
+CO 4: Demonstrates the scope of the subject in all aspects of science, humanities and engineering.
+CO 5: Emphasizes the necessity of soft techniques in engineering industry, where mathematically hard
+techniques are difficult to realize in absence of sufficient data.
+20
+
+--- Page 21 ---
+TABLE 2: CO-PO Mapping
+1: Slight(LOW) 2: Moderate(MEDIUM) 3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 3 3 2 3 2 2
+CO2 2 2 3 2 1 2
+CO3 3 3 2 2 2 2
+CO4 2 2 2 2 2 3
+CO5 3 3 3 3 3 3
+Total 13 13 12 12 10 12
+Average 2.6 2.6 2.4 2.4 2 2.4
+Equivalent
+Average
+2 2 2
+3 3 2
+Attainment
+21
+
+--- Page 22 ---
+1.4.iv) Data Mining
+L T P
+3 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objectives:
+1. To understand Data Mining in Knowledge discovery process, and its applications.
+2. To understand different data attribute types and apply different data preprocessing techniques.
+3. To understand how to identify association among data objects by learning various association
+mining algorithms.
+4. To understand the various classification techniques, their applications in different domains.
+5. To understand the various clustering techniques, their applications in different domains.
+6. To learn various data visualization techniques for data analysis.
+Detailed syllabus:
+MODULE I
+Introduction: Data Mining, Motivation, Application, Data Mining—On What Kind of Data?, Data
+Mining Functionalities, Data Mining Task Primitives, Major Issues in Data Mining.
+Data pre-processing: Attribute types, Similarity & Dissimilarity measures.
+MODULE II
+Data Preprocessing: Data Cleaning, Data Integration, Data Reduction, Data Transformation &
+Discretization.
+MODULE III
+Mining Frequent Patterns: Basic Algorithms, Association Rule Mining, Apriori Algorithm, FP tree
+growth Algorithm, Advanced Pattern Mining Techniques.
+MODULE IV
+Classification Techniques: Decision Tree, Bayes Classification, Bayesian Belief Networks, Support
+Vector Machines, Classification Evaluation Techniques, Classification Accuracy improvement
+Techniques.
+MODULE V
+Clustering Techniques: Partitioning algorithms, Hierarchical algorithms, Density-Based algorithms,
+Grid-Based algorithms, Evaluation of Clustering. Outlier Detection Techniques.
+MODULE VI
+Applications and Trends in Data Mining: Applications, Advanced Techniques, Web Mining, Web
+Content Mining, Structure Mining.
+Text Books:
+J. Han and M. Kamber. Data Mining: Concepts and Techniques. 3rd Edition, Morgan Kaufman.
+Pang Ning Tan, Introduction to Data Mining, 2nd Edition, Pearson.
+M. H. Dunham. Data Mining: Introductory and Advanced Topics. Pearson Education.
+Roiger & Geatz, Data Mining, Pearson Education
+A.K.Pujari, Data Mining, University Press
+22
+
+--- Page 23 ---
+References Books:
+1) Charu C. Aggarwal, Data Mining: The Text Book, Springer.
+2) I. H. Witten and E. Frank. Data Mining: Practical Machine Learning Tools and Techniques. Morgan
+Kaufmann.
+2) D. Hand, H. Mannila and P. Smyth. Principles of Data Mining. Prentice, Hall.
+Course Outcomes (CO):
+Table1
+Course Outcome
+Course Outcome
+No.
+Students will be able to interpret the contribution of data mining in
+CO1
+Knowledge discovery process.
+Students will be able to identify different data attribute types and
+CO2
+apply different data preprocessing techniques.
+Students will be able to apply the link analysis and frequent item-
+CO3
+set algorithms to identify the entities on the real-world data.
+Students will be able to apply the various classification and
+CO4 clustering algorithms for supervised and unsupervised learning
+problems.
+Students will be able to apply various data visualization techniques
+CO5
+for in-depth data analysis.
+Students will be able to apply the advanced data mining techniques
+CO6
+and use the popular data mining tools.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 2 -- -- --
+CO3 3 2 3 1 -- --
+CO4 3 3 3 1 2 1
+CO5 3 3 3 1 2 1
+CO6 3 3 3 1 3 2
+Total 16 15 16 5 8 4
+Average Attainment 2.7 2.5 2.7 0.8 1.3 0.7
+Equivalent Average 3 3 3 1 1 1
+Attainment
+23
+
+--- Page 24 ---
+1.4.v) PATTERN RECOGNITION
+L T P
+Prerequisites: None
+3 - 1 - 0 : 4 Credits
+Course Objectives:
+This course covers the techniques and gain proficiency of pattern recognition that are fundamental to a wide
+variety of application areas such as medical research, biometrics, computer vision, etc.
+Detailed Syllabus:
+MODULE I: Introduction
+Pattern recognition basis, Pattern Recognition problems and System Design, and learning (supervised,
+unsupervised), training and test sets, feature selection, Dimensionality Reduction.
+MODULE II: Supervised learning and classification
+Discriminant functions and decision boundaries Linear discriminant functions, relaxation procedure, non-
+separable behaviour Minimum distance classifier. Bayesian decision theory. Maximum likelihood classification.
+Parameter estimation, sufficient statistics, component analysis and discriminants (PCA, Fisher’s) Nonparametric
+techniques. Density estimation, Parzen window, K-NN estimation, Supervised neural learning: Back-propagation
+algorithm, Radial basis-function neural net; Linear Classifier-Support vector machine classifier, Learning vector
+quantization
+MODULE III: Unsupervised learning and clustering
+Data description and clustering –, similarity measures, criterion for clustering, Methods of clustering - Sequential
+and hierarchical Clustering, graph theoretic, density based, k-means, k-mediod, fuzzy c-means clustering, Vector
+Quantization, Cluster validity
+MODULE IV: Feature extraction and feature selection
+Problems of dimensionality- Feature extraction --PCA-Feature selection –Karhunen Loeve, stochastic
+approximation, kernel approximation, divergence measures, Independent component analysis
+Text Books:
+1. R. O. Duda, P. E. Hart and D. G. Stork, Pattern Classification and Scene Analysis, 2nd ed., Wiley, New
+York, 2000.
+2. J. T. Tou and R. C. Gonzalez, Pattern Recognition Principles, Addison-Wesley, London, 1974.
+Reference Books :
+3. C.M Bishop “Pattern Recognition and Machine Learning “ Springer, 2006.
+4. A. Konar, Computational Intelligence: Principles, Techniques, and Applications, Springer 2005.
+24
+
+--- Page 25 ---
+Course Outcomes (CO):
+Table1
+Course Course Outcome
+Outcome No
+CO1 Determine Classifiers for Pattern recognition.
+CO2 Analyze Feature Selection and Dimensionality Reduction.
+CO3 Ability to select an appropriate Pattern Analysis tools and different models for
+Analyzing data in a given feature Space.
+CO4 Classify the data objects and develop template matching module to recognize the
+pattern.
+CO5 Apply Unsupervised learning algorithm to data objects.
+CO6 Analyze Clustering Algorithm.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight(LOW) 2: Moderate(MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “--
+”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 1 1 3 1
+CO2 1 2 2 1 3 2
+CO3 2 2 1 1 3 2
+CO4 2 1 - 2 3 1
+CO5 2 2 2 1 3 1
+CO6 2 1 2 2 3 2
+Total 11 10 8 8 18 9
+Average 1.8 1.6 1.6 1.6 3 1.5
+Eq. Average 2 2 2 2 3 2
+Attainment
+25
+
+--- Page 26 ---
+Semester I Elective II
+1.5.i) EXPERT SYSTEMS
+L T P Prerequisites: None
+4,0,0:4Credits
+Course Objectives:
+1. Students will be able to explain and describe the concepts central to the creation of knowledge bases
+and expert systems.
+2. Students will be knowledgeable about the tools and the processes used for the creation of an
+expert system.
+3. Student will know methods used to evaluate the performance of an expert system.
+4. Students will be able to conduct an in-depth examination of an existing expert system with an
+emphasis on basic methods of creating a knowledge base.
+5. Students will be able to examine properties of existing systems in a case-study manner,
+comparing differing approaches.
+MODULE I
+Introduction to AI: Intelligent agents, Perception, Natural language processing, Problem, Solving agents,
+Searching for solutions: Uniformed search strategies, Informed search strategies.
+MODULE II
+Adversarial search, Optimal and imperfect decisions, Alpha, Beta pruning, Logical agents: Propositional
+logic, First order logic, Syntax and semantics, Using first order logic, Inference in first order logic.
+MODULE III
+Uncertainty, acting under uncertainty, Basic probability notation, Axioms of probability, Baye’s rule,
+Probabilistic reasoning, making simple decisions.
+MODULE IV
+Planning: Planning problem, Partial order planning, Planning and acting in non, deterministic domains,
+Learning: Learning decision trees, Knowledge in learning, Neural networks , Reinforcement learning ,
+Passive and active.
+MODULE V
+Definition, Features of an expert system, Organization, Characteristics, Prospector, Knowledge
+Representation in expert systems, Expert system tools, MYCIN, EMYCIN.
+Text Books:
+Stuart Russel and Peter Norvig, ‘Artificial Intelligence A Modern Approach’, Second Edition, Pearson
+Education, PHI.
+Donald A.Waterman, ‘A Guide to Expert Systems’, Pearson Education.
+References:
+1. George F.Luger, ‘Artificial Intelligence, Structures and Strategies for Complex Problem Solving’,
+Fourth Edition, Pearson Education.
+2. Elain Rich and Kevin Knight, ‘Artificial Intelligence’, Second Edition Tata McGraw Hill.
+26
+
+--- Page 27 ---
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+CO1 Implements an expert system.
+CO2 Determines inference mechanism for a given problem.
+CO3
+Determines knowledge representation method for a given problem.
+CO4 Knows the commonsense databases and their construction phases.
+To compare the design patterns and explain which design pattern
+CO5
+should be used.
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+Rating: 1→Slight (LOW), 2→Moderate (MEDIUM), 3→Substantial (HIGH) and “-“ → NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 1 1 1
+CO2 1 2 2 2 1 2
+CO3 2 2 2 3 2 2
+CO4 3 3 3 3 3 3
+CO5 3 3 3 3 3 3
+Total 10 11 11 12 10 11
+Average 2 2.2 2.2 2.4 2 2.2
+EqAvg
+Attainment 2 2 2 2 2 2
+27
+
+--- Page 28 ---
+1.5.ii) COMPUTER VISION
+L T P Prerequisites: None
+4, 0, 0: 4Credits
+Course Objectives:
+1. To introduce students the fundamentals of image formation.
+2. To introduce students the major ideas, methods and techniques of computer vision and pattern
+recognition.
+3. To develop an appreciation for various issues in the design of computer vision and object
+recognition systems.
+4. To provide the student with programming experience from implementing computer vision and
+object recognition applications.
+Course Outcomes:
+1. Describe different image representation, their mathematical representation and different data structures
+used.
+2. Classify different segmentation algorithm for given input.
+3. Create a 3D object from given set of images.
+4. Detect a moving object in video using the concept of motion analysis.
+5. Recognize the object using the concept of computer vision
+Detailed Syllabus::
+MODULE I
+Digital Image Formation and low, level processing: Overview and State of the art, Fundamentals of
+Image Formation, Transformation: Orthogonal, Euclidean, Affine, Projective, etc, Fourier Transform,
+Convolution and Filtering, Image Enhancement, Restoration, Histogram Processing.
+Depth estimation and Multi camera views:
+Perspective, Binocular Stereopsis: Camera and Epipolar Geometry, Homography, Rectification, DLT,
+RANSAC, 3D reconstruction framework, Auto calibration.
+MODULE II
+Feature Extraction: Edges , Canny, LOG, DOG, Line detectors (Hough Transform), Corners , Harris and
+Hessian Affine, Orientation Histogram, SIFT, SURF, HOG, GLOH, Scale, Space Analysis, Image
+Pyramids and Gaussian derivative filters, Gabor Filters and DWT.
+Image Segmentation: Region Growing, Edge Based approaches to segmentation, Graph, Cut, Mean,
+Shift, MRFs, Texture Segmentation, Object detection.
+MODULE III
+Pattern Analysis:
+Clustering: K-Means, K-Medoids, Mixture of Gaussians, Classification: Discriminant Function,
+Supervised, Un-supervised, Semi-supervised, Classifiers: Bayes, KNN, ANN models, Dimensionality
+Reduction: PCA, LDA, ICA, Nonparametric methods.
+MODULE IV
+Motion Analysis: Background Subtraction and Modeling, Optical Flow, KLT, Spatio, Temporal
+Analysis, Dynamic Stereo, Motion parameter estimation.
+28
+
+--- Page 29 ---
+Shape from X: Light at Surfaces, Phong Model, Reflectance Map, Albedo estimation, Photometric
+Stereo, Use of Surface Smoothness Constraint, and Shape from Texture, color, motion and edges.
+MODULE V
+Miscellaneous: Applications: CBIR, CBVR, Activity Recognition, computational photography,
+Biometrics, stitching and document processing, Modern trends, super-resolution, GPU, Augmented
+Reality, cognitive models, fusion and SR&CS.
+Text Books:
+1. Szeliski, R., Computer Vision: Algorithms and Applications, Springer, Verlag London .
+2. Forsyth, A., D. and Ponce, J., Computer Vision: A Modern Approach, Pearson Education.
+References:
+1. Hartley, R. and Zisserman, A., Multiple View Geometry in Computer Vision Cambridge
+University Press.
+2. Fukunaga, K., Introduction to Statistical Pattern Recognition, Academic Press, Morgan
+Kaufmann.
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+Describe different image representation, their mathematical
+CO1
+representation and different data structures used.
+CO2 Classify different segmentation algorithm for given input.
+CO3
+Create a 3D object from given set of images.
+CO4 Detect a moving object in video using the concept of motion analysis.
+CO5 Recognize the object using the concept of computer vision
+29
+
+--- Page 30 ---
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+Rating: 1→Slight (LOW), 2→Moderate (MEDIUM), 3→Substantial (HIGH) and “-“ → NO
+CORELATION
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 1 1 1
+CO2 1 2 2 2 1 2
+CO3 2 2 2 3 2 2
+CO4 3 3 3 3 3 3
+CO5 3 3 3 3 3 3
+Total 10 11 11 12 10 11
+Average 2 2.2 2.2 2.4 2 2.2
+EqAvg
+Attainment 2 2 2 2 2 2
+30
+
+--- Page 31 ---
+1.5.(iii) Wireless Communication Network
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objectives:
+1. To understand the functions of wireless communication system.
+2. To gather knowledge about the evolution of different wireless communication systems and
+standards.
+3. To understand the architectures of various access technologies such as 3G, 4G, WiFi etc and to
+gather knowledge about multiple access techniques for Wireless Communication.
+4. To understand the principles of mobile radio communication and to study the recent trends
+adopted in cellular systems and wireless standards.
+5. To understand various protocols and services provided by the next generation networks .
+Detailed syllabus:
+MODULE I
+Introduction and Generations of Wireless Networks, Characteristics of the Wireless Medium: Radio
+Propagation Mechanisms, Path Loss Modelling and Signal Coverage, Effect of Multipath and
+Doppler, Channel Measurement and Modelling Technique, Diversity in wireless communications -
+Non-coherent and coherent reception; error probability for uncoded transmission, Realization of
+diversity: time diversity; frequency diversity: DSSS and OFDM; receiver diversity: SC, EGC and
+MRC; transmit diversity: space-time codes; Multiple-Input Multiple-Output (MIMO) wireless
+systems: Capacity of MIMO wireless systems; spatial multiplexing; space-time coding.
+MODULE II
+Multiple Access Techniques: FDMA, TDMA, CDMA, OFDM, SDMA and their comparisons,
+Modulation Techniques – AM, FM, FSK, PSK, QPSK, QAM, 16QAM, interference management,
+power control, Mobile Data Networks: Introduction, Data Oriented CDPD Network, GPRS, EDGE
+and High Data Rates, SMS in GSM, Mobile Application Protocols
+MODULE III
+Network Planning: Introduction, Wireless Network Topologies, Cellular Topology, Cell
+Fundamentals, Signal to Interferences Ratio Calculations, Channel reuse, Dynamic resource
+allocation: Cognitive Radio, Network Planning for CDMA Systems. Wireless Network Operations:
+Mobility Management, Radio Resources and Power Management.
+MODULE IV
+Introduction to Wireless LAN, Overview of IEEE 802.11, Reference Architecture, PHY and MAC
+Layer, Wireless Home Networking, Technologies for Home Area Network (HAN), HIPERLAN.
+IEEE 802.15 WPAN, HomeRF, Bluetooth, Adhoc Networks, Mesh networks: capacity, routing, and
+scheduling., Introduction to 2.5 G and 3 G Networks.
+Text Books
+31
+
+--- Page 32 ---
+1. A. Goldsmith, Wireless Communications, Cambridge Univ. Press, 2005.
+2. Kaveh Pahlavan, Prashant Krishnamurthy “Principles of Wireless Networks”, PHI.
+Reference Books
+1. D. Tse and P. Viswanath, Fundamentals of Wireless Communication, Cambridge Univ. Press,
+2005
+2. Dharma Prakash Agrawal, Qing- An Zeng, “Introduction to Wireless and Mobile Systems”
+CENGAGE Learning.
+3 . Kamilo Feher “Wireless Digital Communications”, PHI
+4. Jochen Schiller “Mobile Communications”, PEARSON
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1
+Course Outcome
+Course Outcome
+No.
+Discuss the basic principles, concepts of wireless networks and
+CO1 analyze the Mobile radio propagation, fading, diversity concepts and
+the channel modeling.
+Analyze the design parameters, link design, smart antenna, and
+CO2
+MIMO systems.
+Analyze Multiuser Systems, CDMA, WCDMA network planning
+CO3
+and OFDM Concepts.
+Identify the importance of Wireless LAN, Adhoc Networks and
+CO4
+Wireless Mesh Network and analyze different technologies for HAN.
+Summarize the principles and applications of wireless systems and
+CO5 design a cellular system based on resource availability and traffic
+demands.
+32
+
+--- Page 33 ---
+CO-PO Mapping:
+TABLE 2
+1: Slight(LOW) 2: Moderate(MEDIUM) 3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 2 2 2 1
+CO2 1 1 1 2 1 1
+CO3 2 2 3 2 1 2
+CO4 3 3 3 3 2 3
+CO5 3 3 3 3 3 3
+Total 10 10 12 12 9 11
+Average 2 2 2.4 2.4 1.8 2.2
+EqAvg
+Attainment 2 2 2 2 2 2
+33
+
+--- Page 34 ---
+1.5.iv) Information Retrieval
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Courses objective:
+1. To understand fundamental concepts of Information retrieval systems.
+2. To understand the knowledge of data structures and indexing methods in information retrieval
+Systems.
+3. To learn the evaluation of different indexing techniques.
+4. To learn and develop indexing systems for audio and visual documents.
+5. To learn the concept of searching of webs.
+Detailed Syllabus::
+MODULE I
+Basic Concepts of IR, Data Retrieval & Information Retrieval, IR system block diagram. Automatic Text
+Analysis, Luhn's ideas, Conflation Algorithm, Indexing and Index Term Weighing, Probabilistic
+Indexing, Automatic Classification, Measures of Association, Different Matching Coefficient,
+Classification Methods, Cluster Hypothesis. Clustering Algorithms, Single Pass Algorithm, Single Link
+Algorithm, Rochhio's Algorithm and Dendograms.
+MODULE II
+File Structures, Inverted file, Suffix trees & suffix arrays, Signature files, Ring Structure, IR Models,
+Basic concepts, Boolean Model, Vector Model, and Fuzzy Set Model. Search Strategies, Boolean search,
+serial search, and cluster based retrieval, Matching Function.
+MODULE III
+Performance Evaluation, Precision and recall, alternative measures reference collection (TREC
+Collection), Libraries & Bibliographical system, Online IR system, OPACs, Digital libraries ,
+Architecture issues, document models, representation & access, Prototypes, projects & interfaces,
+standards.
+MODULE IV
+Taxonomy and Ontology: Creating domain specific ontology, Ontology life cycle Distributed
+and Parallel IR: Relationships between documents, Identify appropriate networked collections, multiple
+distributed collections, parallel IR, MIMD Architectures, Distributed IR, Collection Partitioning, Source
+Selection, and Query Processing.
+MODULE V
+Multimedia IR models & languages, data modelling, Techniques to represent audio and visual document,
+query languages Indexing & searching, generic multimedia indexing approach, Query databases of
+multimedia documents, Display the results of multimedia searches, one dimensional time series, two
+dimensional color images, automatic feature extraction.
+34
+
+--- Page 35 ---
+MODULE VI
+Searching the Web, Challenges, Characterizing the Web, Search Engines, Browsing, Mata searchers,
+Web crawlers, robot exclusion, Web data mining, Metacrawler, Collaborative filtering, Web agents (web
+shopping, bargain finder,..), Economic, ethical, legal and political
+Issues.
+Text Books/References:
+1. Introduction to Information Retrieval. C.D. Manning, P. Raghavan, H. Schütze.
+Cambridge UP, 2008.
+2. Modern Information Retrieval. R. Baeza-Yates, B. Ribeiro-Neto. Addison-Wesley,
+1999.
+3. Information Retrieval: Algorithms and Heuristics. D.A. Grossman, O. Frieder. Springer,
+2004.
+4. Managing Gigabytes. I.H. Witten, A. Moffat, T.C. Bell. Morgan Kaufmann, 1999.
+5. The Geometry of Information Retrieval. C.J. van Risjbergen. Cambridge UP, 2004.
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+Ability to understand the nature of information and retrieval
+CO1
+requirements.
+Ability to use knowledge of data structures and indexing methods in
+CO2
+information retrieval systems.
+CO3 Ability to evaluate performance of retrieval systems.
+CO4 Ability to choose clustering and searching techniques.
+Ability to crawl information and explain different types of search
+CO5
+algorithms.
+35
+
+--- Page 36 ---
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+Rating: 1→Slight(LOW), 2→Moderate(MEDIUM), 3→Substantial (HIGH)
+and ‘-‘ → NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 1 1 1
+CO2 2 2 2 2 2 2
+CO3 2 2 2 2 2 2
+CO4 3 3 3 3 3 3
+CO5 3 3 3 3 3 3
+Total 11 11 11 11 11 11
+Average 2.2 2.2 2.2 2.2 2.2 2.2
+EqAvg
+Attainment 2 2 2 2 2 2
+36
+
+--- Page 37 ---
+1.5.(v) AI for Cyber Security
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objective
+The objective of this course is to introduce Artificial Intelligence and Cyber security and their inherent
+relationship, using Artificial Intelligence Tools to enhance Security, learn machine learning aspects to
+identify security treats, decipher attacks, vulnerabilities, the Future of AI in Advancing Security and
+Promoting create architectural, algorithmic and technological foundations for ensuring cyber security,
+maintenance of the privacy of individuals/organizations.
+Detailed Syllabus:
+Module 1:
+Introduction: Understanding Cyber security, Looking at the Various Aspects of Cyber security,
+Social engineering and phishing , Introducing ransom ware, Malware intrusion, Non-malware
+intrusion, Detect, Respond, and Mitigate, Responding to and Recovering From Cyber attacks and
+Security Events, Meeting the Challenges of Cyber security,
+Module 2:
+Understanding Artificial Intelligence: Teaching Machines to be Smarter , Learning Algorithms ,
+Supervised learning, Unsupervised learning , Being Smarter , Interacting with Humans , Natural
+Language Processing.
+Module 3:
+Discovering Machine Learning and Deep Learning: Deep Learning and Deeply Layered Neural Networks
+, Introducing cognitive computing , Structured and Unstructured Data.
+Module 4:
+Applying Machine Learning and Deep Learning to Cyber security: Predictive Analytics, Taught
+Not Programmed, Uncovering the needle in the haystack, Introducing cognitive computing,
+Identifying root cause, A Smarter Adversary.
+Module 5:
+Using the Cognitive Capabilities to Investigate Security Incidents, Taking Intelligent Action, Understand,
+Reason and Learn, Detecting spam with Perceptron, Malware threat detection.
+Module 6:
+Responding to Ransomware, Network anomaly detection with AI, Fraud prevention with cloud AI
+solutions, GANs - Attacks and Defenses.
+37
+
+--- Page 38 ---
+Reference Book:
+1. Artificial Intelligence & Cybersecurity For Dummies, IBM Limited Edition.
+2. Machine Learning for Computer and Cyber Security Principle, Algorithms, and Practices, 1st
+Ed. By Brij B. Gupta, Quan Z. Sheng, CRC Press.
+3. Artificial Intelligence for Security by Archie Addo, Srini Centhala, Muthu Shanmugam,
+Publisher(s): Business Expert Press ISBN: 9781951527273.
+4. Machine Learning and Security: Protecting Systems with Data and Algorithms 1st Edition, by
+Clarence Chio, David Freeman, O'Reilly Media.
+5. Hands-On Artificial Intelligence for Cybersecurity by Alessandro Parisi, 2019, Publisher(s):
+Packt, ISBN: 9781789804027
+Course Outcomes
+CO1 Students will be able to have insight into the methods used in artificial intelligence (AI)
+and machine learning (ML) related to cyber security.
+CO2 Students will be able to demonstrate why are AI important for cybersecurity and how is AI
+used in Cyber Security Today.
+CO3 Students will be able to measure the Implications of AI in privacy and the applications of
+machine learning in security.
+CO4 Students will be able to detect intrusion in networks and systems by applying tools and
+techniques revealing abnormal patterns in datasets.
+CO5 Students will be able to analyze the trends of applications of Artificial Intelligence in cyber
+security.
+Table: CO-PO Matrices
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “--”
+PO1 PO2 PO3 PO4 PO5 PO6
+CO1 -- 1 1 1 -- --
+CO2 1 2 2 2 -- --
+CO3 1 3 3 3 2 2
+CO4 3 3 3 3 2 3
+CO5 3 3 3 3 2 2
+Total 8 12 12 12 6 7
+Average 1.6 2.4 2.4 2.4 1.2 1.4
+Eq. Average
+Attainment 2 2 2 2 1 1
+38
+
+--- Page 39 ---
+1.6. Laboratory I(Advanced Data Structures and Algorithms)
+L T P
+0 , 0 , 2 : 2 Credits Prerequisites: None
+Course Outcomes:
+1 Describe how arrays, records, linked structures, stacks, queues, trees, and graphs are
+represented in memory and used by algorithms [ABET (a, b, c, i)].
+2 . Describe common applications for arrays, records, linked structures, stacks, queues, trees,
+and graphs [ABET (a, b, c ) .
+3. Write programs that use arrays, records, linked structures, stacks, queues, trees, and
+graphs[ABET (a, c) ]
+4. Demonstrate different methods for traversing trees [ABET (a)].
+Programme Outcomes:
+1. Identify, formulate, and analyze complex engineering problems reaching substantiated
+conclusions using first principles engineering sciences.
+Experiment 1 (Arrays, Linked List, Stacks, Queues, Binary Trees )
+I. WAP to implement a 3,stacks of size ‘m’ in an array of size ‘n’ with all the basic
+operations such as IsEmpty(i), Push(i), Pop(i), IsFull(i) where ‘i’ denotes the stack
+number (1,2,3), m ≅ n/3. Stacks are not overlapping each other. Leftmost stack facing
+the left direction and other two stacks are facing in the right direction.
+II. WAP to implement 2 overlapping queues in an array of size ‘N’. There are facing in
+opposite direction to eachother. Give IsEmpty(i), Insert(i), Delete(i) and IsFull(i)
+routines for ith queue
+III. WAP to implement Stack ADT using Linked list with the basic operations as Create(),
+Is Empty(), Push(), Pop(), IsFull() with appropriate prototype to a functions.
+IV. WAP to implement Queue ADT using Linked list with the basic functions of Create(),
+IsEmpty(), Insert(), Delete() and IsFull() with suitable prototype to a functions
+Experiment 2 (Sorting & Searching Techniques)
+Experiment 3 (Hashing)
+I. WAP to store k keys into an array of size n at the location computed using a hash
+function, loc = key % n, where k<=n and k takes values from [1 to m], m>n. To handle
+the collisions use the following collision resolution techniques,
+a. Linear, Quadratic, Random probing, Double hashing/rehashing, Chaining.
+Experiment 4 (BST and Threaded Trees)
+Experiment 5 (AVL Trees and Red,Black Trees)
+Experiment 6 ( B,Trees)
+Experiment 7 (Min,Max Heaps, Binomial Heaps and Fibonacci Heaps )
+Experiment 8 (Disjoint Sets)
+Experiment 9 (Graphs Algorithms)
+Experiment 10 (String Matching)
+39
+
+--- Page 40 ---
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+Describe how arrays, records, linked structures, stacks, queues, trees, and
+CO1
+graphs are represented in memory and used by algorithms [ABET (a, b, c,
+i)].
+Describe common applications for arrays, records, linked structures, stacks,
+CO2
+queues, trees, and graphs [ABET (a, b, c ) .
+CO3 Write programs that use arrays, records, linked structures, stacks, queues,
+trees, and graphs[ABET (a, c) ]
+CO4
+Demonstrate different methods for traversing trees [ABET (a)].
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 1 1 3 1 3
+CO2 2 1 3 1 2 3
+CO3 2 2 2 2 2 2
+CO4 3 3 3 3 3 1
+Total 9 7 9 9 8 9
+Average 2.25 1.75 2.25 2.25 2 2.25
+EqAvg
+Attainment 2 1 2 2 2 2
+40
+
+--- Page 41 ---
+1.7. Laboratory II (Artificial Intelligence)
+L T P
+0 , 0 , 2 : 2 Credits Prerequisites: None
+Course Objective:
+1. Become familiar with basic principles of AI toward problem solving, inference, perception,
+knowledge representation, and learning.
+2. Investigate applications of AI techniques in intelligent agents, expert systems, artificial neural
+networks and other machine learning models.
+3. Experience AI development tools such as an ‘AI language’, expert system shell, and/or data
+mining tool.
+4. Explore the current scope, potential, limitations, and implications of intelligent systems
+List of Experiments
+MODULE I
+1 Study of PROLOG. Write the following programs using PROLOG / CLIPS
+2 Write a program to solve 8 queens problem
+3 Solve any problem using depth first search.
+4 Solve any problem using best first search.
+5 Solve 8-puzzle problem using best first search
+6 Solve Robot (traversal) problem using means End Analysis
+7 Solve traveling salesman problem.
+MODULE II
+Experiments on Planning, Situation Calculus Planning using STRIPS
+MODULE III
+Experiments on Markov Chains, Maximum A posteriori Probability (MAP) Inference, Inference
+in Temporal Models, Introduction to learning graphical models, Parameter Estimation, Bayesian
+Networks and Shared Parameters.
+MODULE IV
+Experiments on Neural Networks, ANN, McCulloch Pitts Model, Perceptron Network.
+MODULE V
+Experiments on Fuzzy Logic: operations of Fuzzy sets, Variables inference techniques,
+defuzzification techniques.
+41
+
+--- Page 42 ---
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+CO1 Demonstrate fundamental understanding of the history of artificial
+intelligence (AI) and its foundations.
+Apply basic principles of AI in solutions that require problem solving,
+CO2
+inference, perception, knowledge representation, and learning.
+Demonstrate awareness and a fundamental understanding of various
+CO3
+applications of AI techniques in intelligent agents, expert systems, artificial
+neural networks and other machine learning models.
+CO4 Demonstrate an ability to share in discussions of AI, its current scope and
+limitations, and societal implications.
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 1 1 3 1 3
+CO2 2 1 3 1 2 3
+CO3 2 2 2 2 2 2
+CO4 3 3 3 3 3 1
+Total 9 7 9 9 8 9
+Average 2.25 1.75 2.25 2.25 2 2.25
+EqAvg
+Attainment 2 1 2 2 2 2
+42
+
+--- Page 43 ---
+Semester II
+2.1 Robotics and Automation
+L T P
+3 , 1 , 0 : 4 Credits Prerequisites: None
+Course Objective:
+1. Explain the fundamentals of robotics and its components.
+2. Illustrate the Kinematics and Dynamics of robotics.
+3. Elucidate the need and implementation of related Instrumentation & control in robotics
+4. Illustrate the movement of robotic joints with computers/microcontrollers.
+5. Explain sensors and instrumentation in robotics.
+MODULE I
+Robotics Foundations: Kinematics , Dynamics , Mechanisms and Actuation , Sensing and
+Estimation , Motion Planning , Motion Control , Force Control , Robotic Systems
+Architectures and Programming , AI Reasoning Methods for Robotics.
+MODULE II
+Robot Structures: Performance Evaluation and Design Criteria , Redundant Manipulators
+Parallel Mechanisms and Robots , Robots with Flexible Elements , Model Identification , Robot
+Hands , Legged Robots , Wheeled Robots , Micro/Nano Robots.
+MODULE III
+Sensing and Perception: Force and Tactile Sensors , Inertial Sensors, GPS and Odometry, Sonar
+Sensing , Range Sensors , 3D Vision and Recognition , Visual Servoing and Visual Tracking ,
+Sensor Fusion.
+MODULE IV
+Manipulation and Interfaces: Motion for Manipulation Tasks , Modelling and Manipulation ,
+Grasping , Cooperative Manipulators, Haptics, Telerobotics, Networked Teleoperation,
+Exoskeletons for Human Performance Augmentation.
+MODULE V
+Mobile and Distributed Robotics: Motion Control of Wheeled Mobile Robots , Motion Planning
+and Obstacle Avoidance , World Modeling , Simultaneous Localization and Mapping , Behavior
+Based Systems , Distributed and Cellular Robots , Multiple Mobile Robot Systems , Networked
+Robots.
+MODULE VI
+Field and Service Robotics: Industrial Robotics, Underwater Robotics, Aerial Robotics, Space
+Robots and Systems, Chap. 46. Robotics in Agriculture and Forestry, Robotics in Construction,
+Robotics in Hazardous Applications, Mining Robotics , Search and Rescue Robotics, Intelligent
+Vehicles, Medical Robots and Systems, Rehabilitation and Health Care Robotics , Domestic
+Robots, Robots for Education.
+MODULE VII
+Human-Centered and Life Like Robotics: Humanoids , Safety for Physical Human Robot
+Interaction , Social Robots that Interact with People , Robot Programming by Demonstration ,
+Biologically, Inspired Robots , Evolutionary Robotics, Neurorobotics: From Vision to Action
+Perceptual Robotics, Roboethics: Social and Ethical Implications.
+43
+
+--- Page 44 ---
+Text Books:
+1. Introduction to Robotics: Mechanics & Control, 3ed, J. Craig, Prentice Hall, 2004.
+2. Robot Modeling and Control, M. Spong, S. Hutchinson, M. Vidyasagar, Wiley, 2005.
+3. Fundamentals of Robotics: Analysis and Control, Robert J. Schilling, Prentice Hall, 1990.
+4. Theory of Applied Robotics 2nd Ed., R. Jazar, Springer, 2010.
+CO-No. Course Outcome Module
+Covered
+1 Introduction to kinematics and basic construction of Robotics concept.
+I
+2 Learners will know about structural and design criteria of robot
+construction with ethical application. II
+3 An introduction to Perception - actuator sequence with environmental
+variation and haptic manipulation. III
+4 Introduction to mobile robot with AGV and UGV.
+IV,V
+5 Field application of robotics including agricultural and service sector.
+V
+6 Human robot interaction and visual perception for surround
+localization and mapping. V,VI, VIII
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 1 3 1 3
+CO2 2 3 3 1 2 3
+CO3 2 2 2 2 3 2
+CO4 3 3 1 3 3 2
+Total 8 9 7 9 9 10
+Average 2 2.25 1.75 2.25 2.25 2.5
+EqAvg
+Attainment 2 2 1 2 2 2
+44
+
+--- Page 45 ---
+2.2. Machine Learning
+L T P
+3 , 1 , 0 : 4 Credits Prerequisites: None
+Course Objectives:
+1. To recognize the characteristics of machine learning that makes it useful to solve real-world
+problems.
+2. To understand the appropriate implementation of supervised, semi supervised and unsupervised
+learning techniques in real-world applications.
+3. To choose a suitable machine learning model, implement, and examine the performance of the
+chosen model for a given real world problem.
+4. To understand cutting edge technologies related to machine learning applications.
+Detailed syllabus:
+MODULE I
+Introduction: Definition of learning systems. Goals and applications of machine learning. Aspects of
+developing a learning system: training data, concept representation, function approximation. The concept
+learning task. Concept learning as search through a hypothesis space. General-to-specific ordering of
+hypotheses. Finding maximally specific hypotheses. Version spaces and the candidate elimination
+algorithm. Learning conjunctive concepts. The importance of inductive bias.
+MODULE II
+Supervised Learning: Classification vs. Regression, Linear and Logistic Regression, Gradient Descent,
+Support Vector Machines, Kernels, Decision Trees, ML and MAP Estimates, K-Nearest Neighbor, Naive
+Bayes, Introduction to Bayesian Networks, Artificial Neural Networks.
+MODULE III
+Unsupervised Learning: Partitioning based methods, Hierarchical methods, Density based methods,
+Gaussian Mixture Models, Learning with Partially Observable Data (EM). Dimensionality Reduction
+and Principal Component Analysis.
+MODULE IV
+Optimization Techniques: Bias-Variance tradeoff, Regularization, Evaluation techniques for
+supervised and unsupervised learning.
+MODULE V
+Other Learning techniques: A selection from some other advanced topics, e.g., Semi-supervised
+Learning, Active Learning, Reinforcement Learning, Recommender Systems.
+MODULE VI
+Applications of Machine Learning: Texts, Image, Time-series data.
+Textbooks:
+1) T. Mitchell, Machine Learning, McGrawHill.
+45
+
+--- Page 46 ---
+2) Ethem Alpaydın, Introduction to Machine Learning 3rd Edition, MIT Press
+3) Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+References:
+1) Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, Mathematics for Machine Learning,
+Cambridge University Press, 2020.
+2) Shwartz and David, Understanding Machine Learning: From Theory to Algorithms, Cambridge
+University Press.
+3) C.M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006.
+4) Andrew Ng, Machine Learning Yearning.
+5) Other online material.
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to understand the mathematics and engineering
+CO1
+sciences behind functioning of machine learning.
+Students will be able to analyze the given dataset and data attributes
+CO2
+for designing a machine learning-based solution.
+Students will be able to identify different machine learning
+CO3 approaches, optimization techniques, and apply them on different
+problem domains.
+Students will be able to design and deploy machine learning
+CO4 solutions for real-world applications with popular machine learning
+tools.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 1 2 2 --
+CO3 3 3 3 3 2 1
+CO4 3 3 2 1 2 2
+Total 10 10 8 8 8 3
+Average Attainment 2.5 2.5 2 2 2 0.75
+Eq. Average Attainment 3 3 2 2 2 1
+46
+
+--- Page 47 ---
+2.3 Computational Linear Algebra
+L T P Prerequisites: None
+3 , 1 , 0 : 4 Credits
+Course Objective:
+The goals of this course are for students to:
+1. Understand basic models of computation and how to use them to analyze the efficiency of
+algorithms.
+2. Understand the fundamentals of how a computer’s architecture affects the performance of an
+algorithms.
+3. Understand basic programming paradigms and the tools for implementations using these
+paradigms.
+MODULE I
+Fundamental operation with vectors in Euclidean space Rn , Linear combination of Schwarz inequality,
+Triangle−vectors, Dot product and their properties, Cauchy inequality, Projection vectors, Some
+elementary results on vector in Rn , Matrices, Gauss, Jordan row reduction, Reduced row echelon form,
+Row equivalence, Rank, Linear combination of vectors, Row space, Eigenvalues, Eigenvectors,
+Eigenspace, Characteristic polynomials, Diagonalization of matrices, Definition and examples of vector
+space, Some elementary properties of vector spaces, Subspace.
+MODULE II
+Span of a set, A spanning set for an eigenspace, Linear independence and linear dependence of vectors,
+Basis and dimension of a vector space, Maximal linearly independent sets, Minimal spanning sets,
+Application of rank, Homogenous and non homogenous systems of equations, Coordinates of a vector in
+ordered basis, Transition matrix, Linear transformations: Definition and examples, Elementary
+properties, The matrix of a linear transformation, Linear operator and Similarity.
+MODULE III
+Application: Computer graphics, Fundamental movements in a plane, Homogenous coordinates,
+Composition of movements, Kernel and range of a linear transformation, Dimension theorem, One to
+one and onto linear transformations, Invertible linear transformations, Isomorphism: Isomorphic vector
+spaces (to Rn ), Orthogonal and orthonormal vectors, Orthogonal and orthonormal bases, Orthogonal
+complement, Projection theorem (Statement only), Orthogonal projection onto a subspace, Application:
+Least square solutions for inconsistent systems.
+Textbooks
+Introduction to Linear Algebra, Fifth Edition, Gilbert Strang.
+Linear Algebra Done Right, Third Edition.
+No Bullshit Guide To Linear Algebra, Ivan Savov.
+Matrix Computations, Gene Golub and Charles Van Loan.
+Numerical Linear Algebra, Lloyd Trefethen and David Bau.
+47
+
+--- Page 48 ---
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to understand the mathematics and engineering
+CO1
+sciences behind functioning of hardware.
+Students will be able to analyze the given problem, its computations
+CO2
+requirements and solution domain in general terms .
+CO3 Students will be able to identify different transformation functions.
+Students will be able to design and deploy graph theoretic approach
+CO4
+to different real-life problem.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 1 2 2 --
+CO3 3 3 3 3 2 1
+CO4 3 3 2 1 2 2
+Total 10 10 8 8 8 3
+Average Attainment 2.5 2.5 2 2 2 0.75
+Eq. Average Attainment 3 3 2 2 2 1
+48
+
+--- Page 49 ---
+Semester II Elective III
+2.4.(i) Agent based intelligent system
+L T P Prerequisites: None
+4 , 0 , 0 : 4 Credits
+Course Objectives:
+1. To understand Agent development
+2. To gain Knowledge in Multi agent and Intelligent agents
+3. To understand Agents and security
+4. To gain Knowledge in Agent Applications
+MODULE I
+Definitions , Foundations , History , Intelligent Agents, Problem Solving, Searching, Heuristics,
+Constraint Satisfaction Problems , Game playing.
+MODULE II
+Logical Agents, First order logic, First Order Inference, Unification, Chaining, Resolution Strategies,
+Knowledge Representation, Objects, Actions, and Events
+MODULE III
+Planning Problem, State Space Search, Partial Order Planning, Graphs, Nondeterministic Domains,
+Conditional Planning, Continuous Planning, MultiAgent Planning.
+MODULE IV
+Acting under uncertainty , Probability Notation, Bayes Rule and use , Bayesian Networks, Other
+Approaches, Time and Uncertainty, Temporal Models, Utility Theory , Decision Network , Complex
+Decisions.
+MODULE V
+Knowledge in Learning, Relevance of Information, Statistical Learning Methods, Reinforcement
+Learning, Communication, Formal Grammar, Augmented Grammars, Future of AI.
+Text Book:
+Stuart Russell and Peter Norvig, “Artificial Intelligence , A Modern Approach”,2nd Edition, Prentice
+Hall, 2002
+References
+Michael Wooldridge, “An Introduction to Multi Agent System”, John Wiley.
+Patrick Henry Winston, Artificial Intelligence, 3rd Edition, AW.
+Nils.J.Nilsson, Principles of Artificial Intelligence, Narosa Publishing House.
+49
+
+--- Page 50 ---
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+CO1 Students will be able to understand development of software agents.
+Students will be able to analyze the given dataset and data attributes
+CO2 for designing a neural network-based solution Gain Knowledge in
+Multi agent and Intelligent agents.
+CO3 Students will be able to understand Agents and security.
+CO4 Students will be able to gain knowledge on applications of agents.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 1 2 2 --
+CO3 3 3 3 3 2 1
+CO4 3 3 2 1 2 2
+Total 10 10 8 8 8 3
+Average Attainment 2.5 2.5 2 2 2 0.75
+Eq. Average Attainment 3 3 2 2 2 1
+50
+
+--- Page 51 ---
+2.4.(ii) Deep Learning
+L T P
+4 , 0 , 0 :4 Credits Prerequisites: None
+Course Objectives:
+1. To introduce the idea of Artificial Neural Networks and their applications.
+2. To study and implement different architectures of Artificial Neural Networks.
+3. To study and implement various optimization techniques on Artificial Neural Networks.
+4. To enable design and deployment of deep learning models for machine
+learning problems.
+Detailed syllabus:
+MODULE I
+Introduction: Artificial Intelligence and Deep Learning-a historical perspective, Artificial neural
+networks, Shallow neural networks, Deep neural networks, gradient descent, forward and
+backpropagation, computational graphs, linear and non-linear activation functions.
+MODULE II
+Optimization techniques: Regularization, Dropout, Batch Normalization, Vanishing/Exploding
+gradients, Mini-batch gradient, Gradient descent with momentum, RMSprop, Adam optimization,
+Learning rate decay, Local optima, Global optima. Hyperparameter tuning,
+MODULE III
+Convolutional Neural Networks: Basic operations: padding, stride, pooling; Classic convolutional
+models: LeNet-5, AlexNet, VGG, Modern Deep Convolutional models: ResNet, GoogleNet; Inception
+Network, 1-D convolutions, Object detection and Face Recognition with CNN.
+MODULE IV
+Recurrent Neural Networks: Sequence modelling, Types of Recurrent Neural Networks,
+Backpropagation through time, Language modelling and sequence generation, Word Embeddings,
+vanishing gradients with RNNs, Long-Short Term Memory (LSTM), Gated Recurrent MODULEs
+(GRU), Bidirectional LSTMs, Sequence-to-Sequence model, Attention Mechanism, Transformer
+Network.
+MODULE V
+Advanced topics: Deep Reinforcement Learning, Generative Adversarial Networks, Autoencoders.
+References:
+1) Charu C. Aggarwal, Neural Networks and Deep Learning- A textbook, 2018, Springer.
+2) Ian Goodfellow, Yoshua Bengio, Aaron Courville, ”Deep Learning (Adaptive Computation and
+Machine Learning series”, MIT Press.
+3) Nikhil Buduma, Nicholas Locascio, “Fundamentals of Deep Learning: Designing Next
+Generation Machine Intelligence Algorithms”, O'Reilly Media.
+4) Other online resources and research publications.
+51
+
+--- Page 52 ---
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to understand the mathematics and engineering
+CO1
+sciences behind functioning of artificial neural networks.
+Students will be able to analyze the given dataset and data attributes
+CO2
+for designing a neural network-based solution.
+Students will be able to identify different neural network
+CO3 architectures, neural network optimization techniques, and apply
+them on different problem domains.
+Students will be able to design and deploy deep learning solutions
+CO4
+for real-world applications with popular deep learning tools.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 1 2 2 --
+CO3 3 3 3 3 2 1
+CO4 3 3 2 1 2 2
+Total 10 10 8 8 8 3
+Average Attainment 2.5 2.5 2 2 2 0.75
+Eq. Average Attainment 3 3 2 2 2 1
+52
+
+--- Page 53 ---
+2.4.(iii) Data Visualization
+L T P Prerequisites: None
+4 , 0 , 0 : 4 Credits
+Course Objectives
+1. This course is all about data visualization, the art and science of turning data into readable graphics.
+2. How to design and create data visualizations based on data available and tasks to be achieved.
+3. This process includes data modeling, data processing (such as aggregation and filtering), mapping
+data attributes to graphical attributes, and strategic visual encoding based on known properties of
+visual perception as well as the task(s) at hand.
+4. Students will also learn to evaluate the effectiveness of visualization designs, and think critically
+about each design decision, such as choice of color and choice of visual encoding.
+MODULE I
+Importance of analytics and visualization in the era of data abundance, Review of probability, statistics
+and random processes, Brief introduction to estimation theory.
+MODULE II
+Introduction to machine learning, supervised and unsupervised learning, gradient descent, overfitting,
+regularization etc. , Clustering techniques: K-means, Gaussian mixture models and expectation-
+maximization, agglomerative clustering, evaluation of clustering , Rand index, mutual information based
+scores, Fowlkes-Mallows index etc. , Regression: Linear models, ordinary least squares, ridge regression,
+LASSO, Gaussian Processes regression. , Supervised classification methods: K-nearest neighbor, naive
+Bayes, logistic regression, decision tree, support vector machine. , Sparse coding and dictionary learning,
+orthogonal matching pursuit. , Introduction to artificial neural networks (ANNs), deep NNs,
+convolutional neural network (CNN), and other recent topics.
+MODULE III
+Data visualization: Basic principles, categorical and continuous variables. , Exploratory graphical
+analysis. , Creating static graphs, animated visualizations, loops, GIFs and Videos. , Data visualization
+in Python and R, examples from Bokeh, Altair, ggPlot, ggplot2, gganimate, Image Magick etc. ,
+Introduction to Visualization Toolkit (VTK) for 3D computer graphics, image processing and
+visualization. , Visualization for deep learning
+REFERENCE BOOKS
+1. Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie, The Elements of Statistical Learning,
+Springer.
+2. Christopher Bishop, Pattern Recognition and Machine Learning, Springer.
+3. David G. Stork, Peter E. Hart, and Richard O. Duda, Pattern Classification (2nd edition), Wiley.
+4. Edward Tufte, The Visual Display of Quantitative Information (2nd edition), Graphics Press.
+5. Colin Ware, Information Visualization: Perception for Design (2nd edition), Morgan Kaufmann.
+6. Alberto Cairo, The Functional Art: An Introduction to Information Graphics and Visualization, New
+Riders, Pearson Education.
+7. Nathan Yau, Data Points: Visualization That Means Something, Wiley.
+8. Charles D. Hansen and Chris R. Johnson, Visualization Handbook, Academic Press.
+9. Will Schroeder, Ken Martin, and Bill Lorensen, The Visualization Toolkit: An Object,Oriented
+Approach to 3D Graphics, Kitware Inc. Publishers.
+53
+
+--- Page 54 ---
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to explain design and create data
+CO1
+visualizations.
+Students will be able to conduct exploratory data analysis using
+CO2
+visualization.
+Students will be able to use knowledge of perception and cognition
+CO3
+to evaluate visualization design alternatives.
+Students will be able to apply data transformations such as
+CO4
+aggregation and filtering for visualization.
+Students will be able to explain and identify opportunities for
+CO5
+application of data visualization in various domains.
+CO-PO Mapping:
+Table: CO-PO Matrices
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “--”
+PO1 PO2 PO3 PO4 PO5 PO6
+CO1 -- 1 1 1 -- --
+CO2 1 2 2 2 -- --
+CO3 1 3 3 3 2 2
+CO4 3 3 3 3 2 3
+CO5 3 3 3 3 2 2
+Total 8 12 12 12 6 7
+Average 1.6 2.4 2.4 2.4 1.2 1.4
+Eq. Average
+Attainment 2 2 2 2 1 1
+54
+
+--- Page 55 ---
+2.4.(iv) Human Computer Interaction
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objectives
+Upon successful completion of this course, students should be able to:
+• Design, implement and evaluate effective and usable graphical computer interfaces.
+• Describe and apply core theories, models and methodologies from the field of HCI.
+• Describe and discuss current research in the field of HCI.
+• Implement simple graphical user interfaces.
+• Describe special considerations in designing user interfaces for older adults.
+Detailed syllabus
+HCI foundations- Input–output channels, Human memory, Thinking: reasoning and problem solving, Emotion,
+Individual differences, Psychology and the design of interactive systems, Text entry devices, Positioning, pointing
+and drawing, Display devices, Devices for virtual reality and 3D interaction, Physical controls, sensors and special
+devices, Paper: printing and scanning
+Designing- Programming Interactive systems- Models of interaction, Frameworks and HCI, Ergonomics,
+Interaction styles, Elements of the WIMP interface, The context of the interaction, Experience, engagement and
+fun, Paradigms for interaction,
+Cantered design and testing- Interaction design basics-The process of design, User focus, Scenarios, Navigation
+design, Screen design and layout, Iteration and prototyping, Design for non-Mouse interfaces, HCI in the software
+process, Iterative design and prototyping, Design rules, Principles to support usability, Standards and Guidelines,
+Golden rules and heuristics, HCI patterns
+Implementation support - Elements of windowing systems, Programming the application, Using toolkits, User
+interface management systems, Evaluation techniques, Evaluation through expert analysis, Evaluation through
+user participation, Universal design, User support
+Models and Theories - Cognitive models, Goal and task hierarchies, Linguistic models, The challenge of display-
+based systems, Physical and device models, Cognitive architectures
+Collaboration and communication - Face-to-face communication, Conversation, Text-based communication,
+Group working, Dialog design notations, Diagrammatic notations, Textual dialog notations, Dialog semantics,
+Dialog analysis and design
+Human factors and security - Groupware, Meeting and decision support systems, Shared applications and
+artifacts, Frameworks for groupware Implementing synchronous groupware, Mixed, Augmented and Virtual
+Reality
+Text Books
+1. A Dix, Janet Finlay, G D Abowd, R Beale., Human-Computer Interaction, 3rd Edition, Pearson Publishers,2008.
+2. Shneiderman, Plaisant, Cohen and Jacobs, Designing the User Interface: Strategies for Effective Human
+Computer Interaction, 5th Edition, Pearson Publishers, 2010.
+55
+
+--- Page 56 ---
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+CO1 Design and Development processes and life cycle of Human Computer
+Interaction
+CO2 Analyze product usability evaluations and testing methods.
+CO3 Apply the interface design standards/guidelines for cross cultural and
+disabled users.
+CO4 Categorize Design and Develop Human Computer Interaction in proper
+architectural structures.
+TABLE 2
+CO-PO Matrices & CO-PSO mapping of course
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION-“-“
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PSO1 PSO2
+CO1 2 3 2 2 1 1 1
+CO2 1 3 1 2 2
+CO3 2 2 1 3 2 2 1 3 3
+CO4 1 1 1 2 2 2 3 3
+Total 6 6 5 7 4 2 3 4 9 9
+Average 1.50 2.00 1.67 1.75 2.00 2.00 1.5 1.00 2.25 2.25
+Eq Avg
+Attainment 2 2 2 2 2 2 2 2 2 2
+56
+
+--- Page 57 ---
+2.4.(v) Embedded and Real Time System
+L T P
+4 , 0 , 0 : 4 Credits Prerequisites: None
+Course Objectives:
+1.This course emphasizes on comprehensive treatment of embedded hardware and real time
+operating systems along with case studies, in tune with the requirements of Industry.
+2. The objective of this course is to enable the students to understand embedded-system
+programming and apply that knowledge to design and develop embedded solutions.
+Programme Outcomes:
+1. To learn the concept of designing computer organization and architecture
+2. To gain an understanding of applications of embedded systems involving real-time
+programming of microcontrollers.
+MODULE I
+Introduction to Embedded Systems, CPUs vs. MCUs vs. Embedded Systems, Examples of, Embedded Systems,
+Options for Building Embedded Systems, Features of Embedded Systems, Introduction to Internet of Things (IoT),
+Challenges of IoT, Building Embedded Systems , Building Embedded System using MCUs, Introduction to the
+mbedTM Platform, Introduction to mbed, mbed Software Development Kit (SDK), , Hardware Development Kit
+(HDK), mbed Development Tools, mbed Worldwide Developer CommModuley, Freedom KL25Z, NXP LPC1768
+Hardware Platform, Nordic nRF51822 Hardware Platform, mbed and Internet of Things.
+MODULE II
+ARM Architectures and Processors, ARM Processor Families, ARM Cortex-M Series, Cortex-M0+ Processor,
+ARM Processor vs. ARM Architectures, ARM Cortex-M0+ Processor, Cortex-M0+ Block Diagram, Cortex-M0+
+Memory Map, Bit-band Operations, ARM Cortex-M0+ Processor Instruction Set, ARM and Thumb Instruction
+Set, Cortex-M0+ Interrupts, NVIC (Nested Vectored Interrupt Controller), Port Module and External Interrupts,
+Cortex Microcontroller Software Interface Standard (CMSIS), Benefits of CMSIS, CMSIS Functions, mbed
+Software Development Kit (SDK), Features of mbed SDK, mbed SDK Library Structure, Program Code, C
+Language vs. Assembly Language, Program-Generation Flow, Program Image, Program Data, Data Types,
+Accessing Data using C and Assembly, Mixed Assembly and C Programming, Embedded Assembly.
+MODULE III
+Digital Input and Output, Voltages and Logic Values, GPIO Controller, Using Pointer to Access, GPIO, Define
+Data Structure for Peripherals, Digital IO Examples, Using LED, Using 7-Segment Display, Using Infrared
+Emitter/ Detector, Analog Input, Digital-to-Analog Converter, Analog Output, Analog-to-Digital Converter, ADC
+range, Resolution and Quantization, Sampling Frequency, Input/ Output Analog Signals using mbed, mbed Analog
+Input, mbed Analog Output.
+MODULE IV
+Timer and Pulse-Width Modulation, Timer Overview, Components of a Standard Timer, Compare Mode, Capture
+Mode, Pulse-Width Modulation Mode, mbed Timer and PWM, mbed Timer, mbed time ticker, mbed PWM, Serial
+Communication Overview, UART Communication, Operating System Overview, Types and Services of Operating
+Systems, Real-Time Operating System, RTOS Overview, RTOS Task Scheduling, Keil RTX RTOS, RTOS on
+mbed platform, mbed RTOS API, Using mbed RTOS API for your Project, Thread, Mutex and Semaphore.
+MODULE V
+Practical Implementation; Introduction to the Keil Mdk-Arm Tool, C And Assembly Coding - Processing Text In
+Assembly Language, Square Root Approximation, Digital Input/ Output and GPIO, Interrupt and Low Power
+Features, Programming using mbed API, Analog Input and Output Timer and PWM, Serial Communication
+57
+
+--- Page 58 ---
+Text Books and References:
+1. The Definitive Guide to the ARM Cortex-M0 by Joseph Yiu
+2. Marilyn Wolf, Computers as Components – Principles of Embedded Computing System Design, Third
+Edition Morgan Kaufmann Publisher (An imprint from Elsevier), 2012. (Module I, II, III, V)
+3. Jane W.S.Liu, Real Time Systems, Pearson Education, Third Indian Reprint, 2003.(Module IV)
+4. Lyla B.Das, Embedded Systems : An Integrated Approach Pearson Education, 2013.
+To establish the correlation between COs & POs and Cos & PSOs
+Table 1(Cos)
+No. of Course Outcome (CO) Course Outcome
+CO1 Apply the concepts of embedded system.
+CO2 Design and program for Embedded Systems.
+CO3 Explain and work on Real time operating systems.
+TABLE 2
+CO-PO Matrices & CO-PSO Mapping of course
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 1 1 3 1 3 1
+CO2 2 3 3 2 3 2
+CO3 3 3 2 2 2 2
+Total 6 7 8 5 8 5
+Average 2 2.33 2.67 1.67 2.67 1.67
+EqAvg
+Attainment 2 2 2 1 2 1
+58
+
+--- Page 59 ---
+2.5 Laboratory, I (Robotics and Automation Lab)
+L T P Prerequisites: None
+0,0,3:2Credits
+Course Objective:
+1. To recognize data attribute types and data preprocessing techniques.
+2. To understand and apply supervised, unsupervised, and other learning techniques.
+3. To understand and apply machine learning optimization techniques.
+4. To understand and apply various machine learning algorithm performance evaluation techniques.
+5. To choose a suitable machine learning model, implement, and examine the performance of the
+chosen model for a given real world problem.
+6. To understand cutting edge technologies related to machine learning applications.
+Detailed Syllabus:
+MODULE I
+Robotics Foundations: Kinematics , Dynamics , Mechanisms and Actuation , Sensing and
+Estimation , Motion Planning , Motion Control , Force Control , Robotic Systems
+Architectures and Programming , AI Reasoning Methods for Robotics.
+MODULE II
+Robot Structures: Robots with Flexible Elements , Model Identification .
+MODULE III
+Sensing and Perception: Force and Tactile Sensors , Inertial Sensors, GPS and Odometry, Sonar
+Sensing , Range Sensors , 3D Vision and Recognition , Visual Servoing and Visual Tracking ,
+Sensor Fusion.
+MODULE IV
+Manipulation and Interfaces: Motion for Manipulation Tasks , Modelling and Manipulation.
+MODULE VII
+Human-Centered and Life Like Robotics: Humanoids , Experiments with humanoid Robot
+kinematics and control.
+Text Books:
+1. Introduction to Robotics: Mechanics & Control, 3ed, J. Craig, Prentice Hall, 2004.
+2. Robot Modeling and Control, M. Spong, S. Hutchinson, M. Vidyasagar, Wiley, 2005.
+3. Fundamentals of Robotics: Analysis and Control, Robert J. Schilling, Prentice Hall, 1990.
+4. Theory of Applied Robotics 2nd Ed., R. Jazar, Springer, 2010.
+LIST OF EXPERIMENTS
+1. Determination of maximum and minimum position of links.
+2. Verification of transformation (Position and orientation) with respect to gripper and world coordinate
+system
+3. Estimation of accuracy, repeatability and resolution.
+59
+
+--- Page 60 ---
+4. Robot programming and simulation for pick and place.
+5. Robot programming and simulation for Color identification.
+6. Robot programming and simulation for Shape identification.
+7. Robot programming and simulation for Kinematics.
+8. Robot programming and simulation for remote operation.
+9. Speech Processing for Robots.
+10. Home and device automation.
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to explain the fundamentals of robotics and its
+CO1
+components.
+Students will be able to . illustrate the Kinematics and Dynamics of
+CO2
+robotics.
+Students will be able to elucidate the need and implementation of
+CO3
+related Instrumentation & control in robotics.
+Students will be able to design and deploy the movement of robotic
+CO4
+joints with computers/microcontrollers.
+Students will be able to explain sensors and instrumentation in
+CO5
+robotics
+CO-PO Mapping:
+Table: CO-PO Matrices
+1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “--”
+PO1 PO2 PO3 PO4 PO5 PO6
+CO1 -- 1 1 1 -- --
+CO2 1 2 2 2 -- --
+CO3 1 3 3 3 2 2
+CO4 3 3 3 3 2 3
+CO5 3 3 3 3 2 2
+Total 8 12 12 12 6 7
+Average 1.6 2.4 2.4 2.4 1.2 1.4
+Eq. Average
+Attainment 2 2 2 2 1 1
+60
+
+--- Page 61 ---
+2.6 Laboratory, II (Machine Learning Lab)
+L T P Prerequisites: None
+0,0,3:2Credits
+Course Objective:
+7. To recognize data attribute types and data preprocessing techniques.
+8. To understand and apply supervised, unsupervised, and other learning techniques.
+9. To understand and apply machine learning optimization techniques.
+10. To understand and apply various machine learning algorithm performance evaluation techniques.
+11. To choose a suitable machine learning model, implement, and examine the performance of the
+chosen model for a given real world problem.
+12. To understand cutting edge technologies related to machine learning applications.
+Detailed Syllabus:
+MODULE I
+Data preprocessing: Introduction to NumPy, Pandas, matplotlib, Scikit-learn.
+MODULE II
+Supervised Learning: Implementation of Linear and logistic regression, Naïve bayes, Decision Tree,
+Support Vector Machines, Neural Networks.
+MODULE III
+Unsupervised Learning: Implementation of k-means, Agglomerative, DBSCAN, Dimensionality
+Reduction and Principal Component Analysis.
+MODULE IV
+Optimization Techniques: Bias-Variance tradeoff, Cross-validation, Regularization, Precision, Recall
+and F-measure.
+MODULE V
+Other Learning techniques: Implementation of Reinforcement Learning, Recommender Systems,
+Anomaly Detection.
+MODULE VI
+Applications of Machine Learning: Texts, Image, Time-series data.
+Textbooks:
+1) Andreas C. Müller and Sarah Guido, Introduction to Machine Learning with Python: A Guide for
+Data Scientists, O’Reilly.
+2) Other online material.
+61
+
+--- Page 62 ---
+Course Outcomes (CO):
+Table1
+Course Outcome No. Course Outcome
+Students will be able to understand the mathematics and engineering
+CO1
+sciences behind functioning of machine learning.
+Students will be able to analyze the given dataset and data attributes
+CO2
+for designing a machine learning-based solution.
+Students will be able to identify different machine learning
+CO3 approaches, optimization techniques, and apply them on different
+problem domains.
+Students will be able to design and deploy machine learning
+CO4 solutions for real-world applications with popular machine learning
+tools.
+CO-PO Mapping:
+Table2
+Levels: 1: Slight (LOW) 2: Moderate (MEDIUM) 3: Substantial (HIGH) and for NO CORELATION “-
+-”
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO1 2 2 2 1 1 --
+CO2 2 2 1 2 2 --
+CO3 3 3 3 3 2 1
+CO4 3 3 2 1 2 2
+Total 10 10 8 8 8 3
+Average Attainment 2.5 2.5 2 2 2 0.75
+Eq. Average Attainment 3 3 2 2 2 1
+***************************************************************************
+62

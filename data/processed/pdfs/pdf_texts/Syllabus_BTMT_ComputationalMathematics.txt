@@ -1,0 +1,2464 @@
+
+--- Page 1 ---
+Natiional Institute of Technology Agartala
+Department of Mathematics
+BTTMT in Computational Mathematics
+ProposeedCourseStructureofDualDegreecourse
+On
+BTTMT in Computational Mathematics
+Seemester – 1st 22 – Credits
+Engineering Mathemattics-I 100 2 1 0 3
+Engineering Physics – II 100 3 0 0 3
+Engineering Chemistryy – I 100 3 0 0 3
+Basic Electrical Engineeering (Gr.I) / Basic Electronics (Gr.II) 100 3 0 0 3
+Engineering Mechanicss-I (Gr.I) / Disaster Management (Gr.II) 100 3/2 1/0 0/0 4/2
+Communication in English (Gr.I) / Introduction to
+100 3 0 0 3
+Programming (Theory)) (Gr.II)
+Chemistry Laboratory (Gr.I) / Engineering Physics Lab (Gr.II) 50 0 0 2 1
+Workshop Practice (Grr.I) / Engineering Graphics (Gr.II) 50 0/1 0/0 2/2 1/2
+Basic Electrical Labboratory (Gr.I) / Basic Electronics
+50 0 0 2 1
+Laboratory (Gr.II)
+Computer Programminng Laboratory (Gr. II) 50 0 0 2 0/1
+NSS / NCC - 0 0 3 0
+Seemmester – 2nd 21 – Credits
+Engineering Mathemattics – II 100 2 1 0 3
+Engineering Physics – III 100 3 0 0 3
+Engineering Chemistryy – II 50 2 0 0 2
+Basic Electronics(Gr.I)) / Basic Electrical Engineering (Gr.II) 100 3 0 0 3
+Disaster Management ((Gr.I) / Engineering Mechanics-I (Gr.II) 50 2/3 0/1 0/0 2/4
+Introduction to PProgramming (Theory) (Gr.I) /
+100 3 0 0 3
+Communication in Engglish (Gr.II)
+Engineering Physics Laab (Gr.I) / Chemistry Lab (Gr.II) 50 0 0 2 1
+Engineering Graphics(GGr.I) / Workshop Practice (Gr.II) 50 1/0 0/0 2/2 2/1
+Computer Programminng Laboratory (Gr. I) 50 0 0 2 1
+Basic Electronics Laaboratory (Gr.I) / Basic Electrical
+50 0 0 2 1/0
+Laboratory (Gr.II)
+NSS / NCC - 0 0 3 0
+Page No. 1 of 4
+
+--- Page 2 ---
+Natiional Institute of Technology Agartala
+Department of Mathematics
+BTTMT in Computational Mathematics
+Seemester – 3rd 22– Credits
+Probability and Statistiics 100 3 1 0 4
+Mathematical Analysis 100 3 1 0 4
+Differential Equation 100 3 1 0 4
+Discrete Mathematics aand Fuzzy set theory 100 3 1 0 4
+Data Structure and Alggorithm (Theory) 100 3 1 0 4
+Data Structure and Alggorithm (Practical) 50 0 0 2 2
+Seemester – 4th 23 – Credits
+Algebra 100 3 1 0 4
+Numerical Analysis 100 3 1 0 4
+LPP and Game Theoryy 100 3 1 0 4
+Computer Organizationn 100 3 1 0 4
+Object Oriented Prograamming (C++ and Python) (Theory) 100 3 1 0 4
+Object Oriented Prograamming (C++ and Python) (Practical) 50 0 0 2 3
+Seemester – 5th 19 – Credits
+Soft Computing 100 3 1 0 4
+Integral Transform 100 3 1 0 4
+Financial Mathematics 100 3 1 0 4
+Statistical Inference 100 3 1 0 4
+Scientific Computing (PPractical) 100 0 0 3 3
+(Student Activity – 1)
+Industrial Training-1 // Internship-1 (during summer vacation minimum 15days)
+Seemester – 6th 22 – Credits
+Graph Theory 100 3 1 0 4
+Number Theory and Crryptography 100 3 1 0 4
+Design and Analysis of Algorithms 100 3 1 0 4
+Machine Learning andData Mining 100 3 1 0 4
+Data Base Managemenntt System (Theory) 100 3 1 0 4
+Data Base Managemenntt System (Practical) 50 0 0 2 2
+Seemester – 7th 16– Credits
+Randomized Algorithmm 100 3 1 0 4
+Image Processing 100 3 1 0 4
+Page No. 2 of 4
+
+--- Page 3 ---
+Natiional Institute of Technology Agartala
+Department of Mathematics
+BTTMT in Computational Mathematics
+OptimizationTechniquues 100 3 1 0 4
+Stochastic Processes 100 3 1 0 4
+(Student Activity – 2)
+Industrial Training-2 // Internship-2 (during summer vacation minimum 15days)
+Seemester – 8th 25 – Credits
+Formal Language and AAutomata Theory 100 3 1 0 4
+Artificial Intelligence 100 3 1 0 4
+Deep Learning 100 3 1 0 4
+Elective – I 100 3 1 0 4
+Engineering Economics and Accountancy
+Computer Networks and Security (Theory)
+Non stationary data analysis
+Operations Research-I
+Mathematical Modeling and Simulation-I
+Compiler Design
+Dissertation – I 100 0 3 0 3
+Grand Viva-I 100 0 0 3 3
+Seminar Presentation-II 100 0 0 3 3
+Seemester – 9th 18 – Credits
+Complexity Theory andd Approximation Algorithm 100 3 1 0 4
+Social Media Data Anaalysis (Theory) 100 3 1 0 4
+Big Data Analytics (Praactical) 50 0 0 2 2
+Elective – II 100 3 1 0 4
+Data Communication
+Human Computer Interaction
+Operations Research-II
+Mathematical Modeling and Simulation-II
+Elective –III 100 3 1 0 4
+Operating system
+Deecision Theory and Computational Statistics
+Stochastic Calculus
+Mobile Computing
+Page No. 3 of 4
+
+--- Page 4 ---
+Natiional Institute of Technology Agartala
+Department of Mathematics
+BTTMT in Computational Mathematics
+Semmester – 10th 17– Credits
+Option – 1
+Dissertation – II 200 0 10 0 10
+Grand Viva-II 100 0 0 4 4
+Seminar Presentation-III 100 0 0 3 3
+Option – 2
+Industrial Project 200 0 0 10 10
+ProjectSeminar 100 0 0 3 3
+Grand Viva-II 100 0 0 4 4
+1st Semester = 222 – Credits
+2nd Semester = 221 – Credits
+3rd Semester = 222 – Credits
+4th Semester = 223 – Credits
+5th Semester = 119 – Credits
+6th Semester = 222 – Credits
+7th Semester = 116 – Credits
+8th Semester = 225 – Credits
+9th Semester = 118 – Credits
+10th Semester = 117 – Credits
+Total = 2205 – Credits
+BT -170 Credits
+MT - 35 Credits
+Page No. 4 of 4
+
+--- Page 5 ---
+NATIONAL INNSTITUTE OF TECHNOLOGGY
+AGARTALA
+DEPARTMMENT OF MATHEMATICS
+SYLLABUS
+FOR
+BTMT
+IN
+COMPUTAATIONAL MATHEMATICS
+
+--- Page 6 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+sst
+1 SEMESTER
+2
+
+--- Page 7 ---
+Engineering Mathematics - I
+1. Infinite series: Convergence of SSequence, Bounded Sequence, Monotonic Sequence, Convergent,
+Divergent and Oscillatory Series, GGeometric Series, Positive term series, p-series, Commparison Test,
+D'Alembert's Ratio tests, Raabe's Test, Gauss's Test, Cauchy's Integral Test, Cauchhy's Root test,
+Logarithmic Test.
+2. Calculus of function of one varriable: Limit and continuity of functions, Uniform continuity and
+differentiability, successive differenntiation, Leibnitz's theorem, Rolle's theorem,Mean VValue theorems
+and Taylor's theorem, expansion oof functions into Taylor's and Maclaurin's series, Indeterminate
+forms, Curvature, Asymptotes, Conncavity, Convexity and point of inflexion.
+3. Function of Several Variables: LLimit, Continuity, Partial Derivatives, Chain Rule, Differentiation
+of Implicit functions, Exact Differeentials, Euler's theorem on homogeneous function annd its converse,
+Tangent planes and Normal planes,, Maxima, Minima and Saddle points, Simple probleems in extrema
+of functions with constraints, Methood of Lagrangian Multipliers.
+4. Ordinary Differential Equation:: First order ordinary differential equation, Linear equations and
+Bernoulli's equation, Ordinary lineaar differential equation of nth order, Solution of hommogeneous and
+non-homogeneous equations, Operaator method, method of undetermined coefficients aand variation of
+parameters, Solution of simple ssimultaneous ordinary differential equation. Seriees solution of
+differential equation.
+5. Laplace Transform: Transforms of elementary functions, Inverse transforms, properrties of laplace
+transform, Convolutions, Transformms of periodic functions, unit step functions, shiffting theorems,
+Solution of ODE's using transformss.
+Text/Reference Books:-
+a) M. D. Raisinghania. Ordiinnary and Partial Differential Equation, S. Chandd, 19th Edition,
+2017.
+b) S. C. Malik and S. Aroraa, Mathematical Analysis, New Age International Publisher, 5th
+Edition, 2017.
+c) H. K. Das, Advanced Enginneering Mathematics, S. Chand, 1st Edition, 1988.
+d) B. V. Ramana, Higher EEnngineering Mathematics, Tata McGraw Hill Eduucation (India)
+Private Limitd, 20th Editionn, 2013.
+e) E. Kreyszig, Advanced Enginneering Mathematics, Wiley, 10th Edition, 2015.
+Engineering Physics - I
+1. Mathematical Preliminary: Vector Differentiation, Scalar and Vector Fieldds, Directional
+Derivatives, Vector Differential OOperator, Gradient, Divergence, Curl, Line, Surfacee and Volume
+integrals and their applications, Greeen’s theorem.
+2. Electromagnetics: Gauss’s Theeorem of Electrostatics, Ampere’s law, Magneto statiics and laws of
+Electromagnetic Induction, Self andd Mutual induction, Concept of Displacement Curreent, Difference
+3
+
+--- Page 8 ---
+between Conduction Current andd Displacement Current, Eddy Current, Maxwelll’s Equations,
+Propagation of Electromagnetic Waves in Free Space, Solution of propagattion of Plane
+Electromagnetic Wave in free spacce and medium, Eddy Current, Concept of Field Eneergy (Poynting
+Vector)
+3. Oscillations and Waves: Planne progressive wave, Energy of waves, Reverberaation, Sabine’s
+law(derivation), Damped Vibrationn:-differential equation and solution, critical dampinng, logarithmic
+decrement, analogy with electricaal circuit, Forced damped Vibration, Amplitude and Velocity
+Resonance, sharpness of resonance and quality factor, applications of oscillatory motionns.
+4. Interference: Coherence (tempooral and spatial), Fresnel’s Bi-prism, Conditions foor interference,
+Techniques of obtaining interferencce: Interference of Light due to division of wave fronnt, Interference
+of Light due to division of amplitudde; Newton’s Ring, colour of thin film.
+5. Diffraction: Types of Diffractioon; Fresnel and Fraunhofer, Difference between Innterference and
+Diffraction, Zone plate; positive aannd Negative Zone plates, action of zone plate as a convex lens,
+Fraunhofer Diffraction at a Single SSlit and Double slit, Plane transmission diffraction ggrating spectra,
+Comparison between Prism and Grraating Spectra, Resolving Power and limit of resolutiion, Rayleigh’s
+criterion, Resolving Power of Microoscope, Telescope and prism.
+6. Polarization: Polarization, typess of polarized light, polarizer and analyzer, Effect oof polarizer on
+natural light, Effect of analyser on plane polarized light-Malus Law, Nicol’s Prrism; Polaroid,
+Anisotropic crystal; Birefringencee, calcite crystal; Huygens’ explanation of doubble refraction;
+Huygens’ construction of wave frronts; experimental determination of principal refrractive indices;
+phase difference between o – ray and e – ray; superposition of waves linearly pollarized at right
+angles; Conditions for obtaining llinearly polarized light, circularly polarized light aand elliptically
+polarized light, retarders or wave pllates; Babinet Compensator.
+Reference Books
+1. D. J. Griffith, Introductioon to Electrodynamics, PHI Pubs.
+2. G. B. Arfken and H. J. Weber, Mathematical Methods for Physicists, Elseevier Academic
+Press. 3. H. J. Pain, The Phhysics of Vibrations and Waves, John Wiley and Sonss Ltd.
+4. A. Ghatak, Optics, Tata MMc Graw Hill.
+5. Optics, E. Hecht, Pearsoonn.
+6. F. A. Jenkins and H. E. WWhite, Fundamentals of Optics, Tata Mc Graw Hill.
+Engineering Chemistry - I
+a) Chemical Bonding: - Ionic annd Covalent bonds; Valence Bond Theory (V.B.T) of covalency-
+atomic orbital and their overlap, hyybridization of orbitals definition types and associatted geometries,
+VSEPR theory, shapes of simple mmoolecules like-H2O, CO2, NH3, CH4,C2H6, C2H2 BBF3, PCl5, SF6
+in the light of the hybridization sstate of the central atom and VSEPR effects; Molecular Orbital
+Theory (M.O.T)- concept of mmoolecular orbital, molecular orbital energy levell diagrams of
+homonuclear diatomic molecules-HHe2,O2, N2 and molecular ions, determination of boond order, bond
+length and magnetic properties froom M.O diagrams; Noncovalent interactions- van dder Waals and
+hydrogen bonding and their effect over physical properties of different substances, mmetallic bonds-
+Electron sea model.
+4
+
+--- Page 9 ---
+b) Fuels: - Definition and classificcaation of fuels; Characteristics of a good fuel, compaarison between
+solid, liquid and gaseous fuel; Callorific value of fuels- definition, units, higher and lower calorific
+value, determination of the calorificc value of a solid fuel by bomb calorimeter; Solid fueel- coal, origin,
+types, proximate and ultimate anaalysis of coal; Liquid fuel- petroleum, origin, refining of crude,
+cracking, synthetic petrol, Fischeer-Tropsch and Bergius method for the synthesis of gasoline,
+knocking
+c) Water: Introduction; Hardness oof Water- cause, types, units, disadvantages of using hard water for
+domestic and industrial purposes (( e.g., scale and sludge formation in boilers, causticcembitterment,
+boiler corrosion etc.), softening off hard water ( lime-soda, permutit and ion exchannge processes);
+Chemical analysis of Waterestimmaation of free chlorine, total alkalinity, hardness and dissolved
+oxygen, numerical based on determmination of hardness.
+d) Pollution and its control:-- Pollution- introduction, air pollutants, particculates, smog,
+photochemical smog, acid rain, grreen house effects, depletion of ozone layer, analyysis of gaseous
+effluents-oxides of nitrogen, oxidess of sulphur and H2S, control of air pollution- particuulate emission,
+gaseous pollutants, water pollution-- arsenic pollution and its remedies. Chemical analyysis of effluent
+liquid streams, BOD, COD.
+e) Electrochemistry: - Arrhenius theory of electrolytic dissociation, classification oof electrolytes;
+degree of dissociation of acids, disssociation constant of weak acids, Debye-Huckel theoory, concept of
+pH and pOH, buffer solutionss, solubility product, common ion effect, coonductance of
+solutionsspecific, molar and equivaalent conductance, variation of molarconductance wwith dilution for
+strong and weak electrolytes; Migrration of ions- Kohlrausch's law of independent miggration of ions,
+Ostwald's dilution law; transport nuumber, Nernst equation for single electrode, electrochhemical cells.
+f) Polymer Chemistry: - Introduccttion, types of polymerization, classification of polyymers based on
+chain characteristics, source, methhod of synthesis and molecular forces involved, mechanism of
+polymerization reaction: cationic, aannionic and catalytic polymerization; glass transition and crystalline
+melting point temperatures, Facttoors influencing glass transition and crystalline melting point
+temperatures. Preparation, propertiees and uses of the Polyethylene, PVC, Polystyrene,, PAN, Teflon,
+Nylon- 6:6, polyester ; Rubber- moonomer, structure, compounding of rubber, vulcanizaation, synthetic
+rubbers- Buna-S, Buna-N, neoprenee, butyl rubber and polyurethanes
+Reference books:
+1. Jain and Jain, EngineerinngChemistry; 15th Edition,
+2. Engineering Chemistry; WWiley - India.
+3. S. S Dara, S chand Publissher, A Text Book of Engineering Practical Chemisttry .
+4. Sashi Chawla, A text boook of Engineering Chemistry;
+5. S. S Dara, S chand Publissher, A Text Book of Engineering Chemistry;
+6. A. K Dey, Environmentaal Chemistry, John Wiley.
+Basic Electrical Engineering
+Basic circuit analysis methods:
+Kirchhoff‟s laws, mesh and nodal aanalysis. Network Theorems: Superposition theorem,, Thevenin-
+Norton theorem, maximum powertrransfer theorem, star-delta transformation.
+5
+
+--- Page 10 ---
+AC circuit analysis:
+ACfundamentals, phasor diagrams,, Power in ac circuits, Series AC circuit and parallel AC circuit,
+Resonance, Network analysis methoods, Poly-phase circuit.
+Basics of Electrical Machines:
+Basic principle of generator and mootor, emf induced in a coil, concept of rotating magneetic field,
+introduction to transformer.
+Reference Books:
+1. Vincent Del Toro, „Electrical Ennggineering Fundamentals‟, Phi Learning, 2nd Editionn, 2014.
+2. D. P. Kothari and I. J. Nagrath, „„BBasic Electrical Engineering‟, McGraw Higher Ed., 3rd Edition,
+2009.
+3. K.V.V. Murthy and M.S.Kamathh, „Basic Circuit Analysis‟, 1st Edition (reprinted witth corrections)
+Jaico publishing, 1998.
+4. W.H. Hayt and J.E. Kemmerley, „Engineering Circuit Analysis‟, Int. St. Ed.(4th) MccGraw Hill,
+1986.
+5. S.K.Bhattacharya, 'Electrical Maachines', Tata McGraw Hill Publishing company Ltdd., second
+Edition, 2007
+6. I. J. Nagrath and D. P. Kothari, 'EElectric Machines', Tata McGraw Hill, 1985
+Engineering Mechanics -I
+Force Systems and Equilibrium
+Force moment and couple, princiiple of transmissibility, Varignon's theorem. Resuultant of force
+system- concurrent and nonconcurrrent coplanar forces, free body diagram, equilibriumm equations and
+their uses in solving elementary enggineering problems.
+Plane trusses
+Analysis of plane trusses and planne frames (Analytical and graphical methods). Meethod of joints,
+methods of sections, graphical methhod.
+Friction
+Coulumb's laws of fraction, belt fraacction problems involving fraction related to practicall application.
+Moment of Inertia and plane figuure:-
+6
+
+--- Page 11 ---
+Moment of Inertia of a plane figuree with respect to an axis in its plane, Moment of Inerttia with respect
+to an axis perpendicular to the planne of the figure. Parallel axis theorem, perpendicularr axis theorem.
+Polar moment of inertia
+Moment of inertia of material boddies:
+Mass moment of inertia in case of ddisc cone cylinder sphere slender rod
+Centre of gravity of rigid body
+Centre of gravity of right circular coone, cylinder,hemisphere and composite rigid body.
+Virtual work :
+Work of a force principle of vviirtual work and itsapplication, Constriction of fforce polygon,
+Raydiagram, Funicular polygon, Maxwelldiagrams. Mass moment of inertia in case of disc,
+cone,cylinder, sphere slender rod.
+Text/Reference Books:
+1. Timoshenko and Young, Engineeering Mechanics.
+2. R.S. Khurmi , A text Book of Ennggineering Mechanics.
+3. R.K. Bansal , A text Book of Enggineering Mechanics.
+Communication in English
+Pronunciation, Vocabulary Extennsion, basic aspects of language skills, modees of writing,
+comprehension, composition, wordd-order, structure of words etc. The fundamentalss of Grammar,
+textual pieces for literary appreciattion, non-traditional materials, newspaper articles, aadvertisements,
+notice writing,Soft Skills Developmment etc.
+The following textual pieces from ""English for All" by Nilanjana Gupta, published by MMac Millan:
+Text/Reference Books: -
+1. Shakespeare's Sister by Virginia WWoolf
+2. Scientific Research for Amateurrss by J.B.S. Haldane
+3. When I Have Seen by William Shhakespeare
+4. Lines Written in Early Spring byy William Wordsworth
+5. On His Blindness by John Miltonn
+6. Prospice by Robert Browning
+7. After Twenty Years by O' Henry
+8. The Adventures of the Blue Carbbuncle by Arthur Conan Doyle
+7
+
+--- Page 12 ---
+Chemistry Laboratory
+List of experiments:
+1. Determinations of hardness of water.
+2. Determinations of percentage purity of lime stone sample.
+3. Determinations of dissolved oxygen in water.
+4, Determinations of sodium carbonate and sodium bicarbonate in a mixture.
+5. Determinations of iron content in a sample.
+6. Determinations of chloride content of water.
+7. Determinations of proximate analysis of coal.
+8. Determinations of flash point of anoil by penskymartein's closed cup flash point Apparatus.
+9. Determinations of viscosity of oil by redwood viscometer.
+10. Determination of Dissociation constant of weak acids by conductometric Titration.
+11. Determinations of carbon residue of oil by Conrad son's apparatus.
+
+12. Determination of pH of an electrolyte by potentiometer Titration.
+
+Workshop Practice
+1. Fitting Shop
+i) Introduction of hand Tools.
+ii) Job No. 01:- Making of Square bar from round bar of mild steel by metal wearing process.
+iit) Job No.02:- Making of V-Groove on Mild Steel Flat by metal cutting process.
+2. Carpentry Shop
+i) Introduction of Hand Tools.
+ii) Job No.01:- Making of wooden End half lap joint.
+iit) Job No.02:- Making of wooden T-Joint.
+3. Smithy Shop
+i) Introduction of Hand Tools
+ii) Job No.01:- To make square bar from round bar of Mild Steel by heatingand hammering.
+
+iit) Job No.02:- To make Hexagonal bar from round bar of Mild Steel by heating and hammering
+
+
+--- Page 13 ---
+Basic Electrical Laboratory
+List of Experiments:
+1) Study of different Electrical souurrces.
+2) Verification of Thevenin‟s theorreem.
+3) Verification of Norton‟s theoremm.
+4) Verification of Maximum powerr transfer theorem.
+5) Verification of Superposition theeorem.
+6) Extension of meter range.
+7) Study of characteristics of Fluoreescent lamp and Incandescent lamp.
+8) Characteristics of R-L circuit, R--C circuit, R-L-C series circuit with AC source.
+9) Determination of insulation resisstance by using Megger.
+10) Study of different transformer cconnections.
+11) Transformer testing
+12) Starting of induction motor
+9
+
+--- Page 14 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+nnd
+2 SEMESTER
+10
+
+--- Page 15 ---
+EEngineering Mathematics - II
+1. Matrices: Algebra of matricees, Vector spaces, linear dependence of vectors, basis, Linear
+Transformations, Rank and inverrse of a matrix, Solution of algebraic equationns, consistency
+conditions, Hermitian, skew- Hermmitian and Unitary matrices, by-linear form, eigen vvalue and eigen
+vectors. Cayley-Hamilton theorem.
+2. Complex numbers: Exponentiaal complex numbers and logarithm of a complex nuumber, circular,
+hyperbolic and inverse circular funcctions of complex numbers.
+3. Function of a Complex Varriable: Limit, continuity and differentiation, Anaalytic function,
+Cauchy- Riemann equations, Conjuugate functions, Application to two dimensional probblems, Taylor's
+and Laurent's expansions, Branch points, zeros, poles, residues, Cauchy's Integral thheorem, simple
+problems on Contour Integration.
+4. Integral Calculus: Improper Inntegrals, Beta and Gamma function. Double and Triple Integrals,
+Jacobians and transformation of co--ordinates.
+5. Vectors: Scalar and vector tripple product, space curves, Seret - Frenet formulaa, velocity and
+acceleration simple problems, momment of force, work done, angular velocity, relative velocitysimple
+applications. Vector function of one variable, vector differentiation and integraation, gradient,
+divergence and curl ---Applicationns. Stoke's theorem, Green's theorem, Gauss divergeence theorem -
+simple applications to areas, Volummes and center of Pressure.
+Text/Reference Books:
+1. Malik and Arora, Mathematical AAnalysis:
+2. H.K.Dass., Advanced Engineerinng Mathematics
+3. B.V.Ramana. Higher Engg. Mathhematics
+4. E. Kreyszig , Advanced Engineerring Mathematics.
+5. G.B.Thomas and R.L.Finney, Caallculus and Analytic Geometry:
+6. M.L.Khanna , Vector Calculas
+11
+
+--- Page 16 ---
+Engineering Physics - II
+1. Introduction to Quantum Meechanics: Blackbody Radiation, Planck’s Radiation Formula, de
+Broglie’s hypothesis, Davisson Germer Experiment, Stern-Gerlach Experiment, Heisenberg’s
+uncertainty principle and its applicaation, Wave packets, Phase velocity and group veloccity, probability
+current density, Operators, Hermitiaan operators, expectation 1values, Interpretation of wave function,
+Postulates of quantum mechanics, Orthogonal and orthonormal functions, Schrödingger equation in
+one dimensional problems, Particlle in a box, Eigen values and Eigen function, staationary states,
+Tunneling problems, Bound States.
+2. Relativity: Reference Frames, Michelson - Morley Experiment and its consequeences, Lorentz
+Transformation, Postulates of Rellativity, Relativistic Mass and Mass-Energy Equiivalence, Time
+Dilation, Length Contraction, Relattiivistic Kinematics, Principle of Simultaneity, Twin PParadox.
+3. Concepts of Solids: Statisticaal distributions, M-B, B-E and F-D statistics andd their simple
+applications, Planck’s radiation laww, Degenerate Fermi Gas. Crystallographic planes, reeciprocal lattice
+and miller indices, Inter-planer spaacing (cubic system only), Bragg’s diffraction, Lauee’s equation of
+X-ray diffraction, Crystal structuree analysis, Lattice Vibration, Electrons in a crystalline solid, free
+electron theory, electronic conductioon in solids, Band theory of solids, Kronig - Penny mmodel.
+4. Introduction to Laser and Opttical Fibre: Spontaneous and stimulated emission, Einstein’s A-B
+coefficients, Meta - Stable states, ppopulation inversion, basic principle of laser (three aand four level),
+opticalcavityandresonator,RubyaandHe-Nelaser,holography.Propagationoflightinnfibre,stepand
+graded index fibre, numerical aperrture, attenuation in optical fibre, introduction of opptical window,
+application of laser and optical fibree.
+Reference Books:
+1. A. K. Ghatak and S. Lokanathan,, Quantum Mechanics, Macmillan India Ltd.
+2. R. Eisberg and Resnick, Quanttum Physics of Atoms, Molecules, Solids, Nuclei and Particles,
+Wiley India Pvt. Ltd.
+3. Robert Resnick, Introduction to SSpecial Relativity, John Wiley and Sons.
+4. F. Reif, Statistical Mechanics, MMcc Graw Hill.
+5. B.K. Agarwal, Elements of Statisstical Mechanics
+6. Kittel, Introduction solid State Phhysics, Willy Eastern Limited
+7. K. Thyagrajan, A. Ghatak, Laserss, Fundamentals and Applications, Springer Pub.
+8. D. J. Griffiths, Introduction to QQuantum Mechanics, Pearson
+9. M. Ali Omar, Elementary Solid SState Physics: Principles and Applications, Pearson PPub.
+Engineering Chemistry –II
+(a) Cement: - Introduction, classiffication; Portland Cement definition, raw materialss, manufacture,
+ideal composition and physical reequirement according to I.S code, chemical constitution of the
+12
+
+--- Page 17 ---
+finished product, setting and harddeening, heat of hydration; Special Cements- high-aalumina, white
+portland,water-proofcementsetc.
+(b) Refractories: - Definition, objeective of using, classification based on chemical natuure; Properties-
+refractoriness, strength, dimensioonnal stability, chemical inertness, thermal expannsion, thermal
+conductivity, porosity, spalling, eleecctrical conductivity etc. and interrelations between tthem; selection
+of good refractory; Common Refracctory Bricks- silica, fireclay, high alumina, magnesite and zirconia
+bricks, properties and uses.
+(c) Corrosion: - Introduction, definnition, classification; Dry Corrosion factors effectingg dry corrosion,
+mechanism, types, oxidation corroosion, Pilling-Bedworth rule, corrosion by other gaases, hydrogen
+related corrosion, liquid metal corrroosion; Wet Corrosion- types, chemical corrosion, faactors affecting
+chemical corrosion, mechanism off wet corrosion- electrochemical mechanism, evoluttion of H2 and
+absorption of O2 types; Differentiaal aeration theory, passivity, pitting, waterline and sttress corrosion;
+Corrosion Control purification, allooyying, application of protective coatings, cathodic prootection etc.
+(d) Lubricants: - Introduction; MMechanism- thick-film, thin-film and extreme pressuure lubrication;
+Classification of Lubricantslubricaating oils, greases and solid lubricants, their propeerties, use and
+additives required (e.g., anti-oxidaants, corrosion preventers etc.); Properties of Lubbricating Oils-
+viscosity, flash and fire-point, clooud and pour point, oiliness, carbon residue, anilline point etc.;
+Cutting fluids.
+(e) Thermochemistry: - Differentt types of energy and other definitions; Endothermiic/ Exothermic
+Reactions and Energy Diagrams; thermochemistry stoichiometry, enthalpy, standarrd enthalpy of
+formation and reaction, Hess's Law,, heat of solution, heat of neutralization.
+Text/Reference Books:
+1. Jain and Jain, Engineering Chemmiistry; 15th Edition.
+2. Engineering Chemistry;Wiley - IIndia.
+3. S.S Dara, S chand Publisher, A TText Book of Engineering Practical Chemistry.
+4. Sashi Chawla, A text book of Ennggineering Chemistry
+5. S.S Dara, S Chand Publisher, A TText Book of Engineering Chemistry.
+6. A.K Dey, Environmental Chemisstry, John Wiley.
+7. Ashim K Das, Environmental cheemistry with Green chemistry, Books and Allied Pvtt. Ltd.
+8. Vanloon Duffy, Environmental CChemistry, 2/E, Oxford University Press.
+9. O. G. Palanna, Engineering Chemmistry, Tata Mc-Graw Hill Education Private Ltd. Neew Delhi.
+13
+
+--- Page 18 ---
+Basic Electronics
+Elementary Physics of Semiconduuctor Material
+PN Junction Diode- Operation Characteristics and Modelling, Zener Diode- OOperation and
+Application; Diode Rectifiers, Filteers, Clipper, Clamper. BJT Operation and Characterristic, NPN and
+PNP transistor, BJT biasing, Difffeerent circuit configurations with Circuit Models. IIntroduction to
+JFET Operation, Main Carriers in BBJT and FET and Characteristics.
+Operational Amplifiers
+Inverting and Non inverting Conffiguration and its Common Applications IC-555 TTimer Circuit-
+Astable, Monostable and Bistable OOperations. Cathode Ray Oscilloscope. Elementaryy Construction,
+Connections for Viewing Signals,, Measuring Voltage, Frequency and Time Periood. Elementary
+Physics of Opto-electronic Devicess like LED, LCD Devices, Photo-Diode, PhotoTranssistor, LDR, 7-
+segment Display, Opto isolators.
+Text/Reference Books: -
+1. Vladimir V.Mitin, Viatcheslav AA. Kochelap, Michael A. Stroscio, Introduction to Naanoelectronics -
+Science, Nanotechnology,Engineeriing and Application, Cambridge University Press.
+2. D. De and K. P. Ghatak , Basic EElectronics, Pearson Education.
+3. R.F. Pierret, Semiconductor Deviice Fundamentals, Pearson Education.
+4. Robert F Pierret and Gerold WW.Neudeck , Modular Services on Solid State Deevice, Addison
+Wesley Publishing Company
+5. K. Sedra and Smith, Microelectrronic Circuits , Oxford
+6. D. Carlo and Lin , Linear Circuitt Analysis, Oxford University Press
+Disaster Management
+Elements of Engineering Seismoloogy:- Earthquake occurrence in the world, causes oof Earthquake,
+Plate tectonics, Earthquake mechhanism, seismic zoning map of India and its usse. Earthquake
+phenomenon:- Focus, Epicenter, seeismic waves, magnitude, intensity scale its corelatiion assessment
+and Do's and Don's for protectionn of life and property during disaster. Landslides:- Geo-technical
+aspects of landslides and control off Landslide Hazard. Flood:- Flood control as a measure of Disaster
+Management and Mitigation Cycloone and Fire:- Cyclone Disaster Mitigation and ensuuring wind and
+fire hazard safety during disaster.
+Text/Reference Books:
+1. A.K.Mukhopadhay, Crisis andd Disaster Management Turbulence and Aftermaath, New Age
+International Publishers.
+2. H.N.Srivastava, S.N. Bhattacharyya. G.D.Gupta, Earthquake Geography and Managemment, New Age
+International Publishers.
+14
+
+--- Page 19 ---
+3. Thomas D. Schneid, Larry Colllins, Disaster Management and Preparedness, Lewwis Publishers,
+2001.
+4. C. V. R. Murty, IITK-BMTPCC Earthquake Tips: Learning Seismic Design andd Construction,
+National Information Centre of Eartthquake Engineering.
+Introduction to Programming(Thheory)
+BASIC OF COMPUTERS:
+Computer fundamentals: Bits and Bytes , CPU, Memory, Input and output devicess, I/O devices,
+operating system, Application software's , Number system- Decimal, BBinary, Octal,
+Hexadecimal.Need for high level laannguages, Program design using flow charts
+C LANGUAGE PRELIMINARIEES:
+C character set, Identifier and keywwords, data types, declaration, expression, statementss and symbolic
+constants.
+Pre-processor commands: #includde, #define, #ifdef
+Input-Output: getchar, putchar, sccaanf, printf, gets,puts.
+Operators and expressions: Arrithmetic, unary,assignment, logical, conditional, and bit wise
+operators.
+Control statements: if else, for, whhile, do-while, switch, break, continue, nested loops.
+Storage types: Automatic, externall, register andstatic variables.
+Functions : Definiting and acccessing , Passing arguments, Function prototypees, Recursion,
+Libraryfunctions, Static functions.
+Arrays: Definiting and processing, Passing arrays to afunction, Multi-dimension arrayss.
+Pointers: Basic concepts, malloc, ppointer and arrays, simple single linked list example.
+Text/Reference Books:
+1. Introduction to Computer Sciencee- ITL Education Solutions Limited , Pearson Educaation
+2. Paul Deitel , C How to Program -5th Edition, PHI.
+3. Dennis Ritchie and Brian Kernigghhan, The C Programming Language, PHI.
+4. Behrouz A. Forouzan, Richarrd F. Gilberg, Computer Science: A Structured Programming
+Approach Using C , Course Technoology
+5. Gottfried, Byron S, Programmingg with C , TMH
+Engineering Physics Lab
+15
+
+--- Page 20 ---
+List of Experiments
+1. To study the linear motion under virtually frictionless conditions using Linear Air Traack.
+2. Determination of the Co-efficiennt of viscosity of a liquid from its rate of flow throuugh a capillary
+tube.
+3. Construction of one ohm coil.
+4. Determination of the frequency oof a tuning fork by Melde’s apparatus.
+5. Determination of acceleration due to gravity (g) by a Kater’s pendulum. 6. MMeasurementof
+unknownwavelengthofalaserwithhadiffractiongrating
+Engineering Graphics
+Drawing instruments and their usees, lines, lettering and dimensioning, scales, plainss and diagonal
+scale, curves used in engineeriing practice, ellipse, parabola, hyperbola, cycloid, involutes
+orthographic projection, planes off projection, four quadrant, first angle projection, reference line,
+convention employed. Projection oof points and lines, true length, true inclinations with reference
+plane, traces of a line, end view, and illustrative problems. Projection of planes, traaces, end view
+planes perpendicular to one inclinneed to other reference planes. Projections of solid such as prism,
+pyramid, cone, cylinder, cube etc.
+Text/Reference Books:
+1. N.D. Bhatt , Elementary Engineeerring Drawing (Plane and solid geometry).
+2. R.B Gupta , A text Book of Enginneering Drawing.
+3. K.Venugopal , A text Book of Enngineering Drawing.
+4. N.D. Bhatt, Machine Drawing.
+5. R. K. Dhawan , A text Book of MMachine Drawing (In first angle projection)
+Commputer Programming Laboratory
+Programming simple problems exerrcising different features of C.
+Basic Electronics Laboratory
+Selected experiments based on Baasic Electronics.
+1) Study of characteristics of transsistor indifferent modes i.e. common a emitter, commmon base and
+common collector configuration.
+2) Experiments on class-A, class-BB and AB of transistor power amplifiers.
+16
+
+--- Page 21 ---
+3) Experiment on uncontrolled Diodde-Bridge rectifier.
+4) Determination of hybrid parametters of a transistor.
+5) Characteristics of JFET, MOSFEET.
+6) Study of characteristics of MMoono-stable, Bistable and a-stable multi vibrators using bipolar
+transistors.
+7) Experiment on Schmitt Trigger CCircuit.
+8) Study of LED, photo-Diodes, Phhoto-Transistors, Light Development Resistors and OOptoIsolators.
+Text/Reference Books: -
+1. Vladimir V.Mitin, Viatcheslav AA.Kochelap, Michael A. Stroscio, Introduction to Naanoelectronics -
+Science, Nanotechnology,Engineeriing and Application, Cambridge University Press.
+2. D. De and K. P. Ghatak , Basic EElectronics, Pearson Education.
+3. R.F. Pierret, Semiconductor Deviice Fundamentals, Pearson Education.
+4. Robert F Pierret and Gerold WW.Neudeck , Modular Services on Solid State Deevice, Addison
+WesleyPublishingCompany
+5. K. Sedra and Smith, Microelectroonic Circuits , Oxford
+6. D. Carlo and Lin , Linear Circuitt Analysis, Oxford University Press
+17
+
+--- Page 22 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+rrd
+3 SEMESTER
+18
+
+--- Page 23 ---
+BTMT 3rd Semester
+[Compulsory]
+Probability and Statistics
+Probability
+Introduction
+Random experiment, σ-field, samplle space, probability as a set function, probability axxioms, probability
+space, finite sample spaces, condittional probability, Baye’s theorem, independence, rrandom variables
+(discrete and continuous), cumulaative distribution function, probability mass funcction, probability
+density function, mathematical exxpectation, moments, moment generating functioon, characteristic
+function, function of two random vaariables.
+Discrete Distribution
+Uniform, binomial, Poisson, geomeetric, negative binomial, hyper geometric distributionn.
+Continuous Distribution
+Uniform, normal, exponential, gammmma distribution.
+Joint Distribution Function
+Joint cumulative distribution functiioon and its properties, joint probability density functiion, marginal and
+conditional distribution, expectatiioon of function of two random variables, momeents, covariance,
+correlation coefficient, independennt random variables, joint moment generating functtion (JMGF) and
+calculation of covariance from JMGGF, characteristic function, conditional expectation, linear regression
+for two variables, regression curvess, bivariate normal distribution.
+Statistics
+Introduction
+Markov and Chebyshev’s inequalitty, convergence in probability, statement and interppretation of weak
+law of large numbers and central limit theorem for independent and identically distributed random
+variables with finite variance.
+Sampling and Sampling Distributtion
+Population and sample, random saammple, distribution of the sample, simple random saampling with and
+without replacement, sample characcteristics.
+Sampling Distribution
+Statistic, sample moments, sampplle variance, sampling from the normal distributtion, Chi-square,
+Student’s t distribution and F-distribbution.
+19
+
+--- Page 24 ---
+Estimation of Parameters
+Point estimation and interval eestimation, mean-squared error, properties of ggood estimators:
+unbiasedness, consistency, sufficciiency, Minimum Variance Unbiased Estimator (MVUE) (only
+definition).
+Method of Maximum Likelihood
+Likelihood function, ML estimatorss for discrete and continuous models.
+Bivariate Frequency Distribution
+Bivariate data, scatter diagram, coorrelation, linear regression, principle of least squarres and fitting of
+polynomialsandexponentialcurvess.
+Reference Books
+a) W. Feller, AnIntroduction to Probability Theory and Its Application, Wiley, 3rd Edition, 1970.
+b) R. V. Hogg, J. W. McKean and Allen T. Craig, Introduction to Mathematiical Statistics,
+Pearson Education, Asia, 20000.
+c) R. L. Berger and G. Casella,, Statistical Inference, Duxbury Thomson Learning, 2nd Edition,
+2002.
+d) Meyer and Meyer, Introduccttory Probability and Statistical Applications, Oxxfford and IBH
+Publishing, 2nd Edition, 20177.
+e) N.G. Das, Statistical Methodss, Combined Edition (vol. I and II), Mc. Graw Hilll Education, 1st
+Edition, 2017.
+********
+BTMT 3rd Semester
+[Compulsory]
+Mathematical Analysis
+Point Set Topology
+Limit points of a set and isolated ppoint of a set, closed sets, dense sets, countable and uncountable sets,
+neighbourhood of a point, interiorr point, open set, union, intersection of open sets and closed sets,
+Bolzano-Weierstrass theorem, seriies and sequence, Abel’s test, Dirichlet’s test, MMertens’ theorem,
+Abel’s theorem, limit of a function.
+Metrics and Norms
+Metric spaces, normed vector spacees, convergence in metric spaces, continuous functionns, completeness,
+20
+
+--- Page 25 ---
+Baire Category theorem, contractiion mapping theorem, connectedness, intermediatee value theorem,
+compactness,Heine-Boreltheorem..
+Integration
+Function of bounded variation, Rieemmann-Stieltjes integral and relation with Riemann inntegral, Darboux-
+Stieltjes integral, mean value theoreems.
+Sequence and Series of Functions
+Sequence andseriesoffunctions,uuniformconvergence,powerseries, Fourierseries,DDirichlet’sKernel,
+Riemann-Lebesgue theorem, pointwwise convergence of Fourier series of functions of bounded variation,
+Weierstrass approximation theoremm, equicontinuity, Arzela-Ascoli theorem.
+Reference Books
+a) K. R. Stromberg, Introductionn to Classical Real Analysis, Wadsworth Internationaal, Springer, 1981.
+b) J. M. Howie, A First Course iin Real Analysis, Springer, 2001.
+c) H. L. Royden, Real Analysis, MMacmillan USA, 3rd Edition, 1988.
+d) R. G. Bartle and D. R. Sherbeert, Introduction to Real Analysis, Wiley, 4th Edition, 2011.
+e) S. C. Malik, Principles of Reaal Analysis, New Age International Publishers, 1st Eddition, 2017.
+f) S. K. Mapa, Introduction to Reeal Analysis, Sarat Book Distributor, 8th Edition, 20119.
+g) Shanti Narayan and M. D. Raiisinghania, Elements of Real Analysis, S. Chand, 19665.
+********
+BTMT 3rd Semester
+[Compulsory]
+Differential Equation
+Ordiinary Differential Equation (ODE)
+Introduction
+Introduction, formation of ODE, significance of ODE, geometrical and physical consideration,
+solution of ODE in separable form.
+First Order ODE
+Exact and non-exact differential equations, simultaneous equations, first order linnear equations,
+Bernoulli’s equation, first order higgher degree equations solvable for x, y and p, Clairraut’s form and
+singular solutions.
+21
+
+--- Page 26 ---
+Second Order ODE
+Linear differential equations with constant coefficients, homogeneous and non-homoogeneous linear
+ordinary differential equations of higher order, complementary function, method off undetermined
+coefficients, series solution.
+Parrtial Differential Equation (PDE)
+Introduction
+OriginofPDE,order,degree,lineaarr,non-linear, surfacesand curves, classificationofffirst orderPDE,
+quasi-linear equations, derivation off PDE.
+Linear PDE
+Solutions of PDE of order one: Laggrange’s solution (type 1, type 2, type 3 and type 4), separation of
+variables.
+Non-linear PDE
+Complete integral, particular integrral, singular integral, general integral, solution of nnon-linear PDE:
+Charpit’s method.
+Reference Books
+a) W. E. Boyce and R. C. Dii Prima, Elementary Differential Equations and BBoundary Value
+Problems, Wiley India, 9th EEdition, 2009.
+b) E. A. Coddington, An Introdduction to Ordinary Differential Equations, PHI Learrning, 1999.
+c) M. Braun, Differential Equaations and Their Applications, Springer-Verlag, 3rd EEdition, 1983.
+d) T. Amarnath, An Elementaryy Course in Partial Differential Equations, Alpha Science International
+Ltd, 2nd Edition, 2003.
+e) P. Hartman, Ordinary Differrential Equations, John Wiley and sons, New York, 11964.
+f) M. Hirsch, S. Smale and R. DDeveney, Differential Equations, Dynamical Systemms and Introduction
+to Chaos, Academic Press, 22nd Edition, 2004.
+g) I. N. Sneddon, Elements of PPartial Differential Equations, Dover, 2006.
+h) S.L.Ross,DifferentialEquaations,WileyIndia,3rd Edition,1984.
+i) R. Haberman, Elementaryy Applied Partial Differential Equations with Foourier Series and
+Boundary Value Problem, PPrentice Hall, 4th Edition, 1998.
+j) L. C. Evans, Partial Differenntial Equations, American Mathematical Society, Rhhode Island, 1998.
+k) F. John, Partial Differentiall Equations, Narosa Publishing House, New Delhi, 11979.
+l) M. D. Raisinghania, Ordinaary and Partial Differential Equation, S. Chand, 20117.
+********
+22
+
+--- Page 27 ---
+BTMT 3rd Semester
+[Compulsory]
+Discretee Mathematics and Fuzzy Set Theory
+Set Theory
+Sets and classes, relations and funcctions, recursivedefinitions, posets, lattice, Zorn’s leemma, cardinal
+and ordinal numbers.
+Logic
+Propositional and predicate calculuus, well-formed formulae, tautology, equivalence, normal forms,
+theory of inference.
+Combinatorics
+Permutation and combination, ppartition, Pigeonhole principle, Inclusion-Exclussion principle,
+generating functions, recurrence rellaations.
+Fuzzy Sets
+Fuzzy sets, support of fuzzy set, 𝛼--level sets, strong and weak 𝛼-cut, fuzzy point, convvex fuzzy sets,
+basic set theoretic operations on fuuzzy sets, cartesian products, algebraic products, bouunded sum and
+difference, probabilistic sum of fuuzzzy sets, t-norms and t-conorms, quasi-coincidencee of two fuzzy
+subsets and fuzzy points, fuzzy nummbers, triangular and trapezoidal fuzzy numbers.
+Reference Books
+a) C. L. Liu, Elements of Discrette Mathematics, Tata McGraw-Hill, 2nd Edition, 20000.
+b) G. Bojadzieve and M. Bojaadzieve, Fuzzy Sets, Fuzzy Logic Applications, Woorld Scientific,
+Illustrated Edition, 1996.
+c) G. J. Klir, U. S. Clair and BB. Yuan, Fuzzy Set Theory: Foundation and Applicaation, Prentice
+Hall, 1997.
+d) H. J. Zimmermann, Fuzzy Sett Theory and Its Applications, Kluwer Academic, 3rd Edition, 1992.
+e) J. L. Hein, Discrete Structureess, Logic and Computability, Jones and Bartlett, 3rd EEdition, 2010.
+f) J. P. Tremblay and R. Maanohar, Discrete Mathematical Structures with AApplications to
+Computer Science, McGraw HHill Education, 1st Edition, 2017.
+g) K. H. Rosen, Discrete Mathemmatics and Its Applications, Tata McGraw-Hill, 6th EEdition, 2007.
+h) L. H. Tsoukalas and R. E. Uhhrig, Fuzzy and Neural Approaches in Engineering, JJohn Wiley and
+Sons, 1997.
+i) N. Deo, Graph Theory, Prenttice Hall of India, 1974.
+j) V. K. Balakrishnan, Introducttory Discrete Mathematics, Dover Publication, 20100.
+********
+23
+
+--- Page 28 ---
+BTMT 3rd Semester
+[Compulsory]
+Data Structure and Algorithm (Theory)
+Basic concepts
+Mathematical background, compleexity analysis. Arrays: one dimensional, multi-ddimensional, sparse
+matrix, elementary operations, asymmptotic notations- o, O, θ, Θ, ω, Ω and their propertiees.
+Preliminaries
+Growth of functions, recurrence reellation, generating functions, solution of difference equations, Master's
+theorem (without proof), sorting annd order statistics: bubble sort, merge sort, heap sort, quick sort, sorting
+in linear time, median and order staattistics.
+Linear Data Structure
+Stacks: representation, elementary ooperations and applications such as infix to postfix, postfix evaluation,
+parenthesis matching. Queues: siimple queue, circular queue, dequeue, elementaary operations and
+applications. Linked lists: linear, ciircular and doubly linked lists, elementary operations and applications
+such as polynomial manipulation.
+Non-Linear Data Structure
+Trees: binary tree representation, tree traversal, complete binary tree, heap, binary search tree, height
+balanced trees like AVL tree and trries, red-black tree, other operations and applicationns of trees. Graphs:
+representation, adjacency list, graphh traversal, path matrix, connected components, DAAG, topological sort,
+spanning tree, radix sort. Searchingg: linear and binary search. Hashing: hash tables, haash functions, open
+addressing.
+File Structures
+Introduction, data file types, file orgganization, file access methods.
+Reference Books
+a) Alfred V. Aho, Jeffrey D. Ullman, John E. Hopcroft, Data Structures and AAlgorithms, Addison
+Wesley, 1983.
+b) M. A. Weiss, Data Structurees and Algorithm Analysis in CTT, Addison-Wiesley, 3rd Edition, 2013.
+c) A. M. Tenenbaum, Y. Langgssam, and M. J. Augenstein, Data Structures Using CC, PHI, New Delhi,
+2009.
+d) S. K. Srivastava, Data Strucctures Through C in Depth, BPB Publications, 2004..
+e) T. H. Cormen, C. E. Leiserrsson, R.. L. Rivest and C. Stein, Introduction to Algoorithms, 3rd Edition,
+PHI, 2009.
+f) D. Samanta, Classical Dataa Structure, PHI Pvt. Ltd., 2011.
+********
+24
+
+--- Page 29 ---
+BTMT 3rd Semester
+[Compulsory]
+Data SStructure and Algorithm (Practical)
+1. Write a C-program for a treeeDFS in matrix form.
+2. Write a C-program for impllementation of linked list.
+3. Write a C-program for impllementation of linked queue.
+4. Write a C-program to displaay a single linked list.
+5. Write a C-program to displaay a record in ascending and descending order using linked list.
+6. Write a C-program to add and display records (name and enrolment no.) in aa double linked
+list.
+7. Write a C-program to displaay a record using linked list.
+8. Write a C-program to displaay all the operations in a stack.
+9. Write a C-program to insertt, delete, peek and display elements in a queue.
+10. Write a C-program to displaay the adjacency matrix of a graph.
+11. Write a C-program to displaay the nth term of Fibonacci series by iteration and reecursion.
+12. Write a C-program Tower oof Hanoi.
+13. Write a C-program to insertt and delete node in a tree.
+14. Write a C-program to consttruct an AVL tree.
+15. Write a C-program to impleement the depth-first search algorithm.
+16. Write a C-program to read aand display a 2D matrix of integers, its transpose.
+17. Write a C-program to multiiply two matrices.
+Reference Books
+a) T.H. Cormen, C.E. Leisersoon, R.L. Rivest and C. Stein, Introduction to Algorithhms, PHI, New
+Delhi, 3rd Edition, 2009.
+b) D. Samanta, Classical Data Structure, PHI Pvt. Ltd., 2011.
+c) Alfred V. Aho, Jeffrey D. Ulllman, John E. Hopcroft, Data Structures and Algorrithms, Addison
+Wesley, 1983.
+d) M.A. Weiss, Data Structurees and Algorithm Analysis in CTT, Addison-Wesleey, 3rd Edition,
+2013.
+********
+25
+
+--- Page 30 ---
+BTMT
+COMPUTATIONAL MATHEMATICS
+4" SEMESTER
+
+
+--- Page 31 ---
+BTMT 4th Semester
+[Compulsory]
+Algebra
+Abstract Algebra
+Groups, permutation group, symmmetric group, subgroups, coset, normal subgroupp, centralizers,
+normalizers, stabilizers, kernels, cyyclic groups, subgroups generated by a subset of a ggroup, quotient
+groups, Lagrange’s theorem, hhomomorphisms, isomorphism theorems, compoosition series,
+epimorphism, endomorphism, auttoomorphisms, rings, ring homomorphisms, Booleaan ring, ideal,
+quotient ring, ring embeddings, inttegral domain, properties, fields with examples, chaaracteristic of a
+field, properties of field.
+Linear Algebra
+Vector spaces, bases and dimennsions, change of bases and change of coordinaattes, sums and
+direct sums, spanning sets and iindependence, the dimension of a vector spacee,, existence of
+eigen values, eigen vectors, eigenn space, generalized eigenvectors, the complexifiication of a real
+vector space, quotient space, linearr transformations, the kernel and image of a linear ttransformation,
+the rank and nullity theorem, channge of bases for linear transformations, solvabilityy of system of
+linear equations.
+Reference Books
+a) S. Axler, Linear Algebra Done RRight, Springer International Student Edition, 2nd Edition, 1997.
+b) K. Hoffman and R. Kunze, Lineear Algebra, Prentice Hall Int. Inc., Englewood Cliffffs, 2nd Edition,
+1971.
+c) S. Lang, Algebra, Addison-Wesslley, 3rd Edition, 1999.
+d) J. A. Gallian, Contemporary Abbstract Algebra, Narosa, 4th Edition, 1999.
+e) M.Artin,Algebra,PrenticeHalllinc.,1994.
+f) I. N. Herstein, Topics in Algebrra, John-Wiley, 1995.
+g) M. T. Nair and A. Singh, Linearr Algebra, Springer, 2018.
+h) D. S. Dummit and R. M. Foote, Abstract Algebra, John-Wiley, 2nd Edition, 1999.
+********
+BTMT 4th Semester
+[Compulsory]
+Numerical Analysis
+Error Analysis
+Definition and sources of errors, propagation of errors, backward error analysis, ssensitivity and
+conditioning, stability andaccuracyy, floating-point arithmetic and round-off error.
+27
+
+--- Page 32 ---
+Algebraic and Transcendental Eqquation
+Nonlinear equations, bisection methhod, secant method, Newton's method and its variannts, fixed point
+iterations, convergence analysis, Neewton's method for non-linear systems.
+Interpolation
+Finite differences, polynomial inteerpolation, Hermite interpolation, spline interpolattion, b-splines,
+numerical differentiation.
+Numerical Integration
+Trapezoidal and Simpson's rulees, Newton-Cotes formula, Gaussian quadraturee, Richardson
+extrapolation.
+Ordinary Differential Equation
+Taylor series method, Picard’s iteerrative method, Euler and modified Euler methodss, Runge-Kutta
+methods, multistep methods, preddictor-corrector methods, accuracy and stability, finite element
+method, finite difference method.
+Reference Books
+a) James L. Buchanan and PPeter R. Turner, Numerical Methods and Analysis, MMcGraw-Hill, 1992.
+b) John H. Mathews, Numeerrical Methods for Mathematics, Science and Engiineering, Prentice-
+Hall, 2nd edition, 1992.
+c) Kendall E. Atkinson, An Inntroduction to Numerical Analysis, John Wiley and SSons, 1989.
+d) M. K. Jain, S. R. K. Iyenngar, R. K. Jain, Numerical Methods for Scientificc and Engineering
+Competition, Wiley Easterrn, 1985.
+e) S. S. Sastry, Introductory MMethods of Numerical Analysis, PHI, 5th Edition, 20112.
+********
+BTMT 4th Semester
+[Compulsory]
+LPP and Game Theory
+Linear Programming
+Lines and hyperplanes, convex sets, convex hull and their properties. formulaation of a linear
+programming problem, theorems ddealing with vertices of feasible regions and opttimality, graphical
+solution, simplex method (includinng Big-M method and two phase method), infeasibble and unbounded
+LPPs, alternate optima, dual probleem and duality theorems, dual simplex method andd its application in
+post optimality analysis, revised simmplex method, sensitivity analysis, parametric progrramming.
+28
+
+--- Page 33 ---
+Transportation Problem
+Introduction, existence of solutioonn, degeneracy, MODI method (including the theory), assignment
+problem, Hungarian method for solvving assignment problems, travelling salesman probllem.
+Introduction to Game Theory
+Introduction, minimax (maximin), criterion and optimal strategy, solution of games wwith saddle points,
+rectangular games without saddle ppoints – 2 × 2 games – dominance principle – m × 22 and 2 × n games
+–graphical method.
+Reference Books
+a) K. Swarup, Operations Reesearch, Sultan Chand and Co., 2014.
+b) S. D. Sharma ,Operations Research, Kedarnath, Ramnath and Co., 2002.
+c) J. K. Sharma, Operation RResearch, MacMilan, 2006.
+d) Hiller and Libermann, Inttrroduction to Operation Research, TMH, 2017.
+e) Wayne L.Winston, Operattiion Research, Thomson BrooCole, 2003.
+f) H. A. Taha, An Introductioon to Operations Research, PHI, 2010.
+g) J. G. Chakravorty and P.. R. Ghosh, Linear Programming and Game theoryy, Moulik Library,
+2012.
+********
+BTMT 4th Semester
+[Compulsory]
+Computer Organization
+Digital Logic
+Boolean algebra, logic gates.
+Computing and Computer
+Evolution of computer: mechanniical era, electronic computers, integrated circuuits, processor
+architecture, system architecture.
+Design Methodology
+System design: system representaation, design process, gate level, register level: register level
+components, programmable logic ddevices, register level design, the processor level: pprocessor level
+components, processor level designn.
+29
+
+--- Page 34 ---
+Processor Basic
+
+Computer organization, fundamentals, additional features, data representation: basic formats, fixed
+point numbers, floating numbers, instruction sets: instruction formats, instruction types, programming
+considerations.
+
+Control Design
+
+Instruction sequencing and instruction interpretation, hardwired control: design methods, multiplier
+control unit, CPU control unit, micro programmed control: micro instructions and their encoding.
+
+Memory
+
+C.P.U memory interaction, memory array organization and technology, memory hierarchies, main
+memory allocation, segment, pages and files, high speed memories, interleaved memories, caches and
+associative memories, cache coherence: sequential and weak consistency, snoopy bus protocol and
+directory based.
+
+Input-Output Organization
+
+Addressing I/O devices, data transfer synchronization, interrupt handling I/O channels, computer
+peripherals and interfacing, direct memory access, examples of I/O buses: PCI, SCSI, USB.
+
+Basics of Pipelining
+
+Instruction and data pipelining, speedup, definitions of pipeline hazards: structural, data, control and
+simple techniques for handling them.
+
+Text Books
+
+a) MM. Mano, Computer System Architecture, P.H.I 34 Edition, 2012.
+
+b) J. P Hayes, Computer Architecture and Organisation, McGraw-Hill, 37 Edition, 2017.
+
+¢) Carl Hamacher, Computer Organization,. McGraw-Hill, 5" Edition, 2011.
+
+d) Stallings, Computer Organization and Architecture, Pearson Education India, 1 0” Edition
+2016.
+
+e) A. P. Malvino, Digital Computer Electronics, McGraw-Hill, 3 Edition, 1992.
+
+3 oo 2k 2 os 2 28
+
+BTMT 4" Semester
+[Compulsory]
+
+Object Oriented Programming (C++ and Python) (Theory)
+Introduction to Object Oriented Programming
+
+Evolution of programming methodologies, introduction to OOP and its basic features,
+differences from procedural languages, data encapsulation, overloading binary operators,
+overloading binary operators using friends, inheritance and polymorphism.
+
+30
+
+
+--- Page 35 ---
+Introduction to C++
+Basic components of a C++, proogram and program structure, compiling and exxecuting C++
+Program.
+Tokens, Expressions andControll Structures
+Tokens, keywords, identifiers and constants, basic data types, user-defined and derivved, data types,
+type compatibility, reference, variaables, scope resolution operator, type casting, implicit conversion,
+operator precedence, control structuures, structure and function.
+Classes and Objects Initializationn
+Class specification, class objects, accessing class members, data hiding, pointers wwithin a class,
+passing objects as arguments, friennd functions and friend classes, constant parameterrs and member
+functions, structures and classes, sstatic members, constructors, destructor, constructoor overloading,
+order of construction and destructtion, constructors with default arguments, dynamic initialization
+through constructors, constructors with dynamic operations, constant objects and connstructor, static
+data members with constructors andd destructors, nested classes.
+Operator Overloading and Type CConversion
+Defining operator overloading, oveerloading unary operators, manipulation of strings uusing operators,
+rules for overloading operators, typee conversions.
+Inheritance and Polymorphism
+Deriving derived classes, single, mmultilevel, multiple, hierarchical, hybrid inheritance, constructors
+and destructors in derived classes,, constructors invocation and data members, initiallization, virtual
+base classes, abstract classes, delegaation, pointers to derived classes, virtual functions, implementation
+of run-time polymorphism, pure virrtual functions.
+Fundamental Concepts of Pythonn
+Introduction to Python, history, uniqque features of Python, literals, variables and identiffiers, operators,
+expressions and data types.
+Control Structures
+Selection control, iterative control.
+Lists
+List structures, lists (sequences), iteerating over lists.
+31
+
+--- Page 36 ---
+Functions
+Program routines, calling value-rettuurning functions, calling non value-returning functiions, parameter
+passing, variable scope, dictionariess and sets, recursion, Python built in function, Pythoon user defined
+functions, Python packages functioons, defining and calling function, the anonymous fuunctions, loops
+and statement in Python, yield and ggenerators, Python modules and packages.
+Text Files
+Using text files, string passing, Pyytthon exceptions handling, handling an exception tryy, except, else,
+try-finally clause, argument of an eexception, Python standard exceptions, raising an exxceptions, user-
+defined exceptions.
+Python Regular Expressions
+Regular expressions, the match fuunction, the search function, matching vs searchinng, search and
+replace, extended regular expressionns.
+Reference Books
+a) K. R. Venugopal, Rajkumaarr, T. Ravishankar, Mastering C++, TMH, 2006.
+b) Lip man and Lajole, C++ PPrimer, Addison Wesley, 5th Edition, 2012.
+c) Bjarne Stroustrup, The C+++ Programming Language, Addition-Wesley, 4th Ediition, 2013.
+d) Robert Leffore, Object Oriieented Programming in C++, Galgotia Publications Pvt Ltd, 1999.
+e) Balaguruswamy, Object Orriented Programming with C++, TMH, 7th Edition, 22017.
+f) Timthy Budd, An Introducttiion to Object Oriented Programming with C++, Adddition-Wesley,
+3rd Edition, 1991.
+g) Kip R. Irvine, C++ and Obbjject-Oriented Programming, Prentice Hall, 1st Editioon 1996.
+h) Kenneth A. Lambert, The FFundamentals of Python: First Programs, Course TTechnology Inc,
+2nd Edition , 2017.
+i) Eric Matthes, Python CCrash Course: A Hands-On Project-Based Inntroduction to
+Programming, No Starch PPress, 2nd Edition, 2019.
+j) Paul Barry, Head-First Pytthon: A Brain-Friendly Guide, Shroff/O'Reilly, 2nd Eddition, 2016.
+k) Zed Shaw, Learn Python thhee Hard Way, Addison-Wesley, 1st Edition, 2017.
+l) Charles Dierbach, Introducction to Computer Science using Python a Computattional Problem
+Solving Focus, John-Wiley and Sons, 2013.
+*********
+32
+
+--- Page 37 ---
+BTMT 4th Semester
+[Compulsory]
+Object Orienteed Programming (C++ and Python) (Practical)
+Programming in C++
+Accessing class members, data hhiding, friend functions and friend classes, memmber functions,
+structures and classes, constructoors, destructor, constructor overloading, dynamicc initialization
+through constructors, operator ooverloading, overloading unary operators, overlooading binary
+operators, manipulation of strings uusing operators, rules for overloading operators, typpe conversions,
+single, multilevel, multiple, hieraarchical, hybrid inheritance, constructors invocattion and data
+members, virtual base classes, abbstract classes, delegation, pointers to derived cclasses, virtual
+functions, implementation of run-timme polymorphism, pure virtual functions.
+Programming in Python
+Literals, variables and identifiers, operators, expressions and data types, selection coontrol, iterative
+control, list structures, lists (sequennces), iterating over lists, program routines, calling vvalue-returning
+functions, calling non value-returnniing functions, parameter passing, variable scope, ddictionaries and
+sets, recursion, yield and generatorss, using text files, string passing, exception handling..
+Reference Book
+a) K. R. Venugopal, Rajkumaarr, T. Ravishankar, Mastering C++, TMH, 2006.
+b) Lip man and Lajole, C++ PPrimer, Addison Wesley, 5th Edition, 2012.
+c) Bjarne Stroustrup, The C+++ Programming Language, Addition-Wesley, 4th Ediition, 2013.
+d) Robert Leffore, Object Oriieented Programming in C++, Galgotia Publications Pvt Ltd, 1999.
+e) Balaguruswamy, Object Orriented Programming with C++, TMH, 7th Edition, 22017.
+f) Timthy Budd, An Introducttiion to Object Oriented Programming with C++, Adddition-Wesley,
+3rd Edition, 1991.
+g) Kip R. Irvine, C++ and Obbjject-Oriented Programming, Prentice Hall, 1st Editioon 1996.
+h) Kenneth A. Lambert, The FFundamentals of Python: First Programs, Course TTechnology Inc,
+2nd Edition, 2017.
+i) Eric Matthes, Python CCrash Course: A Hands-On Project-Based Inntroduction to
+Programming, No Starch PPress, 2nd Edition, 2019.
+j) Paul Barry, Head-First Pytthon: A Brain-Friendly Guide, Shroff/O'Reilly, 2nd Eddition, 2016.
+k) Zed Shaw, Learn Python thhee Hard Way, Addison-Wesley, 1st Edition , 2017.
+l) Charles Dierbach, Introducction to Computer Science using Python a Computattional Problem
+Solving Focus, John-Wiley and Sons, 2013.
+**********
+33
+
+--- Page 38 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+tth
+5 SEMESTER
+34
+
+--- Page 39 ---
+BTMT 5th Semester
+[Compulsory]
+Soft Computing
+Artificial Neural Networks
+Neural networks: overview of biioological neuro-system, mathematical models of nneurons, ANN
+architecture, learning rules, learningg paradigms: supervised, unsupervised and reinforceement learning.
+ANN training algorithms: percepptions, training rules, delta, multilayer perceptionn model, back
+propagation algorithm, competitivee learning networks, Kohonen self organizing netwworks, Hebbian
+learning, Hopfield networks, associiaative memories, applications of artificial neural netwworks.
+Fuzzy Logic
+Introduction to fuzzy logic, linguiistic variables, linguistic modifiers, propositions oof fuzzy logic,
+measures of fuzziness, fuzzy infereence rules and fuzzy reasoning, fuzzification and ddefuzzification,
+Mamdani- Sugeno inference rule, appproximate reasoning.
+Population Based Optimization AAlgorithms
+Genetic algorithms, evolution sstrategies, evolutionary programming, genetic programming,
+differential evolution, selection, croossover, mutation, schema analysis, analysis of seleection, Markov
+and other stochastic models, simulaated annealing, particle swarm optimization.
+Reference books
+a) J. S. R Jang, C.T. Sun and MMizutani E. Neuro, Fuzzy and Soft Computing, Pearrson Education
+India, 1st Edition, 2015.
+b) S. Haykin, Neural Networkks and Learning Machines, Pearson Education Ltdd., 3rd Edition,
+2008.
+c) Melani Mitchel, An Introduuction to Genetic Algorithm, MIT Press, 1996.
+d) David Goldberg, Genetic AAlgorithm in Search, Optimization and Machine Learning, Addison
+Wesley, 13th Edition, 1989.
+e) Klir and Yuan, Fuzzy Sets aand Fuzzy Logic, Pearson, 1st Edition, 1995.
+f) A. Das Bhattacharjee, Artiifficial Intelligence and Soft Computing for Beginneers, Shroff/X-
+Team, 3rd Edition, 2018.
+g) H. J. Zimmermann, Fuzzyy Set Theory and Its Applications, Allied Publissher’s Limited,
+Springer, 2nd Edition, 19911.
+h) George Klir, Fuzzy Sets andd Fuzzy Logic: Theory and Applications, Pearson, 19995.
+********
+35
+
+--- Page 40 ---
+BTMT 5th Semester
+[Compulsory]
+Integral Transform
+Integral Transform
+Basic concepts and definitions, inteeggral transform operator, kernel of the transformationn.
+Fourier Transform
+Definition and properties of Fouurrier transform, Fourier sine and cosine transformm, convolution
+theorem for Fourier transform, Parsseval’s identity, finite Fourier sine and cosine transfoorm, inversion.
+Laplace Transform
+Laplace transform and its applicatioons.
+Hankel Transform
+Definition and properties of Hankkeel transform with examples, inversion formula, baasic concept of
+Bessel’s equation and Bessel’s ffunction, recurrence relations of Bessel’s functioon, operational
+properties of Hankel transform, Parrseval’s theorem, Hankel transform of derivatives, appplications.
+Mellin Transform
+Definition of Mellin transform anndd examples, Mellin transform of some special funnctions, Mellin
+transform of derivatives and integraals, Parseval’s theorem, convolution theorem, applicaations.
+Z-Transform
+Definition and properties of Z-trannsform, inverse Z-transform (using partial fraction and residues),
+convolution theorem, formation off difference equations, solution of difference equations using Z -
+transform.
+Reference Books
+a) I. N. Sneddon, The Uses of IIntegral Transforms, McGraw-Hill Inc., US, 1972.
+b) C. J. Tranter, Integral Trannsforms in Mathematical Physics, Methuen and Co., 1959.
+c) I. N. Sneddon, Fourier Trannsform, McGraw-Hill Book Company, 1951.
+d) W.V. Lovitt, Linear Integrall Equations, Dover Publications Inc., Reissue Edition, 2005.
+e) F.G. Tricomi, Integral Equaations, Dover Publications, 1985.
+f) L.C. Andrews and B. K. Shhivamoggi, Integral Transforms for Engineers, Prentice Hall India
+Learning Private Limited, 22003.
+g) Dr. G. S. Sandhu, Integraal Transforms and Their Applications, First Worldd Publications,
+2015.
+36
+
+--- Page 41 ---
+h) L. Debnath and D. Bhattta, Integral Transforms and Their Applications, Chapman and
+Hall/CRC,2ndEdition,20066.
+********
+BTMT 5th Semester
+[Compulsory]
+Financial Mathematics
+Introduction
+Some basic definitions and terminollogy.
+Basic Theory of Option Pricing
+Single and multi-period binomial pricing models, Cox-Ross Rubinstein (CRR) moodel, Black-
+Scholes formula for option pricing aas a limit of CRR model.
+Stochastic Calculus
+Brownian and geometric Browniann motion, theory of martingales, stochastic calculus, stochastic
+differential equations, Ito’s formulla to solve SDE’s, applications of stochastic calculus in option
+pricing.
+Mean-Variance Portfolio Theory
+Markowitz model of portfolio optimmization and Capital Asset Pricing Model (CAPM)), limitations
+of Markowitz model and new measuures of risk.
+Interest Rates and Interest Rate DDerivatives
+Binomial lattice model, vasicek, huulll and white models for bond pricing.
+Reference Books
+a) Thomas Mikosch, Elemenntary Stochastic Calculus with Finance in vieew, World
+Scientific, 1998.
+b) Suresh Chandra, S. Dhaarmaraja, Aparna Mehra, R. Khemchandani, Financial
+Mathematics: An Introducttion, Narosa Publishing House, Illustrated Editionn ,2013.
+c) S. E. Shreve, Stochastic Caalculus for Finance, Vol. I and Vol. II, Springer, 1st Edition,
+2004 .
+d) Sean Dineen, Probability Theory in Finance: A Mathematical Guide to tthe Black-
+Scholes Formula, AmericannMathematical Society, New Edition, 2006.
+e) D. G. Luenberger, Investmeent Science, Oxford University Press, 2nd Edition, 2013.
+f) M. Capińsky and T. Zasstawniak, Mathematics for Finance: An Introdduction to
+37
+
+--- Page 42 ---
+Financial Engineering, Sprringer, 2nd Edition, 2011.
+********
+BTMT 5th Semester
+[Compulsory]
+Statistical Inference
+Parametric models, parameters, ranndom sample and its likelihood function, statistic annd its sampling
+distributions, problems of inferencce, overview of Bernoulli, binomial, Poisson, negaative binomial,
+normal, exponential, gamma, Weeiibull, Pareto etc., concept of sufficiency, minimmal sufficiency,
+Neyman factorization criterion, FFisher information, maximum likelihood estimators, method of
+moment estimators, percentile eestimators, least squares estimators, minimum mean squares
+estimators, uniformly minimum vvariance unbiased estimators, Cramer-Rao lowerr bound, Rao-
+Blackwell theorem, different exammples, expectation maximization, statistical hypotheses-simple and
+composite, statistical tests, critical rregions, type-I and type-II errors, size and power of a test, Neyman
+Pearson lemma and its different aapplications, most powerful test, uniformly most powerful test,
+unbiased test and uniformly most uunbiased test, likelihood ratio test, interval estimation, confidence
+intervals, construction of confidennce intervals, shortest expected length, confidence interval, most
+accurate one sided confidence intervval and its relation to uniformly most powerful test.
+References Books
+a) R. L. Berger and G. Casellaa, Statistical Inference, Cengage, 1st Edition, 2006.
+b) E. L. Lehmann, G. Casella, Theory of Point Estimation Springer, 2nd Edition, 19998, (Corr. 4th
+printing 2003 Edition, 20033).
+c) T. S. Ferguson, Statistical DDecision Theory, Academic Press, 2014.
+d) E. L. Lehmann, Testing of SStatistical Hypotheses, Wiley–Blackwell, 1966.
+e) P. J. Bickel and K. A. Dokssuum, Mathematical Statistics, Chapman and Hall/CRRC, 2nd Edition,
+2015.
+f) J. O. Berger, Statistical DDecision Theory, Springer; 2nd Edition, 1985. (Corrr. 3rd printing
+1993 Edition, 1993).
+********
+BTMT 5th Semester
+[Compulsory]
+Sccientific Computing (Practical)
+Starting with MATLAB
+MATLAB windows, arithmetic ooperations, elementary built-in-functions, elemennt by element
+operations, scalar variables, compleex number, floating point arithmetic.
+38
+
+--- Page 43 ---
+Array and Array Operations
+Simple array, array addressing oor indexing, array construction, array orientationn, scalar array
+Mathematics, array manipulation, aarray sorting, sub array searching, array size, arrayy and memory
+utilization, multidimensional array construction and its manipulation, numeric data typpe: integer data
+type, floating point data types.
+Script M file
+Creating and saving script file, inpuut to a script file, running a script file.
+Function and Function File
+Creating a function file, structure off a function file, comparison between script and funcction file.
+Cell Array and Structure
+Cell array creation and its manipuulation, retrieving cell array content, comma sepaarated list, cell
+functions, cell array of strings, structure creation, structure manipulation, structture functions,
+character string: string constructionn, string evaluation, string functions, cell array of strinngs.
+Relational and Logical Operatorss
+Relational and logical functions, opperator precedence. Control flow: for loops, while looops, if else end
+construction, switch case constructiion, nested loop, break and continue command.
+Application to Numerical Analysiis
+Iterative method, bisection methodd, Newton Raphson method, Regula Falsi method, Graffe’s root
+squaring method, power method, L.U. decomposition method, Romberg method, MMuller method,
+Adams Moulton method, Newton’ss interpolation (forward and backward), Lagrange’ss interpolation,
+divided difference method, numeriical differentiation (1st and 2nd Order), numerical integration, least
+square method, Gauss eliminationn method, Gauss Seidal method, Jacobi iteration mmethod, Runge
+Kutta method, Euler method, Milnee’s method, Adams Bashforth method.
+Reference Books
+a) A. Gilat, MATLAB: An Introducction withApplications, John Wiley and Sons, 6th Eddition, 2016.
+b) L.V . Fausett, Applied Numericaal Analysis Using MATLAB, Pearson Education, 2ndd Edition, 2016.
+c) S. C. Chapra and R. P. Cannaale, Numerical Methods for Engineers, McGraw HHill, 6th Edition,
+2005.
+d) R. Pratab, Getting Started with Matlab: A Quick Introduction for Scientists and Enggineers,
+OUP USA, 7th Edition, 2016.
+e) S. C. Chapra, Applied Numeerrical Methods with Matlab for Engineers and SScientists, Tata
+McGraw Hill, 2008.
+********
+39
+
+--- Page 44 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+tth
+6 SEMESTER
+40
+
+--- Page 45 ---
+BTMT 6th Semester
+[Compulsory]
+Graph Theory
+Introduction to Graphs
+The concept of a graph, paths in ggraphs, graph models, graph terminology and special types of graphs,
+bipartite graphs, complete graphss, external graphs, intersection graphs, operationss on graph, graph
+isomorphism.
+Blocks
+Cutpoints, bridges and blocks, blockk graphs and cutpoint graphs.
+Trees
+Introduction to trees and characterizzations, applications of trees, spanning trees, minimmum spanning trees,
+trees in computer science, centres and centroids, block cutpoint trees, independent cyycles and cocycles,
+matroids.
+Connectivity
+Connectivity and line-connectivityy, graphical version of Menger's theorem, traverssability : Eulerian
+graphs, Hamiltonian graphs.
+Coverings and Matching
+Coverings and independence, criticcal points and lines, matching, maximum matching pproblem, minimum
+covering problems.
+Representing Graphs
+Adjacency matrix, incidence matrixx, cycle matrix.
+Planarity
+Plane and planar graphs, outerplaanar graphs, Kuratowski's theorem, other characterrizations of planar
+graphs.
+Colorability
+Vertex coloring, chromatic numbeer, edge coloring, five color theorem, four color conjecture, unique
+colorable graphs.
+41
+
+--- Page 46 ---
+Directed Graphs
+Basic definitions, types of connecteedness, covers and bases, distance concepts and mattrices, connectivity,
+acyclic digraphs, cycles and traversaability, orientations and tournaments.
+Network Flows
+Max flow - min cut theorem, Mengeer's theorem, Ford-Fulkerson algorithm.
+Reference Books
+a) F. Harary, Graph Theoryy, Narosa Publishing House, 7th Edition, 2001.
+b) Douglas B. West, Introduuction to Graph Theory, Prentice-Hall of India Pvt. LLtd., 2nd Edition,
+1999.
+c) Narsingh Deo, Graph Thheory with Applications to Engineering and Computeer Science,
+Prentice-Hall of India Pvvt. Ltd., New Edition, 1979.
+d) K.R. Parthasarathi, Basicc Graph Theory, Tata McGraw-Hill Publ. Co. Ltd., 11994.
+e) Bondy and Murty, Graphh Theory with Applications, Elsevier Science Ltd, 19776.
+********
+BTMT 6th Semester
+[Compulsory]
+Nuumber Theory and Cryptography
+Number Theory
+Basis Representation
+Principles of Mathematical inductiioon, the basis representation theorem, the fundamenntal theorem of
+arithmetic, Euclid’s division lemmaa, divisibility, the linear Diophantine equation.
+Combinatorial and Computationaal Number Theory
+Fermat’s little theorem, Wilson’s theorem, generating functions, the use of computters in number
+theory, fundamentals of congruencees, basic properties of congruences, residue systems, riffling.
+Solving Congruences
+Linear congruences, the theorems of Fermat and Wilson revisited, the Chinese remaainder theorem,
+polynomial congruences.
+42
+
+--- Page 47 ---
+Arithmatic Functions
+Combinatorial study of ∅(n), formmulae for d(n) and ∅(n), multiplicative arithmetic functions, the
+Mobius inversion formula, primitiive roots, properties of reduced residue systems, primitive root
+modulo p.
+Cryptography
+Introduction
+Basic objects of cryptography, seccrret-key and public-key cryptography, one-way andd trapdoor one-
+way functions, cryptanalysis attack models, classical cryptography.
+Block and Stream Ciphers
+Modes of operation, DES and its vvariants, RCS, IDEA, SAFER, FEAL, BlowFish, AAES, linear and
+differential cryptanalysis, streamm ciphers based on linear feedback shift reggisters, SEAL,
+unconditional security.
+Message Digest
+Properties of hash function, MD2, MMD5 and SHA-1, keyed hash function, attack on hash function.
+Public Key Parameters
+Modular arithmetic, GCD, primalityy testing, modular square root, finite fields.
+Intractable Problems
+Integer factorization problem, RSSA problem, modular square root problem, discrete logarithm
+problem, Diffie-Hellman problem, kknown algorithm for solving the intractable problemms.
+Public Key Encryption
+RSA, Rabin and EIGamalscemes, side channel attacks. Key exchange: Diffie-Hellmman and MQV
+algorithms.
+Reference Books
+a) Douglas R. Stinson, Cryptooggraphy, Theory and Practice, CRC Press, 2nd Edition, 2002.
+b) Alfred J. Menezes, Paul CC. Van Oorschot and Scott A. Vanstone, Handboook of Applied
+Cryptography, CRC Press, 2001.
+c) Johannes. A. Buchmann, Inntroduction to Cryptography, Springer, 1st Edition, 20001.
+d) Steven D. Galbraith, Matheematics of Public Key Cryptography, Cambridge Unniversity Press,
+2012.
+e) Jonathan Katz, Yehuda LLindell, Introduction to Modern Cryptography, Chapman and
+Hall/CRC, 1st Edition, 20077.
+43
+
+--- Page 48 ---
+f) Jay R Goldman, The Queeen of Mathematics: A Historically Motivated Guiide to Number
+Theory,AKPetersLtd.,1stEdition,1997.
+g) Saban Alaca, Kenneth S WWilliams, Introduction to Algebraic Number Theorry, Cambridge
+University Press, 1st Editionn, 2004.
+h) Richard A Mollin, Advanceed Number Theory with Applications, CRC Press, A Chapman and
+Hall Book,1st Edition , 20177.
+i) Kenneth. H. Rosen, Elemeenntary Number Theory and Its Applications, Pearsoon, 6th Edition,
+2011.
+j) Kenneth Ireland and Michhael Rosen, A Classical Introduction to Modern NNuumber Theory,
+Springer-Verlag, 5th Editionn, 1998.
+* * * * * *
+BTMT 6th Semester
+[Compulsory]
+Deesign and Analysis of Algorithms
+Introduction
+Definition, asymptotic notations annd complexity analysis (best, worst, and average caase), notions of
+optimality, amortize analysis.
+Algorithm Design Techniques
+Greedy, divide and conquer, dynaamic programming with examples, fractional knappsack and 0-1
+knapsack problems, integer, matrixx and polynomial multiplication, convex hull, closeest pairs, string
+matching, FFT, extended Euclid's aallgorithm.
+Graphs and Graph Algorithms
+Definition, representations of grapphhs, depth first search, breadth first search, Kruskaal’s and Prim’s
+algorithm for minimum spanningg tree, Dijkstra’s single source shortest path algoorithm, Floyd-
+Warshallall-pairs shortest path algoorithm.
+Computational Complexity
+Introduction to NP completeness, the classes P and NP, polynomial reduction, NPP hard and NP
+complete problems, introduction to branch-and-bound, backtracking and approximationn algorithms.
+Reference Books
+a) Thomas. H. Corman, Chaarles E. Leiserson, Ronald L. Rivest and C. Stein, IIntroduction to
+Algorithms, PHI Learningg Pvt. Ltd., 3rd Edition, 2010.
+b) G. Brassard and P. Brattley, Fundamentals of Algorithms, Prentice Hall IIndia Learning
+Private Limited, 2nd Editioon, 1996.
+c) Alfred V. Aho, Jhon E. HHoopcroft and J. D. Ullman, The Design and Analysiis of Computer
+Algorithms, Addison -Weslley Publishing Company, 1974.
+d) E. Horowitz, S. Sahni andd S. Rajsekaran, Fundamentals of Computer Algorithms, Golgotia
+Publications (P) Ltd , 2nd EEdition , 2008.
+********
+44
+
+--- Page 49 ---
+BTMT 6th Semester
+[Compulsory]
+Machhine Learning and Data Mining
+Machine Learning
+Introduction
+Introduction to machine learninng. Supervised learning: regression and classiffiication, linear
+regression, logistic regression. CClassification algorithms: minimum distance classsifier, nearest
+neighbour, Baye’s classifier, nneural classifier. Support vector machine, ddeecision trees,
+random forest.
+Evaluation Measures
+Precision, recall, F-measure, ROOC curve.
+Unsupervised Learning
+K-means clustering, DBSCAN, hierarchical clustering, graph based clustering.
+Learnability
+Reinforcement learning, statisticcaal relational learning.
+Dimensionality Reduction
+Sequential forward and backwarrd search, singular value decomposition, princippaal component
+analysis.
+Data Mining
+Basic concepts on data mining aand knowledge discovery in data bases, relationn to statistics,
+databases, steps in data mininngg process, architecture of a typical data minning systems,
+classification of data miningg systems, overview of data mining techhniques, data
+preprocessing, data cleaning, daata integration, data transformation and data reeduction, data
+generalization and summarizatiioon based characterization, a statistical perspeecctive on data
+mining, association rules in largee databases, web mining, spatial mining, temporraal mining.
+Reference books:
+a) T.M. Mitchell, Machine Leaarning, Mc Graw Hill, 1st Edition,2017.
+b) Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Preess, Illustrated
+Edition, 2012.
+c) Dolf Zantinge and Pieter AAdriaans, Data Mining, Addison-Wesley, 1st Edition, 1996.
+45
+
+--- Page 50 ---
+d) M.H. Dunham, Data Miniing Introductory and Advanced Topics, Pearson Education, 1st
+Edition,2006.
+e) Jiawei Han and Michelinne Kamber, Data Mining: Concepts and Techniiques, Morgan
+Kaufmann, 3rd Edition , 20111.
+f) Charu C Agarwal, Data Miining- The Text Book, Springer, 2015.
+********
+BTMT 6th Semester
+[Compulsory]
+Databbase Management System (Theory)
+An Overview of Database
+Database, database system, DBMSS components, data independence, data abstractionn, DDL, DML,
+data dictionary, data integration, daattabase access method, advantages of using a DBMS..
+Database System Architecture
+Data models, schemas and instancees, DBMS architecture, data independence, database languages and
+interfaces, database system environnmment, classification of database management systemms.
+Data Model Using E-R Model andd Object Model
+High-level conceptual, data modeels, entity types, entity sets, attributes and keys,, relationships,
+relationship types, roles and structtural constraints, weak entity types, refining the EER design, ER
+diagrams, naming conventions and ddesign issues, subclasses, super classes, inheritance.
+File Organization
+Secondary storage devices, paralleelizing disk access using RAID technology, bufferring of blocks,
+placing file records on disk, operatiioons on files, files of unordered records (heap files), ffiles of ordered
+records (sorted files), hashing tecchniques, other primary file organizations, types of single-level
+ordered index, multilevel indexes, dynamic multilevel indexes using B-Trees and B+ Trees, indexes
+on multiple keys, other types of inddeexes.
+Relational Model
+Relational model concepts, relationnal constraints and relational database schemas, upddate operations
+and dealing with constraint violaations, basic relational algebra operations, additioonal relational
+operations, relational calculus, tuplee calculus, domain calculus.
+46
+
+--- Page 51 ---
+Relational Database Standard
+Data definition, constraints, schemaa changes in SQL, basic queries in SQL, insert, dellete and update
+statements in SQL, views (virtuaal tables) in SQL, specifying general constraintss as assertion,
+additional features of SQL.
+Normalization for Relational Dataabase
+Functional dependencies, normal foorms based on primary keys: 1NF, 2NF, 3NF, Boycee-Codd normal
+form,normalizationthroughsyntheesis,normalizationusingjoindependency.
+Database Design and Tuning
+Database design process, physicaal database design in relational databases, databbase tuning in
+relational systems.
+DatabaseRecoveryandSecurity
+Transactions, recovery concepts, ttrransaction recovery, system recovery, media recovery, recovery
+technique, recovery in multi databaase systems, database security issues, access controll for multilevel
+security, data encryption.
+Advanced Topics
+Object-oriented and object relatiional databases, logical databases, web databasees, distributed
+databases, data warehousing and daatta mining, no SQL.
+Reference Books
+a) Ramez Elmasri and Shaamkant B. Navathe, Fundamentals of Database Systtems, Pearson
+Education, 7th Edition , 2017.
+b) Henry F. Korth, Databaasse System Concepts, McGraw-Hill Publication, 6th EEdition, 2013.
+c) Raghu Ramakrishnan, JJohannes Gehrke, Data Base Management System,, McGraw Hill
+Education, 3rd Edition, 22014.
+********
+BTMT 6th Semester
+[Compulsory]
+Databasse Management System (Practical)
+SQL query programming, designingg databases and accessing them for reasonably large applications.
+Reference Books
+a) R. Elmasriand S. Navathee, Fundamentals of Database Systems, Pearson, 6th EEdition, 2010.
+47
+
+--- Page 52 ---
+b) Abraham Silberschatz, HHenry Korth, and S. Sudarshan, Database Systtem Concepts,
+McGraw-Hill,6th Editionn,2013.
+c) Raghu Ramakrishnan, DDaatabase Management Systems, WCB/McGraw-Hilll, 3rd Edition,
+2014.
+d) Bipin Desai, An Introductiion to Database Systems, Galgotia Publications PVTT LTD, 2012.
+e) Serge Abiteboul, Richardd Hull and Victor Vianu, Foundations of Databaases., Pearson,
+Facsimile Edition , 1994.
+***********
+48
+
+--- Page 53 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+tth
+7 SEMESTER
+49
+
+--- Page 54 ---
+BTMT 7th Semester
+[Compulsory]
+Randomized Algorithms
+Introduction: what randomized allgorithms are, motivation for the design and use oof randomized
+algorithms, types of randomized algorithms (Las Vegas and Monte Carlo), polynnomial identity
+testing.
+Events and probability, axioms off probability, the union bound, inclusion-exclusionn principle, the
+balls and bins problem, conditionaal events, Bayes Law, Karger's randomized min-cuut algorithm.
+Discrete random variables (BBernoulli, Binomial, Geometric), expectation, linearity of
+expectation, coupon collector's problem, analysis of randomized quick sortt, conditional
+expectation.
+Markov's inequality, variance andd Chebyshev's inequality, randomized selection.
+Chernoff-Hoeffding (CH) Boundss: derivation and different versions, load balancing, randomized
+quicksort, packet routing in netwoorks, skip lists.
+The probabilistic method, the exppectation argument, max-cut, maxSAT, the samplle and modify
+method, independent sets, seconnd moment method, threshold behavior in ranndom graphs.
+Derandomization: method of condditional expectations.
+Lovaszlocallemma,derivationanndthetwoversions,edgedisjointpaths,satisfiability.
+Algorithmic versions of the Lovaasz local lemma: Beck's algorithm, the algorithm of Moser and
+Tardos. Distributed Maximal Indeependent Set (MIS) algorithms and the use of Beck's algorithm
+in this context.
+Randomized rounding to solve pprroblems in combinatorial optimization, maxSATT, max-cut, set
+cover. Randomized rounding of ssemi definite programs, introduction to semi definnite programs,
+the Goemans-Williamson algorithhmm for finding large cuts.
+Markov Chains, applications to 2--SAT and 3-SAT, random walks on graphs, electrrical networks,
+cover time, hitting time, s-t connecctivity algorithm.
+Reference Books:
+a) Rajeev Motwani, Prabhakkaar Raghavan, Randomized Algorithms, Cambridge University
+Press, 1st Edition, 2004.
+b) David Williamson, David SShmoys, The Design of Approximation Algorithmss, Cambridge
+University Press, Illustratted Edition, 2011.
+c) Devdatt Dubhashi, Alessanndro Panconesi, Concentration Of Measure For TThe Analysis
+Of Randomized Algorithmmss, Cambridge University Press, New Edition, 20099.
+********
+50
+
+--- Page 55 ---
+BTMT 7th Semester
+[Compulsory]
+Image Processing
+Introduction
+Image definition and its representaation, neighborhood. Orthogonal transformations likke DFT, DCT,
+wavelet.
+Enhancement and Restoration
+Contrast enhancement, smoothing aand sharpening, filtering and restoration.
+Segmentation
+Pixel classification, global/local graay level thresholding, region growing, split/merge techniques, edge
+detection operators, Hough transforrm. Image feature/primitive extraction, component laabeling, medial
+axis transform, skeletonization/thinnning, shape properties, textural features-moments, gray level co-
+occurrence matrix, structural featurees. Fourier descriptor, polygonal approximation.
+Compression
+Coding, quantization, spatial and traansform domain based compression. Color image proocessing: color
+model, enhancement, and segmentaattion.
+Mathematical Morphology
+Basic concepts, erosion, dilation, opening, closing. Advanced applications like biommedical image
+processing, digital watermarking, ettc.
+Reference Books:
+a) R. C. Gonzalez and R. E. Woodss,, Digital Image Processing, Pearson, 4th Edition, 2018.
+b) B. Chanda and D. Dutta Majuumder, Digital Image Processing and Analysis, Prrentice Hall of
+India, 2nd Edition, 2011.
+c) Azriel Rosenfel and Avinash C. Kak , Digital Picture Processing, Vol. 1 and 2, Accademic Press,
+2nd Edition, 1982.
+d) T. Y. Young and K. S. Fu, Handdbook of Pattern Recognition and Image Processingg, Vols. 1and 2,
+Academic Press, New York, 19866.
+e) A. Jain, Fundamentals of Digitaall Image Processing, Prentice Hall of India, 1989.
+f) K. R. Castleman, Digital Image PProcessing, Pearson, 4th Edition, 1995.
+********
+51
+
+--- Page 56 ---
+BTMT 7th Semester
+[Compulsory]
+Optimization Techniques
+Mathematical Foundations and BBasic Definitions
+Concepts from linear algebra, geommetry and multivariable calculus.
+Revised Simplex Method (with aand without artificial variables) Parametric and Post Optimal
+Analysis
+Overview of Simplex method, chaange in the objective function, change in the requiirement vector,
+addition of a variable, addition of a constraint, parametric analysis of cost and requirement vector.
+Search Method
+Fibonacci and Goldsen section methhod.
+Gradient Method
+Method of conjugate directions forr quadratic function, steepest descent and Devidon-FFletcher-Powell
+method.
+Constrained Optimization
+Method of feasible direction, cuttingg hyperplane method.
+Non-linear Optimization
+Unconstrained and constrained optiimization of several variables, Lagranges multiplierss, Khun-Tucker
+theory. Numerical methods for optimmization.
+Quadratic Optimization
+Quadratic programming method due to Beale, Wolf and Vandepanne dualityy in quadratic
+programming. Self -duality.
+Integer Programming
+Gomory’s cutting plane algorithm,, Gomory’s mixed integer problem algorithm. Brannch and bound
+algorithm.
+Numerical Optimization Techniqquues
+Line search methods, gradient mmethods, Newton's method, conjugate direction mmethods, quasi-
+Newton methods, projected gradiennt methods, penalty methods.
+52
+
+--- Page 57 ---
+Software
+Introduction to software for optimizzation techniques (LINGO/LINDO).
+Reference Books
+a) E.K.P. Chong and S.H. Zakk, An Introduction to Optimization, 2nd Edition, Wileyy, 2010.
+b) R. Fletcher, Practical Methhods of Optimization, John Wiley, 2nd Edition, 2009.
+c) D. G. Luenberger and Y. YYee, Linear and Nonlinear Programming, Springer Inddia, 3rd Edition,
+2010.
+d) M.S.Bazarra, J.J. Jarvis,aandH.D.Sherali,LinearProgrammingandNetworrkFlows,Wiley
+India, 3rd Edition, 2008.
+e) U. Faigle, W. Kern, and G. Still, Algorithmic Principles of Mathematical Programming,
+Kluwe, 2002.
+f) N. S. Kambo, Mathematicall Programming Techniques, East West Press, 1997.
+g) D.P. Bertsekas, Nonlinear PProgramming, Athena Scientific, 2nd Edition, 1999.
+h) M. S. Bazarra, H.D. Sheerali, and C. M. Shetty, Nonlinear Programmingg: Theory and
+Algorithms, Wiley, 3rd Editiion, 2006.
+********
+BTMT 7th Semester
+[Compulsory]
+Stochastic Processes
+Stochastic Processes
+Definition and examples of stochhastic processes, classifications of stochastic processes, Markov
+chains: definition and examples, trransition probability matrices, classification of statees of a Markov
+chain, determination of higher orrder transition probabilities, stability of a Markovv chain, graph
+theoretic approach, Markov chainss with denumerable number of states, reducible MMarkov chains,
+Markov Chains with continuous state spaces, non-homogeneous Markov Chainss, Martingales,
+Markov chains in continuous time: general pure birth and death processes, birth and ddeath processes
+with absorbing states, Renewal proocesses: renewal processes in continuous time, rennewal equation,
+renewal theorems, residual and eexxcess lifetime, renewal reward processes, regenerative renewal
+processes, regenerative inventory ssystems, generalization of the classical renewal theeory, stochastic
+processes in queuing and reliabilityy: general concepts of queuing systems, steady state and transient
+behavior, birth and death processs in queuing theory, network of Markovian queeuing systems,
+reliability, introduction to Browniaan motion: Wiener processes, differential equationss for a Wiener
+process, Kolmogorov’s equations, the first passage time distribution for a Wiener pprocess, recent
+developments.
+Reference Books :
+a) J. Medhi, Stochastic Processses, New Age Publishers, 2nd Edition, Reprint 2007.
+b) S.Karlin and H. M. Taylor, A First Course in Stochastic Processes, Academic PPress,
+1975.
+********
+53
+
+--- Page 58 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+tth
+8 SEMESTER
+54
+
+--- Page 59 ---
+BTMT 8th Semester
+[Compulsory]
+Formmaal Language and Automata Theory
+Introduction
+Introduction to language theory, allpphabets, definition of phrase structure grammar, production rules,
+sentences, sentential forms, languagge, derivation. Chomsky Hierarchy of languages.
+Regular Languages
+Regular grammars, regular langguuage models, finite state machines (determinisstic and non-
+deterministic), regular expressions,, equivalence of regular expressions, closure propeerties. Pumping
+lemma of regular sets.
+Finite Automata
+Finite automaton, deterministic andd non-deterministic finite automata and their equivaleence.
+Context -Free Languages
+Context free grammar, derivation trrees, ambiguity simplification, normal forms, applicaations.
+Pushdown Automata
+Pushdown automata, definitions, cconstruction of PDA for simple CFLs, linear bounnded automata,
+closure properties. Pumping Lemmaa for CFL.
+Turing Machines
+Turing machines, deterministic andd non-deterministic Turing machines, Multi-tape Tuuring machines,
+Universal Turing machines, techniiques for construction of Turing machines, unrestriicted grammar,
+Chomsky Hierarchy, computable fuunctions, computably enumerable languages, decidaable languages,
+algorithmic solvable problems. Alltternative models of computation such as post macchine. Lambda
+Calculus.
+Reference Books
+a) J. E. Hopcropt and J.D. Ullmaan, Introduction to Automata Theory, Language annd Computing,
+Norasa Publishing, 2000.
+b) M. Sipser, Introduction to theoryy of computation, Cengage Learning, 3rd Edition, 2014.
+c) A. Singh, Elements of Computatiion theory, Springer Nature, 2011.
+d) P. Linz, Introduction to formal laanguage and automata, Jones and Bartlett, 6thEditioon, 2016.
+********
+55
+
+--- Page 60 ---
+BTMT 8th Semester
+[Compulsory]
+Artificial Intelligence
+Introduction
+The foundation of AI. Importance oof AI and related fields.
+Logic
+Review of clausal form in propoositional logic, resolution principle, review of predicate logic,
+Skolemization, unification, resolutioon principle for predicate logic.
+Rules
+Working memory, rule base, connflict set, conflict resolution strategies, backwardd and forward
+chaining and meta rules.
+Reasoning under Uncertainty
+Probabilistic reasoning, Bayesian neetworks, certainty factor methods, Dampster-Shafer theory.
+Structure Representation
+Semantic networks, frames, conceppttual dependency, scripts, inheritance, default values.
+General Issues in Knowledge Reppresentation and Interference
+Logical agents, reasoning and resoollution, adequacy, richness, granularity, ease of reprresentation and
+use, modeling uncertainty, the famee problem, declarative and procedural representation..
+Problem Solving by Searching
+State space representation, heuristiccs, heuristic evaluation function and problem reducttion. Searching
+for solutions. Informed and uninforrmmed search strategies.
+Search Methods
+Generate and test, hill climbing, mmeans-ends analysis, depth-first, breadth-first, best ffirst, exploiting
+domain constraints, dependency-ddirected back tracking, minimax, alpha- beta pruuning, iterative
+deepening, A*, AO*.
+Planning
+Planning by forward and backward reasoning, nonlinear planning, scheduling.
+56
+
+--- Page 61 ---
+Ethical Issues of AI
+Reference Books
+a) E. Rich and K. Knight, Artificiaal Intelligence, McGraw Hill Education, 3rd Edition, 2017.
+b) Russell, Peter Norvig, Artificiial Intelligence a Modern Approach-Stuart, Pearsson, 3rdEdition,
+2010.
+c) P.H.Winston, Artificial Intelliggence, Addison- Wesley, 3rd Edition, 1994.
+d) D.W. Patterson, Introduction ooff Artificial Intelligence and expert systems, PHI, 3rdd Edition, 1990.
+********
+BTMT 8th Semester
+[Compulsory]
+Deep Learning
+Introduction
+Historical context and motivation ffor deep learning, basic supervised classification taask, optimizing
+logistic classifier using gradient deescent, stochastic gradient descent, momentum andd adaptive sub-
+gradient method. Back propagationn. Vanishing gradient problem.
+Neural Networks
+Feed forward neural networks, deeep networks, regularizing a deep network, model eexploration and
+hyper-parameter tuning.
+Convolution Neural Networks
+Introduction to convolution neuraal networks, stacking, striding and pooling, CNNN architectures,
+applicationslikeimageandtextclasssification.AdvancedCNNsforcomputervision.
+Sequence Modeling
+Recurrent Nets, unfolding computaational graphs, Recurrent Neural Networks (RNNs)), bidirectional
+RNNs, encoder-decoder sequence too sequence architectures, deep recurrent networks, aadvanced RNN:
+LSTM, GRU.
+Advanced Deep architectures
+Generative Adversarial Networks (GGANs). Advanced GANs.
+57
+
+--- Page 62 ---
+Auto Encoders
+Under complete auto encoders, reegularized auto encoders, sparse auto encoders, ddenoising auto
+encoders, representational power, layer, size and depth of auto encoders, stochasticc encoders and
+decoders.
+Structuring Machine Learning Prrojects
+Orthogonalization, evaluation mettrrics, size of the training, validation and test setss, cleaning up
+incorrectly labeled data, bias and variance with mismatched data distributions, trannsfer learning,
+multi-task learning.
+Reference Books
+a) Ian Goodfellow, Deep Learninngg, MIT Press, Illustrated Edition, 2017.
+b) Jeff Heaton, Deep Learning annd Neural Networks, Heaton Research Inc, 1st Editionn, 2015.
+c) Mindy L Hall, Deep Learning, VDM Verlag, 2011
+d) Li Deng, Dong Yu, Deep Learnning: Methods and Applications , Foundations and TTrends in
+Signal Processing, Now Publisshers Inc, 2014. https://doi.org/10.1561/20000000339
+********
+BTMT 8th Semester
+[Elective – I]
+Enginneeering Economics and Accountancy
+Engineering Economics
+Meaning, nature, scope and subject matter.
+Utility
+Definition, total, marginal and averaage, cardinal utility theory, indifference curves theorry.
+Demand
+Factors effecting demand, elasticittyy of demand, different types of elasticity, classification of goods
+based on various elasticityof demannd.
+Production
+Production function, Iso-quant, retuurns to scale, total, average and marginal product, llaw of variable
+proportions, Cobb-Douglas produucction function, ISO-cost curve, derivation of cost curve from
+production function, production opttimization, expansion path.
+58
+
+--- Page 63 ---
+Cost
+Short run and long run cost (the ‘EEnvelope Curve’), shape of different types of cost cuurves, revenue,
+total revenue and marginal revenue,, relation between marginal revenue and price elasticcity of demand.
+Firm
+Different types of firm and its charaacteristics, traditional theory of firm, objectives of firrm.
+Introduction to Accounting
+Definition of accounting and accouuntancy, objectives of accounting, users of accountinng information,
+double entry system of Book-Keepiing, Journal and Ledger, cash book, trial balance.
+Final Accounts
+Basic concepts, uses and preparatiioon of trading account, profit and loss account and balance sheet.
+issue and forfeiture of share and re-iissue of company.
+Introduction to Costing
+Elements of cost, direct materials,, direct labor, direct expenses, overheads, productiion, office and
+administration, selling and distribuution, allocation of overhead, machine hour rate, laabor hour rate,
+practical problems.
+Reference Books
+a) A. Koutsoyiannis, Modern Miccroeconomics, Macmillan, 2nd Edition, 1979.
+b) A. Sen, Microeconomics: Theoory and Applications, Oxford University Press, Indiann Branch,
+2000.
+c) R.S. Pindyck and D.L. Rubinfeelld, Microeconomics, Prentice-Hall, 8th Edition, 20177.
+d) Hal Varian, Microeconomic Annalysis,Viva Books, 3rd Revised Edition, 2019.
+e) Mukherjee and Haniff, Modernn Accountancy, Volume I, McGraw Hill Education, 33rd Edition,
+2018.
+f) Basu and Das, Theory and Praactice of Costing, Rabindra Library, 9th Edition,20011.
+********
+59
+
+--- Page 64 ---
+BTMT 8th Semester
+[Elective – I]
+Compuuter Networks and Security (Theory)
+Introduction
+Network criteria, physical structuure (type of connection, topology), categories of nnetwork (LAN,
+MAN, WAN), internet, brief hisstory, protocols and standards, reference models: OSI reference
+model, TCP/IP reference model. DDesign issues of layers.
+Physical Level
+Overview of data, signal, transmmission and transmission media (guided and ungguided), circuit
+switching and packet switching, teellephone network.
+Data Link Layer
+Types of errors, framing (characteer and bit stuffing), error detection and correction methods, flow
+control. Protocols: stop and wait AARQ, Go-Back- N ARQ, selective repeat ARQ, HHDLC, medium
+access sublayer: point to point prootocol, LCP, NCP, token ring, reservation, polling. MMultiple access
+protocols: pure ALOHA, slotted ALOHA, CSMA, CSMA/CD, CSMA/CA. Traditiional Ethernet.
+Fast Ethernet.
+Network Layer
+Internetworking and devices: reppeaters, hubs, bridges, switches, router, gateway. AAddressing: IP
+addressing, sub netting. Routing: techniques, static vs. dynamic routing. Unicast rouuting protocols:
+RIP, OSPF, BGP. Other protocols:: ARP, IP, ICMP, IPV6. Congestion Control algorithhms. Quality of
+service: Leaky bucket algorithm, TToken bucket algorithm.
+Transport Layer
+Process to process delivery, sockett address, UDP, TCP.
+Application Layer
+Introduction to DNS, SMTP, SNMMP, FTP, HTTP and WWW.
+Security
+IDPS and firewalls, cryptography bbasics, symmetric and asymmetric cryptography: DEES, AES, RSA,
+hashing, digital signature, digital CCertificates.
+60
+
+--- Page 65 ---
+Reference Books
+a) J. Kurose and K. Ross, Commputer Networking: A Top-Down Approach, Pearsoon, 7th Edition,
+2016.
+b) A. S. Tanenbaum , Computer NNetworks, Pearson Education India, 5th Edition , 20113.
+c) L.L. Peterson and B.S. Davie, Computer Networks: A Systems Approach, Morgann Kaufman, 6th
+Edition, 2020.
+d) S. William, Cryptography andd Network Security - Principles and Practice, Pearsoon, 6th Edition,
+2013.
+e) Forouzan and Mukhopadhyayy, Cryptography and Network Security, Mc Graw Hill India, 3rd
+Edition,2015.
+********
+BTMT 8th Semester
+[Elective – I]
+NNon Stationary Data Analysis
+Exploratory Analysis of Time Serries
+Introduction, examples, simple deescriptive techniques, trend, seasonality, stochasticc and deterministic
+approaches, numerical and experriimental data sets, challenges in data analysis aand data graphical
+representation, interpretation, statiisstical tests, significance and power of a test, chooice of the critical
+region, constructing test statistics: tthe fisher discriminate, mean and variance test, testing goodness-of-fit,
+stationary time series process (ARMMA Processes), ARIMA Process, GARCH Process/MModel.
+Analysisof Stochastic Series
+Model identification and non-statioonary time series models, forecasting with classical regression models,
+forecasting with autocorrelations, ffoorecasting with lagged dependent variable, forecast error statistics and
+evaluation, singularity detection, spectral density function, the period gram, spectral analysis,
+correlogram, wavelet cross-correlattiion, multi-resolution analysis, examples and applicattions.
+Clustering and Classification of Nonn stationary data.
+Reference Books
+a) Box and Jenkins, Time Seriiees Analysis, Prentice-Hall, 5th Edition, 1991.
+b) Peck and Devore, Statisticss: The Exploration and Analysis of Data, Thomson-BBrooks/Cole , 7th
+Edition,2012.
+c) D. Montgomery, C.L. Jennnings and M. Kulahci, Introduction to Time Serries Analysis and
+Forecasting, Wiley, 1st Ediittion 2008.
+d) C. Chatfield, The Analysis oof Time Series, Chapman and. Hall/CRC , 6th Editioon, 2004.
+e) Petre Stoica and L. Mosees Randolph, Introduction to Spectral Analysis, PPrentice Hall, 6th
+Edition,1997.
+f) H. Robert, Shumway and SS. Stoffer David, Time Series Analysis and Its Apppplications with R
+61
+
+--- Page 66 ---
+Examples, Springer Texts inn Statistics , 3rd Edition, 2006.
+g) M. Rao Raghuveer and Ajit S. Bopardikar, Wavelet Transform, Pearsoon Education, 1st
+Edition,1998.
+********
+BTMT 8th Semester
+[Elective – I]
+Operation Research – I
+Goal Programming
+Introduction, difference between liinear programming and goal programming approacch, concept of goal
+programming, graphical solution-mmethod of goal programming, modified simplexx method of goal
+programming.
+Dynamic Programming
+Introduction, nature of dynamicc programming, deterministic processes, non-ssequential discrete
+optimization, allocation problems,, assortment problems, sequential discrete optimmization, long-term
+planning problem, multi-stage deccision process, application of dynamic programmming in production
+scheduling and routine problems.
+Inventory Control
+Inventory control, deterministic incclluding price breaks and multi-item with constraints. Probabilistic (with
+and without lead time). Fuzzy and ddynamic inventory models.
+Queuing Theory
+Basic structure of queuing models. Poisson queues, M/M/I, M/M/C or finite and inffinite queue length,
+Non-Poisson queue- M/G/I, Machinne-Maintenance (steady state).
+ReplacementandMaintenanceMModels
+Introduction. Failure Mechanism off items, replacement of items deteriorates with time, replacement policy
+for equipment when value of moneey changes with constant rate during the period. Repplacement of items
+that fail completely individual repplacement policy and group replacement policy. Other replacement
+problems staffing problem. Equipmment renewal problem.
+Simulation
+Introduction. Steps of simulationn process, advantages and disadvantages of simuulation. Stochastic
+simulation and random numbers. MMonte–Carlo simulation. Random number. Generattion. Simulation of
+62
+
+--- Page 67 ---
+inventory problems, simulation off Queuing problems, role of computers in simulation. Application of
+simulations.
+Reference Books
+a) A.P. Verma, Introduction to OOperations Research, S.K. Kataria and Sons, 3rd Edittion 2014.
+b) A. Taha Hamdy, Operations RResearch: An Introduction, Pearson Education India,, 10th Edition, 2017.
+c) P K Gupta, Operations Researrch, S Chand, 5th Edition, 1976.
+d) J K Sharma, Operations Reseaarch, Theory and Applications, Macmillan India Ltdd, 3rd Edition,2006.
+e) D.S Hira and P K Gupta, Opeerations Research, S Chand,4th Edition, 2015.
+********
+BTMT 8th Semester
+[Elective – I]
+Mathemmatical Modelling and Simulation – I
+Mathematical Models
+Deterministic and stochastic. Sinngle species population models. P-V Logistic equation.
+Population growth model-an age strructured model.
+Interactions Between Two Speciess
+Host-Parasite type of interactions, competitive type of interactions. Trajectories of intteractions
+of H-P and competitive types betwween two species. Effect of migration on H-P inteeractions.
+Some consequences of Lotka-Voollterra equations. Generalized L-V equations. Connstant of
+motion in the dynamical system.
+Stochastic Processes and Need of Stochastic Models
+Pure birth process, pure death procceess, birth and death process. Linear birth-death-immmigration-
+emigration processes. Effects off both immigration and emigration on the dynaamics of
+population.
+Biological Mechanisms Responsibble for "Time-Delay"
+Discrete and continuous time-delayy. The single species logistic model with the effectt of time-
+delay. Stability of equilibrium poosition for the logistic model with general delay function.
+Stability of logistic model for disccrete time lag. Time-delayed H-P model together wwith their
+stability analysis.
+63
+
+--- Page 68 ---
+Mathematical Theory of Epidemiics
+Some basic definitions. Simple epiddemic model, general epidemic model. Kermack-MMcKendrik
+threshold theorem. Recurring epidemmic model. A comparative study of these models.
+Control of an Epidemic
+Stochastic epidemic model withoouut removal. Models having multiple infections. EEpidemic
+model with multiple infections. Stoochastic epidemic model with removal. Stochastic epidemic
+model with removal, immigration aand emigration. Special discussion on the stochastic epidemic
+modelwithcarriers.
+Simple Extensions of SIR Model
+Different case studies - (i) loss of iimmunity, (ii) inclusion of immigration and emigraation, (iii)
+immunization. SIR endemic diseasee model.
+ReferenceBooks
+a) X. Q. Zhao, Dynamical Sysstems in Population Biology, Canadian Mathemaatical Society, 3rd
+Edition,2003.
+b) R M Andersson and R M May,, Infectious Diseases of Humans. Oxford University Press, Revised ed.
+Edition , 1992.
+c) J. N. Kapur, Mathematical MMoodels in Biology and Medicine, East West Press Pvt Ltd ,1st Edition,
+1985.
+d) R. Habermann, Mathematicall Models: Mechanical Vibrations, Population Dynaamics, and Traffic
+Flow : An Introduction to Apppllied Mathematics, Prentice Hall, 1st Edition 1977.
+e) E. C. Pielou, An Introduction tto Mathematical Ecology, Wiley, 1st Edition, 1970.
+f) R. Rosen, Foundation of Maathematical Biology (vol. Iand II): Supercellular SSystems, Academic
+Press. 2013.
+g) Mark Kot, Elements of Mathemmatical Ecology, Cambridge University Press, 2001.
+h) J. D. Murray, Mathematical BBiology, Springer-Verlag, Berlin 1989.
+********
+BTMT 8th Semester
+[Elective – I]
+Compiler Design
+Introductory Concepts
+Analysis-synthesis model of coompilation, various phases of a compiler, crooss compilers,
+bootstrapping.
+Lexical Analysis
+64
+
+--- Page 69 ---
+Interface with input, parser and ssymbol table, token, lexeme and patterns, difficullties in lexical
+analysis,errorreportingandimplemmentation.Regulardefinition,transitiondiagramandd LEX.
+Syntax Analysis
+Context free grammars, ambiguityy, associativity, precedence, top down parsing, reccursive descent
+parsing, transformation on the grammmars, predictive parsing, bottom up parsing, operaator precedence
+grammars, LR parsers (SLR,LALRR, LR), YACC. SYNTAX DIRECTED TRANSLATTION: inherited
+and synthesized attributes, dependeenncy graph, evaluation order, bottom up and top downn evaluation of
+attributes, L- and S-attributed definiitions.
+Type Checking
+Type system, type expressions, struuctural and name equivalence of types, type conversiion, overloaded
+functions and operators, polymorphhic functions.
+Run Time System
+Storage organization, activation trreee, activation record, parameter passing, symbol ttable, dynamic
+storage allocation.
+Intermediate Code Generation
+Intermediate representations, trannslation of declarations, assignments and interrmediate code
+generation for control flow. Booleann expressions and procedure calls, implementation isssues.
+Code Generation and Instructionn Selection
+Issues, basic blocks and flow grapphs, register allocation, code generation, DAG reppresentation of
+programs, code generation fromm dags, peep hole optimization, code generatoor generators,
+specifications of machine.
+Code Optimization
+Source of optimizations, optimizattion of basic blocks, loops, global dataflow analyssis, solution to
+iterative dataflow equations, code iimmproving transformations, dealing with aliases, dataa flow analysis
+of structured flow graphs.
+Reference Books
+a) Aho Ullman, Shetty, Compiilers: Principles, Techniques and Tools, Pearson ,2ndd Edition,2008.
+b) Kenneth C. Louden, Compiiller Construction: Principles and Practice,Thomson Books Course
+Technology Inc, Internationnal Edition, 1997.
+********
+65
+
+--- Page 70 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+tth
+9 SEMESTER
+66
+
+--- Page 71 ---
+BTMT 9th Semester
+[Compulsory]
+Complexityy Theory and Approximation Algorithms
+Computability
+Review of decidability, acceptancce problem, halting problem, problem reduction, Rice theorem.
+Undecidable problems: about finiite automata, about pushdown automata, post’s ccorrespondence
+problem. Undecidable logical theorries, recursion theorem.
+Complexity Theory
+Complexity classes, space compllexity, time complexity, classes P and NP, polynomial time
+reductions, NP-completeness, Cookk-Levin theorem, vertex cover problems, Hamilton path problem.
+Subset sum problem, Hierarchy theoorems, circuit complexity.
+Approximation Algorithms
+Set cover, max-SAT, knapsack, bbin packing, scheduling, spanners, steiner trees, cuuts, clustering,
+facility location, traveling salesmaan tour, network design, metric embeddings. Design techniques:
+greedy, local search, dynamic proggramming, linear program formulations, dual fittinng, primal-dual
+method, rounding of linear/semi deeffinite programs, random sampling, derandomizationn, power of two
+solutions. Lower bounds on approxiimations and the relevant complexity classes.
+Reference Books
+a) M. Sipser, Introduction to tthheory of computation, Cengage Learning, 3rd Editioon, 2014.
+b) A. Singh, Elements of Compputation Theory, Springer, 2009.
+c) David P. Williamson and DDavid B. Shmoys, The Design of Approximation Algorrithms,
+Cambridge University Presss, Illustrated edition , 2011.
+d) Vijay V. Vazirani, Approximmation Algorithms, Springer, Illustrated Edition, 20110.
+e) Dorit S. Hochbaum , Approoximation Algorithms for NP-hard Problemsedited, CCourse
+Technology, 1996.
+f) Sariel Har-Peled, Geometriic Approximation Algorithms, American Mathematiccal Society,
+2011.
+********
+67
+
+--- Page 72 ---
+BTMT 9th Semester
+[Compulsory]
+Sociial Media Data Analysis (Theory)
+Online Social Networks (OSNs)
+Introduction, types of social networrks (e.g. Twitter, Facebook), measurement and colleection of social
+network data, social networks-basicc structure and measures, basics of text processing ovver social data,
+entity linking and entity resolution ffor social data.
+Studying Characteristics of OSNss
+Information diffusion, experimentall studies over OSNs, sampling.
+Fundamentals of Social Data Anaalytics
+Topic models, random walks, heteroogeneous information networks.
+Applied Social Data Analytics
+Recommendation systems, communnity identification and link prediction.
+Other Advanced Topics
+Online experiments for computationnal social science, big data sampling.
+Reference Books
+a) Matthew A. Russell, Mining the SSocial Web: Data Mining Facebook, Twitter, Linkeddin, Google+,
+Github and More, O'Reilly Media, 2nd Edition 2013.
+b) Jennifer Golbeck, Analyzing the social web, Morgan Kaufmann, 1st Edition, 2013.
+c) Charu Aggarwal, Social Networrkk Data Analytics, Springer, 2011.
+********
+BTMT 9th Semester
+[Compulsory]
+BBig Data Analytics (Practical)
+Identification of Spam and non-sspam (ham) mails from your mail account, moviie reviews for
+recommendation (IMdb data sets arre available), share market values prediction (Yahooo Finance, BSE
+and many other data sheets are available), text analysis and search (in different languages)-an
+assignments could be search based oon “context”, image analysis and search.
+*********
+68
+
+--- Page 73 ---
+BTMT 9th Semester
+[Elective-II]
+Data Communication
+Introduction
+Basic goals of communication, ssiignals for communication: time-domain and freqquency domain
+representation of signals. Analog/ddigital/sampled, periodic/a periodic, deterministic/raandom signals.
+Fourier series, Fourier transform ffrrequency spectrum, filtering and bandwidth. Messaage transducers
+and signal converters. Communiiccation channel: important characteristics of a ccommunication
+channel. Available communicatiion channels (media) and their properties. BBaseband data
+communication: basic concepts oof analog and digital communication in the baseeband. Various
+encoding formats for data. Attenuattion and distortion problems and remedies. Maximumm data rate of a
+channel. Analog modulation and ddemodulation techniques: AM/FM/PM, principle off demodulating
+various kinds of modulated siggnals. Coherent and incoherent receiver digitaal modulation-
+ASK/FSK/PSK, Binary and M-arraay data modulation, continuous phase modulation-binary and M-
+array CPFSK, MSK, partial responnse CPM. Pulse modulation and pulse coded modulaation schemes-
+PAM/PWM/PPM, PCM/DPCM/AADPCM/DM etc. Reliable and efficient asynchronous and
+synchronous data communication:: block error handling and channel coding. Bit and character
+oriented framing. Transparent daatta communication. Error detection and correctioon in a frame
+LRC/VRC/Checksum/ CRC and Haamming code.
+Protocols for Data Communicatioon
+Stop and wait protocol and its effiiciency, sliding window protocols-go-back-n and seelective repeat.
+Modem technologies: QAM/MSK/CCPFSK/ADSL/Cable Modem.
+Wireless Communication
+Data communication over radio/mmicrowave/satellite/infrared links. Principles of sppread spectrum
+communication- DSSS, FHSS.
+Optical Communication Technoloogy
+Basic principles and components ffoor point-to-point communication. Multimedia commmunication and
+data compression.
+Reference Books
+a) S. Haykin, Communication Sysstems,John Wiley, 3rd Edition, 1994.
+b) H. Taub and D. Schilling, Prinnciples of Communication Systems, Tata McGraw HHill, 3rd Edition,
+2007.
+c) W. Stallings, Data and Compuuter Communications, Pearson education Asia (IPEE), 6th Edition,
+2000.
+69
+
+--- Page 74 ---
+d) F. Halshall, Data Communicaations, Computer networks and Open Systems, Pearrson Education
+Asia(IPE),4thEdition,1996.
+e) B. A. Forouzan, Data Communnications and Networking, Tata McGraw Hill, 3rd Eddition, 2003.
+f) D. Bertrekas and R. Gallagar, Data Networks, Prentice Hall (EEE), 2nd Edition, 19992.
+g) J. G. Proakis and M. Salehi, CCoommunication System Engineering, Pearson, 2nd Ediition, 2002.
+h) Schiller, Mobile Communicatioons, Pearson Education Asia, 2nd Edition, 2000.
+********
+BTMT 9th Semester
+[Elective –II]
+HHuman Computer Interaction
+Introduction to HCI methods. Intteeraction styles and general design. Various user interfaces and
+interaction strategies. Programminng usable interfaces, software architectures for uuser interface.
+Cognitive models, communication and collaboration models, collaborative systems. Screen design.
+Task analysis. Usability evaluationn, groupware and coordination technologies, HCI annd World Wide
+Web.
+Reference Books
+a) Alan Dix, Janet Finley, GGregory Abowd, Russell Beale, Human Computeer Interaction,
+Pearson, 3rd Edition, 2004..
+b) B. Shneiderma., Designingg the User Interface, Addison Wesley (Indian Reepprint), A joint
+venture by IIS, 2000.
+c) Wickens, Lee, Liu and Gorddon-Becker, Introduction to Human Factors Engineeering, Pearson,
+2nd Edition, 2004.
+d) Shneiderman, Plaisant, Coohen and Jacobs, Designing the User Interface: Strategies for
+Effective Human-Computerr Interaction, Addison Wesley, 5th Edition, 2009.
+********
+BTMT 9th Semester
+[Elective – II]
+Operation Research – II
+Stochastic Programming
+Chance constraint programming tecchniques.
+Geometric Programming
+Geometric programming (both uncoonstrained and constrained), fuzzy geometric programmming.
+70
+
+--- Page 75 ---
+Games
+Preliminaries concepts of continuoous game, bimatrix games, nash equilibrium, solution of bimatrix
+games through quadratic programmming (relation with non-linear programming). Multioobjective linear
+and non-linear programming, compplete optimal solution, Pareto and Weak Pareto opptimal solution,
+utility function method, global criteerion method, fuzzy programming technique.
+Optimal Control
+Performance indices, methods off calculus of variation, transversally conditions, ssimple optimal
+problems of mechanics, Pontryaggin’s principle (with proof assuming smooth conndition), linear
+regulator, application of dynamic prrogramming in proving Pontryagin’s Principle, Bangg-Bang control.
+Sequencing
+Problem with n jobs two machines, n jobs three machines and n jobs m machines.
+Reliability
+Concepts, reliability definition, syystem reliability, system failure rate, reliability oof the systems
+connected in series or/ and parallel.
+Information Theory
+Introduction, communication proceesss-memory less channel, the channel matrix, probability relation in
+a channel, noiseless channel. Measuure of information, properties of entropy function, mmeasure of other
+information quantities, marginal and joint entropies, conditional entropies, exppected mutual
+information, axiom for an entroppy function, properties of entropy function. Chaannel capacity,
+efficiency and redundancy.
+Encoding
+Objectives of encoding, Shannon--Fano encoding procedure, necessary and sufficieent condition for
+noiseless encoding.
+Reference Books
+a) A.P. Verma, Introduction to Opperations Research, S.K. Kataria and Sons, 3rd Editioon 2014.
+b) A. Taha Hamdy, Operations Reesearch: An Introduction, Pearson Education India, 10th Edition, 2017.
+c) P K Gupta, Operations Researcch, S Chand, 5th Edition, 1976.
+d) J K Sharma, Operations Researrch, Theory and Applications, Macmillan India Ltd, 1997.
+e) D.S Hira and P K Gupta, Operraations Research, S Chand, 2015.
+********
+71
+
+--- Page 76 ---
+BTMT 9th Semester
+[Elective – II]
+Mathemmatical Modelling and Simulation – II
+Some Mathematical Aspects of Osscillations of the Biological Systems
+Introduction, biological clock, moddel for the circadian oscillator. Pharmacokinetics. Maathematical models
+in pharmacokinetics, compartmmental analysis. Technique. Two compartmennt model-clinical
+bromsulphalein (BSP) Test. Basic equations for an n-compartment system. Distributiions of drugs in n-
+compartment model for (i) given innitial dose, (ii) repeated medication, (iii) constant raate of infusion and
+(iv) truncated infusion. Compartmeent model for diabetes mellitus. Stochastic compartmment models. Drug
+action. Some general principles ffoor real biological oscillations. Cellular mechanissm and genesis of
+Atherosclerosis.
+Arterial Biomechanics
+Importance of studies on the mecchanics of blood vessels. Structure and functions of blood vessels.
+Mechanical properties. Viscoelastiicity, linear discrete viscoelastic (spring-dashpot) models: Maxwell
+fluid, Kelvin solid, Kelvin chainns and Maxwell models. Creep compliance, reelaxation modulus.
+Hereditary integrals, Stieltjes Integgrrals. Constituents of blood. Structure and functions of the constituents
+of blood. Mechanical properties off blood. Equations of motion applicable to blood floww. Non-Newtonian
+fluids-Power law, Bingham plasticc, Herschel-Bulkley and Casson fluids. Steady nonn- Newtonian fluid
+flow in a rigid circular tube. Fahrraeus-Lindqvist effect. Pulsatile flow in both rigidd and elastic tubes.
+Blood flow through arteries with mmild stenosis. Shear stress on surface of the stenosis.. Two-layered flow
+in a tube with mild stenosis. Large ddeformation theory. Various forms of strain energy ffunctions. The base
+vectors and metric tensors. Greeenn's deformation and Lagrangian strain tensors. CCylindrical model,
+Constitutive equations for blood vesssels. Equations of motion for the vascular wall.
+Biological Diffusion and Diffusionn-Reaction Models
+Fick’s laws of diffusion, one-dimmensional diffusion model and its solution, some solutions of two-
+dimensional diffusion equation, varrious modifications of diffusion equation to diffusioon-reaction models
+arising in pharmacokinetics and eecology. Hemodialyser and dialysis of blood, basic equations for a
+circular-duct and a parallel-plate ddiialyser, Pecletnumber, sherwood number. Solutionss of basic equation
+for a circular-duct dialyser by (i) sseparation of variables method and (ii) Galerki’s meethod. Solution for
+parallel-plate dialyser.
+Reference Books
+a) D. A. MacDonald, Blood FFlow in Arteries, The Williams and Wilkins Compaany, Baltimore, 2nd
+Edition, 1974.
+b) Y. C. Fung, Biomechanics off Soft Biological Tissues, Springer Verlag, 1stEditionn, 1981.
+c) R. Habermann, Mathematiccal models : mechanical vibrations, population dynnamics, and traffic
+flow : an introduction to appplied mathematics, Prentice Hall, 1977.
+d) R. W. Poole, An Introductionn to Quantitative Ecology, McGraw- Hill, 1974.
+e) E. C. Pielou, An Introductionn to Mathematical Ecology, Wiley, New York , 1977..
+72
+
+--- Page 77 ---
+f) R. Rosen, Foundation of Maatthematical Biology (vol. Iand II), Academic Press, 22013.
+g) WFlugge,Viscoelasticity,SSpringer-Verlag,2ndEdition,1975.
+h) M. Zamir and E. L. Ritman, The Physics of Pulsatile Flow. Springer, 2012.
+i) J. N. Kapur, Mathematical MModels in Biology and Medicine, East West Press Pvvt Ltd ,1985.
+********
+BTMT 9th Semester
+[Elective – III]
+Operating System
+Introduction
+What is an operating system, funnction of operating system, operating system struucture: system
+components, operating system serviices, system calls.
+Processes
+Process concept, process state andd state transitions, process control block, suspend and resume of
+process, interrupt processing, contexxt switching.
+Process Synchronization and Inteer Process Communication
+The critical-section problem, Dekkker’s algorithm, semaphores, synchronization hardwware: test-and-
+set, compare-and-swap, solution of producer-consumer problem.
+Deadlocks
+System model, deadlock characteerrization, methods for handling deadlocks, deadlock prevention,
+deadlock avoidance and banker’s allgorithm, deadlock detection, deadlock recovery.
+Threads
+Single and multithreading models, tthreading issues, P threads, solaris 2 threads, windoww 2000 threads,
+linux threads, java threads.
+CPU Scheduling
+Basic concepts, scheduling levels, scheduling criteria, pre-emptive and non-preemptiive scheduling,
+scheduling algorithms, multi-processsor scheduling.
+Memory Management
+Memory organization, storage hierrarchy, storage management strategies, swapping, ccontiguous and
+non contiguous memory allocation,, virtual memory: paging, segmentation, segmentatioon with paging,
+notion of locality and working sets, thrashing, page replacement algorithms.
+73
+
+--- Page 78 ---
+File-System Interface
+File concepts, file organization, aaccess methods, directory structure, file-system mounting, file
+sharing, protection.
+File-System Implementation
+File-system structure, file system immplementation, directory implementation, allocation methods, free-
+space management, efficiency and pperformance, recovery.
+Disk Scheduling
+Disk structure, disk caching, diskk scheduling, disk management, swap-space managgement, RAID
+structure, disk attachment, stable-stoorage implementation.
+Protection
+Goals of protection, domain of prrotection, implementation of access matrix, revocaation of access
+rights, capability-based systems, lannguage-based protection.
+Security
+The security problem, user authenntication, program threats, system threats, securingg systems and
+facilities, intrusion detection, cryptoography, computer-security classifications.
+Reference Books
+a) Abraham Silberschatz, Peteer Baer Galvin and Greg Gagne, Operating System CConcepts, John
+Wiley and Sons, Inc., 9th Eddition, 2018.
+b) H. M. Deitel, Operating Sysstem, Pearson Education, 3rd Edition, 2004.
+c) Pramod Chandra P. Bhatt, An Introduction to Operating System Concepts andd Practice, PHI
+Pvt Ltd, 2nd revised Edition,, 2007.
+********
+BTMT 9th Semester
+[Elective – III]
+Decision Theory and Computational Statistics
+Decision Theory
+Games and statistical games, Statiistical decision problem, decision function, risk fuunction, prior and
+posterior distribution, Baye’s risk and Baye’s rules.
+Least favourable prior, minimaxxiity, admissibility and complete classes, admissiibility of Baye’s
+rules, existence of minimal complleete class and Baye’s rules.
+74
+
+--- Page 79 ---
+The supporting and separating hyperplane theorems, essential completeness of the class of
+nonrandomized rules, minimax annd complete class theorems.
+Solving for minimax rules, essenntial completeness of class of rules based on suffficient statistics,
+continuity of risk function, Invariaant decision problems, admissible and minimax innvariant decision
+rules.
+Computational Statistics
+Analysis of variance, one- way annd two – way classification, concept of design of eexperiment, some
+standard design: completely randdomized design, randomized block design, latin squares, Graeco
+latin squares and factorial design confounding and blocking in factorial design, fraactional factorial
+design.
+Simple and multiple regression models, classical techniques of time series anaalysis, ANOVA,
+MANOVA, multivariate analyysis of covariance model (MANCOVA), smoothing and
+decomposition, factor analysis.
+Reference Books
+a) James O Berger, SStatistical Decision Theory and Bayesian Analyssis, Springer series,
+2nd Edition, 2010
+b) James O. Berger, Statistical Decision Theory, Foundation, Conccepts and Methods,
+Springer series in SStatistics, 1st Edition 1980
+c) James E. Gentle and Wolfgang Karl Hardle and Yuichi MMori, Handbook of
+computational statiistics: Concepts and methods, Springer, 1st Editioon. 2004.
+********
+BTMT 9th Semester
+[Elective – III]
+Stochastic Calculus
+Review of Brownian motion and stoochastic integration with respect to Brownian motion, extension of
+stochastic integral for a larger class of integrands, stopping times, local martingales.
+Stochastic integration with respecctt to right continuous with left limits (RCLL) squuare integrable
+martingales, Doob Meyer decompoosition, Ito's formula for martingales, continuous mmartingales, the
+representation theorem for martiingales, stochastic differential equations, diffusiion processes,
+Girsanov's representation theorem, llocal time, Tanaka's formula, multiple Weiner-Ito inntegrals.
+75
+
+--- Page 80 ---
+References Books
+a) K.L.Chung and R.J.Williamms, Introduction to Stochastic Integration, Birkhäusser; 2nd Edition,
+2013.
+b) Hui-Hsiung Kuo, Introducttion to Stochastic Integration, Springer; 6th Edition, 2005.
+c) N. Ikeda and S. Watanaabe, Stochastic Differential Equations and Diffusiion Processes,
+Elsevier, 2nd Edition, 20144.
+********
+BTMT 9th Semester
+[Elective – III]
+Mobile Computing
+Introduction to Personal Communnications Services (PCS)
+PCS architecture, mobility manageemment, networks signaling.
+Global System for Mobile Commuunication (GSM) Overview
+GSM architecture, mobility managgeement, network signaling.
+General Packet Radio Services (GGPRS)
+GPRS architecture, GPRS network nodes.
+Mobile Data Communication
+WLANs (Wireless LANs), IEEE 8002.11 standard, mobile IP, Bluetooth, routing algorithhms for mobile
+ad -hoc networks.
+Wireless Application Protocol (WWAP)
+The mobile internet standard, WAPP gateway and protocols, wireless mark-up languagess (WML).
+Third Generation (3G) Mobile Seervices
+Introduction to international mobille telecommunications 2000 (IMT 2000) vision, wwideb and code
+division multiple access (W-CDMAA), and CDMA 2000, quality of services in 3G.
+Wireless Local Loop (WLL)
+Introduction to WLL architecture, wireless local loop technologies, global mobile sattellite systems,
+case studies of the IRIDIUM and GGLLOBALSTAR systems.
+References Books
+a) Yi-Bing Lin and Imrich Chhlamtac, Wireless and Mobile Networks Architectuures, Wiley, 1st
+Edition, 2008.
+76
+
+--- Page 81 ---
+b) Raj Pandya, Mobile and PPersonal Communication Systems and Services, Prrentice Hall of
+India,2001.
+c) U. Hansmann, Lothar MMerk, Martin Nicklous, Thomas Stober, Principlles of Mobile
+Computing, Dreamtech Preess, 2nd Edition, 2006.
+********
+77
+
+--- Page 82 ---
+BTMT
+COMPUTATIIONAL MATHEMAATICS
+th
+100 SEMESTER
+Semmester – 10th 17– Credits
+Option – 1
+Dissertation – II 200 0 0 10 10
+Grand Viva-II 100 0 0 4 4
+Seminar Presentation-III 100 0 0 3 3
+Option–2
+Industrial Project 200 0 0 0 10
+Project Seminar 100 0 0 3 3
+Grand Viva-II 100 0 0 4 4
+78

@@ -1,0 +1,1678 @@
+
+--- Page 1 ---
+  
+ 
+
+TWsSla Wehr Fea SERA
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+Fax : 0381 254-6360, Website : http// www.nita.ac.in
+
+ 
+    
+   
+ 
+
+ 
+
+No.F.NITA.12(04-EE)/Procurement Power Electronics Lab/2024/ /712./2024
+
+E-Tender Notice
+
+On behalf of National Institute of Technology Agartala, bids are invited in sealed cover from the
+reputed resourceful Manufacturers / Authorized Distributors/ Authorized Suppliers for supply of item(s)/goods
+as per specification mentioned in Annexure of tender document available at our website www.nita.ac.in.
+
+     
+   
+  
+  
+    
+   
+
+  
+  
+  
+
+Time and date of
+opening of
+Technical bid
+
+Estimated
+cost
+(Rs.
+
+ 
+  
+ 
+
+ 
+  
+  
+
+Last date of
+receipt of tender
+
+ 
+
+uo0rq9a¢ /
+yuounsredaq
+
+ 
+
+     
+  
+   
+
+ 
+  
+    
+
+Laboratory and
+Scientific
+Equipment
+
+No.F.NITA.12(94-
+EE)/Procurement
+Power Electronics
+Lab/2024
+
+ 
+   
+   
+
+ 
+   
+  
+  
+ 
+
+     
+ 
+
+2d / 32/2024 3) / (2/2024
+Up to 3:00 PM At 3:00 PM
+
+Electrical
+
+: . 15,38,160.00
+Engineering
+
+ 
+
+The interested Manufacturers / Authorized Distributors/Authorized Suppliers may arrange online
+submission of the tender through www.eprocure.gov.in along with scan copy of essential documents mentioned in
+the tender document.
+
+Tender(s) is/are to be submitted only online through central public procurement portal ice.
+“http://eprocure.gov.in”. All the documents are to be scanned and uploaded along with the tender documents.
+
+Tender sent by any other mode will not be accepted.
+
+Registrar
+
+ 
+
+ 
+
+egistrar©™| lols
+NIT Agartala
+
+Copy to:
+
+1. The P.S. to the Director for kind information.
+The Nodal Officer, e-Procurement, NITA with a request to kindly arrange uploading the
+Tender Documents in the CPP portal https://eprocure.gov.in/eppp.
+
+Be Mr. Kamal Kanti Paul, System Administrator, Computing & ICT Unit with a request to uploading
+the Tender documents in the Institute website site.
+
+4. The Deputy Registrar (F & A). Pa
+
+Registrar
+
+NIT Agartala
+
+
+--- Page 2 ---
+USA WNP BI SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024/ 42}-10 Date: 6 / 19/2024
+
+E- Tender Enquiry
+IMPORTANT INFORMATION
+
+Name of the Institute : NATIONAL INSTITUTE OF TE CHNOLOGY
+AGARTALA
+
+GST Number of the Institute : 16AAAGN0550K1ZG
+
+PAN of the Institute : AAAGNOS50K
+
+TAN of the Institute : SHLNO0719F
+
+DSIR No. : TU/V/RG-CDE(1053)/2022 dated 18/12/2022
+
+Institute Bank A/C No. : 030936141729 (IFSC: SBIN0011491) under SBI, NIT
+Agartala Branch.
+
+Name of Department / Branch : Electrical Engineering Department
+
+Enquiry / Reference Number : No.F.NITA.12(94-EE)/Procurement Power Electronics
+
+Lab/2024
+
+Some important/Critical dates:
+
+ 
+
+Uploading on CPP Portal and | Date: O4 / 12/2024 Time: 5:00 PM
+Department’s web-site
+
+Bid submission start date : OY / 32/2024 Time: 5:00 PM
+
+ 
+
+ 
+
+Bid submission end date Date: a0 / 19./2024 Time: 3:00 PM
+Opening of technical bid Date: 3\/ 39/2024 Time: 3:00 PM
+
+ 
+
+1|Page
+
+
+--- Page 3 ---
+TS War PIM seed
+
+aes National Institute of Technology Agartala
+SA AGARTALA - 799 046 (TRIPURA)
+
+    
+
+Details of e-tender document.
+
+NIT, Agartala intends to purchase the commodities/serrie(s)
+specified in Annexure enclosed and invites quotations in accordance with the
+terms and conditions detailed in the bid document. If you are interested,
+kindly submit your offer with prices within the time mentioned above fulfilling
+
+all the terms and conditions marked in the bid documents.
+
+[Ack
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+Encl :
+
+(1) Schedule of requirement, specifications, dates etc.
+(2) Bid document containing detail terms and conditions.
+
+2|Page
+
+
+--- Page 4 ---
+1.
+
+ 
+
+UST Weel BVI SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Description of Goods/Service
+
+         
+     
+   
+    
+  
+
+DC-DC Bidirectional Buck Boost Converter for EV Charger with
+Controller
+
+2. Single Phase, 5 Level Diode Clamped Inverter with inbuilt FPGA 01 no
+Controller
+
+3. Single Phase, 5 level Cascaded Symmetric H-Bridge inverters with 01 no
+inbuilt FPGA Controller
+
+4. Study of VI Characteristics of SCR, TRIAC, IGBT and MOSFET 01 no
+
+5. Study of single-phase full Wave-Controlled Rectifier Circuits and 01 no
+Semi Converter (mid-point and bridge type) with R and R-L Load.
+
+6. DC-DC Buck Boost Converter 01 no
+
+7. Power Factor Correction (PFC) based setup and applications in 01 no
+SMPS Boost Converter with Power Factor Correction.
+
+ 
+ 
+
+ 
+
+8. Three phase SCR based Full Wave Rectifiers.
+9. 3-phase Shunt Active Power Filter (SAPF)
+
+   
+ 
+  
+  
+
+ 
+ 
+ 
+  
+
+(Details as per SI] No.1 to 9 at Annexure-B).
+
+ 
+
+Specifications and allied Technical Details
+
+ 
+      
+      
+ 
+
+1. DC-DC Bidirectional Buck Boost Converter for EV Charger with Controller
+
+2. Single Phase, 5 Level Diode Clamped Inverter with inbuilt FPGA Controller
+
+3. Single Phase, 5 level Cascaded Symmetric H-Bridge inverters with inbuilt FPGA Controller
+
+4. Study of VI Characteristics of SCR, TRIAC, IGBT and MOSFET
+
+5. Study of single-phase full Wave-Controlled Rectifier Circuits and Semi Converter (mid-point and
+bridge type) with R and R-L Load.
+
+6. DC-DC Buck Boost Converter
+
+7. Power Factor Correction (PFC) based setup and applications in SMPS Boost Converter with Power
+
+    
+ 
+
+Factor Correction.
+
+8. Three phase SCR based Full Wave Rectifiers.
+3-phase Shunt Active Power Filter (SAPF)
+
+(Details as per SI No.1 to 9 at Annexure-B).
+
+Estimated Cost
+15,38,160.00
+
+Quotations should be valid for a period of 180 days from the opening date of the technical bid.
+
+Bid Security or EMD: 2% of the estimated cost of the tender or Bidders should submit “Bid
+Security Declaration Form” on company letter head as per annexure-D of this tender document.
+
+ 
+  
+
+ 
+  
+
+ 
+
+Performance Security: The amount of the Performance Security shall be 5%(five percent) (not
+applicable for consumable item(s)) of the Purchase Order / Contract value, valid up to 60 days after
+the date of completion of contract obligations including warranty obligations.
+
+Delivery Option: 60 (sixty) days after receipt of the purchase/work order(s).
+Please go through the enclosed “bid document” carefully for other bidding instructions.
+
+For any technical details, you may contact through email-id: nitapurchasesection2@qmail.com.
+
+Yours sincerely,
+
+co“
++
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 5 ---
+TS Wealhreal Fe sien
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024/ Date: / /2024
+
+BID DOCUMENT
+1. Instructions to the bidders:
+
+1.1 Bids are invited through e-tender on behalf of the National Institute of
+Technology Agartala, Tripura, Agartala-799046 from the intending bidders for
+supply of the goods/stores/ equipments/Learning resources for the Institute as
+detailed in the enquiry letter.
+
+1.2 | The bidders should quote their rates in clear terms without ambiguity. The
+quotation should be only in Indian Rupees.
+
+1.3. The last date & time for submission of the bid is marked in the enquiry.
+
+1.4 The bids should be submitted online through www.eprocure.gov.in before the
+last date & time of submission specified in tender document.
+
+1.5 Bids received after the deadline of receipt indicated in para 1.4 above, shall not
+be taken into consideration.
+
+1.6 Each bidder shall submit only one bid against one enquiry. A bidder, who
+submits more than one bid against single enquiry, shall be disqualified and
+considered non-responsive.
+
+1.7 The bidder has to enclose a check list at per Annexure - C duly filled in along
+with all relevant/supporting documents while submitting technical bid through
+
+Wwww.eprocure.gov.in.
+
+1.8 Opening of Bids by the Purchaser will be done as per the provisions of the e-
+procurement system.
+
+1.9 At any time prior to the due date for submission of bids, the Purchaser may, for
+any reason, whether at its own initiative or in response to a clarification
+requested by a prospective bidder, modify the bidding documents by
+amendment.
+
+1.10 All prospective bidders are expected to surf the website before formulating and
+submitting their bids to take cognizance of the amendments.
+
+1.11 Custom Duty Exemption Certificate will be provided from the Institute for
+availing Custom Duty Exemption in trams of notification No. 51/96-Custom
+dated 23-07-1996, amended by notification No. 43/2017 dated 30-06-2017,
+further amended by notification No. 42/2022 dated 13-07-2022, as amended
+from time to time in case of imported items per OM No. F.4/1/2021-PPD dated
+01-09-2021.
+
+Yours sincerely,
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+>; oO
+4|Page
+
+
+--- Page 6 ---
+ 
+
+TS Weal FA SET
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024/ Date: / /2024
+
+2. General Terms & Conditions:
+
+rae |
+
+22
+
+2.3
+
+2.4
+
+25
+
+2.6
+
+oF
+
+2.8
+
+5|Page
+
+The rates quoted by the Supplier/Bidders should preferably be on
+basic price, Annual Maintenance Charges(if applicable), packing,
+forwarding, freight, Insurance and all other incidental charges
+including delivery of the Materials at National Institute of Technology,
+Agartala.
+
+All taxes and duties will be paid extra and such amounts of
+mandatory/statutory taxes & duties shall be explicitly mentioned in
+BOQ while submitting of bid. If GST amount not quoted in the BOQ
+(price bid), the total cost will be treated as inclusive of GST.
+
+Price has to be filled through CPP portal as per BOQ
+(https://www.eprocure.gov.in). The scanned copy of Price Bid, dully filled in,
+has to be uploaded on the above e-procurement site. The prices filled in the e-
+procurement site will be treated final and shall be binding to the vendor.
+
+Insurance: The Goods supplied under the Contract shall be fully insured against
+any loss or damage incidental to manufacture or acquisition, transportation,
+storage and delivery up to the final destination.
+
+All the Machines/Equipments/goods will be covered by Annual Maintenance
+Contract (AMC) / CMC/ Warranty beyond the normal warranty/guarantee period.
+Interested bidders are requested to quote price against AMC/Extended warranty
+as an optional item in the price bid. Optional items will not be taken into
+consideration while selecting L; bidder.
+
+AMC/CMC/Extended Warranty will be awarded after completion of standard
+warranty period. AMC/CMC/Extended Warranty may be carried out only after
+receipt of confirmation letter from this Institute. The Institute will not be
+responsible for any due payments / obligations may arise as a result of
+execution of AMC/CMC/Extended Warranty without confirmation letter from this
+Institute.
+
+Conditional discount, if any, offered by the bidder shall not be considered at the
+time of evaluation.
+
+The bidders who are registered as a Micro or Small Enterprise as per
+latest definitions under MSME rules, Govt. of India for exemption of
+submitting EMD/Bid security must enclose relevant documentary
+proof of authentication of their firm’s registered as a Micro or Small
+Enterprise as per latest definitions under MSME rules, Govt. of India.
+
+
+--- Page 7 ---
+USA Well FIM SRA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+2.9 If the bidder is a Micro or Small Enterprise as per latest definitions under MSME
+rules, the bidder shall be exempted from the requirement of "Bidder Turnover"
+criteria and "Experience Criteria". If the bidder is OEM of the offered products, it
+would also be exempted from the "OEM Average Turnover" criteria. In case any
+bidder is seeking exemption from Turnover /Experience Criteria, the supporting
+documents to prove his eligibility for exemption must be uploaded with technical
+bid.
+
+2.10 If the bidder is a Startup, the bidder shall be exempted from the requirement of
+"Bidder Turnover" criteria and "Experience Criteria". If the bidder is OEM of the
+offered products, it would also be exempted from the "OEM Average Turnover"
+criteria. In case any bidder is seeking exemption from Turnover / Experience
+Criteria, the supporting documents to prove his eligibility for exemption must be
+uploaded with technical bid.
+
+2.11 National Institute of Technology, Agartala is following and abide with the Public
+Procurement (Preference to Make in India), Order 2017, DIPP, MoCI Order No.
+P-45021/2/2017-B.E.1I dated 15th June 2017 and subsequent amendments to
+the order. Accordingly preference will be given to the Make in India products
+while evaluating the bids, however, it is the sole responsibility of the bidder(s)
+to specify the product quoted by them is of Make in India product along with
+respective documentary evidence as stipulated in the aforesaid order in the
+technical bid itself. A self-declaration as per Annexure- G should be enclosed in
+the technical bid.
+
+2.12 Onsite Comprehensive Warranty:
+
+e The successful bidder shall provide a Comprehensive Warranty for minimum
+period of 2 years (not applicable for consumable item(s)) after the installation
+and commissioning of the instrument / software/items. If within a warranty
+period after installation any such product or component is proven to be
+defective such product shall be repaired or replaced by the supplier/vendor.
+Such repair and replacement shall be sole obligation of supplier/vendor.
+Supplier / vendor shall be responsible for payment for all charges (to-and-fro)
+for repair/ replacement. Any design defects or installations deficiencies or
+any outer defects, if noticed during the warranty/ maintenance period, shall
+be rectified promptly by the successful bidder with no cost at all the places,
+which also includes the field installations.
+
+e Down-time call attendance should be within 48 hrs.
+
+e In case the Equipment / System remains non-operational for more than 5
+days then warranty period will be extended for the equal period for which
+Equipment / System remained non-operational. Warranty extension in such
+case shall be done without prejudice to any other Term & condition of the
+
+contract. Up
+/
+
+6|Page
+
+
+--- Page 8 ---
+ 
+
+TS WealPrat AIM SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+al
+2.13 The documentary evidence of the bidders qualification to perform the contract if
+
+the bid is accepted shall establish to the purchasers satisfaction that:
+
+     
+
+      
+
+| (a) | The bidder meets the qualification criteria listed in bidding documents, if any.
+(b) | Bidder who doesn’t manufacture the goods it offers to supply shall submit
+Manufacturers’ Authorization Form using the form specified in the bidding
+document to demonstrate that it has been duly authorized by the
+manufacturer of the goods to quote and / or supply the goods/services.
+
+     
+     
+            
+
+2.14 The successful bidder has to furnish “Performance Guarantee/Security” (not
+
+applicable for consumable item(s)) for an amount specified in the enquiry by E-
+Payment System to NITA Account within 15(fifteen) days of intimation of
+contract/supply order.
+
+Alternatively, “Performance Guarantee/Security” will be retained by the Institute
+from the billed amount of the contract/supply order which will be released two
+months after the completion of warranty period (not applicable for consumable
+item(s)).
+
+2.15 Delivery Schedule: As per e-Tender.
+
+The item(s)/goods are required to be delivered at the indenting Department of
+National Institute of Technology, Agartala, and must be dispatched within
+specified days from the date of placement of the supply/purchase/work order.
+
+If the supplier fails to Supply, Install and Commission the system/instrument as
+per specifications mentioned in the order within the due date, the Supplier is
+liable to pay liquidated damages of 0.5% of order value per week or part
+thereof of delay subject to a maximum of 10%, as the case may be, beyond the
+due date. Such money will be deducted from any amount due or which may
+become due to the supplier. Any exemption towards delay without LD can be
+resolved through mutual consent under exceptional circumstances.
+
+2.16 Force Majeure: Notwithstanding the provisions of clauses relating to Extension
+
+of Time, Penalty and Termination for Default the Supplier shall not be liable for
+forfeiture of its Performance Security, Liquidated Damages or Termination for
+Default, if and to the extent that, its delay in performance or other failure to
+perform its obligations under the Contract is the result of an event of Force
+Majeure.
+
+2.17 Evaluation of Bid: The Technical Bid shall be evaluated on the basis of technical
+
+and other parameters usually taken in to consideration. Financial bid shall be
+evaluated on the basis of financial parameters. Govt. of India rules shall be
+taken in to account for evaluating both technical and financial bids.
+
+2.18 The successful bidder(s) may be required to execute a contrac eo the basis of
+evaluation as per annexure(s) (as applicable). ‘
+
+
+--- Page 9 ---
+ 
+
+USA WENT VIA BRAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+249
+
+2.22
+
+2.23
+
+2.24
+
+2.25
+
+2.26
+
+8|Page
+
+NIT Agartala will reject a proposal for award if it determines that the Bidder
+recommended for award has, directly or through an agent, engaged in corrupt,
+fraudulent, collusive or coercive practices in competing for the Contract in
+question.
+
+The bidder has to submit valid trade license, GST registration certificate, Last
+filled ITR and last filed GST return.
+
+Payment: 100% will be made in INR (Indian National Rupees) after
+successful Installation, Commissioning of item against submission
+of Performance Guaranty (PG) otherwise an equal amount of PG
+will be retained by the Institute till the completion of warranty
+obligations.
+
+Note: All payments due under the contract shall be paid after deduction of
+statutory levies at source (like ESIC, IT (TDS), GST, LBT / Octroi etc.), wherever
+applicable.
+
+In the event of any dispute arising out of the bid or from the resultant contract,
+the decision of the Competent Authority, National Institute of Technology,
+Agartala shall be final.
+
+The bid document/resultant contract will be interpreted under Indian Laws.
+
+National Institute of Technology, Agartala will not take any responsibility for
+arranging road permit/way bill or clearance from tax department for delivery of
+goods. All such requirements should be completed by the bidder for delivery of
+goods at National Institute of Technology, Agartala. GST payment, if required,
+should be paid by successful bidder and if GST not paid, National Institute of
+Technology, Agartala will deduct the applicable amount from successful bidder's
+bills and pay the same to Tax Authority. If there is any mandatory tax(es) other
+than GST/other taxes mentioned in this tender document, imposed by State
+Govt., the same may also be deducted from the bills of the successful bidder, as
+applicable.
+
+Competent Authority of National Institute of Technology, Agartala
+reserves the right to cancel the entire e-tendering process at any
+stage of the procurement process without mentioning any reason.
+
+Legal disputes, if any with NIT Agartala will be restricted within the
+jurisdiction of Agartala only.
+
+Yours er
+Registra
+
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 10 ---
+ 
+
+   
+
+Ca
+Ser ree we C
+
+Gee
+
+3.
+
+Bie
+
+  
+
+USA WNP A SPAT
+
+National Institute of Technology Agartala
+
+> AGARTALA - 799 046 (TRIPURA)
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024 Date: / /2024
+
+Special Terms & Conditions:
+
+oom
+
+3:2
+
+3.3
+
+3.4
+
+3.9
+
+3.6
+
+3d
+
+3.8
+
+3.9
+3.10
+
+Acceptance of Technical bid strictly depends on National Institute of Technology,
+Agartala’s requirements credentials, manufacturing capability, quality control
+systems, past performance, after-sales service, financial background,
+commercial terms & conditions etc. of the supplier(s).
+
+Detailed Specifications, brand, make, model & parts number, tolerance limit,
+resolution, corresponding ISO standard etc. of quoted Equipments/Items should
+be mentioned with supported leaflet/catalogue/brochure and list of buyers for
+acceptance of technical bid.
+
+The technical bid and the financial bid should be submitted through
+www.eprocure.gov.in. The technical bids shall be opened and evaluated by the
+competent committee/authority. At the second stage, financial bids of only the
+technically qualified bidders shall be opened for further evaluation and
+recommendations for awarding the purchase order/contract.
+
+It may specifically be mentioned whether quotation is strictly as per terms and
+conditions of the tender. Deviation, if any, must be spelt out specifically in
+technical bid. In the absence of this, the quotation may be rejected.
+
+Installation & Commissioning: Within 15 (fifteen) days after delivery (if
+applicable).
+
+The Quantity of each Item(s)/Equipment(s) may increase (as per Govt. Norms)
+or decrease at the time of issued of Purchase / Supply / Work Order. The
+Institute reserves right to purchase partly or not to purchase any item / cancel
+the entire process at any stage of procurement process.
+
+Penalty: Penalty will be charged @ 0.5 % of per week or part thereof except for
+force majeure conditions for the unexecuted part of the supply/work order.
+
+Arbitration: All disputes should be attempted to be resolve mutually between the
+National Institute of Technology, Agartala and the suppliers failing which
+jurisdiction of any Court of Agartala shall be applicable.
+
+The successful bidder has to give at least 3-4 days on site training for each &
+every items/equipments by Certified Person (if required).
+
+Model No. of the product should be given with catalogue (if any).
+Items/Goods should be sent through Registered Transporter (preferably).
+
+Bidders are required to upload a declaration on letter head stating that the
+bidder has not been black-listed & holida listed by any
+Ministry/Department/Organization. ahs
+
+
+--- Page 11 ---
+ 
+
+USIy Weal FVII BPM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+3.12
+
+3.13
+
+10 | Pa ge
+
+Bidder(s) is/are required to upload a self-certificate as per
+applicability (Annexure- E or F) regarding offered item(s) as per Office
+Memorandum No. 6/18/2019-PPD dated 23-07-2022 & 24-07-2020
+and Office Memorandum No. F.18/37/2020-PPD dated 8" February,
+2021 issued by Department of Expenditure, Procurement Policy
+Division, Ministry of Finance, Govt. of India.
+
+Bidders are requested to provide valid e-mail ID and phone number for further
+communication.
+
+Bank A/C in the Exact Name of Bidder/Firm/Supplier with Name, A/C No., IFSC
+code must be furnished with technical bid.
+
+Bidder has to submit annual turnover not less than 7.80 lakh per year with
+technical bid for last 3 (three) years. Bidder also has to submit OEM turnover
+not less than 61 lakhs per year for last 3(three) years (if bidder is not OEM).
+
+If bidder itself OEM, has to be submit turnover not less than 61 lakhs per year
+for last 3 (three) years with technical bid.
+
+Yours sincerely,
+
+y J
+RegiStrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 12 ---
+(7)
+ANNEXURE- B
+
+DETAIL SPECIFICATIONS
+
+01. DC-DC BIDIRECTIONAL BUCK BOOST CONVERTER FOR EV CHARGER WITH
+CONTROLLER
+
+ 
+
+DC-DC BIDIRECTIONAL CONVERTER:
+e 2Nos of Switching device SEMIKRON IGBT Rating @600v,75A ,20khz with proper heatsink and snubber circuit Used to form
+power circuit.
+BOOST MODE:
+I/P voltage range: -min: 24v Dc
+O/P voltage range: -max: 48V Dc
+Output power: 1000W(max)
+Switching Frequency---5-20khz
+2 Nos of HCPL316J IC based Negative Turn Off (0-8 to +15v) with short circuit pwm driver circuit used
+One Hall effect current sensor used to sense Input current
+One Hall effect current sensor used to sense Inductor current and over load trip purpose.
+One hall effect voltage sensor used to sense the I/P voltage.
+One hall effect voltage sensor used to sense the 0/p voltage.
+Voltage ad current sensor o/pts terminated in front panel bs2 connector.
+Over load fuse protection available.
+Over temperature protection will be provided
+One no of 4” cooling fan used to dissipate switching device heat
+Controller to be provided at the time of installation
+
+ARTIX7 7 XC7A35T FPGA CONTROLLER:
+
+On-Board Features:
+e Xilinx XC7A35T Artix 7 FPGA IC
+256Mb SDRAM
+8MB SPI FLASH Memory
+On-Board USB JTAG Programmer
+USB to UART Interface
+4 Digit Seven Segment Display
+50 MHz Clock
+ADC 4 channel 0-3V
+Temperature Sensor
+LDR Interface
+SPI DAC
+2x16 LCD Display
+16 Slide switches
+5 Push Button
+5v Buzzer
+16 LEDs
+31 External I/O's
+
+02. SINGLE-PHASE, 5-LEVEL DIODE CLAMPED INVERTER WITH INBUILT FPGA
+CONTROLLER
+
+¢ 8no’s of IGBT rating @600v,15A & 4 Nos Diodes used to form 1 phase 5 level cascaded h-bridge Inverterpower circuit,
+e Snubber capacitor provided for dv/dt.
+
+e 8nos TLP250 IC based PWM driver circuit used.
+
+¢ 8no’s of driver circuits used to isolate and Drive IGBT PWM signals.
+
+* 8no’s of Isolated Regulated power supply rating @+15v/0.5A Used for IGBT PWM drivercircuits.
+
+2 no’s of current sensor used to sense the de link current. All sensorO/P’s used for current protection and terminated in front panel
+for measurement purpose.
+
+1 no of CT used to sense the 1 phase load currents. The sensor output scaling needs to be mentioned, and the scaling control
+knobs must be accessible for the sensors.
+
+¢ Sensor O/P’s will used for over load Trip and terminated in front panel for measurement purpose.
+¢ Necessary Interfacing connectors provided for PWM Input from FPGA controller and analog O/P’s to FPGA controller.
+
+Me.
+
+Ge
+
+
+--- Page 13 ---
+ANNEXURE- B
+
+e Over load trip and indication circuit is available.
+
+Over load fuse protection also provided.
+
+2 no’s of 2A single phase 24V isolation transformer and Iph, 6A diode bridge rectifier’s usedto provide the isolated Dc supply
+each diode clamped inverter included in each box.
+
+The mentioned above all components covered with a Nice industrial type cabinet and Frontpanel covered with Power circ
+mimic diagram sticker and labelling Will be provided for each terminal.
+
+e Each Inverter De Link volt:30V dc max
+e Each Inverter o/p voltage :20 Vac rms
+
+Each inverter o/p current :2A max
+
+FPGA Spartan6 Controller:
+On-Board Features:
+Programming & Memory section
+
+Processor speed 20 MHZ.
+57 Individually Programmable GPIO Pins.
+4MB On board PROM for standalone program execution memory.
+
+Interfaces
+
+8 outputand 8 input lines with 5V Level.
+
+Isolated serial communication interface through USB connector.
+4 position user DIP switch.
+
+8 user LEDs.
+
+2 no of input push switches.
+
+20x4 (or 16x2) LCD interface header.
+
+Headers
+
+2 no’s of 16 pin and 1 no of 10 pin headers for GPIO line termination (49 Pins).
+5 pin Unicon connector for power supply (+5V, GND).
+20 pin header used to interface 20x4 LCD or 16x2 LCD.
+
+LOAD:
+
+50W Lamp Load TO be provided.
+
+03. SINGLE-PHASE, 5-LEVEL CASCADED SYMMETRIC H-BRIDGE INVERTER WITH INBUILT
+FPGA CONTROLLER
+
+8 no’s of IGBT rating @600v,15A used to form 1 phase 5 level cascaded h-bridge Inverterpower circuit,
+
+All IGBT are mounted on proper heat sink. Each H-bridge consist of 4 IGBTS with Anti parallel diodes totally 2 H-bridges used
+
+to form | phase 5level Inverter power module.
+
+Snubber capacitor provided for each H-bridge for dv/dt protection.
+
+Each H-bridge 4nos TLP250 IC based PWM driver circuit used.
+
+8no’s of driver circuits used to isolate and Drive IGBT PWM signals.
+
+8 nos of Isolated Regulated power supply rating @+15v/0.5A Used for IGBT PWM drivercircuits.
+
+2 nos of current sensor used to sense the dc link current. All sensorO/Ps used for current protection and terminated in front panel
+
+for measurement purpose.
+
+1 no of CT used to sense the 1 phase load currents. The sensor output scaling needs to be mentioned, and the scaling contr
+knobs must be accessible for the sensors.
+
+Sensor O/P’s will used for over load Trip and terminated in front panel for measurement purpose.
+
+Necessary Interfacing connectors provided for PWM Input from FPGA controller and analog O/P’s to FPGA controller.
+
+Over load trip and indication circuit is available.
+
+Over load fuse protection also provided.
+
+2 no’s of 2A single phase 24V isolation transformer and 1ph, 6A diode bridge rectifiers usedto provide the isolated DC supply 1
+each H-bridge inverter included in each box.
+
+The mentioned above all components covered with a Nice industrial type cabinet and Frontpanel covered with Power circu
+mimic diagram sticker and labelling Will be provided for each terminal.
+
+Each Inverter DC Link volt:30V de max
+
+Each Inverter o/p voltage :20 Vac rms
+
+Each inverter o/p current :2A max
+
+
+--- Page 14 ---
+ 
+ 
+
+ANNEXURE- B
+
+   
+
+FPGA Spartan6 Controller:
+On-Board Features:
+
+Programming & Memory section
+e Processor speed 20 MHZ.
+e 57 Individually Programmable GPIO Pins.
+e 4MB On board PROM for standalone program execution memory.
+Interfaces
+e 8 output and 8 input lines with SV Level.
+e Isolated serial communication interface through USB connector.
+e 4position user DIP switch.
+e 8user LEDs.
+e 2no of input push switches.
+e 20x4 (or 16x2) LCD interface header.
+Headers
+e 2no’s of 16 pin and 1 no of 10 pin headers for GPIO line termination (49 Pins).
+e 5pin Unicon connector for power supply (+5V, GND).
+e 20 pin header used to interface 20x4 LCD or 16x2 LCD.
+
+Load: 4
+> 50W Lamp Load will be provided.
+
+04. STUDY OF VI CHARACTERISTICS OF SCR, TRIAC, IGBT AND MOSFET
+
+It should Consist of power devices SCR, TRIAC, MOSFET, IGBT
+
+eTwo no. of 12V fixed DC power supply and one no of 30V fixed power supplyfor characteristics of all devices
+
+eTwo nos. of potentiometer to vary the gate/base current
+
+e Fixed load resistor
+
+e Power on/off switch provided, LED indication for 12V, 30V
+
+¢ All necessary points terminated in the front panel Provision for connecting ammeter and voltmeter 3 meters (multi meter) are
+provided to measure the variouspower devices Current and voltage to find the static characteristics.
+
+e For SCR only forward characteristics can be performed.
+
+05. STUDY OF SINGLE-PHASE FULL WAVE-CONTROLLED RECTIFIER CIRCUITS AND
+SEMI CONVERTER(MID-POINT AND BRIDGE TYPE) WITH R AND R-L LOAD
+
+This trainer should consist of two modules can be used to study all types of single-phase half & fully controlled bridge converters
+and single-phase AC regulator. It consists of two following modules.
+a. Single phase SCR power circuit
+eFour thyristor and two diodes are provided
+@SCR rating: 1200Volt @ 25 Amp
+e The device is mounted on suitable heat sinks and placed inside a nicely designed cabinet
+e Snubber circuit is provided to each device
+e All SCR and Diode points are terminated at sockets for easy wiring by patch cords
+eFacilities are provided for switching ON/OFF, the AC supply to the convertercircuit with fuse and miniature circuit Breaker
+protection
+¢ Various circuit configurations like half and fully controlled bridge can be wired byinterconnecting the devices using patch cords.
+b. SCR pulse controller
+e This module can be used to generate SCR Pulse for single phase and three phasehalf & fully controlled converter and ac
+regulator.
+eOne sucker of Digital Controller based (dsPIC) pulse controller for SCR Powercircuit.
+eFive Number of Touch Key Provided for Mode Selection
+eOne number of LCD provided to indicate the firing angle value etc
+eOne Number of toggle switch provided for Pulse Enable / Disable selection -+Sv 1Amp isolated de supply provided for control
+circuits.
+¢ All are mounted in a nice powder coated cabinet with stickered front panel withmimic diagram indication
+©230VAC input, One number of power on/Off switch with indication
+¢One number of 15 pin connector provided for Pulse output to external powermodule
+e7 Numbers of test points provided in the front panel for wave form
+¢100W/230V lamp with holder will be provided by
+
+  
+
+
+--- Page 15 ---
+ 
+
+06. DC-DC Buck Boost Converter
+
+Switching device MOSFET Rating @200V,8A ,20khz with proper heatsink and snubber circuit Used to form power circuit.
+One Inductor used to boost the voltage.
+
+I/P voltage range: -max: 12v DC
+
+O/P voltage range: -max: 24V DC
+
+Switching Frequency---5-20khz
+
+TLP 250 IC based pwm driver circuit used
+
+One Voltage divider used to sense the o/p voltage.
+
+Over load fuse protection available.
+
+One dsPIC 4011 based controller used to generate the pwm pulses
+
+4*20Icd used to display the o/p voltage and duty cycle of the pwm. :
+
+One no 0-30V /2A Regulated power will be provided to give variable input voltage.
+
+07. POWER FACTOR CORRECTION (PFC) BASED SETUP AND APPLICATION IN SMPS BOOST
+CONVERTER WITH POWER FACTOR CORRECTION
+
+@eeeeee#ene?e#eeeeekesteeeeete &@ @
+
+INo of SEMIKRON IGBT rating @600v/75A with Heat sink and Snubber circuit used to form power circuit.
+Ino Ultrafast high frequency Diode used
+
+Ino 2mh/10A Inductor will be used.
+
+1No SKYPER32 R SEMIKRON Based Isolated Negative Turn OFF (-7 to +15v) with High Speed PWM Driver circuits Used.
+2 Nos of Current Transducer used for sensing the input and output of the converter current
+
+2 Nos of IC7840 based Voltage Sensing circuit used for sensing the input and output of the converter voltage
+I/P--- is 230V AC
+
+O/P is 350VDC
+
+O/P CURRENT---6A
+
+Power Rating is 2000Watts
+
+680mfd/450V electrolytic capacitor will be used
+
+One no (0-900v dc) 72*72MM Analog Volt meter used to indicate the I/P voltage
+
+One no (0-100v dc) 72*72MM Analog Volt meter used to indicate the O/P voltage
+
+1No of 1PH Diode Bridge Rectifier used to convert AC in to DC
+
+One no LC filter will be used in Input AC side
+
+Over Current Protection is available
+
+Short circuit protection Available.
+
+Over voltage Protection Available
+
+Additional External Controller can be interfaced.
+
+Outputs terminated in Banana socket
+
+08. THREE PHASE SCR BASED FULL WAVE RECTIFIERS
+
+3-@ SCR POWER CIRCUIT:
+
+Four thyristors and two diodes will be used
+
+SCR rating @: 1200Volt /25 Amp
+
+All SCR and Diode points will be terminated at sockets for easy wiring by patch cords
+
+One ON/OFF switch will be used for main 230v AC supply
+
+Over load fuse and miniature circuit Breaker protection will be used
+
+Various circuit configurations like half and fully controlled bridge will be wired by interconnecting the devices using patch cords.
+
+SCR PULSE CONTROLLER:
+This module will be used to generate SCR Pulse for three phase half & fully controlled converter and ac regulator.
+
+One number dsPic4011controller used for pulse generation for SCR Power circuit.
+
+Five Number of Touch Key will be provided for Mode Selection
+
+One number of 20 x 4 LCD will be provided to indicate the firing angle value etc
+
+One Number of toggle switch should be provided for Pulse Enable / Disable selection
+
++Sv 1Amp isolated de supply will be provided for control circuits.
+
+All components will be mounted in a nice powder coated cabinet with stickered front panel with mimic diagram indication
+415VAC input, one number of power On/Off switch with indication will be used
+
+One number of 15 pin connector should be provided for Pulse output to external power module
+
+7 Numbers of test points will be provided in the front panel for wave form /
+
+
+--- Page 16 ---
+  
+   
+   
+  
+  
+ 
+   
+   
+ 
+ 
+ 
+   
+   
+
+THREE PHASE RESISTIVE LOAD
+
+e Power- 1KW
+
+“e  Voltage---230v
+
+e 5no’s selector switches will be provided
+
+0.5HP DC SHUNT MOTOR WITH SPRING BALANCE LOAD:
+
+e Armature Voltage-----220v
+
+e = Armature current-----2.5A
+
+e Field Voltage----------- 220Vv
+
+e Speed--------------------- 1500rpm
+
+e One no Proximity sensor used to sense the speed of the motor
+
+09. 3-PHASE SHUNT ACTIVE POWER FILTER (SAPF)
+
+° 110V, 50 Hz, Three phase supply
+
+¢ 500 VA harmonic producing load,
+
+° 1 kVA three phase IGBT based power converter for compensation
+
+*  Multi-parameter for measuring supply voltage, current and other parameters.
+
+* Control algorithm developed in Synchronous Reference Frame
+
+* ARM Cortex M4 32-bit microcontroller based digital controller
+
+* — Intermediate stage test point observations using Two Digital to Analogue Converter (DACs)
+* Different test points in control and power
+
+Controller Card:
+
+   
+
+STM32F407VGT MCU @168MHz
+
+Buffered I/O Ports using 74HC573
+
+2 DAC outputs
+
+9 ADC input channels with buffering using LM324 IC
+On board QEI (Quadrature Encoder Interface) section
+5 Keys push to ground
+
+16*2 LCD (JHD162A) display
+
+UART section (RS-232) (IC Max 232)
+
+RS-485 serial communication port
+
+   
+
+  
+  
+
+  
+
+XXXXXXXKKXXXKXKXXXKXXKKXKKKKKKKKK
+
+7
+
+ 
+
+
+--- Page 17 ---
+US Weal FI SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024 Date: / /2024
+
+ANNEXURE — B
+
+PRICE BID
+
+As per BOQ
+
+12|Page
+
+
+--- Page 18 ---
+ 
+
+WS Well BA SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024/ Date: / /2024
+ANNEXURE - C
+
+Documents for Comprising the Bid
+
+Name of the Firm / Agency / Dealer / Supplier with full Yes / No
+address including contact number and email id etc.
+
+ 
+
+   
+
+COMPLIANCE | Document
+
+Submitted
+
+Yes / NA
+
+Yes / NA
+
+Trade License issued by Government / Statutory Body or
+Company Registration on the item(s) related to this tender Yes / No
+GST Registration of the Supplier/Firm/Bidder Yes / No
+
+PAN Registration of the Supplier/Firm/Bidder Yes / No
+Financial Solvency issued by Bank(as per RBI guidelines) is ik
+(in case of estimated cost is Rs.25.00 lakhs and above). weeds
+Up to date GST return / any other tax clearance certificate.
+
+(last filed GST return, GSTR 9 and 9B) arm
+
+Yes / NA
+
+ 
+
+Yes / NA
+
+Yes / NA
+
+Yes / NA
+
+ 
+  
+ 
+
+Yes/ NA
+
+Up to date Income Tax Return (Last filled ITR) Yes / No Yes / NA
+
+“Bid Security Declaration form” on Company Letter Head Yes / No
+
+Yes / NA
+Scanned copy to be uploaded along with Technical bid). 7
+
+    
+ 
+
+Service Support details (if applicable) Yes / No Yes / NA
+
+ 
+
+ 
+
+13|Page
+
+    
+
+Certification of holiday and non-black listing (Self
+Certification
+Certification as per memorandum No. F.18/37/2020-PPD
+dated 8 February 2021, Dept. of Expenditure, Ministry of
+
+Finance, Govt. of India (Self Certification
+Proprietary Certificate from OEM to be uploaded along Yas No
+with the Technical Bid in case of Proprietary items
+
+Manufacturers Authorization Form (MAF) (if applicable) Yes / No
+
+Certificate under MSME, NSIC, Make-in-India & Startup as
+per Govt. of India Norms (if applicable).
+
+ 
+      
+ 
+
+Yes / No Yes / NA
+
+      
+
+Yes / No Yes / NA
+
+Yes/NA
+
+Yes/NA
+
+  
+
+Yes / No Yes / NA
+
+ 
+ 
+
+Experience, if any, with govt. sector /Public Undertaking
+/Private sector (if applicable) (May be relaxed for MSME,
+NSIC & Startup as per Govt. of India Norm
+
+Any other criteria related to this tender. Yes / No
+
+Supplier/Firm/Bidder should accept all Terms &
+Conditions and specification of the items given in the
+Tender Document.
+
+ 
+ 
+
+Yes / No Yes / NA
+
+  
+  
+
+   
+
+  
+
+Yes /NA
+
+          
+ 
+ 
+
+   
+
+Yes / No
+
+    
+
+   
+
+ 
+
+(Signature of the bidder)
+
+gs
+
+
+--- Page 19 ---
+US WNP A SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+eee ee eee ae,
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024 Date: / /2024
+Annexure-D
+
+Bid Securing Declaration Form
+
+DBC Pda Piwkcolasee cot avon Terider- Ret. No: cis...6.5.cccssieeecesse Tender ID: «00... ccceccceacesess
+
+To (insert complete name and address of the purchaser)
+I/We. The undersigned, declare that:
+
+I/We understand that, according to your conditions, bids must be supported by a Bid Securing
+Declaration.
+
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period of one
+year from the date of notification if I am /We are in a breach of any obligation under the bid conditions,
+because I/We
+
+a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid during the
+period of bid validity specified in the form of Bid; or
+
+b) having been notified of the acceptance of our Bid by the purchaser during the period of bid validity
+(i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish the Performance
+Security, in accordance with the Instructions to Bidders.
+
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the successful
+Bidder, upon the earlier of (i) the receipt of your notification of the name of the successful Bidder; or
+(ii) thirty days after the expiration of the validity of my/our Bid.
+
+Signed: (insert signature of person whose name and capacity are shown)
+
+in the capacity of (insert legal capacity of person signing the Bid Securing Declaration)
+Name: (insert complete name of person signing he Bid Securing Declaration)
+
+Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder)
+
+Dated on day of (insert date of signing)
+
+Corporate Seal (where appropriate)
+
+(Note: In case of a Joint Venture, the Bid Securing Declaration must be in the name of all partners to
+the Joint Venture that submits the bid)
+
+14|Page
+
+
+--- Page 20 ---
+WS Wel FM SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024 Date: / /2024
+
+Annexure-E
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017.
+
+Pe ee Pe ee ee ace el
+BR i eee
+
+PE I ca hah Gos hdmi aes SR a een oa (name of the bidder company) have
+read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Public procurement no 1,2 & 3 vide ref. F.No.6/18/2019-
+PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder
+of a country that shares a land border with India.
+
+We hereby certify that we are not from such a country and eligible to be considered for
+this tender.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment, (if any),
+by any bidder(s) shall lead to commercial rejection of their bids by NIT-Agartala)
+
+For and Behalf of 2... ..0.....0.cc0s0000000 (Name of the bidder) =
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+15|Page
+
+
+--- Page 21 ---
+US Wealhihl BA SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024 Date: / /2024
+Annexure-F
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017.
+
+eee Se Oe ee eee
+Peme e
+
+ON ee a sap 3 2 wane bs ane aco dg ae ae ean oe (name of the bidder company) have
+read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Public procurement no 1,2 & 3 vide ref. F.No.6/18/2019-
+PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder
+of a country that shares a land border with India.
+
+We are from such a country which shares a land border with India & have been
+registered with the Competent Authority as specified in the above-said order. We hereby
+certify that we fulfill all requirements in this regard and are eligible to be considered.
+
+Evidence of valid registration by the Competent Authority is attached.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment, (if any),
+by any bidder(s) shall lead to commercial rejection of their bids by NIT-Agartala)
+
+Por and DeMgil OF o.oo. sce 4 oi vnnid vase ove custo oiiases (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+16|Page
+
+
+--- Page 22 ---
+UST WIP! AIM SEMA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/2024/ Date: / /2024
+Annexure -G
+
+Self-Certification on the letterhead of the compan
+
+ 
+
+In line with Government Public Procurement Order No. P-45021/2/2017-BE-II dt.
+15.06.2017, P-45021/2/2017-PP (BE-II) dated 28.05.2018, P-45021/2/2017-PP (BE-II)
+dated 29.05.2019 and P-45021/2/2017-PP (BE-II) dated 16.09.2020,
+
+WE Tay CTE Tae oii cons ow chao vs tds ssa vaso ve deaap bore (Supplier name) are
+local supplier meeting requirement of minimum local content......................05. %
+defined in as above orders for the material against Enquiry / Tender No
+ag gasice diene spats liad meu gas wks wan gen Oo os OUR Ze esters ssest cnet
+
+Details of the location at which local value addition will be made are as follows:
+
+SOHO Pee eee EH EEE HEE HEHEHE HEH HEE HEH HEHEHE HEE TEE HEE EEE EHH EHH EEE EEE EEE HOT HES ESE EHH E ESET OE HOLES EEE HE SEES
+ee eee eee eeerereeeeseeeeee eee ree eee EEE EE EEE ESET EERE EERE EEE HEHEHE ERE EHO HEHEHE EEE RE HEE EEE EEE EE EEE EOE EE O®
+Cee e ee eeee reteset ees ee ee EEE HEE EEE EEE EEE HEE HET EEE HEHEHE HEE EEE EEE HEHEHE HEHEHE HEHEHE EEE ESET E SED EO EEOC
+
+Ce ee
+
+We also understand false declarations will be in breach of the Code of Integrity under
+Rule 175(1)(i)(h) of the General Financial Rules for which a bidder or its successors can
+be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along
+with such other actions as may be permitted under law.
+
+Date: Signature:
+
+Place: Name and Designation:
+Mobile no:
+Office Telephone No:
+
+Email ID: Office Seal
+
+17|Page
+
+
+--- Page 23 ---
+US Werth A SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.12(94-EE)/Procurement Power Electronics Lab/20247..2=~=~*~C“«~‘“C*‘“‘*‘“‘:‘“‘*‘*‘*‘“:*‘C*«~éiSa:«~<C*é«*«CS*é«O
+Annexure -H
+NON BLACKLISTING SELF CERTIFICATE
+[To be submitted on letterhead]
+I/We hereby certify that the -------------------------------------------- [Name of the company
+/ firm] has not been ever blacklisted/debarred by any Central / State Government / Public
+
+Undertaking / University / Institute on any account.
+
+I/We also certify that firm will provide material as per the specification given by NIT
+Agartala and also abide all the terms and conditions stipulated in the bid document.
+
+I/We also certify that the information given in bid is true and correct in all aspects and in
+any case at a later date it is found that any details provided are false and incorrect,
+contract given to the concerned firm or participation may be summarily terminated at
+any stage, the firm will be blacklisted and NIT Agartala may impose any action as per
+the rules.
+
+Date : Name :
+Place:
+
+Business Address:
+
+Signature of Service Provider:
+
+Seal of the Service Provider:
+
+1|Pa
+
+ge
+a
+

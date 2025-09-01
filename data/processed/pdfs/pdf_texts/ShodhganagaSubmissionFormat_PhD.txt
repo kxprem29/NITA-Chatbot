@@ -1,0 +1,35 @@
+
+--- Page 1 ---
+File format for submission of PhD Thesis for further uploading it on
+Shodhganaga
+01_title:
+Containing title page of the thesis in pdf format.
+02_prelim pages (title + declaration + dedication + certificates +
+acknowledgement + list of tables and graphs etc.):
+03_content:
+Containing content page of the thesis in pdf format.
+04_abstract:
+Containing abstract page of the thesis in pdf format.
+05_chapter 1:
+Containing chapter 1 of the thesis in pdf format.
+06_chapter 2:
+Containing chapter 2 of the thesis in pdf format.
+07_chapter 3:
+Containing chapter 3 of the thesis in pdf format.
+08_chapter 4:
+Containing chapter 4 of the thesis in pdf format.
+09_Chapter 5:
+Containing chapter 5 of the thesis in pdf format.
+*(Note : Follow Thesis files order and add more files)
+10_annexures (bibliography + references + questionnaire + maps +
+publications etc.):
+80_Recommendation.pdf' .The recommendation should contain title
+page and chapter which
+contains Recommendation/Conclusion/Summary/Future findings.
+Recommendation file should be named as '80_Recommendation.pdf' and
+should be in pdf format without any images.
+The scholars are requested to submit the soft copy of the thesis after the
+defense viva-voce in a CD containing the two folders:
+Folder 1: As the above mentioned files and
+Folder 2: A single pdf file of the entire thesis in one file (file name
+should be your enrollment no.)

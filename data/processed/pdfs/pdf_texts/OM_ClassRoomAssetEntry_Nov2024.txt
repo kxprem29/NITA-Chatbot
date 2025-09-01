@@ -1,0 +1,39 @@
+
+--- Page 1 ---
+NATIONAL INSTITUTE OFT ECHNOLOGY AGARTALA
+Barjala, Jirania, Agartala - 799046 (Tripura)
+Dt- 18-11-2024
+F.NITA 13(27-CSE)/EDc/Sw/ MIS/Implementation/2012-13
+Office Memorandum
+This is to inform that the Institute's Building and Classroom-wise Asset Collection System for
+each department has been successfully developed and deployed. This system is designed to
+optimize the asset collection process, ensuring enhanced accuracy and operational efficiency.
+System Features: The Asset Collection System allows departments to report and monitor the
+status of various assets, including but not limited to:
+Benches
+Chairs
+Blackboards
+Whiteboards
+Projectors
+Other furniture and equipment
+Required Actions: To facilitate comprehensive asset managenment, HoDo f each department
+is requested to undertake the following steps:
+1. Access the system via the HOD MIS login and navigate through:
+ACADEMIC>Transaction>Class Room Asset Entry
+2. The asset entry form will remain active for 7 working days, from the date of
+publish of this OM.
+For any technical support, Email to: -nitmisagt@gmail.com
+15-4
+Registrar
+NIT Agartala
+Copy to:
+The PS to the Director, NIT Agartala for kind notice of the Director.
+2. AllD eans, NIT Agartala.
+3. All HODS, NIT Agartala, to do the necessary action.
+FICM IS, NIT Agartala.
+5 System Administrator to upload the same in the Institute website.
+6. All Sectional Heads, NIT Agartala
+gtalKYS-24
+Registrar
+NIT Agartala
+Barjala Jirania, Agartala-799046, India, website-www.nita.ac.in

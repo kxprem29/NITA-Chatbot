@@ -1,0 +1,494 @@
+
+--- Page 1 ---
+National Institute of Technology Agartala
+Department of Chemistry
+Curricula and Syllabi
+for
+One-Year Chemistry Course for B.Tech.
+July-2019
+
+--- Page 2 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+First Semester
+Teaching hrs/week
+S.N. Course Name Code Credit
+L T P
+1 Engineering Chemistry-I CH-101 3 0 0 3
+Engineering Chemistry
+2 CH-102 0 0 2 1
+Laboratory
+Total 3 0 2 4
+Total contact hrs per week = 5 Total credit = 4
+Second Semester
+Teaching hrs/week
+S.N. Course Name Code Credit
+L T P
+1 Engineering Chemistry-II CH-201 2 0 0 2
+Total 2 0 0 2
+Total contact hrs per week = 2 Total credit = 2
+1
+
+--- Page 3 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+First Semester
+2
+
+--- Page 4 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Course: Engineering Chemistry-I Code: CH-101 L-T-P: 3-0-0 Credit: 3
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal,
+and environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+3
+
+--- Page 5 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyze the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Learn and develop their concepts on a wide spectrum of basic topics in chemistry
+from chemical bonding, polymers, electrochemistry to control of pollution, among
+others.
+PSO-2 Successfully apply the principles, learned as a part of this course, to different
+engineering aspects and practical day to day life.
+PSO-3 Gauge the relevant environmental and societal issues and look for their solutions
+using the concepts of chemistry acquired from this course.
+Course Objective:
+1. Chemical bonding, which deals with different types of chemical bonds present in various
+chemical compounds and biological molecules, will cover bonding, structure, geometry and
+hybridization of various molecules.
+2. Studying this topic the students will learn about the extraction and production of oil and gas to
+meet energy needs, as well as refining of crude oil into several value added products.
+3. To get knowledge about water quality parameters and find ways to make water suitable for
+domestic and industrial uses.
+4. Pollution, different types of polluting agent is incorporated to make the student aware of ways
+to keep atmosphere pollution free.
+5. Electrochemistry deals with conductance in electrolytic solutions and its applications.
+6. The objective of introducing polymer is to provide an overview of the fundamentals of
+polymer science and engineering, including the chemical structure of polymers, their methods
+of preparation, and a variety of properties exhibited by polymers.
+Course Content:
+Unit-1: Chemical Bonding (8 L)
+Ionic and covalent bonds; valence bond theory (VBT) of covalency-atomic orbitals and their
+overlap, hybridization of orbitals-definition, types, associated geometries, VSEPR theory, shapes
+of simple molecules like H O, CO , NH , CH , C H , C H BF , PCl , SF inter-halogen and
+2 2 3 4 2 6 2 2 3 5 6,
+noble gas compounds in the light of the hybridization state of the central atom and VSEPR
+effects; molecular orbital theory (MOT) - concept of molecular orbitals, molecular orbital energy
+level diagrams; homonuclear diatomic molecules (like He , O , N ) and their molecular ions;
+2 2 2
+bond order, bond length and magnetic properties; non-covalent interactions: van der Waals and
+hydrogen bonding and their effect over physical properties.
+4
+
+--- Page 6 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Unit-2: Fuels (6 L)
+Definition and classification of fuels; characteristics of good fuel; comparison among solid,
+liquid and gaseous fuels; calorific value of fuels-definition, units, higher and lower calorific
+values, determination of the calorific value of a solid fuel by bomb calorimeter; solid fuel: coal-
+origin, types; proximate and ultimate analysis; liquid fuel: petroleum- origin, refining of crude
+oil, cracking; isomerization; catalytic hydrogenation; desulfurization; synthetic petrol; synthesis
+of gasoline: Fischer-Tropsch and Bergius methods knocking; octane number; cetane number.
+Numerical problems.
+Unit-3: Water (6 L)
+Introduction; hardness of water: causes, types, units, disadvantages of using hard water for
+domestic and industrial purposes (e.g., scale and sludge formation in boilers, caustic
+embrittlement, boiler corrosion, etc.); softening of hard water (lime-soda, permutit and ion-
+exchange processes); chemical analysis of water- estimation of free chlorine, total alkalinity,
+hardness and dissolved oxygen. Numericals on hardness.
+Unit-4: Pollution and its Control (6 L)
+Pollution-introduction, air pollutants, particulates, smog, photochemical smog, acid rain, green
+house effects; ozone layer depletion; analysis of gaseous effluents-oxides of nitrogen, oxides of
+sulphur and H S; chemical analysis of effluent liquid streams; BOD, COD; control of air
+2
+pollution-particulate emission, gaseous pollutants.
+Unit-5: Electrochemistry (7 L)
+Arrhenius theory of electrolytic dissociation; electrolytes, classification; degree of dissociation;
+dissociation constant of weak acids; conductance of solutions-specific, molar and equivalent
+conductance, variation of molar conductance with dilution for strong and weak electrolytes;
+Kohlrausch’s law of independent migration of ions; Ostwald’s dilution law; Nernst equation for
+single electrode and electrochemical cells; concept of pH and pOH; buffer solutions; solubility
+product; common ion effect; indicators and theory of acid-base indicators; Photoelectric effect
+and solar cells. Numericals.
+Unit-6: Polymer Chemistry (7 L)
+Introduction; types of polymerization; classification of polymers based on chain characteristics,
+source, method of synthesis and molecular forces involved; mechanism of polymerization
+reaction; glass transition and crystalline melting point temperatures; factors influencing glass
+transition and crystalline melting point temperatures; preparation, properties and uses of the
+following-polyethylene, PVC, polystyrene, PAN, teflon, nylon-6:6, polyester, rubber-monomer,
+structure, compounding of rubber, vulcanization, synthetic rubbers-Buna-S, Buna-N, neoprene,
+butyl rubber and polyurethanes, weight average and number average molecular weight
+(expression and numerical problems), PDI.
+5
+
+--- Page 7 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Course Outcome:
+To predict the structure and properties of different materials using the knowledge
+CO-1
+of chemical bonding.
+Knowledge on conventional and non-conventional energy sources and future
+CO-2
+energy resources in sustainable development.
+Develop novel systems to analyse water for domestic and industrial use at very
+CO-3
+low cost.
+Knowledge of contemporary environmental issues and adverse effects of pollution
+CO-4
+to living forms and ways to keep problems arising from pollution at bay.
+Acquire the knowledge of electrochemistry and its principles and apply the
+CO-5
+same to various disciplines.
+CO-6 Comprehend idea about the synthesis and applications of polymers.
+Reference Books:
+1. Shashi Chawla, A Text Book of Engineering Chemistry, 3rd Edition, Dhanpat Rai & Co.,
+New Delhi, 2007.
+2. Jain and Jain, Engineering Chemistry, 15th Edition, Dhanpat Rai Publishers.
+3. Dr S. Vairam and Dr. Suba Ramesh, Engineering Chemistry, 1st Edition, Wiley-India, New
+Delhi.
+4. S. S. Dhara, A Text book of Engineering Chemistry,11th Edition, S Chand & Co. Ltd., New
+Delhi.
+6
+
+--- Page 8 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Mapping with the POs/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No
+Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 2 - - - - - - - - - 2 - -
+1
+CO- - 2 - - - - - - - - - 2 - -
+2
+CO- - - - - - - - - - - - - 2 - -
+3
+CO- - - - - - - - - - - - - - - 3
+4
+CO- - 2 2 - - - - - - - - - - 2 -
+5
+CO- - - - - - - - - - - 3 - 2 -
+6
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation
+“-”
+CO PSO-1 PSO-2 PSO-3
+CO-1 - 4 -
+CO-2 - - 3
+CO-3 4 - -
+CO-4 - - 2
+CO-5 2 - -
+CO-6 - - -
+7
+
+--- Page 9 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Course: Engineering Chemistry Laboratory Code: CH-102
+L-T-P: 0-0-2 Credit: 1
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+8
+
+--- Page 10 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+PEOs (Program Educational Objectives):
+PEO-1 Adapt to work with new environments, assimilate updated information, and solve
+complex problems.
+PEO-2 Learn the fundamental application of chemistry to set up modern experimental
+techniques.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Achieve confidence in handling chemicals, glassware and instruments
+professionally in chemical industries and develop the modern laboratory
+techniques.
+PSO-2 Successfully apply their practical experience to determine analytical estimation
+of materials applicable in our daily life.
+Course Objective:
+1. Students will learn laboratory techniques in chemistry, carrying out practicals and to
+determine the quality of water sample.
+2. Analytical estimation of metal ions in supplied chemical compound..
+3. By applying their practical knowledge student will get exposure to the Chemical Industry.
+Course Content:
+1. Preparation of primary standard solution (oxalic acid, K Cr O ).
+2 2 7
+2. Preparation and standardization of solution (NaOH, HCl, KMnO ).
+4
+3. Determination of total hardness of water sample by complexometric titration method.
+4. Estimation of total amount of chloride present in a water sample through argentometric
+titration method.
+5. Estimation of carbonate and bicarbonate alkalinity of a water sample by acid base titration
+method.
+6. Determination of iron present in Mohr’s salt solution by redox titration.
+7. Estimation of acetic acid present in commercial vinegar sample.
+8. Determination of alkali content in a given antacid tablet through acid base titration method.
+9. Synthesis of aspirin.
+10. Separation of caffeine from tea powder.
+Course Outcome:
+Acquisition of necessary laboratory training required for measuring, weighing,
+CO-1
+transferring chemicals, data collection, while minimizing errors, etc.
+Acquire analytical skills for preparation of chemicals and estimation of material
+CO-2
+contstituents.
+Developing the knowledge to handle water related problems for domestic and
+CO-3
+industrial purposes.
+9
+
+--- Page 11 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Reference Books:
+1. S. Chawla, Essentials of Experimental Engineering Chemistry, Dhanpat Rai & Co., 3rd
+Edition, 2010.
+2. A. I. Vogel, G. H. Jeffery, Vogel’s Text Book of Quantitative Chemical Analysis, Published
+by Longman Scientific & Technical, 5th Edition, 1989.
+3. A. J. Elias, A Collection of Interesting Gneral Chemistry Experiments, Universities Press,
+2002.
+4. A. K. Nad, B. Mahapatra and A. Ghoshal; An Advanced Course in Practical Chemistry, New
+Central Book Agency (P) Ltd, 3rd Edition, 2011.
+Mapping with the POs/PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No
+Correlation “-”
+PO-1 PO-2 PO- PO- PO- PO- PO- PO- PO- PO- PO- PO-
+3 4 5 6 7 8 9 10 11 12
+CO-1 3 2 - - - - - - - - - -
+CO-2 - 2 - - - - - - - - - -
+CO-3 - - 2 - - - - - - - - -
+To establish the correlation between Cos & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation
+“-”
+CO PSO-1 PSO-2
+CO-1 4 -
+CO-2 3 -
+CO-3 - 4
+10
+
+--- Page 12 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Second Semester
+11
+
+--- Page 13 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Course: Engineering Chemistry-II Code: CH-201 L-T-P: 2-0-0 Credit: 2
+Program Outcomes (POs):
+Programs must validate that their students achieve the following outcomes
+PO - 1 Engineering knowledge: Apply knowledge of mathematics, science, engineering
+fundamentals and an engineering specialization to the solution of complex engineering
+problems.
+PO - 2 Problem analysis: Identify, formulate, review research literature, and analyse complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences.
+PO-3 Design/development of solutions: Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal,
+and environmental considerations.
+PO-4 Conduct investigations of complex problems: Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions.
+PO -5 Modern tool usage: Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modelling to complex
+engineering activities with an understanding of the limitations.
+PO-6 The engineer and society: Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent
+responsibilities relevant to the professional engineering practice.
+PO-7 Environment and sustainability: Understand the impact of the professional and
+engineering solutions in societal and environmental contexts, and demonstrate the
+knowledge of, and need for sustainable development.
+PO-8 Ethics: Apply ethical principles and commit to professional ethics and responsibili-ties
+and norms of the engineering practice.
+PO-9 Individual and team work: Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.
+PO-10 Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend
+and write effective reports and design documentation, make effective presentations,
+and give and receive clear instructions.
+PO-11 Project management and Finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a
+member and leader in a team, to manage projects and in multidisciplinary environ-
+ments.
+PO-12 Life-long learning: Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technologi-cal
+change.
+12
+
+--- Page 14 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+PEOs (Program Educational Objectives):
+PEO-1 Acquire the fundamental principles of chemistry with modern experimental and
+theoretical skills.
+PEO-2 Ability to analyze the problems in the context of practical relevance to the society
+while maintaining environmental safety and economic factors.
+PEO-3 Enhancing their professional growth along with scientific knowledge through
+continuing education.
+PSOs (Program Specific Objectives):
+Students will be able to
+PSO-1 Acquire the concepts of chemistry involved in various engineering materials that
+will find relevance to their engineering programs.
+PSO-2 Apply their knowledge of chemistry, acquired from this course, to different
+engineering problems.
+PSO-3 Assess the practical solutions to problems in day to day life.
+Course Objective:
+1. To introduce the principles of corrosion, common corrosion types, corrosion control methods,
+and material selection to reduce corrosion cost.
+2. The students will learn about cement, its large-scale industrial manufacturing process, the
+mechanism of setting and hardening of cement, and various types of cement.
+3. The topic on refractories will discuss about the manufacturing process, properties, types of
+refractories, their uses in heat treatment systems in industry and in society.
+4. The purpose of incorporating lubricants is to make students aware of different types of
+lubricants and of their uses in machine parts to reduce the wear and tear and running cost of
+engine.
+Course Content:
+Unit-1: Corrosion (6 L)
+Introduction, definition, classification; dry corrosion-factors affecting dry corrosion, mechanism,
+types; oxidation corrosion; Pilling-Bedworth rule; corrosion by other gases; hydrogen related
+corrosion; liquid metal corrosion; wet corrosion-types; chemical corrosion; factors affecting
+chemical corrosion; mechanism of wet corrosion-electrochemical mechanism; evolution of H
+2
+and absorption of O ; differential aeration theory, passivity, pitting, waterline and stress
+2
+corrosion; corrosion control- purification, alloying, application of protective coatings, cathodic
+protection, etc.
+Unit-2: Cement (4 L)
+Introduction, classification; Portland cement-definition, raw materials, manufacture, ideal
+composition and physical requirement according to I.S code; setting and hardening of cement;
+heat of hydration; special cements: high-alumina cement, white Portland cement, water-proof
+cement, Sorel cement, barium and strontium cement.
+13
+
+--- Page 15 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Unit-3: Refractories (5 L)
+Definition, objective of using, classification based on chemical nature; properties-refractoriness,
+strength, dimensional stability, chemical inertness, thermal expansion, thermal conductivity,
+porosity, spalling, electrical conductivity, etc., and interrelations between them; selection of good
+refractory; common refractory bricks: silica, fireclay, high-alumina, carbon and carborundom
+bricks, properties and uses.
+Unit-4: Lubricants (5 L)
+Introduction; mechanism-thick-film, thin-film and extreme pressure lubrication; classification of
+lubricants-lubricating oils, greases and solid lubricants, their properties, uses and additives
+required (e.g., antioxidants, corrosion preventers, etc.); properties of lubricating oils: viscosity,
+flash and fire-point, cloud and pour point, aniline point etc.; cutting fluids.
+Course Outcome:
+CO-1 Understand electrochemical reaction fundamentals, different types of corrosions
+and their prevention methods.
+CO-2 Relate physical, chemical and other properties of different cements as modern
+building block materials for numerous applications.
+CO-3 Usefulness of refractory materials in metallurgical furnaces and other heat
+treatment equipment were also understood.
+CO-4 Understanding the role of lubrication in reducing friction, wear and tear of
+machinery parts in engines, and so on.
+Reference Books:
+1. Shashi Chawla, A Text Book of Engineering Chemistry, 3rd Edition, Dhanpat Rai & Co., New
+Delhi, 2007.
+2. Jain and Jain, Engineering Chemistry, 15th Edition, Dhanpat Rai Publishers
+3. Dr S. Vairam and Dr. Suba Ramesh, Engineering Chemistry, 1st Edition, Wiley-India, New
+Delhi.
+4. S. S. Dhara, A Text Book of Engineering Chemistry, 11th Edition, S. Chand & Co. Ltd., New
+Delhi.
+14
+
+--- Page 16 ---
+NIT Agartala, Department of Chemistry, Chemistry Course for B.Tech.
+Mapping with the Pos/ PEOs: Matrix formation for attainments
+1: Slight (Low) 2: Moderate (Medium) 3: Substantial (High) and for No
+Correlation “-”
+PO- PO- PO PO PO PO PO PO PO PO PO PO PEO- PE PEO
+1 2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 1 O-2 -3
+CO- 3 - - - - - - - - - - - 3 - -
+1
+CO- - - 2 - - - - - - - - - - 2 3
+2
+CO- - - 2 - - - - - - - - - - 2 3
+3
+CO- - - - 2 - - - - - - - - - 3 -
+4
+To establish the correlation between COs & PSOs
+2: Slight (Low) 3: Moderate (Medium) 4: Substantial (High) and for No Correlation
+“-”
+CO PSO-1 PSO-2
+CO-1 3 -
+CO-2 - 4
+CO-3 - 4
+CO-4 3 -
+15

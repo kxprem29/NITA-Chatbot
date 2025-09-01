@@ -1,0 +1,2232 @@
+
+--- Page 1 ---
+DETAILED
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+(M.TECH.)
+IN
+CIVIL ENGINEERING
+Specialization in
+WATER RESOURCES ENGINEERING
+Approved by Prof. V .R .Desai
+Department of Civil Eng., IIT Kharagpur
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+TRIPURA (WEST), INDIA
+Pin-799046
+
+--- Page 2 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Preface
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology
+(M. Tech) in seven different specializations viz, Environmental Engineering, Geotechnical
+Engineering, Hydro-Informatics Engineering, Structural Engineering, Seismic Science and
+Engineering, Transportation Engineering and Water Resources Engineering.
+The course structures of all post graduate degree programs are carrying a total of 80 credits and
+2000 marks. Semester wise distribution of course and credits are as follows: First semester: 25
+credits and 800 marks for five theory subjects (comprises basic core, core, and elective
+subjects), two laboratory subjects and seminar; Second semester: 25 credits and 800 marks for
+four theory subject (comprises basic core, core, and elective subjects), two laboratory subjects,
+comprehensive viva-voce and project preliminaries; Third semester: 10 credits and 100 marks;
+and Fourth semester: 20 credits and 300 marks. Third and fourth semester of PG courses will
+be fully devoted to project works. Minimum requirement of number of class hours for each
+theory course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the semester.
+Each theory subject in a semester is evaluated for 100 marks, with the following weightages.
+Sub-component weightage: Continuous evaluation: 30 Marks (Attendance: 5 Marks, Quiz: 5
+Marks, Class test: 10 Marks, Assignment: 10 Marks); Mid-semester Examination: 20 Marks;
+and End-semester Examination: 50 Marks
+The course curriculum of all Post-graduate programs are designed considering the following
+three Program outcomes (POs) as formulated by National Board of Accreditation (NBA)
+PO1: An ability to independently carry out research /investigation and development work to
+solve practical problems.
+PO2: An ability to write and present a substantial technical report/document.
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements in
+the appropriate bachelor program
+Expert opinions are being taken in regular basis in order to improve the quality of teaching
+learning process and to attain the program outcomes efficiently.
+In the Final year of M.Tech. program (Third and Fourth Semesters) students may also opt for
+industrial research. If any student desire to pursue his/her research in reputed industries, he/she
+may be allowed to do so, provided:
+a. The selected industry is a permanent member of National Association of Software and
+Service Companies (NASSCOM), Federation of Indian Chamber of Commerce and
+Industries (FICCI) and other such industry bodies.
+b. The selected industry needs is approved by the Departmental Postgraduate Program Co-
+-mmittee (DPPC) of the concerned Department.
+c. The student selects one supervisor from industry and another supervisor from the
+Institute.
+d. If any student opts for such industrial research he/she will not receive any scholarship
+from the institute in this tenure, even if he/she wants to return back. In such cases the
+student will be allowed to complete his/her project in the institute but without any
+scholarship.
+WRE 1 | Pa ge
+
+--- Page 3 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+CONTENT
+Sl. No. Subject Page No.
+FIRST SEMESTER
+1 Basic Core WRE 7 – 9
+PCE51CB01: Free surface Flow
+2 Core Subject-I WRE 10 – 12
+PCE51C01: Applied Hydrology
+3 Core Subject-II WRE 13 – 16
+PCE51C02: Advanced Mathematics
+Elective Paper-I (Any one)
+PCE51E01:Advanced Fluid Mechanics
+4 WRE 17 -25
+PCE51E02: River Engineering
+PCE51E03: Groundwater Hydrology
+Elective Paper-II (Any one)
+PCE51E04: Hydropower Engineering
+5
+PCE51E05: Water Resources systems, Analysis , Planning &
+WRE 26 - 34
+Management
+PCE51E06: Geographical Information systems & its
+Applications
+6 WRE 35 – 36
+PCE51P01: Hydraulic and water resources Eng. lab - I
+7 PCE51P02: Computer Applications in free surface flow and WRE 37 – 38
+applied hydrology
+8 WRE 39
+PCE51P03: Seminar
+SECOND SEMESTER
+1 Basic Core WRE 41 – 43
+PCE52CB01: Advanced Computational Hydraulics
+2 Core Subject-I WRE 44 – 45
+PCE52C01: Hydraulics of Sediment Transport
+3 Core Subject-II WRE 46 – 47
+PCE52C02: Hydraulic Structure
+Elective Paper-I II (Any one)
+PCE52E01: Viscous Fluid Flow
+4 WRE 48 - 55
+PCE52E02: Transient Flow
+AnalysisPCE52E03: Integrated
+Watershed Management
+5 WRE 56
+PCE52P01: Project Preliminaries
+6 WRE 57 - 58
+PCE52P02: Hydraulics and Water Resources Eng. Lab.-II
+7 PCE52P03: Computer applications in Water Resources WRE 59 - 60
+Engineering
+8 WRE 61
+PCE52P04: Comprehensive Viva-voce
+THIRD SEMESTER
+1 WRE 62
+PCE53P01: Project & Thesis - I
+FOURTH SEMESTER
+1 WRE 63
+PCE54P04: Project & Thesis - II
+WRE 2 | Pa ge
+
+--- Page 4 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+POSTGRADUATE PROGRAMME
+M.Tech. (Water Resources Engineering)
+FIRST SEMESTER No. of Classes/Week Total
+Total
+Sl. Marks
+Subject Lecture Tutorial Practical Credits
+No.
+Basic Core
+1 03 01 00 4
+PCE51CB01: Free surface Flow 100
+Core Subject-I
+2 03 01 00 4
+PCE51C01: Applied Hydrology 100
+Core Subject-II
+3 PCE51C02: Advanced Mathematics 03 01 00 4 100
+Elective Paper-I (Any one)
+PCE51E01: Advanced Fluid 100
+4 03 01 00 4
+Mechanics
+PCE51E02: River Engineering
+PCE51E03: Geo-Hydraulics
+Elective Paper-II (Any one)
+PCE51E04: Hydropower
+Engineering
+PCE51E05: Water Resources
+5 systems, Analysis , Planning & 03 01 00 4 100
+Management
+PCE51E06: Geographical
+Information systems & its
+Applications
+PCE51P01: Hydraulic and water
+6 00 00 03 2
+resources Engg. lab - I 100
+PCE51P02: Computer Applications
+7 in free surface flow and applied 00 00 03 2 100
+hydrology
+8 PCE51P03: Seminar 00 00 02 1 100
+800
+Total 15 05 08 25
+WRE 3 | P a g e
+
+--- Page 5 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+SECOND SEMESTER No. of Classes/Week Total
+Total
+Sl. Marks
+Subject Lecture Tutorial Practical Credits
+No.
+Basic Core
+1 PCE52CB01: Advanced 03 01 00 4
+Computational Hydraulics 100
+Core Subject-I
+2 PCE52C01: Hydraulics of 03 01 00 4
+Sediment Transport 100
+Core Subject-II
+3 PCE52C02: Hydraulic 03 01 00 4
+100
+Structure
+Elective Paper-III (Any
+one)
+PCE52E01: Viscous Fluid
+Flow 03 01 00 4
+4 PCE52E02: Transient Flow 100
+Analysis
+PCE52E03: Integrated
+Watershed Management
+PCE52P01: Project 100
+5 00 00 06 3
+Preliminaries
+PCE52P02: Hydraulics and
+6 Water Resources Engg. 00 00 03 2
+100
+Lab.-II
+PCE52P03: Computer
+7 applications in Water 00 00 03 2
+100
+Resources Engineering
+PCE52P04: Comprehensive 100
+8 00 00 00 2
+Viva-voce
+800
+Total 12 04 12 25
+WRE 4 | P a g e
+
+--- Page 6 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+THIRD SEMESTER No. of Classes/Week
+Total
+Sl.
+Subject Lecture Tutorial Practical Credits
+No.
+1 PCE53P01: Project & Thesis - I 00 00 Full 10
+FOURTH SEMESTER No. of Classes/Week
+Total
+Sl. Credits
+Subject Lecture Tutorial Practical
+No.
+1 PCE54P04: Project & Thesis - II 00 00 Full 20
+In the Final year of M.Tech, it is suggested to provide the students an option for industrial
+research. If any student wants to pursue his research in reputed industries he/she may be
+allowed to do so, provided:
+e. The selected industry has to be a permanent member of National Association of Software
+and Service Companies (NASSCOM), Federation of Indian Chamber of Commerce and
+Industries (FICCI) and other such industry bodies.
+f. The selected industry needs to be approved by the Departmental Postgraduate Program Co-
+-mmittee (DPPC) of the concerned Department.
+g. The student has to select one supervisor from industry and another supervisor from the
+Institute.
+h. He/ She will not receive any scholarship from the institute in this tenure, even if he/she
+wants to return back. In such cases student will be allowed to complete his/her project
+in the institute but without any scholarship.
+Total Credits (First to Fourth): 80
+Total Marks (First to Fourth): 2000
+WRE 5 | P a g e
+
+--- Page 7 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+SYLLABUS FOR M.TECH. (Water Resource Engineering)
+FIRST SEMESTER
+Sl. Name of the Subject No. of
+No. Subject Code Classes/Week Credits Marks
+L T P
+1 PCE51CB01 Free surface Flow 3 1 0 4 100
+2 PCE51C01 Applied Hydrology 3 1 0 4 100
+3 Advanced 100
+PCE51C02 3 1 0 4
+Mathematics
+4 PCE51E01-03 Elective Paper-I 100
+3 1 0 4
+5 Elective Paper-II 100
+PCE51E04-06 3 1 0 4
+Total 500
+15 5 0 20
+PRACTICAL/SESSIONAL
+Sl. Name of the Subject No. of
+No. Subject Code Classes/Week Credits Marks
+L T P
+6 PCE51P01 Hydraulic and Water 0 0 3 2 100
+Resources Engg. lab - I
+7 Computer Applications 100
+PCE51P02 0 0 3 2
+in free surface flow and
+applied hydrology
+8 PCE51P03 Seminar 0 0 2 1 100
+Total 300
+0 0 08 5
+WRE 6 | P a g e
+
+--- Page 8 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+SYLLABUS
+M.TECH. WATER RESOURCES ENGINEERING
+FIRST SEMESTER
+FREE SURFACE FLOW
+Subject No: PCE51CB01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To know about theoretical models for multi-phase flow
+ To develop better understanding to describe and derive mathematical models for a class
+of selected free surface flow phenomena
+ To describe some instability that are driven and inhibited by surface tension
+ To describe bubble/droplet dynamics, film dynamics, capillary and wetting phenomena,
+fluid flows driven forces at the free surface
+Course Content:
+Unit-1
+Introduction, Energy and momentum of flow; critical flow; channel control and transitions;
+discharge measurement methods
+Unit-2
+Uniform flow and flow resistance; composite roughness and compound channels, generalized
+flow relation, design of irrigation canals
+Unit-3
+Gradually varied flow; classifications and computations of free surface profiles; spatially
+varied flow; supercritical flows and oblique flows; rapidly varied flow; hydraulic jump
+Unit-4
+Supercritical-flow transitions, wave propagation and surge; method of characteristics; dam-
+break problem; flow in channel bends; supercritical expansion and contractions, stability of
+supercritical flow
+Unit-5
+Unsteady flow; continuity and dynamic equations of unsteady flow, unsteady flow positive and
+negative surges
+Unit-6
+Basic mechanics of turbulent jets, buoyant surface jet, vertical and transvers diffusion and
+longitudinal dispersion, numerical dispersion.
+References:
+1. Ranga Raju, K.G., Flow through Open Channel, Tata McGraw Hill, New Delhi,1996
+WRE 7 | P a g e
+
+--- Page 9 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+2. Chow, V.T, Open Channel Hydraulics, McGraw Hill, New York, 1959
+3. Hendersen, F.M., Open Channel Flow, McGraw Hill, New York, 1966.
+4. Chaudhry, M. H., Open Channel Flow, Prentice Hall of India, 1998.
+5. K. Subramanya, Flow in Open Channels,Tata-McGraw-Hill, 2000
+Course Outcomes (COs):
+1. To know the fundamentals of energy and momentum of flow, critical flow, channel
+control and transitions.
+2. Basic understanding of discharge measurement methods; uniform flow and flow
+resistance; composite roughness and compound channels; gradually varied flow.
+3. To learn the basics and fundamentals of classifications and computations of free surface
+profiles; spatially varied flow; supercritical flows and oblique flows.
+4. To gather overall knowledge and latest advancements in the field of rapidly varied
+flow; hydraulic jump; continuity and dynamic equations of unsteady flow
+5. Comprehensive knowledge, background, and recent progress in wave propagation and
+surge; method of characteristics
+6. Analysis and knowledge related to flow in channel bends; buoyant and submerged jets.
+Table 1: To establish a correlation between Course outcome (Cos) & Program outcome (POs)
+No. of Course Outcome Course Outcome
+(CO)
+To know the fundamentals of energy and momentum of flow, critical
+PCE51CB01.1
+flow, channel control and transitions.
+Basic understanding of discharge measurement methods; uniform
+PCE51CB01.2 flow and flow resistance; composite roughness and compound
+channels; gradually varied flow.
+To learn the basics and fundamentals of classifications and
+PCE51CB01.3 computations of free surface profiles; spatially varied flow;
+supercritical flows and oblique flows
+To gather overall knowledge and latest advancements in the field of
+PCE51CB01.4 rapidly varied flow; hydraulic jump; continuity and dynamic
+equations of unsteady flow
+Comprehensive knowledge, background, and recent progress in
+PCE51CB01.5
+wave propagation and surge; method of characteristics
+Analysis and knowledge related to flow in channel bends; buoyant
+PCE51CB01.6
+and submerged jets.
+WRE 8 | P a g e
+
+--- Page 10 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+2 3 3 2 1 1
+PCE51CB01.1
+3 3 2 2 1 2
+PCE51CB01.2
+3 3 2 3 2 1
+PCE51CB01.3
+3 4 3 2 1 2
+PCE51CB01.4
+3 4 3 3 1 2
+PCE51CB01.5
+2 2 2 1 1 1
+PCE51CB01.6
+16 19 15 13 8 9
+Total
+2.6 3.2 2.5 2.16 1.3 1.5
+Average
+Equivalent 3 3 3 2 1 2
+Average
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE51CB01.1 2 3
+PCE51CB01.2 3 3
+PCE51CB01.3 3 3
+PCE51CB01.4 3 4
+PCE51CB01.5 3 4
+PCE51CB01.6 2 2
+Total 16 19
+Average 2.6 3.2
+Equivalent Average 3 3
+Attainment
+WRE 9 | P a g e
+
+--- Page 11 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+APPLIED HYDROLOGY
+Subject No: PCE51C01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+1. To analyze and quantify the various components within the hydrological cycle that
+move within various states.
+2. To introduce students to advanced techniques of hydrological analysis that are of
+particular relevance to engineering and environmental design and planning.
+3. To understand the various losses of hydrologic processes and concept of Hydrograph in
+hydrological analysis.
+4. To introduce concepts of probability and modeling of hydrologic time series with data
+generation in hydrologic analysis and forecasting.
+Course Content:
+Unit- 1
+Introduction - hydrologic cycle, applications of hydrology, hydrology for engineers;
+precipitation - forms, types and measurement of precipitation, depth-area-duration and
+frequency analysis of precipitation, variations in precipitation;
+Unit - 2
+Streamflow - measurement of streamflow, stage-discharge relationship, characteristics and
+synthesis of hydrographs, catchment characteristics affecting streamflow;
+Unit - 3
+Hydrologic losses - evaporation, transpiration, evapotranspiration, interception, depression
+storage, infiltration;
+Unit - 4
+Statistics in hydrologic analysis - probability concepts and distributions, curve fitting,
+covariance, correlation and regression, time series analysis;
+Unit– 5
+Hydrologic synthesis and simulation - mass curve analysis, random generation, precipitation-
+runoff event simulation models.
+References:
+1. Chow, V.T., Maidment, D.R., Mays, L.W., Applied Hydrology, McGraw Hill, 1988.
+2. Todd, D.K., Ground Water Hydrology, Wiley India, New Delhi, 2011.
+3. Mays, L.W., Water Resources Engineering, John Wiley and Sons, US, 2001.
+4. Haan, C. T., Statistical Methods in Hydrology, Iowa State University Press, 1977.
+5. Maidment, D. R., Handbook of Hydrology, McGraw Hill, 1993.
+Course Outcomes (Cos):
+Upon successful completion of the course, the students will be able to
+1. Understand the concept of hydrology and gain knowledge of precipitation types and
+characteristics.
+WRE 10 | P a g e
+
+--- Page 12 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+2. Analyze different hydrological processes like infiltration and evaporation, and able to
+assess runoff using various measurements.
+3. Analyze different components of hydrograph, derivation of various types of hydrograph
+and model the stage discharge relation.
+4. Apply concepts of probability and statistics in time series and flood frequency analysis.
+Understand the application of various computer models for hydrological prediction.
+Table 1: To establish a correlation between Course outcome (Cos) & Program outcome (POs)
+No. of Course
+Course Outcome
+Outcome(CO)
+Understand the concept of hydrology and gain knowledge of precipitation types
+PCE51C01.1
+and characteristics
+Analyze different hydrological processes like infiltration and evaporation, and
+PCE51C01 .2
+able to assess runoff using various measurements.
+Analyze different components of hydrograph, derivation of various types of
+PCE51C01.3
+hydrograph and model the stage discharge relation.
+Apply concepts of probability and statistics in time series and flood frequency
+PCE51C01.4
+analysis.
+Understand the application of various computer models for hydrological
+PCE51C01.5 prediction.
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 4. No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+2 2 2 1 1 1
+PCE51C01.1
+PCE51C01 .2 2 3 3 2 2 1
+PCE51C01.3 3 3 3 3 2 2
+PCE51C01.4 3 2 2 1 1 1
+PCE51C01.5 2 2 3 3 2 2
+Total 12 12 12 10 8 7
+Average 2.4 2.4 2.4 2 1.6 1.4
+Equivalent 2 2 2 2 2 1
+Avg.
+Attainment
+WRE 11 | P a g e
+
+--- Page 13 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+2 2
+PCE51C01.1
+PCE51C01 .2 2 3
+PCE51C01.3 3 3
+PCE51C01.4 3 2
+PCE51C01.5 2 2
+Total 12 12
+Average 2.4 2.4
+Equivalent Avg. 2 2
+Attainment
+WRE 12 | P a g e
+
+--- Page 14 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ADVANCE MATHEMATICS
+Subject No: PCE 51C02 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ Introduce students to ordinary differential equations and the methods for solving these
+equations Use differential equations as models for real world phenomena
+ Integrate the knowledge accumulated in the calculus sequence to solve applied
+problems
+ Introduce the fundamentals of Linear Algebra and Complex Analysis
+ Provide a rigorous introduction to upper level mathematics which is necessary for
+students of engineering, physical sciences and mathematics
+Course Content:
+Unit-1
+Calculus of Variations – Variation and its properties – Euler’s equation – Conditional extreme
+– Isoperimetric problems – Functional dependant on first and higher order derivatives –
+Functional dependent on functions of several independent variables – some applications –
+Direct methods – Ritz and Kantorovich methods, Euler’s finite difference method.
+Unit-2
+Laplace Transforms and Fourier Transforms. Application of Fourier Transform in solving
+initial and boundary value problems. Laplace Equation, Heat equation and wave equation.
+Unit-3
+Hankel’s Transform, elementing properties of Hankel transforms, Hankel inversion and
+transform theorems. Hankel transforms of derivatives of functions. Parsevel’s theorem. Hankel
+d 2 f 1 df n 2
+transforms of
+dx 2
+ x dx 
+x 2
+f .
+Unit-4
+Simulation – Types, case studies in various fields using simulation techniques, simulation
+softwares used, use of mathematical models based on probabilistic and statistical methods.
+Partial Differential Equations – Formation of PDE, Solutions of PDE, Equations solvable by
+direct integration, Linear equations of the first order, Non-linear equations of the first order,
+Charpit’s Method, Homogeneous Linear equations with constant coefficient, Non-Homo
+geneous Linear equations, Non-Linear equations of the second order.
+WRE 13 | P a g e
+
+--- Page 15 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Unit-5
+Solution of Parabolic and Hyperbolic equations – Implicit and Explicit Schemes, ADI methods,
+Non Linear parabolic equations – Iteration method, Solution of elliplic equation – Jacobi
+method, Gauss - Seidel & SOR method. Richardson method, RKF4
+Unit-6
+Introduction to finite element method and its scope.
+References:
+1. Kreyszig Erwin, Advanced Engineering Mathematics, John Wiley & Sons (Asia) Pvt
+Ltd.
+2. Krishnamurthy & Sen, Numerical Algorithms, Affiliated East-west press private
+Limited, New Delhi.
+3. Ramana, B. V., Higher Engineering Mathematics, The McGraw-Hill Companies, New-
+Delhi.
+Course Outcomes (Cos):
+ To utilize various methods for solving ODEs and solve initial value problems,
+understand the existence and uniqueness of such solutions and to Recognize ODEs of
+varying order and use these to solve problems involving population dynamics,
+oscillation of a spring and resistance in a circuit
+ Ability to Work with and solve homogeneous and non-homogeneous ODEs and
+systems of ODEs. Moreover, to learn additional methods for solving ODEs including
+Euler’s method, the power series method and Laplace transforms.
+ Perform basic operations with matrices, find the inverse of a matrix, determinant of a
+square matrix, as well as Eigen values and Eigen vectors and investigate associated
+applications, and to use matrices to solve systems of equations.
+ Express complex numbers in trigonometric and polar form, and to perform operations
+with complex numbers, including finding the roots of unity.
+ Explore functions of a single complex variable and calculate derivatives of analytic
+functions
+ Calculate line integrals in the complex plane, and Study Cauchy-Riemann equations,
+Cauchy’s integral theorem and Cauchy’s integral formula
+WRE 14 | P a g e
+
+--- Page 16 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 1: To establish a correlation between Course outcome (COs) & Program outcome (POs)
+No. of Course Outcome
+Course Outcome
+(CO)
+To utilize various methods for solving ODEs and solve initial value
+problems, understand the existence and uniqueness of such
+PCE 51E01.1 solutions and to Recognize ODEs of varying order and use these to
+solve problems involving population dynamics, oscillation of a
+spring and resistance in a circuit
+Ability to Work with and solve homogeneous and non-
+homogeneous ODEs and systems of ODEs. Moreover, to learn
+PCE 51E01.2
+additional methods for solving ODEs including Euler’s method, the
+power series method and Laplace transforms.
+Perform basic operations with matrices, find the inverse of a matrix,
+determinant of a square matrix, as well as Eigen values and Eigen
+PCE 51E01.3
+vectors and investigate associated applications, and to use matrices
+to solve systems of equations.
+Express complex numbers in trigonometric and polar form, and to
+PCE 51E01.4 perform operations with complex numbers, including finding the
+roots of unity.
+Explore functions of a single complex variable and calculate
+PCE 51E01.5
+derivatives of analytic functions
+Calculate line integrals in the complex plane, and Study Cauchy-
+PCE 51E01.6 Riemann equations, Cauchy’s integral theorem and Cauchy’s
+integral formula
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE 51E01.1 3 3 2 2 2 1
+PCE 51E01.2 2 2 2 3 2 3
+PCE 51E01.3 3 2 3 2 1 2
+PCE 51E01.4 3 3 2 2 3 2
+PCE 51E01.5 2 2 2 2 1 1
+PCE 51E01.6 3 2 1 3 2 2
+Total 16 14 12 14 11 1
+1
+Average 2.67 2 .33 2 2.33 1.8 1.8
+Eq. Average 3 2 2 2 2 2
+Attainment
+WRE 15 | P a g e
+
+--- Page 17 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE 51E01.1 2 2
+PCE 51E01.2 1 1
+PCE 51E01.3 1 2
+PCE 51E01.4 2 3
+PCE 51E01.5 2 2
+PCE 51E01.6 2 3
+Total 10 13
+Average 1.67 2.16
+Equivalent Average 2 2
+Attainment
+WRE 16 | P a g e
+
+--- Page 18 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ELECTIVE PAPER- I
+ADVANCED FLUID MECHANICS
+Subject No: PCE51E01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To understand the fundamentals of theoretical fluid mechanics: fluid’s characteristics
+and equations of motion
+ To comprehend the simplifications that can be made leading to models such as
+incompressible flow, inviscid flow, ideal fluid flow, boundary layer flow, turbulent
+flow
+ To realize how classical solution techniques may be used to solve a range of problems
+involving these simplified flow problems
+Course Content:
+Unit 1: Preliminary concepts of Fluid Mechanics
+Elementary introduction to Cartesian tensors and tensor operations, spatial (Eulerian) and
+material (Lagrangian) description of motion; Fluid flow patterns; Kinematics of fluid flow,
+Dynamics of Inviscid Flows and Reynolds Transport Theorem
+Unit 2: Dynamics of viscous flows
+Derivation of Navier-Stokes equation, exact solutions of Navier-Stokes equation-Steady Flows,
+Unsteady Flows and Practical Applications
+Unit 3: Dimensional Analysis
+Dimensional analysis and scaling; Pi Theorem, Bridgman’s equation; Dynamic similarity; the
+dimensionless Navier-Stokes equations and the importance of the Reynolds number; limiting
+cases and their physical meaning.
+Unit 4: Boundary layer theory
+Introduction, Boundary layer equation, Displacement thickness, Momentum thickness, shape
+factor, flow over flat plate similarity transformation, integral equation for momentum and
+energy, Falkner-Skan similarity solution; skin friction coefficient and Nusselt number;
+separation of boundary layer, critical Reynolds number; control of boundary layer separation.
+Unit 5: Turbulent flow
+Introduction; structure and origin of turbulent flow; Reynolds average concept, Reynold
+equation of motions; zero equation model for fully turbulent flow and other turbulence model;
+turbulent flow pipes and losses bends.
+Unit 6: Introduction to Microflows
+Molecules, continuum description, compressible flow in long channels, Gases, Couette flow in
+gases, Poiseuille flow in gases, Gas flow over sphere; Liquid flows in tubes and channels,
+Liquid flows near walls.
+WRE 17 | P a g e
+
+--- Page 19 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+References:
+1. Ligett, J. A., Fluid Mechanics, McGraw-Hill International Editions, 1994.
+2. Batchelor, G. K., An Introduction to Fluid Mechanics, Cambridge University Press, London,
+2005.
+3. Shames, L. H., Mechanics of Fluids, McGraw-Hill, 1992
+4. Schlichting, H et al. Boundary Layer Theory, 8th Ed. Springer Verlag, 1999.
+5. Batchelor, G.K. An Introduction to Fluid Dynamics. Cambridge, 1967
+6. White, F.M. Fluid Mechanics, 7th edition, McGraw Hill, 1991.
+Course Outcomes (Cos):
+2. Describe variables and basic equations of fluid mechanics
+3. Define and describe the potential and vortex flows of ideal and viscous fluids
+4. Describe the fluid flow around symmetric bodies and determine the drag and lift forces
+arising due to this flow
+5. Describe the transition from laminar flow to turbulent flow and calculate the characteristics
+of the boundary layer both for laminar and turbulent flows
+6. Apply dimensional analysis for a qualitative description of fluid flows
+7. Describe the main features of wave phenomena in various fluids and determine the
+properties of surface and internal gravity waves
+8. Define and analyses the stability of fluid flows
+Table 1: To establish a correlation between Course outcome (COs) & Program outcome (POs)
+No. of Course Outcome
+Course Outcome
+(CO)
+Apply the fundamentals of kinematics and conservation laws
+PCE51C02.1 of fluid flow systems.
+Apply the principles of high and low Reynolds number flows
+PCE51C02.2 to fluid flow systems.
+Review the concepts of boundary layer and flow in transition.
+PCE51C02.3
+Analyze and apply the fundamentals of turbulent flow to
+PCE51C02.4 various fluid flow systems.
+Apply the fundamentals of one dimensional isentropic flow to
+PCE51C02.5
+variable area duct.
+Analyze the principles of normal shock formation and its
+PCE51C02.6 effects and apply the principles of compressible flow to
+constant area duct subjected to friction or heat transfer.
+WRE 18 | P a g e
+
+--- Page 20 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE51C02.1 2 3 2 1 2 2
+PCE51C02.2 3 3 3 2 1 1
+PCE51C02.3 2 2 3 1 2 2
+PCE51C02.4 1 2 2 2 3 1
+PCE51C02.5 2 2 2 3 1 2
+PCE51C02.6 2 3 3 1 2 2
+Total 12 15 15 10 11 10
+Average 2 2.5 2.5 1.7 1.8 1.7
+Eq. Average 2 3 3 2 2 2
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE51C02.1 2 3
+PCE51C02.2 3 3
+PCE51C02.3 2 2
+PCE51C02.4 1 2
+PCE51C02.5 2 2
+PCE51C02.6 2 3
+Total 12 15
+Average 2 2.5
+Equivalent Average 2 3
+Attainment
+WRE 19 | P a g e
+
+--- Page 21 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+RIVER ENGINEERING
+Subject No: PCE 51E02 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ The objective of this course is to impart the knowledge of hydrology and fluvial process
+that deals with the occurrence, distribution, movement and properties of water on the
+earth.
+ To impart the knowledge of various techniques, and how to manage the water
+resources, to protect against flooding, or to make passage along or across rivers easier,
+ To learn about the sediment problems associated with natural stream and reservoir.
+Course Content:
+Unit-1
+Overview of river engineering- river classifications, thresholds in river morphology, hydraulic
+geometry, meander plan form, geomorphic analysis of river channel responses
+Unit-2
+Hydraulics of river flow- fundamentals of alluvial channel flows, uniform and unsteady cases,
+shear stress distribution, flow resistance in rivers
+Unit-3
+Scouring and its criteria- physical properties of sediments, sediment movement in rivers, shear
+stress, Shields diagram, scouring around bridge piers and embankments, river bed forms
+Unit-4
+Regime rivers- analysis of river meanders, design of stable alluvial channels-regime concept,
+dimensional model studies for rivers, braided rivers, scaling and hierarchy in braided rivers,
+alternate bars, bed load transport in braided gravel-bed rivers;
+Unit-5
+River training and stabilization- stream bank erosion, bank protection, flow control structures,
+bank protection and river training along braided rivers, river flood control, and bridge scour
+Unit-6
+Waves and tides in river estuaries, surface waves, tides in river estuaries, saline wedges in river
+estuaries.
+References:
+1. Chang, H. H., Fluvial Processes in River Engineering, John Wiley, 1988.
+2. Charlton, R., Fundamentals of Fluvial Geomorphology, Taylor and Francis, 2007.
+WRE 20 | P a g e
+
+--- Page 22 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+3. Gregory H., Braided Rivers: Process, Deposits, Ecology and Management Blackwell
+Publishing, 2006.
+4. Yang, C. T., Sediment Transport-Theory and Practice, McGraw Hill Companies, Inc., New
+Delhi, 1996.
+5. Knighton, D., Fluvial Forms and Processes. Edward Arnold, Baltimore, MD., 1984.
+6. Richards, K., Rivers Form and Process in Alluvial Channels, Methuen, NY, 1982.
+7. Shen, H.W., River Mechanics, Vol. I and II, Water Resources Publication, Fort Collins, CO.,
+1971.
+8. Thorne, C R, Hey, R. D. and Newson, M. D. Applied fluvial geomorphology for river
+engineering management, John Wiley & Sons, 1997.
+Course Outcomes (Cos):
+ Demonstrate an advanced understanding of hydrological and river engineering
+processes.
+ Identify methods of flood control and describe their appropriate application and use it to
+hold water
+ Recognize the movement of sediments and its impact on river flow
+ Apply knowledge of mathematics, science, and technology in the field of river
+engineering.
+ An ability to communicate effectively
+ Develop an archive that will be accessible for future research
+Table 1: To establish a correlation between Course outcome (COs) & Program outcome (POs)
+No. of Course
+Outcome Course Outcome
+(CO)
+PCE 51E02.1 Demonstrate an advanced understanding of hydrological and river
+engineering processes.
+PCE 51E02.2 Identify methods of flood control and describe their appropriate
+application and use it to hold water
+PCE 51E02.3 Recognize the movement of sediments and its impact on river flow
+PCE 51E02.4 Apply knowledge of mathematics, science, and technology in the field
+of river engineering.
+PCE 51E02.5 An ability to communicate effectively
+PCE 51E02.6 Develop an archive that will be accessible for future research
+WRE 21 | P a g e
+
+--- Page 23 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2:
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE 51E02.1 3 4 3 3 2 2
+PCE 51E02.2 3 4 3 2 2 3
+PCE 51E02.3 3 2 2 2 1 1
+PCE 51E02.4 3 3 2 3 2 2
+PCE 51E02.5 3 4 3 2 1 2
+PCE 51E02.6 3 3 2 3 2 2
+Total 18 20 15 15 10 12
+Average 3 3.3 2.5 2.5 1.7 2
+Eq. Avg. 3 3 3 3 2 2
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE 51E02.1 3 4
+PCE 51E02.2 3 4
+PCE 51E02.3 3 2
+PCE 51E02.4 3 3
+PCE 51E02.5 3 4
+PCE 51E02.6 3 3
+Total 18 20
+Average 3 3.33
+Equivalent Avg. 3 3
+Attainment
+WRE 22 | P a g e
+
+--- Page 24 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+GROUNDWATER HYDROLOGY
+Subject No: PCE51E03 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To introduce the basic theory and computational techniques for modeling multiphase
+flow in subsurface porous media
+ To describe and investigate porous media, together with relevant single and multi-phase
+transport phenomena.
+ To focused on the achievement of a clear and rigorous understanding of the
+fundamental properties,
+ Concepts and theories which are of importance in treating storage and multiphase fluid
+flow in sub-surface porous media.
+Course Content:
+Unit-1
+Occurrence and movement of ground water, Surface and subsurface investigation of ground
+water, Flow through saturated porous medium.
+Unit-2
+Mechanics of well flow, Aquifer parameters, Pumping tests, Design of water wells, Monitoring
+well design and construction, Well development, Well maintenance and rehabilitation, Natural
+and artificial recharge of ground water,
+Unit-3
+Salt water intrusion, Ghyben-Herzberg interface, shape of the fresh-salt water interface,
+upconing of saline water, control of saline water intrusion, recognition of seawater in ground
+water.
+Unit-4
+Ground water pollution in relation to water use, attenuation of pollution, distribution of
+pollution underground, evaluation of pollution potential, monitoring groundwater quality.
+Unit-5
+Management of ground water, technical procedures of basin managements, planning ground
+water investigations, water budget of ground water basins, Analytical methods
+Unit-6
+Introduction to analog and numerical models to solve ground water problems, Application of
+finite difference method in ground water.
+References:
+1. Bear, J., Dynamics of Fluids in porous Media, Dover Publications, 1972.
+2. Fetter, C.W., Contaminant Hydrogeology, Prentice Hall, 1999.
+3. Bear, J. and Verruijt, A., Modeling Groundwater Flow and Pollution, Reidel Publishing
+Company, 1990.
+4. Fetter, C.W., Applied Geohydrology, Prentice Hall, 2001.
+Course Outcomes (Cos):
+1. The students will be able to understand the occurrence and movement of ground water,
+WRE 23 | P a g e
+
+--- Page 25 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+2. The students will be able to understand the surface and subsurface investigation of
+ground water, Flow through saturated porous medium
+3. The students will be able to understand the mechanics of well flow, Aquifer parameters,
+Pumping tests,
+4. The students will be able to understand the design of water wells, monitoring well
+design and construction, well development, well maintenance and rehabilitation
+5. The students will be able to understand the natural and artificial recharge of ground
+water, Salt water intrusion
+6. The students will be able to understand the introduction to analog and numerical models
+to solve ground water problems, Application of finite difference method in ground
+water
+Table 1: To establish a correlation between Course outcome (COs) & Program outcome (POs)
+No. of Course Outcome Course Outcome
+(CO)
+The students will be able to understand the occurrence and
+PCE51E03.1
+movement of ground water,
+The students will be able to understand the surface and
+PCE51E03.2 subsurface investigation of ground water, Flow through
+saturated porous medium
+The students will be able to understand the mechanics of well
+PCE51E03.3
+flow, Aquifer parameters, Pumping tests,
+The students will be able to understand the design of water
+PCE51E03.4 wells, monitoring well design and construction, well
+development, well maintenance and rehabilitation
+The students will be able to understand the natural and
+PCE51E03.5
+artificial recharge of ground water, Salt water intrusion
+The students will be able to understand the introduction to
+PCE51E03.6 analog and numerical models to solve ground water problems,
+Application of finite difference method in ground water
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE51E03.1 2 2 3 3 1 2
+PCE51E03.2 3 3 2 2 2 2
+PCE51E03.3 3 3 2 3 1 2
+PCE51E03.4 3 3 3 3 2 2
+PCE51E03.5 2 3 2 2 2 2
+PCE51E03.6 3 3 3 3 2 3
+Total 16 17 15 16 10 13
+Average 2.7 2.8 2.5 2.7 1.7 2.2
+Eq. Avg. 3 3 2 2
+3 3
+Attainment
+WRE 24 | P a g e
+
+--- Page 26 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE51E03.1 2 2
+PCE51E03.2 3 3
+PCE51E03.3 3 3
+PCE51E03.4 3 3
+PCE51E03.5 2 3
+PCE51E03.6 3 3
+Total 16 17
+Average 2.67 2.83
+Equivalent Avg.
+3 3
+Attainment
+WRE 25 | P a g e
+
+--- Page 27 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ELECTIVE PAPER – II
+HYDROPOWER ENGINEERING
+Subject No: PCE51E04 (L-T-P: 3-1-0 Credit: 4)
+Courses Objectives:
+1. To make the students conversant with power potential of water and to have
+adequate knowledge on sources of energy.
+2. To have adequate knowledge on various types of hydropower plants.
+3. To have adequate knowledge on various components of hydropower projects like
+penstocks, surge tanks, power canals, canal intakes, turbines, generators, power
+houses.
+4. To understand the basics of tidal power.
+5. To study typical hydropower projects.
+Course Content:
+Unit-1
+Introduction – Sources of energy; place of hydropower in a power system; estimation of water
+power potential.
+Unit-2
+Classification of hydropower plants: Run-of-River plants; Valley dam plants; Diversion canal
+plants; High head diversion plants; pumped storage plants.
+Unit-3
+Classification, design criteria and economic diameter of penstocks; water hammer; surge tanks;
+surges in power canals; types, energy losses in canal intakes; types, hydraulics of water
+turbines; cavitation in turbines; draft tubes; generators; types, advantages & limitations of
+power houses.
+Unit-4
+Basic principle of tidal power; modes of tidal power generation- single cycle, double cycle,
+single basin, double basin, cooperating basin arrangements; Small hydropower feasibility and
+implementation.
+Unit-5
+Typical hydropower projects of various types in India and abroad.
+WRE 27 | P a g e
+
+--- Page 28 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+References:
+1. Dandekar, M. M. and Sharma, K. N.; (2013) “Water Power engineering”, 2nd Ed., Vikas
+Publishing, New Delhi.
+2. Creager, W. P., and Justin, J. D., (1963) “Hydro-Electric Handbook”, John Wiley, New York,
+NY, USA.
+3. Davis, S., (2004) “Micro Hydro -Clean power from water”, Mother Earth News Books for
+wiser Living, Odgen Publications, Topeka, Kansas, USA.
+4. Punmia, B. C., and Pande B. B. Lal (2021) “Irrigation and water power engineering”, 17th
+Edition, Laxmi Publications, New Delhi.
+5. Breeze, P, (2018) “Hydropower”, Science Direct, Elsevier Publishers BV, Amsterdam, The
+Netherlands
+Course Outcomes (Cos):
+1. Students will be able to analyze energy sources, place of hydropower in a power system
+and to estimate hydropower potential.
+2. Students will be able to classify and describe salient features of different types of
+hydropower plants.
+3. Students will be able to understand design criteria and limitations of power houses.
+4. Students will be able to understand the basic principle of tidal power; modes of tidal power
+generation.
+5. Students will be able to classify the various types of typical hydropower projects in India
+and abroad.
+Table 1: To establish the correlation between COs &POs
+No. of Course
+Course Outcome
+Outcome(CO)
+Students will be able to analyze energy sources, place of hydropower
+PCE51E04.1
+in a power system and to estimate hydropower potential.
+Students will be able to classify and describe salient features
+PCE51E04.2
+of different types of hydropower plants.
+Students will be able to understand design criteria and limitations of
+PCE51E04.3
+power houses.
+Students will be able to understand the basic principle of tidal
+PCE51E04.4
+power; modes of tidal power generation.
+Students will be able to classify the various types of typical
+PCE51E04.5
+Hydropower projects in India and abroad.
+WRE 27 | P a g e
+
+--- Page 29 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2
+Slight (Low): 1 Moderate: 2 Substantial (High): 3 No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41C01.1 3 3 3 3 3 3
+PCE41C01.2 3 2 3 3 2 2
+PCE41C01.3 3 3 2 3 2 3
+PCE41C01.4 2 3 3 2 3 3
+PCE41C01.5 3 2 3 3 3 3
+Total 14 13 14 14 13 14
+Average 2.8 2.6 2.8 2.8 2.6 2.8
+Equivalent Avg. 3 3 3 3 3 3
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE51E04.1 3 3
+PCE51E04.2 3 3
+PCE51E04.3 2 3
+PCE51E04.4 3 2
+PCE51E04.5 3 3
+Total 14 14
+Average 2.8 2.8
+Equivalent Avg. 3 3
+Attainment
+WRE 28 | P a g e
+
+--- Page 30 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+WATER RESOURCES SYSTEM ANALYSIS, PLANNING & MANAGEMENT
+Subject No: PCE51E05 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To impart knowledge about the planning and management of water resources.
+ To introduce the concepts of watershed management, integrated water resources
+management, environmental interaction of water resources and policies/framework
+related to water resources.
+ To enable the students to understand the different components of water resources and
+their management.
+Course Content:
+Unit-1
+Basic concepts of systems need for systems approach in water resources, system design
+techniques, problem formulation, modeling of water resource system
+Unit-2
+Optimization techniques, LP, NLP, dynamic programming, multi-objective optimization,
+stochastic optimization
+Unit-3
+Simulation, reservoir operation problems, case studies; planning, role of a planner, sensitivity
+analysis, performance measures
+Unit-4
+National water policies, public involvement, social impact, economic analysis.
+Unit-5
+Water resources system modelling, river basin planning and management, water distribution
+system, ground water system, water quality modelling, floodplain management, urban storm
+water management
+Unit-6
+Fuzzy optimization, genetic algorithm, multi criteria decision making, decision support system,
+expert systems.
+References:
+1. Loucks, D.P., Stedinger, P.J.R., Haith, D.A., “Water Resources Systems Planning and
+Management”, Prentice Hall, New Jersy, 1987.
+2. Hall, K., A and Draoup, J.A., Water Resources Systems Engineering, Tata McGraw Hill,
+1970.
+3. Neil, G.S., Water Resources Planning, McGraw Hill, 1985.
+4. National Water Policy, Ministry of Water Resources, Government of India, 1987.
+WRE 29 | P a g e
+
+--- Page 31 ---
+Syllabus: M.Tech, Water Resources NIT Agartala
+Engineering
+Course Outcomes (Cos):
+1. The students will be able to understand the basic concepts of systems, need for systems
+approach in water resources, system design techniques, problem formulation.
+2. The students will be able to understand the optimization techniques, LP, NLP, dynamic
+programming, genetic algorithm, and sensitivity analysis.
+3. The students will be able to understand the capacity expansion; reservoir operation
+problems, simulation, case studies.
+4. The students will be able to understand the planning, role of a planner, National water
+policies, public involvement, social impact, economic analysis.
+Table 1: To establish the correlation between COs & POs
+No. of Course Outcome
+Course Outcome
+(CO)
+The students will be able to understand the basic concepts of
+PCE51E05.1 systems, need for systems approach in water resources, system
+design techniques, problem formulation.
+The students will be able to understand the optimization
+PCE51E05.2 Techniques, LP, NLP, dynamic programming,
+genetic algorithm, and sensitivity analysis.
+The students will be able to understand the capacity
+PCE51E05.3 expansion; reservoir operation problems, simulation, case
+studies.
+The students will be able to understand the planning, role of a
+PCE51E05.4 planner, National water policies, public involvement, social
+impact, economic analysis.
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation: -
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE52C01.1 3 3 3 3 3 2
+PCE52C01.2 3 2 3 3 2 3
+PCE52C01.3 3 3 2 2 2 2
+PCE52C01.4 3 3 4 3 2 1
+Total 12 11 12 11 9 8
+Average 3 2.8 3 2.8 2.25 2
+Eq. Average 3 3 3 3 2 2
+Attainment
+WRE 30 | P a g e
+
+--- Page 32 ---
+Syllabus: M.Tech, Water Resources NIT Agartala
+Engineering
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52C01.1 3 3
+PCE52C01.2 3 2
+PCE52C01.3 3 3
+PCE52C01.4 3 3
+Total 12 11
+Average 3 2.75
+Equivalent Average 3 3
+Attainment
+WRE 31 | P a g e
+
+--- Page 33 ---
+Syllabus: M.Tech, Water Resources NIT Agartala
+Engineering
+GEOGRAPHICAL INFORMATION SYSTEMS AND ITS APPLICATION
+Subject no: PCE51E06 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ Understanding the need of CAD and GIS,
+ Understanding map projection and working with coordinate systems,
+ Understanding vector-based and raster-based data analysis,
+ Review of application areas of GIS in Civil Engineering,
+ Understanding basic principles of remote sensing.
+Course Content:
+Unit-1
+Introduction to Geographical information systems (GIS), Data bases and data base
+management systems, spatial databases, Coordinate systems and geo-refencing.
+Unit-2
+Interpolation methods: deterministic and Statistical, Digital elevation models and their
+applications, Strategies for development
+Unit-3
+Implementation and management of GIS, Case studies on use of GIS selected from various
+areas such as water and land resources, environment, transportation, land use application.
+Unit-4
+Projects involving creation of small GIS modules related to water resources problems and
+other generic area.
+Unit-5
+Introduction to basic concepts of vector GIS using several industry specific software programs
+including nomenclature of cartography and geography.
+References:
+1. Lillesand, K., Remote Sensing and Image Interpretation, John Wiley & Sons, 1979.
+2. Tideman, E.M., Watershed Management – Guidelines for Indian Conditions, Omega
+Scientific Publishers, New Delhi, 1996.
+3. FAO Watershed management and Field manual, 13/1, 13/2, 13/3,13/4,13/5 FAO, UN,
+Rome, 1988.
+4. Reeves, R.G., Manual of Remote Sensing, Volume I and II, American Society of
+Photogrammetr, Falls Church, 1975.
+WRE 32 | P a g e
+
+--- Page 34 ---
+Syllabus: M.Tech, Water Resources NIT Agartala
+Engineering
+Course Outcomes (Cos):
+ The students will be able to understand the principles of remote sensing,
+ The students will be able to understand the principles of geographic information
+systems,
+ The students will be able to understand and apply remote sensing and GIS to solving
+problems of Civil Engineering,
+ The students will be able to understand and maximize the efficiency of planning and
+spatial decision making,
+ The students will be able to understand and integrate geographically referenced data
+and develop queries to generate usable information.
+ Students will be able to study the applications of Image Analysis, Limitations
+and future of Digital Image Processing Technique.
+Table 1: To establish the correlation between COs & POs
+No. of Course Outcome Course Outcome
+(CO)
+The students will be able to understand the principles of remote
+PCE51E06.1
+sensing,
+The students will be able to understand the principles of
+PCE51E06.2
+geographic information systems
+The students will be able to understand and apply remote
+PCE51E06.3
+sensing and GIS to solving problems of Civil Engineering
+The students will be able to understand and maximize the
+PCE51E06.4
+efficiency of planning and spatial decision making
+The students will be able to understand and integrate
+PCE51E06.5 geographically referenced data and develop queries to generate
+usable information
+Students will be able to study the applications of Image
+PCE51E06.6
+Analysis, Limitations and future of Digital Image Processing
+Technique
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE 51E01.1 2 3 3 3 2 2
+PCE 51E01.2 3 3 2 2 2 3
+PCE 51E01.3 3 3 3 3 1 1
+PCE 51E01.4 2 3 3 2 2 3
+PCE 51E01.5 3 3 3 3 2 2
+PCE 51E01.6 3 3 2 2 2 3
+Total 16 18 16 15 11 14
+Average 2.7 3 2.7 2.5 1.8 2.3
+Eq. Average 3 3 3 3 2 2
+Attainment
+WRE 33 | P a g e
+
+--- Page 35 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE 51E01.1 2 3
+PCE 51E01.2 3 3
+PCE 51E01.3 3 3
+PCE 51E01.4 2 3
+PCE 51E01.5 3 3
+PCE 51E01.6 3 3
+Total 16 18
+Average 2.67 3
+Equivalent Average 3 3
+Attainment
+WRE 34 | P a g e
+
+--- Page 36 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+PRATICAL/ SESSIONAL
+HYDRAULICS & WATER RESOURCES ENGINEERING LAB.-I
+Subject no: PCE51P01 (L-T-P: 0-0-3 Credit: 2)
+Course Objectives:
+ To learn the basic hydrological measurement technique – measurement of rainfall and
+rainfall intensities.
+ To determine the abstraction losses like evaporation, infiltration etc. through
+experiments and estimate the infiltration characteristics and evaporation in
+catchments.
+ Study of flow measurement in natural stream and laboratory.
+Course Content:
+Unit 1
+Measurement of rain fall, evaporation, infiltration,
+Unit 2
+Experiments on Frequency analysis of hydrologic data by Gumbel’s method, flood hydrograph.
+Unit 3
+To determine the velocity of a running of a stream in a canal by current meter and calculate the
+approximate discharge of the canal.
+Course Outcomes (Cos):
+ The students will be able to apply their knowledge about fluid mechanics in
+addressing problems in open channels.
+ The students will be able to know hydrological measurement technique –
+measurement of rainfall and rainfall intensities, abstractions in hydrological processes
+like evaporation, infiltration, etc.
+ The students will be able to measure velocity of flow in rivers using current meter.
+ The students will be able to analysis flood frequency using Gumbles method and
+flood hydrograph.
+ The students will be able to predict the flood inundation forecast and quantify the
+bank erosion problem.
+Table1: To establish the correlation between COs & POs
+No. of Course Course Outcome
+Outcome
+(CO)
+The students will be able to apply their knowledge about fluid
+PCE51P01.1
+mechanics in addressing problems in open channels.
+The students will be able to know hydrological measurement
+technique – measurement of rainfall and rainfall intensities,
+PCE51P01.2
+abstractions in hydrological processes like evaporation,
+infiltration, etc.
+WRE 35 | P a g e
+
+--- Page 37 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+The students will be able to measure velocity of flow in rivers
+PCE51P01.3 using current meter.
+The students will be able to analysis flood frequency using
+PCE51P01.4 Gumbles method and flood hydrograph.
+The students will be able to predict the flood inundation forecast
+PCE51P01.5 and quantify the bank erosion problem.
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation:
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE51P01.1 3 3 3 3 2 3
+PCE51P01.2 3 3 2 2 3 3
+PCE51P01.3 3 2 2 3 2 2
+PCE51P01.4 2 2 2 2 1 2
+PCE51P01.5 3 2 3 3 2 2
+Total 14 12 12 13 10 12
+Average 2.8 2.4 2.4 2.6 2 2.4
+Eq. Avg. 3 2 2 3 2 2
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO PSO1 PSO2
+PCE51P01.1 3 3
+PCE51P01.2 3 3
+PCE51P01.3 3 2
+PCE51P01.4 2 2
+PCE51P01.5 3 2
+Total 14 12
+Average 2.8 2.4
+Eq. Avg. Attainment 3 2
+WRE 36 | P a g e
+
+--- Page 38 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+COMPUTATIONAL APPLICATION ON FREE SURFACE FLOW AND APPLIED
+HYDROLOGY
+Subject No: PCE51P02 (L-T-P: 0-0-3 Credit: 2)
+Course Objectives:
+ To provide basic knowledge on how to implement software’s for solving practical and research
+related problems.
+ To provide skills for writing programs, and study of topographical and contour maps for
+watershed characterization
+ To enable and motivate the students perform analysis using software’s for various research
+works and projects.
+Course Content:
+Unit 1
+Introduction: study and application of various software’s in water resource engineering.
+Unit 2
+Computer programming in solving the free surface flow problem.
+Unit 3
+Hydrologic analysis and simulation problem related to ground water.
+Course Outcomes (COs):
+ Perform MATLAB, GIS/Arc-GIS, ANSYS and MIKE/MIKE-21C effectively and
+efficiently.
+ Design and develop programming skills, study area maps.
+ Analyze various practical problems.
+Table 1: To establish the correlation between COs & POs
+N o. of Course
+Course Outcome
+Outcome
+(CO)
+Perform MATLAB, GIS/Arc-GIS, ANSYS and MIKE/MIKE-
+PCE51P02.1
+21C effectively and efficiently.
+PCE51P02.2
+Design and develop programming skills, study area maps.
+PCE51P02.3
+Analyze various practical problems.
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE51P02.1 3 3 3 3 2 3
+PCE51P02.2 3 2 3 2 3 2
+PCE51P02.3 3 2 3 3 1 3
+Total 9 7 9 8 6 8
+Average 3 2.33 3 2.7 2 2.7
+Eq. Average 3 2 3 3 2 3
+Attainment
+WRE 37 | P a g e
+
+--- Page 39 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO PSO1 PSO2
+PCE51P02.1 3 3
+PCE51P02.2 3 2
+PCE51P02.3 3 2
+Total 9 7
+Average 3 2.33
+Equivalent Average 3 2
+Attainment
+WRE 38 | P a g e
+
+--- Page 40 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+SEMINAR
+(PCE51P03)
+Total Credits 01 L – T – P 0– 0 – 2 = 1
+Each student shall prepare a report and present a seminar on topic related to the branch of
+specialization under the guidance of a faculty member. The student shall submit copy of the
+paper to the Department. Grades will be awarded on the basis of contents of the paper and the
+presentation.
+WRE 39 | P a g e
+
+--- Page 41 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+SYLLABUS FOR M.TECH. (Water Resource Engineering)
+SECOND SEMESTER
+Name of the Subject No. of Classes/Week
+Sl. Subject
+Credits
+No. Code L T P Marks
+1 Advanced Computational 100
+03 01 00 4
+PCE52CB01 Hydraulics
+2 Hydraulics of Sediment
+03 01 00 4
+PCE52C01 Transport 100
+3
+PCE52C02
+Hydraulic Structure
+03 01 00 4
+100
+4 PCE52E01-
+03 01 00 4
+Elective Paper-III 100
+E03
+Total 400
+12 04 00 16
+PRACTICAL/SESSIONAL
+Name of the Subject No. of Classes/Week Total
+Sl. Subject Total Marks
+No. Code L T P Credits
+5 PCE52P01 Project Preliminaries 00 00 06 3 100
+6 Hydraulics and Water 100
+PCE52P02 00 00 03 2
+Resources Eng. Lab.-II
+7 Computer application in 100
+PCE52P03 Water Resources 00 00 03 2
+Engineering
+8 Comprehensive Viva- 100
+PCE52P04 00 00 00 2
+voce
+Total 400
+00 00 12 9
+WRE 40 | P a g e
+
+--- Page 42 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ADVANCED COMPUTATIONAL HYDRAULICS
+Subject No: PCE52CB01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To understand and apply numerical methods for solution of differential equations in
+Water Resources Engineering
+ To understand and apply finite difference schemes for solution of hydraulic and
+hydrologic models
+ To acquire and develop expertise knowledge to perform statistical analysis of water
+resources and environmental engineering systems.
+Course Content:
+Unit-1
+Introduction, Mathematical behavior of Ordinary and partial differential equations; Quasi-
+linear partial differential equations; Classification of mathematical equations: Hyperbolic,
+Parabolic, Elliptic and Mixed type equations
+Unit-2
+Solution of linear equation systems: Direct methods, iterative methods, coupled equations and
+their applications, non-linear equation and their application, convergence criteria, error analysis
+Unit-3
+Methods for unsteady problems: Initial value problems in ODE: two-level method, Runge-
+Kutta methods, Predictor-corrector and multipoint methods, Application to genetic transport
+equations: explicit methods, implicit method, and other methods
+Unit-4
+Introduction to numerical methods: Approaches to Fluid dynamics problems, possibilities and
+limitation of numerical methods, components of numerical solution methods, properties of
+numerical solution methods, discretization approaches.
+Unit-5
+Finite difference method, implicit and explicit scheme, accuracy, convergence and stability;
+approximation of first, second and mixed derivatives, boundary conditions; algebraic equation
+system; discretization errors
+Unit-6
+Finite volume method, approximation of surface and volume integrals, interpolation and
+differentiation practices, boundary conditions, algebraic equation system; applications to steady
+and unsteady flows
+WRE 41 | P a g e
+
+--- Page 43 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+References:
+1. Anderson, J.D., “Computational Fluid Dynamics: The Basics with Applications”,
+McGrawHill, 1995.
+2. Wilcox, D.C., “Turbulence Modeling for CFD”, DCW Industries, Third Edition, 2006.
+3. Anderson, D. A., J. C. Tannehill, and R. H. Pletcher, Computational Fluid Mechanics and
+Heat Transfer, 1984, Hemisphere Publishing Co., New York, ISBN 0-89116-471-5.
+4. Ferziger, J. H. and M. Peric, Computational Methods for Fluid Dynamics, 1996, Springer
+Verlag, New York, ISBN 3-540-59434-5.
+5. Fletcher, C. A. J., Computational Techniques for Fluid Dynamics, Volume 1, Fundamental
+and General Techniques, 2nd Edition, 1991, Springer Verlag, New York, ISBN 0-387-53058-4.
+Course Outcomes (Cos):
+1. Basic understanding of ordinary and partial differential equations;
+2. The students will be able to understand the solution of linear and non-linear system of
+equation and their application.
+3. The students will be able to understand the concepts of unsteady flow problem and
+application to genetic transport equations.
+4. The students will be able to understand the applications of numerical method on steady
+and unsteady flows problems.
+5. The students will be able to understand the finite difference method and their
+application on various fields.
+6. The students will be able to understand the applications of finite volume method with
+computer programming.
+Table 1: To establish the correlation between COs & POs
+No. of Course Outcome Course Outcome
+(CO)
+Basic understanding of ordinary and partial differential
+PCE52CB01.1
+equations;
+The students will be able to understand the solution of linear
+PCE52CB01.2
+and non-linear system of equation and their application
+The students will be able to understand the concepts of
+PCE52CB01.3 unsteady flow problem and application to genetic transport
+equations.
+The students will be able to understand the applications of
+PCE52CB01.4
+numerical method on steady and unsteady flows problems.
+The students will be able to understand the finite difference
+PCE52CB01.5
+method and their application on various fields.
+The students will be able to understand the applications of
+PCE52CB01.6 finite volume method with computer programming.
+WRE 42 | P a g e
+
+--- Page 44 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High):3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE52CB01.1 4 3 4 4 3 4
+PCE52CB01.2 2 3 3 3 3 2
+PCE52CB01.3 4 2 3 3 2 3
+PCE52CB01.4 3 3 2 4 3 3
+PCE52CB01.5 3 4 3 3 2 2
+PCE52CB01.6 4 3 3 3 3 3
+Total 20 18 18 20 16 17
+Average 3.3 3 3 3.3 2.7 2.8
+Eq. Average 3 3 3 3 3 3
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52CB01.1 4 3
+PCE52CB01.2 2 3
+PCE52CB01.3 4 2
+PCE52CB01.4 3 3
+PCE52CB01.5 3 4
+PCE52CB01.6 4 3
+Total 20 18
+Average 3.3 3
+Equivalent Average 3 3
+Attainment
+WRE 43 | P a g e
+
+--- Page 45 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+HYDRAULICS OF SEDIMENT TRANSPORT
+Subject No: PCE52C01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To impart knowledge about the mechanics of river flow and transport of sediments
+ To introduce the fundamental concepts relevant to river mechanics, regime channels,
+sediment transport and sediment load.
+ To enable the students to understand the processes that governs sediment transport and
+behavior of river flow.
+Course Content:
+Unit-1
+Sediment properties; initiation of motion; bed load; bed forms; effective bed roughness;
+armoring.
+Unit-2
+Sediment transport, bed load, suspended load; total load; transport of sediment due to unsteady
+flow; meandering of rivers; braided river; local scour at different structures; sediment
+sampling; density current.
+Unit-3
+Mathematical models of sediment transport; effect of coherent turbulence on sediment
+transport.
+Unit-4
+Shear stress in turbulent flow, velocity distribution in turbulent flow.
+References:
+1. R. J. Garde, K. G. Ranga Raju “Mechanics of Sediment Transportation and Alluvial Stream
+Problems” New age publications.
+2. S. Lawrence Dugwan “Fluvial hydraulics’ Oxford university press.
+3. Leo C, and V. Raju, “Principle of sediment transport in Rivers, estuarine and coastal seas”
+Aqua Publication.
+Course Outcomes (COs):
+1. The students will be able to understand the sediment properties, initiation of motion,
+bed load, bed forms, effective bed roughness, armoring; suspended load, and total load
+2. The students will be able to understand the transport of sediment due to unsteady flow,
+meandering of rivers; braided river; local scour at different structures; sediment
+sampling; density current.
+3. The students will be able to understand the mathematical models of sediment transport;
+effect of coherent turbulence on sediment transport
+4. The students will be able to understand the shear stress in turbulent flow, velocity
+distribution in turbulent flow
+WRE 44 | P a g e
+
+--- Page 46 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Course Outcome Course Outcome
+(CO)
+The students will be able to understand the sediment
+PCE52C01.1 properties, initiation of motion, bed load, bed forms, effective
+bed roughness, armouring; suspended load, and total load
+The students will be able to understand the transport of
+sediment due to unsteady flow, meandering of rivers; braided
+PCE52C01.2
+river; local scour at different structures; sediment sampling;
+density current
+The students will be able to understand the mathematical
+PCE52C01.3 models of sediment transport; effect of coherent turbulence on
+sediment transport
+The students will be able to understand the shear stress in
+PCE52C01.4
+turbulent flow, velocity distribution in turbulent flow
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: ---
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE52C01.1 3 3 3 3 3 3
+PCE52C01.2 2 2 2 3 2 2
+PCE52C01.3 3 2 3 3 2 3
+PCE52C01.4 3 3 3 2 2 2
+Total 11 10 11 11 9 10
+Average 2.8 2.5 2.8 2.8 2.3 2.5
+Eq. Average 3 3 3 3 2 3
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52C01.1 3 3
+PCE52C01.2 2 2
+PCE52C01.3 3 2
+PCE52C01.4 3 3
+Total 11 10
+Average 2.75 2.5
+Equivalent Average 3 3
+Attainment
+WRE 45 | P a g e
+
+--- Page 47 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+HYDRAULIC STRUCTURE
+Subject No: PCE52C02 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+1. To understand the basics of dam, site selection and types of dam.
+2. To know the basics of design of embankment dams, upgradation and rehabilitation of
+dams.
+3. To get knowledge of various types of concrete dams and design different elements of dam.
+4. To analyze various hydraulic structures for energy dissipation like spillway.
+5. To get knowledge on dam safety, regulations and risk assessment.
+Course Content:
+Unit-1
+Elements of Dam engineering: Introduction; Site assessment and selection of type of dam.
+Unit-2
+Embankment Dam Engineering: Introduction; Principle of Embankment Dam Design;
+Seeoage analysis; Geosynthetic in environmental dam; Upgrading and rehabilitation of
+Embankment Dam.
+Unit-3
+Concrete Dam Engineering: Loading: Concept & Criteria; Gravity Dam Analysis; Concrete
+for Dams; of masonry and concrete Dam.
+Unit-4
+Energy dissipation: Introduction; Energy dissipation on spillways; stilling basin.
+Unit-5
+Dam Safety: Introduction; Instrumentation; Surveillance; Dam safety legislation; Reservoir
+hazards and risk assessment.
+References:
+1. P.Novak, A.I.B.Moffa, C.Nalluri and R. Narayan “Hydraulic Structures’ Fourth Edition,
+Taylor & Francis.
+2. Walter O.W “Hydraulic Structure” ASCE press
+3. Mikhail, M.G. “Hydraulic Structure” Vol.1; Mir publication 1982
+Course Outcomes (COs):
+Upon completion of this course students will be able to:
+1. Enhance knowledge on various concepts of dam types and selection criteria.
+2. Perform design and analysis of embankment dams, their upgradation and rehabilitation.
+3. Design various types of concrete dams and perform stability analysis, fix section of dam.
+4. Perform structural design and analyze the various types of hydraulic structures.
+5. Enhance knowledge on dam safety, instrumentation, risks and hazard assessment
+WRE 46 | P a g e
+
+--- Page 48 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 1: To establish the correlation between COs &POs
+No. of Course
+Course Outcome
+Outcome(CO)
+PCE52C02.1 Enhance knowledge on various concepts of dam types and selection criteria.
+PCE52C02.2 Perform design and analysis of embankment dams, their upgradation and
+rehabilitation.
+PCE52C02.3 Design various types of concrete dams and perform stability analysis, fix
+section of dam.
+PCE52C02.4 Perform structural design and analyze the various types of hydraulic structures.
+PCE52C02.5 Enhance knowledge on dam safety, instrumentation, risks and hazard
+assessment.
+Table- 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+2 2 2 3 2 2
+PCE52C02.1
+PCE52C02.2 3 3 3 3 2 3
+PCE52C02.3 2 3 3 2 3 2
+PCE52C02.4 3 2 3 3 2 3
+PCE52C02.5 2 2 2 2 3 2
+Total 12 11 13 13 12 12
+Average 2.4 2.2 2.6 2.6 2.4 2.4
+Eq. Avg. 2 2 3 3 2 2
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+2 2
+PCE52C02.1
+PCE52C02.2 3 3
+PCE52C02.3 2 3
+PCE52C02.4 3 2
+PCE52C02.5 2 2
+Total 12 11
+Average 2.4 2.2
+Equivalent Avg. 2 2
+Attainment
+WRE 47 | P a g e
+
+--- Page 49 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ELECTIVE PAPER – III
+VISCOUS FLUID FLOW
+Subject No: PCE52E01 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+Viscous fluid flow covers the fundamentals of fluid mechanics from an advanced point of
+view. This course focusses largely on viscous flows in the incompressible regime. The course
+will give the audience physical insights through the use of mathematical tools for solving real-
+flow problems. The course will help students, faculty members, and researchers in the field to
+get in-depth understanding of concepts in viscous fluid flow.
+Course Content:
+Unit-1
+Properties of Fluids: Kinematics of fluid flow, Velocity and stress fields, Continuity; Euler’s
+equation; N-S and vorticity equations; Exact solutions; Stokes’ problems; Poiseuille and
+Couette flows More exact solutions; inclined plane, immiscible flows Creeping flows.
+Unit-2
+Viscous flow: Boundary conditions for viscous flow, Viscous particle motion, Flow of viscous
+fluid through circular pipes, flow between two parallel plates, loss of head in viscous flow,
+viscous stagnation flows.
+Unit-3
+Boundary layer theory: Boundary layer equation; Blasius velocity profile for flow over a flat
+plate; Integral methods; Karman integral relation, Falkner-Skan equation, Karman-Pohlhausen
+method, Thwaite’s method, Separation of boundary layaer, laminar shear flow, Potential flow
+and flow past immersed bodies.
+Unit-4
+Stability of laminar flows: Introduction, linearized stability of parallel viscous flow, parametric
+effects in linear stability theory, Orr-Sommerfeld equation, viscous stability, Taylor instability
+of coquette flow, transition in free surface flow, transition to turbulence.
+Unit-5
+Introduction, characteristic of turbulent flows, Reynolds’ averaging; RANS equations, closure
+models; mixing length theories, energy cascade, and turbulent structures.
+WRE 48 | P a g e
+
+--- Page 50 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+References:
+1. Schlichting, H. and Gersten, K., “Boundary Layer Theory”, 8th Revised and Enlarged
+Edition, Springer-Verlag, 2000.
+2. White, F.M., “Viscous Fluid Flow”, McGrawHill, 1991.
+3. Pope, S., “Turbulent Flows”, Camebridge University Press, 2000
+4. J. O. Hinz., Turbulent flow, McGraw Hill , Newyork 1975
+Course Outcomes (COs):
+On successful completion of the course unit students will be able to
+ Understand the kinematics of fluid flow, and the continuum mechanical derivation of
+the Navier-Stokes equations and the appropriate boundary conditions.
+ Perform analysis of the effects of formation of boundary layers on the parallel plate,
+pipes.
+ Understand the fundamental concepts of viscous flows in related to boundary layers
+flows and the mechanics of viscous flow about immersed boundaries.
+ Understand the fundamental concepts of linear stability of laminar flows and transition
+to turbulence.
+ Understand the basic concepts of turbulent flow characteristics, turbulent structure and
+energy cascade. Apply the equations to various fluid problems giving a mathematical
+description of the flow.
+Table 1: To establish the correlation between COs &POs
+No. of Course
+Course Outcome
+Outcome(CO)
+Understand the kinematics of fluid flow, and the continuum mechanical
+PCE52E01.1
+derivation of the Navier-Stokes equations and the appropriate boundary
+conditions.
+Perform analysis of the effects of formation of boundary layers on the parallel
+PCE52E01.2
+plate, pipes. Apply macroscopic balances to fluid flow design problems for
+processes that are commonly involved in civil engineering units.
+Understand the fundamental concepts of viscous flows in related to boundary
+PCE52E01.3
+layers flows and the mechanics of viscous flow about immersed boundaries.
+Understand the fundamental concepts of linear stability of laminar flows and
+PCE52E01.4
+transition to turbulence
+Understand the basic concepts of turbulent flow characteristics, turbulent
+PCE52E01.5
+structure and energy cascade.
+WRE 49 | P a g e
+
+--- Page 51 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table- 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+2 2 3 3 2 1
+PCE52E01.1
+PCE52E01.2 3 3 2 3 2 2
+PCE52E01.3 3 2 3 3 3 3
+PCE52E01.4 3 3 3 3 2 3
+PCE52E01.5 2 2 2 3 2 1
+Total 13 12 13 15 11 10
+Average 2.6 2.4 2.6 3 2.2 2
+Equivalent Avg. 3 2 3 3 2 2
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52E01.1
+2 2
+PCE52E01.2 3 3
+PCE52E01.3 3 2
+PCE52E01.4 3 3
+PCE52E01.5 2 2
+Total 13 12
+Average 2.6 2.4
+Equivalent Avg. 3 2
+Attainment
+WRE 50 | P a g e
+
+--- Page 52 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+TRANSIENT FLOW ANALYSIS
+Subject No: PCE52E02 (L-T-P: 3-1-0 Credit: 4)
+Course Objectives:
+ To implement comprehensive and effective flow control, achieving efficient water
+utilization, and maintaining rich fluvial environments.
+ To solve a variety of problems on flow structures mainly in open channels closed
+conduits and other related structures.
+Course Content:
+Unit-1
+Introduction: wave propagation and reflection in single pipeline, classification of hydraulic
+transients, causes of transients, system design and operation
+Unit-2
+Equation of unsteady flow through closed conduits: Dynamic and continuity equations and
+methods for solving their equations, velocity of water hammer waves
+Unit-3
+Method of characteristic: Characteristic equations, boundary conditions, stability and
+convergence conditions, combined implicit characteristic method, analysis of piping system
+Unit-4
+Transients in long pipeline: Causes of transients, methods of controlling transient in pipes;
+analysis of surge tanks; transient ground water flow
+Unit-5
+Transient flows in open channels: Causes of transients, wave height and celerity, derivation of
+continuity and dynamic equations, method of characteristics, explicit-implicit finite difference
+method, boundary condition, and stability.
+References:
+1. Chaudhry, H., Hydraulic Transients, Tata McGraw Hill, 1998.
+2. Chaudhry, H., Applied hydraulic transients, Van Nostrand Reinhold, New York, 1987.
+3. Streeter, V.L. and Wylie, E.B., Hydraulic Transients, McGraw Hill, New York,1967
+Course Outcomes (COs):
+ Basic understanding of wave propagation and reflection in single pipeline, classification
+of hydraulic transients, causes of transients.
+ The students will be able to understand dynamic and continuity equations and methods
+for solving their equations.
+ The students will be able to understand the characteristic equation their application in
+analysis of piping system.
+WRE 51 | P a g e
+
+--- Page 53 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+ The students will be able to understand the transients caused in long pipes, methods of
+controlling transient in pipes.
+ The students will be able to understand the causes and analysis of transient in open
+channel flow.
+Table 1: To establish the correlation between COs & POs
+No. of Course Outcome
+Course Outcome
+(CO)
+Basic understanding of wave propagation and reflection in
+PCE52E02.1
+single pipeline, classification of hydraulic transients, causes of
+transients
+The students will be able to understand Dynamic and
+PCE52E02.2
+continuity equations and methods for solving their equations
+The students will be able to understand the characteristic
+PCE52E02.3
+equation their application in analysis of piping system
+The students will be able to understand the transients caused in
+PCE52E02.4
+long pipes and methods of controlling transient in pipes
+The students will be able to understand the causes and
+PCE52E02.5
+analysis of transient in open channel flow
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE52E02.1 3 3 3 3 3 2
+PCE52E02.2 3 3 2 2 2 3
+PCE52E02.3 3 3 3 3 3 3
+PCE52E02.4 2 2 2 2 1 2
+PCE52E02.5 2 3 3 3 2 3
+Total 13 14 13 13 11 13
+Average 2.6 2.8 2.6 2.6 2.2 2.6
+Eq. Average 3 3 3 3 2 3
+Attainment
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52E02.1 3 3
+PCE52E02.2 3 3
+PCE52E02.3 3 3
+PCE52E02.4 2 2
+PCE52E02.5 2 3
+Total 13 14
+Average 2.6 2.8
+Equivalent Average 3 3
+Attainment
+WRE 52 | P a g e
+
+--- Page 54 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+INTEGRATED WATERSHED MANAGEMENT
+Subject No: PCE52E03 (L-T-P: 3-1-0 Credit: 4)
+Courses Objectives:
+1. To understand the need for integrated watershed management and preparation of land
+drainage schemes.
+2. To study the types, preliminary design of surface & subsurface drainage structures; to
+study soil erosion & soil salinity problems along with their mitigation.
+3. To study the types, preliminary design of water conservation & water harvesting structures;
+to estimate design storm, design flood for spillways & other outlet structures.
+4. To study flood routing through reservoirs, channels & basins; to study flood mitigation through
+reservoir operation.
+5. To study types and design considerations for flood forecasting & flood protection structures;
+to study the flood damage quantification along with flood case studies.
+6. To study various drought types and their preliminary analysis.
+Course Content:
+Unit-1
+Introduction to integrated watershed management and preparation of land drainage schemes.
+Unit-2
+Types and preliminary design of surface and subsurface drainage structures; Study and
+Mitigation of soil erosion and soil salinity.
+Unit-3
+Types and preliminary design of water conservation and water harvesting structures;
+Estimation of design flood and design storm for spillways and other outlet structures.
+Unit-4
+Flood routing through reservoirs, channels and basins; Flood mitigation through reservoir
+operation.
+Unit-5
+Types and design considerations for flood forecasting and flood protection structures; Flood
+damage quantification and case studies.
+Unit-6
+Types and preliminary analysis of droughts.
+References:
+1.Murty, J. V. S., (1998), “Watershed management”, 2nd Ed., New Age International
+publishers, New Delhi.
+2. Brooks, K. N., Ffolliott, P. F., Magner, J. A., (2003) “Hydrology and management of
+watersheds”, Wiley-Blackwell, Ames, Iowa, USA.
+3. Mal, B. C., (1995), “Soil and water conservation engineering”, Kalyani Publishers,
+Ludhiana, Punjab.
+WRE 53 | P a g e
+
+--- Page 55 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+4. Ghosh, S. N., (2006), Flood control & drainage engineering”, 3rd Ed., Oxford & IBH
+Publishing, New Delhi.
+5. Patel, A. S. and Shah, D. L., (2008) “Water management”, New Age International
+publishers, New Delhi.
+6. Subramanya, K., (2013), “Engineering hydrology”, 4th Ed., McGraw Hill Education
+(India), New Delhi.
+Course Outcomes (COs):
+Upon successful completion of the course, the students will be able to
+CO1: Understand the various concepts of conservation practices in watershed management and
+develop related actions for land drainage.
+CO2: Design and apply various management techniques to prevent soil and water conservation
+measures according to land capability.
+CO3: Understand and apply new strategies for watershed planning measures and flood management.
+CO4: Design various water harvesting and conservation structures in management of watersheds.
+CO5: Use of modern techniques in droughts and watershed management.
+Table 1: To establish the correlation between COs &POs
+No. of Curse
+Course Outcome
+Outcome(CO)
+PCE52E03.1 Understand the various concepts of conservation practices in
+watershed management and develop related actions for land drainage.
+Design and apply various management techniques to prevent soil and
+PCE52E03.2
+water conservation measures according to land capability.
+Understand and apply new strategies for watershed planning measures
+PCE52E03.3
+and flood management.
+Design various water harvesting and conservation structures in
+PCE52E03.4
+management of watersheds.
+Use of modern techniques in droughts and watershed management.
+PCE52E03.5
+Table- 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE52E03.1 2 3 3 2 3 3
+PCE52E03.2 3 2 2 3 2 2
+PCE52E03.3 3 2 3 2 3 2
+PCE52E03.4 3 2 3 2 3 3
+PCE52E03.5 3 2 3 3 3 2
+Total 14 11 2.8 11 14 12
+Average 2.8 2.2 3 2.2 2.8 2.4
+Equivalent Avg. 3 2 3 2 3 2
+Attainment
+WRE 54 | P a g e
+
+--- Page 56 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO PSO1 PSO2
+PCE42C01.1 2 2
+PCE42C01.2 2 3
+PCE42C01.3 3 2
+PCE42C01.4 3 3
+PCE42C01.5 2 2
+Total 12 12
+Average 2.4 2.4
+Equivalent Avg. 2 2
+Attainment
+WRE 55 | P a g e
+
+--- Page 57 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+PRACTICAL / SESSIONAL
+PROJECT PRELIMINARIES
+(PCE52P01)
+Total Credits 03 L – T – P 0 – 0 – 6 = 6
+Each student will be given a Thesis/Project problem at the beginning of Second Semester. They
+will work on the literature survey, scope of work, equipment development etc. and submit a
+report/dissertation. The main Thesis/Project work will, however, be done in Third and Fourth
+Semester.
+WRE 56 | P a g e
+
+--- Page 58 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+HYDRAULICS & WATER RESOURCES ENGINEERING LAB-II
+Subject No: PCE52P02 Contact Periods: (L-T-P: 0-0-3) Credit: 2
+Course Objectives:
+ To compare the results of analytical models introduced in lecture to the actual behaviour of real
+fluid flows.
+ To discuss and practice standard measurement techniques of fluid mechanics and their
+applications.
+ To learn and practice writing technical reports and enable the students to work on small design
+projects.
+Course Content:
+Unit 1
+Experiment on hydraulic jump, verification of Reynolds number,
+Unit 2
+Measurement of velocity profiles in straight open channel flow, measurement of shear stress,
+and experiment on boundary layer.
+Unit 3
+Manning’s roughness coefficient, experiment on bed load.
+Course Outcomes (COs):
+ Identify and characterize flow patterns and regimes.
+ Demonstrate practical understanding of principles, equations and instruments of fluid
+flow related phenomena.
+ Discuss the differences among measurement techniques, their relevance and
+applications.
+ Demonstrate the ability to produce a working model through hands-on experience in
+fluid mechanics design.
+ Demonstrate the ability to write clear lab reports and understand ethical issues
+associated with decision making and professional conduct.
+Table 1: To establish the correlation between COs & POs
+No. of Course
+Outcome Course Outcome
+(CO)
+PCE52E02.1 Identify and characterize flow patterns and regimes.
+Demonstrate practical understanding of principles, equations
+PCE52E02.2
+and instruments of fluid flow related phenomena.
+Discuss the differences among measurement techniques, their
+PCE52E02.3
+relevance and applications.
+Demonstrate the ability to produce a working model through
+PCE52E02.4
+hands-on experience in fluid mechanics design.
+Demonstrate the ability to write clear lab reports and
+PCE52E02.5 understand ethical issues associated with decision making and
+Professional conduct.
+WRE 57 | P a g e
+
+--- Page 59 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+3 3 2 2
+PCE52P02.1 2 3
+2 2 1 2
+PCE52P02.2 2 2
+3 3 3 3
+PCE52P02.3 3 2
+3 2 2 2
+PCE52P02.4 1 3
+2 3 3 2
+PCE52P02.5 3 3
+13 13 11 11
+Total 11 13
+2.6 2.6 2.2 2.2
+Average 2.2 2.6
+Eq. average
+attainment 2 3 3 3 2 2
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE52P02.1 2 3
+PCE52P02.2 2 2
+PCE52P02.3 3 2
+PCE52P02.4 1 3
+PCE52P02.5 3 3
+Total 11 13
+Average 2.2 2.6
+Equivalent average
+attainment 2 3
+WRE 58 | P a g e
+
+--- Page 60 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+COMPUTER APPLICATIONS IN WATER RESOURCES ENGINEERING
+Subject No: PCE52P03 (L-T-P: 0-0-3, Credit: 2)
+Course Objectives:
+ To provide basic knowledge on how to implement software’s for solving practical and
+research related problems.
+ To provide skills for writing programs.
+ To enable and motivate the students perform analysis using software’s for various
+research works and projects.
+Course Content:
+Unit 1. Computer programming on solving free surface flow problem, Ground water
+hydrology, and Surface hydrologic analysis and simulation problem,
+Unit 2. GIS application in various field.
+Unit 3. Study of LIDAR, IOT, UAV etc.
+Course Outcomes (COs):
+ Perform MATLAB, ANSYS and MIKE/MIKE-21C effectively and efficiently.
+ Case studies on use of GIS selected from various areas such as water and land
+resources, environment, transportation, and land use application.
+ Analyze various practical problems using GIS/Arc-GIS, LIDAR, IOT, UAV
+Table 1: To establish the correlation between Cos & POs
+No. of Course Outcome Course Outcome
+(CO)
+Perform MATLAB, ANSYS and MIKE/MIKE-21C
+PCE51P02.1
+effectively and efficiently.
+Case studies on use of GIS selected from various areas such
+PCE51P02.2 as water and land resources, environment, transportation,
+landuse application.
+Analyse various practical problems using GIS/Arc-GIS,
+PCE51P02.3
+LIDAR, IOT, UAV
+Table 2
+Slight (Low): 1; Moderate: 2; Substantial (High): 3; No Correlation: --
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE51P02.1 3 3 4 4 3 3
+PCE51P02.2 3 2 3 3 3 2
+PCE51P02.3 3 2 3 3 3 3
+Total 9 7 10 10 9 8
+Average 3 2.33 3.33 3.33 3 2.7
+Eq. Average 3 2 3 3 3
+Attainment
+WRE 59 | P a g e
+
+--- Page 61 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+Table 3: To establish a correlation between Course outcomes (Cos)
+& Program specific objectives (PSOs)
+CO [PSO]1 [PSO]2
+PCE51P02.1 3 3
+PCE51P02.2 3 2
+PCE51P02.3 3 2
+Total 9 7
+Average 3 2.33
+Equivalent Average 3 2
+Attainment
+WRE 60 | P a g e
+
+--- Page 62 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+COMPREHENSIVE VIVA-VOCE
+Subject code: PCE52P04 Credit-2
+Viva-voce will be conducted for all students at the end of the Second Semester in the
+Department by the board of examiners constituted by the Water Resources Engineering Section
+of Civil Engineering Department.
+WRE 61 | P a g e
+
+--- Page 63 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+THIRD SEMESTER
+PROJECT & THESIS (PCE53P01) Credit: 10
+Each student will devote full time in the Third Semester on a Thesis/Project on an assigned
+research problem of Design/Development work under the supervision of a Faculty Member.
+He/She will present a part of the Thesis/Project Report at the end of the Third Semester which
+will be evaluated by a Board of Examiners consisting of the Supervisor and External Examiner.
+The evaluation of the above said Thesis will be followed by a viva-voce in front of faculty
+members and other post-graduate students.
+THIRD SEMESTER No. of Classes/Week Total Credit
+Sl.no. Subject Code Name of the Subject Lecture Tutorial Practical
+1 PCE53P01 Project & Thesis 00 00 Full 10
+WRE 62 | P a g e
+
+--- Page 64 ---
+Syllabus: M.Tech, Water Resources Engineering NIT Agartala
+FOURTH SEMESTER
+PROJECT & THESIS (PCE54P01) Credit: 20
+Each student will devote full time in the Fourth Semester on a Thesis/Project on an assigned
+research problem of Design/Development work under the supervision of a Faculty Member.
+He/She will present a Final Thesis/Project Report at the end of the Fourth Semester which will
+be evaluated by a Board of Examiners consisting of the Supervisor and External Examiner. The
+evaluation of the above said Thesis will be followed by a viva-voce in front of faculty members
+and other post-graduate students.
+FOURTH SEMESTER No. of Classes/Week
+Total Credit
+Sl.no. Subject Code Name of the Subject Lecture Tutorial Practical
+1 PCE54P01 Project & Thesis 00 00 Full 20
+WRE 63 | P a g e

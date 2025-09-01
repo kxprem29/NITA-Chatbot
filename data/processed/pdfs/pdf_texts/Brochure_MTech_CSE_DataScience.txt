@@ -1,0 +1,493 @@
+
+--- Page 1 ---
+ 
+
+Masters (M.Tech)
+Specialization in
+Data Science ae d Engineering
+
+ 
+
+National Institute of Technology Agartala
+
+Computer Science and Engineering Department
+http://www.nita.ac.in
+
+ 
+
+
+--- Page 2 ---
+OCCT eT ee ee eee reece
+
+Oe EEE
+
+Bee eee es
+
+ 
+ 
+    
+  
+
+     
+
+e & Engineering
+AT | @ LN AN
+oe
+
+e ! - @
+Highlights of the Masters (M.Tech) Specialization in Data Science and
+
+~~ Data Scienc
+
+Engineering at NIT Agartala
+
+Advanced curriculum ©
+Strong research group support :
+Placement facilities AK
+
+Excellent lab facilities
+
+Major aspects of the program
+
+Theoretical foundations: This will include the mathematical background
+required for the subjects.
+
+ 
+
+Application of Theory: This will include courses where the fundamentals
+and advanced concepts (subjects) could be implemented.
+
+Thesis/Project Work: Covering the application of the concepts learned or
+research- oriented work.
+
+Program Objectives
+
+ 
+
+To offer a specialized curriculum for meeting the industry demand in the
+Data Science domain.
+To build strong theoretical foundations required for Data Science.
+
+To develop skills for applying the concepts on practical problems.
+
+Career Opportunities
+
+A student, on completion of this program, will be able ¢:
+
+to me
+
+@ undertake industry careers involving innovation
+and problem-solving and join the industry as a
+Data Scientist/Data Analyst/Data Engineer.
+
+@ pursue higher studies (PhD) to join leading R & D
+organizations as a Scientist or as a faculty
+
+member in leading academic institutions. [|
+Page - 1 a
+
+ 
+    
+
+ 
+
+
+--- Page 3 ---
+POPE COUPER PSEEEECUEEEMSA TT ree
+
+eeueeee
+Trt)?
+
+   
+
+  
+
+= aH ay,
+-- Data Science & Engineering
+Program Outcomes (POs) & © — | @ e
+
+@
+
+PO1!: To develop the Bik to apply knowledge of mathematics, engineering
+sciences for conductingindependent research/investigation for solving practical
+problems.
+PO2: To develop the ability to identify, formulate, conduct experiments, interpret
+data, synthesize information, and analyze engineering problems by writing and
+presenting an effective technical report /document.
+POS: To develop the ability to demonstrate mastery over the area as per the
+program's specialization. The knowledge should be at a level higher than the
+requirements in the appropriate bachelor's program.
+PO4: To develop problem-solving ability to design solutions for complex
+engineering problems in the context of societal and environmental commitments.
+POS: To demonstrate the capability of functioning effectively as a member or team
+leader in software projects considering multidisciplinary environments, thus
+solving real-world multifaceted problems.
+PO6: To develop design thinking capabilities for innovation and contribute to
+technological knowledge and intellectual property development.
+
+Need for the program
+
+ 
+
+The past two decades has witnessed the involvement of IT enabled services in every
+sector. With the proliferation of social media services, the dynamics of the World
+Wide Web has shifted from data consumption to a data generation environment.
+The social media services have enabled not only organizations but also individual
+users as the content providers. The Internet traffic is increasing exponentially and
+so is the volume of data. Applications such as social media, healthcare, e-
+commerce, weather forecast, traffic monitoring, etc., are producing massive
+amounts of data, the so-called “BIG DATA”, at an unprecedented scale. This has
+led to a critical need for skilled professionals, popularly known as Data Scientists,
+who can mine and interpret the data. Mining this massive data is an exceedingly
+difficult challenge for scientific, technological, and industrial disciplines. In oreder
+to fill the gap between the demand and supply of Data Scientists and
+Technologiests, the Department of CSE at NIT Agartala offers a two years full time
+Masters Programme in Data Science & Engineering.
+
+Page - 2
+
+
+--- Page 4 ---
+ORR PP eS er
+
+TERRE TEEETECTe SL sias..)hUhUhUC! Ut
+
+     
+
+Data Science & Engineering
+eo @
+& + ®
+
+(
+@e 4
+Admission is carried out through the Central counselling CCMT. If seats are lying
+vacant, then students are admitted through a selection process conducted by the
+institute.
+
+bTealoysb anys
+
+Scholarship
+
+Students admitted through CCMT are eligible to get a monthly scholarship subject
+to fulfilment of other criteria and financial availability from Ministry of Education,
+Government of India.
+
+Program duration
+
+Two years (Four Semester) full time.
+
+Program Structure
+
+ 
+
+The program has a total of 80 credits. The credits are distributed into 25 credits
+each in the Ist and 2nd semester, 10 credits in the 3rd semester, 20 credits in
+the 4th semester. The first year (lst and 2nd semester), covers theory and
+practical classes, and the 2nd year (3rd and 4th semester), covers a research
+Project and thesis. The research can be carried out either in the institute or in an
+Industrial organization so that at least one research paper could be published by
+the students. The detailed credit, subject and syllabus of the program are available
+in the department’s website.
+
+eet 2nd Sem 3rd Sem miami]
+Pies they riots eh aha 20 credits
+
+Project *
+
+WU ae
+Practical
+
+and
+Thesis-Il ,
+
+ 
+
+
+--- Page 5 ---
+  
+  
+
+ 
+  
+ 
+ 
+
+x
+IN,
+‘
+
+= er |
+
+rik
+
+lata S
+e
+& | e@ s °*
+
+Evaluation System ® (
+
+cience & Engineering
+
+@® Continuous Evaluation system is followed.
+
+&
+® Credit based Cumulative Grade Point Average (CGPA) System along with SGPA
+(Semester Grade Point Average) system is adopted.
+
+@ Theory subjects are evaluated based on Internal Assessment (30 marks ), Mid
+Term Examination(20 marks ), and End Term Examination (50 marks ).
+Questions are prepared following the Blooms Taxonomy satisfying the NBA
+pattern.
+
+@ Project and Thesis are being evaluated by an Evaluation Committee where
+External Expert from renowned institutions/organizations like IITs, NITs are
+present to evaluate the works being carried out by the scholar under the
+supervision of a faculty member.
+
+Lab Facilities
+
+The institute has a dedicated Data Analytics Lab for the specialization
+
+Training & Placement Facilities
+
+ 
+
+The institute has a dedicated training and Placement cell named Career
+Counselling Department (CCD) through which students are provided
+training, internships and placements.
+
+pee ee oir
+(a)
+
+COMPUTER SCIENCE
+ate
+
+Lk
+Poteet So) tar tte
+
+ 
+
+
+--- Page 6 ---
+Course Structure of M.Tech. in DSE
+
+STi tclg Subject Class Hours Marks
+
+Ww
+
+1. Advanced Data Structures and
+Algorithms
+
+2. Data Mining
+
+3. Mathematical Foundations for
+Data Science
+
+4. Elective | *
+
+5. Elective II*
+
+6. Laboratory | (Advanced Data
+Structures and
+Algorithms)
+
+=)
+
+7. Laboratory || (Data Science
+Foundation)
+
+8. Seminar
+Total
+1. Machine Learning
+2. Big Data Analytics
+3. Elective III *
+4. Elective IV *
+
+5. Laboratory- | (Machine Learning
+Lab)
+
+6. Laboratory-l| (Data Science
+Implementation)
+
+=
+
+Oo
+
+2
+
+7. Project Preliminaries
+
+8. Comprehensive Viva
+Total
+
+=
+_
+
+ 
+
+ 
+
+* To be chossen from the list of electives.
+
+ 
+
+
+--- Page 7 ---
+Data Science & Enginee
+
+Course Structure of M.Tech. in DSE
+
+T=} i te Cag
+
+Project and Thesis Work- |
+
+*Students may go for industrial or
+inter institute collaboration, based
+Project work for 6 months to 1 year.
+The DPPC and concerned local guide
+may be empowered to recommend
+such provision.
+
+All existing academic rules of
+institute will prevail. The exact
+modalities may be recommended by
+
+ea
+ri
+
+ng
+
+ 
+
+ 
+
+*Students may go for industrial or
+inter institute collaboration, based
+Project work for 6 months to 1 year.
+The DPPC and concerned local guide
+may be empowered to recommend
+such provision.
+
+All existing academic rules of
+institute will prevail. The exact
+modalities may be recommended by
+DPPC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+--- Page 8 ---
+Course Structure of M.Tech. in DSE.
+
+Stochastic Models and Applications
+
+ 
+
+Natural Language Processing
+
+ 
+
+Soft Computing
+
+ 
+
+Reinforcement Learning
+Intrusion Detection System
+
+Computer Vision
+
+f
+
+Information Retrieval
+
+Recommender Systems
+
+po | ol
+0
+
+Data Visualization
+
+b
+
+ 
+
+SS]
+
+eo Data Science in Bioinformatics
+BCI ct Science for Decision Making | 4 | 0 | 0 _|
+RTI Social networkanaysis [4
+BEE Tite Series bata anahsis [4
+
+4
+
+|b
+
+ 
+
+Computational Intelligence
+
+ 
+
+NLP, High Performance Computing
+
+Dr Kunal Chakma Assistant Professor |Machine Learning, Deep Learning,
+Data Science, NLP
+
+Dr Anupam Jamatia Assistant Professor |NLP, Social Media Analytics, Machine
+Learning
+
+ 
+
+
+--- Page 9 ---
+   
+
+eo a,
+amma Rs: TT:
+= LCE > GS Ey,
+
+ 
+
+Program Coordinator:
+
+Dr. Kunal Chakma
+
+Assistant Professor
+
+Department of Computer Science and Engineering
+Email: kchakma.cse@nita.ac.in
+
+https: //kunalchakma.com
+
+Program Co-coordinator:
+
+Dr. Anupam Jamatia
+
+Assistant Professor
+
+Department of Computer Science and Engineering
+
+Email: anupamjamatia@nita.ac.in
+
+ 
+

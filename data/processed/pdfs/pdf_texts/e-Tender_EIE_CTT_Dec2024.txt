@@ -1,0 +1,2123 @@
+
+--- Page 1 ---
+ 
+
+US Wella Ca sean
+NATIONAL INSTITUTE OF TECHN OLOGY AGARTALA
+Fax : 0381 254-6360, Website : http// www.nita.ac.in
+
+ 
+
+poten aaa wet
+
+NOP NITAS9@&-EIEPurcass!CTT_LaBBOaY J'9 iF le Date: Z // 7/2024
+
+.
+
+ 
+
+E-Tender Notice
+
+ 
+
+On behalf of National Institute of Technology Agartala, bids are invited in sealed cover from the
+reputed resourceful Manufacturers / Authorized Distributors/ Authorized Suppliers for supply of item(s)/goods
+as per specification mentioned in Annexure of tender document available at our website Www.nita.ac.in.
+
+ 
+  
+ 
+
+ 
+ 
+  
+   
+
+    
+   
+  
+
+Estimated
+cost
+(Rs.)
+
+Time and date of
+opening of
+Technical bid
+
+   
+  
+
+Last date of
+receipt of tender
+
+wordag /
+qusury.edaq
+
+  
+ 
+   
+   
+
+ 
+
+  
+     
+ 
+
+  
+        
+ 
+
+Laboratory and
+Scientific
+Equipment
+
+ 
+  
+   
+
+Electronics and No.F.NITA.39(44-
+Instrumentation | EIE)/Purchase/CTT
+Engineering _Lab/2024
+
+    
+ 
+ 
+
+30/ 19/9024
+Up to 3:00 PM
+
+BA/ 32-/2024
+
+10,64,848.00 At 3:00 PM
+
+    
+
+    
+    
+
+ 
+
+ 
+
+The interested Manufacturers / Authorized Distributors/ Authorized Suppliers may arrange online
+
+submission of the tender through www.eprocure.gov.in along with scan copy of essential documents mentioned in
+the tender document.
+
+ 
+
+Tender(s) is/are to be submitted only online through central public procurement portal ie.
+“http://eprocure.gov.in”. All the documents are to be scanned and uploaded along with the tender documents.
+
+Tender sent by any other mode will not be accepted.
+
+Registrar
+
+Registrar” ul Ww
+NIT Agartala
+Copy to: °
+1. The P.S. to the Director for kind information.
+2. The Nodal Officer, e-Procurement, NITA with a request to kindly arrange uploading the
+Tender Documents in the CPP portal https://eprocure.gov.in/eppp.
+
+3. Mr. Kamal Kanti Paul, System Administrator, Computing & ICT Unit with a request to uploading
+the Tender documents in the Institute website site.
+
+4. The Deputy Registrar (F & A).
+
+Registrar
+NIT Agartala
+
+ 
+
+
+--- Page 2 ---
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+ee
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ W245-\% Date: O&/ 12/2024
+
+E- Tender Enquiry
+
+IMPORTANT INFORMATION
+
+Name of the Institute : NATIONAL INSTITUTE OF TE CHNOLOGY
+AGARTALA
+
+GST Number of the Institute : 16AAAGN0550K1ZG
+
+PAN of the Institute : AAAGNO550K
+
+TAN of the Institute : SHLNO0719F
+
+DSIR No. : TU/V/RG-CDE(1053)/2022 dated 18/12/2022
+
+Institute Bank A/C No. : 030936141729 (IFSC: SBIN0011491) under SBI, NIT
+Agartala Branch.
+
+Name of Department / Branch : Electronics and Instrumentation Engineering
+
+Enquiry / Reference Number : No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/
+
+Some important/Critical dates:
+
+Uploading on CPP Portal andj Date: O94 / 19/2024 Time: 5:00 PM
+| Department’s web-site
+
+Bid submission start date Date: OF / 12 /2024 Time: 5:00 PM
+Bid submission end date Date: 30 / 42./2024 Time: 3:00 PM
+
+Opening of technical bid Date: 231 / $92/2024 Time: 3:00 PM
+
+ 
+      
+         
+
+   
+
+1|Page
+
+
+--- Page 3 ---
+UST Wall FIM SPAM
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+ 
+
+Details of e-tender document.
+
+NIT, Agartala intends to purchase the commodities/serrie(s)
+specified in Annexure enclosed and invites quotations in accordance with the
+terms and conditions detailed in the bid document. If you are interested,
+kindly submit your offer with prices within the time mentioned above fulfilling
+
+all the terms and conditions marked in the bid documents.
+
+[ip —
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+Encl :
+
+(1) Schedule of requirement, specifications, dates etc.
+(2) Bid document containing detail terms and conditions.
+
+2|Page
+
+
+--- Page 4 ---
+ 
+
+TS Wert AI SPAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+it.
+
+Sampling & Reconstruction
+Delta, Adaptive Delta and Delta Sigma
+Modulation/Demodulation
+Data Formatting and Carrier Modulation/Transmitter
+Data Reformatting & Carrier Demodulation Receiver
+Delta, Adaptive Delta, Sigma Delta Modulator &
+Demodulator.
+4-Channel TDM-PCM Transmitter and Receiver Time
+Division Multiplexing-Pulse Code Modulation
+OFDM Modulator and Demodulator Training System
+Multiplexer/De multiplexer-Coder/Decoder
+. Understanding Block Code Encoder
+
+. Understanding Block Code Decoder
+
+. TDM Pulse Amplitude Modulation Demodulation
+
+. TDM Pulse Code Modulation Transmitter
+
+. TDM Pulse Code Modulation Receiver
+
+. PAM-PPM-PWM Modulation & Demodulation
+
+ 
+
+Sampling & Reconstruction
+
+Delta, Adaptive Delta and Delta Sigma Modulation/Demodulation
+
+Data Formatting and Carrier Modulation/Transmitter
+
+Data Reformatting & Carrier Demodulation Receiver
+
+Delta, Adaptive Delta, Sigma Delta Modulator & Demodulator.
+
+4-Channel TDM-PCM Transmitter and Receiver Time Division Multiplexing-Pulse Code Modulation
+OFDM Modulator and Demodulator Training System
+
+Multiplexer/De multiplexer-Coder/Decoder
+
+Understanding Block Code Encoder
+
+. Understanding Block Code Decoder
+
+14
+
+. TDM Pulse Amplitude Modulation Demodulation
+. TDM Pulse Code Modulation Transmitter
+. TDM Pulse Code Modulation Receiver
+
+PAM-PPM-PWM Modulation & Demodulation
+
+ 
+
+(Details as per SI No.1 to 14 at Annexure-A).
+
+it Estimated Cost
+
+10,64,848.00
+
+. Quotations should be valid for a period of 180 days from the opening date of the technical bid.
+
+Bid Security or EMD: 2% of the estimated cost of the tender or Bidders should submit “Bid
+Security Declaration Form” on company letter head as per annexure-D of this tender
+document.
+
+4. Performance Security: The amount of the Performance Security shall be 5%(five percent) (not
+applicable for consumable item(s)) of the Purchase Order / Contract value, valid up to 60 days
+after the date of completion of contract obligations including warranty obligations.
+
+Delivery Option: 60 (sixty) days after receipt of the purchase/work order(s).
+
+Please go through the enclosed “bid document” carefully for other bidding instructions.
+For any technical details, you may contact through email-id: nitapurchasesection2@qmail.com.
+
+3|Page
+
+Yours/sincerely,
+
+l
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 5 ---
+ 
+
+US Wert! FI SRA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ee ee
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+BID DOCUMENT
+
+1. Instructions to the bidders:
+
+dis
+
+1.2
+
+1.3
+14
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+L9
+
+1.10
+
+4|Page
+
+Bids are invited through e-tender on behalf of the National Institute of
+Technology Agartala, Tripura, Agartala-799046 from the intending bidders for
+supply of the goods/stores/ equipments/Learning resources for the Institute as
+detailed in the enquiry letter.
+
+The bidders should quote their rates in clear terms without ambiguity. The
+quotation should be only in Indian Rupees.
+
+The last date & time for submission of the bid is marked in the enquiry.
+
+The bids should be submitted online through www.eprocure.gov.in before the
+last date & time of submission specified in tender document.
+
+Bids received after the deadline of receipt indicated in para 1.4 above, shall not
+be taken into consideration.
+
+Each bidder shall submit only one bid against one enquiry. A bidder, who
+submits more than one bid against single enquiry, shall be disqualified and
+considered non-responsive.
+
+The bidder has to enclose a check list at per Annexure - C duly filled in along
+with all relevant/supporting documents while submitting technical bid through
+
+www.eprocure.gov.in.
+
+Opening of Bids by the Purchaser will be done as per the provisions of the e-
+procurement system.
+
+At any time prior to the due date for submission of bids, the Purchaser may, for
+any reason, whether at its own initiative or in response to a clarification
+requested by a prospective bidder, modify the bidding documents by
+amendment.
+
+All prospective bidders are expected to surf the website before formulating and
+submitting their bids to take cognizance of the amendments.
+
+Custom Duty Exemption Certificate will be provided from the Institute for
+availing Custom Duty Exemption in trams of notification No. 51/96-Custom
+dated 23-07-1996, amended by notification No. 43/2017 dated 30-06-2017,
+further amended by notification No. 42/2022 dated 13-07-2022, as amended
+from time to time in case of imported items per OM No. F.4/1/2021-PPD dated
+01-09-2021.
+
+Yours sincerely,
+
+[Ney —
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 6 ---
+ 
+
+“i
+
+Zed
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+UST WENT A STAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ee eee
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+2. General Terms & Conditions:
+
+The rates quoted by the Supplier/Bidders should preferably be on
+basic price, Annual Maintenance Charges(if applicable), packing,
+forwarding, freight, Insurance and all other incidental charges
+including delivery of the Materials at National Institute of Technology,
+Agartala.
+
+All taxes and duties will be paid extra and such amounts of
+mandatory/statutory taxes & duties shall be explicitly mentioned in
+BOQ while submitting of bid. If GST amount not quoted in the BOQ
+(price bid), the total cost will be treated as inclusive of GST.
+
+Price has to be ffilled through CPP’ portal as per BOQ
+(https://www.eprocure.gov.in). The scanned copy of Price Bid, dully filled in,
+has to be uploaded on the above e-procurement site. The prices filled in the e-
+procurement site will be treated final and shall be binding to the vendor.
+
+Insurance: The Goods supplied under the Contract shall be fully insured against
+any loss or damage incidental to manufacture or acquisition, transportation,
+storage and delivery up to the final destination.
+
+All the Machines/Equipments/goods will be covered by Annual Maintenance
+Contract (AMC) / CMC/ Warranty beyond the normal warranty/guarantee period.
+Interested bidders are requested to quote price against AMC/Extended warranty
+as an optional item in the price bid. Optional items will not be taken into
+consideration while selecting L; bidder.
+
+AMC/CMC/Extended Warranty will be awarded after completion of standard
+warranty period. AMC/CMC/Extended Warranty may be carried out only after
+receipt of confirmation letter from this Institute. The Institute will not be
+responsible for any due payments / obligations may arise as a result of
+execution of AMC/CMC/Extended Warranty without confirmation letter from this
+Institute.
+
+Conditional discount, if any, offered by the bidder shall not be considered at the
+time of evaluation.
+
+The bidders who are registered as a Micro or Small Enterprise as per
+latest definitions under MSME rules, Govt. of India for exemption of
+submitting EMD/Bid security must enclose relevant documentary
+proof of authentication of their firm’s registered as a Micro or Small
+Enterprise as per latest definitions under MSME rules, Govt. of India.
+
+#
+
+
+--- Page 7 ---
+ 
+
+2.10
+
+2.11
+
+6 Pa 9 :
+ra ¢
+gC
+
+USI WENT! A SEMA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+If the bidder is a Micro or Small Enterprise as per latest definitions under MSME
+rules, the bidder shall be exempted from the requirement of "Bidder Turnover"
+criteria and "Experience Criteria". If the bidder is OEM of the offered products, it
+would also be exempted from the "OEM Average Turnover" criteria. In case any
+bidder is seeking exemption from Turnover /Experience Criteria, the supporting
+documents to prove his eligibility for exemption must be uploaded with technical
+bid.
+
+If the bidder is a Startup, the bidder shall be exempted from the requirement of
+"Bidder Turnover" criteria and "Experience Criteria". If the bidder is OEM of the
+offered products, it would also be exempted from the "OEM Average Turnover"
+criteria. In case any bidder is seeking exemption from Turnover / Experience
+Criteria, the supporting documents to prove his eligibility for exemption must be
+uploaded with technical bid.
+
+National Institute of Technology, Agartala is following and abide with the Public
+Procurement (Preference to Make in India), Order 2017, DIPP, MoCI Order No.
+P-45021/2/2017-B.E.II dated 15th June 2017 and subsequent amendments to
+the order. Accordingly preference will be given to the Make in India products
+while evaluating the bids, however, it is the sole responsibility of the bidder(s)
+to specify the product quoted by them is of Make in India product along with
+respective documentary evidence as stipulated in the aforesaid order in the
+technical bid itself. A self-declaration as per Annexure- G should be enclosed in
+the technical bid.
+
+On site Comprehensive Warranty:
+
+e The successful bidder shall provide a Comprehensive Warranty for minimum
+period of 3 years (not applicable for consumable item(s)) after the installation
+and commissioning of the instrument / software/items. If within a warranty
+period after installation any such product or component is proven to be
+defective such product shall be repaired or replaced by the supplier/vendor.
+Such repair and replacement shall be sole obligation of supplier/vendor.
+Supplier / vendor shall be responsible for payment for all charges (to-and-fro)
+for repair/ replacement. Any design defects or installations deficiencies or
+any outer defects, if noticed during the warranty/ maintenance period, shall
+be rectified promptly by the successful bidder with no cost at all the places,
+which also includes the field installations.
+
+e Down-time call attendance should be within 48 hrs.
+
+e In case the Equipment / System remains non-operational for more than 5
+days then warranty period will be extended for the equal period for which
+Equipment / System remained non-operational. Warranty extension in such
+case shall be done without prejudice to any other Term & condition of the
+
+contract. +
+
+
+--- Page 8 ---
+ 
+
+TS WEP AM SEAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+2.13 The documentary evidence of the bidders qualification to perform the contract if
+
+the bid is accepted shall establish to the purchasers satisfaction that:
+
+   
+
+      
+
+The bidder meets the qualification criteria listed in bidding documents, if any.
+(b) | Bidder who doesn’t manufacture the goods it offers to supply shall submit
+Manufacturers’ Authorization Form using the form specified in the bidding
+document to demonstrate that it has been duly authorized by the
+manufacturer of the goods to quote and / or supply the goods/services.
+
+      
+         
+         
+
+2.14 The successful bidder has to furnish “Performance Guarantee/Security” (not
+
+applicable for consumable item(s)) for an amount specified in the enquiry by E-
+Payment System to NITA Account within 15(fifteen) days of intimation of
+contract/supply order.
+
+Alternatively, “Performance Guarantee/Security” will be retained by the Institute
+from the billed amount of the contract/supply order which will be released two
+months after the completion of warranty period (not applicable for consumable
+item(s)).
+
+2.15 Delivery Schedule: As per e-Tender.
+
+The item(s)/goods are required to be delivered at the indenting Department of
+National Institute of Technology, Agartala, and must be dispatched within
+specified days from the date of placement of the supply/purchase/work order.
+
+If the supplier fails to Supply, Install and Commission the system/instrument as
+per specifications mentioned in the order within the due date, the Supplier is
+liable to pay liquidated damages of 0.5% of order value per week or part
+thereof of delay subject to a maximum of 10%, as the case may be, beyond the
+due date. Such money will be deducted from any amount due or which may
+become due to the supplier. Any exemption towards delay without LD can be
+resolved through mutual consent under exceptional circumstances.
+
+2.16 Force Majeure: Notwithstanding the provisions of clauses relating to Extension
+
+of Time, Penalty and Termination for Default the Supplier shall not be liable for
+forfeiture of its Performance Security, Liquidated Damages or Termination for
+Default, if and to the extent that, its delay in performance or other failure to
+perform its obligations under the Contract is the result of an event of Force
+Majeure.
+
+2.17. Evaluation of Bid: The Technical Bid shall be evaluated on the basis of technical
+
+Da oe
+7\|! age
+
+and other parameters usually taken in to consideration. Financial bid shall be
+evaluated on the basis of financial parameters. Govt. of India rules shall be
+taken in to account for evaluating both technical and financial bids.
+
+evaluation as per annexure(s) (as applicable).
+
+2.18 The successful bidder(s) may be required to nat on the basis of
+¢ :
+
+
+--- Page 9 ---
+ 
+
+US Welt FA SAA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+226
+
+Zee
+
+2.24
+
+2.25
+
+2.26
+
+Do ge
+8 |! age
+
+NIT Agartala will reject a proposal for award if it determines that the Bidder
+recommended for award has, directly or through an agent, engaged in corrupt,
+fraudulent, collusive or coercive practices in competing for the Contract in
+question.
+
+The bidder has to submit valid trade license, GST registration certificate, Last
+filled ITR and last filed GST return.
+
+Payment: 100% will be made in INR (Indian National Rupees) after
+successful Installation, Commissioning of item against submission
+of Performance Guaranty (PG) otherwise an equal amount of PG
+will be retained by the Institute till the completion of warranty
+obligations.
+
+Note: All payments due under the contract shall be paid after deduction of
+statutory levies at source (like ESIC, IT (TDS), GST, LBT / Octroi etc.), wherever
+applicable.
+
+In the event of any dispute arising out of the bid or from the resultant contract,
+the decision of the Competent Authority, National Institute of Technology,
+Agartala shall be final.
+
+The bid document/resultant contract will be interpreted under Indian Laws.
+
+National Institute of Technology, Agartala will not take any responsibility for
+arranging road permit/way bill or clearance from tax department for delivery of
+goods. All such requirements should be completed by the bidder for delivery of
+goods at National Institute of Technology, Agartala. GST payment, if required,
+should be paid by successful bidder and if GST not paid, National Institute of
+Technology, Agartala will deduct the applicable amount from successful bidder's
+bills and pay the same to Tax Authority. If there is any mandatory tax(es) other
+than GST/other taxes mentioned in this tender document, imposed by State
+Govt., the same may also be deducted from the bills of the successful bidder, as
+applicable.
+
+Competent Authority of National Institute of Technology, Agartala
+reserves the right to cancel the entire e-tendering process at any
+stage of the procurement process without mentioning any reason.
+
+Legal disputes, if any with NIT Agartala will be restricted within the
+jurisdiction of Agartala only.
+
+Yours sincerely,
+egistrar
+
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 10 ---
+ 
+
+9|Pa
+
+3.1
+
+3.2
+
+aot
+
+3.4
+
+Su
+
+3.6
+
+a7
+
+3.8
+
+38
+3.10
+
+a.k1
+
+gO
+a
+
+UST Weil FA SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+3. Special Terms & Conditions:
+
+Acceptance of Technical bid strictly depends on National Institute of Technology,
+Agartala’s requirements credentials, manufacturing capability, quality control
+systems, past performance, after-sales service, financial background,
+commercial terms & conditions etc. of the supplier(s).
+
+Detailed Specifications, brand, make, model & parts number, tolerance limit,
+resolution, corresponding ISO standard etc. of quoted Equipments/Items should
+be mentioned with supported leaflet/catalogue/brochure and list of buyers for
+acceptance of technical bid.
+
+The technical bid and the financial bid should be submitted through
+www.eprocure.gov.in. The technical bids shall be opened and evaluated by the
+competent committee/authority. At the second stage, financial bids of only the
+technically qualified bidders shall be opened for further evaluation and
+recommendations for awarding the purchase order/contract.
+
+It may specifically be mentioned whether quotation is strictly as per terms and
+conditions of the tender. Deviation, if any, must be spelt out specifically in
+technical bid. In the absence of this, the quotation may be rejected.
+
+Installation & Commissioning: Within 15 (fifteen) days after delivery (if
+applicable).
+
+The Quantity of each Item(s)/Equipment(s) may increase (as per Govt. Norms)
+or decrease at the time of issued of Purchase / Supply / Work Order. The
+Institute reserves right to purchase partly or not to purchase any item / cancel
+the entire process at any stage of procurement process.
+
+Penalty: Penalty will be charged @ 0.5 % of per week or part thereof except for
+force majeure conditions for the unexecuted part of the supply/work order.
+
+Arbitration: All disputes should be attempted to be resolve mutually between the
+National Institute of Technology, Agartala and the suppliers failing which
+jurisdiction of any Court of Agartala shall be applicable.
+
+The successful bidder has to give at least 3-4 days on site training for each &
+every items/equipments by Certified Person (if required).
+
+Model No. of the product should be given with catalogue (if any).
+Items/Goods should be sent through Registered Transporter (preferably).
+Bidders are required to upload a declaration on letter head stating that the
+
+bidder has not been _ black-listed & holiday’ listed by any
+Ministry/Department/Organization. a
+
+
+--- Page 11 ---
+ 
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+3.13
+
+3.14
+
+3.15
+
+3.16
+
+10|Page
+
+Bidder(s) is/are required to upload a_ self-certificate as per
+applicability (Annexure- E or F) regarding offered item(s) as per Office
+Memorandum No. 6/18/2019-PPD dated 23-07-2022 & 24-07-2020
+and Office Memorandum No. F.18/37/2020-PPD dated 8" February,
+2021 issued by Department of Expenditure, Procurement Policy
+Division, Ministry of Finance, Govt. of India.
+
+Bidders are requested to provide valid e-mail ID and phone number for further
+communication.
+
+Bank A/C in the Exact Name of Bidder/Firm/Supplier with Name, A/C No., IFSC
+code must be furnished with technical bid.
+
+Bidder has to submit annual turnover not less than 5 lakhs per year with
+technical bid for last 3 (three) years. Bidder also has to submit OEM turnover
+not less than 40 lakhs per year for last 3(three) years (if bidder is not OEM).
+
+If bidder itself OEM, has to be submit turnover not less than 40 lakhs per year
+for last 3 (three) years with technical bid.
+
+Yours, sincerely,
+
+{hy —
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+
+--- Page 12 ---
+       
+    
+    
+
+Communication Theory and Telemetry Laboratory Instruments
+With Required Specifications
+
+                                      
+
+    
+
+Quantity
+
+Item Description ;
+required
+
+(As per specification below or better)
+
+   
+
+Range of experiments
+
+                          
+
+Sampling & Reconstruction
+eCrystal Frequency : 8MHz(+10%)
+eSampling Frequency : 20,50, 80, 100, 200 & 400 KHz (switch
+selectable)
+
+eOn-board Generator : Synchronized 1 KHz sine wave (5V)
+eDuty cycle: pp 0 - 90% in Decade steps (switch selectable)
+eLow Pass Filters : 2 & 4 order Butterworth filters
+
+eCut-off frequency : 3.4 KHz each (+10%)
+
+eTest Point : 40 nos.
+
+e|nterconnections : 2 mm sockets
+
+Power Consumption : 3 VA (approximately)
+
+eMains Supply : 110-220 V, 10%, 50 Hz
+
+eOperating Conditions : 15-45 C, 85% RH
+
+Included Accessories
+
+2mm Patch cord 16" : 11 nos or more
+
+ePower Supply : 1 no.
+
+Power cord : 1 no.
+
+Study of signal Sampling and Reconstruction
+techniques.
+eStudy the effect of Il order and IV order LPF on
+reconstructed signal.
+
+°Study the effect of Sample Amplifier and Sample
+and Hold Amplifier on reconstructed signal.
+eStudy the Nyquist Criteria for Sampling and
+Reconstructing signal.
+
+eStudy the effect of Sample /Hold Circuitry on
+reconstructed waveform
+
+*Effect of sampling pulse duty cycle on the
+reconstructed Waveform in sample and sample
+hold output.
+
+To study and compare responses of 2nd order
+and 4th order LPFs.
+
+eTo verify sampling and reconstruction data
+transmission scheme for
+
+a. External sampling signal
+
+b. Audio signal
+eStudy of Delta Modulation Demodulation
+°Study of Adaptive Delta Modulation and
+Demodulation
+
+Study of Delta Sigma Modulation and
+Demodulation
+
+                        
+
+                      
+
+ 
+
+  
+
+Delta, Adaptive Delta and Delta Sigma Modulation/
+Demodulation
+
+eCrystal Frequency : 7.0 MHz(+10%)
+eSampling Frequency : 50, 100, 200 & 400 KHz (switch selectable)
+¢On-board Generator : Synchronized and adjustable amplitude
+Sine wave generator (1, 2, 3 and 4 KHz) seperate variable DC level
++/-5V
+
+eintegrator : Four integrator gain settings Normal, X 2, X 4, X8
+eLow Pass Filters : Fourth order Butterworth (Cut Off Frequency 4
+
+        
+
+Annéxore€ - 6
+
+ 
+
+
+--- Page 13 ---
+                         
+
+KHz)
+eTest Point : 40 nos.
+
+elnterconnections : 2 mm sockets
+
+Power Supply: 110-220 V +10%, 50/60 Hz
+
+¢ Power Consumption : 4 VA (approximately)
+
+Included Accessories.
+
+2mm Patch cords 16” : 18 nos.or more
+
+ePower Supply& Mains cord : 1 no.
+
+Data Formatting and Carrier Modulation/ Transmitter
+Crystal Frequency : 4.0 MHz(+10%)
+
+eData formats: NRZ (L), NRZ (M), RZ, AMI, RB,Biphase
+(Manchester), Biphase (Mark).
+
+eCarrier modulation: ASK, FSK, PSK, DPSK, QPSK
+On-board carrier: Sine waves synchronized transmitted data at
+1.6 MHz,960 KHz, (0 deg. phase) 960 KHz, (90 deg. phase)
+
+eTest Point : 40 nos.
+
+elnterconnections : 2mm sockets
+
+¢Power Supply: 110-220 V +10%, 50/60 Hz
+
+ePower Consumption : 4 VA (approximately)
+Operating Conditions: 0-40 C, 85% RH
+
+elncluded Accessories
+
+2mm Patch Cord 16" : 30 nos.or more
+
+2mm Patch Cord 32" : 5nos.
+
+Mains Cord & Power Supply:1 no.
+
+Data Reformatting & Carrier Demodulation Receiver
+eCarrier Demodulation : ASK — Diode Detector, FSK — PLL
+Detector, PSK — Square Loop Detector ,QPSK — Fourth Power
+Loop Detector
+
+ePower Consumption : 6 VA (approximately)
+
+eTest Points: 35 nos
+
+einterconnections: 2 mm Sockets
+
+Power Supply : 110-220V, 50/60 Hz
+
+Operating Conditions : 0-40 C, 85% RH
+
+Included Accessories di
+
+Patch cord 16" : 34 nos.or more
+
+                              
+          
+
+ 
+
+                 
+
+ 
+
+ 
+
+                    
+
+                  
+
+eStudy of Data Formats
+°Study of Amplitude Shift Keying
+
+eStudy of Frequency Shift Keying
+
+eStudy of Phase Shift Keying
+
+eStudy of Differential Phase Shift Keying
+Study of Quadrature Phase Shift Keying
+eStudy of Differential Quadrature Phase Shift
+Keying
+
+       
+
+Modulation of
+eStudy of Data Formats
+
+Study of Amplitude Shift Keying
+
+Study of Frequency Shift Keying
+
+eStudy of Phase Shift Keying
+
+eStudy of Differential Phase Shift Keying
+eStudy of Quadrature Phase Shift Keying
+eStudy of Differential Quadrature Phase Shift
+Keying
+
+  
+
+            
+
+ 
+
+
+--- Page 14 ---
+ 
+
+ 
+
+ 
+
+Patch cord 32" : 4 nos.
+Power Supply & Mains Cord : 1 no
+
+Delta, Adaptive Delta, Sigma Delta Modulator & Demodulator
+eModulation & Demodulation
+Techniques : Delta, Adaptive Delta, Sigma Delta First order, Sigma
+Delta Second order
+
+einternal Signal Generator : Direct Digital Synthesizer
+
+Types of Signal : Sine, Square, Triangle, Arbitrary signals
+Frequency : 500Hz, 1KHz, 2KHz, 3KHz
+
+eExternal Signal :
+
+Types of Signal : Sine, Square, Triangle, Arbitrary signals
+Maximum Input Voltage: 3Vpp (Max.) +1.5V DC offset
+
+Frequency : 500Hz to 3.5KHz
+
+*SMD LED Indicators : 48 nos for DDS signal selection, DDS signal
+frequency selection, Sampling selection, Technique selection
+Interconnect path
+
+Transmission Effect : Attenuation (7dB & 10dB) Noise Filter
+Crystal Frequency : 8.OMHz (+10%)
+
+eSampling Frequencies: 16KHz, 32KHz, 64KHz, 128KHz, 256KHz
+elntegrator step : Normal & 3 times
+
+e Selection Mode : Push switches
+
+eNumber of Test Points : 40 nos .
+
+e Low Pass Filter : Cut-off frequency-5KHz
+
+¢ Digital Filter : Decimation filter (16:1)
+
+Power Supply : 110V - 260V AC, 50/60Hz
+
+*Operating Conditions : 0-40C, 85%
+
+elncluded accessories :
+
+2mm Patch cord - 10nos or more
+
+                                               
+
+  
+
+Study and analysis of delta modulation
+
+    
+
+gain control
+
+    
+
+system
+
+    
+
+problem
+Study and analysis of channel effects:
+
+(CDR) output
+
+    
+
+output
+
+                        
+
+Delta Demodulator
+
+Adaptive Delta Modulator
+KHz, 64 KHz and 128 KHz
+different sampling frequency
+different sampling frequency
+
+modulation system
+eStudy and analysis of channel effects:
+
+        
+
+(CDR) output
+Study and analysis of the Adaptive Delta
+Demodulator output
+
+      
+
+Adaptive Delta Demodulator
+
+      
+
+4-Channel TDM-PCM Transmitter and Receiver Time Division
+
+Multiplexing- Pulse Code Modulation : Pulse Code
+
+ctencina see nm eit poe
+
+*Analyze the effect of integrator by changing the
+Analyze the advantages of a delta modulation
+
+eAnalysis of slope overloading and granular noise
+
+eStudy and analysis of the Clock and Data Recovery
+eStudy and analysis of the Delta Demodulator
+eStudy and analysis of the low pass filter output of
+eStudy and analysis of sampled signal with
+following Sampling Frequency 8 KHz, 16 KHz, 32
+Study and analysis of step register output at
+eStudy and analysis of accumulator output at
+
+Analyze the advantages of Adaptive delta
+
+eStudy and analysis of the Clock and Data Recovery
+
+eStudy and analysis of the low pass filter output of
+
+* Time Division Multiplexing & Demultiplexing with
+
+                   
+
+                                  
+
+     
+
+ 
+
+
+--- Page 15 ---
+® Techniques : Two channel TDM-PCM and Four channel TDM-
+PCM
+
+e Internal Signal Generator : Four dedicated Direct Digital
+Synthesizer Generators for each channel
+
+© Types of Signal : Sine, Triangle, Arbitrary signal
+
+° Frequency : 500Hz, 1KHz, 1.5KHz, 2KHz, 3KHz
+
+e SMD LED Indicators : 50 nos for
+
+DDS signal selection,DDS signal frequency selection, Sampling
+selection, Technique selection and Interconnect path
+
+* Crystal Frequency : 8.OMHz(+10%)
+
+e Sampling Frequencies : 8KHz, 16KHz, 32KHz
+
+¢ TDM techniques based on : Bell lab system
+
+e Selection Mode : Push switches
+
+e Number of Test Points : 40 nos.
+
+e Low Pass Filter : 4nos. Cut-off frequency-5KHz (£10%)
+
+e Power Supply : 110V - 260V AC, 50/60Hz
+
+¢ Operating Conditions : 15-45 C, 85%
+
+e Includedaccessory :
+
+2mm Patch cord - 10nos or more
+
+ 
+ 
+
+OFDM Modulator and Demodulator Training System
+¢ Technique: OFDM with QPSK modulation & Demodulation
+e Software programmable data rate.
+
+* Built in real-time data acquisition system with time domain
+signal analysis.
+
+e Buit in Two channel Additive White Gaussian Noise Generator
+e | & QChannel DACs-10 bit.
+
+e Anti aliasing low pass filter with 3dB bandwidth of | & Q
+channel filter: Sallen Key 6-pole Butterworth.
+
+e Block Level LED indication on.
+
+¢ Mains Supply : 110-220 V AC, 50/60Hz .
+
+¢ Operating Conditions : 15-45 C, 80% RH.
+
+Included Accessories Li
+
+¢ Power Supply, Power Cord & Patch Cord ::1 no.
+
+e Host to Device USB cable : 1 no.
+
+ 
+
+Modulation
+
+  
+
+varying the
+
+        
+
+speed clock at
+the different channel.
+
+    
+
+at the
+different channels.
+
+              
+
+side.
+
+Demodulator side.
+¢Pulse Code Demodulation at the
+channel.
+
+  
+
+  
+
+Second order Low
+Pass Butterworth filter .
+
+      
+
+  
+
+  
+
+  
+
+mapper per channel, Cyclic prefix
+
+Pas
+
+¢ OFDM Modulator and Demodulator
+Experiment with and without noise gain. Signal
+Analysis at various stages like, Transmit data &
+Received data, IFFT & FFT, Symbol mapper & de-
+
+     
+
+e2 channel & 4 channel Time Division Multiplexing
+¢Sample & Hold output at different channel by
+
+Sampling as well as Signal frequency.
+Parallel to Serial conversion by varying the line
+
+eSingle bit PCM output at different line speed clock
+
+°Single bit multiplexed PCM output at Modulator
+
+Single bit demultiplexed PCM output at
+
+different
+
+Serial to Parallel conversion at the Demodulator.
+¢ Analyze the final demodulated output with
+
+                         
+
+& its removal.
+
+og SR
+
+                                        
+
+  
+
+                                    
+
+XK
+
+
+--- Page 16 ---
+                                  
+                      
+
+                 
+
+ 
+
+e BNC to BNC cable : 2 nos.
+
+Multiplexer / De multiplexer- Coder / Decoder
+eCrystal Frequency : 4.MHz(+10%) .
+eAnalog Input Channels : 4 nos .
+¢Digital Input Channels : 16 nos .
+On Board Analog Signals : 250 Hz, 500 Hz, 1 KHz, 2 KHz
+(Adjustable Amplitude) .
+
+°On Board Digital Outputs : 16 Square wave frequencies(1 KHz - 2
+MHz) Clock Generator 8 bit data .
+
+¢Modulation : Pulse Position Modulation.
+
+Multiplexing : Time Division Multiplexing (4 Channel Analog and
+16 Channel Digital).
+
+eCoding : Manchester Coding and Decoding.
+
+eTest Points : 25nos.
+
+interconnections : 2mm sockets
+
+ePower Supply : 230 V, + 10%, 50 Hz / 60 Hz
+
+ePower Consumption : 2 VA(approximately )
+
+eilncluded Accessories
+
+Patch cord 16" (2mm) : 10 nos.or more
+
+Mains cord : 1 no.
+Understanding Block Code Encoder
+Crystal Frequency : 10 MHz (410%)
+eWord Length : 4 bits
+
+eCodeword Length : 7 bits code
+eData Format : NRZ
+e|nterconnections : 2 mm sockets
+eTest points : 4 nos
+
+ePower Supply : 110-220 V £10%, 50/60 Hz
+¢Operating Conditions : 15-45 C, 80% RH
+einternal Power supply : +5V DC
+
+elncluded Accessories :
+
+Patch cord 8" : 10 nos. or more
+
+Power supply : 2 nos.
+
+Mains cord : 2 nos
+Understanding Block Code Decoder
+
+                
+
+e Study of 4-channel Time Division Multiplexing
+e Study of 4-channel Time Division Demultiplexing
+e Study of 16-channel Time Division Multiplexing
+and Demultiplexing
+
+¢ Study of Pulse Position
+Modulation/Demodulation
+
+Study of Manchester Coding and Decoding
+
+                  
+
+      
+
+Study of Hamming Code (7,4)-bit Generation
+eStudy of Hamming Code (Encoding ) without bit
+error
+
+Study of Hamming Code (Encoding ) of BCD bit
+sequence in manual mode.
+
+Study of Hamming Code (7,4)-bit Generation
+Without error
+
+With single bit error
+
+With double bit error
+
+            
+
+      
+
+   
+
+1
+
+   
+
+eStudy of Hamming Code ( Decoding) without bit
+
+PAys wWKa, Kary Laster
+
+
+--- Page 17 ---
+ 
+
+           
+
+ 
+
+      
+
+  
+
+eCrystal Frequency : 10 MHz (+10%)
+eWord Length : 4 bits
+eCodeword Length : 7 bits code
+¢Data Format : NRZ (Not Return to Zero)
+e|nterconnections : 2 mm sockets (Gold plated)
+eTest points : 5 nos
+*Power Supply : 110-220 V +10%, 50/60 Hz
+*Operating Conditions : 15-45 C, 80% RH
+e|nternal Power supply : +5V DC
+elncluded Accessories :
+Patch cord 8" : 12 nos. or more
+Power supply : 2 nos.
+Mains cord : 2 nos
+TDM Pulse Amplitude Modulation Demodulation
+eCrystal Frequency : 8 MHz (+10%)
+¢Analog Input Channels : 4 channels
+eMultiplexing : Time Division Multiplexing
+eModulation : Pulse Amplitude Modulation
+°On Board Analog Signal : 500 Hz, 1 KHz, 2 KHz and 4 KHz (Sine
+wave synchronized to sampling pulse) Adjustable amplitude and
+separate variable DC level)
+
+eSampling Rate : Four sampling signals 32, 40, 50 & 80 KHz/
+channel (switch selectable)
+
+Sampling Pulse : With duty cycle variable from 0-90% in decade
+steps.
+
+Clock Regen. at Receiver: Using PLL
+
+eTest points : 50 nos.
+
+interconnections : 2 mm Sockets
+
+Mains Supply : 110-220V, 50Hz/60 Hz
+
+¢Operating Conditions : 15-45 C, 85% RH
+
+Included Accessories
+
+2mm Patch cord 16"-10 nos. or more
+Power Supply - 1 no Mains cord - 1 no.
+TDM Pulse Code Modulation Transmitter...
+eCrystal Frequency : 15 MHz (+10%)
+
+error
+Study of Hamming Code ( Decoding) of BCD bit
+sequence in manual mode.
+
+eStudy of Hamming Code (7,4)-bit Generation
+Without error
+
+With single bit error
+
+With double bit error
+
+        
+
+ 
+
+    
+
+               
+          
+
+                
+
+          
+
+¢ Pulse Amplitude Modulation technique
+e Time Division Multiplexing and Demultiplexing
+
+e Three modes of operation between transmitter
+and receiver
+
+e PLL as Frequency Multiplier to generate clock
+from sync signal
+
+e Effect of different sampling frequencies on TDM-
+PAM & demodulation technique
+
+e Effect of varying duty cycle of sampling pulse on
+signal reconstruction
+
+             
+
+          
+
+      
+
+    
+
+eStudy of synchronization and control signals
+eStudy the switching delay and its control
+
+
+--- Page 18 ---
+                              
+
+ 
+
+                   
+
+eOn Board Analog Signal : 2 KHz, 4 KHz (Sine wave synchronized
+to sampling pulse Adjustable amplitude and separate variable DC
+level)
+elnput Channels : 2 nos.
+¢Multiplexing : Time Division Multiplexing
+e Modulation : Pulse Code Modulation
+Sync Signal : Pseudo Random Sync Code Generator
+eError Check Code : Off - Odd - Even - Hamming
+eOperating Mode : Fast : 240 KHz / channel approximately
+eSlow : 1.9 Hz / channel approximately
+eTest Points : 45 nos
+e|nterconnections : 2 mm Sockets
+eBaud rate: Selectable from 300 to 2400
+Power Supply : 110-220 V, +10%, 50 /60 Hz
+¢ Operating Conditions : 15-45 C, 85% RH
+ePower Consumption : 4 VA approximately
+elncluded Accessories
+2mm Patch cords 16” - 10 nos or more
+Power Supply & Mains cord - 1 no
+TDM Pulse Code Modulation Receiver
+eInput Channel : Time Division Multiplexed Serial Input
+eDemodulation : Pulse Code Demodulation
+Clock Regeneration : By Phase Locked loop
+* Operating Speeds : Fast - 320 KHz/Channel, Slow 1.9 Hz /
+Channel approximately
+eError Detection (Single bit): Off-Odd- Even parity & Hamming
+code
+eError Correction : Hamming code
+eTest Points : 45 nos.
+e Interconnections : 2 mm sockets
+Baud rate: Selectable from 300 to 2400
+Power Supply : 110-220 V 10%, 50/60 Hz
+° Operating Conditions : 15-45 C, 85% RH
+¢Power Consumption : 4 VA (approximately
+eincluded Accessories ‘
+2mm Patch cords 16" : 10 nos. or more
+
+Study the importance of frame synchronization
+signal in receiving the correct output at correct
+output channel
+
+eStudy of extraction of Sync Pulses from the TDM
+samples Study the working of the Phase Lock
+Loop
+
+eStudy of complete TDM-PAM System and the over
+all effect of the individual parameter/ mode on the
+communication system
+
+eStudy the working of a TDM-PAM Transmitter and
+receiver
+
+Study the working of a TDM-PAM Transmitter and
+receiver
+
+Study the working of a TDM-PAM Transmitter and
+Receiver at one Channel Communication
+
+                 
+
+ 
+
+                
+                 
+   
+
+                                  
+
+                         
+
+einput Channel : Time Division Multiplexed Serial
+Input
+
+eDemodulation : Pulse Code Demodulation
+Clock Regeneration : By Phase Locked loop
+*Operating Speeds : Fast - 320 KHz/Channel, Slow
+1.9 Hz / Channel approximately
+
+eError Detection (Single bit): Off-Odd- Even parity
+& Hamming code
+
+eError Correction : Hamming code
+
+eTest Points : 45 nos.
+
+¢ Interconnections : 2 mm sockets
+
+eBaud rate: Selectable from 300 to 2400
+
+Power Supply : 110-220 V +10%, 50/60 Hz
+
+“e Operating Conditions : 15-45 C, 85% RH
+
+ePower Consumption : 4 VA (approximately)
+eincluded Accessories
+
+2mm Patch cords 16" : 10 nos. or more
+
+ 
+
+           
+
+          
+
+         
+
+Ps
+
+
+--- Page 19 ---
+ 
+
+                                     
+
+Petes Power Supply & Mains cord : 1 no.
+
+e Pulse Modulation Techniques
+
+e Pulse Amplitude Modulation
+
+e Pulse Width Modulation
+
+e Pulse Position Modulation
+
+e On-board Sampling : 8 KHz, 16 KHz
+Frequencies (pulse) : 32 KHz, 64 KHz
+On-board Generator
+
+eSquarewave : 1KHz & 2 KHz
+e Low Pass Filter : 4 order BW filter
+
+¢ DC Output : 0-4 V (variable)
+
+e Test Points : 25 nos
+
+* Operating Conditions : 15-45 C, 85% RH
+e|lncluded Accessories
+
+Patch cord 16" : 10 nos. or more
+
+Main cord : 1 no.
+
+Head phone: 1 no.
+
+Microphone: 1 no.
+
+      
+
+PAM-PPM-PWM Modulation & Demodulation
+
+e Study of PPM using DC Input
+e Study of PPM using Sine wave Input
+Study of PPM Demodulation
+
+eStudy of PWM using different Sampling
+Frequency
+
+e Study of Pulse Width Demodulation
+
+e Study of Voice Link Using Pulse Amplitude
+Modulation
+
+Study of Voice Link using Pulse Position
+Modulation
+
+Study of Voice Communication using Pulse Width
+Modulation
+
+e Sinewave : 1 KHz & 2 KHz (Gain adjustable)
+
+e Voice communication : Voice link using dynamic MIC & speaker
+¢ AC Amplifier : With adjustable Gain Control
+
+e Interconnections : 2mm banana sockets
+
+e Power Consumption : 3 VA (approximately)
+*Mains Supply : 110V - 260V AC, 50/60Hz
+
+ 
+
+Note:
+
+   
+
+The required specifications should be according to the above mentioned or better.
+
+ 
+
+ 
+
+Power Supply & Mains cord : 1 no.
+
+e Study of Pulse Amplitude Modulation using
+Natural & Flat top Sampling
+
+e Study of PAM using Sample & Hold sampling
+e Study of Pulse Amplitude Modulation &
+Demodulation with Sample, Sample & Hold & Flat
+
+°
+
+    
+
+nn
+
+                        
+
+                   
+      
+
+Rey Laws
+
+YA
+
+
+--- Page 20 ---
+USI Wer! FA SEMA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+ANNEXURE — B
+
+PRICE BID
+
+As per BOQ
+
+12|Page
+
+
+--- Page 21 ---
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: /
+ANNEXURE - C
+
+Documents for Comprising the Bid
+
+TENDER REQUIREMENT COMPLIANCE | Document
+Submitted
+Name of the Firm / Agency / Dealer / Supplier with full Yes / No Yes / NA
+address including contact number and email id etc.
+Trade License issued by Government / Statutory Body or
+Company Registration on the item(s) related to this tender. | Yes/No | Yes/NA
+
+GST Registration of the Supplier/Firm/Bidder Yes / No
+
+PAN Registration of the Supplier/Firm/Bidder Yes / No
+
+Financial Solvency issued by Bank(as per RBI guidelines) saa pai
+(in case of estimated cost is Rs.25.00 lakhs and above). —e my
+
+Up to date GST return / any other tax clearance certificate.
+(last filed GST return, GSTR 9 and 9B) Yeu 3 eee
+
+ 
+
+        
+    
+
+ 
+
+7 Annual Turnover Yes / No
+Up to date Income Tax Return (Last filled ITR) Yes / No
+“Bid Security Declaration form” on Company Letter Head
+
+Y N ¥i NA
+Scanned copy to be uploaded along with Technical bid). =“ eae
+
+10 Service Support details (if applicable) Yes / No
+Certification of holiday and non-black listing (Self You {Ma
+Certification
+
+  
+   
+ 
+
+  
+
+Certification as per memorandum No. F.18/37/2020-PPD
+dated 8th February 2021, Dept. of Expenditure, Ministry of
+
+Yes / No Yes / NA
+Finance, Govt. of India (Self Certification
+Proprietary Certificate from OEM to be uploaded along Yes /N Yes / NA
+with the Technical Bid in case of Proprietary items re a
+Manufacturers Authorization Form (MAF) (if applicable) Yes / No
+Certificate under MSME, NSIC, Make-in-India & Startup as
+s e Y N Y NA
+per Govt. of India Norms (if applicable). i
+Experience, if any, with govt. sector /Public Undertaking
+/Private sector (if applicable) (May be relaxed for MSME,| Yes/No Yes / NA
+NSIC & Startup as per Govt. of India Norm
+47 Any other criteria related to this tender. Yes / No
+Supplier/Firm/Bidder should accept all Terms &
+Conditions and specification of the items given in the
+(Signature of the bidder)
+
+re
+N
+
+pb
+
+13
+14
+15
+
+       
+
+   
+     
+
+bE
+(ee)
+
+nay
+
+Yes / No
+
+Tender Document.
+
+TSA Welt FM SERNA
+
+/2024
+
+
+--- Page 22 ---
+USS WENT GAT SETA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+ee en
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+Annexure-D
+
+Bid Securing Declaration Form
+
+DAE, cc nicds osaesSieweuabveed dauke Tender Ref. No: ..............0eeeeeeeees Pender dD: ciiscisiiesteaveotocs
+
+To (insert complete name and address of the purchaser)
+I/We. The undersigned, declare that:
+
+I/We understand that, according to your conditions, bids must be supported by a Bid Securing
+Declaration.
+
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period of one
+year from the date of notification if I am /We are in a breach of any obligation under the bid conditions,
+because I/We
+
+a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid during the
+period of bid validity specified in the form of Bid; or
+
+b) having been notified of the acceptance of our Bid by the purchaser during the period of bid validity
+(i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish the Performance
+Security, in accordance with the Instructions to Bidders.
+
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the successful
+Bidder, upon the earlier of (i) the receipt of your notification of the name of the successful Bidder; or
+(ii) thirty days after the expiration of the validity of my/our Bid.
+
+Signed: (insert signature of person whose name and capacity are shown)
+
+in the capacity of (insert legal capacity of person signing the Bid Securing Declaration)
+
+Name: (insert complete name of person signing he Bid Securing Declaration)
+
+Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder)
+
+Dated on day of (insert date of signing)
+
+Corporate Seal (where appropriate)
+
+(Note: In case of a Joint Venture, the Bid Securing Declaration must be in the name of all partners to
+the Joint Venture that submits the bid)
+
+14|Page
+
+
+--- Page 23 ---
+TST WIP GA SPAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+a nee Sy ua SEE 7-9 es
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+Annexure-E
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017.
+
+eee Se eee
+eee ee ot oe ee
+
+a hdc docs 1p piso vas bn deg wanda ta ngage (name of the bidder company) have
+read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Public procurement no 1,2 & 3 vide ref. F.No.6/18/2019-
+PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder
+of a country that shares a land border with India.
+
+We hereby certify that we are not from such a country and eligible to be considered for
+this tender.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment, (if any),
+by any bidder(s) shall lead to commercial rejection of their bids by NIT-Agartala)
+
+Pot BO DOHA OF sis iv he ses este en basen (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+15|Page
+
+
+--- Page 24 ---
+USA Wealhial Fa SERA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+Sa ee
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+Annexure-F
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017.
+
+eee cS ee
+Pag ee ee ee
+
+BN a) sy gc w dis ek Daal 9G acd > pac en (name of the bidder company) have
+read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Public procurement no 1,2 & 3 vide ref. F.No.6/18/2019-
+PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder
+of a country that shares a land border with India.
+
+We are from such a country which shares a land border with India & have been
+registered with the Competent Authority as specified in the above-said order. We hereby
+certify that we fulfill all requirements in this regard and are eligible to be considered.
+
+Evidence of valid registration by the Competent Authority is attached.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment, (if any),
+by any bidder(s) shall lead to commercial rejection of their bids by NIT-Agartala)
+
+FE IE OIE estes hos neue aso ce ses biscnn aes nas (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+16|Page
+
+
+--- Page 25 ---
+Usa WNT AA SETA
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+Se il salen ieee pee Lsapnbniiniamiiinbtoosrnnacasepalaliennei ile seieeimasaiaaal
+No.F.NITA.39(44-ElE)/Purchase/CTT_Lab/2024/ Date: / /2024
+Annexure -G
+
+Self-Certification on the letterhead of the compan
+
+ 
+
+In line with Government Public Procurement Order No. P-45021/2/2017-BE-II dt.
+15.06.2017, P-45021/2/2017-PP (BE-ID) dated 28.05.2018, P-45021/2/2017-PP (BE-II)
+dated 29.05.2019 and P-45021/2/2017-PP (BE-II) dated 16.09.2020,
+
+We hereby certify that .............cccccscesescsceceseseereneesonseesess (Supplier name) are
+local supplier meeting requirement of minimum local content..................::06++ %
+defined in as above orders for the material against Enquiry / Tender No
+rcp len gk ba beeing hee USRES Te ab a sWaiva tin ote ef? <a csaes nates GORI «1 5c) aveinnsnabldcecresevieneress
+
+©1016 016 6 6. 0.0:0 6 06 0 6 6 010 60 6.00 00 00 00:6 6:6 0.0 F006 6066 0 010 O10 0.616 06 OO0 6:6 HED EEHCEKREC COREE EEE ODE SRO ROSS SCL SS Hee RE OT ESIC OO
+0 0.0 Oe 6 Oe 06 6 OS CE COM OHS E SS SMSC SECS SESS SEHSHHEHHSHM SHES EEC ESOTEHE ESCO SCOEHHEEHEE DSO C OCHO ROE SAHA TOKO CCE RCTS Be
+Cee eee eee deere cee eH SEH HEHSHSEH SHEE EHEHEEEEHOOHHHO HEHEHE ES ESE HH EHHEHECT HSH S ELE LESH SES HS EO OHH OSES EE EES OREO
+
+eee e reer ee reese reeeeeeseseseesesreseseeeesesessesseseses
+
+We also understand false declarations will be in breach of the Code of Integrity under
+Rule 175(1)(i)(h) of the General Financial Rules for which a bidder or its successors can
+be debarred for up to two years as per Rule 151 (iii) of the General Financial Rules along
+with such other actions as may be permitted under law.
+
+Date: Signature:
+
+Place: Name and Designation:
+Mobile no:
+Office Telephone No:
+
+Email ID: Office Seal
+
+17|Pa
+
+2
+
+t
+
+
+--- Page 26 ---
+TST Ware PAM SEAT
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+No.F.NITA.39(44-EIE)/Purchase/CTT_Lab/2024/ Date: / /2024
+
+Annexure -H
+
+NON BLACKLISTING SELF CERTIFICATE
+
+ 
+
+[To be submitted on letterhead]
+
+I/We hereby certify that the ------------------------------------------=" [Name of the company
+/ firm] has not been ever blacklisted/debarred by any Central / State Government / Public
+Undertaking / University / Institute on any account.
+
+I/We also certify that firm will provide material as per the specification given by NIT
+Agartala and also abide all the terms and conditions stipulated in the bid document.
+
+I/We also certify that the information given in bid is true and correct in all aspects and in
+any case at a later date it is found that any details provided are false and incorrect,
+contract given to the concerned firm or participation may be summarily terminated at
+
+any stage, the firm will be blacklisted and NIT Agartala may impose any action as per
+the rules.
+
+Date : Name:
+Place :
+
+Business Address:
+
+Signature of Service Provider:
+
+Seal of the Service Provider:
+

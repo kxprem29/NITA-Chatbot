@@ -1,0 +1,298 @@
+
+--- Page 1 ---
+GUIDELINES FOR PREPARATION OF THESES/
+DISSERTATIONS/ REPORTS
+PREAMBLE
+While utmost attention must be paid to the contents of the thesis/ dissertation/ report
+(here-in-after called the 'thesis'), which is being submitted in partial fulfillment of the
+requirements of the respective degree, it is imperative that a standard format be prescribed.
+Write up of the thesis may be prepared either in M.S. word or Latex. The same format shall
+also be followed in preparation of the final soft copies to be submitted to the Library in
+future.
+1. ORGANIZATION OF THE THESIS/ DISSERTATION/
+REPORT
+This thesis shall be presented in a number of chapters, starting with Introduction and
+ending with Summary and Conclusions. Each of the other chapters will have a precise title
+reflecting the contents of the chapter. A chapter can be subdivided into sections, subsections
+and subsubsection so as to present the content discretely and with due emphasis.
+1.1. Introduction
+The title of Chapter 1 shall be Introduction. It shall justify and highlight the problem
+posed, define the topic and explain the aim and scope of the work presented in the thesis on
+the basis of the literatures cited. It may also highlight the significant contributions from the
+investigation.
+1.2. Report on Present Investigation
+The reporting on the investigation shall be presented in the next chapters with
+appropriate chapter titles.
+1
+
+--- Page 2 ---
+ Due importance shall be given to experimental setups, procedures adopted,
+techniques developed, methodologies developed and adopted.
+ While important derivations/formulae should normally be presented in the text of
+these chapters, extensive and long treatments, copious details and tedious
+information, detailed results in tabular and graphical forms may be presented in
+Appendices. Representative data in table and figures may, however, be included in
+appropriate chapters.
+ Figures and tables should be presented immediately following their first mention in
+the text. Short tables and figures (say, less than half the writing area of the page)
+should be presented within the text, while large table and figures may be presented on
+separate pages.
+ Equations should form separate lines with appropriate paragraph separation above
+and below the equation line, with equation numbers flushed to the right. Equation
+number of all the Equation should be chapter wise. The number of Equations should
+follow right alignment.
+1.3. Results and Discussions
+This shall form the penultimate chapter of the thesis and shall include a thorough
+evaluation of the investigation carried out and bring out the contributions from the study. The
+discussion shall logically lead to inferences and conclusions as well as scope for possible
+further future work.
+1.4. Summary and Conclusions
+This will be the final chapter of the thesis. A brief report of the work carried out shall
+form the first part of the Chapter. Conclusions derived from the logical analysis presented in
+the Results and Discussions Chapter shall be presented and clearly enumerated, each point
+stated separately. Scope for future work should be stated lucidly in the last part of the
+chapter.
+2
+
+--- Page 3 ---
+1.5. Appendix
+Detailed information, lengthy derivations, raw experimental observations etc. are to
+be presented in the separate appendices, which shall be numbered in Roman Capitals (e.g.
+“Appendix IV”).
+1.6. Literature Cited
+The list of references should appear at the end of each chapter with references listed
+either alphabetically or sequentially as they appear in the text of the thesis. If pertinent works
+have been consulted but not specifically cited, they should be listed as Bibliography or
+General References. Spacing and font size should be consistent inside a single reference, and
+there should be double spacing between two different references. The font size and line
+spacing of each reference shall follow the format of original write-up. The reference format
+of different category of references are given next page:
+Reference Format
+For referencing an article in a scientific journal and conference proceedings, the
+suggested format should contain the following information: authors, year, (and/ or) title and
+name of journal, volume number and page numbers.
+For referencing an article published in a book, the suggested format should contain
+authors, year, the title of the book, editors, publisher along with ISBN No., page number of
+the article in the book being referred to.
+For referencing a thesis the suggested format should contain, author, submitted or
+awarded year, the title of thesis, name of the organization where the thesis was submitted.
+A few examples of formats of references are given below and the student should be
+consistent in following the style.
+i. Journals
+Exner, H. E. (1979), “Physical and Chemical Nature of Cemented Carbides”, International
+Metals Review, v. 24, pp. 149-173.
+3
+
+--- Page 4 ---
+Or
+Exner, H. E. (1979), International Metals Review, v. 24, pp. 149-173.
+ii. Conference Proceedings
+Fischmeister, H. F. (1982), “Development and Present Status of the Science and Technology
+of Hard Materials”, Science of Hard Materials, Plenum Press, New York, NY, USA, pp. 1-
+45.
+Or
+Fischmeister, H. F. (1982), Science of Hard Materials, Plenum Press, New York, NY, USA,
+pp. 1-45.
+iii. Books
+German, R. M. (1990), “Powder Injection Molding”, Metal Powder Industries Federation,
+Princeton, N. J., USA.
+iv. Thesis
+Johnson, J. L. (1994), “Densification, Microstructural Evolution, and Thermal Properties of
+Liquid Phase Sintered Composites”, Ph.D. Thesis, the Pennsylvania State University,
+University Park, PA, USA.
+v. Technical Reports
+Zukas, E. G., Rogers, P. S. Z. and Rogers, R. S. (1976), “Experimental Evidence for
+Spheroid Growth Mechanisms in the Liquid Phase Sintered Tungsten Based Composites”,
+Informal Report: Los Alamos Scientific laboratory, USA, pp. 1-35.
+vi. Patents
+Oenning V. and Clark, I. S. R. (1991), U. S. Patent No. 4988386.
+4
+
+--- Page 5 ---
+vii. Journals in Non-English Language
+Weihong L. and Xiuren, T. (1988), “Tungsten Matrix in Cu-W Contact Materials by
+Impregnation Process,” Powder Metallurgy Technology, v. 6, n. 8, pp. 1- 4 (in Chinese).
+Or
+Weihong L. and Xiuren, T. (1988), Powder Metallurgy Technology, v. 6, n. 8, pp. 1- 4 (in
+Chinese).
+1.7. Publications by the Candidate
+Articles, technical notes etc. on the topic of the thesis published by the candidate may be
+separately listed after the LAST CHAPTER. This may also be included in the contents.
+2. THESIS FORMAT
+2.1. Paper
+2.1.1. Quality
+The thesis shall be printed/ Xeroxed on white bond paper, whiteness 95% or above,
+weight 70 gram or more per square meter.
+2.1.2. Size
+The size of the paper shall be standard A 4; height 297 mm, width 210 mm.
+2.1.3. Type Setting, Text Processing and Printing
+The text shall be printed employing laser jet or Inkjet printer, the text having been
+processed using a standard text processor. The standard font shall be Times New Roman of
+12 pts with 1.5 line spacing.
+2.1.4. Left and Right Margins
+The candidates shall have to take double sided printing with mirrored left (38 mm)
+and right (25 mm) margin.
+5
+
+--- Page 6 ---
+2.1.5. Header
+The header must have the Chapter number and Section number (e.g., Chapter 2,
+Section 3) on even numbered page headers and Chapter title or Section title on the odd
+numbered page header.
+2.1.6. Paragraph format
+Vertical space between paragraphs shall be about 2.5 line spacing. The first line of
+each paragraph should normally be indented by five characters or 12mm. A candidate may,
+however, choose not to indent if (s)he has provided sufficient paragraph separation.
+A paragraph should normally comprise more than one line. A single line of a
+paragraph shall not be left at the top or bottom of a page (i.e., no windows or orphans should
+be left).
+2.2. Chapter and Section Format
+2.2.1. Chapter
+Each chapter shall begin
+ On a fresh odd number page with an additional top margin of about 75mm.
+Chapter number (in Arabic) and title shall be printed at the center of the line
+in 6mm font size (18pt) in bold face using upper case alphabets).
+ A vertical gap of about 25mm shall be left between the Chapter number and
+Chapter title lines and between chapter title line and the first paragraph.
+2.2.2. Sections and Subsections
+A chapter can be divided into Sections, Subsections and SubsubSections so as to
+present different concepts separately. Sections and subsections can be numbered using
+decimal points, e.g. 2.2 for the second section in Chapter 2 and 2.3.4 for the fourth
+Subsection in third Section of Chapter 2. Chapters, Sections and Subsections shall be
+included in the contents with page numbers flushed to the right. Further subsections need not
+be numbered or included in the contents.
+6
+
+--- Page 7 ---
+The Section and SubSection titles along with their numbers in 5 and 4mm (16 and 14
+pt) fonts, respectively, in bold face shall be flushed to the left (not centered) with 12 point
+and 6 point spacing respectively above and below these lines. In further subdivisions
+character size of 3 and 3.5 with bold face, small caps, all caps and italics may be used for the
+titles flushed left or centered. These shall not feature in the contents.
+2.2.3. Table / Figure Format
+As far as possible tables and figures should be presented in portrait style. Small size
+table and figures (less than half of writing area of a page) should be incorporated within the
+text, while larger ones may be presented on separate pages. Table and figures shall be
+numbered chapter wise.
+For example, the fourth figure in chapter 5 will bear the number Figure 5.4 or Fig 5.4.
+Table number and title will be placed above the table while the figure number and caption
+will be located below the figure. Reference for Table and Figures reproduced from elsewhere
+shall be cited in the last and separate line in the table and figure caption, e.g. (after
+McGregor[12]).
+2.2.4. Non-paper Material
+Digital or magnetic materials, such as CDs and DVDs may be included in the thesis. They
+have to be given in a closed pocket in the back cover page of the thesis. It should be borne in
+mind that their formats may become obsolete due to rapid change in technology, making it
+impossible for the Central Library to guarantee their preservation and use.
+All the non-paper materials must have a label each indicating the name of the thesis, name of
+student and the date of submission.
+7
+
+--- Page 8 ---
+3. Auxiliary Format
+3.1. Binding
+The evaluation copies of the thesis/dissertation/report may be spiral bound or soft
+bound. The final hard bound copies to be submitted after the viva-voce examination. They
+have to be hard-bounded with the following color specifications:
+Ph.D. Thesis Blue
+M.Tech. Dissertation Black
+B.Tech./M.Sc. Project Report Brown
+3.2. Front, Back and Side Covers
+The front cover shall contain the following details:
+18 to 22 point's size font (bold) properly centered and positioned at a
+distance of 25 cm from the top.
+Institute emblem of size 2” height should be placed at the centre of the front cover page.
+Name of candidate (in Italic) along with the name of Department, Institute, …… Year is
+in 12 to 16-point size, bold shall be placed at a distance of 25 cm from the bottom.
+The side cover shall contain the following details:
+ Name of degree along with name of thesis and candidates name is to be provided at the
+closed side of the bounded book.
+Sample copies of the ' Front Cover', and „Side Cover‟ are appended (Specimen 'A') and
+(Specimen 'B') respectively.
+3.2.1. Lettering in Front Cover and Side Cover
+All lettering shall be embossed in silver.
+3.3. Blank Sheets
+In addition to the white sheets (binding requirement) two white sheets shall be put at
+the beginning and the end of the thesis.
+8
+
+--- Page 9 ---
+3.4. Title Sheet
+This shall be the first printed page of the thesis and shall contain the submission
+statement: the Thesis/Dissertation/project Report submitted in partial fulfillment of the
+requirements of the Degree, Ph.D. /M.Tech./B.Tech./M.Sc., the name and Roll No. of the
+candidate, name(s) of the Supervisor and Co-supervisor (s) (if any), Department, Institute
+and year of submission.
+Sample copy of the 'Title Sheet' is appended (Specimen 'C').
+3.5. Dedication Sheet and Thought (or Idea) Sheet
+The dedication sheet and the thought (or Idea) sheet are auxiliary pages. If the
+candidate so desires (s)he may dedicate his/her thesis, which statement shall follow the title
+page. If included, this shall form the page i of the auxiliary sheets but shall not have a page
+number. If the candidate so desires (s)he may incorporate one thought (or idea) sheet which
+follow the dedication sheet.
+3.6. Approval Sheet
+In the absence of a dedication sheet this will form the first page and in that case shall
+not have a page number. Otherwise, this will bear the number two in Roman lower case “ii”
+at the center of the footer.
+The top line shall be:
+1. Thesis Approval for Ph.D.
+2. Dissertation Approval for M.Tech.,
+3. Report Approval for B.Tech., and M.Sc. Projects, as the case may be.
+The Approval Sheets are to be included only in the hard bound copies which are
+submitted after the successful Ph.D. viva voce examination.
+A sample copy of the Approval Sheet is appended (Specimen `D')
+9
+
+--- Page 10 ---
+3.7. Declaration of Academic Honesty and Integrity
+A declaration of Academic honesty and integrity is required to be included along with
+every thesis/dissertation/report after the approval sheet. The format of this declaration is
+given in Specimen `E' attached.
+3.8. Certificate
+A certificate is obtained from supervisor/supervisor (s) is to be enclosed. The format
+of this certificate is given in specimen ‘F’ attached.
+3.9. Preface, Acknowledgement and Curriculum Vitae
+Candidate should include one page preface, one or two pages acknowledgement and
+one page Curriculum Vitae. Curriculum Vitae is to be given at the last of the thesis after
+Appendices.
+3.10. Contents
+The contents shall enlist the titles of the chapters, section and subsection using
+decimal notation, as in the text, with corresponding page number against them, flushed to the
+right. The format of the contents is given in specimen ‘G’ attached.
+3.11. List of Figures and List of Tables
+Two separate lists of Figure captions and Table titles along with their numbers and
+corresponding page numbers against them shall follow the Contents. After that the list of
+symbols as used in the thesis is to be given.
+3.12. Abbreviation Notation and Nomenclature
+A complete and comprehensive list of all abbreviations, notations and nomenclature
+including Greek alphabets with subscripts and superscripts shall be provided after the list of
+tables and figures. (As far as possible, generally accepted symbols and notation should be
+used).
+10
+
+--- Page 11 ---
+3.13. Abstract
+An M Tech. thesis should contain an abstract not exceeding 300 words (about one
+page), and a Ph.D. thesis should contain an abstract/synopsis not exceeding 500 words (about
+1 ½ pages) in double spacing. The abstract shall highlight the important features of the thesis/
+dissertation/report and shall correspond to the electronic version to be submitted to the
+Library for inclusion in the website. The Abstract in the thesis, however, shall have two more
+parts, namely, the layout of the thesis giving a brief chapter wise description of the work and
+the key words.
+3.14. Copyright Notice
+The thesis has to contain copyright notice comprising of the followings:
+a. The encircled symbol “C” ©
+b. The year of the award of the degree
+c. The name of the owner of the copyright
+d. The sentence “All Rights Reserved”
+Example:
+© 2012 Anamica Das. All rights reserved
+3.15. Units
+Units used in the thesis should be SI units.
+3.16. Pagination
+Auxiliary page from dedication (if any) to abbreviations shall be numbered using
+Roman numerals in lower case.
+Page numbers for the body of the thesis should be in Arabic numerals and should be
+centered at the bottom of the pages. The pagination should start with the first page of Chapter
+1 and should continue throughout the text (including tables, figures, and appendices).
+11

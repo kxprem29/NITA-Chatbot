@@ -1,0 +1,249 @@
+```
+National Institute of Technology Agartala
+
+OFFICE OF THE DEAN ACADEMIC AFFAIRS
+
+No.F. NITA.5/(6-ACAD)/Ph.D/Admn/2025/Jan [A-18.3] Dated- 19/11/2024
+
+NOTIFICATION
+
+Sub: Notification for admission to Ph.D Programme for January – June 2025 academic session.
+
+Applications are invited from eligible candidates for admission to the Ph.D. Programme at NIT Agartala for the January – June 2025 academic session in the departments as given below:
+
+| SI. No. | DEPARTMENT             | RESEARCH AREAS                                                                                                                                                                                                                                                                                                                                                               |
+| ------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Bio Engineering        | 1) Biochemical Engineering: Strain improvement, plasmid stability, reactor stability, upstream and downstream processing, bioreactor design and analysis, process optimization and intensification, modeling and simulation of bioprocess, metabolic engineering, and scale-up. 2) Environmental Engineering: Solid and liquid waste management, environmental Modeling, waste utilization, resource recovery and circular economy. 3) Molecular cell biology and genetics: Cell Biology, Molecular Biology, rDNA technology, Drug discovery and design, Bioinformatics |
+| 2       | Chemical Engineering   | Broad Areas of Research: Environmental Engineering and Sustainability; Bioprocess and Biosystem Engineering; Chemical Energy Engineering; Advanced Separation Processes and Technology; Material Science and Technology; Fluid Dynamics and Simulation; Numerical Modeling and Simulation in Chemical Engineering (including Machine Learning and Artificial Intelligence)         |
+| 3       | Civil Engineering      | Broad area of research for Civil Engineering department will be notified soon.                                                                                                                                                                                                                                                                                              |
+| 4       | Computer Science & Engineering | 1) Networks: Service-oriented network architectures; Network protocols and performance evaluations; Software-defined networking; Wireless sensor networks; Mobile computing and cognitive radio networks; MANET, VANET, and IoT; Network threat analysis and prevention; Social sensor networks; Underwater sensor networks; Cloud computing. 2) Information Systems: Data management systems; Information storage systems; Information systems applications; World Wide Web; Information retrieval. 3) Security and Privacy: Cryptography; Formal methods and theory of security; Security services; Intrusion/anomaly detection and malware mitigation; Security in hardware; Systems security; Network security; Database and storage security; Software and application security; Human and societal aspects of security and privacy; Access control; Blockchain. 4) Computing Methodologies: Artificial intelligence; Machine learning; Modeling and simulation; Computer graphics; Distributed computing methodologies; Concurrent computing methodologies; Natural language processing; Speech processing and language technology; Knowledge representation and reasoning; Search methodologies; Philosophical/theoretical foundations of artificial intelligence; Distributed artificial intelligence; Image processing; Computer vision; Human-centered computing. 5) Applied Computing: Computational biology; Consumer health; Health care information systems; Health informatics; Bioinformatics; Electronic commerce; Enterprise computing; Computer forensics; Operations research; Document management and text processing; Emerging nanotechnology; Quantum cellular automata. |
+| 5       | Electrical Engineering | 1) Power System: Power Systems, Distributed power generation; Hybrid power system; Energy conservation; Power system planning under smart grid; Demand response; Deregulated Power system; Power Quality, Electric Vehicles, Power System Optimization. 2) Power Electronics and Drives: Power Quality, Power Electronics and Drives, Multilevel Inverter Topologies, Harmonic Elimination techniques, Modular Multilevel Converter for HVDC application, Electric Vehicle, Smart Grids, Power Electronics converter, integration of renewable energy, energy storage, multilevel converters, PWM and control. 3) Instrumentation Engineering: Opto Electronics Instrumentation; Industrial Instrumentation; Solid State Lasers; Fiber Optic Sensors; Integrated Photonic Devices; Fiber optics Communications; Laser & nonlinear optics; Surface Plasmon based sensors & Devices. 4) Integrated Energy System: Energy and Renewable Power, Distributed Power Generation, Hybrid Power System, Energy Conservation, Electric Vehicle, Smart Grids. |
+| 6       | Electronics & Communication Engineering | 1) VLSI Technology: VLSI Design and Synthesis, VLSI Fabrication & Testing, Hardware Security, Network on Chip. 2) Communication and Microwave Engineering: Wireless Communication, Wireless sensor network, 5G/6G Communication, Optical Communication, Data communication & networking, Information theory and Coding, Microwave Devices and circuits, Microwave Device fabrication, Antenna Design, Computational Electromagnetics, Microstrip antenna, Metamaterials, Smart Antenna. 3) Electronic materials and Device fabrications: Semiconductor Devices, Nano electronics, Advanced Electronics materials and devices, Opto-electronics Devices, MEMS, Photovoltaic and sensor devices, Electronic System and IC packaging, Gas Sensing Applications. 4) Signal Processing: Speech Signal Processing, Video Signal Processing, Image Processing, RADAR Signal Processing, Bio-medical signal processing, statistical signal processing. 5) Embedded System and IoT: Design of Intelligent Systems, System Security, Smart City, Robotics, Health care. 6) Sensors, Instrumentation and Control: Sensors and transducers, smart and intelligent sensors, Electronic Instrumentation, bio-instrumentation, Virtual instrumentation, impedance spectroscopy, control System. 7) Artificial Intelligence (AI) and Machine Learning (ML): Deep Learning, Reinforcement learning, Natural Language Processing, Artificial Neural Network, Computer vision, Recommender System, Bayesian and statistical machine learning. |
+| 7      | Instrumentation Engineering       | 1) Optics & Photonics: Optical Communication, Optical sensors, Optical Computing Optoelectronic Instrumentation; 2) Flexible and wearable electronics: IoT, Chemical and Bio Sensors; 3) Instrumentation and control: Sensors & transducer, Instrumentation and Measurement, Embedded system, Robotics & Control, Agricultural Electronics; 4) Biomedical Instrumentation: Medical Signal and Image Processing, Medical Instrumentation and AI in healthcare. |
+| 8       | Mechanical Engineering | 1) Fluid & Thermal Engineering: Thermal Science & Engineering, Automobile Engineering, Heat Power, Heat Transfer, Pool boiling heat transfer, Energy Materials, Fluids & Thermal Engineering, Cryogenics & Vacuum Technology, Aerospace Engineering, Computational Mechanics. 2) Manufacturing Science & Engineering: Manufacturing Technology, Production Engineering, Industrial Engineering, CAD/CAM, Advanced Manufacturing & Design, Additive Manufacturing, Mechanical Modelling & Characterization, Non Traditional Machining Process, Micro Engineering Manufacturing, Micro Machining, Metal Casting, MMC, Bio Composites, ceramic Composites, Computational welding Mechanics, Welding, Polymer/Metal Additive manufacturing, Ceramic Engineering, Application of Artificial Neural Network, Soft Computing, Metallurgy, Material Science. 3) Machine Design: Machine Design, Tribology, Fracture Mechanics, Wear &Failure Analysis, Corrosion, Finite Element Formulation and Modelling, Applied Mechanics, Vibration Analysis, Rotor Dynamics, Advanced Design System, Robotics & Mechanism. |
+| 9     | Production Engineering   | 1) Manufacturing: Foundry-Forging, Al alloy-based composite materials, Grain refinement, Manufacturing Technology, Non-traditional machining, Machining Technology, Casting, Welding. 2) Production Management & Industrial Engineering: Production & Operation Management, Financial Management, Asset management, Plant Maintenance. 3) Machine Design: Tribology of Bearings, CAD/CAM, Bio Tribology. 4) Soft Computing: Multi Criteria Decision Making (MCDM), Case Based Reasoning, Decision Making and Soft Computational Approaches. |
+| 10      | Chemistry              | 1) Organic Chemistry: Synthetic Organic Chemistry, Green Chemistry and applications. 2) Inorganic Chemistry: Synthetic Inorganic Chemistry, Organometallic Chemistry, Coordination Chemistry. 3) Physical Chemistry: Physical chemistry, Theoretical and computational Chemistry. 4) Material science and Nanoscience: Synthesis of carbon and metal nanoparticles and their applications.               |
+| 11      | Mathematics            | 1) Applied Mathematics: Operation Research; Inventory Control; Transportation Problem; Fuzzy, Uncertainty Optimization; Optimization; Multi Criteria Decision Making; Metaheuristics; Waste Recycling; Mathematical Modeling; Biomathematics; Graph Theory; Quantum Computing. 2) Pure Mathematics: Topology; Mathematics! Modelling; Biomathematics; Fuzzy Mathematics |
+| 12      | Physics                | 1) Experimental Condensed Matter Physics; Thin film; Nanotechnology, Biomedical Sensors for Noninvasive Disease Monitoring; Solar Cell, Photoelectrochemical Cell, Photodetectors, Low Dimensional Nanostructures (0D, 1D, 2D); Growth and Applications in Electronic and Optoelectronic Devices, Semiconductor Physics, Application of low dimensional materials for green energy and sustainable environment; Low-Temperature Physics - Magnetism, superconductivity, and strongly correlated materials; topological materials; thermoelectric materials; Liquid Crystals; Experimental study of Sheath Instability during Multiple Double Layer Formation in Plasma, Experimental study of Self-Organization and Nonlinear Dynamics of Space Charge Structure Formations in Plasma; Theoretical Physics, Quantum Field Theory, General Relativity, Classical Gravity, Space-time Geometry, Cosmology. |
+| 13      | Humanities & Social Sciences | 1) Management: Marketing/ General Management 2) Social Sciences: Sociology, Economics, Rural Management/ Rural Development, Commerce                                                                                                                                                                          |
+
+Minimum Qualification for admission to Ph.D programme:
+
+A) Candidates for admission to the Ph.D. program in Engineering Departments must satisfy one of the following criteria:
+
+I. Master's Degree in Engineering/ Technology or equivalent in an appropriate area with a minimum CGPA of 6.5 out of 10 point grading system or equivalent 60% of marks, from a recognized Institute or University.
+
+II. B.E./ B.Tech./ B.Pharm or similar discipline graduates, from an Institute/ University with average NIRF ranking within 100 (Engineering category) over the last 3 years, and Institutes of National Importance, with an academic record of 70% or 7.5 CGPA in a 10 point scale, can be considered for direct admission in the Ph.D. programme. Such candidates must have a valid GATE/ NET score card tenable for the year of admission.
+
+III. Master's Degree in a relevant science discipline with a good academic record and of exceptional merit are eligible for a relevant engineering discipline with a minimum CGPA of 6.5 out of 10 point grading system or more or at least 60% of marks, from a recognized Institute or University. However, for availing scholarship from MHRD (now MoE), a GATE score is mandatory.
+
+Categories of Scholars under Section- A
+
+1. Full-time with scholarship: Candidates under this category will be eligible for a fellowship as per MHRD (now MoE) Institute norms. A GATE score is a mandatory criterion for this category of scholars for making themselves eligible for receiving a scholarship during the tenure of the Ph.D.
+
+Fellowship will be awarded to the scholars who are admitted under this category subject to availability as stipulated by MHRD (now MoE). The award and/ or renewal of the fellowship will be as per the guidelines issued by MoE and the Institute, from time to time.
+
+2. Full-time self-financed scholars: Candidates selected for admission under this category will not be entitled to any scholarship from the Institute. A GATE score is not a mandatory criterion for this category. However, eligibility norms are essential as per section A(I) of this notification.
+
+*** Conversion of CGPA to percentage and vice-versa will not be allowed.
+
+B) Admission to Ph.D. programme in Science Departments must satisfy one of the following criteria:
+
+I. Master's degree in Sciences with a good academic record and with a minimum of 65% marks (or equivalent or 6.5 CGPA in a 10 point grading system) or 60% of marks (6.0 CGPA out of 10 point grading system) with a GATE score or UGC/CSIR-NET/NBHM tenable for the year of admission. Preference will be given to GATE/NET qualified candidates.
+
+II. Master's degree in Engineering/Technology or equivalent is eligible with a good academic record with a minimum CGPA of 6.5 out of 10 point grading system or equivalent or 65% of marks. Preference will be given to GATE qualified candidates.
+
+III. B.E./ B.Tech./ B.Pharm or similar discipline graduates, from an Institute/ University with average NIRF ranking within 100 (Engineering category) over the last 3 years, and Institutes of National Importance, with an academic record of 70% or 7.5 CGPA in a 10 point scale, can be considered for direct admission in the Ph.D. programme. Such candidates must have a valid GATE/ NET score card tenable for the year of admission.
+
+Candidates admitted to science departments with eligibility criteria mentioned in B (I to II) are eligible for Institute scholarship under the Full-time with scholarship category based on availability and decisions of competent authority from time to time. The award and/ or renewal of the fellowship will be as per the guidelines issued from time to time.
+
+*** Conversion of CGPA to percentage and vice-versa will not be allowed.
+
+C) Admission to Ph.D. programme in Humanities & Social Sciences under the Department of Management, Humanities & Social Sciences:
+
+Scholars for admission to the Ph.D. program in Humanities and Social Sciences (HSS) must have a Master's degree in a relevant discipline with a minimum of 65% marks or equivalent or 6.5 CGPA in a 10 point grading system or 60% or 6.0 CGPA in a 10 point scale with a UGC/CSIR-NET/NBHM tenable for the year of admission. The relevant discipline of research will include English; Economics; Commerce; Finance; Foreign Trade; Business Management; Geography; Rural Management & Development; Sociology and others as per the requirement of the Department, which will be notified from time to time. Preference will be given to NET qualified candidates.
+
+D) Admission to Ph.D. programme in Management under the Department of Management, Humanities & Social Sciences:
+
+MBA/P.G. Diploma in Management of 2-year duration with 60% marks or a CGPA of 6.5 in 10 point scale. 60% or a CGPA of 6.5 in 10 point scale (55% or 6.0 CGPA with NET) in Master's degree programme for Humanities and Social Sciences. Preference will be given to GATE / NET qualified candidates.
+
+* Candidates admitted to the MHSS Department for the Ph.D. programme under the Full-time with scholarship category will be eligible for Institute scholarship, based on availability and decisions of the competent authority from time to time. The eligibility condition for Scholarship/ Fellowship for candidates having an MBA degree is 70% marks. The award and/ or renewal of the fellowship will be as per the guidelines issued from time to time.
+
+*** Conversion of CGPA to percentage and vice-versa will not be allowed.
+
+E) Institute Employees/Research Scholars under External Registration/ Research scholars under part-time category.
+
+For Research Scholars of these categories, the minimum educational qualifications are the same as prescribed in A to D above for admission to the Ph.D. program in the respective categories. However, a GATE score or CSIR/ UGC JRF or Lectureship/ NBHM/ JMET/ CAT/ AIMA or equivalent qualification as applicable for regular full-time research scholars may not be required in these cases.
+
+*** For SC/ ST/ Physically challenged or differently abled candidates, a relaxation of 0.5 CGPA (in a 10 point scale) or 5% is allowed.
+
+F) Admission to Ph.D. programme for foreign scholars:
+
+Foreign nationals can only register as regular full-time scholars. Foreign nationals with degrees from Indian Universities will be treated at par with Indian nationals for admission purposes. Foreign nationals with foreign degrees must meet the minimum educational requirements as given in A to D above and equivalent to an Indian Master's degree in the relevant disciplines. In addition, they should have a valid GRE/ GMAT /GATE /JMET/ CAT/ XAT/ MAT/ ATMA/ UGC or CSIR/NET and a score in TOEFL/ IELTS or equivalent examination. This category of scholars are not eligible for any financial assistance from the Institute during the entire tenure of the Ph.D programme.
+
+Important note
+
+(a) Reservation policy will be followed as per Govt. of India norms.
+
+(b) Scholars admitted under Full-time self-financed, Part-time, Institute Staff, Full-time Sponsored and External Registration categories will not be eligible for any financial assistance from the Institute during the entire period of the Ph.D programme.
+
+(c) Availability of seats for January-June 2025 Academic Session:
+
+| Seat Category | OP | OBC-NCL | SC | ST | EWS | PH |
+|---------------|----|---------|----|----|-----|----|
+| Availability  | -  | -       | -  | -  | -   | -  |
+
+Instructions for Applicants (for online application)
+
+* All applicants must apply online at https://admission.nita.ac.in/
+* The portal is compatible with Mozilla Firefox. Candidates are advised to use the Mozilla Firefox browser only.
+* Candidates may apply to multiple departments. In such a case, separate registration and application fee is required for each department.
+* After registration, an Application ID (to be used as a login name) with Password will be sent to the email ID provided by the applicant.
+* Using the login credential, applicants must log in to the Admission Portal for form filling.
+* Application fees must be paid online only in the payment portal through the above-mentioned link.
+* Candidates must wait for the payment confirmation message. If not received, email nitmisagt@gmail.com.
+* After completion and submission of the online form, the filled-in form in PDF format will be generated.
+* On the day of the online test, the provisionally shortlisted candidates should bring a printed copy of the online filled-in form along with all the originals of the necessary documents (to support all educational qualifications, date of birth, category, GATE/NET score, etc.) and a set of photocopies of all such documents, duly self-attested.
+
+Documents to be uploaded (Scanned Original) in respective fields in the portal: (Documents having multiple pages are to be scanned into a single pdf and then uploaded)
+
+1.  Proof of date of birth.
+2.  Photo id proof, as per guidelines of GoI.
+3.  Mark sheet(s) of all semesters of Bachelor’s degree.
+4.  Marksheets of all semesters of Master’s Degree.
+5.  Pass Certificate of Master’s Degree.
+6.  GATE/ NET etc. score card (if and whichever applicable). Fellowship will not be considered if the required score card is not uploaded under applicable categories mentioned above.
+7.  Migration Certificate issued by the Institution last attended.
+8.  Conduct/Character Certificate issued by the Institution last attended.
+9.  Recent color photograph as per specifications (strictly formal photograph, preferably white/sky blue background).
+10. Proof of publication along with details in Annexure-A (if any). A maximum of 15 marks will be considered based on the indexing of the paper.
+11. SC/ST/PwD/OBC-NCL/EWS certificate (if and whichever applicable). The OBC-NCL/ EWS certificate must be issued by the Competent Authority on or after 01/04/2024. Admission under the PwD category will be based on the recommendation of the Medical Board of NIT Agartala.
+
+Important Note:
+
+*   Migration Certificate and Conduct/ Character Certificate are mandatory during provisional admission.
+*   Full-time Sponsored and Part-time candidates including Institute Staff must submit Sponsorship and No-Objection certificates, as the case may be, in the prescribed format, without which there will be no admission (formats attached).
+*   Candidates should apply for the Ph.D. program through online mode only. The requisite non-refundable application fee to the extent of Rs. 500/- for OP/OBC-NCL/EWS candidates and Rs. 300/- for SC/ST/PwD candidates has to be submitted online in the payment portal only. Offline hand-written, or printed applications will not be entertained.
+*   Incomplete applications will be summarily rejected. Applications may be rejected if the requisite documents (clearly visible) as mentioned above are not uploaded.
+*   The Admission category (Full-time with scholarship, Full-time self-financed, Part-time scholar, etc. categories) for which a candidate is willing to take admission into the Ph.D. programme mentioned in the application form may not be allowed to change/ convert to any other category at a later stage of selection, once the final submission of the online application is submitted.
+*   NIT Agartala will not be responsible for any failure on the part of the candidates in making payment of the application fee online or any other reasons.
+
+Selection Procedure:
+
+On submission of the online application, the candidates fulfilling eligibility conditions as per section A to D may be provisionally short-listed by the respective department. The provisionally short-listed candidates will be required to appear for the online test (30 marks) to be conducted by the Institute. The online test will comprise MCQ-type questions, covering the UG level and PG level (specialization-wise). Candidates qualifying for the online test will be allowed to appear for the interview. Provisional selection may be made strictly based on the academic performance of the candidates, publication, and availability of seats.
+
+*   Admission and Academic fees will be displayed on the Institute website at an appropriate time.
+*   For all hostel-related matters, candidates may contact the Office of the Chief Warden.
+
+Important Dates
+
+| SL. no. | EVENT                                                        | DATE           | DAY        |
+|---------|--------------------------------------------------------------|----------------|------------|
+| 1       | Start of online application with fee payment                 | 18/11/2024     | Monday     |
+| 2       | Last date of online payment (non-refundable)                  | 02/12/2024     | Monday     |
+| 3       | Last date for submission of online application                 | 04/12/2024     | Wednesday  |
+| 4       | Publication of short-listed candidates for written / online test | 06/12/2024     | Friday     |
+| 5       | Written/online Test and/or Interview                        | 13/12/2024     | Friday     |
+| 6       | Publication of short-listed candidates for provisional admission (Tentatively) | 20/12/2024     | Friday     |
+| 7       | Payment of seat confirmation fee                             | 27/12/2024 to 05/01/2025 | Friday to Sunday |
+| 8       | Provisional admission on Physical or Online Mode (reporting time between 9.30 am to 12.30 pm) (except holiday) | 06/01/2025 to 08/01/2025 | Monday to Wednesday |
+| 9       | Commencement of classes (Tentatively)                        | 09/01/2025     | Thursday   |
+
+*   No request for extension/ change of dates and modes will be entertained.
+
+NB- Full-time Sponsored and Part-time candidates including institute staff must submit Sponsorship and No-Objection certificates as the case may be in the prescribed format without which there will be no admission.
+
+GENERAL TERMS AND CONDITIONS:
+
+1.  Seats may be increased or decreased with the approval of the Authority.
+2.  The Institute reserves the right to cancel the candidature without assigning any reason thereof.
+3.  The prescribed qualifications are minimum and mere possession of the same does not entitle candidates to be called for a written test and/ or interview.
+4.  Candidates must produce all original documents during verification, as per the date notified by NITA.
+5.  Candidates facing any issues regarding filling online application or payment of fees may write to help.phdadmnnita@gmail.com. The email id will remain activated till the completion of the Ph. D admission process. For any technical issues, candidates may also write to nitmisagt@gmail.com.
+
+** Candidates are advised to visit the Institute website regularly for any updates.
+
+This is issued with the approval of Competent Authority.
+
+(Prof. Vat. S Engha)
+
+Dean (Academic)
+
+Copy to:
+
+1.  PS to the Director, NITA for kind information of the Director.
+2.  All Deans, for kind information.
+3.  The Registrar, NITA, for kind information.
+4.  All Head of Academic Departments, for kind information and necessary action.
+5.  Faculty In-charge, MIS, for kind information and necessary action.
+6.  Asso. Dean,(PG), NITA, for kind information and necessary action.
+7.  System Administrator, NITA, with a request to upload the same in the Institute website.
+
+Dean (Academic)
+
+NIT Agartala
+
+ANNEXURE - A
+
+PUBLICATION DETAILS
+
+NAME OF THE APPLICANT:
+
+APPLICATION IN THE DEPARTMENT:
+
+Details of the publications:
+
+| S.N | Publication Type (SCI/SCIE/SSC I/Scopus indexed journal Conference) | Title of the Paper | Author name | Journal Name | Indexed in (SCI/ SCOPUS/ Others) | Vol No. | Issue No. | ISSN No. | Year | Pages |
+|-----|-----------------------------------------------------------------------|--------------------|-------------|--------------|----------------------------------|---------|-----------|----------|------|-------|
+|     |                                                                       |                    |             |              |                                  |         |           |          |      |       |
+
+Signature of the Applicant
+
+Sponsorship Letter
+
+Form NITA/ACAD/Ph.D./1(A)
+
+(This should be typed on the letter head of the sponsoring organization)
+
+Reference No.
+Date:
+
+To
+The Director
+National Institute of Technology, Agartala.
+
+Sub: Sponsoring an Employee for Ph.D. Programme as a full-time scholar.
+
+Dear Sir,
+
+We hereby sponsor the candidature of Mr./ Mrs./ Ms. _____________________________________________, who is an employee in our organization, for joining the Ph.D. programme in the Department of ________________________________ at your institute as a full-time student.
+
+It is certified that he/ she has completed 2 (two) years of continuous service in our organization/ institute as a regular employee, after completion of the qualifying degree, required for admission into the Ph.D. programme.
+
+We shall relieve him/ her from his/ her duties in the organization during the first three years of the Ph.D. Programme.
+
+Signature and Seal of the Sponsoring Authority.
+
+Form NITA/ACAD/Ph.D./1(B)
+
+(This should be typed on the letterhead of the sponsoring organization)
+
+Reference No.
+Date:
+
+To,
+The Director
+National Institute of Technology, Agartala.
+
+Sub: No-Objection Certificate for admission into the Ph.D. programme as a part-time Scholar.
+
+Dear Sir,
+
+We have no objection if Mr./ Mrs./ Ms. _____________________________________________, an employee in our organization, is admitted to the Ph.D. Programme in the Department of ________________________________ at your institute as a PART-TIME student.
+
+It is certified that he/she has completed 2 (two) years of continuous service in our organization/ institute as a regular employee, after completion of the qualifying degree required for admission into the Ph.D. programme.
+
+We shall grant him/ her leave of absence to attend classes/research work at NIT Agartala during the Ph.D. Programme.
+
+Signature and Seal of the Sponsoring Authority.
+```

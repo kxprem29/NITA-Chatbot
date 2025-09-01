@@ -1,0 +1,1572 @@
+
+--- Page 1 ---
+™_.
+
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+BARJALA, JIRANIA, WEST TRIPURA, TRIPURA-799046
+
+Notice Inviting Tender for “Digitization of Old Records and
+Provide Document Management System (Open-Source Software) for Accessing Digitized
+Records”
+
+ 
+
+ 
+
+National Institute of Technology Agartala
+AGARTALA - 799 046 (TRIPURA)
+
+ 
+
+ 
+
+RY Seal and signature of the bidder - Page 1 of 28 - Registrar, NIT Agartala
+
+of
+
+ 
+
+
+--- Page 2 ---
+Table of Contents
+SECTION-1: Brief information and Definition of Tender Document 4
+
+SECTION-2: INSTRUCTION TO BIDDERS
+
+SECTION-3: SCOPE OF
+Responsibilities of the Vendor
+
+Document type and Size:
+
+Standards of Digitization Process: .............c.sccccccescccccceccsvcsecesececs 12
+
+Software Application:
+
+Roles and responsibilities
+Eligibility Criteria: ......
+SECTION-4: PRE-QUALIFICATION CRITERIA FOR BIDDERS 14
+Technical Bids:
+
+Financial Bid:
+
+ANNEXURE-A
+
+ANNEXURE-B
+
+ANNEXURE-D
+10 ANNEXURE-E
+11 ANNEXURE-F
+
+12 ANNEXURE-G
+
+ 
+
+ 
+
+Seal and signature of the bidder - Page 2 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 3 ---
+Checklist
+
+The bidder shall verify his tender properly b
+
+efore its submission and satisfy that all the information is
+
+submitted. Copy of documents should be numbered (page numbering) at the bottom. Numbering
+should be started as Page No. 1 and continued; and should be properly attached to the Technical
+
+bid.
+
+Name of the Firm / Agency / Dealer / Supplier with full
+address including contact number and email id etc.
+
+SL
+No.
+—
+| Trade License issued by Government / Statutory Body
+| or Company Registration on the item(s) related to this
+
+tender,
+
+3 | GST Registration of the Supplier/F irm/Bidder
+
+7 Up to date GST return / any other tax clearance
+& 9B)
+Up to date Income Tax Return (Last filled ITR)
+
+fo
+? | “Bid Security Declaration form” on Company Letter
+12
+
+Annual Turnover (last three years) ,
+
+Financial Solvency issued by Bank per
+guidelines) not less than 50 lakhs. __
+
+i
+
+certificate. (last filed GST return) (GSTR 9
+
+Service Support details (if applicable)
+
+| Certification of holiday and non-black listin
+(Self-Certification) (Annexure-G)
+
+| Self-certificate as per applicability (Annexure- D or E)
+regarding offered item(s) as per Office Mernorandum
+No. 6/18/2019-PPD dated 23-07-2022 & 24-07-2020
+and Office Memorandum No. F.18/37/2020-PPD dated
+
+| 8th February, 2021
+
+A
+
+Head (Annexure-C)
+1
+
+Experience, if any, with govt. sector /Public
+Undertaking /Private sector (if applicable)
+relaxed for MSME, NSIC & Startup as per
+India Norm)
+
+Self-certificate as per Government Public Procurement
+Order No. P-45021/2/2017-BE-II dt. 15.06.2017, P-
+45021/2/2017-PP (BE-II) dated 28.05.2018] P-
+
+| 45021/2/2017-PP (BE-II) dated 29.05.2019 |and P-
+
+| 45021/2/2017-PP (BE-II) dated 16.09.2020 (Annexure-
+F)
+
+May be
+ovt. of
+
+Seal and signature of the bidder
+
+ 
+
+PAN Registration of the Supplier/Firm/Bidder |
+8B, BI " a
+
+il
+
+g [ Whether submitted
+
+Certificate under MSME, NSIC, Make-in-India & _
+Startup as per Govt. of India Norms :
+
+Supplier/Firm/Bidder should accept all Terms &
+Conditions and specification of the items given in the
+Tender Document (Self Declaration) =| si
+
+- Rage 3 of 28 -
+
+Page
+No. for
+ref.
+
+Checklist “
+Whether submitted
+
+Whether submitted | Yes / No
+
+Whether submitted | Yes / No
+Whether submitted
+
+Whether submitted
+Whether submitted
+
+Whether submitted
+
+Whether submitted
+Whether submitted | Yes/No |
+
+Z
+
+| Yes/No [|
+eM tT
+
+a
+[Yes/No] |
+Pl
+| i Hl
+
+[ “Whether submitted | Yes/No |
+
+fl
+7
+
+Whether submitted
+
+| Whether submitted
+|
+
+Whether submitted
+
+Whether submitted
+
+| Whether properly
+filled and verified
+
+a
+
+ 
+
+Registrar, NIT Agartala
+
+
+--- Page 4 ---
+SECTION - 1
+Brief information and Definition
+of Tender Document
+
+ 
+
+Seal and signature of the bidder - Rage 4 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 5 ---
+NosNITA22(15-PURY2024/ [A4 Cc
+
+ 
+
+the website http:// eprocure.gov.in.
+
+   
+
+wOT}ag /
+yuourjedaq
+
+ 
+ 
+ 
+   
+  
+
+No.F.NITA/22 | digitization
+(15- to records r
+PUR)/2024
+
+   
+  
+
+&
+
+the tender document.
+
+tender documents.
+
+Tender sent by any other mode wil
+
+Seal and signature of the bidder
+
+E-Tender Notice
+
+Implementing
+
+  
+
+ 
+
+On behalf of National Institute of Technology Agartala, online quotation through
+Central Public Procurement Portal (CPPP) are invited from the reputed resourceful Agency /
+Service Provider etc. for implementing digitization solution for old records related to Finance,
+Academic, Estate and Administrative sections at NIT Agartala as per specification mentioned
+in Annexure of tender document available at our website www.nita.ac.in and central public
+procurement portal i.e. www.eprocure.gav.in. The tender document can be downloaded from
+
+cost
+(Rs.)
+
+solution
+
+elated to | 25,00,000.00
+selected se¢tions at
+NIT Agartala
+
+The interested Agency / Service Provider etc. may arrange online submission of the
+tender through www.eprocure.gov.in along with scan copy of essential documents mentioned in
+
+Tender(s) is/are to be submitted only online through central public procurement portal
+i.e. “http://eprucure.gov.in”. All the documents are to be scanned and uploaded along with the
+
+I not be accepted.
+
+- Rage 5 of 28 -
+
+ 
+
+Estimated
+
+Date: /9 /p¢ 2025
+
+  
+ 
+   
+   
+
+  
+
+ 
+ 
+      
+ 
+     
+ 
+ 
+  
+ 
+ 
+ 
+  
+
+ 
+   
+  
+ 
+
+    
+     
+
+Time and date
+of opening of
+Technical bid
+
+   
+  
+ 
+
+Last date of
+receipt of tender
+
+ 
+ 
+
+   
+ 
+ 
+   
+  
+
+ 
+     
+     
+
+'T 0% 2024 | 12 O% 12024
+Up to 3:00 PM At 3:00 PM
+
+  
+  
+
+   
+
+ 
+
+ 
+ 
+   
+ 
+     
+   
+
+  
+
+     
+ 
+
+ 
+ 
+
+fr
+Registra \ sm
+NIT Agartala
+
+     
+
+Registrar, NIT Agartala
+
+
+--- Page 6 ---
+.
+
+4
+
+No.F.NITA/22(15-PUR)/2024 / A A
+
+IMPORTANT INFORMATION
+
+Name of the Institute
+
+Date: lg 2025
+
+E- Tender Enquiry
+
+NATIONAL INSTITUTE OF TE CHNOLOGY
+
+AGARTALA
+
+GST Number of the Institute
+PAN of the Institute
+
+TAN of the Institute
+
+Institute Bank A/C No.
+Ag
+
+Name of Department / Branch
+
+Enquiry / Reference Number No
+
+Some important/Critical dates:
+
+16AAAGN0550K1ZG
+AAAGNO0550K
+
+SHLN00719F
+030936141729 (IFSC: SBINOO1 1491) under SBI, NIT
+
+artala Branch.
+
+Purchase Section.
+
+F.NITA/22(15-PUR)/2024
+
+Uploading on CPP Portal and | Date: 2 ¥/08//202 Time: 5:00 PM
+Department’s web-site .
+
+Bid submission start date
+
+y
+D
+
+Time: 5:00 PM
+
+Pre bid conference date Date: OS | Oh 2026- Time: 11:00 AM
+Bid submission end date Date: TY [UA /2024 Time: 3:00 PM
+
+Opening of technical bid Date: [7/0 024 Time: 3:00 PM
+
+A Pre-bid Conference will be held dn schedule mentioned above. All prospective bidders
+
+are requested to kindly
+
+nitapurchasesection2@gmail.com at least
+
+Details of e-tender document.
+
+submit
+
+their queries to the email address
+
+two days before Pre-Bid Conference:
+
+The National Institute of Technology- Agartala (NITA), an Autonomous Body under
+Ministry of Education, Govt. of India, is country’s premiere Research Institute to generate
+
+scientific knowledge in the field of Science and Technology.
+
+importance for basic and applied research i
+
+NIT Agartala inviting Tenders to
+
+It functions as a national
+n the field of science and technology.
+
+select a firm/vendor for implementing digitization
+
+solution for its old records related to Finance, Academic, Estate and Administrative sections.
+
+The detailed Notice document indicating the scope of work, qualifyin
+procedure for submission of proposal is mentioned below.
+
+Seal and signature of the bidder
+
+- Rage 6 of 28 -
+
+requirements and
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+Registrar, NIT Agartala
+
+ 
+
+
+--- Page 7 ---
+BRIEF INFORMATION ABOUT TENDER
+
+Tender No.: No.F.NITA/22(15-PUR)/2024 Date: {2025
+
+Name of work / service: Digitization of Old Records and Provide Document Management
+System (Open-Source Software) for Accessing Digitized Records.
+
+Tendering Process: The bids (technical and financial) should be submitted online
+through CPP portal i.e www.epuocure.gov.in before the last date &
+time of submission specified in tender document.
+
+Evaluation Process: Both the Technical and Financial bids will be evaluated by NITA. In
+the first stage] technical bids shall be opened and evaluated by the
+committee constituted by the Competent Authority. ©
+
+At the second $tage, financial bids of only the technically acceptable
+offers should be opened for further evaluation and recommendations
+for awarding the work order / contract.
+
+Cost of Tender Document: The tender/document is free of cost, which can be downloaded
+from Institute’s website as well as CPP Portal (e-Procurement).
+
+Bid security (EMD amount): INR 1,00,000/- (Rupees one lakh only) to be paid through RTGS
+/ NEFT preferably, DD, BC&BG in an acceptable form
+safeguarding the NITA interest in all respect.
+
+Security Deposit amount: The Contractor shall deposit Rs. 5,00,000 (Rupees Five Lakh only)
+as interest free Security Deposit which shall be refunded after the
+expiry of the agreement and after adjusting applicable deductions,
+if any.
+
+Validity of Bid : 180 days from the date of opening of technical bid.
+
+[sp —
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+Seal and signature of the bidder - Page 7 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 8 ---
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+
+POST OFFICE — NIT AGARTALA, WEST TRIPURA, PIN NO. — 799046
+
+SECTION — 2
+
+(Instruction to Bidders)
+
+ 
+
+Seal and signature of the bidder - Page 8 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 9 ---
+_No.F.NITA/22(15-PUR)/2024
+2.1 Definitions:
+
+2.1.1 Digitization includes following activities:
+
+2.1.1.1. Preparation of records for scanning.
+
+2.1.1.2 Scanning of documents and converting them into electronic form.
+
+2.1.1.3. Provision of Customized software application for classifying pages in an
+indexed PDF file bs document types and extracting data points from
+document types using OCR/ ICR technologies with other features for
+highest data accuracy.
+
+2.1.1.4 Quality check and authentication.
+
+2.1.1.5 Loading scanned documents on database/electronic media.
+
+2.1.2 Vendor means the firm which is awarded the contract to digitize the records of
+this office.
+
+2.1.3 Competent Authority means the Director, NIT Agartala.
+2.2. General Instructions:
+
+National Institute of Technology, Agartala intends to carry out digitization of old
+records Finance, Academic|and Administration section and providing document
+management solution for digitized records.
+
+Bids are invited through | e-tender on behalf of the National Institute of
+Technology Agartala, Tripura, Agartala-799046 for Digitization of old office
+records for Finance, Academic, Estate and Administration sections of NIT
+Agartala from reputed vendors who have the required experience and capabilities
+for taking up this assignment as per guidelines contained in this document. The
+number of section for which records are to be digitized may increase or decrease
+as per requirement.
+
+2.2.3 The bidders should quote their rates in clear terms without ambiguity. The
+quotation should be only in prdian Rupees. The last date & time for submission of
+the bid is marked in the enquiry.
+
+ 
+
+2.2.4 The bids should be submitted! online through www.eprocure.gov.in before the last
+date & time of submission specified in tender document.
+
+2.2.5 Bids received after the deadline of receipt indicated in para 2.2.4 above, shall not
+be taken into consideration.
+
+2.2.6 Each bidder shall submit only one bid against one enquiry. A bidder, who submits
+more than one bid against single enquiry, shall be disqualified and considered
+non-responsive.
+
+2.2.7 At any time prior to the due date for submission of bids, the Purchaser may, for any
+reason, whether at its own initiative or in response to a clarification requested by
+a prospective bidder, modify the bidding documents by amendment.
+
+ 
+
+Seal and signature of the bidder - Page 9 of 28 - Regt , NIT Agartala
+
+ 
+
+
+--- Page 10 ---
+2.2.8 All prospective bidders are expected to surf the website before formulating and
+submitting their bids to take cognizance of the amendments.
+
+2.2.9 For any clarifications regarding this tender please contact with Mr. Kamlesh
+Tilwani, Asst. Registrar (Pur), Ph.7022230363.
+
+2.2.10 This e-tender document may also available in the official website of the Institute
+https://www.nita.ac.in
+
+2.2.11 This Notice is being issued with no financial commitment and the Buyer reserves
+the right to change or vary any part thereof at any stage. Buyer also reserves the
+right to withdraw the Notice, should it become necessary at any stage.
+
+2.2.12 Submission of bids - Bids should be submitted through CPP Portal ice.
+www.eprocure.gov.in.
+
+2.2.13 Clarification regarding contents of the bids: During evaluation and comparison of
+bids, the Buyer may, at its discretion, ask the bidder for clarification of his bid.
+The request for clarification will be given in writing and no change in prices or
+substance of the bid will be sought, offered or permitted. No post-bid clarification
+on the initiative of the bidder will be entertained.
+
+2.2.14 Rejection of bids: Canvassing by the bidder in any form, unsolicited letter and
+post- tender correction may invoke summary rejection with forfeiture of Earnest
+Money Deposit. Conditional tenders will be rejected.
+
+2.2.15 Validity of bids: The bids should remain valid for six months from the last date of
+submission of bids.
+
+2.2.16 Earnest Money Deposit: bidders are required to submit Earnest Money Deposit
+(EMD) for amount of Rs. 1,00,000/- (Rupees One Lakhs only) along with their
+bids. The EMD may be submitted in the form of a crossed Bank Draft/Bankers
+cheque in favour of Registrar, NIT Agartala from any of the public sector banks
+or a private sector bank authorized to conduct government business. The amount
+of EMD will be relaxed as per the guidelines of Central Government in relation to
+MSME‘SStart-up units, proved such certificate is made available by the vendor.
+EMD is to remain valid for a period of Sixty days beyond the final bid validity
+period. EMD of the eet eee bidders will be returned to them at the earliest
+after expiry of the final bid validity. The bid security of the successful bidder
+would be returned, after the receipt of Performance Security from them as called
+for in the contract. The EMD will be forfeited if the bidder withdraws or amends
+or impairs or derogates from the tender in any respect within the validity period
+of their tender. No interest will be payable by the NIT Agartala on the Earnest
+
+Money Deposit. ho
+Regisjrar
+
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+ 
+
+Seal and signature of the bidder - Page 10 of 28 - Regjstr@r, NIT Agartala
+
+ 
+
+
+--- Page 11 ---
+No.F.NITA/22(15-PUR)/2024
+
+3 Section-3: Scope of Work
+
+3.1 Responsibilities of the Vendor.
+
+3.1.1 The vendor will catry out review of the physical records available with
+this office along with the/register/list available to gain better understanding of
+the work and better planning of work.
+
+3.4.2 The vendor, in consultation with the client, shall prepare parameters for
+indexing/Bookmarking, dreation and uploading of metadata for digitized
+
+documents.
+
+3.1.3. The vendor will prepare a detailed action plan for digitization of records
+
+of this office along with
+commence the work only
+approved by the competent
+
+detailed schedule and workflows. The vendor will
+after the detailed plan, schedule and workflow are
+authority of this office.
+
+3.1.4 The vendor is responsible to scan and digitize the records provided. After scanning
+
+nd
+
+The vendor should provide for!
+
+and digitizing the records, indexing, and cataloguing is to be done for the records.
+
+3.1.4.1 An image cleaning application which can Automatically Binarize, remove
+black blocks, increase contrast, and remove noise from images as the
+documents under consideration are decades old.
+
+An application which can classify each page/set of pages in the PDF
+document as specific section, so that data points can be extracted.
+
+An application which
+35) from each file of a
+
+Vendor may note that
+
+can extract a minimum number of data points (25 -
+specified type.
+
+OCR/ICR based data capture from scanned files may
+be restricted only to 20-25% of the entire set of records.
+
+A web-based application that can be hosted at the NIT Agartala and provide
+access to users to do quality check and index data verification from
+home/remote location for the complete duration of this project/job.
+
+The application should have t
+
+he following modules:
+
+3.1.5.1 User Management module.
+
+3.1.5.2 Scan quality control module.
+
+3.1.5.3 Data verification module.
+
+3.1.5.4 Reports module.
+
+ 
+
+Seal and signature of the bidder - Page 11 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 12 ---
+3.1.5.5 Types of reports: User level, Department Level, and Section/Office level
+reports.
+
+The work shall be completed within 180 days of the award of the work including
+mobilization and deployment of manpower and equipment.
+
+The vendor will authenticate the scanned document for its accuracy and
+completeness through a digital signature and ensure 100% accuracy of extracted data
+points by doing 100% quality ¢heck.
+
+The vendor will also provide for a software application, do quality check and
+index data verification from home/remote location for the complete duration of this
+project by designated official of this office, authenticating scanned records and
+digitally signing them before being transferred to database or any electronic media
+for preservation.
+
+The vendor shall provide extensive training to staff of the client on using the
+web- based Quality Control Software application for checking scan quality of the
+images, verifying the accuracy of the data points captured and suggesting corrections
+on online mode.
+
+3.1.10 | The vendor shall deploy |the required equipment (including UPS, scanners,
+desktop computers, printers | etc.) and manpower to carry out the complete
+digitization of all records as per the time schedule given in clause above.
+
+The operation also involves collection of the documents from the record
+room/concerned section for digitizing. The documents once received are to be
+arranged, scanned, indexed, and placed back to the same location from where it was
+received from. It is the responsibility of the vendor to return the files/registers in the
+same condition as it was received.
+
+The vendor shall maintain marking and listing of all the files before scanning and
+handover the physical files safely after the digitization is completed.
+
+The vendor shall submit an MIS Report on a weekly basis regarding the work
+completed to the Nodal Officer, NIT Agartala.
+
+A DMS application to be made available for storage and consumption of the scanned
+files. The application should have features which would make document retrieval
+
+efficient.
+
+3.1.15 The vendor shall carry out onsite scanning at NIT Agartala.
+
+3.2 Document, Type & Size:
+
+3.2.1 Document Type: Letters, Legal notes, documents (Hand-written and computer-
+generated sheets), registers, broadsheets (A3 size), hand books, Sketches etc.
+
+ 
+
+Seal and signature of the bidder - Page 12 of 28 - Sgistrar, NIT Agartala
+
+ 
+
+
+--- Page 13 ---
+3.2.2 Size: More or less 2000000 (twenty lakhs) nos. pages will be scan (more than 90%
+of the pages available in the file are of A4 and Legal size and only a nominal 10%
+are in other sizes, mainly A3).|Nos. of copies for scanning may increase or decrease
+as per requirement.
+
+3.3 Standards of Digitization Process:
+
+The vendor shall adhere to the flowing standards at all stages of the digitization process.
+
+3.3.1 During digitization process, the|vendor is required to ensure the scanned image to be
+as close to the original as possible. Resolution of the scanned documents shall be 300
+dpi and above.
+
+3.3.2. Documents are to be scanned in| colour.
+3.3.3. The database created by the vendor shall be non-editable.
+
+3.3.4 PDF files should be indexed and enabled for interactive use like applying digital
+signature, annotations and comments using PDF reader.
+
+3.3.5 Authentication by Digital Signature of vendor: - The Digital Signature is to be placed
+at either the beginning or at end of the final PDF that is completely processed, signed
+by authorized personnel of the Vendor before saving it in the database.
+
+Software Application:
+
+The vendor shall, immediately on commencement of digitization work, provide a
+web- based software application with the following features/modules: The
+application shall need to have Image cleaning capability which can automatically
+binarize, remove black blocks, increase contrast, and remove noise from images as
+the documents to be scanned are decades old.
+
+The application shall classify) each page/set of pages in the PDF document as a
+specific section, so that data points can be extracted.
+
+The application should have the capability to extract a minimum number of data
+points (25 - 35) from each |file of a specific document type using OCR/ICR
+technologies.
+
+Application should have the capability to classify documents based on the OCR
+confidence level (between scanned document and the data extracted). The
+confidence threshold for such |classification would be decided in consultation with
+the client.
+
+The application should be web enabled and it shall be hosted at NIT Agartala and
+provide access to users to do the scan quality check and index data verification from
+home/remote location for the complete duration of the project.
+
+ 
+
+ 
+
+Seal and signature of the bidder - Page 13 of 28 - Registrar,\NIT Agartala
+
+ 
+
+
+--- Page 14 ---
+3.4.5 The application should have the following modules.
+3.4.5.1 User Management module
+3.4.5.2 Scan quality control module
+3.4.5.3. Data verification module
+3.4.5.4 Reports module
+
+3.5 Roles and responsibilities of the|client:
+
+3.5.1 This office will deploy a Nodal officer to supervise the work.
+
+3.5.2 This office will identify, mark and handover the documents to be digitized.
+
+3.5.3 This office will deploy officials for quality check and authentication of scanned
+documents.
+
+3.5.4 The signature (digital) is to be placed at either the beginning or end of the final PDF
+that is completely processed.
+
+3.5.5 This office will arrange to take back the physical records alter digitization is
+completed.
+
+3.5.6 This office will provide the space required (approx. 2,000 sq. ft.) at a single location
+along with power connection, basic furniture (like tables, chairs etc.) as mutually
+agreed.
+
+3.6 Eligibility Criteria :
+
+Evaluation Criteria
+
+Scanning/Digitization of record 1) Vendor should have completed at-least
+ONE project of scanning and indexing of
+more than Twenty-Five Lakh pages each
+for any Government organization.
+
+2) Vendor should have completed at-least
+one project of digitization of records
+
+which are older than 20 years.
+
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+Seal and signature of the bidder - Page 14 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 15 ---
+No.F.NITA/22(15-PUR)/2024
+4 Section-4: Pre-Qualification criteria for bidders:
+4.1 Technical Bids:
+
+4.1.1 Technical Bids are invited from only those firms which fulfill the following
+conditions. Supporting documents may please be attached. If not, the firm
+will be disqualified at the Technical bid stage itself and the financial bid
+will not be considered for opening.
+
+4.1.2 Evaluation of Technical Bids:
+
+The vendor should be able to demonstrate the following features of the
+application:
+
+4.1.2.1 An image cleaning |tool that would be used in the application. This tool
+shall automatically binarize, remove black blocks, increase contrast, and
+remove noise from images as the documents to be scanned are many
+decades old.
+
+4.1.2.2 A tool to classify jeach page/set of pages in the PDF document as a
+specific section from where data points can be extracted.
+
+4.1.2.3 A Document Management System.
+
+4.1.2.4 Extraction of data points from the document (at-least 25 points)
+
+4.1.2.5 The demonstration of the software should be made within 4 days from
+opening of the technical bid.
+
+4.1.2.6 Quality check and 100% Accuracy of the extracted data to be ensured.
+
+4.1.2.7 The vendor should provide a web-based application that can be hosted at
+NIT Agartala and provide access to users to do the scan quality check and
+index data verification from home/remote location for the complete
+duration of the project.
+
+4.1.3. The application should have the following modules:
+4.1.3.1 Users Administration Module.
+4.1.3.2 Scan Quality control] module.
+
+4.1.3.3 Data Verification maddule.
+
+4.1.3.4 Reports module.
+
+4.1.4 Vendor should be a well-established firm with a positive net worth. The firm
+should have an average turnover of | crore in the last three years (2020-2023).
+
+4.1.5 No consortium is allowed.
+
+ 
+
+Seal and signature of the bidder - Page 15 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 16 ---
+4.2 Financial Bid:
+At second stage, financial bid(s) of Technically Qualified bidder(s) will be
+opened.
+
+4.2.1 Price has to be | filled through CPP portal as per BOQ
+(https://www.eprocure.gov.in). The scanned copy of Price Bid, dully filled in,
+has to be uploaded on the above e-procurement site. The prices filled in the e-
+procurement site will be treated final and shall be binding to the vendor.
+
+4.2.2 The bidders should quote their rates in clear terms without ambiguity. The
+quotation should be only|in Indian Rupees.
+
+4.2.3. The rates quoted by the |Bidders/Agency should preferably be on basic price,
+GST, and all other charges including delivery (if any) of the Materials at
+National Institute of Technology, Agartala.
+
+4.2.2 All taxes and duties will be paid extra and such amounts of mandatory/statutory
+taxes & duties shall be explicitly mentioned in BOQ while submitting of bid. If
+GST amount not quoted in the BOQ (price bid), the total cost will be treated as
+inclusive of GST.
+
+Evaluation of Financial |Proposal: The Competent Authority will determine
+whether the Financial Proposals are all-inclusive, complete, qualified or
+unqualified, and unconditional. The cost per page indicated in the Financial
+
+Proposal shall be deemed as final and reflecting the total cost of services.
+Omissions, if any, in costing any item shall not entitle the firm to be
+compensated and the liability to fulfill its obligations.
+
+Financial evaluation will be done based on LCS method i.e, responsive technically
+qualified proposal with the lowest evaluated cost shall be selected.
+
+~
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+Seal and signature of the bidder - Page 16 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 17 ---
+No.F.NITA/22(15-PUR)/2024 Date: /2025
+5 Section-5: Standard Terms & Conditions of Bid:
+
+5.1 The bidder is required to giye confirmation of their acceptance of the Standard
+Conditions of this E-tender enquiry mentioned below which will automatically be
+considered as part of the Contract concluded with the successful Bidder (i.e. Seller
+in the Contract) as selected by the Buyer (client). Failure to do so may result in
+rejection of the Bid submitted by the Bidder.
+
+The bidders who are registered as a Micro or Small Enterprise under
+NSIC/MSME organization of Govt. of India for exemption of submitting
+EMD/Bid security must enclose relevant documentary proof of authentication
+of their firm’s registered as|a Micro or Small Enterprise under NSIC/MSME
+organization of Govt. of India.
+
+If the bidder is a Micro or Small Enterprise as per latest definitions under MSME
+rules, the bidder shall be exempted from the requirement of "Bidder Turnover”
+criteria and "Experience Criteria". If the bidder is OEM of the offered products, it
+would also be exempted from the "OEM Average Turnover" criteria. In case any
+bidder is seeking exemption from Turnover /Experience Criteria, the supporting
+documents to prove his eligibility for exemption must be uploaded with technical
+bid.
+
+If the bidder is a Startup, the bidder shall be exempted from the requirement of
+"Bidder Turnover" criteria and "Experience Criteria". If the bidder is OEM of the
+offered products, it would also be exempted from the "OEM Average Turnover"
+criteria. In case any bidder jis seeking exemption from Turnover / Experience
+
+Criteria, the supporting documents to prove his eligibility for exemption must be
+uploaded with technical bid.
+
+National Institute of Technology, Agartala is following and abide with the Public
+Procurement (Preference to Make in India), Order 2017, DIPP, MoCI Order No. P-
+45021/2/2017-B.E.II dated 15th June 2017 and subsequent amendments to the order.
+Accordingly preference will be given to the Make in India products while evaluating
+the bids, however, it is the sole responsibility of the bidder(s) to specify the product
+quoted by them is of Make in India product along with respective documentary
+evidence as stipulated in the/ aforesaid order in the technical bid itself. A self-
+declaration as per Annexure- F| should be enclosed in the technical bid.
+
+Bidder(s) is/are required to upload a self-certificate as per applicability
+(Annexure- D or E) regarding offered item(s) as per Office Memorandum No.
+6/18/2019-PPD dated 23-07-2022 & 24-07-2020 and Office Memorandum No.
+F.18/37/2020-PPD dated 8" February, 2021 issued by Department of
+Expenditure, Procurement Policy Division, Ministry of Finance, Govt. of India.
+
+Bidders are required to upload|a declaration on company letter head stating that the
+bidder has not been | black-listed & holiday listed by any
+Ministry/Department/Organization (As per Annexure-G).
+
+Bidders are required to upload Bid Securing Declaration Form on company letter
+(As per Annexure-C).
+
+ 
+
+Seal and signature of the bidder - Page 17 of 28 - Reeftstrar, NIT Agartala
+
+ 
+
+
+--- Page 18 ---
+The technical bid and the financial bid should be submitted through
+www.eprocure.gov.in. The technical bids shall be opened and evaluated by the
+competent committee/authority. At the second stage, financial bids of only the
+technically qualified bidders shall be opened for further evaluation and
+recommendations for awarding the purchase order/contract.
+
+It may specifically be mentioned whether quotation is strictly as per terms and
+conditions of the tender. Deviation, if any, must be spelt out specifically in technical
+bid. In the absence of this, the quotation may be rejected.
+
+Law: The Contract shall be considered and made in accordance with the laws of the
+Republic of India. The contract shall be governed by and interpreted in accordance
+with the laws of the Republic of India.
+
+Effective Date of the Contract; The contract shall come into effect on the date of
+signatures of both the parties on the mutual agreement (Effective Date) and shall
+remain valid for one year or till/the completion of the obligations of the parties under
+the contract. The deliveries and supplies and performance of the services shall
+commence from the effective date of the contract.
+
+Arbitration: All disputes or differences arising out of or in connection with the
+Contract shall be settled by bilateral discussions. Any dispute, disagreement or
+question arising out of or relating to the Contract or relating to construction or
+performance, which cannot be settled amicably, may be resolved through
+arbitration and will be restricted within the jurisdiction of High Court of
+Tripura, Agartala only.
+
+Non-disclosure of Contract documents: Except with the written consent of the Buyer/
+
+Seller, other party shall not disclose the contract or any provision, specification, plan,
+design, pattern, sample, or information thereof to any third party.
+
+Termination of Contract: The Buyer shall have the right to terminate this contract in
+part or in full in any of the following cases:
+
+5.14.1 At any time without assigning any reason after giving a notice of one
+month.
+
+5.14.2 The Seller is declared bankrupt or becomes insolvent.
+
+5.14.3 The Buyer has noticed that the Seller has utilized the services of any
+Indian/Foreign agent in getting this contract and paid any commission to
+such individual/company etc.
+
+5.14.4 As per decision of the Arbitrator.
+
+5.14.5 The Seller will not be entitled to claim any compensation against such
+termination. However, while terminating the contract, if any payment in
+terms of due to seller for maintenance services already performed in terms
+of the contract, the same would be paid to it as per the contract terms.
+
+Notices: Any notice required or permitted by the contract shall be written in the
+Hindi/English language and may be delivered personally or may be sent by FAX or
+registered pre-paid mail/airmail, addressed to the last known address of the party to
+whom it is sent.
+
+ 
+
+Seal and signature of the bidder - Page 18 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 19 ---
+Transfer and Sub-letting: The /Seller has no right to give, bargain, sell, assign, or
+sublet or otherwise dispose of the Contract or any part thereof, as well as to give or to
+let a third party take benefit or advantage of the present contract or any part thereof.
+
+Liquidated Damage: No payment would be made for the documents not scanned,
+indexed, merged etc. properly or up to the satisfaction of the end user. The vendor
+must produce a certificate duly |signed from the end user in this regard, indicating the
+quantity and quality of the above work. If the vendor fails to complete the works
+within the stipulated time-period, a recovery or penalty at the rate of 0.05% per week
+or part thereof on total contract value will be deducted from the Payment. A joint
+review will be conducted at regular interval (at the end of every month) during the
+contract period.
+
+If document taken for the scanning is not returned in the same condition or the
+document is lost/misplaced/torn during the scanning, the department will penalize the
+firm, who must pay the penalty, which will be decided by the NIT Agartala.
+
+Amendments: No provision of present Contract shall be changed or modified in any
+way (including this provision) either in whole or in part except by an instrument in
+writing made after the date of this Contract and signed on behalf of both the parties
+and which expressly states to amend the present Contract.
+
+Taxes and Duties: Quoted price must be all inclusive of taxes and duties applicable.
+The Bidder is required to give confirmation of their acceptance of Special Conditions
+of the RFP mentioned below which will automatically be considered as part of the
+Contract concluded with the successful Bidder (i.e. Seller in the Contract) as selected
+by the Buyer. Failure to do so may result in rejection of Bid submitted by the Bidder.
+
+Performance Guarantee: The Bidder will be required to furnish a Performance
+Guarantee with an amount of Rs. “5,00,000.00” by way of Bank Guarantee
+through a public sector bank or a private sector bank authorized to conduct
+government business within 15 days from the receipt of the confirmed order.
+Performance Bank Guarantee| should be valid up to 60 days beyond the duration
+of the contract.
+
+Tolerance Clause - Buyer reserves the right to increase or decrease the quantity of
+work by 50% - 70% of pages to be scanned / cataloguing proposed for scanning
+without any change in the term & condition and per page prices quoted by the Seller.
+However, timeline for completing the task will be extended proportionately. If the
+vendor cannot complete the work awarded within the specified time for reason
+whatsoever, the vendor shall engage another vendor to complete the work at the cost
+of original vendor to whom the contract is awarded.
+
+Validity of Contract: The period of contract is till the completion of scanning and
+digitization of old records.
+
+Payment Terms: The payment will be made by this Office through electronic mode
+(RTGS/NEFT). The PO part payment will be released on satisfactory
+completion of 25%, 50%, 75% and 100% of the awarded work respectively. The bank
+
+details like bank account number, bank name, IFSC Code, MICR Coda for E-payment
+
+ 
+
+Seal and signature of the bidder - Page 19 of 28 - Re@istrar, NIT Agartala
+
+ 
+
+
+--- Page 20 ---
+must be submitted with the bill! Payment due will be calculated based on the number
+of pages scanned/digitized and price per page quoted by the Vendor.
+
+Penalty for use of Undue influence: The Seller undertakes that he has not given,
+offered or promised to give, directly or indirectly, any gift, consideration, reward,
+commission, fees, brokerage or| inducement to any person in service of the Buyer or
+otherwise in procuring the Contracts or forbearing to do or for having done or
+forborne to do any act in relation to the obtaining or execution of the present Contract
+or any other Contract with the Government of India for showing or forbearing to show
+favour or dis favour to any person in relation to the present Contract or any other
+Contract with the Government of India. Any breach of the aforesaid undertaking by
+the Seller or any one employed by him or acting on his behalf (whether with or
+without the knowledge of the Seller) or the commission of any offers by the Seller or
+anyone employed by him or acting on his behalf, as defined in Chapter IX of the
+Indian Penal Code, 1860 or the| Prevention of Corruption Act, 1986 or any other Act
+enacted for the prevention of corruption shall entitle the Buyer to cancel the contract
+and all or any other contracts with the Seller and recover from the Seller the amount
+of any loss arising from such cancellation. A decision of the Buyer or his nominee to
+the effect that a breach of the| undertaking had been committed shall be final and
+binding on the Seller.
+
+Giving or offering of any gift, bribe or inducement or any attempt at any such act on
+behalf of the Seller towards any officer/employee of the Buyer or to any other person
+in a position to influence any officer/employee of the Buyer for showing any favour in
+relation to this or any other contract, shall render the Seller to such liability / penalty
+
+as the Buyer may deem proper, including but not limited to termination of the
+contract, imposition of penal damages, forfeiture of the Bank Guarantee and refund of
+the amounts paid by the Buyer.
+
+Bidder should arrange their own machineries (hardware & software) to perform the
+Job. NIT Agartala will not provide any machinery(ies) (hardware & software) for
+performing the said job.
+
+An agreement should be sign between “Successful Bidder” and “NIT Agartala” to
+maintain the confidentiality of the records/documents.
+
+5.29 The bidder has to submit valid trade license, GST registration certificate, Last filled ITR, last
+filed GST return (GSTR 9 & GSTR| 9B) and Annual turnover (not less than 1 cror) for Last
+
+three years and other certificates & undertaking as per bid document.
+
+Registrar
+National Institute of Technology
+Agartala — 799 046, Tripura
+
+ 
+
+ 
+
+Seal and signature of the bidder - Page 20 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 21 ---
+ANNEXURE — A
+
+Details of Work:
+
+a. Review of the physical records available with this office along with the register/list
+available to gain better understanding of the work and better planning of work.
+
+b. To prepare parameters for indexing/Bookmarking, creation and uploading of metadata
+for digitized documents in consultation with the client.
+
+. To prepare a detailed action plan| for digitization of records of this office along with
+detailed schedule and workflows! The vendor will commence the work only after the
+detailed plan; schedule and workflow are approved by the competent authority of this
+office.
+
+. After scanning and digitizing the records, indexing, and cataloguing is to be done for the
+records. The vendor should provide for.
+
+i.. An image cleaning application which can Automatically Binarize, remove
+black blocks, increase contrast, and remove noise from images as the
+documents under consideration are decades old.
+
+An application which) can classify each page/set of pages in the PDF
+document as specific section, so that data points can be extracted.
+
+iii. An application which can extract a minimum number of data points (25 - 35)
+from each file of a specified type.
+
+iv. Vendor may note that OCR/ICR based data capture from scanned files may
+be restricted only to 20-25% of the entire set of records.
+
+e. A web-based application that can be hosted at the NIT Agartala Office/data center and
+provide access to users to do quality check and index data verification from home/remote
+location for the complete duration of this project/job.
+
+The application should have the following modules:
+
+i.. User Management module
+ii. Scan quality control module
+iii. Data verification module
+iv. Reports module
+v. Types of reports: User level, Department Level, and project-level reports.
+
+Authenticate the scanned document for its accuracy and completeness through a
+digital signature and ensure 100% accuracy of extracted data points by doing 100%
+quality check.
+
+A software application also provide for quality check and index data verification from
+home/remote location for the complete duration of this project by designated official
+of this office, authenticating scanned records and digitally signing them before being
+transferred to database or any electronic media for preservation.
+
+ 
+
+Seal and signature of the bidder - Page 21 of 28 - ReGisttar, NIT Agartala
+
+ 
+
+
+--- Page 22 ---
+Vendor shall provide extensive training to staff of the client on using the web- based
+Quality Control Software application for checking scan quality of the images,
+verifying the accuracy of the |data points captured and suggesting corrections on
+online mode.
+
+Vendor shall deploy the required equipment (including UPS, scanners, desktop
+computers, printers etc) and manpower to carry out the complete digitization of all
+records as per the time schedule.
+
+The operation also involves collection of the documents from the record
+room/concerned section for digitizing. The documents once received are to be
+arranged, scanned, indexed, and placed back to the same location from where it was
+received from. It is the responsibility of the vendor to return the files/registers in the
+same condition as it was received.
+
+Maintain marking and listing jof all the files before scanning and handover the
+physical files safely after the digitization is completed.
+
+The vendor shall submit an MIS Report on a weekly basis regarding the work
+completed to the Nodal Officer of this office.
+
+A DMS application to be made available for storage and consumption of the scanned
+files. The application should have features which would make document retrieval
+efficient.
+
+ 
+
+Seal and signature of the bidder - Page 22 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 23 ---
+ANNEXURE — B
+
+PRICE BID
+
+As per BOQ
+
+ 
+
+|
+Seal and signature of the bidder - Page 23 of 28 - Registrar, NIT Agartala
+
+ 
+
+
+--- Page 24 ---
+Annexure-C
+Bid Securing Declaration Form
+
+Tender Ref. No: .........ccceceeeeseeceee
+Tender ID: .....cccccc cee ee eee oeees
+
+To (insert complete name and address of the purchaser)
+I/We. The undersigned, declare that:
+
+I/We understand that, according to your conditions, bids must be supported by a Bid Securing
+Declaration.
+
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period
+of one year from the date of notification if I am /We are in a breach of any obligation under the
+bid conditions, because I/We
+
+a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid during
+the period of bid validity specified in the form of Bid; or
+
+b) having been notified of the acceptance|of our Bid by the purchaser during the period of bid
+validity (i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish the
+Performance Security, in accordance with the Instructions to Bidders.
+
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the
+successful Bidder, upon the earlier of (i) the receipt of your notification of the name of the
+successful Bidder; or (ii) thirty days after the expiration of the validity of my/our Bid.
+
+Signed: (insert signature of person whose name and capacity are shown)
+
+in the capacity of (insert legal capacity of person signing the Bid Securing Declaration)
+
+Name: (insert complete name of person signing he Bid Securing Declaration)
+
+Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder)
+
+Dated on day of (insert date of signing)
+Corporate Seal (where appropriate)
+
+(Note: In case of a Joint Venture, the Bid Securing Declaration must be in the name of all
+partners to the Joint Venture that submits the bid)
+
+ 
+
+ 
+
+Seal and signature of the bidder - Page 24 of 28 - Registrar,\NIT Agartala
+
+
+--- Page 25 ---
+Annexure-D
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs),
+2017. |
+
+tem Name: fo
+Penguiry Now |
+
+(name of the bidder company)
+have read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Pul lic procurement no 1,2 & 3 vide ref.
+F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on
+procurement from a bidder of a country that shares a land border with India.
+
+We hereby certify that we are not from such a country and eligible to be
+considered for this tender.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment,
+
+(if any), by any bidder(s) shall lead p commercial rejection of their bids by NIT-
+Agartala)
+
+ 
+
+For and behalf of ...(Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+ 
+
+Seal and signature of the bidder - Page 25 of 28 - Registrar, NIT Agartala
+
+
+--- Page 26 ---
+Annexure-E
+
+(Compliance to be submitted in the bidder’s letterhead)
+(as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated
+23.07.2020 & 24.7.2020 and OM No. F.18/37/2020-PPD dated 8th February, 2021
+regarding restrictions under Rule 144 (XI) of the General Financial Rules (GFRs),
+
+AY (name of the bidder company)
+have read the clauses pertaining to the Department of Expenditure’s (DoE) Public
+Procurement Division Order (Public procurement no 1,2 & 3 vide ref.
+F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on
+procurement from a bidder of a country that shares a land border with India.
+
+We are from such a country which shares a land border with India & have been
+registered with the Competent Authority as specified in the above-said order. We
+hereby certify that we fulfill all requirements in this regard and are eligible to be
+considered.
+
+Evidence of valid registration by the Competent Authority is attached.
+
+(Note: Non-compliance of above said Gol Order and its subsequent amendment,
+(if any), by any bidder(s) shall lead to commercial rejection of their bids by NIT-
+Agartala)
+
+For and behalf of (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+ 
+
+Seal and signature of the bidder - Page 26 of 28 - Registrdr, NIT Agartala
+
+
+--- Page 27 ---
+Annexure -F
+
+Self-Certification on the letterhead of the company
+
+In line with Government Public Procurement Order No. P-45021/2/2017-BE-II dt.
+15.06.2017, P-45021/2/2017-PP (BE-II) dated 28.05.2018, P-45021/2/2017-PP
+(BE-II) dated 29.05.2019 and P-45021/2/2017-PP (BE-II) dated 16.09.2020,
+
+we hereby certify that :. (Supplier name)
+local supplier meeting requirement of minimum local
+% defined in as above orders for the material against
+
+We also understand false declarations will be in breach of the Code of Integrity
+under Rule 175(1)(i)(h) of the General Financial Rules for which a bidder or its
+successors can be debarred for up to two years as per Rule 151 (iii) of the General
+Financial Rules along with such other actions as may be permitted under law.
+
+Signature:
+
+Name and Designation:
+Mobile no:
+
+Office Telephone No:
+Email ID: Office Seal
+
+ 
+
+Seal and signature of the bidder - Page 27 of 28 - Registrar, NIT Agartala
+
+
+--- Page 28 ---
+Annexure -G
+
+NON BLACKLISTING SELF CERTIFICATE
+
+[To be submitted on letterhead]
+
+I/We hereby certify that the [Name of the
+company / firm] has not been ever blacklisted/debarred by any Central / State
+
+Government / Public Undertaking / University / Institute on any account.
+
+I/We also certify that firm will provide material as per the specification given by
+NIT Agartala and also abide all the terms and conditions stipulated in the bid
+document.
+
+I/We also certify that the information given in bid is true and correct in all aspects
+and in any case at a later date it is found that any details provided are false and
+incorrect, contract given to the concerned firm or participation may be summarily
+terminated at any stage, the firm will be blacklisted and NIT Agartala may impose
+any action as per the rules.
+
+Date : Name:
+Place :
+
+Business Address:
+
+Signature of Service
+
+Seal of the Service Provider:
+
+ 
+
+Seal and signature of the bidder - Page 28 of 28 - Registrar, NIT Agartala
+

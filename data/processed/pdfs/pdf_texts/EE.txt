@@ -1,0 +1,3611 @@
+
+--- Page 1 ---
+DETAIL
+COURSE CURRICULUM
+FOR
+POSTGRADUATE PROGRAMME
+M.TECH
+IN
+ENVIRONMENTAL ENGINEERING
+
+ 
+
+DEPARTMENT OF CIVIL ENGINEERING
+NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA
+AGARTALA-799046
+TRIPURA, INDIA
+
+
+--- Page 2 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+
+Preface
+
+Civil Engineering Department of NIT Agartala, awards the degree of Master of Technology
+(M. Tech) in seven different specializations viz, Environmental Engineering, Geotechnical
+Engineering, Hydro-Informatics Engineering, Structural Engineering, Seismic Science and
+Engineering, Transportation Engineering and Water Resources Engineering.
+
+The course structures of all post graduate degree programmes are carrying a total of 80
+credits and 2000 marks. Semester wise distribution of course and credits are as follows:
+First semester: 25 credits and 800 marks for five theory subjects (comprises basic core,
+core, and elective subjects), two laboratory subjects and seminar; Second semester: 25
+credits and 800 marks for four theory subject (comprises basic core, core, and elective
+subjects), two laboratory subjects, comprehensive viva-voce and project preliminaries;
+Third semester: 10 credits and 100 marks; and Fourth semester: 20 credits and 300 marks.
+Third and fourth semester of PG courses will be fully devoted to project works. Minimum
+requirement of number of class hours for each theory course is 40 hours per semester.
+There will be continuous assessment of the performance of students throughout the
+semester. Each theory subject in a semester is evaluated for 100 marks, with the following
+weightages. Sub-component weightage: Continuous evaluation: 30 Marks (Attendance: 5
+Marks, Quiz: 5 Marks, Class test: 10 Marks, Assignment: 10 Marks); Mid-semester
+
+Examination: 20 Marks; and End-semester Examination: 50 Marks
+
+The course curriculum of M Tech Environmental Engineering programme is designed
+considering the following six Programme Outcomes (POs) and two Program Specific
+Objectives (PSO’s).
+
+List of PO’s
+
+POI: An ability to independently carry out research /investigation and development work
+to solve practical problems.
+
+PO2: An ability to write and present a substantial technical report/document.
+
+PO3: Students should be able to demonstrate a degree of mastery over the area as per the
+specialization of the program. The mastery should be at a level higher than the requirements
+in the appropriate bachelor program
+
+PO4: An ability to identify, formulate and solve Environmental Engineering related
+
+     
+
+problems using advanced level cofiputing techniques
+Kalamdnad
+
+Aart
+Dr. Ajay jassor
+
+>. . Brot ven Ting
+EE 1 | Pa eC civil Eng'” = owabvatt
+Der va of Technology
+
+ea dia
+ba : vanati-781039 Assam, In
+UW
+
+
+--- Page 3 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+
+POS: An ability to understand the impact of Environmental Engineering solutions in a
+global, economic, environmental and societal context
+
+PO6: Ability to demonstrate the knowledge of environmental engineering and management
+principles and apply these to multidisciplinary environments.
+
+List of PSO’s
+
+PSO1: Analysis, design, investigation of complex problems in ways which are sustainable
+and environmental friendly.
+
+PSO2: Handling of any civil engineering projects ethically either as an individual or as a
+team.
+
+Expert opinions are being taken in regular basis in order to improve the quality of teaching
+learning process and to attain the programme outcomes efficiently.
+
+In the Final year of M.Tech programmes (Third and Fourth Semesters) students may also
+opt for industrial research. If any student desire to pursue his/her research in reputed
+
+industries, he/she may be allowed to do so, provided:
+
+a. The selected industry is a permanent member of NASSCOM, FICCI and other such
+industry bodies.
+
+b. The selected industry needs is approved by the DPPC of the concerned Department.
+
+c. The student selects one supervisor from industry and another supervisor from the
+Institute.
+
+d. If any student opts for such industrial research he/she will not receive any
+scholarship from the institute in this tenure, even if he/she wants to return back. In
+such cases the student will be allowed to complete his/her project in the institute
+
+but without any scholarship.
+
+ae
+
+Aiay Kalamdhad
+
+Dr. A
+pe fessor ae
+ant 1 Civil Enginee
+\ don ' at "4 Terhinoi0gy
+ndianr «! ul é
+Guwatiati-781099, fe
+
+EE2|Page
+
+
+--- Page 4 ---
+Syllabus: M.Tech Environmental En ineerin NIT Agartala
+
+ 
+
+CONTENT
+
+ 
+
+ 
+
+FIRST SEMESTER Page No
+
+SI. No. Subject
+Basie Core
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 |PCE41CO1: Water and wastewater Treatment] EE 7- EE 10
+L Processes-I
+Core Subject-I
+2 |PCE41C02: Applied Environmental Chemistry] EE 11 - EE 15
+and Microbiology _
+3 Core Subject-II EE 16—EE 19
+PCE41C03: Air and Noise Pollution & Control
+Elective Paper-I (PCE41E01) (Any one)
+PCE41E01-01: Optimization Technique EE 20 — EE 23
+4 PCE41E01-02: Advanced Mathematics EE 24 -—EE 27
+
+      
+ 
+
+PCE41E01-03: Computational fluid dynamics |EE 28 —EE 31
+PCE41E01-04: Global warming and climate|EE 32 —EE 35
+
+ebange
+
+Elective Paper-I (PCE41E02)
+One course from Elective Group
+PCE41P01: Water Pollution Laboratory-I
+PCE41P02: Computer Laboratory
+PCE41P03: Seminar
+
+SECOND SEMESTER
+
+Basic Core
+9 |PCE42C01: Water and wastewater Treatment] EE 44 — EE 47
+Processes-II
+
+Core Subject-I
+10 |PCE42C02: Solid and Hazardous Waste) EE 48 —EE 51
+Management
+
+Core Subject-II
+
+ 
+    
+ 
+   
+   
+
+   
+
+ 
+
+ 
+
+BE 65 —EE 99
+
+EE 36 - EE 38
+EE 39 — EE 41
+EE 42
+
+  
+
+ 
+
+ 
+
+ 
+  
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+   
+ 
+ 
+ 
+
+  
+
+ 
+
+ 
+ 
+
+11 |PCE42C03: Ecology & Environmental Impact] EE 52 —EE 56
+Assessment
+Elective Paper-III (PCE42E01)
+
+12 |One course from Elective Group (excluding the} EE 65 — EE 99
+
+    
+
+  
+
+course already selected as Elective Paper-II)
+
+13__|PCE42P01: Water Pollution Laboratory-I] EE 57—EE 59
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 |PCE42P02: Air Pollution Laborato EE 60 — EE 62
+15 |PCE42P03: Comprehensive Viva-voice EE 63
+16 |PCE42P04: Project Preliminaries EE 63
+THIRD SEMESTER
+17 |PCE43P01: Project and Thesis-] EE 100
+FOURTH SEMESTER
+18 [IPCE44P01: Project and Thesis-IT EE 101
+
+ 
+
+  
+
+EE3|Page
+
+ 
+
+eae) ‘eo : f Sa wanati
+ean meted OF BE dia
+I valvatl-TB 1022s Assam, In
+
+
+--- Page 5 ---
+Syllabus: M.Tech Environmental Engineerin
+
+NIT Agartala
+
+ 
+
+Syllabus: M.Tech Environmental Engineerin
+
+ 
+
+First Semester
+
+2
+
+ 
+
+Subject
+
+: Water and wastewater Treatment
+
+ 
+
+Core Subject-I
+
+PCE41C02: Applied Environmental Chemistry
+and Microbiolog
+
+Core Subject-II
+
+PCE41C03: Air and Noise Pollution & Control
+Elective Paper-I (PCE41E01)
+
+PCE41E01-01: Optimization Technique
+PCE41E01-02: Advanced Mathematics
+PCE41E01-03: Computational fluid dynamics
+PCE41E01-04: Global warming and climate
+change
+
+ 
+
+Elective Paper-IT (PCE41E02)
+
+One course from Elective Group
+
+ 
+
+ 
+
+7_|PCE41P02: Computer Laboratory
+8
+
+ 
+
+PCE41P01; Water Pollution Laboratory-I
+
+ 
+
+ 
+
+Class Marks
+Hours per
+Week
+
+ 
+
+ 
+
+PCE41P03: Seminar
+
+ 
+
+Total
+
+ 
+
+4 4 100
+
+2 3 100
+
+2 3 100
+l 2 100
+
+25 28 800
+
+ 
+
+ 
+
+ 
+
+Second Semester
+
+ 
+
+1
+
+ 
+
+  
+   
+
+SL.
+No.
+
+ 
+
+   
+  
+
+Subject
+
+ 
+
+Basic Core
+PCE42C01:
+Processes-II
+Core Subject-I
+PCE42C02:
+Management
+Core Subject-II
+PCE42C03: Ecology & Environmental Impact
+Assessment
+Elective Paper-III (PCE42E01)
+One course from Elective Group (excluding the
+course already selected as Elective Paper-IT)
+
+Water and wastewater Treatment
+
+Solid and Hazardous Waste
+
+ 
+ 
+
+ 
+
+  
+ 
+    
+ 
+ 
+  
+    
+
+  
+ 
+ 
+
+ 
+
+ 
+
+     
+    
+
+   
+
+PCE42P01: Water Pollution Laboratory-I]
+
+6 =|PCE42P02: Air Pollution Laborator
+7 |PCE42P03: Comprehensive Viva-voice
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pene
+
+
+--- Page 6 ---
+Syllabus: M.Tech Environmental En ineerin NIT Agartala
+
+ 
+
+Third Semester
+
+ 
+
+   
+
+ 
+
+ 
+
+SI. Subject Credit Class
+No. Hours per
+Week
+
+ 
+
+ 
+
+ 
+
+ 
+
+h PCE43P01: Project and Thesis-I | 10 | sii
+
+Fourth Semester
+
+SL Subject Credit Class Marks
+
+No. Hours per
+—
+
+| PCE44P01: Project and Thesis-II 20 a
+
+Total Credit (First to Fourth Semester): 80
+Total Marks (First to Fourth Semester): 2000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elective Pool
+
+(Selected Electives will be offered in each semester based on available faculties)
+
+SL Subject Credit Class
+No. Hours
+
+per
+fs Remote Sensing and GIS in Environmental
+
+ 
+
+  
+ 
+   
+
+   
+
+Week
+Engineering
+
+  
+  
+ 
+  
+
+ 
+
+Hydraulics & Water Resources Engineering
+
+ 
+
+ 
+
+ 
+
+Water Distribution and Wastewater Collection
+System Design
+Air and Water Quality Modelling
+
+  
+  
+ 
+
+ 
+
+Environmental Planning and Management
+
+ 
+
+ 
+    
+
+ 
+
+Industrial Pollution Control
+
+| 6 |
+Advanced Environmental Biotechnolo | 4
+a
+[| a
+
+ 
+
+ 
+    
+
+ 
+
+| 8 | Management Of Water Resources
+| 9 | Renewable Energy System
+
+Geo-environmental Engineering
+
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—L Foland
+
+Dr. Ajay Kalamdhad
+
+Professor
+Déoart agit ai Civil Engineering
+Indian Institute of Tec hnology Gus anati
+
+Guwahati-761039, Assam, India
+EES|Page
+
+
+--- Page 7 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Syllabus for M.TECH (Environmental Engineering)
+First Semester
+Sl. Subject Credit Class Marks
+No. Hours per
+Week
+1 Basic Core 4 4 100
+PCE41C01: Water and wastewater Treatment
+Processes-I
+2 Core Subject-I 4 4 100
+PCE41C02: Applied Environmental Chemistry
+and Microbiology
+3 Core Subject-II 4 4 100
+PCE41C03: Air and Noise Pollution & Control
+4 Elective Paper-I (PCE41E01) 4 4 100
+PCE41E01-01: Optimization Technique
+PCE41E01-02: Advanced Mathematics
+PCE41E01-03: Computational fluid dynamics
+PCE41E01-04: Global warming and climate
+change
+5 Elective Paper-II (PCE41E02) 4 4 100
+One course from Elective Group
+6 PCE41P01: Water Pollution Laboratory-I 2 3 100
+7 PCE41P02: Computer Laboratory 2 3 100
+8 PCE41P03: Seminar 1 2 100
+Total 25 28 800
+EE 6 | P age
+
+--- Page 8 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Basic Core
+WATER AND WASTEWATER TREATMENT PROCESS-I
+(PCE41C01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course Objective
+1. To make the students conversant with Water quality parameters and standards for
+various water uses.
+2. To have adequate knowledge on sources of water.
+3. To have adequate knowledge on various unit operations e.g, aeration tank,
+sedimentation tank, coagulation and filtration tank.
+4. To have adequate knowledge on various unit processes e.g, disinfection, softening,
+fluoridation and de-fluoridation.
+5. To understand bench Scale and Pilot Plant studies in water treatment.
+6. To understand the basics of rural Water Supply Systems.
+Course Content
+Unit-1
+Introduction – Sources of water, necessity of treatment, Critical Water quality parameters,
+water quality guidelines and standards for various water uses.
+Unit-2
+Unit operations – principles and design of aeration systems – two film theory, water in air
+system, air in water system. Intake structures – Different types, design criteria.
+Unit-3
+Principles of sedimentation – types of settling and settling equations, design criteria and
+design of settling tanks. Principle of Coagulation and Flocculation – types of coagulants,
+coagulants aids, coagulation theory, optimum dose of coagulant, design criteria and
+numerical examples.
+Unit-4
+Filtration – theory, types, hydraulics of filter bed, design criteria and design of filters, filter
+backwash, operational problems and trouble shooting.
+Unit-5
+Adsorption process – types, factors affecting adsorption, kinetics and equilibrium –
+different isotherm equations and their applications.
+EE 7 | P age
+
+--- Page 9 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit-6
+Unit processes – disinfection – different types, disinfectants, factors affecting disinfection,
+methods of disinfection, chemistry of chlorination.
+Unit-7
+Water Softening – Ions causing hardness, Langelier index, various methods.
+Unit-8
+Fluoridation and de-fluoridation – Principles and design.
+Unit-9
+Trace organic contaminants in water supplies and their removal. Bench Scale and Pilot
+plant studies in water treatment. Rural water supply systems
+References:
+1. Fair, G.M., Geyer J.C and Okun, (2010) <Water and Wastewater Engineering=, 3rd
+Edition, Vol. II, John Wiley Publications.
+2. Weber W.J., (1975) <Physico – Chemical Processes for Water Quality Control=, John
+Wiley & Sons.
+3. AWWA, (2011), <Water Quality and Treatment=, 6th Edition, McGraw Hill.
+4. CPHEEO Manual, (1999), <Water Supply and Treatment=, GOI Publications.
+5. Peavey, H.S., Rowe and Tchobonoglous,G., (2017), <Environmental Engineering=, 1st
+Edition, McGraw Hill.
+6. Raju, B.S.N., (1995), <Water Supply and Wastewater Engineering=, Tata McGraw Hill
+Pvt. Co. Ltd., New Delhi.
+7. World Health Organization, Geneva, (2004), Guidelines for Drinking Water Quality,
+Third Edition, Volumes 1-3.
+Course Outcome
+1. Students will be able to analyse the characteristics of water.
+2. Students will be able to design intake structure for collection of water from various
+sources of water.
+3. Students will be able to design aeration tank, sedimentation tank, coagulation and
+filtration tank.
+4. Students will be able to design disinfection, softening, fluoridation and de-fluoridation
+unit.
+5. Students will be able to analyse bench Scale and Pilot Plant studies in water treatment.
+6. Students will be able to design various units of rural water system.
+EE 8 | P age
+
+--- Page 10 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE41C01.1 Students will be able to analyze characteristics of water.
+PCE41C01.2 Students will be able to design intake structure for collection of water from
+various sources of water.
+PCE41C01.3 Students will be able to design aeration tank, sedimentation tank, coagulation
+and filtration tank.
+PCE41C01.4 Students will be able to design disinfection, softening, fluoridation and de-
+fluoridation unit.
+PCE41C01.5 Students will be able to analyze bench Scale and Pilot Plant studies in water
+treatment.
+PCE41C01.6 Students will be able to design various units of rural water system.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41C01.1 3 2 3 3 3 3
+PCE41C01.2 3 2 3 2 3 2
+PCE41C01.3 3 2 3 3 2 3
+PCE41C01.4 3 2 3 2 2 3
+PCE41C01.5 3 2 3 3 3 2
+PCE41C01.6 3 2 3 3 3 3
+Total 18 12 18 16 16 16
+Average 3 2 3 2.67 2.67 2.67
+Equivalent Avg. 3 2 3 3 3 3
+Attainment
+EE 9 | P age
+
+--- Page 11 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE51E04.1 3 3
+PCE51E04.2 3 3
+PCE51E04.3 3 3
+PCE51E04.4 3 3
+PCE51E04.5 3 3
+PCE51E04.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 10 | P age
+
+--- Page 12 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Core Subject-I
+APPLIED ENVIRONMENTAL CHEMISTRY AND MICROBIOLOGY
+(PCE41C02)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To make the students conversant with fundamentals of Environmental chemistry
+2. To have adequate knowledge on environmental interactions and measurement of water
+and wastewater quality parameters
+3. To have adequate knowledge on various principles and applications of colloidal
+chemistry and colorimetry
+4. To have adequate knowledge on various unit processes e.g, titrimetry, gravimetry,
+Solvent extraction, chromatography, gas chromatography, HPLC, GC-MS, atomic
+absorption spectroscopy.
+5. To understand the importance of Microorganisms in air, water and soil environment.
+6. To familiarize the students with Microbiological Parameter Analysis, measurement
+techniques and applications in environmental engineering.
+Course Content:
+Unit-1
+Importance of Environmental Chemistry, Types of reactions, redox reactions, reaction
+kinetics, Electrochemistry and its applications.
+Unit-2
+Physical and equilibrium chemistry – fundamentals and applications. Trace Contaminants
+and their analyses, Gibbs energy, chemical potential, chemical equilibrium, acid base
+reaction
+Unit-3
+pH – Principle, Measurement, Numerical Examples, Buffers and Buffer index, pE-pH
+diagram, Acidity, Alkalinity, Langelier index, Solubility diagram, Oxidation and Reduction
+equilibrium.
+Unit-4
+Colloidal Chemistry – Properties of colloids, colloidal dispersions, stability of colloids and
+applications. Preparation and purification of colloidal systems: Kinetic properties: The
+motion of particles in liquid media; Brownian motion and translational diffusion, Molecular
+EE 11 | P age
+
+--- Page 13 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Thermodynamics of Hydrogen-Bonded Systems, Thermally Sensitive Particles:
+Preparation, Characterization, and Application
+Unit-5
+Colorimetry – Principles and applications, Lambert’s law, Beer’s law, Instruments of
+Colorimetry: Colorimeter, Spectrophotometer, Light, Vision and Photometry, Definition of
+Photometric Quantities, Photometric Units, Calculation of Colorimetric Values.
+Unit-6
+Applications of Analytical Chemistry – emission and absorption techniques, titrimetric,
+gravimetry, Solvent extraction, chromatography, gas chromatography, HPLC, GC-MS,
+atomic absorption spectroscopy, ICP-AES, flame photometry, electrophoresis, X-ray
+fluorescence, X-ray diffraction,
+Unit-7
+Adsorption – physical versus chemical adsorption, factors influencing adsorption,
+Adsorption isotherms, Design of adsorption column
+Unit-8
+Microbiology – Microorganisms of importance in air, water and soil environment
+Principles and applications of microscopy, microscopic flora and fauna of importance,
+Microorganisms – Classification, prokaryotic and eukaryotic cells, structure,
+characteristics, nucleic acids, DNA and RNA, Viruses, their detection and quantification
+Unit-9
+Metabolism and metabolic pathways, Bioconcentration, Biomagnification and
+Bioaccumulation, Bio-sphere, earth energy budget, Ecosystem, Uniformitarianism,
+Metabolic classification of microorganisms: phototrophs, chemotrophs, applications in
+environmental engineering
+Unit-10
+Bacteria – Morphology, typical growth curve and generation time, Measurement
+Techniques – APC, MPN (Probability and Thomas methods), coliforms - faecal coliforms
+- E.coli, Streptococcus faecalis differentiation of coliforms - significance - MPN index,
+M.F. technique, standards, Microbiological Parameter Analysis, Measurements and
+Isolation of Microorganism, Enzymes – classification, kinetics – Michaelis-Menten
+equation, factors influencing enzyme reaction.
+EE 12 | P age
+
+--- Page 14 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+References:
+1. Tchobanoglous G., Burton F., and Stensel H.D., (2017), <Water and Wastewater
+Treatment Processes=, 4th Edition, Metcalf & Eddy, McGraw Hill Education.
+2. McKinney R.E. (1962) <Microbiology for Sanitary Engineers=, New York McGraw
+Hill.
+3. Sawyer C.N. and McCarty, P.L., (2003), <Chemistry for Environmental Engineering
+and Science=, 5th Edition, Tata McGraw Hill Publishing Co. Ltd., New Delhi.
+4. Pelczar M.J, Chan ECS, Krieg, NR(2004) <Textbook of Microbiology= 5th edition Tata
+McGraw Hill Publishing Co. Ltd., New Delhi.
+5. Gaudy and Gaudy (1980), <Microbiology for Environmental Scientists and Engineers=,
+McGraw Hill.
+6. APHA, (2012), <Standard Methods for Examination of Water and Wastewater=, 22nd
+Edition.
+7. Stumm, W. and Morgan, J.J. (1996) Aquatic Chemistry, Chemical Equilibria and Rates
+in Natural Waters. 3rd Edition, John Wiley & Sons, Inc., New York.
+Course Outcome:
+1. Students will be able to analyse the reactions of Environmental chemistry.
+2. Students will be able to analyse water and wastewater quality parameters
+3. Students will be able to design colloidal system purifier, colorimeter and
+spectrophotometer
+4. Students will be able to analyse titrimetric, gravimetry, Solvent extraction, gas
+chromatography, HPLC, GC-MS, atomic absorption spectroscopy, ICP-AES, flame
+photometry and electrophoresis
+5. Students will be able to analyse microorganisms, nucleic acids, DNA and RNA and
+viruses
+6. Students will be able to analyse MPN index, M.F. technique and Microbiological
+Parameters.
+EE 13 | P age
+
+--- Page 15 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-1: To establish the correlation between COs & PO9s
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE41C02.1 Students will be able to analyze the reactions of Environmental chemistry
+PCE41C02.2 Students will be able to analyze water and wastewater quality parameters
+PCE41C02.3 Students will be able to design colloidal system purifier, colorimeter and
+spectrophotometer
+PCE41C02.4 Students will be able to analyze titrimetric, gravimetry, Solvent extraction,
+gas chromatography, HPLC, GC-MS, atomic absorption spectroscopy, ICP-
+AES, flame photometry and electrophoresis
+PCE41C02.5 Students will be able to analyze microorganisms, nucleic acids, DNA and
+RNA and viruses
+PCE41C02.6 Students will be able to analyze MPN index, M.F. technique and
+Microbiological Parameters
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41C02.1 3 2 3 2 2 3
+PCE41C02.2 3 2 3 2 3 3
+PCE41C02.3 3 2 3 3 3 3
+PCE41C02.4 3 2 3 3 2 2
+PCE41C02.5 3 2 3 3 3 2
+PCE41C02.6 3 2 3 3 3 3
+Total 18 12 18 16 16 16
+Average 3 2 3 2.67 2.67 2.67
+Equivalent Avg. 3 2 3 3 3 3
+Attainment
+EE 14 | P age
+
+--- Page 16 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41C02.1 3 2
+PCE41C02.2 3 2
+PCE41C02.3 3 2
+PCE41C02.4 3 2
+PCE41C02.5 3 2
+PCE41C02.6 3 2
+Total 18 12
+Average 3 2
+Equivalent Avg. Attainment 3 2
+EE 15 | P age
+
+--- Page 17 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Core Subject-II
+AIR AND NOISE POLLUTION & CONTROL
+(PCE41C03)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To introduce the students to the basics of air pollution, principles, concepts, and current
+air pollution issues
+2. To have adequate knowledge on composition, structure of the atmosphere and
+atmospheric stability conditions
+3. To have adequate knowledge on various dispersion models and methods adopted in the
+air quality management.
+4. To provide an introduction to design principles and their applications in design of air
+pollution control system.
+5. To have adequate knowledge on current Issues: hazardous air pollutants, CO
+2
+budgeting, acid rain, ozone layer depletion and global warming
+6. To provide an introduction to noise pollution and control measures
+Course content:
+Unit 1
+Introduction - sources, effects on ecosystems, characterization of atmospheric pollutants,
+air pollution episodes of environmental importance,
+Unit 2
+Meteorology - composition and structure of the atmosphere, wind circulation, solar
+radiation, lapse rates, atmospheric stability conditions, wind velocity profile, Maximum
+Mixing Depth (MMD), Temperature Inversions, Windrose diagram,
+Unit 3
+General characteristics of stack emissions, plume behavior, Gaussian plume equation,
+Fick’s law of diffusion
+Unit 4
+Monitoring of particulate matter and gaseous pollutants – respirable, non-respirable and
+Nano-particulate matter, CO, CO , Hydrocarbons (HC), SO and NO photochemical
+2 x x
+oxidants, Reactions of pollutants in the atmosphere and their effects- Smoke, smog and
+ozone layer disturbance, Air quality and emission standards; Air pollution legislation
+EE 16 | P age
+
+--- Page 18 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 5
+Pollutant’s dispersion models description and application of point, line and areal sources,
+types of air sampling, sampling train, sampling of particulate and gaseous pollutants,
+Atmospheric diffusion of pollutants –Transport – Transformation and deposition of air
+contaminants – Removal processes–– Types of dispersion models
+Unit 6
+Air pollution control equipment for particulate matter & gaseous pollutants – gravity
+settling chambers, centrifugal collectors, wet collectors, bag house filters, fabric filters,
+electrostatic precipitator (ESP), adsorption, absorption, scrubbers, condensation and
+combustion.
+Unit 7
+Indoor air pollution – Sources and types of indoor air pollutants, control of indoor air
+pollution
+Unit 8
+Current Issues: hazardous air pollutants, CO budgeting, Global air pollution: Acid rain,
+2
+Ozone layer depletion, Global warming, Green house effect and Trans-boundary pollution
+Unit 9
+Noise – sources, measurements, effects and occupational hazards, standards, Noise
+mapping, Noise attenuation equations and methods, prediction equations
+Unit 10
+Noise pollution prevention and control measures, legal aspects and laws related to noise
+pollution.
+References
+Wark K., Warner C.F., and Davis W.T., (1998), <Air pollution – Its origin and Control=,
+1.
+3rd Edition, Harper & Row Publishers, New York.
+2. Lee c.c., and Lin S.D., (2007), <Handbook of Environmental Engineering
+Calculations=, 2nd Edition, McGraw Hill, New York.
+Perkins H.C. (1974), <Air Pollution=, McGraw Hill Higher Education.
+3.
+4. Crawford M., (1980), <Air Pollution Control Theory=, 2nd Edition, Tata McGraw Hill,
+New Delhi.
+5. Stern A.C., (1968), <Air Pollution and Its Effects=, 2nd Edition, Vol. I, II, III, Elsevier.
+6. Seinfeld N.J., (1975), <Air Pollution=, McGraw Hill.
+EE 17 | P age
+
+--- Page 19 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Course outcome:
+1. Students will grasp the fundamentals of air pollution and its associated environmental
+impacts.
+2. Students will be able to learn to describe the key concepts of air quality management
+3. Students will be able to analyze various types of dispersion models.
+4. Students will be able to design gravity settling chambers, centrifugal collectors, wet
+collectors, bag house filters, fabric filters, electrostatic precipitator etc.
+5. Students will be able to analyze on various environmental current Issues.
+6. Students will be able to analyze sources, measurements and effects of noise pollution.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE41C03.1
+Students will grasp the fundamentals of air pollution and its associated
+environmental impacts
+PCE41C03.2
+Students will be able to learn to describe the key concepts of air quality
+management
+PCE41C03.3
+Students will be able to analyze various types of dispersion models
+PCE41C03.4
+Students will be able to design gravity settling chambers, centrifugal
+collectors, wet collectors, bag house filters, fabric filters, electrostatic
+precipitator etc
+PCE41C03.5
+Students will be able to analyze on various environmental current Issues
+PCE41C03.6
+Students will be able to analyze sources, measurements and effects of noise
+pollution
+EE 18 | P age
+
+--- Page 20 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41C03.1 3 2 3 2 3 3
+PCE41C03.2 3 2 3 3 2 2
+PCE41C03.3 3 2 3 3 2 2
+PCE41C03.4 3 2 3 2 3 3
+PCE41C03.5 3 2 3 3 3 2
+PCE41C03.6 3 2 3 3 2 2
+Total 18 12 18 16 15 14
+Average 3 2 3 2.67 2.5 2.33
+Equivalent Avg. 3 2 3 3 3 2
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41C03.1 3 3
+PCE41C03.2 3 3
+PCE41C03.3 3 3
+PCE41C03.4 3 3
+PCE41C03.5 3 3
+PCE41C03.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 19 | P age
+
+--- Page 21 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Elective Paper-I
+OPTIMIZATION TECHNIQUE
+(PCE61E01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To obtain fundamental understanding and application of estimation theory and basic
+statistics.
+2. To be able to interpret the hypothesis testing and its related tests for identification of
+relationship.
+3. To obtain an understanding about different types of correlation coefficient.
+4. To demonstrate the ability to apply design of experiment in model formulation.
+5. To apply and perform multivariate analysis.
+6. To understand the concept of optimization and to learn about different optimization
+techniques.
+Course Content:
+Unit- 1
+OPERATION RESEARCH:
+Introduction, Concept of OR, Decision Theory, Estimators: Unbiasedness, Consistency,
+Efficiency and Sufficiency, Maximum Likelihood Estimation, Method of moments, Outlier
+Detection, Model Development Steps.
+Unit-2
+STATISTICAL TESTS:
+Null Hypothesis, Tests based on Normal, t and F distributions for testing of means, variance
+and proportions, Analysis of r x c tables, Goodness of fit, X-bar, R-Chart, P-Chart, Chi-
+Square Test.
+Unit-3
+CORRELATION AND REGRESSION:
+Auto-Correlation, Cross Correlation, Auto-Regression and Cross Regression Models,
+Standard Error, Stochastic Error, Moving Average, Pearson Correlation, Covariance.
+Unit-4
+DESIGN OF EXPERIMENTS
+Analysis of variance, One-way and two-way classifications, Completely randomized
+design, Randomized block design, Latin square design.
+EE 20 | P age
+
+--- Page 22 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit-5
+RELAIBILITY AND RISK ANALYSIS:
+Reliability analysis methods, Risk Engineering, Random vectors and Matrices, Mean
+vectors and Covariance matrices, Multivariate Normal density and its properties, Principal
+components, Components from standardized variables.
+Unit- 6
+OPTIMIZATION TECHNIQUES:
+Introduction to Optimization Technique, Region of Feasibility, Difference between
+Simulation, Prediction and Optimization, Classification of Optimization Techniques,
+Linear Programming, Dynamic Programming, Differential Evolution Techniques,
+Introduction to nature-based optimization techniques, meta-heuristic and heuristic
+techniques, Particle Swarm Optimization, Ant Colony Optimization, Fire Fly Algorithm.
+References:
+1. Handbook of Engineering Statistics. Hoang Pham, Springer London Ltd, 2022, 3rd
+Edition.
+2. Engineering Optimization: Theory and Practice, Singiresu S. Rao, John Wiley &
+Sons, Inc, 2019, Fifth Edition.
+3. A First Course in Optimization Theory, Rangarajan K. Sundaram, Cambridge
+University Press, 1996, First Edition.
+4. Modeling Hydrologic Change: Statistical Methods, Richard H. McCuen, CRC
+Press, 2002, First Edition.
+5. Statistics for Engineers: An Introduction, Jim Morrison, Wiley, 2009. First Edition
+6. Introduction to Operations Research, Frederick S. Hillier, Gerald J. Lieberman,
+Bodhibrata Nag, Preetam Basu, McGraw Hill Education, 2017, 10th Edition.
+Course Outcome:
+1. Students will be able to apply different concepts of operational research, estimators and
+detect outliers.
+2. Students will be able to develop an idea and know the procedure of developing
+statistical tests and hypothesis.
+3. Students will be able to apply correlations and regression coefficients for initial
+analysis of model development and feasibility.
+4. Students will be able to generate designs for experimental analysis followed by model
+development and testing.
+5. Students will be able to analyze the risk and reliability of a project.
+EE 21 | P age
+
+--- Page 23 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+6. Students will be able to optimize and suggest the best variations for maximization of
+profit and minimization of cost from a system.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome (CO)
+Students will be able to apply different concepts of operational research,
+PCE41E01-01.1
+estimators and detect outliers
+PCE41E01-01.2
+Students will be able to develop an idea and know the procedure of
+developing statistical tests and hypothesis.
+PCE41E01-01.3
+Students will be able to apply correlations and regression coefficients for
+initial analysis of model development and feasibility.
+PCE41E01-01.4
+Students will be able to generate designs for experimental analysis
+followed by model development and testing.
+PCE41E01-01.5
+Students will be able to analyze the risk and reliability of a project.
+PCE41E01-01.6
+Students will be able to optimize and suggest the best variations for
+maximization of profit and minimization of cost from a system
+Table-2: Correlation between COs & Pos Slight (LOW): 1 Moderate
+(MEDIUM): 2 Substantial (HIGH): 3 and for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41E01-01.1 3 2 3 3 3 3
+PCE41E01-01.2 3 3 3 3 3 3
+PCE41E01-01.3 3 2 3 3 3 3
+PCE41E01-01.4 3 3 3 3 3 1
+PCE41E01-01.5 3 3 3 3 3 3
+PCE41E01-01.6 3 3 3 3 3 3
+Total 18 16 18 18 18 16
+Average 3 2.66 3 3 3 2.7
+Equivalent Avg. 3 3 3
+3 3 3
+Attainment
+EE 22 | P age
+
+--- Page 24 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41E01-01.1 2 2
+PCE41E01-01.2 3 3
+PCE41E01-01.3 3 3
+PCE41E01-01.4 3 3
+PCE41E01-01.5 3 3
+PCE41E01-01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 23 | P age
+
+--- Page 25 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+ADVANCED MATHEMATICS
+(PCE41E01-02)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course Objective
+1. Introduce students to ordinary differential equations and the methods for solving these
+equations Use differential equations as models for real world phenomena
+2. Integrate the knowledge accumulated in the calculus sequence to solve applied problems
+3. Introduce the fundamentals of Linear Algebra and Complex Analysis
+4. Provide a rigorous introduction to upper level mathematics which is necessary for
+students of engineering, physical sciences and mathematics.
+Course Content
+Unit-1
+Calculus of Variations – Variation and its properties – Euler’s equation – Conditional
+extreme – Isoperimetric problems – Functional dependant on first and higher order
+derivatives – Functional dependent on functions of several independent variables – some
+applications – Direct methods – Ritz and Kantorovich methods, Euler’s finite difference
+method.
+Unit-2
+Laplace Transforms and Fourier Transforms. Application of Fourier Transform in solving
+initial and boundary value problems. Laplace Equation, Heat equation and wave equation.
+Unit-3
+Hankel’s Transform, elementing properties of Hankel transforms, Hankel inversion and
+transform theorems. Hankel transforms of derivatives of functions. Parsevel’s theorem.
+Hankel transforms of + = f .
+2 2
+㕑 㕓 1㕑㕓 㕛
+Unit-4 2 2
+㕑 㕥 㕥㕑㕥 㕥
+Simulation – Types, case studies in various fields using simulation techniques, simulation
+softwares used, use of mathematical models based on probabilistic and statistical methods.
+Partial Differential Equations – Formation of PDE, Solutions of PDE, Equations solvable
+by direct integration, Linear equations of the first order, Non-linear equations of the first
+order, Charpit’s
+Method, Homogeneous Linear equations with constant coefficient, Non-Homogeneous
+Linear equations, Non-Linear equations of the second order.
+EE 24 | P age
+
+--- Page 26 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit-5
+Solution of Parabolic and Hyperbolic equations – Implicit and Explicit Schemes, ADI
+methods, Non Linear parabolic equations – Iteration method, Solution of elliplic equation
+– Jacobi method, Gauss - Seidel & SOR method. Richardson method, RKF4.
+Unit-6
+Introduction to finite element method and its scope.
+References:
+1. Kreyszig Erwin, Advanced Engineering Mathematics, John Wiley & Sons (Asia) Pvt
+Ltd, JOHN WILEY & SONS, INC, 2010, 10th Edition.
+2. Krishnamurthy & Sen, Numerical Algorithms, Afiliated East-west press private Limited,
+New Delhi, 2008, 10th Edition.
+3. Ramana, B. V., Higher Engineering Mathematics, The McGraw-Hill Companies, New-
+Delhi, 2011, 1st Edition.
+Course Outcome
+1. To utilize various methods for solving ODEs and solve initial value problems, understand
+the existence and uniqueness of such solutions and to Recognize ODEs of varying order
+and use these to solve problems involving population dynamics, oscillation of a spring
+and resistance in a circuit
+2. Ability to Work with and solve homogeneous and non-homogeneous ODEs and systems
+of ODEs. Moreover, to learn additional methods for solving ODEs including Euler’s
+method, the power series method and Laplace transforms.
+3. Perform basic operations with matrices, find the inverse of a matrix, determinant of a
+square matrix, as well as Eigen values and Eigen vectors and investigate associated
+applications, and to use matrices to solve systems of equations.
+4. Express complex numbers in trigonometric and polar form, and to perform operations
+with complex numbers, including finding the roots of unity.
+5. Explore functions of a single complex variable and calculate derivatives of analytic
+functions
+6. Calculate line integrals in the complex plane, and Study Cauchy-Riemann equations,
+Cauchy’s integral theorem and Cauchy’s integral formula.
+EE 25 | P age
+
+--- Page 27 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome (CO)
+PCE41E01-02.1
+To utilize various methods for solving ODEs and solve initial value
+problems, understand the existence and uniqueness of such solutions and
+to Recognize ODEs of varying order and use these to solve problems
+involving population dynamics, oscillation of a spring and resistance in a
+circuit
+PCE41E01-02.2
+Ability to Work with and solve homogeneous and non-homogeneous
+ODEs and systems of ODEs. Moreover, to learn additional methods for
+solving ODEs including Euler’s method, the power series method and
+Laplace transforms
+PCE41E01-02.3
+Perform basic operations with matrices, find the inverse of a matrix,
+determinant of a square matrix, as well as eigen values and eigen vectors
+and investigate associated applications, and to use matrices to solve
+systems of equations
+PCE41E01-02.4
+Express complex numbers in trigonometric and polar form, and to
+perform operations with complex numbers, including finding the roots of
+unity
+PCE41E01-02.5
+Explore functions of a single complex variable and calculate derivatives
+of analytic functions
+PCE41E01-02.6
+Calculate line integrals in the complex plane, and Study Cauchy-Riemann
+equations, Cauchy’s integral theorem and Cauchy’s integral formula
+EE 26 | P age
+
+--- Page 28 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & Pos
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and for NO
+CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41E01-02.1 2 2 3 2 2 2
+PCE41E01-02.2 2 2 3 2 2 2
+PCE41E01-02.3 2 2 3 2 2 2
+PCE41E01-02.4 2 2 3 2 2 2
+PCE41E01-02.5 2 2 3 2 2 2
+PCE41E01-02.6 2 2 3 2 2 2
+Total 12 12 18 12 12 12
+Average 2 2 3 2 2 2
+Equivalent Avg. 2 2 3 2 2 2
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41E01-02.1 2 2
+PCE41E01-02.2 1 1
+PCE41E01-02.3 1 2
+PCE41E01-02.4 2 3
+PCE41E01-02.5 2 2
+PCE41E01-02.6 2 3
+Total 10 13
+Average 1.67 2.16
+Equivalent Avg. Attainment 2 2
+EE 27 | P age
+
+--- Page 29 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+COMPUTATIONAL FLUID DYNAMICS
+(PCE41E01-03)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objectives:
+1. To know fundamentals of CFD techniques for solving incompressible and compressible
+N-S equation.
+2. To have adequate knowledge on fluid continuum, flux, mass, momentum and energy
+conservation using RTT.
+3. To have sufficient knowledge on different types of governing equations for movement
+of fluid.
+4. To have understanding of various types of discretization concept, methods, equations,
+schemes and boundary conditions.
+5. To have better understanding of various series, accuracy, error, and Laplas, Gauss,
+Jacobbi methods etc. for approximation of a derivative.
+6. To have basic knowledge of different types of finite volume method.
+Course content:
+Unit 1
+What is CFD? Comparison of CFD with theoretical and experimental approaches,
+application of CFD. Fluid continuum, control volume system, material derivative, flux,
+Reynolds transport theorem, derivation of the conservation equations of mass, momentum
+and energy by using Reynold’s transport theory (RTT), surface force, body force,
+governing equations in vector and indicial forms, conservative and non conservative form
+of governing equations, stress tensor and second viscosity, inner and outer product in
+indicial notations, types of governing equations-parabolic, elliptic, hyperbolic or mixed,
+unsteady, diffusion, convection and source terms.
+Unit 2
+Exact or continuum equations, approximate equations and approximate solutions, concept
+of discretization, various type of boundary conditions, discretization of equations,
+boundary conditions, initial condition and the domain, various methods of discretization,
+comparison of basic discretization methods such as finite difference, finite volume and
+finite element. Basic layout of the discretization and solution of algebraic equations for a
+EE 28 | P age
+
+--- Page 30 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+typical CFD problem. Different types of discretisation scheme: SIMPLE, SIMPLEC, PISO,
+HYBRID.
+Unit 3
+Finite difference method, smooth function & Taylor series, forward, backward, central
+difference approximations of a derivative, order of accuracy, truncation error, round of
+error, discretization error, numerical stability, numerical diffusion, artificial viscosity,
+higher order approximations of a derivative, solution of Laplace or Poisson equations using
+FDM, Space matrix, Gauss elimination, Gauss Seidel, TDMA, Jacobbi method, Crank
+Nicolson method, ADI method, equilibrium and marching problems, convergence
+criterion, relaxation (over, under, no), implicit and explicit methods, approximations for
+time derivative, stability analysis, courant number, examples of conditionally stable,
+unconditionally stable.
+Unit 4
+Introduction to finite volume method, discretization of 1D convection-diffusion equations,
+Cell Peclet number, upwinding, central difference, exponential scheme etc. so that central
+difference for convection terms gives unstable solution, calculation of the range of Pe no.
+for cell solution using central difference. Variational methods, weight function, save
+function, Galerkin formulation, PETROV Galerkin formulation, WEAK form, example of
+solution of POISSON equation for a square domain using FEM, stream. Stream function,
+vorticity formulation, solution of Lid-driven cavity problem using sie-wemega formulation
+and FDM, solution of Navier Stokes equations, sequential method, coupled method,
+pressure-velocity coupling, staggard mesh, collocated mesh, Checker board modes,
+SIMPLE Algorithm
+References:
+1. K. Muralidhar, T. Sundararajan, (2011), <Computational Fluid Flow and Heat Transfer=,
+Second Edition, Rosa Publications.
+2. Chung T. J., (2014), <Computational Fluid Dynamics=, 2nd Edition, Cambridge
+University Press.
+3. Tapan K. Sengupta, (2005), <Computational Fluid Dynamics= University Press.
+4. Hirch C., (2007), <Numerical Computation of Internal and External Flows= 2nd Edition,
+Butterworth-Heinemann.
+EE 29 | P age
+
+--- Page 31 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Course outcomes (CO):
+1. Students will be able to understand fundamentals of CFD techniques for solving
+incompressible and compressible N-S equation.
+2. Students will be able to understand fluid continuum, flux, mass, momentum and energy
+conservation using RTT.
+3. Students will have adequate knowledge of different types of governing equations for
+movement of fluid.
+4. Students will have understanding of various types of discretization concept, methods,
+equations, schemes and boundary conditions.
+5. Students will have understanding of various series, accuracy, error, and Laplas, Gauss,
+Jacobbi methods etc. for approximation of a derivative.
+6. Students will have sufficient knowledge of different types of finite volume method.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome (CO)
+PCE41E01-03.1 Students will be able to understand fundamentals of CFD techniques for
+solving incompressible and compressible N-S equation.
+PCE41E01-03.2 Students will be able to understand fluid continuum, flux, mass,
+momentum and energy conservation using RTT.
+PCE41E01-03.3 Students will have adequate knowledge of different types of governing
+equations for movement of fluid.
+PCE41E01-03.4 Students will have understanding of various types of discretization
+concept, methods, equations, schemes and boundary conditions.
+PCE41E01-03.5 Students will have understanding of various series, accuracy, error, and
+Laplas, Gauss, Jacobbi methods etc. for approximation of a derivative.
+PCE41E01-03.6 Students will have sufficient knowledge of different types of finite
+volume method.
+EE 30 | P age
+
+--- Page 32 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41E01-03.1 2 3 3 2 3 3
+PCE41E01-03.2 2 3 3 2 3 2
+PCE41E01-03.3 2 3 3 2 2 3
+PCE41E01-03.4 3 3 3 2 3 3
+PCE41E01-03.5 2 3 3 2 2 3
+PCE41E01-03.6 2 3 3 2 3 3
+Total 13 18 18 12 16 17
+Average 2.17 3.00 3.00 2.00 2.67 2.83
+Equivalent Avg.
+2 3 3 2 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41E01-03.1 3 3
+PCE41E01-03.2 3 4
+PCE41E01-03.3 3 4
+PCE41E01-03.4 3 3
+PCE41E01-03.5 3 4
+PCE41E01-03.6 3 4
+Total 18 22
+Average 3 3.67
+Equivalent Avg. Attainment 3 4
+EE 31 | P age
+
+--- Page 33 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+GLOBAL WARMING AND CLIMATE CHANGE
+(PCE41E01-04)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To make the students understand about the sources of energy.
+2. To have adequate knowledge on effects of greenhouse gases.
+3. To have adequate knowledge on impacts of climate change.
+4. To acquire knowledge on modeling on climate change.
+5. To understand rules and protocols on global trading related to global warming.
+6. To understand the basic of clean environmental mechanism and alternatives techniques.
+Course Content:
+Unit 1
+Energy Sources: Global Warming Potential, Energy Issues and Climate Change, Alternate
+Energy Sources.
+Unit 2
+Green-House Effect: Green house as natural phenomenon, Green House Gases (GHGs) and
+their Emission, Sources. Quantification of CO Emission, Global Warming Potential
+2
+(GWP) of GHGs.
+Unit 3
+Impacts of Climate Change: Effects on climatic and related changes of Global and India,
+Temperature Rise. Sea Level rise, Coastal Erosion and landslides, Coastal Flooding.
+Wetlands and Estuaries loss.
+Unit 4
+Modeling on Climatic Change: Case studies on climate change case studies, Data analysis,
+Interpretation, Modeling on climate change, Ozone layer depletion and its control.
+Unit 5
+Kyoto Protocol: Importance. Significance and its role in Climate Change.
+Unit 6
+Carbon Credit & Trading: Mechanisms, Various Models (European, Indian) Global and
+Indian Scenario.
+Unit 7
+Cleaner Development Mechanisms: Various Projects related to CO Emission Reduction.
+2
+EE 32 | P age
+
+--- Page 34 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 8
+Alternatives of Carbon Sequestration - Conventional and non-conventional techniques,
+Role of Countries and Citizens in Containing Global Warming.
+References:
+1. Barry R.G., and Chorley R.L., (2017), "Atmosphere, Weather and Climate", 4th Edition,
+ELBS Publication.
+2. Bolin B., (Ed.), (1981), "Carbon Cycle Modeling=, John Wiley and Sons Publications.
+3. Corell R.W., and Andenon P.A., (Eds). (1991), "Global Environmental Change",
+Springer Vetlog Publishers.
+4. Francis D., (2000), "Global Warming: The Science and Climate Change", 1st Edition,
+Oxford University Press.
+5. Frane B., Medury Y., and Joshi Y., (Eds.), (1992), "Global Climate Change: Science,
+Impact and Responses", Tata Energy Research Institute, New Delhi.
+6. Linden E., (2007), "The Winds of Change: Climate, Weather and the Destruction of
+Civilizations", Simon and Schuster Publications.
+7. Mintzer I.M., (Ed.), (1992), "Confronting Climate Change, Risks, Implications and
+Responses", Cambridge University Press.
+8. Srivatsava A.K., (2009), "Global Warming", First Edition, APH Publications.
+9. Wyman R.L., (Ed.), (1991), "Global Climate Change and Life on Earth", First Edition,
+Springer, Chapman and Hall Publications.
+10. Yadav, Chander and Bhan, (2005), "Global Warming India's Response and Strategy",
+RPH Publications.
+Course outcome:
+1. Students will be able to understand about the sources of energy.
+2. Students will be able to gather knowledge on effects of greenhouse gases.
+3. Students will be able to knowledge on impacts of climate change.
+4. Students will be able to knowledge on modeling on climate change.
+5. Students will be able to understand rules and protocols on global trading related to
+global warming.
+6. Students will be able to know about the basic of clean environmental mechanism and
+alternatives techniques.
+EE 33 | P age
+
+--- Page 35 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome (CO)
+PCE41E01-04.1 Students will be able to understand about the sources of energy.
+PCE41E01-04.2 Students will be able to gather knowledge on effects of greenhouse gases.
+PCE41E01-04.3 Students will be able to knowledge on impacts of climate change.
+PCE41E01-04.4 Students will be able to knowledge on modeling on climate change.
+PCE41E01-04.5 Students will be able to understand rules and protocols on global trading
+related to global warming.
+PCE41E01-04.6 Students will be able to know about the basic of clean environmental
+mechanism and alternatives techniques.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41E01-04.1 2 3 3 2 3 3
+PCE41E01-04.2 2 3 3 3 3 3
+PCE41E01-04.3 2 3 2 3 3 3
+PCE41E01-04.4 2 3 3 3 3 3
+PCE41E01-04.5 2 3 2 3 3 3
+PCE41E01-04.6 2 3 3 2 3 3
+Total 12 18 16 16 18 18
+Average 2.00 3.00 2.67 2.67 3.00 3.00
+Equivalent Avg.
+2 3 3 3 3 3
+Attainment
+EE 34 | P age
+
+--- Page 36 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41E01-04.1 4 2
+PCE41E01-04.2 4 2
+PCE41E01-04.3 4 2
+PCE41E01-04.4 4 2
+PCE41E01-04.5 4 2
+PCE41E01-04.6 4 2
+Total 24 12
+Average 4 2
+Equivalent Avg. Attainment 4 2
+EE 35 | P age
+
+--- Page 37 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+WATER POLLUTION LABORATORY-I
+(PCE41P01)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To determine the pH, acidity, alkalinity, and hardness of water samples
+2. To determine the TS, TSS, TDS, Conductivity, and turbidity of water samples.
+3. To determine the DO, BOD, COD, and TOC of water and wastewater samples.
+4. To measure the residual chlorine concentration of water samples.
+5. To measure chloride, sulphate, nitrate, and phosphate of water and wastewater samples.
+6. To measure MPN, Coliform and other indicator organisms of water and wastewater
+samples.
+Course Content:
+List of Experiments:
+1. Determination of pH, acidity, alkalinity, and hardness of water samples.
+2. Determination of TS, TSS, TDS, conductivity, and turbidity, of water samples.
+3. Determination of DO, BOD, COD of water and wastewater samples.
+4. Determination of TOC of water and wastewater samples.
+5. Determination of residual chlorine of water samples.
+6. Determination of chloride, nitrate, and phosphate of water and wastewater samples.
+7. Determination of MPN, Coliform and other indicator organisms of water and
+wastewater samples.
+Course Outcome:
+1. Students will be able to determine Residual Chlorine of water samples.
+2. Students will be able to determine various water quality parameters like pH, acidity,
+alkalinity, and hardness.
+3. Students will be able to determine TS, TSS, TDS, conductivity, and turbidity of water
+samples
+4. Students will be able to determine DO, BOD, COD, TOC of water and wastewater
+samples.
+5. Students will be able to determine chloride, sulphate, nitrate, and phosphate of water
+and wastewater samples.
+EE 36 | P age
+
+--- Page 38 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+6. Students will be able to determine MPN, Coliform and other indicator organisms of
+water and wastewater samples.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE41P01.1 Students will be able to determine Residual Chlorine of water samples.
+PCE41P01.2 Students will be able to determine various characterizing parameters of water
+sample like pH, acidity, alkalinity, hardness.
+PCE41P01.3 Students will be able to determine TDS, Conductivity, turbidity, color, odor,
+temperature of water samples
+PCE41P01.4 Students will be able to determine DO, BOD, COD, TOC of water samples.
+PCE41P01.5 Students will be able to determine Chloride, Sulfate, nitrogenous compounds
+of water samples.
+PCE41P01.6 Students will be able to determine MPN, Coliform and other indicator
+organisms of water samples
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41P01.1 3 2 3 3 3 2
+PCE41P01.2 3 3 2 3 3 2
+PCE41P01.3 2 2 2 2 2 3
+PCE41P01.4 3 3 3 2 2 3
+PCE41P01.5 3 3 3 3 3 3
+PCE41P01.6 3 3 3 3 3 3
+Total 17 16 16 16 16 16
+Average 2.83 2.67 2.67 2.67 2.67 2.67
+Equivalent Avg. 3 3 3
+3 3 3
+Attainment
+EE 37 | P age
+
+--- Page 39 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41P01.1 2 2
+PCE41P01.2 2 2
+PCE41P01.3 2 2
+PCE41P01.4 2 2
+PCE41P01.5 2 2
+PCE41P01.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. Attainment 2 2
+EE 38 | P age
+
+--- Page 40 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+COMPUTER LABORATORY
+(PCE41P02)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To gain knowledge about Design Expert
+2. To gain knowledge about ArcGIS
+3. To gain knowledge about to gain knowledge about Chemdraw
+4. To gain knowledge about QUAL2K
+5. To gain knowledge about MATLAB
+6. To gain knowledge about Origin, sigma plot, WRPLOT
+Course Content:
+Demonstration and practice of several environmental engineering analysis and design
+software like Design Expert, ArcGIS, Chemdraw, QUAL2K, MATLAB, Origin, sigma
+plot, WRPLOT, and reference editing software’s like Mendeley etc. Additionally, other
+software as per requirement may be added in the course.
+Course Outcome:
+1. Students will be able to use Design Expert software to solve various problem in
+Environmental Engineering.
+2. Students will be able to use ArcGIS software to solve various problem in Environmental
+Engineering.
+3. Students will be able to use Chemdraw software to solve various problem in
+Environmental Engineering.
+4. Students will be able to use QUAL2K software to solve various problem in
+Environmental Engineering.
+5. Students will be able to use MATLAB software to solve various problem in
+Environmental Engineering.
+6. Students will be able to use Origin, sigma plot, WRPLOT software to solve various
+problem in Environmental Engineering.
+EE 39 | P age
+
+--- Page 41 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & Pos
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE41P02.1 Students will be able to use Design Expert software to solve various
+problems in Environmental Engineering.
+PCE41P02.2 Students will be able to use ArcGIS software to solve various problems in
+Environmental Engineering.
+PCE41P02.3 Students will be able to use Chemdraw software to solve various problems
+in Environmental Engineering.
+PCE41P02.4 Students will be able to use QUAL2K software to solve various problems in
+Environmental Engineering.
+PCE41P02.5 Students will be able to use MATLAB software to solve various problems in
+Environmental Engineering.
+PCE41P02.6 Students will be able to use Origin, sigma plot, WRPLOT software to solve
+various problems in Environmental Engineering.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41P02.1 3 3 3 2 3 3
+PCE41P02.2 2 3 3 2 3 3
+PCE41P02.3 2 2 2 3 2 2
+PCE41P02.4 3 3 3 3 3 3
+PCE41P02.5 3 3 2 3 3 3
+PCE41P02.6 3 3 3 3 2 2
+Total 16 17 16 16 16 16
+Average 2.67 2.83 2.67 2.67 2.67 2.67
+Equivalent Avg. 3 3 3
+3 3 3
+Attainment
+EE 40 | P age
+
+--- Page 42 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE41P02.1 3 3
+PCE41P02.2 3 3
+PCE41P02.3 3 3
+PCE41P02.4 3 3
+PCE41P02.5 3 3
+PCE41P02.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 41 | P age
+
+--- Page 43 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+SEMINAR
+(PCE41P03)
+Total Credit: 01
+Contact Periods: 02 (0L+0T+2P)
+Course Content:
+Each student will perform presentations in seminar on the topics related to the field of
+Environmental Engineering in order to improve their presentation skills.
+EE 42 | P age
+
+--- Page 44 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Syllabus for M.TECH (Environmental Engineering)
+Second Semester
+Sl. Subject Credit Class Marks
+No. Hours per
+Week
+1 Basic Core 4 4 100
+PCE42C01: Water and wastewater Treatment
+Processes-II
+2 Core Subject-I 4 4 100
+PCE42C02: Solid and Hazardous Waste
+Management
+3 Core Subject-II 4 4 100
+PCE42C03: Ecology & Environmental Impact
+Assessment
+4 Elective Paper-III (PCE42E01) 4 4 100
+One course from Elective Group (excluding the
+course already selected as Elective II)
+5 PCE42P01: Water Pollution Laboratory-II 2 3 100
+6 PCE42P02: Air Pollution Laboratory 2 3 100
+7 PCE42P03: Comprehensive Viva-voice 2 0 100
+8 PCE42P04: Project Preliminaries 3 6 100
+Total 25 28 800
+EE 43 | P age
+
+--- Page 45 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Basic Core
+WATER AND WASTEWATER TREATMENT PROCESSES-II
+(PCE42C01)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the basic characteristics of wastewater
+2. To study design principle of screen, equalization basin, grit chamber and sedimentation
+tank.
+3. To study the Kinetics of biological system.
+4. To have adequate knowledge on principles and design of suspended growth system.
+5. To have adequate knowledge on principles and design of attached growth system.
+6. To study various rural wastewater treatment system
+Course Content:
+Unit 1
+Objectives of wastewater treatment - characteristics, flow variations, types of reactors,
+CSTR and PFR reactors analysis, Wastewater Treatment Flow Diagrams and Hydraulic
+Profile.
+Unit 2
+Theoretical Principles and Design – screens, equalization basin, grit chamber, primary and
+secondary settling tanks.
+Unit 3
+Kinetics of biological treatment systems – biokinetic constants and their determination,
+batch and continuous systems.
+Unit 4
+Theoretical principles and design – suspended growth system – conventional activated
+sludge process and its modifications.
+Unit 5
+Theoretical principles and design – attached growth system – trickling filter, bio-towers
+and rotating biological contractors, Principles and design of stabilization ponds.
+Unit 6
+Sludge Processing – separation – sludge thickeners, volume reduction, conditioning and
+digestion – aerobic and anaerobic.
+EE 44 | P age
+
+--- Page 46 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 7
+Advanced Wastewater Treatment – Need and Technologies used, Nitrification and
+Denitrification Processes, Phosphorous removal. Wastewater disinfection.
+Unit 8
+Rural wastewater systems – septic tanks, two-pit latrines, eco-toilet, soak pits.
+References:
+1. Benefield R.D., and Randal C.W., (1980), <Biological process Design for Wastewater
+Treatment=, Prentice Hall, Englewood Chiffs, New Jersey.
+2. Metcalf and Eddy Inc., (2012), <Wastewater Engineering – Treatment and Reuse=, 4th
+Edition, Tata McGraw Hill Publishing Co. Ltd., New Delhi.
+3. Karia G.L., and Christian R.A., (2013), <Wastewater Treatment Concepts and Design
+Approach=, 2nd Edition, Prentice Hall India Learning Pvt Ltd., New Delhi.
+4. Ronand L., and Droste, (1997), <Theory and Practice of Water and Wastewater
+Treatment=, John Wiley and Sons Inc.
+5. Fair G.M., Geyer J.G and Okun, (2010), <Water-wastewater Engineering= 3rd Edition,
+John Wiley Publications.
+6. Lee c.c., and Lin S.D., (2007), <Handbook of Environmental Engineering
+Calculations=, 2nd Edition, McGraw Hill, New York.
+7. Gaudy, (1972) <Advanced Wastewater Treatment=.
+8. <Industrial Safety and Pollution Control Handbook=, (1991), National Safety Council
+and Associate (Data) Publishers Pvt. Ltd.
+Course outcome:
+1. Students will be able to analyze characteristics of wastewater.
+2. Students will be able to design screen, equalization basin, and sedimentation tank for
+wastewater treatment.
+3. Students will be able to analyze biokinetics parameter of biological system.
+4. Students will be able to design various biological units of suspended and attached
+growth system.
+5. Students will be able to design various biological units of batch and continuous systems.
+6. Students will be able to design various units of rural wastewater system.
+EE 45 | P age
+
+--- Page 47 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE42C01.1 Students will be able to analyze characteristics of wastewater.
+PCE42C01.2 Students will be able to design screen, equalization basin, and sedimentation
+tank for wastewater treatment.
+PCE42C01.3 Students will be able to analyze biokinetics parameter of biological system.
+PCE42C01.4 Students will be able to design various biological units of suspended and
+attached growth system.
+PCE42C01.5 Students will be able to design various biological units of batch and
+continuous systems.
+PCE42C01.6 Students will be able to design various units of rural wastewater system.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE42C01.1 3 2 3 2 3 3
+PCE42C01.2 3 2 3 3 2 2
+PCE42C01.3 3 2 3 3 2 2
+PCE42C01.4 3 2 3 2 3 3
+PCE42C01.5 3 2 3 3 3 2
+PCE42C01.6 3 2 3 3 2 2
+Total 18 12 18 16 15 14
+Average 3 2 3 2.67 2.5 2.33
+Equivalent Avg. 3 2 3 3 3 2
+Attainment
+EE 46 | P age
+
+--- Page 48 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42C01.1 4 3
+PCE42C01.2 4 3
+PCE42C01.3 4 3
+PCE42C01.4 4 3
+PCE42C01.5 4 3
+PCE42C01.6 4 3
+Total 24 18
+Average 4 3
+Equivalent Avg. Attainment 4 3
+EE 47 | P age
+
+--- Page 49 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Core Subject-I
+SOLID AND HAZARDOUS WASTE MANAGEMENT
+(PCE42C02)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objective:
+1. To have basic understanding on sources, characteristics and effects of solid waste.
+2. To study the collection system of solid waste, various waste transformation and
+treatment methods of solid waste.
+3. To have adequate knowledge on E-waste and Bio-medical waste management.
+4. To have adequate knowledge on legislation related to solid and hazardous waste
+management.
+5. To study the treatment and disposal methods of hazardous waste.
+Course content:
+Solid Waste Management
+Unit 1
+Evolution of Solid Waste Management: Sources/Types and Characteristics; Generation;
+Handling, Separation, storage, and Processing at source.
+Unit 2
+Collection and Transportation: Primary and secondary collection; Transfer and Transport.
+Unit 3
+Processing and Treatment: Separation and unit operations; Chemical Transformation
+(combustion/incineration); Biological treatment (Composting, Anaerobic digestion).
+Unit 4
+Special Waste: E-waste management, Plastic and Bio-medical waste management, Street
+sweeping waste.
+Unit 5
+Disposal and Legislation: Landfilling; Rules and legislation; Integrated solid waste
+management (ISWM).
+EE 48 | P age
+
+--- Page 50 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Hazardous Waste Management
+Unit 6
+Evolution of Hazardous Waste Management: Definition; sources/types, generation;
+classification; Magnitude of problem; Risk assessment.
+Unit 7
+Collection, processing and treatment: on-site storage, collect and transportation; Physical,
+Chemical, Thermal and Biological treatment processes.
+Unit 8
+Hazardous waste disposal: Ground water contamination; disposal methods (Secured
+landfill, combustion, Solidification and Stabilization).
+References:
+1. Tchobanoglous G., Theissen H., and Eliassen R. (1993), <Solid Waste Engineering –
+Principles and Management Issues=, 1st Edition, McGraw Hill, New York.
+2. Pavoni J.L (1993)., <Handbook of Solid Waste Disposal=.
+3. Peavy, Rowe and Tchobanoglous (2013), <Environmental Engineering=, McGraw Hill
+Co, 4th Edition.
+4. Mantell C.L., (1975), <Solid Waste Management=, John Wiley.
+5. CPHEEO, Manual on Municipal Solid Waste Management, Central Public Health and
+Environmental Engineering Organization, Government of India, New Delhi, 2016.
+6. WHO (2017) Manual on Solid Waste Management.
+7. Vesiland A. (2016), <Solid Waste Engineering=, Thompson Books, 2nd Edition.
+8. Hazardous waste (Management and Handling) rules, 2001.
+9. Bio-medical Waste Management Rules 2016, CPCB.
+Course outcome:
+1. Students will be able to understand the sources, characteristics and effects of solid
+waste.
+2. Students will be able to understand the collection system of solid waste, various waste
+transformation and treatment methods of solid waste.
+3. Students will be given a broad idea regarding E-waste and Bio-medical waste
+management.
+EE 49 | P age
+
+--- Page 51 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+4. Students will be given a broad idea on legislation related to solid and hazardous waste
+management.
+5. Students will be given a broad idea regarding the treatment and disposal methods of
+hazardous waste.
+Table 1: To establish the correlation between COs & Pos
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE42C02.1 Students will be able to understand the sources, characteristics and effects of
+solid waste.
+PCE42C02.2 Students will be able to understand the collection system of solid waste,
+various waste transformation and treatment methods of solid waste.
+PCE42C02.3 Students will be given a broad idea regarding E-waste and Bio-medical
+waste management.
+PCE42C02.4 Students will be given a broad idea on legislation related to solid and
+hazardous waste management.
+PCE42C02.5 Students will be given a broad idea regarding the treatment and disposal
+methods of hazardous waste.
+EE 50 | P age
+
+--- Page 52 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE42C02.1 3 2 3 3 2 2
+PCE42C02.2 3 2 3 3 3 3
+PCE42C02.3 3 2 3 2 3 2
+PCE42C02.4 3 2 3 3 2 3
+PCE42C02.5 3 2 3 2 3 3
+Total 15 10 15 13 13 13
+Average 3 2 3 2.6 2.6 2.6
+Equivalent Avg. 3 2 3 3 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42C02.1 4 3
+PCE42C02.2 4 3
+PCE42C02.3 4 3
+PCE42C02.4 4 3
+PCE42C02.5 4 3
+Total 20 15
+Average 4 3
+Equivalent Avg. Attainment 4 3
+EE 51 | P age
+
+--- Page 53 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Core Subject-II
+ECOLOGY & ENVIRONMENTAL IMPACT ASSESSMENT
+(PCE42C03)
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objectives:
+1. To make the students able to understand structure and function of ecosystem in
+conservation of different kind of Environmental system.
+2. To have adequate knowledge on principles, modeling and application of ecological
+engineering.
+3. To have adequate knowledge on scope and contents, methodologies and techniques of
+Environmental Impact Assessment.
+4. To have understanding of prediction and assessment of impacts on the surface water
+environment.
+5. To have understanding of prediction and assessment of impacts on the air environment.
+6. To have understanding of prediction and assessment of impacts on the land
+environment.
+7. To understand the basics of risk characterisation and risk reduction.
+8. To have sufficient knowledge of case studies related to Environmental Impact
+Assessment.
+Course content:
+Unit 1
+Ecology – Classification of Ecosystems, Structure and Function of Ecosystems, Energy
+Flow in Ecosystems, Ecological Niche and succession, Bio-geo-chemical cycles,
+Ecological Pyramids.
+Unit 2
+Ecosystems – Biotic and abiotic components, production and consumption, trophic levels,
+productivity and energy flow, food webs, cycling of elements.
+Unit 3
+Changes in ecosystems – Succession, long range changes, long range stability, the
+organization and dynamics of ecological communities, description and study of typical
+natural and artificial ecosystems.
+EE 52 | P age
+
+--- Page 54 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 4
+Principles of ecological engineering – Principles, components and characteristics of
+Systems - Classification of systems - Structural and functional interactions of
+environmental systems - Environmental systems as energy systems - Mechanisms of
+steady-state maintenance in open and closed systems - Modelling and ecotechnology -
+Elements of modelling - Modelling procedure - Classification of ecological models -
+Applications of models in ecotechnology - Ecological economics.
+Unit 5
+Aquatic and Terrestrial Ecosystems – Diversity and dominance Indices, Ecosystem
+Models.
+Unit 6
+Climate change and biodiversity, Application of ecological engineering – Ecosanitation -
+Principles and operation of soil infiltration systems - Wetlands and ponds - Source
+separation systems - Aquacultural systems - Detritus based treatment for solid wastes -
+Applications of ecological engineering for marine systems.
+Unit 7
+Lake Ecosystem – trophic levels, nutrient loading, nutrient enrichment, Leibig’s Law,
+control of eutrophication.
+Unit 8
+Environmental Impact Assessment – Definition, Objectives, Types – Rapid and
+Comprehensive EIA, EIS, FONSI, Step-by-step procedure for conducting EIA and
+Limitations of EIA, Prevention of Significant Deterioration (PSD) Programme.
+Unit 9
+Frame work of Impact Assessment – scope and contents of EIA, methodologies and
+techniques of EIA.
+Unit 10
+Prediction and Assessment of Impacts on the Surface Water Environment – Quality
+Impacts, Quantity Impacts, Water Quality Index, Mass Balances, Quantitative Modeling,
+Water Conservation - Case Study. Prediction and Assessment of Impacts on the
+Groundwater Environment: Hydrogeological Information, Vulnerability Mapping,
+Subsurface Transport and Fate.
+EE 53 | P age
+
+--- Page 55 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 11
+Prediction and Assessment of Impacts on the Air Environment – Air Pollutants Emission,
+Ambient Air Quality and Standards, Emission Inventories, Meteorological Data, Mass
+Balances, Dispersion Models, Pollutant Emissions Minimization - Case Study.
+Unit 12
+Prediction and Assessment of Impacts on the Land Environment – Soil & Geological
+properties, Universal Soil Loss equation, mitigation measures.
+Unit 13
+Risk Assessment – Hazard Identification, Effect Assessment, Risk characterization, Risk
+Reduction.
+Unit 14
+Attributes, Standards and Value functions, public participation in EIA. Environmental
+Management Plan (EMP) and Disaster Management Plan (DMP).
+Unit 15
+EIA Case Studies – Thermal Power Plant, Mining, Fertilizer, Construction Projects,
+Airport, Water and Wastewater Treatment Plants.
+References
+1. Kormandy, (1996), <Concepts of Ecology=, 4th Edition, Prentice Hall publication, New
+Jersey.
+2. Odum, (1974), <Fundamentals of Ecology=, 3rd Edition, W.B. Saunders & CO, NBF.
+3. Krebs J., (2008), <Ecology – The Experimental Analysis of Distribution and
+Abundance=, 6th Edition, Perason International.
+4. Hall C.A.S., and Day J.W. (1977), <Ecosystem Modeling in Theory and Practice: An
+Introduction with Case Histories=, John Willey.
+5. Canter L., (1995), <Environmental Impact Assessment=, 2nd Edition, McGraw Hill
+Higher Education.
+6. Weathern, P., (1982), <Environmental Impact Assessment – Theory and Practice=,
+Unwin Hyman, London.
+7. Jain R.K., Urban L.V., Stacey G.S., (1981), <Environmental Impact Analysis – A New
+Dimension in Decision Making=, 2nd Edition, Van Nostrand Reinhold Co.
+8. Clark B.C., Bisett and Tomilson P, (1985), <Perspective on Environmental Impact
+Assessment=, Allied Publishers.
+Charles, H., (2011), <Environmental Impact Assessment=, 1st Edition, CRC Press.
+9.
+EE 54 | P age
+
+--- Page 56 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+10. Rau and Wooten, (1981). <Environmental Impact Assessment Handbook=, McGraw
+Hill.
+Course outcomes (CO):
+1. Students will be able to understand structure and function of ecosystem in conservation
+of different kind of Environmental system.
+2. Students will be able to understand principles, modeling and application of ecological
+engineering.
+3. Students will have adequate knowledge of scope and contents, methodologies and
+techniques of Environmental Impact Assessment.
+4. Students will have understanding of prediction and assessment of impacts on the
+surface water environment, air environment and land environment.
+5. Students will have understanding of basics of risk characterisation and risk reduction.
+6. Students will have sufficient knowledge of case studies related to Environmental
+Impact Assessment.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE42C03.1 Students will be able to understand structure and function of ecosystem in
+conservation of different kind of Environmental system.
+PCE42C03.2 Students will be able to understand principles, modeling and application of
+ecological engineering.
+PCE42C03.3 Students will have adequate knowledge of scope and contents,
+methodologies and techniques of Environmental Impact Assessment.
+PCE42C03.4 Students will have understanding of prediction and assessment of impacts on
+the surface water environment, air environment and land environment.
+PCE42C03.5 Students will have understanding of basics of risk characterisation and risk
+reduction.
+PCE42C03.6 Students will have sufficient knowledge of case studies related to
+Environmental Impact Assessment.
+EE 55 | P age
+
+--- Page 57 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE42C01.1 3 2 3 2 3 3
+PCE42C01.2 3 2 3 3 2 2
+PCE42C01.3 3 2 3 3 2 2
+PCE42C01.4 3 2 3 2 3 3
+PCE42C01.5 3 2 3 3 3 2
+PCE42C01.6 3 2 3 3 2 2
+Total 18 12 18 16 15 14
+Average 3 2 3 2.67 2.5 2.33
+Equivalent Avg. 3 2 3 3 3 2
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42C03.1 3 3
+PCE42C03.2 3 3
+PCE42C03.3 3 3
+PCE42C03.4 3 3
+PCE42C03.5 3 3
+PCE42C03.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 56 | P age
+
+--- Page 58 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+WATER POLLUTION LABORATORY-II
+(PCE42P01)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To gain knowledge about the determination technique of Arsenic and fluoride
+concentrations in water samples
+2. To determine the optimum coagulant dose for a water and wastewater sample using Jar
+test
+3. To obtain concentration of various metal present in water samples.
+4. To understand the importance of water quality Index (WQI) and its application
+5. To measure various water pollutants using colorimetry method.
+6. To measure various water quality parameter using Gas chromatography.
+Course Content:
+1. Determination of Arsenic and fluoride concentrations in water samples.
+2. Determination of optimum coagulant dose by Jar test for any water/wastewater sample
+3. Determination of metal concentrations (Eg. iron, chromium, cadmium, or other heavy
+metals) in water and wastewater sample
+4. Determination of water quality Index (WQI) of surface and groundwater sources using
+WQI methods like CCME WQI, NSF WQI, Bhargava WQI or any other well-known
+WQI methods
+5. Application of colorimetry for determination of concentration of several water
+pollutants (Eg, synthetic dyes in single and binary systems).
+6. Application of Gas chromatography for water and wastewater sample analysis
+Course Outcome:
+1. Students will be able to analyse Arsenic and fluoride concentrations in water samples.
+2. Students will be able to determine alum required to coagulate a given sample of raw
+water using Jar test
+3. Students will be able to determine concentration of various metal present in water
+samples.
+4. Students will be able determine the water quality Index (WQI)
+5. Students will be able to determine various water quality parameters using Gas
+chromatography.
+EE 57 | P age
+
+--- Page 59 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+6. Students will be able to determine the concentration of various water pollutants using
+colorimetry method.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE42P01.1
+Students will be able to analyse Arsenic and fluoride concentrations in water
+samples.
+PCE42P01.2
+Students will be able to determine alum required to coagulate a given sample
+of raw water using Jar test
+PCE42P01.3
+Students will be able to determine concentration of various metal present in
+water samples.
+PCE42P01.4
+Students will be able to determine concentration of various metal present in
+water samples.
+PCE42P01.5
+Students will be able to determine various water quality parameter using Gas
+chromatography.
+PCE42P01.6
+Students will be able to determine various water quality parameter using
+colorimetry method.
+EE 58 | P age
+
+--- Page 60 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE41P02.1 3 3 3 2 2 3
+PCE41P02.2 3 3 3 2 2 3
+PCE41P02.3 3 3 3 2 3 3
+PCE41P02.4 3 3 2 2 3 2
+PCE41P02.5 3 3 3 3 2 2
+PCE41P02.6 2 3 3 3 3 2
+Total 17 18 17 14 15 15
+Average 2.83 3 2.83 2.33 2.5 2.5
+Equivalent Avg. 3 3 3 2 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42P01.1 3 3
+PCE42P01.2 3 3
+PCE42P01.3 3 3
+PCE42P01.4 3 3
+PCE42P01.5 3 3
+PCE42P01.6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 59 | P age
+
+--- Page 61 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+AIR POLLUTION LABORATORY
+(PCE42P02)
+Total Credit: 02
+Contact Periods: 03 (0L+0T+3P)
+Courses Objective:
+1. To measure suspended particulate matter (SPM) concentration in air.
+2. To analyse the vehicular emission.
+3. To grasp the significance of ambient air quality monitoring.
+4. To obtain SO and NO concentration in air.
+X X
+5. To measure of Sound Pressure Level and noise pollution by sound meter.
+6. To understand the nature and scope of environmental education with regards to Field
+survey Brick kiln sites, CNG sites.
+Course Content:
+1. Measurement of suspended particulate matter (SPM) concentration in air.
+2. Measurement of vehicular emission
+3. Ambient air quality monitoring.
+4. Determination of SO and NO concentration in air
+X X
+5. Measurement of Sound Pressure Level and noise pollution by sound meter.
+6. Field survey Brick kiln sites, CNG sites.
+Course Outcome:
+1. Students will be able to determine suspended particulate matter (SPM) concentration in
+air.
+2. Students will be able to determine measure vehicular emission.
+3. Students will be able to grasp the significance of Ambient air quality monitoring.
+4. Students will be able to determine SO and NO concentration in air.
+X X
+5. Students will be able to determine Sound Pressure Level and noise pollution by sound
+meter.
+6. Students will be able to understand how to control air pollution at Brick kiln sites, CNG
+sites.
+EE 60 | P age
+
+--- Page 62 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+PCE42P02.1 Students will be able to determine suspended particulate matter (SPM)
+concentration in air.
+PCE42P02.2 Students will be able to determine measure vehicular emission.
+PCE42P02.3 Students will be able to grasp the significance of Ambient air quality
+monitoring.
+PCE42P02.4 Students will be able to determine SO and NO concentration in air.
+X X
+PCE42P02.5 Students will be able to determine Sound Pressure Level and noise pollution
+by sound meter.
+PCE42P02.6 Students will be able to understand how to control air pollution at Brick kiln
+sites, CNG sites.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+PCE42P02.1 3 2 3 3 3 3
+PCE42P02.2 3 3 3 2 3 3
+PCE42P02.3 3 3 3 3 2 2
+PCE42P02.4 2 3 3 2 3 2
+PCE42P02.5 3 3 2 2 2 2
+PCE42P02.6 3 3 3 2 3 2
+Total 17 17 17 14 16 14
+Average 2.83 2.83 2.83 2.33 2.67 2.33
+Equivalent Avg. 3 3 3 2 3 2
+Attainment
+EE 61 | P age
+
+--- Page 63 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+PCE42P01.1 2 2
+PCE42P01.2 2 2
+PCE42P01.3 2 2
+PCE42P01.4 2 2
+PCE42P01.5 2 2
+PCE42P01.6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. Attainment 2 2
+EE 62 | P age
+
+--- Page 64 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+COMPREHENSIVE VIVA-VOCE
+(PCE42P03)
+Total Credit: 02
+Contact Periods: 00 (0L+0T+0P)
+Each student will be assessed based on the overall performance in the subject matters
+related to Environmental Engineering and their ability to communicate effectively.
+PROJECT PRELIMINARY
+(PCE42P04)
+Total Credit: 03
+Contact Periods: 06 (0L+0T+6P)
+The Project preliminary will involve the introduction for each student’s individual thesis
+work by their own with the help of supervisor. A research problem needs to be identified
+after through literature review and finding the research gap. Some preliminary findings and
+results are to be presented preferably with literature review in the form of thesis where
+detail reports/photographic records / drawings / computer printout need to be incorporated.
+Presentation in seminar will be encouraged.
+EE 63 | P age
+
+--- Page 65 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Elective Pool
+(Selected Electives will be offered in each semester based on available faculties)
+Sl. Subject Credit Class Marks
+No. Hours
+per
+Week
+Remote Sensing and GIS in Environmental 4 4 100
+1
+Engineering
+2 Hydraulics & Water Resources Engineering 4 4 100
+Water Distribution and Wastewater Collection 4 4 100
+3
+System Design
+4 Air and Water Quality Modelling 4 4 100
+5 Environmental Planning and Management 4 4 100
+6 Industrial Pollution Control 4 4 100
+7 Advanced Environmental Biotechnology 4 4 100
+8 Management of Water Resources 4 4 100
+9 Renewable Energy System 4 4 100
+10 Geo-environmental Engineering 4 4 100
+EE 64 | P age
+
+--- Page 66 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+REMOTE SENSING AND GIS IN ENVIRONMENTAL ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To make the students conversant with basic of GIS and its general application in various
+fields.
+2. To have adequate knowledge on Type of data and information handled in GIS.
+3. To have adequate knowledge on various GIS analysis operations with vector data.
+4. To have adequate knowledge on various GIS analysis operations with Raster data.
+5. To understand Remote sensing and its basic along with its application in Environmental
+Engineering.
+6. To have practical knowledge about handing geo-spatial data.
+Course Content:
+Unit 1
+Introduction/Fundamental to GIS (History of GIS, Early developments in GIS, components
+of GIS, Applications of GIS)
+Unit 2
+Spatial Data Modelling (Representation of spatial data, Raster & vector data model, TIN &
+DEM), Geo-referencing and Projection (Coordinate System, Map Projection,
+Transformation, Geo-referencing),Map and Map Scales (Introduction to Maps, Map
+Scales, Types of Maps, Map and Globe)
+Unit 3
+Data Base Management system (Data Storage, Database Structure Models, GIS Data File
+Management), Spatial data (Primary data, Secondary data, Data pre-processing)
+Practical S -2
+Unit 4
+Data Analysis (Vector operation & analysis, Raster operation & analysis, Network
+Analysis), Interpolation Technique (Global Methods of Interpolation, Local Methods of
+Interpolation) Practical S -3
+Unit 5
+Cartographic Principles and Design (Introduction, Map layout, Toposheet, component of
+Map), GPS, Introduction to Remote sensing and its application
+EE 65 | P age
+
+--- Page 67 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+References
+1. Burrough P A., (1986), "GIS for Land Resource Assessment", Oxford University Press,
+U.K.
+2. Star J.L., and Estes J.E., (1990). "Geographic Information Systems; An Introduction".
+Prentice Hall Publications.
+3. Laurini R. and Thompson D., (1992), "Fundamentals of Spatial Information Systems",
+1st Edition, Academic Press.
+4. Mishra H.C., (1997), "GIS Handbook", GIS India, ShanthiNivas, Hyderabad.
+5. Anji Reddy, (2012), "Textbook of Remote Sensing and GIS", 4th Edition, B.S.
+Publications, Hyderabad.
+6. Floyd F. Sabins, (1996) "Remote Sensing - Principles and Interpretations", 3rd Edition,
+W.H. Freeman & Co.
+7. Michael N. Demas. (2000), "Fundamentals of GIS", John Wiley & Sons, Inc.
+Course Outcome:
+1. Students will be able to understand basics about GIS and RS
+2. Students will be able to understand the practical application of GIS & RS in
+Environmental Engineering.
+3. Students will be able to analysis and visualize their own data sets in GIS domain
+4. Students will be able to download and process various data obtained from various RS
+platform
+5. Students will be able to use the knowledge to solve practical real life problem and help
+in planning & management.
+EE 66 | P age
+
+--- Page 68 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & Pos
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1
+Students will be able to understand basics about GIS and RS
+CO-2
+Students will be able to understand the practical application of GIS & RS in
+Environmental Engineering.
+CO-3
+Students will be able to analysis and visualize their own data sets in GIS
+domain
+CO-4
+Students will be able to download and process various data obtained from
+various RS platform
+CO-5
+Students will be able to use the knowledge to solve practical real life problem
+and help in planning & management.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 3 3 3 2 2
+CO-2 3 3 3 3 3 2
+CO-3 3 3 3 2 3 3
+CO-4 3 3 3 3 2 2
+CO-5 3 3 3 2 2 3
+Total 15 15 15 13 12 12
+Average 3 3 3 2.6 2.4 2.4
+Equivalent Avg.
+3 3 3 3 2 2
+Attainment
+EE 67 | P age
+
+--- Page 69 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 2
+CO-2 3 2
+CO-3 3 2
+CO-4 3 2
+CO-5 3 2
+Total 18 12
+Average 3 2
+Equivalent Avg. Attainment 3 2
+EE 68 | P age
+
+--- Page 70 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+HYDRAULICS & WATER RESOURCES ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the basic concepts of surface water hydrology.
+2. To study the design principles of wastewater collection systems.
+3. To study the hydraulics of ground water & groundwater hydrology.
+4. To have adequate knowledge on balancing of reservoir capacity.
+5. To have adequate knowledge on open channel flow and drainage system.
+6. To have adequate knowledge on free surface seepage flow in earth dams.
+Course content:
+Unit 1
+Surface water hydrology: Basic concepts of hydrology; structure and composition of
+atmosphere, air mass, cold and warm fronts; atmospheric temperature and it
+variations; vapour pressure and relative humidity; evaporation and evapo-transpiration;
+types and forms of precipitation; measurement of precipitation and other atmospheric
+parameters.
+Unit 2
+Water supply and distribution of water, collection of waste water: Design principles of
+wastewater collection systems: separate, combined and semi-combined sewers; Estimation
+of dry weather flows; Design of sewer networks, Sewer pipe hydraulics: sizing of pipes and
+design.
+Unit 3
+Hydraulics of ground water & groundwater hydrology: The continuum approach to
+transport in subsurface hydrology; Darcy's law and its generalization; flow through
+saturated and unsaturated porous formations; well hydraulics, analysis of pumping test
+data, ground water recharge.
+Unit 4
+Balancing of reservoir capacity.
+Unit 5
+Pipe flow and pipe networks: Continuity Equation, Energy Equation, Hydraulic and Energy
+Grade Lines, Head Loss Models: Darcy-Weisbach and Moody Chart, Hazen-Williams, etc.
+Conduit Systems, Branching Pipes, Pipe network design.
+EE 69 | P age
+
+--- Page 71 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 6
+Open channel flow and drainage system.
+Unit 7
+Pneumatic systems.
+Unit 8
+Pumping stations.
+Unit 9
+Free surface seepage flow in earth dams
+References
+1. Chow, V.T., Maidment, D.R., Mays, L.W., (2017), Applied Hydrology, 1st Edition,
+McGraw Hill Education.
+2. Todd, D.K., (2011), Ground Water Hydrology, Third Edition, Wiley India Pvt Ltd.
+3. Garg, S. K., (2001), <Water Supply Engineering=, Khanna Publication.
+4. Garg, S. K., (2005), <Sewage Disposal and Air Pollution Engineering=, Khanna
+Publication.
+5. Peavey, H.S., Rowe and Tchobonoglous,G., (2017), <Environmental Engineering=, 1st
+Edition, McGraw Hill.
+6. McGhee, T. J., (1991). <Water Supply and Sewerage, 6th Edition, McGraw Hill
+International.
+Course outcome:
+1. Students will be able to understand basic concepts of surface water hydrology.
+2. Students will be able to understand the design principles of wastewater collection
+systems.
+3. Students will be able to get adequate knowledge on the hydraulics of ground water &
+groundwater hydrology.
+4. Students will be able to understand the balancing of reservoir capacity.
+5. Students will be able to get adequate knowledge on open channel flow and drainage
+system.
+6. Students will be able to understand free surface seepage flow in earth dams.
+EE 70 | P age
+
+--- Page 72 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand basic concepts of surface water
+hydrology.
+CO-2 Students will be able to understand the design principles of wastewater
+collection systems.
+CO-3 Students will be able to get adequate knowledge on the hydraulics of ground
+water & groundwater hydrology.
+CO-4 Students will be able to understand the balancing of reservoir capacity.
+CO-5 Students will be able to get adequate knowledge on open channel flow and
+drainage system.
+CO-6 Students will be able to understand free surface seepage flow in earth dams.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 3 3 2 2 3
+CO-2 3 2 3 3 3 2
+CO-3 3 3 3 2 3 3
+CO-4 3 2 3 3 2 3
+CO-5 3 3 3 3 2 2
+CO-6 3 2 3 3 3 2
+Total 18 15 18 16 15 15
+Average 3 2.5 3 2.67 2.5 2.5
+Equivalent Avg.
+3 3 3 3 3 3
+Attainment
+EE 71 | P age
+
+--- Page 73 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 2
+CO-2 3 2
+CO-3 3 2
+CO-4 3 2
+CO-5 3 2
+CO-6 3 2
+Total 18 12
+Average 3 2
+Equivalent Avg. Attainment 3 2
+EE 72 | P age
+
+--- Page 74 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+WATER DISTRIBUTION AND WASTEWATER COLLECTION SYSTEM
+DESIGN
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the water supply system and its components.
+2. To grasp the significance of Design period, Factors affecting water consumption and
+variation in demand.
+3. To understand the design of water distribution network.
+4. To understand the design parameters and methods of service reservoirs.
+5. To understand the design principles of wastewater collection systems.
+6. To understand maintenance of water supply and wastewater systems.
+Course content:
+Unit 1
+Components of water supply systems: Water use and demand estimation, Design period,
+population data and flow rates for water supply systems, Factors affecting water
+consumption and variation in demand.
+Unit 2
+Design of water distribution systems, methods of analysis for optimal distribution network
+design. Types of reservoirs and design parameters and methods: Design of water pumping
+stations.
+Unit 3
+Design principles of wastewater collection systems: separate, combined and semi-
+combined sewers; Estimation of dry weather flows; Sewer pipe hydraulics: sizing of pipes
+and design; Manhole chambers and storm water overflows; Pumping stations, screens and
+inverted screens, Maintenance of water supply and wastewater systems.
+References
+1. Peavey, H.S., Rowe and Tchobonoglous,G., (2017), <Environmental Engineering=, 1st
+Edition, McGraw Hill.
+2. McGhee, T. J., (1991). <Water Supply and Sewerage, 6th Edition, McGraw Hill
+International.
+3. Garg, S. K., (2001), <Water Supply Engineering=, Khanna Publication.
+EE 73 | P age
+
+--- Page 75 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+4. Garg, S. K., (2005), <Sewage Disposal and Air Pollution Engineering=, Khanna
+Publication.
+Course outcome:
+1. Students will be able to learn about the water supply system and its components.
+2. Students will be able to about Design period, Factors affecting water consumption and
+variation in demand.
+3. Students will be able to design water distribution network.
+4. Students will be able to design service reservoirs.
+5. Students will be able to learn the design principles of wastewater collection systems.
+6. Students will be able to understand about maintenance of water supply and wastewater
+systems.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to learn about the water supply system and its
+components.
+CO-2 Students will be able to about Design period, Factors affecting water
+consumption and variation in demand.
+CO-3 Students will be able to design water distribution network.
+CO-4 Students will be able to design service reservoirs.
+CO-5 Students will be able to learn the design principles of wastewater collection
+systems.
+CO-6 Students will be able to understand about maintenance of water supply and
+wastewater systems.
+EE 74 | P age
+
+--- Page 76 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 2 3 2 2 2 3
+CO-2 3 3 3 2 2 3
+CO-3 3 3 3 2 2 3
+CO-4 3 3 3 2 2 3
+CO-5 3 3 3 2 2 3
+CO-6 3 3 3 2 2 3
+Total 17 18 17 12 12 18
+Average 2.83 3.00 2.83 2.00 2.00 3.00
+Equivalent Avg.
+3 3 3 2 2 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 2 2
+CO-2 2 2
+CO-3 2 2
+CO-4 2 2
+CO-5 2 2
+CO-6 2 2
+Total 12 12
+Average 2 2
+Equivalent Avg. Attainment 2 2
+EE 75 | P age
+
+--- Page 77 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+AIR AND WATER QUALITY MODELING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the importance of mathematical models for water and air quality
+management.
+2. To understand the cause and effect of surface water quality
+3. To assess required level of controls in surface water quality modeling
+4. To develop a clear conceptual model to predict ground water contaminants
+5. To study about computer-based modeling for surface and ground water quality
+6. To understand the ambient air quality standards.
+Course content:
+Unit 1
+Systems Approach: Water and air quality management - Role of mathematical models,
+systems approach - systems and models - kinds of mathematical models - model
+development and validation effluent and stream standards, ambient air quality standards.
+Unit 2
+Surface Water Quality Modeling: Water quality description, various characteristics of
+water, water quality criteria and standards. Elements of reaction kinetics, spatial and
+temporal aspects of contaminant transport, transport mechanism-advection, diffusion,
+dispersion. Historical development of water quality models: rivers and streams water
+quality modeling river hydrology and flow - low flow analysis - dispersion and mixing -
+flow, depth, and velocity estuaries - estuarine transport, net estuarian flow, estuary
+dispersion coefficient; Lakes and impoundments - water quality response to inputs, water
+quality modeling process- model sensitivity - assessing model performance; Models for
+dissolved oxygen, pathogens: Streeter - Phelps models.
+Unit 3
+Air Quality Modeling: Transport and dispersion of air pollutants - Kinetics of air pollutants:
+Atmospheric advection-diffusion of pollutants; Fick’s law of diffusion, wind velocity. wind
+speed and turbulence: estimating concentrations from point sources, area sources and line
+sources of pollution; - the Gaussian Equation - determination of dispersion parameters,
+atmospheric stability, Pasquill-Gifford stability classes; Inversions; Potential temperature
+gradient, dispersion instrumentation - Atmospheric traces: concentration variation with
+EE 76 | P age
+
+--- Page 78 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+averaging time: Air pollution modeling and prediction - Plume behavior; Mixing heights,
+Plume rise, modeling techniques, modeling for nonreactive pollutants, single source - short
+term impact: multiple sources and area sources, model performance, accuracy and
+utilization: computer models. Advanced techniques in air quality modeling: Artificial
+Neural Networks (ANN), Hybrid modeling approach, Fuzzy logic theory (FLT), and
+Environmental wind tunnel (physical) models.
+Unit 4
+Groundwater Quality Modeling: Mass transport of solutes, degradation of organic
+compounds, application of concepts to predict groundwater contaminant movement.
+Ground water remediation.
+Unit 5
+Computer Models: Exposure to computer models for surface water quality, groundwater
+quality and air quality.
+References:
+1. Steven C. Chapra, (2008), <Surface Water quality modeling=, The McGraw-Hill
+Companies, Inc., New York.
+2. R.W. Boubel, D.L. Fox, D.B. Turner & A.C. Stern, (2008), "Fundamentals of Air
+pollution=, 4th Edition, Academic Press, New York.
+3. Ralph A. Wurbs, (1995), "Water Management Models - A Guide to Software=, Prentice
+Hall PTR, Facsimile edition, New Jersey,
+4. Thomann, R.V. and Mueller, J.A., (1997), First Edition, Principles of surface water
+quality modeling and control, Pearson Education India.
+5. Barratt, R., Atmospheric Dispersion Modeling, Earthscan Publication Ltd, 2003
+Course outcome:
+1. Students will be able to understand importance of mathematical models for water and
+air quality management.
+2. Students will be given a broad idea to understand the cause and effect of surface water
+quality
+3. Students will be able to assess required level of controls in surface water quality
+modeling.
+4. Students will be able to develop a clear conceptual model to predict ground water
+contaminants.
+EE 77 | P age
+
+--- Page 79 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+5. Students will be able to understand the ambient air quality standards.
+6. Students will be able to aware of various computer-based modeling for surface and
+ground water quality.
+Table 1: To establish the correlation between COs & Pos
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand importance of mathematical models for
+water and air quality management.
+CO-2 Students will be given a broad idea to understand the cause and effect of
+surface water quality
+CO-3 Students will be able to assess required level of controls in surface water
+quality modeling.
+CO-4 Students will be able to develop a clear conceptual model to predict ground
+water contaminants.
+CO-5 Students will be able to understand the ambient air quality standards.
+CO-6 Students will be able to aware of various computer-based modeling for
+surface and ground water quality
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 2 3 2 2 2 3
+CO-2 3 3 3 2 2 3
+CO-3 3 3 3 2 2 3
+CO-4 3 3 3 2 2 3
+CO-5 3 3 3 2 2 3
+CO-6 3 3 3 2 2 3
+Total 17 18 17 12 12 18
+Average 2.83 3.00 2.83 2.00 2.00 3.00
+Equivalent Avg.
+3 3 3 2 2 3
+Attainment
+EE 78 | P age
+
+--- Page 80 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3
+CO-4 3 3
+CO-5 3 3
+CO-6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 79 | P age
+
+--- Page 81 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+ENVIRONMENTAL PLANNING AND MANAGEMENT
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses objective:
+1. To understand the basic theory of environment and sustainable development.
+2. To study the engineering methodology in planning and its limitations.
+3. To study the environmental protection.
+4. To have adequate knowledge on environmental impact assessment.
+5. To have adequate knowledge on engineering and environmental economics.
+6. To have adequate knowledge on total quality management in environmental
+management and protection.
+Course content:
+Unit 1
+Environment and Sustainable Development - carrying capacity, relationship with quality
+of life, carrying, indicators of sustainability, sustainability strategies, barriers to
+sustainability, resource utilization, resource degradation, industrial ecology, socio
+economic policies for sustainable development and clean development mechanism.
+Unit 2
+Engineering Methodology in Planning and Its Limitations - carrying capacity based short-
+and long-term regional planning.
+Unit 3
+Environmental impact assessment (EIA) - definitions and concepts, rationale and historical
+development of EIA, sustainable development, initial environmental examination,
+environmental impact statement, environmental appraisal, environmental impact factors
+and areas of consideration, measurement of environmental impact, organization, scope and
+methodologies of EIA, status of EIA in India.
+Unit 4
+Environmental Protection - Economic development and social welfare consideration in
+socio economic developmental policies and planning.
+Unit 5
+Total cost of development and environmental protection cost. Case studies on Regional
+carrying capacity.
+EE 80 | P age
+
+--- Page 82 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit 6
+Engineering Economics - Value Engineering, Time Value of Money, Cash Flows,
+Budgeting and Accounting.
+Unit 7
+Environmental Economics: Introduction, economic tools for evaluation, Green GDP,
+Cleaner development mechanisms and their applications.
+Unit 8
+Environmental Audit - methods, procedure, environmental audit versus accounts audit,
+compliance audit, methodologies and regulations reporting and case studies, Life cycle
+assessment; Triple bottom line approach.
+Unit 9
+Total Quality Management in Environmental Management and Protection - ISO 9000,
+14000 and 18000 series of standards.
+Referencs:
+1. Lohani B.N and North A.M., (1984)., "Environmental Quality Management", South
+Asian Publishers, New Delhi.
+2. Chanlett E.T., (1979), <Environmental Protection=, McGraw Hill Publication, New
+York.
+3. Danoy G.E., and Warner R.F., (1989), "Planning and Design of Engineering Systems",
+First Edition, CRC press, Unwin Hyman Publications.
+4. MOEF, Government of India, "Carrying Capacity Based Developmental Planning
+Studies for the National Capital Region", 1995-96.
+5. NEERI, Nagpur, Annual Reports 1995 & 1996.
+6. UNEP/UNDP (2012) "Environmental Sustainable Development".
+Course outcome:
+1. Students will be able to understand the theory of environment and sustainable
+development.
+2. Students will be able to understand the engineering methodology in planning and its
+limitations.
+3. Students will be able to get adequate knowledge on environmental protection.
+4. Students will be able to assess the environmental impact.
+EE 81 | P age
+
+--- Page 83 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+5. Students will be able to get adequate knowledge on engineering and environmental
+economics.
+6. Students will be able to understand total quality management in environmental
+management and protection.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand the theory of environment and sustainable
+development.
+CO-2 Students will be able to understand the engineering methodology in planning
+and its limitations.
+CO-3 Students will be able to get adequate knowledge on environmental
+protection.
+CO-4 Students will be able to assess the environmental impact.
+CO-5 Students will be able to get adequate knowledge on engineering and
+environmental economics.
+CO-6 Students will be able to understand total quality management in
+environmental management and protection.
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 3 3 2 3 3
+CO-2 3 3 3 2 3 3
+CO-3 3 3 3 2 3 3
+CO-4 3 3 3 2 3 3
+CO-5 2 3 3 2 3 3
+CO-6 3 3 3 2 3 3
+Total 17 18 18 12 18 18
+Average 2.83 3.00 3.00 2.00 3.00 3.00
+Equivalent Avg.
+3 3 3 2 3 3
+Attainment
+EE 82 | P age
+
+--- Page 84 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 2
+CO-2 3 2
+CO-3 3 2
+CO-4 3 2
+CO-5 3 2
+CO-6 3 2
+Total 18 12
+Average 3 2
+Equivalent Avg. Attainment 3 2
+EE 83 | P age
+
+--- Page 85 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+INDUSTRIAL POLLUTION CONTROL
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objectives:
+1. To have sufficient knowledge on Engineering ethics, environment and Ecological.
+2. To have sufficient knowledge on fundamentals of EIA and ESA.
+3. To have better understanding of Industrial Air pollution management.
+4. To have adequate knowledge on Wastewater treatment processes.
+5. To have understanding of advanced wastewater treatment processes.
+6. To have sufficient knowledge on Hazardous Waste Management.
+Course content:
+Unit 1
+Engineering ethics and environment. Ecological systems and pollution. Fundamental
+definitions of pollution parameters, Standards and legislation, EIA and ESA. Air and water
+pollution management through waste minimization.
+Unit 2
+Industrial Air pollution management - air pollution meteorology (Generation,
+transportation and dispersion of air pollutants). Outlines of industrial air pollution control.
+Selection, design and performance analysis of air pollution control equipment.
+Unit 3
+Industrial Water pollution management - Wastewater treatment processes and advanced
+wastewater treatment processes.
+Unit 4
+Hazardous Waste Management - Sources, Classification, Regulations for Hazardous Waste
+Management, Waste Minimization and Resource Recovery – Approaches, Development of
+a Waste Tracking, Treatment of hazardous waste, Thermal treatment, Soil contamination
+and site remediation, monitoring of disposal sites.
+References:
+1. Jr. W. Eckenfelder (2007), <Industrial Waste Water Pollution Control=, McGrawHill
+Exclusive (CBS).
+2. Pichtel J., (2014), <Waste Management Practices: Municipal, Hazardous and
+Industrial=, 2nd Edition, CRC Press.
+EE 84 | P age
+
+--- Page 86 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+3. Bhatia, S. C., (2007), <Solid and Hazardous Waste Management=, 1st Edition, Atlantic
+Publishers & Distributors.
+4. Rao, C.S., (2018), <Environmental Pollution Control Engineering=, 3rd Edition, New
+Age International Publishers.
+5. De Nevers, N., (2000), <Air Pollution Control Engineering=, 2nd Edition, McGraw-Hill
+Education.
+6. Nemerow, N. L., (1978), <Industrial water pollution: Origin, characteristics and
+treatment=, Addison-Wesley Educational Publishers Inc.
+Course outcomes (CO):
+1. Students will be able to understand fundamentals of Engineering ethics, environment
+and Ecological.
+2. Students will have knowledge on EIA and ESA.
+3. Students will have adequate knowledge Industrial Air pollution management.
+4. Students will have understanding of designing Wastewater treatment processes.
+5. Students will have understanding of designing of advance Wastewater treatment
+processes.
+6. Students will have sufficient knowledge on Hazardous Waste Management.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand fundamentals of Engineering ethics,
+environment and Ecological.
+CO-2 Students will have knowledge on EIA and ESA.
+CO-3 Students will have adequate knowledge Industrial Air pollution
+management.
+CO-4 Students will have understanding of designing Wastewater treatment
+processes.
+CO-5 Students will have understanding of designing of advance Wastewater
+treatment processes.
+CO-6 Students will have sufficient knowledge on Hazardous Waste Management.
+EE 85 | P age
+
+--- Page 87 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 2 1 1 2 3 3
+CO-2 2 1 1 3 2 3
+CO-3 3 3 3 2 3 2
+CO-4 3 3 3 3 2 3
+CO-5 3 3 3 3 2 2
+CO-6 3 3 3 2 3 2
+Total 16 14 14 15 15 16
+Average 2.67 2.33 2.33 2.5 2.5 2.67
+Equivalent Avg.
+3 2 2 3 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3
+CO-4 3 3
+CO-5 3 3
+CO-6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 86 | P age
+
+--- Page 88 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+ADVANCED ENVIRONMENTAL BIOTECHNOLOGY
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objectives:
+1. To have sufficient knowledge on fundamentals of Environment and Microbiology.
+2. To have adequate knowledge on Microbial Genetics, metabolism, Health and hygiene,
+interactions and Toxicology.
+3. To have better understanding on microbiology of Suspended Growth Process.
+4. To have better understanding on microbiology of Attached Growth Process.
+5. To have understanding of Bioremediation of Hazardous contaminants and emerging
+contaminants, Environmental sustainability.
+6. To have sufficient knowledge on Environmental sustainability, Bio-fertilizers and
+Biopesticide.
+Course content:
+Unit 1
+Review of concepts of Environment and Microbiology, Microbial Ecology, Microbial
+energetics, Microbial kinetics.
+Unit 2
+Concept of Microbial Genetics, Microbial metabolism, Microbiology of Health and
+hygiene, Microbial interactions, Microbial Toxicology, Degradation of Xenobiotics.
+Unit 3
+Microbiology of wastewater: Suspended Growth Process- Aerobic and Anaerobic, Biofilm
+kinetics, Attached Growth Process- Aerobic and Anaerobic, Biological nutrient removal,
+Facultative Processes.
+Unit 4
+Biodegradability, Bioremediation: Engineering strategies for bioremediation, Microbial
+Remediation of Solid-wastes, Bioremediation of Hazardous contaminants and emerging
+contaminants, Environmental sustainability, Bio-fertilizers and Biopesticide.
+References:
+1. Metcalf and Eddy Inc., (2012), <Wastewater Engineering – Treatment and Reuse=, 4th
+Edition, Tata McGraw Hill Publishing Co. Ltd., New Delhi.
+2. Odum, (1974), <Fundamentals of Ecology=, 3rd Edition, W.B. Saunders & CO, NBF.
+EE 87 | P age
+
+--- Page 89 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+3. R.L. Smith, (2000), <Ecology and field biology=, 6th Edition, Benjamin Cummings.
+4. Manahan S.E., (2009), <Principals of Environmental chemistry=, 9th Edition, CRC
+press.
+5. R.B. Philip, (1995), <Environmental hazards & human health=, Lewis Publisher, Boca
+Raton, FL.
+6. Uppadahay A., Uppadahay K., and Nath N. <Principles of Biophysical chemistry=, 7th
+Edition, Principles and Techniques of Biochemistry and Molecular Biology.
+7. Pelczar M.J, Chan ECS, Krieg, NR(2004) <Textbook of Microbiology= 5th edition Tata
+McGraw Hill Publishing Co. Ltd., New Delhi.
+Course outcomes (CO):
+1. Students will be able to understand fundamentals of Environment and Microbiology.
+2. Students will have knowledge on Microbial Genetics, metabolism, Health and hygiene,
+interactions and Toxicology.
+3. Students will have adequate knowledge on microbiology of Suspended Growth
+Process.
+4. Students will have adequate knowledge on microbiology of Attached Growth Process.
+5. Students will have understanding of Bioremediation of Hazardous contaminants and
+emerging contaminants, Environmental sustainability.
+6. Students will have sufficient knowledge on Environmental sustainability, Bio-
+fertilizers and Biopesticide.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand fundamentals of Environment and
+Microbiology.
+CO-2 Students will have knowledge on Microbial Genetics, metabolism, Health
+and hygiene, interactions and Toxicology.
+CO-3 Students will have adequate knowledge on microbiology of Suspended
+Growth Process.
+CO-4 Students will have adequate knowledge on microbiology of Attached Growth
+Process.
+CO-5 Students will have understanding of Bioremediation of Hazardous
+contaminants and emerging contaminants, Environmental sustainability.
+CO-6 Students will have sufficient knowledge on Environmental sustainability,
+Bio-fertilizers and Biopesticide.
+EE 88 | P age
+
+--- Page 90 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 2 1 1 2 3 3
+CO-2 3 3 1 3 2 3
+CO-3 3 3 3 2 3 2
+CO-4 3 3 3 3 2 3
+CO-5 3 3 3 3 2 2
+CO-6 2 3 2 2 3 2
+Total 16 16 13 15 15 16
+Average 2.67 2.67 2.17 2.5 2.5 2.67
+Equivalent Avg.
+3 3 2 3 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3
+CO-4 3 3
+CO-5 3 3
+CO-6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 89 | P age
+
+--- Page 91 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+RENEWABLE ENERGY SYSTEM
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To impart the fundamental concepts of new and renewable energy systems.
+2. To make quantitative judgments and perform computations of the different subsystems
+of solar energy systems.
+3. To learn about the different technologies available in location selection, resource
+assessment and conversion of wind energy.
+4. To provide the knowledge on the fundamentals of dams and hydropower generation
+5. To describe the principles and technical solutions for different wave power concepts and
+use this knowledge to evaluate different wave power systems from technical,
+environmental and societal aspects.
+6. To use numerical, analytical, and experimental tools to model and optimize the
+management of renewable energy system based on the concept of energy audit and
+economy of the same system.
+Course Content:
+Unit-1
+FUNDAMENTAL CONCEPTS:
+Energy Scenario: Classification of Energy Sources, Energy resources (Conventional and
+nonconventional), Energy needs of India, and energy consumption patterns, Worldwide
+Potentials of these sources, Energy efficiency and energy security. Energy and its
+environmental impacts, Distributed generation, Energy storage and hybrid system
+configurations: Energy storage, Battery – types, equivalent, circuit, performance
+characteristics, battery design, charging and charge regulators, Battery management.
+Flywheel-energy relations, Location selection studies.
+Unit-2
+SOLAR ENERGY SYSTEMS:
+Solar thermal Systems: Types of collectors, Collection systems, efficiency calculations,
+applications. Photo voltaic (PV) technology: Present status, solar cells, cell technologies,
+characteristics of PV systems, equivalent circuit, array design, building integrated PV
+system, its components, sizing, and economics, Peak power operation. Standalone and grid
+interactive systems.
+EE 90 | P age
+
+--- Page 92 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Unit-3
+WIND ENERGY CONVERTERS:
+Wind resource assessment, Wind speed and power relation, power extracted from wind,
+wind distribution and wind speed predictions. Wind power systems: classification, system
+components, Types of Turbines, Turbine rating. Choice of generators, turbine rating,
+electrical load matching, Variable speed operation, maximum power operation, control
+systems, system design features, stand alone and grid connected operation.
+Unit-4
+DAMS AND HYDROPOWER PLANT:
+Dam break analysis, Runs Test, Classification of Dams, Gravity and Arch Dams, Design
+and Management, Factor of Safety Analysis of Dams, Risk and Reliability Analysis,
+Introduction to hydropower, types of hydropower, location selection studies, penstock,
+turbine and generator design and optimization, microturbines, scheduling concepts.
+Unit-5
+WAVE ENERGY CONVERTERS:
+Ocean energy resources, Ocean energy routes, Classification, Ocean waves: formation,
+characterizations, wave climate, energy content, resources and measurement. Ocean
+thermal energy conversion, Wave energy conversion, Design of Power Takeoff, Mooring
+Structure, Hydraulic Circuits, Numerical Modelling of Wave Energy Converters. Tidal
+energy conversion.
+Unit-6
+AUDIT AND MANAGEMENT OF RENEWABLE ENERGY SYSTEMS:
+Energy Audit, Types of Audit, Vulnerability Assessment of Renewable Energy Systems,
+Application of Multi Criteria Decision Making Tools on Renewable Energy Systems, GIS
+in Renewable Energy, Reliability and Risk Analysis, Levelized cost of electricity.
+References:
+1. Renewable Energy System Design, Ziyad Salameh, Academic Press, 2014, 1st
+Edition.
+2. Fundamentals of Renewable Energy Systems, D. Mukherjee and S. Chakrabarti,
+New Age International, 2004, 1st Esition.
+3. Solar Energy Fundamentals and Modeling Techniques, Z.Sen, Springer London,
+2010, 1st Edition.
+4. Solar Energy for Beginners: The Complete Guide to Solar Power Systems, Panels
+& Cells, Catherine Gregory, CreateSpace Independent Publishing Platform, 2015,
+1st Edition.
+EE 91 | P age
+
+--- Page 93 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+5. Wind energy: Theory and Practice, Siraj Ahmed, Prentice Hall India Pvt., Limited,
+2015, 3rd Edition.
+6. Wave Energy Conversion, John Brooke, Elsevier Science, 2003, 1st Edition.
+7. Numerical Modelling of Wave Energy Converters, Matt Folley, Academic Press,
+2016, 1st Edition.
+8. Energy Management, Audit and Conservation, Barun Kumar De, Vrinda
+Publications, 2010, 2nd Edition.
+Course Outcome:
+1. Student will learn about the basics, types, conversion mechanisms of new and renewable
+energy systems.
+2. Student will be able to design solar based power farms for maximum conversion of
+available solar energy under minimum cost.
+3. Student will become familiar about the various technologies available in location
+selection, resource assessment and conversion of wind energy potential.
+4. Student will be acquainted about the fundamentals of dams and hydropower generation
+and related analytic tools and techniques.
+5. Student will be conversant with the principles and technical solutions for different wave
+power converters and it applications for maximum utilization of available wave energy
+potential.
+6. Student will be able to apply the numerical, analytical, and experimental tools to audit
+and manage any new and renewable energy systems for maximum utilization of the
+potential.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Student will learn about the basics, types, conversion mechanisms of new
+and renewable energy systems.
+CO-2 Student will be able to design solar based power farms for maximum
+conversion of available solar energy under minimum cost.
+CO-3 Student will become familiar about the various technologies available in
+location selection, resource assessment and conversion of wind energy
+potential.
+CO-4 Student will be acquainted about the fundamentals of dams and hydropower
+generation and related analytic tools and techniques.
+CO-5 Student will be conversant with the principles and technical solutions for
+different wave power converters and it applications for maximum utilization
+of available wave energy potential.
+CO-6 Student will be able to apply the numerical, analytical, and experimental
+tools to audit and manage any new and renewable energy systems for
+maximum utilization of the potential.
+EE 92 | P age
+
+--- Page 94 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs
+Slight (LOW): 1 Moderate (MEDIUM): 2 Substantial (HIGH): 3 and
+for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 2 3 2 2 2
+CO-2 3 2 3 2 2 2
+CO-3 3 2 3 2 2 2
+CO-4 3 2 3 2 2 2
+CO-5 3 2 3 2 2 2
+CO-6 3 2 3 2 2 2
+Total 18 12 18 12 12 12
+Average 3 2 3 2 2 2
+Equivalent Avg.
+3 2 3 2 2 2
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3
+CO-4 3 3
+CO-5 3 3
+CO-6 3 3
+Total 18 18
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 93 | P age
+
+--- Page 95 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+MANAGEMENT OF WATER RESOURCES
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Courses Objective:
+1. To impart knowledge about the planning and management of water resources.
+2. To introduce the concepts of watershed management, integrated water resources
+management, environmental interaction of water resources and policies/framework
+related to water resources.
+3. To enable student to understand the different components of water resources and
+their management
+Course content:
+Unit- 1
+Management of hydrological data, Linear Programming and its application in water
+resources development, Inventory control.
+Unit -2
+Analysis of risk and uncertainties, Dynamics programming Statistical decision model,
+Water policies and institutional aspects of management of water resources.
+Unit -3
+Hierarchical modeling of water resources development, Management of watersheds and
+water quality.
+Unit -4
+Reservoir & stream flow routing, probability, risk and uncertainty analysis.
+Unit – 5
+Urban water supply planning/management, cost-benefit analysis in water resources
+planning, planning of watersheds
+Watershed behaviour and conservation practices, trans-boundary water resources.
+Unit – 6
+National water policy, water withdrawals & uses, trans-boundary water resources.
+EE 94 | P age
+
+--- Page 96 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+References:
+1. Water Management, Warren Viessman Jr. and Claire Welty, New York : Harper &
+Row, 1985. 1st Edition.
+2. Water Resources Engineering, Larry W. Mays, Wiley Global Education US, 2019,
+3rd Edition.
+3. Water Resources Engineering, Ralph A. Wurbs and Wesley P. James, Pearson, 2001,
+1st Edition.
+4. Water Resources Systems, Planning & Management, S. K. Jain & V. P. Singh,
+Elsevier Science, 2003, 1st Edition.
+5. Modeling Water qualities and Management, Asit K. Biswas, McGraw-Hill
+Professional, 1997, 1st Edition.
+6. Hierarchical Analysis of Water Resources System, Y.Y. Haimes, McGraw Hill
+Higher Education, 1977, 1st Edition.
+7. Waste Water Engineering Treatment and Reuse, Matfalf / Eddy, McGraw-Hill
+Education (India) Pvt Limited, 2002, 4th Edition.
+8. Sustainable water Management Solutions for Large Cities, Dragar A, Savic, Mignel
+A, International Association of Hydrological Science, 2005, 1st Edition.
+Course outcome:
+1. Students will be able to identify different problems related to water resources planning,
+management and development.
+2. Students will be able to describe various concept and problems of water related issues.
+3. Students will be able to identify the risk and uncertainties of water related issues
+4. Students will be able to do the cost-benefit analysis in water resources planning
+5. Students will be able to do the urban water supply planning/management, cost-benefit
+analysis in water resources planning, planning of watersheds.
+6. Students will be able to gain knowledge about the national water policy.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to identify different problems related to water resources
+planning, management and development
+CO-2 Students will be able to describe various concept and problems of water
+related issues
+CO-3 Students will be able to identify the risk and uncertainties of water related
+issues
+CO-4 Students will be able to do the cost-benefit analysis in water resources
+planning
+CO-5 Students will be able to do the urban water supply planning/management,
+cost-benefit analysis in water resources planning, planning of watersheds.
+EE 95 | P age
+
+--- Page 97 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & Pos Slight (LOW): 1 Moderate
+(MEDIUM): 2 Substantial (HIGH): 3 and for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 2 3 3 3 3
+CO-2 3 2 3 3 3 3
+CO-3 3 2 3 3 3 3
+CO-4 3 3 3 3 3 3
+CO-5 3 3 3 3 3 3
+Total 15 12 15 15 15 15
+Average 3 2.4 3 3 3 3
+Equivalent Avg.
+3 2 3 3 3 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 2
+CO-4 3 2
+CO-5 3 2
+Total 15 12
+Average 3 2.4
+Equivalent Avg. Attainment 3 2
+EE 96 | P age
+
+--- Page 98 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+GEOENVIRONMENTAL ENGINEERING
+Total Credit: 04
+Contact Periods: 04 (3L+1T+0P)
+Course objectives:
+1. To have sufficient knowledge on fundamentals of Geoenvironmental Engineering.
+2. To have adequate knowledge on planning and design of MSW and Hazardous waste
+Landfills.
+3. To have better understanding on planning and design of slurry ponds - ash ponds
+and tailing ponds.
+4. To have better understanding on subsurface contamination.
+5. To have understanding of geotechnical reuse of waste.
+Course content:
+Unit 1
+Concepts and principles of Geoenvironmental Engineering.
+Unit 2
+Geotechnical aspects of planning and design of MSW and Hazardous waste Landfills
+Unit 3
+Geotechnical aspects of planning and design of slurry ponds - ash ponds and tailing
+ponds.
+Unit 4
+Geotechnical aspects of detection & monitoring of subsurface contamination and control
+& remediation of contaminated sites.
+Unit 5
+Rehabilitation of waste dumps and geotechnical re-use of waste.
+References:
+1. Rowe R.K.,"Geotechnical and Geoenvironmental Engineering Handbook" Kluwer
+Academic Publications, London, 2000.
+2. Reddi L.N. and Inyang, H. I.,"Geoenvironmental Engineering,Principles and
+Applications" Marcel Dekker Inc. New York, 2000.
+3. Yong, R. N.,"Geoenvironmental Engineering, Contaminated Soils,Pollutant Fate, and
+Mitigation" CRC Press, New York, 2001.
+4. Sharma H.D. and Reddy K.R.,"Geoenvironmental Engineering: Site Remediation, Waste
+Containment, and Emerging Waste Management Technologies" John Wiley & Sons, Inc.,
+USA, 2004.
+5. Fredlund D.G. and Rahardjo, H.,"Soil Mechanics for Unsaturated Soils" Wiley-
+Interscience, USA, 1993.
+6. Mitchell, J.K.,"Fundamentals of Soil Behavior" Wiley, 2005.
+EE 97 | P age
+
+--- Page 99 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+7. Hillel D.,"Introduction to Environmental Soil Physics" Academic Press, New York,
+2003.
+Course outcomes (CO):
+1. Students will be able to understand fundamentals of Geoenvironmental
+Engineering.
+2. Students will have knowledge on planning and design of MSW and Hazardous
+waste Landfills.
+3. Students will have adequate knowledge on planning and design of slurry ponds -
+ash ponds and tailing ponds.
+4. Students will have adequate knowledge on subsurface contamination.
+5. Students will have understanding on reuse of geotechnical waste.
+Table 1: To establish the correlation between COs & POs
+No. of Curse Course Outcome
+Outcome
+(CO)
+CO-1 Students will be able to understand fundamentals of Geoenvironmental
+Engineering.
+CO-2 Students will have knowledge on planning and design of MSW and
+Hazardous waste Landfills.
+CO-3 Students will have adequate knowledge on planning and design of slurry
+ponds - ash ponds and tailing ponds.
+CO-4 Students will have adequate knowledge on subsurface contamination.
+CO-5 Students will have understanding on reuse of geotechnical waste.
+EE 98 | P age
+
+--- Page 100 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Table-2: Correlation between COs & POs Slight (LOW): 1 Moderate
+(MEDIUM): 2 Substantial (HIGH): 3 and for NO CORELATION: 8-9
+CO PO1 PO2 PO3 PO4 PO5 PO6
+CO-1 3 2 1 2 3 3
+CO-2 3 3 1 3 2 3
+CO-3 3 3 3 3 3 2
+CO-4 2 2 3 3 2 3
+CO-5 3 3 3 2 2 2
+Total 14 13 11 13 12 13
+Average 2.80 2.60 2.20 2.60 2.40 2.60
+Equivalent Avg.
+3 3 2 3 2 3
+Attainment
+Table 3: To establish the correlation between COs & PSOs
+CO PSO1 PSO2
+CO-1 3 3
+CO-2 3 3
+CO-3 3 3
+CO-4 3 3
+CO-5 3 3
+Total 15 15
+Average 3 3
+Equivalent Avg. Attainment 3 3
+EE 99 | P age
+
+--- Page 101 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Syllabus for M.TECH (Environmental Engineering)
+Third Semester
+Sl. Subject Credit Class Marks
+No. Hours per
+Week
+1 PCE43P01: Project and Thesis-I 10 ----- 100
+PROJECT AND THESIS-I
+(PCE43P01)
+Total Credit: 10
+Contact Periods: (0L+0T+Full P)
+The third semester is completely devoted to dissertation work. It is expected that the student
+will be carrying out substantial research work including exhaustive literature survey,
+formulation of the research problem, development/fabrication of experimental set-up (if
+any required) and testing, and analysis of initial results so obtained. The progress made
+during the semester may be evaluated through progress seminar(s). At the end of the
+semester, the students are required to submit written report followed by presentation and
+oral examination as per the Institute rules.
+EE 100 | P age
+
+--- Page 102 ---
+Syllabus: M.Tech Environmental Engineering NIT Agartala
+Syllabus for M.TECH (Environmental Engineering)
+Fourth Semester
+Sl. Subject Credit Class Marks
+No. Hours per
+Week
+1 PCE44P01: Project and Thesis-II 20 ----- 300
+PROJECT AND THESIS-II
+(PCE44P01)
+Total Credit: 20
+Contact Periods: (0L+0T+Full P)
+The fourth semester is also completely devoted to dissertation work. It is expected that the
+student will be completing most of the experimental/computation works and analyzed the
+results so obtained as decided in the formulation part of the research problem. The progress
+made during the semester may be evaluated through progress seminar(s). The students will
+be required to submit the research work in the form of dissertation as per the Institute rule.
+The final examination (presentation as well as oral) will be conducted by a duly constituted
+examination panel as per the Institute rules.
+* * * * *
+EE 101 | P age

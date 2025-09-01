@@ -1,0 +1,226 @@
+
+--- Page 1 ---
+STRUCTURAL ENGG. LAB
+List of Experiments:
+1. Fineness of cement by sieving
+2. Water content for standard consistency of cement.
+3. Initial and final setting times of cement
+4. Fineness of cement by air permeability method.
+5. Soundness of Cement by Le-Chatalier’s Apparatus.
+6. Soundness of cement by Autoclave test method.
+7. Compressive strength of cement.
+8. Tensile strength of cement
+9. Moisture content and bulking of fine aggregate.
+10. Gradation & Fineness modulus of coarse and fine aggregates.
+11. Water absorption, compressive strength of Bricks.
+12. Workability of cement concrete by (a) Slump test, and compaction factor test.
+13. Concrete mix design for a given concrete strength and slump by I.S. Code method.
+14. Flexural strength of concrete.
+15. Tensile and bend test of M.S and HYSD bar.
+16. Clark Maxwell’s Reciprocal theorem using a beam analysis of redundant joint
+17. a) Deflections of a truss b) Maxwell’s Reciprocal theorem.
+18. Elastic displacements of curved members
+19. Elastic properties of beams
+20. Three hinged arch
+21. Two hinged arch
+22. Behavior of struts and columns.
+23. Experimental and Analytical study of 3 bar pin jointed truss.
+24. Experimental and Analytical study of deformations in bar-beam combination.
+25. Experimental and Analytical study of deflections in unsymmetrical bending.
+26. Verification of Muller-Breslau principle-Arch / continuous beam / frame models.
+27. Verification of Muller-Breslau principle-Begg’s deformeter.
+
+--- Page 2 ---
+28. To find carry over factor for the beam with far end fixed.
+29. Compressive, Flexural and tensile strength of Mortar.
+30. Initial drying shrinkage, moisture movement, and coefficient of expansion of
+concrete.
+31. Stress strain curve of concrete.
+32. Behaviour of under reinforced and over reinforced R.C. beams in flexure.
+33. Behaviour of R.C. beams, with and without shear reinforcement in shear.
+34. Bond strength between steel bar and concrete (a) in a beam specimen and (b) by
+pull-out test.
+35. Behaviour of pre-stressed concrete beams in flexure.
+36. Ultimate strength and deflection of R.C.C. slab.
+37. High strength concrete using admixtures.
+38. Non destructive testing of concrete.
+
+--- Page 3 ---
+TRANSPORTATION ENGG. LAB
+List of Experiments:
+1. Determination of Water absorption of road aggregates
+2. Determination of Specific gravity of aggregates
+3. Determination of Impact Test of aggregates
+4. Los Angel’s abrasion test
+5. Devel’s abrasion test
+6. Test for Crushing Strength of Aggregates
+7. Determination of Flakiness and Elongation Indices of aggregates, Angularity
+number
+8. Determination of Penetration of bitumen
+9. Determination of Viscosity of bitumen (Saybolt)
+10. Determination of Specific Gravity of bitumen
+11. Determination of Ductility of bitumen
+12. Determination of Softening point of bitumen
+13. Determination of Water content of bitumen
+14. Determination of Bitumen content by Centrifuge Extractor
+15. Field test of Bricks
+16. Determination of CBR value (Field)
+17. Determination of CBR value (Lab)
+18. Determination of water absorption of Brick
+19. Determination of Crushing value of Brick
+20. Determination of Loss on Heating of bitumen.
+21. Bituminous Mix Design (Marshal Method)
+22. Determination of stripping value of Road Aggregate,
+23. Determination of Soundness Test of Aggregate
+24. Roughness Evaluation of Pavement surface using MERLIN
+25. Roughness Evaluation of Pavement surface using Bump integrator
+26. Banklemen beam Test of Pavement
+27. Soil-Cement Mix Design,
+28. Test on Cutback, Emulsion and Tar
+29. Spot speed studies
+30. Traffic Volume studies
+31. Axle Load Survey
+32. Traffic density, Capacity studies.
+33. Accident Studies.
+
+--- Page 4 ---
+SOLID MECHANICS LAB
+1) Introduction to testing equipments
+2) Uniaxial tension test ( Mild Steel, Timber)
+3) Uniaxial compression test (Timber along and across, concrete, bricks etc.)
+4) Torsion test (Mild Steel, aluminum)
+5) Bending stress distribution in beams using demec gauges extensometer
+6) Analysis of truss model with spring members.
+7) Compression test on brick masonry specimen
+8) Hardness test
+9) Creep test
+10) Impact test
+11) Strength of Etched and Un-etched glasses
+12) Spring test
+13) To study the microstructure of various metals.
+
+--- Page 5 ---
+GEOTECHNICAL ENGINEERING LAB
+List of Experiments:
+1. Grain Size analysis of Soil by Sieve.
+2. Specific Gravity of Soil.
+3. Grain size analysis of Soil by Hydrometer.
+4. Field Density of Soil.(Two Methods)
+5. Atterberg Limits of Soil ( Two mrttods)
+6. Permeability test of Soil.
+7. Consolidation Test of Soil.
+8. Determination of moisture content by rapid moisture metre.
+9. Standard Proctor test of Soil.
+10. Direct Shear Test.
+11. Triaxial Test for Different Drainage Condition
+12. Standard Penetration test of Soil
+13. Static Cone Penetration Test.
+14. Dynamic Cone Penetration test
+15. Plate load test
+
+--- Page 6 ---
+SURVEY FIELD WORKS
+Survey Field Works based on :
+1. Chain Surveying.
+2. Compass Surveying.
+3. Levelling.
+4. Plane Table Surveying.
+5. Triangulation Survey including adjusted coordinates.
+6. Trilateration Survey.
+7. Plane Table Survey including Two and Three point Problems
+8. Layout of Curves.
+9. Layout of Building and Culvert.
+10. Topographic Mapping ( i.e. Plotting of the details of well contours area).
+11. Volume Calculation.
+12. Locate a point using hand GPS.
+13. Profiling by total station.
+
+--- Page 7 ---
+ENVIRONMENTAL ENGG. LAB
+List of Experiments:
+1. Collection and analysis of sound samples.
+2. Classification of Solid wastes.
+3. Air volume sampling.
+4. Determination of turbidity, colour and conductivity.
+5. Determination of pH, alkalinity and acidity.
+6. Determination of hardness and chlorides.
+7. Determination of residual chlorine and chlorine demand.
+8. Determination of Dissolved Oxygen.
+9. Determination of Most Probable Number (MPN) of Coliforms.
+10. Determination of B.O.D of sewage
+11. Determination of C.O.D of domestic and industrial sewage.
+12. Determination of kjeldal nitrogen
+13. Determination of volatile, mixed, filterable and dissolved solids.
+14. Determination of optimum dose of coagulants.
+15. Determination iron and two heavy metals.
+16. Determination of SO2 in the ambient air.
+17. Measurement of particulate matter in air.
+18. Determination of Sound intensity by sound level meter.
+
+--- Page 8 ---
+WATER RESOURCES ENGG LAB
+List of Experiments:
+1. Rainfall Measurement
+2. Measurement of rate of evaporation
+3. Measurement of rate of infiltration of water in soil.
+4. Measurement of velocity of flow in river or stream
+5. Delineation of catchment boundary and drainage network to determine the hydrological
+parameters.
+6. Computer Aided (CAD) design in water resources engineering.
+
+--- Page 9 ---
+ENGINEERING GEOLOGY-LAB
+1. Megascopic identification of minerals and rocks.
+2. Microscopic identification of some selected minerals and rocks.
+3. Interpretation of Geological Maps-
+a) Drawing the geological sections of geological maps.
+b) Inter-relation of Geological maps and sections with respect to sub
+surface structure.
+4. Problems of Locating Sites of projects like Dams, Tunnels, Highways.
+
+--- Page 10 ---
+HYDRAULICS LAB
+List of Experiments:
+1. To verify the momentum equation experimentally.
+2. To verify the Bernoulli’s Equation experimentally
+3. To determine the co-efficient of friction in pipe
+4. To determine the coefficient of discharge of venturimeter.
+5. To determine the coefficient of discharge of an orifice meter.
+6. To determine the coefficient of discharge of Triangular Notch.
+7. To determine the Manning’s coefficient of roughness ‘n’ for the bed of a given
+flume.
+8. To study the velocity distribution in an open channel and to determine the
+energy and momentum correction factors.
+9. To study the flow characteristics over a hump placed in an open channel.
+10. To study the flow through a horizontal contraction in a rectangular channel.
+11. To study the characteristics of free hydraulic jump, using tilting flume.
+
+--- Page 11 ---
+HYDRO-INFORMATICS ENGINEERING LABORATORY
+LIST OF EXPERIMENTS
+WATER QUALITY, HYDROLOGY AND HYDRAULICS INSTRUMENT LABORATORY
+1. Determination of Physical Parameters of Water Quality - Turbidity, Temperature, Color,
+Electrical Conductivity, Total Dissolved Solid, Total Suspended Solid
+2. Determination of Chemical Parameters of Water Quality-pH, Hardness, Chlorine, DO, BOD,
+COD.
+3. Determination of Biological Parameters of Water Quality- Bacteria- Testing for coliforms.
+4. Rainfall Measurement- Rainfall Data collection by Natural Syphon Recording type Raingauge.
+5. Meteorological Parameter determination- Weather Station Instrument.
+6. Determination of φ index- Double Ring type Infiltrometer, Single Ring Infiltrometer.
+7. Determination of rate of evaporation.
+8. Velocity measurement- Micro ADV (Lab measurement).
+9. Velocity & Discharge measurement - River Surveyor M9.
+10. Depth measurement- Echo-Sounder, River Surveyor M9.
+11. Particle size distribution analysis-Sieve Analysis.
+APPLICATION SOFTWARE LABORATORY
+1. Deliniation of watershed boundary using Google Earth Pro. and G.I.S. Tool.
+2. Derivation of the information using image processing software.
+3. Simulation of the hydrological response of watershed using the HEC-HMS software
+Hydrological modeling- HEC -HMS Software.
+4. Developing Simulation model based on real life problem using Alyuda NeuroIntelligence
+(ANN) and Group Method of Data Handling (PNN).
+5. Developing the autoregressive model that is representation of a type of random process, as
+such, it is used to describe certain time-varying process in nature, economics etc.
+5. Conversion of the data into outstanding color, surface, weir frame, vector, image, shaded
+relief and post maps using Surfer 3D mapping software.
+6. Analysis of Hydraulic and pipe flow system using CADRE Flow software.
