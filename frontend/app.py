@@ -1,57 +1,261 @@
+# import streamlit as st
+# import json
+# import os
+# from dotenv import load_dotenv
+# from processor2 import process_json_data_with_embeddings, query_json_vstore_with_gemini
+
+# load_dotenv()
+
+# # ---- Config ---- #
+# JSON_DIR = "data/processed/webpages/json"
+# COLLECTION_NAME = "department_json_embeddings"
+# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+# # ---- Helpers ---- #
+# def load_json_files(directory: str) -> dict:
+#     """Load and merge JSON files from a given directory into a dict."""
+#     combined_data = {}
+#     for file in os.listdir(directory):
+#         if file.endswith(".json"):
+#             file_path = os.path.join(directory, file)
+#             try:
+#                 with open(file_path, "r", encoding="utf-8") as f:
+#                     combined_data[file] = json.load(f)
+#             except json.JSONDecodeError:
+#                 st.warning(f"⚠️ Skipping invalid JSON file: {file}")
+#             except Exception as e:
+#                 st.error(f"Error reading {file}: {e}")
+#     return combined_data
+
+# @st.cache_resource(show_spinner="Building vector store...")
+# def init_vectorstore():
+#     json_data = load_json_files(JSON_DIR)
+#     return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
+
+# # ---- Streamlit UI ---- #
+# st.set_page_config(page_title="RAG Chatbot UI")
+# st.title("NITA Chatbot")
+# st.info("Ask me questions about the college!")
+
+# # Initialize vector store
+# vstore_json_embeddings = init_vectorstore()
+
+# # Maintain session messages
+# if "messages" not in st.session_state:
+#     st.session_state.messages = []
+
+# # Display chat history
+# for message in st.session_state.messages:
+#     with st.chat_message(message["role"]):
+#         st.markdown(message["content"])
+
+# # Chat input
+# if prompt := st.chat_input("What do you want to know?"):
+#     st.chat_message("user").markdown(prompt)
+#     st.session_state.messages.append({"role": "user", "content": prompt})
+
+#     with st.chat_message("assistant"):
+#         with st.spinner("Thinking..."):
+#             try:
+#                 response = query_json_vstore_with_gemini(
+#                     query=prompt,
+#                     google_api_key=GOOGLE_API_KEY,
+#                     vstore_json=vstore_json_embeddings,
+#                 )
+#                 st.markdown(response)
+#                 st.session_state.messages.append({"role": "assistant", "content": response})
+#             except Exception as e:
+#                 error_message = f"❌ Error: {e}"
+#                 st.error(error_message)
+#                 st.session_state.messages.append({"role": "assistant", "content": error_message})
+
+
 import streamlit as st
-import requests
 import json
+import os
+from PIL import Image
+from dotenv import load_dotenv
+from processor2 import process_json_data_with_embeddings, query_json_vstore_with_gemini
 
-# Define the URL of your FastAPI backend
-BACKEND_URL = "http://localhost:8000/chat"
+# --- Core Logic & Setup (Unchanged) ---
+load_dotenv()
 
-# Set the title for the Streamlit app
-st.set_page_config(page_title="RAG Chatbot UI")
-st.title("📚 RAG-Powered Chatbot")
-st.info("Ask me questions about the documents I've been trained on!")
+# ---- Config ---- #
+JSON_DIR = "data/processed/webpages/json"
+COLLECTION_NAME = "department_json_embeddings"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
-# Initialize chat history in Streamlit's session state
+# ---- Helpers ---- #
+def load_json_files(directory: str) -> dict:
+    """Load and merge JSON files from a given directory into a dict."""
+    combined_data = {}
+    if not os.path.exists(directory):
+        st.error(f"Directory not found: {directory}. Please ensure the JSON data is in the correct location.")
+        return None
+    for file in os.listdir(directory):
+        if file.endswith(".json"):
+            file_path = os.path.join(directory, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    combined_data[file] = json.load(f)
+            except json.JSONDecodeError:
+                st.warning(f"⚠ Skipping invalid JSON file: {file}")
+            except Exception as e:
+                st.error(f"Error reading {file}: {e}")
+    return combined_data
+
+@st.cache_resource(show_spinner="Connecting to Knowledge Base...")
+def init_vectorstore():
+    """Initializes the vector store. This is cached to run only once."""
+    json_data = load_json_files(JSON_DIR)
+    if not json_data:
+        st.stop() # Stop execution if no data is loaded
+    return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
+
+
+# ---- NITA Themed UI ---- #
+
+logo_img = Image.open("frontend/logo/nita-logo.png")
+st.set_page_config(page_title="NITA Virtual Assistant", page_icon=logo_img, layout="wide")
+
+# Custom CSS to inject the NITA look and feel
+st.markdown("""
+<style>
+    /* Main page background */
+    
+    # .stApp {
+    #     background-color: #f0f2f6;
+    # }
+    /* Sidebar styling */
+    [data-testid="stSidebar"] {
+        background-color:#E0E0E0; /* NITA's dark blue */
+        color: #ffffff;
+    }
+    [data-testid="stSidebar"] h2 {
+        color: black;
+        font-family: 'Georgia', serif;
+    }
+    [data-testid="stSidebar"] .stMarkdown {
+        color: black;
+    }
+    /* Header styling */
+    .header {
+        padding: 1rem;
+        border-radius: 10px;
+        background-color: #002147;
+        text-align: center;
+        margin-bottom: 2rem;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .header h1 {
+        color: #FFFFFF; /* Dark Blue */
+        font-weight: bold;
+        font-family: 'Garamond', serif;
+    }
+    .header p {
+        color: #D35400; /* Saffron/Orange accent */
+        font-size: 1.1rem;
+    }
+    /* Chat message styling */
+     .stChatMessage {
+        border-radius: 10px;
+        padding: 1rem 1.25rem;
+        color:black;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        margin-bottom: 1rem;
+    }
+    /* Chat input box styling */
+    [data-testid="stChatInput"] {
+        background-color: #FFFFFF;
+    }
+    .stImage {
+        width:full;
+        display:flex;
+        align-items: center;
+        justify-items: center;
+    }
+    [data-testid="stChatInput"] {
+     background-color: #0E1117 !important; /* match background */
+    border: none !important;             /* remove thin border */
+    color: #ffffff !important;
+    box-shadow: none !important;  
+}
+
+/* Chat input placeholder + text */
+[data-testid="stChatInput"] input {
+    background-color: #0E1117 !important;
+    color: #ffffff !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
+# --- Sidebar ---
+with st.sidebar:
+    # To add a logo, place an image file in your project directory
+    # and uncomment the line below.
+    st.image(logo_img, width=100)
+    st.markdown("## National Institute of Technology, Agartala")
+    st.markdown("---")
+    st.markdown("""
+    **About this App:**
+    This is an AI-powered virtual assistant designed to answer questions about the National Institute of Technology, Agartala.
+    
+    The information is sourced from the official college website data.
+    """)
+    st.markdown("---")
+    st.markdown("Developed by Team 001")
+
+
+# --- Main Page ---
+
+# Custom Header
+st.markdown("""
+<div class="header">
+    <h1>NITA Virtual Assistant</h1>
+    <p>Your AI-powered guide to NIT Agartala</p>
+</div>
+""", unsafe_allow_html=True)
+
+
+# Initialize vector store
+vstore_json_embeddings = init_vectorstore()
+
+# Initialize session messages if not present
 if "messages" not in st.session_state:
-    st.session_state.messages = []
+    st.session_state.messages = [{
+        "role": "assistant",
+        "content": "Namaste! I am the NITA Virtual Assistant. How may I help you today?"
+    }]
 
-# Display chat messages from history on app rerun
+# Display chat history
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# React to user input
-if prompt := st.chat_input("What do you want to know?"):
-    # Display user message in chat message container
-    st.chat_message("user").markdown(prompt)
-    
-    # Add user message to chat history
+# Chat input logic
+if prompt := st.chat_input("Ask about departments, faculty, or facilities..."):
+    # Add user message to state and display it
     st.session_state.messages.append({"role": "user", "content": prompt})
-    
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    # Generate and display assistant response
     with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
+        with st.spinner("Searching for information..."):
             try:
-                # Send the user's prompt to the backend API
-                payload = {"user_query": prompt}
-                response = requests.post(
-                    BACKEND_URL,
-                    data=json.dumps(payload),
-                    headers={"Content-Type": "application/json"}
+                # Core logic function call (unchanged)
+                response = query_json_vstore_with_gemini(
+                    query=prompt,
+                    google_api_key=GOOGLE_API_KEY,
+                    vstore_json=vstore_json_embeddings,
                 )
-                response.raise_for_status()  # Raise an exception for bad status codes
-                
-                # Get the response from the backend
-                assistant_response = response.json().get("response")
-                st.markdown(assistant_response)
-
-                # Add assistant response to chat history
-                st.session_state.messages.append({"role": "assistant", "content": assistant_response})
-
-            except requests.exceptions.RequestException as e:
-                error_message = f"Failed to connect to backend. Please ensure the backend server is running.\n\nError: {e}"
+                st.markdown(response)
+                # Add assistant response to state
+                st.session_state.messages.append({"role": "assistant", "content": response})
+            except Exception as e:
+                error_message = f"❌ Apologies, an error occurred: {e}"
                 st.error(error_message)
                 st.session_state.messages.append({"role": "assistant", "content": error_message})
-
-
-# To run the Streamlit app:
-# Navigate to the 'frontend' directory in your terminal and run:
-# streamlit run app.py
