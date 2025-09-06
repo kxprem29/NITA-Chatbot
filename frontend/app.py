@@ -206,7 +206,7 @@ with st.sidebar:
     The information is sourced from the official college website data.
     """)
     st.markdown("---")
-    st.markdown("Developed by Team NITA")
+    st.markdown("Developed by Team 001")
 
 
 # --- Main Page ---
