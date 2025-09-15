@@ -1,0 +1,1919 @@
+{
+    "purchase.json": {
+        "name": "purchase.json",
+        "description": "Contact information for the Purchase Section at an institution, including names, designations, and email addresses.",
+        "type": "contact_list",
+        "keywords": [
+            "purchase",
+            "section",
+            "contacts",
+            "email",
+            "designation",
+            "personnel",
+            "office",
+            "administration"
+        ]
+    },
+    "ee_staff_data.json": {
+        "name": "ee_staff_data.json",
+        "description": "A list of contact information for staff members in the Electrical Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "electrical engineering",
+            "staff",
+            "contacts",
+            "email",
+            "phone number",
+            "department",
+            "personnel",
+            "directory"
+        ]
+    },
+    "be_staff_data.json": {
+        "name": "be_staff_data.json",
+        "description": "A list of technical staff members in the Bio Engineering department.",
+        "type": "dataset",
+        "keywords": [
+            "Bio Engineering",
+            "staff",
+            "technical assistant",
+            "contact information",
+            "personnel"
+        ]
+    },
+    "cse_faculty_data.json": {
+        "name": "cse_faculty_data.json",
+        "description": "A list of faculty members in the Computer Science and Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "engineering",
+            "professors",
+            "department",
+            "NITA",
+            "contact information",
+            "email"
+        ]
+    },
+    "nit.json": {
+        "name": "nit.json",
+        "description": "Comprehensive information about the National Institute of Technology Agartala, including its administration, academics, departments, student life, research activities, and other relevant details.",
+        "type": "institutional_information",
+        "keywords": [
+            "NIT Agartala",
+            "National Institute of Technology",
+            "Engineering College",
+            "Education",
+            "Academics",
+            "Administration",
+            "Research",
+            "Departments",
+            "Student Life",
+            "Admissions",
+            "Campus",
+            "India",
+            "Tripura",
+            "Institute",
+            "Higher Education"
+        ]
+    },
+    "nita_facility.json": {
+        "name": "nita_facility.json",
+        "description": "Details of the facilities available at the National Institute of Technology (NIT), Agartala, including location, academic infrastructure, hostels, medical care, banking, post office, and extracurricular activities.",
+        "type": "institutional_information",
+        "keywords": [
+            "NIT Agartala",
+            "facilities",
+            "location",
+            "infrastructure",
+            "hostels",
+            "medical care",
+            "banking",
+            "post office",
+            "extracurricular activities",
+            "academic",
+            "institute",
+            "college"
+        ]
+    },
+    "alumni.json": {
+        "name": "alumni.json",
+        "description": "Contact information for the Alumni Affairs office, including the Chairman and Vice Chairman.",
+        "type": "contact_list",
+        "keywords": [
+            "alumni",
+            "affairs",
+            "contact",
+            "email",
+            "chairman",
+            "vice chairman",
+            "NITA",
+            "faculty"
+        ]
+    },
+    "che_facility.json": {
+        "name": "che_facility.json",
+        "description": "Details the facilities available within the Chemical Engineering department, including laboratories and the departmental library.",
+        "type": "configuration",
+        "keywords": [
+            "Chemical Engineering",
+            "Department",
+            "Facilities",
+            "Laboratories",
+            "Library",
+            "Undergraduate",
+            "Research",
+            "Textbooks",
+            "Mechanical Operation Laboratory"
+        ]
+    },
+    "rti.json": {
+        "name": "rti.json",
+        "description": "Information related to the Right to Information Act, including contact persons, designations, email addresses, and related resources.",
+        "type": "document",
+        "keywords": [
+            "Right to Information Act",
+            "RTI",
+            "First Appellate Authority",
+            "Central Public Information Officer",
+            "CPIO",
+            "Suo Moto Disclosure",
+            "NIT Agartala",
+            "Subsidy Programmes",
+            "GEM report",
+            "PIO",
+            "Mandatory Disclosure"
+        ]
+    },
+    "be_faculty_data.json": {
+        "name": "be_faculty_data.json",
+        "description": "A list of faculty members in the Bio Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "bio engineering",
+            "department",
+            "professors",
+            "contact information",
+            "academic staff"
+        ]
+    },
+    "me_staff_data.json": {
+        "name": "me_staff_data.json",
+        "description": "A list of staff members in the Mechanical Engineering department, including their names, designations, contact information, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "mechanical engineering",
+            "staff",
+            "personnel",
+            "directory",
+            "contact information",
+            "email",
+            "designation",
+            "department"
+        ]
+    },
+    "health.json": {
+        "name": "health.json",
+        "description": "List of personnel at the NITA Health Centre, including their names, designations, contact information (email and/or mobile), and office location.",
+        "type": "directory",
+        "keywords": [
+            "NITA",
+            "Health Centre",
+            "staff",
+            "personnel",
+            "medical",
+            "contact information",
+            "directory",
+            "doctors",
+            "pharmacists",
+            "nurses",
+            "technicians",
+            "counselor"
+        ]
+    },
+    "ee_data.json": {
+        "name": "ee_data.json",
+        "description": "Provides information about the Electrical Engineering department, including program educational objectives, program specific objectives, undergraduate programs, postgraduate programs, and Ph.D. programs.",
+        "type": "department profile",
+        "keywords": [
+            "Electrical Engineering",
+            "Program Educational Objectives",
+            "Program Specific Objectives",
+            "Undergraduate Programs",
+            "Postgraduate Programs",
+            "Ph.D. Programs",
+            "B.Tech",
+            "M.Tech",
+            "Power Electronics & Drives",
+            "Power System Engineering",
+            "Instrumentation Engineering",
+            "Integrated Energy System",
+            "Research Areas",
+            "Curriculum"
+        ]
+    },
+    "pe_faculty_data.json": {
+        "name": "pe_faculty_data.json",
+        "description": "A list of faculty members in the Production Engineering department, including their names, designations, departments, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "production engineering",
+            "department",
+            "professors",
+            "staff",
+            "contact information",
+            "email"
+        ]
+    },
+    "me_data.json": {
+        "name": "me_data.json",
+        "description": "JSON data containing information about the Mechanical Engineering department, including Program Educational Objectives (PEOs), Program Specific Outcomes (PSOs), and details of undergraduate and postgraduate programs.",
+        "type": "program_information",
+        "keywords": [
+            "Mechanical Engineering",
+            "PEOs",
+            "Program Educational Objectives",
+            "PSOs",
+            "Program Specific Outcomes",
+            "Undergraduate Programs",
+            "Postgraduate Programs",
+            "B.Tech",
+            "M.Tech",
+            "Material Science",
+            "Thermal Science",
+            "Manufacturing Technology",
+            "Automotive Engineering",
+            "Machine Design",
+            "Curriculum",
+            "Engineering Education"
+        ]
+    },
+    "nita.json": {
+        "name": "nita.json",
+        "description": "Information about the National Institute of Technology (NIT) Agartala, including its history, programs, facilities, student life, and training & placement details.",
+        "type": "institution_profile",
+        "keywords": [
+            "NIT Agartala",
+            "National Institute of Technology",
+            "Engineering College",
+            "Technical Education",
+            "Agartala",
+            "Tripura",
+            "India",
+            "B.Tech",
+            "M.Tech",
+            "MBA",
+            "MCA",
+            "Doctoral Programs",
+            "Placement",
+            "Hostel",
+            "Departments",
+            "Campus",
+            "Education"
+        ]
+    },
+    "ccd.json": {
+        "name": "ccd.json",
+        "description": "Information about the Center for Career Development (CCD), including its description, resources, and contact details of key personnel.",
+        "type": "organizational information",
+        "keywords": [
+            "career development",
+            "placement",
+            "job search",
+            "recruitment",
+            "students",
+            "CCD",
+            "career exploration",
+            "NIT Agartala",
+            "training",
+            "internships",
+            "faculty",
+            "contact information"
+        ]
+    },
+    "eie_data.json": {
+        "name": "eie_data.json",
+        "description": "JSON data describing the programs offered by the Electronics and Instrumentation Engineering department.",
+        "type": "department_program_information",
+        "keywords": [
+            "electronics",
+            "instrumentation",
+            "engineering",
+            "department",
+            "programs",
+            "undergraduate",
+            "phd",
+            "courses",
+            "btech"
+        ]
+    },
+    "establishment.json": {
+        "name": "establishment.json",
+        "description": "Contact information for personnel within the Establishment Section, including names, designations, email addresses, and mobile numbers.",
+        "type": "contact_list",
+        "keywords": [
+            "establishment section",
+            "contacts",
+            "personnel",
+            "employees",
+            "email",
+            "phone number",
+            "designation",
+            "administration",
+            "staff"
+        ]
+    },
+    "math_facility.json": {
+        "name": "math_facility.json",
+        "description": "Information about the Mathematics Department, including facilities.",
+        "type": "department_information",
+        "keywords": [
+            "mathematics",
+            "department",
+            "facilities",
+            "computer lab",
+            "library",
+            "books"
+        ]
+    },
+    "dean_sw.json": {
+        "name": "dean_sw.json",
+        "description": "Contact information for the Dean of Student Welfare office, including names, designations, email addresses, and mobile numbers of key personnel.",
+        "type": "contact_list",
+        "keywords": [
+            "dean",
+            "student welfare",
+            "contacts",
+            "faculty",
+            "staff",
+            "email",
+            "phone",
+            "office",
+            "personnel"
+        ]
+    },
+    "cse_staff_data.json": {
+        "name": "cse_staff_data.json",
+        "description": "A list of Technical Assistants (Contractual) in the Computer Science and Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "technical assistant",
+            "computer science",
+            "engineering",
+            "contact information",
+            "department directory",
+            "personnel",
+            "staff"
+        ]
+    },
+    "mis.json": {
+        "name": "mis.json",
+        "description": "Information about the MIS (Management Information Systems) section, including contact details for personnel and technical support.",
+        "type": "directory",
+        "keywords": [
+            "MIS",
+            "Management Information Systems",
+            "contact information",
+            "personnel",
+            "technical support",
+            "faculty",
+            "email",
+            "phone",
+            "NITA",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "ciso.json": {
+        "name": "ciso.json",
+        "description": "Contact information for the Chief Information Security Officer (CISO) and related personnel.",
+        "type": "contact_list",
+        "keywords": [
+            "CISO",
+            "contact",
+            "information",
+            "security",
+            "officer",
+            "personnel",
+            "email"
+        ]
+    },
+    "fc.json": {
+        "name": "fc.json",
+        "description": "Information about the Finance Committee of the National Institute of Technology (NIT) Agartala, including a list of members and their designations.",
+        "type": "directory",
+        "keywords": [
+            "finance committee",
+            "NIT Agartala",
+            "members",
+            "committee",
+            "higher education",
+            "government",
+            "India",
+            "officials",
+            "contact information"
+        ]
+    },
+    "me_faculty_data.json": {
+        "name": "me_faculty_data.json",
+        "description": "A list of faculty members in the Mechanical Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "professors",
+            "department",
+            "contact information",
+            "education"
+        ]
+    },
+    "ee_faculty_data.json": {
+        "name": "ee_faculty_data.json",
+        "description": "A list of faculty members in the Electrical Engineering department, including their names, designations, departments, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "department",
+            "professors",
+            "contact information",
+            "email addresses",
+            "designations",
+            "academic staff"
+        ]
+    },
+    "math_data.json": {
+        "name": "math_data.json",
+        "description": "Profile of the Mathematics Department, including programme details, history, faculty information, highlights, and course specifics.",
+        "type": "department_profile",
+        "keywords": [
+            "mathematics",
+            "department",
+            "programmes",
+            "courses",
+            "faculty",
+            "research",
+            "M.Sc",
+            "BS-MS",
+            "Ph.D",
+            "admissions",
+            "curriculum",
+            "NIT Agartala",
+            "JEE Mains",
+            "JAM",
+            "DST FIST"
+        ]
+    },
+    "che_publications.json": {
+        "name": "che_publications.json",
+        "description": "Metadata for publications and patents from the Chemical Engineering department.",
+        "type": "report",
+        "keywords": [
+            "chemical engineering",
+            "publications",
+            "patents",
+            "research",
+            "academic",
+            "wastewater treatment",
+            "membrane technology",
+            "power systems",
+            "rubber latex",
+            "coagulation",
+            "heavy metals",
+            "electro-deposition",
+            "liquid membrane",
+            "xylanases",
+            "Aspergillus niger",
+            "lignocellulosic materials",
+            "bio-degradation",
+            "biomass",
+            "nutritional constituents",
+            "waste valorization",
+            "sustainable fuel"
+        ]
+    },
+    "dean_aa.json": {
+        "name": "dean_aa.json",
+        "description": "Contact information for the Office of Dean Academic, including names, designations, emails, and phone numbers of staff members.",
+        "type": "directory",
+        "keywords": [
+            "dean academic",
+            "contact information",
+            "staff directory",
+            "email addresses",
+            "phone numbers",
+            "academic affairs",
+            "faculty",
+            "NIT Agartala"
+        ]
+    },
+    "ce_facility.json": {
+        "name": "ce_facility.json",
+        "description": "Information about the Civil Engineering department, including facilities like laboratories, instruments, software tools, and the departmental library.",
+        "type": "department_information",
+        "keywords": [
+            "civil engineering",
+            "department",
+            "laboratories",
+            "instruments",
+            "software",
+            "library",
+            "soil mechanics",
+            "structural engineering",
+            "transportation engineering",
+            "environmental engineering",
+            "surveying",
+            "water resources",
+            "GIS",
+            "STAAD Pro",
+            "AutoCAD",
+            "codes",
+            "journals"
+        ]
+    },
+    "chem_faculty_data.json": {
+        "name": "chem_faculty_data.json",
+        "description": "A list of faculty members in the Chemistry department, including their names, designations, departments, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "department",
+            "professors",
+            "email",
+            "contact information",
+            "academic staff"
+        ]
+    },
+    "exam.json": {
+        "name": "exam.json",
+        "description": "Contact information for the Examination Section, including names, designations, and query email.",
+        "type": "contact_information",
+        "keywords": [
+            "examination",
+            "contact",
+            "dean",
+            "assistant",
+            "email",
+            "personnel",
+            "staff"
+        ]
+    },
+    "ce_faculty_data.json": {
+        "name": "ce_faculty_data.json",
+        "description": "A list of faculty members in the Civil Engineering department, including their names, designations, departments, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "professors",
+            "department",
+            "email",
+            "contact information",
+            "academic staff",
+            "NBA Accredited"
+        ]
+    },
+    "ce_programme.json": {
+        "name": "ce_programme.json",
+        "description": "Information about the Civil Engineering department and its academic programmes, including undergraduate (B.Tech), postgraduate (M.Tech), and Ph.D. programmes, along with syllabus details for the undergraduate programme.",
+        "type": "academic_programme_data",
+        "keywords": [
+            "Civil Engineering",
+            "B.Tech",
+            "M.Tech",
+            "Ph.D.",
+            "Undergraduate",
+            "Postgraduate",
+            "Syllabus",
+            "Structural Engineering",
+            "Geo-Technical Engineering",
+            "Transportation Engineering",
+            "Environmental Engineering",
+            "Water Resources Engineering",
+            "Hydroinformatics Engineering",
+            "Seismic Science and Engineering",
+            "Academic Programmes",
+            "NBA Accredited"
+        ]
+    },
+    "che_research.json": {
+        "name": "che_research.json",
+        "description": "Overview of research domains, technologies developed, and sponsored projects within the Chemical Engineering department.",
+        "type": "Research Report",
+        "keywords": [
+            "Chemical Engineering",
+            "Research",
+            "Fluid dynamics",
+            "Numerical simulation",
+            "Catalysis",
+            "Reaction engineering",
+            "Environmental engineering",
+            "Biofuel",
+            "Bioenergy",
+            "Renewable energy",
+            "Sustainable engineering",
+            "Energy and fuel technology",
+            "Materials engineering",
+            "Nanotechnology",
+            "Polymer technology",
+            "Microalgae",
+            "Biomass",
+            "Natural Rubber",
+            "Bio-electrochemical system",
+            "Biochar",
+            "Biodiesel",
+            "Phycoerythrin"
+        ]
+    },
+    "phy_data.json": {
+        "name": "phy_data.json",
+        "description": "Information about academic programmes offered by the Physics department, including course names, durations, intake, admission criteria, and qualifying degrees.",
+        "type": "academic_program_data",
+        "keywords": [
+            "Physics",
+            "Department",
+            "Programmes",
+            "Courses",
+            "M.Sc",
+            "B.Tech",
+            "M.Tech",
+            "Dual Degree",
+            "B.S",
+            "M.S",
+            "Ph.D",
+            "Admission",
+            "Intake",
+            "Qualifying Degree",
+            "JEE",
+            "JAM",
+            "Institute Test",
+            "Academic"
+        ]
+    },
+    "civil_projects_data.json": {
+        "name": "civil_projects_data.json",
+        "description": "A record of ongoing and completed projects within the Civil Engineering Department (NBA Accredited), including project titles, principal investigators, start and completion dates, project costs, and sponsoring organizations.",
+        "type": "project_list",
+        "keywords": [
+            "civil engineering",
+            "projects",
+            "research",
+            "earthquake resistance",
+            "seismic performance",
+            "biogas",
+            "biomethanation",
+            "CO2 conversion",
+            "RC buildings",
+            "hill slope",
+            "disaster mitigation",
+            "sustainable materials",
+            "vibration control",
+            "tuned liquid dampers",
+            "SMA fiber",
+            "concrete structures",
+            "tide land utilization",
+            "brick manufacturing",
+            "retaining walls",
+            "seismic loading",
+            "Agartala city",
+            "modernization",
+            "laboratories",
+            "funding",
+            "DST",
+            "CSIR",
+            "SERB",
+            "AICTE",
+            "NBA Accredited"
+        ]
+    },
+    "pe_data.json": {
+        "name": "pe_data.json",
+        "description": "Describes the academic programmes offered by the Production Engineering department, including undergraduate, postgraduate, and Ph.D. programmes.",
+        "type": "curriculum",
+        "keywords": [
+            "production engineering",
+            "academic programmes",
+            "undergraduate",
+            "postgraduate",
+            "B.Tech",
+            "M.Tech",
+            "Ph.D.",
+            "curriculum",
+            "courses",
+            "computer integrated manufacturing"
+        ]
+    },
+    "bodies.json": {
+        "name": "bodies.json",
+        "description": "A list of student bodies and clubs at the National Institute of Technology Agartala (NITA), including their names and URLs.",
+        "type": "directory",
+        "keywords": [
+            "NIT Agartala",
+            "student bodies",
+            "student clubs",
+            "organizations",
+            "extracurricular activities",
+            "university",
+            "college"
+        ]
+    },
+    "dept_hod.json": {
+        "name": "dept_hod.json",
+        "description": "A list of department heads (HODs) and their corresponding departments, including short and full department names.",
+        "type": "directory",
+        "keywords": [
+            "department",
+            "head of department",
+            "HOD",
+            "faculty",
+            "university",
+            "college",
+            "departments",
+            "directory",
+            "contact information"
+        ]
+    },
+    "mhss_research.json": {
+        "name": "mhss_research.json",
+        "description": "Research projects conducted by the Management, Humanities & Social Sciences (MHSS) department.",
+        "type": "report",
+        "keywords": [
+            "research",
+            "projects",
+            "management",
+            "humanities",
+            "social sciences",
+            "MHSS",
+            "funding",
+            "ICSSR",
+            "MHRD",
+            "skill development",
+            "Tripura",
+            "biodegradable waste",
+            "DDU-GKY",
+            "skill gap",
+            "rural development",
+            "primary education",
+            "dropout",
+            "Arunachal Pradesh",
+            "UGC-NER",
+            "rurban cluster",
+            "NREGA",
+            "AICTE"
+        ]
+    },
+    "department_new.json": {
+        "name": "department_new.json",
+        "description": "Metadata for JSON content containing information about various departments at the National Institute of Technology Agartala (NITA), including programs, faculty, staff, facilities, and research.",
+        "type": "institutional data",
+        "keywords": [
+            "NITA",
+            "National Institute of Technology Agartala",
+            "departments",
+            "programs",
+            "faculty",
+            "staff",
+            "facilities",
+            "research",
+            "Bio Engineering",
+            "Civil Engineering",
+            "Chemistry",
+            "Chemical Engineering",
+            "Computer Science and Engineering",
+            "Electronics and Communication Engineering",
+            "Electronics and Instrumentation Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Management, Humanities & Social Sciences",
+            "Physics",
+            "Production Engineering",
+            "education",
+            "higher education"
+        ]
+    },
+    "icc.json": {
+        "name": "icc.json",
+        "description": "Contact information for the Internal Complaints Committee (ICC) at NIT Agartala.",
+        "type": "contact list",
+        "keywords": [
+            "Internal Complaints Committee",
+            "ICC",
+            "NIT Agartala",
+            "contact",
+            "grievance",
+            "committee"
+        ]
+    },
+    "crf_member.json": {
+        "name": "crf_member.json",
+        "description": "Information about the Central Research Facility (CRF), including details of the Chairman, instruments available, faculty in charge, and technical operators.",
+        "type": "directory",
+        "keywords": [
+            "Central Research Facility",
+            "CRF",
+            "instruments",
+            "Scanning Electron Microscope",
+            "SEM",
+            "Transmission Electron Microscope",
+            "TEM",
+            "X-ray Diffractometer",
+            "XRD",
+            "Atomic Force Microscopy",
+            "AFM",
+            "Liquid Nitrogen",
+            "De-ionized Water Plant",
+            "Micro ADV",
+            "FTIR",
+            "PCB",
+            "Ellipsometer",
+            "Optical Spectrum Analyzer",
+            "UV/Vis Spectrophotometer",
+            "River Surveyor",
+            "Weather Station",
+            "Water Quality Analyzer",
+            "faculty",
+            "technical operator",
+            "research",
+            "science"
+        ]
+    },
+    "be_data.json": {
+        "name": "be_data.json",
+        "description": "Details of the Bio Engineering department, including programmes offered, program outcomes (POs), program educational objectives (PEOs), and program specific objectives (PSOs).",
+        "type": "curriculum",
+        "keywords": [
+            "Bio Engineering",
+            "Biotechnology",
+            "Biochemical Engineering",
+            "Program Outcomes",
+            "Program Educational Objectives",
+            "Program Specific Objectives",
+            "Curriculum",
+            "Under Graduate",
+            "Post Graduate",
+            "Doctoral",
+            "B.Tech",
+            "M.Tech",
+            "Ph.D."
+        ]
+    },
+    "phy_staff_data.json": {
+        "name": "phy_staff_data.json",
+        "description": "A list of Physics Department Lab Assistants (Contractual) with their contact information, including name, department, designation, email, and contact number.",
+        "type": "directory",
+        "keywords": [
+            "physics",
+            "lab assistant",
+            "staff",
+            "contact information",
+            "department",
+            "email",
+            "phone number",
+            "contractual"
+        ]
+    },
+    "mhss_phd.json": {
+        "name": "mhss_phd.json",
+        "description": "Metadata for Ph.D. admission requirements for the Management, Humanities & Social Sciences (MHSS) department.",
+        "type": "configuration",
+        "keywords": [
+            "Ph.D.",
+            "admission",
+            "MHSS",
+            "Management",
+            "Humanities",
+            "Social Sciences",
+            "eligibility",
+            "criteria",
+            "qualification",
+            "NET",
+            "GATE",
+            "PGDM",
+            "master's degree"
+        ]
+    },
+    "dept.json": {
+        "name": "dept.json",
+        "description": "A list of academic departments within an engineering institution.",
+        "type": "dataset",
+        "keywords": [
+            "engineering",
+            "departments",
+            "academic",
+            "university",
+            "disciplines",
+            "majors"
+        ]
+    },
+    "computing.json": {
+        "name": "computing.json",
+        "description": "Information about the Computing & ICT Unit of NIT Agartala, including its description, major tasks, contact people, and support details.",
+        "type": "organizational information",
+        "keywords": [
+            "NIT Agartala",
+            "Computing & ICT Unit",
+            "Network services",
+            "Website management",
+            "Internet services",
+            "Email services",
+            "System administration",
+            "Technical support",
+            "Infrastructure",
+            "Contact information"
+        ]
+    },
+    "event.json": {
+        "name": "event.json",
+        "description": "A list of events and announcements from the National Institute of Technology (NIT) Agartala, including conferences, workshops, alumni meets, and other academic activities.",
+        "type": "event_list",
+        "keywords": [
+            "NIT Agartala",
+            "events",
+            "conferences",
+            "workshops",
+            "alumni meet",
+            "academic",
+            "engineering",
+            "technology",
+            "data science",
+            "network engineering",
+            "computer science",
+            "electrical engineering",
+            "mathematics",
+            "humanities",
+            "social sciences",
+            "AICTE",
+            "FDP",
+            "short term course",
+            "training program",
+            "convocation"
+        ]
+    },
+    "cvo.json": {
+        "name": "cvo.json",
+        "description": "Contact information for the Chief Vigilance Officer at NIT Agartala.",
+        "type": "contact_information",
+        "keywords": [
+            "Chief Vigilance Officer",
+            "CVO",
+            "NIT Agartala",
+            "contact",
+            "vigilance",
+            "email",
+            "phone"
+        ]
+    },
+    "cse_dept.json": {
+        "name": "cse_dept.json",
+        "description": "Details of faculty members in the Computer Science and Engineering (CSE) Department, including their names, positions, and contact information.",
+        "type": "directory",
+        "keywords": [
+            "CSE",
+            "Computer Science",
+            "Department",
+            "Faculty",
+            "Professor",
+            "HOD",
+            "Associate Professor",
+            "Assistant Professor",
+            "Contact Information",
+            "Email",
+            "Academics",
+            "Education"
+        ]
+    },
+    "cse_data.json": {
+        "name": "cse_data.json",
+        "description": "Details of undergraduate, postgraduate, and PhD programmes offered by the Computer Science and Engineering department.",
+        "type": "data",
+        "keywords": [
+            "Computer Science",
+            "Engineering",
+            "CSE",
+            "Programmes",
+            "Undergraduate",
+            "Postgraduate",
+            "PhD",
+            "B.Tech",
+            "M.Tech",
+            "MCA",
+            "Artificial Intelligence",
+            "Cyber Security",
+            "Data Science"
+        ]
+    },
+    "che_faculty_data.json": {
+        "name": "che_faculty_data.json",
+        "description": "List of faculty members in the Chemical Engineering department with their designations and contact information.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "chemical engineering",
+            "department",
+            "professors",
+            "contact information",
+            "email",
+            "designation"
+        ]
+    },
+    "nita_vm.json": {
+        "name": "nita_vm.json",
+        "description": "A profile document outlining the vision, mission, objectives, and education system of an institute.",
+        "type": "profile",
+        "keywords": [
+            "vision",
+            "mission",
+            "objectives",
+            "education system",
+            "courses",
+            "curriculum",
+            "evaluation",
+            "training",
+            "projects",
+            "institute",
+            "technical education",
+            "research"
+        ]
+    },
+    "vehicle.json": {
+        "name": "vehicle.json",
+        "description": "Details of the Vehicle Section, including contact information for personnel and a list of vehicles with registration numbers and driver details.",
+        "type": "directory",
+        "keywords": [
+            "vehicle",
+            "office",
+            "section",
+            "contact",
+            "personnel",
+            "registration",
+            "driver",
+            "Toyota Atlas",
+            "Tata Indigo",
+            "Tata Sumo",
+            "Tata Winger",
+            "Maruti Van",
+            "Sml Bus",
+            "Tractor",
+            "Ambulance"
+        ]
+    },
+    "chem_staff_data.json": {
+        "name": "chem_staff_data.json",
+        "description": "Contact information for contractual staff members in the Chemistry Department.",
+        "type": "directory",
+        "keywords": [
+            "chemistry",
+            "department",
+            "staff",
+            "contact",
+            "email",
+            "technical assistant",
+            "lab assistant",
+            "contractual"
+        ]
+    },
+    "mou.json": {
+        "name": "mou.json",
+        "description": "A list of Memorandums of Understanding (MoUs) and Agreements (MoAs) involving the National Institute of Technology (NIT) Agartala with various organizations, institutions, and companies.",
+        "type": "document",
+        "keywords": [
+            "MoU",
+            "Memorandum of Understanding",
+            "Agreement",
+            "NIT Agartala",
+            "Collaboration",
+            "Partnership",
+            "Education",
+            "Research",
+            "Institute",
+            "Organizations",
+            "Academic",
+            "Industry"
+        ]
+    },
+    "hostel.json": {
+        "name": "hostel.json",
+        "description": "Contains information about the Office of the Chief Warden, including warden and supervisor contact details for various hostels.",
+        "type": "directory",
+        "keywords": [
+            "hostel",
+            "warden",
+            "supervisor",
+            "contact",
+            "email",
+            "phone",
+            "chief warden",
+            "office",
+            "NITA",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "registrar.json": {
+        "name": "registrar.json",
+        "description": "Contact list of personnel in the Office of the Registrar.",
+        "type": "directory",
+        "keywords": [
+            "registrar",
+            "contact list",
+            "personnel",
+            "office",
+            "email",
+            "phone",
+            "designation"
+        ]
+    },
+    "chairman_ar_ir.json": {
+        "name": "chairman_ar_ir.json",
+        "description": "Contact information for the Office of the Chairman AR & IR.",
+        "type": "contact_information",
+        "keywords": [
+            "chairman",
+            "accreditation",
+            "ranking",
+            "industrial relation",
+            "contact",
+            "office"
+        ]
+    },
+    "ece_data.json": {
+        "name": "ece_data.json",
+        "description": "Describes the academic programs offered by the Electronics and Communication Engineering department, including undergraduate, postgraduate, and doctoral programs.",
+        "type": "academic_program_information",
+        "keywords": [
+            "electronics",
+            "communication",
+            "engineering",
+            "academic programs",
+            "undergraduate",
+            "postgraduate",
+            "phd",
+            "b.tech",
+            "m.tech",
+            "communication systems",
+            "signal processing",
+            "vlsi design"
+        ]
+    },
+    "library.json": {
+        "name": "library.json",
+        "description": "Contact information for the library section, including names, designations, and email addresses of the staff.",
+        "type": "directory",
+        "keywords": [
+            "library",
+            "contacts",
+            "staff",
+            "email",
+            "personnel",
+            "directory",
+            "National Institute of Technology Agartala",
+            "NITA"
+        ]
+    },
+    "audit.json": {
+        "name": "audit.json",
+        "description": "Contact information for the Audit Section, including details for Mr. Subrata Chakraborty.",
+        "type": "contact_list",
+        "keywords": [
+            "audit",
+            "contact",
+            "internal auditor",
+            "email",
+            "Subrata Chakraborty",
+            "Audit Section"
+        ]
+    },
+    "dean_rc.json": {
+        "name": "dean_rc.json",
+        "description": "Contact list of personnel in the Office of Dean Research & Consultancy.",
+        "type": "contact_list",
+        "keywords": [
+            "research",
+            "consultancy",
+            "dean",
+            "contact",
+            "email",
+            "phone",
+            "personnel",
+            "faculty",
+            "intellectual property",
+            "innovation council"
+        ]
+    },
+    "chem_research.json": {
+        "name": "chem_research.json",
+        "description": "Details of research areas and sponsored projects within a Chemistry department, including project titles, funding agencies, amounts, and coordinators.",
+        "type": "report",
+        "keywords": [
+            "chemistry",
+            "research",
+            "natural product chemistry",
+            "organic synthesis",
+            "organometallic chemistry",
+            "coordination chemistry",
+            "material science",
+            "nanotechnology",
+            "sponsored projects",
+            "funding agency",
+            "DST",
+            "AICTE",
+            "CPRI",
+            "DBT",
+            "nanomaterials",
+            "solar cells",
+            "biosensor",
+            "uracil",
+            "nucleobases",
+            "heterocyclic compounds"
+        ]
+    },
+    "math_publication.json": {
+        "name": "math_publication.json",
+        "description": "Publication details for faculty members in the Mathematics department, including journal articles, conference papers, books, and book chapters.",
+        "type": "report",
+        "keywords": [
+            "mathematics",
+            "department",
+            "publications",
+            "faculty",
+            "journal articles",
+            "conference papers",
+            "books",
+            "book chapters",
+            "research",
+            "academic"
+        ]
+    },
+    "eie_staff_data.json": {
+        "name": "eie_staff_data.json",
+        "description": "Contact information for technical staff in the Electronics and Instrumentation Engineering department.",
+        "type": "contact list",
+        "keywords": [
+            "electronics",
+            "instrumentation",
+            "engineering",
+            "contacts",
+            "technical staff",
+            "email",
+            "phone number",
+            "department"
+        ]
+    },
+    "dean_fw.json": {
+        "name": "dean_fw.json",
+        "description": "Directory of the Office of Dean Faculty Welfare, including contact information for key personnel.",
+        "type": "directory",
+        "keywords": [
+            "faculty welfare",
+            "dean",
+            "contact information",
+            "office directory",
+            "personnel",
+            "email",
+            "phone",
+            "designation"
+        ]
+    },
+    "ece_faculty_data.json": {
+        "name": "ece_faculty_data.json",
+        "description": "A list of faculty members in the Electronics and Communication Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "electronics",
+            "communication",
+            "engineering",
+            "department",
+            "professors",
+            "staff",
+            "email",
+            "contact information"
+        ]
+    },
+    "dean_pd.json": {
+        "name": "dean_pd.json",
+        "description": "Contact list for the Office of the Registrar, including names, designations, email addresses, and phone numbers.",
+        "type": "directory",
+        "keywords": [
+            "registrar",
+            "contact list",
+            "email",
+            "phone number",
+            "office",
+            "personnel",
+            "directory",
+            "NITA"
+        ]
+    },
+    "che_data.json": {
+        "name": "che_data.json",
+        "description": "Details about the Chemical Engineering department's programmes (undergraduate, postgraduate, and Ph.D.), program education objectives, and program-specific outcomes.",
+        "type": "department_program_information",
+        "keywords": [
+            "chemical engineering",
+            "undergraduate",
+            "postgraduate",
+            "phd",
+            "programmes",
+            "curriculum",
+            "admission",
+            "B.Tech",
+            "M.Tech",
+            "program education objectives",
+            "program specific outcomes",
+            "JEE Mains",
+            "GATE",
+            "engineering",
+            "science"
+        ]
+    },
+    "ce_staff_data.json": {
+        "name": "ce_staff_data.json",
+        "description": "A list of staff members in the Civil Engineering department, including their names, departments, designations, email addresses, and contact information.",
+        "type": "directory",
+        "keywords": [
+            "Civil Engineering",
+            "Staff",
+            "Faculty",
+            "Contact Information",
+            "Lab Assistant",
+            "Technical Assistant",
+            "NBA Accredited",
+            "Department Directory"
+        ]
+    },
+    "crf_member_chair.json": {
+        "name": "crf_member_chair.json",
+        "description": "A list of members and their roles in the CRF (Committee/Council/Center) organization.",
+        "type": "directory",
+        "keywords": [
+            "CRF",
+            "members",
+            "roles",
+            "committee",
+            "council",
+            "organization",
+            "chairman"
+        ]
+    },
+    "stic.json": {
+        "name": "stic.json",
+        "description": "Report detailing the Space Technology Incubation Centre (S-TIC) at NIT Agartala, including its establishment, achievements, and key personnel.",
+        "type": "report",
+        "keywords": [
+            "Space Technology Incubation Centre",
+            "S-TIC",
+            "NIT Agartala",
+            "ISRO",
+            "Incubation Centre",
+            "Academia-Industry ecosystem",
+            "Technology Transfer",
+            "National Technology Week",
+            "Innovation",
+            "Research",
+            "Projects"
+        ]
+    },
+    "ce_projects_data.json": {
+        "name": "ce_projects_data.json",
+        "description": "A list of ongoing and completed research projects within a Civil Engineering department, detailing project titles, principal investigators, funding sources, and budgets.",
+        "type": "project_list",
+        "keywords": [
+            "Civil Engineering",
+            "Research Projects",
+            "Seismic Performance",
+            "Earthquake Resistance",
+            "Biogas",
+            "Biomethanation",
+            "CO2 Conversion",
+            "RC Buildings",
+            "Hill Slope",
+            "Disaster Mitigation",
+            "Sustainable Materials",
+            "Vibration Control",
+            "Tuned Liquid Dampers",
+            "SMA Fiber",
+            "Concrete Structures",
+            "Tide Land",
+            "Brick Manufacturing",
+            "Retaining Wall",
+            "Seismic Loading",
+            "Agartala",
+            "Modernisation",
+            "Laboratories",
+            "DST",
+            "CSIR",
+            "SERB",
+            "AICTE",
+            "India"
+        ]
+    },
+    "phy_faculty_data.json": {
+        "name": "phy_faculty_data.json",
+        "description": "Contact information for faculty and staff in the Physics department.",
+        "type": "directory",
+        "keywords": [
+            "physics",
+            "department",
+            "faculty",
+            "staff",
+            "contact",
+            "email",
+            "directory",
+            "professors",
+            "teaching assistant"
+        ]
+    },
+    "math_faculty_data.json": {
+        "name": "math_faculty_data.json",
+        "description": "A list of faculty members in the Mathematics department, including their names, designations, departments, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "department",
+            "professors",
+            "email",
+            "contact information",
+            "university",
+            "education"
+        ]
+    },
+    "sc_st.json": {
+        "name": "sc_st.json",
+        "description": "Information about the SC/ST/OBC Cell at NIT Agartala, including contact details, liaison officer, and members.",
+        "type": "directory",
+        "keywords": [
+            "SC/ST/OBC Cell",
+            "NIT Agartala",
+            "Liaison Officer",
+            "Committee Members",
+            "Contact Information",
+            "Social Justice",
+            "Reservation Policy"
+        ]
+    },
+    "texmin.json": {
+        "name": "texmin.json",
+        "description": "Details of the TEXMiN-NIT Agartala Mining Cyber-Physical Systems (CPS) Centre of Excellence, including budget, focus areas, objectives, activities, and selection process.",
+        "type": "program_description",
+        "keywords": [
+            "TEXMiN",
+            "NIT Agartala",
+            "Mining",
+            "Cyber-Physical Systems",
+            "CPS",
+            "Centre of Excellence",
+            "Technology Development",
+            "Innovation",
+            "Entrepreneurship",
+            "Budget",
+            "Fellowships",
+            "Pre-Incubation",
+            "Problem Statements"
+        ]
+    },
+    "bwc.json": {
+        "name": "bwc.json",
+        "description": "Details of the Buildings and Works Committee members at NIT Agartala, including their names, designations, and addresses.",
+        "type": "directory",
+        "keywords": [
+            "committee",
+            "members",
+            "buildings",
+            "works",
+            "NIT Agartala",
+            "Prof. Sarat Kumar Patra",
+            "Director (NITs)",
+            "Director (Fin)",
+            "Shri Debashis Paul",
+            "Prof. (Dr.) R. P. Sharma",
+            "Prof. (Dr.) P. Chakraborti",
+            "Col.(Dr.) Ashish Badola"
+        ]
+    },
+    "alumni_db.json": {
+        "name": "alumni_db.json",
+        "description": "Statistics on alumni from 1970-2024, categorized by degree type and total alumni count for each degree.",
+        "type": "database statistics",
+        "keywords": [
+            "alumni",
+            "database",
+            "statistics",
+            "degrees",
+            "year range",
+            "alumni count",
+            "education",
+            "higher education"
+        ]
+    },
+    "crf_data.json": {
+        "name": "crf_data.json",
+        "description": "Information about the Central Research Facility (CRF) at NIT Agartala, including details about its objectives, users, available instruments, and contact information.",
+        "type": "directory",
+        "keywords": [
+            "Central Research Facility",
+            "CRF",
+            "NIT Agartala",
+            "research",
+            "instruments",
+            "SEM",
+            "TEM",
+            "XRD",
+            "AFM",
+            "Liquid Nitrogen Plant",
+            "analytical services",
+            "Science and Technology",
+            "R&D",
+            "scanning electron microscope",
+            "transmission electron microscope",
+            "x-ray diffractometer",
+            "atomic force microscope",
+            "liquid nitrogen"
+        ]
+    },
+    "math_staff_data.json": {
+        "name": "math_staff_data.json",
+        "description": "Contact information for a faculty member in the Mathematics department.",
+        "type": "contact_information",
+        "keywords": [
+            "faculty",
+            "contact",
+            "Mathematics",
+            "department",
+            "email",
+            "phone number"
+        ]
+    },
+    "che_staff_data.json": {
+        "name": "che_staff_data.json",
+        "description": "A list of staff members in the Chemical Engineering department, including their names, designations, contact information, and email addresses.",
+        "type": "directory",
+        "keywords": [
+            "chemical engineering",
+            "staff",
+            "personnel",
+            "contact information",
+            "email",
+            "department",
+            "designation",
+            "technical assistant",
+            "technician"
+        ]
+    },
+    "anti_ragging.json": {
+        "name": "anti_ragging.json",
+        "description": "Details of the Anti-Ragging Committee and Anti-Ragging Squad Committee members, including names, designations, contact numbers, and email addresses.",
+        "type": "report",
+        "keywords": [
+            "anti-ragging",
+            "committee",
+            "squad",
+            "members",
+            "contact information",
+            "designation",
+            "email",
+            "phone number",
+            "university",
+            "college"
+        ]
+    },
+    "chem_facility.json": {
+        "name": "chem_facility.json",
+        "description": "Details of facilities available in the Chemistry department, including instrument names, charges for different user types, and sample requisition form information.",
+        "type": "resource_catalog",
+        "keywords": [
+            "chemistry",
+            "department",
+            "facilities",
+            "instruments",
+            "charges",
+            "pricing",
+            "spectrophotometer",
+            "DSC",
+            "FTIR",
+            "DLS",
+            "UV-Visible",
+            "Fluorescence",
+            "sample requisition",
+            "academic",
+            "industrial",
+            "rnd",
+            "research"
+        ]
+    },
+    "crf_instrument.json": {
+        "name": "crf_instrument.json",
+        "description": "Metadata for a list of Central Research Facility (CRF) instruments and their specifications, including status information.",
+        "type": "inventory",
+        "keywords": [
+            "CRF",
+            "Central Research Facility",
+            "instruments",
+            "equipment",
+            "specifications",
+            "status",
+            "SEM",
+            "TEM",
+            "AFM",
+            "XRD",
+            "Water Purification",
+            "ADV",
+            "Weather Station",
+            "Water Quality Analyzer",
+            "Liquid Nitrogen Generator",
+            "FTIR",
+            "PCB Board Maker",
+            "Ellipsometer",
+            "Optical Spectrum Analyzer",
+            "UV/Vis Spectrophotometer"
+        ]
+    },
+    "be_facilities.json": {
+        "name": "be_facilities.json",
+        "description": "JSON data containing a list of facilities available in the Bio Engineering department, including laboratory equipment.",
+        "type": "inventory",
+        "keywords": [
+            "bioengineering",
+            "facilities",
+            "laboratory",
+            "equipment",
+            "centrifuge",
+            "spectrophotometer",
+            "microscope",
+            "refrigerators",
+            "incubator",
+            "electrophoresis",
+            "western blot"
+        ]
+    },
+    "mhss_data.json": {
+        "name": "mhss_data.json",
+        "description": "Detailed information about a Master in Business Administration (MBA) programme, including its objectives, outcomes, admission process, and eligibility criteria.",
+        "type": "programme description",
+        "keywords": [
+            "MBA",
+            "Master in Business Administration",
+            "business programme",
+            "management",
+            "admission process",
+            "eligibility criteria",
+            "programme objectives",
+            "programme outcomes",
+            "financial management",
+            "marketing management",
+            "human resource",
+            "system management",
+            "CAT",
+            "CMAT",
+            "GMAT",
+            "MAT",
+            "group discussion",
+            "personal interview"
+        ]
+    },
+    "ece_staff_data.json": {
+        "name": "ece_staff_data.json",
+        "description": "A list of contact information for personnel in the Electronics and Communication Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "Electronics and Communication Engineering",
+            "department",
+            "personnel",
+            "contact information",
+            "email",
+            "phone number",
+            "technician",
+            "technical assistant"
+        ]
+    },
+    "igh.json": {
+        "name": "igh.json",
+        "description": "Information about the International Guest House at NIT Agartala, including description, contact email, and contact details for key personnel.",
+        "type": "information",
+        "keywords": [
+            "NIT Agartala",
+            "International Guest House",
+            "Guest House",
+            "Accommodation",
+            "Contact Information",
+            "Agartala"
+        ]
+    },
+    "bog.json": {
+        "name": "bog.json",
+        "description": "List of members of the Board of Governors for the National Institute of Technology (NIT) Agartala.",
+        "type": "directory",
+        "keywords": [
+            "NIT Agartala",
+            "Board of Governors",
+            "members",
+            "education",
+            "administration",
+            "committee",
+            "India"
+        ]
+    },
+    "mhss_contact.json": {
+        "name": "mhss_contact.json",
+        "description": "Contact information and details for the Department of Management, Humanities & Social Sciences at NIT Agartala.",
+        "type": "contact_information",
+        "keywords": [
+            "NIT Agartala",
+            "Management",
+            "Humanities",
+            "Social Sciences",
+            "Department",
+            "Contact",
+            "Address",
+            "Email",
+            "Phone",
+            "MBA",
+            "Admission",
+            "India",
+            "Tripura"
+        ]
+    },
+    "pe_research.json": {
+        "name": "pe_research.json",
+        "description": "JSON data containing information about research projects within the Production Engineering department.",
+        "type": "research_data",
+        "keywords": [
+            "research projects",
+            "production engineering",
+            "friction stir welding",
+            "turning productivity",
+            "cutting fluid",
+            "tribology",
+            "sleeper pad bearing",
+            "axial piston pump",
+            "carbon fiber",
+            "polymer composites",
+            "machining",
+            "lubri-cooling",
+            "AICTE",
+            "SERB",
+            "mechanical engineering",
+            "manufacturing engineering",
+            "robotics"
+        ]
+    },
+    "account.json": {
+        "name": "account.json",
+        "description": "Contact information for the Accounts Section, including names, designations, contact numbers, and email addresses of personnel.",
+        "type": "directory",
+        "keywords": [
+            "accounts",
+            "finance",
+            "contacts",
+            "personnel",
+            "email",
+            "phone number",
+            "designation",
+            "directory"
+        ]
+    },
+    "senate.json": {
+        "name": "senate.json",
+        "description": "List of members of The Senate Committee, including their names, designations, and roles.",
+        "type": "directory",
+        "keywords": [
+            "Senate Committee",
+            "members",
+            "NIT Agartala",
+            "IIT Guwahati",
+            "IIT Delhi",
+            "NIT Rourkela",
+            "committee members",
+            "Professors",
+            "faculty"
+        ]
+    },
+    "eie_faculty_data.json": {
+        "name": "eie_faculty_data.json",
+        "description": "A list of faculty members in the Electronics and Instrumentation Engineering department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "electronics",
+            "instrumentation",
+            "engineering",
+            "department",
+            "contact information",
+            "NITA"
+        ]
+    },
+    "pe_staff_data.json": {
+        "name": "pe_staff_data.json",
+        "description": "A list of faculty members with their contact information, including name, department, designation, email, and contact number.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "contact",
+            "directory",
+            "email",
+            "phone number",
+            "department",
+            "designation",
+            "instructor"
+        ]
+    },
+    "sports.json": {
+        "name": "sports.json",
+        "description": "Information about the sports culture and facilities at NIT Agartala, including contact details of sports officers.",
+        "type": "information",
+        "keywords": [
+            "NIT Agartala",
+            "sports",
+            "sports facilities",
+            "Atal Bihari Vajpayee Sports Complex",
+            "sports officers",
+            "physical education",
+            "student activities"
+        ]
+    },
+    "crf.json": {
+        "name": "crf.json",
+        "description": "Details of instruments available at the Central Research Facility (CRF) of NIT Agartala, including their descriptions and usage charges for various user categories (Industry, National Laboratories, Academic Institutes, and NIT Agartala).",
+        "type": "price_list",
+        "keywords": [
+            "Central Research Facility",
+            "CRF",
+            "NIT Agartala",
+            "scientific instruments",
+            "scanning electron microscope",
+            "SEM",
+            "atomic force microscopy",
+            "AFM",
+            "transmission electron microscope",
+            "TEM",
+            "X-ray diffractometer",
+            "XRD",
+            "Liquid Nitrogen",
+            "SonTek Micro ADV",
+            "WaterLog Weather Station",
+            "YSI Sonde",
+            "SonTek River Surveyor",
+            "Ellipsometer",
+            "Optical Spectrum Analyzer",
+            "UV/Vis Spectrophotometer",
+            "PCB Board Maker",
+            "instrument charges",
+            "research",
+            "testing",
+            "academic",
+            "pricing",
+            "rates"
+        ]
+    },
+    "chem_data.json": {
+        "name": "chem_data.json",
+        "description": "Details of academic programmes offered by the Chemistry department.",
+        "type": "data",
+        "keywords": [
+            "chemistry",
+            "programmes",
+            "courses",
+            "M.Sc",
+            "B.S-M.S",
+            "Ph.D",
+            "postdoctoral",
+            "admission",
+            "qualifications",
+            "department"
+        ]
+    },
+    "director.json": {
+        "name": "director.json",
+        "description": "Directory information for the Office of the Director, including contact details of key personnel.",
+        "type": "directory",
+        "keywords": [
+            "office",
+            "director",
+            "contact",
+            "email",
+            "phone",
+            "personnel",
+            "directory",
+            "NITA"
+        ]
+    },
+    "mhss_faculty_data.json": {
+        "name": "mhss_faculty_data.json",
+        "description": "A directory of faculty members in the Management, Humanities & Social Sciences department.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "directory",
+            "Management",
+            "Humanities",
+            "Social Sciences",
+            "professors",
+            "staff",
+            "email",
+            "contact information"
+        ]
+    }
+}
