@@ -1,0 +1,127 @@
+{
+  "BoardOfGovernorsMinutes": {
+    "MeetingNumber": 37,
+    "Date": "July 01, 2016",
+    "Location": "Conference Hall, NIT Transit House, New Delhi",
+    "Institute": {
+      "Name": "National Institute of Technology Agartala",
+      "Address": "West Tripura, Pin: 799046"
+    },
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, BoG of NIT Agartala"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director of NIT, Agartala"
+      },
+      {
+        "Name": "Shri Satpal Sharma",
+        "Designation": "Under Secretary, MHRD, Govt. of India (Representative of JS & FA, IFD, MHRD)"
+      },
+      {
+        "Name": "Shri Alok Roy Choudhury",
+        "Designation": "Member, Chief Engineer, PWD, Govt. of Tripura"
+      },
+      {
+        "Name": "Prof. Richi Prasad Sharma",
+        "Designation": "Member, Professor, Civil Engg. Dept., NIT Agartala"
+      },
+      {
+        "Name": "Dr. John Debbarma",
+        "Designation": "Member, Assistant Professor, ME Dept., NIT Agartala"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Designation": "Secretary, Registrar (i/c), NIT Agartala"
+      }
+    ],
+    "MembersAbsent": [
+      "Prof. A. Srinivasan, Professor, Dept. of Physics, IIT Guwahati",
+      "Prof. (Mrs.) Uma Bhattacharya, Professor, Dept. of Computer Science & Technology, HEST, Shibpur, West Bengal",
+      "Special Secretary/ Addl. Secretary/ Joint Secretary (TE), MHRD, Govt. of India",
+      "Secretary to the Government of Tripura, Dept. of Higher Education, Agartala"
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "37.1",
+        "Title": "Confirmation of draft Minutes of the 36th BoG Meeting",
+        "Details": "Modified minutes incorporating comments of Shri S. P. Goyal were confirmed."
+      },
+      {
+        "ItemNo": "37.2",
+        "Title": "Actions on decisions of 34th and 35th BoG meetings",
+        "Details": "Actions taken were noted."
+      },
+      {
+        "ItemNo": "37.3",
+        "Title": "Remittance of Annual subscription to AIU, New Delhi",
+        "Details": "Payment not required as per statutory provisions in NITSER Act."
+      },
+      {
+        "ItemNo": "37.4",
+        "Title": "Ratification of engagement of Dr. Debasish Bhattacharya as Registrar (i/c)",
+        "Details": "Board ratified the Chairperson’s decision to assign Registrar (i/c) duties to Dr. Debasish Bhattacharya until further orders, subject to ongoing Writ Appeal outcome. Recruitment process for regular Registrar to proceed with approval from Chairperson."
+      },
+      {
+        "ItemNo": "37.5",
+        "Title": "Appointment of Regular Chief Vigilance Officer (CVO)",
+        "Details": "Board noted Ministry's recommendation. Dr. Paritiosh Bhattacharya will continue as CVO until further orders, supported by Legal Cell."
+      },
+      {
+        "ItemNo": "37.6",
+        "Title": "Payment of Honorarium to Associate Deans and Registrar (i/c)",
+        "Details": "Special Allowance of Rs. 2500/month to Associate Deans approved. No allowance for Registrar (i/c) considered. Emphasis on recruiting full-time Registrar."
+      },
+      {
+        "ItemNo": "37.7",
+        "Title": "Constitution of Tribunal of Arbitration under Section 29 of NITSER Act",
+        "Details": "Proposal deferred."
+      },
+      {
+        "ItemNo": "37.8",
+        "Title": "General Provident Fund Rules for NITA employees",
+        "Details": "Draft GPF Rules to be vetted by Govt. of India. Reminder to MHRD for concurrence. Board confirmed implementation."
+      },
+      {
+        "ItemNo": "37.9",
+        "Title": "EPF facilities to contractual employees",
+        "Details": "EPF contribution rate capped for pay above Rs. 15,000. Legal advice recommended; proposal to Chairperson for consideration. Board confirmed implementation."
+      },
+      {
+        "ItemNo": "37.10",
+        "Title": "Ongoing TEQIP-II program issues",
+        "SubItems": [
+          {
+            "Title": "A. Organizing in-house conferences, training, seminars",
+            "Details": "Board permitted use of TEQIP-II funds for conferences, R&D programs, pedagogical training, and Continuing Education Programs."
+          },
+          {
+            "Title": "B. Honorarium for Invitee Professors",
+            "Details": "Rs. 5000/day (besides TA/DA) allowed for Professors from IITs, NITs, and other institutions for lectures under TEQIP-II Fund."
+          },
+          {
+            "Title": "C. Screening Committee for TEQIP-II International Travel",
+            "Details": "Director authorized to constitute Screening Committee with external experts. Process to be streamlined with MHRD."
+          }
+        ]
+      },
+      {
+        "ItemNo": "37.11",
+        "Title": "Upgradation of internal main road and ratification of Chairperson’s decision",
+        "Details": "Board noted road widening and infrastructure upgrade details. Accepted recommendations of 34th and 35th BWC meetings."
+      },
+      {
+        "ItemNo": "37.12.4",
+        "Title": "Fees for students from academic year 2016-17",
+        "Details": "Tuition fees for B.Tech. revised from Rs. 70,000 to Rs. 125,000 per annum with concessions for socially/economically backward students. Existing fees retained for other programs and previously admitted students. Decision confirmed for immediate implementation."
+      }
+    ],
+    "Signatures": {
+      "Secretary": "Dr. Debasish Bhattacharya",
+      "Chairperson": "Prof. Deepak B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BOG_Minutes/37th_BoG_Minutes.pdf"
+}

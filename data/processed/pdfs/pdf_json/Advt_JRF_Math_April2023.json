@@ -1,0 +1,41 @@
+{
+  "filename": "Advt_JRF_Math_April2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "department": "Department of Mathematics",
+    "location": "Barjala, Jirania, West Tripura, PIN - 799046",
+    "ref_no": "F.NITA.16(208-Math)/Project-SERB/SPD/2022",
+    "date": "11-04-2023",
+    "post": {
+      "name": "Junior Research Fellow (JRF)",
+      "project_title": "Transmission of quantum information using perfect state transfer",
+      "funding_agency": "SERB",
+      "monthly_remuneration": "Rs. 31,000/- per month + HRA (as per rule)",
+      "tenure": "Initial contract for one year, extendable annually up to three years based on performance and SERB approval",
+      "eligibility_criteria": [
+        "Master's degree in any branch of Mathematical Sciences with minimum 55% marks or equivalent",
+        "Valid NET or GATE score",
+        "Expertise in linear algebra or graph theory",
+        "Knowledge of quantum information theory desirable but not essential"
+      ],
+      "application_process": {
+        "email_to": "Dr. Supriyo Dutta, dosupriyo@gmail.com",
+        "subject_line": "SERB JRF Recruitment April 2023 — [Applicant's Name]",
+        "attachments_required": ["CV with mobile number", "All relevant mark sheets", "Certificates in PDF format"],
+        "application_deadline": "23-04-2023"
+      },
+      "interview": {
+        "tentative_date": "24-04-2023",
+        "mode": "Hybrid",
+        "shortlisting": "Only shortlisted candidates will be called"
+      },
+      "terms_conditions": [
+        "Position purely temporary under SERB sponsored project",
+        "Continuation based on satisfactory performance",
+        "No TA/DA mentioned"
+      ]
+    },
+    "issued_by": "Dean (R&C), NIT Agartala",
+    "source_url": "https://nita.ac.in/Notice/Advt_JRF_Math_April2023.pdf"
+  }
+}

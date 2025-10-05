@@ -1,0 +1,49 @@
+{
+  "filename": "9-Report-on-Registration-2018.txt",
+  "content": {
+    "title": "REPORT ON REGISTRATION SEMINAR",
+    "form_number": "NITA/ACAD/PhD/9",
+    "department": "",
+    "student_details": {
+      "name": "",
+      "enrollment_no": "",
+      "date_of_enrollment": "",
+      "semester": "",
+      "category_of_studentship": "",
+      "assistance_fellowship": "",
+      "date_of_assessment": "",
+      "assessment_period": "",
+      "date_of_registration_seminar": "",
+      "course_work_cgpa": "",
+      "literature_review": "",
+      "problem_formulated": false,
+      "overall_progress": "",
+      "proposed_research_problem": ""
+    },
+    "exam_details": {
+      "mode_of_examination": {
+        "written": false,
+        "oral": false,
+        "both": false
+      },
+      "thesis_supervisors": ["", ""],
+      "date_of_examinations": {
+        "first_attempt": "",
+        "second_attempt": ""
+      }
+    },
+    "committee_members": {
+      "chairman_dc": "",
+      "members": ["", ""],
+      "supervisors": ["", ""],
+      "chairman_dppc": "",
+      "dean_academic": ""
+    },
+    "report_section": "",
+    "notes": [
+      "After signature of the Dean (Academic), the original copy is to be kept in the personal file of the student and a photocopy sent to the Supervisor and the Department."
+    ]
+  },
+  "pages": 2,
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/9-Report-on-Registration-2018.pdf"
+}

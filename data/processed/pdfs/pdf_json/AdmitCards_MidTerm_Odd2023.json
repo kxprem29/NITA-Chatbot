@@ -1,0 +1,33 @@
+{
+  "filename": "AdmitCards_MidTerm_Odd2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "reference_no": "No.F.NITA.6(1- Exam)/ NOTICE/ 2016-17",
+    "date": "16 August 2023",
+    "notice": "This is to inform all UG, PG, and Dual Degree students (except 1st year students) appearing for the Odd Semester Mid Term Examination 2023, scheduled to begin on 05th September 2023, that the Admit Cards for the said Examination can be printed from their respective MIS Accounts as per the schedule mentioned below.",
+    "exam_details": [
+      {
+        "exam_name": "Odd Semester Mid Term Examination 2023 of UG, PG, and Dual Degree (Except 1st Year Students)",
+        "exam_starting_date": "05th September 2023",
+        "admit_card_download_period": "02nd September 2023 to 04th September 2023"
+      }
+    ],
+    "instructions": [
+      "No student will be able to print their Admit Card before or after the above-mentioned schedule.",
+      "All students are hereby instructed to bring their Admit Cards to the Examination Hall and obtain endorsement from the invigilator at the designated place.",
+      "Students without their Admit Cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action.",
+      "Associate Dean (UG & PG) for kind information.",
+      "The System Administrator, NIT Agartala. He is requested to upload this Notification to the Institute Website.",
+      "Guard file for record."
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Examination/AdmitCards_MidTerm_Odd2023.pdf"
+}

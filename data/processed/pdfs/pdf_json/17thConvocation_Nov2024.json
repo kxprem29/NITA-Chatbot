@@ -1,0 +1,52 @@
+{
+  "ConvocationNotice": {
+    "Institute": "National Institute of Technology Agartala",
+    "Address": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "NoticeNumber": "NITA.5/(19-Acad)/17th Convocation/2024-25",
+    "DateIssued": "07/11/2024",
+    "ConvocationDetails": {
+      "ConvocationNumber": "17th",
+      "Date": "18/01/2025",
+      "Day": "Saturday",
+      "Venue": "NIT Agartala",
+      "AcademicSession": "2024-25",
+      "EligibleRecipients": ["UG", "Dual Degree", "PG", "Ph.D."]
+    },
+    "Instructions": {
+      "Registration": {
+        "Portal": "https://mis.nita.ac.in",
+        "StartDate": "02/12/2024",
+        "EndDate": "02/01/2025",
+        "DigiLockerRequirement": true,
+        "RegistrationFee": "No additional fee (already paid)"
+      },
+      "DressCode": {
+        "Boys": "White Kurta Pajama, preferably cotton",
+        "Girls": "Off-white Salwar Suit, preferably cotton",
+        "Note": "Strict adherence required; failure to comply will result in denial of entry"
+      },
+      "HelpDesk": {
+        "ContactPerson": "Mr. Pramathesh Banik",
+        "Email": "nitmisagt@gmail.com",
+        "Phone": "0381-2548537",
+        "Timings": "10:00 AM to 5:00 PM (working days)"
+      }
+    },
+    "IssuedBy": "Registrar, NIT Agartala",
+    "CopyTo": [
+      "P.S. to the Director, NITA",
+      "PIC (Convocation)",
+      "All Deans",
+      "All Professors",
+      "All HoDs",
+      "The Associate Deans (Acad)/(Exam)",
+      "The Chief Warden",
+      "UG/PG Coordinator/Departmental Alumni Coordinator",
+      "DR (Academic)",
+      "ARs (Academic)/(Finance)",
+      "System Administrator (to upload notice)",
+      "Guard File/17th Convocation File"
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/convocation/17thConvocation_Nov2024.pdf"
+}

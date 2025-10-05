@@ -1,0 +1,43 @@
+{
+  "PhdProvisionalEnrollmentForm": {
+    "formInfo": {
+      "title": "Enrolment (Provisional) for the Ph.D. Degree",
+      "formNumber": "NITA/ACAD/PHD/6",
+      "timing": "After DC and Supervisor Finalization"
+    },
+    "purpose": "To officially record the provisional enrollment of a Research Scholar for the Degree of Doctor of Philosophy (Ph.D) based on the recommendation of the Doctoral Committee.",
+    "scholarParticulars": [
+      "Name of the Scholar",
+      "Department/Centre",
+      "Roll No",
+      "Date of Enrolment",
+      "Category",
+      "Supervisor",
+      "Qualifying Degree (Science / Engineering)"
+    ],
+    "courseworkSection": {
+      "title": "Coursework Requirements",
+      "columns": [
+        "Course Name",
+        "Credit"
+      ]
+    },
+    "additionalRequirements": {
+      "hssSubjects": "Requirement of subject(s) offered by HSS Department to be completed."
+    },
+    "scholarshipDetails": {
+      "applicability": "In the case of Institute Scholars Only",
+      "fields": [
+        "Scholarship amount per month",
+        "Effective from date"
+      ]
+    },
+    "conditions": [
+      "The award of the scholarship is subject to all conditions prescribed by the rules and regulations.",
+      "This provisional enrolment is subject to Senate approval and may be cancelled or modified at any stage if any discrepancy is found.",
+      "Issued with the approval of the competent authority."
+    ],
+    "issuedBy": "Dy. Registrar (Acad.) / Asst. Registrar (Academic)"
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/6-ProvisionalEnrollment_Oct2023.pdf"
+}

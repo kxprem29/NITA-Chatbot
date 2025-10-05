@@ -1,0 +1,85 @@
+{
+  "ExaminationNotice": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.6/(5 - EXAM)/ EP/2012 - 13",
+      "issueDate": "26.12.2024"
+    },
+    "examinationDetails": {
+      "title": "ODD SEMESTER END-TERM EXAMINATION - 2025",
+      "program": "B.Sc.-B.Ed (ITEP)",
+      "semester": "1st SEMESTER",
+      "startDate": "13.01.2025",
+      "venue": "ROOM NO. MB 102, NIT AGARTALA",
+      "time": "11:00 AM TO 1:00 PM"
+    },
+    "schedule": [
+      {
+        "date": "13.01.2025",
+        "day": "Monday",
+        "subject": "Evolution of Indian Education",
+        "courseCodes": [
+          "UED091B01"
+        ]
+      },
+      {
+        "date": "14.01.2025",
+        "day": "Tuesday",
+        "subject": "Language - 1 (Hindi)",
+        "courseCodes": [
+          "UED091B02"
+        ]
+      },
+      {
+        "date": "15.01.2025",
+        "day": "Wednesday",
+        "subject": "Art Education",
+        "courseCodes": [
+          "UED091B03"
+        ]
+      },
+      {
+        "date": "16.01.2025",
+        "day": "Thursday",
+        "subject": "Understanding India - 1",
+        "courseCodes": [
+          "UED091B04"
+        ]
+      },
+      {
+        "date": "17.01.2025",
+        "day": "Friday",
+        "subject": "Mathematics Major - 1 (Mathematics 1) / MATHEMATICS PAPER-1, (INTRODUCTION TO CALCULUS)",
+        "courseCodes": [
+          "UED091C01",
+          "UED091E03"
+        ]
+      },
+      {
+        "date": "20.01.2025",
+        "day": "Monday",
+        "subject": "Physics Major - 1 (Vector Calculus & Mechanics) / PHYSICS PAPER-1 (MECHANICS & OPTICS)",
+        "courseCodes": [
+          "UED091C02",
+          "UED091E01"
+        ]
+      },
+      {
+        "date": "21.01.2025",
+        "day": "Tuesday",
+        "subject": "Chemistry Major - 1 (General Chemistry) / CHEMISTRY PAPER-1 (FUNDAMENTAL CHEMISTRY)",
+        "courseCodes": [
+          "UED091C03",
+          "UED091E02"
+        ]
+      }
+    ],
+    "distributionList": [
+      "P.S. to the Director for kind information of the Director.",
+      "All HOD’s for kind information.",
+      "System administrator for upload to the Institute Website.",
+      "Notice Board."
+    ],
+    "signedBy": "Dean (Academic Affairs)"
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Examination/1stSemExam_BSc-BEd_Jan2025.pdf"
+}

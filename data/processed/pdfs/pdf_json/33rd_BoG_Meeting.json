@@ -1,0 +1,66 @@
+{
+  "filename": "33rd_BoG_Meeting.txt",
+  "title": "33rd BoG Meeting (Special)",
+  "date": "April 13, 2015",
+  "location": "Conference Hall, NIT Transit House, New Delhi",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "meeting_type": "Board of Governors (BoG)",
+  "meeting_number": 33,
+  "members_present": [
+    {"name": "Prof. Deepak B. Phatak", "role": "Chairperson, BoG, NIT Agartala"},
+    {"name": "Prof. Gopal Mugeraya", "role": "Member, Director of NIT, Agartala"},
+    {"name": "Shri Sanjeev Kumar Sharma", "role": "Director (NITs), MHRD, Govt. of India, Representative of Special Secretary/Additional/Joint Secretary, Technical Education, Dept. of Higher Education, MHRD"},
+    {"name": "Shri Rajesh Singh", "role": "Director (Finance), MHRD, Govt. of India, Representative of Financial Advisor, Dept. of Higher Education, MHRD"},
+    {"name": "Prof. A. Srinivasan", "role": "Professor, Dept. of Physics, IIT Guwahati, nominee of the Director, IIT Guwahati"},
+    {"name": "Prof. Richi Prasad Sharma", "role": "Professor, Civil Engg. Dept., NIT Agartala"},
+    {"name": "Dr. John Deb Barma", "role": "Asst. Professor, ME Dept., NIT Agartala"},
+    {"name": "Shri Sumanta Chakrabarti", "role": "Secretary & Registrar (i/c), NIT Agartala"}
+  ],
+  "members_absent": [
+    {"name": "Secretary to the Government of Tripura, Dept. of Higher Education"},
+    {"name": "Prof. Uma Bhattacharya", "role": "Professor, Dept. of Computer Science & Technology, IIEST, Shibpur"},
+    {"name": "Shri Alok Roy Choudhury", "role": "Addl. Chief Engineer, PWD, Govt. of Tripura"}
+  ],
+  "chairperson": "Prof. Deepak B. Phatak",
+  "agenda_items": [
+    {
+      "item_no": "33.1",
+      "title": "Confirmation of the Minutes of 32nd BoG Meeting",
+      "details": "Minutes of 32nd BoG held on January 17, 2015, were confirmed after incorporating changes suggested by Shri Sanjeev K. Sharma. Observations: (i) Items 37.16 and 37.16.9 of 32nd BoG read as 32.16.8 and 32.16.9; (ii) Item 32.16.8 on CAS is placed as separate Agenda Item 33.2."
+    },
+    {
+      "item_no": "33.2",
+      "title": "Writ Petition WP(C) 97 of 2013 regarding CAS benefit",
+      "details": "Special meeting called due to directions from High Court of Tripura dated 12/1/2015. BoG resolved it cannot process any CAS case after April 30, 2013, as NIT Council decision is final. Petitioners' concerns about victimization are misplaced. Decision to be communicated to petitioners by 31/05/2015."
+    },
+    {
+      "item_no": "33.3",
+      "title": "Representations by 17 Associate Professors and legal notice regarding CAS",
+      "details": "BoG has no jurisdiction to extend CAS benefit after April 30, 2013; NIT Agartala adopted 4-tier flexible faculty structure."
+    },
+    {
+      "item_no": "33.4",
+      "title": "Writ Petition WP(C) 65 of 2015 by Smt. Tara Sen & 2 others regarding CAS",
+      "details": "BoG not empowered to extend CAS benefit after April 30, 2013; 4-tier faculty structure already adopted."
+    },
+    {
+      "item_no": "33.5",
+      "title": "Representation by Assistant Professors regarding CAS benefit",
+      "details": "BoG not empowered to extend CAS benefit after April 30, 2013; 4-tier faculty structure already adopted."
+    },
+    {
+      "item_no": "33.6",
+      "title": "Implementation of Recruitment Rules (RRs) for Non-Teaching posts",
+      "details": "BoG approved Ministry of HRD proposal for implementation of RRs for Non-Teaching posts issued vide letter F.No.33-2/2013-TS.III, dated 5th February 2014."
+    }
+  ],
+  "closing": "Meeting ended with a vote of thanks to the Chair.",
+  "signatures": {
+    "secretary": "Shri Sumanta Chakrabarti",
+    "chairperson": "Prof. Deepak B. Phatak"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/33rd_BoG_Meeting.pdf"
+}

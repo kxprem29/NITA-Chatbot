@@ -1,0 +1,61 @@
+{
+  "filename": "Addendum_AssttProf_Aug24.txt",
+  "title": "Assistant Professor Recruitment - Addendum",
+  "institute": "National Institute of Technology Agartala",
+  "notice_number": "F.NITA.2(472-Estt)/2011/",
+  "date_of_notice": "2024-08-01",
+  "purpose": "Extension update to the recruitment notice for Assistant Professor vacancies (Grade-I & II) at NIT Agartala.",
+  "vacancies": {
+    "total": 47,
+    "by_category": {
+      "UR": 18,
+      "SC": 5,
+      "ST": 1,
+      "OBC": 15,
+      "EWS": 8
+    },
+    "department_wise": [
+      {"department": "Civil Engineering", "vacancy": 2},
+      {"department": "Mechanical Engineering", "vacancy": 2},
+      {"department": "Electrical Engineering", "vacancy": 2},
+      {"department": "Computer Science and Engineering", "vacancy": 6},
+      {"department": "Electronic and Communication Engineering", "vacancy": 3},
+      {"department": "Electronic and Instrumentation Engineering", "vacancy": 4},
+      {"department": "Production Engineering", "vacancy": 2},
+      {"department": "Chemical Engineering", "vacancy": 4},
+      {"department": "Bio-Engineering", "vacancy": 4},
+      {"department": "Chemistry", "vacancy": 4},
+      {"department": "Mathematics", "vacancy": 5},
+      {"department": "Physics", "vacancy": 5},
+      {"department": "Management, Humanities and Social Science", "vacancy": 4}
+    ]
+  },
+  "application_details": {
+    "online_portal": "http://hr.nita.ac.in",
+    "opening_date": "2024-08-09",
+    "closing_date": "2024-08-30",
+    "update_existing_application": true,
+    "notes": [
+      "No direct recruitment for Assistant Professors (Grade II) Pay level 11; candidates will be considered for Pay level 10.",
+      "Vacancy numbers may change at the time of selection.",
+      "Meeting minimum qualification criteria does not guarantee an interview.",
+      "Departments may set higher shortlisting criteria if required."
+    ]
+  },
+  "areas_of_specialization": [
+    {"department": "Bio-Engineering", "specialization": "No change in the area of specialization mentioned in the last published Advertisement"},
+    {"department": "Chemical Engineering", "specialization": ""},
+    {"department": "Civil Engineering", "specialization": ""},
+    {"department": "Computer Science and Engineering", "specialization": "MCA"},
+    {"department": "Electrical Engineering", "specialization": ""},
+    {"department": "Electronics and Communication Engineering", "specialization": "Analog VLSI Design, Electronic System and Packaging, 5G/6G Communication"},
+    {"department": "Electronic and Instrumentation Engineering", "specialization": ""},
+    {"department": "Mechanical Engineering", "specialization": ""},
+    {"department": "Production Engineering", "specialization": ""},
+    {"department": "Chemistry", "specialization": "No change in the area of specialization mentioned in the last published Advertisement"},
+    {"department": "Mathematics", "specialization": ""},
+    {"department": "Management, Humanities and Social Science", "specialization": "Signal processing: Artificial Intelligence, Computer Vision"}
+  ],
+  "statutory_reference": "NIT (Amendment) Act, 2017 and First Statutes under the Act, Gazette Notification by MoE No. F. No.33-5/2017-TS.III dated 21/12/2023",
+  "source_url": "https://nita.ac.in/Notice/Addendum_AssttProf_Aug24.pdf"
+}

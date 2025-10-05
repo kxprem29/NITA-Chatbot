@@ -1,0 +1,165 @@
+{
+  "BoardMeetingMinutes": {
+    "documentInfo": {
+      "fileNumber": "Minutes/32nd BOG/NITA",
+      "issueDate": "17/01/2015"
+    },
+    "meetingDetails": {
+      "title": "Minutes of the 32nd Meeting of the Board of Governors",
+      "meetingNumber": 32,
+      "date": "17th January, 2015",
+      "time": "12:30 PM",
+      "location": "Conference Hall of NIT Agartala"
+    },
+    "attendees": [
+      { "name": "Prof. Deepak B. Phatak", "role": "Chairperson", "designation": "Chairperson, BoG of NIT Agartala" },
+      { "name": "Prof. P.N. Singh", "role": "Invitee Member", "designation": "Former Chairperson, BoG of NIT Agartala" },
+      { "name": "Prof. Gopal Mugeraya", "role": "Member", "designation": "Director of NIT, Agartala" },
+      { "name": "Shri Ashutosh Jindal", "role": "Member", "designation": "Principal Secretary to the Govt. of Tripura, Dept. of Higher Education" },
+      { "name": "Shri Sanjeev Kumar Sharma", "role": "Member", "designation": "Director (NITs), MHRD, Govt. of India" },
+      { "name": "Shri Satpal Sharma", "role": "Member", "designation": "Under Secretary, MHRD, Govt. of India" },
+      { "name": "Prof. A. Srinivasan", "role": "Member", "designation": "Professor, Dept. of Physics, IIT Guwahati" },
+      { "name": "Shri Alok Roy Choudhury", "role": "Member", "designation": "Additional Chief Engineer, PWD, Govt. of Tripura" },
+      { "name": "Prof. Richi Prasad Sharma", "role": "Member", "designation": "Professor, Civil Engg. Dept., NIT Agartala" },
+      { "name": "Dr. John Debbarma", "role": "Member", "designation": "Asst. Professor, ME Dept, NIT Agartala" },
+      { "name": "Shri Sumanta Chakrabarti", "role": "Secretary", "designation": "Registrar (i/c), NIT Agartala" }
+    ],
+    "agendaItems": [
+      {
+        "itemNumber": "32.1",
+        "title": "Confirmation of the Minutes of 30th and 31st (Special) Board of Governors Meeting of NIT Agartala.",
+        "resolution": "Confirmed."
+      },
+      {
+        "itemNumber": "32.2",
+        "title": "Action taken on the decision of the 30th and 31st (Special) Board of Governors meeting held on May 02, 2014 and November 07, 2014 respectively at NIT Agartala.",
+        "resolution": "Noted."
+      },
+      {
+        "itemNumber": "32.3",
+        "title": "To consider the abroad visit by the faculty members under the CPDA and TEQIP-II.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.4",
+        "title": "To consider the recommendations of the minutes of 32nd Building & Works Committee meeting of NIT Agartala.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.5",
+        "title": "To consider the Audit Report of the accounts of the Institute for the year 2013-14.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.6",
+        "title": "To consider the Annual Report for the year 2013-14.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.7",
+        "title": "To consider the extension of official tenure of Prof. (Dr.) R. P. Sharma as the Dean (Academic) of NIT Agartala.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.8",
+        "title": "To consider the report of Fact Finding Committee on the incident of December 04, 2013 due to sad demise of Rahul Kumar, a 2nd year student of ECE Department, NIT Agartala.",
+        "resolution": "Noted."
+      },
+      {
+        "itemNumber": "32.9",
+        "title": "Providing of increment due to enhancement of Grade Pay to the up-graded faculty members from GP Rs. 6000/- to Rs. 7000/-.",
+        "resolution": "Noted."
+      },
+      {
+        "itemNumber": "32.10",
+        "title": "To consider modification in the existing rules for allotment of residential accommodation at campus of NIT Agartala.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.11",
+        "title": "Consideration and approval of 100% waving of tuition fee for the SC/ST students studying in M.Tech, Dual degree and Ph.D programme at NIT Agartala.",
+        "resolution": "Referred to MHRD."
+      },
+      {
+        "itemNumber": "32.12",
+        "title": "To consider the recommendations of the minutes of 25th Finance Committee meeting of NIT Agartala, held on January 17, 2015.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.13",
+        "title": "Security Threat in NIT Agartala and measure thereof.",
+        "resolution": "Committee to be formed."
+      },
+      {
+        "itemNumber": "32.14",
+        "title": "To establish Industry-Academy Partnership with Bosch.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "32.15",
+        "title": "Present Status of TEQIP-II Project of NIT Agartala.",
+        "resolution": "Noted."
+      },
+      {
+        "itemNumber": "32.16",
+        "title": "Any other item with permission of the Chair.",
+        "subItems": [
+          {
+            "itemNumber": "32.16.1",
+            "title": "Service matter of Dr. Umesh Mishra, Professor, Civil Engineering Department, NIT Agartala.",
+            "resolution": "Disciplinary proceedings to be initiated."
+          },
+          {
+            "itemNumber": "32.16.2",
+            "title": "To consider the estimate for Construction of Central Lecture Hall Complex having 27 Class Rooms at NIT Agartala at a cost of Rs.70,52,95,723.00.",
+            "resolution": "Approved."
+          },
+          {
+            "itemNumber": "32.16.3",
+            "title": "Opening of a new M. Tech. course on Construction Technology & Management in the Civil Engineering Department of NITA.",
+            "resolution": "Approved."
+          },
+          {
+            "itemNumber": "32.16.4",
+            "title": "Extension of Contractual Services of Prof. Bidyut Kumar Bhattacharyya, Electrical Engineering Dept, NIT Agartala.",
+            "resolution": "Approved."
+          },
+          {
+            "itemNumber": "32.16.5",
+            "title": "To consider promotion for Non-Teaching Group-C employees who are serving in NIT Agartala for a pretty long period.",
+            "resolution": "Not Approved."
+          },
+          {
+            "itemNumber": "32.16.6",
+            "title": "To consider the Higher Grade Pay in respect of 6 (Six) nos. of Group-C Non-Teaching employee of NIT Agartala considering the MHRD letter vide No. F.23-18/ 2008-TS.II, dated 17-03-2010.",
+            "resolution": "Referred to MHRD."
+          },
+          {
+            "itemNumber": "32.16.7",
+            "title": "Empanelment of Health Care Institutes for the regular employees of NIT Agartala.",
+            "resolution": "Committee to be formed."
+          },
+          {
+            "itemNumber": "32.16.8",
+            "title": "W. P. (C) 97 of 2013 filed by Dr. Prasun Chakraborti and 3 others and the Judgment passed by the Hon\u2019ble High Court of Tripura.",
+            "resolution": "To follow due process."
+          },
+          {
+            "itemNumber": "32.16.9",
+            "title": "PIRD Complaint against Prof. Probir Kumar Bose Ex-Director of NIT Agartala.",
+            "resolution": "Fact Finding Committee to be constituted."
+          }
+        ]
+      }
+    ],
+    "closingRemarks": {
+      "summary": "All decisions were taken unanimously.",
+      "conclusion": "The Meeting ended with a vote of thanks to the Chair."
+    },
+    "signedBy": {
+      "name": "Prof. D. B. Phatak",
+      "title": "Chairperson, Board of Governors"
+    }
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/32nd_BoG_Minutes.pdf"
+}

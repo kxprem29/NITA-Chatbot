@@ -1,0 +1,109 @@
+{
+  "filename": "Advertisement_Gr-A_June2024.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "status": "An Institute of National Importance",
+    "address": "Barjala, Jirania — 799046 (West Tripura)",
+    "file_no": "NITA.2(519-Estt)/2019/Vol-II/52",
+    "date": "June 24, 2024",
+    "title": "Advertisement for Recruitment of Officers",
+    "posts": [
+      {
+        "name": "Deputy Registrar",
+        "group": "A",
+        "pay_level": 12,
+        "vacancies": [
+          "1-UR (Direct Recruitment)",
+          "1-UR (Lien Vacancy)#",
+          "1-Deputation"
+        ]
+      },
+      {
+        "name": "Assistant Registrar",
+        "group": "A",
+        "pay_level": 10,
+        "vacancies": [
+          "1-UR (Direct Recruitment)",
+          "1-SC (Lien Vacancy)#",
+          "1-Deputation"
+        ]
+      },
+      {
+        "name": "Executive Engineer",
+        "group": "A",
+        "pay_level": 10,
+        "vacancies": [
+          "1-UR (Civil Engineer)"
+        ]
+      },
+      {
+        "name": "Scientific/Technical Officer",
+        "group": "A",
+        "pay_level": 10,
+        "vacancies": [
+          "1-UR (Direct Recruitment)",
+          "1-(Deputation)"
+        ]
+      }
+    ],
+    "qualifications": {
+      "Deputy Registrar": {
+        "essential": "Master’s degree in any discipline with at least 55% marks or equivalent; experience of 9 years as Assistant Professor or 5 years as Assistant Registrar or comparable experience in research/education administration",
+        "desirable": [
+          "Qualification in Management/Engineering/Law",
+          "Experience with E-Office system",
+          "Chartered or Cost Accountant degree/diploma for Finance/Internal Audit",
+          "Administrative experience in industry, government, PSU, banks, higher educational institutes"
+        ]
+      },
+      "Assistant Registrar": {
+        "essential": "Master’s degree with 55% marks or equivalent; or experience as Superintendent/Private Secretary with required years of service",
+        "desirable": [
+          "Qualification in Management/Engineering/Law",
+          "Experience with E-Office system",
+          "Chartered or Cost Accountant for Finance & Accounts"
+        ]
+      },
+      "Executive Engineer": {
+        "essential": "B.E/B.Tech in Civil Engineering with first class; or Institute employees with required service as Assistant Engineer",
+        "desirable": [
+          "Experience handling large construction projects",
+          "Knowledge of CAD and management software"
+        ]
+      },
+      "Scientific/Technical Officer": {
+        "essential": "B.E/B.Tech/M.Sc/MCA in relevant field with first class or equivalent; or Institute employees as Technical Assistants with required service",
+        "desirable": [
+          "Work experience in scientific equipment maintenance, system administration, software development",
+          "Ph.D. in relevant field preferred"
+        ]
+      }
+    },
+    "general_instructions": {
+      "application_fee": {
+        "general": 1000,
+        "SC/ST": 500,
+        "Women/PwD": 0
+      },
+      "application_mode": "Online only",
+      "application_open": "26/06/2024",
+      "application_close": "02/08/2024",
+      "probation": "1 year as per NIT Statutes",
+      "reservation_policy": "As per Govt. of India norms",
+      "important_notes": [
+        "Applicants employed in Govt./PSU/Autonomous bodies must submit through proper channel or NOC",
+        "Original documents to be produced at interview/test",
+        "Incomplete applications will be rejected",
+        "Institute reserves right to modify/cancel recruitment",
+        "Shortlisting criteria may exceed minimum qualifications",
+        "Higher starting pay may be given to meritorious candidates",
+        "Canvassing will disqualify candidature",
+        "Information regarding selection will be provided only via Institute website",
+        "Candidates can apply for multiple posts separately with fee",
+        "Waiting list valid for one year",
+        "No TA/DA for attending test/interview"
+      ]
+    },
+    "source_url": "https://nita.ac.in/Notice/Advertisement_Gr-A_June2024.pdf"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "filename": "75thRepublicDay_Jan2024.txt",
+  "metadata": {
+    "organization": "National Institute of Technology Agartala",
+    "location": "Agartala - 799046, Tripura",
+    "date_of_notification": "25.01.2024",
+    "event_date": "26.01.2024",
+    "reference_no": "NITA/25/(32-DSA)REP-IND-DAY/2019-20/719"
+  },
+  "event": "75th Republic Day Celebration",
+  "schedule": [
+    {
+      "event": "Assembly of Faculty, Staff, and Students",
+      "time": "7:20 AM",
+      "venue": "Swami Vivekananda Knowledge Park, NITA"
+    },
+    {
+      "event": "Arrival of the Hon. Director, NITA",
+      "time": "7:25 AM",
+      "venue": ""
+    },
+    {
+      "event": "Hoisting of National Flag by the Hon. Director followed by National Anthem",
+      "time": "7:30 AM",
+      "venue": ""
+    },
+    {
+      "event": "Assembly of students for march past",
+      "time": "7:45 AM",
+      "venue": "ABV Sports Complex (Football Ground)"
+    },
+    {
+      "event": "Arrival of the Hon. Director, NITA",
+      "time": "8:15 AM",
+      "venue": ""
+    },
+    {
+      "event": "Hoisting of National Flag by the Hon. Director followed by National Anthem",
+      "time": "8:20 AM",
+      "venue": ""
+    },
+    {
+      "event": "Address by the Hon. Director, NITA",
+      "time": "8:25 AM",
+      "venue": ""
+    },
+    {
+      "event": "Cultural programme by the Students of NIT Agartala",
+      "time": "8:40 AM",
+      "venue": ""
+    },
+    {
+      "event": "Kabaddi Match by the students",
+      "time": "9:00 AM",
+      "venue": ""
+    },
+    {
+      "event": "Distribution of sweets",
+      "time": "9:30 AM",
+      "venue": ""
+    }
+  ],
+  "transport": {
+    "description": "To and fro bus service from Battala, Agartala to NIT Agartala",
+    "departure_time": "6:30 AM"
+  },
+  "invited": [
+    "Deans",
+    "HODs",
+    "Faculty members",
+    "Staff members",
+    "Students of NIT Agartala"
+  ],
+  "signatory": {
+    "name": "Registrar",
+    "organization": "NIT Agartala"
+  },
+  "source_url": "https://nita.ac.in/Notice/75thRepublicDay_Jan2024.pdf"
+}

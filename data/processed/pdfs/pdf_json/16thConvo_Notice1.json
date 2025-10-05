@@ -1,0 +1,58 @@
+{
+  "ConvocationNotice": {
+    "Institute": "National Institute of Technology Agartala",
+    "Address": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "NoticeNumber": "NITA.5/(19-Acad)/16th Convocation/2023-24/N-1",
+    "DateIssued": "02/09/2023",
+    "ConvocationDetails": {
+      "ConvocationNumber": "16th",
+      "Date": "04/11/2023",
+      "Day": "Saturday",
+      "Venue": "NIT Agartala",
+      "AcademicSession": "2022-23",
+      "EligibleRecipients": ["UG", "Dual Degree", "PG", "Ph.D."]
+    },
+    "Instructions": {
+      "Registration": {
+        "Portal": "https://mis.nita.ac.in",
+        "StartDate": "04/09/2023",
+        "EndDate": "12/10/2023",
+        "DigiLockerRequirement": true,
+        "RegistrationFee": "No additional fee (already paid)"
+      },
+      "RobeDistribution": {
+        "Date": "03/11/2023",
+        "Time": "10:00 AM to 1:00 PM",
+        "Location": "Respective Departments",
+        "Note": "No robes will be issued after this time; recipients without robes will receive degrees in absentia."
+      },
+      "Rehearsal": {
+        "Date": "03/11/2023",
+        "Time": "3:30 PM",
+        "Eligibility": "Only registered recipients who collected robes"
+      },
+      "HelpDesk": {
+        "ContactPerson": "Mr. Pramathesh Banik",
+        "Email": "nitmisagt@gmail.com",
+        "Phone": "0381-2548537",
+        "Timings": "10:00 AM to 5:00 PM (working days)"
+      }
+    },
+    "IssuedBy": "Registrar, NIT Agartala",
+    "CopyTo": [
+      "P.S. to the Director, NITA",
+      "All Deans",
+      "All Professors",
+      "All HoDs",
+      "The Associate Deans (Acad)/(Exam)",
+      "The Chief Warden",
+      "UG/PG Coordinator/Departmental Alumni Coordinator",
+      "DR (Academic)",
+      "ARs (Academic)/(Finance)/(Purchase)",
+      "System Administrator (to upload notice)",
+      "Guard file",
+      "16th Convocation File"
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Notice/16thConvo_Notice1.pdf"
+}

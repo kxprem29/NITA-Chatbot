@@ -1,0 +1,58 @@
+{
+  "filename": "40th_BoG_Minutes.txt",
+  "title": "40th Board of Governors Meeting Minutes",
+  "date": "June 28, 2017",
+  "location": "Conference Room, Tripura Bhawan, New Delhi",
+  "institution": "National Institute of Technology Agartala",
+  "pin": "799046",
+  "members_present": [
+    {"name": "Prof. Deepak B. Phatak", "designation": "Chairperson, BoG of NIT Agartala"},
+    {"name": "Prof. Gopal Mugeraya", "designation": "Director of NIT, Agartala"},
+    {"name": "Shri A. K. Singh", "designation": "Under Secretary (TS-IID), MHRD, Govt. of India"},
+    {"name": "Shri D. K. Singh", "designation": "Under Secretary (IFD), MHRD, Govt. of India"},
+    {"name": "Shri Alok Roy Choudhury", "designation": "Addl. Chief Engineer, PWD, Govt. of Tripura"},
+    {"name": "Prof. Richi Prasad Sharma", "designation": "Professor, Civil Engg, Dept., NIT Agartala"},
+    {"name": "Dr. John Debbarma", "designation": "Asst. Professor, ME Dept., NIT Agartala"},
+    {"name": "Prof. Perumal Alagarsamy", "designation": "Nominee of Director, IIT, Guwahati"},
+    {"name": "Dr. Govind Bhargava", "designation": "Secretary, Registrar, NIT, Agartala"}
+  ],
+  "agenda_items": [
+    {
+      "item_no": "40.1",
+      "title": "Confirmation of draft Minutes of 39th BOG meeting",
+      "decision": "Modified minutes confirmed with minor modifications"
+    },
+    {
+      "item_no": "40.2",
+      "title": "Actions taken on 37th & 38th BOG meetings",
+      "decision": "Actions noted by the Board"
+    },
+    {
+      "item_no": "40.3",
+      "title": "Amendment of NIT First Statutes",
+      "decision": "Modifications to various statutes approved, including Finance Committee, Building & Works Committee, powers of Director, appointment rules, and code of conduct. Detailed modifications listed in tables."
+    },
+    {
+      "item_no": "40.4",
+      "title": "Initiation of recruitment process for faculty members",
+      "decision": "Recruitment process to start for vacant posts of Assistant Professors (contract and regular), Associate Professors, and Professors after Visitor approval for statutory modifications."
+    },
+    {
+      "item_no": "40.5",
+      "title": "Guidelines for TA/DA payment to Non-Official Members",
+      "decision": [
+        "Claims limited to AC-II train fare or actual bus/taxi fare",
+        "DA admissible as per Income Tax Rule",
+        "TA/DA claim forms to be submitted by non-official members",
+        "Payments may be made digitally with Bank account and PAN details"
+      ]
+    },
+    {
+      "item_no": "40.6",
+      "title": "Any other item with permission of Chair",
+      "decision": "Acknowledgement of Dr. Gopal Mugeraya's appointment as Director, NIT Goa; decision to relieve him after handing over charge of NITA."
+    }
+  ],
+  "additional_notes": "Minutes confirmed for implementation and progress/status of agenda items noted.",
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/40th_BoG_Minutes.pdf"
+}

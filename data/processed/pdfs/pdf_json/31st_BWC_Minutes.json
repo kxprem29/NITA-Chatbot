@@ -1,0 +1,65 @@
+{
+  "filename": "31st_BWC_Minutes.txt",
+  "committee": "Building & Works Committee",
+  "meeting_number": 31,
+  "date": "2014-02-07",
+  "time": "10:30",
+  "venue": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "location": "Barjala, Jirania, West Tripura — 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) Gopal Mugeraya",
+    "designation": "Director & Chairman, B&WC, NIT Agartala"
+  },
+  "members_present": [
+    {
+      "name": "Shri Asit Bhaumik",
+      "designation": "Member, Addl. Chief Engineer, PWD (R & D) (Representative of PWD, Govt. of Tripura)"
+    },
+    {
+      "name": "Shri Kajal Banik",
+      "designation": "Member, Executive Engineer (Elect.), Electrical Inspectorate (Representative of PWD, Govt. of Tripura)"
+    },
+    {
+      "name": "Dr. Ajoy Kr. Chakraborty",
+      "designation": "Member, Dean (P&D), NIT Agartala"
+    },
+    {
+      "name": "Dr. R. P. Sharma",
+      "designation": "Member, Professor, NIT Agartala"
+    },
+    {
+      "name": "Dr. S. K. Pal",
+      "designation": "Invitee, Advisor to the Director, Civil Engg. & Construction Works"
+    },
+    {
+      "name": "Shri Sumanta Chakrabarti",
+      "designation": "Member Secretary, Registrar (I/C), NIT Agartala"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "31.1",
+      "description": "Confirmation of the Minutes of the 30th Building & Works Committee Meeting held on December 09, 2013.",
+      "decision": "Minutes confirmed; no modifications or comments received."
+    },
+    {
+      "item_no": "31.2",
+      "description": "Action taken on the decision of the 30th Building & Works Committee Meeting.",
+      "decision": "Action taken report noted."
+    },
+    {
+      "item_no": "31.3",
+      "description": "Award of work for 'Construction of 1500 Capacity Boys’ Hostel at NIT Agartala' to the lowest qualified bidder.",
+      "decision": "Work awarded to M/S NCC Limited at Rs. 1,52,42,54,361.00 (31.40% above estimated cost) after technical and price bid evaluation."
+    },
+    {
+      "item_no": "31.4",
+      "description": "Approval of estimate for 'Supply, Installation, Testing & Commissioning of 15 lifts' in various buildings at NIT Agartala.",
+      "decision": "Estimate approved at Rs. 2,86,51,140.00; tender to be invited from 5 specified vendors: OTIS, Thyssen Krupp, Johnson, Kone, Mitsubishi."
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/31st_BWC_Minutes.pdf"
+}

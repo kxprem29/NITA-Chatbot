@@ -1,0 +1,53 @@
+{
+  "TenderNotice": {
+    "documentInfo": {
+      "fileNumber": "23(278)/NITA/Estate/2022-23",
+      "issueDate": null
+    },
+    "title": "Notice Inviting e-Tender",
+    "tenderDetails": {
+      "nameOfWork": "Maintenance of Roof and allied Plumbing & Carpentry work at Type IV quarters of NIT Agartala."
+    },
+    "invitedFrom": "Central & Public Sector Undertakings and eligible Contractors / Firms / Agencies of appropriate standing, registered with state PWDs / CPWD / MES Railway / P & T or other government organizations.",
+    "biddingProcess": {
+      "portalUrl": "https://eprocure.gov.in",
+      "instructions": "Bidding is online only. Bidders can bid 24x7 until the closing time. Re-submission is allowed, with the latest bid being considered for evaluation. Physical submission of bids is not permitted."
+    },
+    "paymentDetails": {
+      "fees": [
+        {
+          "type": "Earnest Money",
+          "status": "Refundable"
+        },
+        {
+          "type": "Bid Fee/Tender Cost",
+          "status": "Non-Refundable"
+        }
+      ],
+      "bankDetails": {
+        "accountHolder": "NIT Agartala",
+        "accountNumber": "30936141729",
+        "ifscCode": "SBIN0011461",
+        "micrCode": "799002521",
+        "bankName": "State Bank of India",
+        "branch": "NIT Agartala Branch"
+      },
+      "paymentMethod": "Electronic Transfer/Online transfer system"
+    },
+    "bidOpening": {
+      "process": "Bids will be opened online and will be accessible to bidders through https://eprocure.gov.in. Bidders may be present at the bid opening."
+    },
+    "contactInfo": {
+      "email": "estatesectioncivil@gmail.com"
+    },
+    "additionalInfo": {
+      "corrigendumNote": "Any subsequent corrigendum will be available on the website only.",
+      "websites": [
+        "http://www.nita.ac.in",
+        "https://eprocure.gov.in"
+      ]
+    },
+    "signedBy": "Registrar, NIT Agartala"
+  },
+  "source_url": "https://nita.ac.in/TenderFile/2NITTypeIV.pdf"
+}

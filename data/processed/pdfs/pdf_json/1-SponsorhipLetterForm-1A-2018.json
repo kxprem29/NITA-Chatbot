@@ -1,0 +1,17 @@
+{
+  "SponsorshipLetterForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./1(A)",
+    "Type": "Sponsorship Letter",
+    "Recipient": "The Director, National Institute of Technology, Agartala",
+    "ReferenceNo": null,
+    "Date": null,
+    "Subject": "Sponsoring an Employee for Ph.D. Programme",
+    "Body": {
+      "EmployeeName": null,
+      "Department": null,
+      "Details": "We hereby sponsor the mentioned employee for joining the Ph.D. Programme as a full-time scholar. It is certified that the employee has completed 2 years of service as a regular employee. The employee will be relieved from duties during the first three years of the Ph.D. Programme."
+    },
+    "SignatureAndSeal": "Sponsoring Authority"
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/1-SponsorhipLetterForm-1A-2018.pdf"
+}

@@ -1,0 +1,249 @@
+{
+  "BWCMeetingMinutes": {
+    "MeetingNumber": 42,
+    "Date": "15th March, 2019",
+    "Location": "Board Room, NIT Agartala Campus, Jirania, Agartala",
+    "Chairman": {
+      "Name": "Prof. (Dr.) H.K. Sharma",
+      "Position": "Director, NIT Agartala"
+    },
+    "MembersPresent": [
+      {
+        "Name": "Dr. S.C. Saha",
+        "Position": "Professor, Mechanical Engineering Department, NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Dr. Ajoy Kumar Chakraborty",
+        "Position": "Dean (P & D), NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Sri Alok Chakraborty",
+        "Position": "Superintending Engineer, PWD, Govt. of Tripura",
+        "Role": "Member"
+      },
+      {
+        "Name": "Sri Chinmoy Debnath",
+        "Position": "Superintending Engineer, PWD, Govt. of Tripura",
+        "Role": "Member"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharjee",
+        "Position": "Registrar (i/c), NIT Agartala",
+        "Role": "Member Secretary"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "42.1",
+        "Title": "Confirmation of the Minutes of the 41st BWC Meeting held on 4th September, 2018",
+        "Decision": "Minutes of the 41st BWC meeting confirmed"
+      },
+      {
+        "ItemNo": "42.2",
+        "Title": "Action taken on the decision of the 40th BWC Meeting",
+        "Decisions": [
+          {
+            "Reference": "Item No. 37.2 Sl. No. 6",
+            "Work": "Electromechanical work in the swimming pool of Sports Complex at NIT Agartala",
+            "Decision": "Invite Expression of Interest (EoI) immediately; detailed estimate to be placed in next BWC"
+          },
+          {
+            "Reference": "Item No. 37.2 Sl. No. 10",
+            "Work": "Design, supply, construction, commissioning of water treatment plant (2.0 MLD) and associated infrastructure at NIT Agartala",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Reference": "Item No. 37.2 Sl. No. 12.2",
+            "Work": "Annual maintenance at all Buildings of NIT Agartala including Hostels & Quarters (2016-17)",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Reference": "Item No. 37.2 Sl. No. 13",
+            "Work": "Up-gradation of internal main road including bus stop & conduit from main gate-1 to auxiliary gate-2 at NIT Agartala",
+            "Decision": "Action taken noted; bus stop not in scope of original agreement"
+          },
+          {
+            "Reference": "Item No. 37.2 Sl. No. 15",
+            "Work": "Construction of Central Lecture Hall Complex with 27 classrooms",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Reference": "Item No. 37.2 Sl. No. 17",
+            "Work": "Supply, Installation, Testing, and Commissioning of Split type AC at Administrative Block-I",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Reference": "Item No. 40.2 Sl. 8-15",
+            "Work": "Eight different works",
+            "Decision": "Action taken noted"
+          }
+        ]
+      },
+      {
+        "ItemNo": "42.3",
+        "Title": "Status of projects approved by Chairman BWC and 38th BWC",
+        "Decision": "Works Sl. 1-9 & 11-12 completed; Sl.10 may be dropped; action taken noted"
+      },
+      {
+        "ItemNo": "42.4",
+        "Title": "Status of projects approved by Chairman BWC and 38th BWC against agenda 40.4.1 to 40.4.9",
+        "Decisions": [
+          {
+            "SlNo": 2,
+            "Work": "Supply, installation, testing & commissioning of 14 lifts in various buildings at NIT Agartala",
+            "Decision": "Action taken noted"
+          },
+          {
+            "SlNo": 3,
+            "Work": "HVAC, Stage Craft, Stage Light, Sound System, Projector System, Sitting Arrangement in Seminar Hall",
+            "Decision": "Invite EoI immediately; detailed estimate to be placed in next BWC"
+          }
+        ]
+      },
+      {
+        "ItemNo": "42.5",
+        "Title": "Status of projects approved by Chairman BWC and 40th BWC against agenda 40.5 to 40.16",
+        "Decisions": [
+          {
+            "Work": "Construction of boundary wall for KV field along with drain",
+            "Cost": "Rs. 26,72,992.00",
+            "Decision": "Action taken noted and accorded Administrative Approval and Expenditure Sanction"
+          },
+          {
+            "Work": "Aluminum partition wall in Central Library",
+            "Cost": "Rs. 18,07,669.00",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Work": "Partition wall at Civil Engineering Dept. (SOM Building)",
+            "Cost": "Rs. 36,06,559.00",
+            "Decision": "Action taken noted and accorded Administrative Approval and Expenditure Sanction"
+          },
+          {
+            "Work": "Internal electrification works in School of Management building",
+            "Cost": "Rs. 9,28,345.00",
+            "Decision": "Action taken noted"
+          }
+        ]
+      },
+      {
+        "ItemNo": "42.6",
+        "Title": "Ratification of construction activities approved by Chairman BWC",
+        "Decisions": [
+          {
+            "Work": "Cross drain and up-gradation of drain at Aryabhatta Hostel",
+            "Decision": "Action taken noted"
+          },
+          {
+            "Work": "Supply & fitting of L&T spare parts for LT Air Circuit Breakers at various locations",
+            "Decision": "Action taken noted"
+          }
+        ]
+      },
+      {
+        "ItemNo": "42.7",
+        "Title": "Estimate for approach road for workshop building and CE lab",
+        "Decision": "Placed in next BWC for Administrative approval and Expenditure"
+      },
+      {
+        "ItemNo": "42.8",
+        "Title": "Estimate for extension of height of boundary wall",
+        "Cost": "Rs. 1,82,91,026.00",
+        "Decision": "Approved; proposal to be placed in next FC and BoG meeting"
+      },
+      {
+        "ItemNo": "42.9",
+        "Title": "Estimate for water treatment plant and associated works",
+        "Cost": "Rs. 1458.00 lakh",
+        "Decision": "Discussed; suggested modified IRP by DWS Dept; detailed estimate to be placed in next BWC"
+      },
+      {
+        "ItemNo": "42.10",
+        "Title": "Renovation of allotted room for DST Project",
+        "Cost": "Rs. 2,78,541.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.11",
+        "Title": "Construction of car parking shed for multiple buildings",
+        "Cost": "Rs. 28,76,878.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.12",
+        "Title": "Partition wall for Reaction Engineering lab & Hydro-informatics lab",
+        "Cost": "Rs. 4,99,646.00",
+        "Decision": "Placed in next BWC for Administrative approval and Expenditure sanction"
+      },
+      {
+        "ItemNo": "42.13",
+        "Title": "Maintenance of International Guest House",
+        "Cost": "Rs. 22,21,026.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.14",
+        "Title": "Construction of Aluminum partition wall for Examination Section",
+        "Cost": "Rs. 1,65,725.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.15",
+        "Title": "Construction of road from Auditorium front to back side of SOM Building",
+        "Cost": "Rs. 20,95,759.00",
+        "Decision": "Placed in next BWC for Administrative approval and Expenditure sanction"
+      },
+      {
+        "ItemNo": "42.16",
+        "Title": "Internal electrification works in Smithy Shop building for Mechanical Engineering Dept.",
+        "Cost": "Rs. 1,97,049.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.17",
+        "Title": "Internal electrification works in Knowledge Centre Building, Hall-4 of Chemistry Dept., Gargi Hostel and Civil Workshop Building",
+        "Cost": "Rs. 2,28,923.00",
+        "Decision": "Administrative Approval and Expenditure Sanction accorded"
+      },
+      {
+        "ItemNo": "42.18",
+        "Title": "Any other item with permission of the chair",
+        "Decision": "Discussed as required"
+      },
+      {
+        "ItemNo": "42.19",
+        "Title": "Additional Agenda Items",
+        "AdditionalItems": [
+          {
+            "SubItem": "42.19.1",
+            "Work": "Construction of a children's park",
+            "Decision": "Placed in next BWC for Administrative approval and Expenditure"
+          },
+          {
+            "SubItem": "42.19.2",
+            "Work": "Construction of road from rotary (near H2B Qtr) to gate no-3 and Market Complex",
+            "Decision": "Placed in next BWC for Administrative approval and Expenditure sanction"
+          },
+          {
+            "SubItem": "42.19.3",
+            "Work": "Construction of 1500 capacity boys hostel / Boring & installation of 8 nos 5HP submersible pumps",
+            "Decision": "Administrative Approval and Expenditure Sanction accorded; Rs. 17,25,955.00"
+          },
+          {
+            "SubItem": "42.19.4",
+            "Work": "Renovation of Old KV school building for 1st-year classroom (03 nos)",
+            "Decision": "Administrative Approval and Expenditure Sanction accorded; Rs. 5,92,066.00"
+          }
+        ]
+      }
+    ],
+    "MeetingEnd": "Meeting ended with a vote of thanks to the Chair",
+    "Signatures": {
+      "RegistrarMemberSecretary": "Dr. Govind Bhargava",
+      "Chairman": "Prof. H.K. Sharma"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BWC_Minutes/42nd_BWC_Minutes.pdf"
+}

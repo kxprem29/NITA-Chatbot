@@ -1,0 +1,1114 @@
+{
+  "PhdAdmissionNotice": {
+    "documentInfo": {
+      "title": "MEMORANDUM",
+      "fileNumber": "F.No.5.(6-Acad)/Ph.D /Admn/2024/July/A-1671",
+      "date": "03/06/2024"
+    },
+    "issuingAuthority": {
+      "institute": "National Institute of Technology Agartala",
+      "office": "OFFICE OF THE DEAN (ACADEMIC)"
+    },
+    "subject": "List of Shortlisted Candidates (1st List) Provisionally Selected for Written Test for Admission to the Ph.D. Program",
+    "academicSession": "July-December 2024",
+    "testDetails": {
+      "date": "19/06/2024",
+      "mode": "Physical mode",
+      "location": "NIT Agartala in the respective departments",
+      "format": "MCQ-type questions covering the UG and PG levels (specialization-wise).",
+      "nextUpdate": "Further details of the written test will be issued on 07/06/2024 along with the 2nd list."
+    },
+    "instructions": [
+      "The selection is provisional; candidates must submit all relevant documents for verification on the test date.",
+      "Candidates must produce original documents including educational qualifications (from secondary onwards), GATE/NET score card, proof of date of birth, caste/PWD/EWS certificates (with specified issue dates), experience certificates, and research publications.",
+      "All candidates must fulfill the eligibility criteria as per the notification dated 26/04/2024.",
+      "Full-time Sponsored and Part-time candidates must produce a No-Objection Certificate from their employer.",
+      "Candidates are instructed to visit the institute website regularly for any further updates."
+    ],
+    "contactInfo": {
+      "phone": "0381-2548537 (during office hours only)",
+      "email": "help.phdadmnnita@gmail.com"
+    },
+    "shortlistedCandidates": [
+      {
+        "slNo": 1,
+        "applicationId": "NAGTB5HYB5",
+        "name": "AKASH RATHINAM",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 2,
+        "applicationId": "NAGTOBNDTC",
+        "name": "AMBER SHAHI",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 3,
+        "applicationId": "NAGTATD1DH",
+        "name": "ANKITA DAS",
+        "category": "S.C",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 4,
+        "applicationId": "NAGTMQP5UT",
+        "name": "ANUMITA GHANTA",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 5,
+        "applicationId": "NAGTGEAAGO",
+        "name": "BINDIA SAHA",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 6,
+        "applicationId": "NAGTQT1PRP",
+        "name": "BIPRAJIT DEB",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 7,
+        "applicationId": "NAGTIJFA1O",
+        "name": "DIYA DAS",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 8,
+        "applicationId": "NAGTDDV1R9",
+        "name": "GOUTHAM S SATHEESH",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 9,
+        "applicationId": "NAGTJ64IJH",
+        "name": "KANIKA BRAHMA",
+        "category": "S.T",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 10,
+        "applicationId": "NAGTXDAH4Y",
+        "name": "KRISHNA PRASAD PAUL",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 11,
+        "applicationId": "NAGTHBNKTX",
+        "name": "MADHURIMA BHOWMIK",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 12,
+        "applicationId": "NAGTI1YHHR",
+        "name": "MUSKAAN DHINGRA",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 13,
+        "applicationId": "NAGTRICNXN",
+        "name": "OMPAL SINGH",
+        "category": "S.C",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 14,
+        "applicationId": "NAGTSV9OWA",
+        "name": "PANKAJ RANJAN MOHAPATRA",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 15,
+        "applicationId": "NAGTAO9UUY",
+        "name": "PARNASREE CHAKRABORTY",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 16,
+        "applicationId": "NAGTUMQSMB",
+        "name": "PRATIMA DEBNATH",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 17,
+        "applicationId": "NAGT9AUZHX",
+        "name": "RAHEL DEBBARMA",
+        "category": "S.T",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 18,
+        "applicationId": "NAGTKEQZKF",
+        "name": "SANGITA KARMAKAR",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 19,
+        "applicationId": "NAGTMAH4BK",
+        "name": "SONAL KASHYAP",
+        "category": "OP",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 20,
+        "applicationId": "NAGTRC7GIA",
+        "name": "SUDESHNA SAMAJDER",
+        "category": "S.C(PwD)",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 21,
+        "applicationId": "NAGTETLK4B",
+        "name": "THEERTHA DHANESH",
+        "category": "OBC-NCL",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 22,
+        "applicationId": "NAGTRYDF6U",
+        "name": "USITA DAS",
+        "category": "S.C",
+        "department": "BIO ENGINEERING"
+      },
+      {
+        "slNo": 23,
+        "applicationId": "NAGTKNEE2J",
+        "name": "ANKITA DEY",
+        "category": "OP",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 24,
+        "applicationId": "NAGTGHAQGQ",
+        "name": "EDEN REANG",
+        "category": "S.T",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 25,
+        "applicationId": "NAGT6CAS5Z",
+        "name": "GURAV SINGH",
+        "category": "S.C",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 26,
+        "applicationId": "NAGTIRQ8OP",
+        "name": "SAYANTANI SANTRA",
+        "category": "OP",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 27,
+        "applicationId": "NAGTTS1T2Z",
+        "name": "THEERTHA DHANESH",
+        "category": "OBC-NCL",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 28,
+        "applicationId": "NAGTN9MPYZ",
+        "name": "USITA DAS",
+        "category": "S.C",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 29,
+        "applicationId": "NAGTURNJ6Y",
+        "name": "ABHIJIT DAS",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 30,
+        "applicationId": "NAGTGUUODL",
+        "name": "AMARJIT SAU",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 31,
+        "applicationId": "NAGTA9SYGL",
+        "name": "ANINDITA MITRA",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 32,
+        "applicationId": "NAGTHTAUQZ",
+        "name": "ARPITA DAS",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 33,
+        "applicationId": "NAGTTKXVWK",
+        "name": "BANASREE NAHA",
+        "category": "OBC-NCL",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 34,
+        "applicationId": "NAGTMPE5R6",
+        "name": "BAPON HALDER",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 35,
+        "applicationId": "NAGTWANLCV",
+        "name": "BODHIPRIYA SAHA",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 36,
+        "applicationId": "NAGTXMCPDA",
+        "name": "DHIKSHYA DEBNATH",
+        "category": "OBC-NCL",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 37,
+        "applicationId": "NAGTRATLTS",
+        "name": "DIKSHA DEBNATH",
+        "category": "OBC-NCL",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 38,
+        "applicationId": "NAGTSJWVJW",
+        "name": "FLORINA HAZOWARY",
+        "category": "S.T",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 39,
+        "applicationId": "NAGTXIYSG9",
+        "name": "JAYANTA BHOWMIK",
+        "category": "OBC-NCL",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 40,
+        "applicationId": "NAGTLIU23W",
+        "name": "JOY SINHA ROY",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 41,
+        "applicationId": "NAGTUAKJPO",
+        "name": "MINAKSHI ROY",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 42,
+        "applicationId": "NAGT66RILX",
+        "name": "NABANITA SAHA",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 43,
+        "applicationId": "NAGTC6OBOD",
+        "name": "NIAZ UDDIN",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 44,
+        "applicationId": "NAGTOGYYM1",
+        "name": "PARMITA SARKAR",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 45,
+        "applicationId": "NAGTX8BKIY",
+        "name": "PAVEL DAS",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 46,
+        "applicationId": "NAGTXMCAPU",
+        "name": "PIEUSHA SAHA",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 47,
+        "applicationId": "NAGTWGIDAC",
+        "name": "PUJA DE",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 48,
+        "applicationId": "NAGTSALNR3",
+        "name": "RAMPRASAD GHOSH",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 49,
+        "applicationId": "NAGTNM3DOJ",
+        "name": "RIYA DEBBARMA",
+        "category": "S.T",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 50,
+        "applicationId": "NAGTUKEZBM",
+        "name": "SIMON DEBBARMA",
+        "category": "S.T",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 51,
+        "applicationId": "NAGTN6LZ96",
+        "name": "SRI VAISHNAVI VINJAMURI",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 52,
+        "applicationId": "NAGTORHSQT",
+        "name": "SRINJOY ROY",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 53,
+        "applicationId": "NAGTIL7DE8",
+        "name": "SRITI DEBBARMA",
+        "category": "S.T",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 54,
+        "applicationId": "NAGTY1UN2F",
+        "name": "SUPRATIM BHOWMIK",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 55,
+        "applicationId": "NAGTNPLX7N",
+        "name": "TEEYASHA DAS",
+        "category": "S.C",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 56,
+        "applicationId": "NAGT85XRSZ",
+        "name": "VEENA NAIR",
+        "category": "OP",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 57,
+        "applicationId": "NAGTYNYIVW",
+        "name": "ANKESH KHARE",
+        "category": "S.C",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 58,
+        "applicationId": "NAGTGIT86Z",
+        "name": "AYANIKA SAMANTA",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 59,
+        "applicationId": "NAGTUEPI58",
+        "name": "BISWARAJ ROY",
+        "category": "OBC-NCL",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 60,
+        "applicationId": "NAGTUEKHU2",
+        "name": "GULSHAN KUMAR YADAV",
+        "category": "OBC-NCL",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 61,
+        "applicationId": "NAGTTJNPNB",
+        "name": "MAINAK SAHA",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 62,
+        "applicationId": "NAGTJ7Z8C1",
+        "name": "MANISH KUSHWAHA",
+        "category": "OBC-NCL",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 63,
+        "applicationId": "NAGTF33VAW",
+        "name": "MEGHA SAHA",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 64,
+        "applicationId": "NAGTBE4MFH",
+        "name": "PRIYANKA KESHARI",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 65,
+        "applicationId": "NAGT3BPMME",
+        "name": "PURBA PAL",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 66,
+        "applicationId": "NAGT3MHNPU",
+        "name": "RABIN BHAUMIK",
+        "category": "OBC-NCL",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 67,
+        "applicationId": "NAGTD5FBQB",
+        "name": "SAMRAT SARKAR",
+        "category": "S.C",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 68,
+        "applicationId": "NAGTDUNDK6",
+        "name": "SANJIB KUMAR NAYAK",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 69,
+        "applicationId": "NAGTJQUPEW",
+        "name": "SARMISTHA PODDER",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 70,
+        "applicationId": "NAGTCVOFKG",
+        "name": "SHYAMASHRI DAS",
+        "category": "S.C",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 71,
+        "applicationId": "NAGTPNCRHM",
+        "name": "SOURABARNA ROY",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 72,
+        "applicationId": "NAGTN7JFUK",
+        "name": "SRIDHATTA AITHAL",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 73,
+        "applicationId": "NAGTLWISBF",
+        "name": "SUBIR BHADRA",
+        "category": "OP",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 74,
+        "applicationId": "NAGTBA5WGM",
+        "name": "GOUBINDA SARKAR",
+        "category": "S.C",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 75,
+        "applicationId": "NAGTI7NZNE",
+        "name": "JOYDEEP SUTRADHAR",
+        "category": "OBC-NCL",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 76,
+        "applicationId": "NAGTIDV3KW",
+        "name": "RAJDEEP BHATTACHARJEE",
+        "category": "OP",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 77,
+        "applicationId": "NAGTJYUOHN",
+        "name": "SANGHITA CHAKRABORTY",
+        "category": "OP",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 78,
+        "applicationId": "NAGTAOQKKB",
+        "name": "SARIKA DEBBARMA",
+        "category": "S.T",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 79,
+        "applicationId": "NAGTPGSZPZ",
+        "name": "SUHADRITA ROY",
+        "category": "OP",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 80,
+        "applicationId": "NAGT1PXJFO",
+        "name": "SUMAN DEB HAZARI",
+        "category": "GEN-EWS",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 81,
+        "applicationId": "NAGTOFUUUD",
+        "name": "UNMESH CHANDRA NAIK",
+        "category": "S.T",
+        "department": "ELECTRICAL ENGINEERING"
+      },
+      {
+        "slNo": 82,
+        "applicationId": "NAGTYJQRHX",
+        "name": "ADITI KAR",
+        "category": "OBC-NCL",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 83,
+        "applicationId": "NAGTGXJYHX",
+        "name": "NANDITA DEBNATH",
+        "category": "OBC-NCL",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 84,
+        "applicationId": "NAGTXGBEBC",
+        "name": "PREETAM MANDAL",
+        "category": "S.C",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 85,
+        "applicationId": "NAGTC9JAKJ",
+        "name": "RAJARSHI DAS",
+        "category": "OP",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 86,
+        "applicationId": "NAGTTKYQ7P",
+        "name": "RAJENDRAPRASAD DASARI",
+        "category": "S.C",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 87,
+        "applicationId": "NAGTD4XT3C",
+        "name": "RITUPARNA BHATTACHARYA",
+        "category": "OP",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 88,
+        "applicationId": "NAGTWUIB4N",
+        "name": "SAYAN KHAN",
+        "category": "OBC-NCL",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 89,
+        "applicationId": "NAGTQHUXDY",
+        "name": "SUBHABRATA DHAR",
+        "category": "OP",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 90,
+        "applicationId": "NAGTLOSWMT",
+        "name": "SUMAN DEB HAZARI",
+        "category": "GEN-EWS",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 91,
+        "applicationId": "NAGTFTQHWT",
+        "name": "VIVEK KUMAR",
+        "category": "S.C",
+        "department": "ELECTRONICS & COMMUNICATION ENGINEERING"
+      },
+      {
+        "slNo": 92,
+        "applicationId": "NAGTJARFCO",
+        "name": "ADITI DEY",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 93,
+        "applicationId": "NAGTOEJ9FD",
+        "name": "ANKITA TANEJA",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 94,
+        "applicationId": "NAGTWW8BMG",
+        "name": "ARCHANA AKHAM",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 95,
+        "applicationId": "NAGTPMICXN",
+        "name": "ASWIN MOHAN",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 96,
+        "applicationId": "NAGTVXXE2F",
+        "name": "BABUL DEKA",
+        "category": "GEN-EWS",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 97,
+        "applicationId": "NAGTMSDUXX",
+        "name": "CHAYANIKA GOGOI",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 98,
+        "applicationId": "NAGTY6GMD6",
+        "name": "DEBABRATA DEBNATH",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 99,
+        "applicationId": "NAGTPLTHJJ",
+        "name": "DIWAKAR ATTRI",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 100,
+        "applicationId": "NAGTQTJBII",
+        "name": "HACHINA BEGAM",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 101,
+        "applicationId": "NAGTMWIXU3",
+        "name": "KAMLESH TILWANI",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 102,
+        "applicationId": "NAGTMECTFK",
+        "name": "KAVITHA T A",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 103,
+        "applicationId": "NAGTDP3ZCG",
+        "name": "LILY LAMNEINENG DOUNGEL",
+        "category": "S.T",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 104,
+        "applicationId": "NAGTZYWQWI",
+        "name": "MADHUMANTI BHATTACHARYA",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 105,
+        "applicationId": "NAGTVLITZ5",
+        "name": "N SAI PRITAM",
+        "category": "S.C",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 106,
+        "applicationId": "NAGTZMLEFH",
+        "name": "RUPAK KUMAR ACHARJEE",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 107,
+        "applicationId": "NAGTUWFZYF",
+        "name": "SADHNA KASHYAP",
+        "category": "GEN-EWS",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 108,
+        "applicationId": "NAGTJMA9QI",
+        "name": "SAUVIK CHAKRABORTY",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 109,
+        "applicationId": "NAGTFKGP4N",
+        "name": "SUNITI MAITI",
+        "category": "GEN-EWS",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 110,
+        "applicationId": "NAGTUHLSB9",
+        "name": "AKASH DEBNATH",
+        "category": "OBC-NCL",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 111,
+        "applicationId": "NAGTUOGCJV",
+        "name": "ANUBRATA DHAR CHAUDHURI",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 112,
+        "applicationId": "NAGT46WCL1",
+        "name": "KUMARI MAMI DEY",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 113,
+        "applicationId": "NAGT5BK8WM",
+        "name": "PRIYANKA LASKAR",
+        "category": "GEN-EWS",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 114,
+        "applicationId": "NAGTJRCHTD",
+        "name": "RUPAK CHAKRABORTY",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 115,
+        "applicationId": "NAGTSANURT",
+        "name": "TANMOY GHOSAL",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 116,
+        "applicationId": "NAGTFWYFXX",
+        "name": "DEBABRATA BERA",
+        "category": "OP",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 117,
+        "applicationId": "NAGTKI6CQE",
+        "name": "DIPANKAR GUPTA",
+        "category": "OP",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 118,
+        "applicationId": "NAGTDWBYZC",
+        "name": "MAKESH SINGH",
+        "category": "GEN-EWS",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 119,
+        "applicationId": "NAGTCB2NUR",
+        "name": "RITESH RANJAN",
+        "category": "OP",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 120,
+        "applicationId": "NAGT2X28QM",
+        "name": "SUMAN DAKUA",
+        "category": "S.C",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 121,
+        "applicationId": "NAGTRJS7DF",
+        "name": "SYED FAKHRUZ ZAFRI ZAMAN",
+        "category": "OP",
+        "department": "MECHANICAL ENGINEERING"
+      },
+      {
+        "slNo": 122,
+        "applicationId": "NAGT9MG4MY",
+        "name": "ABID HOSSAIN",
+        "category": "OBC-NCL",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 123,
+        "applicationId": "NAGTAFEE1P",
+        "name": "ANISHA DAS",
+        "category": "S.C",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 124,
+        "applicationId": "NAGTX2JWYZ",
+        "name": "CHUMUI DEBBARMA",
+        "category": "S.T",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 125,
+        "applicationId": "NAGTNFDJGL",
+        "name": "ERNEST DEBBARMA",
+        "category": "S.T",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 126,
+        "applicationId": "NAGTJ3D459",
+        "name": "SONALI PALO",
+        "category": "GEN-EWS",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 127,
+        "applicationId": "NAGTLRFIGE",
+        "name": "SUDIP PAUL",
+        "category": "OBC-NCL",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 128,
+        "applicationId": "NAGTL9OBSO",
+        "name": "TANIMA MOG",
+        "category": "S.T",
+        "department": "CHEMISTRY"
+      },
+      {
+        "slNo": 129,
+        "applicationId": "NAGTPCZOEZ",
+        "name": "BINAYAK BANIK",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 130,
+        "applicationId": "NAGTK6GABP",
+        "name": "BINDUMADHABA MOHANTY",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 131,
+        "applicationId": "NAGTX5V2IM",
+        "name": "DIPTI DOLAI",
+        "category": "S.C",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 132,
+        "applicationId": "NAGT3DD8SA",
+        "name": "GAURAV SINGH",
+        "category": "OBC-NCL",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 133,
+        "applicationId": "NAGT3KXHAE",
+        "name": "HIMANGSHU BARMAN",
+        "category": "GEN-EWS",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 134,
+        "applicationId": "NAGT2NRCWD",
+        "name": "HRISIKESH PARASHAR",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 135,
+        "applicationId": "NAGTSCIOFV",
+        "name": "MEHJEBIN WAHID",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 136,
+        "applicationId": "NAGTC4KCWS",
+        "name": "NUR MOHAMMAD SANFUI",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 137,
+        "applicationId": "NAGTEKWOIM",
+        "name": "PALLAB PAL",
+        "category": "OBC-NCL",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 138,
+        "applicationId": "NAGTFKX3RK",
+        "name": "PARAG SARMA",
+        "category": "GEN-EWS",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 139,
+        "applicationId": "NAGTPC8QPD",
+        "name": "PAYAL TAK",
+        "category": "OBC-NCL",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 140,
+        "applicationId": "NAGTT5JJG4",
+        "name": "RIYA KARMAKAR",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 141,
+        "applicationId": "NAGT4A9T9W",
+        "name": "SIDDHI RADHA",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 142,
+        "applicationId": "NAGTK2BXFB",
+        "name": "SRIKRISHNA MAITY",
+        "category": "OP",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 143,
+        "applicationId": "NAGTDBW9BL",
+        "name": "SUBHAS MONDAL",
+        "category": "S.C",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 144,
+        "applicationId": "NAGTRRIA3A",
+        "name": "VIVEK KIS POTTA",
+        "category": "S.T",
+        "department": "MATHEMATICS"
+      },
+      {
+        "slNo": 145,
+        "applicationId": "NAGTJMG322",
+        "name": "ABHISHEK PATWARY",
+        "category": "GEN-EWS",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 146,
+        "applicationId": "NAGTEWE6UH",
+        "name": "AKASH DAS",
+        "category": "S.C",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 147,
+        "applicationId": "NAGTC34LWY",
+        "name": "ANKITA CHAKRABORTY",
+        "category": "OP",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 148,
+        "applicationId": "NAGTWHZQAN",
+        "name": "KHAKWLAI DEBBARMA",
+        "category": "S.T",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 149,
+        "applicationId": "NAGTC149HO",
+        "name": "NARAYANAN T A",
+        "category": "OP",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 150,
+        "applicationId": "NAGTJJ7U1V",
+        "name": "RANA DAS",
+        "category": "S.C",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 151,
+        "applicationId": "NAGTOHAKIB",
+        "name": "SAPARJA ROY",
+        "category": "S.C",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 152,
+        "applicationId": "NAGTN3SR7K",
+        "name": "SAURADEEP DAS",
+        "category": "S.C",
+        "department": "PHYSICS"
+      },
+      {
+        "slNo": 153,
+        "applicationId": "NAGTODKM8Y",
+        "name": "SHAKIL SHEIKH",
+        "category": "GEN-EWS",
+        "department": "PHYSICS"
+      }
+    ],
+    "distributionList": [
+      "PS to the Director, NIT Agartala",
+      "Dean (AA)",
+      "All Heads of the Departments, NIT Agartala, running the Ph.D. program",
+      "Associate Dean (PG)",
+      "System Administrator, NIT Agartala"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/1stList_PhD_written_June24.pdf"
+}

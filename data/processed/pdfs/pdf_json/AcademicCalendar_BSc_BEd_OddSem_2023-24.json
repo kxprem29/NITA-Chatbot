@@ -1,0 +1,68 @@
+{
+  "filename": "AcademicCalendar_BSc_BEd_OddSem_2023-24.txt",
+  "metadata": {
+    "organization": "National Institute of Technology Agartala",
+    "location": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "office": "Office of the Dean Academic",
+    "contact_email": "nitadeanacademic@nita.ac.in",
+    "contact_phone": ["0381-2546630", "2548537"],
+    "fax": "0381-2546360",
+    "website": "www.nita.ac.in"
+  },
+  "academic_routine": {
+    "program": "B.Sc. (1st Year)",
+    "semester": "Odd Semester",
+    "academic_year": "2023-24",
+    "events": [
+      {
+        "event": "Class Test/Quiz Week",
+        "date_period": "Dec 11, 2023 - Dec 15, 2023 (Monday - Friday)",
+        "notes": "All departments must conduct class tests/quizzes during this week only"
+      },
+      {
+        "event": "Preparatory Leave (Mid-Term Exam)",
+        "date_period": "Jan 1, 2024 (Monday)"
+      },
+      {
+        "event": "Mid-Term Examination",
+        "date_period": "Jan 2, 2024 - Jan 9, 2024 (Tuesday - Tuesday)"
+      },
+      {
+        "event": "Commencement of Classes after Mid-Term Examination",
+        "date_period": "Jan 10, 2024 (Wednesday)"
+      },
+      {
+        "event": "Republic Day",
+        "date_period": "Jan 26, 2024 (Friday)"
+      },
+      {
+        "event": "Class Test/Quiz Week",
+        "date_period": "Feb 12, 2024 - Feb 16, 2024 (Monday - Friday)"
+      },
+      {
+        "event": "Preparatory Leave (End-term Exam)",
+        "date_period": "Feb 22, 2024 (Thursday)"
+      },
+      {
+        "event": "End-Term Examination",
+        "date_period": "Feb 23, 2024 - March 1, 2024 (Friday - Friday)"
+      },
+      {
+        "event": "Last Date of Grade Submission to the Associate Dean (Exam)",
+        "date_period": "March 8, 2024 (Friday)"
+      },
+      {
+        "event": "Publication of Result",
+        "date_period": "March 12, 2024 (Tuesday)"
+      }
+    ],
+    "notes": [
+      "Depending on the situation, dates may be changed by the Competent Authority.",
+      "For any unforeseen events, examinations may be held on Saturday. Students are advised to schedule their activities accordingly.",
+      "Faculties/staff involved in first-year classes will continue to hold classes even during the winter vacation period.",
+      "Compensatory leave will be provided to any staff involved in Odd Semester Examination on any Saturday/Sunday."
+    ]
+  },
+  "issued_by": "Dean (Academic Affairs), NIT Agartala",
+  "source_url": "https://nita.ac.in/uploaded_files/AcademicCalendar_BSc_BEd_OddSem_2023-24.pdf"
+}

@@ -1,0 +1,108 @@
+{
+  "type": "Board of Governors Meeting",
+  "title": "41st (Special) BoG Minutes",
+  "date": "November 10, 2017",
+  "location": "Virtual Class Room, NIT Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "chairperson": {
+    "name": "Prof. Ajoy Kumar Ray",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairperson of 41st BoG meeting"
+  },
+  "members_present": [
+    {
+      "name": "Prof. Ajoy Kumar Ray",
+      "role": "Director, NIT Agartala"
+    },
+    {
+      "name": "Shri Sanjeev Kumar Sharma",
+      "role": "Director (NITs), MHRD, Govt. of India",
+      "mode": "video conferencing"
+    },
+    {
+      "name": "Dr. B. Palit",
+      "role": "Director, Dept. of Higher Education, Govt. of Tripura, Agartala"
+    },
+    {
+      "name": "Prof. Sanghamitra Bandyopadhyay",
+      "role": "Director, Indian Statistical Institute, Machine Intelligence Unit, Kolkata"
+    },
+    {
+      "name": "Prof. G. Krishnamoorthy",
+      "role": "Associate Dean (R&D), IIT Guwahati"
+    },
+    {
+      "name": "Shri Alok Roy Choudhury",
+      "role": "Addl. Chief Engineer, PWD, Government of Tripura, Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Secretary, BoG, Registrar, NIT Agartala"
+    }
+  ],
+  "members_absent": [
+    {
+      "name": "Prof. Vijayalakshmi Ravindranath",
+      "role": "Chairperson, Centre for Neuroscience, IISc, Bangalore"
+    },
+    {
+      "name": "The Financial Advisor",
+      "role": "FD, MHRD"
+    }
+  ],
+  "invitees": [
+    {
+      "name": "Dr. S. C. Saha",
+      "role": "Professor, Mechanical Engineering Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Ardhendu Saha",
+      "role": "Associate Professor, Mechanical Engineering Dept., NIT Agartala"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "41.1",
+      "title": "Recommendations of the 23rd Senate meeting of NIT Agartala held on 22nd March 2017",
+      "decision": "Approved and confirmed"
+    },
+    {
+      "item_no": "41.2",
+      "title": "Recommendations of the 24th Senate meeting of NIT Agartala held on 18th September 2017",
+      "decision": "Approved and confirmed"
+    },
+    {
+      "item_no": "41.3",
+      "title": "Recommendations of the 25th Senate meeting of NIT Agartala held on 10th November 2017",
+      "decision": "Approved and confirmed"
+    },
+    {
+      "item_no": "41.4",
+      "title": "Any other item with permission of the Chair",
+      "sub_items": [
+        {
+          "item_no": "41.4.1",
+          "title": "Ratification of the decision of Chairperson, BoG regarding adoption and implementation of Anomaly Committee recommendations for Recruitment/Promotion/One-time Mapping to higher AGP",
+          "decision": "Ratified"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "remarks": "Meeting ended with a vote of thanks to the Chair",
+    "signatories": [
+      {
+        "name": "Prof. Ajoy Kumar Ray",
+        "role": "Chairperson, BoG & Director, NIT Agartala"
+      },
+      {
+        "name": "Dr. Govind Bhargava",
+        "role": "Secretary, BoG & Registrar, NIT Agartala"
+      }
+    ]
+  },
+  "source_url": "[https://nita.ac.in/Minutes_Others/BOG_Minutes/41st_BoG_Minutes.pdf](https://nita.ac.in/Minutes_Others/BOG_Minutes/41st_BoG_Minutes.pdf)"
+}

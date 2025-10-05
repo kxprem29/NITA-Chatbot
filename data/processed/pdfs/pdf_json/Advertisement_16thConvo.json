@@ -1,0 +1,39 @@
+{
+  "filename": "Advertisement_16thConvo.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "status": "An Institute of National Importance",
+    "description": "An Institution set up by NIT Act under Ministry of Education, Govt. of India",
+    "address": "Barjala, Jirania, Tripura (West) - 799046",
+    "event": {
+      "name": "16th Convocation",
+      "date": "Saturday, November 4, 2023",
+      "time": "3:30 p.m.",
+      "venue": "Institute Campus (ABV Sports Complex)"
+    },
+    "chief_guest": {
+      "name": "Prof. (Dr.) Manik Saha",
+      "designation": "Hon’ble Chief Minister of Tripura",
+      "role": "Deliver the Convocation Address"
+    },
+    "guest_of_honour": {
+      "name": "Prof. Damodar Acharya",
+      "designation": "Former Chairman, AICTE and Former Director, IIT Kharagpur"
+    },
+    "chairman_bog": {
+      "name": "Shri Binod Bawri",
+      "designation": "Chairman, Board of Governors, NIT Agartala",
+      "role": "Preside over the function"
+    },
+    "director": {
+      "name": "Prof. (Dr.) S.K. Patra",
+      "designation": "Director, NIT Agartala",
+      "role": "Award degrees to the graduates"
+    },
+    "registrar": {
+      "name": "Col. (Dr.) Ashish Badola",
+      "designation": "Registrar"
+    }
+  },
+  "source_url": "https://nita.ac.in/Notice/Advertisement_16thConvo.pdf"
+}

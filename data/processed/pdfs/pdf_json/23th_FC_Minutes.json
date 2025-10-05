@@ -1,0 +1,98 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "23rd",
+    "Date": "February 27, 2014",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Agartala",
+    "Chairman": "Prof. P. N. Singh",
+    "MembersPresent": [
+      {
+        "Name": "Prof. P. N. Singh",
+        "Designation": "Chairman, Finance Committee and BOG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Prof. Nitindra Nath Som",
+        "Designation": "Member, Former Professor of Jadavpur University, Kolkata"
+      },
+      {
+        "Name": "Shri Rajesh Singh Solanki",
+        "Designation": "Under Secretary, MHRD, Govt. of India (Representative of MHRD, Dept. of Higher Education)"
+      },
+      {
+        "Name": "Shri John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Shri Sumanta Chakrabarti",
+        "Designation": "Member Secretary, Finance Committee and Registrar (i/c)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "23.1",
+        "Title": "Confirmation of the Minutes of 22nd Meeting",
+        "Details": "Minutes of the 22nd Finance Committee meeting held on June 18, 2013 were circulated and confirmed."
+      },
+      {
+        "ItemNo": "23.2",
+        "Title": "Action taken on the decision of the 22nd Meeting",
+        "Details": "The action taken report was noted."
+      },
+      {
+        "ItemNo": "23.3",
+        "Title": "Financial Status of the Institute as on February 20, 2014",
+        "Details": "Finance Committee noted the present financial status and requirement of funds under Plan and Non-Plan."
+      },
+      {
+        "ItemNo": "23.4",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "Finance Committee emphasized prioritization of incoming projects and advised seeking explanation from CPWD for delays."
+      },
+      {
+        "ItemNo": "23.5",
+        "Title": "Recommendations of 30th Building & Works Committee",
+        "Details": "Approved the recommendations of the 30th Building & Works Committee Meeting held on December 09, 2013."
+      },
+      {
+        "ItemNo": "23.6",
+        "Title": "Ratification of 31st Building & Works Committee recommendations",
+        "Details": "Ratified the action taken by Chairman on recommendations of 31st BWC meeting held on February 02, 2014."
+      },
+      {
+        "ItemNo": "23.7",
+        "Title": "Estimate for providing Security Services",
+        "Details": "Approved engagement of Security Services at estimated cost of Rs. 17,00,000/- per month and authorized Director to take decision."
+      },
+      {
+        "ItemNo": "23.8",
+        "Title": "Estimate for providing House Keeping Services",
+        "Details": "Approved engagement of House Keeping services at estimated cost of Rs. 18,00,000/- per month and authorized Director to take decision."
+      },
+      {
+        "ItemNo": "23.9",
+        "Title": "Present Status of TEQIP-II Project",
+        "Details": "TEQIP-II Coordinator presented status; activities to be expedited as per NPIU deadline."
+      },
+      {
+        "ItemNo": "23.10",
+        "Title": "Annual Report for 2012-13",
+        "Details": "Approved the Annual Report 2012-13 along with the audited statement."
+      },
+      {
+        "ItemNo": "23.11",
+        "Title": "Any other item with permission of the Chair",
+        "Details": "Administrative allowance of Rs. 5000/- per month approved for Prof. S.C. Saha for performing duties as Director (i/c) from April 01, 2006 to August 19, 2008 (afternoon)."
+      }
+    ],
+    "Closure": "Meeting ended with vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Shri Sumanta Chakrabarti",
+      "Chairman": "Prof. P. N. Singh"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/23th_FC_Minutes.pdf"
+}

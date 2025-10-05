@@ -1,0 +1,94 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "26th",
+    "Date": "September 24, 2015",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Shri Sanjeev Kumar Sharma",
+        "Designation": "Director (NITs), MHRD, Govt of India (Representative of Joint Secretary)"
+      },
+      {
+        "Name": "Shri Rajesh Singh",
+        "Designation": "Director (Finance), MHRD, Govt. of India (Representative of Financial Advisor)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Prof. Richi Prasad Sharma",
+        "Designation": "Member Secretary, Finance Committee and Registrar, NIT Agartala"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "26.1",
+        "Title": "Confirmation of the Minutes of 25th Meeting",
+        "Details": "Minutes of the 25th Finance Committee meeting held on January 17, 2015, were circulated and confirmed without modification."
+      },
+      {
+        "ItemNo": "26.2",
+        "Title": "Action taken on the decision of 25th Meeting",
+        "Details": "Action Taken report perused. Observations: items not chronologically arranged; missing reports for some items. Suggested serially mentioning action taken for all items. Draft GPF rules to be forwarded to Director NITs for perusal before BoG approval."
+      },
+      {
+        "ItemNo": "26.3",
+        "Title": "Financial Status as on August 31, 2015",
+        "Details": "Committee noted financial status; instructed planning of expenditure to avoid excessive liabilities."
+      },
+      {
+        "ItemNo": "26.4",
+        "Title": "Annual Budget 2015-16",
+        "Details": "Committee suggested recasting the Annual Budget realistically based on available funds and place in next BoG meeting."
+      },
+      {
+        "ItemNo": "26.5",
+        "Title": "Annual Accounts 2014-15",
+        "Details": "Approved Annual Accounts; Audit Report and previous year's observations to be included in future discussions; compliance report to be placed in next meeting."
+      },
+      {
+        "ItemNo": "26.6",
+        "Title": "Recommendations of 33rd and 34th Building & Works Committee (BWC) meetings",
+        "Details": "FC noted only items requiring financial approval are to be placed. Recommended threshold of Rs. 25 Lakhs for minor works. Observations on specific items included suggestions for smart classrooms, deviations in Sports Complex, bamboo wood flooring justification, adherence to GFR, and proper tender process."
+      },
+      {
+        "ItemNo": "26.7",
+        "Title": "Present Status of TEQIP-II Project",
+        "Details": "Noted the status and benefits derived from TEQIP-II Project."
+      },
+      {
+        "ItemNo": "26.8",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "Committee reviewed status, expenditure, and fund requirements: Rs. 112.62 Crores for ongoing works, Rs. 100.11 Crores proposed for new works. FC suggested planning within available and future grants."
+      },
+      {
+        "ItemNo": "26.9",
+        "Title": "Any other item with permission of the Chair",
+        "SubItems": [
+          {
+            "ItemNo": "26.9.1",
+            "Title": "Financial power of Building Works Committee",
+            "Details": "Recommended threshold of Rs. 25 Lakhs for minor works. Suggested following GFR/CPWD norms for building works proposals."
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Prof. Richi Prasad Sharma",
+      "Chairperson": "Prof. Deepak B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/26th_FC_Minutes.pdf"
+}

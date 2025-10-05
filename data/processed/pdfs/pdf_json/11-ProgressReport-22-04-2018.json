@@ -1,0 +1,37 @@
+{
+  "PhDProgressReport": {
+    "FormNumber": "NITA/ACAD/PhD/11",
+    "Department": null,
+    "StudentDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "DateOfEnrollment": null,
+      "CurrentSemester": null,
+      "CategoryOfStudentship": null,
+      "NatureOfAssistantship": null
+    },
+    "OverallProgress": null,
+    "ComprehensiveExaminationDetails": [],
+    "RegistrationSeminarDetails": [],
+    "ProposedResearchProblem": null,
+    "SeminarsConferencesWorkshops": [],
+    "Publications": [],
+    "Recommendations": {
+      "StudentshipContinuation": null,
+      "AssistantshipContinuation": null,
+      "AssistantshipEnhancement": null
+    },
+    "RemarksOnWork": null,
+    "AllottedCourses": [],
+    "Signatures": {
+      "ChairmanDC": null,
+      "MemberDC1": null,
+      "MemberDC2": null,
+      "Supervisor": null,
+      "ChairmanDPPC": null,
+      "DeanAcademic": null
+    },
+    "Notes": "After the signature of the Dean (Academic), the original copy is to be kept in the personal file of the student and a photocopy is to be sent to the Supervisor and the Department."
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/11-ProgressReport-22-04-2018.pdf"
+}

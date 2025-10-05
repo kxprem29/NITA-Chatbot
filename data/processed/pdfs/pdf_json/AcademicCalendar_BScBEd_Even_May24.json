@@ -1,0 +1,109 @@
+{
+  "filename": "AcademicCalendar_BScBEd_Even_May24.txt",
+  "metadata": {
+    "organization": "National Institute of Technology Agartala",
+    "location": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "office": "Office of the Dean Academic",
+    "contact_email": "nitadeanacademic@gmail.com",
+    "contact_phone": ["0381-2546630", "2548537"],
+    "fax": "0381-2546360",
+    "website": "www.nita.ac.in"
+  },
+  "academic_routine": {
+    "program": "B.Sc.-B.Ed",
+    "semester": "Even Semester",
+    "academic_year": "2023-24",
+    "events": [
+      {
+        "sl_no": 1,
+        "event": "Commencement of 2nd Semester Classes (B.Sc-B.Ed)",
+        "date_period": "March 18, 2024 (Monday)"
+      },
+      {
+        "sl_no": 2,
+        "event": "Good Friday",
+        "date_period": "March 29, 2024 (Friday)"
+      },
+      {
+        "sl_no": 3,
+        "event": "Id-ul-Fitr",
+        "date_period": "April 11, 2024 (Thursday)"
+      },
+      {
+        "sl_no": 4,
+        "event": "Class Test/Quiz week",
+        "date_period": "May 27, 2024 - May 31, 2024 (Monday - Friday)",
+        "notes": "All Departments must conduct the class tests/quizzes during this week only"
+      },
+      {
+        "sl_no": 5,
+        "event": "Buddha Purnima",
+        "date_period": "May 23, 2024 (Thursday)"
+      },
+      {
+        "sl_no": 6,
+        "event": "Preparatory Leave only for the students due to Mid-Term Examination",
+        "date_period": "May 31, 2024 - June 7, 2024 (Friday - Friday)"
+      },
+      {
+        "sl_no": 7,
+        "event": "Mid-Term Examination",
+        "date_period": "June 3, 2024 - June 7, 2024 (Monday - Friday)"
+      },
+      {
+        "sl_no": 8,
+        "event": "Commencement of Classes after Mid-Term Examination",
+        "date_period": "June 10, 2024 (Monday)"
+      },
+      {
+        "sl_no": 9,
+        "event": "Id-ul-Zuha (Bakrid)",
+        "date_period": "June 17, 2024 (Monday)"
+      },
+      {
+        "sl_no": 10,
+        "event": "Class Test/Quiz week",
+        "date_period": "June 24, 2024 - June 28, 2024 (Monday - Friday)",
+        "notes": "All Departments must conduct the class tests/quizzes during this week only"
+      },
+      {
+        "sl_no": 11,
+        "event": "Preparatory Leave only for the students due to End-term Exam",
+        "date_period": "July 8, 2024 (Monday)"
+      },
+      {
+        "sl_no": 12,
+        "event": "End-Term Examination",
+        "date_period": "July 11, 2024 - July 18, 2024 (Thursday - Thursday)"
+      },
+      {
+        "sl_no": 13,
+        "event": "Last Date of Submission of grades to the Associate Dean (Exam)",
+        "date_period": "July 26, 2024 (Friday)"
+      },
+      {
+        "sl_no": 14,
+        "event": "Meeting of Board of Examiners",
+        "date_period": "July 30, 2024 (Tuesday)"
+      },
+      {
+        "sl_no": 15,
+        "event": "Publication of Result",
+        "date_period": "July 31, 2024 (Wednesday)"
+      },
+      {
+        "sl_no": 16,
+        "event": "End-Term Break",
+        "date_period": "July 19, 2024 - August 2, 2024 (Friday - Friday)"
+      }
+    ],
+    "notes": [
+      "Depending on the situation, dates may be changed by the Competent Authority.",
+      "For any unforeseen events, examinations may be held on Saturdays. Students are advised to schedule their activities accordingly.",
+      "Faculties/staff involved in first-year classes will continue to take classes even during the summer vacation period.",
+      "Compensatory leave will be provided if any staff is involved in Even Semester Examination on any Saturday/Sunday."
+    ]
+  },
+  "issued_by": "Prof. Swapan Majumder, Dean (Academic Affairs), NIT Agartala",
+  "source_url": "https://nita.ac.in/uploaded_files/AcademicCalendar_BScBEd_Even_May24.pdf"
+}

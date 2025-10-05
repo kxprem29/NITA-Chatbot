@@ -1,0 +1,61 @@
+{
+  "PhdSemesterRegistrationForm": {
+    "formInfo": {
+      "title": "SEMESTER REGISTRATION FOR Ph.D. SCHOLARS",
+      "formNumber": "NITA/ACAD/PhD/3"
+    },
+    "formFields": {
+      "scholarDetails": [
+        "Name",
+        "Dept/Center",
+        "Enrollment Number",
+        "Date of Enrolment",
+        "Category",
+        "Academic Session",
+        "Semester",
+        {
+          "fieldName": "Status of Research",
+          "options": [
+            "Literature Review",
+            "Comprehensive Viva",
+            "Registration Seminar",
+            "Synopsis Seminar"
+          ]
+        }
+      ],
+      "paymentDetails": {
+        "sectionTitle": "Payment Details",
+        "columns": [
+          "Fees",
+          "Amount (₹)",
+          "Transaction Number",
+          "Transaction Date"
+        ],
+        "rows": [
+          "Institution",
+          "Hostel",
+          "Late Fine"
+        ]
+      },
+      "courseworkDetails": {
+        "sectionTitle": "Coursework for the Semester (if any)",
+        "columns": [
+          "Code No.",
+          "Subject",
+          "Credit"
+        ]
+      }
+    },
+    "signatureFields": [
+      "Student Signature",
+      "Supervisor Signature",
+      "Joint/Co-Supervisor Signature (if any)"
+    ],
+    "administrativeNotes": [
+      "This form is to be retained in the scholar's personal file at the Academic Section.",
+      "A copy is to be sent to the Associate Dean (Exam).",
+      "The original copy is to be kept in the student's personal file in the Academic Section, and a photocopy is to be sent to the Department."
+    ]
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/3-SemsterRegistrationForm-22-04-2018.pdf"
+}

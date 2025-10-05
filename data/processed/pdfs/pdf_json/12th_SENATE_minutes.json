@@ -1,0 +1,346 @@
+{
+  "SenateMeetingMinutes": {
+    "documentInfo": {
+      "fileNumber": "No.NITA.Estt(02-Acad)/SENATE/2010/V-11",
+      "issueDate": "10/05/2013"
+    },
+    "meetingDetails": {
+      "title": "Minutes of the 12th Senate Meeting",
+      "meetingNumber": 12,
+      "date": "20th May, 2013",
+      "time": "11:30 AM",
+      "location": "Conference hall of NIT Agartala"
+    },
+    "attendees": [
+      {
+        "name": "Prof. Probir Kumar Bose",
+        "role": "Chairman",
+        "designation": "Director, NIT Agartala"
+      },
+      {
+        "name": "Prof. Nilanjana Gupta",
+        "role": "Member",
+        "designation": "Dean, Faculty of Arts, Jadavpur University"
+      },
+      {
+        "name": "Prof. Kehar Singh",
+        "role": "Member",
+        "designation": "Department of Physics, IIT Delhi"
+      },
+      {
+        "name": "Prof. Manoj Mitra",
+        "role": "Member",
+        "designation": "Professor of Metallurgy and Dean of Engineering, Jadavpur University"
+      },
+      {
+        "name": "Dr. Subhas Chandra Saha",
+        "role": "Member",
+        "designation": "Professor (Mechanical Engineering), NIT Agartala"
+      },
+      {
+        "name": "Dr. Ajit Kumar Roy",
+        "role": "Member",
+        "designation": "Professor (Humanities), NIT Agartala"
+      },
+      {
+        "name": "Prof. R. P. Sharma",
+        "role": "Member",
+        "designation": "Professor (Civil Engineering), NIT Agartala and Dean, Academic Affairs"
+      },
+      {
+        "name": "Prof. Kamakhya Prasad Ghatak",
+        "role": "Member",
+        "designation": "Professor (Electronics and Communication Engineering), NIT Agartala and HOD, ECE"
+      },
+      {
+        "name": "Head of the Department, Civil Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Mechanical Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Electrical Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Computer Science & Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Electronics & Instrumentation Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Production Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, School of Hydro-Informatics",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Chemistry",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Physics",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Mathematics",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of the Department, Humanities",
+        "role": "Invitee"
+      },
+      {
+        "name": "Faculty In-charge, School of Energy Studies",
+        "role": "Invitee"
+      },
+      {
+        "name": "Faculty In-charge, School of Seismic Science & Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Faculty In-charge, School of Automotive Engineering",
+        "role": "Invitee"
+      },
+      {
+        "name": "Controller of Examinations, NIT Agartala",
+        "role": "Invitee"
+      },
+      {
+        "name": "Sri Sumanta Chakrabarti",
+        "role": "Secretary, SENATE",
+        "designation": "Registrar (I/C), NIT Agartala"
+      }
+    ],
+    "agendaItems": [
+      {
+        "itemNumber": "S/12/01",
+        "title": "Confirmation of the Minutes of the 11th Meeting of the SENATE held on 10th October, 2012.",
+        "resolution": "Confirmed."
+      },
+      {
+        "itemNumber": "S/12/02",
+        "title": "Action taken report on the decisions of the 11th meeting of the SENATE.",
+        "resolution": "Perused, noted, and approved."
+      },
+      {
+        "itemNumber": "S/12/03",
+        "title": "Ratification of results of Ph.D. in Engineering in the Department of Electronics & Communication and Electrical Engineering for awarding Ph.D. Degrees in the 5th Convocation.",
+        "resolution": "Approved results for Mr. Chinnamuthu P. (Electronics & Communication Engineering) and Mrs. Sumita Deb (Electrical Engineering)."
+      },
+      {
+        "itemNumber": "S/12/04",
+        "title": "Consideration and ratification of awarding degrees to students who passed B.Tech. even semester (Supplementary) examination, 2012, for the 5th Convocation.",
+        "resolution": "Approved results and degree awards for the following 5 students.",
+        "details": [
+          {
+            "sl_no": 1,
+            "enrollmentNo": "0610210",
+            "name": "Jeeven Debbarma",
+            "cpi": 5.21
+          },
+          {
+            "sl_no": 2,
+            "enrollmentNo": "0810257",
+            "name": "Tapajyoti Deb",
+            "cpi": 5.37
+          },
+          {
+            "sl_no": 3,
+            "enrollmentNo": "0510355",
+            "name": "Jyotish Chandra Debbarma",
+            "cpi": 4.97
+          },
+          {
+            "sl_no": 4,
+            "enrollmentNo": "0810336",
+            "name": "Payel Das",
+            "cpi": 4.96
+          },
+          {
+            "sl_no": 5,
+            "enrollmentNo": "0810548",
+            "name": "Sourav Dey",
+            "cpi": 5.63
+          }
+        ]
+      },
+      {
+        "itemNumber": "S/12/05",
+        "title": "Consideration and ratification of the Academic Calendar for the year 2013-14.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/12/06",
+        "title": "Consideration and ratification of modification of Rule 8.5 (b) and Rule 12 of B.Tech. regulations.",
+        "resolution": "Ratified the amendment of B.Tech. regulations.",
+        "details": [
+          {
+            "rule": "Rule 8.5(b)",
+            "previousProvision": "If any student fails in Laboratory / Practical Subject, he/she shall not be allowed to sit for any examination of theory paper.",
+            "amendedProvision": "Students failing in practical subjects will be awarded F grade. Such students will be required to re-register for those subjects in the next appropriate semester."
+          },
+          {
+            "rule": "Rule 12",
+            "previousProvision": "If at the end of any 2 (two) semesters (one academic year) a student has scored F and FA grade in 4 (four) or more theory subjects, he/she will not be permitted to register for the next semester subjects and will have to register for those subjects in which he/she scored F and FA grades in the first 2 (two) semesters.",
+            "amendedProvision": "If at the end of any 2 (two) semesters (one academic year) a student has scored F and FA grade in 4 (four) or more theory and practical subjects, he/she will not be permitted to register for the next semester subjects and will have to register for those subjects in which he/she scored F and FA grades in the first 2 (two) semesters."
+          }
+        ]
+      },
+      {
+        "itemNumber": "S/12/07",
+        "title": "Consideration and ratification of Memoranda for declaration of Ph.D. results.",
+        "resolution": "Ratified the 2 memoranda for declaration of Ph.D. degree results."
+      },
+      {
+        "itemNumber": "S/12/08",
+        "title": "Consideration and ratification of increase of intake of MCA program from 20 to 40 from 2013-14.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/12/09",
+        "title": "Consideration and ratification of starting of Ph.D. program in Computer Science & Engineering from 2013-14.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/12/10",
+        "title": "Inclusion of 3 more elective papers in 2-year M.Sc. program in Physics and syllabus thereof.",
+        "resolution": "Approved the starting of 3 elective papers from 2013-14, with the suggestion to detail the syllabus and lecture hours in an upcoming workshop.",
+        "details": [
+          "Microwave Devices and Techniques",
+          "Physics of Semiconductor Devices",
+          "Spintronics and Devices"
+        ]
+      },
+      {
+        "itemNumber": "S/12/11",
+        "title": "Consideration and approval of inclusion of \"Power Quality and its Application\" as one of the elective subjects in the PG program of Electrical Engineering Department.",
+        "resolution": "Approved the inclusion of the elective subject, with the suggestion to specify reference books and journals."
+      },
+      {
+        "itemNumber": "S/12/12",
+        "title": "Consideration and approval of Rules & Regulations of 5-year integrated M.Sc. program in Physics, Chemistry and Mathematics.",
+        "resolution": "Approved the rules and regulations with suggestions to possibly rename to 'Applied' Physics/Chemistry/Mathematics, finalize details in an upcoming workshop, and make syllabi more elaborate."
+      },
+      {
+        "itemNumber": "S/12/13",
+        "title": "Consideration and approval of updated syllabi of B.Tech. program in Production Engineering.",
+        "resolution": "Approved the updated syllabi from 3rd to 8th semester, with the suggestion to reduce total credits from 222 to a maximum of 180."
+      },
+      {
+        "itemNumber": "S/12/14",
+        "title": "Consideration and approval of the last date of submission of mark sheets etc. for Ph.D. admission.",
+        "resolution": "Approved that Ph.D. candidates must submit all required documents within 30 days from the last date of admission, failing which admission stands canceled."
+      },
+      {
+        "itemNumber": "S/12/15",
+        "title": "Consideration and approval of inclusion of Master of Rural Management & Development (MRMD) for allowing scholarships for Ph.D. candidates.",
+        "resolution": "Approved that Ph.D. candidates with MRMD from Tripura Central University with 60% marks are eligible for Institute scholarship, with retrospective effect for existing candidates."
+      },
+      {
+        "itemNumber": "S/12/16",
+        "title": "Reconsideration of the decision of reduction of seats in B.Tech. Civil Engineering from 184 to 150.",
+        "resolution": "Opined that due to infrastructure and faculty constraints, the Institute should not enhance seats to 150 and it would be better to reduce to 120, or 150 in extreme cases."
+      },
+      {
+        "itemNumber": "S/12/17",
+        "title": "Consideration and approval of revision of fees for Ph.D. program from 2013-14.",
+        "resolution": "Approved the Ph.D. program fee structure effective from July 2013.",
+        "details": {
+          "feeStructure": [
+            {"particulars": "Admission fee", "1stSem": 1000, "2ndSem": 0, "3rdSem": 0, "4thSem": 0, "5thSem": 0, "6thSem": 0, "OtherSem": 0},
+            {"particulars": "Tuition", "1stSem": 7500, "2ndSem": 7500, "3rdSem": 7500, "4thSem": 7500, "5thSem": 7500, "6thSem": 7500, "OtherSem": 7500},
+            {"particulars": "All other fees", "1stSem": 2000, "2ndSem": 2000, "3rdSem": 2000, "4thSem": 2000, "5thSem": 2000, "6thSem": 2000, "OtherSem": 2000},
+            {"particulars": "Student Activity Fee", "1stSem": 1000, "2ndSem": 1000, "3rdSem": 1000, "4thSem": 1000, "5thSem": 1000, "6thSem": 1000, "OtherSem": 1000},
+            {"particulars": "Medical", "1stSem": 1000, "2ndSem": 0, "3rdSem": 1000, "4thSem": 0, "5thSem": 1000, "6thSem": 0, "OtherSem": 0},
+            {"particulars": "Caution Money", "1stSem": 5000, "2ndSem": 0, "3rdSem": 0, "4thSem": 0, "5thSem": 0, "6thSem": 0, "OtherSem": 0},
+            {"particulars": "Alumni fee", "1stSem": 0, "2ndSem": 0, "3rdSem": 0, "4thSem": 0, "5thSem": 0, "6thSem": 1000, "OtherSem": 0},
+            {"particulars": "I.F. ID Card", "1stSem": 200, "2ndSem": 0, "3rdSem": 0, "4thSem": 0, "5thSem": 0, "6thSem": 0, "OtherSem": 0}
+          ],
+          "totals": {"1stSem": 17700, "2ndSem": 10500, "3rdSem": 11500, "4thSem": 10500, "5thSem": 11500, "6thSem": 11500, "OtherSem": 10500}
+        }
+      },
+      {
+        "itemNumber": "S/12/18",
+        "title": "Consideration and approval of collection of a fee of Rs. 500/- per subject from PG students for supplementary examination.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "S/12/01/A",
+        "title": "Consideration and ratification of deferring the date of commencement of the End-Term Examination 2013.",
+        "resolution": "Ratified the deferment of examination dates.",
+        "details": {
+          "classworkEndDate": "30/04/2013",
+          "examCommencementDate": "03/05/2013",
+          "resultPublicationDate": "24/05/2013",
+          "facultySummerVacation": "21/05/2013 to 10/07/2013"
+        }
+      },
+      {
+        "itemNumber": "S/12/02/A",
+        "title": "Consideration and ratification of allowing students of B.Tech. 1st semester who were debarred from appearing at the theory paper examination for their failure in practical subjects to appear at the examination of those papers during summer vacation.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/12/03/A",
+        "title": "Consideration and approval of correction of subject names of 4th and 5th semester B.Tech. Civil Engineering program of 2009 and 4th semester of 2010 batch.",
+        "resolution": "Approved the correction of subject names.",
+        "details": [
+          {"year": 2009, "semester": "IV", "incorrectName": "Surveying Field Works-II", "correctName": "Surveying Field Works"},
+          {"year": 2009, "semester": "V", "incorrectName": "Design of RC Structure-II", "correctName": "Design of Structures-I"},
+          {"year": 2010, "semester": "IV", "incorrectName": "Surveying Field Works-II", "correctName": "Surveying Field Works"}
+        ]
+      },
+      {
+        "itemNumber": "S/12/04/A",
+        "title": "Consideration and approval of moderation of question papers of Odd and Even semester examinations of UG and PG programs.",
+        "resolution": "Approved that each faculty will submit 2 sets of question papers and that papers will be moderated by external experts."
+      },
+      {
+        "itemNumber": "S/12/05/A",
+        "title": "Rationalization of duration of both mid-term and end-term examinations of various programs of the Institute.",
+        "resolution": "Approved B.Tech. mid-term duration to be 2 hours and end-term to be 3 hours."
+      },
+      {
+        "itemNumber": "S/12/06/A",
+        "title": "Conferring the Honoris Causa D.Sc. to Prof. Bikash Sinha.",
+        "resolution": "Approved conferring the Honoris Causa D.Sc. to Prof. Bikash Sinha in the 5th Convocation."
+      },
+      {
+        "itemNumber": "S/12/07/A",
+        "title": "Conferring the Honoris Causa D.Sc. to Prof. Rolf-Dieter HEUER, CERN Director General.",
+        "resolution": "Approved conferring the Honoris Causa D.Sc. to Prof. Rolf-Dieter HEUER in the 5th Convocation."
+      },
+      {
+        "itemNumber": "S/12/08/A",
+        "title": "Consideration and nomination of 2 faculty members to the Board of Governors.",
+        "resolution": "Confirmed the nomination of Prof. Richi Prasad Sharma and Mr. John Deb Barma to the Board of Governors."
+      },
+      {
+        "itemNumber": "S/12/09/A",
+        "title": "Organization of a Special Convocation for conferring Honoris Causa D.Sc. to some eminent personalities.",
+        "resolution": "Authorized the Director and Chairman, SENATE, to organize a Special Convocation at a convenient date."
+      },
+      {
+        "itemNumber": "S/12/10/A",
+        "title": "Organization of the 5th Convocation of NIT Agartala on June 21, 2013.",
+        "resolution": "Approved the organization of the 5th Convocation on June 21, 2013, in two sessions starting from 10:30 AM."
+      }
+    ],
+    "closingRemarks": {
+      "summary": "All decisions were taken unanimously.",
+      "conclusion": "The Meeting ended with a vote of thanks to the Chair."
+    },
+    "signedBy": {
+      "name": "Prof. P. K. Bose",
+      "title": "Chairman, SENATE"
+    }
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/Senate_Minutes/12th_SENATE_minutes.pdf"
+}

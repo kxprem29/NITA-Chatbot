@@ -1,0 +1,129 @@
+{
+  "filename": "40th_BWC_Minutes.json",
+  "title": "40th BWC Meeting Minutes",
+  "date": "March 27, 2018",
+  "location": "Conference Room of Shastri Bhavan, New Delhi, India",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "Barjala, Jirania, West Tripura — 799046"
+  },
+  "chairman": {
+    "name": "Prof. (Dr.) H. K. Sharma",
+    "designation": "Director",
+    "role": "Chairman, Building & Works Committee (B&WC)"
+  },
+  "members_present": [
+    {"name": "Prof. (Dr.) H.K. Sharma", "role": "Chairman, B&WC, Director, N.I.T., Agartala"},
+    {"name": "Dr. S. C. Saha", "role": "Professor, Mechanical Engg. Department, NIT Agartala"},
+    {"name": "Mr. K Rajan", "role": "Under Secretary, Higher Education, MHRD, Govt. of India"},
+    {"name": "Mr. D.K. Singh", "role": "Under Secretary, Higher Education, MHRD, Govt. of India"},
+    {"name": "Mr. A. K. Singh", "role": "Under Secretary, Higher Education, MHRD, Govt. of India (Invitee Member)"},
+    {"name": "Dr. Ajoy Kumar Chakraborty", "role": "Dean (P & D), NIT Agartala"},
+    {"name": "Dr. Govind Bhargava", "role": "Registrar, N.I.T., Agartala - Member Secretary"}
+  ],
+  "members_absent": [
+    {"name": "Shri Asit Bhaumik", "role": "Chief Engineer, PWD, Govt. of Tripura"},
+    {"name": "Shri Kajal Banik", "role": "Superintending Engineer (Electrical), Govt. of Tripura"}
+  ],
+  "agenda": [
+    {
+      "item_no": "40.1",
+      "title": "Confirmation of the Minutes of 39th BWC meeting",
+      "discussion": "The draft minutes of the 39th BWC meeting held on July 27, 2017, were confirmed with modifications incorporating suggestions under agenda item No. 39.3."
+    },
+    {
+      "item_no": "40.2",
+      "title": "Action taken on decisions of 38th BWC meeting",
+      "discussion": "The committee noted the actions taken on previous BWC decisions. Various works like sports complex construction, electromechanical work, water treatment plant, maintenance, internal roads, lecture hall, AC installation, and electrical works were approved, noted, or deferred as per details."
+    },
+    {
+      "item_no": "40.3",
+      "title": "Status of projects approved by Chairman BWC (38.3)",
+      "discussion": "The BWC noted the status of works under item 38.3 (Sl. No. 1 to 12)."
+    },
+    {
+      "item_no": "40.4",
+      "title": "Status of projects approved by Chairman BWC (38.4 to 38.8)",
+      "discussion": "The BWC noted the status of works under item 38.4 to 38.8 (Sl. No. 1 to 9)."
+    },
+    {
+      "item_no": "40.5",
+      "title": "Construction of boundary wall for KV field",
+      "cost": "Rs. 26,72,992.00",
+      "decision": "Approved and recommended for FC & BoG approval."
+    },
+    {
+      "item_no": "40.6",
+      "title": "Providing and fixing aluminum partition wall in Central Library",
+      "cost": "Rs. 18,07,669.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "40.7",
+      "title": "Providing and fixing partition wall in Civil Engineering Dept.",
+      "cost": "Rs. 36,06,559.00",
+      "decision": "Approved and recommended for FC & BoG approval."
+    },
+    {
+      "item_no": "40.8",
+      "title": "Internal electrification works in School of Management building",
+      "cost": "Rs. 9,28,345.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "40.9",
+      "title": "Construction of approach road for workshop building and CE lab",
+      "cost": "Rs. 6,28,136.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "40.10",
+      "title": "Extension of medical unit at Raima Hostel",
+      "cost": "Rs. 12,13,006.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "40.11",
+      "title": "Providing parking area and approach for Mathematics Department",
+      "cost": "Rs. 8,73,784.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "40.12",
+      "title": "Extra item for 1500 boys hostel",
+      "cost": "Rs. 7,22,37,000.00",
+      "decision": "Approved for completion of fire fighting works"
+    },
+    {
+      "item_no": "40.13",
+      "title": "Construction of 100 Capacity Research Scholar Hostel (G+6)",
+      "cost": "Rs. 25,00,00,000.00",
+      "decision": "Approved and recommended for FC & BoG approval subject to budget provision FY 2018-19"
+    },
+    {
+      "item_no": "40.14",
+      "title": "Construction of 1500 Capacity open air theatre",
+      "cost": "Rs. 17,00,00,000.00",
+      "decision": "Approved and recommended for FC & BoG approval subject to budget provision FY 2018-19"
+    },
+    {
+      "item_no": "40.15",
+      "title": "Proposal of Rainwater harvesting facilities",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "40.16",
+      "title": "Extension of LT Over Head line for H3 Residential Quarters",
+      "cost": "Rs. 3,93,675.00",
+      "decision": "Approved"
+    }
+  ],
+  "closing": {
+    "remarks": "Meeting ended with a vote of thanks to the Chair",
+    "signatories": [
+      {"name": "Dr. Govind Bhargava", "role": "Registrar and Member Secretary, BWC"},
+      {"name": "Prof. H.K.Sharma", "role": "Director and Chairman, BWC"}
+    ]
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/40th_BWC_Minutes.pdf"
+}

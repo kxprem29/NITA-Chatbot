@@ -1,0 +1,43 @@
+{
+  "PhdScholarshipUndertakingForm": {
+    "formInfo": {
+      "title": "UNDERTAKING TO BE EXECUTED BY Ph.D. SCHOLARS FOR AWARD OF SCHOLARSHIP",
+      "formNumber": "NITA/ACAD/Ph.D./4",
+      "applicability": "FOR REGULAR CANDIDATES ONLY"
+    },
+    "addressee": "The Dean (Academic), NIT Agartala",
+    "formFields": [
+      "Scholar's Name",
+      "Father/Husband's Name",
+      "Residential Address",
+      "Date of Ph.D. Admission",
+      "Department",
+      "Academic Session",
+      "Scholarship Amount per month",
+      "Academic Year",
+      "First Installment Fee Amount",
+      "Receipt Number",
+      "Receipt Date",
+      "Program Commencement Date (Forenoon/Afternoon)"
+    ],
+    "undertakingPoints": [
+      "I am not selected for any regular appointment/service and I am registering for the Ph.D. programme with the intention of completing it.",
+      "I am not and will not be in receipt of any salary or other financial benefits from any source, except the MHRD/Institute Scholarship during the period of my study at the Institute.",
+      "I will obtain prior permission from the institute before appearing in any examination conducted by other Institutions/Universities/Public bodies.",
+      "I will not apply for or accept any job without obtaining prior permission from the Institute.",
+      "I will undertake to dedicate 8 hours per week to teaching-related activities within the department or to academic research projects as assigned by the Head of the Department.",
+      "I understand that the continuation of the scholarship for each semester is contingent on my satisfactory performance in teaching/research assignments and my satisfactory academic performance and progress.",
+      "I also understand that the scholarship will be terminated at any time if my performance in the assigned duties or the progress in my research work is judged to be unsatisfactory.",
+      "I am eligible for regular leave of 30 days for each academic year. The scholarship will not be paid for any leave availed in excess of 30 days.",
+      "I agree to abide by all the existing rules and conditions governing the award of the Institute Scholarship, including any modifications made from time to time.",
+      "I am fully aware of and agree to follow the rules and regulations governing the Ph.D. programme at NIT Agartala.",
+      "I will not apply for a patent for an invention based on the research work without the written permission of the Director of NIT Agartala.",
+      "I have already deposited the first installment of fees and commenced attending the programme."
+    ],
+    "signatureFields": [
+      "Signature of the Scholar",
+      "Name of the Scholar"
+    ]
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/4-UndertakingForm-2018.pdf"
+}

@@ -1,0 +1,128 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "25th",
+    "Date": "January 17, 2015",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Agartala",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. P. N. Singh",
+        "Designation": "Invitee Member, Former Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Shri Sanjeev Kumar Sharma",
+        "Designation": "Director (NITs), MHRD, Govt. of India (Representative of Joint Secretary)"
+      },
+      {
+        "Name": "Shri Satpal Sharma",
+        "Designation": "Under Secretary, IFD, MHRD, Govt. of India (Representative of Financial Advisor)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Shri Sumanta Chakrabarti",
+        "Designation": "Member Secretary, Finance Committee and Registrar (i/c)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "25.1",
+        "Title": "Confirmation of the Minutes of 24th Meeting",
+        "Details": "Minutes of the 24th Finance Committee meeting held on May 02, 2014, were circulated and confirmed."
+      },
+      {
+        "ItemNo": "25.2",
+        "Title": "Action taken on the decision of the 24th Meeting",
+        "Details": "Finance Committee noted the action taken report."
+      },
+      {
+        "ItemNo": "25.3",
+        "Title": "Financial Status of the Institute as on December 31, 2014",
+        "Details": "Finance Committee noted the present financial status and advised prioritizing ongoing construction works based on availability of funds."
+      },
+      {
+        "ItemNo": "25.4",
+        "Title": "Annual Accounts for 2013-14",
+        "Details": "Finance Committee perused and approved the Annual Accounts of the Institute for 2013-14."
+      },
+      {
+        "ItemNo": "25.5",
+        "Title": "Audit Report on the accounts for 2013-14",
+        "Details": "Finance Committee perused and approved the Audit Report forwarded by Indian Audit & Accounts Department, and advised placing an Action Taken Report on audit observations before the committee."
+      },
+      {
+        "ItemNo": "25.6",
+        "Title": "Annual Report for 2013-14",
+        "Details": "Finance Committee approved the Annual Report of the Institute for 2013-14."
+      },
+      {
+        "ItemNo": "25.7",
+        "Title": "Recommendations of 32nd Building & Works Committee",
+        "Details": "Approved recommendations with observations; deviated items to be reported with justification. Delays in execution were noted and steps suggested."
+      },
+      {
+        "ItemNo": "25.8",
+        "Title": "Sanction of Rs. 16,827/- from TEQIP-II for airfare cancellation",
+        "Details": "Finance Committee approved reimbursement of Rs. 16,827/- for cancellation of air tickets of 4 faculty members."
+      },
+      {
+        "ItemNo": "25.9",
+        "Title": "Depositing Monthly NPS Contribution and transferring arrears",
+        "Details": "Finance Committee perused and approved the proposal for monthly contributions and transfer of arrears to individual PRAN accounts."
+      },
+      {
+        "ItemNo": "25.10",
+        "Title": "Enhancement of Special Compensatory Allowances",
+        "Details": "Approved enhancement of various allowances as per Government of India OMs, and recommended informing MHRD."
+      },
+      {
+        "ItemNo": "25.11",
+        "Title": "Air Journey on LTC/HTC for Non-Teaching Staff",
+        "Details": "Finance Committee suggested sending a consolidated proposal to MHRD for concurrence."
+      },
+      {
+        "ItemNo": "25.12",
+        "Title": "Present Status of TEQIP-II Project",
+        "Details": "Finance Committee noted the status and praised project activities and benefits derived."
+      },
+      {
+        "ItemNo": "25.13",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "Finance Committee noted and approved."
+      },
+      {
+        "ItemNo": "25.14",
+        "Title": "Any other item with the permission of the Chair",
+        "SubItems": [
+          {
+            "ItemNo": "25.14.1",
+            "Title": "Provision for leave encashment and superannuation/pensionary liabilities",
+            "Details": "Approved provision of funds on accrual basis for 62 listed employees as per new accounting system."
+          },
+          {
+            "ItemNo": "25.14.2",
+            "Title": "Managing General Provident Fund Contribution",
+            "Details": "Approved and authorized Director to frame mechanism for settlement of GPF issues; investment of funds to follow MHRD guidelines and recommendations of the Investment Committee."
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Shri Sumanta Chakrabarti",
+      "Chairperson": "Prof. Deepak B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/25th_FC_Minutes.pdf"
+}

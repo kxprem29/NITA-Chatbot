@@ -1,0 +1,249 @@
+{
+  "meeting_number": 37,
+  "date": "2016-09-06",
+  "time": "18:00",
+  "type": "Building & Works Committee",
+  "venue": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "Barjala, Jirania, West Tripura – 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) Gopal Mugeraya",
+    "position": "Director, NIT Agartala",
+    "role": "Chairman, Building & Works Committee (B&WC)"
+  },
+  "members_present": [
+    {
+      "name": "Sri Asit Bhaumik",
+      "designation": "TES Gr-I, Chief Engineer",
+      "organization": "PWD (Civil), Govt. of Tripura"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "designation": "Superintending Engineer (Elect.)",
+      "organization": "Office of the Chief Engineer, PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Dr. Ratul Das",
+      "designation": "Dean (P&D)",
+      "organization": "NIT Agartala"
+    },
+    {
+      "name": "Dr. Richi Prasad Sharma",
+      "designation": "Professor, Civil Engg. Department",
+      "organization": "NIT Agartala"
+    },
+    {
+      "name": "Dr. Debasish Bhattacharya",
+      "designation": "Registrar (I/C)",
+      "role": "Member Secretary",
+      "organization": "NIT Agartala"
+    }
+  ],
+  "director_mhrd_attendance": "Did not attend",
+  "agenda_items": [
+    {
+      "item_no": "37.1",
+      "title": "Confirmation of the Minutes of the 36th BWC Meeting",
+      "details": "Minutes of 36th BWC Meeting held on 28th June, 2016 were confirmed as no comments were received."
+    },
+    {
+      "item_no": "37.2",
+      "title": "Action Taken on Decisions of the 35th BWC Meeting",
+      "sub_items": [
+        {
+          "sl_no": 1,
+          "decision": "Regarding HVAC, Stage Craft, Stage Light, Sound System, Project System, Sitting Arrangement etc. in Seminar Hall",
+          "action_taken": "Action is being taken as per 35th BWC decision."
+        },
+        {
+          "sl_no": 2,
+          "decision": "Up-gradation of internal main road and related works at a cost of Rs. 12,62,33,747.00",
+          "action_taken": "11 works completed, 2 works in progress."
+        },
+        {
+          "sl_no": 3,
+          "decision": "Various construction activities approved by Chairman for ratification",
+          "action_taken": "Placed at item 37.2 Sl. No. 15."
+        },
+        {
+          "sl_no": 4,
+          "decision": "Construction of Central Lecture Hall Complex with 27 Class Rooms",
+          "action_taken": "See agenda item 35.4 / 37.2 Sl. No. 4."
+        },
+        {
+          "sl_no": 5,
+          "decision": "Quantified variation in Sports Complex construction",
+          "action_taken": "Details placed at item 37.9."
+        },
+        {
+          "sl_no": 6,
+          "decision": "Electromechanical work in Swimming Pool of Sports Complex",
+          "action_taken": "CPWD agreed to undertake work as deposit work."
+        },
+        {
+          "sl_no": 7,
+          "decision": "Supply, Installation, Testing & Commissioning of 15 lifts",
+          "action_taken": "See agenda item 35.16.1 / 37.2 Sl. No. 16."
+        },
+        {
+          "sl_no": 8,
+          "decision": "Items approved in 34th meeting to be confirmed in 35th BWC",
+          "action_taken": "1 work completed, tenders received for 2 works."
+        },
+        {
+          "sl_no": 9,
+          "decision": "Items 34.12 to 34.21 approved",
+          "action_taken": "3 works completed, 1 deferred, 6 tenders under process."
+        },
+        {
+          "sl_no": 10,
+          "decision": "Water Treatment Plant and associated works",
+          "action_taken": "Agenda to be placed in next BWC with justification."
+        },
+        {
+          "sl_no": 11,
+          "decision": "Items 34.23 to 34.31 approved",
+          "action_taken": "All 9 works completed."
+        },
+        {
+          "sl_no": "12.1",
+          "decision": "Yearly repairs of Submersible Pump set for 2015-16, Cost: Rs. 3,60,117.00",
+          "action_taken": "Tender under process."
+        },
+        {
+          "sl_no": "12.2",
+          "decision": "Annual maintenance of all buildings for 2016-17, Cost: Rs. 49,79,491.00",
+          "action_taken": "Proposal placed to FC & BOG for approval."
+        },
+        {
+          "sl_no": 13,
+          "decision": "Up-gradation of internal main road",
+          "action_taken": "Details placed at item 37.9."
+        },
+        {
+          "sl_no": 14,
+          "decision": "Quantified variation in Sports Complex",
+          "action_taken": "Proposal placed to FC & BOG."
+        },
+        {
+          "sl_no": 15,
+          "decision": "Construction of Central Lecture Hall Complex",
+          "action_taken": "Deferred due to fund paucity."
+        },
+        {
+          "sl_no": 16,
+          "decision": "Various construction activities approved by Chairman",
+          "action_taken": "7 works completed, 6 in progress."
+        },
+        {
+          "sl_no": 17,
+          "decision": "Supply & installation of Split ACs at Admin Block-I",
+          "action_taken": "Procurement rules being followed."
+        },
+        {
+          "sl_no": 18,
+          "decision": "Supply & installation of electrical appliances in new buildings",
+          "action_taken": "Open tender under process."
+        },
+        {
+          "sl_no": 19,
+          "decision": "Supply of electrical materials for Kendriya Vidhyalaya",
+          "action_taken": "Proposal referred to Purchase Section for scrutiny."
+        },
+        {
+          "sl_no": 20,
+          "decision": "Providing partition wall in ECE Building",
+          "action_taken": "Tender under scrutiny."
+        },
+        {
+          "sl_no": 21,
+          "decision": "Seepage in Gargi hostel and other maintenance works",
+          "action_taken": "Tender under scrutiny."
+        },
+        {
+          "sl_no": 22,
+          "decision": "Providing GI pipe instead of PPR pipe at 1500 Boys Hostel",
+          "action_taken": "Letter issued to NCC Ltd. to follow approved BOQ items."
+        },
+        {
+          "sl_no": 23,
+          "decision": "Substitute item for aluminium frame instead of Sal Wood frame",
+          "action_taken": "Letter issued to NCC Ltd. to follow approved BOQ items."
+        },
+        {
+          "sl_no": 24,
+          "decision": "Maintenance & extension of Mechanical Engineering Dept.",
+          "action_taken": "Tender under scrutiny."
+        },
+        {
+          "sl_no": 25,
+          "decision": "Maintenance & construction of DG Sheds",
+          "action_taken": "Tender under scrutiny."
+        },
+        {
+          "sl_no": 26,
+          "decision": "Supply, installation, testing & commissioning of 14 lifts",
+          "action_taken": "Open tender under process."
+        }
+      ]
+    },
+    {
+      "item_no": "37.3",
+      "title": "Ratification of construction activities approved by Chairman",
+      "details": "BWC ratified and confirmed actions taken in agenda item 37.3."
+    },
+    {
+      "item_no": "37.4",
+      "title": "Repair & maintenance of false ceiling at New Workshop building",
+      "cost": 201985,
+      "details": "Approved to award work through CPWD Form-11 to reputed contractor."
+    },
+    {
+      "item_no": "37.5",
+      "title": "Revised cost estimate for firefighting works for 1500 Boys Hostel",
+      "details": "Increase of Rs. 66,25,517.00 explained by consultant (DAPL)."
+    },
+    {
+      "item_no": "37.6",
+      "title": "Extra items for 1500 Boys Hostel",
+      "cost": 566384,
+      "details": "Execution of PVC water stops and brick-on-edge flooring approved."
+    },
+    {
+      "item_no": "37.7",
+      "title": "Construction of Children's Park and land development",
+      "tentative_cost": 6240285,
+      "details": "Estimate to be recast and placed in next BWC."
+    },
+    {
+      "item_no": "37.8",
+      "title": "Revamping lakes, water harvesting, and beautification",
+      "tentative_cost": 150000000,
+      "details": "DPR and detailed estimate to be obtained from CPWD and placed in next BWC."
+    },
+    {
+      "item_no": "37.9",
+      "title": "Award of work: Up-gradation of internal main road",
+      "cost": 126233747,
+      "details": "Sri Jahar Sur Choudhury selected as 1st lowest bidder; proposal for FC & BOG approval."
+    },
+    {
+      "item_no": "37.10",
+      "title": "Any other item",
+      "details": "No other items for discussion."
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Dr. D. Bhattacharya",
+      "designation": "Registrar (I/C) and Member Secretary"
+    },
+    {
+      "name": "Prof. (Dr). Gopal Mugeraya",
+      "designation": "Director and Chairman"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/37th_BWC_Minutes.pdf"
+}

@@ -1,0 +1,80 @@
+{
+  "AdmissionNotification": {
+    "documentInfo": {
+      "fileNumber": "No.NITA.5/(12-Acad)/M.Tech/Non-CCMT/2023-24/9, 30",
+      "issueDate": "22/08/2023",
+      "title": "NOTIFICATION"
+    },
+    "subject": "Publication of provisionally shortlisted additional candidates for written test and interview for admission in M.Tech and M.Sc programmes against vacant seats.",
+    "academicSession": "2023-24",
+    "admissionCategory": "Non-CCMT and Non-CCMN",
+    "referenceNotices": [
+      {
+        "description": "Previous notification of shortlisted candidates",
+        "date": "21/08/2023"
+      },
+      {
+        "description": "Eligibility criteria notice for M.Tech",
+        "fileNumber": "NITA.5(12-Acad)/M.Tech/Non-CCMT/2023-24/A-2340",
+        "date": "11/07/2023"
+      },
+      {
+        "description": "Eligibility criteria notice for M.Sc",
+        "fileNumber": "NITA.5(60-Acad)/ Non-CCMN/ 2023-24/A-2329",
+        "date": "11/07/2023"
+      }
+    ],
+    "shortlistedCandidates": [
+      {
+        "slNo": 1,
+        "name": "HIREN SAROJ",
+        "department": "COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "slNo": 2,
+        "name": "SANCHALI SEN",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 3,
+        "name": "ROHIT BARUA",
+        "department": "CIVIL ENGINEERING"
+      },
+      {
+        "slNo": 4,
+        "name": "SAPTARSHI ROY",
+        "department": "PHYSICS"
+      }
+    ],
+    "selectionProcess": {
+      "date": "23-08-2023",
+      "event": "Written Test and Interview"
+    },
+    "departmentContacts": [
+      {
+        "department": "CIVIL ENGINEERING",
+        "pgCoordinator": "Mr. Nilotpal Debbarma",
+        "contactNumber": "9436180332"
+      },
+      {
+        "department": "COMPUTER SCIENCE AND ENGINEERING",
+        "pgCoordinator": "Dr. Anupam Jamatia",
+        "contactNumber": "9436502929"
+      },
+      {
+        "department": "PHYSICS",
+        "pgCoordinator": "Dr. Manash Kumar Paul",
+        "contactNumber": "7005324345"
+      }
+    ],
+    "importantNote": "Candidates are advised to visit the Institute website regularly for further updates.",
+    "signedBy": "Dean, (Academic Affairs)",
+    "distributionList": [
+      "P.S. to the Director",
+      "All Heads of the Academic Departments running M.Tech and M.Sc programmes",
+      "Concerned PG Coordinators",
+      "System administrator"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/2ndList_MTech_MSc_Aug2023.pdf"
+}

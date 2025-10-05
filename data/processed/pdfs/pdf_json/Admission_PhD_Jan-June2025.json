@@ -1,0 +1,125 @@
+{
+  "filename": "Admission_PhD_Jan-June2025.txt",
+  "title": "Notification for admission to Ph.D Programme for January – June 2025",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic Affairs",
+  "notification_no": "F. NITA.5/(6-ACAD)/Ph.D/Admn/2025/Jan [A-18.3]",
+  "date": "19/11/2024",
+  "program": "Ph.D.",
+  "academic_session": "January – June 2025",
+  "departments": [
+    {
+      "name": "Bio Engineering",
+      "research_areas": [
+        "Biochemical Engineering: Strain improvement, plasmid stability, reactor stability, upstream and downstream processing, bioreactor design and analysis, process optimization and intensification, modeling and simulation of bioprocess, metabolic engineering, and scale-up.",
+        "Environmental Engineering: Solid and liquid waste management, environmental modeling, waste utilization, resource recovery and circular economy.",
+        "Molecular cell biology and genetics: Cell Biology, Molecular Biology, rDNA technology, Drug discovery and design, Bioinformatics."
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "research_areas": [
+        "Environmental Engineering and Sustainability",
+        "Bioprocess and Biosystem Engineering",
+        "Chemical Energy Engineering",
+        "Advanced Separation Processes and Technology",
+        "Material Science and Technology",
+        "Fluid Dynamics and Simulation",
+        "Numerical Modeling and Simulation in Chemical Engineering (including Machine Learning and Artificial Intelligence)"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "research_areas": [
+        "Broad area of research for Civil Engineering department will be notified soon."
+      ]
+    },
+    {
+      "name": "Computer Science & Engineering",
+      "research_areas": [
+        "Networks: Service-oriented network architectures; Network protocols and performance evaluations; Software-defined networking; Wireless sensor networks; Mobile computing and cognitive radio networks; MANET, VANET, and IoT; Network threat analysis and prevention; Social sensor networks; Underwater sensor networks; Cloud computing.",
+        "Information Systems: Data management systems; Information storage systems; Information systems applications; World Wide Web; Information retrieval.",
+        "Security and Privacy: Cryptography; Formal methods and theory of security; Security services; Intrusion/anomaly detection and malware mitigation; Security in hardware; Systems security; Network security; Database and storage security; Software and application security; Human and societal aspects of security and privacy; Access control; Blockchain.",
+        "Computing Methodologies: Artificial intelligence; Machine learning; Modeling and simulation; Computer graphics; Distributed computing methodologies; Concurrent computing methodologies; Natural language processing; Speech processing and language technology; Knowledge representation and reasoning; Search methodologies; Philosophical/theoretical foundations of artificial intelligence; Distributed artificial intelligence; Image processing; Computer vision; Human-centered computing.",
+        "Applied Computing: Computational biology; Consumer health; Health care information systems; Health informatics; Bioinformatics; Electronic commerce; Enterprise computing; Computer forensics; Operations research; Document management and text processing; Emerging nanotechnology; Quantum cellular automata."
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "research_areas": [
+        "Power System: Power Systems, Distributed power generation; Hybrid power system; Energy conservation; Power system planning under smart grid; Demand response; Deregulated Power system; Power Quality, Electric Vehicles, Power System Optimization.",
+        "Power Electronics and Drives: Power Quality, Power Electronics and Drives, Multilevel Inverter Topologies, Harmonic Elimination techniques, Modular Multilevel Converter for HVDC application, Electric Vehicle, Smart Grids, Power Electronics converter, integration of renewable energy, energy storage, multilevel converters, PWM and control.",
+        "Instrumentation Engineering: Opto Electronics Instrumentation; Industrial Instrumentation; Solid State Lasers; Fiber Optic Sensors; Integrated Photonic Devices; Fiber optics Communications; Laser & nonlinear optics; Surface Plasmon based sensors & Devices.",
+        "Integrated Energy System: Energy and Renewable Power, Distributed Power Generation, Hybrid Power System, Energy Conservation, Electric Vehicle, Smart Grids."
+      ]
+    },
+    {
+      "name": "Electronics & Communication Engineering",
+      "research_areas": [
+        "VLSI Technology: VLSI Design and Synthesis, VLSI Fabrication & Testing, Hardware Security, Network on Chip.",
+        "Communication and Microwave Engineering: Wireless Communication, Wireless sensor network, 5G/6G Communication, Optical Communication, Data communication & networking, Information theory and Coding, Microwave Devices and circuits, Microwave Device fabrication, Antenna Design, Computational Electromagnetics, Microstrip antenna, Metamaterials, Smart Antenna.",
+        "Electronic materials and Device fabrications: Semiconductor Devices, Nano electronics, Advanced Electronics materials and devices, Opto-electronics Devices, MEMS, Photovoltaic and sensor devices, Electronic System and IC packaging, Gas Sensing Applications.",
+        "Signal Processing: Speech Signal Processing, Video Signal Processing, Image Processing, RADAR Signal Processing, Bio-medical signal processing, statistical signal processing.",
+        "Embedded System and IoT: Design of Intelligent Systems, System Security, Smart City, Robotics, Health care.",
+        "Sensors, Instrumentation and Control: Sensors and transducers, smart and intelligent sensors, Electronic Instrumentation, bio-instrumentation, Virtual instrumentation, impedance spectroscopy, control System.",
+        "Artificial Intelligence (AI) and Machine Learning (ML): Deep Learning, Reinforcement learning, Natural Language Processing, Artificial Neural Network, Computer vision, Recommender System, Bayesian and statistical machine learning."
+      ]
+    },
+    {
+      "name": "Instrumentation Engineering",
+      "research_areas": [
+        "Optics & Photonics: Optical Communication, Optical sensors, Optical Computing Optoelectronic Instrumentation",
+        "Flexible and wearable electronics: IoT, Chemical and Bio Sensors",
+        "Instrumentation and control: Sensors & transducer, Instrumentation and Measurement, Embedded system, Robotics & Control, Agricultural Electronics",
+        "Biomedical Instrumentation: Medical Signal and Image Processing, Medical Instrumentation and AI in healthcare"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "research_areas": [
+        "Fluid & Thermal Engineering: Thermal Science & Engineering, Automobile Engineering, Heat Power, Heat Transfer, Pool boiling heat transfer, Energy Materials, Fluids & Thermal Engineering, Cryogenics & Vacuum Technology, Aerospace Engineering, Computational Mechanics.",
+        "Manufacturing Science & Engineering: Manufacturing Technology, Production Engineering, Industrial Engineering, CAD/CAM, Advanced Manufacturing & Design, Additive Manufacturing, Mechanical Modelling & Characterization, Non Traditional Machining Process, Micro Engineering Manufacturing, Micro Machining, Metal Casting, MMC, Bio Composites, ceramic Composites, Computational welding Mechanics, Welding, Polymer/Metal Additive manufacturing, Ceramic Engineering, Application of Artificial Neural Network, Soft Computing, Metallurgy, Material Science.",
+        "Machine Design: Machine Design, Tribology, Fracture Mechanics, Wear &Failure Analysis, Corrosion, Finite Element Formulation and Modelling, Applied Mechanics, Vibration Analysis, Rotor Dynamics, Advanced Design System, Robotics & Mechanism."
+      ]
+    },
+    {
+      "name": "Production Engineering",
+      "research_areas": [
+        "Manufacturing: Foundry-Forging, Al alloy-based composite materials, Grain refinement, Manufacturing Technology, Non-traditional machining, Machining Technology, Casting, Welding.",
+        "Production Management & Industrial Engineering: Production & Operation Management, Financial Management, Asset management, Plant Maintenance.",
+        "Machine Design: Tribology of Bearings, CAD/CAM, Bio Tribology.",
+        "Soft Computing: Multi Criteria Decision Making (MCDM), Case Based Reasoning, Decision Making and Soft Computational Approaches."
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "research_areas": [
+        "Organic Chemistry: Synthetic Organic Chemistry, Green Chemistry and applications.",
+        "Inorganic Chemistry: Synthetic Inorganic Chemistry, Organometallic Chemistry, Coordination Chemistry.",
+        "Physical Chemistry: Physical chemistry, Theoretical and computational Chemistry.",
+        "Material science and Nanoscience: Synthesis of carbon and metal nanoparticles and their applications."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "research_areas": [
+        "Applied Mathematics: Operation Research; Inventory Control; Transportation Problem; Fuzzy, Uncertainty Optimization; Optimization; Multi Criteria Decision Making; Metaheuristics; Waste Recycling; Mathematical Modeling; Biomathematics; Graph Theory; Quantum Computing.",
+        "Pure Mathematics: Topology; Mathematics Modelling; Biomathematics; Fuzzy Mathematics"
+      ]
+    },
+    {
+      "name": "Physics",
+      "research_areas": [
+        "Experimental Condensed Matter Physics; Thin film; Nanotechnology, Biomedical Sensors for Noninvasive Disease Monitoring; Solar Cell, Photoelectrochemical Cell, Photodetectors, Low Dimensional Nanostructures (0D, 1D, 2D); Growth and Applications in Electronic and Optoelectronic Devices, Semiconductor Physics, Application of low dimensional materials for green energy and sustainable environment; Low-Temperature Physics - Magnetism, superconductivity, and strongly correlated materials; topological materials; thermoelectric materials; Liquid Crystals; Experimental study of Sheath Instability during Multiple Double Layer Formation in Plasma, Experimental study of Self-Organization and Nonlinear Dynamics of Space Charge Structure Formations in Plasma; Theoretical Physics, Quantum Field Theory, General Relativity, Classical Gravity, Space-time Geometry, Cosmology."
+      ]
+    },
+    {
+      "name": "Humanities & Social Sciences",
+      "research_areas": [
+        "Management: Marketing/ General Management",
+        "Social Sciences: Sociology, Economics, Rural Management/ Rural Development, Commerce"
+      ]
+    }
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/Admission_PhD_Jan-June2025.pdf"
+}

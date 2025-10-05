@@ -1,0 +1,123 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "27th",
+    "Date": "December 05, 2015",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Smt. Darshana M. Dabral",
+        "Designation": "Joint Secretary & Financial Advisor, IFD, MHRD"
+      },
+      {
+        "Name": "Shri Sanjeev Kumar Sharma",
+        "Designation": "Director (NITs), MHRD (Representative of Joint Secretary)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Designation": "Member Secretary, Finance Committee and Registrar (I/C)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "27.1",
+        "Title": "Confirmation of Minutes of 26th Meeting",
+        "Details": "Minutes of the 26th Finance Committee meeting held on September 24, 2015, were circulated and confirmed incorporating suggestions by JS & FA and Director (NITs). Draft minutes will be circulated for perusal and suggestions before confirmation."
+      },
+      {
+        "ItemNo": "27.2",
+        "Title": "Action taken on 26th Meeting decisions",
+        "Details": "Action Taken Report reviewed. Observations included corrections to BWC item references, replacing 'deviation' with 'quantified variation', preparation of a Fact-Finding Report for Item 34.7, correction of typographical errors in audit annexure. Recommendations included creating an Institute-level Audit Cell, physical verification of assets, and certification of statutory dues."
+      },
+      {
+        "ItemNo": "27.3",
+        "Title": "Financial Status as on November 27, 2015",
+        "Details": "Noted financial status. Expenditure should be planned within Rs. 50.00 Crores Non-Plan funds and Rs. 80.00 Crores Plan funds."
+      },
+      {
+        "ItemNo": "27.4",
+        "Title": "Audit Report on 2014-15 accounts",
+        "Details": "Perused Audit Report and annexure. Recommendations: respond to audit observations promptly, place Compliance Report and annexure in next FC meeting."
+      },
+      {
+        "ItemNo": "27.5",
+        "Title": "Estimate for Electromechanical work in Sports Complex Swimming Pool",
+        "Cost": "Rs. 4,47,84,869.00",
+        "Details": "Administrative approval previously accorded. Committee suggested greater scrutiny, comparative study, and reconsideration by BWC."
+      },
+      {
+        "ItemNo": "27.6",
+        "Title": "Approval for installation of 15 lifts in various buildings",
+        "Cost": "Rs. 2,86,51,140.00",
+        "Details": "Lifts essential for Persons with Disabilities. NIT Agartala to approach MHRD for related scheme."
+      },
+      {
+        "ItemNo": "27.7",
+        "Title": "Ornamental False Ceiling and HVAC in Seminar Halls",
+        "Cost": "Rs. 51,24,796.00",
+        "Details": "Estimate accepted for consideration by BoG."
+      },
+      {
+        "ItemNo": "27.8",
+        "Title": "Construction of Central Lecture Hall Complex with 27 Class Rooms",
+        "Cost": "Rs. 70,52,95,723.00",
+        "Details": "Necessity agreed. FC suggested resubmission to BWC with technical details, Smart Class Rooms, furniture, and reference to NIT Durgapur project."
+      },
+      {
+        "ItemNo": "27.9",
+        "Title": "Revised Budget 2015-16",
+        "Details": "Approved with recommendation to plan expenditure within available grants and prioritize projects."
+      },
+      {
+        "ItemNo": "27.10",
+        "Title": "Medical re-imbursement claim of Shri Dilip Kumar Ghosh",
+        "Details": "Shri Ghosh advised to apply to State Government Medical Board for ex-post facto approval. Matter to be placed in next FC meeting."
+      },
+      {
+        "ItemNo": "27.11",
+        "Title": "Status of TEQIP-II Project",
+        "Details": "Noted present status and achievements under the project."
+      },
+      {
+        "ItemNo": "27.12",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "Committee noted statements. Advised prioritization and phased execution within available grants."
+      },
+      {
+        "ItemNo": "27.13",
+        "Title": "Expansion of Campus Wide Networking (Phase III)",
+        "Details": "Recommended proposal. FC suggested formation of a committee for estimates, including IIT Guwahati, NIT Patna, NIC, and NIT Agartala members."
+      },
+      {
+        "ItemNo": "27.14",
+        "Title": "Any other item with permission of the Chair",
+        "SubItems": [
+          {
+            "ItemNo": "27.14.1",
+            "Title": "Items approved by BWC in 34th meeting (34.8, 34.9, 34.10)",
+            "Details": "Modified minutes of 34th BWC to be placed before FC for consideration."
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Dr. Debasish Bhattacharya",
+      "Chairperson": "Prof. Deepak B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/27th_FC_Minutes.pdf"
+}

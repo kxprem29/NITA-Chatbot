@@ -1,0 +1,58 @@
+{
+  "filename": "Addendum__PhD_May2025.txt",
+  "title": "Ph.D. Program Admission - Addendum",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notice_number": "NITA. 5(6-Acad)/Ph.D/Admn/2025/",
+  "date_of_notice": "2025-05-10",
+  "content": {
+    "purpose": "Provisional shortlist of candidates for online written test and/or interview for Ph.D. admission, July-December 2025 session.",
+    "reference": "Continuation to memo dated May 2, 2025",
+    "shortlisted_candidates": [
+      {
+        "department": "COMPUTER SC. & ENGINEERING (CSE)",
+        "candidates": [
+          {
+            "sl_no": 1,
+            "application_no": "NAGTMDVQRQ",
+            "name": "ABHIJIT BERA",
+            "caste": "GENERAL",
+            "course_type": "PART-TIME"
+          }
+        ]
+      },
+      {
+        "department": "MANAGEMENT, HUMANITIES AND SOCIAL SCIENCE (MHSS)",
+        "candidates": [
+          {
+            "sl_no": 1,
+            "application_no": "NAGTSM32TD",
+            "name": "SHALINI CHAKRABORTY",
+            "caste": "GENERAL",
+            "course_type": "PART-TIME"
+          }
+        ]
+      },
+      {
+        "department": "MATHEMATICS (MA)",
+        "candidates": [
+          {
+            "sl_no": 1,
+            "application_no": "NAGTWOTPSM",
+            "name": "PURNIMA MISHRA",
+            "caste": "GEN-EWS",
+            "course_type": "FULL-TIME WITH SCHOLARSHIP"
+          }
+        ]
+      }
+    ]
+  },
+  "copy_to": [
+    "P.S. to the Director",
+    "Registrar, NIT Agartala",
+    "HOD (CSE, MA, MHSS)",
+    "Asso. Dean PG",
+    "System administrator for website upload"
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/Addendum__PhD_May2025.pdf"
+}

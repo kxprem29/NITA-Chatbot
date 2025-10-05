@@ -1,0 +1,120 @@
+{
+  "filename": "Advt-AsstProfessor_Dec2023.txt",
+  "title": "Faculty Recruitment Notice - Assistant Professor (Grade-I & II)",
+  "institute": {
+    "name": "National Institute of Technology Agartala",
+    "location": "Tripura, India, Pin-799046",
+    "contact": {
+      "phone": ["0381-2546-630", "0381-2546-629"],
+      "fax": ["0381-2546-360", "0381-2548-512"],
+      "email": ["registrar@nita.ac.in", "recruitment@nita.ac.in"],
+      "website": "http://www.nita.ac.in"
+    }
+  },
+  "reference_number": "No.F.NITA.2(545-Estt)/2022/6445",
+  "date": "December 7, 2023",
+  "online_application": {
+    "portal_opening_date": "11/12/2023",
+    "submission_deadline": "10/01/2024",
+    "website": "http://www.nita.ac.in",
+    "instructions": [
+      "Candidates who applied in earlier rolling advertisement need not apply again but can update information.",
+      "Applicants should check educational qualifications, experience, and selection criteria on the website.",
+      "Reservation policy as per Govt. of India norms."
+    ]
+  },
+  "vacancy_details": {
+    "posts": ["Assistant Professor Grade-I", "Assistant Professor Grade-II"],
+    "pay_levels": ["PL-10", "PL-11", "PL-12"],
+    "departments": [
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Electronics and Communication Engineering",
+      "Mathematics",
+      "Management, Humanities and Social Sciences"
+    ]
+  },
+  "areas_of_specialization": {
+    "Bio-Engineering": ["Bioprocess Engineering", "Downstream Processing", "Environmental Biotechnology", "Biotechnology", "Molecular Biology & Genetic Engineering", "Metabolic Engineering", "Food Process Engineering", "Bioinformatics", "Animal Biotechnology", "Chemical Engineering"],
+    "Chemical Engineering": ["Biochemical or Bioprocess Engineering", "Chemical Reaction Engineering and Catalysis", "Chemical Technology or Chemical Processing", "Chemical Process Control and Optimization", "Chemical Process or System Engineering", "Energy Technology or Fuel Technology", "Environmental Engineering", "Fluid Mechanics and Dynamics", "Heat Transfer and Thermodynamics", "Modelling, Simulation and Numerical Analysis", "Materials Engineering", "Process and Equipment Design", "Petroleum and Petrochemical Engineering", "Technology for Polymer/Polymeric Products", "Separation and Purification Processes", "Any emerging area of specialization"],
+    "Civil Engineering": ["Environmental Engineering", "Geotechnical Engineering", "Water Resource Engineering", "Transportation Engineering", "Seismic Science and Engineering", "Hydro Informatics Engineering"],
+    "Computer Science & Engineering / MCA": ["Artificial Intelligence", "Image Processing", "Networking and IoT", "Cyber Security and Cryptography", "Blockchain", "Distributed Systems", "Bioinformatics", "Software Engineering", "NLP"],
+    "Electrical Engineering": ["Electrical Machines", "Control Systems", "Power System/ Power Engineering", "Communication System/ Engineering", "AI and Expert System", "Machine Learning", "Algorithm and Data Structure", "DSP/ Signal Processing", "High Voltage Engineering", "Renewable Energy", "Data Science/ Data Mining"],
+    "Electronics and Communication Engineering": ["VLSI Design", "Embedded System", "Semiconductor Devices", "VLSI Fabrication", "VLSI Verification & Testing", "Hardware Security", "Data Communication and Networking", "Networking and Cryptography", "Optical Communication", "IoT", "Wireless Communication", "Information Theory and Coding", "Speech Signal Processing", "Video Signal Processing", "Image Processing", "RADAR Signal Processing", "Remote Sensing", "Microwave Engineering", "Computational Electromagnetics", "Metamaterials", "Antenna Design", "Machine Learning", "Deep Learning", "NLP", "Artificial Neural Network", "Cognitive Computing"],
+    "Electronics and Instrumentation Engineering": ["Instrumentation and Control", "Applied Electronics and Instrumentation", "Electronic/Electrical Instrumentation", "Sensor and Transducer", "Biomedical Signal Processing/Biomedical Instrumentation", "Control System", "Adaptive Control", "Nonlinear Dynamics and Control", "Industrial Instrumentation", "Process Control", "Industrial Process Control and Automation", "Power Plant Instrumentation", "Virtual Instrumentation", "Machine Learning", "Robotics and Automation", "Fuzzy Logic and Neural Network", "Systems Design", "Non-destructive Testing", "Electronic Product Design", "MEMS", "Signal Processing", "Embedded System", "Industrial Electronics", "Mobile Communication", "Photonics/Optics and Optoelectronics", "Optical Fiber Communication", "Optoelectronic Instrumentation", "Non-linear Optics"],
+    "Production Engineering": ["Industrial Engineering", "Materials Engineering", "Manufacturing", "Thermal Engineering", "Production Management"],
+    "Physics": ["Classical Mechanics", "Electrodynamics", "Quantum Mechanics", "Statistical Mechanics", "Electronics", "Nuclear Physics", "Condensed Matter Physics", "Atomic and Molecular Spectroscopy", "Quantum Field Theory", "Gravitation and Cosmology", "Computational Physics", "Plasma Physics", "Spintronics", "Thin Film and Nano Science", "Liquid Crystal"],
+    "Mathematics": ["Real and Complex Analysis", "Probability and Statistics", "Stochastic Processes", "Differential Equation", "Financial Mathematics", "Discrete Mathematics", "Artificial Intelligence", "Algorithm", "Database Management System", "Machine Learning", "Cloud Computing", "Dynamical System", "Mathematical Physics", "Engineering Economics and Accountancy", "Computational Mathematics", "Data Science"],
+    "Management, Humanities & Social Sciences": ["Marketing", "Finance", "Human Resource", "Decision Science", "Operation Management", "Digital Marketing", "Business Analytics", "Accountancy", "Econometrics", "Public Policy and Management", "International Finance", "English: Open"]
+  },
+  "application_instructions": {
+    "mode": "Online",
+    "documents_required": [
+      "Educational qualifications from class X onwards",
+      "Experience certificates indicating duration and nature of post",
+      "Caste/Disability certificates (if applicable)",
+      "Two passport-size photographs",
+      "References of two eminent persons in the field"
+    ],
+    "application_fee": {
+      "general": 1000,
+      "SC/ST": 500,
+      "PwD": 0
+    },
+    "notes": [
+      "Data cannot be altered after final submission",
+      "Qualifications and experience considered as on last date of submission",
+      "No TA/DA will be paid",
+      "Incomplete applications will be rejected",
+      "Higher pay levels may be offered based on recommendation",
+      "Applicants abroad may appear via audio-video link at their own responsibility"
+    ]
+  },
+  "selection_criteria": {
+    "shortlisting": [
+      "Superior academic records",
+      "Reputation of institution",
+      "Number of unsuccessful attempts",
+      "Specializations including micro specialization",
+      "Professional service record"
+    ],
+    "interview": "Direct selection basis; written test if required; presentation and interview after document verification",
+    "final_authority": "Institute decision is final; candidates responsible for accuracy of information"
+  },
+  "pay_and_credit_points": {
+    "Schedule_E": {
+      "Assistant Professor (Contract)": {
+        "Pay Band": 3,
+        "Grade Pay": 6000
+      },
+      "Assistant Professor": {
+        "Pay Band": 3,
+        "Grade Pay": 7000,
+        "requirement": "1 year post-Ph.D. experience in reputed institution or industry"
+      },
+      "Assistant Professor (Grade-I)": {
+        "Pay Band": 3,
+        "Grade Pay": 8000,
+        "requirement": "3 years after Ph.D. or 6 years total teaching and research experience"
+      },
+      "Associate Professor": {
+        "Pay Band": 4,
+        "Grade Pay": 9500,
+        "requirement": "6 years after Ph.D., 3 years at level of Assistant Professor with grade pay 8000 or 9 years total experience"
+      },
+      "Professor": {
+        "Pay Band": 4,
+        "Grade Pay": 10500,
+        "requirement": "10 years after Ph.D. or 13 years total experience; at least 3 years as Associate Professor"
+      }
+    },
+    "credit_point_system": {
+      "D1": "Externally sponsored R&D projects or patents: 8 points per project/patent",
+      "D2": "Consultancy Projects: 2 points per Rs. 5 lakhs, max 10 points",
+      "D3": "Ph.D. completed: 8 points per student",
+      "D4": "Journal papers in SCI/Scopus"
+    }
+  },
+  "source_url": "https://nita.ac.in/Notice/Advt-AsstProfessor_Dec2023.pdf"
+}

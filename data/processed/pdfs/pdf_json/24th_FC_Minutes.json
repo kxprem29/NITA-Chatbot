@@ -1,0 +1,87 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "24th",
+    "Date": "May 02, 2014",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Agartala",
+    "Chairman": "Prof. P. N. Singh",
+    "MembersPresent": [
+      {
+        "Name": "Prof. P. N. Singh",
+        "Designation": "Chairman, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Shri Yogendra Tripathi",
+        "Designation": "Member, Joint Secretary & Financial Advisor, MHRD, Govt. of India"
+      },
+      {
+        "Name": "Prof. Nitindra Nath Som",
+        "Designation": "Member, Former Professor of Jadavpur University, Kolkata"
+      },
+      {
+        "Name": "Shri Rajesh Singh Solanki",
+        "Designation": "Under Secretary, MHRD, Govt. of India (Representative of MHRD, Dept. of Higher Education)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Shri Sumanta Chakrabarti",
+        "Designation": "Member Secretary, Finance Committee and Registrar (i/c)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "24.1",
+        "Title": "Confirmation of the Minutes of 23rd Meeting",
+        "Details": "Minutes of the 23rd Finance Committee meeting held on February 27, 2014, were circulated and confirmed."
+      },
+      {
+        "ItemNo": "24.2",
+        "Title": "Action Taken on the Decision of the 23rd Meeting",
+        "Details": "The action taken report was noted."
+      },
+      {
+        "ItemNo": "24.3",
+        "Title": "Financial Status of the Institute as on April 25, 2014",
+        "Details": "Finance Committee noted the present financial status and requirement of funds under Plan and Non-Plan schemes."
+      },
+      {
+        "ItemNo": "24.4",
+        "Title": "Annual Budget for 2014-15",
+        "Details": "Finance Committee perused and approved the Annual Budget for Plan outlay Rs. 35700.00 lakhs and Non-Plan outlay Rs. 8050.00 lakhs with observations: (A) Plan funds categorized as Immediate and Priority; (B) Non-Plan salaries utilized on actual expenses basis."
+      },
+      {
+        "ItemNo": "24.5",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "Finance Committee noted progress and emphasized completion of advanced buildings, furnishing priority, realistic fund projection for ongoing projects, and prioritization of new works based on availability of funds."
+      },
+      {
+        "ItemNo": "24.6",
+        "Title": "Medical Reimbursement Claim of Dr. Rabindranath Barman",
+        "Details": "Approved reimbursement claim of Rs. 1,96,269/- for treatment of his wife, limited to CGHS rates as per Ministry of Health & Family Welfare OM No.Z.15025/5/2011-CGHS III/CGHS(P) dated 22nd Nov 2011."
+      },
+      {
+        "ItemNo": "24.7",
+        "Title": "Sanction of amount for cancellation charges (TEQIP-II)",
+        "Details": "Finance Committee observed that reimbursement of cancellation charges of Rs. 25,454.00 is not admissible."
+      },
+      {
+        "ItemNo": "24.8",
+        "Title": "Present Status of TEQIP-II Project",
+        "Details": "Coordinator presented the current status of TEQIP-II Project; Finance Committee noted the status."
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Shri Sumanta Chakrabarti",
+      "Chairman": "Prof. P. N. Singh"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/24th_FC_Minutes.pdf"
+}

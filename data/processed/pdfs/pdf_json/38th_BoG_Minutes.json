@@ -1,0 +1,97 @@
+{
+  "BoardOfGovernorsMinutes": {
+    "MeetingNumber": 38,
+    "Date": "November 11, 2016",
+    "Location": "Conference Hall of International Guest House, NIT Agartala, Tripura",
+    "Institute": {
+      "Name": "National Institute of Technology Agartala",
+      "Address": "West Tripura, Pin: 799046"
+    },
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, BoG of NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director of NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Shri Sushil Kumar",
+        "Designation": "Principal Secretary to the Government of Tripura, Dept. of Higher Education, School Education etc.",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Shri K. Rajan",
+        "Designation": "Under Secretary, MHRD, Govt. of India",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Shri Alok Roy Choudhury",
+        "Designation": "Addl. Chief Engineer, PWD, Government of Tripura",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Prof. Richi Prasad Sharma",
+        "Designation": "Professor, Civil Engg. Dept., NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Asst. Professor, ME Dept., NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Designation": "Secretary, BoG, Registrar (i/c), NIT Agartala",
+        "AttendanceMode": "In-person"
+      }
+    ],
+    "MembersAbsent": [
+      {
+        "Name": "Financial Advisor, Department of Higher Education, MHRD, Govt. of India"
+      },
+      {
+        "Name": "Prof. Sanghamitra Bandyopadhyay",
+        "Designation": "Director, Indian Statistical Institute, Machine Intelligence Unit, Kolkata"
+      },
+      {
+        "Name": "Prof. Vijayalakshmi Ravindranath",
+        "Designation": "Chairperson, Centre for Neuroscience, Indian Institute of Science, Bangalore"
+      },
+      {
+        "Name": "Prof. A. Srinivasan",
+        "Designation": "Professor, Dept. of Physics, IIT Guwahati (nominee of Director, IIT Guwahati)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "38.1",
+        "Title": "Consideration of 20th Senate meeting minutes",
+        "Details": "Minutes of the 20th Senate meeting (31st March 2016) were discussed. Financial items S/20/15, S/20/17, and S/20/18 to be routed through Finance Committee. Remaining minutes approved and confirmed."
+      },
+      {
+        "ItemNo": "38.2",
+        "Title": "Consideration of 21st Senate meeting minutes",
+        "Details": "Minutes of the 21st Senate meeting (23rd September 2016) were approved. Proposed gold medal for best Ph.D. thesis and an additional medal for innovative research to be placed before next Senate. Approval granted for Prof. Sandeep Sancheti as Chief Guest in place of Prof. Ashoke Mishra."
+      },
+      {
+        "ItemNo": "38.3",
+        "Title": "Consideration of 22nd Senate meeting minutes",
+        "Details": "Minutes of 22nd Senate meeting (11th November 2016) approved. Degrees to be awarded in 9th Convocation: Ph.D. – 27, B.Tech – 646, M.Tech – 243, MCA – 32, M.Sc. – 20. Gold Medals for Institute toppers, Gold Plated Silver Medals for branch toppers. Honorary degrees: Doctor of Engineering (Honoris Causa) to Shri Tathagata Roy and Doctor of Letters (Honoris Causa) to Padma Shri Nana Gajanan Patekar."
+      },
+      {
+        "ItemNo": "38.4",
+        "Title": "Any other item with permission of the Chair",
+        "Details": "Institute to sign three MoUs with ONGC Tripura Asset, NEPCO, and i-Built in presence of President of India during Chairpersons and Directors meet of IITs and NITs (16th–17th November 2016)."
+      }
+    ],
+    "Signatures": {
+      "Secretary": "Dr. D. Bhattacharya",
+      "Chairperson": "Prof. D. B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BOG_Minutes/38th_BoG_Minutes.pdf"
+}

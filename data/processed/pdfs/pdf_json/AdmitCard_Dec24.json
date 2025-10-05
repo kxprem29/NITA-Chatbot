@@ -1,0 +1,37 @@
+{
+  "filename": "AdmitCard_Dec24.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala — 799046 (Tripura)",
+    "office": "Office of the Dean Academic & Examinations",
+    "contact_email": "exam.nitagartala@gmail.com",
+    "reference_no": "No.F.NITA.6(1- Exam) / NOTICE/ 2016-17/R4",
+    "date": "05th December 2024",
+    "notice": "This is to inform all students of the 1st Semester UG, DUAL & PG programs appearing for the End Term Odd Semester Examination, scheduled to begin on 13th December 2024, that the Admit Cards for the said examination can be printed from their respective MIS accounts as per the schedule mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": 1,
+        "exam_name": "End Term Odd Semester Examination (1st Sem UG, DUAL & PG)",
+        "exam_starting_date": "13th December 2024",
+        "admit_card_download_duration": "10th December to 12th December 2024"
+      }
+    ],
+    "instructions": [
+      "No student will be able to print their Admit Card before or after the above-mentioned schedule.",
+      "All students are hereby instructed to bring their Admit Card to the Examination Hall each day of the examination and obtain endorsement from the invigilator at the designated place.",
+      "Any student who fails to bring their Admit Card on any day of the examination will be required to obtain a duplicate Admit Card for the remaining days. Duplicate Admit Cards can be downloaded from their respective MIS accounts upon payment of a fine of Rs. 200/-.",
+      "Students without their Admit Cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "All HoDs for kind information and necessary action.",
+      "Dean (Academics) for kind information.",
+      "MIS In-Charge for kind information and necessary action.",
+      "The System Administrator, NIT Agartala, is requested to upload the Notification on the Institute Website.",
+      "Guard file for record."
+    ]
+  },
+  "source_url": "https://nita.ac.in/Notice/AdmitCard_Dec24.pdf"
+}

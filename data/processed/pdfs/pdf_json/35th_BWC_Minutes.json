@@ -1,0 +1,118 @@
+{
+  "35thBuildingAndWorksCommitteeMeeting": {
+    "MeetingNumber": 35,
+    "Date": "February 10, 2016",
+    "type": "Building & Works Committee",
+    "Location": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+    "Chairperson": "Prof. (Dr.) Gopal Mugeraya",
+    "MembersPresent": [
+      {
+        "Name": "Prof. (Dr.) Gopal Mugeraya",
+        "Role": "Director, NIT Agartala; Chairman, B&WC"
+      },
+      {
+        "Name": "Sri Asit Bhaumik",
+        "Role": "TES Gr-I Chief Engineer / Representative of PWD (Civil), Govt. of Tripura; Member"
+      },
+      {
+        "Name": "Sri Kajal Banik",
+        "Role": "Superintending Engineer (Elect), Electrical Inspectorate/ Representative of PWD, Govt. of Tripura; Member"
+      },
+      {
+        "Name": "Dr. Ratul Das",
+        "Role": "Dean (P & D), NIT Agartala; Member"
+      },
+      {
+        "Name": "Dr. Richi Prasad Sharma",
+        "Role": "Professor, Civil Engg. Department, NIT Agartala; Member"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Role": "Registrar (I/C), NIT Agartala; Member Secretary"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "35.1",
+        "Description": "Confirmation of the Minutes of the 34th BWC Meeting held on August 24, 2015",
+        "Decision": "Approved"
+      },
+      {
+        "ItemNo": "35.2",
+        "Description": "Action Taken on the Decisions of the 34th BWC Meeting",
+        "Decision": "Noted; several items deferred or approved as per agenda"
+      },
+      {
+        "ItemNo": "35.3",
+        "Description": "Award of work for Up-gradation of the internal main road including footpaths, drains, electrical work, and bus stops",
+        "Decision": "Approved; start on priority via open tender after administrative approval"
+      },
+      {
+        "ItemNo": "35.4",
+        "Description": "Total quantified variation in the work of Construction of Sports Complex at NIT Agartala",
+        "Decision": "Approved; Rs. 5,34,16,194.55 to be placed before FC and BOG for approval"
+      },
+      {
+        "ItemNo": "35.5",
+        "Description": "Construction of Central Lecture Hall Complex having 27 Class Rooms at NIT Agartala",
+        "Decision": "Deferred due to paucity of funds"
+      },
+      {
+        "ItemNo": "35.6",
+        "Description": "Ratification of various construction activities already approved by the Chairman, BWC",
+        "Decision": "Ratified"
+      },
+      {
+        "ItemNo": "35.7",
+        "Description": "Supply, Installation, Testing and Commissioning of Split type AC at Administrative Block-I",
+        "Decision": "Approved; action as per Procurement rules"
+      },
+      {
+        "ItemNo": "35.8",
+        "Description": "Supply, Installation, Testing and Commissioning of Electrical Appliances in Computer Centre Building and other locations",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.9",
+        "Description": "Supply of electrical materials for Kendriya Vidhyalaya",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.10",
+        "Description": "Providing and Fixing of Partition wall in ECE Building",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.11",
+        "Description": "Repairing of seepage in Gargi hostel and other maintenance works",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.12",
+        "Description": "Proposal for providing GI pipes instead of PPR pipes at 1500 boys hostel",
+        "Decision": "Not accepted; BOQ item to be strictly followed"
+      },
+      {
+        "ItemNo": "35.13",
+        "Description": "Substitute item for aluminum frame instead of sal wood frame in 1500 capacity boys hostel",
+        "Decision": "Not accepted; BOQ item to be strictly followed"
+      },
+      {
+        "ItemNo": "35.14",
+        "Description": "Maintenance/extension work in Mechanical Engineering Department and workshops",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.15",
+        "Description": "Maintenance and construction of D.G. Sheds (4 numbers) including approach road",
+        "Decision": "Approved; open tender"
+      },
+      {
+        "ItemNo": "35.16",
+        "Description": "Supply, Installation, Testing & Commissioning of 14 lifts in multiple buildings (revised from 15 lifts)",
+        "Decision": "Approved; open tender subject to FC & BOG approval"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BWC_Minutes/35th_BWC_Minutes.pdf"
+}

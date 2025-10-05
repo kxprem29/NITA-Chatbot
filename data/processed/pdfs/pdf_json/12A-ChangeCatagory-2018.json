@@ -1,0 +1,31 @@
+{
+  "ChangeCategoryForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./12(A)",
+    "Department": null,
+    "StudentDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "DateOfEnrollment": null,
+      "CurrentCategory": null,
+      "ProposedCategory": null,
+      "ReasonForChange": null
+    },
+    "Declaration": {
+      "PartTimeScholars": {
+        "HostelNo": null,
+        "RoomNo": null,
+        "VacateDate": null
+      }
+    },
+    "Signatures": {
+      "Student": null,
+      "Supervisor1": null,
+      "Supervisor2": null,
+      "ChairmanDC": null,
+      "ChairmanDPPC": null,
+      "DeanAcademic": null
+    },
+    "Notes": "Once signed by the Dean (Academic), the original copy shall be kept in the student's personal file, and photocopies shall be sent to the Supervisor and the Department."
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/12A-ChangeCatagory-2018.pdf"
+}

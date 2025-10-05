@@ -1,0 +1,167 @@
+{
+  "BWCMeeting": {
+    "MeetingNumber": 32,
+    "Date": "September 26, 2014",
+    "Location": "Conference Room of NIT Transit House, Kunjaban, Agartala, Tripura",
+    "Chairman": "Prof. (Dr.) Gopal Mugeraya",
+    "MembersPresent": [
+      {
+        "Name": "Prof. (Dr.) Gopal Mugeraya",
+        "Designation": "Director, N.I.T. Agartala",
+        "Role": "Chairman, B&WC"
+      },
+      {
+        "Name": "Sri Asit Bhaumik",
+        "Designation": "Addl. Chief Engineer / Representative of PWD (Civil), Govt. of Tripura",
+        "Role": "Member"
+      },
+      {
+        "Name": "Sri Kajal Banik",
+        "Designation": "Executive Engineer (Elect.), Electrical Inspectorate / Representative of PWD, Govt. of Tripura",
+        "Role": "Member"
+      },
+      {
+        "Name": "Dr. Sujit Kumar Pal",
+        "Designation": "Dean (P & D), N.I.T. Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Dr. Richi Prasad Sharma",
+        "Designation": "Professor, Civil Engg. Department, NIT Agartala",
+        "Role": "Member"
+      },
+      {
+        "Name": "Mr. Sumanta Chakrabarti",
+        "Designation": "Registrar (I/C), N.I.T. Agartala",
+        "Role": "Member Secretary"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "32.1",
+        "Description": "Confirmation of the Minutes of the 30th & 31st B&WC Meeting held on December 09, 2013 & February 07, 2014",
+        "ActionTaken": "Minutes confirmed; no modifications/suggestions/comments received"
+      },
+      {
+        "ItemNo": "32.2",
+        "Description": "Action taken on decisions of 30th & 31st B&WC Meetings",
+        "ActionTaken": "See detailed table of agenda-wise actions (30.3–30.11)"
+      },
+      {
+        "ItemNo": "32.3",
+        "Description": "Ratification of construction activities already approved by the Director",
+        "Works": [
+          {
+            "NameOfWork": "Extension of Medical unit at Raima Hostel, NIT, Agartala",
+            "EstimatedCost": "Rs.13,45,750.00",
+            "ActionTaken": "Ratified by BWC"
+          },
+          {
+            "NameOfWork": "Soil Investigation work for 1500 capacity Boys Hostel",
+            "EstimatedCost": "Rs.5,21,968.00",
+            "ActionTaken": "Ratified by BWC"
+          },
+          {
+            "NameOfWork": "Renovation of Basket Ball Court in the playground",
+            "EstimatedCost": "Rs.4,53,467.00",
+            "ActionTaken": "Ratified by BWC"
+          },
+          {
+            "NameOfWork": "Anti-termite Treatment in the auditorium",
+            "EstimatedCost": "Rs.2,74,423.00",
+            "ActionTaken": "Ratified by BWC"
+          }
+        ]
+      },
+      {
+        "ItemNo": "32.4",
+        "Description": "Award of work for Supply & installation of underground cable & Hume pipe for Admin Block-I & II including Seminar Hall",
+        "EstimatedCost": "Rs.25,77,890.00",
+        "AwardedTo": "M/s Multi Traders, Agartala",
+        "ActionTaken": "Approved by BWC"
+      },
+      {
+        "ItemNo": "32.5",
+        "Description": "Total tentative deviation in work of Construction of Administrative Blocks-I & II and Seminar Hall",
+        "EstimatedCost": "Rs.4,17,77,225.00",
+        "DeviationDetails": [
+          {"NatureOfWork": "Civil Work", "AgreementAmount": "Rs.30,77,05,882.60", "ExecutionAmount": "Rs.32,37,62,806.70"},
+          {"NatureOfWork": "Electrical Work", "AgreementAmount": "Rs.2,52,89,041.78", "ExecutionAmount": "Rs.1,88,13,004.08"},
+          {"NatureOfWork": "Fire Fighting Work", "AgreementAmount": "Rs.3,96,73,309.96", "ExecutionAmount": "Rs.3,08,21,528.40"},
+          {"NatureOfWork": "Extra Item on Civil Work", "ExecutionAmount": "Rs.4,56,64,407.00"},
+          {"NatureOfWork": "Extra Item on Electrical Work", "ExecutionAmount": "Rs.13,66,525.00"},
+          {"NatureOfWork": "Extra items on Fire Fighting Work", "ExecutionAmount": "Rs.4,49,196.00"},
+          {"NatureOfWork": "Substitute items on electrical work", "ExecutionAmount": "Rs.1,06,09,196.00"},
+          {"NatureOfWork": "Design fee @ 5%", "AgreementAmount": "Rs.1,86,33,411.72", "ExecutionAmount": "Rs.2,02,97,320.00"}
+        ],
+        "TotalAgreementAmount": "Rs.42,62,56,042.00",
+        "ActionTaken": "Estate Section to verify rates and place report for next BWC"
+      },
+      {
+        "ItemNo": "32.6",
+        "Description": "Total tentative deviation in work of Construction of School of Management Building",
+        "EstimatedCost": "Rs.1,19,98,165.00",
+        "DeviationDetails": [
+          {"NatureOfWork": "Civil Work", "AgreementAmount": "Rs.29,60,26,197.03", "ExecutionAmount": "Rs.28,94,88,198.00"},
+          {"NatureOfWork": "Electrical Work", "AgreementAmount": "Rs.3,45,79,085.46", "ExecutionAmount": "Rs.2,33,81,188.00"},
+          {"NatureOfWork": "Fire Fighting Work", "AgreementAmount": "Rs.1,58,02,229.17", "ExecutionAmount": "Rs.1,82,37,460.00"},
+          {"NatureOfWork": "Extra Item on Civil Work", "ExecutionAmount": "Rs.56,54,429.00"},
+          {"NatureOfWork": "Extra Item on Electrical Work", "ExecutionAmount": "Rs.6,59,650.00"},
+          {"NatureOfWork": "Extra items on Fire Fighting Work", "ExecutionAmount": "Rs.4,35,660.00"},
+          {"NatureOfWork": "Substitute items on electrical work", "ExecutionAmount": "Rs.1,06,09,196.00"}
+        ],
+        "ActionTaken": "Estate Section to verify rates and place report for next BWC"
+      },
+      {
+        "ItemNo": "32.7",
+        "Description": "Partition walls in Civil Engineering Labs (Water Resource and Transportation Lab)",
+        "EstimatedCost": "Rs.69,757.00",
+        "ActionTaken": "Approved by BWC; to award work via open tender"
+      },
+      {
+        "ItemNo": "32.8",
+        "Description": "Revised estimate for Special repair of Gomati Hostel",
+        "EstimatedCost": "Rs.71,07,684.00",
+        "PreviousApproval": "Rs.49,45,585.00",
+        "ActionTaken": "Approved revised estimate and execution by M/S NCC Limited"
+      },
+      {
+        "ItemNo": "32.9",
+        "Description": "Construction of Laboratory for Geotechnical Engineering experiments for PhD Scholar",
+        "EstimatedCost": "Rs.5,80,033.00",
+        "ActionTaken": "Approved; to award work via CPWD Form-II"
+      },
+      {
+        "ItemNo": "32.10",
+        "Description": "Area Development works in and around Central Plaza, Academic Zone",
+        "EstimatedCost": "Rs.75,73,285.00",
+        "ActionTaken": "Approved; to award to CPWD, Govt. of India as deposit work"
+      },
+      {
+        "ItemNo": "32.11",
+        "Description": "Water Supply arrangement to Bio-Engg and Chemical Engg Dept. rooms",
+        "EstimatedCost": "Rs.1,88,805.00",
+        "ActionTaken": "Approved; to award work via open tender"
+      },
+      {
+        "ItemNo": "32.12",
+        "Description": "Maintenance of buildings in NITA complex (Emergency water fittings)",
+        "EstimatedCost": "Rs.75,876.00",
+        "ActionTaken": "Approved; to award work via open tender"
+      },
+      {
+        "ItemNo": "32.13",
+        "Description": "Repairs of Sanitary and Water Supply arrangement at multiple buildings",
+        "EstimatedCost": "Rs.1,84,830.00",
+        "ActionTaken": "Approved; to award work via open tender"
+      },
+      {
+        "ItemNo": "32.14",
+        "Description": "Electrical Installation in newly constructed building for Central Go-Down",
+        "EstimatedCost": "Rs.8,25,286.00",
+        "ActionTaken": "Approved; to award work via open tender"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BWC_Minutes/32nd_BWC_Minutes.pdf"
+}

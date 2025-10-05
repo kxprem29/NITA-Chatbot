@@ -1,0 +1,119 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": 36,
+    "Date": "June 24, 2020",
+    "type": "Finance Committee",
+    "Location": "Virtual Class Room, NIT Agartala, Tripura",
+    "Institute": {
+      "Name": "National Institute of Technology Agartala",
+      "Address": "West Tripura, Pin: 799046"
+    },
+    "MembersPresent": [
+      {
+        "Name": "Prof. (Dr.) H. K. Sharma",
+        "Designation": "Chairperson of Finance Committee and Director of NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Mr. Madan Mohan",
+        "Designation": "Addl. Director General (HE), MHRD, Govt. of India",
+        "AttendanceMode": "Video Conference"
+      },
+      {
+        "Name": "Mrs. Darshana M. Dabral",
+        "Designation": "JS & FA, IFD, MHRD, Govt. of India",
+        "AttendanceMode": "Video Conference"
+      },
+      {
+        "Name": "Dr. D. Bhattacharya",
+        "Designation": "Professor, Math. Dept., NIT Agartala",
+        "AttendanceMode": "In-person"
+      },
+      {
+        "Name": "Dr. Govind Bhargava",
+        "Designation": "Member Secretary of FC and Registrar of NIT Agartala",
+        "AttendanceMode": "In-person"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "36.1",
+        "Title": "Confirmation of Minutes of the 35th Meeting",
+        "Details": "Minutes of the 35th Meeting held on January 21, 2020, were confirmed after deliberation."
+      },
+      {
+        "ItemNo": "36.2",
+        "Title": "Action taken on 34th Finance Committee meeting",
+        "Details": "The Finance Committee noted the action taken."
+      },
+      {
+        "ItemNo": "36.3",
+        "Title": "Financial Status of the Institute",
+        "Details": "The Finance Committee noted the financial status as on May 30, 2020. Correction: 'Grant received during 2019-2020' should read 'Grant received during 2020-21'."
+      },
+      {
+        "ItemNo": "36.4",
+        "Title": "Present Status of TEQIP-III Project",
+        "Details": "The Committee noted the current status. Faculty In-charge TEQIP will provide detailed figures and updates going forward."
+      },
+      {
+        "ItemNo": "36.5",
+        "Title": "Physical & Financial Statement of ongoing construction works/projects",
+        "Details": "The Finance Committee noted the statement.",
+        "Projects": [
+          {
+            "ProjectName": "Construction of 1500 Capacity Boys Hostel",
+            "TotalApprovedCost": 1524254361.00,
+            "ActualCost": 1441540356.00,
+            "Capacity": 1554,
+            "ConstructionArea_sqm": 53321.00,
+            "AreaPerStudent_sqm": 34.31,
+            "CostPer_sqm": 28586.38,
+            "Remarks": "Includes Dining, Connecting Corridor, Verandah, Gas Bank, Library, Recreation room, store, washrooms, Drying area, Common area, Medical Unit, Wardens Room, Supervisors’ room, Waiting Room, Lifts, Staircase, Parking area, Roads, Electrical Substation (two), Pump House, IRP. As per National Building Code — 2006."
+          }
+        ]
+      },
+      {
+        "ItemNo": "36.6",
+        "Title": "Annual Budget Proposal 2020-21",
+        "Details": "Finance Committee ratified the decision of Chairperson, BoG & FC, subject to resource availability. Delegation of power issue to be examined as per NITSER Act & Statutes."
+      },
+      {
+        "ItemNo": "36.7",
+        "Title": "Freezing of Dearness Allowance (DA) and Dearness Relief (DR)",
+        "Details": "Approved freezing DA for employees and DR for pensioners until July 2021. Director authorized to implement further DA orders as notified by Govt. of India."
+      },
+      {
+        "ItemNo": "36.8",
+        "Title": "Transfer of GPF Amount with Interest",
+        "Details": "Deferred; will be reviewed after gathering information from other CFTIs."
+      },
+      {
+        "ItemNo": "36.9",
+        "Title": "Signing of MoU with Department of Higher Education, MHRD",
+        "Details": "Finance Committee ratified the decision to sign the MoU for 2020-21 as per GFR 229(xi)."
+      },
+      {
+        "ItemNo": "36.10",
+        "Title": "Employer's NPS Contribution",
+        "Details": "Contribution to remain at March 2020 status until Ministry of HRD communication is received."
+      },
+      {
+        "ItemNo": "36.11",
+        "Title": "MACP to Late Bhusan Sarkar",
+        "Details": "Agenda withdrawn."
+      },
+      {
+        "ItemNo": "36.12",
+        "Title": "Any other item",
+        "Details": "Not applicable."
+      }
+    ],
+    "Signatures": {
+      "MemberSecretary": "Dr. Govind Bhargava",
+      "Director": "Prof. Harish Kumar Sharma",
+      "Notes": "Minutes signed by former Chairperson as per communication from present Chairperson of BoG and FC."
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/36th_FC_Minutes.pdf"
+}

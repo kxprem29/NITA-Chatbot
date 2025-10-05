@@ -1,0 +1,133 @@
+{
+  "filename": "33rd_FC_Minutes.txt",
+  "title": "33rd Finance Committee Minutes",
+  "date_of_meeting": "June 26, 2019",
+  "location": "Conference Room of NIT Transit House, New Delhi",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "members_present": [
+    {"name": "Prof. H. K. Sharma", "designation": "Chairperson, Finance Committee, NIT Agartala"},
+    {"name": "Mrs. Darshna M. Dabral", "designation": "JS & FA, IFD, MHRD, Govt. of India"},
+    {"name": "Mr. K. Rajan", "designation": "US, MHRD, Govt. of India"},
+    {"name": "Prof. S. C. Saha", "designation": "Professor, NIT Agartala"},
+    {"name": "Dr. Subhadeep Bhattacharjee", "designation": "Assoc. Professor, NIT Agartala"},
+    {"name": "Dr. Govind Bhargava", "designation": "Member Secretary, Finance Committee and Registrar, NIT Agartala"}
+  ],
+  "chairperson": "Prof. H. K. Sharma",
+  "agenda_items": [
+    {
+      "item_no": "33.1",
+      "topic": "Confirmation of the Minutes of 32nd Meeting of Finance Committee",
+      "decision": "Minutes confirmed; decision on Rs. 5000 sitting fee in Agenda 32.16 supersedes earlier decisions."
+    },
+    {
+      "item_no": "33.2",
+      "topic": "Action taken on 31st Finance Committee meeting decisions",
+      "decision": "Action taken noted; legal opinion advised against litigation regarding TDS liabilities."
+    },
+    {
+      "item_no": "33.3",
+      "topic": "Annual Budget proposal for Financial Year 2019-20",
+      "decision": "Annual budget accepted and confirmed."
+    },
+    {
+      "item_no": "33.4",
+      "topic": "Financial Status as on June 15, 2019",
+      "decision": "Financial status noted."
+    },
+    {
+      "item_no": "33.5",
+      "topic": "TEQIP-III Project status",
+      "decision": "Status noted."
+    },
+    {
+      "item_no": "33.6",
+      "topic": "Physical & Financial Statement of ongoing projects",
+      "decision": "Statement noted."
+    },
+    {
+      "item_no": "33.7",
+      "topic": "Recommendations of 41st Building & Works Committee meeting",
+      "decision": "Recommendations accepted."
+    },
+    {
+      "item_no": "33.8",
+      "topic": "Medical Attendance Guidelines",
+      "decision": "Follow CS(MA) guidelines; referral hospitals list approved."
+    },
+    {
+      "item_no": "33.9",
+      "topic": "SOP for funds received for Memorial Awards/Fellowships",
+      "decision": "SOP adopted; suggested opening Current Account with Collect Facility for donations."
+    },
+    {
+      "item_no": "33.10",
+      "topic": "Stipend of Rs. 5000 to Research Scholar Amit Debnath",
+      "decision": "Decision ratified; advisory memo suggested to Doctoral Committee members."
+    },
+    {
+      "item_no": "33.11",
+      "topic": "User charges for students to meet facility expenses",
+      "decision": "Information noted."
+    },
+    {
+      "item_no": "33.12",
+      "topic": "National Pension System (NPS) contribution",
+      "decision": "Employer contribution approved to increase from 10% to 14% from 01-04-2019."
+    },
+    {
+      "item_no": "33.13",
+      "topic": "Consolidated fees for conference and hearing of Sr. Advocate",
+      "decision": "Decision ratified."
+    },
+    {
+      "item_no": "33.14",
+      "topic": "Special Repair, Retrofitting and Upgradation of Library Building",
+      "decision": "Approved estimated cost Rs. 71,55,558; recommended to Board."
+    },
+    {
+      "item_no": "33.15",
+      "topic": "Special Repair, Retrofitting and Upgradation of Dhalai Hostel Building",
+      "decision": "Approved estimated cost Rs. 98,94,302; recommended to Board."
+    },
+    {
+      "item_no": "33.16",
+      "topic": "Upgradation of 2-storey building besides Knowledge Centre",
+      "decision": "Approved estimated cost Rs. 60,77,405; recommended to Board."
+    },
+    {
+      "item_no": "33.17",
+      "topic": "Recommendations of 42nd Building & Works Committee meeting",
+      "decision": "Approved and confirmed."
+    },
+    {
+      "item_no": "33.18",
+      "topic": "Fixation of license fee for NIT buildings",
+      "decision": "Suggested standard norms; to be discussed in forthcoming meeting."
+    },
+    {
+      "item_no": "33.19",
+      "topic": "Absorption of Dr. Govind Bhargava as Registrar",
+      "decision": "Case details to be collected; JS & FA noted absorption violates NIT Statutes/Recruitment rules."
+    },
+    {
+      "item_no": "33.20",
+      "topic": "Any other item",
+      "sub_items": [
+        {
+          "item_no": "33.20.1",
+          "topic": "Separate Audit Report 2017-18",
+          "decision": "SAR noted and actions taken."
+        }
+      ]
+    }
+  ],
+  "meeting_end": "Meeting ended with vote of thanks to the Chair",
+  "signatories": [
+    {"name": "Dr. Govind Bhargava", "designation": "Member Secretary, Finance Committee & Registrar, NIT Agartala"},
+    {"name": "Prof. Harish Kumar Sharma", "designation": "Chairperson, Finance Committee & BOG"}
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/33rd_FC_Minutes.pdf"
+}

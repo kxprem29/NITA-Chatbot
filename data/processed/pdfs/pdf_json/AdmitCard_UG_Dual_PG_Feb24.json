@@ -1,0 +1,35 @@
+{
+  "filename": "AdmitCard_UG_Dual_PG_Feb24.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala – 799046 (Tripura)",
+    "reference_no": "No.F.NITA.6(1- Exam)/ NOTICE/ 2016-17",
+    "date": "03rd February 2024",
+    "notice": "This is to inform all the students of UG, Dual Degree, & PG of both NITA & IIITA appearing for the Even Semester Mid Term Examination scheduled from 23rd February 2024, that the Admit Card for the said Examination can be printed from their respective MIS Account as per the scheduled dates mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": null,
+        "exam_name": "Even Semester Mid Term Examination of UG, Dual and PG Students",
+        "exam_starting_date": "23rd February 2024",
+        "admit_card_download_period": "29th Feb 2024"
+      }
+    ],
+    "instructions": [
+      "No students will be able to take the print out of their Admit Card before or after the above-mentioned schedule.",
+      "All the students are hereby instructed to bring the Admit Card to the Examination Hall while appearing for the examination and obtain endorsement from the invigilator at the designated place.",
+      "Any student who fails to bring the Admit Card each day of the examination to the Exam Hall will be required to bring a Duplicate Admit Card in the remaining days, which can also be downloaded from their respective MIS account against a fine of Rs. 200/-.",
+      "Students without their respective admit cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action, please.",
+      "Associate Dean (UG & PG) for kind information.",
+      "The System Administrator, NIT Agartala. He is requested to upload the notice to the institute website.",
+      "Guard file for record."
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Examination/AdmitCard_UG_Dual_PG_Feb24.pdf"
+}

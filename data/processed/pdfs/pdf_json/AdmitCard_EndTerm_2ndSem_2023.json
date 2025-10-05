@@ -1,0 +1,40 @@
+{
+  "filename": "AdmitCard_EndTerm_2ndSem_2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala – 799046 (Tripura)",
+    "office": "Office of the Dean Academic & Examinations",
+    "reference_no": "No. F.NITA.6(1-Exam) / NOTICE/ 2016-17",
+    "date": "10th April 2023",
+    "notice": "This is to inform all UG and Dual Degree (2nd & 4th Semester) students appearing for the Even Semester End Term Examination, scheduled to begin on 25th May 2023, that the Admit Cards for the said Examination can be printed from their respective MIS Accounts as per the schedule mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": 1,
+        "exam_name": "Even Semester End Term Examination of UG and Dual 2nd & 4th Semester Students",
+        "exam_starting_date": "25th May 2023",
+        "admit_card_download_duration": "22nd May to 24th May 2023"
+      }
+    ],
+    "instructions": [
+      "No student will be able to print their Admit Card before or after the above-mentioned schedule.",
+      "All students are hereby instructed to bring their Admit Cards to the Examination Hall when appearing for the examination and obtain the invigilator's endorsement in the designated place.",
+      "Students without their respective Admit Cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action, please.",
+      "Associate Dean (UG & PG) for kind information.",
+      "The System Administrator, NIT Agartala. He is requested to upload the Notification to the Institute Website.",
+      "Guard file for record."
+    ],
+    "contact": {
+      "phone": "0381-2346630, 2348537",
+      "fax": "0381-2346360",
+      "website": "www.nita.ac.in"
+    }
+  },
+  "source_url": "https://nita.ac.in/Notice/AdmitCard_EndTerm_2ndSem_2023.pdf"
+}

@@ -1,0 +1,88 @@
+{
+  "35thFinanceCommitteeMeeting": {
+    "MeetingNumber": 35,
+    "Date": "January 21, 2020",
+    "Location": "Conference Room, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. H. K. Sharma",
+    "MembersPresent": [
+      {
+        "Name": "Prof. H. K. Sharma",
+        "Role": "Chairperson, Finance Committee, NIT Agartala"
+      },
+      {
+        "Name": "Shri D. K. Singh",
+        "Role": "Dy. Secretary (Fin), MHRD; Representative of JS & FA, IFD, MHRD, Govt. of India"
+      },
+      {
+        "Name": "Shri Indrajit Kuri",
+        "Role": "Under Secretary, MHRD; Representative of Joint Secretary (NITs), MHRD, Govt. of India"
+      },
+      {
+        "Name": "Prof. S.C. Saha",
+        "Role": "Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Govind Bhargava",
+        "Role": "Member Secretary, Finance Committee and Registrar, NIT Agartala"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "35.1",
+        "Description": "Confirmation of the Minutes of the 34th Finance Committee meeting held on October 03, 2019",
+        "Decision": "Confirmed with incorporation of the 48th BoG decision regarding re-employment of Dr. Govind Bhargava"
+      },
+      {
+        "ItemNo": "35.2",
+        "Description": "Action taken on the decision of the 33rd Finance Committee meeting held on June 26, 2019",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "35.3",
+        "Description": "Financial Status of the Institute as on January 09, 2020",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "35.4",
+        "Description": "Present Status of TEQIP-III Project of NIT Agartala",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "35.5",
+        "Description": "Physical & Financial Statement of ongoing construction works/projects",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "35.6",
+        "Description": "Separate Audit Report on accounts of the Institute for FY 2018-19",
+        "Decision": "Approved; reply submitted to CAG to be brought to FC henceforth"
+      },
+      {
+        "ItemNo": "35.7",
+        "Description": "Recommendations of the 43rd Building & Works Committee meeting of NIT Agartala",
+        "Decision": "Noted Items 43.1-43.14, 43.17, 43.19-43.23; Items 43.15, 43.16, 43.18, 43.24.1 accepted and recommended to BoG"
+      },
+      {
+        "ItemNo": "35.8",
+        "Description": "Adoption of guidelines for settlement of claims for compensation for death/permanent incapacitation during maintenance, operation, or provisioning of public services",
+        "Decision": "Approved; guidelines apply to employees not covered under Group Insurance; superannuated employees excluded"
+      },
+      {
+        "ItemNo": "35.9",
+        "Description": "Consideration of GPF balance for Dr. Vidyut Dey, Assistant Professor, Production Engineering Dept.",
+        "Decision": "Noted; suggested recovering interest during withholding period"
+      },
+      {
+        "ItemNo": "35.10",
+        "Description": "Transfer of GPF amount with interest from LICI Silchar to NITA Staff Benefit Trust Account",
+        "Decision": "Deferred for the next meeting"
+      },
+      {
+        "ItemNo": "35.11",
+        "Description": "Any other item with the permission of the Chair",
+        "Decision": "Not applicable"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/35th_FC_Minutes.pdf"
+}

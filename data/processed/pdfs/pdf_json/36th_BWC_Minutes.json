@@ -1,0 +1,282 @@
+{
+  "meeting": {
+    "number": 36,
+    "date": "28th June, 2016",
+    "type": "Building & Works Committee",
+    "location": "Conference Room of NIT Transit House, Kunjaban, Agartala, Tripura",
+    "chairman": "Prof. (Dr.) Gopal Mugeraya",
+    "members_present": [
+      "Prof. (Dr.) Gopal Mugeraya, Director, NIT Agartala",
+      "Sri Asit Bhaumik, TES Gr-I, Chief Engineer / Representative of PWD (Civil), Govt. of Tripura",
+      "Sri Kajal Banik, Superintending Engineer (Elect'), Electrical Inspectorate / Representative of PWD, Govt. of Tripura",
+      "Dr. Ratul Das, Dean (P & D), NIT Agartala",
+      "Dr. Richi Prasad Sharma, Professor, Civil Engg. Dept., NIT Agartala",
+      "Dr. Debasish Bhattacharya, Registrar (I/C), NIT Agartala, Member Secretary"
+    ],
+    "absent": [
+      "The Director (NITs), MHRD, Govt. of India"
+    ]
+  },
+  "agenda": [
+    {
+      "item_no": "36.1",
+      "description": "Confirmation of the Minutes of 35th BWC meeting held on 10th February, 2016",
+      "decision": "Confirmed as circulated; no modifications/suggestions/comments received"
+    },
+    {
+      "item_no": "36.2",
+      "description": "Action taken on the decision of the 35th BWC meeting",
+      "observations": [
+        {
+          "ref": "35.2(2)",
+          "topic": "Upgradation of internal main road",
+          "cost": "Rs. 12,62,33,747.00",
+          "decision": "Ratified action taken for inviting 2nd call of tender"
+        },
+        {
+          "ref": "35.2(10)",
+          "topic": "Water treatment plant 2.0 MLD & overhead reservoirs",
+          "cost": "Rs. 1458.00 lakhs",
+          "decision": "Agenda to be placed in next BWC with detailed estimate"
+        },
+        {
+          "ref": "35.9",
+          "topic": "Supply of electrical materials for Kendriya Vidhyalaya",
+          "cost": "Rs. 80,715.00",
+          "decision": "Refer to Purchase Section"
+        },
+        {
+          "ref": "35.12",
+          "topic": "GI pipe instead of PPR pipe at 1500 Boys Hostel",
+          "decision": "Institute to act as per approved BOQ"
+        },
+        {
+          "ref": "35.13",
+          "topic": "Aluminium frame instead of sal wood frame",
+          "decision": "Institute to act as per approved BOQ"
+        }
+      ]
+    },
+    {
+      "item_no": "36.3",
+      "description": "Ratification of construction activities approved by Chairman",
+      "decision": "Ratified & confirmed"
+    },
+    {
+      "item_no": "36.4",
+      "description": "Estimate for Mtc of reaction engineering lab & Hydro-information lab, partitions and water supply system",
+      "cost": "Rs. 7,83,139.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.5",
+      "description": "Partition wall and false ceiling for Environmental Engineering lab",
+      "cost": "Rs. 5,31,294.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.6",
+      "description": "Mtc of old guest house (doors, windows, ceiling, painting)",
+      "cost": "Rs. 2,74,261.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.7",
+      "description": "Replacement of damaged water storage tank at ECE building",
+      "cost": "Rs. 92,105.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.8",
+      "description": "Partition wall for Physics lab",
+      "cost": "Rs. 1,17,419.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.9",
+      "description": "Maintenance of Chemistry laboratories (central school)",
+      "cost": "Rs. 2,10,006.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.10",
+      "description": "Construction of road around Central Library",
+      "cost": "Rs. 24,93,795.00",
+      "decision": "Approved; work executed by CPWD"
+    },
+    {
+      "item_no": "36.11",
+      "description": "Construction of canteen (A/C plant room)",
+      "cost": "Rs. 24,90,419.00",
+      "decision": "Not accepted; proper survey not conducted"
+    },
+    {
+      "item_no": "36.12",
+      "description": "Improvement of courtyard area between old Academic Building",
+      "cost": "Rs. 24,97,000.00",
+      "decision": "Approved; executed by CPWD"
+    },
+    {
+      "item_no": "36.13",
+      "description": "Paver block & motorcycle stand in front of Old Academic building",
+      "cost": "Rs. 25,00,000.00",
+      "decision": "Approved; executed by CPWD"
+    },
+    {
+      "item_no": "36.14",
+      "description": "Construction of guard room for Duplex Housing",
+      "cost": "Rs. 6,94,954.00",
+      "decision": "Approved; executed by CPWD"
+    },
+    {
+      "item_no": "36.15",
+      "description": "Final deviation (Lesser side 33.32%) for Geotechnical & Concrete Tech Labs",
+      "cost": "Rs. 14,58,871.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "36.16",
+      "description": "Final deviation (Lesser side 45.69%) for Geotechnical Lab for PhD Scholar",
+      "cost": "Rs. 2,37,610.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "36.17",
+      "description": "Repairing seepage protection in Aryabhatta Hostel",
+      "cost": "Rs. 35,59,316.00",
+      "decision": "Refer to NCCL for clarification"
+    },
+    {
+      "item_no": "36.18",
+      "description": "Barbed wire fencing around Aryabhatt Hostel",
+      "cost": "Rs. 7,78,209.00",
+      "decision": "Approved; awarded to M/S NCCL"
+    },
+    {
+      "item_no": "36.19",
+      "description": "Extra items for 1500 Boys Hostel internal road & floor",
+      "items": [
+        {"description": "Tack coat", "cost": "Rs. 2,98,826.00"},
+        {"description": "Seal coat", "cost": "Rs. 4,51,610.00"},
+        {"description": "SS tube in cupboard (1554 nos.)", "cost": "Rs. 6,09,585.00"},
+        {"description": "Floor spring", "cost": "Rs. 6,80,562.00"}
+      ],
+      "decision": "Approved as extra items"
+    },
+    {
+      "item_no": "36.20",
+      "description": "Substitute item for 1500 Boys Hostel (fire resistance door 46.5mm instead of 50mm)",
+      "decision": "Approved with proportional cost reduction"
+    },
+    {
+      "item_no": "36.21",
+      "description": "Supply, Installation, Testing & Commissioning of Split AC at Admin Block-II",
+      "cost": "Rs. 3,93,859.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.22",
+      "description": "Supply of Transformer oil for 33KV & 11KV Transformers",
+      "cost": "Rs. 4,20,000.00",
+      "decision": "Refer to Purchase Section"
+    },
+    {
+      "item_no": "36.23",
+      "description": "Extension of HT/LT line near Dhalai Hostel",
+      "cost": "Rs. 2,61,050.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.24",
+      "description": "Extension of HT/LT OH line from 1.0 MVA Sub-Station near CSE to 500 KVA near SOM for Ring Main System",
+      "cost": "Rs. 3,37,028.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no_range": "36.25-36.28",
+      "description": "Various HT/LT line extensions and installation of distribution transformers",
+      "decision": "Place in next BWC with master plan network"
+    },
+    {
+      "item_no": "36.29",
+      "description": "Supply, Installation, Testing & Commissioning of 500 KVA Distribution Sub-Station near H4 blocks",
+      "cost": "Rs. 12,51,625.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.30",
+      "description": "Procurement of Electrical Appliances for running & maintenance",
+      "cost": "Rs. 23,21,460.00",
+      "decision": "Refer to Purchase Section"
+    },
+    {
+      "item_no": "36.31",
+      "description": "System Strengthening, Re-conductoring, Augmentation and Replacement of ACSR conductors, Insulators and Stay sets",
+      "cost": "Rs. 11,66,653.00",
+      "decision": "Place in next BWC with master plan network"
+    },
+    {
+      "item_no": "36.32",
+      "description": "Supply of materials for 33KV & 11KV Switchyard including Control Room",
+      "cost": "Rs. 11,33,129.00",
+      "decision": "Refer to Purchase Section"
+    },
+    {
+      "item_no": "36.33",
+      "description": "Replacement of damaged/burned underground LT cable",
+      "cost": "Rs. 23,82,335.00",
+      "decision": "Place in next BWC with master plan network"
+    },
+    {
+      "item_no": "36.34",
+      "description": "Internal & external electrification in shifted Medical Unit",
+      "cost": "Rs. 16,51,372.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.35",
+      "description": "Internal electrification in newly constructed Workshop building for Mechanical Engg Dept",
+      "cost": "Rs. 24,67,669.00",
+      "decision": "Approved; award by open tender"
+    },
+    {
+      "item_no": "36.36",
+      "description": "Procurement of 20 Lead Acid Batteries for 10 Lifts",
+      "cost": "Rs. 53,300.00",
+      "decision": "Refer to Purchase Section"
+    },
+    {
+      "item_no": "36.37",
+      "description": "HVAC, Stage Craft, Stage Light, Sound System, Project System, Sitting Arrangement in Seminar Hall",
+      "decision": "Institute to go for open tender by design & build method"
+    },
+    {
+      "item_no": "36.38",
+      "description": "Approval of revised estimated amount for supply of electrical materials for hostels & physics dept",
+      "cost": "Rs. 3,59,580.00",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "36.39",
+      "description": "Proposal for LED light fittings in 1500 Capacity Boys Hostel",
+      "decision": "Not accepted; follow BOQ strictly"
+    },
+    {
+      "item_no": "36.40",
+      "description": "External electrification works at Main Gate and Auxiliary Gate",
+      "cost": "Rs. 8,86,000.00",
+      "decision": "Place in next BWC with master plan network"
+    },
+    {
+      "item_no": "36.41",
+      "description": "Any other item",
+      "decision": "No other item discussed"
+    }
+  ],
+  "signatures": {
+    "member_secretary": "Dr. D. Bhattacharya",
+    "chairman": "Prof. (Dr.) Gopal Mugeraya"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/36th_BWC_Minutes.pdf"
+
+}

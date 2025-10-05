@@ -1,0 +1,41 @@
+{
+  "PhDPublicationsReport": {
+    "FormNumber": "NITA/ACAD/Ph.D./13A",
+    "ThesisTitle": null,
+    "StudentDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "DateOfEnrollment": null,
+      "Semester": null,
+      "DateOfSynopsisSeminar": null
+    },
+    "Publications": [
+      {
+        "SN": null,
+        "PublicationType": null,
+        "Title": null,
+        "Authors": null,
+        "JournalOrConference": null,
+        "Indexing": null,
+        "Status": null,
+        "VolumeNo": null,
+        "IssueNo": null,
+        "ISSN": null,
+        "Year": null,
+        "Pages": null
+      }
+    ],
+    "Declaration": "I confirm that all the publications mentioned above are my own work and have not been copied from any other person's work (published or unpublished).",
+    "Signatures": {
+      "Scholar": null,
+      "Members": [
+        null,
+        null,
+        null
+      ],
+      "Supervisor": null,
+      "ChairmanDC": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/13A-Publications-of-scholar-2017.pdf"
+}

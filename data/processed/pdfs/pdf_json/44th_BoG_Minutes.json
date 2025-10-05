@@ -1,0 +1,191 @@
+{
+  "filename": "44th_BoG_Minutes.txt",
+  "metadata": {
+    "meeting_number": 44,
+    "date": "09-08-2018",
+    "location": "Conference Room of NIT Transit House, New Delhi",
+    "institution": "NIT Agartala"
+  },
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "role": "Chairperson, BoG and Director, NIT Agartala"
+    },
+    {
+      "name": "Shri D. K. Singh",
+      "role": "Under Secretary, IFD, MHRD, Govt. of India (Representative of the Joint Secretary and Financial Advisor, IFD, MHRD)"
+    },
+    {
+      "name": "Shri K. Rajan",
+      "role": "Under Secretary (NITs), MHRD, Govt. of India (Representative of Special Secretary / Additional Secretary / Joint Secretary dealing with Technical Education, Dept. of Higher Education, MHRD)"
+    },
+    {
+      "name": "Prof. Sharad Gokhale",
+      "role": "Associate Dean of Infrastructure, Planning & Management, IIT Guwahati (nominee of the Director, IITG)"
+    },
+    {
+      "name": "Shri Alok Ranjan Roy Choudhury",
+      "role": "Addl. Chief Engineer, PWD, Government of Tripura, Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) S. C. Saha",
+      "role": "Professor, M. E. Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Subhadeep Bhattacharjee",
+      "role": "Assistant Professor, E.E. Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Registrar, NIT Agartala (Secretary)"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "44.1",
+      "title": "Confirmation of the Minutes of the 43rd Meeting of the BoG",
+      "decision": "Confirmed"
+    },
+    {
+      "item_no": "44.2",
+      "title": "Actions taken on decisions of the 40th and 41st BOG meetings",
+      "decision": "Noted by the Board"
+    },
+    {
+      "item_no": "44.3",
+      "title": "Functioning of IIIT Agartala on NITA Campus",
+      "decision": "Allowed temporary functioning on NITA campus; Director of NITA authorized as Mentor Director"
+    },
+    {
+      "item_no": "44.4",
+      "title": "Maternity Benefits for women employees including contractual staff",
+      "decision": "Approved for implementation"
+    },
+    {
+      "item_no": "44.5",
+      "title": "Delegation of Administrative and Financial Power to Dean (R&C) and PI of Funded Projects / Schemes (except TEQIP)",
+      "decision": "Delegated powers to Dean (R&C) and PI with oversight by Director; confirmed for implementation",
+      "details_table": [
+        {"sl_no": 1, "description": "Engagement of staff under project", "power_delegated_to": "Dean (R&C)", "remarks": "Format approved by Registrar"},
+        {"sl_no": 2, "description": "Management of Project Staff (tours, leave, TA/DA)", "power_delegated_to": "PI", "remarks": "Expenses under project fund"},
+        {"sl_no": 3, "description": "Approval for Official Tour and settlement of TA/DA", "power_delegated_to": "Dean (R&C)", "remarks": "Expenses under project fund"},
+        {"sl_no": 4, "description": "Procurement of goods/services under project", "power_delegated_to": "PI up to Rs. 5,00,000; Full Dean (R&C)", "remarks": "GFR / Funding Agency rules apply"},
+        {"sl_no": 5, "description": "Civil/Electrical Work approved under project", "power_delegated_to": "Dean (R&C) full power", "remarks": "-do-"},
+        {"sl_no": 6, "description": "Operation of Bank Account if permitted", "power_delegated_to": "PI / Co-PI jointly", "remarks": "Consent from Registrar required; part of Annual Accounts"},
+        {"sl_no": 7, "description": "Engagement of Auditor for checking accounts and preparation of UC", "power_delegated_to": "Dean (R&C)", "remarks": ""},
+        {"sl_no": 8, "description": "Sanction for UC and signing on behalf of NITA", "power_delegated_to": "Dean (R&C)", "remarks": "Examined by Audit Officer / Asst. Registrar (Audit)"}
+      ]
+    },
+    {
+      "item_no": "44.6",
+      "title": "Recommendations of Oversight Committee for removal of anomalies and revised Recruitment Rules 2017 for Non-Teaching staff",
+      "decision": "Approved for implementation as per HRD letter F. No. 33-2/2012-TS.III dated 20-12-2017"
+    },
+    {
+      "item_no": "44.7",
+      "title": "Postponement of interview for Non-Teaching recruitment as per RRs 2014",
+      "decision": "Cancelled; new process to start as per Recruitment System-2017"
+    },
+    {
+      "item_no": "44.8",
+      "title": "List of Experts for Selection Committee for Faculty recruitment",
+      "decision": "Approved; Dr. Subhadeep Bhattacharjee recused himself"
+    },
+    {
+      "item_no": "44.9",
+      "title": "Unauthorized absence of Dr. Kishan Choudhury (27-12-2010 to 20-03-2011)",
+      "decision": "Regularized by sanctioning admissible leaves with advisory letter"
+    },
+    {
+      "item_no": "44.10",
+      "title": "Recommendations of 38th and 39th BWC meetings",
+      "decision": "Accepted recommendations as considered by 31st Finance Committee"
+    },
+    {
+      "item_no": "44.11",
+      "title": "Report on faculty visits abroad under CPDA",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "44.12",
+      "title": "Permission to host ICCIoT International Conference",
+      "decision": "Ratified; foreign delegates list to be sent to MHRD"
+    },
+    {
+      "item_no": "44.13",
+      "title": "Consideration of contractual faculty members for interview",
+      "decision": "Clause 2(h)(i) applicable to existing contractual faculty"
+    },
+    {
+      "item_no": "44.14",
+      "title": "One-time age relaxation for employees",
+      "decision": "Deferred pending Oversight Committee recommendations and Council acceptance"
+    },
+    {
+      "item_no": "44.15",
+      "title": "Scholarships for full-time Ph.D. scholars from TEQIP-III fund",
+      "decision": "Approved and confirmed"
+    },
+    {
+      "item_no": "44.16",
+      "title": "Annual Report 2016-17",
+      "decision": "Approved and confirmed for implementation"
+    },
+    {
+      "item_no": "44.17",
+      "title": "Establishment of modern Wi-Fi facility through TEQIP-III Fund",
+      "decision": "Ratified and confirmed"
+    },
+    {
+      "item_no": "44.18",
+      "title": "Temporary engagement of Teaching and Non-Teaching employees on contractual basis",
+      "decision": "Noted and approved"
+    },
+    {
+      "item_no": "44.19",
+      "title": "Selection Committee recommendations for recruitment of Non-Teaching PWD staff",
+      "decision": "Accepted and confirmed for implementation"
+    },
+    {
+      "item_no": "44.20",
+      "title": "Re-designation/nomenclature changes for Non-Teaching posts",
+      "decision": "Approved and confirmed for implementation"
+    },
+    {
+      "item_no": "44.21",
+      "title": "Procurement of furniture from TFDPC Ltd.",
+      "decision": "Procurement must follow GFR provisions"
+    },
+    {
+      "item_no": "44.22",
+      "title": "Organizing International Conference on Mathematics",
+      "decision": "Approved; foreign delegates list to be sent to MHRD"
+    },
+    {
+      "item_no": "44.23",
+      "title": "Any other issue with Chair's permission",
+      "sub_items": [
+        {
+          "sub_item_no": "44.23.1",
+          "title": "Cancellation of recruitment process for certain Assistant Professors",
+          "decision": "Pending only for GP 6000 and 7000 contractual posts"
+        },
+        {
+          "sub_item_no": "44.23.2",
+          "title": "Implementation of 5% seat reservation per RPwD Act, 2016",
+          "decision": "Approved; 5% for academic courses, 4% for recruitment; confirmed for implementation"
+        },
+        {
+          "sub_item_no": "44.23.3",
+          "title": "Water treatment plant, reservoirs, pipe-laying, pump house construction at NIT Agartala (~Rs. 1500 lakhs)",
+          "decision": "Accepted recommendations of Finance Committee; confirmed for implementation along with Annual Budget FY 2018-19 and Accounts FY 2017-18"
+        }
+      ]
+    }
+  ],
+  "signatures": {
+    "Chairperson": "Prof. H. K. Sharma",
+    "Secretary": "Dr. Govind Bhargava"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/44th_BoG_Minutes.pdf"
+}

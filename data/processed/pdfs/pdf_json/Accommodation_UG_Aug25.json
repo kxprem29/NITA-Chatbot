@@ -1,0 +1,26 @@
+{
+  "filename": "Accommodation_UG_Aug25.txt",
+  "title": "Accommodation for UG Students",
+  "institute": ["NIT Agartala", "IIIT Agartala"],
+  "content": {
+    "notice": "Students arriving for physical reporting at NIT Agartala/IIIT Agartala may have accommodation available in various state government guest houses or the Institute Guest House.",
+    "state_guest_houses": [
+      {
+        "name": "Geetanjali Tourism Guest House",
+        "location": "Kunjaban, Agartala, West Tripura",
+        "booking_link": "https://tourism.tripura.gov.in/hotel/geetanjali-tourism-guest-house?start=2025-08-09&end=2025-08-10&adults=1&room=1",
+        "note": "Scan the QR Code for quick access"
+      },
+      {
+        "name": "Shaheed Bhagat Singh Youth Hostel",
+        "contact_number": "6909558253"
+      }
+    ],
+    "institute_guest_house": {
+      "email_for_inquiry": "ighnita@gmail.com",
+      "note": "Bookings are on a first-come, first-served basis and are subject to payment."
+    },
+    "disclaimer": "NIT Agartala/IIIT Agartala is not responsible for reservations or issues related to state government guest houses. All bookings are subject to the guest house's rules and payment."
+  },
+  "source_url": "https://nita.ac.in/Admission_Notice/Accommodation_UG_Aug25.pdf"
+}
