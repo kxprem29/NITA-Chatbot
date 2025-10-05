@@ -1,0 +1,37 @@
+{
+  "ComprehensiveExamCommitteeForm": {
+    "formInfo": {
+      "title": "Comprehensive Examination Committee",
+      "formNumber": "NITA/ACAD/Ph.D./7"
+    },
+    "scholarDetailsFields": [
+      "Department",
+      "Name of the Student",
+      "Enrollment No.",
+      "Date of Enrollment"
+    ],
+    "formSections": [
+      {
+        "title": "Thesis Supervisor(s) and Examination Date",
+        "columns": [
+          "Thesis Supervisor(s)",
+          "Date of Examination"
+        ]
+      },
+      {
+        "title": "EXAMINATION COMMITTEE",
+        "columns": [
+          "Name",
+          "Department",
+          "Signature"
+        ]
+      }
+    ],
+    "approvalSignatures": [
+      "Chairman, DPPC",
+      "Dean, (Academic)"
+    ],
+    "administrativeNote": "After the Dean (Academic) signs, the original copy is to be kept in the student's personal file, and photocopies are to be sent to the Supervisor and the Department."
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/7-ComprehensiveExamCommitteeForm-2018.pdf"
+}

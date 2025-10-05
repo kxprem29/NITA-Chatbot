@@ -1,0 +1,27 @@
+{
+  "CertificateForSubmission": {
+    "FormNumber": "NITA/ACAD/Ph.D./14(C)",
+    "CandidateDetails": {
+      "Name": null,
+      "ThesisTitle": null,
+      "Department": null
+    },
+    "SupervisorDetails": {
+      "Name": null,
+      "Designation": null,
+      "Department": null
+    },
+    "Certification": {
+      "Statement": "This is to certify that the thesis entitled \"[Thesis Title]\" submitted by [Candidate Name] is a record of bonafide research work carried out under my supervision and guidance. The thesis has been prepared in accordance with the regulations of the institute and is, therefore, recommended for submission."
+    },
+    "SupervisorSignature": {
+      "Name": null,
+      "Date": null
+    },
+    "HeadOfDepartmentSignature": {
+      "Name": null,
+      "Date": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/14C-Certificate-for-Submission_PhD-Thesis-2023.pdf"
+}

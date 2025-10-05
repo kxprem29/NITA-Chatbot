@@ -1,0 +1,50 @@
+{
+  "TADAForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./20",
+    "StudentDetails": {
+      "Name": null,
+      "RollNo": null,
+      "Department": null,
+      "Supervisors": null,
+      "DateOfOralExamination": null,
+      "ExaminerNameAndAddress": null
+    },
+    "AdvanceDetails": {
+      "Instructions": "Attach a copy of the Dean (Academic Affairs)' letter instructing the conduct of the Oral Examination after DPPC approval.",
+      "Items": [
+        {
+          "Item": "Ticket booked through DTA (from ___ to Agartala and back)",
+          "AmountINR": null,
+          "PaymentACCode": null
+        },
+        {
+          "Item": "Additional Advance (if required)",
+          "AmountINR": null,
+          "PaymentACCode": null
+        },
+        {
+          "Item": "Advance for Thesis Evaluation Honorarium",
+          "AmountINR": null,
+          "PaymentACCode": null
+        },
+        {
+          "Item": "Advance for Oral Examination Participation Honorarium",
+          "AmountINR": null,
+          "PaymentACCode": null
+        },
+        {
+          "Item": "Total",
+          "AmountINR": null,
+          "PaymentACCode": null
+        }
+      ]
+    },
+    "Date": null,
+    "Signatures": {
+      "ThesisSupervisor": null,
+      "DealingAssistantAcademicSection": null,
+      "DeanAcademicAffairs": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/20-TADAForm-2018.pdf"
+}

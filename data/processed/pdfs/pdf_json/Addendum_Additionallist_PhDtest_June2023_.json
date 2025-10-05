@@ -1,0 +1,114 @@
+{
+  "filename": "Addendum_AdditionalList_PhD_June2023.txt",
+  "title": "Ph.D. Program Admission - Additional Shortlisted Candidates",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notice_number": "F. NITA.5(6-Acad)/Ph.D/Admn/2023/July/A-24",
+  "date_of_notice": "2023-06-09",
+  "content": {
+    "purpose": "Provisional shortlist of candidates for written test for Ph.D. admission, July-December 2023 session.",
+    "reference": "Continuation of memo dated 07/06/2023",
+    "shortlisted_candidates": [
+      {
+        "department": "RIO ENGINEERING (IE)",
+        "candidates": [
+          {
+            "sl_no": null,
+            "application_no": "NAGT3PAIEG",
+            "name": "ANJILESH KUMAR",
+            "caste": "SC",
+            "course_type": "Full-Time with Scholarship"
+          }
+        ]
+      },
+      {
+        "department": "CIVIL ENGINEERING (CE)",
+        "candidates": [
+          {
+            "sl_no": 1,
+            "application_no": "NAGT3PAIZU",
+            "name": "BHANITA DEKA",
+            "caste": "OP",
+            "course_type": "Full-Time with Scholarship"
+          }
+        ]
+      },
+      {
+        "department": "ELECTRONICS & INSTRUMENTATION ENGINEERING (EIE)",
+        "candidates": [
+          {
+            "sl_no": 2,
+            "application_no": "NAGT3PAYY2",
+            "name": "MALAY GHATA",
+            "caste": "OP",
+            "course_type": "Part-Time"
+          }
+        ]
+      },
+      {
+        "department": "CHEMISTRY (CY)",
+        "candidates": [
+          {
+            "sl_no": 3,
+            "application_no": "NAGT3PA4RD",
+            "name": "TEJAS RAMNIKBHAI PARSAIYA",
+            "caste": "General",
+            "course_type": "Full-Time with Scholarship"
+          }
+        ]
+      },
+      {
+        "department": "MATHEMATICS (MA)",
+        "candidates": [
+          {
+            "sl_no": 4,
+            "application_no": "NAGT3PAYJC",
+            "name": "BIKASH BAYAN",
+            "caste": null,
+            "course_type": "Full-Time with Scholarship"
+          },
+          {
+            "sl_no": 5,
+            "application_no": "NAGT3PAYIU",
+            "name": "STAVAN DAS",
+            "caste": "SC",
+            "course_type": "Full-Time with Scholarship"
+          },
+          {
+            "sl_no": 6,
+            "application_no": "NAGT3PAUVC",
+            "name": "PAYEL MODAK",
+            "caste": "OBC-NCL",
+            "course_type": "Full-Time with Scholarship"
+          },
+          {
+            "sl_no": 7,
+            "application_no": "NAGT3PACOD",
+            "name": "RAHAMAN ALI",
+            "caste": "OBC-NCL",
+            "course_type": "Full-Time with Scholarship"
+          }
+        ]
+      },
+      {
+        "department": "HUMANITIES AND SOCIAL SCIENCES (HSS)",
+        "candidates": [
+          {
+            "sl_no": 8,
+            "application_no": "NAGT3PAMTL",
+            "name": "MANORANJAN DEBBARMA",
+            "caste": "ST",
+            "course_type": "Full-Time with Scholarship"
+          }
+        ]
+      }
+    ]
+  },
+  "copy_to": [
+    "PS to the Director, NIT Agartala",
+    "All Heads of the Departments running Ph.D. program",
+    "Associate Dean (PG)",
+    "System administrator, NIT Agartala for website upload"
+  ],
+  "source_url": "https://nita.ac.in/uploaded_files/Addendum_Additionallist_PhDtest_June2023_.pdf"
+}

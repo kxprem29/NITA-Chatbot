@@ -1,0 +1,84 @@
+{
+  "PhDRegistrationMemo": {
+    "FormNumber": "NITA/ACAD/Ph.D./10",
+    "Date": null,
+    "Department": null,
+    "ScholarDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "Category": null,
+      "DateOfEnrollment": null
+    },
+    "CommitteeMembers": [
+      {
+        "SlNo": 1,
+        "Name": null,
+        "Department": null,
+        "Role": "Chairman",
+        "Signature": null
+      },
+      {
+        "SlNo": 2,
+        "Name": null,
+        "Department": null,
+        "Role": "Member",
+        "Signature": null
+      },
+      {
+        "SlNo": 3,
+        "Name": null,
+        "Department": null,
+        "Role": "Member",
+        "Signature": null
+      },
+      {
+        "SlNo": 4,
+        "Name": null,
+        "Department": null,
+        "Role": "Supervisor",
+        "Signature": null
+      },
+      {
+        "SlNo": 5,
+        "Name": null,
+        "Department": null,
+        "Role": "Supervisor",
+        "Signature": null
+      }
+    ],
+    "CourseworkCompleted": [
+      {
+        "SlNo": 1,
+        "CodeNo": null,
+        "Subject": null,
+        "Credit": null,
+        "Semester": null,
+        "Grade": null
+      },
+      {
+        "SlNo": 2,
+        "CodeNo": null,
+        "Subject": null,
+        "Credit": null,
+        "Semester": null,
+        "Grade": null
+      }
+    ],
+    "ComprehensiveExamCompletionDate": null,
+    "ResearchProblem": null,
+    "Signatures": {
+      "DeanAcademic": null
+    },
+    "Recipients": {
+      "Scholar": {
+        "Name": null,
+        "Department": null
+      },
+      "CopyTo": [
+        "Chairman, Senate",
+        "Chairman, DPPC (for information to all DC members)"
+      ]
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/10-RegistrationMemo-2018.pdf"
+}

@@ -1,0 +1,53 @@
+{
+  "SemesterRegistrationNotice": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.5/(143-Acad)/ITEP/Cors./2025 [A-1391]",
+      "issueDate": "07/02/2025"
+    },
+    "title": "NOTICE",
+    "subject": "Online Semester Registration for 2nd Semester Students of ITEP (B.Sc. B.Ed)",
+    "forWhom": "All 1st year ITEP (B.Sc. - B.Ed) students promoted to the second semester",
+    "academicSession": "January – June 2025",
+    "registrationSchedule": {
+      "regularRegistration": {
+        "period": "1st to 13th February 2025",
+        "fine": "None"
+      },
+      "lateRegistration": [
+        {
+          "period": "Up to 18/02/2025 (working days only)",
+          "fine": "Rs. 5,000/-"
+        },
+        {
+          "period": "Up to 24/02/2025 (working days only)",
+          "fine": "Rs. 10,000/-"
+        }
+      ]
+    },
+    "classCommencementDate": "14/02/2025",
+    "instructions": [
+      "Students are required to log in to their MIS account at https://mis.nita.ac.in and use the online payment link.",
+      "Payment through offline or any other mode is not acceptable.",
+      "Subject registration is mandatory after successful fee payment.",
+      "Proof of semester registration must be submitted to the Department.",
+      "No requests for extension of the registration date or waivers of late fees will be considered."
+    ],
+    "signedBy": {
+      "name": "Prof. Rajib Saha",
+      "title": "Dean (Academic)"
+    },
+    "distributionList": [
+      "PS to the Director",
+      "The Registrar, NIT, Agartala",
+      "HOD Education, NIT Agartala",
+      "Chief Warden, NIT Agartala",
+      "Assoc. Dean (Exam), NIT Agartala",
+      "Assoc. Dean (UG), NIT Agartala",
+      "Dy. Registrar (Acad), NIT Agartala",
+      "Asst. Registrar (Acad), NIT Agartala",
+      "Faculty-in-Charge, MIS Unit, NIT Agartala",
+      "System Administrator"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Notice/2ndSemRegistration_ITEP_Feb2025.pdf"
+}

@@ -1,0 +1,61 @@
+{
+  "filename": "31st_BoG_Minutes.txt",
+  "meeting_number": 31,
+  "meeting_type": "Special",
+  "date": "2014-11-07",
+  "time": "13:30",
+  "venue": "Conference Room, NIT Agartala",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "location": "West Tripura, Pin: 799046"
+  },
+  "members_present": [
+    {
+      "name": "Prof. Gopal Mugeraya",
+      "designation": "Acting Chairperson, BoG & Director, NIT Agartala"
+    },
+    {
+      "name": "Shri Ashutosh Jindal",
+      "designation": "Member, Principal Secretary to the Govt. of Tripura, Dept. of Higher Education"
+    },
+    {
+      "name": "Prof. A. Srinivasan",
+      "designation": "Member, Professor, Dept. of Physics, IIT Guwahati (Representative of Director, IIT Guwahati)"
+    },
+    {
+      "name": "Prof. (Mrs.) Uma Bhattacharya",
+      "designation": "Member, Professor, Department of Computer Science & Tech., IIEST, Shibpur"
+    },
+    {
+      "name": "Dr. R.P. Sharma",
+      "designation": "Member, Professor, Civil Engineering Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. John Debbarma",
+      "designation": "Member, Assistant Professor, Mechanical Engineering Dept., NIT Agartala"
+    },
+    {
+      "name": "Shri Sumanta Chakrabarti",
+      "designation": "Secretary, Registrar (i/c), NIT Agartala"
+    }
+  ],
+  "chairperson": "Prof. Gopal Mugeraya",
+  "agenda": [
+    {
+      "item_no": "31.1",
+      "description": "To consider the recommendations of the minutes of the 14th and 15th Senate meetings of NIT Agartala held on May 09, 2014, and September 26, 2014, respectively.",
+      "decision": "Approved the minutes of the 14th and 15th Senate meetings of NIT Agartala held on May 09, 2014, and September 26, 2014."
+    },
+    {
+      "item_no": "31.2",
+      "description": "To consider the recommendations of the minutes of the 16th Senate meeting of NIT Agartala held on November 07, 2014.",
+      "decision": "Approved the minutes of the 16th Senate meeting of NIT Agartala held on November 07, 2014."
+    }
+  ],
+  "key_resolutions": [
+    "The Director, NIT Agartala, is authorized to function as Chairperson in the event of vacancy and take decisions as per NIT Act 2007 and NIT Statute 2009, including presiding over Convocation, signing Degree Certificates, and other necessary actions.",
+    "If formal communication regarding a new Chairperson is received from MHRD before the 7th Convocation, the appointed Chairperson will preside over the Convocation.",
+    "The Director, NIT Agartala, will continue to discharge functions of the Chairperson until a new Chairperson is appointed for smooth functioning of the Institute."
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/31st_BoG_Minutes.pdf"
+}

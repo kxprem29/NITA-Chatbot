@@ -1,0 +1,129 @@
+{
+  "filename": "Admission_BScBEd_July2025.txt",
+  "title": "Admission Notification: 4-Year Integrated Teacher Education Program (B.Sc.-B.Ed.) 2025-26",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notice_number": "NITA.5/(143-Acady/ITEP/2025-26/4)",
+  "date": "2025-07-07",
+  "program": "4-Year Integrated Teacher Education Program (ITEP) B.Sc.-B.Ed. (Secondary Level)",
+  "academic_year": "2025-26",
+  "seat_distribution": [
+    {
+      "quota": "HOME STATE (HS)",
+      "OP": 10,
+      "SC": 4,
+      "ST": 8,
+      "OP-PH": 1,
+      "total": 25
+    },
+    {
+      "quota": "OTHER STATE (OS)",
+      "OP": 10,
+      "EWS": 2,
+      "OBC-NCL": 7,
+      "SC": 3,
+      "ST": 2,
+      "OP-PH": 1,
+      "total": 25
+    }
+  ],
+  "eligibility": {
+    "minimum_percentage": 50,
+    "required_subjects": ["Physics", "Chemistry", "Mathematics"],
+    "board": "recognized Board/Council",
+    "exam": "NCET 2025 conducted by NTA",
+    "state_of_eligibility": {
+      "definition": "State from where Class XII (or equivalent) was first passed",
+      "notes": [
+        "Improvement attempts from another state do not change state of eligibility",
+        "Open Schooling candidates: state of the center is considered"
+      ]
+    }
+  },
+  "selection_procedure": [
+    "Scrutiny of applications based on seats and merit",
+    "Fulfillment of minimum eligibility requirements",
+    "Merit list generation based on NCET-2025 scores",
+    "Tie-breaking: older candidate preferred; if tie persists, marks in Mathematics, Physics, Chemistry considered"
+  ],
+  "application_process": {
+    "mode": "Online only",
+    "portal": "https://admission.nita.ac.in/",
+    "browser": "Mozilla Firefox recommended",
+    "fee": {
+      "OP/OBC-NCL/EWS": 1000,
+      "SC/ST/PwD": 500,
+      "mode": "online payment only",
+      "non_refundable": true
+    },
+    "documents_upload": [
+      "NCET-2025 score card",
+      "10th standard/Matriculation certificate as proof of DOB and Name",
+      "Class XII mark sheet/grade card and pass certificate",
+      "Proof of state of eligibility (as per rules)",
+      "Conduct/Character Certificate from last institution",
+      "Caste/Category certificate if applicable",
+      "Disability certificate for PwD candidates if applicable"
+    ]
+  },
+  "tentative_schedule": [
+    {
+      "event": "Start of registration, online application, and application fee payment",
+      "date": "2025-07-31"
+    },
+    {
+      "event": "Last date of online payment",
+      "date": "2025-08-12"
+    },
+    {
+      "event": "Last date of online application submission",
+      "date": "2025-08-13"
+    },
+    {
+      "event": "Publication of provisional merit list",
+      "date": "2025-08-20"
+    },
+    {
+      "event": "Acceptance of allotted seat by online portal payment",
+      "date": "2025-08-22 to 2025-08-26"
+    },
+    {
+      "event": "Physical reporting at Institute",
+      "date": "2025-08-27 to 2025-08-29"
+    },
+    {
+      "event": "Commencement of classes",
+      "date": "2025-09-01 (tentative)"
+    },
+    {
+      "event": "Subsequent rounds",
+      "date": "To be notified later"
+    }
+  ],
+  "fee_details": {
+    "first_semester": 29325,
+    "mandatory_online_payment": true,
+    "seat_cancellation_on_nonpayment": true,
+    "detailed_fee_structure_link": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+  },
+  "general_instructions": [
+    "Contact Chief Warden for hostel/mess accommodation and fees",
+    "Produce all original documents at reporting",
+    "Institute fee once deposited is non-refundable",
+    "Admission-related queries: help.itepadmnnita@gmail.com or 0381-2348537",
+    "Technical issues: nitmisagt@mail.nita.ac.in",
+    "Visit Institute website regularly for updates"
+  ],
+  "signatory": "Prof. Rajib Saha, Dean (Academic)",
+  "copy_to": [
+    "PS to the Director",
+    "Registrar",
+    "HoD, Education (ITEP)",
+    "FIC, MIS",
+    "System Administrator",
+    "Dean (Academic)"
+  ],
+  "location": "Barjala, Jirania, Agartala-799046, Tripura, India",
+  "website": "www.nita.ac.in",
+  "source_url": "https://nita.ac.in/uploaded_files/Admission_BScBEd_July2025.pdf"
+}

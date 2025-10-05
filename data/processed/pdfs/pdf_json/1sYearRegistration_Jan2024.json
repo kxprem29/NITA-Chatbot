@@ -1,0 +1,107 @@
+{
+  "SemesterRegistrationNotice": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.5/(22-Acad)/Registration Fee(UG,PG,Ph.D)/2023-24(Vol-VII)/A-148",
+      "issueDate": "15/01/2024"
+    },
+    "noticeDetails": {
+      "subject": "Registration for 1st year (2nd Semester) UG, Dual Degree, PG and Ph.D programmes",
+      "academicSession": "Even Semester (Jan - Jun 2024)"
+    },
+    "importantDates": {
+      "paymentPortalOpening": "16/01/2024",
+      "registrationWithoutFine": "16th to 22nd January, 2024 (until 4:00 pm)",
+      "registrationWith5000Fine": "22nd to 25th January, 2024 (until 4:00 pm)",
+      "registrationWith10000Fine": "Beyond 25th January, 2024 (within 5 working days)",
+      "classCommencement": "08/01/2024"
+    },
+    "registrationProcess": {
+      "feePayment": {
+        "portal": "https://mis.nita.ac.in",
+        "path": "Online Payment --> SBI E-Pay Tuition Fee",
+        "notes": "Students must pay the semester fee in full before subject registration."
+      },
+      "subjectRegistration": {
+        "portal": "https://mis.nita.ac.in",
+        "path": "Academic Registration --> Semester Registration",
+        "instructions": "Select all required subjects, submit to complete provisional registration, and print 3 sets of the registration slip for signatures from student and faculty advisor/supervisor."
+      },
+      "physicalVerification": {
+        "instruction": "After online steps, students must mandatorily report physically to their Faculty Advisor and/or UG/PG Coordinator for verification to complete the registration process."
+      }
+    },
+    "loanPaymentInstructions": {
+      "method": "NEFT",
+      "beneficiary": "Registrar, NIT Agartala",
+      "accountNumber": "30369892838",
+      "ifscCode": "SBIN0011491",
+      "requiredAction": "Update transaction details and upload supporting documents in the MIS account and fill out the provided Google Form.",
+      "googleFormLink": "https://forms.gle/iasMStUATZUhvuAHB"
+    },
+    "studentCategories": [
+      {
+        "degree": "B.Tech",
+        "category": "GEN/OBC(NCL) (Annual Family Income between 1Lac to 5 Lacs)"
+      },
+      {
+        "degree": "B.Tech",
+        "category": "GEN/OBC(NCL) (Annual Family Income less than 1Lac)"
+      },
+      {
+        "degree": "B.Tech",
+        "category": "SC/ST/PWD"
+      },
+      {
+        "degree": "BSMS, BTMT",
+        "category": "SC/ST/PWD/OBC(NCL)/GEN"
+      },
+      {
+        "degree": "MBA",
+        "category": "SC/ST/PWD/OBC(NCL)/GEN"
+      },
+      {
+        "degree": "M.Tech, MSc(Math)",
+        "category": "SC/ST/PWD/OBC(NCL)/GEN"
+      }
+    ],
+    "additionalNotes": [
+      {
+        "note": "Excess fees paid in the previous semester will be adjusted in the current semester."
+      },
+      {
+        "note": "Students who have not submitted the balance fee of the 1st semester can pay via the 'Backdated Payment Interface' on the MIS portal."
+      },
+      {
+        "note": "A minimum of 75% attendance is required to appear for Mid-Term and End-Term Examinations, effective from 08-01-2024."
+      },
+      {
+        "note": "For hostel-related matters, students may contact the Office of the Chief Warden."
+      },
+      {
+        "note": "Fee details mentioned in Table 2 & 3 were not available in the source document."
+      }
+    ],
+    "helpDesk": {
+      "for": "Technical Issues during Online Registration",
+      "contact": [
+        "mis.agartala@iitms.co.in",
+        "nitmisagt@gmail.com"
+      ],
+      "timing": "10:00 AM - 5:00 PM (Working days)"
+    },
+    "distributionList": [
+      "PS to the Director, NITA",
+      "The Registrar, NIT Agartala",
+      "All Deans, NIT Agartala",
+      "All HODs and W/S",
+      "The Chief Warden",
+      "The Asso. Dean (Exam)",
+      "The Faculty-in-Charge, MIS",
+      "The Head (F&A)",
+      "The Asstt. Registrar (Acad)",
+      "In-Charge Stipend Section, NIT Agartala",
+      "Institute Website"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Notice/1sYearRegistration_Jan2024.pdf"
+}

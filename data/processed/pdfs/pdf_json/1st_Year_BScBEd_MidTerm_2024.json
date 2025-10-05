@@ -1,0 +1,36 @@
+{
+  "ExaminationNotice": {
+    "issuingAuthority": "National Institute of Technology, Agartala",
+    "office": "Office of the Dean Academic",
+    "dateOfIssue": "27.12.2023",
+    "title": "ODD SEMESTER MID-TERM EXAMINATION- 2023",
+    "effectiveDate": "STARTING FROM 02.01.2024",
+    "programDetails": {
+      "programName": "B.Sc.- B.Ed (ITEP)",
+      "semester": "1st SEMESTER"
+    },
+    "examinationDetails": {
+      "venue": "NIT AGARTALA",
+      "time": "10:30 AM - 12:30 PM"
+    },
+    "schedule": [
+      {
+        "date": "02.01.2024",
+        "day": "Tuesday",
+        "subject": "Mathematics"
+      },
+      {
+        "date": "03.01.2024",
+        "day": "Wednesday",
+        "subject": null
+      }
+    ],
+    "distributionList": [
+      "P.S. to the Director for kind information of the Director.",
+      "All HOD's for kind information.",
+      "System administrator for uploading to the Institute Website.",
+      "Notice Board."
+    ]
+  },
+  "source_url": "https://nita.ac.in/News/1st_Year_BScBEd_MidTerm_2024.pdf"
+}

@@ -1,0 +1,175 @@
+{
+  "type": "Building & Works Committee Meeting",
+  "title": "41st BWC Meeting Minutes",
+  "date": "September 04, 2018",
+  "location": "Board Room, NIT Agartala Campus, Jirania, Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "Barjala, Jirania, West Tripura — 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) H. K. Sharma",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairman, BWC"
+  },
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H.K. Sharma",
+      "role": "Chairman, BWC, Director, NIT Agartala"
+    },
+    {
+      "name": "Dr. S.C. Saha",
+      "role": "Professor, Mechanical Engineering Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Ajoy Kumar Chakraborty",
+      "role": "Dean (P&D), NIT Agartala"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "role": "Superintending Engineer, PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Registrar, NIT Agartala, Member Secretary"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "41.1",
+      "title": "Confirmation of the Minutes of 40th BWC meeting held on 20th March 2018",
+      "decision": "Confirmed"
+    },
+    {
+      "item_no": "41.2",
+      "title": "Action taken on decisions of 39th BWC meeting held on 27th July 2017",
+      "sub_items": [
+        {
+          "sl_no": 1,
+          "work": "HVAC, Stage Craft, Stage Light, Sound System, Project System, Sitting Arrangement in seminar Hall",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 2,
+          "work": "Upgradation of internal main road with footpath, drains, bus stop, seating, and conduit",
+          "decision": "Deferred"
+        },
+        {
+          "sl_no": 4,
+          "work": "Construction of Central Lecture Hall Complex (27 Class Rooms)",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 5,
+          "work": "Total quantified variation in Construction of Sports Complex",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 6,
+          "work": "Electromechanical work in Swimming Pool of Sports Complex",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 7,
+          "work": "Supply, Installation, Testing & Commissioning of 14 lifts in campus buildings",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 9,
+          "work": "Items 34.12 to 34.21 previously approved",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 10,
+          "work": "Design, supply, construction, commissioning of water treatment plant 2.0 MLD, reservoirs, pipe laying, pump house",
+          "decision": "Requested CPWD/PWD to execute"
+        },
+        {
+          "sl_no": 12.1,
+          "work": "Yearly repairs of Submersible Pump sets 2015-16",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 12.2,
+          "work": "Annual maintenance of all NIT buildings 2016-17",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 17,
+          "work": "Supply, Installation, Testing and Commissioning of Split AC at Admin Block-I",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 24,
+          "work": "Maintenance/Extension of Mechanical Engg. Department Workshop and corridor",
+          "decision": "Noted"
+        },
+        {
+          "sl_no": 25,
+          "work": "Maintenance and Construction of DG Sheds (4 Nos.)",
+          "decision": "Noted"
+        }
+      ]
+    },
+    {
+      "item_no": "41.3",
+      "title": "Status of projects approved by Chairman BWC and ratified by 39th BWC",
+      "decision": "Action taken report noted for AMC of DG sets, lifts, ACs, UPS, painting and maintenance works. Some proposals dropped."
+    },
+    {
+      "item_no": "41.4",
+      "title": "Status of projects approved by Chairman BWC and ratified by 39th BWC (Agenda 39.4 to 39.13)",
+      "decision": "Action taken report noted; administrative approvals advised for estimates."
+    },
+    {
+      "item_no": "41.5",
+      "title": "Ratification of construction activities approved by Chairman BWC",
+      "decision": "Proposals ratified (Sl. No. 1 to 23)"
+    },
+    {
+      "item_no": "41.6",
+      "title": "Proposal for upgradation of roads within NIT Agartala",
+      "decision": "To be placed in next BWC meeting for open tendering as per GFR"
+    },
+    {
+      "item_no": "41.7",
+      "title": "Any other item with permission of the Chair",
+      "sub_items": [
+        {
+          "item_no": "41.7.1",
+          "title": "Maintenance of International Guest House",
+          "decision": "Approved Rs. 13,19,595.00"
+        },
+        {
+          "item_no": "41.7.2",
+          "title": "Maintenance of Aryabhatta Hostel Dining Block",
+          "decision": "Approved Rs. 3,23,189.00"
+        },
+        {
+          "item_no": "41.7.3",
+          "title": "Construction of connecting corridor between Aryabhatta Hostel blocks",
+          "decision": "Approved Rs. 12,23,072.00"
+        },
+        {
+          "item_no": "41.7.4",
+          "title": "Construction of car parking shed at CSE building",
+          "decision": "Approved Rs. 4,60,989.00"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "remarks": "Meeting ended with vote of thanks to the Chair",
+    "signatories": [
+      {
+        "name": "Dr. Govind Bhargava",
+        "role": "Registrar and Member Secretary, BWC"
+      },
+      {
+        "name": "Prof. H. K. Sharma",
+        "role": "Director and Chairman, BWC"
+      }
+    ]
+  },
+  "source_url": "[https://nita.ac.in/Minutes_Others/BWC_Minutes/41st_BWC_Minutes.pdf](https://nita.ac.in/Minutes_Others/BWC_Minutes/41st_BWC_Minutes.pdf)"
+}

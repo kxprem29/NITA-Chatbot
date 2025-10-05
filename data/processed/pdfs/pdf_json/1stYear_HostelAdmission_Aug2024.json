@@ -1,0 +1,134 @@
+{
+  "HostelAdmissionNotice": {
+    "documentInfo": {
+      "fileNumber": "F.NITA.74(52)/CW/Notification/2022",
+      "date": "05.08.2024"
+    },
+    "title": "NOTICE",
+    "for": "All first-year UG, PG, and Dual Degree students of NIT Agartala and IIIT Agartala who wish to stay in the hostel.",
+    "session": "Odd Semester (Session 2024-25)",
+    "paymentMethod": "MIS Online Payment mode",
+    "hostelFeeDetails": [
+      {
+        "eligibility": "UG (First Year)",
+        "occupancy": "Double (Limited)",
+        "initialFee": "5000*",
+        "hostelFee": "2000",
+        "messAdvance": "6200 | 23445**"
+      },
+      {
+        "eligibility": "PG (First Year)",
+        "occupancy": "Single (All)",
+        "initialFee": "5000*",
+        "hostelFee": "2000",
+        "messAdvance": "7200 | 23445**"
+      }
+    ],
+    "feeNotes": [
+      "₹5000 is refundable after completion of the course.",
+      "₹23445 is the Mess Advance."
+    ],
+    "specialInstructionsForGirls": {
+      "priority": "Due to limited vacancy in the girls’ hostel, girls whose home state is other than Tripura will be given priority.",
+      "applicationLink": "https://forms.gle/wQ1b87quPkpRXdTK7"
+    },
+    "paymentProcedure": [
+      {
+        "step": 1,
+        "description": "Pay the one-time hostel initial fee (₹7000) through MIS account after physical reporting.",
+        "path": "Login to MIS Account → Online Payment → SBI EPAY → Common Payment Interface → Select Receipt Type → Hostel Initial Fee → Pay"
+      },
+      {
+        "step": 2,
+        "description": "Submit the hostel fee (₹29645 for Double Occupancy and ₹30645 for Single Occupancy) through MIS account.",
+        "path": "Login to MIS Account → Online Payment → SBI EPAY → Common Payment Interface → Select Receipt Type → Hostel Fee → Pay"
+      },
+      {
+        "step": 3,
+        "description": "Proceed to room allotment in the MIS.",
+        "path": "Hostel → Transaction → Automatic Room Allotment → Allot Room"
+      },
+      {
+        "step": 4,
+        "description": "At the hostel office of RNT/Gargi Hostel, produce the soft copies of the receipts, the hostel room allotment letter, along with the filled hostel application form in hard copy."
+      }
+    ],
+    "contactInfo": {
+      "hostels": [
+        {
+          "name": "RNT: Block-1 & 2 (1st Year UG & IIIT)",
+          "warden": "Mr. Satyajit Das (8132085431)",
+          "supervisor": "Dr. Rabindra Das (9436557455)"
+        },
+        {
+          "name": "Gargi Hostel (Girls Hostel including IIIT)",
+          "warden": "Dr. Smita Das (9774715007)",
+          "supervisor": [
+            "Mrs. Mahuya Biswas (9774607090)",
+            "Mrs.Rumita Saha (7308354700)",
+            "Dr. Sagarika Panigrahi (8436363297)"
+          ]
+        }
+      ],
+      "internationalGuestHouse": {
+        "email": "ighnita@gmail.com"
+      }
+    },
+    "additionalInfo": {
+      "guestRoomFacility": "No guest room facility for parents in the Hostel.",
+      "hostelReportingTime": "9:00 AM to 6:00 PM only.",
+      "boysHostelSeats": "No limitation of seats; all interested students can take admission.",
+      "loanAvailment": "Those availing a loan must transfer fees using the individual VAN (Virtual Account Number) provided in the provisional admission letter."
+    },
+    "signedBy": "Chief Warden, NIT Agartala",
+    "hostelAdmissionForm": {
+      "formNumber": "H1",
+      "fields": [
+        "Name of the Student",
+        "Father’s Name",
+        "Mother’s Name",
+        "Date of Birth",
+        "State",
+        "Branch",
+        "Semester",
+        "Student’s Reg./Enrolment No.",
+        "Permanent Address",
+        "Name of Local Guardian",
+        "Address of Local Guardian",
+        "Blood Group of the Student"
+      ]
+    },
+    "rulesAndRegulations": [
+      "Keep calm and quiet to maintain peace and harmony.",
+      "Keep the allotted room/floor/corridor/toilet neat and clean.",
+      "Only personal laptops without external speakers, mobile phones, and power banks are allowed. Use of other electrical appliances is prohibited (penalty ₹5000).",
+      "Ragging is strictly prohibited.",
+      "Fighting is a punishable offense (penalty ₹5000 per individual).",
+      "Cooking is not allowed inside hostel rooms (penalty ₹5000).",
+      "Using motor vehicles on campus is strictly prohibited.",
+      "Smoking/chewing tobacco/consumption of alcoholic drinks is prohibited (penalty ₹5000).",
+      "Taking articles/utensils from the mess is prohibited (penalty ₹5000).",
+      "Unauthorized accommodation for friends/visitors/relatives is prohibited (penalty ₹5000).",
+      "Photograph pasting/drawing/writing on walls/furniture is prohibited (penalty ₹5000).",
+      "Interchanging/altering allotted rooms without approval is prohibited (penalty ₹5000).",
+      "Do not write name/roll number on the room door.",
+      "Birthday celebrations inside the hostel room are strictly prohibited.",
+      "Hostellers are not allowed to be absent from the hostel at night without permission.",
+      "Using the roof of any hostel/mess is prohibited.",
+      "Hostel timings: Boys not allowed outside from 8:00 PM to 4:30 AM, Girls not allowed outside from 6:00 PM to 6:00 AM.",
+      "During vacations, girls are not allowed outside from 5:00 PM to 7:00 AM.",
+      "Hostellers with backlog exams should follow specific stay rules during vacations.",
+      "A late entry register will be maintained; penalties can be imposed for repeated late entries.",
+      "Occupants are liable for intentional damage to hostel property.",
+      "Misuse of water, electricity, and other facilities is liable to disciplinary action.",
+      "Hostellers are responsible for their valuable belongings.",
+      "Strictly adhere to mess timings.",
+      "Do not waste food in the mess.",
+      "Report maintenance complaints in the complaint register.",
+      "Playing outdoor games inside the hostel is strictly prohibited.",
+      "Punishment for rule violations can include fines, expulsion from the hostel, or academic suspension.",
+      "Parents/guardians must agree to a fixed deposit bond of ₹50,000 for misconduct, which may not be refunded."
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Hostel/1stYear_HostelAdmission_Aug2024.pdf"
+}

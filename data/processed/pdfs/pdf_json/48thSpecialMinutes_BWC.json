@@ -1,0 +1,83 @@
+{
+  "filename": "48thSpecialMinutes_BWC.txt",
+  "title": "Minutes of the 48th (Special) Building & Works Committee Meeting",
+  "date": "21st December 2021",
+  "institution": "National Institute of Technology Agartala",
+  "location": "Board Room, NIT Agartala Campus, Jirania, Agartala",
+  "chairperson": "Prof. (Dr.) H. K. Sharma",
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H.K. Sharma",
+      "designation": "Chairman, B&WC, Director, NIT Agartala"
+    },
+    {
+      "name": "Mr. Anil Kumar",
+      "designation": "Director (Finance), MoE, Govt. of India",
+      "attendance_mode": "online"
+    },
+    {
+      "name": "Prof. (Dr.) Ajoy Kumar Chakraborty",
+      "designation": "Dean (P & D), NIT Agartala"
+    },
+    {
+      "name": "Er. Sampa Majumder",
+      "designation": "Superintending Engineer, PWD, Govt. of Tripura (representative of Chief Engineer, PWD, Govt. of Tripura)"
+    },
+    {
+      "name": "Er. Kajal Banik",
+      "designation": "Superintending Engineer, PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Prof. (Dr.) Debasish Bhattacharya",
+      "designation": "Registrar (I/C), NIT Agartala, Member Secretary"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "48.1",
+      "title": "Confirmation of the Minutes of the 47th BWC Meeting",
+      "details": "The draft minutes of the 47th BWC meeting held on 07th September 2021 were circulated to all members. The BWC confirmed the minutes as no comments were received."
+    },
+    {
+      "item_no": "48.2",
+      "title": "Construction of Proposed Lecture Hall Complex (Ground Floor with Future Provision of G+2)",
+      "estimate_amount": 334876684.00,
+      "details": "BWC approved the proposal and recommended placing it before the FC and BoG for Administrative Approval and Expenditure Sanction. Additional funds beyond Ministry sanction to be borne by Institute grant/IRG. CPWD may suggest modifications."
+    },
+    {
+      "item_no": "48.3",
+      "title": "Construction of Partition Wall and Repairing of Water Supply & Sanitary Items for Chemical Engineering Department (Old Library Building)",
+      "estimate_amount": 2412618.00,
+      "details": "BWC approved and confirmed Technical Sanction, Administrative Approval, and Expenditure Sanction."
+    },
+    {
+      "item_no": "48.4",
+      "title": "Construction of Bore Well including Pipelines for Gargi Hostel",
+      "estimate_amount": 253808.00,
+      "details": "BWC approved and confirmed Technical Sanction, Administrative Approval, and Expenditure Sanction."
+    },
+    {
+      "item_no": "48.5",
+      "title": "Internal Electrification Works for Chemical Engineering Department",
+      "estimate_amount": 795489.00,
+      "details": "BWC approved and confirmed Technical Sanction, Administrative Approval, and Expenditure Sanction."
+    },
+    {
+      "item_no": "48.6",
+      "title": "Internal Electrification Works for Central Computing Facility at CSE Department",
+      "estimate_amount": 634694.00,
+      "details": "BWC approved and confirmed Technical Sanction, Administrative Approval, and Expenditure Sanction."
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairman, Building & Works Committee and Director, NIT Agartala"
+    },
+    {
+      "name": "Dr. Debasish Bhattacharya",
+      "designation": "Registrar (I/C) and Member Secretary, Building & Works Committee"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/48thSpecialMinutes_BWC.pdf"
+}

@@ -1,0 +1,110 @@
+{
+  "36thBoardOfGovernorsMeeting": {
+    "MeetingNumber": 36,
+    "Date": "December 05, 2015",
+    "Location": "Conference Hall, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Role": "Chairperson, BoG of NIT Agartala"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Role": "Member, Director of NIT, Agartala"
+      },
+      {
+        "Name": "Shri Shashi Prakash Goyal",
+        "Role": "Joint Secretary (TEL), MHRD, Govt. of India"
+      },
+      {
+        "Name": "Smt. Darshana M Dabral",
+        "Role": "Joint Secretary & Financial Advisor, IFD, MHRD, Govt. of India"
+      },
+      {
+        "Name": "Prof. A. Srinivasan",
+        "Role": "Professor, Dept. of Physics, IIT Guwahati (nominee of Director, IIT Guwahati)"
+      },
+      {
+        "Name": "Prof. Richi Prasad Sharma",
+        "Role": "Professor, Civil Engg. Dept., NIT Agartala"
+      },
+      {
+        "Name": "Dr. John Debbarma",
+        "Role": "Assistant Professor, ME Dept., NIT Agartala"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Role": "Secretary, Registrar (i/c), NIT Agartala"
+      }
+    ],
+    "MembersAbsent": [
+      "Shri Alok Roy Choudhury, Addl. Chief Engineer, PWD, Tripura",
+      "Prof. (Mrs) Uma Bhattacharya, Professor, CSE Dept., IIEST, Shibpur",
+      "Secretary to the Government of Tripura, Dept. of Higher Education"
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "36.1",
+        "Description": "Confirmation of the Minutes of 34th & 35th BoG meetings",
+        "Decision": "Confirmed with adherence to NIT Statute for circulation and signature"
+      },
+      {
+        "ItemNo": "36.2",
+        "Description": "Action taken on decisions of 34th & 35th BoG meetings",
+        "Decision": "Noted; action to be detailed in next BoG meeting agenda"
+      },
+      {
+        "ItemNo": "36.3",
+        "Description": "Award of work: Upgradation of internal main road and related infrastructure (Cost Rs. 14,01,97,006.48)",
+        "Decision": "Deferred; to be placed in next BWC and then Finance Committee"
+      },
+      {
+        "ItemNo": "36.4",
+        "Description": "Approval for Supply, Installation, Testing & Commissioning of 15 lifts at various buildings (Cost Rs.2,86,51,140.00)",
+        "Decision": "Deferred; follow suggestions from 27th Finance Committee"
+      },
+      {
+        "ItemNo": "36.5",
+        "Description": "Consider recommendations of 27th Finance Committee",
+        "Decision": "Approved Annual Accounts 2014-15; other items to be placed after confirmation of 27th FC minutes"
+      },
+      {
+        "ItemNo": "36.6",
+        "Description": "Audit Report on accounts for FY 2014-15",
+        "Decision": "Perused; to act as per Finance Committee decision (Item 27.4)"
+      },
+      {
+        "ItemNo": "36.7",
+        "Description": "Annual Report for FY 2014-15",
+        "Decision": "Perused; Hindi & English versions to be submitted to Ministry of HRD for Parliament"
+      },
+      {
+        "ItemNo": "36.8",
+        "Description": "Present Status of TEQIP-II Project",
+        "Decision": "Accepted decisions of 27th FC Item 27.11; matter to be taken up after confirmation of 27th FC"
+      },
+      {
+        "ItemNo": "36.9",
+        "Description": "Assignments made by Director to employees for ratification",
+        "Decision": "Assignments need only to be apprised to Chairperson; 'appointments' changed to 'assignments'"
+      },
+      {
+        "ItemNo": "36.10",
+        "Description": "Establishment of Computer Centre using VDI over Thin-Client infrastructure",
+        "Decision": "Administrative approval granted; DPR to be placed before BWC; NIC may be consulted"
+      },
+      {
+        "ItemNo": "36.11.1",
+        "Description": "Proposal for issuance of No-Objection Certificate for Association of Non-Teaching Staff",
+        "Decision": "Membership restricted to Non-Teaching employees; details to be placed in next BoG meeting"
+      },
+      {
+        "ItemNo": "36.11.2",
+        "Description": "Proposed MOU with Bangladesh University of Engineering and Technology (BUET), Dhaka",
+        "Decision": "Approved; proposal to be forwarded to Ministry of HRD"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BOG_Minutes/36th_BoG_Minutes.pdf"
+}

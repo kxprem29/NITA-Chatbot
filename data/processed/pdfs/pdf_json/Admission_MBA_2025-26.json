@@ -1,0 +1,80 @@
+{
+  "filename": "Admission_MBA_2025-26.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "office": "Office of the Dean Academic",
+    "contact_email": "nitadeanacademic@gmail.com",
+    "notification_number": "NITA.5/(55-Acad)/MBA/2025-26/4",
+    "date": "12/03/2025",
+    "subject": "Admission in MBA Programme under the Department of Management, Humanities & Social Sciences of NIT Agartala for the 2025-26 Academic Session",
+    "program_details": {
+      "duration": "2-year full-time Residential MBA programme",
+      "department": "Department of Management, Humanities & Social Sciences",
+      "session_start": "July-December 2025",
+      "reservation_policy": "As per Govt. of India norms"
+    },
+    "application_instructions": {
+      "online_portal": "admission.nita.ac.in",
+      "steps": [
+        "Register on the portal by clicking 'Apply Now'",
+        "Fill in Personal, Address, Educational Details, Photo & Signature",
+        "Upload supporting documents: DOB, experience certificates, extra-curricular activities",
+        "Make online payment of application fee (Rs. 500 for SC/ST/PwD, Rs. 1000 for others)"
+      ],
+      "hard_copy_submission": "Send completed offline application form along with relevant documents to MHSS department of NIT Agartala"
+    },
+    "required_documents": [
+      "Valid score card of CAT/MAT/CMAT/GMAT",
+      "Proof of date of birth (10th Admit Card/Certificate)",
+      "10th & 12th/Diploma mark sheets",
+      "Photo ID proof",
+      "All semester mark sheets of Qualifying Degree",
+      "Pass Certificate of Qualifying Degree (if applicable)",
+      "Caste certificate (SC/ST/OBC-NCL/EWS) if applicable",
+      "Experience certificates and certificates of Extra-Curricular Activities if any"
+    ],
+    "application_deadlines": {
+      "online_submission": "25/04/2025 (3 PM)",
+      "hard_copy_submission": "05/05/2025"
+    },
+    "eligibility": {
+      "engineering_graduates": "60% marks or CGPA 6.0 in 10 point scale",
+      "other_disciplines": "55% marks or CGPA 5.5 in 10 point scale",
+      "relaxation": "5% marks or 0.5 CGPA for SC/ST candidates",
+      "final_year_candidates": "Eligible to apply",
+      "test": "Valid CAT/CMAT/GMAT/MAT or Institute Level Test (ILT) conducted online"
+    },
+    "admission_process": {
+      "Institute_Level_Test": "20th May, 2025",
+      "Group_Discussion_Personal_Interview": "21st-23rd May, 2025",
+      "Result_upload": "11th June, 2025",
+      "Fee_submission": "12th June to 19th June, 2025",
+      "Vacant_seats_notification": "25th June, 2025",
+      "Provisional_Admission_Spot_Round": "30th June, 2025",
+      "Class_Start": "8th July, 2025"
+    },
+    "general_terms_conditions": [
+      "Schedule may change due to unavoidable reasons",
+      "Institute may cancel candidature without reason",
+      "Prescribed qualifications are minimum; mere possession does not guarantee call for ILT/PA",
+      "Original documents must be produced during verification",
+      "Candidates should check website regularly for updates"
+    ],
+    "contact_details": [
+      { "name": "Dr. Kaju Nath", "phone": "7629914581" },
+      { "name": "Nabendu Debnath", "phone": "9856590795" },
+      { "email": "admission.mhss.nita@gmail.com" }
+    ],
+    "annexures": {
+      "Annexure_A": "Undertaking for Final Year Appearing Candidate",
+      "Form_Application": "Application form with personal, educational, work experience, extra-curricular details, and payment information",
+      "Certificates": {
+        "Caste_SC_ST": "Scheduled Caste/Tribe Certificate",
+        "PWD": "Persons with Disabilities Certificate",
+        "OBC_NCL": "Other Backward Class Certificate",
+        "EWS": "Economically Weaker Sections Certificate"
+      }
+    },
+    "source_url": "https://nita.ac.in/uploaded_files/Admission_MBA_2025-26.pdf"
+  }
+}

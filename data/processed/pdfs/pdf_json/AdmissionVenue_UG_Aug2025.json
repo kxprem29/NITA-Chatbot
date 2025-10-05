@@ -1,0 +1,83 @@
+{
+  "filename": "AdmissionVenue_UG_Aug2025.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala — 799046 (Tripura)",
+    "office": "Office of the Dean Academic",
+    "reference_no": "F.NITA.5/(10-Acad)/CSAB-2025/Adm/2024-25/A-10/4",
+    "date": "18/08/2025",
+    "notice": "All candidates who have selected 'Freeze' for NIT Agartala in JoSAA-2025 and have not opted for CSAB-2025 are hereby informed that the online registration process for physical reporting will commence from August 18, 2025. Such candidates must complete this online registration within the stipulated time before reporting physically to the institute.",
+    "physical_reporting": {
+      "venues": [
+        {
+          "name": "Visvesvaraya Auditorium",
+          "departments": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronics & Communication Engineering"
+          ]
+        },
+        {
+          "name": "Swami Vivekananda Seminar Hall",
+          "departments": [
+            "Bio Engineering",
+            "Chemical Engineering",
+            "Chemistry",
+            "Production Engineering",
+            "Electronics & Instrumentation Engineering",
+            "Mathematics"
+          ]
+        }
+      ],
+      "note": "It is mandatory for all candidates to be physically present at the venue on the date and time that will be notified by the institute. Candidates are therefore advised to regularly check the official website of NIT Agartala (www.nita.ac.in) for further updates."
+    },
+    "instructions": [
+      "Candidates are advised to strictly follow the notice dated August 4th, 2025 regarding the documents.",
+      "Candidates who opted for Float/Slide and CSAB-2025 are advised to visit the institute website regularly for updates on their online reporting.",
+      "Such candidates are also advised to follow the physical reporting dates as mentioned in the previous notice."
+    ],
+    "accommodation": {
+      "contact_person": "Mr. Sanjoy Ghosh (Supervisor, Guest House)",
+      "phone": "9436506949"
+    },
+    "how_to_reach": {
+      "airport": {
+        "distance": "26.5 km",
+        "time": "59 minutes",
+        "note": "Public vehicles are available from the airport to reach the campus."
+      },
+      "jirania_station": {
+        "distance": "3.2 km",
+        "time": "7 minutes",
+        "note": "Public vehicles are available from the railway station to reach the campus."
+      },
+      "agartala_station": {
+        "distance": "21.1 km",
+        "time": "37 minutes",
+        "note": "Public vehicles are available from the railway station to reach the campus."
+      }
+    },
+    "signatory": {
+      "name": "Prof. Rajib Saha",
+      "designation": "Dean (Academic)"
+    },
+    "copy_to": [
+      "PS to the Director for kind information of the Director.",
+      "All Deans, NIT Agartala for kind information.",
+      "Professor-in-charge, Admission (JoSAA-2025 and CSAB-2025), for kind information and necessary action.",
+      "The Registrar, NIT Agartala for kind information.",
+      "All HODs and W/S, for kind information and necessary action.",
+      "Asso. Dean (Exam), for kind information.",
+      "Asso. Dean (UG), for kind information.",
+      "Chief Warden, for kind information and necessary action.",
+      "1st year Co-ordinator, for kind information and necessary action.",
+      "Dy. Registrar (Academic), for kind information and necessary action.",
+      "Asstt. Registrar (Academic), for kind information and necessary action.",
+      "Faculty-In-Charge, MIS, for kind information & necessary action.",
+      "Dy. Registrar (F&A), for kind information and necessary action.",
+      "System Administrator, with a request to upload the notice on the Institute website."
+    ],
+    "website": "www.nita.ac.in"
+  },
+  "source_url": "https://nita.ac.in/Notice/AdmissionVenue_UG_Aug2025.pdf"
+}

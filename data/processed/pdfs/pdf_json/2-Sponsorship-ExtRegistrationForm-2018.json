@@ -1,0 +1,56 @@
+{
+  "SponsorshipCertificateForm": {
+    "formNumber": "NITA/ACAD/Ph.D./2",
+    "title": "Sponsorship Certificate for External Ph.D. Registration",
+    "addressee": "The Director, National Institute of Technology, Agartala",
+    "subject": "Sponsorship of Employee for External Ph.D. Programme Registration",
+    "purposeStatement": "To sponsor an employee of an organization for admission to the Ph.D. programme at NIT Agartala under the External Registration scheme.",
+    "formFields": [
+      {
+        "fieldName": "Reference No.",
+        "value": null
+      },
+      {
+        "fieldName": "Date",
+        "value": null
+      },
+      {
+        "fieldName": "Name of Sponsoring Organization",
+        "value": null
+      },
+      {
+        "fieldName": "Address",
+        "value": null
+      },
+      {
+        "fieldName": "Designation of Applicant",
+        "value": null
+      },
+      {
+        "fieldName": "Current Status of Applicant",
+        "value": null
+      },
+      {
+        "fieldName": "Proposed Division/Section for Research Work",
+        "value": null
+      },
+      {
+        "fieldName": "List of Available Local Supervisor(s)",
+        "notes": "Please enclose the bio-data of each local supervisor, including their designation, qualifications, research experience with area of research, and a statement of their consent for research guidance.",
+        "value": null
+      },
+      {
+        "fieldName": "Applicant's Name",
+        "value": null
+      }
+    ],
+    "certifications": [
+      "It is certified that the applicant has completed a minimum of two (2) years of regular service in our organization/institute.",
+      "If the applicant is admitted to the Ph.D. programme, we agree to relieve him/her to attend required classes at NIT Agartala for completion of the Ph.D. programme coursework.",
+      "The applicant will be permitted to conduct research towards the Ph.D. degree at our organization under the guidance of the selected local supervisor.",
+      "We will provide the necessary facilities to support this research."
+    ],
+    "signatureRequirement": "Signature and Seal of the Sponsoring Authority"
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/2-Sponsorship-ExtRegistrationForm-2018.pdf"
+}

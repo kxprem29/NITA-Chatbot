@@ -1,0 +1,74 @@
+{
+  "OralExaminationBoardForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./15",
+    "StudentDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "DateOfOralExamination": null,
+      "ThesisTitle": null
+    },
+    "OralExaminationBoard": [
+      {
+        "Role": "Chairman (Chairman of DC)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (External Examiner)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Chairman, DPPC",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Dean (Academic Affairs)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      }
+    ],
+    "Date": null,
+    "Approvals": {
+      "ChairmanSenate": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/15-OralExaminationBoard_41S_Oct2023.pdf"
+}

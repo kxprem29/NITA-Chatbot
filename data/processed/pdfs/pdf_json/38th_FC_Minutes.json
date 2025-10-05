@@ -1,0 +1,110 @@
+{
+  "meeting_number": 38,
+  "date": "January 13, 2021",
+  "type": "Finance Committee",
+  "location": "Virtual Class Room, NIT Agartala, Tripura (online mode)",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "attendees": [
+    {
+      "name": "Dr. Subhash Chandra Sati",
+      "designation": "Chairperson of BoG & FC, NIT Agartala",
+      "additional_info": "Former Director General (Naval Systems & Materials) of DRDO",
+      "mode": "video conference"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Director, NIT Agartala",
+      "mode": "in-person"
+    },
+    {
+      "name": "Mr. Madan Mohan",
+      "designation": "Addl. Director General (HE), MoE, Govt. of India",
+      "mode": "video conference"
+    },
+    {
+      "name": "Mrs. Darshana M. Dabral",
+      "designation": "JS & FA, IFD, MoE, Govt. of India",
+      "mode": "video conference"
+    },
+    {
+      "name": "Dr. D. Bhattacharya",
+      "designation": "Professor, Math. Dept., NIT Agartala",
+      "mode": "in-person"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Member Secretary of FC and Registrar, NIT Agartala",
+      "mode": "in-person"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "38.1",
+      "title": "Confirmation of the Minutes of the 37th Meeting of the Finance Committee",
+      "decision": "Confirmed after deliberation"
+    },
+    {
+      "item_no": "38.2",
+      "title": "Action taken on the decision of the 36th Finance Committee meeting",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "38.3",
+      "title": "Acceptance of lowest bidder for 'Extension of height of existing boundary wall at NIT Agartala'",
+      "decision": "Approved additional expenditure of Rs. 30,67,857 from Institute grant; recommended placing before the Board",
+      "note": "Institute authorities responsible for compliance with Govt. procurement procedures"
+    },
+    {
+      "item_no": "38.4",
+      "title": "Construction of 200 capacity Girls' Hostel at NIT Agartala (Deposit Work)",
+      "decision": "Approved; remaining Rs. 10,47,41,197 to be funded from IRG; recommended placing before Board",
+      "approved_by_ministry": "Rs. 6,30,00,000 by Ministry of Social Justice & Empowerment"
+    },
+    {
+      "item_no": "38.5",
+      "title": "HVAC, Stage Craft, Stage Light, Sound System, Projector System, Sitting Arrangement in the Seminar Hall",
+      "decision": "Approved for Rs. 11,63,10,000 from IRG and Institute grant; recommended placing before Board"
+    },
+    {
+      "item_no": "38.6",
+      "title": "Water supply arrangement at NIT Agartala including Ground Water Treatment Plant (Deposit work)",
+      "decision": "Deferred to next meeting with justification for cost increase from Rs. 9,03,24,485 to Rs. 11,96,79,000"
+    },
+    {
+      "item_no": "38.7",
+      "title": "Upgradation of 2-story building besides Knowledge Centre at NIT Agartala",
+      "decision": "Approved additional fund of Rs. 12,43,495 from Institute grant and IRG; recommended placing before Board",
+      "note": "Institute authorities responsible for compliance with Govt. procurement procedures"
+    },
+    {
+      "item_no": "38.8",
+      "title": "Recommendations of the minutes of the 45th Building & Works Committee meeting",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "38.9",
+      "title": "Special cash package equivalent in lieu of Leave Travel Concession Fare for Central Government Employees (block 2018-2021)",
+      "decision": "Recommended for regular employees of NIT Agartala"
+    },
+    {
+      "item_no": "38.10",
+      "title": "Any other item with the permission of the Chair",
+      "decision": "Not applicable"
+    }
+  ],
+  "meeting_end": "With a vote of thanks to the Chair",
+  "signatories": [
+    {
+      "name": "Dr. D. Bhattacharya",
+      "designation": "Registrar (I/C), NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson of FC & BoG, Director, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/38th_FC_Minutes.pdf"
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "AdmitCard_2ndSem_Even2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala — 799046 (Tripura)",
+    "reference_no": "No.F.NITA.6(1-Exam)/ NOTICE/ 2016-17",
+    "date": "24th March 2023",
+    "notice": "This is to inform all students of the 2nd and 4th Semester UG and Dual Degree programs appearing for the Even Semester Mid Term Examination scheduled to begin on 06 April 2023, that the Admit Card for the said Examination can be printed from their respective MIS Accounts as per the schedule mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": null,
+        "exam_name": "Even Semester Mid Term Examination of UG and Dual (2nd & 4th Semester)",
+        "exam_start_date": "06th April 2023",
+        "admit_card_download_duration": "03rd April to 05th April 2023",
+        "note": "No student will be able to print their Admit Card before or after the above-mentioned schedule."
+      }
+    ],
+    "instructions": [
+      "All students are hereby instructed to bring their Admit Cards to the Examination Hall while appearing for the examination and obtain the endorsement from the invigilator at the designated place.",
+      "Students without their respective admit cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action, please.",
+      "Associate Dean (UG & PG) for kind information.",
+      "The System Administrator, NIT Agartala, is requested to upload the Notification to the Institute Website.",
+      "Guard file for record."
+    ],
+    "contact_info": {
+      "website": "www.nita.ac.in",
+      "phone": ["0381-2346630", "0381-2348537"],
+      "fax": "0381-2346360"
+    }
+  },
+  "source_url": "https://nita.ac.in/Notice/AdmitCard_2ndSem_Even2023.pdf"
+}

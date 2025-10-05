@@ -1,0 +1,89 @@
+{
+  "filename": "43rd_BWC_Minutes.txt",
+  "metadata": {
+    "meeting_number": 43,
+    "date": "21st June, 2019",
+    "location": "Board Room, NIT Agartala Campus, Jirania, Agartala",
+    "institution": "NIT Agartala"
+  },
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H.K. Sharma",
+      "role": "Chairman, B&WC, Director, NIT Agartala"
+    },
+    {
+      "name": "Dr. S. C. Saha",
+      "role": "Professor, Mechanical Engg. Department, Member, NIT Agartala"
+    },
+    {
+      "name": "Dr. Partha Pratim Sarkar",
+      "role": "Dean (P & D) i/c, Member, NIT Agartala"
+    },
+    {
+      "name": "Sri Alok Chakraborty",
+      "role": "Superintending Engineer, PWD, Govt. of Tripura, Member"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "role": "Superintending Engineer, PWD, Govt. of Tripura, Member"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Registrar, Member Secretary, NIT Agartala"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "43.1",
+      "title": "Confirmation of the Minutes of the 42nd BWC meeting held on 15th March, 2019",
+      "decision": "Confirmed"
+    },
+    {
+      "item_no": "43.2",
+      "title": "Action taken on the decision of the 41st BWC Meeting held on 27th July, 2017",
+      "details": [
+        {
+          "ref": "39.2.1",
+          "work": "HVAC, Stage Craft, Stage Light, Sound System, Project System, Sitting Arrangement in Seminar Hall",
+          "decision": "Invite Expression of Interest (EoI) by June 2019"
+        },
+        {
+          "ref": "39.2.2",
+          "work": "Up-gradation of internal main road with footpath, side drain, electric post, bus stop, sitting arrangement",
+          "decision": "Project completed"
+        },
+        {
+          "ref": "39.2.4",
+          "work": "Construction of Central Lecture Hall Complex with 27 Class Rooms",
+          "decision": "Proposal dropped"
+        },
+        {
+          "ref": "39.2.6",
+          "work": "Electromechanical work in swimming pool of Sports Complex",
+          "decision": "Invite EoI by June 2019"
+        }
+      ]
+    },
+    {
+      "item_no": "43.8",
+      "title": "Construction of 5000 ltr. RCC overhead tanks",
+      "decision": "Administrative Approval and Expenditure Sanction Rs. 8,32,307.00"
+    },
+    {
+      "item_no": "43.24",
+      "title": "Any other item with the permission of the chair",
+      "additional_agenda": [
+        {
+          "ref": "43.24.1",
+          "work": "Construction of water distribution system including IRP facilities",
+          "decision": "Award to Tripura State PWD (DWS) on deposit work basis; submit to FC & BoG for approval of Rs. 9,03,24,485.00"
+        }
+      ]
+    }
+  ],
+  "signatures": {
+    "Member Secretary": "Dr. Govind Bhargava",
+    "Chairman": "Prof. H. K. Sharma"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/43rd_BWC_Minutes.pdf"
+}

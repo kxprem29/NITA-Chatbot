@@ -1,0 +1,103 @@
+{
+  "filename": "37th_FC_Minutes.json",
+  "meeting_number": 37,
+  "date": "September 29, 2020",
+  "type": "Finance Committee",
+  "location": "Virtual Class Room, NIT Agartala, Tripura",
+  "institute": "National Institute of Technology, Agartala",
+  "members_present": [
+    {
+      "name": "Dr. Subhash Chandra Sati",
+      "designation": "Chairperson of BoG & FC, NIT Agartala; Former Director General (Naval Systems & Materials), DRDO"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Director, NIT Agartala"
+    },
+    {
+      "name": "Mr. Madan Mohan",
+      "designation": "Addl. Director General (HE), MHRD, Govt. of India"
+    },
+    {
+      "name": "Mr. D. K. Singh",
+      "designation": "Dy. Secretary (Fin), MHRD; Representative of JS & FA, IFD, MHRD"
+    },
+    {
+      "name": "Dr. D. Bhattacharya",
+      "designation": "Professor, Math Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Member Secretary of FC; Registrar, NIT Agartala"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "37.1",
+      "title": "Confirmation of the Minutes of the 36th Meeting of the Finance Committee held on June 24, 2020",
+      "decision": "Confirmed"
+    },
+    {
+      "item_no": "37.2",
+      "title": "Action taken on the decision of the 36th Finance Committee meeting held on January 21, 2020",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "37.3",
+      "title": "Financial Status of the Institute as on September 09, 2020",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "37.4",
+      "title": "Present Status of TEQIP-III Project of NIT Agartala",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "37.5",
+      "title": "Physical & Financial Statement of ongoing construction works/projects",
+      "decision": "Considered"
+    },
+    {
+      "item_no": "37.6",
+      "title": "Audit Fee for Transaction/Accounts Audit for the years 2013-14 to 2018-19",
+      "decision": "Approved; fees to be paid with Director's approval"
+    },
+    {
+      "item_no": "37.7",
+      "title": "Amendment in guidelines for utilization of Cumulative Professional Development Allowance (CPDA)",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "37.8",
+      "title": "Recommendations of the 44th Building & Works Committee meeting",
+      "decision": "Approved"
+    },
+    {
+      "item_no": "37.9",
+      "title": "Proposal of Fee and User Charges for July-December semester of 2020",
+      "decision": "Approved and Director authorized to take decisions in consultation with Deans"
+    },
+    {
+      "item_no": "37.10",
+      "title": "Pensionary benefits extended to superannuated employees during 2020",
+      "decision": "Noted; purely administrative, no need for FC consideration"
+    },
+    {
+      "item_no": "37.11",
+      "title": "Any other item with the permission of the Chair",
+      "decision": "Not applicable"
+    }
+  ],
+  "closure": "Meeting ended with a vote of thanks to the Chair",
+  "signatures": [
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Member Secretary of Finance Committee & Registrar, NIT Agartala"
+    },
+    {
+      "name": "Dr. Subhash Chandra Sati",
+      "designation": "Chairperson, Finance Committee, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/37th_FC_Minutes.pdf"
+}

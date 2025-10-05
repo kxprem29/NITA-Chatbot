@@ -1,0 +1,81 @@
+{
+  "filename": "49thBoGMinutes.txt",
+  "title": "Minutes of the 49th Meeting of the Board of Governors",
+  "date": "November 09, 2019",
+  "institution": "National Institute of Technology Agartala",
+  "location": "Board Room, NIT Agartala, Tripura",
+  "chairperson": "Prof. (Dr.) H. K. Sharma",
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson of BoG and Director, NIT Agartala"
+    },
+    {
+      "name": "Mr. D. K. Singh",
+      "designation": "Dy. Secretary (Fin), MHRD (Representative of the JS & FA, IFD, MHRD, Govt. of India)",
+      "attendance_mode": "Skype"
+    },
+    {
+      "name": "Prof. Sharad Gokhale",
+      "designation": "Dean of Infrastructure Planning & Management, IIT Guwahati (nominee of the Director, IITG)",
+      "attendance_mode": "Skype"
+    },
+    {
+      "name": "Mr. Saju Vaheed A",
+      "designation": "Director, Higher Education, Govt. of Tripura (Representative of the Principal Secretary to the Govt. of Tripura, Dept. of Higher Education, Agartala)"
+    },
+    {
+      "name": "Prof. (Dr.) S. C. Saha",
+      "designation": "Member, Professor, ME Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Subhadeep Bhattacharjee",
+      "designation": "Member, Asso. Professor, EE Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Secretary, Registrar, NIT Agartala"
+    }
+  ],
+  "absentees": [
+    "The Special Secretary / Additional Secretary / Joint Secretary dealing with Technical Education, Dept. of Higher Education, MHRD"
+  ],
+  "agenda_items": [
+    {
+      "item_no": "49.1",
+      "title": "Confirmation of the Minutes of the 48th Meeting of the Board of Governors",
+      "details": "The minutes of the 48th BoG meeting held on October 03, 2019, were confirmed after incorporating comments from the Dy. Secretary (Finance), IFD, MHRD, with regard to Item No. 48.9, and the line 'During the proceedings of this discussion, the Registrar went outside and did not participate.' was added."
+    },
+    {
+      "item_no": "49.2",
+      "title": "Consideration of recommendations of the 29th Senate meeting held on February 27, 2019",
+      "details": "The Board approved agenda items S/29/14, S/29/15, S/29/17, S/29/21, and S/29/24. Regarding S/29/14, pertaining to opening of a multidisciplinary center, Members opined the Institute may apply separately to the Ministry of HRD for a grant."
+    },
+    {
+      "item_no": "49.3",
+      "title": "Consideration of recommendations of the 30th Senate meeting held on September 27, 2019",
+      "details": "The Board approved the minutes. Agenda S/30/32 does not involve financial liability, and necessary permission was acquired. Agenda S/30/A/03: the original number of seats can be restored as per course demand."
+    },
+    {
+      "item_no": "49.4",
+      "title": "Consideration of recommendations of the 31st Senate meeting scheduled on November 06, 2019",
+      "details": "The Board approved and confirmed the minutes of the 31st Senate meeting."
+    },
+    {
+      "item_no": "49.5",
+      "title": "Any other issue with the permission of the Chair",
+      "details": "Not applicable."
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson, Board of Governors & Director, NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Secretary, Board of Governors & Registrar, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/49thBoGMinutes.pdf"
+}

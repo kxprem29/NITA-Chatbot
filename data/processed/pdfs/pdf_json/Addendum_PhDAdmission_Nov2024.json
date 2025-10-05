@@ -1,0 +1,88 @@
+{
+  "filename": "Addendum_PhDAdmission_Nov2024.txt",
+  "title": "Ph.D. Admission Addendum - Civil Engineering Research Areas",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notice_number": "NITA.5(6-Acad)/Ph.D/Admn/2025/Jan/840",
+  "date": "2024-11-21",
+  "purpose": "Addendum to the notification for admission to Ph.D. programme for January-June 2025 session",
+  "reference_notice": "NITA.5(6-Acad)/Ph.D/Admn/2025/Jan/A-1837 dated 18/11/2024",
+  "department_research_areas": [
+    {
+      "department": "Civil Engineering - Structural Engineering",
+      "research_areas": [
+        "Linear and non-linear response of a system and its optimized control",
+        "Retrofitting and Rehabilitation of Structures",
+        "Sustainability in the built environment",
+        "Green, sustainable and alternative building materials",
+        "Analysis of RC/steel/buildings/masonry structures",
+        "Seismic analysis and design of structures",
+        "Vibration control",
+        "Smart materials",
+        "Structural health monitoring"
+      ]
+    },
+    {
+      "department": "Civil Engineering - Geotechnical Engineering",
+      "research_areas": [
+        "Geo-mechanics",
+        "Fluid-soil-structure interaction",
+        "Geo-hazards",
+        "Transportation and Environmental-Geotechnics",
+        "Forensic Engineering",
+        "Earthquake Geotechnical Engineering",
+        "GIS and Hazard mapping",
+        "Dynamics of Offshore/Onshore engineering"
+      ]
+    },
+    {
+      "department": "Civil Engineering - Water Resource & Hydraulic Engineering",
+      "research_areas": [
+        "River Engineering",
+        "Hydrodynamics",
+        "Sediment transport",
+        "Hydrology",
+        "Remote Sensing & GIS applications in Water Resources",
+        "Ground water hydraulics",
+        "Hydro Informatics and Water Resources Development",
+        "AI and Data Science in WRD",
+        "CFD"
+      ]
+    },
+    {
+      "department": "Civil Engineering - Environmental Engineering",
+      "research_areas": [
+        "Water and wastewater treatment",
+        "Environmental nanotechnology",
+        "Solid and Hazardous waste management",
+        "Anaerobic digestion",
+        "Sustainable treatment technologies"
+      ]
+    },
+    {
+      "department": "Civil Engineering - Transportation Engineering",
+      "research_areas": [
+        "Pavement Materials",
+        "Pavement Analysis & Design",
+        "Traffic Engineering and Safety",
+        "Transportation Planning",
+        "GIS & Remote Sensing",
+        "Sustainable Transportation",
+        "Highway Construction, Management and Maintenance",
+        "Ground Improvement Techniques"
+      ]
+    }
+  ],
+  "instructions": "All other information/instructions in the notice NITA.5(6-Acad)/Ph.D/Admn/2025/Jan/A-1837 dated 18/11/2024 will remain unchanged.",
+  "copy_to": [
+    "P.S. to the Director for kind information of the Director",
+    "Registrar, NIT Agartala for kind information",
+    "HOD (CE) for information and necessary action",
+    "Asso. Dean PG for kind information",
+    "System administrator for information with a request to upload the same on the Institute website"
+  ],
+  "signatory": "Prof. Rajib Saha, Dean (Academic)",
+  "location": "Barjala, Agartala-799046, India",
+  "website": "www.nita.ac.in",
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/Addendum_PhDAdmission_Nov2024.pdf"
+}

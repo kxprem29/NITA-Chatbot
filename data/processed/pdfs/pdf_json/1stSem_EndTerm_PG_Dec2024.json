@@ -1,0 +1,368 @@
+{
+  "EndTermExaminationSchedule": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.6/(5-EXAM)/EP/2012-13",
+      "date": "05.12.2024"
+    },
+    "examinationDetails": {
+      "title": "ODD SEMESTER END-TERM EXAMINATION - 2024",
+      "startDate": "13TH DECEMBER 2024",
+      "time": "11:00 AM - 1:00 PM",
+      "venue": "NIT Agartala"
+    },
+    "programs": [
+      {
+        "programName": "M.TECH",
+        "semester": "1ST SEMESTER",
+        "departments": [
+          {
+            "name": "Civil Engineering Specializations",
+            "schedule": [
+              {
+                "date": "13.12.2024",
+                "day": "Friday",
+                "subjects": {
+                  "Structural Engg, Geo Tech Engg, Transportation Engg, Environmental Engg, Water Resource Engg": "Theory of Elasticity & Plasticity (PCE11B03)"
+                }
+              },
+              {
+                "date": "16.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "Structural Engg, Geo Tech Engg, Transportation Engg, Environmental Engg, Water Resource Engg": "Advanced Concrete Technology/Structural Masonry",
+                  "Hydro Seismics Science": "Mechanics of Soil (PCE21C05)",
+                  "Informatics and Engineering": "Advance Mathematics (PCE21B03)"
+                }
+              },
+              {
+                "date": "17.12.2024",
+                "day": "Tuesday",
+                "subjects": {
+                  "Structural Engg, Geo Tech Engg, Transportation Engg, Environmental Engg, Water Resource Engg": "Advanced Structural Analysis (PCE11C06)"
+                }
+              },
+              {
+                "date": "19.12.2024",
+                "day": "Thursday",
+                "subjects": {
+                  "Structural Engg, Geo Tech Engg, Transportation Engg, Environmental Engg, Water Resource Engg": "Advanced Design of Pre-stressed Concrete/Advanced Design of RC Structures (PCE11E21)/(PCE11E19)",
+                  "Hydro Seismics Science": "Soil Dynamics and Machine Foundation PCE21C06",
+                  "Informatics and Engineering": "Ground Improvement Technique (PCE21E20)",
+                  "AI and Data Engg": "Mechanics of Soil {PCES1E16)"
+                }
+              },
+              {
+                "date": "21.12.2024",
+                "day": "Saturday",
+                "subjects": {
+                  "Structural Engg, Geo Tech Engg, Transportation Engg, Environmental Engg, Water Resource Engg": "Structural Dynamics (PCE11C05)",
+                  "Hydro Seismics Science": "Pavement Materials (PCE31B03)",
+                  "Informatics and Engineering": "Urban Transportation Planning and Management ENGINEERING OPERATION AND MANAGEMENT (PCE31C06)",
+                  "AI and Data Engg": "SOIL INVESTIGATION AND EXPLORATION PCE21E25"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Mechanical Engineering Specializations",
+            "schedule": [
+              {
+                "date": "13.12.2024",
+                "day": "Friday",
+                "subjects": {
+                  "Thermal Science & Tech": "ELECTIVE - I COMPUTATIONAL FLUID DYNAMICS (PME11E06)",
+                  "Manufacturing Tech": "ELECTIVE - I STRUCTURE & COMPUTATIONAL FLUID DYNAMICS (PMES1E04)",
+                  "Machine Design": "ADVANCED MATERIAL PROCESSING(PME21C13)",
+                  "Material Science": "ADVANCED MACHINE DESIGN(PME31C05)",
+                  "Automotive Engg": "CHARACTERIZATION OF MATERIALS(PMES1C16)"
+                }
+              },
+              {
+                "date": "16.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "Thermal Science & Tech": "ELECTIVE -1 NUMERICAL METHODS FOR ENGINEERS (PME11B03)",
+                  "Manufacturing Tech": "ADVANCED MATHEMATICS AND PROGRAMMING(PME21B05)",
+                  "Machine Design": "ADVANCE MATHEMATICS AND STATISTICS(PMES1C19)",
+                  "Material Science": "APPLIED MATHEMATICS FOR ENGINEERS(PME31E05)"
+                }
+              },
+              {
+                "date": "17.12.2024",
+                "day": "Tuesday",
+                "subjects": {
+                  "Thermal Science & Tech": "ADVANCE THERMODYNAMICS (PME11C06)",
+                  "Manufacturing Tech": "ELECTIVE I METAL CASTING (PME21E07)",
+                  "Machine Design": "ANALYSIS AND SYNTHESIS MECHANISM (PME31C07)",
+                  "Material Science": "THERMODYNAMICS OF MATERIALS(PMES1C15)",
+                  "Automotive Engg": "ELECTIVE - J ADVANCE THERMODYNAMICS (PMES1E02)"
+                }
+              },
+              {
+                "date": "19.12.2024",
+                "day": "Thursday",
+                "subjects": {
+                  "Thermal Science & Tech": "VISCOUS FLUID MECHANICS (PME11C05)",
+                  "Manufacturing Tech": "PHYSICS OF MANUFACTURING PROCESS (PME21C08)",
+                  "Machine Design": "PHYSICAL METALLURGY METHODS(PME31E08)",
+                  "Automotive Engg": "(PME51C20)"
+                }
+              },
+              {
+                "date": "21.12.2024",
+                "day": "Saturday",
+                "subjects": {
+                  "Thermal Science & Tech": "CONDUCTION AND RADIATION PME11C07",
+                  "Manufacturing Tech": "ELECTIVE - 11 PRODUCTION PLANNING AND CONTROL(PME21E10)",
+                  "Machine Design": "ENGINE COMBUSTION AND EMISSIONS PMES1C12"
+                }
+              },
+              {
+                "date": "23.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "Material Science": "POLYMER ENGINEERING PMES1C17"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Electrical & Computer Science Engineering Specializations",
+            "schedule": [
+              {
+                "date": "13.12.2024",
+                "day": "Friday",
+                "subjects": {
+                  "Power Electronics & Drives": "MODELLING AND ANALYSIS OF ELECTRICAL MACHINES AND DRIVES(PEE11C04)",
+                  "Instrumentation Engg": "ELECTIVE PAPER-II DIGITAL SIGNAL PROCESSING (PEE21E04)",
+                  "Power System": "POWER SYSTEM AND STABILITY CONTROL (PEE31C04)",
+                  "Integrated Energy System": "ELECTIVE PAPER-I (OPEN) DIRECT ENERGY CONVERSION(PEEO1E03)",
+                  "Artificial Intelligence": "ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B03)",
+                  "Cyber Security": "ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B01)",
+                  "Data Science & Engineering": "ADVANCED DATA STRUCTURES AND ALGORITHMS (PCS21B01)"
+                }
+              },
+              {
+                "date": "16.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "Power Electronics & Drives": "ADVANCE POWER ELECTRONICS (PEE11C03)",
+                  "Instrumentation Engg": "INDUSTRIAL INSTRUMENTATION (PEE21C03)",
+                  "Power System": "POWER SYSTEM OPERATION AND ECONOMICS",
+                  "Integrated Energy System": "ENERGY CONSERVATION (PEEO1C04)",
+                  "Artificial Intelligence": "ARTIFICIAL INTELLIGENCE (PCS21B04)",
+                  "Cyber Security": "PRINCIPLES OF CRYPTOGRAPHY (PCS21B02)",
+                  "Data Science & Engineering": "MATHEMATICAL FOUNDATIONS FOR DATA SCIENCE(PCS21C01"
+                }
+              },
+              {
+                "date": "17.12.2024",
+                "day": "Tuesday",
+                "subjects": {
+                  "Power Electronics & Drives": "ELECTIVE PAPER-II HVDC TRANSMISSION",
+                  "Instrumentation Engg": "PROCESS CONTROL AND INSTRUMENTATION (PEE21C04)",
+                  "Power System": "ELECTIVE PAPER-II HVDC TRANSMISSION (PEE31E06)",
+                  "Integrated Energy System": "ELECTIVE PAPER-II HVDC TRANSMISSION (PEEO1E05)",
+                  "Artificial Intelligence": "COMPUTATIONAL METHODS OF OPTIMIZATION",
+                  "Cyber Security": "MATHEMATICAL FOUNDATION OF",
+                  "Data Science & Engineering": "DATA MINING (PCS21B02)"
+                }
+              },
+              {
+                "date": "19.12.2024",
+                "day": "Thursday",
+                "subjects": {
+                  "Power Electronics & Drives": "ELECTIVE PAPER-I (OPEN) RENEWABLE",
+                  "Instrumentation Engg": "ELECTIVE PAPER-I (OPEN)",
+                  "Power System": "ELECTIVE PAPER-I (OPEN)",
+                  "Integrated Energy System": "RENEWABLE ENERGY (PEEO1C03)",
+                  "Artificial Intelligence": "LANGUAGE PROCESSING",
+                  "Cyber Security": "ADVANCED COMPUTER NETWORKS",
+                  "Data Science & Engineering": "NATURAL LANGUAGE PROCESSING PCS21E01"
+                }
+              },
+              {
+                "date": "21.12.2024",
+                "day": "Saturday",
+                "subjects": {
+                  "Power Electronics & Drives": "OPTOELECTRONICS AND INSTRUMENTATION PEE11B02",
+                  "Instrumentation Engg": "OPTOELECTRONICS AND INSTRUMENTATION (PEE21B05)",
+                  "Power System": "OPTOELECTRONICS AND INSTRUMENTATION (PEE31B02)",
+                  "Integrated Energy System": "OPTOELECTRONICS AND INSTRUMENTATION (PEEO1B02)",
+                  "Artificial Intelligence": "INFORMATION RETRIEVAL (PCS21E16)",
+                  "Cyber Security": "DATA HIDING (PCS21E03)",
+                  "Data Science & Engineering": "INFORMATION RETRIEVAL (PCS21E02)"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Electronics, Chemical & Bio Engineering Specializations",
+            "schedule": [
+              {
+                "date": "13.12.2024",
+                "day": "Friday",
+                "subjects": {
+                  "VLSI Design": "SEMICONDUCTOR DEVICE MODELING (PEC31C06)",
+                  "Communication Systems and Signal Processing": "ADVANCED DIGITAL COMMUNICATION (PEC21C02)",
+                  "Chemical Engg": "ADVANCED THERMODYNAMICS PCH11B02",
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "BIOANALYTICAL TECHNIQUES (PBEO1C01)"
+                }
+              },
+              {
+                "date": "16.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "VLSI Design": "DIGITAL VLSI CIRCUITS (PEC31C07)",
+                  "Communication Systems and Signal Processing": "LINEAR ALGEBRA & STOCHASTIC PROCESSES(PEC21B01)",
+                  "Chemical Engg": "ADVANCED TRANSPORT PHENOMENA(PCH11C03)",
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "BIOTECHNOLOGY AND BIOCHEMICAL ENGINEERING PRINCIPLES(PBE11C12"
+                }
+              },
+              {
+                "date": "17.12.2024",
+                "day": "Tuesday",
+                "subjects": {
+                  "VLSI Design": "ANALOG VLSI CIRCUITS (PEC31C08)",
+                  "Communication Systems and Signal Processing": "ADVANCED DIGITAL SIGNAL PROCESSING (PEC21C01}",
+                  "Chemical Engg": "ADVANCED NUMERICAL METHODS IN CHEMICAL ENGG(PCH11C05",
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "APPLIED BIOINFORMATICS (PBE11C11)"
+                }
+              },
+              {
+                "date": "19.12.2024",
+                "day": "Thursday",
+                "subjects": {
+                  "VLSI Design": "ELECTIVE -I Advanced Computer Architecture and Processor Design (PEC31E16)",
+                  "Communication Systems and Signal Processing": "ELECTIVE - I: MICROWAVE CIRCUITS, SYSTEMS AND APPLICATION (PEC21E01)",
+                  "Chemical Engg": "ADVANCED INSTRUMENT ANALYSIS IN CHEMICAL ENGG",
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "GENOMICS AND PROTEOMICS (PBE11C10)"
+                }
+              },
+              {
+                "date": "21.12.2024",
+                "day": "Saturday",
+                "subjects": {
+                  "VLSI Design": "Elective I SYNTHESIS AND CHARACTERIZATION OF NANOMATERIALS (PEC31E15)",
+                  "Communication Systems and Signal Processing": "ELECTIVE I: DIGITAL CONTROL SYSTEM (PEC21E02)",
+                  "Chemical Engg": "MODELING AND SIMULATION OF BIOPROCESS",
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "ELECTIVE I-ENVIRONMENTAL BIOTECHNOLOGY (PBE11E07)"
+                }
+              },
+              {
+                "date": "23.12.2024",
+                "day": "Monday",
+                "subjects": {
+                  "BIO TECHNOLOGY & BIOCHEMICAL ENGINEERING": "IPR AND BIOSAFETY (PBE11801)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "programName": "M.Sc",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "13.12.2024",
+            "subjects": {
+              "Mathematics and Computing": "PMA21B06",
+              "Chemistry": "PCYO1B06",
+              "Physics": "PPHO1B10"
+            }
+          },
+          {
+            "date": "16.12.2024",
+            "subjects": {
+              "Mathematics and Computing": "PMA21B07",
+              "Chemistry": "PCY01B07",
+              "Physics": "PPHO1B11"
+            }
+          },
+          {
+            "date": "17.12.2024",
+            "subjects": {
+              "Mathematics and Computing": "REAL ANALYSIS (PMA21B09)",
+              "Chemistry": "PCY01B08",
+              "Physics": "CONDENSED MATTER PHYSICS - I PPHO1B14"
+            }
+          },
+          {
+            "date": "21.12.2024",
+            "subjects": {
+              "Mathematics and Computing": "COMPUTER PROGRAMMING IN C++, MATLAB /MATHEMATICA (THEORY)",
+              "Chemistry": "ANALYTICAL AND ENVIRONMENTAL CHEMISTRY (PCYO1B10)"
+            }
+          }
+        ]
+      },
+      {
+        "programName": "MCA",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "19.12.2024",
+            "day": "THURSDAY",
+            "subjects": [
+              "WEB TECHNOLOGY (MCA01B08)",
+              "PRINCIPLES AND PRACTICES OF MANAGEMENT (MCAO1C05)"
+            ]
+          }
+        ]
+      },
+      {
+        "programName": "MBA",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "Unknown",
+            "subjects": [
+              "PMHS11C05",
+              "PMHS11C08",
+              "ACCOUNTING FOR MANAGERIAL DECISIONS PMHS11C06"
+            ]
+          },
+          {
+            "date": "19.12.2024",
+            "day": "THURSDAY",
+            "subject": "ORGANIZATIONAL BEHAVIOUR"
+          },
+          {
+            "date": "21.12.2024",
+            "day": "SATURDAY",
+            "subject": "BUSINESS & ENVIRONMENTAL LAW"
+          },
+          {
+            "date": "23.12.2024",
+            "day": "MONDAY",
+            "subject": "MARKETING MANAGEMENT"
+          }
+        ]
+      },
+      {
+        "programName": "Ph.D Course work",
+        "department": "Production Engg",
+        "schedule": [
+          {
+            "date": "13.12.2024",
+            "day": "FRIDAY",
+            "subject": "ADVANCES IN MACHINING PROCESS (PPE11B02)"
+          },
+          {
+            "date": "16.12.2024",
+            "day": "MONDAY",
+            "subject": "ADVANCED FINITE ELEMENT METHODS (PPE11C03)"
+          }
+        ]
+      }
+    ],
+    "distributionList": [
+      "P.S to the Director for kind information of the Director.",
+      "All HOD’s for kind information.",
+      "System administrator for upload in the Institute Website.",
+      "Notice Board."
+    ]
+  },
+  "source_url": "https://nita.ac.in/News/1stSem_EndTerm_PG_Dec2024.pdf"
+}

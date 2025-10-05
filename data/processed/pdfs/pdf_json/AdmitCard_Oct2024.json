@@ -1,0 +1,36 @@
+{
+  "filename": "AdmitCard_Oct2024.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala – 799046 (Tripura)",
+    "email": "exam.nitagartala@gmail.com",
+    "reference_no": "No.F.NITA.6(1- Exam)/ NOTICE/ 2016-17",
+    "date": "30th September 2024",
+    "notice": "This is to inform all students of the 1st Semester UG, PG & DUAL Degree programs appearing for the Mid Term Odd Semester Examination 2024, scheduled from 21st October 2024, that the Admit Cards for the said Examination can be printed from their respective MIS Accounts as per the schedule mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": 1,
+        "exam_name": "Mid Term Odd Semester Examination (1st Semester UG, PG & DUAL Degree)",
+        "admit_card_download_duration": "15th October 2024 to 17th October 2024",
+        "exam_starting_date": "21st October 2024"
+      }
+    ],
+    "instructions": [
+      "No student will be able to print their Admit Card before or after the above-mentioned schedule.",
+      "All students are hereby instructed to bring the Admit Card to the Examination Hall each day and obtain the endorsement from the invigilator at the designated place.",
+      "Any student who fails to bring the Admit Card to the Exam Hall will be required to obtain a duplicate Admit Card for the remaining days of the examination. This can be downloaded from their respective MIS Account against a fine of Rs. 200/-.",
+      "Students without their Admit Cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action please.",
+      "MIS In-Charge for kind information and necessary action please.",
+      "The System Administrator, NIT Agartala. He is requested to upload the Notification on the Institute Website.",
+      "Guard file for record."
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Examination/AdmitCard_Oct2024.pdf"
+}

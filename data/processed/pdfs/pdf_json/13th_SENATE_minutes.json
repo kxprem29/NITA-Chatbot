@@ -1,0 +1,288 @@
+{
+  "SenateMeetingMinutes": {
+    "documentInfo": {
+      "fileNumber": "No.NITA.51(7-Acad)/SENATE/2012-13/384",
+      "issueDate": "02/12/2014"
+    },
+    "meetingDetails": {
+      "title": "Minutes of the 13th Senate Meeting",
+      "meetingNumber": 13,
+      "date": "17th February, 2014",
+      "time": "11:30 AM",
+      "location": "Conference Hall, NIT Agartala"
+    },
+    "attendees": [
+      {
+        "name": "Prof. Gopal Mugeraya",
+        "role": "Chairman",
+        "designation": "Director, NIT Agartala"
+      },
+      {
+        "name": "Prof. Nilanjana Gupta",
+        "role": "Member",
+        "designation": "Dean, Faculty of Arts, Jadavpur University"
+      },
+      {
+        "name": "Prof. Kehar Singh",
+        "role": "Member",
+        "designation": "Department of Physics, IIT Delhi"
+      },
+      {
+        "name": "Prof. Subhas Chandra Saha",
+        "role": "Member",
+        "designation": "Professor (ME), NIT Agartala"
+      },
+      {
+        "name": "Prof. Umesh Mishra",
+        "role": "Member",
+        "designation": "Professor (CE), NIT Agartala"
+      },
+      {
+        "name": "Prof. Ajit Kumar Roy",
+        "role": "Member",
+        "designation": "Professor (HU), NIT Agartala"
+      },
+      {
+        "name": "Prof. R. P. Sharma",
+        "role": "Member",
+        "designation": "Professor (CE) & Dean (Acad), NIT Agartala"
+      },
+      {
+        "name": "Prof. Kamakhya Prasad Ghatak",
+        "role": "Member",
+        "designation": "Professor (ECE), NIT Agartala"
+      },
+      {
+        "name": "Dean R&C",
+        "role": "Invitee"
+      },
+      {
+        "name": "Dean P&D",
+        "role": "Invitee"
+      },
+      {
+        "name": "Dean SW",
+        "role": "Invitee"
+      },
+      {
+        "name": "Heads of Departments",
+        "role": "Invitee"
+      },
+      {
+        "name": "Faculty in-charge of Schools",
+        "role": "Invitee"
+      },
+      {
+        "name": "Head of School of Management",
+        "role": "Invitee"
+      },
+      {
+        "name": "Controller of Examinations",
+        "role": "Invitee"
+      },
+      {
+        "name": "Sri Sumanta Chakrabarti",
+        "role": "Secretary, SENATE",
+        "designation": "Registrar (I/C), NIT Agartala"
+      }
+    ],
+    "agendaItems": [
+      {
+        "itemNumber": "S/13/01",
+        "title": "Confirmation of the Minutes of the 12th Meeting of Senate held on 20th May, 2013.",
+        "resolution": "Confirmed with the observation that guidelines for the nomination of 2 faculty members to the SENATE would be prepared and discussed in a future meeting."
+      },
+      {
+        "itemNumber": "S/13/02",
+        "title": "Action taken report on the decisions of 12th meeting of Senate.",
+        "resolution": "Perused, noted, and approved."
+      },
+      {
+        "itemNumber": "S/13/03",
+        "title": "Ratification of result of Ph.D in Engineering, Science and Humanities & Social Science for awarding Ph.D Degree in the 6th Convocation.",
+        "resolution": "Ratified the awarding of Ph.D degrees to Mr. Pritam Saha, Smt. Papiya Dutta, Mr. Che, and Mrs. Lipika Dey."
+      },
+      {
+        "itemNumber": "S/13/04",
+        "title": "Consideration and ratification of Rules & Regulations and syllabi of BS-MS dual degree programme in Physics, Chemistry and Mathematics.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/13/05",
+        "title": "Consideration and ratification of Rules & Regulations and syllabi of B.Tech-M.Tech dual degree programme in Engineering Physics.",
+        "resolution": "Ratified."
+      },
+      {
+        "itemNumber": "S/13/06",
+        "title": "Consideration and ratification of registration of Mr. Kishan Choudhuri in Ph.D programme of this Institute.",
+        "resolution": "Ratified the registration of Mr. Kishan Choudhuri in the Ph.D programme in Mechanical Engineering without any precedence."
+      },
+      {
+        "itemNumber": "S/13/07",
+        "title": "Consideration and ratification of revised academic calendar for even semester of the academic session 2013-14.",
+        "resolution": "Ratified with the suggestion to utilize at least 2 Saturdays as working days to compensate for lost teaching days."
+      },
+      {
+        "itemNumber": "S/13/08",
+        "title": "Consideration and ratification of revised criteria for admission in Master of Business Administration (MBA).",
+        "resolution": "Ratified the revised admission criteria for the MBA program."
+      },
+      {
+        "itemNumber": "S/13/09",
+        "title": "Consideration and ratification of awarding degree to the successful students who passed B.Tech in 2013 in the 6th convocation of NIT Agartala.",
+        "resolution": "Approved the awarding of B.Tech degrees for 2013.",
+        "details": {
+          "totalAppeared": 355,
+          "totalPassed": 353,
+          "passPercentage": 99
+        }
+      },
+      {
+        "itemNumber": "S/13/10",
+        "title": "Consideration and ratification of awarding degree to the successful students who passed M.Tech in 2013 in the 6th convocation of NIT Agartala.",
+        "resolution": "Approved the awarding of M.Tech degrees for 2013.",
+        "details": {
+          "totalAppeared": 83,
+          "totalPassed": 82
+        }
+      },
+      {
+        "itemNumber": "S/13/11",
+        "title": "Consideration and ratification of awarding degree to the successful students who passed MCA in 2013 in the 6th convocation of NIT Agartala.",
+        "resolution": "Approved the awarding of MCA degrees for 2013.",
+        "details": {
+          "totalAppeared": 7,
+          "totalPassed": 7
+        }
+      },
+      {
+        "itemNumber": "S/13/12",
+        "title": "Consideration and ratification of awarding degree to the successful students who passed M.Sc in 2013 in the 6th convocation of NIT Agartala.",
+        "resolution": "Approved the awarding of M.Sc degrees for 2013.",
+        "details": {
+          "totalAppeared": 19,
+          "totalPassed": 19
+        }
+      },
+      {
+        "itemNumber": "S/13/13",
+        "title": "Consideration and approval of awarding Gold Medals to the Institute toppers and Gold Plated Silver Medals to other Branch toppers in 2013 in the 6th convocation of NIT Agartala.",
+        "resolution": "Approved the awarding of medals with the condition that an inquiry committee would investigate an allegation against Sri Avishek Debroy, and if found guilty, his degree and medal would be withdrawn."
+      },
+      {
+        "itemNumber": "S/13/14",
+        "title": "Review of existing programs at UG and PG Levels.",
+        "resolution": "Decided to continue BS-MS and BT-MT programs for one more year and then review. Also decided to merge the four schools (Hydro Informatics, Seismic Science & Engineering, Automotive Engineering, Energy Studies) with their respective parent departments."
+      },
+      {
+        "itemNumber": "S/13/15",
+        "title": "Status of admission in B.Tech 1st Semester during the Academic Session 2013-14.",
+        "resolution": "Perused, with the suggestion to address vacant SC/ST seats with the State Education Department."
+      },
+      {
+        "itemNumber": "S/13/16",
+        "title": "Status of admission in M.Tech 1st Semester during the Academic Session 2013-14.",
+        "resolution": "Perused."
+      },
+      {
+        "itemNumber": "S/13/17",
+        "title": "Status of admission in MCA 1st Semester during the Academic Session 2013-14.",
+        "resolution": "Perused."
+      },
+      {
+        "itemNumber": "S/13/18",
+        "title": "Status of admission in MBA 1st Semester during the Academic Session 2013-14.",
+        "resolution": "Perused."
+      },
+      {
+        "itemNumber": "S/13/19",
+        "title": "Status of admission in M.Sc 1st Semester During the Academic Session 2013-14.",
+        "resolution": "Perused."
+      },
+      {
+        "itemNumber": "S/13/20",
+        "title": "Consideration and approval of transfer of 3(three) Assistant Professors of Civil & Transportation Engineering Department to Civil Engineering Department after its abolition.",
+        "resolution": "Approved the transfer of Dipankar Sarkar, Debdulal Tripura, and Parthopratim Sarkar to the Civil Engineering Department."
+      },
+      {
+        "itemNumber": "S/13/21",
+        "title": "Consideration and approval of allowing Prof. K.P. Ghatak to act as supervisor of a Ph.D scholar in the Department of Physics.",
+        "resolution": "Approved, with the suggestion that the Physics Department must also have a supervisor from within the department for the scholar."
+      },
+      {
+        "itemNumber": "S/13/22",
+        "title": "Consideration and approval for change of supervisor of Prasenjit Ghorai a Ph.D scholar of ECE Department.",
+        "resolution": "Approved that Dr. Tarun Kumar Bandhopadhyay or Dr. Biswanath Bhunia could be a co-supervisor, but the ECE Department must allot a primary supervisor from within the department."
+      },
+      {
+        "itemNumber": "S/13/23",
+        "title": "Consideration and approval of curriculum and syllabus of course work of M.Sc Chemistry as an elective.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "S/13/24",
+        "title": "Consideration and approval of guidelines of Summer Internship of the students of MBA.",
+        "resolution": "Approved."
+      },
+      {
+        "itemNumber": "S/13/25",
+        "title": "Fixation of duration of nominated persons to SENATE from amongst the educationists of repute.",
+        "resolution": "Approved a duration of 2 years from the date of the first meeting after nomination."
+      },
+      {
+        "itemNumber": "S/13/26",
+        "title": "Consideration and perusal of Monitoring of the academic activities in NIT Agartala.",
+        "resolution": "Perused."
+      },
+      {
+        "itemNumber": "S/13/27",
+        "title": "Consideration and perusal of Status of research activities in NIT Agartala.",
+        "resolution": "Decided that research quality will not be compromised and that scholars must publish at least 3 papers in SCI journals before thesis submission."
+      },
+      {
+        "itemNumber": "S/13/28",
+        "title": "Consideration and approval of extension of assistantship to Ph.D scholars beyond 4(four) years.",
+        "resolution": "Approved that scholars who have completed 4 years may be allowed assistantship against their absorption in projects as project staff."
+      },
+      {
+        "itemNumber": "S/13/29",
+        "title": "Consideration and amendment of formation of Doctoral Committee for research work.",
+        "resolution": "Approved the revised composition of the Doctoral Committee."
+      },
+      {
+        "itemNumber": "S/13/30",
+        "title": "Consideration and approval of formation of Doctoral Committee for the Ph.D scholars of CSE Department admitted in July-2013.",
+        "resolution": "Approved, with the suggestion that one member of each DC be nominated by the Director and that the status quo for existing DCs be maintained."
+      },
+      {
+        "itemNumber": "S/13/31",
+        "title": "Consideration and perusal of Starting of Research activities in some Departments where qualified teachers and infrastructure are not available.",
+        "resolution": "No admission to Ph.D programs will be given in departments without qualified teachers and infrastructure."
+      },
+      {
+        "itemNumber": "S/13/32",
+        "title": "Consideration and perusal of opening of some Centres and Schools without sufficient faculties and infrastructure.",
+        "resolution": "Perused and decided to merge the schools with related departments as per agenda item S/13/14."
+      },
+      {
+        "itemNumber": "S/13/33",
+        "title": "Consideration and perusal of admission of Sri Rajesh Kumar Das in Ph.D Programme.",
+        "resolution": "Perused and approved, with the decision to take necessary care to avoid future recurrences."
+      },
+      {
+        "itemNumber": "S/13/34",
+        "title": "Consideration and perusal of moderation of question papers of NIT Agartala from other Institutions.",
+        "resolution": "Decided that faculty will submit 2 sets of questions and each department will invite a mentor to moderate them."
+      }
+    ],
+    "closingRemarks": {
+      "summary": "All decisions were taken unanimously.",
+      "conclusion": "The Meeting ended with a vote of thanks to the chair."
+    },
+    "signedBy": {
+      "name": "Sumanta Chakrabarti",
+      "title": "Registrar (I/C) Secretary, SENATE"
+    }
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/Senate_Minutes/13th_SENATE_minutes.pdf"
+}

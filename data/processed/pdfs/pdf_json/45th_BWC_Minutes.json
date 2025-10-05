@@ -1,0 +1,360 @@
+{
+  "filename": "45th_BWC_Minutes.txt",
+  "metadata": {
+    "meeting_number": 45,
+    "date": "13th July 2020",
+    "location": "Virtual Class Room, NIT Agartala Campus, Jirania, Agartala",
+    "institution": "National Institute of Technology, Agartala",
+    "chairman": "Prof. (Dr.) H. K. Sharma"
+  },
+  "attendees": [
+    {
+      "name": "Prof. (Dr.) H.K. Sharma",
+      "designation": "Director, NIT Agartala",
+      "role": "Chairman, B&WC"
+    },
+    {
+      "name": "Sri D.K. Singh",
+      "designation": "Under Secretary, MHRD, Govt. of India",
+      "role": "Member",
+      "mode": "Skype"
+    },
+    {
+      "name": "Prof. (Dr.) Ajoy Kumar Chakraborty",
+      "designation": "Dean (P & D), NIT Agartala",
+      "role": "Member"
+    },
+    {
+      "name": "Prof. (Dr.) Sujit Kumar Pal",
+      "designation": "Civil Engineering Department, NIT Agartala",
+      "role": "Member"
+    },
+    {
+      "name": "Sri Alok Chakraborty",
+      "designation": "Superintending Engineer, PWD, Govt. of Tripura",
+      "role": "Member",
+      "notes": "Representative of Chief Engineer, PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "designation": "Superintending Engineer, PWD, Govt. of Tripura",
+      "role": "Member"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Registrar, NIT Agartala",
+      "role": "Member Secretary",
+      "mode": "Skype"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "45.1",
+      "title": "Confirmation of the Minutes of the 44th BWC Meeting",
+      "details": "The minutes of the 44th BWC meeting held on 15th November 2019 were circulated. No comments were received. Minutes confirmed."
+    },
+    {
+      "item_no": "45.2",
+      "title": "Action taken on the decision of the 43rd BWC Meeting",
+      "sub_items": [
+        {
+          "ref": "39.2 Sl. No. 1",
+          "description": "HVAC, Stage Craft, Stage Light, Sound System, Project System, Sitting Arrangement in Seminar Hall",
+          "action": "Noted"
+        },
+        {
+          "ref": "39.2 Sl. No. 6",
+          "description": "Electromechanical work in the swimming pool of Sports Complex at NIT Agartala, Rs. 4,47,84,869.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "39.2 Sl. No. 7",
+          "description": "Supply, Installation, Testing & Commissioning of 14 lifts in various buildings",
+          "action": "Noted"
+        },
+        {
+          "ref": "39.2 Sl. No. 12.1",
+          "description": "Yearly repairs of Submersible Pump set 2.0HP/3.0HP/5.0HP, Rs. 3,60,117.00",
+          "action": "Accepted, extend agreement for 1 year"
+        },
+        {
+          "ref": "39.2 Sl. No. 12.2",
+          "description": "Annual maintenance at all buildings of NIT, Agartala, Rs. 49,79,491.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "39.3 Sl. No. 12",
+          "description": "Supply of Plumbing, Carpentry, and Masonry materials",
+          "action": "Noted"
+        },
+        {
+          "ref": "39.4",
+          "description": "Construction of 1500 capacity Boys Hostel - Boundary Wall, Rs. 54,44,000.00",
+          "action": "Work awarded, in progress"
+        },
+        {
+          "ref": "39.6",
+          "description": "Construction of PH toilets at various locations",
+          "action": "Noted"
+        },
+        {
+          "ref": "Roof treatment",
+          "description": "1st wing of Dr. A.K. Mishra Block by APP Sheet",
+          "action": "Noted"
+        },
+        {
+          "ref": "Septic Tank",
+          "description": "Old type-IV quarters D/001 & D/002",
+          "action": "Noted"
+        },
+        {
+          "ref": "Aluminum net",
+          "description": "Covering glass windows in Knowledge Center",
+          "action": "Noted"
+        },
+        {
+          "ref": "Laser lab ceiling",
+          "description": "Repairing/replacement of false ceiling",
+          "action": "Noted"
+        },
+        {
+          "ref": "Steel Tubular Pole",
+          "description": "Painting with accessories under campus",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.14",
+          "description": "AMC for 8 Thyssen Krupp Lifts (2018-2021)",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.15",
+          "description": "AMC for 2 Thyssen Krupp Lifts, Computer Centre Building (2017-2020)",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.16",
+          "description": "Maintenance of Aryabhatta Hostel Dining Block, Rs. 3,23,189.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.17",
+          "description": "Construction of connecting corridor between blocks for Aryabhatta Hostel, Rs. 12,23,072.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.18",
+          "description": "Construction of 5000L RCC overhead tanks at ECE & CSE buildings",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.19",
+          "description": "Construction of approach road for workshop building and CE lab, Rs. 20,02,987.00",
+          "action": "Work awarded to Sri Keshab Sarkar, in progress"
+        },
+        {
+          "ref": "45.2.20",
+          "description": "Construction of partition wall for Reaction Engineering & Hydro-informatics labs, Rs. 4,99,646.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.21",
+          "description": "Construction of road from Auditorium to SOM Building along SBI ATM, Rs. 20,95,759.00",
+          "action": "Work awarded, in progress"
+        },
+        {
+          "ref": "45.2.22",
+          "description": "Construction of children park, Rs. 23,50,706.00",
+          "action": "Work awarded, in progress"
+        },
+        {
+          "ref": "45.2.23",
+          "description": "Construction of road from rotary to gate-3 & Market Complex, Rs. 36,04,842.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.24",
+          "description": "Construction of bore wells at Aryabhatta Hostel & Sports Complex, Rs. 4,44,337.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.25",
+          "description": "Special repair & retrofitting of Library, Rs. 71,55,558.00",
+          "action": "Work awarded to M/S BBR India Pvt. Ltd., in progress"
+        },
+        {
+          "ref": "45.2.26",
+          "description": "Special repair & retrofitting of Dhalai Hostel, Rs. 98,94,302.00",
+          "action": "Work awarded to M/S BBR India Pvt. Ltd., in progress"
+        },
+        {
+          "ref": "45.2.27",
+          "description": "Construction of store room for Mechanical Dept., Rs. 9,19,012.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.28",
+          "description": "Upgradation of 2-storey building beside Knowledge Centre, Rs. 60,77,405.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.29",
+          "description": "Construction of Sewerage Treatment Plant (STP) - Consultant engagement",
+          "action": "Preliminary estimate forwarded to CPWD for evaluation"
+        },
+        {
+          "ref": "45.2.30",
+          "description": "Construction of 3 security sheds, Rs. 7,79,504.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.31",
+          "description": "Construction of two-wheeler parking near Gate-2, Rs. 15,54,382.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.32",
+          "description": "Upgradation of Security Barrack, Rs. 11,11,847.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.33",
+          "description": "Upgradation of Mechanical workshop building, Rs. 25,43,821.00",
+          "action": "Noted"
+        },
+        {
+          "ref": "45.2.34",
+          "description": "Water distribution system including IRP facilities, Rs. 9,03,24,485.00",
+          "action": "Revised estimate to be submitted by PWD, next meeting"
+        }
+      ]
+    },
+    {
+      "item_no": "45.3",
+      "title": "Ratification of construction activities approved by Chairman BWC",
+      "approved_works": [
+        {
+          "work": "Construction of washing area for market Complex",
+          "contractor": "Sri Dhruba Bhowmik",
+          "agreement_value": 830627
+        },
+        {
+          "work": "Gas pipelines for 1500 capacity boys hostel kitchens",
+          "action": "Ratified"
+        },
+        {
+          "work": "Boundary wall for KV field along with drain",
+          "action": "Ratified"
+        },
+        {
+          "work": "Partition walls at Civil Engineering Dept. (SOM Building)",
+          "action": "Ratified"
+        },
+        {
+          "work": "Electrification works for DST Project in old KV Building, Rs. 2,84,869.00",
+          "action": "Ratified"
+        },
+        {
+          "work": "Electrification & AC in STIC room, Rs. 6,15,443.00",
+          "action": "Ratified, expenditure by ISRO Rs. 6,26,410.00"
+        },
+        {
+          "work": "33 KV Lightning Arrester & other insulators at 33/11 KV Substation",
+          "action": "Ratified"
+        },
+        {
+          "work": "Renovation of STIC room, Ground floor, CSE Building",
+          "action": "Ratified, expenditure by ISRO Rs. 4,88,712.00"
+        },
+        {
+          "work": "Comprehensive Maintenance of 4 OTIS lifts, Rs. 8,08,800.00",
+          "action": "Ratified"
+        },
+        {
+          "work": "AMC for 1 OTIS lift, Laboratory-Cum-Canteen Building, Rs. 4,49,754.00",
+          "action": "Ratified"
+        }
+      ]
+    },
+    {
+      "item_no": "45.4",
+      "title": "Appraisal of lesser side deviation for 1500 boys hostel construction",
+      "action": "Approved, savings of Rs. 9.25 crore approx. appreciated"
+    },
+    {
+      "item_no": "45.5",
+      "title": "Approval of Standard Bid Document (SBD)",
+      "action": "Deferred to next meeting for consideration"
+    },
+    {
+      "item_no": "45.6",
+      "title": "Publication of tender",
+      "action": "Approved"
+    },
+    {
+      "item_no": "45.7",
+      "title": "Maintenance of road from rotary to gate no-3 & Market Complex",
+      "action": "Deferred"
+    },
+    {
+      "item_no": "45.8",
+      "title": "Construction of drain from Dining Hall LGF to culvert of RNT Hostel",
+      "amount": 176926,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.9",
+      "title": "Construction of Gas bank including pipeline for Aryabhatta & Gargi Hostel",
+      "amount": 2835666,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.10",
+      "title": "Construction of shed beside DST civil project room",
+      "amount": 743703,
+      "action": "Deferred"
+    },
+    {
+      "item_no": "45.11",
+      "title": "Maintenance of 33/11 KVA Substation",
+      "amount": 729183,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.12",
+      "title": "Painting of Electrical panels / DG Sheds",
+      "amount": 398432,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.13",
+      "title": "Maintenance of fire fighting for Aryabhatta Hostel",
+      "amount": 2985743,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.14",
+      "title": "Annual maintenance of all buildings including hostels & quarters",
+      "amount": 3994627,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    },
+    {
+      "item_no": "45.15",
+      "title": "Providing & fixing aluminum partition wall in Physics Lab, Room 106A",
+      "amount": 181487,
+      "action": "Technical, Administrative, Expenditure Sanctioned"
+    }
+  ],
+  "closing": "Meeting ended with a vote of thanks to the Chair",
+  "signatories": [
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Member Secretary"
+    },
+    {
+      "name": "Prof. H. K. Sharma",
+      "role": "Chairman"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/45th_BWC_Minutes.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "TenderNotice": {
+    "documentInfo": {
+      "fileNumber": "23(324)/NITA/Estate/2023-24",
+      "issueDate": "11/08/2024"
+    },
+    "title": "Notice Inviting e-Tender",
+    "tenderDetails": {
+      "nameOfWork": "Construction of No. 1 (One) Bore Well at Aryabhatta Hall/Hostel Block-A including all necessary accessories at NIT Agartala.",
+      "tenderNumber": "11/NITA/Estate/2023-24"
+    },
+    "invitedFrom": "Central & State PWD/ CPWD/ Public Sector Undertakings/Registered firms.",
+    "biddingProcess": {
+      "mode": "Online only",
+      "portalUrl": "https://eprocure.gov.in",
+      "instructions": "Bidders have to participate in the bidding online and submit technical and financial bids online only. No physical submission will be permitted."
+    },
+    "paymentDetails": {
+      "fees": [
+        {
+          "type": "Earnest Money",
+          "status": "Refundable"
+        },
+        {
+          "type": "Tender Cost",
+          "status": "Non-Refundable"
+        }
+      ],
+      "paymentMethod": "Online transfer through RTGS/NEFT/Net Banking to the Institute’s Bank Account via the SBI e-collect portal."
+    },
+    "bidOpening": {
+      "note": "Intending bidders and other Bidders may like to be present at the bid opening."
+    },
+    "contactInfo": {
+      "email": "estatesectioncivil@nita.ac.in"
+    },
+    "additionalInfo": {
+      "corrigendumNote": "Any subsequent corrigendum will be available on the website only.",
+      "websites": [
+        "http://www.nita.ac.in",
+        "https://eprocure.gov.in"
+      ]
+    },
+    "signedBy": "Registrar, NIT Agartala"
+  },
+  "source_url": "https://nita.ac.in/TenderFile/5borewellarya.pdf"
+}

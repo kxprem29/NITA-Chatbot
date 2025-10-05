@@ -1,0 +1,25 @@
+{
+  "TenderNotice": {
+    "Institute": "National Institute of Technology Agartala",
+    "WorkName": "Replacement of roof sheet along with repairing of the steel structure below the roof sheet of Physics & Chemistry Lab",
+    "ETenderNo": "05/NITA/Estate/2024-25",
+    "BidDetails": {
+      "EarnestMoney": "Refundable",
+      "BidFee": "Non-Refundable",
+      "PaymentDetails": {
+        "AccountNo": "30936141729",
+        "IFSCCode": "SBIN0011491",
+        "MICRNo": "799002525",
+        "Bank": "State Bank of India, NIT Agartala Branch"
+      }
+    },
+    "SubmissionDetails": "Bids can be submitted online only through the e-Procurement website until the bid closing time. Physical submission is not permitted.",
+    "Contact": "estatesectioncivil@gmail.com",
+    "Notes": "Any subsequent corrigendum will be available on the website only.",
+    "Website": [
+      "http://www.nita.ac.in",
+      "https://eprocure.gov.in"
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/TenderFile/11RoofSheetPhyChe.pdf"
+}

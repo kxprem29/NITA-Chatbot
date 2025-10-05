@@ -1,0 +1,42 @@
+{
+  "filename": "Admission_MBA_SpotRound_July2024.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "office": "Office of the Dean Academic",
+    "notification_number": "NITA.5/(55-Acad)/",
+    "date": "[Date]/07/2023",
+    "subject": "Notification regarding admission in MBA Programme through Spot Round for the academic session 2024-25",
+    "spot_round_details": {
+      "eligible_candidates": "Candidates from the waiting list as per Notification No. NITA.5(55-Acad)MBA/2024-25/A-1702, dated 12/07/2024",
+      "reporting_date": "05/08/2024",
+      "vacant_seats": {
+        "OP": 3
+      },
+      "admission_fee": {
+        "amount": 41825,
+        "currency": "INR",
+        "mode": "Demand Draft in favor of REGISTRAR, NIT AGARTALA, STATE BANK OF INDIA, NIT AGARTALA BRANCH, IFSC Code: SBIN0004491"
+      },
+      "application_instructions": [
+        "Apply to the Dean (AA) in plain paper",
+        "Bring ID proof",
+        "Submit application along with DD and other documents by 1 PM of 05/08/2024",
+        "Selection will be done strictly as per merit list",
+        "Submit self-attested photocopies of all documents during physical reporting",
+        "Bring all original documents for verification"
+      ],
+      "reporting_time": "10:05 AM on 05/08/2024",
+      "classes_start": "07/08/2024 (Wednesday)"
+    },
+    "issued_by": "Assistant Registrar (Academic Affairs)",
+    "copy_to": [
+      "PS to the Director, NIT Agartala",
+      "Registrar, NIT Agartala",
+      "Dean (AA)",
+      "Head of the Department of Management, Humanities & Social Sciences",
+      "Faculty in-charge MIS",
+      "System administrator for uploading"
+    ],
+    "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/Admission_MBA_SpotRound_July2024.pdf"
+  }
+}

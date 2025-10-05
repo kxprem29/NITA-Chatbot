@@ -1,0 +1,205 @@
+
+{
+  "filename": "34th_BWC_Minutes.txt",
+  "meeting": {
+    "number": 34,
+    "type": "Building & Works Committee",
+    "date": "August 24, 2015",
+    "location": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+    "chairperson": "Prof. (Dr.) Gopal Mugeraya",
+    "members_present": [
+      "Prof. (Dr.) Gopal Mugeraya - Chairman, B&WC, Director, NIT Agartala",
+      "Sri Asit Bhaumik - Member, TES Gr-I Addl. Chief Engineer / Representative of PWD (Civil), Govt. of Tripura",
+      "Sri Kajal Banik - Member, Superintending Engineer (Elect), Electrical Inspectorate/ Representative of PWD, Govt. of Tripura",
+      "Dr. Debasish Bhattacharya - Member, Dean (P & D), NIT Agartala",
+      "Dr. Richi Prasad Sharma - Member, Professor, Civil Engg. Department, NIT Agartala",
+      "Mr. Sumanta Chakraborti - Member Secretary, Registrar (I/C), NIT, Agartala"
+    ]
+  },
+  "agenda_items": [
+    {
+      "item_no": "34.1",
+      "description": "Confirmation of the minutes of the 33rd Building & Works Committee",
+      "decision": "Minutes of the 33rd BWC confirmed without modifications"
+    },
+    {
+      "item_no": "34.2",
+      "description": "Action taken on the decisions of 33rd BWC",
+      "decision": "Noted with observations",
+      "details": [
+        {
+          "action": "Work of HVAC, Stage Craft, Stage Light, Sound System, Project System, Seating Arrangement, etc. in the Seminar Hall at NIT Agartala",
+          "observation": "BWC noted the action taken report"
+        },
+        {
+          "action": "Reported action taken of 32nd BWC meeting placed in the 33rd BWC",
+          "observation": ""
+        }
+      ]
+    },
+    {
+      "item_no": "34.3",
+      "description": "Ratification of construction activities approved by Chairman, BWC",
+      "decision": "Action ratified"
+    },
+    {
+      "item_no": "34.4",
+      "description": "Estimate for Construction of Central Lecture Hall Complex (27 Class Rooms) at NIT Agartala",
+      "decision": "Noted; Scrutiny Committee meeting scheduled for September 16, 2015"
+    },
+    {
+      "item_no": "34.5",
+      "description": "Tentative deviation in work of Construction of Sports Complex at NIT Agartala",
+      "decision": "Discussion deferred; special meeting to be convened after negotiation with M/S NCC Ltd"
+    },
+    {
+      "item_no": "34.6",
+      "description": "Estimate for Electromechanical work in swimming pool of Sports Complex",
+      "decision": "Deferred for comparative study"
+    },
+    {
+      "item_no": "34.7",
+      "description": "Supply, Installation, Testing & Commissioning of 15 lifts in various buildings",
+      "decision": "Deferred; Revised Estimate to exclude Director's Bungalow lift"
+    },
+    {
+      "item_no": "34.8",
+      "description": "Maintenance of Auditorium Hall (2014-15) - Repairing of stage and roof",
+      "decision": "Ratified"
+    },
+    {
+      "item_no": "34.9",
+      "description": "Maintenance of Academic building (DONER) 2014-15 - Partition wall, false ceiling, water supply",
+      "decision": "Approved; work order issued at Rs. 3,14,900 to Utpal Chakraborty"
+    },
+    {
+      "item_no": "34.10",
+      "description": "Construction of Sentry post & internal pathway with seating at Gargi Hostel",
+      "decision": "Approved; work order Rs. 6,96,756 (5.8% above estimate) to Shree Guru Enterprise"
+    },
+    {
+      "item_no": "34.11",
+      "description": "Schedule of rate for estimating works",
+      "decision": "DSR 2014 to be followed; items not in DSR 2014 to follow latest TSR; previous estimates under DSR 2012"
+    },
+    {
+      "item_no": "34.12",
+      "description": "Reconstruction of boundary wall near Sports Complex & Workshop",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.13",
+      "description": "Construction of structure for overhead tank at Security Barrack",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.14",
+      "description": "Construction of Police Out-Post / Balance work",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "34.15",
+      "description": "Maintenance of Aryabhatta Hostel - wall tiles",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.16",
+      "description": "Maintenance of Aryabhatta Hostel - barbed wire fencing",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.17",
+      "description": "Maintenance of Old Academic Building - roof treatment",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.18",
+      "description": "Maintenance of NITA Girl's Hostel - Collapsible Door and garden steps",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.19",
+      "description": "Partition wall in Civil Engineering Lab (Transportation Lab)",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.20",
+      "description": "Maintenance of Dhalai Hostel - doors, windows, floor, wall tiles",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.21",
+      "description": "Maintenance of Auditorium - Fountain, Acoustic board, Roof, Plumbing",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.22",
+      "description": "Water treatment plant 2.0 MLD & associated works",
+      "decision": "Approved; tentative cost Rs. 1458.00 lakhs; open tender; 3 overhead tanks suggested"
+    },
+    {
+      "item_no": "34.23",
+      "description": "Supply of electrical materials for Boys & Girls Hostel including Physics dept",
+      "decision": "Approved; open tender; use LED bulbs where possible"
+    },
+    {
+      "item_no": "34.24",
+      "description": "Supply of electrical consumables for Submersible Pumps",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.25",
+      "description": "Procurement of electrical appliances/materials for repair/replacement/installation",
+      "decision": "Approved; open tender; use LED bulbs where possible"
+    },
+    {
+      "item_no": "34.26",
+      "description": "Internal electrification at Gargi Hostel",
+      "decision": "Approved; open tender; use LED bulbs where possible"
+    },
+    {
+      "item_no": "34.27",
+      "description": "Internal electrification at old Guest House building",
+      "decision": "Approved; open tender; use LED bulbs where possible"
+    },
+    {
+      "item_no": "34.28",
+      "description": "3-Phase power supply at Water Resource lab of Workshop-I",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.29",
+      "description": "Internal electrification at Computational Lab-II, Mechanical Dept",
+      "decision": "Approved; open tender; use LED bulbs where possible"
+    },
+    {
+      "item_no": "34.30",
+      "description": "Installation of 200 KVA distribution transformer near Gargi Hostel",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.31",
+      "description": "Extension of LT line from 1.0 MVA transformer behind Computer Centre Building",
+      "decision": "Approved; open tender"
+    },
+    {
+      "item_no": "34.32",
+      "description": "Any other item with permission of the Chair",
+      "sub_items": [
+        {
+          "item_no": "34.32.1",
+          "description": "Annual maintenance of pump and pipelines",
+          "decision": "Accepted; detailed estimate to be prepared for next BWC"
+        },
+        {
+          "item_no": "34.32.2",
+          "description": "Annual maintenance of different buildings",
+          "decision": "Accepted; detailed estimate to be prepared for next BWC"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/34th_BWC_Minutes.pdf"
+
+  
+}

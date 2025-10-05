@@ -1,0 +1,53 @@
+{
+  "filename": "AcademicBank_Sept2023.txt",
+  "metadata": {
+    "organization": "National Institute of Technology Agartala",
+    "location": "Barjala, Jirania, Tripura West, Pin - 799046",
+    "office": "Office of Dean Academic and Examination",
+    "contact_email": "exam.nitagartala@gmail.com"
+  },
+  "notice": {
+    "title": "Notice Regarding Credit Transfer",
+    "audience": "All students of NIT and HIT Agartala",
+    "instructions": [
+      "Students are required to register on both the ABC and NAD portals: https://www.abc.gov.in/ and https://nad.digilocker.gov.in/",
+      "Registration generates ABC and NAD IDs, which must be shared using the form: https://forms.gle/IQV686XqzaLTvTsB9",
+      "Once IDs are updated in MIS, students can apply for credit transfer through the ABC portal",
+      "Credit transfer requests must be submitted using the attached form and endorsed by the HoD",
+      "Students cannot opt for credit transfer of more than 10% of total credits required for their course",
+      "Students with backlogs are not eligible to apply for credit transfer",
+      "Students must maintain required attendance for courses at the host institute"
+    ],
+    "issued_by": "Assistant Registrar (Academic Affairs)"
+  },
+  "application_form": {
+    "title": "Application for Credit Transfer",
+    "fields": [
+      "Name",
+      "ABC ID",
+      "Enrollment No.",
+      "Department/Specialization",
+      "Degree",
+      "Current Semester",
+      "Date of Enrollment",
+      "Current CGPA",
+      "Number of Current Backlogs",
+      "Subjects You Want to Transfer Credit"
+    ],
+    "subjects_table_columns": [
+      "Sl. No",
+      "Name of Subject",
+      "Credit",
+      "Institute from which Credit is Transferred",
+      "Duration of Course"
+    ],
+    "signatures_required": [
+      "Candidate",
+      "Faculty Advisor",
+      "Academic Coordinator",
+      "Head of Department",
+      "Nodal Officer, ABC"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/UG%20Programme/AcademicBank_Sept2023.pdf"
+}

@@ -1,0 +1,171 @@
+{
+  "filename": "Addendum_Spot_MTech_MSc_Sept2023.txt",
+  "title": "Spot Admission Addendum for M.Tech & M.Sc 2023",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notice_number": "NITA.SI(12-Acad)/M.Tech/Non-CCMT/2023-24/",
+  "date": "2023-09-11",
+  "subject": "Revised seat matrix for admission to M.Tech & M.Sc programme against vacant seats for spot admission",
+  "spot_admission_date": "2023-09-13",
+  "tables": [
+    {
+      "table_number": "I",
+      "description": "Department-wise vacant seats for M.Tech & M.Sc (Part 1)",
+      "data": [
+        {
+          "department": "Civil Engineering",
+          "specialization": "Geotechnical Engineering",
+          "OP": 0,
+          "EWS": 0,
+          "OBC": 1,
+          "SC": 0,
+          "ST": 4,
+          "total_vacant": 5
+        },
+        {
+          "department": "Civil Engineering",
+          "specialization": "Structural Engineering",
+          "OP": 1,
+          "EWS": 0,
+          "OBC": 2,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 4
+        },
+        {
+          "department": "Civil Engineering",
+          "specialization": "Environmental Engineering",
+          "OP": 1,
+          "EWS": 0,
+          "OBC": 1,
+          "SC": 0,
+          "ST": 4,
+          "total_vacant": 6
+        },
+        {
+          "department": "Civil Engineering",
+          "specialization": "Transportation Engineering",
+          "OP": 1,
+          "EWS": 0,
+          "OBC": 1,
+          "SC": 0,
+          "ST": 3,
+          "total_vacant": 5
+        },
+        {
+          "department": "Civil Engineering",
+          "specialization": "Water Resources Engineering",
+          "OP": 1,
+          "EWS": 0,
+          "OBC": 1,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 3
+        },
+        {
+          "department": "Computer Science & Engineering",
+          "specialization": "Cyber Security",
+          "OP": 0,
+          "EWS": 0,
+          "OBC": 1,
+          "SC": 0,
+          "ST": 0,
+          "total_vacant": 1
+        },
+        {
+          "department": "Computer Science & Engineering",
+          "specialization": "Data Science & Artificial Intelligence",
+          "OP": 0,
+          "EWS": 1,
+          "OBC": 0,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 2
+        }
+      ]
+    },
+    {
+      "table_number": "II",
+      "description": "Department-wise vacant seats for M.Tech & M.Sc (Part 2)",
+      "data": [
+        {
+          "department": "Computer Science & Engineering",
+          "specialization": "Integrated Production Manufacturing",
+          "OP": 5,
+          "EWS": 1,
+          "OBC": 2,
+          "SC": 1,
+          "ST": 1,
+          "total_vacant": 10
+        },
+        {
+          "department": "Chemical Engineering",
+          "specialization": "Chemical Engineering",
+          "OP": 3,
+          "EWS": 1,
+          "OBC": 2,
+          "SC": 0,
+          "ST": 2,
+          "total_vacant": 8
+        },
+        {
+          "department": "Biotechnology",
+          "specialization": "Bio & Biochemical Engineering",
+          "OP": 2,
+          "EWS": 0,
+          "OBC": 2,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 5
+        },
+        {
+          "department": "Physics",
+          "specialization": "Physics",
+          "OP": 0,
+          "EWS": 1,
+          "OBC": 0,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 2
+        },
+        {
+          "department": "Chemistry",
+          "specialization": "Chemistry",
+          "OP": 0,
+          "EWS": 1,
+          "OBC": 0,
+          "SC": 1,
+          "ST": 0,
+          "total_vacant": 2
+        },
+        {
+          "department": "Mathematics",
+          "specialization": "Mathematics & Computing",
+          "OP": 0,
+          "EWS": 1,
+          "OBC": 0,
+          "SC": 0,
+          "ST": 1,
+          "total_vacant": 2
+        }
+      ]
+    }
+  ],
+  "signatory": "Asst. Registrar (Academic)",
+  "copy_to": [
+    "PS to the Director, NITA, for kind information of the Director",
+    "Dean (AA) for kind information",
+    "Registrar, NIT, Agartala for kind information",
+    "All HoDs, for kind information",
+    "System administrator with a request to upload the same to the Institute website",
+    "Guard file"
+  ],
+  "location": "Barjala, Agartala-799046, India",
+  "website": "www.nita.ac.in",
+  "contact": {
+    "phone": "0381-2548537",
+    "fax": "0381-2546360",
+    "email": "deanacademic@nita.ac.in"
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/Addendum_Spot_MTech_MSc_Sept2023.pdf"
+}

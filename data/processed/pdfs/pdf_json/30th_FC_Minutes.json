@@ -1,0 +1,219 @@
+{
+  "filename": "30th_BWC_Minutes.txt",
+  "title": "Minutes of the 30th Building & Works Committee Meeting",
+  "date": "December 09, 2013",
+  "location": "Room of NIT Transit House, Kunjaban, Agartala, Tripura",
+  "institution": "National Institute of Technology, Agartala",
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) Subhash Ch. Saha",
+      "designation": "Director (I/C), Chairman of B&WC"
+    },
+    {
+      "name": "Sri Rajesh Singh",
+      "designation": "Director (NITs), Representative of MHRD"
+    },
+    {
+      "name": "Sri Asit Bhaumik",
+      "designation": "Addl. Chief Engineer / Representative of PWD (Civil), Govt. of Tripura"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "designation": "Executive Engineer (Elect.), Electrical Inspectorate/Representative of PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Dr. Ajoy Kr. Chakraborty",
+      "designation": "Dean (P & D), NIT Agartala"
+    },
+    {
+      "name": "Dr. R.P. Sharma",
+      "designation": "Professor, Civil Engg. Department, NIT Agartala"
+    },
+    {
+      "name": "Mr. Sumanta Chakraborty",
+      "designation": "Registrar (I/C), Member Secretary"
+    }
+  ],
+  "invitees": [
+    {
+      "name": "Dr. S.K. Paul",
+      "designation": "Advisor to the Director, NIT Agartala"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "30.1",
+      "title": "Confirmation of the Minutes of the 29th Building & Works Committee Meeting",
+      "decision": "Confirmed; no modifications/suggestions/comments received."
+    },
+    {
+      "item_no": "30.2",
+      "title": "Action taken on the decision of the 29th BWC Meeting",
+      "decision": "Lift for Director's Bungalow deleted; other actions noted."
+    },
+    {
+      "item_no": "30.3",
+      "title": "Electrical Installation in Bio-Engineering Lab (2nd Floor, DoNER Building)",
+      "decision": "Approved; cost Rs. 1,43,283 to M/S Shree Guru Enterprise."
+    },
+    {
+      "item_no": "30.4",
+      "title": "Electrical Installation in Chemical Engineering Lab (2nd Floor, DoNER Building)",
+      "decision": "Approved; cost Rs. 1,44,427 to M/S Satyanarayan Enterprise."
+    },
+    {
+      "item_no": "30.5",
+      "title": "Electrical Installation in Environment & Mass Transfer Labs, Workshop Building",
+      "decision": "Approved; cost Rs. 85,820 to Shri Bimal Chakraborty."
+    },
+    {
+      "item_no": "30.6",
+      "title": "Electrical Installation in 1st floor of Estate Section Extension",
+      "decision": "Approved; estimated cost Rs. 86,404; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.7",
+      "title": "Electrical Installation in Ground & 1st floor of CRF Building",
+      "decision": "Approved; estimated cost Rs. 8,51,707; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.8",
+      "title": "Electrical Installation in Physics Lab (Ground Floor, DoNER Building)",
+      "decision": "Approved; estimated cost Rs. 6,00,195; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.9",
+      "title": "AMC of 2 x 500 KVA DG Sets (Volvo Penta)",
+      "decision": "Approved; cost Rs. 2,47,192 to M/s Rai Power, Kolkata."
+    },
+    {
+      "item_no": "30.10",
+      "title": "Supply, installation, commissioning of electrical system, sub-stations, D.G. Sets, external electrical installations",
+      "decision": "Technical scrutiny committee to vet estimate and DNIT."
+    },
+    {
+      "item_no": "30.11",
+      "title": "Supply of Tools & Machineries for Maintenance staff",
+      "decision": "Fresh tender with revised estimate to be called."
+    },
+    {
+      "item_no": "30.12",
+      "title": "External lighting of International Guest House",
+      "decision": "Approved; cost Rs. 6,39,066 to M/S Multi Traders, Agartala."
+    },
+    {
+      "item_no": "30.13",
+      "title": "Extra items for Administrative Block-I & II and Seminar Hall",
+      "decision": "Proposal to be resubmitted with proper justification."
+    },
+    {
+      "item_no": "30.14",
+      "title": "Construction of 2 x 1 MVA 11/0.4KV Substation for Computer Centre",
+      "decision": "Approved; cost Rs. 42,85,329; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.15",
+      "title": "Extra items for 75 KLD & 150 KLD Sewerage Treatment Plants",
+      "decision": "Approved; costs Rs. 83,200 & Rs. 1,00,002 to M/S Clear Ion Experts Pvt. Ltd."
+    },
+    {
+      "item_no": "30.16",
+      "title": "Concrete pavement road at H4A Building",
+      "decision": "Approved; estimated cost Rs. 5,50,800; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.17",
+      "title": "Additional floor of Market Complex",
+      "decision": "Proposal to be placed with detailed estimate in next BWC meeting."
+    },
+    {
+      "item_no": "30.18",
+      "title": "Extra item & deviation for road improvement Admin Block-1 to Auxiliary Gate-3",
+      "decision": "Proposal to be submitted with proper justification after scrutiny."
+    },
+    {
+      "item_no": "30.19",
+      "title": "Partition wall at CRF Building",
+      "decision": "Approved; estimated cost Rs. 21,89,405; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.20",
+      "title": "Partition wall, water supply in New DoNER Building (Physics Labs)",
+      "decision": "Approved; estimated cost Rs. 6,29,981; to be awarded via open tender."
+    },
+    {
+      "item_no": "30.21",
+      "title": "Award works as deposit work to CPWD",
+      "decision": "Approved; six works with estimated costs ranging Rs. 7,95,268 to Rs. 90,48,922."
+    },
+    {
+      "item_no": "30.22",
+      "title": "Cladding on lift wells, Phase-II Housing Complex",
+      "decision": "Approved; cost Rs. 10,52,350 to M/S NCC Limited."
+    },
+    {
+      "item_no": "30.23",
+      "title": "Boring of 2 nos. tube wells in School of Management Building",
+      "decision": "Approved; cost Rs. 8,89,853; to be awarded via open tender with Item 30.24."
+    },
+    {
+      "item_no": "30.24",
+      "title": "Boring of 2 nos. tube wells for Admin Block-I & II and Seminar Hall",
+      "decision": "Approved; cost Rs. 8,89,853; to be awarded via open tender with Item 30.23."
+    },
+    {
+      "item_no": "30.25",
+      "title": "Ratification of various construction activities approved by Director",
+      "decision": "Ratified."
+    },
+    {
+      "item_no": "30.26",
+      "title": "Extra item for 2nd & 3rd floor Academic Building (DoNER)",
+      "decision": "Proposal to be submitted with proper justification after scrutiny."
+    },
+    {
+      "item_no": "30.27",
+      "title": "Total tentative deviation in Administrative Blocks-I & II and Seminar Hall",
+      "decision": "Proposal to be submitted with justification; Institute Technical Scrutiny Committee to check deviations."
+    },
+    {
+      "item_no": "30.28",
+      "title": "Total tentative deviation in School of Management Building",
+      "decision": "Proposal to be submitted with justification; Institute Technical Scrutiny Committee to check deviations."
+    },
+    {
+      "item_no": "30.29",
+      "title": "Total tentative deviation in Housing, Guest House, Director’s Residence works",
+      "decision": "Proposal to be submitted with justification; Institute Technical Scrutiny Committee to check deviations."
+    },
+    {
+      "item_no": "30.30",
+      "title": "Water Supply & Sanitary installation in 40-men Security Barak",
+      "decision": "Institute Technical Scrutiny Committee to vet estimate."
+    },
+    {
+      "item_no": "30.31",
+      "title": "Substitute item and deviation for MS Grill & False Ceiling in School of Management",
+      "decision": "Approved; cost Rs. 12,23,468 with department requisition on record."
+    },
+    {
+      "item_no": "30.32.1",
+      "title": "Special repair of Gomati Hostel",
+      "decision": "Approved; cost Rs. 49,45,585; emergency execution due to student unrest."
+    },
+    {
+      "item_no": "30.32.2",
+      "title": "Special repair of Dhalai Hostel",
+      "decision": "Similar works may be carried out by inviting tender on short notice."
+    },
+    {
+      "item_no": "30.32.3",
+      "title": "Inclusion of one CPWD member in BWC",
+      "decision": "Proposed by Director (NITs), MHRD."
+    }
+  ],
+  "closing": "Meeting ended with vote of thanks to the Chair.",
+  "registrar": "Mr. Sumanta Chakraborty",
+  "chairman": "Prof. (Dr.) Subhash Ch. Saha",
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/30th_BWC_Minutes.pdf"
+}

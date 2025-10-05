@@ -1,0 +1,47 @@
+{
+  "filename": "8-ComprehensiveExaminationReport-2018.txt",
+  "content": {
+    "title": "COMPREHENSIVE EXAMINATION REPORT OF A Ph.D. STUDENT",
+    "form_number": "NITA/ACAD/Ph.D./8",
+    "department": "",
+    "student_details": {
+      "name": "",
+      "enrollment_no": "",
+      "date_of_enrollment": "",
+      "semester": "",
+      "credits": "",
+      "cgpa": "",
+      "thesis_supervisors": "",
+      "date_of_examinations": "",
+      "mode_of_examination": {
+        "written": false,
+        "oral": false,
+        "both": false
+      },
+      "attempt": {
+        "first": false,
+        "second": false
+      }
+    },
+    "performance": {
+      "brief_comments": "",
+      "result": {
+        "passed": false,
+        "failed": false
+      }
+    },
+    "committee_members": [
+      {"sl_no": 1, "name": "", "department": "", "signature": ""},
+      {"sl_no": 2, "name": "", "department": "", "signature": ""},
+      {"sl_no": 3, "name": "", "department": "", "signature": ""},
+      {"sl_no": 4, "name": "", "department": "", "signature": ""},
+      {"sl_no": 5, "name": "", "department": "", "signature": ""}
+    ],
+    "notes": [
+      "After the Dean (Academic) signs, the original copy should be kept in the student's personal file, and a photocopy sent to the Supervisor and the department.",
+      "Max 300 words for brief comments on performance."
+    ]
+  },
+  "pages": 2,
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/8-ComprehensiveExaminationReport-2018.pdf"
+}

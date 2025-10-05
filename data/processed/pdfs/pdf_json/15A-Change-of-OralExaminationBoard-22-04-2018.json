@@ -1,0 +1,78 @@
+{
+  "ChangeOfOralExaminationBoardForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./15(A)",
+    "StudentDetails": {
+      "Name": null,
+      "RollNo": null,
+      "DateOfOralExamination": null,
+      "ThesisTitle": null
+    },
+    "ExistingOralExaminationBoard": [
+      {
+        "Role": "Chairman (Chairman of DC)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (External Examiner)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      }
+    ],
+    "Changes": {
+      "ReplacedMembers": [
+        {
+          "Name": null,
+          "Designation": null,
+          "Department": null,
+          "Signature": null
+        }
+      ],
+      "NewMembers": [
+        {
+          "Name": null,
+          "Designation": null,
+          "Department": null,
+          "Signature": null
+        }
+      ]
+    },
+    "Approvals": {
+      "ChairmanDPPC": null,
+      "DeanAcademic": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/15A-Change-of-OralExaminationBoard-22-04-2018.pdf"
+}

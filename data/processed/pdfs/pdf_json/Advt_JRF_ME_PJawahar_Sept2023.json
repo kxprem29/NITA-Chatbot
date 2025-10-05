@@ -1,0 +1,77 @@
+{
+  "filename": "Advt_JRF_ME_PJawahar_Sept2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "department": "Mechanical Engineering",
+    "location": "Agartala, Tripura – 799046, India",
+    "project": {
+      "title": "Friction Stir Welding of Aluminum Alloy (Al 6101) and Copper Alloy (C11000) for Busbar Application by Novel Hybrid Interlayer Approach",
+      "funding_agency": "Science and Engineering Research Board, Department of Science & Technology, Government of India",
+      "principal_investigator": "Dr. P. Jawahar, Assistant Professor, Mechanical Engineering Department, NIT Agartala",
+      "duration": "18 July 2023 to 17 July 2026"
+    },
+    "position": {
+      "name": "Junior Research Fellow (JRF)",
+      "monthly_emolument": "Rs. 31,000/- plus HRA",
+      "essential_qualification": [
+        "B.Tech / M.Tech in Mechanical Engineering / Manufacturing Engineering / Production Engineering / Material Science Engineering or equivalent",
+        "CSIR-UGC NET / GATE qualification preferred"
+      ],
+      "responsibilities": [
+        "Perform experiments on Friction Stir Welded joints",
+        "Characterize the properties of welded joints"
+      ]
+    },
+    "interview": {
+      "date": "29-09-2023 (tentative)",
+      "mode": "Online"
+    },
+    "application": {
+      "deadline": "21-09-2023",
+      "how_to_apply": "Send filled application with photograph, scanned educational qualifications, research publications, and statement of interest to drjawahar.me@nita.ac.in or dr.pjawahar@gmail.com"
+    },
+    "terms_and_conditions": [
+      "Position is purely temporary and governed by administrative rules of R&C Cell, NIT Agartala",
+      "Candidates must meet eligibility criteria before appearing for interview",
+      "No TA/DA for interview or joining",
+      "Original documents must be presented at the time of joining",
+      "Appointment is temporary as per Institute's terms and conditions",
+      "Only shortlisted candidates will be informed about the interview",
+      "Institute reserves the right to cancel recruitment without assigning any reason",
+      "Selected candidate may register for PhD program in Mechanical Engineering, subject to eligibility",
+      "Temporary engagement can be terminated without reason"
+    ],
+    "application_form_fields": {
+      "personal_details": [
+        "Name of the Applicant",
+        "Father/Husband's Name",
+        "Nationality",
+        "Date of Birth",
+        "Category (SC/ST/OBC/GEN/EWS)",
+        "Gender",
+        "Marital Status",
+        "NET Qualified (Yes/No)",
+        "GATE Qualified (Yes/No)",
+        "Title of the project undertaken in M.Tech / M.Sc. / B.Tech",
+        "Research Experience (Attach Certificate)",
+        "Aadhar No. (attach copy)",
+        "Present Address (Pin Code, Phone/Mobile No., Email ID)"
+      ],
+      "educational_qualification": [
+        "Exam Passed",
+        "Year of Passing",
+        "Board/University",
+        "Subjects",
+        "Percentage of marks"
+      ],
+      "publications": [
+        "List of SCI Journals",
+        "List of Scopus Journals",
+        "List of Conference Papers",
+        "Book/Book Chapter/Patent"
+      ],
+      "undertaking": "Candidate declares all information furnished is true and correct to the best of their knowledge"
+    },
+    "source_url": "https://nita.ac.in/Notice/Advt_JRF_ME_PJawahar_Sept2023.pdf"
+  }
+}

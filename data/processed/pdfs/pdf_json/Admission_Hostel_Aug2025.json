@@ -1,0 +1,164 @@
+
+{
+  "filename": "Admission_Hostel_Aug2025.txt",
+  "content": {
+    "header": {
+      "institute": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
+      "location": "Agartala - 799 046 (Tripura)",
+      "file_no": "F.No.________________/202_/____",
+      "date": "11.08.2025",
+      "title": "Hostel Admission Process for First-Year UG, PG, and Dual Degree Students (Session: 2025-26) NIT Agartala and IIIT Agartala"
+    },
+    "instructions": {
+      "hostel_fee_payment": {
+        "description": "All first-year UG, PG, and Dual Degree students must deposit hostel and mess fees through MIS online payment mode.",
+        "MIS_login": "Use login ID received via email or SMS. To create a password, visit https://mis.nita.ac.in/ and click 'Generate or Forgot Password'."
+      },
+      "fee_details": {
+        "hostel_fee_structure": [
+          {
+            "program": "UG",
+            "year": "I",
+            "gender": "Boys",
+            "eligibility": "All",
+            "hostel": "RNT",
+            "initial_fee": 5000,
+            "hostel_mess_advance": 2000,
+            "hostel_caution_money": 6200,
+            "admission_fee": 23445,
+            "occupancy": "Double",
+            "total": 36645
+          },
+          {
+            "program": "UG",
+            "year": "I",
+            "gender": "Girls",
+            "eligibility": "Limited",
+            "hostel": "Gargi",
+            "initial_fee": 5000,
+            "hostel_mess_advance": 2000,
+            "hostel_caution_money": 6200,
+            "admission_fee": 23445,
+            "occupancy": "Double",
+            "total": 36645
+          },
+          {
+            "program": "PG",
+            "year": "I",
+            "gender": "All",
+            "eligibility": "All",
+            "hostel": "RNT & Gargi",
+            "initial_fee": 5000,
+            "hostel_mess_advance": 2000,
+            "hostel_caution_money": 7200,
+            "admission_fee": 23445,
+            "occupancy": "Single",
+            "total": 37645
+          }
+        ],
+        "caution_money_refundable": 5000,
+        "mess_advance": 23445,
+        "girls_hostel_priority": "Out-of-state students first, then Tripura students by distance"
+      },
+      "payment_steps": {
+        "initial_fee": {
+          "amount": 7000,
+          "procedure": "Login MIS --> Online Payment --> SBI EPAY --> Common Payment Interface --> Select Receipt Type"
+        },
+        "hostel_mess_fee": {
+          "UG_double": 29645,
+          "PG_single": 30645,
+          "procedure": "Login MIS --> Online Payment --> SBI EPAY --> Common Payment Interface --> Select Receipt Type --> Hostel Fee --> Pay"
+        }
+      },
+      "room_allotment": {
+        "procedure": "Login MIS --> Hostel --> Transaction --> Automatic Room Allotment --> Allot Room"
+      },
+      "hostel_reporting": {
+        "timing": "9:30 AM to 5:00 PM",
+        "documents_required": [
+          "Soft copies of payment receipts",
+          "Hostel Room Allotment Letter",
+          "Hard copy of filled hostel application form"
+        ]
+      },
+      "contact_info": {
+        "RNT_Hostel": {
+          "warden": "Dr. Nabarun Biswas (Mob: 8259008964)",
+          "supervisors": [
+            "Mr. Satyajit Das (M: 8132085431)",
+            "Mr. Rabindra Das (M: 9436557455)"
+          ]
+        },
+        "Gargi_Hostel": {
+          "warden": "Dr. Nabamita Goswami (Mob: 9856757043)",
+          "supervisors": [
+            "Mrs. Mahuya Biswas (M: 9774607090)",
+            "Mrs. Rumita Saha (M: 7308354700)"
+          ]
+        }
+      },
+      "IGH_info": {
+        "availability": "Rooms available on payment basis, prior booking required via ighnita@gmail.com"
+      },
+      "loan_students_info": {
+        "bank_account": {
+          "name": "NITA HOSTEL FUND",
+          "account_no": "4121132000005",
+          "IFSC": "CNRB0004121",
+          "bank_name": "CANARA BANK",
+          "branch": "NIT Agartala"
+        }
+      }
+    },
+    "forms": {
+      "hostel_admission_form": {
+        "form_no": "H1",
+        "fields": [
+          "Student Name, Mobile, Email",
+          "Father's Name, Mobile, Email",
+          "Mother's Name, Mobile, Email",
+          "Date of Birth, State, Branch",
+          "Semester, Student Reg./Enrollment No",
+          "Permanent Address",
+          "Local Guardian Name & Address",
+          "Blood Group",
+          "Allotted Hostel Details (Name, Block No, Room No)"
+        ]
+      }
+    },
+    "rules_and_regulations": [
+      "Maintain peace and quiet inside hostel and mess",
+      "Ragging is strictly prohibited; report incidents to authorities",
+      "Keep allotted room/floor/corridor/toilet clean and follow COVID-19 protocols",
+      "Only laptops, mobile phones, and power banks allowed; other electrical appliances prohibited",
+      "Fighting is punishable",
+      "Cooking and pets not allowed",
+      "Motor vehicles prohibited on campus for hostellers",
+      "No smoking, alcohol, or tobacco",
+      "No lethal weapons in hostel premises",
+      "Mess utensils cannot be taken outside",
+      "Unauthorized accommodation by hostellers is prohibited",
+      "Only lady guardians allowed to visit Gargi Hostel on specified days",
+      "Do not paste or write on walls/furniture",
+      "Room changes only with approval",
+      "Administration can shift students for discipline",
+      "Do not write personal info on room doors",
+      "Celebrations/parties inside hostel prohibited",
+      "No loud music or disruptive activities",
+      "Hostellers must obtain prior permission for leave or visiting home",
+      "Mess leave max 8 days per month",
+      "No entry into opposite gender hostels or junior hostels without permission",
+      "Roof usage prohibited",
+      "Curfew timings for boys: 10 PM - 4:30 AM; girls as per notifications",
+      "Backlog exam stay rules specified",
+      "Late entry register maintained; warnings issued after 3 late entries",
+      "Students liable for damages; misuse of water/electricity punished",
+      "Hosteller responsible for valuables; administration not liable",
+      "Mess joining mandatory; individual cooking outside prohibited"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Hostel/Admission_Hostel_Aug2025.pdf"
+
+
+}

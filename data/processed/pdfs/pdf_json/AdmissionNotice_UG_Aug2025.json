@@ -1,0 +1,186 @@
+{
+  "filename": "AdmissionNotice_UG_Aug2025.txt",
+  "title": "NIT Agartala UG & Dual Degree Admission Notice 2025",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala — 799046 (Tripura), India",
+    "website": "www.nita.ac.in",
+    "phone": ["0381-2546630", "0381-2548537"],
+    "fax": "0381-2546360"
+  },
+  "office": "Office of the Dean Academic",
+  "reference_no": "F.NITA.5/(10-Acad)/CSAB-2025/Adm/2024-25 /4",
+  "date": "24/08/2025",
+  "notice_type": "Admission Notice",
+  "programmes": ["Undergraduate (UG)", "Dual Degree"],
+  "reporting": {
+    "dates": "20th to 23rd August 2025",
+    "time": "9 am to 4 pm",
+    "mode": ["Physical reporting", "Online registration on MIS portal"]
+  },
+  "online_registration": {
+    "link": "www.mis.nita.ac.in",
+    "instructions": [
+      "Register using JEE (Main) 2025 Application number before physical reporting.",
+      "Fill in all required details.",
+      "Upload documents as specified in Table-1 in a single PDF if multiple."
+    ],
+    "documents": [
+      "Score card of JEE (Main) 2025 (mandatory)",
+      "Admit card of class 10th / Birth certificate for age proof (mandatory)",
+      "Marksheets of 10th and 12th or equivalent (mandatory)",
+      "Provisional Admission Letter issued by JoSAA/CSAB 2025 and final Seat acceptance letter (mandatory)",
+      "Photo ID proof as per Govt. of India guidelines (mandatory)",
+      "Category Certificate (SC/ST/OBC-NCL/GEN-EWS) if applicable",
+      "Caste validity Certificate for Maharashtra candidates",
+      "ST certificate for Tamil Nadu candidates issued by Revenue Divisional Officer",
+      "Migration and Conduct/Character certificate from last institution (mandatory)",
+      "Physical Disability Certificate as per JOSAA format, if applicable",
+      "Undertaking as per Annexure-A (mandatory)",
+      "Annual Family Income Certificate and affidavit for tuition fee remission (for B.Tech, if applicable)",
+      "Medical Certificate as per JOSAA format",
+      "GAP certificate if 12th passing year is not current year"
+    ],
+    "additional_instructions": [
+      "Make a single file of all original documents in the same sequence.",
+      "Bring a set of self-attested photocopies in the same sequence.",
+      "Upload a formal passport-size photograph."
+    ]
+  },
+  "physical_reporting_instructions": {
+    "dates": "20th to 23rd August 2025",
+    "time": "9 am to 4 pm",
+    "requirements": [
+      "Bring online provisional registration slip.",
+      "Bring originals and photocopies of documents from Table-1."
+    ],
+    "notes": [
+      "Check Institute website for 1st semester fees and pay as applicable.",
+      "Tuition fee waiver eligibility must be verified; balance fees payable if not eligible.",
+      "No extension for physical reporting date.",
+      "Classes tentatively start 25th August 2025.",
+      "Induction Programme schedule to be notified later.",
+      "Anti-Ragging notification as per Annexure-IV."
+    ]
+  },
+  "hostel": {
+    "instructions": [
+      "Hostel payment and allotment process will be on the website.",
+      "Contact Chief Warden at chiefwardennita@gmail.com for queries."
+    ]
+  },
+  "refund_policy": [
+    "Withdrawal after last date: only academic caution money refundable.",
+    "Canceling admission anytime during program: all semester fees forfeited, only academic caution money refundable.",
+    "Cancellation requires No-Dues certificate from MIS account."
+  ],
+  "annexures": {
+    "A": {
+      "title": "Undertaking by all candidates",
+      "content": "Candidate and parent undertake to abide by rules; provide correct documents; fees responsibility if false claim; provisional registration subject to document verification."
+    },
+    "ParentDeclaration": {
+      "content": "Parent undertakes that student will follow rules, attend classes, maintain academic standards, and meet expenses."
+    },
+    "IncomeRemission": {
+      "instructions": [
+        "Upload Annual Family Income Certificate and affidavit via MIS portal.",
+        "Certificate to be issued on or after 01/04/2025 for Financial Year 2024-25.",
+        "Supporting documents include Form-16, ITR, Pension Certificate.",
+        "ST, SC, PwD and students with annual family income above INR 5 lakhs are exempt from submission."
+      ]
+    },
+    "I": {
+      "title": "Family Income Certificate",
+      "fields": ["Father’s Income", "Mother’s Income", "Guardian’s Income", "Other sources", "Gross Total Income"],
+      "authority": "S.D.O./B.D.O./Tehsildar/MRO as per Annexure-III"
+    },
+    "II": {
+      "title": "Income Affidavit",
+      "instructions": [
+        "Submitted on non-judicial stamp paper Rs. 50/-",
+        "Sworn before First Class Magistrate/Notary Public",
+        "Details of family income for tuition fee remission",
+        "Declaration of truthfulness with penalties for false information"
+      ]
+    },
+    "III": {
+      "title": "Income Certificate Issuing Authority",
+      "states": [
+        {"state": "Andaman & Nicobar", "authority": "Tahsildar"},
+        {"state": "Andhra Pradesh", "authority": "Tahsildar"},
+        {"state": "Arunachal Pradesh", "authority": "Deputy commissioner of respective Districts"},
+        {"state": "Assam", "authority": "Revenue Circle Officers"},
+        {"state": "Bihar", "authority": "Circle Officer of Circle Office"},
+        {"state": "Chandigarh", "authority": "Sub Divisional Magistrates"},
+        {"state": "Chattisgarh", "authority": "Naib Tahsildar"},
+        {"state": "Daman & Diu & Dadra & Nagar Haveli", "authority": "Mamlatdar"},
+        {"state": "Delhi", "authority": "SDM of Govt of NCT of Delhi"},
+        {"state": "Goa", "authority": "Mamlatdar of all Talukas"},
+        {"state": "Gujarat", "authority": "District Collector/Deputy Collector/Asst. Collector/Prant Officer/Mamlatdar"},
+        {"state": "Haryana", "authority": "CRO(Tehsildar/Naib Tehsildar concerned)"},
+        {"state": "Himachal Pradesh", "authority": "Tahsildar of Revenue Department"},
+        {"state": "Jammu&Kashmir", "authority": "Sub Divisional Magistrate(not below Tahsildar)"},
+        {"state": "Jharkhand", "authority": "Sub Divisional Officer in each District"},
+        {"state": "Karnataka", "authority": "Tahsildar"},
+        {"state": "Kerala", "authority": "Village Officers"},
+        {"state": "Lakshadweep", "authority": "Deputy Collectors in Agatti and Minicoy and SDOs in remaining islands"},
+        {"state": "Madhya Pradesh", "authority": "Tahsildars/Naib Tahsildar"},
+        {"state": "Maharashtra", "authority": "Tahsildar"},
+        {"state": "Manipur", "authority": "District Authorities i.c. DC/ADC/SDO (not below rank of SDO/SDM)"},
+        {"state": "Meghalaya", "authority": "Employer in case of Govt employee, MP/MLA/DC/SDO Civil in other cases"},
+        {"state": "Mizoram", "authority": "District Magistrate or authorized officers"},
+        {"state": "Nagaland", "authority": "Dy. Commissioners, Addl. Dy. Commissioners, Sub-Divisional Officers (C)"},
+        {"state": "Odisha", "authority": "Revenue Officers"},
+        {"state": "Punjab", "authority": "CRO(Tehsildar/Naib Tehsildar concerned)"},
+        {"state": "Pondicherry", "authority": "Tahsildar, Deputy Tahsildar"},
+        {"state": "Rajasthan", "authority": "Tahsildar"},
+        {"state": "Sikkim", "authority": "Special Executive Magistrate (BDO, Rural Management & Development Dept.)"},
+        {"state": "Tamil Nadu", "authority": "Zonal Deputy Tahsildar"},
+        {"state": "Tripura", "authority": "District Magistrate & Collector and SDM, DCM, DC (Competent Authority)"},
+        {"state": "Uttar Pradesh", "authority": "Tahsildar"},
+        {"state": "Uttaranchal", "authority": "Tahsildar/SDM/City Magistrate"},
+        {"state": "West Bengal", "authority": "District Magistrate, Sub-Divisional Officer, Block Development Officer, Collector Kolkata depending on region"},
+        {"state": "All other remaining states/UTs", "authority": "Not below the rank of Tahsildar/Competent Authority as per Govt Notification"}
+      ]
+    },
+    "StudyGapAffidavit": {
+      "title": "Affidavit of Study Gap",
+      "instructions": [
+        "Submitted on Non-Judicial Stamp Paper of minimum Rs. 20/-",
+        "Declaration of 12th passing year and gap period",
+        "Activities during gap period",
+        "No criminal involvement",
+        "Verification clause"
+      ]
+    },
+    "IV": {
+      "title": "Anti-Ragging",
+      "instructions": [
+        "Submit anti-ragging affidavit and guardian declaration within 7 days from 28th August 2025",
+        "Online submission via www.antiragging.in",
+        "Download and sign affidavits, submit to NIT Agartala"
+      ],
+      "reference": "https://www.antiragging.in/index.html"
+    }
+  },
+  "contact_email": "nitmisagt@mail.nita.ac.in",
+  "issued_by": "Prof. V N Saha, Dean (Academic), NIT Agartala",
+  "copy_to": [
+    "PS to Director",
+    "All Deans",
+    "Professor-in-charge, Admission (JoSAA-2025 and CSAB-2025)",
+    "Registrar",
+    "All HODs and W/S",
+    "Asso. Dean (Exam)",
+    "Asso. Dean (UG)",
+    "Chief Warden",
+    "1st year Co-ordinator",
+    "Dy. Registrar (Academic)",
+    "Asstt. Registrar (Academic)",
+    "Faculty-In-Charge, MIS",
+    "Dy. Registrar (F&A)",
+    "System Administrator for website upload"
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/UG%20Programme/AdmissionNotice_UG_Aug2025.pdf"
+}

@@ -1,0 +1,13 @@
+{
+  "filename": "Advertisement_NFST_2023_24.txt",
+  "content": {
+    "title_hindi": "भारतीय सरकार\nजनजातीय कार्य मंत्रालय [छात्रवृत्ति प्रभाग]",
+    "title_english": "Government of India\nMinistry of Tribal Affairs [Scholarship Section]",
+    "description_hindi": "वर्ष 2023-24 के लिए अनुसूचित जनजाति के छात्रों की उच्च शिक्षा के लिए राष्ट्रीय स्तर की छात्रवृत्ति।\n\nजनजातीय कार्य मंत्रालय, भारतीय सरकार, वर्ष 2023-24 के लिए 'अनुसूचित जनजाति के छात्रों के उच्च शिक्षा के लिए राष्ट्रीय फेलोशिप और छात्रवृत्ति' योजना के तहत राष्ट्रीय फेलोशिप हेतु ऑनलाइन आवेदन आमंत्रित करता है। यह फेलोशिप उन उम्मीदवारों को प्रदान की जाती है जिन्हें Ph.D./इंटीग्रेटेड M.Phil+Ph.D कार्यक्रमों में चयनित किया गया हो।",
+    "number_of_slots": 750,
+    "apply_online_url": "https://fellowship.tribal.gov.in/",
+    "last_date": "31.08.2023",
+    "additional_info_url": "https://fellowship.tribal.gov.in/"
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Scholarship/Advertisement_NFST_2023_24.pdf"
+}

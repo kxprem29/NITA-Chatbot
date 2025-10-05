@@ -1,0 +1,37 @@
+{
+  "ExaminerAppointment": {
+    "FormNumber": "NITA/ACAD/Ph.D./14",
+    "ScholarDetails": {
+      "Name": null,
+      "EnrollmentNumber": null,
+      "Department": null,
+      "SynopsisSeminarDate": null
+    },
+    "SupervisorDetails": {
+      "Name": null,
+      "TitleOfThesis": null
+    },
+    "Certificate": {
+      "Statement": "The persons proposed as examiners are actively engaged in research in the field of work of the thesis and are eligible as per the Ph.D. Ordinance of the Institute."
+    },
+    "ProposedExaminers": {
+      "Indian": [
+        {
+          "Name": null,
+          "Designation": null,
+          "Department": null,
+          "Institute": null
+        }
+      ],
+      "Foreign": [
+        {
+          "Name": null,
+          "Designation": null,
+          "Department": null,
+          "Institute": null
+        }
+      ]
+    },
+    "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/14-ExaminerAppointment_261223.pdf"
+  }
+}

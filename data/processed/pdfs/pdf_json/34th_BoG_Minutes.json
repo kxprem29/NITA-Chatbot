@@ -1,0 +1,132 @@
+{
+  "filename": "34th_BoG_Minutes.txt",
+  "title": "34th Board of Governors Minutes",
+  "date_of_meeting": "September 24, 2015",
+  "location": "Conference Hall of NIT Transit House, New Delhi",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "members_present": [
+    {"name": "Prof. Deepak B. Phatak", "designation": "Chairperson, BoG, NIT Agartala"},
+    {"name": "Prof. Gopal Mugeraya", "designation": "Member, Director, NIT Agartala"},
+    {"name": "Shri Sanjeev Kumar Sharma", "designation": "Director (NITs), MHRD, Govt. of India"},
+    {"name": "Shri Rajesh Singh", "designation": "Director (Finance), MHRD, Govt. of India"},
+    {"name": "Prof. A. Srinivasan", "designation": "Professor, Dept. of Physics, IIT Guwahati"},
+    {"name": "Prof. (Mrs) Uma Bhattacharya", "designation": "Professor, Dept. of Computer Science & Technology, IIEST, Shibpur"},
+    {"name": "Prof. Richi Prasad Sharma", "designation": "Professor, Civil Engg Dept., NIT Agartala and Registrar"},
+    {"name": "Dr. John Deb Barma", "designation": "Assistant Professor, ME Dept., NIT Agartala"}
+  ],
+  "members_absent": [
+    {"name": "Shri Samarjit Bhowmik", "designation": "Secretary to Government of Tripura, Dept. of Higher Education"},
+    {"name": "Shri Alok Roy Choudhury", "designation": "Addl. Chief Engineer, PWD, Govt. of Tripura"}
+  ],
+  "chairperson": "Prof. Deepak B. Phatak",
+  "agenda_items": [
+    {
+      "item_no": "34.1",
+      "topic": "Confirmation of the Minutes of 33rd (Special) BoG Meeting",
+      "decision": "Minutes of 33rd BoG held on April 13, 2015 confirmed without modification."
+    },
+    {
+      "item_no": "34.2",
+      "topic": "Action taken on decisions of 32nd and 33rd BoG meetings",
+      "decision": [
+        "Audit Report 2013-14: Act as per 26th FC recommendations.",
+        "100% waiver of tuition fees for SC/ST M.Tech, Dual Degree, PhD students: Follow MHRD letter directives.",
+        "PIRD complaint against Prof. Probir Kumar Bose: Fact-finding report submitted to Chairman, to be forwarded to MHRD.",
+        "Court cases against NIT Agartala: Constitute Legal Cell to manage cases and ensure timely submission of counter affidavits.",
+        "Action taken reports should be serially placed; mention if no action necessary."
+      ]
+    },
+    {
+      "item_no": "34.3",
+      "topic": "Recommendations of 17th Senate Meeting (April 22, 2015)",
+      "decision": "Approved recommendations; nominated Dr. Richi Prasad Sharma (BWC) and Dr. John Deb Barma (FC) as BoG representatives."
+    },
+    {
+      "item_no": "34.4",
+      "topic": "Recommendations of 33rd and 34th BWC meetings",
+      "decision": "Noted minutes; administrative approval items placed separately; financial items through FC; Director to convene BWC, FC, BoG frequently."
+    },
+    {
+      "item_no": "34.5",
+      "topic": "Recommendations of 26th FC meeting",
+      "decision": "Approved recommendations; Chairperson of BoG to seek explanation from Chairman BWC on 34.7; adherence to GFR, Act, Statutes; revamp procedures; ensure proper minutes preparation."
+    },
+    {
+      "item_no": "34.6",
+      "topic": "Appointments made by Director",
+      "decision": "Ratified appointments made by Director; Chairperson may approve time-bound cases emergently."
+    },
+    {
+      "item_no": "34.7",
+      "topic": "EPF Contribution for Contractual Staff",
+      "decision": [
+        "Approved EPF contribution for contractual employees with monthly remuneration up to Rs. 15,000.",
+        "For remuneration above Rs. 15,000, follow Ministry of Labour & Employment guidelines."
+      ]
+    },
+    {
+      "item_no": "34.8",
+      "topic": "Status of TEQIP-II Project",
+      "decision": "Noted."
+    },
+    {
+      "item_no": "34.9",
+      "topic": "Estimate for 2.0 MLD Water Treatment Plant",
+      "decision": "Proper justification and estimates to be placed before FC first."
+    },
+    {
+      "item_no": "34.10",
+      "topic": "Revamping lakes, water harvesting, beautification of water bodies",
+      "decision": "In principle approved; activities to be planned carefully considering fund position; tentative estimates after FC recommendation."
+    },
+    {
+      "item_no": "34.11",
+      "topic": "Up-gradation of internal main road with footpaths, drains, bus stops, etc.",
+      "decision": [
+        "Work order immediately cancelled.",
+        "Fact-finding inquiry by Chairperson after Director’s explanation.",
+        "BWC to follow proper procedures in future."
+      ]
+    },
+    {
+      "item_no": "34.12",
+      "topic": "General Provident Fund (GPF) Rules for employees",
+      "decision": "In principle approved; draft rules to be forwarded to Director NITs, MHRD for review and placed in next Board meeting."
+    },
+    {
+      "item_no": "34.13",
+      "topic": "Grade Pay enhancement for non-faculty cadre",
+      "decision": "Approved Grade Pay enhancement with MACP for 6 non-faculty staff members."
+    },
+    {
+      "item_no": "34.14",
+      "topic": "Any other item",
+      "sub_items": [
+        {
+          "item_no": "34.14.1",
+          "topic": "Expansion of Campus Wide Networking (Phase III)",
+          "decision": "In principle approved; execute work maintaining due procedures; Director authorized."
+        },
+        {
+          "item_no": "34.14.2",
+          "topic": "Lodging FIR against Prof. Probir Kumar Bose",
+          "decision": "Seek guidance from MHRD before proceeding."
+        },
+        {
+          "item_no": "34.14.3",
+          "topic": "Appointment of Officer on Special Duty (OSD) on contract",
+          "decision": "Approved recommendation of selection committee; Dr. N.K. Kole appointed."
+        }
+      ]
+    }
+  ],
+  "meeting_end": "Meeting ended with vote of thanks to the Chair",
+  "signatories": [
+    {"name": "Prof. Richi Prasad Sharma", "designation": "Secretary, BoG & Registrar, NIT Agartala"},
+    {"name": "Prof. D. B. Phatak", "designation": "Chairperson, BoG, NIT Agartala"}
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/34th_BoG_Minutes.pdf"
+}

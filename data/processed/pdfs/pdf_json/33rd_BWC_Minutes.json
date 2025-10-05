@@ -1,0 +1,160 @@
+{
+  "filename": "33rd_BWC_Minutes.json",
+  "metadata": {
+    "meeting_number": 33,
+    "date": "2015-02-24",
+    "time": "18:00",
+    "venue": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+    "institute": "National Institute of Technology, Agartala",
+    "committee": "Building & Works Committee",
+    "chairman": "Prof. (Dr.) Gopal Mugeraya",
+    "member_secretary": "Mr. Sumanta Chakrabarti"
+  },
+  "members_present": [
+    "Prof. (Dr.) Gopal Mugeraya, Chairman, Director, NIT Agartala",
+    "Sri Rajesh Singh Solanki, Member, Under Secretary, MHRD, GOI",
+    "Sri Asit Bhaumik, Member, Addl. Chief Engineer / Representative of PWD (Civil), Govt. of Tripura",
+    "Sri Kajal Banik, Member, Executive Engineer (Elect.), Electrical Inspectorate / Representative of PWD, Govt. of Tripura",
+    "Dr. Sujit Kumar Pal, Member, Dean (P & D), NIT Agartala",
+    "Dr. Richi Prasad Sharma, Member, Professor, Civil Engg. Department, NIT Agartala",
+    "Mr. Sumanta Chakrabarti, Member Secretary, Registrar (I/C), NIT Agartala"
+  ],
+  "agenda": [
+    {
+      "item_no": "32.1",
+      "title": "Confirmation of Minutes of 32nd BWC Meeting",
+      "action_taken": "Minutes confirmed as circulated, no modifications or comments received"
+    },
+    {
+      "item_no": "33.2",
+      "title": "Action Taken on Decisions of 32nd BWC Meeting",
+      "details": [
+        {
+          "agenda_no": "32.3",
+          "description": "Consider various construction activities approved by Director",
+          "action_taken": "Noted by BWC"
+        },
+        {
+          "agenda_no": "32.4",
+          "description": "Supply & installation of underground cable & hume pipe to Admin Block I & II",
+          "action_taken": "Noted and ratified"
+        },
+        {
+          "agenda_no": "32.5",
+          "description": "Deviation in Construction of Admin Blocks I & II and Seminar Hall",
+          "action_taken": "Total executed work Rs. 46,64,90,974 (19.20% above agreement) approved; recommended to FC & BOG"
+        },
+        {
+          "agenda_no": "32.6",
+          "description": "Deviation in Construction of School of Management Building",
+          "action_taken": "Total executed Rs. 37,73,18,489 (3.73% above agreement) approved; recommended to FC & BOG"
+        },
+        {
+          "agenda_no": "32.7",
+          "description": "Estimate for Partition walls in Civil Engineering Labs",
+          "action_taken": "Ratified"
+        },
+        {
+          "agenda_no": "32.8",
+          "description": "Special repair of Gomati Hostel",
+          "action_taken": "Noted"
+        },
+        {
+          "agenda_no": "32.9",
+          "description": "Construction of Geotechnical Engineering Lab",
+          "action_taken": "Noted and approved"
+        },
+        {
+          "agenda_no": "32.10",
+          "description": "Area Development works around Central Plaza",
+          "action_taken": "Ratified; cost Rs. 1,18,26,800 to be awarded to CPWD"
+        }
+      ]
+    },
+    {
+      "item_no": "33.3",
+      "title": "Construction of Central Lecture Hall Complex (27 Class Rooms)",
+      "cost": "Rs. 70,52,95,723",
+      "action_taken": "Accepted in principle; consultant to be engaged; revised estimate to be approved before tender; matter to FC & BOG"
+    },
+    {
+      "item_no": "33.4",
+      "title": "Deviation in Sports Complex construction work",
+      "cost": "Rs. 4,87,99,551",
+      "action_taken": "Submit proposal after justification from consultant; engineers to ensure proper attention"
+    },
+    {
+      "item_no": "33.5",
+      "title": "Bamboo wood flooring & wall cladding in Director's Chamber & Board Room",
+      "cost": "Rs. 22,31,068",
+      "action_taken": "Approved; to be executed by M/S NCC Limited as extra/deviated items"
+    },
+    {
+      "item_no": "33.6",
+      "title": "Ornamental False Ceiling & Split AC in School of Management Building",
+      "cost": "Rs. 51,24,796",
+      "action_taken": "Approved"
+    },
+    {
+      "item_no": "33.7",
+      "title": "Electromechanical work in Swimming Pool of Sports Complex",
+      "cost": "Rs. 3,94,25,604",
+      "action_taken": "Prepare conceptual plan, estimate & tender document through consultant; obtain offers from 5 short-listed agencies"
+    },
+    {
+      "item_no": "33.8",
+      "title": "Newer brands of Steel & Cement; selection of PSUs for deposit works",
+      "action_taken": "Not considered"
+    },
+    {
+      "item_no": "33.9",
+      "title": "Various construction activities already approved by Director",
+      "action_taken": "Noted and ratified for specific electrical works"
+    },
+    {
+      "item_no": "33.10",
+      "title": "Supply, Installation, Testing & Commissioning of 15 lifts",
+      "cost": "Rs. 2,86,51,140",
+      "action_taken": "Approved; tenders restricted to 4 reputed vendors"
+    },
+    {
+      "item_no": "33.11",
+      "title": "Extra items in 2 x MVA Substation work",
+      "cost": "Rs. 5,96,488 (total executed Rs. 45,40,648)",
+      "action_taken": "Approved (15.123% above agreement)"
+    },
+    {
+      "item_no": "33.12",
+      "title": "Maintenance of Auditorium Hall (stage & roof repair)",
+      "cost": "Rs. 7,42,801",
+      "action_taken": "Approved; open tender"
+    },
+    {
+      "item_no": "33.13",
+      "title": "Maintenance of Academic building (DONER)",
+      "cost": "Rs. 4,01,144",
+      "action_taken": "Approved; open tender"
+    },
+    {
+      "item_no": "33.14",
+      "title": "Construction of Sentry post & pathway at Gargi Hostel",
+      "cost": "Rs. 6,39,428",
+      "action_taken": "Approved; open tender"
+    },
+    {
+      "item_no": "33.15",
+      "title": "Schedule rate to be followed for estimates",
+      "action_taken": "TSR for maintenance; DSR for major construction"
+    },
+    {
+      "item_no": "33.16",
+      "title": "Limit of powers for awarding individual works",
+      "action_taken": "Director NIT Agartala to decide accordingly"
+    }
+  ],
+  "signatories": {
+    "member_secretary": "Mr. Sumanta Chakrabarti",
+    "chairman": "Prof. (Dr.) Gopal Mugeraya"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/33rd_BWC_Minutes.pdf"
+}

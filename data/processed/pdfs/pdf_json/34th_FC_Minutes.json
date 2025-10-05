@@ -1,0 +1,88 @@
+{
+  "34thFinanceCommitteeMeeting": {
+    "MeetingNumber": 34,
+    "Date": "October 03, 2019",
+    "Location": "Conference Room, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. H. K. Sharma",
+    "MembersPresent": [
+      {
+        "Name": "Prof. H. K. Sharma",
+        "Role": "Chairperson, Finance Committee, NIT Agartala"
+      },
+      {
+        "Name": "Shri D. K. Singh",
+        "Role": "Dy. Secretary (Fin), MHRD (Representative of JS & FA, IFD, MHRD, Govt. of India)"
+      },
+      {
+        "Name": "Prof. S. C. Saha",
+        "Role": "Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Subhadeep Bhattacharjee",
+        "Role": "Assoc. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Govind Bhargava",
+        "Role": "Member Secretary, Finance Committee and Registrar, NIT Agartala"
+      }
+    ],
+    "MembersAbsent": [
+      {
+        "Name": "Joint Secretary (dealing with NITs), MHRD, Govt. of India"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "34.1",
+        "Description": "Confirmation of the Minutes of 33rd FC meeting held on June 26, 2019",
+        "Decision": "Confirmed after incorporating comments of JS & FA"
+      },
+      {
+        "ItemNo": "34.2",
+        "Description": "Action taken on the decisions of 32nd FC meeting held on February 13, 2019",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "34.3",
+        "Description": "Financial status of the Institute as on September 19, 2019",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "34.4",
+        "Description": "Present status of TEQIP-III Project of NIT Agartala",
+        "Decision": "Noted"
+      },
+      {
+        "ItemNo": "34.5",
+        "Description": "Assets & Liabilities dues for Rs. 56,49,968 to Govt. of Tripura",
+        "Decision": "Approved payment to DHE, Govt. of Tripura; letter may be sent to MHRD for clarification"
+      },
+      {
+        "ItemNo": "34.6",
+        "Description": "Fixation of license fee of different buildings for use by contractors/agencies/shopkeepers",
+        "Decision": "Approved"
+      },
+      {
+        "ItemNo": "34.7",
+        "Description": "Absorption of Dr. Govind Bhargava, Registrar, w.e.f. 05-05-2017, counting past service for pension/leave as per CCS Rule 1972",
+        "Decision": "Proposal declined; detailed instructions issued for superannuation, lien, pension contribution, re-fixation of remuneration, and Dearness Relief in compliance with rules"
+      },
+      {
+        "ItemNo": "34.8",
+        "Description": "GPF balance in respect of Dr. Vidyut Dey, Assistant Professor, Production Engineering Dept.",
+        "Decision": "To be considered in forthcoming FC"
+      },
+      {
+        "ItemNo": "34.9",
+        "Description": "Construction of water distribution system including IRP facilities, deep tube wells, reservoirs, pump houses, pipelines at NIT Agartala",
+        "Decision": "Approved as per 43rd BWC meeting (Item 43.24.1); work to be awarded to Tripura State PWD on deposit work basis for Rs. 9,03,24,485"
+      },
+      {
+        "ItemNo": "34.10",
+        "Description": "Any other item with permission of the Chair",
+        "Decision": "Not applicable"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/34th_FC_Minutes.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "filename": "AdmitCard_April2025.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "address": "Barjala, Jirania, Agartala - 799046 (Tripura)",
+    "office": "Office of the Dean Academic Affairs & Associate Dean (Examinations)",
+    "reference_no": "No.F.NITA.6(1- Exam)/ NOTICE/ 2016-17",
+    "date": "03rd April 2025",
+    "notice": "This is to inform all students of UG, DUAL, PG & BSc. BEd. (except 1st year BSc. BEd) appearing for the End Term Examination of Even Semester scheduled from 5th May 2025 (as per Notice for Examination dated 27.03.2025), that the Admit Card for the said Examination can be printed from their respective MIS Account as per the scheduled dates mentioned below.",
+    "exam_details": [
+      {
+        "sl_no": 1,
+        "exam_name": "End Term Examination Even Semester {UG, DUAL, PG & BSc. BEd. (except 1st year BSc. BEd)}",
+        "admit_card_download_duration": "2nd May 2025 to 4th May 2025",
+        "exam_start_date": "5th May 2025",
+        "note": "No student will be able to take the print out of their Admit Card before or after the above mentioned schedule."
+      }
+    ],
+    "instructions": [
+      "All students are hereby instructed to bring the same admit card to the Examination Hall while appearing for the examination and take the endorsement from the invigilator at the designated place.",
+      "Any student who fails to bring the admit card each day of the examination to the Exam Hall will be required to download a duplicate admit card from their respective MIS Account against a fine of Rs. 200/- for the remaining days.",
+      "Students without their respective admit cards will be debarred from appearing in the Examinations."
+    ],
+    "signatory": {
+      "name": "Associate Dean (Examinations)"
+    },
+    "copy_to": [
+      "Dean (Academics) for kind information.",
+      "All HoDs for kind information and necessary action, please.",
+      "MIS In-Charge for kind information and necessary action, please.",
+      "The System Administrator, NIT Agartala. He is requested to upload the Notification to the Institute Website.",
+      "Guard file for record."
+    ],
+    "contact_info": {
+      "website": "www.nita.ac.in",
+      "phone": ["0381-2346630", "0381-2348537"],
+      "fax": "0381-2346360"
+    }
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/Examination/AdmitCard_April2025.pdf"
+}

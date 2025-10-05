@@ -1,0 +1,96 @@
+{
+  "filename": "Advt_JRF_ME_March2023.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "department": "Mechanical Engineering",
+    "location": "Agartala, Tripura – 799046, India",
+    "project": {
+      "title": "Conversion analysis of the syngas production from single-use absorbent waste materials and its applicability for power generation in industries/hospitals through RCCI combustion",
+      "funding_agency": "Science and Engineering Research Board (SERB), Department of Science & Technology (DST), Government of India",
+      "principal_investigator": "Dr. Paramvir Singh, Assistant Professor, Mechanical Engineering Department, NIT Agartala",
+      "file_no": "NITA-11(20-ME)/Start up Research Grant/SERB project/Dr. Paramvir Singh/2022",
+      "duration": "Temporary, renewable each year subject to satisfactory performance, maximum 2 years"
+    },
+    "position": {
+      "name": "Junior Research Fellow (JRF)",
+      "no_of_posts": 1,
+      "monthly_scholarship": "Rs. 31,000/- (consolidated)",
+      "essential_qualification": [
+        "M.Tech/ME in Mechanical/Energy Engineering with specialization in Fluid/Thermal Engineering",
+        "Minimum 60% marks or CGPA 6.5 and above",
+        "GATE qualified",
+        "Relaxation for SC/ST & PwD as per Government of India norms"
+      ],
+      "desirable_qualification": "Preference to candidates with relevant working experience",
+      "age_limit": "Must not be over 28 years as on the last date of application (relaxation as per Government of India norms)"
+    },
+    "interview": {
+      "date": "04-04-2023",
+      "time": "11:00 AM",
+      "mode": "Online"
+    },
+    "application": {
+      "deadline": "31-03-2023",
+      "how_to_apply": "Submit prescribed application form (available on Institute website) with self-attested scanned copies of all certificates merged into a single PDF to psingh.me@nita.ac.in or dr.psingh@outlook.com",
+      "email_subject": "Application for the post of JRF in SRG project"
+    },
+    "instructions": [
+      "Only shortlisted candidates will be intimated for the interview via email",
+      "Position is purely temporary and renewable up to 2 years based on performance",
+      "Authority reserves the right to accept or reject any/all applications",
+      "For queries, contact PI via email"
+    ],
+    "application_form_fields": {
+      "personal_details": [
+        "Applicant's Name",
+        "Father/Husband's Name",
+        "Date of Birth",
+        "Gender",
+        "Category",
+        "Marital Status",
+        "Permanent Address",
+        "Correspondence Address",
+        "Mobile No.",
+        "Email Id",
+        "Year of Award of M.Tech. Degree",
+        "Awarding University/Institute",
+        "M.Tech. Supervisor(s)"
+      ],
+      "exam_details": [
+        "Examination Details",
+        "Branch",
+        "Year",
+        "Marks",
+        "All India Rank",
+        "Qualified (Yes/No)"
+      ],
+      "educational_qualifications": [
+        "Examination/Degree",
+        "Year of Passing",
+        "Subjects (Major)",
+        "School/College/University/Institution",
+        "Division/% Marks/Class/Grade"
+      ],
+      "previous_employments": [
+        "University/Institute/Organization and Department/Section",
+        "Position Held",
+        "Nature of Duties",
+        "Date of Joining",
+        "Date of Leaving",
+        "Last Pay Scale/Pay Level"
+      ],
+      "publications": [
+        "Research Publications in Peer-Reviewed and Indexed Journals",
+        "Book/Chapter in Edited Book/Editor of Book by National/International Publisher"
+      ],
+      "additional_information": "Any other relevant information",
+      "attachments": [
+        "Marksheets",
+        "First page of research papers in Journals/Conferences",
+        "First page of chapters",
+        "Category certificate (if applicable)"
+      ]
+    },
+    "source_url": "https://nita.ac.in/Notice/Advt_JRF_ME_March2023.pdf"
+  }
+}

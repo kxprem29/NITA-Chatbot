@@ -1,0 +1,165 @@
+{
+  "filename": "58thMinutes_BoG.txt",
+  "metadata": {
+    "meeting_number": "58th",
+    "date": "13.05.2022",
+    "mode": "Hybrid (Conference Room + Online)",
+    "location": "NIT Transit House, C-15, Panchsheel Enclave, New Delhi",
+    "organization": "National Institute of Technology, Agartala"
+  },
+  "attendees": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "role": "Chairperson of BoG and Director, NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) T. G. Sitharam",
+      "role": "Director, IIT Guwahati",
+      "mode": "Online"
+    },
+    {
+      "name": "Mrs. Saumya Gupta",
+      "role": "Joint Secretary (NITs), Dept. of HE, MoE, Govt. of India"
+    },
+    {
+      "name": "Mrs. Darshana M. Dabral",
+      "role": "JS & FA, IFD, MoE, Govt. of India"
+    },
+    {
+      "name": "Prof. (Dr.) A. K. Chakraborty",
+      "role": "Professor, Electrical Engineering Department, NIT Agartala"
+    },
+    {
+      "name": "Dr. (Mrs.) Sumita Deb",
+      "role": "Assistant Professor, Electrical Engineering Department, NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) D. Bhattacharjee",
+      "role": "Professor and Registrar (I/C), NIT Agartala"
+    }
+  ],
+  "absentees": [
+    {
+      "name": "Mr. Dipak Ch. Das",
+      "role": "Chief Engineer, PWD (R&B), Govt. of Tripura"
+    },
+    {
+      "name": "Secretary, Department of Higher Education",
+      "role": "Govt. of Tripura"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "58.1",
+      "description": "Consideration of the recommendation of the selection committee for recruitment to different Group-A level posts",
+      "posts_considered": [
+        {
+          "post": "Medical Officer",
+          "number_of_posts": "2 (1UR)",
+          "selected_candidates": ["Dr. Soumya Bhattacharjee", "Dr. Supriti Tripura"],
+          "waiting_list": ["Abhishek Debnath", "Abhishek Acharjee"],
+          "category": "UR/ST",
+          "pay_level": 10
+        },
+        {
+          "post": "Assistant Engineer",
+          "number_of_posts": "2 (on Deputation)",
+          "selected_candidates": [],
+          "waiting_list": [],
+          "category": "NA",
+          "pay_level": null
+        },
+        {
+          "post": "Executive Engineer",
+          "number_of_posts": "1 (UR)",
+          "selected_candidates": ["Sunil Das"],
+          "waiting_list": ["Jayant Chauhan", "Abhijit Sarkar"],
+          "category": "SC",
+          "pay_level": 10
+        },
+        {
+          "post": "Scientific/Technical Officer",
+          "number_of_posts": "3 (2UR+1 on Deputation)",
+          "selected_candidates": ["Partha Sarathi Bhattacharjee", "Tsole Amol Bishwanath"],
+          "waiting_list": ["Sourabh Roy", "Harinarayan Singh"],
+          "category": "UR",
+          "pay_level": 10
+        },
+        {
+          "post": "SAS Officer",
+          "number_of_posts": "2 (1UR+1 on Deputation)",
+          "selected_candidates": ["Abhishek Kumar Yadav"],
+          "waiting_list": ["Saurabh Mishra", "Surasri Majumder"],
+          "category": "UR",
+          "pay_level": 10
+        },
+        {
+          "post": "Deputy Registrar",
+          "number_of_posts": "4 (3UR+1 on Deputation)",
+          "selected_candidates": ["Samrat Patra", "Kailash Nath Mishra", "Tanmoy Ghosal"],
+          "waiting_list": ["Manish Kumar", "Ranjit Prasad Yadav", "Munindra Mishra"],
+          "category": "UR",
+          "pay_level": 12
+        },
+        {
+          "post": "Deputy Librarian",
+          "number_of_posts": "1 (UR)",
+          "selected_candidates": ["Praveen Shukla"],
+          "waiting_list": ["Pallikiti Srinivasulu", "Arun Adrakatti"],
+          "category": "UR",
+          "pay_level": 12
+        },
+        {
+          "post": "Registrar",
+          "number_of_posts": "2 (OBC+1 on Deputation)",
+          "selected_candidates": ["Gangula Shanmuk"],
+          "waiting_list": ["Praveen Kumar Yadav", "Rajesh Kanti Majumdar", "Kumar Prabhakar"],
+          "category": "OBC",
+          "pay_level": 11
+        },
+        {
+          "post": "Assistant Librarian",
+          "number_of_posts": "1 (UR)",
+          "selected_candidates": ["Supriya Pradhan"],
+          "waiting_list": ["Subrata Deb"],
+          "category": "UR",
+          "pay_level": 10
+        }
+      ],
+      "decision": "Approved and confirmed"
+    },
+    {
+      "item_no": "58.2",
+      "description": "Consideration of reservation in the Post of Associate Professor and Professor for direct recruitment",
+      "decision": "Approved cadre and category wise break-up as per CEI Act, 2019"
+    },
+    {
+      "item_no": "58.3",
+      "description": "Demand Notice U/s 147 r.w.s 144 issued by IT Department for A.Y. 2013-14 to 2017-18 amounting to Rs. 39,49,64,310/-",
+      "decision": "Defended via legal counsel and all channels to be explored"
+    },
+    {
+      "item_no": "58.4",
+      "description": "Any other item with permission of Chair",
+      "sub_items": [
+        {
+          "sub_item_no": "58.4.1",
+          "description": "Confirmation of the Minutes of 57th and 57th-A (Special) BoG meetings",
+          "decision": "Confirmed"
+        }
+      ]
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Prof. (Dr.) D. Bhattacharjee",
+      "role": "Secretary of BoG & Registrar (I/C), NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "role": "Chairperson of BoG and Director, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/58thMinutes_BoG.pdf",
+  "annexure": "Annexure-A table not legible"
+}
