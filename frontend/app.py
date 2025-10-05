@@ -85,8 +85,8 @@ def init_vectorstore():
 
 # ---- NITA Themed UI ---- #
 
-logo_img = Image.open("frontend/logo/nita-logo.png")
-st.set_page_config(page_title="NITA Virtual Assistant", page_icon=logo_img, layout="wide")
+# logo_img = Image.open("frontend/logo/nita-logo.png") page_icon=logo_img,
+st.set_page_config(page_title="NITA Virtual Assistant",  layout="wide")
 
 # Custom CSS to inject the NITA look and feel
 st.markdown("""
@@ -166,7 +166,7 @@ st.markdown("""
 with st.sidebar:
     # To add a logo, place an image file in your project directory
     # and uncomment the line below.
-    st.image(logo_img, width=100)
+    # st.image(logo_img, width=100)
     st.markdown("## National Institute of Technology, Agartala")
     st.markdown("---")
     st.markdown("""

@@ -120,7 +120,7 @@ if __name__ == "__main__":
     for file in directories:
         if file.endswith(".json"):
             file_path = os.path.join(JSON_DIR, file)
-            with open(file_path, 'r') as f:
+            with open(file_path, 'r', encoding='utf-8') as f:
                 try:
                     json_data = json.load(f)
                     # Assuming each json file contains a dictionary and we want to merge them
@@ -132,3 +132,10 @@ if __name__ == "__main__":
 
 
     vstore_json_embeddings = process_json_data_with_embeddings(combined_data, "department_json_embeddings")
+
+
+    print("\nQuerying the vector store...")
+    response = query_json_vstore_with_gemini("chairman of bog", vstore_json_embeddings, GOOGLE_API_KEY)
+
+    print("\nGenerated Response:")
+    print(response)
