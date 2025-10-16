@@ -1,105 +1,65 @@
-# import streamlit as st
-# import json
-# import os
-# from dotenv import load_dotenv
-# from processor2 import process_json_data_with_embeddings, query_json_vstore_with_gemini
-
-# load_dotenv()
-
-# # ---- Config ---- #
-# JSON_DIR = "data/processed/webpages/json"
-# COLLECTION_NAME = "department_json_embeddings"
-# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-
-# # ---- Helpers ---- #
-# def load_json_files(directory: str) -> dict:
-#     """Load and merge JSON files from a given directory into a dict."""
-#     combined_data = {}
-#     for file in os.listdir(directory):
-#         if file.endswith(".json"):
-#             file_path = os.path.join(directory, file)
-#             try:
-#                 with open(file_path, "r", encoding="utf-8") as f:
-#                     combined_data[file] = json.load(f)
-#             except json.JSONDecodeError:
-#                 st.warning(f"⚠️ Skipping invalid JSON file: {file}")
-#             except Exception as e:
-#                 st.error(f"Error reading {file}: {e}")
-#     return combined_data
-
-# @st.cache_resource(show_spinner="Building vector store...")
-# def init_vectorstore():
-#     json_data = load_json_files(JSON_DIR)
-#     return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
-
-# # ---- Streamlit UI ---- #
-# st.set_page_config(page_title="RAG Chatbot UI")
-# st.title("NITA Chatbot")
-# st.info("Ask me questions about the college!")
-
-# # Initialize vector store
-# vstore_json_embeddings = init_vectorstore()
-
-# # Maintain session messages
-# if "messages" not in st.session_state:
-#     st.session_state.messages = []
-
-# # Display chat history
-# for message in st.session_state.messages:
-#     with st.chat_message(message["role"]):
-#         st.markdown(message["content"])
-
-# # Chat input
-# if prompt := st.chat_input("What do you want to know?"):
-#     st.chat_message("user").markdown(prompt)
-#     st.session_state.messages.append({"role": "user", "content": prompt})
-
-#     with st.chat_message("assistant"):
-#         with st.spinner("Thinking..."):
-#             try:
-#                 response = query_json_vstore_with_gemini(
-#                     query=prompt,
-#                     google_api_key=GOOGLE_API_KEY,
-#                     vstore_json=vstore_json_embeddings,
-#                 )
-#                 st.markdown(response)
-#                 st.session_state.messages.append({"role": "assistant", "content": response})
-#             except Exception as e:
-#                 error_message = f"❌ Error: {e}"
-#                 st.error(error_message)
-#                 st.session_state.messages.append({"role": "assistant", "content": error_message})
-
-
 import streamlit as st
 import json
 import os
 from PIL import Image
 from dotenv import load_dotenv
-from processor2 import process_json_data_with_embeddings, query_json_vstore_with_gemini
+from processor2 import process_text_data_with_embeddings, process_json_data_with_embeddings, query_json_vstore_with_gemini
+from processor2 import get_vstore
 
 # --- Core Logic & Setup (Unchanged) ---
 load_dotenv()
 
 # ---- Config ---- #
 JSON_DIR = "data/processed/webpages/json"
-COLLECTION_NAME = "department_json_embeddings"
+TEXT_DIR = "data/processed/webpages/txt"
+COLLECTION_NAME = "department_json_embeddings_5"
+COLLECTION_NAME_TXT = "txt_embeddings"
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # ---- Helpers ---- #
 def load_json_files(directory: str) -> dict:
     """Load and merge JSON files from a given directory into a dict."""
-    combined_data = {}
+    # combined_data = {}
+    # if not os.path.exists(directory):
+    #     st.error(f"Directory not found: {directory}. Please ensure the JSON data is in the correct location.")
+    #     return None
+    # for file in os.listdir(directory):
+    #     if file.endswith(".json"):
+    #         file_path = os.path.join(directory, file)
+    #         try:
+    #             with open(file_path, "r", encoding="utf-8") as f:
+    #                 combined_data[file] = json.load(f)
+    #         except json.JSONDecodeError:
+    #             st.warning(f"⚠ Skipping invalid JSON file: {file}")
+    #         except Exception as e:
+    #             st.error(f"Error reading {file}: {e}")
+    # return combined_data
+    json_data = []
     if not os.path.exists(directory):
-        st.error(f"Directory not found: {directory}. Please ensure the JSON data is in the correct location.")
         return None
     for file in os.listdir(directory):
         if file.endswith(".json"):
             file_path = os.path.join(directory, file)
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
-                    combined_data[file] = json.load(f)
-            except json.JSONDecodeError:
-                st.warning(f"⚠ Skipping invalid JSON file: {file}")
+                    data = json.load(f)
+                    json_data.append({"file_name": file, "content": data})
+            except Exception as e:
+                print(f"Error reading {file}: {e}")
+    return json_data
+
+def get_all_txt_data(directory: str) -> str:
+    """Combine all the TXT files data from a given directory into a single string separated by new lines."""
+    combined_data = ""
+    if not os.path.exists(directory):
+        st.error(f"Directory not found: {directory}. Please ensure the TXT data is in the correct location.")
+        return None
+    for file in os.listdir(directory):
+        if file.endswith(".txt"):
+            file_path = os.path.join(directory, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    combined_data += f.read() + "\n"
             except Exception as e:
                 st.error(f"Error reading {file}: {e}")
     return combined_data
@@ -107,10 +67,20 @@ def load_json_files(directory: str) -> dict:
 @st.cache_resource(show_spinner="Connecting to Knowledge Base...")
 def init_vectorstore():
     """Initializes the vector store. This is cached to run only once."""
-    json_data = load_json_files(JSON_DIR)
-    if not json_data:
-        st.stop() # Stop execution if no data is loaded
-    return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
+    # json_data = load_json_files(JSON_DIR)
+    # if not json_data:
+    #     st.stop() # Stop execution if no data is loaded
+    # return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
+    # json_data = load_json_files(JSON_DIR)
+    # with open("data/processed/webpages/metadata/metadata.json", "r") as f:
+    #     metadata_json = json.loads(f.read())
+    
+    # return process_json_data_with_embeddings(json_data, metadata_json, COLLECTION_NAME)
+
+    return get_vstore(COLLECTION_NAME) 
+
+    # txt_data = get_all_txt_data(TEXT_DIR)
+    # return process_text_data_with_embeddings(txt_data, COLLECTION_NAME_TXT)
 
 
 # ---- NITA Themed UI ---- #
