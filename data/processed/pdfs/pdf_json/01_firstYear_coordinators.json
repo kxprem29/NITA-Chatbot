@@ -1,0 +1,131 @@
+{
+    "notice_details": {
+      "institution": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
+      "office": "OFFICE OF THE DEAN ACADEMIC",
+      "notice_number": "NITA.5/(57-Acad)/UG(Misc)/2023-24/Part-12 A-2021",
+      "date": "2025-03-25",
+      "subject": "First Year UG and Dual Degree Programme - Coordinators' Details",
+      "signed_by": {
+        "name": "Prof. Rajib Saha",
+        "title": "Dean (Academic)",
+        "institution": "NIT Agartala"
+      }
+    },
+    "coordinators": {
+      "first_year_coordinators": [
+        {
+          "name": "Dr. Sadhan Gope",
+          "designation": "Assistant Prof. (EE)",
+          "role": "First Year Co-ordinator",
+          "phone_number": "9862670880",
+          "email": "sadhangope.ee@nita.ac.in"
+        },
+        {
+          "name": "Dr. Nabarun Biswas",
+          "designation": "Assistant Prof. (PE)",
+          "role": "First Year Co-coordinator",
+          "phone_number": "8259008964",
+          "email": "mechanical.biswas@gmail.com"
+        }
+      ],
+      "section_coordinators": [
+        {
+          "section": "A",
+          "name": "Dr. Tilottama Chakraborty",
+          "designation": "Asst Prof.(CE)",
+          "phone_number": "9862510754",
+          "email": "tilottama86@gmail.com"
+        },
+        {
+          "section": "B",
+          "name": "Dr. Shailendra Singh",
+          "designation": "Asst Prof.(EE)",
+          "phone_number": "9412482849",
+          "email": "shailendra.ee@nita.ac.in"
+        },
+        {
+          "section": "C",
+          "name": "Mrs. Hrijuta Datta",
+          "designation": "Asst Prof.(BE)",
+          "phone_number": "9436960713",
+          "email": "hrijuta.ri8z@gmail.com"
+        },
+        {
+          "section": "D",
+          "name": "Dr. Subhojit Das",
+          "designation": "Asst Prof.(CHY)",
+          "phone_number": "8974331422",
+          "email": "subhojit.chem@gmail.com"
+        },
+        {
+          "section": "E",
+          "name": "Dr. Ashis Acharjee",
+          "designation": "Asst Prof.(ME)",
+          "phone_number": "9774159616",
+          "email": "dd_shyam2007@yahoo.co.in"
+        },
+        {
+          "section": "F",
+          "name": "Dr. Priyanka Dey",
+          "designation": "Asst Prof.(EIE)",
+          "phone_number": "9774147921",
+          "email": "priyankadey.mtech@gmail.com"
+        },
+        {
+          "section": "G",
+          "name": "Dr. Pinku Debnath",
+          "designation": "Asst Prof.(ME)",
+          "phone_number": "7085802245",
+          "email": "er.pinkunits@yahoo.com"
+        },
+        {
+          "section": "H",
+          "name": "Dr. Abhishek Nag",
+          "designation": "Asst Prof.(ECE)",
+          "phone_number": "9862139568",
+          "email": "abhi14379@gmail.com"
+        },
+        {
+          "section": "I",
+          "name": "Dr. Jayakumar L",
+          "designation": "Asst Prof.(CSE)",
+          "phone_number": "9791442705",
+          "email": "jayakumar@nita.ac.in"
+        },
+        {
+          "section": "J",
+          "name": "Dr. Kishore Kumar Dhar",
+          "designation": "Asst Prof.(CSE)",
+          "phone_number": "9774842248",
+          "email": "kkdhar82@gmail.com"
+        },
+        {
+          "section": "K",
+          "name": "Dr. Sujoy Chakraborty",
+          "designation": "Asst Prof.(PE)",
+          "phone_number": "9436158004",
+          "email": "ersujoymech05@gmail.com"
+        },
+        {
+          "section": "L",
+          "name": "Dr. Sushmita Sharma",
+          "designation": "Asst Prof.(CSE-IIITA)",
+          "phone_number": "8787615392",
+          "email": "snsush01@gmail.com"
+        },
+        {
+          "section": "X",
+          "name": "Dr. Abhijit Baidya",
+          "designation": "Asst Prof.(Math)",
+          "phone_number": "8837204231",
+          "email": "abhijitnita@yahoo.in"
+        }
+      ]
+    },
+    "instructions": [
+      "All the 1st year students are advised to contact their respective Section Coordinators for academic and related matters.",
+      "All the Section Coordinators are requested to schedule a Departmental Visit for the newly admitted First Year UG and Dual Degree students.",
+      "All the First Year UG and Dual Degree students are hereby informed to report to their respective Section Coordinators as per the schedule of the Induction Programme."
+    ],
+    "source_url": "https://www.nita.ac.in/Admission_Notice/SectionCoordinators_2025-26.pdf"
+  }

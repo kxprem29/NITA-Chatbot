@@ -58798,5 +58798,127 @@
             "director",
             "msg"
         ]
-    }
+    },
+    {
+        "id": "pdf_4289",
+        "url": "https://www.nita.ac.in/Minutes_Others/Order_Circulars/CPIO_July2025.pdf",
+        "title": "Appointment of Central Public Information Officer (CPIO) at NIT Agartala",
+        "description": "This notification from NIT Agartala announces the appointment of Dr. Praveen Shukla, Deputy Librarian, as the Central Public Information Officer (CPIO) for the institute, effective from August 1, 2025, as per the provisions of the RTI Act, 2005.",
+        "keywords": [
+          "cpio",
+          "central public information officer",
+          "rti act",
+          "appointment",
+          "dr praveen shukla",
+          "nit agartala",
+          "notification"
+        ]
+      },
+      {
+        "id": "pdf_4291",
+        "url": "https://nita.ac.in/Minutes_Others/Order_Circulars/Nominee_IPRCommittee_Dec2024.pdf",
+        "title": "Nomination of Director Nominee for IPR Committee at NIT Agartala",
+        "description": "This notification from NIT Agartala, dated December 26, 2024, announces the nomination of Dr. Tamasi Moyra Panua, Associate Professor of Electronics & Communication Engineering, as the Director Nominee for the Intellectual Property Right (IPR) Committee. Her term is effective until December 2025.",
+        "keywords": [
+          "ipr committee",
+          "director nominee",
+          "nomination",
+          "intellectual property right",
+          "dr tamasi moyra panua",
+          "nit agartala",
+          "notification"
+        ]
+      },
+      {
+        "id": "pdf_4292",
+        "url": "https://www.nita.ac.in/Minutes_Others/Order_Circulars/NodalOfficer_AISHE_Feb25.pdf",
+        "title": "Appointment of Nodal Officer for AISHE at NIT Agartala",
+        "description": "This office order from NIT Agartala, dated February 14, 2025, announces the appointment of Dr. Awnish Kumar, Assistant Professor in the CSE Department, as the Nodal Officer for the All India Survey on Higher Education (AISHE). He replaces Shri. S. Pradhan. The document supersedes a previous order from May 17, 2023.",
+        "keywords": [
+          "aishe",
+          "nodal officer",
+          "appointment",
+          "dr awnish kumar",
+          "nit agartala",
+          "office order",
+          "all india survey on higher education"
+        ]
+      },
+      {
+        "id": "pdf_4293",
+        "url": "https://www.nita.ac.in/Minutes_Others/Order_Circulars/OfficeOrder_EstateEr_April2025.pdf",
+        "title": "Appointment of In-charge for Estate Section at NIT Agartala",
+        "description": "This office order from NIT Agartala, dated April 23, 2025, assigns Mr. Prajay Kumar Ray Barman as the In-charge of the Estate Section (Civil & Electrical) with immediate effect. This order supersedes a previous one from June 20, 2022, and instructs Dr. Surajit Das to hand over the charges.",
+        "keywords": [
+          "estate section",
+          "in-charge",
+          "appointment",
+          "office order",
+          "mr prajay kumar ray barman",
+          "nit agartala",
+          "civil & electrical"
+        ]
+      },
+      {
+        "id": "pdf_4294",
+        "url": "https://www.nita.ac.in/Minutes_Others/Order_Circulars/OfficeOrder_SecurityOfficer_April2025.pdf",
+        "title": "Appointment of In-charge for Campus Security at NIT Agartala",
+        "description": "This office order from NIT Agartala, dated April 23, 2025, assigns Mr. Manik Debnath as the new In-charge of Campus Security, effective immediately. The order, which supersedes a previous one from May 9, 2023, instructs Mr. Abhishek Kumar Yadav to hand over the charges.",
+        "keywords": [
+          "campus security",
+          "in-charge",
+          "appointment",
+          "office order",
+          "mr manik debnath",
+          "nit agartala",
+          "security officer"
+        ]
+      },
+      {
+        "id": "pdf_4295",
+        "url": "https://www.nita.ac.in/Admission_Notice/SectionCoordinators_2025-26.pdf",
+        "title": "NIT Agartala First Year UG & Dual Degree Programme Coordinators List (2025-26)",
+        "description": "This notice from the Dean of Academics at NIT Agartala, dated March 25, 2025, provides a comprehensive list of coordinators for the first-year Undergraduate (UG) and Dual Degree programs. It includes contact details for the main First Year Coordinator, Co-coordinator, and individual Section Coordinators (Sections A-L and X). Students are advised to contact their designated coordinators for all academic-related matters.",
+        "keywords": [
+          "coordinators",
+          "first year",
+          "ug programme",
+          "dual degree",
+          "section coordinators",
+          "nit agartala",
+          "contact list",
+          "academic notice"
+        ]
+      },
+      {
+        "id": "pdf_4296",
+        "url": "https://www.nita.ac.in/uploaded_files/Holidays_July2025-June26.pdf",
+        "title": "NIT Agartala Holiday List for the Academic Year 2025-26",
+        "description": "This notification, issued by the Registrar of NIT Agartala on August 5, 2025, details the official list of holidays for the academic year spanning July 2025 to June 2026. It includes specific dates for national and festival holidays, a dedicated period for Puja holidays, and lists restricted holidays. The declaration of holidays for Garia Puja and Kharchi Puja is pending the state government's list. The notice also states that four Saturdays will be working days to compensate for academic losses.",
+        "keywords": [
+          "holiday list",
+          "academic year 2025-26",
+          "nit agartala",
+          "puja holidays",
+          "official holidays",
+          "notification",
+          "academic calendar"
+        ]
+      },
+      {
+        "id": "pdf_4297",
+        "url": "https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf",
+        "title": "NIT Agartala Academic Calendar for Odd Semester 2025-26",
+        "description": "This document provides the detailed academic calendar for the Odd Semester of the 2025-26 academic year at the National Institute of Technology Agartala. It outlines all key dates from July 2025 to January 2026, including registration periods, examination schedules (mid-term, end-term, supplementary), holidays, vacation periods, result publication dates, and other significant academic events like the convocation and alumni meet.",
+        "keywords": [
+          "academic calendar",
+          "2025-26",
+          "odd semester",
+          "nit agartala",
+          "examination schedule",
+          "registration dates",
+          "holidays",
+          "important dates"
+        ]
+      }
 ]
