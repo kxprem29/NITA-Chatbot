@@ -8,8 +8,8 @@
         "events": [
           {
             "start_date": "2025-07-01",
-            "end_date": "2025-07-03",
-            "description": "Registration for Supplementary (Summer), Improvement-2025 Examination - Starts."
+            "end_date": "2025-07-11",
+            "description": "Registration for Supplementary (Summer), Improvement-2025 Examination."
           },
           {
             "start_date": "2025-07-04",
@@ -37,13 +37,11 @@
             "description": "Registration for Supplementary (Summer), Improvement-2025 Examination - Ends."
           },
           {
-            "start_date": "2025-07-18",
-            "end_date": "2025-07-18",
+            "date": "2025-07-18",
             "description": "Summer Vacation (for faculty) Ends."
           },
           {
-            "start_date": "2025-07-22",
-            "end_date": "2025-07-22",
+            "date": "2025-07-25",
             "description": "Institute Re-open (For Students)."
           },
           {
@@ -58,19 +56,15 @@
           },
           {
             "start_date": "2025-07-26",
-            "end_date": "2025-07-26",
-            "description": "Supplementary (Summer)-2025, Improvement-2025 - Starts."
+            "end_date": "2025-08-04",
+            "description": "Supplementary (Summer)-2025, Improvement-2025"
           }
         ]
       },
       {
         "month": "August 2025",
         "events": [
-          {
-            "start_date": "2025-08-04",
-            "end_date": "2025-08-05",
-            "description": "Supplementary (Summer)-2025, Improvement-2025 - Ends."
-          },
+        
           {
             "start_date": "2025-08-08",
             "end_date": "2025-08-08",
@@ -107,7 +101,7 @@
             "description": "Ganesh Chaturthi (Restricted holiday will be observed as closed holiday)."
           },
           {
-            "start_date": "2025-08-28",
+            "start_date": "2025-08-25",
             "end_date": "2025-08-29",
             "description": "Class Test/Quiz week (Intermediate-UG, Dual Degree & PG)."
           }
@@ -129,12 +123,12 @@
           {
             "start_date": "2025-09-25",
             "end_date": "2025-09-25",
-            "description": "Class Test/Quiz week (Intermediate)."
+            "description": "Class Test/Quiz week (1st year)."
           },
           {
             "start_date": "2025-09-26",
             "end_date": "2025-09-26",
-            "description": "Last Date for Submission of Question Paper for Mid Term Odd Sem Exam 2025 (Intermediate Years/1st Year)."
+            "description": "Last Date for Submission of Question Paper for Mid Term Odd Sem Exam 2025 (1st Year)."
           }
         ]
       },
@@ -147,8 +141,8 @@
             "description": "Mahatma Gandhi Birthday."
           },
           {
-            "start_date": "2025-10-03",
-            "end_date": "2025-10-03",
+            "start_date": "2025-10-02",
+            "end_date": "2025-10-02",
             "description": "Dussehra (Vijaya Dashami)."
           },
           {
@@ -182,14 +176,9 @@
             "description": "Diwali (Deepavali)."
           },
           {
-            "start_date": "2025-10-22",
-            "end_date": "2025-10-24",
-            "description": "Class Test/Quiz week (1st Year)."
-          },
-          {
-            "start_date": "2025-10-28",
-            "end_date": "2025-10-30",
-            "description": "Class Test/Quiz week."
+            "start_date": "2025-10-27",
+            "end_date": "2025-10-31",
+            "description": "Class Test/Quiz week"
           }
         ]
       },
@@ -203,12 +192,12 @@
           },
           {
             "start_date": "2025-11-17",
-            "end_date": "2025-11-18",
+            "end_date": "2025-11-17",
             "description": "Question Paper Submission for End Term Odd Sem Exam 2025 (Intermediate Year-UG, PG, Dual, B.Sc, B.Ed)."
           },
           {
             "start_date": "2025-11-17",
-            "end_date": "2025-11-18",
+            "end_date": "2025-11-17",
             "description": "Debarred List Submission - End Term (Intermediate Year)."
           },
           {
@@ -248,7 +237,7 @@
           },
           {
             "start_date": "2025-12-08",
-            "end_date": "2025-12-08",
+            "end_date": "2026-01-05",
             "description": "Winter Vacation - (Intermediate Year student UG, Dual.)."
           },
           {
@@ -258,7 +247,7 @@
           },
           {
             "start_date": "2025-12-18",
-            "end_date": "2025-12-18",
+            "end_date": "2026-01-05",
             "description": "Winter Vacation - (1st Year student-UG, Dual)."
           },
           {
@@ -293,7 +282,7 @@
           },
           {
             "start_date": "2025-12-26",
-            "end_date": "2025-12-26",
+            "end_date": "2026-01-05",
             "description": "Winter Vacation (For Faculty)."
           },
           {
@@ -318,7 +307,7 @@
           },
           {
             "start_date": "2026-01-07",
-            "end_date": "2026-01-07",
+            "end_date": "2026-01-09",
             "description": "Physical Registration for students and Commencement of Class for Even Semester 2025-26."
           },
           {
@@ -457,7 +446,7 @@
         "end_date": "2026-01-09"
       },
       {
-        "description": "Physical Registration for students and Commencement of Class for Even Semester 2025-26",
+        "description": "Commencement of Class for Even Semester 2025-26",
         "date": "2026-01-07"
       },
       {
@@ -476,5 +465,6 @@
         "description": "18th Convocation",
         "date": "2026-01-17"
       }
-    ]
+    ],
+    "source_url":"https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf"
   }
