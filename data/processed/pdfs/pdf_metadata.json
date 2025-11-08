@@ -1,5 +1,5 @@
-[
-    {
+{
+    "pdf1":{
         "id": "pdf_1",
         "url": "https://nita.ac.in/Admission_Notice/Accommodation_UG_Aug25.pdf",
         "title": "Admission Notice Accommodation Undergraduate Aug25",
@@ -10,6 +10,22 @@
             "accommodation",
             "ug",
             "aug25"
+        ]
+    },
+    "pdf2":{
+        "id": "pdf_4295",
+        "url": "https://www.nita.ac.in/Admission_Notice/SectionCoordinators_2025-26.pdf",
+        "title": "NIT Agartala First Year UG & Dual Degree Programme Coordinators List (2025-26)",
+        "description": "This notice from the Dean of Academics at NIT Agartala, dated March 25, 2025, provides a comprehensive list of coordinators for the first-year Undergraduate (UG) and Dual Degree programs. It includes contact details for the main First Year Coordinator, Co-coordinator, and individual Section Coordinators (Sections A-L and X). Students are advised to contact their designated coordinators for all academic-related matters.",
+        "keywords": [
+          "coordinators",
+          "first year",
+          "ug programme",
+          "dual degree",
+          "section coordinators",
+          "nit agartala",
+          "contact list",
+          "academic notice"
         ]
     },
     {
@@ -58921,4 +58937,4 @@
           "important dates"
         ]
       }
-]
+    }

@@ -1,0 +1,3818 @@
+{
+    "f118.json": {
+        "name": "f118.json",
+        "description": "Faculty profile information for Mrs. Hrijuta Datta, Assistant Professor (Contractual) in the Bio Engineering department.",
+        "type": "faculty_profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "bio engineering",
+            "assistant professor",
+            "Hrijuta Datta",
+            "contact information"
+        ]
+    },
+    "f63.json": {
+        "name": "f63.json",
+        "description": "A detailed profile of Dr. Uttam Kumar Bera, including his contact information, academic qualifications, publications, patents, achievements, and training experiences.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mathematics",
+            "publications",
+            "research",
+            "academic",
+            "CV",
+            "contact information",
+            "inventory problems",
+            "fuzzy logic",
+            "optimization",
+            "trade credit policy",
+            "game theory",
+            "neural networks",
+            "petrochemical",
+            "transportation costs",
+            "sensor",
+            "crop cultivation"
+        ]
+    },
+    "f186.json": {
+        "name": "f186.json",
+        "description": "Detailed profile of Dr. Shailendra Singh, including his academic background, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Electrical Engineering",
+            "Power Systems",
+            "Smart Energy",
+            "Grid Automation",
+            "Micro-Grid",
+            "Electric Vehicles",
+            "Distributed Energy Resources",
+            "Blockchain",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Energy Systems",
+            "IOT",
+            "Distribution Grids",
+            "Energy Market",
+            "Renewable Energy",
+            "Volt/VAR Control",
+            "Frequency Control",
+            "Energy Trading",
+            "Cyber Security",
+            "Decentralized Control"
+        ]
+    },
+    "f183.json": {
+        "name": "f183.json",
+        "description": "Profile information for Dr. Prashant Bhardwaj, Assistant Professor in Computer Science and Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "engineering",
+            "professor",
+            "research",
+            "education",
+            "academic",
+            "profile"
+        ]
+    },
+    "f179.json": {
+        "name": "f179.json",
+        "description": "Profile information of Mrs. Nabanita Bhowmik, Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "assistant professor",
+            "academic",
+            "profile",
+            "Nabanita Bhowmik"
+        ]
+    },
+    "f83.json": {
+        "name": "f83.json",
+        "description": "Profile information of Dr. Chitraniva Datta, Assistant Professor in Chemistry.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "professor",
+            "research",
+            "coordination chemistry",
+            "liquid crystals",
+            "nanomaterials",
+            "green chemistry",
+            "education"
+        ]
+    },
+    "f60.json": {
+        "name": "f60.json",
+        "description": "Faculty profile of Dr. Sagnik Pal, Assistant Professor in Mechanical Engineering, including contact information, academic background, research interests, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "heat transfer",
+            "boiling",
+            "research",
+            "publications",
+            "academic",
+            "courses",
+            "thermodynamics",
+            "fluid mechanics",
+            "Agartala",
+            "Tripura",
+            "India"
+        ]
+    },
+    "f92.json": {
+        "name": "f92.json",
+        "description": "Contact information for Dr. Amit Bikram Chowdhury, including name, designation, department, email, address, and phone number.",
+        "type": "contact information",
+        "keywords": [
+            "contact",
+            "information",
+            "faculty",
+            "professor",
+            "name",
+            "designation",
+            "department",
+            "email",
+            "address",
+            "phone",
+            "Dr. Amit Bikram Chowdhury",
+            "Management",
+            "Humanities",
+            "Social Sciences"
+        ]
+    },
+    "f74.json": {
+        "name": "f74.json",
+        "description": "Profile information of Dr. Ashis Acharjee, including contact details, academic background, research interests, courses taught, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "thermal engineering",
+            "CFD",
+            "heat transfer",
+            "finite element analysis",
+            "thermodynamics",
+            "renewable energy",
+            "sustainable energy",
+            "publications",
+            "research",
+            "courses",
+            "NIT Agartala"
+        ]
+    },
+    "f39.json": {
+        "name": "f39.json",
+        "description": "Faculty profile of Dr. Madhujit Deb, Associate Professor in Mechanical Engineering, detailing his research interests, academic qualifications, publications, and other professional activities.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "mechanical engineering",
+            "IC Engine",
+            "Alternative fuels",
+            "research",
+            "publications",
+            "courses",
+            "NIT Agartala",
+            "Dr. Madhujit Deb"
+        ]
+    },
+    "f38.json": {
+        "name": "f38.json",
+        "description": "Profile information of Dr. Biswanath Bhunia, Assistant Professor in Bio Engineering, including contact details, research areas, academic qualifications, courses taught, and student supervision.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "bioengineering",
+            "biotechnology",
+            "pharmaceutical technology",
+            "computational biology",
+            "academic",
+            "research",
+            "NIT Agartala",
+            "professor",
+            "curriculum vitae",
+            "biochemical engineering",
+            "bioprocess engineering",
+            "downstream processing"
+        ]
+    },
+    "f86.json": {
+        "name": "f86.json",
+        "description": "Profile information of Dr. Anuradha Nongmaithem, including contact details, academic qualifications, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "academic",
+            "resume",
+            "CV",
+            "publications",
+            "education",
+            "English Literature",
+            "African American Literature",
+            "Management",
+            "Humanities",
+            "Social Sciences",
+            "India",
+            "Manipur",
+            "book",
+            "Professional Communication"
+        ]
+    },
+    "f208.json": {
+        "name": "f208.json",
+        "description": "JSON data containing faculty information for the Mechanical Engineering department at NIT Agartala.",
+        "type": "directory",
+        "keywords": [
+            "faculty",
+            "directory",
+            "Mechanical Engineering",
+            "NIT Agartala",
+            "professors",
+            "education",
+            "India",
+            "contact information"
+        ]
+    },
+    "f166.json": {
+        "name": "f166.json",
+        "description": "Faculty profile of Dr. Debashis Podder, Assistant Professor in Production Engineering, detailing his research interests, courses taught, academic background, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "production engineering",
+            "manufacturing",
+            "metal matrix composite",
+            "rapid prototyping",
+            "research",
+            "publications",
+            "thermodynamics",
+            "materials",
+            "machining",
+            "CNC",
+            "automation",
+            "robotics",
+            "composites"
+        ]
+    },
+    "f204.json": {
+        "name": "f204.json",
+        "description": "Profile information for Dr. Amlanbrata Chakraborty, including contact details, academic qualifications, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "management",
+            "humanities",
+            "social sciences",
+            "research",
+            "publications",
+            "academic",
+            "business crime",
+            "finance",
+            "marketing",
+            "human resources",
+            "law",
+            "intellectual property",
+            "tripura"
+        ]
+    },
+    "f194.json": {
+        "name": "f194.json",
+        "description": "A profile of Dr. Diptendu Bhattacharya, detailing his education, research interests, publications, and other professional activities.",
+        "type": "profile",
+        "keywords": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Science",
+            "IoT",
+            "Precision Agriculture",
+            "Computer Vision",
+            "Medical Imaging",
+            "NLP",
+            "Time Series Analysis",
+            "Publications",
+            "Patents",
+            "Education",
+            "Faculty Profile"
+        ]
+    },
+    "f114.json": {
+        "name": "f114.json",
+        "description": "Profile information for Dr. Shikha Maurya, including contact details, academic background, publications, achievements, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics and communication engineering",
+            "NIT Agartala",
+            "research",
+            "publications",
+            "green communication",
+            "cognitive radio",
+            "optimization",
+            "academic",
+            "profile"
+        ]
+    },
+    "f144.json": {
+        "name": "f144.json",
+        "description": "Profile information and publications of Dr. Dibyendu Ghoshal, Professor of Electronics and Communication Engineering.",
+        "type": "profile",
+        "keywords": [
+            "Dibyendu Ghoshal",
+            "Professor",
+            "Electronics and Communication Engineering",
+            "publications",
+            "conference papers",
+            "journal articles",
+            "Impatt diode",
+            "millimeter wave",
+            "oscillator",
+            "radial transmission line"
+        ]
+    },
+    "f127.json": {
+        "name": "f127.json",
+        "description": "Profile information of Dr. Nilotpal Debbarma, Assistant Professor in Civil Engineering, including research areas, courses taught, contact details, and academic background.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "Hydrological Modelling",
+            "Water Resources",
+            "Assistant Professor",
+            "NIT Silchar",
+            "Academic Profile",
+            "Faculty",
+            "Tripura",
+            "India",
+            "GIS",
+            "Soft Computing",
+            "Regional Frequency Analysis"
+        ]
+    },
+    "f56.json": {
+        "name": "f56.json",
+        "description": "Profile information of Dr. Manash Kumar Paul, including his designation, contact details, academic background, research interests, publications, and other professional activities.",
+        "type": "profile",
+        "keywords": [
+            "plasma physics",
+            "fusion energy",
+            "glow discharge",
+            "RF plasma",
+            "plasma-surface interaction",
+            "helicon plasma",
+            "double layer",
+            "sheath instability",
+            "academic profile",
+            "research",
+            "publications"
+        ]
+    },
+    "f125.json": {
+        "name": "f125.json",
+        "description": "Profile information for Mr. Nabendu Debnath, a Teaching Assistant in the Department of Management, Humanities & Social Sciences.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "teaching assistant",
+            "management",
+            "humanities",
+            "social sciences",
+            "corporate finance",
+            "financial markets",
+            "behavioral finance",
+            "accountancy",
+            "financial management",
+            "portfolio management",
+            "india",
+            "tripura"
+        ]
+    },
+    "f70.json": {
+        "name": "f70.json",
+        "description": "Profile information for Dr. Abhijit Baidya, Assistant Professor in Mathematics.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "assistant professor",
+            "contact information",
+            "publications",
+            "academic profile"
+        ]
+    },
+    "f161.json": {
+        "name": "f161.json",
+        "description": "Profile information of Dr. Abanishwar Chakrabarti, an Assistant Professor in Electrical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "professor",
+            "academic",
+            "contact information",
+            "research"
+        ]
+    },
+    "f167.json": {
+        "name": "f167.json",
+        "description": "Profile information for Mr. Manik Bhowmik, Assistant Professor in Electronics and Communication Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electronics",
+            "communication",
+            "engineering",
+            "professor",
+            "antenna optimization",
+            "microwave circuits",
+            "academic profile"
+        ]
+    },
+    "f145.json": {
+        "name": "f145.json",
+        "description": "Profile information of Dr. Maroju Suman Kalyan, including contact details, academic qualifications, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "physics",
+            "thermodynamics",
+            "polymers",
+            "biopolymers",
+            "monte carlo simulations",
+            "publications",
+            "academic qualification",
+            "research",
+            "NIT Agartala"
+        ]
+    },
+    "f84.json": {
+        "name": "f84.json",
+        "description": "Profile information for Dr. Ajay Kumar Manna, including contact details, academic background, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "Ajay Kumar Manna",
+            "Chemical Engineering",
+            "NIT Agartala",
+            "Associate Professor",
+            "publications",
+            "groundwater",
+            "arsenic removal",
+            "membrane distillation",
+            "water quality",
+            "academic profile",
+            "research",
+            "Environmental Engineering"
+        ]
+    },
+    "f95.json": {
+        "name": "f95.json",
+        "description": "Profile information for Dr. Sudipa Choudhury, Assistant Professor in Mathematics.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "assistant professor",
+            "contact information",
+            "sudipa choudhury",
+            "academic"
+        ]
+    },
+    "f150.json": {
+        "name": "f150.json",
+        "description": "Faculty profile data for Dr. RAMA DEBBARMA, Associate Professor in Civil Engineering, detailing research interests, courses taught, and contact information.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "structural dynamics",
+            "earthquake engineering",
+            "seismic vibration control",
+            "tuned liquid column damper",
+            "tuned liquid dampers",
+            "tuned mass dampers",
+            "base isolation system",
+            "seismic fragility analysis",
+            "probabilistic seismic analysis",
+            "soil-structure interaction",
+            "concrete",
+            "geopolymer concrete",
+            "structural analysis",
+            "design of structures",
+            "dynamics of structures",
+            "theory of plate and shells",
+            "seismic analysis and design"
+        ]
+    },
+    "f143.json": {
+        "name": "f143.json",
+        "description": "Curriculum Vitae of Dr. Jawahar Paulraj, Associate Professor in Mechanical Engineering, detailing his academic background, publications, patents, and achievements.",
+        "type": "CV",
+        "keywords": [
+            "Curriculum Vitae",
+            "Mechanical Engineering",
+            "Associate Professor",
+            "Publications",
+            "Conference Papers",
+            "Journal Articles",
+            "Book Chapters",
+            "Patents",
+            "Achievements",
+            "Composite Materials",
+            "Production Engineering",
+            "NIT Agartala"
+        ]
+    },
+    "f78.json": {
+        "name": "f78.json",
+        "description": "Profile information of Dr. Barnik Saha Roy, Associate Professor in Mechanical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "academic",
+            "professor",
+            "welding",
+            "research",
+            "Dr. Barnik Saha Roy"
+        ]
+    },
+    "f201.json": {
+        "name": "f201.json",
+        "description": "Profile information for Professor Ajoy Kumar Das, including academic background, research interests, publications, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "CFD",
+            "fluid flow",
+            "heat transfer",
+            "microchannels",
+            "boiling heat transfer",
+            "air conditioning",
+            "refrigeration",
+            "publications",
+            "research",
+            "academic profile"
+        ]
+    },
+    "f162.json": {
+        "name": "f162.json",
+        "description": "Profile information of Dr. SWAPAN DEBBARMA, including contact details, academic background, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "engineering",
+            "academic",
+            "publications",
+            "research",
+            "contact information",
+            "education",
+            "resume",
+            "CV"
+        ]
+    },
+    "f89.json": {
+        "name": "f89.json",
+        "description": "Profile information of Dr. Mantu Das, Assistant Professor in Mathematics, including contact details, academic qualifications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mathematics",
+            "academic",
+            "education",
+            "contact information",
+            "qualifications",
+            "subjects",
+            "profile"
+        ]
+    },
+    "f80.json": {
+        "name": "f80.json",
+        "description": "Profile information for Professor Umesh Mishra, including contact details, research interests, academic background, courses taught, and PhD students.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Water Treatment",
+            "Wastewater Treatment",
+            "Solid Waste Management",
+            "Air Pollution",
+            "GIS",
+            "Remote Sensing",
+            "Groundwater",
+            "Biofuel",
+            "NIT Agartala",
+            "Professor",
+            "Academic Profile",
+            "Research"
+        ]
+    },
+    "f157.json": {
+        "name": "f157.json",
+        "description": "Contact information for Dr. Tarun Kanti Bandyopadhyay, Associate Professor in Chemical Engineering.",
+        "type": "contact_information",
+        "keywords": [
+            "Dr. Tarun Kanti Bandyopadhyay",
+            "Associate Professor",
+            "Chemical Engineering",
+            "contact",
+            "email",
+            "phone",
+            "address"
+        ]
+    },
+    "f168.json": {
+        "name": "f168.json",
+        "description": "Profile information for Dr. Diptanu Das, Assistant Professor in Electrical Engineering, including contact details, research areas, academic background, and publications.",
+        "type": "profile",
+        "keywords": [
+            "Diptanu Das",
+            "Electrical Engineering",
+            "NIT Agartala",
+            "Power System",
+            "Soft Computing",
+            "Electric Vehicle",
+            "Economic Operation",
+            "Optimization",
+            "Conference Publications",
+            "Journal Publications",
+            "Academic Profile",
+            "Assistant Professor"
+        ]
+    },
+    "f104.json": {
+        "name": "f104.json",
+        "description": "Faculty profile of Dr. Aparupa Kar, Assistant Professor at the Department of Electronics and Instrumentation Engineering, including academic information and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty profile",
+            "electronics and instrumentation engineering",
+            "Aparupa Kar",
+            "publications",
+            "conference papers",
+            "journal articles",
+            "optical bistability",
+            "surface plasmon resonance",
+            "graphene",
+            "terahertz",
+            "beam steering",
+            "Goos-H\u00e4nchen shift",
+            "Imbert-Fedorov shift",
+            "photonics",
+            "optics"
+        ]
+    },
+    "f53.json": {
+        "name": "f53.json",
+        "description": "Profile information of Mr. Arindam Sinha, Assistant Professor in Mechanical Engineering, including contact details, research interests, courses taught, and academic background.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "assistant professor",
+            "research",
+            "education",
+            "profile",
+            "contact information",
+            "academic",
+            "publications",
+            "teaching",
+            "advance machining process"
+        ]
+    },
+    "f72.json": {
+        "name": "f72.json",
+        "description": "JSON data containing profile information for Dr. Swarup Paul, including contact details, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "profile",
+            "faculty",
+            "academic",
+            "research",
+            "contact information",
+            "publications",
+            "Dr. Swarup Paul",
+            "Production Engineering"
+        ]
+    },
+    "f61.json": {
+        "name": "f61.json",
+        "description": "Profile information of Dr. Joydeep Roy, including contact details, academic background, research areas, courses taught, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "manufacturing science",
+            "materials science",
+            "welding",
+            "research",
+            "publications",
+            "academic",
+            "profile",
+            "Dr. Joydeep Roy",
+            "Tripura"
+        ]
+    },
+    "f102.json": {
+        "name": "f102.json",
+        "description": "Profile information for Dr. Priyanka Dey, including contact details, academic qualifications, and publications.",
+        "type": "Faculty Profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "instrumentation",
+            "engineering",
+            "academic",
+            "publications",
+            "research",
+            "contact information",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "f21.json": {
+        "name": "f21.json",
+        "description": "Detailed profile of Dr. Bikram Das, Assistant Professor in Electrical Engineering, including contact information, research areas, qualifications, publications, and teaching experience.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "power electronics",
+            "multilevel inverter",
+            "renewable energy",
+            "publication",
+            "research",
+            "academic",
+            "curriculum vitae",
+            "HVDC",
+            "electric vehicle",
+            "Tripura",
+            "NIT Agartala"
+        ]
+    },
+    "f22.json": {
+        "name": "f22.json",
+        "description": "Faculty profile of Dr. Anindita Jamatia, Assistant Professor in Electrical Engineering, detailing her qualifications, research areas, and publications.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "power electronics",
+            "electrical drives",
+            "switched mode power supply",
+            "high gain converters",
+            "PV inverter",
+            "micro-inverter",
+            "renewable energy",
+            "publications",
+            "research",
+            "academic qualifications"
+        ]
+    },
+    "f132.json": {
+        "name": "f132.json",
+        "description": "Profile information of Dr. Smita Banik, an Assistant Professor in Electronics and Communication Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics and communication engineering",
+            "academic",
+            "research",
+            "cv",
+            "contact information",
+            "publications",
+            "courses",
+            "india",
+            "tripura"
+        ]
+    },
+    "f64.json": {
+        "name": "f64.json",
+        "description": "Metadata for a faculty member (Assistant Professor) in the Mechanical Engineering department, including contact information, academic qualifications, research interests, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "Mechanical Engineering",
+            "Assistant Professor",
+            "research",
+            "education",
+            "academic",
+            "courses",
+            "Manufacturing",
+            "Composites",
+            "Tribology",
+            "Biodiesel",
+            "NIT Agartala",
+            "Tripura Institute of Technology"
+        ]
+    },
+    "f129.json": {
+        "name": "f129.json",
+        "description": "Profile information of Mr. Bidyasagar Debnath, a Teaching Assistant in Management, Humanities & Social Sciences.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "teaching assistant",
+            "management",
+            "humanities",
+            "social sciences",
+            "accounting",
+            "finance",
+            "courses",
+            "research",
+            "india",
+            "tripura"
+        ]
+    },
+    "f181.json": {
+        "name": "f181.json",
+        "description": "Profile information for Mr. Subhajit Deb, an Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "assistant professor",
+            "academic profile",
+            "research"
+        ]
+    },
+    "f193.json": {
+        "name": "f193.json",
+        "description": "Profile information of Dr. Moumita Majumder, Assistant Professor in Computer Science and Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "assistant professor",
+            "contact information",
+            "Dr. Moumita Majumder"
+        ]
+    },
+    "f20.json": {
+        "name": "f20.json",
+        "description": "Profile information including contact details, research interests, academic qualifications, and publications of Dr. Supriyo Dutta, Assistant Professor of Mathematics.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "quantum information",
+            "graph theory",
+            "publications",
+            "academic profile",
+            "research",
+            "Dr. Supriyo Dutta"
+        ]
+    },
+    "f1.json": {
+        "name": "f1.json",
+        "description": "Detailed profile of Dr. Vidyut Dey, including academic information, publications, and teaching subjects.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "academic",
+            "publication",
+            "research",
+            "professor",
+            "production engineering",
+            "welding",
+            "manufacturing",
+            "NIT Agartala"
+        ]
+    },
+    "f9.json": {
+        "name": "f9.json",
+        "description": "Detailed profile of Dr. Debanjan Acharyya, Assistant Professor in Electronics and Instrumentation Engineering, including academic information, publications, research areas, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "Electronics and Instrumentation Engineering",
+            "sensor",
+            "IoT",
+            "wearable electronics",
+            "gas sensor",
+            "biosensor",
+            "AI",
+            "ML",
+            "device modeling",
+            "publication",
+            "research",
+            "academic",
+            "NIT Agartala"
+        ]
+    },
+    "f67.json": {
+        "name": "f67.json",
+        "description": "Profile information of Dr. Deeplina Das, Assistant Professor in Bio Engineering at NIT Agartala.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "bioengineering",
+            "NIT Agartala",
+            "contact information",
+            "professor",
+            "academic profile"
+        ]
+    },
+    "f24.json": {
+        "name": "f24.json",
+        "description": "A profile of Dr. Dwijen Rudrapal, including his personal information, research areas, courses taught, student supervision, academic background, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty profile",
+            "computer science",
+            "natural language processing",
+            "machine learning",
+            "artificial intelligence",
+            "research",
+            "publications",
+            "education",
+            "academic",
+            "Dwijen Rudrapal"
+        ]
+    },
+    "f178.json": {
+        "name": "f178.json",
+        "description": "Profile information of Mr. Ratnadeep Modak, an Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "professor",
+            "academic",
+            "profile",
+            "education"
+        ]
+    },
+    "f106.json": {
+        "name": "f106.json",
+        "description": "Faculty profile information for Dr. PRITAM DAS, an Associate Professor in the Mechanical Engineering department.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "mechanical engineering",
+            "associate professor",
+            "contact information",
+            "Dr. PRITAM DAS"
+        ]
+    },
+    "f130.json": {
+        "name": "f130.json",
+        "description": "Profile information for Dr. Rajib Mallik, including contact details, academic information, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "academic",
+            "research",
+            "contact information",
+            "education",
+            "publications"
+        ]
+    },
+    "f155.json": {
+        "name": "f155.json",
+        "description": "Profile information for Dr. Kamalesh Debnath, Assistant Professor in Electronics and Communication Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "communication",
+            "engineering",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f146.json": {
+        "name": "f146.json",
+        "description": "Profile information for Dr. Deb Dulal Tripura, Professor & HOD of Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Deb Dulal Tripura",
+            "Civil Engineering",
+            "Professor",
+            "HOD",
+            "academic profile",
+            "structural engineering",
+            "faculty",
+            "NBA Accredited"
+        ]
+    },
+    "f209.json": {
+        "name": "f209.json",
+        "description": "JSON data containing profiles of faculty members, including their research areas, publications, courses taught, and contact information.",
+        "type": "dataset",
+        "keywords": [
+            "faculty",
+            "profiles",
+            "research",
+            "publications",
+            "courses",
+            "education",
+            "physics",
+            "academic",
+            "university",
+            "professors"
+        ]
+    },
+    "f101.json": {
+        "name": "f101.json",
+        "description": "Profile information for Professor John Deb Barma, including contact details, academic background, and publications.",
+        "type": "profile",
+        "keywords": [
+            "Professor",
+            "Mechanical Engineering",
+            "Academic Profile",
+            "Publications",
+            "Research",
+            "John Deb Barma",
+            "Agartala",
+            "Tripura",
+            "India",
+            "Friction Stir Welding",
+            "Explosive Welding",
+            "EDM",
+            "Materials Science"
+        ]
+    },
+    "f189.json": {
+        "name": "f189.json",
+        "description": "Profile information of Dr. Muthusivaramapandian M, Assistant Professor in Bio Engineering, including contact details, research areas, courses taught, and academic background.",
+        "type": "profile",
+        "keywords": [
+            "bioengineering",
+            "bioprocess engineering",
+            "algae biofuel",
+            "metabolic engineering",
+            "academic profile",
+            "faculty",
+            "research",
+            "education",
+            "NIT Agartala"
+        ]
+    },
+    "f62.json": {
+        "name": "f62.json",
+        "description": "Profile information including contact details, academic qualifications, and publications of Prof. Aparna Nath.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "physics",
+            "publications",
+            "academic",
+            "contact information",
+            "liquid crystals",
+            "plasma physics",
+            "magnetoelectric",
+            "nanocomposites"
+        ]
+    },
+    "f182.json": {
+        "name": "f182.json",
+        "description": "Metadata for Dr. Sharmistha Sharma, Assistant Professor in Electrical Engineering, including contact information, research areas, courses taught, and academic background.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "power systems",
+            "microgrid",
+            "distributed generation",
+            "electric vehicle",
+            "soft computing",
+            "assistant professor",
+            "academic profile"
+        ]
+    },
+    "f113.json": {
+        "name": "f113.json",
+        "description": "Profile information of Dr. Kalyani Debnath, Assistant Professor in Mathematics.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "assistant professor",
+            "contact information",
+            "academic profile",
+            "Dr. Kalyani Debnath"
+        ]
+    },
+    "f52.json": {
+        "name": "f52.json",
+        "description": "Profile information of Dr. Jayanta Debnath, an Assistant Professor in Mathematics.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "assistant professor",
+            "academic",
+            "contact information",
+            "Dr. Jayanta Debnath"
+        ]
+    },
+    "f11.json": {
+        "name": "f11.json",
+        "description": "Detailed profile of Dr. Anupam Jamatia, including academic information, research areas, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "natural language processing",
+            "machine learning",
+            "artificial intelligence",
+            "publications",
+            "research",
+            "academic",
+            "NLP",
+            "AI",
+            "NIT Agartala"
+        ]
+    },
+    "f90.json": {
+        "name": "f90.json",
+        "description": "Profile information for Dr. Abhik Majumder, including contact details, academic background, research interests, courses taught, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "heat transfer",
+            "numerical simulation",
+            "multiphase flow",
+            "interfacial transport",
+            "thermodynamics",
+            "fluid dynamics",
+            "research",
+            "publications",
+            "courses",
+            "academic"
+        ]
+    },
+    "f41.json": {
+        "name": "f41.json",
+        "description": "Detailed profile of Prof. Mitali Saha, including contact information, academic qualifications, publications, conferences, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Professor",
+            "Chemistry",
+            "Organic Chemistry",
+            "Graphene",
+            "Photodegradation",
+            "Publications",
+            "Conferences",
+            "Academic Profile",
+            "NIT Agartala",
+            "Researcher"
+        ]
+    },
+    "f191.json": {
+        "name": "f191.json",
+        "description": "Profile information of Dr. Suman Deb, including contact details, research interests, courses taught, publications, and student supervision.",
+        "type": "profile",
+        "keywords": [
+            "faculty profile",
+            "computer science",
+            "artificial intelligence",
+            "machine learning",
+            "robot vision",
+            "human computer interaction",
+            "data analytics",
+            "research",
+            "publications",
+            "student supervision",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "f65.json": {
+        "name": "f65.json",
+        "description": "Profile information of Dr. Tarun Kanti Bandyopadhyay, including contact details, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "bio engineering",
+            "NIT Agartala",
+            "publications",
+            "research",
+            "contact information",
+            "academic",
+            "professor",
+            "HOD",
+            "Dr. Tarun Kanti Bandyopadhyay"
+        ]
+    },
+    "f19.json": {
+        "name": "f19.json",
+        "description": "Detailed profile of Dr. Sajal Kundu, Assistant Professor (Contractual) in the Chemistry Department, including contact information, academic qualifications, publications, and teaching experience.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "chemistry",
+            "academic",
+            "publications",
+            "research",
+            "qualifications",
+            "contact information",
+            "Sajal Kundu",
+            "Assistant Professor",
+            "inorganic chemistry",
+            "organometallic chemistry",
+            "bio-inorganic chemistry",
+            "bio-organic chemistry",
+            "industrial chemistry",
+            "zinc complexes",
+            "Agartala",
+            "Tripura"
+        ]
+    },
+    "f79.json": {
+        "name": "f79.json",
+        "description": "Profile information for Mrs. Nabina Khanam, an Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "assistant professor",
+            "contact information",
+            "academic",
+            "nits"
+        ]
+    },
+    "f122.json": {
+        "name": "f122.json",
+        "description": "Faculty profile of Dr. Debashish Karmakar, Assistant Professor in the Civil Engineering Department, detailing academic qualifications, research interests, publications, and contact information.",
+        "type": "faculty profile",
+        "keywords": [
+            "Civil Engineering",
+            "Faculty",
+            "Pavement Engineering",
+            "Pavement Materials",
+            "Porous Pavement",
+            "Pavement Rehabilitation",
+            "Research",
+            "Publications",
+            "Academic Profile",
+            "Transportation Engineering"
+        ]
+    },
+    "f121.json": {
+        "name": "f121.json",
+        "description": "Profile information of Dr. Pankaj Kumar Das, including contact details, academic background, publications, patents, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Pankaj Kumar Das",
+            "Mechanical Engineering",
+            "Associate Professor",
+            "Machine Design",
+            "Tribology",
+            "Nanocrystalline Diamond Film",
+            "Turbostatic Graphite",
+            "Publications",
+            "Conferences",
+            "Journals",
+            "Patents",
+            "Academic Information",
+            "Tripura",
+            "India",
+            "Waste Plastics",
+            "Sustainable Composites",
+            "RHA",
+            "Silica Sand",
+            "Material Selection",
+            "Multi-criteria decision-making",
+            "FEM",
+            "Design of Machine Elements"
+        ]
+    },
+    "f173.json": {
+        "name": "f173.json",
+        "description": "Profile information for Professor Sujit Kumar Pal, including contact details, research interests, courses taught, academic background, and address.",
+        "type": "profile",
+        "keywords": [
+            "professor",
+            "civil engineering",
+            "geotechnical engineering",
+            "soil mechanics",
+            "foundation design",
+            "soil-structure interaction",
+            "ground improvement",
+            "environmental geotechnique",
+            "highway engineering",
+            "railway engineering",
+            "NIT Agartala"
+        ]
+    },
+    "f34.json": {
+        "name": "f34.json",
+        "description": "A detailed profile of Dr. Santanu Chakraborty, including his academic background, research interests, publications, and contact information.",
+        "type": "profile",
+        "keywords": [
+            "Santanu Chakraborty",
+            "Physics",
+            "Materials Science",
+            "Thin Films",
+            "Nanoscience",
+            "Organic Electronics",
+            "Molecular Aggregates",
+            "Nanostructures",
+            "FRET",
+            "Sensor",
+            "Publications",
+            "Conference",
+            "Journal",
+            "Book Chapter",
+            "Patents",
+            "Academic",
+            "Research",
+            "Tripura University"
+        ]
+    },
+    "f28.json": {
+        "name": "f28.json",
+        "description": "Profile information for Mr. Tribid Debbarma, Assistant Professor in Computer Science and Engineering at NIT Agartala.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "NIT Agartala",
+            "NLP",
+            "Cloud Computing",
+            "academic",
+            "research",
+            "education"
+        ]
+    },
+    "f18.json": {
+        "name": "f18.json",
+        "description": "Profile information of Dr. Susmita Roy, including contact details, academic qualifications, publications, achievements, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mathematics",
+            "artificial neural network",
+            "metaheuristic algorithm",
+            "multi criteria decision making",
+            "publications",
+            "academic qualifications",
+            "research",
+            "contact information",
+            "address",
+            "teaching",
+            "MCDM",
+            "MADM",
+            "Fuzzy logic",
+            "Optimization",
+            "Machine Learning"
+        ]
+    },
+    "f137.json": {
+        "name": "f137.json",
+        "description": "Profile information for Mr. Prasenjit Debnath, an Assistant Professor in Electrical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electrical engineering",
+            "academic",
+            "profile",
+            "Prasenjit Debnath"
+        ]
+    },
+    "f138.json": {
+        "name": "f138.json",
+        "description": "Profile information of Dr. Gopinandan Dey, Assistant Professor in Civil Engineering, including contact details, research areas, courses taught, academic qualifications, publications, and training conducted.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "Structural Engineering",
+            "Concrete Technology",
+            "Geopolymer Concrete",
+            "Supplementary Cementitious Materials",
+            "Durability of Concrete",
+            "Non-destructive Evaluation",
+            "Electrical Impedance",
+            "Moisture Saturation",
+            "Publications",
+            "Research",
+            "Training",
+            "NIT Agartala"
+        ]
+    },
+    "f45.json": {
+        "name": "f45.json",
+        "description": "Metadata generation failed - 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 200\nPlease retry in 461.785076ms. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 200\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 200\nPlease retry in 461.785076ms. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 200\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n}\n]"
+    },
+    "f75.json": {
+        "name": "f75.json",
+        "description": "Profile information of Dr. Soma Nag, including academic qualifications, publications, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Soma Nag",
+            "Chemical Engineering",
+            "HOD",
+            "Associate Professor",
+            "NITA",
+            "Academic Profile",
+            "Publications",
+            "Conference Papers",
+            "Journal Articles",
+            "Environmental Engineering",
+            "Wastewater Treatment",
+            "Biosurfactants",
+            "Biofilm",
+            "Research"
+        ]
+    },
+    "f59.json": {
+        "name": "f59.json",
+        "description": "Detailed profile of Professor Paritosh Bhattacharya, including his academic background, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty profile",
+            "mathematics",
+            "mathematical biology",
+            "mathematical modeling",
+            "renewable energy",
+            "NIT Agartala",
+            "publications",
+            "research",
+            "academic",
+            "professor"
+        ]
+    },
+    "f29.json": {
+        "name": "f29.json",
+        "description": "Profile information for Dr. Srimanta Ray, Associate Professor in Chemical Engineering at NIT Agartala, including research areas, courses taught, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Srimanta Ray",
+            "Chemical Engineering",
+            "Associate Professor",
+            "NIT Agartala",
+            "Renewable Energy",
+            "Biofuels",
+            "Environmental Engineering",
+            "Materials Science",
+            "Polymers",
+            "Nanotechnology",
+            "Waste Management",
+            "Environmental Biotechnology",
+            "Process Modelling",
+            "Optimization",
+            "Academic Profile"
+        ]
+    },
+    "f140.json": {
+        "name": "f140.json",
+        "description": "Profile information for Professor Ratul Das, including contact details, research areas, courses taught, and academic background.",
+        "type": "profile",
+        "keywords": [
+            "Ratul Das",
+            "Professor",
+            "Civil Engineering",
+            "Hydraulics",
+            "Sediment Transport",
+            "Flood Modeling",
+            "Academic Profile",
+            "faculty"
+        ]
+    },
+    "f48.json": {
+        "name": "f48.json",
+        "description": "Profile information of Dr. Dipak Chandra Das, Assistant Professor in the Department of Mechanical Engineering, including contact details, academic qualifications, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Mechanical Engineering",
+            "Multiphase Flow",
+            "Transport Phenomena",
+            "Heat Transfer",
+            "Mass Transfer",
+            "Boiling Heat Transfer",
+            "Thermodynamics",
+            "Fluid Mechanics",
+            "NIT Agartala",
+            "Assistant Professor",
+            "Publications",
+            "Research",
+            "Academic Profile"
+        ]
+    },
+    "f123.json": {
+        "name": "f123.json",
+        "description": "Faculty profile of Dr. Nabarun Biswas, Assistant Professor in the Production Engineering Department at NIT Agartala, including academic information, publications, and achievements.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "Production Engineering",
+            "NIT Agartala",
+            "Nabarun Biswas",
+            "Tribology",
+            "Machine Design",
+            "publications",
+            "research",
+            "academic",
+            "conferences",
+            "journals",
+            "patents",
+            "achievements"
+        ]
+    },
+    "f8.json": {
+        "name": "f8.json",
+        "description": "JSON data containing information about faculty members, including their designation, department, contact details, research areas, and publications.",
+        "type": "dataset",
+        "keywords": [
+            "faculty",
+            "research",
+            "professor",
+            "department",
+            "publications",
+            "academic",
+            "contact information"
+        ]
+    },
+    "f36.json": {
+        "name": "f36.json",
+        "description": "Profile information of Mr. Subharaj Paul, including contact details, academic background, research interests, courses taught, and publications.",
+        "type": "profile",
+        "keywords": [
+            "physics",
+            "teaching assistant",
+            "research",
+            "nanocomposite materials",
+            "multiferroic",
+            "academic",
+            "publications",
+            "engineering physics",
+            "electronics",
+            "Tripura University",
+            "NIT Agartala"
+        ]
+    },
+    "f190.json": {
+        "name": "f190.json",
+        "description": "Detailed profile of Dr. Abhishek Koner, including his education, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "chemistry",
+            "inorganic chemistry",
+            "main group chemistry",
+            "boron chemistry",
+            "phosphorus chemistry",
+            "polymer chemistry",
+            "academic",
+            "research",
+            "faculty",
+            "publications",
+            "conferences",
+            "education",
+            "NIT Agartala"
+        ]
+    },
+    "f31.json": {
+        "name": "f31.json",
+        "description": "Profile information of Dr. Arvind Kumar Jain, Professor of Electrical Engineering, including contact details, academic qualifications, and patents.",
+        "type": "profile",
+        "keywords": [
+            "professor",
+            "electrical engineering",
+            "academic profile",
+            "contact information",
+            "education",
+            "patents",
+            "IIT Kanpur",
+            "Madhya Pradesh",
+            "India"
+        ]
+    },
+    "f42.json": {
+        "name": "f42.json",
+        "description": "Faculty profile of Dr. V. C. Padmanaban, Assistant Professor in Bioengineering at the National Institute of Technology Agartala, detailing his research interests, academic background, publications, and other professional activities.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "bioengineering",
+            "bioprocess engineering",
+            "environmental engineering",
+            "wastewater treatment",
+            "research",
+            "publications",
+            "academic",
+            "National Institute of Technology Agartala",
+            "Dr. V. C. Padmanaban",
+            "AMR",
+            "PPCPs"
+        ]
+    },
+    "f6.json": {
+        "name": "f6.json",
+        "description": "JSON data containing the profile of a faculty member, Dr. Abhishek Nag, including his academic information, research areas, contact details, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "academic",
+            "research",
+            "education",
+            "electronics",
+            "communication",
+            "VLSI",
+            "engineering",
+            "courses",
+            "GATE"
+        ]
+    },
+    "f197.json": {
+        "name": "f197.json",
+        "description": "Detailed profile of Prof. Swapan Bhaumik, Professor in the Department of Mechanical Engineering at NIT Agartala, including academic information, research interests, publications, and achievements.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "heat transfer",
+            "multi-phase flow",
+            "two-phase flow",
+            "NIT Agartala",
+            "publications",
+            "research",
+            "academic profile",
+            "courses",
+            "students",
+            "awards",
+            "patents",
+            "books",
+            "conferences"
+        ]
+    },
+    "f35.json": {
+        "name": "f35.json",
+        "description": "Profile information for Professor Ram Naresh Rai, including contact details, research interests, academic qualifications, courses taught, and details of PhD students.",
+        "type": "profile",
+        "keywords": [
+            "professor",
+            "academic",
+            "research",
+            "production engineering",
+            "foundry-forge",
+            "composite materials",
+            "grain refinement",
+            "manufacturing",
+            "welding",
+            "education",
+            "profile",
+            "faculty"
+        ]
+    },
+    "f192.json": {
+        "name": "f192.json",
+        "description": "Profile information for Dr. Kishore Kumar Dhar, including contact details, academic qualifications, publications, and workshops.",
+        "type": "profile",
+        "keywords": [
+            "Kishore Kumar Dhar",
+            "Assistant Professor",
+            "Computer Science",
+            "Engineering",
+            "Image Processing",
+            "Computational Fluids Dynamics",
+            "Publications",
+            "Conference papers",
+            "Journal articles",
+            "Workshops",
+            "Academic profile"
+        ]
+    },
+    "f37.json": {
+        "name": "f37.json",
+        "description": "Profile information of Dr. Tridib Kumar Bhowmick, including his education, research interests, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "Bioengineering",
+            "Nanobiotechnology",
+            "Drug Delivery",
+            "Microalgae",
+            "Biofuels",
+            "Bioproducts",
+            "Bio-analytics",
+            "Electron Microscopy",
+            "Recombinant Protein",
+            "Biomaterials",
+            "Indian Traditional Medicine",
+            "Food Processing",
+            "Pharmaceutical Biotechnology",
+            "Molecular Biology",
+            "Genetics",
+            "Biochemistry"
+        ]
+    },
+    "f26.json": {
+        "name": "f26.json",
+        "description": "JSON data containing the personal and professional information of Dr. Tannistha Pal, including contact details, research areas, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "Tannistha Pal",
+            "Assistant Professor",
+            "Computer Science",
+            "Image Processing",
+            "Artificial Intelligence",
+            "Computer Vision",
+            "research",
+            "courses",
+            "profile"
+        ]
+    },
+    "f107.json": {
+        "name": "f107.json",
+        "description": "Faculty profile of Prof. Debasis Neogi from the Department of Management, Humanities & Social Sciences at NIT Agartala.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "management",
+            "humanities",
+            "social sciences",
+            "NIT Agartala",
+            "Debasis Neogi",
+            "research",
+            "economics",
+            "global business",
+            "international markets",
+            "development issues",
+            "macro economics",
+            "emerging market economies"
+        ]
+    },
+    "f100.json": {
+        "name": "f100.json",
+        "description": "Profile information of Dr. Prakash Kumar Sahu, Assistant Professor at NIT Agartala, including academic qualifications, research areas, publications, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "Production Engineering",
+            "NIT Agartala",
+            "research",
+            "publications",
+            "Friction Stir Welding",
+            "Additive Manufacturing",
+            "Alloys",
+            "Composites",
+            "Tribology",
+            "Metal Additive Manufacturing",
+            "3D Printing",
+            "Material Processing",
+            "Metallurgy"
+        ]
+    },
+    "f54.json": {
+        "name": "f54.json",
+        "description": "Profile information for Dr. Venkata Bharat Nishtala, including contact details, academic background, research interests, publications, conference attendance, and training.",
+        "type": "Faculty Profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "chemistry",
+            "organic synthesis",
+            "publications",
+            "research",
+            "academic",
+            "N.I.T. Agartala",
+            "Venkata Bharat Nishtala"
+        ]
+    },
+    "f17.json": {
+        "name": "f17.json",
+        "description": "Profile information of Prof. Ardhendu Saha, including contact details, research areas, academic qualifications, publications, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electrical engineering",
+            "optoelectronics",
+            "laser instrumentation",
+            "industrial instrumentation",
+            "solid-state lasers",
+            "nonlinear optics",
+            "integrated photonic devices",
+            "fibre optics",
+            "fiber optic sensors",
+            "publications",
+            "research",
+            "academic qualifications",
+            "courses",
+            "NIT Agartala"
+        ]
+    },
+    "f154.json": {
+        "name": "f154.json",
+        "description": "Profile information of Dr. Mitra Barun Sarkar, including contact details, academic background, research areas, publications, and patents.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "communication engineering",
+            "nanoelectronics",
+            "optoelectronics",
+            "gas sensors",
+            "research",
+            "publications",
+            "patents",
+            "academic",
+            "profile"
+        ]
+    },
+    "f158.json": {
+        "name": "f158.json",
+        "description": "Profile information of Dr. Biman Debbarma, Assistant Professor at NIT Agartala, including contact details, research areas, publications, and academic activities.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "research",
+            "publications",
+            "hardware security",
+            "network on chip",
+            "computer architecture",
+            "electronics and communication engineering",
+            "NIT Agartala",
+            "Dr. Biman Debbarma",
+            "academic profile"
+        ]
+    },
+    "f164.json": {
+        "name": "f164.json",
+        "description": "Profile information of Dr. Mriganka Sekhar Manna, Assistant Professor in Chemical Engineering, including contact details, research areas, academic background, publications, and other achievements.",
+        "type": "profile",
+        "keywords": [
+            "Chemical Engineering",
+            "Separation Processes",
+            "Membrane Separation",
+            "Wastewater Treatment",
+            "Bioprocess Engineering",
+            "Adsorption",
+            "Academic Profile",
+            "Research",
+            "Publications",
+            "NIT Agartala",
+            "Faculty",
+            "Dr. Mriganka Sekhar Manna"
+        ]
+    },
+    "f25.json": {
+        "name": "f25.json",
+        "description": "Curriculum Vitae of Dr. Suyel Namasudra, Assistant Professor in Computer Science and Engineering, detailing personal information, research areas, academic qualifications, publications, conference attendance, and patents.",
+        "type": "CV",
+        "keywords": [
+            "Curriculum Vitae",
+            "Suyel Namasudra",
+            "Computer Science",
+            "Engineering",
+            "Cloud Computing",
+            "DNA Computing",
+            "Information Security",
+            "Blockchain",
+            "IoT",
+            "Publications",
+            "Patents",
+            "Academic Profile",
+            "Research"
+        ]
+    },
+    "f148.json": {
+        "name": "f148.json",
+        "description": "Profile information of Dr. Rajsekhar Panua, Professor & HOD, Department of Mechanical Engineering, including contact details, academic qualifications, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "Rajsekhar Panua",
+            "Professor",
+            "Mechanical Engineering",
+            "academic profile",
+            "publications",
+            "research",
+            "contact information",
+            "education",
+            "IC Engine",
+            "Thermal Power Engineering",
+            "Biodiesel",
+            "Hydrogen Energy",
+            "Springer",
+            "IEEE",
+            "Agartala",
+            "Tripura"
+        ]
+    },
+    "f185.json": {
+        "name": "f185.json",
+        "description": "Profile information of Dr. Nivedita Laskar, Assistant Professor in Electrical Engineering, including contact details, academic background, courses taught, publications, and research interests.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "professor",
+            "research",
+            "publications",
+            "academic",
+            "profile",
+            "Nivedita Laskar",
+            "Analog Electronics",
+            "Digital Electronics",
+            "Power Systems",
+            "Integrated Circuits"
+        ]
+    },
+    "f98.json": {
+        "name": "f98.json",
+        "description": "Profile information of Dr. Apu Kumar Saha, including contact details, academic background, publications, and conferences conducted.",
+        "type": "profile",
+        "keywords": [
+            "Apu Kumar Saha",
+            "Professor",
+            "Mathematics",
+            "NIT Agartala",
+            "Publications",
+            "Conferences",
+            "Academic Profile",
+            "Contact Information",
+            "Research",
+            "India"
+        ]
+    },
+    "f195.json": {
+        "name": "f195.json",
+        "description": "Profile information for Dr. Nikhil Debbarma, Assistant Professor in Computer Science and Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "computer science",
+            "engineering",
+            "assistant professor",
+            "Dr. Nikhil Debbarma"
+        ]
+    },
+    "f133.json": {
+        "name": "f133.json",
+        "description": "Profile information for Dr. Swarup Biswas, Assistant Professor in Chemical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemical engineering",
+            "assistant professor",
+            "academic profile",
+            "contact information",
+            "research",
+            "publications",
+            "courses"
+        ]
+    },
+    "f40.json": {
+        "name": "f40.json",
+        "description": "Profile information of Dr. Ankuran Saha, including contact details, academic qualifications, research interests, publications, patents, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "vibration",
+            "rotor dynamics",
+            "composites",
+            "publications",
+            "patents",
+            "research",
+            "academic",
+            "Dr. Ankuran Saha",
+            "National Institute of Technology Agartala",
+            "NIT Agartala"
+        ]
+    },
+    "f149.json": {
+        "name": "f149.json",
+        "description": "Profile information for Dr. Jayasree Chakraborty, including contact details, academic qualifications, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mathematics",
+            "academic",
+            "publications",
+            "contact information",
+            "research",
+            "CV",
+            "resume"
+        ]
+    },
+    "f109.json": {
+        "name": "f109.json",
+        "description": "Faculty profile of Dr. Tilottama Chakraborty, Assistant Professor at the Civil Engineering Department (NBA Accredited), including academic information, publications, research areas, and contact details.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "civil engineering",
+            "NBA accredited",
+            "Tilottama Chakraborty",
+            "water resources",
+            "hydrology",
+            "hydro-informatics",
+            "publications",
+            "research",
+            "academic",
+            "assistant professor",
+            "National Institute of Technology Agartala",
+            "water power energy",
+            "hydrological modeling",
+            "multicriteria decision making",
+            "optimization techniques"
+        ]
+    },
+    "f50.json": {
+        "name": "f50.json",
+        "description": "Profile information of Dr. Pinku Debnath, including his contact details, academic background, research interests, courses taught, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "thermal engineering",
+            "computational fluid dynamics",
+            "CFD",
+            "combustion",
+            "heat transfer",
+            "wind turbines",
+            "fluid mechanics",
+            "publications",
+            "research",
+            "National Institute of Technology",
+            "Agartala",
+            "Tripura"
+        ]
+    },
+    "f93.json": {
+        "name": "f93.json",
+        "description": "Profile information for Dr. Manas Roy, including contact details, academic background, research interests, publications, and conference presentations.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Manas Roy",
+            "Chemistry",
+            "Nanomaterials",
+            "Sustainable Materials",
+            "Energy Harvesting",
+            "Energy Storage",
+            "Photochemical Water Splitting",
+            "Wastewater Detoxification",
+            "CO2 Reduction",
+            "E-Nose",
+            "IIT Kanpur",
+            "NIT Agartala",
+            "Publications",
+            "Conferences",
+            "Academic Profile",
+            "Faculty Profile"
+        ]
+    },
+    "f87.json": {
+        "name": "f87.json",
+        "description": "Profile information of Dr. Munesh Chandra, including contact details, designation, and department.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "engineering",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f202.json": {
+        "name": "f202.json",
+        "description": "Faculty profile of Dr. Ajay Biswas, Associate Professor in the Department of Mechanical Engineering, including contact information, research interests, courses taught, project guidance, student supervision, academic background, and publications.",
+        "type": "Faculty Profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "mechanical engineering",
+            "research",
+            "publications",
+            "courses",
+            "students",
+            "climate change",
+            "sustainable energy",
+            "manufacturing technology",
+            "materials science",
+            "welding",
+            "metal matrix composite",
+            "polymer composite",
+            "advanced vehicle technology",
+            "AGARTALA",
+            "TRIPURA",
+            "India"
+        ]
+    },
+    "f174.json": {
+        "name": "f174.json",
+        "description": "Profile information of Dr. Manu S Nadesan, Assistant Professor in Civil Engineering, including contact details, academic background, research areas, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "Concrete Technology",
+            "Sustainable Concrete",
+            "High Performance Concrete",
+            "Self Compacting Concrete",
+            "Construction Materials",
+            "IIT Bhubaneswar",
+            "Research",
+            "Publications",
+            "Academic Profile",
+            "Faculty",
+            "Durability",
+            "Corrosion",
+            "Mix Design",
+            "Lightweight Aggregate"
+        ]
+    },
+    "f153.json": {
+        "name": "f153.json",
+        "description": "Profile information for Dr. Jayakumar L, Assistant Professor in Computer Science and Engineering, including contact details, research areas, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "engineering",
+            "IoT",
+            "networks",
+            "optimization",
+            "operations research",
+            "java programming",
+            "data structures",
+            "algorithm",
+            "big data analytics"
+        ]
+    },
+    "f30.json": {
+        "name": "f30.json",
+        "description": "Profile information of Dr. Bibhab Kumar Lodh, Assistant Professor in Chemical Engineering, including contact details, academic qualifications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "chemical engineering",
+            "academic",
+            "education",
+            "contact information",
+            "NIT Agartala",
+            "IIT BHU",
+            "CFD",
+            "Fluid Mechanics",
+            "Chemical Reaction Engineering",
+            "Process Dynamics & Control",
+            "Plant Design & Economics",
+            "Process Modeling & Simulation",
+            "Chemical Process Technology",
+            "Process Safety",
+            "Chemical Equipment Design"
+        ]
+    },
+    "f108.json": {
+        "name": "f108.json",
+        "description": "Faculty profile of Dr. Subrata Kumar Ghosh, Associate Professor in the Mechanical Engineering Department at NIT Agartala, including contact information, academic qualifications, publications, and achievements.",
+        "type": "faculty_profile",
+        "keywords": [
+            "Mechanical Engineering",
+            "NIT Agartala",
+            "Faculty",
+            "Professor",
+            "Publications",
+            "Conference Papers",
+            "Journal Articles",
+            "Academic Profile",
+            "Research",
+            "Dr. Subrata Kumar Ghosh"
+        ]
+    },
+    "f142.json": {
+        "name": "f142.json",
+        "description": "Detailed profile of Dr. Nabamita Goswami, Assistant Professor in Electrical Engineering, including education, research interests, publications, and contact information.",
+        "type": "profile",
+        "keywords": [
+            "Electrical Engineering",
+            "Opto-electronics Instrumentation",
+            "Fiber optic sensors",
+            "Fiber optic Bio-Sensors",
+            "Laser and Nonlinear-optics",
+            "Industrial Instrumentation",
+            "NIT Agartala",
+            "Professor",
+            "Academic Profile",
+            "Publications",
+            "Research"
+        ]
+    },
+    "f88.json": {
+        "name": "f88.json",
+        "description": "Profile information of Dr. Jhinuk De, including contact details, designation, and research area.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "research",
+            "contact",
+            "green chemistry",
+            "organic synthesis",
+            "ionic liquids",
+            "nanoparticles",
+            "thin films",
+            "nanocomposites"
+        ]
+    },
+    "f7.json": {
+        "name": "f7.json",
+        "description": "Detailed profile of Dr. Sadhan Gope, Assistant Professor in the Electrical Engineering Department at NIT Agartala, including academic information, research areas, publications, conferences conducted, and achievements.",
+        "type": "faculty_profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "electrical engineering",
+            "NIT Agartala",
+            "Sadhan Gope",
+            "power system",
+            "renewable energy",
+            "soft computing",
+            "publications",
+            "conferences",
+            "research",
+            "academic",
+            "IEEE",
+            "Springer",
+            "Elsevier",
+            "MDPI"
+        ]
+    },
+    "f119.json": {
+        "name": "f119.json",
+        "description": "Faculty profile data for Dr. Abhijit Chatterjee, Assistant Professor in Bio Engineering department.",
+        "type": "faculty_profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "bioengineering",
+            "assistant professor",
+            "contact information",
+            "address",
+            "Abhijit Chatterjee"
+        ]
+    },
+    "f147.json": {
+        "name": "f147.json",
+        "description": "Detailed profile of Dr. Tamasi Moyra Panua, including contact information, academic qualifications, publications, achievements, and training details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "communication engineering",
+            "publications",
+            "academic",
+            "qualifications",
+            "resume",
+            "CV",
+            "research",
+            "antenna",
+            "microwave circuits",
+            "digital communication"
+        ]
+    },
+    "f46.json": {
+        "name": "f46.json",
+        "description": "Faculty profile of Dr. Thingujam Kiranmala Devi, Assistant Professor in the Physics department, including research interests, publications, courses taught, and academic background.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "physics",
+            "liquid crystals",
+            "research",
+            "academic",
+            "publications",
+            "courses",
+            "India",
+            "Manipur",
+            "higher education"
+        ]
+    },
+    "f97.json": {
+        "name": "f97.json",
+        "description": "Profile information for Dr. Rupam Gupta Roy, including contact details, academic qualifications, publications, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "Rupam Gupta Roy",
+            "Electronics and Instrumentation Engineering",
+            "NIT Agartala",
+            "Assistant Professor",
+            "Robotics",
+            "Control Systems",
+            "Publications",
+            "Journal",
+            "Conference",
+            "Academic Profile",
+            "Autonomous Underwater Vehicle",
+            "Sliding Mode Control",
+            "Fuzzy Logic",
+            "Instrumentation Engineering"
+        ]
+    },
+    "f27.json": {
+        "name": "f27.json",
+        "description": "Metadata for Professor Tarun Kumar Misra, including contact information, academic qualifications, and publications.",
+        "type": "biography",
+        "keywords": [
+            "faculty",
+            "professor",
+            "chemistry",
+            "NIT Agartala",
+            "publications",
+            "academic",
+            "research",
+            "contact information",
+            "google scholar",
+            "inorganic chemistry",
+            "nanoparticles",
+            "chemosensor"
+        ]
+    },
+    "f49.json": {
+        "name": "f49.json",
+        "description": "Detailed profile information of Dr. Suresh Mamidi, including his academic background, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Suresh Mamidi",
+            "Chemical Engineering",
+            "NIT Agartala",
+            "Photolithography",
+            "CMEMS",
+            "Carbon Materials",
+            "Solid electrolytes",
+            "Li-ion batteries",
+            "Na-ion batteries",
+            "Li-CO2 batteries",
+            "Process Modeling and Simulation",
+            "Process Dynamics and Instrumentation",
+            "Material Science and Engineering",
+            "Polymer Processing Engineering",
+            "Research",
+            "Publications",
+            "Patents",
+            "Academic Profile"
+        ]
+    },
+    "f66.json": {
+        "name": "f66.json",
+        "description": "Profile information of Dr. Arindam Majumder, Assistant Professor in Mechanical Engineering, including contact details, academic background, research interests, publications, and other professional activities.",
+        "type": "faculty_profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "research",
+            "publications",
+            "academic",
+            "professor",
+            "manufacturing",
+            "scheduling",
+            "robotics",
+            "optimization",
+            "NIT Agartala"
+        ]
+    },
+    "f51.json": {
+        "name": "f51.json",
+        "description": "Profile information for Dr. Paramvir Singh, Assistant Professor in Mechanical Engineering, including contact details, academic background, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "Paramvir Singh",
+            "Mechanical Engineering",
+            "Assistant Professor",
+            "Renewable Energy",
+            "Fuel",
+            "Combustion",
+            "Emissions",
+            "Waste to Energy",
+            "Publications",
+            "Research",
+            "Academic Profile",
+            "NIT Agartala"
+        ]
+    },
+    "f134.json": {
+        "name": "f134.json",
+        "description": "Faculty profile data for Dr. R K Bhogendro Meitei, Assistant Professor in the Department of Mechanical Engineering.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "research",
+            "publications",
+            "courses",
+            "welding",
+            "materials science",
+            "composites",
+            "friction stir processing",
+            "induction welding",
+            "NIT Agartala"
+        ]
+    },
+    "f170.json": {
+        "name": "f170.json",
+        "description": "Profile information of Dr. Susanta Ghanta, Assistant Professor in the Chemistry Department, including contact details, research interests, academic background, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "NIT Agartala",
+            "professor",
+            "research",
+            "quantum dynamics",
+            "spectroscopy",
+            "molecular modeling",
+            "computational chemistry",
+            "academic profile"
+        ]
+    },
+    "f156.json": {
+        "name": "f156.json",
+        "description": "Profile information of Dr. Chanchal Bhaumik, including contact details, academic background, research interests, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "Chanchal Bhaumik",
+            "Chemistry",
+            "Coordination Chemistry",
+            "Organometallic Chemistry",
+            "Catalysis",
+            "Academic Profile",
+            "Publications",
+            "Research",
+            "Faculty",
+            "IIT Kharagpur",
+            "Jadavpur University",
+            "NIT Agartala"
+        ]
+    },
+    "f152.json": {
+        "name": "f152.json",
+        "description": "Profile information of Dr. Suvra Prakash Mondal, including contact details, academic background, publications, patents, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "physics",
+            "nanotechnology",
+            "solar cell",
+            "gas sensor",
+            "publications",
+            "patents",
+            "academic",
+            "research",
+            "quantum dots",
+            "ZnO",
+            "glucose sensing"
+        ]
+    },
+    "f77.json": {
+        "name": "f77.json",
+        "description": "Detailed profile of Dr. Awnish Kumar, Assistant Professor in the Department of Computer Science and Engineering, including contact information, academic background, research interests, and publications.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "engineering",
+            "machine learning",
+            "computer networks",
+            "publications",
+            "academic",
+            "research",
+            "contact information",
+            "profile"
+        ]
+    },
+    "f23.json": {
+        "name": "f23.json",
+        "description": "Detailed profile of Dr. Ranjita Das, Assistant Professor in Computer Science and Engineering, including academic qualifications, publications, research areas, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "artificial intelligence",
+            "machine learning",
+            "publications",
+            "research",
+            "academic",
+            "profile",
+            "data mining",
+            "pattern recognition",
+            "natural language processing",
+            "computer vision",
+            "image processing",
+            "evolutionary computation",
+            "computational biology"
+        ]
+    },
+    "f43.json": {
+        "name": "f43.json",
+        "description": "Detailed profile of Dr. Smita Das, including academic background, research interests, publications, and contact information.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "computer science",
+            "engineering",
+            "research",
+            "publications",
+            "wireless sensor networks",
+            "network security",
+            "machine learning",
+            "medical image analysis",
+            "IoT",
+            "VANET",
+            "Dr. Smita Das",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "f82.json": {
+        "name": "f82.json",
+        "description": "Faculty profile information for Dr. Subhojit Das, an Assistant Professor in the Chemistry department, including contact details, research areas, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "professor",
+            "nanomaterials",
+            "green nanotechnology",
+            "antimicrobial coatings",
+            "sensors",
+            "sustainable chemistry",
+            "courses",
+            "research",
+            "contact information"
+        ]
+    },
+    "f207.json": {
+        "name": "f207.json",
+        "description": "Detailed profile of Dr. Mithun Roy, including contact information, academic qualifications, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "chemistry",
+            "publications",
+            "academic qualifications",
+            "contact information",
+            "Mithun Roy",
+            "NIT Agartala"
+        ]
+    },
+    "f196.json": {
+        "name": "f196.json",
+        "description": "Profile information for Dr. Dhrubajyoti Bhowmik, an Assistant Professor in Computer Science and Engineering.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Dhrubajyoti Bhowmik",
+            "Assistant Professor",
+            "Computer Science and Engineering",
+            "faculty",
+            "contact information"
+        ]
+    },
+    "f141.json": {
+        "name": "f141.json",
+        "description": "Detailed profile of Prof. Mrinal Kanti Deb Barma, including contact information, academic qualifications, publications, achievements, and training details.",
+        "type": "profile",
+        "keywords": [
+            "Mrinal Kanti Deb Barma",
+            "Professor",
+            "Computer Science",
+            "NIT Agartala",
+            "Academic Profile",
+            "Publications",
+            "Conferences",
+            "Achievements",
+            "Education",
+            "Research",
+            "Contact Information"
+        ]
+    },
+    "f177.json": {
+        "name": "f177.json",
+        "description": "Profile information of Dr. Rajib Saha, a Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "civil engineering",
+            "academic",
+            "research",
+            "education",
+            "Rajib Saha"
+        ]
+    },
+    "f203.json": {
+        "name": "f203.json",
+        "description": "Detailed profile of Dr. Manish Bhargava, Associate Professor in Mechanical Engineering, including academic qualifications, research areas, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "professor",
+            "research",
+            "publications",
+            "additive manufacturing",
+            "manufacturing systems",
+            "quality systems",
+            "lean six sigma",
+            "CAD/CAM",
+            "academic",
+            "profile"
+        ]
+    },
+    "f159.json": {
+        "name": "f159.json",
+        "description": "Profile information for Dr. Joyanta Pal, Associate Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "NIT Agartala",
+            "academic",
+            "professor",
+            "structural engineering",
+            "contact information"
+        ]
+    },
+    "f112.json": {
+        "name": "f112.json",
+        "description": "Profile information for Dr. KAJU NATH, including contact details, academic qualifications, publications, conferences conducted, achievements, trainings conducted, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "academic",
+            "economics",
+            "management",
+            "humanities",
+            "social sciences",
+            "publications",
+            "conferences",
+            "NIT Agartala",
+            "India",
+            "education",
+            "research"
+        ]
+    },
+    "f71.json": {
+        "name": "f71.json",
+        "description": "Profile information for Dr. Sima Ghosh, a Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Sima Ghosh",
+            "Professor",
+            "Civil Engineering",
+            "Faculty",
+            "Contact Information",
+            "Publications",
+            "Achievements"
+        ]
+    },
+    "f165.json": {
+        "name": "f165.json",
+        "description": "Profile information for Dr. Arup Ratan Bhowmik, an Assistant Professor in Electrical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "professor",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f4.json": {
+        "name": "f4.json",
+        "description": "Detailed profile of Dr. Manas Rakshit, Assistant Professor in the Department of Electronics and Communication Engineering, including academic information, publications, achievements, trainings, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "electronics and communication engineering",
+            "signal processing",
+            "image processing",
+            "machine learning",
+            "deep learning",
+            "publications",
+            "academic",
+            "research",
+            "medical signal processing",
+            "ECG",
+            "NIT Agartala"
+        ]
+    },
+    "f103.json": {
+        "name": "f103.json",
+        "description": "Faculty profile information for Mrs. Priyanka Roy Goswami, Assistant Professor (Contractual) in the Electronics and Instrumentation Engineering department.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "Electronics and Instrumentation Engineering",
+            "Assistant Professor",
+            "Priyanka Roy Goswami",
+            "academic",
+            "contact information"
+        ]
+    },
+    "f163.json": {
+        "name": "f163.json",
+        "description": "Faculty profile of Dr. JOYASHREE DAS, Assistant Professor in Electrical Engineering, including contact information, research areas, courses taught, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "professor",
+            "research",
+            "education",
+            "electrical machines",
+            "superconducting materials"
+        ]
+    },
+    "f69.json": {
+        "name": "f69.json",
+        "description": "Profile information of Dr. Sayanta Chakraborty, including designation, contact details, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mathematics",
+            "publications",
+            "research",
+            "contact information",
+            "academic",
+            "Dr. Sayanta Chakraborty"
+        ]
+    },
+    "f187.json": {
+        "name": "f187.json",
+        "description": "Profile information for Professor Richi Prasad Sharma, including contact details, research areas, courses taught, publications, and address.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "civil engineering",
+            "research",
+            "publications",
+            "education",
+            "NITA Agartala",
+            "dynamic stability",
+            "building materials",
+            "health monitoring",
+            "structural analysis",
+            "finite element method"
+        ]
+    },
+    "f81.json": {
+        "name": "f81.json",
+        "description": "Contact information for Dr. Pinki Majumder, Assistant Professor in Mathematics.",
+        "type": "contact_information",
+        "keywords": [
+            "Dr. Pinki Majumder",
+            "Assistant Professor",
+            "Mathematics",
+            "Contact",
+            "Email",
+            "Phone",
+            "Faculty"
+        ]
+    },
+    "f210.json": {
+        "name": "f210.json",
+        "description": "Contains faculty information, including name, designation, department, contact details, and date of joining.",
+        "type": "data",
+        "keywords": [
+            "faculty",
+            "professor",
+            "department",
+            "contact",
+            "email",
+            "phone",
+            "designation",
+            "academic",
+            "personnel"
+        ]
+    },
+    "f126.json": {
+        "name": "f126.json",
+        "description": "Profile information of Dr. Manojit Roy, Assistant Professor in Chemistry.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "chemistry",
+            "professor",
+            "academic",
+            "resume",
+            "CV",
+            "contact information",
+            "publications",
+            "education"
+        ]
+    },
+    "f206.json": {
+        "name": "f206.json",
+        "description": "Profile information of Dr. Neeraj Sharma, including contact details, academic background, research areas, publications, achievements, and training details.",
+        "type": "profile",
+        "keywords": [
+            "faculty profile",
+            "researcher",
+            "academic",
+            "biomaterials",
+            "composites",
+            "smart materials",
+            "non-traditional machining",
+            "additive manufacturing",
+            "publications",
+            "patents",
+            "conferences",
+            "journals",
+            "National Institute of Technology Agartala"
+        ]
+    },
+    "f171.json": {
+        "name": "f171.json",
+        "description": "Profile information for Dr. Apangshu Das, including contact details, academic background, publications, and achievements.",
+        "type": "Faculty Profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "Apangshu Das",
+            "Electronics and Communication Engineering",
+            "VLSI Design",
+            "academic",
+            "publications",
+            "conference publications",
+            "journal publications",
+            "National Institute of Technology Agartala",
+            "thermal-aware synthesis",
+            "logic synthesis"
+        ]
+    },
+    "f68.json": {
+        "name": "f68.json",
+        "description": "Detailed profile information of Dr. Uttam Kumar Mandal, including his contact details, academic background, research interests, courses taught, PhD students, address, and patents.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "production engineering",
+            "academic",
+            "research",
+            "contact information",
+            "courses",
+            "PhD students",
+            "patents",
+            "NIT Agartala",
+            "Uttam Kumar Mandal"
+        ]
+    },
+    "f13.json": {
+        "name": "f13.json",
+        "description": "Faculty profile data for Dr. Rup Narayan Ray, Associate Professor in the Electrical Engineering department.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "electrical engineering",
+            "academic",
+            "research",
+            "university",
+            "professor"
+        ]
+    },
+    "f55.json": {
+        "name": "f55.json",
+        "description": "A detailed profile of Dr. Anirban Dutta, including his contact information, academic background, publications, achievements, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "management",
+            "marketing",
+            "publications",
+            "research",
+            "NIT Agartala",
+            "academic",
+            "digital marketing",
+            "supply chain",
+            "humanitarian supply chains",
+            "entrepreneurship",
+            "India"
+        ]
+    },
+    "f76.json": {
+        "name": "f76.json",
+        "description": "Profile information of Dr. Rahul Banerjee, Assistant Professor in Mechanical Engineering, including contact details, research areas, courses taught, PhD students, academic information, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "NIT Agartala",
+            "research",
+            "publications",
+            "AI",
+            "IC Engine",
+            "Optimization",
+            "Feature Engineering",
+            "Thermodynamics",
+            "Fuel Combustion",
+            "Automobile Engineering",
+            "Engine Pollution",
+            "Automotive Chassis",
+            "Automotive Engine Design",
+            "RCCI",
+            "Combustion"
+        ]
+    },
+    "f176.json": {
+        "name": "f176.json",
+        "description": "Profile information of Mrs. Dipika Debnath, Assistant Professor (Contractual) in the Civil Engineering department.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "assistant professor",
+            "academic",
+            "contact information",
+            "research",
+            "courses",
+            "education"
+        ]
+    },
+    "f111.json": {
+        "name": "f111.json",
+        "description": "Faculty profile of Dr. Dipankar Sarkar, Assistant Professor in Civil Engineering, detailing his academic background, research interests, publications, and other relevant information.",
+        "type": "faculty profile",
+        "keywords": [
+            "Civil Engineering",
+            "Transportation Engineering",
+            "Pavement Materials",
+            "Alternative Materials",
+            "Geo synthetics",
+            "Research",
+            "Publications",
+            "Academic Profile",
+            "Faculty",
+            "NIT Agartala"
+        ]
+    },
+    "f180.json": {
+        "name": "f180.json",
+        "description": "Profile information of Dr. Sagarika Panigrahi, including contact details, education, research interests, publications, and achievements.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "environmental engineering",
+            "anaerobic digestion",
+            "biomethanation",
+            "waste management",
+            "life cycle assessment",
+            "publications",
+            "research",
+            "academic"
+        ]
+    },
+    "f199.json": {
+        "name": "f199.json",
+        "description": "Profile information for Professor Prasun Chakraborti, including his designation, department, research areas, courses taught, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "mechanical engineering",
+            "tribology",
+            "bio-tribology",
+            "surface engineering",
+            "energy transfer",
+            "machine design",
+            "robotics",
+            "machine tool design",
+            "research",
+            "contact information"
+        ]
+    },
+    "f58.json": {
+        "name": "f58.json",
+        "description": "Profile of Dr. Sumita Deb, HOD & Associate Professor in Electrical Engineering, including contact information, academic qualifications, publications, and books published.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "professor",
+            "academic profile",
+            "publications",
+            "conference papers",
+            "journal articles",
+            "books",
+            "Dr. Sumita Deb",
+            "Tripura",
+            "India",
+            "nonlinear optics",
+            "wave theory",
+            "harmonic generation"
+        ]
+    },
+    "f10.json": {
+        "name": "f10.json",
+        "description": "Faculty profile data for Dr. Partha Kumar Deb, Assistant Professor at NIT Agartala, Department of Electronics and Communication Engineering. Includes academic information, research areas, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "electronics and communication engineering",
+            "ECE",
+            "NIT Agartala",
+            "microwave circuits",
+            "antenna design",
+            "metamaterials",
+            "analog circuit design",
+            "publications",
+            "research",
+            "academic information",
+            "Dr. Partha Kumar Deb"
+        ]
+    },
+    "f96.json": {
+        "name": "f96.json",
+        "description": "Faculty profile of Dr. Yogesh Kumar Sariya, Assistant Professor in the Department of Electronics and Instrumentation Engineering, including contact information, research areas, academic background, publications, patents, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "Dr. Yogesh Kumar Sariya",
+            "Electronics and Instrumentation Engineering",
+            "NIT Agartala",
+            "medical signal processing",
+            "medical image processing",
+            "AI in healthcare",
+            "publications",
+            "patents",
+            "academic",
+            "research",
+            "courses"
+        ]
+    },
+    "f205.json": {
+        "name": "f205.json",
+        "description": "Profile information for Dr. Tara Sen, an Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "professor",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f172.json": {
+        "name": "f172.json",
+        "description": "JSON data containing information about Mr. Diptanu Dey, an Assistant Professor in Electrical Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electrical engineering",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f136.json": {
+        "name": "f136.json",
+        "description": "Profile information of Dr. Surajit Das, Assistant Professor in Civil Engineering, including contact details, academic background, publications, and subjects taught.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "Assistant Professor",
+            "NIT Agartala",
+            "Faculty Profile",
+            "Academic Profile",
+            "Publications",
+            "Finite Element Analysis",
+            "Structural Engineering",
+            "Shape Memory Alloy",
+            "Damage Detection",
+            "Artificial Neural Network",
+            "Mechanics of Solids",
+            "Data Structures",
+            "Numerical Methods",
+            "Mechanics of Fluids",
+            "Structural Analysis",
+            "Theory of Elasticity",
+            "Plasticity",
+            "Optimization"
+        ]
+    },
+    "f115.json": {
+        "name": "f115.json",
+        "description": "Profile information for Dr. Sujoy Chakraborty, including contact details, academic background, research interests, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "production engineering",
+            "manufacturing",
+            "design",
+            "tribology",
+            "surface coating",
+            "non-traditional machining",
+            "CAD/CAM",
+            "CFD",
+            "research",
+            "publications",
+            "NIT Agartala"
+        ]
+    },
+    "f120.json": {
+        "name": "f120.json",
+        "description": "Faculty profile of Dr. Mrinmoy Majumder, Associate Professor in the Civil Engineering Department (NBA Accredited), including academic information, publications, and patents.",
+        "type": "faculty_profile",
+        "keywords": [
+            "Civil Engineering",
+            "NBA Accredited",
+            "Faculty Profile",
+            "Dr. Mrinmoy Majumder",
+            "Associate Professor",
+            "Water Resources Engineering",
+            "Publications",
+            "Journal Articles",
+            "Books",
+            "Patents",
+            "Academic Information",
+            "National Institute of Technology Agartala",
+            "India"
+        ]
+    },
+    "f94.json": {
+        "name": "f94.json",
+        "description": "Contact information for Dr. Saswati Roy, an Assistant Professor in the Physics department.",
+        "type": "contact information",
+        "keywords": [
+            "contact",
+            "faculty",
+            "physics",
+            "professor",
+            "Dr. Saswati Roy",
+            "email",
+            "phone number",
+            "address"
+        ]
+    },
+    "f110.json": {
+        "name": "f110.json",
+        "description": "Faculty profile data for Dr. Sanjay Paul, Assistant Professor in the Civil Engineering department.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "NBA Accredited",
+            "professor",
+            "academic profile",
+            "soil dynamics",
+            "earthquake engineering",
+            "TRIPURA",
+            "India"
+        ]
+    },
+    "f116.json": {
+        "name": "f116.json",
+        "description": "Profile information for Dr. Animesh Debnath, including contact details, academic background, publications, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "civil engineering",
+            "environmental engineering",
+            "publications",
+            "research",
+            "academic",
+            "NIT Agartala",
+            "water treatment",
+            "dye removal",
+            "adsorption",
+            "nanocomposite",
+            "wastewater treatment"
+        ]
+    },
+    "f47.json": {
+        "name": "f47.json",
+        "description": "Faculty profile of Dr. Partha Pratim Sarkar, Professor in the Civil Engineering Department at the National Institute of Technology Agartala.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "civil engineering",
+            "transportation engineering",
+            "NIT Agartala",
+            "academic",
+            "profile",
+            "Dr. Partha Pratim Sarkar"
+        ]
+    },
+    "f160.json": {
+        "name": "f160.json",
+        "description": "Faculty profile of Mr. Prabir Ranjan Kasari, Assistant Professor in the Department of Electrical Engineering. Includes details about his research area, contact information, courses taught, publications, and books published.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "electrical engineering",
+            "power electronics",
+            "renewable energy",
+            "power quality",
+            "converter",
+            "energy storage",
+            "multilevel converters",
+            "PWM",
+            "control",
+            "publications",
+            "courses",
+            "research",
+            "profile"
+        ]
+    },
+    "f139.json": {
+        "name": "f139.json",
+        "description": "Profile information of Dr. Lipika Halder, Assistant Professor in Civil Engineering, including contact details, academic qualifications, and professional information.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Lipika Halder",
+            "Civil Engineering",
+            "Assistant Professor",
+            "Academic Profile",
+            "National Institute of Technology Agartala",
+            "NIT Agartala",
+            "Contact Information",
+            "Educational Background",
+            "Seismic Vulnerability Assessment",
+            "Structural Engineering"
+        ]
+    },
+    "f44.json": {
+        "name": "f44.json",
+        "description": "Faculty profile of Dr. RAVIVARMAN R, Assistant Professor in Mechanical Engineering at the National Institute of Technology Agartala.  Includes contact information, academic background, research interests, publications, and other professional activities.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "mechanical engineering",
+            "NIT Agartala",
+            "research",
+            "publications",
+            "academic",
+            "Machine Design",
+            "Transmission Systems",
+            "Finite Element Analysis",
+            "Gears",
+            "Tribology",
+            "Product Design"
+        ]
+    },
+    "f151.json": {
+        "name": "f151.json",
+        "description": "Profile information for Dr. Atanu Chowdhury, including his designation, department, contact details, and address.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "communication",
+            "engineering",
+            "contact information",
+            "academic profile"
+        ]
+    },
+    "f14.json": {
+        "name": "f14.json",
+        "description": "Detailed profile information for a faculty member, including contact details, research areas, courses taught, publications, patents, and other academic activities.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "research",
+            "publication",
+            "patent",
+            "education",
+            "academic",
+            "computer science",
+            "engineering",
+            "cryptography",
+            "information security",
+            "machine learning",
+            "data science"
+        ]
+    },
+    "f131.json": {
+        "name": "f131.json",
+        "description": "Profile information of Dr. Priyanka Choudhury, Assistant Professor in Electronics and Communication Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "electronics and communication engineering",
+            "assistant professor",
+            "academic profile",
+            "research",
+            "education",
+            "contact information"
+        ]
+    },
+    "f15.json": {
+        "name": "f15.json",
+        "description": "A profile document containing personal information, academic qualifications, publications, conference attendance, and achievements of Dr. Kunal Chakma.",
+        "type": "profile",
+        "keywords": [
+            "Kunal Chakma",
+            "Assistant Professor",
+            "Computer Science",
+            "Engineering",
+            "Publications",
+            "Conference",
+            "Sentiment Analysis",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Social Media",
+            "Information Retrieval",
+            "Academic Profile",
+            "NIT Agartala"
+        ]
+    },
+    "f124.json": {
+        "name": "f124.json",
+        "description": "Profile information of Dr. Sambhu Nath Pradhan, Professor in the Department of Electronics and Communication Engineering, including academic background, research interests, publications, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics and communication engineering",
+            "VLSI design",
+            "low power VLSI",
+            "digital circuit design",
+            "academic profile",
+            "research",
+            "publications",
+            "NIT Agartala"
+        ]
+    },
+    "f200.json": {
+        "name": "f200.json",
+        "description": "Profile of Dr. Gyanabati Khuraijam, including contact information, academic qualifications, publications, and conference details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "management",
+            "humanities",
+            "social sciences",
+            "publications",
+            "conference",
+            "academic",
+            "research",
+            "Indian Writings in English",
+            "English Literature",
+            "feminism",
+            "environmental migration",
+            "Amitav Ghosh",
+            "Salman Rushdie",
+            "comprehension",
+            "communication skills",
+            "partition",
+            "identity crisis",
+            "trauma",
+            "Manipuri Folktales",
+            "Gastro-Nostalgia"
+        ]
+    },
+    "f73.json": {
+        "name": "f73.json",
+        "description": "Faculty profile data for Dr. Durbadal Debroy, Assistant Professor in Mechanical Engineering, including contact information, research interests, courses taught, academic background, and publications.",
+        "type": "faculty profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "mechanical engineering",
+            "Dr. Durbadal Debroy",
+            "research",
+            "publications",
+            "energy",
+            "fuels",
+            "thermal engineering",
+            "automotive engineering",
+            "vehicle dynamics",
+            "engine emissions",
+            "clean energy",
+            "alternative fuels",
+            "diesel engine",
+            "artificial intelligence",
+            "diesosenol",
+            "CNG",
+            "ethanol",
+            "biodiesel",
+            "combustion",
+            "emission",
+            "performance"
+        ]
+    },
+    "f85.json": {
+        "name": "f85.json",
+        "description": "Faculty profile data for Professor Debasish Bhattacharya from the Mathematics department, including details on research areas, courses taught, and contact information.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "mathematics",
+            "professor",
+            "topology",
+            "operations research",
+            "courses",
+            "students",
+            "research",
+            "profile"
+        ]
+    },
+    "f33.json": {
+        "name": "f33.json",
+        "description": "Curriculum Vitae of Dr. Biswajit Paul, Assistant Professor of Physics, detailing his education, publications, and contact information.",
+        "type": "CV",
+        "keywords": [
+            "Curriculum Vitae",
+            "CV",
+            "Physics",
+            "Assistant Professor",
+            "Quantum Field Theory",
+            "Higher Derivative Theories",
+            "Publications",
+            "Academic",
+            "Contact Information",
+            "Biswajit Paul",
+            "Research",
+            "Faculty"
+        ]
+    },
+    "f135.json": {
+        "name": "f135.json",
+        "description": "Faculty profile of Prof. Priyanath Das from the Electrical Engineering department, including contact information, publications, books, and patents.",
+        "type": "faculty_profile",
+        "keywords": [
+            "electrical engineering",
+            "faculty",
+            "professor",
+            "publications",
+            "power systems",
+            "renewable energy",
+            "control systems",
+            "patent",
+            "microgrid",
+            "photovoltaic",
+            "optimization",
+            "smart grid",
+            "protection"
+        ]
+    },
+    "f128.json": {
+        "name": "f128.json",
+        "description": "Profile information for Dr. Sonit Dutta, Assistant Professor in Management, Humanities & Social Sciences.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "management",
+            "humanities",
+            "social sciences",
+            "academic",
+            "research",
+            "tripura",
+            "india"
+        ]
+    },
+    "f12.json": {
+        "name": "f12.json",
+        "description": "Faculty information including name, designation, department, contact details, research areas, academic information, courses taught, publications, and patents.",
+        "type": "dataset",
+        "keywords": [
+            "faculty",
+            "professor",
+            "computer science",
+            "CSE",
+            "academic",
+            "research",
+            "publication",
+            "contact",
+            "education"
+        ]
+    },
+    "f188.json": {
+        "name": "f188.json",
+        "description": "Detailed profile information of Professor Manish Pal, including his research interests, publications, academic background, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "Professor",
+            "Civil Engineering",
+            "Transportation Engineering",
+            "Water Management",
+            "Waste Management",
+            "Environmental Issues",
+            "Highway Engineering",
+            "Traffic Engineering",
+            "Engineering Materials",
+            "Geotechnical Engineering",
+            "Intelligent Transportation System",
+            "Publications",
+            "Research",
+            "Academic Profile",
+            "Faculty",
+            "India"
+        ]
+    },
+    "f57.json": {
+        "name": "f57.json",
+        "description": "Faculty profile information for Dr. Minakshi Deb Barma, Assistant Professor in the Electrical Engineering department, including contact details, research areas, academic qualifications, courses taught, and publications.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "profile",
+            "electrical engineering",
+            "nonlinear optics",
+            "publications",
+            "research",
+            "academic",
+            "Dr. Minakshi Deb Barma",
+            "Agartala",
+            "Tripura",
+            "India"
+        ]
+    },
+    "f16.json": {
+        "name": "f16.json",
+        "description": "Curriculum Vitae of Dr. Baby Bhattacharya, Professor of Mathematics, including personal information, publications, conference participation, and training workshops.",
+        "type": "CV",
+        "keywords": [
+            "Curriculum Vitae",
+            "CV",
+            "Mathematics",
+            "Professor",
+            "Publications",
+            "Journals",
+            "Books",
+            "Conferences",
+            "Training Workshops",
+            "Fuzzy Sets",
+            "Topology",
+            "Agartala",
+            "Tripura",
+            "India"
+        ]
+    },
+    "f184.json": {
+        "name": "f184.json",
+        "description": "Profile information for Dr. Sushant Kumar Biswal, Associate Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "Civil Engineering",
+            "River hydrodynamics",
+            "Sediment transport",
+            "River morphology",
+            "Vegetated flows",
+            "Shallow shear flows",
+            "Scour",
+            "Hydraulic structures",
+            "Bank erosion",
+            "Flood inundation modelling",
+            "Water Resources Engineering",
+            "Computational Hydraulics",
+            "Fluid Mechanics",
+            "GIS",
+            "NIT Agartala",
+            "Faculty",
+            "Professor"
+        ]
+    },
+    "f175.json": {
+        "name": "f175.json",
+        "description": "Profile information of Dr. Dhirendra Kumar Pandey, Assistant Professor in Civil Engineering.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "civil engineering",
+            "assistant professor",
+            "earthquake engineering",
+            "vibration control",
+            "structural engineering",
+            "NIT Agartala",
+            "academic profile"
+        ]
+    },
+    "f91.json": {
+        "name": "f91.json",
+        "description": "Profile information of Dr. Prasenjit Dutta, including his designation, department, contact details, and address.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "contact information",
+            "academic profile",
+            "Production Engineering",
+            "Dr. Prasenjit Dutta"
+        ]
+    },
+    "f117.json": {
+        "name": "f117.json",
+        "description": "Detailed profile of Dr. Kishan Choudhuri, Assistant Professor in Production Engineering, including contact information, academic background, research interests, publications, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "production engineering",
+            "tribology",
+            "robotics",
+            "fluid power",
+            "vibratory systems",
+            "machine design",
+            "research",
+            "publications",
+            "academic",
+            "courses",
+            "phd",
+            "india",
+            "mechanical engineering"
+        ]
+    },
+    "f169.json": {
+        "name": "f169.json",
+        "description": "Profile information for Dr. Somnath Roy Choudhury, including his designation, department, research areas, courses taught, and contact details.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "communication engineering",
+            "VLSI",
+            "physical design automation",
+            "thermal aware design",
+            "digital signal processing",
+            "embedded systems",
+            "CAD",
+            "analog VLSI",
+            "research",
+            "education"
+        ]
+    },
+    "f99.json": {
+        "name": "f99.json",
+        "description": "Profile information of Dr. Jayanta Kumar Rakshit, including contact details, research areas, academic qualifications, publications, achievements, trainings, and courses taught.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Jayanta Kumar Rakshit",
+            "NIT Agartala",
+            "Electronics and Instrumentation Engineering",
+            "Photonics",
+            "Optical Computing",
+            "Optical Communication",
+            "Optoelectronics Instrumentation",
+            "Micro-ring Resonator",
+            "Optical Router",
+            "Publications",
+            "Achievements",
+            "Academic Profile",
+            "Faculty Profile"
+        ]
+    },
+    "f5.json": {
+        "name": "f5.json",
+        "description": "JSON data containing faculty profiles, including their contact information, academic background, research areas, publications, and subjects taught.",
+        "type": "dataset",
+        "keywords": [
+            "faculty",
+            "profile",
+            "research",
+            "publication",
+            "education",
+            "academic",
+            "electronics",
+            "communication",
+            "engineering",
+            "NIT Agartala"
+        ]
+    },
+    "f198.json": {
+        "name": "f198.json",
+        "description": "Profile information of Dr. Saroj Kumar Das, including designation, department, contact details, and address.",
+        "type": "profile",
+        "keywords": [
+            "Dr. Saroj Kumar Das",
+            "Associate Professor",
+            "Chemistry",
+            "contact information",
+            "profile",
+            "academic"
+        ]
+    },
+    "f105.json": {
+        "name": "f105.json",
+        "description": "Faculty profile of Dr. P. Padmagirisan, Assistant Professor in Electrical Engineering, including academic information, publications, research projects, and contact details.",
+        "type": "Faculty Profile",
+        "keywords": [
+            "Electrical Engineering",
+            "Faculty",
+            "Assistant Professor",
+            "Energy Management",
+            "Electric Vehicles",
+            "Hybrid Electric Vehicles",
+            "Power Electronics",
+            "Control Systems",
+            "Renewable Energy",
+            "Publications",
+            "Research Projects",
+            "Academic Profile"
+        ]
+    },
+    "f2.json": {
+        "name": "f2.json",
+        "description": "Detailed profile of Dr. Subir Das, Assistant Professor in Electronics and Instrumentation Engineering, including academic information, publications, patents, and teaching subjects.",
+        "type": "profile",
+        "keywords": [
+            "faculty",
+            "professor",
+            "electronics",
+            "instrumentation",
+            "engineering",
+            "publications",
+            "research",
+            "sensors",
+            "transducers",
+            "robotics",
+            "IoT",
+            "academic",
+            "profile",
+            "NIT Agartala"
+        ]
+    },
+    "f32.json": {
+        "name": "f32.json",
+        "description": "A profile document detailing the professional and academic achievements of Dr. Biswajit Saha, including his education, publications, awards, and teaching experience.",
+        "type": "profile",
+        "keywords": [
+            "Biswajit Saha",
+            "Physics",
+            "Professor",
+            "Scientist",
+            "Academic",
+            "Publications",
+            "Achievements",
+            "Research",
+            "Tripura University",
+            "Indian Institute of Technology",
+            "Jadavpur University"
+        ]
+    },
+    "f3.json": {
+        "name": "f3.json",
+        "description": "Faculty data including name, designation, department, contact information, research areas, academic information, and subjects taught.",
+        "type": "dataset",
+        "keywords": [
+            "faculty",
+            "professor",
+            "department",
+            "research",
+            "academic",
+            "education",
+            "contact",
+            "engineering",
+            "electronics",
+            "communication",
+            "subjects",
+            "courses"
+        ]
+    }
+}
