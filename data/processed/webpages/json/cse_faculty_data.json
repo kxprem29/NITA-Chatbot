@@ -130,5 +130,24 @@
         "designation": "Associate Professor (In Lien)",
         "department": "Computer Science and Engineering",
         "email": "drmunesh.nita@gmail.com"
+    },
+    {
+        "name": "Dr. Kamal Das",
+        "designation": "Assistant Professor",
+        "department": "Computer Science and Engineering",
+        "email": "kamaldas.cse@faculty.nita.ac.in"
+    },
+
+    {
+        "name": "Dr. Kamanasish Bhattacharjee",
+        "designation": "Assistant Professor",
+        "department": "Computer Science and Engineering",
+        "email": "kamanasishb.cse@faculty.nita.ac.in"
+    },
+    {
+        "name": "Dr. Rajesh Basak",
+        "designation": "Assistant Professor",
+        "department": "Computer Science and Engineering",
+        "email": "rajesh.cse@faculty.nita.ac.in"
     }
 ]
