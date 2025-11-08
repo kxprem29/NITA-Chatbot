@@ -1,0 +1,35 @@
+{
+  "filename": "Addendum_MBA_2025-26.txt",
+  "title": "MBA Admission - Addendum",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "email": "nitadeanacademic@gmail.com",
+  "notice_number": "NITA.5/(55-Acad)/MBA/2025-26/",
+  "purpose": "Addendum to the notification regarding provisionally shortlisted candidates for online Institute Level Test (ILT) and online GD & PI for MBA admission 2025-26",
+  "reference_notice": "NITA.5(55-Acad)/MBA/2025-26/A-1967 dated 26/05/2025",
+  "exam_dates": {
+    "ILT": "2025-06-02",
+    "GD_PI": "2025-06-04"
+  },
+  "shortlisted_candidates": [
+    {
+      "application_id": "NAGTQPYBAZ",
+      "category": "GENERAL",
+      "name": "SREEJA DAM CHOWDHURY"
+    }
+  ],
+  "instructions": [
+    "For other details, follow the notice published on 26/05/2025.",
+    "Candidates are advised to visit the Institute website regularly for further updates."
+  ],
+  "copy_to": [
+    "P.S. to the Director for kind information of the Director",
+    "Dean (AA) for kind information",
+    "HOD (MHSS) for information and necessary action",
+    "Asso. Dean (PG) for kind information and necessary action",
+    "System administrator with a request to upload the same on the Institute website"
+  ],
+  "signatory": "Assistant Registrar (Academic)",
+  "location": "Barjala, Agartala-799046, India",
+  "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/Addendum_MBA_2025-26.pdf"
+}

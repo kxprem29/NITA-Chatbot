@@ -1,0 +1,167 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "29th",
+    "Date": "March 24, 2017",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, International Guest House, NIT Agartala",
+    "MeetingTime": "11:00 AM (preponed from 12:00 noon)",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Shri K. Rajan",
+        "Designation": "Under Secretary, MHRD (Representative of Special/Additional/Joint Secretary, Technical Education, Dept. of Higher Education, MHRD)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Designation": "Member Secretary, Finance Committee and Registrar (I/C)"
+      }
+    ],
+    "MembersAbsent": [
+      {
+        "Name": "Financial Advisor (FD), MHRD",
+        "Reason": "Prior commitments"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "29.1",
+        "Title": "Confirmation of Minutes of 28th Meeting",
+        "Details": "Minutes of the 28th Finance Committee meeting held on July 01, 2016, were confirmed."
+      },
+      {
+        "ItemNo": "29.2",
+        "Title": "Action taken on 27th Meeting decisions",
+        "Details": "Special agenda on Campus Wide Networking expansion to be considered as last agenda item."
+      },
+      {
+        "ItemNo": "29.3",
+        "Title": "Financial Status as on February 28, 2017",
+        "Details": "Non-Plan Grant total Rs. 2600.00 lakhs; IRG/Interest Rs. 2364.64 lakhs; Expenditure Rs. 5017.81 lakhs. Urgent need of Rs. 600.00 lakhs for salaries and pension. MHRD requested to expedite."
+      },
+      {
+        "ItemNo": "29.4",
+        "Title": "Status of TEQIP-II Project",
+        "Details": "93% of grants from NPIU utilized. Committee expressed satisfaction."
+      },
+      {
+        "ItemNo": "29.5",
+        "Title": "Physical & Financial Statement of ongoing projects",
+        "Details": "Perused by committee; networking of the campus suggested as an additional priority."
+      },
+      {
+        "ItemNo": "29.6",
+        "Title": "Upgradation of Internal Main Road",
+        "Cost": "Rs. 12,16,37,422.00 (estimated Rs. 9,29,18,776.00)",
+        "Decision": "Recommended to BoG for approval; GFR, CVC guidelines, and Govt. instructions to be followed. L1 bidder: Sri Jahar Sur Choudhury."
+      },
+      {
+        "ItemNo": "29.7",
+        "Title": "Recommendations of 36th & 37th BWC meetings",
+        "Details": "Recommended to BoG."
+      },
+      {
+        "ItemNo": "29.8",
+        "Title": "Audit Report 2015-16",
+        "Details": "Perused along with para-wise reply forwarded to AG Tripura."
+      },
+      {
+        "ItemNo": "29.9",
+        "Title": "TDS Liabilities 2007-08 to 2010-11",
+        "Details": {
+          "TotalLiability": "Rs. 1,52,92,993",
+          "DefaultTDS": "Rs. 97,85,947",
+          "Interest": "Rs. 55,07,046",
+          "Decision": "TDS amount to be paid immediately; appeal for waiver of interest to be filed; Tripura Housing Board to refund TDS with interest."
+        }
+      },
+      {
+        "ItemNo": "29.10",
+        "Title": "Annual Accounts 2015-16",
+        "Details": "Compiled, internally audited, forwarded to AG Tripura, audited in Nov 2016; para-wise reply forwarded in Dec 2016."
+      },
+      {
+        "ItemNo": "29.11",
+        "Title": "Minutes of 20th Senate Meeting",
+        "Details": "Items with financial implications recommended to BoG; other items already approved."
+      },
+      {
+        "ItemNo": "29.12",
+        "Title": "Any other item with permission of Chair",
+        "SubItems": [
+          {
+            "ItemNo": "29.12.1",
+            "Title": "Installation of 14 Lifts in new buildings",
+            "Cost": "Rs. 4,17,13,490",
+            "Decision": "Recommended to BoG; to be executed as deposit work by CPWD; GFR & CVC provisions to be followed."
+          },
+          {
+            "ItemNo": "29.12.2",
+            "Title": "NIT Agartala Medical Attendant Rules",
+            "Decision": "Follow CS(MA) Rules; minor adaptations for NE Region if required."
+          },
+          {
+            "ItemNo": "29.12.3",
+            "Title": "Group Health Insurance Policy",
+            "Decision": "Adopted for all categories of employees and families; premium deducted from salary; no liability on NIT/MHRD; recommended to BoG."
+          },
+          {
+            "ItemNo": "29.12.4",
+            "Title": "MoU with NEERI, Nagpur",
+            "Decision": "Recommended to BoG for academic and research collaboration."
+          },
+          {
+            "ItemNo": "29.12.5",
+            "Title": "MoUs with IIT Madras",
+            "Decision": "Recommended to BoG."
+          },
+          {
+            "ItemNo": "29.12.6",
+            "Title": "Procurement of new machines and tools for central workshop",
+            "Cost": "Rs. 94,05,140",
+            "Decision": "Recommended to BoG; GFR & CVC provisions to be followed."
+          },
+          {
+            "ItemNo": "29.12.7",
+            "Title": "Procurement of Inverted Metallurgical Microscope",
+            "Cost": "Rs. 35,00,000",
+            "Decision": "Recommended to BoG; GFR & CVC provisions to be followed."
+          },
+          {
+            "ItemNo": "29.12.8",
+            "Title": "Formation of Selection Committee for Start-up programme",
+            "Cost": "Rs. 40 lakhs (total for 8 projects, shared between DST grant & Institute grant)",
+            "Decision": "Recommended to BoG; committee to monitor status and benefits."
+          },
+          {
+            "ItemNo": "29.12.9",
+            "Title": "Electromechanical work in Sports Complex swimming pool",
+            "Decision": "Recommended to BoG as deposit work by CPWD; GFR & Govt. instructions to be followed."
+          },
+          {
+            "ItemNo": "29.12.10",
+            "Title": "Expansion of Campus Wide Networking (Phase III)",
+            "Decision": "Recommended to BoG; mode of implementation to refer NIT Patna and other NIT practices."
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Dr. Debasish Bhattacharya",
+      "Chairperson": "Prof. Dr. H. K. Sharma"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/29th_FC_Minutes.pdf"
+}

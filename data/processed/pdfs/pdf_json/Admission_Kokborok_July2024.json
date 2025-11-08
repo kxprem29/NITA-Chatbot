@@ -1,0 +1,76 @@
+{
+  "filename": "Admission_Kokborok_July2024.txt",
+  "title": "Kokborok (Tripura/Tipra) Certificate Course Admission 2024-25",
+  "institute": "National Institute of Technology Agartala",
+  "date": "05/07/2024",
+  "program": "Kokborok (Tripura/Tipra) Certificate Course",
+  "duration": "2 semesters",
+  "session": "2024-25 Academic Year",
+  "notice": {
+    "summary": "Applications invited from eligible candidates for admission to the Kokborok Certificate Course (2 semesters) at NIT Agartala.",
+    "intake": 50,
+    "eligibility": {
+      "minimum_qualification": "H.S. (10+2) pass with at least 40% marks",
+      "selection_basis": "Merit based on H.S. (10+2) marks and higher degrees if applicable; entrance exam may be conducted for external applicants only"
+    },
+    "application": {
+      "dates": {
+        "start": "05/07/2024",
+        "end": "25/07/2024"
+      },
+      "submission": "Application Form (Annexure I) must be submitted to the office of the Coordinator, CRTD",
+      "fee": {
+        "amount_per_semester": 1000,
+        "exemption": "Regular students of NIT Agartala",
+        "mode": [
+          "Demand Draft in favor of 'REGISTRAR, NIT AGARTALA', payable at SBI, NIT Agartala Branch",
+          "Online transfer to Institute A/c. No. 30369892838"
+        ],
+        "receipt": "Payment receipt must be submitted along with the application form"
+      }
+    },
+    "selection_and_admission": {
+      "process": "First-come, first-served based on merit",
+      "timeline": "Selection, Admission, and Registration: 26/07/2024 to 31/07/2024",
+      "classes_commencement": "03/08/2024"
+    },
+    "general_instructions": [
+      "Association with unlawful organizations is forbidden",
+      "Applicants must submit true copies of certificates and mark sheets, duly attested",
+      "Blood group of the applicant to be mentioned in the application form"
+    ],
+    "documents_required": [
+      "Certificates of all examinations passed (starting from High School/10th standard)",
+      "2 stamp-size photographs",
+      "Self-attested copy of SC/ST/OBC certificate (if applicable)"
+    ]
+  },
+  "application_form": {
+    "annexure": "Annexure-I",
+    "fields": [
+      "Personal Details (Name, DOB, Contact, Address)",
+      "Local Guardian Details (Address, Phone, Email)",
+      "Educational Qualifications (School/College, Degree, Subjects, Marks, Year)",
+      "Blood Group",
+      "Declaration by the Applicant (affirming correctness of information and adherence to rules)"
+    ],
+    "office_use": [
+      "Verified with original documents",
+      "Admission fee received",
+      "Institute Registration No. and Roll No.",
+      "Admission confirmed by Admission Committee and Dean (Academic)"
+    ]
+  },
+  "approvals": {
+    "issued_by": "Dr. Deb Dulal Tripura, Professor & Coordinator, Centre for Rural and Tribal Development",
+    "copy_to": [
+      "Chairman CRTD",
+      "PS to the Director, NIT Agartala",
+      "Registrar, NIT Agartala",
+      "All Deans",
+      "All HoDs",
+      "System Administration (for website upload)"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Notice/Admission_Kokborok_July2024.pdf"
+}

@@ -1,0 +1,287 @@
+{
+  "filename": "50thMinutes_BWC.txt",
+  "title": "50th BWC Meeting Minutes",
+  "date": "20th September, 2022",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "location": "Jirania, West Tripura - 799046"
+  },
+  "meeting_details": {
+    "type": "Building & Works Committee",
+    "held_on": "20th September, 2022",
+    "time": "4:30 PM",
+    "mode": "Virtual Class Room"
+  },
+  "chairman": {
+    "name": "Prof. (Dr.) H.K. Sharma",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairman, B&WC"
+  },
+  "members": [
+    {
+      "name": "Ms. Veena Dunga",
+      "designation": "Deputy Secretary (IFI)",
+      "role": "Member, MoE, Govt. of India"
+    },
+    {
+      "name": "Prof. (Dr.) Richi Prasad Sharma",
+      "designation": "Professor, C.E.",
+      "role": "Member, Department, NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) Ajoy Kumar Chakraborty",
+      "designation": "Dean (P&D), NIT Agartala",
+      "role": "Member"
+    },
+    {
+      "name": "Er. Sampa Majumder",
+      "designation": "PWD, Govt. of Tripura",
+      "role": "Member (Representative of Chief Engineer, PWD, Govt. of Tripura)"
+    },
+    {
+      "name": "Er. Debasish Pal",
+      "designation": "Executive Engineer, PWD, Govt. of Tripura",
+      "role": "Member"
+    },
+    {
+      "name": "Prof. (Dr.) Debasish Bhattacharjee",
+      "designation": "Registrar (I/c), NIT Agartala",
+      "role": "Member Secretary"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "50.1",
+      "title": "Confirmation of the Minutes of the 49th BWC Meeting held on 15th March, 2022",
+      "decision": "Minutes confirmed; no comments received from members"
+    },
+    {
+      "item_no": "50.2",
+      "title": "Action taken on the decision of the 45th BWC Meeting held on 13th July, 2020",
+      "sub_items": [
+        {
+          "sub_item_no": "50.2.1",
+          "title": "HVAC, Stage Craft, Stage Light, Sound System, Projector System, Sitting Arrangement, etc. in Seminar Hall at NIT Agartala",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.2.2",
+          "title": "Electromechanical work in the swimming pool of Sports Complex at NIT Agartala",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.2.3",
+          "title": "Estimate for the work of children's park (Rs. 23,58,706.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.2.4",
+          "title": "Special Repair, Retrofitting and Upgradation of Dhalai Hostel building (Rs. 98,94,302.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.2.5",
+          "title": "Upgradation of Mechanical Workshop building (Rs. 25,43,821.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.3",
+      "title": "Action taken on construction activity approved by the 45th BWC (Agenda 45.9 to 45.15)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.3.1",
+          "title": "Construction of Gas bank including gas pipeline for Arya-bhatta and Gargi Hostel (Rs. 29,35,666.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.3.2",
+          "title": "Maintenance of 33/11 KVA Substation (Rs. 7,29,183.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.3.3",
+          "title": "Fire Fighting for Aryabhatta Hostel (Rs. 29,85,743.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.3.4",
+          "title": "Annual maintenance of all Buildings including Hostels & Quarters (Rs. 39,94,627.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.4",
+      "title": "Action taken on various construction activities approved by BWC (Agenda 46.8 to 46.19)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.4.1",
+          "title": "Extension of height of existing boundary wall (Rs. 1,82,000.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.4.2",
+          "title": "Construction of 200-capacity Girls' hostel (Rs. 1,97,00,000.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.4.3",
+          "title": "HVAC, Stage Craft, Stage Light, Sound System, Projector System, Sitting Arrangement in Seminar Hall (Rs. 1,63,10,000.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.4.4",
+          "title": "Water supply arrangement including Ground Water Treatment Plant (Rs. 1,96,79,000.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.5",
+      "title": "Action taken on construction activities approved by BWC (Agenda 47.5)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.5.1",
+          "title": "Providing and fixing of cage for wireless Access Points",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.5.2",
+          "title": "Construction of soak pit for H3A Septic Tank",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.5.3",
+          "title": "Yearly Repairs Existing pump set",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.5.4",
+          "title": "CAMC for 24 ThyssenKrupp passenger lifts for 3 years",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.5.5",
+          "title": "CAMC for 5 Otis passenger lifts for 3 years",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.5.6",
+          "title": "AMC for 6 Diesel Generator Sets for 3 years",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.6",
+      "title": "Action taken on construction activities approved by BWC (Agenda 47.6 to 47.11)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.6.1",
+          "title": "Maintenance of Roof Gutter drain in Sports Complex (Rs. 4,32,191.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.6.2",
+          "title": "Repairing of False Ceiling in Administrative Building-I (Rs. 2,83,005.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.6.3",
+          "title": "Construction of cycle stand for hostels (Rs. 20,46,299.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.6.4",
+          "title": "Construction of road from Rotary to Market Complex & new Type-II qtr. (Rs. N/A)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.6.5",
+          "title": "Internal Electrification works in new Workshop Building under ME Dept. (Rs. 4,15,197.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.7",
+      "title": "Action taken on construction activities approved by BWC (Agenda 48.3 to 48.6)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.7.1",
+          "title": "Partition & water supply/ sanitary repair for Chemical Engg Dept. (Old Library building) (Rs. 24,72,678.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.7.2",
+          "title": "Bore well including pipelines for Gargi Hostel (Rs. 2,53,808.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.7.3",
+          "title": "Internal Electrification for Chemical Engg Dept. (Rs. 7,95,489.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.7.4",
+          "title": "Internal works for Central Computing Facility, CSE Dept. (Rs. 6,34,694.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.8",
+      "title": "Action taken on construction activities approved by BWC (Agenda 49.6 to 49.15)",
+      "sub_items": [
+        {
+          "sub_item_no": "50.8.1",
+          "title": "Maintenance & re-fixing of 5 gates (Rs. 7,56,055.00)",
+          "decision": "Action taken noted"
+        },
+        {
+          "sub_item_no": "50.8.2",
+          "title": "Maintenance of water tank & chain link fencing in front of Aryabhatta Hostel (Rs. 6,30,233.00)",
+          "decision": "Action taken noted"
+        }
+      ]
+    },
+    {
+      "item_no": "50.9",
+      "title": "Ratification of various construction activities already approved by BWC",
+      "decision": "Proposals ratified"
+    },
+    {
+      "item_no": "50.10",
+      "title": "Annual Maintenance of all buildings including hostels & quarters (2022)",
+      "amount": "Rs. 39,79,955.00",
+      "decision": "Approved Technical sanction, Administrative Approval, Expenditure sanction"
+    },
+    {
+      "item_no": "50.11",
+      "title": "Construction of shed and brick work under Transportation Engg. Lab",
+      "amount": "Rs. 1,87,727.00",
+      "decision": "Approved Technical sanction, Administrative Approval, Expenditure sanction"
+    },
+    {
+      "item_no": "50.12",
+      "title": "Renovation of material testing laboratory under Civil Engineering Dept.",
+      "amount": "Rs. 30,04,645.00",
+      "decision": "Proposal deferred"
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Col. (Dr.) Ashish Badola",
+      "designation": "Registrar and Member Secretary",
+      "committee": "Building & Works Committee, NIT Agartala"
+    },
+    {
+      "name": "Prof. K. Patra",
+      "designation": "Chairman, Building & Works Committee and Director",
+      "committee": "NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/50thMinutes_BWC.pdf"
+}

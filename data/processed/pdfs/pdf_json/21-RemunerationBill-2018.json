@@ -1,0 +1,74 @@
+{
+  "RemunerationBillForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./21",
+    "StudentDetails": {
+      "Name": null,
+      "RollNo": null,
+      "Department": null,
+      "DateOfOralExamination": null
+    },
+    "Supervisors": [
+      {
+        "SlNo": 1,
+        "Name": null,
+        "Designation": null,
+        "Address": null
+      },
+      {
+        "SlNo": 2,
+        "Name": null,
+        "Designation": null,
+        "Address": null
+      }
+    ],
+    "ExaminerDetails": {
+      "Name": null,
+      "Designation": null,
+      "AddressWithContact": null
+    },
+    "HonorariumDetails": [
+      {
+        "SlNo": 1,
+        "Description": "Evaluation and Reporting",
+        "Amount": null
+      },
+      {
+        "SlNo": 2,
+        "Description": "Oral Examination",
+        "Amount": null
+      },
+      {
+        "SlNo": 3,
+        "Description": "Contingencies (if any)",
+        "Amount": null
+      },
+      {
+        "SlNo": null,
+        "Description": "Total",
+        "Amount": null
+      }
+    ],
+    "ElectronicTransferInfo": {
+      "AccountName": null,
+      "AccountNumber": null,
+      "BankName": null,
+      "IFSCOrSWIFTOrRouting": null,
+      "BranchName": null
+    },
+    "Date": null,
+    "Signatures": {
+      "Examiner": null,
+      "DeanAcademicAffairs": null
+    },
+    "AccountsSectionUse": {
+      "VerifiedAmount": null,
+      "AmountInWords": null,
+      "Signatures": {
+        "DealingAssistant": null,
+        "Accountant": null,
+        "ARDR_FA": null
+      }
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/21-RemunerationBill-2018.pdf"
+}

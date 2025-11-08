@@ -1,0 +1,129 @@
+{
+    "notification_details": {
+      "institution": "National Institute of Technology Agartala",
+      "notification_number": "F NITA 3(6-GEN)/2011/ 3771~73",
+      "date": "2025-08-05",
+      "title": "List of Holidays to be observed at NIT Agartala during the Academic year 2025-26 (Period from July, 2025 to June, 2026)",
+      "approved_by": "Competent Authority",
+      "signed_by": {
+        "name": "Col. (Dr.) Ashish Badola (Retd.)",
+        "title": "Registrar",
+        "institution": "NIT Agartala"
+      }
+    },
+    "holidays_list": [
+      {
+        "name": "Independence Day",
+        "date": "2025-08-15",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2025-09-05",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Ramanavami)",
+        "date": "2025-10-01",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "2025-10-02",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijaya Dashami)",
+        "date": "2025-10-02",
+        "day": "Friday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "2025-10-20",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "2025-12-25",
+        "day": "Thursday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "2026-01-26",
+        "day": "Monday"
+      },
+      {
+        "name": "Holi",
+        "date": "2026-03-04",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "day": "Saturday"
+      },
+      {
+        "name": "Ram Navami",
+        "date": "2026-03-26",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "2026-04-03",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "2026-05-01",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Muharram",
+        "date": "2026-06-26",
+        "day": "Friday"
+      }
+    ],
+    "additional_notes": {
+      "puja_holidays": {
+        "description": "Puja holidays will be observed from 29th Sept. 2025 to 06th October. 2025.",
+        "start_date": "2025-09-29",
+        "end_date": "2025-10-06"
+      },
+      "closed_restricted_holidays": [
+        {
+          "name": "Ganesh Chaturthi",
+          "date": "2025-08-27"
+        },
+        {
+          "name": "Vaisakhi/Visu/Meshadi",
+          "date": "2026-04-14"
+        }
+      ],
+      "pending_declarations": "The holidays for Garia Puja & Kharchi Puja will be declared upon receipt of the holiday list from the Government of Tripura.",
+      "policy_notes": [
+        "Changes, if any, made by the Government of India in the list of Holidays shall suo-moto apply to NIT Agartala.",
+        "To compensate for the academic loss due to extra holidays, the Institute will observe working days for four (04) Saturdays in the complete academic year, spread out equally in the even & odd Semesters."
+      ]
+    },
+    "distribution_list": [
+      "PS to Director, NIT Agartala, for kind information of the Director",
+      "All Dean(s)/ HoD(s)/Chairman/Sectional Head(s)/, NIT Agartala",
+      "The Chairman, Computing & ICT, NIT Agartala with a request to arrange the uploading the Notification in the Institute website."
+    ],
+    "source_url":"https://www.nita.ac.in/uploaded_files/Holidays_July2025-June26.pdf"
+  }

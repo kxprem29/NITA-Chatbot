@@ -1,0 +1,313 @@
+{
+  "filename": "Admission_NonCCMT_July2024.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "office": "Office of the Dean Academic",
+    "notification": {
+      "title": "Admission to M.Tech Program 2024-25 (Non-CCMT)",
+      "description": "Applications are invited from eligible candidates (both GATE and Non-GATE) for admission to the M.Tech program at NIT Agartala against vacant seats, if any, after admission under CCMT-2024, during the academic session 2024-25."
+    },
+    "eligibility": {
+      "minimum_criteria": [
+        {
+          "department": "Civil Engineering",
+          "programs": [
+            {
+              "name": "Geotechnical Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Civil Engineering",
+                "Civil Engineering & Planning",
+                "Civil Technology",
+                "Civil & Transportation Engg."
+              ]
+            },
+            {
+              "name": "Construction Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Civil Engineering",
+                "Building Construction Technology",
+                "Construction Engg",
+                "Construction Technology",
+                "Structural Engineering",
+                "Civil Engineering & Planning",
+                "Civil Technology",
+                "Construction Engg & Management",
+                "Construction Technology Management",
+                "Civil & Transportation Engg."
+              ]
+            },
+            {
+              "name": "Environmental Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Civil Engineering",
+                "Environmental Engineering",
+                "Environment & Pollution Control",
+                "Civil & Transportation Engineering",
+                "Civil Engineering (Public Health Engineering)"
+              ]
+            },
+            {
+              "name": "Transportation Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Civil Engineering",
+                "Highway Engineering",
+                "Transportation Engineering",
+                "Transportation Urban Planning",
+                "Civil Engineering & Planning",
+                "Civil Technology",
+                "Civil & Transportation Engg."
+              ]
+            },
+            {
+              "name": "Water Resources Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Agriculture Engineering",
+                "Civil Engineering",
+                "Construction Engineering",
+                "Civil & Transportation Engineering"
+              ]
+            },
+            {
+              "name": "Seismic Science & Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Structural Engineering",
+                "Civil Engineering",
+                "Civil Environmental Engineering",
+                "Civil Engineering & Planning",
+                "Civil Technology",
+                "Geo Informatics",
+                "Ocean Engineering",
+                "Civil & Transportation Engineering",
+                "M.Sc in Geology",
+                "M.Sc in Earth Science",
+                "M.Sc in Geo-physics"
+              ]
+            },
+            {
+              "name": "Hydro Informatics Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Agriculture Engg",
+                "Chemical Engg",
+                "Civil Engineering",
+                "Civil Environmental",
+                "Electrical Engineering",
+                "Energy Engg",
+                "Production Engineering",
+                "Water Management",
+                "Agriculture & Food Engineering",
+                "Civil Engg & Planning",
+                "Civil Technology",
+                "Town & Country Planning",
+                "M.Sc in Agriculture Science",
+                "M.Sc in Environmental Science",
+                "M.Sc in Forestry",
+                "M.Sc in Geology",
+                "M.Sc in Soil Science",
+                "M.Sc in Atmospheric Science",
+                "M.Sc in Earth Science",
+                "M.Sc in Geo informatics",
+                "M.Sc in Meteorology"
+              ]
+            }
+          ]
+        },
+        {
+          "department": "Mechanical Engineering",
+          "programs": [
+            {
+              "name": "Mechanical Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Mechanical Engineering",
+                "Automobile Engineering",
+                "Aerospace Engineering",
+                "Aeronautical Engineering",
+                "Thermal Energy Engineering",
+                "Science & Marine Engineering",
+                "Oil and Gas Technology"
+              ]
+            },
+            {
+              "name": "Manufacturing Technology",
+              "qualifying_degrees": [
+                "BE/B.Tech in Mechanical Engineering",
+                "Production Engineering",
+                "Manufacturing Process",
+                "Manufacturing Engineering and Automation",
+                "Manufacturing Process and Automation Engineering",
+                "Mechanical Engineering (Design and Manufacturing)",
+                "Mechanical Engineering (Manufacturing Engineering)",
+                "Mechanical Engineering (Welding Technology)",
+                "Production and Management",
+                "Industrial Manufacturing Engineering",
+                "Industrial and Production Engineering",
+                "Advanced Manufacturing and Mechanical Systems Design",
+                "Mechatronics",
+                "Metallurgy",
+                "Industrial Engineering"
+              ]
+            }
+          ]
+        },
+        {
+          "department": "Chemical Engineering",
+          "programs": [
+            {
+              "name": "Production Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Biotech Engineering",
+                "Biotechnology",
+                "Chemical Engineering",
+                "Electro-chemical Engineering",
+                "Energy Engineering",
+                "Environmental Engineering",
+                "Material science and Engineering",
+                "Polymer science and rubber technology",
+                "Polymer science and technology",
+                "Polymer technology",
+                "Bioengineering",
+                "Biotechnology and biochemical engineering",
+                "Chemical and polymer Engineering",
+                "Chemical technology",
+                "Food engineering",
+                "Petroleum engineering",
+                "Plastic and polymer engineering",
+                "Plastic engineering",
+                "Pulp and paper technology",
+                "Rubber technology",
+                "Polymer engineering and technology",
+                "Chemical and alcohol engineering",
+                "Biochemical and biotechnology engineering",
+                "Chemical and bio engineering",
+                "Chemical engineering (plastic and polymer)",
+                "Food processing technology",
+                "Food technology",
+                "Material science and technology",
+                "Petrochem and petroleum refinery engineering",
+                "Petro-chemical technology",
+                "Petroleum technology",
+                "Polymer engineering",
+                "Polymer science and chemical technology",
+                "Agriculture Engineering",
+                "Biochemical engineering",
+                "Biological Science and Bio Engineering",
+                "Bio Science and Bio Engineering",
+                "Industrial Bio Technology",
+                "Energy Science and Engineering",
+                "Fuel Technology",
+                "Renewable Energy",
+                "Environment & Pollution Control",
+                "Environmental Science and Technology",
+                "Oil and Paint Technology",
+                "Oil Technology",
+                "Oils-Oleochemicals and surfactant technology",
+                "Petrochemical Technology",
+                "Paint Technology",
+                "Desalination and Water Treatment"
+              ]
+            },
+            {
+              "name": "Bio Engineering",
+              "qualifying_degrees": [
+                "BE/B.Tech in Bio Engineering",
+                "Bio Technology",
+                "Biomedical Instrumentation",
+                "Biotechnology and Biochemical Engineering",
+                "Chemical Engineering",
+                "Food Technology",
+                "Industrial BioTechnology",
+                "Biosciences and Bioengineering",
+                "Environmental Engineering",
+                "Energy Engineering",
+                "Material Science and Engineering",
+                "Computer Science and Engineering",
+                "Information Technology",
+                "Polymer Science and Engineering",
+                "Food Process Technology",
+                "Biological Sciences and Bioengineering",
+                "Agricultural Engineering",
+                "Bioinformatics",
+                "Biotech Engineering",
+                "Food Engineering",
+                "MSc Degree Botany",
+                "Zoology",
+                "Microbiology",
+                "Industrial Microbiology",
+                "BVSc",
+                "Industrial BioTechnology"
+              ],
+              "special_note": "Candidates should have Mathematics at 12th standard. Candidates must have 60% marks or CPI/CGPA of 6.5 at a scale of 10 for General/OBC/EWS category candidates and 55% marks or CPI of 6.0 at a scale of 10 for SC/ST/PH candidates."
+            }
+          ]
+        }
+      ],
+      "other_requirements": [
+        "Candidates seeking admission in more than one Department will be required to submit a separate application upon payment of the requisite fee.",
+        "Conversion from CGPA to percentage or vice-versa given by individual Institute/University will not be considered/allowed. In case both CGPA and percentage are mentioned, only CGPA would be considered.",
+        "Provisional admission permitted if results are awaited, provided exams are completed by 15 August 2024 and documents submitted by 30 September 2024.",
+        "Undertaking in the prescribed format must be uploaded by all categories."
+      ]
+    },
+    "instructions": {
+      "apply_online": "https://admission.nita.ac.in/",
+      "browser": "Mozilla Firefox",
+      "steps": [
+        "Fill personal, address, educational details and upload photo, signature, and other documents.",
+        "Click on Payment Details and pay the requisite amount.",
+        "If payment is deducted but not reflected, email nitmisagt@gmail.com.",
+        "Verify all information after payment and submit the application. Download Payment & Application form.",
+        "Application fee: Rs. 500/- for GEN/GEN-EWS/OBC and Rs. 300/- for SC/ST/PwD.",
+        "Completed form will generate a PDF."
+      ]
+    },
+    "important_notes": [
+      "Provisionally selected candidates must fulfill the minimum eligibility criteria; otherwise, candidature will be canceled.",
+      "Migration Certificate and Conduct/Character Certificate are mandatory during provisional admission."
+    ],
+    "documents_to_upload": [
+      "10th Mark-sheet and Certificate",
+      "Proof of Date of Birth",
+      "12th/Diploma Mark-sheet",
+      "Photo ID as per Govt. of India norms",
+      "Degree Mark-sheets/grade-cards of all semesters",
+      "Degree / Provisional certificate",
+      "Category Certificate (if applicable)",
+      "OBC-NCL/EWS certificate issued on or after 01/04/2024",
+      "PwD certificate (if applicable)",
+      "Undertaking (Annexure-A)",
+      "Course completion/self-declaration (Annexure-B)",
+      "Undertaking for appearing candidates (Annexure-C)"
+    ],
+    "hostel": "Separate notification will be issued from the Office of the Chief Warden at the time of admission.",
+    "important_dates": [
+      {
+        "event": "Start of online application with fee payment",
+        "date": "05/07/2024"
+      },
+      {
+        "event": "Last date of online payment (non-refundable)",
+        "date": "TO BE NOTIFIED"
+      },
+      {
+        "event": "Publication of shortlisted candidates for written test/interview",
+        "date": "TO BE NOTIFIED"
+      },
+      {
+        "event": "Date and mode of written test/interview",
+        "date": "TO BE NOTIFIED"
+      }
+    ],
+    "general_terms": [
+      "Institute reserves the right to cancel candidature without reason.",
+      "Prescribed qualifications are minimum and do not guarantee call for written test/interview.",
+      "Candidates must produce all original documents during verification.",
+      "Issues regarding application or payment: help.pgadmnnita@gmail.com",
+      "Technical issues: nitmisagt@gmail.com"
+    ],
+    "annexures": {
+      "A": "Undertaking for all candidates regarding provisional registration and authenticity of documents.",
+      "B": "Course completion certificate format for appearing candidates.",
+      "C": "Undertaking for appearing candidates, committing to submit final results by 30 September 2024."
+    },
+    "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/Admission_NonCCMT_July2024.pdf"
+  }
+}

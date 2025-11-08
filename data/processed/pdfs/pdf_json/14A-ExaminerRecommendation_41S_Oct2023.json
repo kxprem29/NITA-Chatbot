@@ -1,0 +1,25 @@
+{
+  "ExaminerRecommendation": {
+    "FormNumber": "NITA/ACAD/Ph.D./14(A)",
+    "CandidateDetails": {
+      "Name": null,
+      "ThesisTitle": null
+    },
+    "Recommendations": [
+      "The thesis is accepted for the award of a Ph.D. degree.",
+      "The thesis is acceptable subject to clarification of certain points during the viva-voce examination.",
+      "The thesis is acceptable subject to modification/clarification/revision. After modification, the thesis should NOT be referred back to me.",
+      "The thesis is acceptable subject to further work/modification/substantial revision of the text. After modification, the thesis should be referred back to me for final assessment.",
+      "The thesis does not meet the standards of comparable works in institutions of higher learning and is therefore rejected."
+    ],
+    "ExaminerDetails": {
+      "Name": null,
+      "Affiliation": null,
+      "Place": null,
+      "Date": null,
+      "Signature": null
+    },
+    "Notes": "A detailed report is enclosed on a separate sheet."
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/14A-ExaminerRecommendation_41S_Oct2023.pdf"
+}

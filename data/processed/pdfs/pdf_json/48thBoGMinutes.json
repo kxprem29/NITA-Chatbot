@@ -1,0 +1,136 @@
+{
+  "filename": "48thBoGMinutes.txt",
+  "title": "Minutes of the 48th Board of Governors Meeting",
+  "date": "October 03, 2019",
+  "institution": "National Institute of Technology Agartala",
+  "location": "Conference Room of NIT Transit House, New Delhi",
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson of BoG and Director, NIT Agartala"
+    },
+    {
+      "name": "Shri D. K. Singh",
+      "designation": "Dy. Secretary (Fin), MHRD (Representative of JS & FA IFD, MHRD, Govt. of India)"
+    },
+    {
+      "name": "Prof. Sharad Gokhale",
+      "designation": "Dean of Infrastructure Planning & Management, IIT Guwahati (nominee of the Director IITG)"
+    },
+    {
+      "name": "Shri B. Das",
+      "designation": "Dy. Resident Commissioner, Govt. of Tripura (Representative of the Principal Secretary, Dept. of Higher Education, Agartala)"
+    },
+    {
+      "name": "Prof. (Dr.) S. C. Saha",
+      "designation": "Member, Professor, M.E. Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Subhadeep Bhattacharjee",
+      "designation": "Member, Associate Professor, EE Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Secretary, Registrar, NIT Agartala"
+    }
+  ],
+  "members_absent": [
+    "The Special Secretary / Additional Secretary / Joint Secretary dealing with Technical Education, Dept. of Higher Education, MHRD"
+  ],
+  "agenda_items": [
+    {
+      "item_no": "48.1",
+      "title": "Confirmation of the Minutes of 47th Meeting of Board of Governors",
+      "details": "Minutes of the 47th Meeting held on June 26, 2019, confirmed with incorporation of comments from JS & FA MHRD and Under Secretary (NIT) MHRD regarding Item No. 47.28 and reference to MHRD letter F. 35-5/2018-TS III dated 4th April 2019 for Item No. 47.15."
+    },
+    {
+      "item_no": "48.2",
+      "title": "Actions Taken on Decisions of 46th BOG Meeting",
+      "details": "Actions taken on the decisions of the 46th BoG meeting were noted."
+    },
+    {
+      "item_no": "48.3",
+      "title": "Implementation of Strengthening of Administration",
+      "details": "Periodic review of Central Government Employees under FR 56(j)/(l) and Rule 48 of CCS (Pension) Rules, 1972 adopted and confirmed."
+    },
+    {
+      "item_no": "48.4",
+      "title": "Fixation of License Fee of Different Buildings",
+      "details": "Board approved and confirmed recommendations of the committee for use of office buildings, academic buildings, and market complex by contractors/agencies/shopkeepers."
+    },
+    {
+      "item_no": "48.5",
+      "title": "Recruitment of Assistant Registrar and Assistant Librarian",
+      "details": "Board approved appointments of three Assistant Registrars. Recommendation for Assistant Librarian deferred due to concerns regarding new recruitment rules.",
+      "appointments": [
+        {
+          "name": "Mr. N. Venkata Sivakumar Hari",
+          "designation": "Assistant Registrar",
+          "category": "General"
+        },
+        {
+          "name": "Mr. Kamlesh Tilwani",
+          "designation": "Assistant Registrar",
+          "category": "General"
+        },
+        {
+          "name": "Mr. Krishanu Gupta",
+          "designation": "Assistant Registrar",
+          "category": "General"
+        }
+      ]
+    },
+    {
+      "item_no": "48.6",
+      "title": "International Conference on Applied Mathematics and Computational Intelligence (ICAMCI-2020)",
+      "details": "Approved without any financial expenditure from sanctioned Ministerial fund."
+    },
+    {
+      "item_no": "48.7",
+      "title": "Assets & Liabilities Dues to Govt. of Tripura",
+      "details": "Board approved payment of Rs. 56,49,968/- to DHE, Government of Tripura and suggested communication with MHRD for position clearance."
+    },
+    {
+      "item_no": "48.8",
+      "title": "Recommendation of 33rd Finance Committee Meeting",
+      "details": "Board approved the minutes of the 33rd Finance Committee Meeting held on June 26, 2019."
+    },
+    {
+      "item_no": "48.9",
+      "title": "Absorption of Dr. Govind Bhargava, Registrar",
+      "details": "Proposal declined as absorption violated NIT statutes/Recruitment rules. Instructions given regarding superannuation, pension, and remuneration adjustments."
+    },
+    {
+      "item_no": "48.10",
+      "title": "International Workshop on Advanced Seismology, Seismic Hazard and Earthquake",
+      "details": "Approved without financial expenditure from sanctioned Ministerial fund."
+    },
+    {
+      "item_no": "48.11",
+      "title": "Absorption of Mr. Sunil Das, Estate Engineer",
+      "details": "Direct absorption from State Services declined due to absence of provision in Recruitment rules/NIT Statutes."
+    },
+    {
+      "item_no": "48.12",
+      "title": "Issues Pertaining to TEQIP-III Program",
+      "details": "A. Second (3rd) Phase Procurement Plan approved under TEQIP rules; redundant pages to be corrected by Director.\nB. Minor Research Grants up to 3 Lakh to Assistant Professors approved under TEQIP rules; expenditures under CPDA not allowed under this grant."
+    },
+    {
+      "item_no": "48.13",
+      "title": "Any Other Issue with Permission of Chair",
+      "details": "Proposal to recruit one Technical Personnel (on contract) for MIS, NITA to be put up in forthcoming BoG meeting."
+    }
+  ],
+  "conclusion": "Meeting ended with a vote of thanks to the Chair.",
+  "signatories": [
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Secretary & Registrar, NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson & Director, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/48thBoGMinutes.pdf"
+}

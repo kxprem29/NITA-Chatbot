@@ -1,0 +1,108 @@
+{
+  "BoardOfGovernorsMinutes": {
+    "MeetingNumber": "30th",
+    "Date": "May 02, 2014",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Hall, NIT Agartala",
+    "MeetingTime": "11:30 AM",
+    "Chairperson": "Prof. P. N. Singh",
+    "MembersPresent": [
+      {"Name": "Prof. P. N. Singh", "Designation": "Chairman, BoG"},
+      {"Name": "Prof. Gopal Mugeraya", "Designation": "Member, Director, NIT Agartala"},
+      {"Name": "Shri Yogendra Tripathi", "Designation": "Member, Joint Secretary & Financial Adviser, MHRD"},
+      {"Name": "Shri Kishor Ambuly", "Designation": "Member, Secretary, Govt. of Tripura, Higher Education Dept."},
+      {"Name": "Shri Rajesh Singh Solanki", "Designation": "Member, Under Secretary, MHRD"},
+      {"Name": "Prof. Nitindra Nath Som", "Designation": "Member, Former Professor, Jadavpur University"},
+      {"Name": "Prof. A. Srinivasan", "Designation": "Dean of Faculty Affairs, IIT Guwahati (nominee of Director, IIT Guwahati)"},
+      {"Name": "Prof. (Mrs) Uma Bhattacharya", "Designation": "Professor, Dept. of Computer Science & Technology, BESU Shibpur"},
+      {"Name": "Prof. Sekhar Datta", "Designation": "Principal, Tripura Institute of Technology"},
+      {"Name": "Prof. Richi Prasad Sharma", "Designation": "Professor, Civil Engg. Dept., NIT Agartala"},
+      {"Name": "Dr. John Debbarma", "Designation": "Asst. Professor, ME Dept., NIT Agartala"},
+      {"Name": "Shri Sumanta Chakrabarti", "Designation": "Secretary, Registrar (I/C), NIT Agartala"}
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "30.1",
+        "Title": "Confirmation of Minutes of 29th BoG Meeting",
+        "Decision": "Minutes of 29th BoG meeting held on February 27, 2014, confirmed."
+      },
+      {
+        "ItemNo": "30.2",
+        "Title": "Action taken on 29th BoG decisions",
+        "Decisions": [
+          {"Ref": "29.14(1)", "Action": "Director authorized to take immediate further action"},
+          {"Ref": "29.14(2)", "Action": "Action taken approved; Director authorized for further action"},
+          {"Ref": "29.14(3)", "Action": "Seek further opinion from Asst. Solicitor General on removal of Dr. Umesh Mishra; disciplinary proceedings authorized if required"}
+        ]
+      },
+      {
+        "ItemNo": "30.3",
+        "Title": "Present Status of TEQIP-II Project",
+        "Details": "Coordinator Dr. Ardhendu Saha presented progress and future fund requirements."
+      },
+      {
+        "ItemNo": "30.4",
+        "Title": "Ongoing TEQIP-II programme",
+        "Decisions": [
+          {"SubItem": "i", "Decision": "Fund allocation ratified"},
+          {"SubItem": "ii", "Decision": "International travel of Shri Arnab Paul ratified; expenditure Rs. 11,500/-"},
+          {"SubItem": "iii", "Decision": "International Travel Plan & Faculty/Staff Development Plan approved"}
+        ]
+      },
+      {
+        "ItemNo": "30.5",
+        "Title": "Prayer of Dr. Prasun Chakraborti for promotion to Professor",
+        "Decision": "Request not acceded to; based on issue of alleged false information by Dr. Umesh Mishra"
+      },
+      {
+        "ItemNo": "30.6",
+        "Title": "Recommendations of 24th Finance Committee",
+        "Decision": "Decisions noted and approved"
+      },
+      {
+        "ItemNo": "30.7",
+        "Title": "Any other item with permission of Chair",
+        "SubItems": [
+          {
+            "ItemNo": "30.7.1",
+            "Title": "Creation of Dean (Alumni Affairs & Institutional Relations)",
+            "Decision": "Approved as per NIT Statute"
+          },
+          {
+            "ItemNo": "30.7.2",
+            "Title": "Nomination of Dr. Aloysius Henry Sequeira to Senate",
+            "Decision": "Nomination ratified"
+          },
+          {
+            "ItemNo": "30.7.3",
+            "Title": "Private visit of Dr. S. K. Das to Bangladesh",
+            "Decision": "Approved for 6th June to 20th June 2014"
+          },
+          {
+            "ItemNo": "30.7.4",
+            "Title": "Misconduct by Dr. Ardhendu Saha and Shri Abaniswar Chakraborty",
+            "Decision": "Show-cause notices issued; Director authorized for follow-up disciplinary action after CEO Tripura feedback"
+          },
+          {
+            "ItemNo": "30.7.5",
+            "Title": "Health Care Policy & Amended Medical Rules",
+            "Decisions": [
+              "Medical reimbursement limited to CGHS rate",
+              "AGMC & GBP Hospital are only referring authorities outside the State",
+              "Director authorized to prepare list of reputed private hospitals for empanelment",
+              "Reimbursement for non-referred hospitals not to exceed CGHS rate; travel expenses not borne by NIT",
+              "OPD visits by Specialist Doctors approved; max Rs.1500/hour, 2 hours/day, 3 visits/week; no extra cost",
+              "Outsourcing of pharmacy services approved in principle; detailed modalities per IIT Guwahati practices"
+            ]
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with vote of thanks to the Chair",
+    "Signatures": {
+      "SecretaryBoG": "Shri Sumanta Chakrabarti",
+      "ChairpersonBoG": "Prof. P. N. Singh"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BOG_Minutes/30th_BoG_Minutes.pdf"
+}

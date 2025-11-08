@@ -1,0 +1,76 @@
+{
+  "RecruitmentAdvertisement": {
+    "documentInfo": {
+      "advertisementNumber": "F.NITA.11(42-ME)/DST-SERB-CRG/Project/JRF/2023-24",
+      "issueDate": "06/03/2024"
+    },
+    "projectDetails": {
+      "title": "Development, analysis, and feasibility study of an aluminum alloy-air battery for powering electric vehicles",
+      "fundingAgency": "Science and Engineering Research Board (SERB), Department of Science & Technology (DST), Government of India",
+      "scheme": "Core Research Grant (CRG)",
+      "duration": "Initial appointment for one year, extendable up to 3 years based on performance.",
+      "principalInvestigator": {
+        "name": "Dr. Ajay Biswas",
+        "designation": "Assistant Professor",
+        "department": "Mechanical Engineering Department, NIT Agartala"
+      }
+    },
+    "positions": [
+      {
+        "title": "Junior Research Fellow (JRF)",
+        "monthlyEmolument": "Consolidated amount of Rs. 31,000/- per month for the first 2 years and Rs. 35,000/- per month for the third year.",
+        "essentialQualifications": "ME / M.Tech in Manufacturing Technology or relevant / Materials Science & Engineering / Power Electronics / Master's degree in Physics or other relevant subjects (with a minimum of 60% marks or equivalent CGPA) from recognized Universities/Institutes, with CSIR/UGC-NET or valid GATE score.",
+        "desirableQualifications": "Knowledge / experience in chemical synthesis, electro physics, electrochemistry, and fuel cell will be preferred.",
+        "ageLimit": "28 years on the date of application, with relaxation for SC/ST/OBC candidates as per Government of India norms."
+      },
+      {
+        "title": "Project Assistant",
+        "monthlyEmolument": "Consolidated amount of Rs. 20,000/- per month.",
+        "essentialQualifications": "B.Sc. in Physics or other relevant subjects / Three years Diploma in Mechanical or relevant Engineering and Technology after 12th Science with a minimum of 60% marks or equivalent grade.",
+        "desirableQualifications": "Knowledge / experience in chemical synthesis, electro physics, electrochemistry, and fuel cell will be preferred.",
+        "ageLimit": "28 years on the date of application, with relaxation for SC/ST/OBC candidates as per Government of India norms."
+      }
+    ],
+    "recruitmentProcess": {
+      "interviewDate": "25.03.2024 (tentative)",
+      "interviewMode": "Online / Offline depending on suitability",
+      "applicationDeadline": "March 20, 2024",
+      "applicationInstructions": {
+        "summary": "Interested candidates are requested to submit the attached application format, a detailed CV, and scanned copies of all documents as a single PDF file (max 10 MB).",
+        "recipientEmail": "ajaybiswasnita@gmail.com",
+        "emailSubject": "JRF/PA application for SERB Project 2023",
+        "fileNameFormat": "<applicant’s name> _ <JRF/PA application for SERB>"
+      },
+      "selectionNote": "Only shortlisted candidates will be called for the interview. No TA/DA will be paid."
+    },
+    "termsAndConditions": [
+      "The position is purely temporary.",
+      "Candidates must ensure they are eligible before applying.",
+      "The initial appointment is for one year, extendable up to 3 years based on performance.",
+      "No TA/DA is permissible for the interview or joining.",
+      "Original documents must be brought for verification at the time of the interview.",
+      "The selected candidate will have the option to register for a PhD program at NIT Agartala, subject to eligibility criteria."
+    ],
+    "applicationFormFields": [
+      "Name of the Applicant",
+      "Father’s/Husband’s Name",
+      "Nationality",
+      "Date of Birth",
+      "Category (SC/ST/OBC/GEN/EWS)",
+      "Gender",
+      "Marital Status",
+      "NET Qualified (Yes/No)",
+      "GATE Qualified (Yes/No)",
+      "Title of the project undertaken in M.Tech /M.Sc./B.Tech",
+      "Research Experience",
+      "Aadhar No.",
+      "Present Address",
+      "Educational Qualification (Higher School onwards)",
+      "List of SCI Journals",
+      "List of Scopus Journals",
+      "List of Conference Papers",
+      "Book/Book Chapter/Patent"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Notice/2ndAdvt_JRF_ME_12032024.pdf"
+}

@@ -1,0 +1,141 @@
+{
+  "filename": "Admission-PhD-Jan-June2024.txt",
+  "title": "Ph.D. Admission Notification – Jan–June 2024",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "reference_no": "F.NITA/5.(6-Acad)/Ph.D. Admn/2024/136",
+  "date": "10/11/2023",
+  "session": "January-June 2024",
+  "departments": [
+    {
+      "name": "Civil Engineering",
+      "research_areas": "Quality & treatment of water & wastewater; Heavy metal removal; Solid waste management; Ecology; Adsorption modeling; Remote sensing & GIS; Membrane filtration; Anaerobic design; Composting; Dynamic response & stability; Geotechnical Engineering; Transportation Engineering; Water Resource Engineering; Structural Engineering; Liquefaction; Landslide; Slope stability; Geo-environmental study and seismology; Structural Dynamics and EQ Engg; Earthquake Geotechnical Engg; Building Materials and Structures; Pavement materials; Pavement analysis and design; Subgrade stabilization; Seismic performance evaluation of RC structures; Seismic performance evaluation of Masonry structures; Concrete performance against corrosion; High-performance concrete; Concrete Durability; Geopolymer concrete; Non-destructive Evaluation; Pavement/Soil; Structural rehabilitation/ Strengthening; Hydroinformatics/AI and Data science in water resources development; Environmental Nanotechnology; Wastewater treatment."
+    },
+    {
+      "name": "Mechanical Engineering",
+      "research_areas": "Sustainable energy; Tribology; Bio Tribology; Phase Engine Heat transfer (Boiling & condensation); Refrigeration & Air Conditioning; Air Conditioning; Energy system Analysis; Flow Boiling in Horizontal tube; Fluid flow & Heat transfer in microchannel; Alternative Fuels; Hydrodynamics; Manufacturing Technology; IC engine Alt. fuel and based strategies in IC engine; MO0P-IC engine; IC engine; Alt. fuel; Welding Analysis; Composite Materials; Heat transfer; Multiphase flow; CFD; Design Optimization; CAD; Advanced Composites; Advanced Manufacturing system; Robotics; Optimization; Non-traditional machining."
+    },
+    {
+      "name": "Electrical Engineering",
+      "research_areas": "Optoelectronics Instrumentation; Industrial Instrumentation; Solid-State Lasers and Nonlinear-optics; Fiber Optic Sensors; Integrated Photonic Devices; Fiber optics Communications; Power Systems; High Voltage Engg; Energy & Renewable power; Distributed power generation; Hybrid power system; Energy conservation; Power system planning under smart grid; Demand response; Electric Mobility; Application of Evolutionary Techniques to Deregulated Power system; Power quality; Energy-efficient data centers; Frequency conversion; Nonlinear optics; Laser & nonlinear optics; Surface Plasmon-based sensors & Devices; Multi-level inverter topologies; Harmonic elimination techniques; Modular multi-level converter for HVDC application; Power electronics application to renewables; Electric vehicle."
+    },
+    {
+      "name": "Computer Science & Engineering",
+      "research_areas": "Wireless Sensor Network; Software Defined Network; IoT; MANET; VANET; Information Retrieval; Application of Machine Learning; Deep Learning in text processing; Machine Learning in Visual Inference; Artificial Intelligence and Neural Networks; Cryptography; Steganography; Data Privacy; Cyber Security; Network Security; Data Analytics and Decision making with NLP techniques; Computational Social Science; Code-Mixing; Social Computing; Computational Linguistic with transfer learning; Computer Network; Hybrid Intelligent System; Mobile Robot Navigation; Blockchain and Cloud Computing; Pattern Recognition; Computational Biology; Evolutionary Computation; Networks and Optimization; Operations research and Image processing."
+    },
+    {
+      "name": "Production Engineering",
+      "research_areas": "Foundry; Forging; SG Iron; Steel; Al alloy-based composite materials; Grain refinement; Manufacturing Technology; Multi-Criteria Decision Making (MCDM); Case-Based Reasoning (CBR); Advanced Fluidics; Production and Operations management; Non-traditional machining; Financial management; Tribology of Bearings; Asset Management; Machining Technology; Decision Making; Plant Maintenance; Casting; Welding and soft computational approaches."
+    },
+    {
+      "name": "Electronics & Communication Engineering",
+      "research_areas": "Image Processing; Microwaves and Antennas; VLSI Design and Synthesis; Control and Instrumentation; Bio-impedance and signal Analysis; Device and material Characterization; Microwave circuits and Antennas, Metamaterial; Superstate, VLSI Semiconductor Device; Nanoelectronics; Optoelectronics Devices; Nanotechnology; VLSI; Hardware Security; Network-on-Chip; Electronic Design Automation (VLSI Design)."
+    },
+    {
+      "name": "Chemical Engineering",
+      "research_areas": "Environmental Engineering; Wastewater treatment; Adsorption, Bioremediation, Optimization and Design; Computational Fluid Dynamics, Multiphase Flow phenomena, Petroleum & Refinery Engg., Transport Phenomena, Energy, Environment; Chemical & Bio-Chemical Engineering; Microalgae and Cyanobacteria-based Biofuels and Bioproducts; Agriculture Waste Management; Metabolic Network Analysis for Biological Systems, Chemical Systems Biology, Fermentation Technology; Environmental Engineering and Pollution Control, Biotechnology, Electrochemical Technologies, Nanotechnology, Materials Engineering, Polymer Engineering, Reaction Engineering & Catalysis, Renewable Energy & Biofuels, Energy and Fuel Technology, Sustainable Engineering, Waste Utilization, and Biomass valorization. Groundwater and wastewater treatment by membrane and adsorption processes; Utilization of solid waste; Membrane distillation; Assessment of groundwater and surface water quality."
+    },
+    {
+      "name": "Bio Engineering",
+      "research_areas": "Biotechnology, Biochemical Engineering"
+    },
+    {
+      "name": "Electronics & Instrumentation Engineering",
+      "research_areas": "Electronics & Optics & Photonics; Flexible and wearable electronics; IoT; Chemical and Bio Sensors; AI and ML; Sensors & transducer; Instrumentation and Measurement; Embedded system; Robotics; Agricultural Electronics; Medical Signal and Image Processing/Medical Instrumentation and AI in healthcare."
+    },
+    {
+      "name": "Physics",
+      "research_areas": "Liquid Crystal; Biomedical Sensors for Noninvasive Disease Monitoring; Solar Cell; Photoelectrochemical Cell; Photodetectors; Low Dimensional Nanostructures (0D, 1D, 2D); Growth and Applications in Electronic and Optoelectronic Devices; Semiconductor physics; Application of low dimensional materials for green energy and sustainable environment; Quantum field theory; Experimental Plasma Physics; Multiferroic; Theoretical Physics; Experimental Condensed Matter Physics; Thin film; Nanotechnology."
+    },
+    {
+      "name": "Chemistry",
+      "research_areas": "Organic Chemistry, Inorganic Chemistry, Organometallic Chemistry, Coordination Chemistry, Carbon and metal nanoparticles; Solar Cells; Water Purification; Biosensors"
+    },
+    {
+      "name": "Mathematics",
+      "research_areas": "Inventory Control; Transportation; Fuzzy Optimization; Optimization; MCDM; Topology; Mathematical Modelling, Fuzzy Mathematics, Operation Research, Graph Theory, Linear Algebra, Quantum Computing"
+    },
+    {
+      "name": "Humanities & Social Sciences",
+      "research_areas": "Management, Economics and Rural Management/Development, Sociology and Geography/Economic Geography"
+    }
+  ],
+  "eligibility": {
+    "engineering": [
+      "Master's Degree in Engineering/Technology or equivalent with minimum CGPA 6.5 or 65%",
+      "B.Tech/B.E from Centrally Funded Technical Institute with CGPA 9.0 or 90% and valid GATE",
+      "Master's in Science with good academic record, CGPA >=6.5 or 65%, preference for GATE"
+    ],
+    "science": [
+      "Master's in Science with min 65% or CGPA 6.5 or 60% with GATE/NET/AIBHM",
+      "Master's in Engineering/Technology with min CGPA 6.5 or 65%, preference GATE",
+      "B.Tech/B.E from CFTI with CGPA 9.0 or 90% with valid GATE"
+    ],
+    "humanities": [
+      "Master's in relevant discipline with min 55% or CGPA 6.5 or 60%/6.0 with UGC/CSIR-NET/AIBHM, preference NET"
+    ],
+    "management": [
+      "MBA/PGDM 2-year duration with min 65% or CGPA 6.5, preference GATE/NET"
+    ],
+    "foreign": [
+      "Regular full-time only; degrees from Indian universities treated as Indian; foreign degrees must meet minimum requirement + valid GRE/GMAT/GATE/JMET/CAT/XAT/MAT/ATMA/UGC or CSIR-NET + TOEFL/IELTS; no financial assistance"
+    ]
+  },
+  "categories_of_scholars": [
+    "Full-time with scholarship",
+    "Full-time self-financed",
+    "Part-time",
+    "Institute Staff",
+    "Sponsored",
+    "External Registration"
+  ],
+  "online_application": {
+    "url": "https://admission.nita.ac.in/",
+    "browser": "Mozilla Firefox recommended",
+    "application_fee": {
+      "OP/OBC-NCL/EWS": 500,
+      "SC/ST/PwD": 300
+    },
+    "documents_required": [
+      "Proof of date of birth",
+      "Photo ID",
+      "Class 10th marksheet",
+      "Class 12th marksheet",
+      "Bachelor's degree marksheets",
+      "Master's degree marksheets",
+      "Pass certificate of Master's",
+      "GATE/NET/other score (if applicable)",
+      "Migration certificate",
+      "Conduct/Character certificate",
+      "Recent color photograph",
+      "Experience certificate (if any)",
+      "Passport (for foreign scholars)",
+      "SC/ST/PwD/OBC-NCL/EWS certificate (if applicable)"
+    ]
+  },
+  "selection_procedure": "Provisionally shortlisted candidates by department → Written test → Interview → Final selection based on academic performance, publications, and seat availability",
+  "important_dates": [
+    { "event": "Start of online application", "date": "13/11/2023", "day": "Monday" },
+    { "event": "Last date of online payment", "date": "10/12/2023", "day": "Sunday" },
+    { "event": "Last date for submission of online application", "date": "12/12/2023", "day": "Tuesday" },
+    { "event": "Publication of shortlisted candidates (Tentative)", "date": "20/12/2023", "day": "Wednesday" },
+    { "event": "Written Test and/or Interview (Tentative)", "date": "02/01/2024", "day": "Tuesday" },
+    { "event": "Publication of shortlisted candidates for provisional admission (Tentative)", "date": "05/01/2024", "day": "Friday" },
+    { "event": "Payment of admission fee (Tentative)", "date": "05/01/2024 to 15/01/2024", "day": "Friday to Monday" },
+    { "event": "Provisional admission on payment of requisite fees (Tentative)", "date": "12/01/2024 to 16/01/2024", "day": "Friday to Tuesday" }
+  ],
+  "general_terms_conditions": [
+    "Seats may be increased or decreased with approval of Authority",
+    "Institute may cancel candidature without assigning reason",
+    "Qualifications are minimum criteria only",
+    "Original documents must be produced during verification",
+    "Technical issues regarding online application/payment to help.phdadmnnita@gmail.com or nitrnisagtt@gmail.com",
+    "Candidates should visit institute website for updates"
+  ],
+  "sponsorship_forms": [
+    "Form NITA/ACAD/Ph.D./1(A) – Sponsoring an Employee for Full-time Ph.D.",
+    "Form NITA/ACAD/Ph.D./1(B) – No-Objection Certificate for Part-time Ph.D.",
+    "Form NITA/ACAD/Ph.D./2 – Sponsorship Certificate of External Registration"
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/Admission-PhD-Jan-June2024.pdf"
+}

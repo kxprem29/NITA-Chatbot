@@ -1,0 +1,42 @@
+{
+  "filename": "77thIndependenceDay_Aug24.txt",
+  "metadata": {
+    "organization": "National Institute of Technology Agartala",
+    "location": "Agartala - 799046, Tripura",
+    "date_of_notification": "05.08.2024",
+    "reference_no": "NITA/25/(32-DSA)REP-IND-DAY/2013-14/T8-&7"
+  },
+  "event": "77th Independence Day Celebration",
+  "event_date": "15.08.2024",
+  "description": "The National Institute of Technology Agartala and the Indian Institute of Information Technology Agartala will celebrate the 77th Independence Day. A March Past by the students is one of the main events to honor the day.",
+  "march_past_practice": {
+    "start_date": "06.08.2024",
+    "time": "5:00 PM",
+    "venue": "Sports Complex",
+    "participants": "All undergraduate (UG) students, boys and girls, of NIT Agartala and IIIT Agartala",
+    "instructions": "All Gymkhana members should coordinate the students. Students are directed to attend the practice sessions sincerely."
+  },
+  "signatory": {
+    "name": "Dean (SW)",
+    "organization": "NIT Agartala"
+  },
+  "copy_to": [
+    "P.S. to the Director, NIT Agartala, for kind information of the Director",
+    "P.S. to the Director, IIIT Agartala, for kind information of the Director",
+    "The Registrar, NIT Agartala, for kind information",
+    "Chief Warden for information",
+    "All Wardens for information and necessary action",
+    "Physical Education Officer for information and necessary action",
+    "Sports Officer for information and necessary action",
+    "SAS Officer for information and necessary action",
+    "Institute Notice Board",
+    "System Administrator with a request to upload the notice on the Institute Website"
+  ],
+  "contact_info": {
+    "address": "Barjala, Jirania, West Tripura, Pin: - 799046",
+    "phone": "+91 381 2346630 / 6629",
+    "fax": "+91 381 2346360",
+    "url": "www.nita.nic.in"
+  },
+  "source_url": "https://nita.ac.in/Notice/77thIndependenceDay_Aug24.pdf"
+}

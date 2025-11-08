@@ -1,0 +1,179 @@
+{
+  "meeting_number": 39,
+  "date": "July 27, 2017",
+  "type": "Building & Works Committee",
+  "location": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "Barjala, Jirania, West Tripura – 799046"
+  },
+  "chairman": {
+    "name": "Prof. (Dr.) Gopal Mugeraya",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairman, Building & Works Committee"
+  },
+  "members_present": [
+    {
+      "name": "Sri Asit Bhaumik",
+      "designation": "TES Gr-I, Chief Engineer",
+      "role": "Representative of PWD (Civil), Govt. of Tripura"
+    },
+    {
+      "name": "Sri Kajal Banik",
+      "designation": "Superintending Engineer (Elect)",
+      "role": "Representative of PWD, Govt. of Tripura"
+    },
+    {
+      "name": "Dr. Ratul Das",
+      "designation": "Dean (P&D), NIT Agartala"
+    },
+    {
+      "name": "Dr. Rishi Prasad Sharma",
+      "designation": "Professor, Civil Engg. Department, NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Registrar, NIT Agartala",
+      "role": "Member Secretary"
+    }
+  ],
+  "director_absent": "Director (NITs), MHRD, Govt. of India",
+  "agenda_items": [
+    {
+      "item_no": "39.1",
+      "subject": "Confirmation of the Minutes of 38th BWC meeting",
+      "details": "Minutes of the 38th BWC meeting held on March 15, 2017, circulated and confirmed."
+    },
+    {
+      "item_no": "39.2",
+      "subject": "Action taken on decisions of 37th BWC meeting",
+      "details": "Reviewed actions on previous meeting decisions. Out of 13 works, 12 completed, 1 dropped/revised. Various tenders in process and AMC works ongoing."
+    },
+    {
+      "item_no": "39.3",
+      "subject": "Ratification of construction activities approved by Chairman",
+      "works": [
+        {
+          "work": "AMC of Volvo Penta 500 KVA DG Sets",
+          "decision": "Ratified; suggested 3-year AMC instead of 1-year."
+        },
+        {
+          "work": "AMC of Otis Lift (Machine No. MS5750)",
+          "decision": "Ratified; suggested 3-year AMC instead of 1-year."
+        },
+        {
+          "work": "AMC of Thyssen Krupp Elevator Lifts",
+          "decision": "Ratified; suggested 3-year AMC instead of 1-year."
+        },
+        {
+          "work": "Supply, installation, testing & commissioning of Split-type ACs",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Supply, installation, testing & commissioning of 10 KVA UPS",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Internal and external painting & petty maintenance of Old Academic Building",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Maintenance of Aryabhatta Hostel (H-Block)",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Providing & fixing UPVC pipe at damaged sewerage line, Gomati Hostel",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Maintenance of Aryabhatta Hostel (G-Block)",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Horticulture work and internal beautification of Admin-I building",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Urgent maintenance to prevent seepage in Aryabhatta Hostel Block A & B",
+          "decision": "Ratified"
+        },
+        {
+          "work": "Supply of Plumbing, Carpentry, and Masonry materials",
+          "decision": "Ratified"
+        }
+      ]
+    },
+    {
+      "item_no": "39.4-39.6",
+      "subject": "Construction of 1500 capacity Boys Hostel, boundary walls, barbed wire fencing",
+      "decision": "Combined and approved for execution with estimated total cost Rs. 48,94,381.00. To be placed before FC & BoG for approval."
+    },
+    {
+      "item_no": "39.7",
+      "subject": "Construction of PH toilets at NITA",
+      "decision": "Approved by BWC; estimated cost Rs. 24,74,425.00 by open tender."
+    },
+    {
+      "item_no": "39.8",
+      "subject": "Construction of Ramps at NITA",
+      "decision": "Approved by BWC; estimated cost Rs. 14,67,572.00 by open tender."
+    },
+    {
+      "item_no": "39.9",
+      "subject": "Extension of boundary wall near Market complex",
+      "decision": "Approved by BWC; estimated cost Rs. 6,98,602.00 by open tender."
+    },
+    {
+      "item_no": "39.10",
+      "subject": "LT OH line for flood lighting at Old Playground",
+      "decision": "Approved by BWC; estimated cost Rs. 3,39,742.00 by open tender."
+    },
+    {
+      "item_no": "39.11",
+      "subject": "Extra items for 1500 Capacity Boys Hostel - Bulk Head light fittings",
+      "decision": "Approved; estimated cost Rs. 2,23,560.00 as extra item."
+    },
+    {
+      "item_no": "39.12",
+      "subject": "Boundary wall painting of Old Academic Building",
+      "decision": "Approved; estimated cost Rs. 1,87,780.00 by open tender."
+    },
+    {
+      "item_no": "39.13",
+      "subject": "Horticulture work 2017-18",
+      "works": [
+        {
+          "sub_work": "Ground preparation for plantation of Trees and Bamboos between ECE and Admin-I Building",
+          "estimated_cost": 522327
+        },
+        {
+          "sub_work": "Plantation of Ornamental Trees and Bamboos between ECE and Admin-I Building",
+          "estimated_cost": 524268
+        },
+        {
+          "sub_work": "Landscaping/Beautification around Main Entrance",
+          "estimated_cost": 545125
+        }
+      ],
+      "total_estimated_cost": 1591720,
+      "decision": "Approved; to be executed by CPWD as deposit work."
+    },
+    {
+      "item_no": "39.14",
+      "subject": "Any other item with permission of Chair",
+      "decision": "Ongoing construction activities and status noted."
+    }
+  ],
+  "closure": "Meeting ended with vote of thanks to the Chair.",
+  "signatories": [
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Registrar and Member Secretary, BWC"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Director and Chairman, BWC"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/39th_BWC_Minutes.pdf"
+}

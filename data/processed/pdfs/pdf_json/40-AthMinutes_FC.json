@@ -1,0 +1,56 @@
+{
+  "type": "Finance Committee",
+  "meeting_number": "40-A",
+  "date": "March 24, 2022",
+  "mode": "Through Circulation",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) H.K. Sharma",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairperson of FC & BoG"
+  },
+  "members_present": [
+    {
+      "name": "Mrs. Saumya Gupta",
+      "designation": "Joint Secretary (NITs), MoE, Govt. of India"
+    },
+    {
+      "name": "Mrs. Darshana M. Dabral",
+      "designation": "JS & FA, IFD, MoE, Govt. of India"
+    },
+    {
+      "name": "Prof. (Dr.) A.K. Chakraborty",
+      "designation": "Professor, Electrical Engineering Department, NIT Agartala"
+    },
+    {
+      "name": "Dr. (Mrs.) Sumita Deb",
+      "designation": "Assistant Professor, Electrical Engineering Department, NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) D. Bhattacharya",
+      "designation": "Member Secretary & Registrar (I/C), NIT Agartala"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "40-A/1",
+      "subject": "Approval of the Budget Estimates (Revised) of the Government of India & NIT Agartala for 2022-23",
+      "details": "Finance Committee accepted the proposal as per suggestions from MoE, Govt. of India regarding Hiring of High Value Equipment. The committee recommended placement before the Board for approval, incorporating necessary corrections suggested by a member of the FC."
+    }
+  ],
+  "closure": "Meeting concluded through circulation.",
+  "signatories": [
+    {
+      "name": "Prof. (Dr.) D. Bhattacharya",
+      "designation": "Member Secretary of Finance Committee & Registrar (I/C), NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) H.K. Sharma",
+      "designation": "Chairperson of FC & BoG & Director, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/40-AthMinutes_FC.pdf"
+}

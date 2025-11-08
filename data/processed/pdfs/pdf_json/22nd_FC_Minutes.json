@@ -1,0 +1,84 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "22nd",
+    "Date": "June 18, 2013",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Agartala",
+    "Chairman": "Prof. P. N. Singh",
+    "MembersPresent": [
+      {
+        "Name": "Prof. P. N. Singh",
+        "Designation": "Chairman, Finance Committee and BOG"
+      },
+      {
+        "Name": "Prof. P. K. Bose",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Shri Navin Soi",
+        "Designation": "Director, IFD, MHRD, Govt. of India (Representative of Financial Advisor)"
+      },
+      {
+        "Name": "Shri Raju Srinivasan",
+        "Designation": "Director (TE), MHRD, Govt. of India (Representative of Joint Secretary, NITs)"
+      },
+      {
+        "Name": "Shri Sumanta Chakrabarti",
+        "Designation": "Member Secretary, Finance Committee and Registrar (i/c)"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "22.1",
+        "Title": "Confirmation of the Minutes of 21st Meeting",
+        "Details": "Minutes of the 21st Finance Committee meeting held on March 28, 2013 were circulated and confirmed after discussion."
+      },
+      {
+        "ItemNo": "22.2",
+        "Title": "Action taken on the decision of the 21st Meeting",
+        "Details": "Finance Committee noted the action taken report."
+      },
+      {
+        "ItemNo": "22.3",
+        "Title": "Financial Status of the Institute as on May 31, 2013",
+        "Details": "Finance Committee noted the financial status and requested MHRD to release funds for Plan and Non-Plan Heads."
+      },
+      {
+        "ItemNo": "22.4",
+        "Title": "Annual Budget for 2013-14",
+        "Details": "Approved with total outlay: Plan Rs. 44981.50 lakhs, Non-Plan Rs. 8878.50 lakhs. Fund release subject to expenditure and utilization."
+      },
+      {
+        "ItemNo": "22.5",
+        "Title": "Financial Statement for ongoing works/projects",
+        "Details": "Finance Committee perused and noted the financial statement."
+      },
+      {
+        "ItemNo": "22.6",
+        "Title": "Annual Accounts for 2012-2013",
+        "Details": "Approved annual accounts to be forwarded to CAG and appropriate measures to submit annual report to MHRD."
+      },
+      {
+        "ItemNo": "22.7",
+        "Title": "Recommendations of 28th Building & Works Committee",
+        "Details": "Financial sanction accorded and recommended for further consideration of BoG."
+      },
+      {
+        "ItemNo": "22.8",
+        "Title": "Recommendations of 29th Building & Works Committee",
+        "Details": "Financial sanction accorded and recommended for further consideration of BoG. Observations on 1500 capacity boys hostel construction regarding amenity area and floor space were noted. Chairman BoG authorized to invite open tender."
+      },
+      {
+        "ItemNo": "22.9",
+        "Title": "Any other item with permission of the Chair",
+        "Details": "No other items for discussion."
+      }
+    ],
+    "Closure": "Meeting ended with vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Shri Sumanta Chakrabarti",
+      "Chairman": "Prof. P. N. Singh"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/22nd_FC_Minutes.pdf"
+}

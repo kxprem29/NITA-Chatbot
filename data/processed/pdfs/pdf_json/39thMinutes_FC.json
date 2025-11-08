@@ -1,0 +1,108 @@
+{
+  "type": "Finance Committee",
+  "meeting_number": 39,
+  "date": "July 29, 2021",
+  "location": "Virtual Class Room, NIT Agartala, Tripura (online mode)",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) H. K. Sharma",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairperson of FC & BoG"
+  },
+  "members_present": [
+    {
+      "name": "Mr. Anil Kumar",
+      "designation": "Director (F. I), MoE, Govt. of India"
+    },
+    {
+      "name": "Mr. Indrajit Kuri",
+      "designation": "US (IIT), MoE, Govt. of India"
+    },
+    {
+      "name": "Dr. D. Bhattacharya",
+      "designation": "Professor, Math. Dept., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Member Secretary & Registrar, NIT Agartala"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "39.1",
+      "subject": "Confirmation of the Minutes of 38th and 38th-A (Special) Meeting of the Finance Committee",
+      "details": "Minutes of the 38th and 38th-A Finance Committee meetings were confirmed."
+    },
+    {
+      "item_no": "39.2",
+      "subject": "Action taken on the decisions of the 37th Finance Committee meeting",
+      "details": "Finance Committee noted actions taken on various decisions of the 37th FC meeting held on September 29, 2020."
+    },
+    {
+      "item_no": "39.3",
+      "subject": "Financial Status of the Institute as on July 15, 2021",
+      "details": "Finance Committee noted the detailed financial status of the Institute."
+    },
+    {
+      "item_no": "39.4",
+      "subject": "Signing of Memorandum of Understanding (MoU) with Dept. of Higher Education, MoE",
+      "details": "Finance Committee ratified signing the MoU for 2021-22 as per GFR 229(xi) and recommended placement before the Board."
+    },
+    {
+      "item_no": "39.5",
+      "subject": "Present Status of TEQIP-III project",
+      "details": "Finance Committee noted the present status of TEQIP-III project."
+    },
+    {
+      "item_no": "39.6",
+      "subject": "Physical & Financial statement of ongoing construction works/projects",
+      "details": "Finance Committee noted the statements for ongoing construction works/projects."
+    },
+    {
+      "item_no": "39.7",
+      "subject": "Recommendation of DPC for granting financial upgradation under MACP scheme to non-teaching staff",
+      "staff": [
+        "Mr. Pradip Majumder, Jr. Assistant",
+        "Mrs. Uma Saha, Attendant",
+        "Mr. Nepal Debnath, Attendant",
+        "Mr. Sukhen Saha, Jr. Assistant",
+        "Mr. Bishu Debbarma, Attendant",
+        "Mrs. Brihalata Debbarma, Attendant",
+        "Mr. Jahar Debnath, Attendant",
+        "Mr. Dilip Debbarma, Attendant",
+        "Mrs. Sonalaxmi Debbarma, Attendant"
+      ],
+      "details": "Finance Committee considered MACP implementation for listed staff and recommended placement before the Board."
+    },
+    {
+      "item_no": "39.8",
+      "subject": "Proposal for water supply arrangement at NIT Agartala",
+      "details": "Finance Committee recommended sanctioning additional Rs. 2,93,54,515 to award work to PWD (DWS) as deposit work, and placement before Board for approval of Rs. 11,96,79,000."
+    },
+    {
+      "item_no": "39.9",
+      "subject": "Separate Audit Report and Annual Accounts of Institute for FY 2019-20",
+      "details": "Finance Committee considered audit report and annual accounts and recommended placement before Board for approval."
+    },
+    {
+      "item_no": "39.10",
+      "subject": "Any other item with permission of Chair",
+      "details": "Not applicable."
+    }
+  ],
+  "closure": "Meeting ended with a vote of thanks to the Chair.",
+  "signatories": [
+    {
+      "name": "Prof. (Dr.) D. Bhattacharya",
+      "designation": "Member Secretary of Finance Committee & Registrar (I/C), NIT Agartala"
+    },
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "designation": "Chairperson of FC & BoG & Director, NIT Agartala"
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/39thMinutes_FC.pdf"
+}

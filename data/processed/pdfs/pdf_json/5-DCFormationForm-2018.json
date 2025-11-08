@@ -1,0 +1,46 @@
+{
+  "DoctoralCommitteeFormationForm": {
+    "formInfo": {
+      "title": "FORMATION OF DOCTORAL COMMITTEE",
+      "formNumber": "NITA/ACAD/PhD/5"
+    },
+    "formPurpose": "To propose the members of the Doctoral Committee for a Research Scholar/Assistant at the suggestion of the supervisor.",
+    "scholarDetailsFields": [
+      "Department",
+      "Name of the Student",
+      "Enrollment No.",
+      "Date of Enrollment"
+    ],
+    "committeeMembersSection": {
+      "columns": [
+        "Name",
+        "Department",
+        "Role in Doctoral Committee",
+        "Signature"
+      ],
+      "predefinedRoles": [
+        "Chairman",
+        "Member",
+        "Member",
+        "Supervisor",
+        "Supervisor"
+      ]
+    },
+    "approvalWorkflow": [
+      {
+        "role": "Chairman, DPPC",
+        "action": "Recommends the committee."
+      },
+      {
+        "role": "Assistant Registrar (Academic)",
+        "action": "Requests approval for the proposed committee."
+      },
+      {
+        "role": "Dean (Academic)",
+        "action": "Approves the committee."
+      }
+    ],
+    "administrativeNote": "After signature by the Dean (Academic), the original form is to be kept in the student's personal file, and a photocopy will be sent to the Supervisor and the department."
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/5-DCFormationForm-2018.pdf"
+}

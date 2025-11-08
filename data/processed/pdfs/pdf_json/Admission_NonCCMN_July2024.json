@@ -1,0 +1,131 @@
+{
+  "filename": "Admission_NonCCMN_July2024.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "office": "Office of the Academic",
+    "contact_email": "nitadeanacademic@gmail.com",
+    "notification_number": "NITA. 5(60-Acad)/CCMN/2024-25/A-169",
+    "date": "25/07/2024",
+    "subject": "Applications for Admission to M.Sc. Programmes against vacant seats after CCMN-2024 for academic session 2024-25",
+    "programmes": [
+      {
+        "name": "M.Sc. in Chemistry",
+        "eligibility": [
+          "B.Sc. in Chemistry",
+          "B.Sc. in Chemistry (Honours)",
+          "B.Sc. in Applied Chemistry (Honours)",
+          "B.Sc. in Applied Chemistry",
+          "B.Sc."
+        ],
+        "special_eligibility": "Chemistry as a subject in all the years/semesters in B.Sc., minimum 3 years duration"
+      },
+      {
+        "name": "M.Sc. in Mathematics & Computing",
+        "eligibility": [
+          "BE/B.Tech in Mathematics and Computing",
+          "B.Sc. Ed",
+          "B.Sc.",
+          "B.Sc. in Chemistry",
+          "B.Sc. in Applied Science",
+          "B. Sc. in Physics",
+          "B.Sc. in Electronics",
+          "B.Sc. in Physical Science",
+          "B.Sc. in Mathematics (Honours)",
+          "B.Sc. in Mathematics",
+          "B.Sc. in Applied Mathematics (Honours)",
+          "B.Sc. in Applied Mathematics",
+          "B.Sc. in Statistics (Honours)",
+          "B.Sc. in Statistics",
+          "B.Sc. in Mathematical Sciences",
+          "B.Sc. in Mathematics and Computer Application",
+          "B.Sc. in Computer Applications",
+          "B.Sc. in Computer Science",
+          "B.Sc. in Information Technology",
+          "B.Sc. in Data Science",
+          "B. Mathematics",
+          "B. Statistics",
+          "B.Sc. in Mathematics and Computing",
+          "B.Sc. in Mathematics and Computer Science",
+          "B.Sc. in Applied Mathematics"
+        ],
+        "special_eligibility": "Mathematics as a subject in all the years/semesters in B.Sc., minimum 3 years duration"
+      },
+      {
+        "name": "M.Sc. in Physics",
+        "eligibility": [
+          "BE/B.Tech in Engineering Physics",
+          "B.Sc. in Physics",
+          "B.Sc. in Physics (Honours)",
+          "B.Sc. in Applied Physics (Honours)",
+          "B.Sc. in Applied Physics",
+          "B.Sc. in Physical Sciences",
+          "B.Sc."
+        ],
+        "special_eligibility": "Physics as a subject in all the years/semesters in B.Sc., minimum 3 years duration"
+      }
+    ],
+    "general_eligibility": {
+      "GEN/GEN-EWS/OBC": "60% marks or 6.5 CGPA on 10-point scale in B.Sc. subject",
+      "SC/ST/PwD": "55% marks or 6.0 CGPA on 10-point scale in B.Sc. subject"
+    },
+    "other_requirements": [
+      "Separate application required for multiple departments with requisite fee",
+      "CGPA-to-percentage conversion by institute/university not considered",
+      "Provisional admission allowed if final result awaited, must submit all documents by 30/09/2024",
+      "Undertaking in prescribed format must be uploaded"
+    ],
+    "instructions_for_applicants": {
+      "online_portal": "https://admission.nita.ac.in/",
+      "browser": "Mozilla Firefox recommended",
+      "applications": "Multiple programs allowed with separate registration and fee",
+      "credentials": "Application ID and password sent to registered email",
+      "payment": {
+        "mode": "Online only",
+        "fee": {
+          "OP/OP-EWS/OBC-NCL": 500,
+          "SC/ST/PwD": 300
+        }
+      },
+      "documents_to_upload": [
+        "10th Mark sheet and Certificate",
+        "Proof of Date of Birth",
+        "12th Mark sheet",
+        "Photo ID",
+        "Degree Mark sheets/Grade cards (all semesters)",
+        "Degree/Provisional certificate",
+        "Category Certificate (if applicable)",
+        "PwD certificate (if applicable)",
+        "Undertaking Annexure-A",
+        "Course completion self-declaration Annexure-B",
+        "Undertaking for appearing candidates Annexure-C"
+      ]
+    },
+    "application_dates": {
+      "start_online_application": "05/07/2024",
+      "last_date_payment": "01/08/2024",
+      "last_date_submission": "02/08/2024",
+      "shortlist_publication": "To be notified",
+      "test/interview_date": "To be notified"
+    },
+    "general_terms_conditions": [
+      "Institute may cancel candidature without reason",
+      "Minimum qualifications do not guarantee test/interview",
+      "Original documents must be produced during verification",
+      "Technical issues email: help.pgadmnnita@gmail.com or nitmisagt@gmail.com",
+      "Regularly check Institute website for updates"
+    ],
+    "authority": {
+      "name": "Gangula Shanmuk",
+      "designation": "Assistant Registrar (Academic)",
+      "date": "24/07/2024"
+    },
+    "copy_to": [
+      "PS to the Director",
+      "Registrar, NIT Agartala",
+      "Dean (AA)",
+      "All HoDs running M.Sc. program",
+      "System administrator"
+    ],
+    "source_url": "https://nita.ac.in/Student_Notifications/PG%20Programme/Admission_NonCCMN_July2024.pdf"
+  }
+}

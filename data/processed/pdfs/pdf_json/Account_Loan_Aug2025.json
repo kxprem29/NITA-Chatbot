@@ -1,0 +1,30 @@
+{
+  "filename": "Account_Loan_Aug2025.txt",
+  "title": "Hostel Fee Payment via Loan Account",
+  "institute": "National Institute of Technology Agartala",
+  "date_of_notice": "2023-08-07",
+  "notice_number": "F.NITA.74(52)/Estt/2023/Vol-II/96",
+  "content": {
+    "message": "All hostellers who have availed or plan to avail loans from banks (transferred via VAN account) must verify the transferred amount at the Chief Warden's Office.",
+    "technical_issue": "Payments through the VAN account have been temporarily suspended.",
+    "instructions": "Students should make their hostel fee payments directly to the NITA Hostel Fund account in Canara Bank and verify the payment at the Chief Warden's Office.",
+    "bank_details": {
+      "account_name": "NITA Hostel Fund",
+      "account_number": "4121132000005",
+      "ifsc": "CNRB0004121",
+      "bank_name": "Canara Bank",
+      "branch": "NIT Agartala"
+    },
+    "verification_office": "Chief Warden's Office, NIT Agartala"
+  },
+  "copy_to": [
+    "PS to the Director",
+    "The Registrar, NITA",
+    "The Dean (SW1) and Dean (SW2)",
+    "Wardens and Supervisors of NITA Hostel",
+    "Faculty In-charge, MIS",
+    "System Administrator to upload on NITA website",
+    "All Notice Boards"
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/Hostel/Account_Loan_Aug2025.pdf"
+}

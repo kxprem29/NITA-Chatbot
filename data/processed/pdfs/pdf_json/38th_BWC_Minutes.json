@@ -1,0 +1,120 @@
+{
+  "meeting": {
+    "title": "38th Building & Works Committee Meeting",
+    "institute": "NIT Agartala",
+    "date": "March 15, 2017",
+    "type": "Building & Works Committee",
+    "time": "6:00 pm",
+    "venue": "Conference Room, NIT Transit House, Kunjaban, Agartala, Tripura",
+    "chairman": "Prof. (Dr.) Gopal Mugeraya",
+    "members_present": [
+      {
+        "name": "Prof. (Dr.) Gopal Mugeraya",
+        "designation": "Director, NIT Agartala",
+        "role": "Chairman, B&WC"
+      },
+      {
+        "name": "Sri Asit Bhaumik",
+        "designation": "TES Gr-I, Chief Engineer / Representative of PWD (Civil), Govt. of Tripura",
+        "role": "Member"
+      },
+      {
+        "name": "Sri Kajal Banik",
+        "designation": "Superintending Engineer (Elect.), Office of the Chief Engineer / Representative of PWD, Govt. of Tripura",
+        "role": "Member"
+      },
+      {
+        "name": "Dr. Ratul Das",
+        "designation": "Dean (P & D), NIT Agartala",
+        "role": "Member"
+      },
+      {
+        "name": "Dr. Richi Prasad Sharma",
+        "designation": "Professor, Civil Engg. Department, NIT Agartala",
+        "role": "Member"
+      },
+      {
+        "name": "Dr. Debasish Bhattacharya",
+        "designation": "Registrar (I/C), NIT Agartala",
+        "role": "Member Secretary"
+      }
+    ],
+    "absentees": [
+      {
+        "name": "Director (NITs)",
+        "organization": "MHRD, Govt. of India",
+        "reason": "Could not attend"
+      }
+    ]
+  },
+  "agenda_items": [
+    {
+      "item_no": "38.1",
+      "title": "Confirmation of the Minutes of the 37th BWC meeting held on 6th September, 2016",
+      "decision": "Minutes confirmed, including modifications under agenda item 35.2(6) to award work to CPWD as deposit work."
+    },
+    {
+      "item_no": "38.2",
+      "title": "Action taken on the decision of the 36th BWC meeting held on 28th June, 2016",
+      "details": [
+        {
+          "agenda": "Confirmation of 35th BWC minutes",
+          "bwc_decision": "Noted the action taken report",
+          "action_taken": "Minutes circulated, actions based on decisions are being taken"
+        },
+        {
+          "agenda": "Upgradation of internal main road (Item 35.2(2))",
+          "bwc_decision": "Ratified action taken for inviting 2nd call of tender",
+          "action_taken": "Tender formalities under process"
+        },
+        {
+          "agenda": "Water treatment plant 2.0 MLD (Item 35.2(10))",
+          "bwc_decision": "Agenda to be placed in next BWC with justification and estimate",
+          "action_taken": "Project considered priority; tender formalities in process; communication with NCC Ltd."
+        },
+        {
+          "agenda": "Electrical materials for Kendriya Vidyalaya (Item 35.9)",
+          "bwc_decision": "Referred to purchase section",
+          "action_taken": "N/A"
+        },
+        {
+          "agenda": "Providing GI exposed pipe instead of PPR pipe (Item 35.12)",
+          "bwc_decision": "Institute to act as per approved BOQ",
+          "action_taken": "N/A"
+        },
+        {
+          "agenda": "Substitute item aluminum frame instead of sal wood frame (Item 35.13)",
+          "bwc_decision": "Institute to act as per approved BOQ",
+          "action_taken": "N/A"
+        }
+      ]
+    },
+    {
+      "item_no": "38.3",
+      "title": "Maintenance and AMC of DG Sets and Lifts",
+      "details": [
+        {
+          "agenda": "Maintenance of 500 KVA DG Sets",
+          "bwc_decision": "Ratified & confirmed action taken",
+          "action_taken": "Work awarded to Rai & Sons Pvt. Ltd., completed"
+        },
+        {
+          "agenda": "Maintenance of Thyssen Krupp Elevators (9 units)",
+          "bwc_decision": "Ratified & confirmed action taken",
+          "action_taken": "Work awarded to Thyssen Krupp Elevator (India) Pvt. Ltd., completed"
+        },
+        {
+          "agenda": "Maintenance of Thyssen Krupp Elevators (8 units)",
+          "bwc_decision": "Ratified & confirmed action taken",
+          "action_taken": "Work awarded to Thyssen Krupp Elevator (India) Pvt. Ltd., completed"
+        }
+      ]
+    },
+    {
+      "item_no": "38.4_to_38.15",
+      "title": "Various civil, electrical and infrastructure works",
+      "details": "Includes repairing transformers, maintenance of quarter complex, auditorium, Substation, renovation of flag stand, construction of security sheds, library roof maintenance, partitions, water supply system, canteen, courtyard improvements, guard room construction, laboratory extensions, seepage protection works, barbed wire fencing, substitute items for boys hostel, AC installations, transformer oil procurement, HT/LT line extensions, supply of electrical appliances, system strengthening, electrification works in Medical Unit, Workshop, Procurement of batteries, seminar hall systems, supply of electrical materials, LED fittings, external electrification in Main/Auxiliary Gate, etc. Each work has a BWC decision (approval, ratification, or referral to purchase section) and corresponding action taken (tendering process, awarding work, or work completion)."
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/BWC_Minutes/38th_BWC_Minutes.pdf"
+}

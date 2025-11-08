@@ -1,0 +1,77 @@
+{
+  "MidTermExaminationNotice": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.6/(5-EXAM)/EP/2012-13",
+      "issueDate": "13.09.2024"
+    },
+    "examinationDetails": {
+      "title": "ODD SEMESTER MID-TERM EXAMINATION - 2024",
+      "program": "B.Sc.- B.Ed (ITEP)",
+      "semester": "3rd SEMESTER",
+      "startDate": "23.09.2024",
+      "venue": "ROOM NO. MB 102, NIT AGARTALA",
+      "time": "11:30 AM TO 12:30 PM"
+    },
+    "schedule": [
+      {
+        "date": "25.09.2024",
+        "subjects": [
+          {
+            "name": "PEDAGOGY I",
+            "courseCode": "UED093B02"
+          },
+          {
+            "name": "MATHEMATICS MAJOR IV (INTRODUCTION TO DIFFERENTIAL EQUATIONS)",
+            "courseCode": "UED093C01"
+          },
+          {
+            "name": "PHYSICS MAJOR IV (CLASSICAL MECHANICS & RELATIVITY)",
+            "courseCode": "UED093C04"
+          },
+          {
+            "name": "CHEMISTRY MAJOR IV (HYDROCARBONS AND STEREOCHEMISTRY)",
+            "courseCode": "UED093C07"
+          }
+        ]
+      },
+      {
+        "date": "26.09.2024",
+        "subjects": [
+          {
+            "name": "MATHEMATICS MAJOR V (REAL & COMPLEX ANALYSIS)",
+            "courseCode": "UED093C02"
+          },
+          {
+            "name": "PHYSICS MAJOR V (ELECTROMAGNETISM)",
+            "courseCode": "UED093C05"
+          },
+          {
+            "name": "CHEMISTRY MAJOR V (MAIN GROUP ELEMENTS & CHEMICAL EQUILIBRIUM)",
+            "courseCode": "UED093C08"
+          }
+        ]
+      },
+      {
+        "date": "27.09.2024",
+        "subjects": [
+          {
+            "name": "MATHEMATICS MAJOR VI (PROGRAMMING IN C & MATLAB)",
+            "courseCode": "UED093C03"
+          },
+          {
+            "name": "PHYSICS MAJOR VI (OPTICS)",
+            "courseCode": "UED093C06"
+          }
+        ]
+      }
+    ],
+    "signedBy": "Dean (Academic Affairs)",
+    "distributionList": [
+      "P.S. to the Director",
+      "All HODs",
+      "System Administrator",
+      "Notice Board"
+    ]
+  },
+  "source_url": "https://nita.ac.in/uploaded_files/3rdSem_MidTerm_BScBEd_Sept2024.pdf"
+}

@@ -1,0 +1,49 @@
+{
+  "DoctoralCommitteeChangeForm": {
+    "formInfo": {
+      "title": "CHANGE IN DOCTORAL COMMITTEE (OTHER THAN SUPERVISOR(S))",
+      "formNumber": "NITA/ACAD/PhD/6 (A)"
+    },
+    "scholarDetailsFields": [
+      "Department",
+      "Name of the Student",
+      "Enrollment No.",
+      "Date of Enrollment"
+    ],
+    "formSections": [
+      {
+        "title": "EXISTING COMMITTEE MEMBERS",
+        "columns": [
+          "Sl. No.",
+          "Name",
+          "Department",
+          "Role in Doctoral Committee"
+        ]
+      },
+      {
+        "title": "The following Doctoral Committee members from the above list are being replaced:",
+        "columns": [
+          "Sl. No.",
+          "Name",
+          "Department",
+          "Reason for Change"
+        ]
+      },
+      {
+        "title": "The new members of the Doctoral Committee are the following:",
+        "columns": [
+          "Sl. No.",
+          "Name",
+          "Department",
+          "Signature"
+        ]
+      }
+    ],
+    "approvalSignatures": [
+      "Chairman, DPPC",
+      "Dean (Academic)"
+    ],
+    "administrativeNote": "After the Dean (Academic) signs, the original form should be kept in the student's personal file, and a photocopy should be given to the Supervisor and the department."
+  },
+  "source_url": "https://nita.ac.in/DownloadCorner/PhD%20Forms/6A-ChangeDCForm-2018.pdf"
+}

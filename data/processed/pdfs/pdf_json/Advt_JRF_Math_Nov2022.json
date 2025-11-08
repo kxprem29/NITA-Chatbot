@@ -1,0 +1,44 @@
+{
+  "filename": "Advt_JRF_Math_Nov2022.txt",
+  "content": {
+    "institute": "National Institute of Technology Agartala",
+    "department": "Mathematics",
+    "location": "Barjala, Jirania, West Tripura, PIN - 799046",
+    "ref_no": "ENITA/LE(SE-MATH)/NBHM/PBI/202 / 00",
+    "date": "22-11-2022",
+    "post": {
+      "name": "Junior Research Fellow (JRF)",
+      "project_title": "Mathematical studies by means of numerical simulation of some interacting populations with ecological behavior",
+      "funding_agency": "NBHM, Dept. of Atomic Energy, Govt. of India",
+      "principal_investigator": "Dr. Paritosh Bhattacharya",
+      "monthly_remuneration": "Rs. 31,000/- (Excluding HRA, if applicable)",
+      "tenure": "Contractual, initial 1 year, extendable annually up to 3 years or project period, whichever is earlier",
+      "eligibility_criteria": [
+        "M.Sc. or equivalent degree in Mathematics with consistently good record (minimum 55% marks or equivalent CGPA)",
+        "NET/GATE/NBHM qualified in relevant field"
+      ],
+      "desirable_qualifications": [
+        "Experience in Mathematical Biology / Mathematical Modelling / Sensitivity Analysis",
+        "Knowledge in C/C++/Python/MATLAB/Fortran"
+      ],
+      "application_process": {
+        "email_to": "Dr. Paritosh Bhattacharya, pari76@rediffmail.com",
+        "subject_line": "NBHM JRF Position - Name of the candidate",
+        "attachments_required": ["CV", "Self-attested certificates"],
+        "application_deadline": "30-12-2022"
+      },
+      "interview": {
+        "date": "10-01-2023",
+        "mode": "Offline / Walk-in",
+        "shortlisting": "Only shortlisted candidates will be intimated via email"
+      },
+      "terms_conditions": [
+        "Position purely contractual",
+        "Salary may vary depending upon qualification and performance",
+        "No TA/DA for attending interview"
+      ]
+    },
+    "issued_by": "Dean (R&C), NIT Agartala",
+    "source_url": "https://nita.ac.in/Notice/Advt_JRF_Math_Nov2022.pdf"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "PhdShortlistMemo": {
+    "documentInfo": {
+      "title": "MEMO",
+      "subject": "Names of shortlisted (2nd list) candidates provisionally selected for written test for admission in Ph.D. program."
+    },
+    "academicSession": "July-December 2024",
+    "referenceDocuments": [
+      "Memo F.No.S.(6-Acad)/Ph.D./Admn/2024/July/A-1671 dated 03/06/2024",
+      "Notification dated 26/04/2024 for eligibility criteria"
+    ],
+    "selectionProcess": {
+      "event": "Written test and/or Interview",
+      "date": "19/06/2024",
+      "mode": "Physical",
+      "location": "Respective department at NIT Agartala",
+      "reportingTime": "9:30 am"
+    },
+    "shortlistedCandidates": [
+      {
+        "slNo": 1,
+        "applicationId": "NAGTPTGTNU",
+        "name": "JEBOLEENA HAIGABORTY",
+        "category": "OP",
+        "department": "Electrical Engineering"
+      },
+      {
+        "slNo": 2,
+        "applicationId": "NAGJUJGLOJ",
+        "name": "UJWHAR DEBBARMA",
+        "category": "ST",
+        "department": "Electrical Engineering"
+      },
+      {
+        "slNo": 3,
+        "applicationId": "NAGTFBSKCI",
+        "name": "LAULAMI DAS",
+        "category": "SC",
+        "department": "Electrical Engineering"
+      },
+      {
+        "slNo": 4,
+        "applicationId": "NAGTFTALOM",
+        "name": "KAUSHIK DAS",
+        "category": "SC",
+        "department": "Electrical Engineering"
+      },
+      {
+        "slNo": 5,
+        "applicationId": "NAGTEISYAM",
+        "name": "NITYANANDA BISWAS",
+        "category": "SC",
+        "department": "Electrical Engineering"
+      },
+      {
+        "slNo": 6,
+        "applicationId": "NAGT4PZEWY",
+        "name": "LAULAMI DAS",
+        "category": "SC",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 7,
+        "applicationId": "NAGTNL8ACJ",
+        "name": "PRIYANGA K",
+        "category": "OBC-NCL",
+        "department": "Chemical Engineering"
+      },
+      {
+        "slNo": 8,
+        "applicationId": "NAGTIH9PWY",
+        "name": "SWARNALI SARMA",
+        "category": "OP",
+        "department": "Chemistry"
+      },
+      {
+        "slNo": 9,
+        "applicationId": "NAGT2ZD1TG",
+        "name": "MD SULTAN HUSSAIN",
+        "category": "OP",
+        "department": "Civil Engineering"
+      },
+      {
+        "slNo": 10,
+        "applicationId": "NAGTMCTTOD",
+        "name": "LIPIKA DEBNATH",
+        "category": "OBC-NCL",
+        "department": "Civil Engineering"
+      },
+      {
+        "slNo": 11,
+        "applicationId": "NAGT2RAVSJ",
+        "name": "ANOY PAUL",
+        "category": "OP",
+        "department": "Civil Engineering"
+      },
+      {
+        "slNo": 12,
+        "applicationId": "NAGTLZKG6T",
+        "name": "DEBASHRI DEBNATH",
+        "category": "OBC-NCL",
+        "department": "Computer Sc. & Engineering"
+      },
+      {
+        "slNo": 13,
+        "applicationId": "NAGT9BRQVJ",
+        "name": "MRONGMENLA DZUKUM",
+        "category": "ST",
+        "department": "Electronics & Communication Engineering"
+      },
+      {
+        "slNo": 14,
+        "applicationId": "NAGTWVOPCQ",
+        "name": "DEBATOSH CHAKRABORTY",
+        "category": "OP",
+        "department": "Mathematics"
+      },
+      {
+        "slNo": 15,
+        "applicationId": "NAGTIFSPTE",
+        "name": "HIMANSHU GANGWAR",
+        "category": "OBC-NCL",
+        "department": "Mathematics"
+      },
+      {
+        "slNo": 16,
+        "applicationId": "NAGTINAMZE",
+        "name": "ADARSH KUMAR",
+        "category": "GEN-EWS",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "slNo": 17,
+        "applicationId": "NAGTZLU6CO",
+        "name": "ANIRBAN SARKAR",
+        "category": "SC",
+        "department": "Mechanical Engineering"
+      },
+      {
+        "slNo": 18,
+        "applicationId": "NAGTHUUUKE",
+        "name": "AYANTA ACHARJEE",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 19,
+        "applicationId": "NAGTHDBVDS",
+        "name": "SUSMITA DEBBARMA",
+        "category": "ST",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 20,
+        "applicationId": "NAGTHOSTJB",
+        "name": "SARTHA ACHARJEE",
+        "category": "OP",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 21,
+        "applicationId": "NAGTZWRDQJ",
+        "name": "TITAM DAS",
+        "category": "SC",
+        "department": "Management, Humanities and Social Sciences"
+      },
+      {
+        "slNo": 22,
+        "applicationId": "NAGTU4L3VB",
+        "name": "RAMAN DEV MAITY",
+        "category": "OBC-NCL",
+        "department": "Physics"
+      },
+      {
+        "slNo": 23,
+        "applicationId": "NAGTLSB6JD",
+        "name": "SUMAN DAKUWA",
+        "category": "SC",
+        "department": "Production Engineering"
+      }
+    ],
+    "instructions": [
+      "All candidates must fulfill eligibility criteria as per the notification dated 26/04/2024.",
+      "Candidates may contact the respective department for further queries on the schedule.",
+      "All other instructions in the memo dated 03/06/2024 will remain unchanged.",
+      "Candidates are instructed to visit the institute website regularly for any further updates."
+    ],
+    "signedBy": "AR (Acad)",
+    "distributionList": [
+      "PS to the Director, NIT Agartala",
+      "Dean (AA)",
+      "Registrar NIT Agartala",
+      "All Heads of the Departments, NIT Agartala, running Ph.D. program",
+      "Asso. Dean (PG)",
+      "System administrator, NIT Agartala",
+      "Security officer in-charge, NIT Agartala"
+    ]
+  },
+  "source_url": "https://nita.ac.in/Student_Notifications/PhD%20Programme/2ndList_PhD_written_June24.pdf"
+}

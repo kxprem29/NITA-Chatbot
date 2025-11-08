@@ -1,0 +1,102 @@
+{
+  "filename": "40thMinutes_FC.json",
+  "title": "40th Finance Committee Minutes",
+  "date": "March 23, 2022",
+  "location": "Virtual Class Room, NIT Agartala, Tripura",
+  "institution": {
+    "name": "National Institute of Technology, Agartala",
+    "address": "West Tripura, Pin: 799046"
+  },
+  "chairperson": {
+    "name": "Prof. (Dr.) H. K. Sharma",
+    "designation": "Director, NIT Agartala",
+    "role": "Chairperson of FC & BoG"
+  },
+  "members_present": [
+    {"name": "Prof. (Dr.) H. K. Sharma", "role": "Chairperson of FC & BoG, Director, NIT Agartala"},
+    {"name": "Mrs. Darshana M. Dabral", "role": "JS & FA, IFD, MoE, Govt. of India", "mode": "online"},
+    {"name": "Prof. (Dr.) A. K. Chakraborty", "role": "Professor, Electrical Engineering Department, NIT Agartala"},
+    {"name": "Dr. (Mrs.) Sumita Deb", "role": "Assistant Professor, Electrical Engineering Department, NIT Agartala"},
+    {"name": "Prof. (Dr.) D. Bhattacharya", "role": "Member Secretary & Registrar (I/C), NIT Agartala"}
+  ],
+  "agenda": [
+    {
+      "item_no": "40.1",
+      "title": "Confirmation of the Minutes of 39th Finance Committee meeting",
+      "decision": "Confirmed"
+    },
+    {
+      "item_no": "40.2",
+      "title": "Action taken on decisions of 39th and 39th-A (Special) Finance Committee meetings",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "40.3",
+      "title": "Reporting on the financial status of the Institute as on March 01, 2022",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "40.4",
+      "title": "Consideration of Physical & Financial statement of ongoing construction works/projects",
+      "decision": "Noted"
+    },
+    {
+      "item_no": "40.5",
+      "title": "Recommendation of the 46th and 47th BWC meetings held on 20.07.2021",
+      "decision": "Noted and accepted"
+    },
+    {
+      "item_no": "40.6",
+      "title": "Annual Accounts of the Institute for FY 2020-21 and Audit Report of C&AG",
+      "decision": "Approved and recommended for Board approval"
+    },
+    {
+      "item_no": "40.7",
+      "title": "Annual Budget estimates for FY 2022-23",
+      "decision": "Accepted and recommended for Board approval"
+    },
+    {
+      "item_no": "40.8",
+      "title": "Signing of MoU between Dept. of Higher Education, MoE, Govt. of India & NIT Agartala for 2022-23",
+      "decision": "Deferred; suggested approval through circulation"
+    },
+    {
+      "item_no": "40.9",
+      "title": "Proposal for construction of Lecture Hall complex under EWS scheme (Rs. 30,60,68,774.00)",
+      "decision": "Accepted and recommended to Board for expenditure sanction as deposit work with CPWD"
+    },
+    {
+      "item_no": "40.10",
+      "title": "Shifting of 33 KV high tension line near Type-IV quarters to tri-junction of playground near Type-II quarters",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "40.11",
+      "title": "Proposal for increasing intake of UG, PG, and Ph.D. students from academic session 2022-23",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "40.12",
+      "title": "Payment of arrears towards Children Education Allowance for 2017-18 and 2018-19",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "40.13",
+      "title": "Enhancement of consolidated salary for retired contractual non-teaching staff",
+      "decision": "Deferred"
+    },
+    {
+      "item_no": "40.14",
+      "title": "Any other item with permission of the chair",
+      "decision": "Not applicable"
+    }
+  ],
+  "closing": {
+    "remarks": "Meeting ended with vote of thanks to the chair",
+    "signatories": [
+      {"name": "Prof. (Dr.) H. K. Sharma", "role": "Chairperson of FC & BoG, Director, NIT Agartala"},
+      {"name": "Prof. (Dr.) D. Bhattacharya", "role": "Member Secretary of Finance Committee, Registrar (I/C), NIT Agartala"}
+    ]
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/40thMinutes_FC.pdf"
+}

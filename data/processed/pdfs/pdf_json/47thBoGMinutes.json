@@ -1,0 +1,64 @@
+{
+  "filename": "47thBoGMinutes.txt",
+  "content": {
+    "title": "Minutes of the 47th Board of Governors Meeting",
+    "date": "June 26, 2019",
+    "location": "Conference Room, NIT Transit House, New Delhi",
+    "institution": "National Institute of Technology Agartala",
+    "members_present": [
+      "Prof. (Dr.) H. K. Sharma, Chairperson of BoG and Director, NIT Agartala",
+      "Smt. Darshna M. Dabral, JS & FA, IFD, MHRD, Govt. of India",
+      "Shri K. Rayan, US, MHRD, Govt. of India (Representative of the Special Secretary / Additional Secretary / Joint Secretary dealing with Technical Education, Dept. of Higher Education, MHRD)",
+      "Prof. Sharad Gokhale, Dean of Infrastructure, Planning & Management, IIT Guwahati (nominee of the Director, IITG)",
+      "Prof. (Dr.) S. C. Saha, Member, Professor, ME Dept., NIT Agartala",
+      "Dr. Subhadeep Bhattacharjee, Member, Assoc. Professor, EE Dept., NIT Agartala",
+      "Dr. Govind Bhargava, Secretary, Registrar, NIT Agartala"
+    ],
+    "members_absent": [
+      "Prof. Sanghamitra Bandyopadhyay, Director, Indian Statistical Institute, Kolkata",
+      "Prof. Vijayalakshmi Ravindranath, IISc, Bangalore",
+      "The Principal Secretary to the Govt. of Tripura, Dept. of Higher Education, Agartala"
+    ],
+    "agenda_items": [
+      {"item_no": "47.1", "description": "Confirmation of the Minutes of the 46th Meeting of the Board of Governors, NIT Agartala", "decision": "Confirmed"},
+      {"item_no": "47.2", "description": "Actions taken on decisions of the 45th BOG meeting of NIT, Agartala held on November 10, 2018", "decision": "Noted"},
+      {"item_no": "47.3", "description": "Revision of allowances for faculty, Scientific/Design staff, and non-teaching staff as per 7th CPC", "decision": "Approved"},
+      {"item_no": "47.4", "description": "Revision of Pension/family pension of pre-01-01-2016 retired faculty and non-faculty", "decision": "Approved"},
+      {"item_no": "47.5", "description": "External review committee report during 24th-25th January, 2016", "decision": "Noted and approved composition of new committee"},
+      {"item_no": "47.6", "description": "Project Monitoring Unit (PMU) report on NIT Agartala during visits on 28-29th March, 2019", "decision": "To be presented to BWC"},
+      {"item_no": "47.7", "description": "Recommendations of the Oversight Committee for recruitment rules for faculty", "decision": "Adopted and confirmed"},
+      {"item_no": "47.8", "description": "Regularization of absence period of Mr. Swarup Paul, Assistant Professor", "decision": "Approved leave without pay"},
+      {"item_no": "47.9", "description": "Investigation report on incident involving Mr. Dhrubamani Dey, Jr. Assistant", "decision": "Extend probation by one year and issue warning"},
+      {"item_no": "47.10", "description": "Procedure for utilization of Research Operating Grant", "decision": "Withdrawn"},
+      {"item_no": "47.11", "description": "National Pension System (NPS), employer contribution @14%", "decision": "Approved"},
+      {"item_no": "47.12", "description": "Recommendations of the 32nd Finance Committee meeting", "decision": "Approved"},
+      {"item_no": "47.13", "description": "Recommendations of the 41st Building & Works Committee meeting", "decision": "Approved"},
+      {"item_no": "47.14", "description": "Cancellation of recruitment process for Assistant Professor posts (Contract)", "decision": "Ratified"},
+      {"item_no": "47.15", "description": "Revised Recruitment Rules (RRs) for Non-Teaching positions", "decision": "Approved"},
+      {"item_no": "47.16", "description": "Delegation of administrative and financial power to officials", "decision": "Approved with conditions"},
+      {"item_no": "47.17", "description": "Restructuring and distribution of Non-Teaching posts", "decision": "Approved with age relaxation and reservation as per Govt. norms"},
+      {"item_no": "47.18", "description": "Guidelines for calculation of credit points for Faculty recruitment", "decision": "Approved"},
+      {"item_no": "47.19", "description": "MACP for 3 Group-C Non-Teaching employees", "decision": "Ratified"},
+      {"item_no": "47.20", "description": "Additional list of Experts for Faculty recruitment", "decision": "Approved and Director authorized"},
+      {"item_no": "47.21", "description": "Annual Budget proposal for FY 2019-20", "decision": "Approved and confirmed"},
+      {"item_no": "47.22", "description": "Special Repair, Retrofitting, and Upgradation of Library Building", "decision": "Approved"},
+      {"item_no": "47.23", "description": "Special Repair, Retrofitting, and Upgradation of Dhalar Hostel", "decision": "Approved"},
+      {"item_no": "47.24", "description": "Upgradation of 2-storey building beside Knowledge Centre", "decision": "Approved"},
+      {"item_no": "47.25", "description": "Recommendations of the 42nd Building & Works Committee", "decision": "Approved"},
+      {"item_no": "47.26", "description": "International Conference ICCISoT 2019 at NIT Agartala", "decision": "Noted"},
+      {"item_no": "47.27", "description": "Recommendations of the 29th Senate Meeting", "decision": "Approved with effective dates for some items"},
+      {"item_no": "47.28", "description": "Absorption of Dr. Govind Bhargava, Registrar, and counting of past service for Pension/Leave", "decision": "To be reviewed in next meeting"},
+      {"item_no": "47.29", "description": "Any other issue with permission of Chair", "subitems": [
+        {"subitem_no": "47.29.1", "description": "TEQIP-III Procurement Plan and Governance Self Review", "decision": "Approved and ratified"},
+        {"subitem_no": "47.29.2", "description": "Reallocation of Faculty positions, vacancies, and reservation", "decision": "Approved with Govt. norms for reservation"},
+        {"subitem_no": "47.29.3", "description": "Filling posts of Deputy Registrar and Assistant Registrar on deputation", "decision": "Approved"}
+      ]}
+    ],
+    "closure": "The meeting ended with a vote of thanks to the Chair",
+    "signatories": {
+      "Secretary": "Dr. Govind Bhargava, Registrar, NIT Agartala",
+      "Chairperson": "Prof. (Dr.) H. K. Sharma, Director, NIT Agartala"
+    }
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/47thBoGMinutes.pdf"
+}

@@ -1,0 +1,195 @@
+{
+  "EndTermExaminationNotice": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.6/(5-EXAM)/EP/2012-13",
+      "issueDate": "05.12.2024"
+    },
+    "examinationDetails": {
+      "title": "ODD SEMESTER END-TERM EXAMINATION - 2024",
+      "startDate": "13TH DECEMBER 2024",
+      "venue": "NIT AGARTALA",
+      "time": "11:00 AM TO 1:00 PM"
+    },
+    "schedules": [
+      {
+        "program": "B.TECH (Group I) & BT MT DUAL DEGREE",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "13.12.2024",
+            "day": "FRIDAY",
+            "subject": "ENGINEERING MATHEMATICS - I",
+            "courseCodes": [
+              "UMA11B04",
+              "DTMA11B10",
+              "DTMA21B01"
+            ]
+          },
+          {
+            "date": "16.12.2024",
+            "day": "MONDAY",
+            "subject": "ENGINEERING CHEMISTRY - I",
+            "courseCodes": [
+              "UCY11B02",
+              "DTCY11B09",
+              "DTCY21C02"
+            ]
+          },
+          {
+            "date": "17.12.2024",
+            "day": "TUESDAY",
+            "subject": "ENGINEERING PHYSICS - I",
+            "courseCodes": [
+              "UPH11B07",
+              "DTPH11B08",
+              "DTPH21C01"
+            ]
+          },
+          {
+            "date": "19.12.2024",
+            "day": "THURSDAY",
+            "subject": "ENGINEERING MECHANICS / ENGINEERING MECHANICS - I",
+            "courseCodes": [
+              "UME11B05",
+              "DTME11B11",
+              "DTME21C04"
+            ]
+          },
+          {
+            "date": "21.12.2024",
+            "day": "SATURDAY",
+            "subject": "LANGUAGE (PROFESSIONAL COMMUNICATION IN ENGLISH) / COMMUNICATION IN ENGLISH",
+            "courseCodes": [
+              "UHU11B01",
+              "DTHU11B13",
+              "DTHU21C05"
+            ]
+          },
+          {
+            "date": "23.12.2024",
+            "day": "MONDAY",
+            "subject": "BASIC ELECTRICAL ENGINEERING",
+            "courseCodes": [
+              "UEE11B06",
+              "DTEE11B12",
+              "DTEE21C03"
+            ]
+          }
+        ]
+      },
+      {
+        "program": "B.TECH (Group II)",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "13.12.2024",
+            "day": "FRIDAY",
+            "subject": "ENGINEERING MATHEMATICS - I",
+            "courseCodes": [
+              "UMA12B04"
+            ]
+          },
+          {
+            "date": "16.12.2024",
+            "day": "MONDAY",
+            "subject": "ENGINEERING CHEMISTRY - I",
+            "courseCodes": [
+              "UCY12B02"
+            ]
+          },
+          {
+            "date": "17.12.2024",
+            "day": "TUESDAY",
+            "subject": "ENGINEERING PHYSICS - I",
+            "courseCodes": [
+              "UPH11B07"
+            ]
+          },
+          {
+            "date": "19.12.2024",
+            "day": "THURSDAY",
+            "subject": "DISASTER MANAGEMENT",
+            "courseCodes": [
+              "UCE12B05"
+            ]
+          },
+          {
+            "date": "21.12.2024",
+            "day": "SATURDAY",
+            "subject": null,
+            "courseCodes": [
+              "UCS12B01"
+            ]
+          },
+          {
+            "date": "23.12.2024",
+            "day": "MONDAY",
+            "subject": null,
+            "courseCodes": [
+              "UEC12B06"
+            ]
+          }
+        ]
+      },
+      {
+        "program": "BS MS",
+        "semester": "1ST SEMESTER",
+        "schedule": [
+          {
+            "date": "13.12.2024",
+            "day": "FRIDAY",
+            "program_specific": "BS MS DUAL",
+            "subject": "MATHEMATICS - I",
+            "courseCodes": [
+              "DSMA31B01"
+            ]
+          },
+          {
+            "date": "16.12.2024",
+            "day": "MONDAY",
+            "program_specific": "BS MS DUAL",
+            "subject": "ENGINEERING CHEMISTRY - I / CHEMISTRY - I",
+            "courseCodes": [
+              "DSCY21B01"
+            ]
+          },
+          {
+            "date": "17.12.2024",
+            "day": "TUESDAY",
+            "program_specific": "BS MS DUAL",
+            "subject": "ENGINEERING PHYSICS - I / PHYSICS - I",
+            "courseCodes": [
+              "DSPH11B01"
+            ]
+          },
+          {
+            "date": "19.12.2024",
+            "day": "THURSDAY",
+            "program_specific": "BS MS Physics",
+            "subject": "DISASTER MANAGEMENT",
+            "courseCodes": [
+              "DSPH11B06"
+            ]
+          },
+          {
+            "date": "21.12.2024",
+            "day": "SATURDAY",
+            "program_specific": "BS MS DUAL",
+            "subject": "LANGUAGE AND TECHNICAL WRITING",
+            "courseCodes": [
+              "DSHU41B01"
+            ]
+          }
+        ]
+      }
+    ],
+    "distributionList": [
+      "P.S to the Director for kind information of the Director.",
+      "All HOD’s for kind information.",
+      "System administrator for upload in the Institute Website.",
+      "Notice Board."
+    ],
+    "signedBy": "Dean (Academic Affairs)"
+  },
+  "source_url": "https://nita.ac.in/News/1stSem_EndTerm_UG-Dual_Dec2024.pdf"
+}

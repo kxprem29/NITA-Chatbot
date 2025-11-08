@@ -1,0 +1,95 @@
+{
+  "filename": "Admission_UG_Aug2025.txt",
+  "title": "UG & Dual Degree Admission Notice for August 2025",
+  "institute": "National Institute of Technology Agartala",
+  "office": "Office of the Dean Academic",
+  "notification_no": "F.NITA.5/(10-Acad)/CSAB-2025/Adm/2024-25/2810",
+  "date": "24/02/2025",
+  "reporting_period": {
+    "start_date": "20/08/2025",
+    "end_date": "23/08/2025",
+    "time": "9:00 AM to 4:00 PM"
+  },
+  "online_registration": {
+    "portal": "www.mis.nita.ac.in",
+    "instructions": [
+      "Register using your JEE (Main) 2025 application number before physical reporting.",
+      "Fill in all required details in the portal.",
+      "Upload required documents as PDF files (multiple documents in single PDF where applicable)."
+    ],
+    "documents_required": [
+      "Score card of JEE (Main) 2025",
+      "Admit card of Class 10th / Birth certificate for age proof",
+      "Marksheets of 10th and 12th or equivalent",
+      "Provisional Admission Letter issued by JoSAA/CSAB 2025",
+      "Photo ID proof as per Govt. of India guidelines",
+      "SC/ST/OBC-NCL/GEN-EWS certificates if applicable (with state-specific requirements)",
+      "Migration and Conduct/Character certificate from last attended institution",
+      "Physical Disability Certificate (if applicable)",
+      "Undertaking as per Annexure-A",
+      "Annual Family Income Certificate (for tuition fee remission, if applicable, B.Tech courses only)",
+      "Medical Certificate as per JoSAA/CSAB-2025 format",
+      "GAP certificate (if 12th passing year is not current year)"
+    ],
+    "notes": [
+      "Make a single PDF file of original documents in the same sequence.",
+      "Bring photocopy set of all documents in the same sequence.",
+      "Upload a recent formal passport-size photograph.",
+      "Save the generated online provisional registration slip for future reference.",
+      "Complete online registration before physical reporting.",
+      "For queries, contact MIS Section: nitmisagt@mail.nita.ac.in"
+    ]
+  },
+  "physical_reporting": {
+    "instructions": [
+      "Bring the online provisional registration slip.",
+      "Bring all original documents and a set of self-attested photocopies."
+    ]
+  },
+  "important_points": [
+    "Check Institute website for 1st semester fees; fees may change as per Competent Authority.",
+    "Candidates not eligible for tuition fee waiver must pay balance fees.",
+    "No extension for physical reporting will be entertained.",
+    "Classes tentatively start from 25/08/2025.",
+    "Induction Programme schedule will be notified later.",
+    "Anti-Ragging notification is appended (Annexure-IV)."
+  ],
+  "hostel_accommodation": {
+    "instructions": [
+      "Hostel payment and allotment process will be notified on website.",
+      "For hostel queries, contact Chief Warden: chiefwardennita@gmail.com"
+    ]
+  },
+  "refund_policy": [
+    "After last date of withdrawal/cancellation by JoSAA/CSAB-2025, only academic caution money will be refunded.",
+    "If a student abandons the course mid-programme, all semester fees are forfeited; only academic caution money refundable.",
+    "To cancel admission, apply for No-Dues certificate through MIS account; then apply for release of caution money with No-Dues copy."
+  ],
+  "contact_emails": [
+    "nitmisagt@mail.nita.ac.in",
+    "chiefwardennita@gmail.com"
+  ],
+  "issued_by": {
+    "name": "Prof. Rajib Saha",
+    "designation": "Dean (Academic)",
+    "institute": "NIT Agartala"
+  },
+  "approval": "Issued with approval of competent authority",
+  "copies_to": [
+    "PS to the Director",
+    "All Deans, NIT Agartala",
+    "Professor-in-charge, Admission (JoSAA-2025 and CSAB-2025)",
+    "The Registrar, NIT Agartala",
+    "All HODs and W/S",
+    "Asso. Dean (Exam)",
+    "Asso. Dean (UG)",
+    "Chief Warden",
+    "1st year Co-ordinator",
+    "Dy. Registrar (Academic)",
+    "Asstt. Registrar (Academic)",
+    "Faculty-In-Charge, MIS",
+    "Dy. Registrar (F&A)",
+    "System Administrator (to upload notice on website)"
+  ],
+  "source_url": "https://nita.ac.in/Admission_Notice/Admission_UG_Aug2025.pdf"
+}

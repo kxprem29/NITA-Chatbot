@@ -1,0 +1,45 @@
+{
+  "TenderNotice": {
+    "documentInfo": {
+      "fileNumber": "23(282)/NITA/Estate/2022/794",
+      "issueDate": "10/01/2024"
+    },
+    "title": "Notice Inviting e-Tender",
+    "tenderDetails": {
+      "nameOfWork": "Replacement of water pipe line for old type II & Type III quarter at NIT Agartala during III quarter 2023-24.",
+      "tenderNumber": "NITA/Estate/Civil/2023-24/"
+    },
+    "invitedFrom": "Bonafide, resourceful, and experienced contractors/firms/agencies having valid registration.",
+    "biddingProcess": {
+      "portalUrl": "https://eprocure.gov.in",
+      "instructions": "Bidders must submit their bids online through the e-procurement portal. Physical submission of bids is not permitted."
+    },
+    "paymentDetails": {
+      "fees": [
+        {
+          "type": "Earnest Money",
+          "status": "Refundable"
+        },
+        {
+          "type": "Bid Fee/Tender Cost",
+          "status": "Non-Refundable"
+        }
+      ],
+      "paymentMethod": "To be paid/transferred separately to the Institute’s account. The details of the account are given in the tender document."
+    },
+    "rejectionClause": "Bids submitted without fulfilling the eligibility criteria or without depositing the required Earnest Money and Bid Fee will be summarily rejected.",
+    "contactInfo": {
+      "section": "Estate Section (Civil)",
+      "email": "estatesectioncivil@gmail.com"
+    },
+    "additionalInfo": {
+      "corrigendumNote": "Any subsequent corrigendum will be available on the website only.",
+      "websites": [
+        "http://www.nita.ac.in",
+        "https://eprocure.gov.in"
+      ]
+    },
+    "signedBy": "Registrar, NIT Agartala"
+  },
+  "source_url": "https://nita.ac.in/TenderFile/8NITPipeLineTiiIII.pdf"
+}

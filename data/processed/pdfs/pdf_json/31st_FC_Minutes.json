@@ -1,0 +1,137 @@
+{
+  "filename": "31st_FC_Minutes.txt",
+  "committee": "Finance Committee",
+  "meeting_number": 31,
+  "date": "2018-08-09",
+  "time": "10:30",
+  "venue": "Conference Room, NIT Transit House, New Delhi",
+  "institution": {
+    "name": "National Institute of Technology Agartala",
+    "location": "West Tripura, Pin: 799046"
+  },
+  "chairperson": {
+    "name": "Prof. H. K. Sharma",
+    "designation": "Chairperson, Finance Committee & Director, NIT Agartala"
+  },
+  "members_present": [
+    {
+      "name": "Mr. D.K. Singh",
+      "designation": "Under Secretary (Fin), MHRD, Govt. of India (Rep. of Joint Secretary & Financial Advisor, IFD, MHRD)"
+    },
+    {
+      "name": "Mr. K. Rajan",
+      "designation": "Under Secretary, MHRD, Govt. of India"
+    },
+    {
+      "name": "Prof. S. C. Saha",
+      "designation": "Member, Professor, NIT Agartala"
+    },
+    {
+      "name": "Dr. Subhadeep Bhattacharjee",
+      "designation": "Member, Assistant Professor, NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "designation": "Member Secretary, Finance Committee & Registrar, NIT Agartala"
+    }
+  ],
+  "agenda": [
+    {
+      "item_no": "31.1",
+      "description": "Confirmation of the Minutes of the 30th Finance Committee meeting.",
+      "decision": "Minutes confirmed."
+    },
+    {
+      "item_no": "31.2",
+      "description": "Action taken on decisions of the 28th and 29th Finance Committee meetings.",
+      "decision": "Actions noted."
+    },
+    {
+      "item_no": "31.3",
+      "description": "Consider recommendations of 38th & 39th BWC meetings.",
+      "decision": "Recommendations accepted; Item 39.13 may be dropped or completed from IRG; MHRD guidelines to be followed for new projects."
+    },
+    {
+      "item_no": "31.4",
+      "description": "Annual Budget proposal for 2018-19.",
+      "decision": "Budget accepted and recommended to BoG."
+    },
+    {
+      "item_no": "31.5",
+      "description": "Financial status of the Institute as on June 30, 2018.",
+      "decision": "Information received."
+    },
+    {
+      "item_no": "31.6",
+      "description": "Status of TEQIP-III Project.",
+      "decision": "Status noted."
+    },
+    {
+      "item_no": "31.7",
+      "description": "Physical & Financial Statement of ongoing construction works/projects.",
+      "decision": "Statements noted."
+    },
+    {
+      "item_no": "31.8",
+      "description": "Creation of Corpus Fund.",
+      "decision": "Approved with modifications: payment amounts for students, interest from hostel charges to IRG, no loans to staff, usage in emergent situations, separate IRG account."
+    },
+    {
+      "item_no": "31.9",
+      "description": "Fee structure and hostel user charges for 2019-20 academic year.",
+      "decision": "Approved; Director authorized to review future charges."
+    },
+    {
+      "item_no": "31.10",
+      "description": "Research Operating Grant.",
+      "decision": "Proposal accepted and recommended to BoG."
+    },
+    {
+      "item_no": "31.11",
+      "description": "Water treatment plant, overhead reservoirs, and associated works (~Rs. 1500 lakhs).",
+      "decision": "Information received; recommended to BoG."
+    },
+    {
+      "item_no": "31.12",
+      "description": "Agenda Item 30.3: TDS liabilities for FY 2007-08 to 2010-11.",
+      "decision": "Committee constituted; TDS matter to be presented at next FC meeting with report."
+    },
+    {
+      "item_no": "31.13",
+      "description": "Commencement of ‘Professor A. K. Misra Memorial Lecture’ and fund.",
+      "decision": "Proposal accepted and recommended to BoG."
+    },
+    {
+      "item_no": "31.14",
+      "description": "Procurement of Desktop PCs and Printers through GEM portal.",
+      "decision": "Administrative and financial approval granted; old computers to be disposed per rules."
+    },
+    {
+      "item_no": "31.15",
+      "description": "Operation of Mechanical Engineering Department Professional Promotion Fund (MEDPPF).",
+      "decision": "Accepted; no Institute funds to be provided; account to be part of Institute Annual Accounts."
+    },
+    {
+      "item_no": "31.16",
+      "description": "Information on new PAN of NIT Agartala.",
+      "decision": "Information received."
+    },
+    {
+      "item_no": "31.17",
+      "description": "Any other items with permission of Chair.",
+      "sub_items": [
+        {
+          "item_no": "31.17.1",
+          "description": "Annual Accounts for FY 2017-18.",
+          "decision": "Chairperson's decision ratified and recommended to BoG."
+        },
+        {
+          "item_no": "31.17.2",
+          "description": "Pending audit points.",
+          "decision": "Pending audit points to be reported at next FC meeting."
+        }
+      ]
+    }
+  ],
+  "source_url": "https://nita.ac.in/Minutes_Others/FC_Minutes/31st_FC_Minutes.pdf"
+}

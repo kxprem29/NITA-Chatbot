@@ -1,0 +1,55 @@
+{
+  "filename": "Advt_JRF_Electrical_May2023.txt",
+  "content": {
+    "institute": "National Institute of Technology, Agartala",
+    "location": "Barjala, Jirania, West Tripura, Pin - 799046",
+    "ref_no": "F.NITA/12(32-EE)/SERB Project/CRG/JRF Recruitment/2023",
+    "post": {
+      "name": "Junior Research Fellow (JRF)",
+      "project_title": "Real time non-contact pulse vibration measurement system of radial artery for vata, pitta, and kapha diagnosis using CMOS camera",
+      "funding_agency": "SERB, Government of India",
+      "contract_type": "Contractual, temporary",
+      "salary": "Rs. 31,000 + HRA for the first two years (as per SERB norms)",
+      "no_of_posts": 1,
+      "essential_qualification": [
+        "Post-graduate Degree (ME/M.Tech) / Graduate (B.E/B.Tech) in Electrical Engineering / Electronics Engineering / Electronics & Instrumentation Engineering / Biomedical Engineering / Electrical and Electronics Engineering / Instrumentation Engineering",
+        "Selection through national eligibility tests (CSIR-UGC NET including lectureship and GATE) or national level examinations conducted by Central Govt. Departments and agencies (DST, DBT, DAE, DOS, DRDO, MHRD, ICAR, ICMR, IIT, IISC, IISER, etc.)"
+      ],
+      "desirable_qualification": [
+        "Knowledge in image processing and experimental fields related to the project"
+      ],
+      "interview": {
+        "date": "22-05-2023",
+        "time": "11:00 AM",
+        "mode": "Hybrid (In-person at Dept. of Electrical Engineering, NIT Agartala and online)",
+        "instructions": "Candidates should appear with duly filled application form, original and attested copies of certificates, testimonials, bio-data, and 2 passport-size photographs."
+      },
+      "terms_conditions": [
+        "Position purely temporary; continuation subject to performance and annual review",
+        "Initial contract duration: 1 year; can be extended yearly up to 3 years",
+        "No TA/DA for attending the interview",
+        "Interested candidates may send filled applications in advance to Prof. Ardhendu Saha, PI via email: arsagtwave@gmail.com",
+        "Selected candidates may pursue PhD as per institute rules"
+      ],
+      "contact": {
+        "PI": "Prof. Ardhendu Saha",
+        "email": "arsagtwave@gmail.com",
+        "mobile": "09436540988"
+      }
+    },
+    "application_form_fields": [
+      "Name of Candidate (in Block letters)",
+      "Date of Birth",
+      "Father's Name",
+      "Mailing Address",
+      "Educational Qualifications (Exam, Board/Institute/University, Year, %Marks/CGPA, Grade/Division)",
+      "NET Qualified (Yes/No)",
+      "GATE Qualified (Yes/No)",
+      "Title of Project in M.Tech/M.Sc/B.Tech",
+      "Research Experience (attach certificates)"
+    ],
+    "undertaking": "Candidate declares that the information provided is correct and understands that this is a contractual assignment on a purely temporary basis.",
+    "issued_by": "Dean (Research and Consultancy), NIT Agartala",
+    "source_url": "https://nita.ac.in/Notice/Advt_JRF_Electrical_May2023.pdf"
+  }
+}

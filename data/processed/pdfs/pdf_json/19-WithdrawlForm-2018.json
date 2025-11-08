@@ -1,0 +1,101 @@
+{
+  "WithdrawalForm": {
+    "FormNumber": "NITA/ACAD/PhD/19",
+    "StudentDetails": {
+      "Name": null,
+      "RollNo": null,
+      "DepartmentCentre": null,
+      "Category": null,
+      "HallNo": null,
+      "DateOfJoining": null,
+      "DateOfRegistrationSeminar": null,
+      "ProposedDateOfLeaving": null,
+      "PeriodOfStayCompleted": {
+        "Years": null,
+        "Months": null,
+        "Days": null
+      },
+      "ReasonForWithdrawal": null,
+      "CourseWorkAssigned": null,
+      "CreditsCompleted": null,
+      "HSSSubjectOrLanguageCourse": null,
+      "FullAddressForCorrespondence": null,
+      "EmailOrTelephone": null
+    },
+    "Signatures": {
+      "ResearchScholar": null
+    },
+    "Recommendation": {
+      "Conditions": [
+        "Completed the prescribed course work",
+        "Fulfilled the minimum residential requirement",
+        "Adequate research facilities available in parent organization/institute",
+        "Registered on completion of course work and seminar"
+      ],
+      "DoctoralCommittee": [
+        {
+          "SlNo": 1,
+          "Name": null,
+          "Department": null,
+          "Role": "Chairman",
+          "Signature": null
+        },
+        {
+          "SlNo": 2,
+          "Name": null,
+          "Department": null,
+          "Role": "Member",
+          "Signature": null
+        },
+        {
+          "SlNo": 3,
+          "Name": null,
+          "Department": null,
+          "Role": "Member",
+          "Signature": null
+        },
+        {
+          "SlNo": 4,
+          "Name": null,
+          "Department": null,
+          "Role": "Supervisor",
+          "Signature": null
+        },
+        {
+          "SlNo": 5,
+          "Name": null,
+          "Department": null,
+          "Role": "Supervisor",
+          "Signature": null
+        }
+      ],
+      "ChairmanDPPC": null
+    },
+    "ClearanceStatus": [
+      {
+        "Item": "Departmental dues cleared",
+        "Status": null,
+        "Signature": "HOD"
+      },
+      {
+        "Item": "Mess dues cleared up to date",
+        "Status": null,
+        "Signature": "Warden/Estate Officer"
+      },
+      {
+        "Item": "Institute dues cleared up to date",
+        "Status": null,
+        "Signature": "AR Finance"
+      },
+      {
+        "Item": "Library Books/Cards returned",
+        "Status": null,
+        "Signature": "Librarian"
+      }
+    ],
+    "Approval": {
+      "DeanAcademic": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/19-WithdrawlForm-2018.pdf"
+}

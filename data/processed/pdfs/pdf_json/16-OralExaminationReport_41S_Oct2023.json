@@ -1,0 +1,69 @@
+{
+  "OralExaminationReportForm": {
+    "FormNumber": "NITA/ACAD/Ph.D./16",
+    "ThesisDetails": {
+      "Title": null,
+      "StudentName": null,
+      "EnrollmentNo": null,
+      "DateOfOralExam": null,
+      "Department": null
+    },
+    "Recommendations": {
+      "Option1": "The thesis in its present form is recommended for the award of the Ph.D. degree.",
+      "Option2": "The thesis is recommended for the award of the Ph.D. degree. However, suggestions for improving the thesis, based on the discussions during the oral examination and detailed in a separate sheet, should be incorporated into the thesis.",
+      "Option3": "The thesis is not acceptable for the award of the Ph.D. degree.",
+      "SelectedOption": null
+    },
+    "OralExaminationBoard": [
+      {
+        "Role": "Chairman (Chairman of DC)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (External Examiner)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member (Thesis Sup/Co-Sup/Jt-Sup)",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "Role": "Member",
+        "Name": null,
+        "Designation": null,
+        "Department": null,
+        "Signature": null
+      }
+    ],
+    "Approvals": {
+      "ChairmanDPPC": null,
+      "DealingAssistantDRAcademic": null,
+      "DeanAcademicAffairs": null,
+      "ChairmanSenate": null
+    }
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/16-OralExaminationReport_41S_Oct2023.pdf"
+}

@@ -1,0 +1,129 @@
+{
+  "filename": "Admission_Hostel_UG1styr_2023.txt",
+  "title": "Hostel Admission Notice for First-Year UG/Dual Degree Students",
+  "institute": "National Institute of Technology Agartala",
+  "date": "09.08.2023",
+  "session": "2023-24 Odd Semester",
+  "notice": {
+    "summary": "All first-year UG and Dual Degree students who wish to stay in the hostel must deposit Hostel Fee and Mess Charges through the MIS online payment mode after physical verification.",
+    "details": {
+      "login_info": "Login ID and password are available in the Provisional Admission letter.",
+      "tables": {
+        "hostel_fee": [
+          {
+            "program": "UG",
+            "year": "First",
+            "gender": "Boys",
+            "eligibility": "All",
+            "hostel": "RNT",
+            "initial_fee": 7000,
+            "hostel_fee": 6200,
+            "mess_advance": 20000,
+            "occupancy": "Double",
+            "refundable": 5000
+          },
+          {
+            "program": "UG (B.Tech and dual degrees BSMS and BTMT)",
+            "year": "First",
+            "gender": "Girls",
+            "eligibility": "Limited",
+            "hostel": "Gargi",
+            "initial_fee": 7000,
+            "hostel_fee": 6200,
+            "mess_advance": 20000,
+            "occupancy": "Double",
+            "refundable": 5000,
+            "priority": "Girls from outside Tripura get priority"
+          }
+        ],
+        "hostel_wardens_supervisors": [
+          {
+            "hostel_name": "RNT: block-1 & 2 (1st Year UG)",
+            "warden": ["Dr. Muthusiva Ramapandian-7896172343", "Dr. Debanjan Acharyya-8981720578"],
+            "supervisor": ["Mr. Satyajit Das-8132085431", "Mr. Rabindra Das-9436557455"]
+          },
+          {
+            "hostel_name": "Gargi Hostel (Girls Hostel)",
+            "warden": ["Dr. Shikha Maurya-9425450673", "Mrs. Rumita Saha-7308354700", "Dr. Ranjita Das-8787779140"],
+            "supervisor": ["Mrs. Mahuya Biswas-9774607090"]
+          }
+        ]
+      },
+      "instructions": [
+        "Pay the one-time hostel initial fee (₹7000) via MIS account.",
+        "Pay the hostel fee (₹6200) via MIS account.",
+        "Proceed to room allotment in MIS.",
+        "Submit receipts and filled hostel application form at hostel office.",
+        "Contact hostel wardens/supervisors for queries.",
+        "No guest room facility available; make private arrangements.",
+        "Hostel reporting time: 9:00 AM to 6:00 PM.",
+        "International Guest House booking possible via email: chiefwardennita@gmail.com.",
+        "No seat limitations in boys' hostels; all interested students may apply."
+      ]
+    }
+  },
+  "hostel_admission_form": {
+    "form_no": "H1",
+    "fields": [
+      "Student Name, Mobile, Email",
+      "Father's Name, Mobile, Email",
+      "Mother's Name, Mobile, Email",
+      "Date of Birth",
+      "State",
+      "Branch",
+      "Semester",
+      "Student Reg./Enrollment No.",
+      "Permanent Address (PRC for local students)",
+      "Local Guardian Name & Address",
+      "Blood Group"
+    ],
+    "room_allotment_fields": [
+      "Name of allotted Hostel",
+      "Block No",
+      "Room No",
+      "Signature of Hostel Supervisor"
+    ],
+    "payment_procedure": [
+      "Initial Hostel Fee (₹7000) via MIS → Online Payment → SBI EPAY → Common Payment Interface → Select Receipt Type → Hostel Initial Fee → Pay",
+      "Hostel Fee (₹6200) via MIS → Online Payment → SBI EPAY → Common Payment Interface → Select Receipt Type → Hostel Fee → Pay",
+      "Allot hostel room via MIS → Login → Hostel → Transaction → Automatic Room Allotment → Allot Room"
+    ]
+  },
+  "rules_and_regulations": [
+    "Maintain calmness and quietness in hostel and mess.",
+    "Ragging is strictly prohibited; report immediately if victim.",
+    "Keep room/floor/corridor/toilet clean; follow COVID-19 protocols.",
+    "Only personal laptops, mobile phones, and power banks allowed; other electrical appliances prohibited.",
+    "Fighting is punishable.",
+    "Cooking and keeping pets are not allowed.",
+    "Motor vehicle use prohibited inside campus and hostel.",
+    "No smoking, tobacco, or alcohol consumption in hostel/campus.",
+    "No possession of lethal weapons.",
+    "Do not remove mess utensils from the mess.",
+    "Unauthorized accommodation of friends/visitors prohibited.",
+    "Lady guardians allowed to visit Gargi Hostel boarders at specified times.",
+    "Do not paste on walls/furniture.",
+    "Room interchanging/altering not allowed without approval.",
+    "Hostel administration may shift students to maintain discipline.",
+    "Do not write name/roll number on room door.",
+    "Celebrations/parties in hostel prohibited.",
+    "Playing loud music or disturbing others prohibited.",
+    "Cannot be absent at night without permission; special cases require MIS approval.",
+    "Mess leave limited to 8 days/month with approval.",
+    "Entering opposite gender hostels prohibited.",
+    "Roof of hostel/mess usage prohibited.",
+    "Boys outside hostel 10:00 PM to 4:30 AM restricted; girls as per notification.",
+    "Backlog exam students can stay during vacation with prior approval.",
+    "Late entry register maintained; warnings issued for repeated late entries.",
+    "Damage to hostel property is occupant's liability.",
+    "Misuse of water/electricity/facilities will be disciplined.",
+    "Hostel administration not responsible for loss of valuables.",
+    "Joining hostel mess mandatory; individual cooking not permitted.",
+    "Mess rules to be followed strictly.",
+    "Rooms must be available for inspection, maintenance, or disinfecting.",
+    "Proper care of furniture and fittings required.",
+    "Excursion/picnic leave requires prior permission.",
+    "Student undertakes the hostel rules willingly."
+  ],
+  "source_url": "https://nita.ac.in/Student_Notifications/UG%20Programme/Admission_Hostel_UG1styr_2023.pdf"
+}

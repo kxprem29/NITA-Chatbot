@@ -1,0 +1,188 @@
+{
+  "AdmissionMemorandum": {
+    "documentInfo": {
+      "fileNumber": "No. NITA.5/(143-Acad)/ITEP/2022-23",
+      "issueDate": "15/11/2023",
+      "title": "MEMORANDUM"
+    },
+    "subject": "2nd List of Candidates Provisionally Selected for Admission to B.Sc-B.Ed Programme",
+    "programDetails": {
+      "programName": "B.Sc-B.Ed",
+      "academicSession": "July-December 2023"
+    },
+    "selectedCandidates": [
+      {
+        "slNo": 1,
+        "applicationId": "NAGTMGS8BKI",
+        "candidateName": "SWADHIN BISWAL",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 2,
+        "applicationId": "NAGTPUGCIK",
+        "candidateName": "SRUTISMITA SAHOO",
+        "gender": "F",
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 3,
+        "applicationId": "NAGT7GUXMO",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 4,
+        "applicationId": "NAGTEORS2R",
+        "candidateName": "LIPSARANI SABAT",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 5,
+        "applicationId": "NAGTOY3FZH",
+        "candidateName": "SIKHASWARUPA NAYAK",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 6,
+        "applicationId": "NAGTOY3FZH",
+        "candidateName": "EMIM REZA MOLLA",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 7,
+        "applicationId": "NAGTPCSW3X",
+        "candidateName": "KANISHQ BISSOL",
+        "gender": null,
+        "allottedCategory": "SC"
+      },
+      {
+        "slNo": 8,
+        "applicationId": "NAGTA9SZN8",
+        "candidateName": "RIDDHI KESHRI",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 9,
+        "applicationId": "NAGTRQS3QW",
+        "candidateName": "PRITAM PRIYADARSHI",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 10,
+        "applicationId": "NAGTBHSRGC",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "SC"
+      },
+      {
+        "slNo": 11,
+        "applicationId": "NAGTC6NMQK",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "OBC-NCL"
+      },
+      {
+        "slNo": 12,
+        "applicationId": "NAGTDALABN",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "OBC-NCL"
+      },
+      {
+        "slNo": 13,
+        "applicationId": "NAGTHYRFYF",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "OBC-NCL"
+      },
+      {
+        "slNo": 14,
+        "applicationId": "NAGTRCAKYD",
+        "candidateName": null,
+        "gender": null,
+        "allottedCategory": "SC"
+      }
+    ],
+    "admissionProcess": {
+      "onlineRegistration": {
+        "fee": "Rs. 24,325/-",
+        "paymentPeriod": "15/11/2023 to 22/11/2023 (4:00 pm)",
+        "portal": "http://mis.nita.ac.in/",
+        "referenceNotification": "NITA.5/(143-Acad)/ITEP/2022-23/A-1565 dated 11/10/2023"
+      },
+      "physicalReporting": {
+        "dates": "28/11/2023 and 29/11/2023",
+        "time": "10:00 am to 4:00 pm",
+        "location": "Room no. GF-6, Administrative Building-1, NIT Agartala"
+      }
+    },
+    "specialNote": "Candidates at S. No. 11 and 12 must submit an OBC-NCL certificate issued on or after 01/04/2023 during physical reporting.",
+    "waitingList": [
+      {
+        "slNo": 1,
+        "applicationId": "NAGTABM3RM",
+        "candidateName": "ADARSH SRIVASTAV",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 2,
+        "applicationId": "NAQTCHSON",
+        "candidateName": "AMRITIMA RAJ",
+        "gender": "F",
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 3,
+        "applicationId": "NAGENVEKT6P",
+        "candidateName": "SOUVIK MISHRA",
+        "gender": null,
+        "allottedCategory": "OP"
+      },
+      {
+        "slNo": 4,
+        "applicationId": "NAGTKK6DPB",
+        "candidateName": "BAISHNAVI KUMARI",
+        "gender": "F",
+        "allottedCategory": "SC"
+      },
+      {
+        "slNo": 5,
+        "applicationId": "NAGTXEYTPR",
+        "candidateName": "PRABHU PRASAD NATH",
+        "gender": null,
+        "allottedCategory": "OBC-NCL"
+      },
+      {
+        "slNo": 6,
+        "applicationId": "NAGTAVMNL7",
+        "candidateName": "KRUTI KALPANA BEHERA",
+        "gender": null,
+        "allottedCategory": "OBC-NCL"
+      }
+    ],
+    "contactInfo": {
+      "emails": [
+        "help.itepadmnnita@gmail.com",
+        "nitmisagt@gmail.com"
+      ]
+    },
+    "signedBy": "Assistant Registrar (Academic)",
+    "distributionList": [
+      "PS to the Director, NIT Agartala",
+      "The Registrar, NIT Agartala",
+      "Dean (AA)",
+      "Dean (SW)",
+      "The Faculty Incharge, MIS",
+      "System Administrator"
+    ]
+  },
+  "source_url": "https://nita.ac.in/uploaded_files/2ndList_BSc-BEd_Nov2023.pdf"
+}

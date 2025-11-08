@@ -1,0 +1,180 @@
+{
+  "filename": "42nd_Minutes_BoG.txt",
+  "metadata": {
+    "meeting_number": 42,
+    "date": "27-12-2017",
+    "location": "Conference Room, First Floor, C Wing, Shastri Bhavan, New Delhi",
+    "institution": "NIT Agartala"
+  },
+  "members_present": [
+    {
+      "name": "Prof. (Dr.) H. K. Sharma",
+      "role": "Chairperson, BoG, NIT Agartala / Director, NIT Agartala"
+    },
+    {
+      "name": "Sri Anil Kumar",
+      "role": "Director, IFD, Dept. of Higher Education, MHRD, Govt. of India"
+    },
+    {
+      "name": "Shri K. Rajan",
+      "role": "Under Secretary (NITs), MHRD, Govt. of India (Representative of Special Secretary / Additional Secretary / Joint Secretary)"
+    },
+    {
+      "name": "Shri Alok Roy Choudhury",
+      "role": "Chief Engineer, PWD, Govt. of Tripura, Agartala"
+    },
+    {
+      "name": "Dr. Perumal Alagarsamy",
+      "role": "Professor, Dept. of Physics and Representative of Director, IIT Guwahati"
+    },
+    {
+      "name": "Dr. Subhadeep Bhattacharjee",
+      "role": "Assistant Professor, Dept. of Electrical Engg., NIT Agartala"
+    },
+    {
+      "name": "Dr. Govind Bhargava",
+      "role": "Secretary, Registrar, NIT Agartala"
+    }
+  ],
+  "agenda_items": [
+    {
+      "item_no": "42.1",
+      "title": "Confirmation of draft Minutes of the 40th and 41st BoG Meetings",
+      "decision": "Minutes of 40th BoG confirmed with modifications for sitting fees; Minutes of 41st BoG confirmed."
+    },
+    {
+      "item_no": "42.2",
+      "title": "Actions taken on decisions of 39th BoG meeting",
+      "decision": "Board noted various actions; confirmed CS(MA) rules for Medical Benefits to employees."
+    },
+    {
+      "item_no": "42.3",
+      "title": "Implementation of 7th CPC benefits",
+      "decision": "Approved for faculty and non-teaching staff after receiving relevant letter from MHRD."
+    },
+    {
+      "item_no": "42.4",
+      "title": "Ratification of Chairperson's delegation of administrative & financial powers",
+      "decision": "Ratified and emphasized following CVC Guidelines, GFR, Manual of Works, and procurement rules."
+    },
+    {
+      "item_no": "42.5",
+      "title": "Service issues of Shri Sumanta Chakraborti",
+      "sub_items": [
+        {
+          "sub_item_no": "42.5.1",
+          "decision": "No upgradation to Ph.D. due to administrative lapses."
+        },
+        {
+          "sub_item_no": "42.5.2",
+          "decision": "Pay band upgradation not allowed without Master's Degree."
+        },
+        {
+          "sub_item_no": "42.5.3",
+          "decision": "Irregularities in GPF/pension benefits; legal opinion advised; decision confirmed for implementation."
+        }
+      ]
+    },
+    {
+      "item_no": "42.6",
+      "title": "Unauthorized absence of Shri Kishan Choudhury",
+      "decision": "Further reply to be sought; matter to be discussed in next BoG meeting."
+    },
+    {
+      "item_no": "42.7",
+      "title": "Requirement of additional teaching posts",
+      "decision": "293 posts approved; follow-up with MHRD for additional 74 posts; extension of contractual faculty approved with conditions."
+    },
+    {
+      "item_no": "42.8",
+      "title": "Renaming of non-teaching posts and allocation per 200-point roster",
+      "decision": "323 non-teaching posts approved; additional 82 posts to be sanctioned; designation/nomenclature per MHRD rules; roster to be approved by Director."
+    },
+    {
+      "item_no": "42.9",
+      "title": "Introduction of Annual Self-Assessment for PBAS",
+      "decision": "Approved; Director authorized to implement PBAS."
+    },
+    {
+      "item_no": "42.10",
+      "title": "Payment of allowances to faculty deputed under QIP",
+      "decision": "Deferred; Registrar to follow QIP guidelines."
+    },
+    {
+      "item_no": "42.11",
+      "title": "Ratification of faculty foreign visits under CPDA",
+      "decision": "No need for future ratification; Chairman has authority."
+    },
+    {
+      "item_no": "42.12",
+      "title": "Continuance of outsourcing agencies for Security, Housekeeping, Gardening",
+      "decision": "Ratified; open tendering to be completed quickly."
+    },
+    {
+      "item_no": "42.13",
+      "title": "Teachers Association issues",
+      "decision": "Association must provide meeting details, attendance, decisions, and video recording; guidelines of Govt. of India to be followed."
+    },
+    {
+      "item_no": "42.14",
+      "title": "Relaxation of age for contractual non-teaching employees",
+      "decision": "Director to decide quantum of age relaxation as per MHRD letter."
+    },
+    {
+      "item_no": "42.15",
+      "title": "Ratification of faculty nominations to BoG",
+      "decision": "Ratified."
+    },
+    {
+      "item_no": "42.16",
+      "title": "Faculty recruitment process initiated in Sept 2017",
+      "decision": "Guidelines, seat allocation, and reservation roster approved."
+    },
+    {
+      "item_no": "42.17",
+      "title": "Upgradation of AGP for Associate Professors and Professors",
+      "decision": "Approved with effect from 27-12-2017."
+    },
+    {
+      "item_no": "42.18",
+      "title": "Annual increments for faculty without Ph.D.",
+      "decision": "Deferred."
+    },
+    {
+      "item_no": "42.19",
+      "title": "Annual pay enhancement for contractual employees",
+      "decision": "Approved: 15% increase for pay ≤ Rs. 40,000, 5% for pay > Rs. 40,000; future contractual appointments with monthly pay only; reappointment allowed with conditions."
+    },
+    {
+      "item_no": "42.20",
+      "title": "Any other item with Chair's permission",
+      "sub_items": [
+        {
+          "sub_item_no": "42.20.1",
+          "title": "Kokborok Certificate Course",
+          "decision": "Noted; program to continue."
+        },
+        {
+          "sub_item_no": "42.20.2",
+          "title": "TEQIP-III program issues",
+          "decision": "Guidelines approved; Director authorized to change TEQIP Team members."
+        },
+        {
+          "sub_item_no": "42.20.3",
+          "title": "One-time relaxation for AGP upgradation of Assistant Professors without Ph.D.",
+          "decision": "Withdrawn; violates Statutes."
+        },
+        {
+          "sub_item_no": "42.20.4",
+          "title": "Honorarium to BoG/FC members",
+          "decision": "Rs. 5000 approved; confirmed."
+        }
+      ]
+    }
+  ],
+  "signatures": {
+    "Secretary": "Dr. Govind Bhargava",
+    "Chairperson": "Prof. (Dr.) H.K. Sharma"
+  },
+  "source_url": "https://nita.ac.in/Minutes_Others/BOG_Minutes/42nd_Minutes_BoG.pdf"
+}

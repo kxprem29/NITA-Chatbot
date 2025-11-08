@@ -1,0 +1,64 @@
+{
+  "35thBoardOfGovernorsMeeting": {
+    "MeetingNumber": 35,
+    "Date": "November 14, 2015",
+    "Location": "Virtual Class Room, NIT Agartala, Tripura",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Role": "Chairperson, BoG of NIT Agartala"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Role": "Member, Director of NIT, Agartala"
+      },
+      {
+        "Name": "Shri Sanjeev Kumar Sharma",
+        "Role": "Director (NITs), MHRD, Govt. of India (Representative of Special Secretary / Additional Secretary / Joint Secretary dealing with Technical Education, Dept. of Higher Education, MHRD)"
+      },
+      {
+        "Name": "Shri Jagdish Singh",
+        "Role": "Secretary to the Government of Tripura, Dept. of Higher Education, Agartala"
+      },
+      {
+        "Name": "Prof. A. Srinivasan",
+        "Role": "Professor, Dept. of Physics, IIT Guwahati (nominee of the Director, IIT Guwahati)"
+      },
+      {
+        "Name": "Shri Alok Roy Choudhury",
+        "Role": "Addl. Chief Engineer, PWD, Government of Tripura, Agartala"
+      },
+      {
+        "Name": "Prof. (Mrs.) Uma Bhattacharya",
+        "Role": "Member, Professor, Dept. of Computer Science & Technology, IEST, Shibpur, West Bengal"
+      },
+      {
+        "Name": "Prof. Richi Prasad Sharma",
+        "Role": "Member, Professor, Civil Engg. Dept., NIT Agartala and Registrar (i/c)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Role": "Member, Asst. Professor, ME Dept., NIT Agartala"
+      }
+    ],
+    "MembersAbsent": [
+      {
+        "Name": "Financial Advisor, Department of Higher Education, MHRD, Govt. of India"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "35.1",
+        "Description": "To consider the recommendations of the minutes of the 18th Senate meeting of NIT Agartala held on October 09, 2015",
+        "Decision": "Approved"
+      },
+      {
+        "ItemNo": "35.2",
+        "Description": "To consider the recommendations of the minutes of the 19th Senate meeting of NIT Agartala held on November 14, 2015",
+        "Decision": "Approved"
+      }
+    ]
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/BOG_Minutes/35th_BoG_Minutes.pdf"
+}

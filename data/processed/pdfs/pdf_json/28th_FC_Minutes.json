@@ -1,0 +1,122 @@
+{
+  "FinanceCommitteeMinutes": {
+    "MeetingNumber": "28th",
+    "Date": "July 01, 2016",
+    "Institute": "National Institute of Technology Agartala",
+    "Location": "Conference Room, NIT Transit House, New Delhi",
+    "Chairperson": "Prof. Deepak B. Phatak",
+    "MembersPresent": [
+      {
+        "Name": "Prof. Deepak B. Phatak",
+        "Designation": "Chairperson, Finance Committee and BoG"
+      },
+      {
+        "Name": "Prof. Gopal Mugeraya",
+        "Designation": "Member, Director, NIT Agartala"
+      },
+      {
+        "Name": "Mr. Satpal Sharma",
+        "Designation": "Under Secretary, MHRD (Representative of JS & FA, IFD, MHRD)"
+      },
+      {
+        "Name": "Dr. John Deb Barma",
+        "Designation": "Member, Asst. Professor, NIT Agartala"
+      },
+      {
+        "Name": "Dr. Debasish Bhattacharya",
+        "Designation": "Member Secretary, Finance Committee and Registrar (I/C)"
+      }
+    ],
+    "MembersAbsent": [
+      {
+        "Name": "Joint Secretary (dealing with NITs), MHRD",
+        "Reason": "Prior occupation"
+      }
+    ],
+    "AgendaItems": [
+      {
+        "ItemNo": "28.1",
+        "Title": "Confirmation of Minutes of 27th Meeting",
+        "Details": "Minutes of the 27th Finance Committee meeting held on December 05, 2015, were confirmed."
+      },
+      {
+        "ItemNo": "28.2",
+        "Title": "Action taken on 26th Meeting decisions",
+        "Details": [
+          {
+            "Ref": "26.2(ii)",
+            "Topic": "Draft GPF rules",
+            "Decision": "Rules to be vetted by legal experts and forwarded to MHRD for approval."
+          },
+          {
+            "Ref": "26.3",
+            "Topic": "Financial Status for ongoing projects",
+            "Decision": "Institute to request special grants from MHRD for 1500 capacity Boys Hostel (Rs. 80 Cr) and CPWD deposit works (Rs. 4.80 Cr)."
+          }
+        ]
+      },
+      {
+        "ItemNo": "28.3",
+        "Title": "Annual Budget 2016-17",
+        "Details": "Budget perused; priority projects should receive more funds. Special grants requests reiterated."
+      },
+      {
+        "ItemNo": "28.4",
+        "Title": "Financial Status as on June 29, 2016",
+        "Details": "Non-Plan unspent balance Rs. 3.62 Cr; Plan balance Rs. 6.7 Cr. Institute advised to request funds from MHRD to meet requirements."
+      },
+      {
+        "ItemNo": "28.5",
+        "Title": "Status of TEQIP-II Project",
+        "Details": "97.19% of sanctioned amount utilized; achievements include 288 students funded, 5 students attended abroad, 13 patents filed, 19 workshops conducted. NPIU sanctioned an additional Rs. 10 Cr."
+      },
+      {
+        "ItemNo": "28.6",
+        "Title": "Physical and Financial Statement of ongoing projects",
+        "Details": "Some project remarks were incorrect; redrafted statement required. Only Water Treatment Plant, Upgradation of Internal Roads, and Lifts recommended for priority funding; other projects phased based on fund availability."
+      },
+      {
+        "ItemNo": "28.7",
+        "Title": "Outstanding statutory dues up to 31.03.2016",
+        "Details": "No outstanding statutory dues; Committee satisfied."
+      },
+      {
+        "ItemNo": "28.8",
+        "Title": "Proposal for Honorarium to Associate Deans",
+        "Details": "Special allowance Rs. 2500/month recommended, considering actual requirement. NIT Tiruchirappalli reference noted."
+      },
+      {
+        "ItemNo": "28.9",
+        "Title": "Proposal for Honorarium to Registrar (I/C)",
+        "Details": "Proposal not recommended, as FRSR allowances not applicable to autonomous bodies."
+      },
+      {
+        "ItemNo": "28.10",
+        "SubItems": [
+          {
+            "ItemNo": "28.10.1",
+            "Title": "Annual maintenance of all buildings including Hostels & Quarters (2016-17)",
+            "Cost": "Rs. 49.80 lakhs",
+            "Decision": "Recommended to BoG for consideration."
+          },
+          {
+            "ItemNo": "28.10.2",
+            "Title": "EPF facilities to contractual employees",
+            "Decision": "Legal advice to be taken; proposal forwarded to Chairperson for consideration."
+          },
+          {
+            "ItemNo": "28.10.3",
+            "Title": "Minutes of 34th and 35th BWC meetings",
+            "Decision": "Confirmed minutes placed before 28th FC; recommended to BoG for approval."
+          }
+        ]
+      }
+    ],
+    "Closure": "Meeting ended with a vote of thanks to the Chair.",
+    "Signatures": {
+      "MemberSecretary": "Dr. Debasish Bhattacharya",
+      "Chairperson": "Prof. Deepak B. Phatak"
+    }
+  },
+  "SourceURL": "https://nita.ac.in/Minutes_Others/FC_Minutes/28th_FC_Minutes.pdf"
+}

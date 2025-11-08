@@ -1,0 +1,38 @@
+{
+    "fileName": "OfficeOrder_AISHE_Feb25.pdf",
+    "documentDetails": {
+      "instituteName": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
+      "address": "AGARTALA-799046 (TRIPURA)",
+      "documentType": "OFFICE ORDER",
+      "fileNumber": "F.NITA.31(26-DR&C)/AISHE/2024/6063-67.",
+      "date": "14/02/2025"
+    },
+    "order": {
+      "subject": "Assignment of Nodal Officer for All India Survey on Higher Education (AISHE)",
+      "body": "In suppression of earlier letter vide F.NITA.2(493-Estt)/2018/Vol-II/L/1112-20 dated: 17.05.2023, and based on the approval of the Competent Authority, Dr. Awnish Kumar, Assistant Professor, CSE Deptt., NIT Agartala is hereby assigned the duties of Nodal Officer for All India Survey on Higher Education (AISHE) in place of Shri. S. Pradhan, Ex. Asstt. Librarian, NIT Agartala.",
+      "supersedesOrder": "F.NITA.2(493-Estt)/2018/Vol-II/L/1112-20 dated: 17.05.2023",
+      "appointee": {
+        "name": "Dr. Awnish Kumar",
+        "designation": "Assistant Professor",
+        "department": "CSE Deptt.",
+        "newRole": "Nodal Officer for All India Survey on Higher Education (AISHE)",
+        "contact": {
+          "mobile": "+91 7992310101",
+          "email": "awnish.cse@nita.ac.in"
+        }
+      },
+      "replaces": "Shri. S. Pradhan, Ex. Asstt. Librarian, NIT Agartala"
+    },
+    "issuer": {
+      "name": null,
+      "designation": "REGISTRAR"
+    },
+    "distributionList": [
+      "Dr. Awnish Kumar, Asstt. Prof., CSE Deptt.",
+      "The Dy. Director General, Ministry of Education, Department of Higher Education, Shastri Bhavan, New Delhi-110115 for kind information.",
+      "PS to Director for kind information to the Director, NITA.",
+      "All Deans/HoDs/ Sectional Heads, NITA.",
+      "The Chairman (Computing & ICT), NITA for information. He is requested to upload the same in the Institute Website."
+    ],
+    "source_url":"https://www.nita.ac.in/Minutes_Others/Order_Circulars/NodalOfficer_AISHE_Feb25.pdf"
+  }

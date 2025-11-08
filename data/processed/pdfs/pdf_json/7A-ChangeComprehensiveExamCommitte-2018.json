@@ -1,0 +1,90 @@
+{
+  "ChangeComprehensiveExamCommittee": {
+    "Department": null,
+    "StudentDetails": {
+      "Name": null,
+      "EnrollmentNo": null,
+      "DateOfEnrollment": null
+    },
+    "ThesisSupervisors": [
+      null,
+      null
+    ],
+    "DateOfExamination": null,
+    "ExistingCommittee": [
+      {
+        "SlNo": 1,
+        "Name": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "SlNo": 2,
+        "Name": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "SlNo": 3,
+        "Name": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "SlNo": 4,
+        "Name": null,
+        "Department": null,
+        "Signature": null
+      },
+      {
+        "SlNo": 5,
+        "Name": null,
+        "Department": null,
+        "Signature": null
+      }
+    ],
+    "ChangedMembers": [
+      {
+        "SlNo": 1,
+        "Name": null,
+        "Department": null,
+        "ReasonForChange": null
+      },
+      {
+        "SlNo": 2,
+        "Name": null,
+        "Department": null,
+        "ReasonForChange": null
+      },
+      {
+        "SlNo": 3,
+        "Name": null,
+        "Department": null,
+        "ReasonForChange": null
+      }
+    ],
+    "NewMembers": [
+      {
+        "SlNo": 1,
+        "Name": null,
+        "Department": null
+      },
+      {
+        "SlNo": 2,
+        "Name": null,
+        "Department": null
+      },
+      {
+        "SlNo": 3,
+        "Name": null,
+        "Department": null
+      }
+    ],
+    "Signatures": {
+      "ChairmanDPPC": null,
+      "DeanAcademic": null
+    },
+    "Notes": "After signature of the Dean (Academic), the original copy is to be kept in the personal file of the student and photocopies are to be sent to the Supervisor and the Department."
+  },
+  "SourceURL": "https://nita.ac.in/DownloadCorner/PhD%20Forms/7A-ChangeComprehensiveExamCommitte-2018.pdf"
+}

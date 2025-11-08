@@ -1,0 +1,122 @@
+{
+  "filename": "Admission_ITEP_Sept24.txt",
+  "title": "4-Year Integrated Teacher Education Program (ITEP) B.Sc.-B.Ed. Admission 2024-25",
+  "institute": "National Institute of Technology Agartala",
+  "date": "03/09/2024",
+  "program": "B.Sc.-B.Ed. (Secondary level)",
+  "session": "2024-25 Academic Year",
+  "notice": {
+    "summary": "Applications invited for admission to the 4-Year ITEP B.Sc.-B.Ed. program at NIT Agartala based on NCET 2024 conducted by NTA.",
+    "seat_matrix": {
+      "total_intake": 50,
+      "home_state": {
+        "OP": 10,
+        "OP-EWS": 3,
+        "SC": 5,
+        "ST": 6,
+        "ST-PWD": 1,
+        "Total": 25
+      },
+      "other_state": {
+        "OP": 10,
+        "OP-EWS": 2,
+        "OBC-NCL": 7,
+        "SC": 3,
+        "ST": 2,
+        "PWD": 1,
+        "Total": 25
+      }
+    },
+    "eligibility": {
+      "academic": "Class XII (10+2) or equivalent with minimum 50% in best five subjects including Physics, Chemistry, Mathematics",
+      "mandatory_subjects": ["Physics", "Chemistry", "Mathematics"],
+      "score": "Qualified in NCET-2024",
+      "state_of_eligibility": "Based on state from where Class XII (or equivalent) was passed. For Open Schooling candidates, state of the examination center is considered."
+    },
+    "online_application": {
+      "url": "https://admission.nita.ac.in/",
+      "browser": "Mozilla Firefox recommended",
+      "application_fee": {
+        "OP/OBC-NCL/EWS": 1000,
+        "SC/ST/PwD": 500,
+        "mode": "Online payment only",
+        "non_refundable": true
+      },
+      "login_credentials": "Application ID and password sent via email",
+      "submission": "Filled online form generates PDF to be printed and brought on reporting day",
+      "documents_required": [
+        "NCET-2024 score card",
+        "10th standard certificate (DOB and Name proof)",
+        "Class XII mark sheet/grade card and pass certificate",
+        "Proof of State of eligibility (including Open School admit card if applicable)",
+        "Conduct/Character Certificate",
+        "Caste/Category certificate (SC/ST/PwD/OBC-NCL/EWS) if applicable"
+      ],
+      "document_instructions": "All documents must be scanned into a single PDF file. Certificates not in English/Hindi require attested translation."
+    },
+    "selection_procedure": [
+      "Based on total score in NCET-2024",
+      "Tie-breaker: Older candidate gets preference; if still tied, higher marks in Mathematics, Physics, and Chemistry at Higher Secondary level"
+    ],
+    "tentative_schedule": [
+      {
+        "event": "Start of registration, online application, and application fee payment",
+        "date": "03/09/2024"
+      },
+      {
+        "event": "Last date of online payment (non-refundable)",
+        "date": "11/09/2024, 2 pm"
+      },
+      {
+        "event": "Last date for submission of online application",
+        "date": "12/09/2024, 6 pm"
+      },
+      {
+        "event": "Round 1: Publication of list of provisionally selected candidates",
+        "date": "13/09/2024"
+      },
+      {
+        "event": "Acceptance of allotted seat via MIS Portal by payment of semester fee",
+        "date": "13/09/2024 to 17/09/2024, 11:59 pm"
+      },
+      {
+        "event": "Physical Reporting at Institute",
+        "date": "17/09/2024 to 20/09/2024, 9 am to 4 pm"
+      },
+      {
+        "event": "Commencement of Classes",
+        "date": "20/09/2024"
+      },
+      {
+        "event": "Subsequent rounds (if any)",
+        "date": "To be notified"
+      }
+    ],
+    "fee_details": {
+      "first_semester_fee": 21325,
+      "payment_mode": "MIS portal as seat acceptance fee",
+      "note": "Non-payment or incomplete process leads to seat cancellation",
+      "full_structure": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    "general_instructions": [
+      "Contact Chief Warden for hostel/mess accommodation and fees: chiefwardennita@gmail.com",
+      "Preference may be given to candidates who opted for NIT Agartala while applying for NCET 2024",
+      "Produce all original documents on reporting day",
+      "Institute Fee once deposited is non-refundable",
+      "Admission-related issues: help.itepadmnnita@gmail.com, 0381-2348537 (9am-5pm, working days)",
+      "Technical issues for online application/payment: nitmisagt@gmail.com",
+      "Check Institute website regularly for updates"
+    ]
+  },
+  "approvals": {
+    "issued_by": "Prof. Ajib Saha, Dean (Academic)",
+    "copy_to": [
+      "P.S. to Director",
+      "Registrar",
+      "HoD, Education",
+      "FIC, MIS",
+      "System Administrator (for website upload)"
+    ]
+  },
+  "source_url": "https://nita.ac.in/uploaded_files/Admission_ITEP_Sept24.pdf"
+}
