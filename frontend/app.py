@@ -11,9 +11,9 @@ load_dotenv()
 
 # ---- Config ---- #
 JSON_DIR = "data/processed/webpages/json"
-JSON_DIR2 = "data/processed/pdfs/pdf_json"
+JSON_DIR2 = "data/processed/pdfs/json_pdf"
 TEXT_DIR = "data/processed/webpages/txt"
-COLLECTION_NAME = "department_json_embeddings_4"
+COLLECTION_NAME = "test_maybe_final2"
 COLLECTION_NAME_TXT = "txt_embeddings"
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
@@ -73,17 +73,17 @@ def init_vectorstore():
     #     st.stop() # Stop execution if no data is loaded
     # return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
 
-    # json_data = load_json_files(JSON_DIR)
-    # with open("data/processed/webpages/metadata/fac_metadata.json", "r") as f:
-    #     metadata_json = json.loads(f.read())
+    json_data = load_json_files(JSON_DIR)
+    with open("data/processed/webpages/metadata/metadata.json", "r") as f:
+        metadata_json = json.loads(f.read())
     
-    # process_json_data_with_embeddings(json_data, metadata_json, COLLECTION_NAME)
+    process_json_data_with_embeddings(json_data, metadata_json, COLLECTION_NAME)
 
-    # json_data2 = load_json_files(JSON_DIR2)
-    # with open("data/processed/pdfs/metadata.json", "r") as f:
-    #     metadata_json2 = json.loads(f.read())
+    json_data2 = load_json_files(JSON_DIR2)
+    with open("data/processed/pdfs/metadata.json", "r") as f:
+        metadata_json2 = json.loads(f.read())
     
-    # process_json_data_with_embeddings(json_data2, metadata_json2, COLLECTION_NAME)
+    process_json_data_with_embeddings(json_data2, metadata_json2, COLLECTION_NAME)
 
     return get_vstore(COLLECTION_NAME) 
 

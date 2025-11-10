@@ -1,470 +1,453 @@
 {
-    "institution": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
-    "academic_year": "2025-26",
-    "semester": "Odd Semester",
-    "calendar_events": [
-      {
-        "month": "July 2025",
-        "events": [
-          {
-            "start_date": "2025-07-01",
-            "end_date": "2025-07-11",
-            "description": "Registration for Supplementary (Summer), Improvement-2025 Examination."
-          },
-          {
-            "start_date": "2025-07-04",
-            "end_date": "2025-07-04",
-            "description": "Last Date of Submission of grade to the Associate Dean (Exam) for B.Sc-B.ED(2nd sem)."
-          },
-          {
-            "start_date": "2025-07-07",
-            "end_date": "2025-07-07",
-            "description": "Admit and Exam related Notice circulation."
-          },
-          {
-            "start_date": "2025-07-09",
-            "end_date": "2025-07-09",
-            "description": "Result Evaluation Committee Meeting for B.Sc B.Ed."
-          },
-          {
-            "start_date": "2025-07-10",
-            "end_date": "2025-07-10",
-            "description": "Publication of Result for B.Sc-B.ED(2nd sem)."
-          },
-          {
-            "start_date": "2025-07-11",
-            "end_date": "2025-07-11",
-            "description": "Registration for Supplementary (Summer), Improvement-2025 Examination - Ends."
-          },
-          {
-            "date": "2025-07-18",
-            "description": "Summer Vacation (for faculty) Ends."
-          },
-          {
-            "date": "2025-07-25",
-            "description": "Institute Re-open (For Students)."
-          },
-          {
-            "start_date": "2025-07-25",
-            "end_date": "2025-07-28",
-            "description": "Physical Registration - Intermediate Year."
-          },
-          {
-            "start_date": "2025-07-25",
-            "end_date": "2025-07-25",
-            "description": "Summer Vacation (For B.Sc B.Ed 2nd sem. Students)-Ends."
-          },
-          {
-            "start_date": "2025-07-26",
-            "end_date": "2025-08-04",
-            "description": "Supplementary (Summer)-2025, Improvement-2025"
-          }
-        ]
-      },
-      {
-        "month": "August 2025",
-        "events": [
-        
-          {
-            "start_date": "2025-08-08",
-            "end_date": "2025-08-08",
-            "description": "Last date of submission of marks for: Supplementary (Summer), Review of marks (End Term Even-2025), Make-Up Examination(End-Term Even-2025), Improvement-2025."
-          },
-          {
-            "start_date": "2025-08-11",
-            "end_date": "2025-08-11",
-            "description": "Result Evaluation Committee Meeting."
-          },
-          {
-            "start_date": "2025-08-13",
-            "end_date": "2025-08-13",
-            "description": "Publication of result: Supplementary (Summer)."
-          },
-          {
-            "start_date": "2025-08-15",
-            "end_date": "2025-08-15",
-            "description": "Independence Day."
-          },
-          {
-            "start_date": "2025-08-18",
-            "end_date": "2025-08-18",
-            "description": "Commencement of 1st semester classes (UG & PG) (tentative)."
-          },
-          {
-            "start_date": "2025-08-18",
-            "end_date": "2025-08-18",
-            "description": "Publication of results for: Review of marks (End-Term Even-2025), Make-Up Examination (End-Term Even-2025), Improvement-2025."
-          },
-          {
-            "start_date": "2025-08-27",
-            "end_date": "2025-08-27",
-            "description": "Ganesh Chaturthi (Restricted holiday will be observed as closed holiday)."
-          },
-          {
-            "start_date": "2025-08-25",
-            "end_date": "2025-08-29",
-            "description": "Class Test/Quiz week (Intermediate-UG, Dual Degree & PG)."
-          }
-        ]
-      },
-      {
-        "month": "September 2025",
-        "events": [
-          {
-            "start_date": "2025-09-05",
-            "end_date": "2025-09-05",
-            "description": "Id-e-Milad (Birthday of Prophet Mohammad)."
-          },
-          {
-            "start_date": "2025-09-15",
-            "end_date": "2025-09-15",
-            "description": "Question Paper Submission - Mid Term (Intermediate Year)."
-          },
-          {
-            "start_date": "2025-09-25",
-            "end_date": "2025-09-25",
-            "description": "Class Test/Quiz week (1st year)."
-          },
-          {
-            "start_date": "2025-09-26",
-            "end_date": "2025-09-26",
-            "description": "Last Date for Submission of Question Paper for Mid Term Odd Sem Exam 2025 (1st Year)."
-          }
-        ]
-      },
-      {
-        "month": "October 2025",
-        "events": [
-          {
-            "start_date": "2025-10-02",
-            "end_date": "2025-10-02",
-            "description": "Mahatma Gandhi Birthday."
-          },
-          {
-            "start_date": "2025-10-02",
-            "end_date": "2025-10-02",
-            "description": "Dussehra (Vijaya Dashami)."
-          },
-          {
-            "start_date": "2025-10-06",
-            "end_date": "2025-10-09",
-            "description": "Downloading of Admit Cards for Mid Term Odd Sem Exam 2025 (All including 1st Year)."
-          },
-          {
-            "start_date": "2025-10-07",
-            "end_date": "2025-10-07",
-            "description": "Question Paper Submission - Mid Term (1st Year)."
-          },
-          {
-            "start_date": "2025-10-10",
-            "end_date": "2025-10-18",
-            "description": "Mid-Term Examination - Intermediate Year (UG, Dual Degree & PG)."
-          },
-          {
-            "start_date": "2025-10-10",
-            "end_date": "2025-10-10",
-            "description": "Preparatory Leave for Mid term (1st Year)."
-          },
-          {
-            "start_date": "2025-10-11",
-            "end_date": "2025-10-17",
-            "description": "Mid-Term Examination - 1st Year (UG, Dual Degree & PG)."
-          },
-          {
-            "start_date": "2025-10-20",
-            "end_date": "2025-10-20",
-            "description": "Diwali (Deepavali)."
-          },
-          {
-            "start_date": "2025-10-27",
-            "end_date": "2025-10-31",
-            "description": "Class Test/Quiz week"
-          }
-        ]
-      },
-      {
-        "month": "November 2025",
-        "events": [
-          {
-            "start_date": "2025-11-05",
-            "end_date": "2025-11-05",
-            "description": "Guru Nanak's Birthday."
-          },
-          {
-            "start_date": "2025-11-17",
-            "end_date": "2025-11-17",
-            "description": "Question Paper Submission for End Term Odd Sem Exam 2025 (Intermediate Year-UG, PG, Dual, B.Sc, B.Ed)."
-          },
-          {
-            "start_date": "2025-11-17",
-            "end_date": "2025-11-17",
-            "description": "Debarred List Submission - End Term (Intermediate Year)."
-          },
-          {
-            "start_date": "2025-11-22",
-            "end_date": "2025-11-25",
-            "description": "Admit Card Download End Term - Intermediate Year."
-          },
-          {
-            "start_date": "2025-11-26",
-            "end_date": "2025-12-05",
-            "description": "End Term Odd Sem Exam - Intermediate Year (UG, PG, Dual, B.Sc. B.Ed)."
-          }
-        ]
-      },
-      {
-        "month": "December 2025",
-        "events": [
-          {
-            "start_date": "2025-12-02",
-            "end_date": "2025-12-02",
-            "description": "Question Paper Submission - End Term (1st Year)."
-          },
-          {
-            "start_date": "2025-12-02",
-            "end_date": "2025-12-02",
-            "description": "Debarred List Submission - End Term (1st Year)."
-          },
-          {
-            "start_date": "2025-12-04",
-            "end_date": "2025-12-07",
-            "description": "Admit Card Download End Term (1st Year)."
-          },
-          {
-            "start_date": "2025-12-08",
-            "end_date": "2025-12-16",
-            "description": "End Term Odd Sem Exam (1st Year UG, PG, Dual, B.Sc. B.Ed)."
-          },
-          {
-            "start_date": "2025-12-08",
-            "end_date": "2026-01-05",
-            "description": "Winter Vacation - (Intermediate Year student UG, Dual.)."
-          },
-          {
-            "start_date": "2025-12-17",
-            "end_date": "2025-12-17",
-            "description": "Last Date of Mark Submission (Intermediate Year-UG, PG, Dual, B.Sc, B.Ed)."
-          },
-          {
-            "start_date": "2025-12-18",
-            "end_date": "2026-01-05",
-            "description": "Winter Vacation - (1st Year student-UG, Dual)."
-          },
-          {
-            "start_date": "2025-12-22",
-            "end_date": "2025-12-22",
-            "description": "Last Date of Mark Submission (1st Year-UG, PG, Dual, B.Sc, B.Ed)."
-          },
-          {
-            "start_date": "2025-12-23",
-            "end_date": "2025-12-23",
-            "description": "Result Review and Evaluation Committee Meeting - All Years."
-          },
-          {
-            "start_date": "2025-12-24",
-            "end_date": "2025-12-24",
-            "description": "Publication of Results - All Years."
-          },
-          {
-            "start_date": "2025-12-24",
-            "end_date": "2025-12-24",
-            "description": "Examination Related Notice Circulation (if any)."
-          },
-          {
-            "start_date": "2025-12-25",
-            "end_date": "2025-12-25",
-            "description": "Christmas Day."
-          },
-          {
-            "start_date": "2025-12-26",
-            "end_date": "2025-12-29",
-            "description": "Registration for Review of Marks (End term Odd 2025), Make-up (End term Odd 2025), Supplementary 2026 (Winter), Supply for Lab (Even Sem 2026) and Parallel (Even Sem 2026)."
-          },
-          {
-            "start_date": "2025-12-26",
-            "end_date": "2026-01-05",
-            "description": "Winter Vacation (For Faculty)."
-          },
-          {
-            "start_date": "2025-12-30",
-            "end_date": "2025-12-30",
-            "description": "Circulation of List of Registered students to Departments for Review of Marks, Make-up, Supplementary, etc."
-          }
-        ]
-      },
-      {
-        "month": "January 2026",
-        "events": [
-          {
-            "start_date": "2026-01-02",
-            "end_date": "2026-01-09",
-            "description": "Supplementary 2026 (Winter) Examinations."
-          },
-          {
-            "start_date": "2026-01-05",
-            "end_date": "2026-01-05",
-            "description": "Institution Re-opens."
-          },
-          {
-            "start_date": "2026-01-07",
-            "end_date": "2026-01-09",
-            "description": "Physical Registration for students and Commencement of Class for Even Semester 2025-26."
-          },
-          {
-            "start_date": "2026-01-10",
-            "end_date": "2026-01-10",
-            "description": "NITA Global Alumni Meet, 2026."
-          },
-          {
-            "start_date": "2026-01-13",
-            "end_date": "2026-01-13",
-            "description": "Last date of Marks Submission for: Review of Marks, Make-up, Supplementary, Supply for Lab, and Parallel."
-          },
-          {
-            "start_date": "2026-01-14",
-            "end_date": "2026-01-14",
-            "description": "Results Review and Evaluation Committee Meeting."
-          },
-          {
-            "start_date": "2026-01-14",
-            "end_date": "2026-01-14",
-            "description": "Publication of Results for Review of Marks, Make-up, and Supplementary."
-          },
-          {
-            "start_date": "2026-01-17",
-            "end_date": "2026-01-17",
-            "description": "18th Convocation."
-          },
-          {
-            "start_date": "2026-01-26",
-            "end_date": "2026-01-26",
-            "description": "Republic Day."
-          }
-        ]
-      }
-    ],
-    "consolidated_schedule": [
-      {
-        "description": "Question Paper Submission - Mid Term (Intermediate Year)",
-        "date": "2025-09-15"
-      },
-      {
-        "description": "Question Paper Submission - Mid Term (1st Year)",
-        "date": "2025-10-07"
-      },
-      {
-        "description": "Admit Card Download Mid Term (ALL including 1st Year)",
-        "start_date": "2025-10-06",
-        "end_date": "2025-10-09"
-      },
-      {
-        "description": "Mid Term Examination (Intermediate Year)",
-        "start_date": "2025-10-10",
-        "end_date": "2025-10-18"
-      },
-      {
-        "description": "Preparatory Leave for Midterm - 1st Year",
-        "date": "2025-10-10"
-      },
-      {
-        "description": "Mid Term Examination (1st Year)",
-        "start_date": "2025-10-11",
-        "end_date": "2025-10-17"
-      },
-      {
-        "description": "Question Paper Submission - End Term (Intermediate Year)",
-        "date": "2025-11-17"
-      },
-      {
-        "description": "Debarr List Submission - End Term (Intermediate Year)",
-        "date": "2025-11-17"
-      },
-      {
-        "description": "Admit Card Download End Term (Intermediate Year)",
-        "start_date": "2025-11-22",
-        "end_date": "2025-11-25"
-      },
-      {
-        "description": "End Term Examination (Intermediate Year)",
-        "start_date": "2025-11-26",
-        "end_date": "2025-12-05"
-      },
-      {
-        "description": "Question Paper Submission - End Term (1st Year)",
-        "date": "2025-12-02"
-      },
-      {
-        "description": "Debarr List Submission - End Term (1st Year)",
-        "date": "2025-12-02"
-      },
-      {
-        "description": "Admit Card Download End Term (1st Year)",
-        "start_date": "2025-12-04",
-        "end_date": "2025-12-07"
-      },
-      {
-        "description": "End Term Examination (1st Year)",
-        "start_date": "2025-12-08",
-        "end_date": "2025-12-16"
-      },
-      {
-        "description": "Last date of Marks Submission (Intermediate Year)",
-        "date": "2025-12-17"
-      },
-      {
-        "description": "Last date of Marks Submission (1st Year)",
-        "date": "2025-12-22"
-      },
-      {
-        "description": "Results Review and Evaluation Committee Meeting - All Years",
-        "date": "2025-12-23"
-      },
-      {
-        "description": "Publication of Results - All Years",
-        "date": "2025-12-24"
-      },
-      {
-        "description": "Examination Related Notice Circulation (if any)",
-        "date": "2025-12-24"
-      },
-      {
-        "description": "Registration for Review of Marks (End term Odd 2025); Make-up (End term Odd 2025); Supplementary 2026 (Winter); Supply for Lab (Even Sem 2026) and Parallel (Even Sem 2026)",
-        "start_date": "2025-12-26",
-        "end_date": "2025-12-29"
-      },
-      {
-        "description": "Circulation of List of Registered students to departments for various exams",
-        "date": "2025-12-30"
-      },
-      {
-        "description": "Institution Re-opens",
-        "date": "2026-01-05"
-      },
-      {
-        "description": "Supplementary 2026 (Winter) Examination",
-        "start_date": "2026-01-02",
-        "end_date": "2026-01-09"
-      },
-      {
-        "description": "Commencement of Class for Even Semester 2025-26",
-        "date": "2026-01-07"
-      },
-      {
-        "description": "Last date of Marks Submission for various exams",
-        "date": "2026-01-13"
-      },
-      {
-        "description": "Results Review and Evaluation Committee Meeting",
-        "date": "2026-01-14"
-      },
-      {
-        "description": "Publication of Results for various exams",
-        "date": "2026-01-14"
-      },
-      {
-        "description": "18th Convocation",
-        "date": "2026-01-17"
-      }
-    ],
-    "source_url":"https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf"
-  }
+  "institution": "NATIONAL INSTITUTE OF TECHNOLOGY AGARTALA",
+  "academic_year": "2025-26",
+  "semester": "Odd Semester",
+  "source_url": "https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf",
+  "all_events": [
+    {
+      "description": "Registration for Supplementary (Summer), Improvement-2025 Examination.",
+      "start_date": "2025-07-01",
+      "end_date": "2025-07-11"
+    },
+    {
+      "description": "Last Date of Submission of grade to the Associate Dean (Exam) for B.Sc-B.ED(2nd sem).",
+      "start_date": "2025-07-04",
+      "end_date": "2025-07-04"
+    },
+    {
+      "description": "Admit and Exam related Notice circulation.",
+      "start_date": "2025-07-07",
+      "end_date": "2025-07-07"
+    },
+    {
+      "description": "Result Evaluation Committee Meeting for B.Sc B.Ed.",
+      "start_date": "2025-07-09",
+      "end_date": "2025-07-09"
+    },
+    {
+      "description": "Publication of Result for B.Sc-B.ED(2nd sem).",
+      "start_date": "2025-07-10",
+      "end_date": "2025-07-10"
+    },
+    {
+      "description": "Registration for Supplementary (Summer), Improvement-2025 Examination - Ends.",
+      "start_date": "2025-07-11",
+      "end_date": "2025-07-11"
+    },
+    {
+      "description": "Summer Vacation (for faculty) Ends.",
+      "start_date": "2025-07-18",
+      "end_date": "2025-07-18"
+    },
+    {
+      "description": "Institute Re-open (For Students).",
+      "start_date": "2025-07-25",
+      "end_date": "2025-07-25"
+    },
+    {
+      "description": "Physical Registration - Intermediate Year.",
+      "start_date": "2025-07-25",
+      "end_date": "2025-07-28"
+    },
+    {
+      "description": "Summer Vacation (For B.Sc B.Ed 2nd sem. Students)-Ends.",
+      "start_date": "2025-07-25",
+      "end_date": "2025-07-25"
+    },
+    {
+      "description": "Supplementary (Summer)-2025, Improvement-2025",
+      "start_date": "2025-07-26",
+      "end_date": "2025-08-04"
+    },
+    {
+      "description": "Last date of submission of marks for: Supplementary (Summer), Review of marks (End Term Even-2025), Make-Up Examination(End-Term Even-2025), Improvement-2025.",
+      "start_date": "2025-08-08",
+      "end_date": "2025-08-08"
+    },
+    {
+      "description": "Result Evaluation Committee Meeting.",
+      "start_date": "2025-08-11",
+      "end_date": "2025-08-11"
+    },
+    {
+      "description": "Publication of result: Supplementary (Summer).",
+      "start_date": "2025-08-13",
+      "end_date": "2025-08-13"
+    },
+    {
+      "description": "Independence Day.",
+      "start_date": "2025-08-15",
+      "end_date": "2025-08-15"
+    },
+    {
+      "description": "Commencement of 1st semester classes (UG & PG) (tentative).",
+      "start_date": "2025-08-18",
+      "end_date": "2025-08-18"
+    },
+    {
+      "description": "Publication of results for: Review of marks (End-Term Even-2025), Make-Up Examination (End-Term Even-2025), Improvement-2025.",
+      "start_date": "2025-08-18",
+      "end_date": "2025-08-18"
+    },
+    {
+      "description": "Ganesh Chaturthi (Restricted holiday will be observed as closed holiday).",
+      "start_date": "2025-08-27",
+      "end_date": "2025-08-27"
+    },
+    {
+      "description": "Class Test/Quiz week (Intermediate-UG, Dual Degree & PG).",
+      "start_date": "2025-08-25",
+      "end_date": "2025-08-29"
+    },
+    {
+      "description": "Id-e-Milad (Birthday of Prophet Mohammad).",
+      "start_date": "2025-09-05",
+      "end_date": "2025-09-05"
+    },
+    {
+      "description": "Question Paper Submission - Mid Term (Intermediate Year).",
+      "start_date": "2025-09-15",
+      "end_date": "2025-09-15"
+    },
+    {
+      "description": "Class Test/Quiz week (1st year).",
+      "start_date": "2025-09-25",
+      "end_date": "2025-09-25"
+    },
+    {
+      "description": "Last Date for Submission of Question Paper for Mid Term Odd Sem Exam 2025 (1st Year).",
+      "start_date": "2025-09-26",
+      "end_date": "2025-09-26"
+    },
+    {
+      "description": "Mahatma Gandhi Birthday.",
+      "start_date": "2025-10-02",
+      "end_date": "2025-10-02"
+    },
+    {
+      "description": "Dussehra (Vijaya Dashami).",
+      "start_date": "2025-10-02",
+      "end_date": "2025-10-02"
+    },
+    {
+      "description": "Downloading of Admit Cards for Mid Term Odd Sem Exam 2025 (All including 1st Year).",
+      "start_date": "2025-10-06",
+      "end_date": "2025-10-09"
+    },
+    {
+      "description": "Question Paper Submission - Mid Term (1st Year).",
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-07"
+    },
+    {
+      "description": "Mid-Term Examination - Intermediate Year (UG, Dual Degree & PG).",
+      "start_date": "2025-10-10",
+      "end_date": "2025-10-18"
+    },
+    {
+      "description": "Preparatory Leave for Mid term (1st Year).",
+      "start_date": "2025-10-10",
+      "end_date": "2025-10-10"
+    },
+    {
+      "description": "Mid-Term Examination - 1st Year (UG, Dual Degree & PG).",
+      "start_date": "2025-10-11",
+      "end_date": "2025-10-17"
+    },
+    {
+      "description": "Diwali (Deepavali).",
+      "start_date": "2025-10-20",
+      "end_date": "2025-10-20"
+    },
+    {
+      "description": "Class Test/Quiz week",
+      "start_date": "2025-10-27",
+      "end_date": "2025-10-31"
+    },
+    {
+      "description": "Guru Nanak's Birthday.",
+      "start_date": "2025-11-05",
+      "end_date": "2025-11-05"
+    },
+    {
+      "description": "Question Paper Submission for End Term Odd Sem Exam 2025 (Intermediate Year-UG, PG, Dual, B.Sc, B.Ed).",
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-17"
+    },
+    {
+      "description": "Debarred List Submission - End Term (Intermediate Year).",
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-17"
+    },
+    {
+      "description": "Admit Card Download End Term - Intermediate Year.",
+      "start_date": "2025-11-22",
+      "end_date": "2025-11-25"
+    },
+    {
+      "description": "End Term Odd Sem Exam - Intermediate Year (UG, PG, Dual, B.Sc. B.Ed).",
+      "start_date": "2025-11-26",
+      "end_date": "2025-12-05"
+    },
+    {
+      "description": "Question Paper Submission - End Term (1st Year).",
+      "start_date": "2025-12-02",
+      "end_date": "2025-12-02"
+    },
+    {
+      "description": "Debarred List Submission - End Term (1st Year).",
+      "start_date": "2025-12-02",
+      "end_date": "2025-12-02"
+    },
+    {
+      "description": "Admit Card Download End Term (1st Year).",
+      "start_date": "2025-12-04",
+      "end_date": "2025-12-07"
+    },
+    {
+      "description": "End Term Odd Sem Exam (1st Year UG, PG, Dual, B.Sc. B.Ed).",
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-16"
+    },
+    {
+      "description": "Winter Vacation - (Intermediate Year student UG, Dual.).",
+      "start_date": "2025-12-08",
+      "end_date": "2026-01-05"
+    },
+    {
+      "description": "Last Date of Mark Submission (Intermediate Year-UG, PG, Dual, B.Sc, B.Ed).",
+      "start_date": "2025-12-17",
+      "end_date": "2025-12-17"
+    },
+    {
+      "description": "Winter Vacation - (1st Year student-UG, Dual).",
+      "start_date": "2025-12-18",
+      "end_date": "2026-01-05"
+    },
+    {
+      "description": "Last Date of Mark Submission (1st Year-UG, PG, Dual, B.Sc, B.Ed).",
+      "start_date": "2025-12-22",
+      "end_date": "2025-12-22"
+    },
+    {
+      "description": "Result Review and Evaluation Committee Meeting - All Years.",
+      "start_date": "2025-12-23",
+      "end_date": "2025-12-23"
+    },
+    {
+      "description": "Publication of Results - All Years.",
+      "start_date": "2025-12-24",
+      "end_date": "2025-12-24"
+    },
+    {
+      "description": "Examination Related Notice Circulation (if any).",
+      "start_date": "2025-12-24",
+      "end_date": "2025-12-24"
+    },
+    {
+      "description": "Christmas Day.",
+      "start_date": "2025-12-25",
+      "end_date": "2025-12-25"
+    },
+    {
+      "description": "Registration for Review of Marks (End term Odd 2025), Make-up (End term Odd 2025), Supplementary 2026 (Winter), Supply for Lab (Even Sem 2026) and Parallel (Even Sem 2E26).",
+      "start_date": "2025-12-26",
+      "end_date": "2025-12-29"
+    },
+    {
+      "description": "Winter Vacation (For Faculty).",
+      "start_date": "2025-12-26",
+      "end_date": "2026-01-05"
+    },
+    {
+      "description": "Circulation of List of Registered students to Departments for Review of Marks, Make-up, Supplementary, etc.",
+      "start_date": "2Z025-12-30",
+      "end_date": "2025-12-30"
+    },
+    {
+      "description": "Supplementary 2026 (Winter) Examinations.",
+      "start_date": "2026-01-02",
+      "end_date": "2026-01-09"
+    },
+    {
+      "description": "Institution Re-opens.",
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-05"
+    },
+    {
+      "description": "Physical Registration for students and Commencement of Class for Even Semester 2025-26.",
+      "start_date": "2026-01-07",
+      "end_date": "2026-01-09"
+    },
+    {
+      "description": "NITA Global Alumni Meet, 2026.",
+      "start_date": "2026-01-10",
+      "end_date": "2026-01-10"
+    },
+    {
+      "description": "Last date of Marks Submission for: Review of Marks, Make-up, Supplementary, Supply for Lab, and Parallel.",
+      "start_date": "2026-01-13",
+      "end_date": "2026-01-13"
+    },
+    {
+      "description": "Results Review and Evaluation Committee Meeting.",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-14"
+    },
+    {
+      "description": "Publication of Results for Review of Marks, Make-up, and Supplementary.",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-14"
+    },
+    {
+      "description": "18th Convocation.",
+      "start_date": "2026-01-17",
+      "end_date": "2026-01-17"
+    },
+    {
+      "description": "Republic Day.",
+      "start_date": "2R026-01-26",
+      "end_date": "2026-01-26"
+    },
+    {
+      "description": "Question Paper Submission - Mid Term (Intermediate Year)",
+      "start_date": "2025-09-15",
+      "end_date": "2025-09-15"
+    },
+    {
+      "description": "Question Paper Submission - Mid Term (1st Year)",
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-07"
+    },
+    {
+      "description": "Admit Card Download Mid Term (ALL including 1st Year)",
+      "start_date": "2025-10-06",
+      "end_date": "2025-10-09"
+    },
+    {
+      "description": "Mid Term Examination (Intermediate Year)",
+      "start_date": "2025-10-10",
+      "end_date": "2025-10-18"
+    },
+    {
+      "description": "Preparatory Leave for Midterm - 1st Year",
+      "start_date": "2025-10-10",
+      "end_date": "2025-10-10"
+    },
+    {
+      "description": "Mid Term Examination (1st Year)",
+      "start_date": "2025-10-11",
+      "end_date": "2025-10-17"
+    },
+    {
+      "description": "Question Paper Submission - End Term (Intermediate Year)",
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-17"
+    },
+    {
+      "description": "Debarr List Submission - End Term (Intermediate Year)",
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-17"
+    },
+    {
+      "description": "Admit Card Download End Term (Intermediate Year)",
+      "start_date": "2025-11-22",
+      "end_date": "2025-11-25"
+    },
+    {
+      "description": "End Term Examination (Intermediate Year)",
+      "start_date": "2025-11-26",
+      "end_date": "2025-12-05"
+    },
+    {
+      "description": "Question Paper Submission - End Term (1st Year)",
+      "start_date": "2025-12-02",
+      "end_date": "2025-12-02"
+    },
+    {
+      "description": "Debarr List Submission - End Term (1st Year)",
+      "start_date": "2025-12-02",
+      "end_date": "2025-12-02"
+    },
+    {
+      "description": "Admit Card Download End Term (1st Year)",
+      "start_date": "2025-12-04",
+      "end_date": "2025-12-07"
+    },
+    {
+      "description": "End Term Examination (1st Year)",
+      "start_date": "2025-12-08",
+      "end_date": "2025-12-16"
+    },
+    {
+      "description": "Last date of Marks Submission (Intermediate Year)",
+      "start_date": "2025-12-17",
+      "end_date": "2025-12-17"
+    },
+    {
+      "description": "Last date of Marks Submission (1st Year)",
+      "start_date": "2025-12-22",
+      "end_date": "2025-12-22"
+    },
+    {
+      "description": "Results Review and Evaluation Committee Meeting - All Years",
+      "start_date": "2025-12-23",
+      "end_date": "2025-12-23"
+    },
+    {
+      "description": "Publication of Results - All Years",
+      "start_date": "2025-12-24",
+      "end_date": "2025-12-24"
+    },
+    {
+      "description": "Examination Related Notice Circulation (if any)",
+      "start_date": "2025-12-24",
+      "end_date": "2025-12-24"
+    },
+    {
+      "description": "Registration for Review of Marks (End term Odd 2025); Make-up (End term Odd 2025); Supplementary 2026 (Winter); Supply for Lab (Even Sem 2026) and Parallel (Even Sem 2026)",
+      "start_date": "2025-12-26",
+      "end_date": "2025-12-29"
+    },
+    {
+      "description": "Circulation of List of Registered students to departments for various exams",
+      "start_date": "2025-12-30",
+      "end_date": "2025-12-30"
+    },
+    {
+      "description": "Institution Re-opens",
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-05"
+    },
+    {
+      "description": "Supplementary 2026 (Winter) Examination",
+      "start_date": "2026-01-02",
+      "end_date": "2026-01-09"
+    },
+    {
+      "description": "Commencement of Class for Even Semester 2025-26",
+      "start_date": "2026-01-07",
+      "end_date": "2026-01-07"
+    },
+    {
+      "description": "Last date of Marks Submission for various exams",
+      "start_date": "2026-01-13",
+      "end_date": "2026-01-13"
+    },
+    {
+      "description": "Results Review and Evaluation Committee Meeting",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-14"
+    },
+    {
+      "description": "Publication of Results for various exams",
+      "start_date": "2026-01-14",
+      "end_date": "2026-01-14"
+    },
+    {
+      "description": "18th Convocation",
+      "start_date": "2026-01-17",
+      "end_date": "2026-01-17"
+    }
+  ]
+}

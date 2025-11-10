@@ -42,5 +42,21 @@
           "notification",
           "academic calendar"
         ]
+      },
+      "pdf4":{
+        "id": "pdf_4297",
+        "url": "https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf",
+        "title": "NIT Agartala Academic Calendar for Odd Semester 2025-26",
+        "description": "This document provides the detailed academic calendar for the Odd Semester of the 2025-26 academic year at the National Institute of Technology Agartala. It outlines all key dates from July 2025 to January 2026, including registration periods, examination schedules (mid-term, end-term, supplementary), holidays, vacation periods, result publication dates, and other significant academic events like the convocation and alumni meet.",
+        "keywords": [
+          "academic calendar",
+          "2025-26",
+          "odd semester",
+          "nit agartala",
+          "examination schedule",
+          "registration dates",
+          "holidays",
+          "important dates"
+        ]
       }
 }
