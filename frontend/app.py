@@ -11,8 +11,9 @@ load_dotenv()
 
 # ---- Config ---- #
 JSON_DIR = "data/processed/webpages/json"
+JSON_DIR2 = "data/processed/pdfs/json_pdf"
 TEXT_DIR = "data/processed/webpages/txt"
-COLLECTION_NAME = "department_json_embeddings_5"
+COLLECTION_NAME = "test_maybe_final2"
 COLLECTION_NAME_TXT = "txt_embeddings"
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
@@ -71,11 +72,18 @@ def init_vectorstore():
     # if not json_data:
     #     st.stop() # Stop execution if no data is loaded
     # return process_json_data_with_embeddings(json_data, COLLECTION_NAME)
-    # json_data = load_json_files(JSON_DIR)
-    # with open("data/processed/webpages/metadata/metadata.json", "r") as f:
-    #     metadata_json = json.loads(f.read())
+
+    json_data = load_json_files(JSON_DIR)
+    with open("data/processed/webpages/metadata/metadata.json", "r") as f:
+        metadata_json = json.loads(f.read())
     
-    # return process_json_data_with_embeddings(json_data, metadata_json, COLLECTION_NAME)
+    process_json_data_with_embeddings(json_data, metadata_json, COLLECTION_NAME)
+
+    json_data2 = load_json_files(JSON_DIR2)
+    with open("data/processed/pdfs/metadata.json", "r") as f:
+        metadata_json2 = json.loads(f.read())
+    
+    process_json_data_with_embeddings(json_data2, metadata_json2, COLLECTION_NAME)
 
     return get_vstore(COLLECTION_NAME) 
 
@@ -167,7 +175,7 @@ with st.sidebar:
     # To add a logo, place an image file in your project directory
     # and uncomment the line below.
     st.image(logo_img, width=100)
-    st.markdown("## National Institute of Technology, Agartala")
+    st.markdown("## National Institute of Technology Agartala")
     st.markdown("---")
     st.markdown("""
     **About this App:**
@@ -177,6 +185,7 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("Developed by Team 001")
+    st.markdown("Project Supervisor: Dr. Awnish Kumar")
 
 
 # --- Main Page ---

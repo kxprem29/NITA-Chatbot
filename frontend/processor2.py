@@ -38,7 +38,7 @@ def get_vstore(collection_name: str) -> AstraDBVectorStore:
 #     vstore_json = get_vstore(collection_name)
 #     vstore_json.add_documents(docs)
 
-#     print(f"✅ Vector store '{collection_name}' created with {len(docs)} docs.")
+#     print(f" Vector store '{collection_name}' created with {len(docs)} docs.")
 #     return vstore_json
 
 def process_json_data_with_embeddings(json_list, metadata_dict, collection_name):
@@ -79,7 +79,7 @@ def process_json_data_with_embeddings(json_list, metadata_dict, collection_name)
             print(f"Error splitting or adding documents for {file_name}: {e}")
 
 
-    print(f"✅ Vector store '{collection_name}' updated with JSON data.")
+    print(f" Vector store '{collection_name}' updated with JSON data.")
     return vstore_json
 
 
@@ -95,19 +95,85 @@ def process_text_data_with_embeddings(txt_list, collection_name):
         vstore_txt.add_documents([doc])
         print("Added doc", count)
 
-    print(f"✅ Vector store '{collection_name}' created with {len(docs)} docs.")
+    print(f" Vector store '{collection_name}' created with {len(docs)} docs.")
     return vstore_txt
 
 
 def query_json_vstore_with_gemini(query: str, vstore_json: AstraDBVectorStore, google_api_key: str) -> str:
     llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=google_api_key)
-    template = """You are an AI assistant. 
-Provide the answer in markdown format.
-Answer the question based only on the following context:
-{context}
+#     template = """You are an AI assistant. 
+# Provide the answer in markdown format.
+# Answer the question based only on the following context:
+# {context}
 
-Question: {question}, not in json formatted string
+# Question: {question}, not in json formatted string
+# """
+    
+#     template = """You are a helpful and precise AI assistant for a chatbot. Your task is to answer the user's question based *strictly* on the provided context.
+
+# Follow these rules:
+# 1.  Provide the answer in clear, easy-to-read markdown.
+# 2.  Base your answer *only* on the text within the "CONTEXT" section. Do not use any external knowledge.
+# 3.  **If the answer to the question cannot be found in the CONTEXT, you *must* state: "I am sorry, but I do not have enough information in the provided context to answer that question."**
+# 4.  Do not output a JSON formatted string. Provide a natural language response.
+# 5.  **Handling Conflicting Information:** If the CONTEXT contains conflicting answers to the same question (e.g., multiple different names for the same job title), you must **prioritize the most current or relevant information**. Do *not* list the outdated or old information, as this is confusing. Provide only the single, most correct answer.
+
+# ---
+# CONTEXT:
+# {context}
+# ---
+
+# QUESTION:
+# {question}
+# ---
+
+# ANSWER:
+# """
+    
+
+    # -------------------------------------------------------------------------
+    # NEW: Define the Query Rewriting Chain (Solution 1)
+    # -------------------------------------------------------------------------
+    rewrite_template = """You are a query optimization assistant. Your task is to rewrite the user's query into a more semantically rich and clear question for a vector database search.
+- Do not answer the question.
+- Just output the rewritten question.
+
+Original Query: {query}
 """
+    rewrite_prompt = ChatPromptTemplate.from_template(rewrite_template)
+    
+    # This chain will take a string query, pass it to the prompt,
+    # get the rewritten query from the LLM, and output it as a string.
+    rewrite_chain = (
+        {"query": RunnablePassthrough()} 
+        | rewrite_prompt 
+        | llm 
+        | StrOutputParser()
+    )
+
+    template = """You are the official "NITA Helper Bot," an AI assistant for the National Institute of Technology, Agartala. Your tone should be professional, helpful, and polite. Your primary goal is to provide accurate answers to students and faculty based *only* on the provided official documents.
+
+Follow these rules:
+1.  Provide the answer in clear, easy-to-read markdown.
+2.  Base your answer *only* on the text within the "CONTEXT" section. Do not use any external knowledge.
+3.  **If the answer to the question cannot be found in the CONTEXT, you *must* state: "I am sorry, but I do not have enough information in the provided context to answer that question."**
+4.  Do not output a JSON formatted string. Provide a natural language response.
+5.  **Handling Conflicting Information:** If the CONTEXT contains conflicting answers to the same question (e.g., multiple names for the same job title), you must **prioritize the most current or relevant information**. Do *not* list the outdated or old information. Provide only the single, most correct answer.
+6.  **Synthesize Information:** If the answer requires information from multiple parts of the context, combine them into a single, smooth, and easy-to-read answer. Do not just list the raw context snippets. If the question asks for steps, format the answer as a numbered list.
+7.  **Use Quotes Strategically:** When answering with general information, paraphrase the context. When the question is for a specific, critical piece of data (like a policy number, an official title, or a specific deadline), you can use a markdown blockquote (>) to cite the relevant snippet *after* giving the direct answer.
+
+---
+CONTEXT:
+{context}
+---
+
+QUESTION:
+{question}
+---
+
+ANSWER:
+"""
+
     prompt = ChatPromptTemplate.from_template(template)
 
     # Set up the retriever
@@ -115,7 +181,10 @@ Question: {question}, not in json formatted string
 
 # Create the RAG chain
     rag_chain = (
-        {"context": retriever, "question": RunnablePassthrough()}
+        {
+            # "context": retriever, 
+            "context": rewrite_chain | retriever,
+         "question": RunnablePassthrough()}
         | prompt
         | llm
         | StrOutputParser()

@@ -1,0 +1,62 @@
+{
+    "pdf1":{
+        "id": "pdf_1",
+        "url": "https://nita.ac.in/Admission_Notice/Accommodation_UG_Aug25.pdf",
+        "title": "Admission Notice Accommodation Undergraduate Aug25",
+        "description": "This document provides information regarding the Admission Notice Accommodation Undergraduate Aug25. Please refer to the document for specific details.",
+        "keywords": [
+            "admission",
+            "notice",
+            "accommodation",
+            "ug",
+            "aug25"
+        ]
+    },
+    "pdf2":{
+        "id": "pdf_4295",
+        "url": "https://www.nita.ac.in/Admission_Notice/SectionCoordinators_2025-26.pdf",
+        "title": "NIT Agartala First Year UG & Dual Degree Programme Coordinators List (2025-26)",
+        "description": "This notice from the Dean of Academics at NIT Agartala, dated March 25, 2025, provides a comprehensive list of coordinators for the first-year Undergraduate (UG) and Dual Degree programs. It includes contact details for the main First Year Coordinator, Co-coordinator, and individual Section Coordinators (Sections A-L and X). Students are advised to contact their designated coordinators for all academic-related matters.",
+        "keywords": [
+          "coordinators",
+          "first year",
+          "ug programme",
+          "dual degree",
+          "section coordinators",
+          "nit agartala",
+          "contact list",
+          "academic notice"
+        ]
+    },
+    "pdf3":{
+        "id": "pdf_4296",
+        "url": "https://www.nita.ac.in/uploaded_files/Holidays_July2025-June26.pdf",
+        "title": "NIT Agartala Holiday List for the Academic Year 2025-26",
+        "description": "This notification, issued by the Registrar of NIT Agartala on August 5, 2025, details the official list of holidays for the academic year spanning July 2025 to June 2026. It includes specific dates for national and festival holidays, a dedicated period for Puja holidays, and lists restricted holidays. The declaration of holidays for Garia Puja and Kharchi Puja is pending the state government's list. The notice also states that four Saturdays will be working days to compensate for academic losses.",
+        "keywords": [
+          "holiday list",
+          "academic year 2025-26",
+          "nit agartala",
+          "puja holidays",
+          "official holidays",
+          "notification",
+          "academic calendar"
+        ]
+      },
+      "pdf4":{
+        "id": "pdf_4297",
+        "url": "https://www.nita.ac.in/uploaded_files/AcademicCalendar_2025-26.pdf",
+        "title": "NIT Agartala Academic Calendar for Odd Semester 2025-26",
+        "description": "This document provides the detailed academic calendar for the Odd Semester of the 2025-26 academic year at the National Institute of Technology Agartala. It outlines all key dates from July 2025 to January 2026, including registration periods, examination schedules (mid-term, end-term, supplementary), holidays, vacation periods, result publication dates, and other significant academic events like the convocation and alumni meet.",
+        "keywords": [
+          "academic calendar",
+          "2025-26",
+          "odd semester",
+          "nit agartala",
+          "examination schedule",
+          "registration dates",
+          "holidays",
+          "important dates"
+        ]
+      }
+}
